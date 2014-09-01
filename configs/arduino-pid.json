@@ -1,0 +1,11 @@
+{
+  "name": "Arduino-PID",
+  "keywords": "pid, integral, controller",
+  "description": "A proportional-integral-derivative controller (PID controller) is a control loop feedback mechanism (controller) widely used in industrial control systems.",
+  "include": "PID_v1",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/br3ttb/Arduino-PID-Library.git"
+  }
+}

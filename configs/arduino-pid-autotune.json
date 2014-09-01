@@ -1,0 +1,11 @@
+{
+  "name": "Arduino-PID-AutoTune",
+  "keywords": "pid, integral, controller, autotune",
+  "description": "A proportional-integral-derivative controller (PID controller) is a control loop feedback mechanism (controller) widely used in industrial control systems.",
+  "include": "PID_AutoTune_v0",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/br3ttb/Arduino-PID-AutoTune-Library.git"
+  }
+}
