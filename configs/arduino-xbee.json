@@ -1,0 +1,22 @@
+{
+  "name": "Arduino-XBee",
+  "keywords": "xbee, protocol, radio",
+  "description": "Arduino library for communicating with XBees in API mode",
+  "author":
+  {
+    "name": "Andrew Rapp",
+    "email": "andrew.rapp@gmail.com",
+    "url": "https://code.google.com/u/andrew.rapp@gmail.com/"
+  },
+  "version": "0.5",
+  "downloadUrl": "https://xbee-arduino.googlecode.com/archive/b1c58a071da63586854a938ba845cebb60f63031.zip",
+  "include": "xbee-arduino-b1c58a071da6",
+  "exclude":
+  [
+    "*/.project",
+    "*/build.xml",
+    "*/docs",
+    "*/Doxyfile",
+    "*/doxygen-docs.sh"
+  ]
+ }
