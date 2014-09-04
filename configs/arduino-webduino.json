@@ -1,10 +1,16 @@
 {
   "name": "Arduino-Webduino",
-  "keywords": "http, web, server, json, rest, ethernet",
-  "description": "An extensible web server library for the Arduino using the Wiznet-based Ethernet shields",
+  "keywords": "http, web, server, json, rest, ethernet, wiznet, shield",
+  "description": "An extensible web server library (for use with the Arduino Ethernet Shield)",
+  "author":
+  {
+    "name": "Ben Combee",
+    "email": "ben.combee@gmail.com",
+    "url": "https://code.google.com/u/ben.combee/"
+  },
   "repository":
   {
     "type": "git",
-    "url": "hhttps://github.com/sirleech/Webduino.git"
+    "url": "https://github.com/sirleech/Webduino.git"
   }
 }
