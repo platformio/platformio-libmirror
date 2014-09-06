@@ -1,7 +1,7 @@
 {
   "name": "Arduino-OneWire",
-  "keywords": "onewire, 1-wire, bus, sensor, temperature, ibutton, prom, ds18s20, ds18b20, ds2408",
-  "description": "Control devices (from Dallas Semiconductor) that use the One Wire protocol",
+  "keywords": "onewire, 1-wire, bus, sensor, temperature, ibutton",
+  "description": "Control devices (from Dallas Semiconductor) that use the One Wire protocol (DS18S20, DS18B20, DS2408 and etc)",
   "author":
   {
     "name": "Paul Stoffregen",
