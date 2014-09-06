@@ -1,0 +1,11 @@
+{
+  "name": "Adafruit-Arduino-TFT-LCD",
+  "keywords": "display, tft, graphics, lcd, spi",
+  "description": "Arduino library for 8-bit TFT LCDs such as ILI9325, ILI9328, etc",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/adafruit/TFTLCD-Library.git"
+  },
+  "exclude": "bitmaps"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Adafruit-Arduino-LED-Backpack",
+  "keywords": "led, matrix, graphics, i2c",
+  "description": "Adafruit LED Backpack Library for our 8x8 matrix and 7-segment LED backpacks",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/adafruit/Adafruit-LED-Backpack-Library.git"
+  },
+  "dependencies":
+  [
+    "Adafruit-Arduino-GFX"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Adafruit-Arduino-HX8357",
+  "keywords": "display, tft, graphics, spi",
+  "description": "A library for the Adafruit HX8357 SPI display",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/adafruit/Adafruit_HX8357_Library.git"
+  },
+  "dependencies":
+  [
+    "Adafruit-Arduino-GFX"
+  ]
+}

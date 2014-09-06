@@ -1,0 +1,10 @@
+{
+  "name": "Adafruit-Arduino-L3GD20",
+  "keywords": "sensor, gyroscope, i2c, spi",
+  "description": "Driver for Adafruit's L3GD20 I2C Gyroscope Breakout",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/adafruit/Adafruit_L3GD20.git"
+  }
+}

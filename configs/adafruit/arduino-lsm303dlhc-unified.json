@@ -1,0 +1,14 @@
+{
+  "name": "Adafruit-Arduino-LSM303DLHC-Unified",
+  "keywords": "sensor, accelerometer, magnetometer, compass, i2c, unified",
+  "description": "Unified sensor driver for Adafruit's LSM303 Breakout (Accelerometer + Magnetometer)",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/adafruit/Adafruit_LSM303DLHC.git"
+  },
+  "dependencies":
+  [
+    "Adafruit-Arduino-Unified-Sensor"
+  ]
+}

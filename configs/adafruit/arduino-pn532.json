@@ -1,0 +1,10 @@
+{
+  "name": "Adafruit-Arduino-PN532",
+  "keywords": "rfid, spi",
+  "description": "Arduino library for SPI access to the PN532 RFID/Near Field Communication chip",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/adafruit/Adafruit-PN532.git"
+  }
+}

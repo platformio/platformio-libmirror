@@ -1,0 +1,14 @@
+{
+  "name": "Adafruit-Arduino-L3GD20-Unified",
+  "keywords": "sensor, gyroscope, i2c, spi, unified",
+  "description": "Unified sensor driver for the L3GD20 Gyroscope",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/adafruit/Adafruit_L3GD20_U.git"
+  },
+  "dependencies":
+  [
+    "Adafruit-Arduino-Unified-Sensor"
+  ]
+}

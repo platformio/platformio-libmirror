@@ -1,0 +1,14 @@
+{
+  "name": "Adafruit-Arduino-ADXL345-Unified",
+  "keywords": "sensor, accelerometer, i2c, spi, unified",
+  "description": "Unified driver for the ADXL345 Accelerometer",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/adafruit/Adafruit_ADXL345.git"
+  },
+  "dependencies":
+  [
+    "Adafruit-Arduino-Unified-Sensor"
+  ]
+}

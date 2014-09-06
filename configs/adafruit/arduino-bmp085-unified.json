@@ -1,0 +1,14 @@
+{
+  "name": "Adafruit-Arduino-BMP085-Unified",
+  "keywords": "sensor, barometric, pressure, temperature, altitude, altimeter, i2c, unified",
+  "description": "Unified sensor driver for Adafruit's BMP085 & BMP180 breakouts (Barometric Pressure Sensor)",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/adafruit/Adafruit_BMP085_Unified.git"
+  },
+  "dependencies":
+  [
+    "Adafruit-Arduino-Unified-Sensor"
+  ]
+}
