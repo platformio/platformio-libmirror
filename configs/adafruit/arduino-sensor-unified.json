@@ -1,10 +1,12 @@
 {
-  "name": "Adafruit-Arduino-Unified-Sensor",
+  "name": "Adafruit-Unified-Sensor",
   "keywords": "sensor, driver, unified",
   "description": "Adafruit Unified Sensor Driver",
   "repository":
   {
     "type": "git",
     "url": "https://github.com/adafruit/Adafruit_Sensor.git"
-  }
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
 }

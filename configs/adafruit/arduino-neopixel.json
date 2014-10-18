@@ -1,10 +1,12 @@
 {
-  "name": "Adafruit-Arduino-NeoPixel",
+  "name": "Adafruit-NeoPixel",
   "keywords": "led, strip",
   "description": "Arduino library for controlling single-wire-based LED pixels and strip",
   "repository":
   {
     "type": "git",
     "url": "https://github.com/adafruit/Adafruit_NeoPixel.git"
-  }
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
 }

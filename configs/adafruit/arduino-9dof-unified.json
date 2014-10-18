@@ -1,5 +1,5 @@
 {
-  "name": "Adafruit-Arduino-9DOF-Unified",
+  "name": "Adafruit-9DOF-Unified",
   "keywords": "sensor, gyroscope, accelerometer, magnetometer, compass, i2c, spi, unified",
   "description": "Unified sensor driver for the Adafruit 9DOF Breakout (L3GD20 / LSM303)",
   "repository":
@@ -10,8 +10,19 @@
   "exclude": "ahrs",
   "dependencies":
   [
-    "Adafruit-Arduino-Unified-Sensor",
-    "Adafruit-Arduino-L3GD20-Unified",
-    "Adafruit-Arduino-LSM303DLHC-Unified"
-  ]
+    {
+      "name": "Adafruit-Unified-Sensor",
+      "frameworks": "arduino"
+    },
+    {
+      "name": "Adafruit-L3GD20-Unified",
+      "frameworks": "arduino"
+    },
+    {
+      "name": "Adafruit-LSM303DLHC-Unified",
+      "frameworks": "arduino"
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
 }

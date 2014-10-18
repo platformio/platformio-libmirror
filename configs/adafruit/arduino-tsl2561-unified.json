@@ -1,5 +1,5 @@
   {
-  "name": "Adafruit-Arduino-TSL2561-Unified",
+  "name": "Adafruit-TSL2561-Unified",
   "keywords": "sensor, light, i2c, unified",
   "description": "Unified light sensor driver for Adafruit's TSL2561 breakouts",
   "repository":
@@ -8,7 +8,10 @@
     "url": "https://github.com/adafruit/Adafruit_TSL2561.git"
   },
   "dependencies":
-  [
-    "Adafruit-Arduino-Unified-Sensor"
-  ]
+  {
+    "name": "Adafruit-Unified-Sensor",
+    "frameworks": "arduino"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
 }

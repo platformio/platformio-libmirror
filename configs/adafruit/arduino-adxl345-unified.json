@@ -1,5 +1,5 @@
 {
-  "name": "Adafruit-Arduino-ADXL345-Unified",
+  "name": "Adafruit-ADXL345-Unified",
   "keywords": "sensor, accelerometer, i2c, spi, unified",
   "description": "Unified driver for the ADXL345 Accelerometer",
   "repository":
@@ -8,7 +8,10 @@
     "url": "https://github.com/adafruit/Adafruit_ADXL345.git"
   },
   "dependencies":
-  [
-    "Adafruit-Arduino-Unified-Sensor"
-  ]
+  {
+    "name": "Adafruit-Unified-Sensor",
+    "frameworks": "arduino"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
 }
