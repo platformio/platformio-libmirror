@@ -1,8 +1,8 @@
 {
-  "name": "Arduino-nRF24",
+  "name": "nRF24",
   "keywords": "rf, radio, spi",
-  "description": "The nRF24L01 is a low-cost 2.4GHz ISM transceiver module. It supports a number of channel frequencies in the 2.4GHz band and a range of data rates.",
-  "author":
+  "description": "The nRF24L01 is a low-cost 2.4GHz ISM transceiver module. It supports a number of channel frequencies in the 2.4GHz band and a range of data rates",
+  "authors":
   {
     "name": "Mike McCauley",
     "email": "mikem@airspayce.com",
@@ -10,5 +10,7 @@
   },
   "version": "1.14",
   "downloadUrl": "http://www.airspayce.com/mikem/arduino/NRF24/NRF24-1.14.zip",
-  "include": "NRF24"
+  "include": "NRF24",
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
  }

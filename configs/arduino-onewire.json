@@ -1,13 +1,15 @@
 {
-  "name": "Arduino-OneWire",
+  "name": "OneWire",
   "keywords": "onewire, 1-wire, bus, sensor, temperature, ibutton",
   "description": "Control devices (from Dallas Semiconductor) that use the One Wire protocol (DS18S20, DS18B20, DS2408 and etc)",
-  "author":
+  "authors":
   {
     "name": "Paul Stoffregen",
     "url": "http://www.pjrc.com/teensy/td_libs_OneWire.html"
   },
   "version": "2.2",
   "downloadUrl": "http://www.pjrc.com/teensy/arduino_libraries/OneWire.zip",
-  "include": "OneWire"
+  "include": "OneWire",
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
  }

@@ -1,8 +1,8 @@
 {
-  "name": "Arduino-XBee",
+  "name": "XBee",
   "keywords": "xbee, protocol, radio",
   "description": "Arduino library for communicating with XBees in API mode",
-  "author":
+  "authors":
   {
     "name": "Andrew Rapp",
     "email": "andrew.rapp@gmail.com",
@@ -18,5 +18,7 @@
     "*/docs",
     "*/Doxyfile",
     "*/doxygen-docs.sh"
-  ]
+  ],
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
  }
