@@ -11,6 +11,7 @@
   "version": "1.14",
   "downloadUrl": "http://www.airspayce.com/mikem/arduino/NRF24/NRF24-1.14.zip",
   "include": "NRF24",
+  "exclude": "doc",
   "frameworks": "arduino",
   "platforms": "atmelavr"
  }
