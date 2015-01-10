@@ -17,11 +17,17 @@
     "RadioHead/project.cfg"
   ],
   "examples": "RadioHead/examples/*/*/*.pde",
-  "frameworks": "arduino",
+  "frameworks": 
+  [
+    "arduino",
+    "energia"
+  ],
   "platforms":
   [
     "atmelavr",
     "atmelsam",
+    "timsp430",
+    "titiva",
     "teensy"
   ]
  }
