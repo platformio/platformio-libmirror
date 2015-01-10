@@ -14,10 +14,9 @@
   "exclude": 
   [
     "RadioHead/doc",
-    "RadioHead/project.cfg",
-    "RadioHead/examples"
+    "RadioHead/project.cfg"
   ],
-  "examples": "RadioHead/examples/*/*/*.pde",
+  "examples": "examples/*/*/*.pde",
   "frameworks": "arduino",
   "platforms":
   [
