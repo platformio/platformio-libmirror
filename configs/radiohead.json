@@ -11,12 +11,12 @@
   "version": "1.39",
   "downloadUrl": "http://www.airspayce.com/mikem/arduino/RadioHead/RadioHead-1.39.zip",
   "include": "RadioHead",
-  "exclude": 
+  "exclude":
   [
     "RadioHead/doc",
     "RadioHead/project.cfg"
   ],
-  "examples": "examples/*/*/*.pde",
+  "examples": "RadioHead/examples/*/*/*.pde",
   "frameworks": "arduino",
   "platforms":
   [
