@@ -14,7 +14,9 @@
   "exclude":
   [
     "RadioHead/doc",
-    "RadioHead/project.cfg"
+    "RadioHead/project.cfg",
+    "RadioHead/STM32ArduinoCompat",
+    "RadioHead/tools"
   ],
   "examples": "RadioHead/examples/*/*/*.pde",
   "frameworks": 
