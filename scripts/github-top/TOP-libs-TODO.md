@@ -2,20 +2,20 @@
 
 Status | Repository | Comment
 -------|------------|--------
-- | [/kitschpatrol/Brain](http://github.com/kitschpatrol/Brain) | home
-- | [/aaronds/arduino-nrf24l01](http://github.com/aaronds/arduino-nrf24l01) | home
+- | [/kitschpatrol/Brain](http://github.com/kitschpatrol/Brain) | fork
+- | [/aaronds/arduino-nrf24l01](http://github.com/aaronds/arduino-nrf24l01) | fork
 - | [/asynclabs/WiShield](http://github.com/asynclabs/WiShield) | 
-- | [/kroimon/Arduino-SerialCommand](http://github.com/kroimon/Arduino-SerialCommand) | home
-- | [/ksksue/PhysicaloidLibrary](http://github.com/ksksue/PhysicaloidLibrary) | home
-- | [/thijse/Arduino-Libraries](http://github.com/thijse/Arduino-Libraries) | home
-- | [/geekammo/MicroView-Arduino-Library](http://github.com/geekammo/MicroView-Arduino-Library) | home
-- | [/adafruit/Touch-Screen-Library](http://github.com/adafruit/Touch-Screen-Library) | home
-- | [/mmurdoch/arduinounit](http://github.com/mmurdoch/arduinounit) | home
-- | [/guanix/arduino-nrf8001](http://github.com/guanix/arduino-nrf8001) | home
-- | [/recotana/ArdOSC](http://github.com/recotana/ArdOSC) | home
-- | [/Zuph/AVRQueue](http://github.com/Zuph/AVRQueue) | home
-- | [/TMRh20/TMRpcm](http://github.com/TMRh20/TMRpcm) | home
-- | [/cmagagna/ArduinoCC3000](http://github.com/cmagagna/ArduinoCC3000) | home
+- | [/kroimon/Arduino-SerialCommand](http://github.com/kroimon/Arduino-SerialCommand) | fork
+- | [/ksksue/PhysicaloidLibrary](http://github.com/ksksue/PhysicaloidLibrary) | fork
+- | [/thijse/Arduino-Libraries](http://github.com/thijse/Arduino-Libraries) | pending
+- | [/geekammo/MicroView-Arduino-Library](http://github.com/geekammo/MicroView-Arduino-Library) | fork
+- | [/adafruit/Touch-Screen-Library](http://github.com/adafruit/Touch-Screen-Library) | fork
+- | [/mmurdoch/arduinounit](http://github.com/mmurdoch/arduinounit) | fork
+- | [/guanix/arduino-nrf8001](http://github.com/guanix/arduino-nrf8001) | fork
+- | [/recotana/ArdOSC](http://github.com/recotana/ArdOSC) | fork
+- | [/Zuph/AVRQueue](http://github.com/Zuph/AVRQueue) | fork
+- | [/TMRh20/TMRpcm](http://github.com/TMRh20/TMRpcm) | registered
+- | [/cmagagna/ArduinoCC3000](http://github.com/cmagagna/ArduinoCC3000) | fork
 - | [/elcojacobs/ShiftPWM](http://github.com/elcojacobs/ShiftPWM) | 
 - | [/csquared/arduino-restclient](http://github.com/csquared/arduino-restclient) | 
 - | [/turicas/Ethernet_ENC28J60](http://github.com/turicas/Ethernet_ENC28J60) | 
@@ -39,7 +39,7 @@ Status | Repository | Comment
 - | [/adamvr/arduino-base64](http://github.com/adamvr/arduino-base64) | 
 - | [/thomasfredericks/Bounce2](http://github.com/thomasfredericks/Bounce2) | 
 - | [/adafruit/ST7565-LCD](http://github.com/adafruit/ST7565-LCD) | 
-- | [/nmattisson/HttpClient](http://github.com/nmattisson/HttpClient) | possible duplicate of46: https://github.com/zlalanne/HttpClient
+- | [/nmattisson/HttpClient](http://github.com/nmattisson/HttpClient) | possible duplicate of 46: https://github.com/zlalanne/HttpClient
 - | [/DavyLandman/AESLib](http://github.com/DavyLandman/AESLib) | 
 - | [/adafruit/Adafruit-Fingerprint-Sensor-Library](http://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library) | 
 - | [/giladaya/arduino-particle-sys](http://github.com/giladaya/arduino-particle-sys) | 
@@ -54,7 +54,7 @@ Status | Repository | Comment
 - | [/adafruit/Adafruit-Trinket-USB](http://github.com/adafruit/Adafruit-Trinket-USB) | 
 - | [/adafruit/CC3000_MDNS](http://github.com/adafruit/CC3000_MDNS) | 
 - | [/adafruit/RGB-matrix-Panel](http://github.com/adafruit/RGB-matrix-Panel) | 
-- | [/Qtechknow/Arduino-Libraries](http://github.com/Qtechknow/Arduino-Libraries) | home
+- | [/Qtechknow/Arduino-Libraries](http://github.com/Qtechknow/Arduino-Libraries) | pending
 - | [/msparks/arduino-ds1302](http://github.com/msparks/arduino-ds1302) | 
 - | [/don/NDEF](http://github.com/don/NDEF) | 
 - | [/kasperskaarhoj/Arduino-Library-for-ATEM-Switchers](http://github.com/kasperskaarhoj/Arduino-Library-for-ATEM-Switchers) | 
@@ -166,7 +166,7 @@ Status | Repository | Comment
 - | [/SFE-Chris/UNO-HIDKeyboard-Library](http://github.com/SFE-Chris/UNO-HIDKeyboard-Library) | 
 - | [/kristopher/PS2-Mouse-Arduino](http://github.com/kristopher/PS2-Mouse-Arduino) | 
 - | [/Integreight/1Sheeld-Arduino-Library](http://github.com/Integreight/1Sheeld-Arduino-Library) | 
-- | [/tigoe/Button](http://github.com/tigoe/Button) | possible duplicate of77: https://github.com/JChristensen/Button
+- | [/tigoe/Button](http://github.com/tigoe/Button) | possible duplicate of 77: https://github.com/JChristensen/Button
 - | [/maniacbug/MemoryFree](http://github.com/maniacbug/MemoryFree) | 
 - | [/clearwater/SwitecX25](http://github.com/clearwater/SwitecX25) | 
 - | [/lgeek/Arduino-Color-LCD](http://github.com/lgeek/Arduino-Color-LCD) | 
@@ -273,7 +273,7 @@ Status | Repository | Comment
 - | [/freetronics/FTOLED](http://github.com/freetronics/FTOLED) | 
 - | [/feklee/arduino-trackpoint](http://github.com/feklee/arduino-trackpoint) | 
 - | [/Yveaux/Arduino_Vcc](http://github.com/Yveaux/Arduino_Vcc) | 
-- | [/antoineleclair/arduino-nrf24l01](http://github.com/antoineleclair/arduino-nrf24l01) | home
+- | [/antoineleclair/arduino-nrf24l01](http://github.com/antoineleclair/arduino-nrf24l01) | fork
 - | [/Hyvok/SSD1306-display-driver-for-Arduino](http://github.com/Hyvok/SSD1306-display-driver-for-Arduino) | 
 - | [/OpenSensorsIO/opensensorsIO-arduino](http://github.com/OpenSensorsIO/opensensorsIO-arduino) | 
 - | [/gregington/NetEEPROM](http://github.com/gregington/NetEEPROM) | 
@@ -418,7 +418,7 @@ Status | Repository | Comment
 - | [/adafruit/Adafruit_TinyFlash](http://github.com/adafruit/Adafruit_TinyFlash) | 
 - | [/RoboCraft/SPI_Bus](http://github.com/RoboCraft/SPI_Bus) | 
 - | [/afiler/keyduino](http://github.com/afiler/keyduino) | 
-- | [/brunnels/PCA9685](http://github.com/brunnels/PCA9685) | possible duplicate of117: https://github.com/TOppenhoff/PCA9685
+- | [/brunnels/PCA9685](http://github.com/brunnels/PCA9685) | possible duplicate of 117: https://github.com/TOppenhoff/PCA9685
 - | [/amperka/URM37](http://github.com/amperka/URM37) | 
 - | [/aguegu/dot-matrix](http://github.com/aguegu/dot-matrix) | 
 - | [/vic320/Arduino-MS5803-14BA](http://github.com/vic320/Arduino-MS5803-14BA) | 
@@ -609,7 +609,7 @@ Status | Repository | Comment
 - | [/interactive-matter/TMC26XStepper](http://github.com/interactive-matter/TMC26XStepper) | 
 - | [/signalwerk/thermalprinter](http://github.com/signalwerk/thermalprinter) | 
 - | [/prsolucoes/prduino](http://github.com/prsolucoes/prduino) | 
-- | [/Tecsmith/DS3232RTC](http://github.com/Tecsmith/DS3232RTC) | possible duplicate of78: https://github.com/JChristensen/DS3232RTC
+- | [/Tecsmith/DS3232RTC](http://github.com/Tecsmith/DS3232RTC) | possible duplicate of 78: https://github.com/JChristensen/DS3232RTC
 - | [/elechouse/nRF905](http://github.com/elechouse/nRF905) | 
 - | [/zhum/ardunoo](http://github.com/zhum/ardunoo) | 
 - | [/SoftwareTools4Makers/OPC](http://github.com/SoftwareTools4Makers/OPC) | 
@@ -651,7 +651,7 @@ Status | Repository | Comment
 - | [/stevenpetryk/rustle](http://github.com/stevenpetryk/rustle) | 
 - | [/ekstrand/ESP8266wifi](http://github.com/ekstrand/ESP8266wifi) | 
 - | [/kpegan/Radio](http://github.com/kpegan/Radio) | 
-- | [/ppicazo/OneWire](http://github.com/ppicazo/OneWire) | possible duplicate of1: https://github.com/PaulStoffregen/OneWire
+- | [/ppicazo/OneWire](http://github.com/ppicazo/OneWire) | possible duplicate of 1: https://github.com/PaulStoffregen/OneWire
 - | [/JChristensen/TinyWireM](http://github.com/JChristensen/TinyWireM) | 
 - | [/poisa/Calibrator](http://github.com/poisa/Calibrator) | 
 - | [/thomasaw/RadiationWatch](http://github.com/thomasaw/RadiationWatch) | 
@@ -723,7 +723,7 @@ Status | Repository | Comment
 - | [/NVdrones/ArduinoSDK](http://github.com/NVdrones/ArduinoSDK) | 
 - | [/co3moz/arduinoLab](http://github.com/co3moz/arduinoLab) | 
 - | [/irvined1982/arduino-nmea](http://github.com/irvined1982/arduino-nmea) | 
-- | [/nedwidek/Arduino-Libraries](http://github.com/nedwidek/Arduino-Libraries) | home
+- | [/nedwidek/Arduino-Libraries](http://github.com/nedwidek/Arduino-Libraries) | pending
 - | [/kachok/arduino-libraries](http://github.com/kachok/arduino-libraries) | 
 - | [/jakeson21/Arduino-Debounce](http://github.com/jakeson21/Arduino-Debounce) | 
 - | [/JaneliaSciComp/arduino-libraries](http://github.com/JaneliaSciComp/arduino-libraries) | 
@@ -734,7 +734,7 @@ Status | Repository | Comment
 - | [/mikeneiderhauser/I2C-EEPROM-Arduino](http://github.com/mikeneiderhauser/I2C-EEPROM-Arduino) | 
 - | [/Cathedrow/DmxSimple](http://github.com/Cathedrow/DmxSimple) | 
 - | [/RoboCraft/LiquidCrystalExt](http://github.com/RoboCraft/LiquidCrystalExt) | 
-- | [/yosemitebandit/PS2Keyboard](http://github.com/yosemitebandit/PS2Keyboard) | possible duplicate of130: https://github.com/PaulStoffregen/PS2Keyboard
+- | [/yosemitebandit/PS2Keyboard](http://github.com/yosemitebandit/PS2Keyboard) | possible duplicate of 130: https://github.com/PaulStoffregen/PS2Keyboard
 - | [/cryptotronix/cryptoauth-arduino](http://github.com/cryptotronix/cryptoauth-arduino) | 
 - | [/h4x0rviper/Arduino-Pong](http://github.com/h4x0rviper/Arduino-Pong) | 
 - | [/volution/volution-arduino-libraries](http://github.com/volution/volution-arduino-libraries) | 
@@ -846,7 +846,7 @@ Status | Repository | Comment
 - | [/dsuarezv/carambola-gpio](http://github.com/dsuarezv/carambola-gpio) | 
 - | [/zamanandrew/MMA8452Q](http://github.com/zamanandrew/MMA8452Q) | 
 - | [/01010101/ResPads](http://github.com/01010101/ResPads) | 
-- | [/bygorillas/Button](http://github.com/bygorillas/Button) | possible duplicate of77: https://github.com/JChristensen/Button
+- | [/bygorillas/Button](http://github.com/bygorillas/Button) | possible duplicate of 77: https://github.com/JChristensen/Button
 - | [/ljbeng/NeoPixel](http://github.com/ljbeng/NeoPixel) | 
 - | [/flyersfanindc/TinyGpsPlus_SparkCore](http://github.com/flyersfanindc/TinyGpsPlus_SparkCore) | 
 - | [/mjakovlevs/Debounce](http://github.com/mjakovlevs/Debounce) | 
@@ -904,7 +904,7 @@ Status | Repository | Comment
 - | [/ElectricRCAircraftGuy/eRCaGuy_TouchLamp](http://github.com/ElectricRCAircraftGuy/eRCaGuy_TouchLamp) | 
 - | [/bransorem/SCUROV](http://github.com/bransorem/SCUROV) | 
 - | [/pololu/drv8835-motor-shield](http://github.com/pololu/drv8835-motor-shield) | 
-- | [/openenergymonitor/Ethernet](http://github.com/openenergymonitor/Ethernet) | possible duplicate of134: https://github.com/PaulStoffregen/Ethernet
+- | [/openenergymonitor/Ethernet](http://github.com/openenergymonitor/Ethernet) | possible duplicate of 134: https://github.com/PaulStoffregen/Ethernet
 - | [/radekk/wii-duofx-nunchuk](http://github.com/radekk/wii-duofx-nunchuk) | 
 - | [/tomorrowlab/M41T93-Real-Time-Clock](http://github.com/tomorrowlab/M41T93-Real-Time-Clock) | 
 - | [/j-mcc1993/SNES_Keyboard](http://github.com/j-mcc1993/SNES_Keyboard) | 
