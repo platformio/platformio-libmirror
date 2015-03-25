@@ -54,14 +54,14 @@ active | [/xively/xively_arduino](http://github.com/xively/xively_arduino) | 67
 - | [/geekammo/MicroView-Arduino-Library](http://github.com/geekammo/MicroView-Arduino-Library) | fork
 active | [/br3ttb/Arduino-PID-AutoTune-Library](http://github.com/br3ttb/Arduino-PID-AutoTune-Library) | 3
 active | [/practicalarduino/SHT1x](http://github.com/practicalarduino/SHT1x) | 86
-ignored | [/adafruit/SD](http://github.com/adafruit/SD) | totally in progress. works but in beta
+active | [/adafruit/SD](http://github.com/adafruit/SD) | 161
 - | [/adafruit/Touch-Screen-Library](http://github.com/adafruit/Touch-Screen-Library) | fork
 - | [/mmurdoch/arduinounit](http://github.com/mmurdoch/arduinounit) | fork
 - | [/guanix/arduino-nrf8001](http://github.com/guanix/arduino-nrf8001) | fork
 - | [/recotana/ArdOSC](http://github.com/recotana/ArdOSC) | fork
 active | [/adafruit/TFTLCD-Library](http://github.com/adafruit/TFTLCD-Library) | 32
 - | [/Zuph/AVRQueue](http://github.com/Zuph/AVRQueue) | fork
-- | [/TMRh20/TMRpcm](http://github.com/TMRh20/TMRpcm) | registered
+active | [/TMRh20/TMRpcm](http://github.com/TMRh20/TMRpcm) | 162
 ignored | [/kitschpatrol/BrainGrapher](http://github.com/kitschpatrol/BrainGrapher) | Demo for Brain
 - | [/cmagagna/ArduinoCC3000](http://github.com/cmagagna/ArduinoCC3000) | fork
 - | [/elcojacobs/ShiftPWM](http://github.com/elcojacobs/ShiftPWM) | 

@@ -14,7 +14,6 @@ Status | Repository | Comment
 - | [/guanix/arduino-nrf8001](http://github.com/guanix/arduino-nrf8001) | fork
 - | [/recotana/ArdOSC](http://github.com/recotana/ArdOSC) | fork
 - | [/Zuph/AVRQueue](http://github.com/Zuph/AVRQueue) | fork
-- | [/TMRh20/TMRpcm](http://github.com/TMRh20/TMRpcm) | registered
 - | [/cmagagna/ArduinoCC3000](http://github.com/cmagagna/ArduinoCC3000) | fork
 - | [/elcojacobs/ShiftPWM](http://github.com/elcojacobs/ShiftPWM) | 
 - | [/csquared/arduino-restclient](http://github.com/csquared/arduino-restclient) | 
