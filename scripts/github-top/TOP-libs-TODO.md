@@ -7,7 +7,6 @@ Status | Repository | Comment
 - | [/asynclabs/WiShield](http://github.com/asynclabs/WiShield) | 
 - | [/kroimon/Arduino-SerialCommand](http://github.com/kroimon/Arduino-SerialCommand) | fork
 - | [/ksksue/PhysicaloidLibrary](http://github.com/ksksue/PhysicaloidLibrary) | fork
-- | [/thijse/Arduino-Libraries](http://github.com/thijse/Arduino-Libraries) | pending
 - | [/geekammo/MicroView-Arduino-Library](http://github.com/geekammo/MicroView-Arduino-Library) | fork
 - | [/adafruit/Touch-Screen-Library](http://github.com/adafruit/Touch-Screen-Library) | fork
 - | [/mmurdoch/arduinounit](http://github.com/mmurdoch/arduinounit) | fork
@@ -53,7 +52,7 @@ Status | Repository | Comment
 - | [/adafruit/Adafruit-Trinket-USB](http://github.com/adafruit/Adafruit-Trinket-USB) | 
 - | [/adafruit/CC3000_MDNS](http://github.com/adafruit/CC3000_MDNS) | 
 - | [/adafruit/RGB-matrix-Panel](http://github.com/adafruit/RGB-matrix-Panel) | 
-- | [/Qtechknow/Arduino-Libraries](http://github.com/Qtechknow/Arduino-Libraries) | pending
+- | [/Qtechknow/Arduino-Libraries](http://github.com/Qtechknow/Arduino-Libraries) | possible duplicate of 169: https://github.com/thijse/Arduino-Libraries
 - | [/msparks/arduino-ds1302](http://github.com/msparks/arduino-ds1302) | 
 - | [/don/NDEF](http://github.com/don/NDEF) | 
 - | [/kasperskaarhoj/Arduino-Library-for-ATEM-Switchers](http://github.com/kasperskaarhoj/Arduino-Library-for-ATEM-Switchers) | 
@@ -722,7 +721,7 @@ Status | Repository | Comment
 - | [/NVdrones/ArduinoSDK](http://github.com/NVdrones/ArduinoSDK) | 
 - | [/co3moz/arduinoLab](http://github.com/co3moz/arduinoLab) | 
 - | [/irvined1982/arduino-nmea](http://github.com/irvined1982/arduino-nmea) | 
-- | [/nedwidek/Arduino-Libraries](http://github.com/nedwidek/Arduino-Libraries) | pending
+- | [/nedwidek/Arduino-Libraries](http://github.com/nedwidek/Arduino-Libraries) | possible duplicate of 169: https://github.com/thijse/Arduino-Libraries
 - | [/kachok/arduino-libraries](http://github.com/kachok/arduino-libraries) | 
 - | [/jakeson21/Arduino-Debounce](http://github.com/jakeson21/Arduino-Debounce) | 
 - | [/JaneliaSciComp/arduino-libraries](http://github.com/JaneliaSciComp/arduino-libraries) | 
