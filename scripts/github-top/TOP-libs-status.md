@@ -57,7 +57,7 @@ active | [/practicalarduino/SHT1x](http://github.com/practicalarduino/SHT1x) | 8
 active | [/adafruit/SD](http://github.com/adafruit/SD) | 161
 - | [/adafruit/Touch-Screen-Library](http://github.com/adafruit/Touch-Screen-Library) | fork
 - | [/mmurdoch/arduinounit](http://github.com/mmurdoch/arduinounit) | fork
-- | [/guanix/arduino-nrf8001](http://github.com/guanix/arduino-nrf8001) | registered-fork
+active | [/guanix/arduino-nrf8001](http://github.com/guanix/arduino-nrf8001) | 172
 - | [/recotana/ArdOSC](http://github.com/recotana/ArdOSC) | fork
 active | [/adafruit/TFTLCD-Library](http://github.com/adafruit/TFTLCD-Library) | 32
 - | [/Zuph/AVRQueue](http://github.com/Zuph/AVRQueue) | fork
