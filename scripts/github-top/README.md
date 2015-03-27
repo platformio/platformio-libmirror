@@ -1,6 +1,6 @@
 # Generate status of TOP github library registration
 
-A number of scripts is provided to keep track of the progress of rehistering the top arduino libraries hostet on github.com
+A number of scripts is provided to keep track of the progress of registering the top arduino libraries hostet on github.com
 
 ## mk-list-github.sh
 
@@ -24,3 +24,7 @@ Search results that are neither registered as a library, nor marked to be not ap
 Note that this only reflects the state of work of the last person committing the results of this script.
 
 An automated `git pull` and a `git commit` followed by a `git push` at the end makes sure the data is updated in the repository on github.
+
+# mk-list-accepted.sh
+
+Generates `list.accepted.md` that shows all libraries where the registered manifest file is not located within the library repository. It also shows if the repository contains the library.json file after a pull-request was accepted.
