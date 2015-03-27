@@ -1,7 +1,7 @@
 # Libraries with accepted pull-requests
 
-ID | URL
----|----
+ID | Project Repository | Manifest Repository | Project Manifest URL
+---|--------------------|---------------------|---------------------
 2 | [br3ttb/Arduino-PID-Library](https://github.com/br3ttb/Arduino-PID-Library.git) | [ivankravets/Arduino-PID-Library](https://raw.githubusercontent.com/ivankravets/Arduino-PID-Library/patch-1/library.json) | 
 3 | [br3ttb/Arduino-PID-AutoTune-Library](https://github.com/br3ttb/Arduino-PID-AutoTune-Library.git) | [ivankravets/Arduino-PID-AutoTune-Library](https://raw.githubusercontent.com/ivankravets/Arduino-PID-AutoTune-Library/patch-1/library.json) | 
 5 | [sirleech/Webduino](https://github.com/sirleech/Webduino.git) | [ivankravets/platformio-libmirror](https://raw.githubusercontent.com/ivankravets/platformio-libmirror/master/configs/arduino-webduino.json) | 
