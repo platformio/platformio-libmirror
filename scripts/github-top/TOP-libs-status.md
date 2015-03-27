@@ -31,7 +31,7 @@ active | [/sensorium/Mozzi](http://github.com/sensorium/Mozzi) | 74
 ignored | [/platformio/platformio](http://github.com/platformio/platformio) | N/A
 ignored | [/WiringPi/WiringPi-Ruby](http://github.com/WiringPi/WiringPi-Ruby) | N/A
 active | [/adafruit/Adafruit-Thermal-Printer-Library](http://github.com/adafruit/Adafruit-Thermal-Printer-Library) | 85
-- | [/aaronds/arduino-nrf24l01](http://github.com/aaronds/arduino-nrf24l01) | fork
+ignored | [/aaronds/arduino-nrf24l01](http://github.com/aaronds/arduino-nrf24l01) | Similar to 42?
 active | [/adafruit/Adafruit-Motor-Shield-library](http://github.com/adafruit/Adafruit-Motor-Shield-library) | 27
 active | [/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library](http://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library) | 81
 active | [/amcewen/HttpClient](http://github.com/amcewen/HttpClient) | 66
@@ -57,7 +57,7 @@ active | [/practicalarduino/SHT1x](http://github.com/practicalarduino/SHT1x) | 8
 active | [/adafruit/SD](http://github.com/adafruit/SD) | 161
 - | [/adafruit/Touch-Screen-Library](http://github.com/adafruit/Touch-Screen-Library) | fork
 - | [/mmurdoch/arduinounit](http://github.com/mmurdoch/arduinounit) | fork
-- | [/guanix/arduino-nrf8001](http://github.com/guanix/arduino-nrf8001) | fork
+- | [/guanix/arduino-nrf8001](http://github.com/guanix/arduino-nrf8001) | registered-fork
 - | [/recotana/ArdOSC](http://github.com/recotana/ArdOSC) | fork
 active | [/adafruit/TFTLCD-Library](http://github.com/adafruit/TFTLCD-Library) | 32
 - | [/Zuph/AVRQueue](http://github.com/Zuph/AVRQueue) | fork
@@ -331,7 +331,7 @@ active | [/sparkfun/SFE_CC3000_Library](http://github.com/sparkfun/SFE_CC3000_Li
 - | [/freetronics/FTOLED](http://github.com/freetronics/FTOLED) | 
 - | [/feklee/arduino-trackpoint](http://github.com/feklee/arduino-trackpoint) | 
 - | [/Yveaux/Arduino_Vcc](http://github.com/Yveaux/Arduino_Vcc) | 
-- | [/antoineleclair/arduino-nrf24l01](http://github.com/antoineleclair/arduino-nrf24l01) | fork
+- | [/antoineleclair/arduino-nrf24l01](http://github.com/antoineleclair/arduino-nrf24l01) | 
 - | [/Hyvok/SSD1306-display-driver-for-Arduino](http://github.com/Hyvok/SSD1306-display-driver-for-Arduino) | 
 - | [/OpenSensorsIO/opensensorsIO-arduino](http://github.com/OpenSensorsIO/opensensorsIO-arduino) | 
 - | [/gregington/NetEEPROM](http://github.com/gregington/NetEEPROM) | 

@@ -3,14 +3,13 @@
 Status | Repository | Comment
 -------|------------|--------
 - | [/kitschpatrol/Brain](http://github.com/kitschpatrol/Brain) | fork
-- | [/aaronds/arduino-nrf24l01](http://github.com/aaronds/arduino-nrf24l01) | fork
 - | [/asynclabs/WiShield](http://github.com/asynclabs/WiShield) | 
 - | [/kroimon/Arduino-SerialCommand](http://github.com/kroimon/Arduino-SerialCommand) | fork
 - | [/ksksue/PhysicaloidLibrary](http://github.com/ksksue/PhysicaloidLibrary) | fork
 - | [/geekammo/MicroView-Arduino-Library](http://github.com/geekammo/MicroView-Arduino-Library) | fork
 - | [/adafruit/Touch-Screen-Library](http://github.com/adafruit/Touch-Screen-Library) | fork
 - | [/mmurdoch/arduinounit](http://github.com/mmurdoch/arduinounit) | fork
-- | [/guanix/arduino-nrf8001](http://github.com/guanix/arduino-nrf8001) | fork
+- | [/guanix/arduino-nrf8001](http://github.com/guanix/arduino-nrf8001) | registered-fork
 - | [/recotana/ArdOSC](http://github.com/recotana/ArdOSC) | fork
 - | [/Zuph/AVRQueue](http://github.com/Zuph/AVRQueue) | fork
 - | [/cmagagna/ArduinoCC3000](http://github.com/cmagagna/ArduinoCC3000) | fork
@@ -271,7 +270,7 @@ Status | Repository | Comment
 - | [/freetronics/FTOLED](http://github.com/freetronics/FTOLED) | 
 - | [/feklee/arduino-trackpoint](http://github.com/feklee/arduino-trackpoint) | 
 - | [/Yveaux/Arduino_Vcc](http://github.com/Yveaux/Arduino_Vcc) | 
-- | [/antoineleclair/arduino-nrf24l01](http://github.com/antoineleclair/arduino-nrf24l01) | fork
+- | [/antoineleclair/arduino-nrf24l01](http://github.com/antoineleclair/arduino-nrf24l01) | 
 - | [/Hyvok/SSD1306-display-driver-for-Arduino](http://github.com/Hyvok/SSD1306-display-driver-for-Arduino) | 
 - | [/OpenSensorsIO/opensensorsIO-arduino](http://github.com/OpenSensorsIO/opensensorsIO-arduino) | 
 - | [/gregington/NetEEPROM](http://github.com/gregington/NetEEPROM) | 
