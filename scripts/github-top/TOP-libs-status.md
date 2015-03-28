@@ -46,7 +46,7 @@ ignored | [/felis/USB_Host_Shield](http://github.com/felis/USB_Host_Shield) | 59
 active | [/nethoncho/Arduino-DHT22](http://github.com/nethoncho/Arduino-DHT22) | 115
 - | [/asynclabs/WiShield](http://github.com/asynclabs/WiShield) | 
 active | [/openenergymonitor/EmonLib](http://github.com/openenergymonitor/EmonLib) | 116
-- | [/kroimon/Arduino-SerialCommand](http://github.com/kroimon/Arduino-SerialCommand) | fork
+active | [/kroimon/Arduino-SerialCommand](http://github.com/kroimon/Arduino-SerialCommand) | 173
 active | [/finsprings/arduinaap](http://github.com/finsprings/arduinaap) | 53
 - | [/ksksue/PhysicaloidLibrary](http://github.com/ksksue/PhysicaloidLibrary) | fork
 active | [/thijse/Arduino-Libraries](http://github.com/thijse/Arduino-Libraries) | 169 170 171
@@ -58,7 +58,7 @@ active | [/adafruit/SD](http://github.com/adafruit/SD) | 161
 - | [/adafruit/Touch-Screen-Library](http://github.com/adafruit/Touch-Screen-Library) | fork
 - | [/mmurdoch/arduinounit](http://github.com/mmurdoch/arduinounit) | fork
 active | [/guanix/arduino-nrf8001](http://github.com/guanix/arduino-nrf8001) | 172
-- | [/recotana/ArdOSC](http://github.com/recotana/ArdOSC) | fork
+ignored | [/recotana/ArdOSC](http://github.com/recotana/ArdOSC) | Examples do not compile
 active | [/adafruit/TFTLCD-Library](http://github.com/adafruit/TFTLCD-Library) | 32
 - | [/Zuph/AVRQueue](http://github.com/Zuph/AVRQueue) | fork
 active | [/TMRh20/TMRpcm](http://github.com/TMRh20/TMRpcm) | 162
