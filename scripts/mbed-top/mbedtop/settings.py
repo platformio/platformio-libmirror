@@ -14,6 +14,7 @@ SPIDER_MODULES = ['mbedtop.spiders']
 NEWSPIDER_MODULE = 'mbedtop.spiders'
 ITEM_PIPELINES = {
     'mbedtop.pipelines.RepoPostProc': 300,
+    'mbedtop.pipelines.JsonWriterPipeline': 800,
 }
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent

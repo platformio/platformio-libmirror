@@ -13,7 +13,6 @@ class MbedTopSpider(scrapy.Spider):
     top_cnt = 0
 
     def parse(self, response):
-        # somehow, selecting div[@class="contentitem"] does not work; so:
         libraries = response.xpath('.//*[@id="mbed-content"]//div/div[2]/div[2]/div[1]/b/a/@href').extract()
         print "found libraries: ", libraries
 
@@ -23,8 +22,6 @@ class MbedTopSpider(scrapy.Spider):
                 if not url in self.seen_urls:
                     self.top_cnt = self.top_cnt + 1
                     yield scrapy.Request(url,callback=self.parse_project)
-
-        #self.top_cnt = self.top_cnt + len(libraries)
 
         if self.top_cnt < self.top_max:
             # Request next page of results
@@ -45,9 +42,10 @@ class MbedTopSpider(scrapy.Spider):
         l = MbedLibLoader(item=MbedLibItem(), response=response)
         l.add_xpath('repo_type', '/html/body/div[4]/div[2]/div[2]/table/tr[1]/td/text()[2]')
         l.add_xpath('owner', '/html/body/div[4]/div[1]/div/a[1]/text()[2]')
+        l.add_xpath('ownerurl', '/html/body/div[4]/div[1]/div/a[1]/@href')
         l.add_xpath('name', '/html/body/div[4]/div[1]/div/a[2]/text()[2]')
         l.add_xpath('repository', '/html/body/div[4]/div[1]/div/a[2]/@href')
-        l.add_xpath('description', './/*[@id="mbed-content"]/p[1]/text()') # may need some cleaning up \n
+        l.add_xpath('description', './/*[@id="mbed-content"]/p[1]/text()')
         l.add_value('frameworks', 'mbed')
         l.add_value('platforms', ['freescalekinetis', 'nordicnrf51', 'nxplpc', 'ststm32'])
         l.add_xpath('components', '/html/body/div[4]/div[2]/div[3]//a/@href')
@@ -63,12 +61,17 @@ class MbedTopSpider(scrapy.Spider):
         l = MbedLibLoader(item=item, response=response)
         l.add_xpath('dependencies', './/*[@id="mbed-content"]//div/div[2]/div[2]/div[1]/b/a/@href')
         item = l.load_item()
-        #TODO: generate requests for all dependents; ideally emit them before proceeding with examples
+
         if 'dependencies' in item:
-            for url in item['dependencies']:
-                if url[0] == '/': url = 'http://developer.mbed.org'+url
+            for i, url in enumerate(item['dependencies']):
+                if url[0] == '/': url = 'https://developer.mbed.org'+url
                 if not url in self.seen_urls:
                     yield scrapy.Request(url,callback=self.parse_project)
+
+            for i, url in enumerate(item['dependencies']):
+                url.replace("https://developer.mbed.org/","")
+                urllist = url.split('/') 
+                item['dependencies'][i] = { 'name' : urllist[4], 'frameworks' : 'mbed' }
 
         request = scrapy.Request(response.meta['libpage']+"dependents",callback=self.parse_examples)
         request.meta['libpage'] = response.meta['libpage']
@@ -92,6 +95,6 @@ class MbedTopSpider(scrapy.Spider):
         item = response.meta['item']
         l = MbedLibLoader(item=item, response=response)
         #TODO: formulate xpath to extract all tags (keywords)
-        l.add_xpath('keywords', '/html/body/div[4]/div[1]/div/a[2]/@href')
+        l.add_xpath('keywords', '...')
         item = l.load_item()
         return item

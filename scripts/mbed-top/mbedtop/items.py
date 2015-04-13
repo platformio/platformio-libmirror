@@ -40,9 +40,11 @@ class MbedLibItem(scrapy.Item):
     # define the fields for your item here like:
     repo_type = scrapy.Field() # Program or Library
     name = scrapy.Field()
+    authors = scrapy.Field()
     description = scrapy.Field()
     keywords = scrapy.Field()
     owner = scrapy.Field()
+    ownerurl = scrapy.Field()
     repository = scrapy.Field()
     deplist1 = scrapy.Field()
     deplist2 = scrapy.Field()

@@ -8,9 +8,9 @@ manifest files. Projects listed as dependents will be interpreted as examples, w
 libraries listed as dependencies will be included in the list of sources for manifest 
 files.
 
-The manifest files are written to the folder ../../mbed/%AUTHOR%_%LIBRARYNAME%.json ready to
-be added to the git repository. After commit and push to github, the files can be registered
-with the platformio library mananger. 
+The manifest files are written to the folder ../../configs/mbed/%LIBRARYNAME%_%AUTHOR%.json 
+ready to be added to the git repository. After commit and push to github, the files can be 
+registered with the platformio library mananger. 
 
 This registration should be handled or at least guided by another automated script to avoid
 multiple registrations.

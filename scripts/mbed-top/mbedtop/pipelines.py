@@ -7,17 +7,48 @@
 
 import types
 
+import json
+
+class JsonWriterPipeline(object):
+
+    copykeys = [
+        'name', 'description', 'keywords',
+        'authors', 'repository', 'dependencies', 'examples',
+        'frameworks', 'platforms'
+    ]
+
+    def process_item(self, item, spider):
+        filename = item['name'] + '_' + item['owner']
+        filename.replace(' ', '_')
+        filename = "".join(x for x in filename if x.isalnum() or x=='_')
+
+        with open("../../configs/mbed/"+filename+".json", "w") as f:
+            expo = self.copy_selected(item, self.copykeys)
+            json.dump(dict(expo), f, indent=4, sort_keys=True, separators=(',', ': '))
+
+        return item
+
+    def copy_selected(self, item, keys):
+        result = {}
+        for key in keys:
+            if key in item:
+                result[key] = item[key]
+        return result
+
 class RepoPostProc(object):
     def process_item(self, item, spider):
         # prettify examples:
-        if ('examples' in item):
-            item['examples'] = self.make_mbed_url(item['examples'])
+        if 'examples' in item:
+            item['examples'] = self.make_mbed_url(item['examples'])[0:10]
 
-        if ('repository' in item):
+        if 'repository' in item:
             repo = { "type" : "hg", "url" : self.make_mbed_url(item['repository']) }
             item['repository'] = repo
 
-        if ('components' in item):
+        if ('ownerurl' in item) and ('owner' in item):
+            item['authors'] = { "name" : item['owner'], "url" : self.make_mbed_url(item['ownerurl']) }            
+
+        if 'components' in item:
             authors = []
             keywords = []
             components = self.strip_mbed_url(item['components'])
