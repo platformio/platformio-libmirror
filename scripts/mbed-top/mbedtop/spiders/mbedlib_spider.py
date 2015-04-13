@@ -12,9 +12,12 @@ class MbedLibSpider(scrapy.Spider):
         #"http://developer.mbed.org/users/mbed_official/code/mbed/",
         "http://developer.mbed.org/users/mbed_official/code/EthernetInterface/"
     ]
+    seen_urls = []
 
     # parse the library page
     def parse(self, response):
+        self.seen_urls.append(response.url)
+
         l = MbedLibLoader(item=MbedLibItem(), response=response)
         l.add_xpath('repo_type', '/html/body/div[4]/div[2]/div[2]/table/tr[1]/td/text()[2]')
         l.add_xpath('owner', '/html/body/div[4]/div[1]/div/a[1]/text()[2]')
@@ -37,9 +40,11 @@ class MbedLibSpider(scrapy.Spider):
         l.add_xpath('dependencies', './/*[@id="mbed-content"]//div/div[2]/div[2]/div[1]/b/a/@href')
         item = l.load_item()
         #TODO: generate requests for all dependents; ideally emit them before proceeding with examples
-        #if 'dependencies' in item:
-        #    for url in item['dependencies']: 
-        #        yield scrapy.Request(url,callback=self.parse)
+        if 'dependencies' in item:
+            for url in item['dependencies']: 
+                if url[0] == '/': url = 'http://developer.mbed.org'+url
+                if not url in self.seen_urls:
+                    yield scrapy.Request(url,callback=self.parse)
 
         request = scrapy.Request(response.meta['libpage']+"dependents",callback=self.parse_examples)
         request.meta['libpage'] = response.meta['libpage']
