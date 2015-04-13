@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "mbed official",
+        "url": "https://developer.mbed.org/users/mbed_official/"
+    },
+    "description": "lwip operating system abstraction layer implementation based on CMSIS-RTOS",
+    "examples": [
+        "https://developer.mbed.org/users/donatien/code/LwIPNetworking/",
+        "https://developer.mbed.org/users/hlipka/code/NetServicesMin/",
+        "https://developer.mbed.org/users/jonathonfletcher/code/EthernetInterface/",
+        "https://developer.mbed.org/users/satriabtp/code/EthernetInterface_RSF/",
+        "https://developer.mbed.org/users/btp3/code/EthernetInterface/",
+        "https://developer.mbed.org/users/acodd/code/EthernetInterface/",
+        "https://developer.mbed.org/users/veskokaradzhov/code/EthernetInterface/",
+        "https://developer.mbed.org/users/mkersh3/code/ECE4180EthernetTest/",
+        "https://developer.mbed.org/users/ktitov/code/EthernetInterface/",
+        "https://developer.mbed.org/users/Mecatro03/code/EthernetInterface/"
+    ],
+    "frameworks": "mbed",
+    "name": "lwip-sys",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/mbed_official/code/lwip-sys/"
+    }
+}
