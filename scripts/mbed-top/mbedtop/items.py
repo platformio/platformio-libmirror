@@ -49,6 +49,8 @@ class MbedLibItem(scrapy.Item):
     components = scrapy.Field()
     dependencies = scrapy.Field()
     examples = scrapy.Field()
+    frameworks = scrapy.Field()
+    platforms = scrapy.Field()
     pass
 
 class MbedItem(scrapy.Item):
