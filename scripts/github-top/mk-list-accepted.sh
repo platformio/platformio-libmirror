@@ -19,7 +19,8 @@ for ((i=1; $i <= $total; i++)); do
 	owner=$(echo $repo|cut -d/ -f4,5|sed -e s/.git$//)
 	cfreg=$(echo $confurl|cut -d/ -f4,5)
 	if [ -n "$repo" -a "$owner" != "$cfreg" ]; then
-		ownurl="https://raw.githubusercontent.com/$owner/master/"$(echo $confurl|cut -d/ -f6-)
+		branch="master"
+		ownurl="https://raw.githubusercontent.com/$owner/$branch/"$(echo $confurl|cut -d/ -f7-)
 		curl -sf "$ownurl" > /dev/null || ownurl=""
 		#[ -n "$ownurl ] && \
 		echo "$i | [$owner]($repo) | [$cfreg]($confurl) | $ownurl"
