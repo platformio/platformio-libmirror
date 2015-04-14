@@ -9,7 +9,7 @@ class MbedTopSpider(scrapy.Spider):
     ]
     seen_urls = []
 
-    top_max = 5
+    top_max = 6
     top_cnt = 0
 
     def parse(self, response):
