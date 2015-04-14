@@ -17,6 +17,9 @@
         "https://developer.mbed.org/users/cosm/code/XivelyArcade/"
     ],
     "frameworks": "mbed",
+    "keywords": [
+        "socket"
+    ],
     "name": "Socket",
     "platforms": [
         "freescalekinetis",

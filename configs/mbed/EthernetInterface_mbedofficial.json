@@ -35,6 +35,11 @@
         "https://developer.mbed.org/users/va009039/code/HTTPPoster/"
     ],
     "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "ip",
+        "mbed"
+    ],
     "name": "EthernetInterface",
     "platforms": [
         "freescalekinetis",

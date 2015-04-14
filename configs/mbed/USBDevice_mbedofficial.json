@@ -17,6 +17,10 @@
         "https://developer.mbed.org/users/samux/code/USBHID_TestCase/"
     ],
     "frameworks": "mbed",
+    "keywords": [
+        "device",
+        "USB"
+    ],
     "name": "USBDevice",
     "platforms": [
         "freescalekinetis",

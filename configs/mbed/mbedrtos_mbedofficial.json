@@ -17,6 +17,11 @@
         "https://developer.mbed.org/users/samux/code/RPC_Ethernet_HelloWorld/"
     ],
     "frameworks": "mbed",
+    "keywords": [
+        "cmsis",
+        "rtos",
+        "RTX"
+    ],
     "name": "mbed-rtos",
     "platforms": [
         "freescalekinetis",

@@ -8,6 +8,7 @@ class MbedTopSpider(scrapy.Spider):
         "https://developer.mbed.org/search/?q=&selected_facets=obj_type_exact%3ACode+Repository&repo_type=Library&order_by=-import_count"
     ]
     seen_urls = []
+    lib_tags = {}   # will contain dict with "%NAME%" : [ %TAGS% ]
 
     top_max = 6
     top_cnt = 0
@@ -83,18 +84,38 @@ class MbedTopSpider(scrapy.Spider):
         l = MbedLibLoader(item=item, response=response)
         l.add_xpath('examples', './/*[@id="mbed-content"]//div/div[2]/div[2]/div[1]/b/a/@href')
         item = l.load_item()
-        return item
 
-        # we could also add a search for this specific library to fill in keywords from tags:
-        #request = scrapy.Request(response.meta['libpage']+"",callback=self.parse_tags)
-        #request.meta['libpage'] = response.meta['libpage']
-        #request.meta['item'] = item
-        #return request
+        # if we already know keywords, we can used cached results:
+        if item['name'] in self.lib_tags:
+            item['keywords'] = self.lib_tags[item['name']]
+            self.log('Found keywords for '+item['name']+' in lib_tags')
+            return item
+
+        # otherwise, proceed with keyword extraction:
+        if not 'ownerurl' in item:
+            self.log('Found no keywords for '+item['name']+' in lib_tags and no ownerurl')
+            return item
+
+        # note that duplicate requests will be dropped, so make sure to use unique url!
+        url = "https://developer.mbed.org"+item['ownerurl']+"code/?q="+item['name']
+
+        request = scrapy.Request(url,callback=self.parse_tags)
+        request.meta['libpage'] = response.meta['libpage']
+        request.meta['item'] = item
+        return request
 
     def parse_tags(self, response):
         item = response.meta['item']
-        l = MbedLibLoader(item=item, response=response)
-        #TODO: formulate xpath to extract all tags (keywords)
-        l.add_xpath('keywords', '...')
-        item = l.load_item()
+
+        for elem in response.xpath('.//*[@id="mbed-content"]/div'):
+            name = elem.xpath('div[2]/div/div[1]/b/a/text()').extract()
+            tags = elem.xpath('div[2]/div/div[2]/a/text()').extract()
+
+            if (len(name) > 0) and (len(tags) > 0):
+                self.lib_tags[name[0]] = tags
+                print "+++ Found keywords for", name, ": ", tags
+
+        if item['name'] in self.lib_tags:
+            item['keywords'] = self.lib_tags[item['name']]
+
         return item
