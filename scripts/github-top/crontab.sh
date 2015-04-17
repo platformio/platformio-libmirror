@@ -6,7 +6,10 @@
 # 0 5 * * * $HOME/prg/platformio-libmirror/scripts/github-top/crontab.sh
 #
 # Note that it is not advisable to have two instances running
-# at overlapping times
+# at overlapping times.
+#
+# Also note that add but uncommited files withh be committed and pushed
+# when the script ./mk-summary.sh is executed
 
 cd $(dirname $0)
 git pull >/dev/null 2>/dev/null
