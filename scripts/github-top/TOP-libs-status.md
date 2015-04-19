@@ -60,7 +60,7 @@ active | [/adafruit/SD](http://github.com/adafruit/SD) | 161
 active | [/guanix/arduino-nrf8001](http://github.com/guanix/arduino-nrf8001) | 172
 ignored | [/recotana/ArdOSC](http://github.com/recotana/ArdOSC) | Examples do not compile
 active | [/adafruit/TFTLCD-Library](http://github.com/adafruit/TFTLCD-Library) | 32
-- | [/Zuph/AVRQueue](http://github.com/Zuph/AVRQueue) | fork
+active | [/Zuph/AVRQueue](http://github.com/Zuph/AVRQueue) | 181
 active | [/TMRh20/TMRpcm](http://github.com/TMRh20/TMRpcm) | 162
 ignored | [/kitschpatrol/BrainGrapher](http://github.com/kitschpatrol/BrainGrapher) | Demo for Brain
 - | [/cmagagna/ArduinoCC3000](http://github.com/cmagagna/ArduinoCC3000) | fork

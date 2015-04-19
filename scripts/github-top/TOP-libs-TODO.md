@@ -8,7 +8,6 @@ Status | Repository | Comment
 - | [/geekammo/MicroView-Arduino-Library](http://github.com/geekammo/MicroView-Arduino-Library) | fork
 - | [/adafruit/Touch-Screen-Library](http://github.com/adafruit/Touch-Screen-Library) | fork
 - | [/mmurdoch/arduinounit](http://github.com/mmurdoch/arduinounit) | fork
-- | [/Zuph/AVRQueue](http://github.com/Zuph/AVRQueue) | fork
 - | [/cmagagna/ArduinoCC3000](http://github.com/cmagagna/ArduinoCC3000) | fork
 - | [/elcojacobs/ShiftPWM](http://github.com/elcojacobs/ShiftPWM) | 
 - | [/csquared/arduino-restclient](http://github.com/csquared/arduino-restclient) | 
