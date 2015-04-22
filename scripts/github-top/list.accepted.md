@@ -64,5 +64,3 @@ ID | Project Repository | Manifest Repository | Project Manifest URL
 160 | [adafruit/Adafruit_INA219](https://github.com/adafruit/Adafruit_INA219) | [gandy92/Adafruit_INA219](https://raw.githubusercontent.com/gandy92/Adafruit_INA219/master/library.json) | 
 161 | [adafruit/SD](https://github.com/adafruit/SD.git) | [ivankravets/SD](https://raw.githubusercontent.com/ivankravets/SD/patch-1/library.json) | 
 172 | [guanix/arduino-nrf8001](https://github.com/guanix/arduino-nrf8001.git) | [gandy92/arduino-nrf8001](https://raw.githubusercontent.com/gandy92/arduino-nrf8001/master/library.json) | 
-180 | [tardate/TextFinder](https://github.com/tardate/TextFinder) | [gandy92/TextFinder](https://raw.githubusercontent.com/gandy92/TextFinder/master/library.json) | https://raw.githubusercontent.com/tardate/TextFinder/master/library.json
-181 | [Zuph/AVRQueue](https://github.com/Zuph/AVRQueue) | [gandy92/AVRQueue](https://raw.githubusercontent.com/gandy92/AVRQueue/master/Arduino/library.json) | https://raw.githubusercontent.com/Zuph/AVRQueue/master/Arduino/library.json
