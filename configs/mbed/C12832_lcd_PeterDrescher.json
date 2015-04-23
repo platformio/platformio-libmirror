@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://developer.mbed.org/users/dreschpe/"
+    },
+    "description": "Lib for the LCD display on mbed lab Board",
+    "examples": [
+        "https://developer.mbed.org/users/chris/code/SprintUSBModemWebsocketTest-LCD-RO/",
+        "https://developer.mbed.org/users/davidswi/code/iOSAppChat/",
+        "https://developer.mbed.org/users/dreschpe/code/Christmas-LCD/",
+        "https://developer.mbed.org/users/Shadow/code/led_dimm/",
+        "https://developer.mbed.org/users/sammekevremde/code/Snake/",
+        "https://developer.mbed.org/users/olgierdh/code/TestNetwork/",
+        "https://developer.mbed.org/users/xively/code/coinop/",
+        "https://developer.mbed.org/users/smulube/code/xively-jumpstart-demo/",
+        "https://developer.mbed.org/users/jwende/code/MQTTTest/",
+        "https://developer.mbed.org/users/GordonSin/code/Ethernetwebsocket/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "application board",
+        "C12832",
+        "LCD"
+    ],
+    "name": "C12832_lcd",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/dreschpe/code/C12832_lcd/"
+    }
+}

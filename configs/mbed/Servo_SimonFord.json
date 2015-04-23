@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://developer.mbed.org/users/simon/"
+    },
+    "description": "A class to control a model R/C servo, using a PwmOut",
+    "examples": [
+        "https://developer.mbed.org/users/demo/code/mbedDemoDisplay/",
+        "https://developer.mbed.org/users/dcmk1mr2/code/mbedDemoDisplay/",
+        "https://developer.mbed.org/users/simon/code/Servo_HelloWorld/",
+        "https://developer.mbed.org/users/littlexc/code/Initialmbedrobotprogram/",
+        "https://developer.mbed.org/users/littlexc/code/mbedrobot/",
+        "https://developer.mbed.org/users/sowmy87/code/Final_Sonar/",
+        "https://developer.mbed.org/users/simon/code/WebTrafficMonitor/",
+        "https://developer.mbed.org/users/Debci/code/BrushlessTest/",
+        "https://developer.mbed.org/users/dminear/code/Pinewood_Derby_Timer/",
+        "https://developer.mbed.org/users/marcbax/code/EtonBreadboard1/"
+    ],
+    "frameworks": "mbed",
+    "name": "Servo",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/simon/code/Servo/"
+    }
+}

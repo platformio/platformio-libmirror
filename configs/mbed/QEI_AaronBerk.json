@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Aaron Berk",
+        "url": "https://developer.mbed.org/users/aberk/"
+    },
+    "description": "Quadrature encoder interface library.",
+    "examples": [
+        "https://developer.mbed.org/users/aberk/code/SimpleRover/",
+        "https://developer.mbed.org/users/aberk/code/PIDRover/",
+        "https://developer.mbed.org/users/aberk/code/IMURover/",
+        "https://developer.mbed.org/users/aberk/code/PID_VelocityExample/",
+        "https://developer.mbed.org/users/emiletoupet/code/VISITY/",
+        "https://developer.mbed.org/users/nucho/code/RTno_MotorControl/",
+        "https://developer.mbed.org/users/crazycliffy/code/Exp3_DCmotor_noQEI/",
+        "https://developer.mbed.org/users/Keisuke_Fujii/code/maxon_test/",
+        "https://developer.mbed.org/users/kagyroy/code/evorobo/",
+        "https://developer.mbed.org/users/kosaka/code/EMGbasic/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "QEI",
+        "quadrature"
+    ],
+    "name": "QEI",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/aberk/code/QEI/"
+    }
+}

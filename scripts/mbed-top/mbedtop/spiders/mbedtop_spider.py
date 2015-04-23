@@ -10,7 +10,7 @@ class MbedTopSpider(scrapy.Spider):
     seen_urls = []
     lib_tags = {}   # will contain dict with "%NAME%" : [ %TAGS% ]
 
-    top_max = 6
+    top_max = 12
     top_cnt = 0
 
     def parse(self, response):
