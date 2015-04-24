@@ -9,6 +9,8 @@ import types
 
 import json
 
+from support import *
+
 class JsonWriterPipeline(object):
 
     copykeys = [
@@ -22,7 +24,11 @@ class JsonWriterPipeline(object):
         filename.replace(' ', '_')
         filename = "".join(x for x in filename if x.isalnum() or x=='_')
 
-        with open("../../configs/mbed/"+filename+".json", "w") as f:
+	path = "../../configs/mbed/"
+	if is_mbed_core_library(name=item['name'], owner=item['owner']):
+            path = "../../configs/mbed-core/"
+
+        with open(path+filename+".json", "w") as f:
             expo = self.copy_selected(item, self.copykeys)
             json.dump(dict(expo), f, indent=4, sort_keys=True, separators=(',', ': '))
 
@@ -39,19 +45,19 @@ class RepoPostProc(object):
     def process_item(self, item, spider):
         # prettify examples:
         if 'examples' in item:
-            item['examples'] = self.make_mbed_url(item['examples'])[0:10]
+            item['examples'] = make_mbed_url(item['examples'])[0:10]
 
         if 'repository' in item:
-            repo = { "type" : "hg", "url" : self.make_mbed_url(item['repository']) }
+            repo = { "type" : "hg", "url" : make_mbed_url(item['repository']) }
             item['repository'] = repo
 
         if ('ownerurl' in item) and ('owner' in item):
-            item['authors'] = { "name" : item['owner'], "url" : self.make_mbed_url(item['ownerurl']) }            
+            item['authors'] = { "name" : item['owner'], "url" : make_mbed_url(item['ownerurl']) }            
 
         if 'components' in item:
             authors = []
             keywords = []
-            components = self.strip_mbed_url(item['components'])
+            components = strip_mbed_url(item['components'])
             #if not type(components) is list: components = [ components ]
             for value in components:
                 if '/teams/' in value: authors.append(value)
@@ -65,20 +71,4 @@ class RepoPostProc(object):
 
         return item
 
-    def strip_mbed_url(self, resource):
-        if isinstance(resource, types.StringTypes):
-            resource = resource.replace("https://developer.mbed.org", "")
-        elif type(resource) is list:
-            for i, value in enumerate(resource):
-                resource[i]= self.strip_mbed_url(value)
-        return resource
-
-    def make_mbed_url(self, resource):
-        if isinstance(resource, types.StringTypes):
-            if resource[0] == '/': 
-                resource = "https://developer.mbed.org"+resource
-        elif type(resource) is list:
-            for i, value in enumerate(resource):
-                resource[i]= self.make_mbed_url(value)
-        return resource
 

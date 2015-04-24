@@ -1,6 +1,8 @@
 import scrapy
 from mbedtop.items import MbedLibItem, MbedLibLoader
 
+from mbedtop.support import *
+
 class MbedTopSpider(scrapy.Spider):
     name = "mbedtop"
     allowed_domains = ["developer.mbed.org"]
@@ -10,7 +12,7 @@ class MbedTopSpider(scrapy.Spider):
     seen_urls = []
     lib_tags = {}   # will contain dict with "%NAME%" : [ %TAGS% ]
 
-    top_max = 12
+    top_max = 10
     top_cnt = 0
 
     def parse(self, response):
@@ -19,9 +21,10 @@ class MbedTopSpider(scrapy.Spider):
 
         for url in libraries:
             if self.top_cnt < self.top_max:
-                if url[0] == '/': url = 'http://developer.mbed.org'+url
+                if url[0] == '/': url = 'https://developer.mbed.org'+url
                 if not url in self.seen_urls:
-                    self.top_cnt = self.top_cnt + 1
+                    if not is_mbed_core_library(url=url):
+                        self.top_cnt = self.top_cnt + 1
                     yield scrapy.Request(url,callback=self.parse_project)
 
         if self.top_cnt < self.top_max:
@@ -69,10 +72,14 @@ class MbedTopSpider(scrapy.Spider):
                 if not url in self.seen_urls:
                     yield scrapy.Request(url,callback=self.parse_project)
 
-            for i, url in enumerate(item['dependencies']):
+            deps = []
+            for url in item['dependencies']:
                 url.replace("https://developer.mbed.org/","")
                 urllist = url.split('/') 
-                item['dependencies'][i] = { 'name' : urllist[4], 'frameworks' : 'mbed' }
+		if is_mbed_core_library(owner=urllist[2],name=urllist[4]):
+                    deps.append({ 'name' : urllist[4], 'frameworks' : 'mbed' })
+
+            item['dependencies'] = deps
 
         request = scrapy.Request(response.meta['libpage']+"dependents",callback=self.parse_examples)
         request.meta['libpage'] = response.meta['libpage']
