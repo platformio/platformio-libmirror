@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "WIZnet",
+        "url": "https://developer.mbed.org/teams/WIZnet/"
+    },
+    "description": "This is WIZnet Ethernet Interface using Hardware TCP/IP chip, W5500, W5200 and W5100.\r\nOne of them can be selected by enabling it in wiznet.h.",
+    "examples": "https://de",
+    "frameworks": "mbed",
+    "name": "WIZnet_Library",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/teams/WIZnet/code/WIZnet_Library/"
+    }
+}

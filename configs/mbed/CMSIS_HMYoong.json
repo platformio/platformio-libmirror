@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "HM Yoong",
+        "url": "https://developer.mbed.org/users/yoonghm/"
+    },
+    "description": "LPC1700 CMSIS driver library\nVersion: 29July2011",
+    "frameworks": "mbed",
+    "keywords": [
+        "cmsis"
+    ],
+    "name": "CMSIS",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/yoonghm/code/CMSIS/"
+    }
+}

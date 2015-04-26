@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "mbed official",
+        "url": "https://developer.mbed.org/users/mbed_official/"
+    },
+    "description": "mbed RPC",
+    "examples": [
+        "https://developer.mbed.org/users/leihen/code/WiFlyHTTPServerSample/",
+        "https://developer.mbed.org/users/leihen/code/MultiThreadingHTTPServer/",
+        "https://developer.mbed.org/users/feb11/code/HTTP-Server/",
+        "https://developer.mbed.org/users/leihen/code/EthHTTPServer/",
+        "https://developer.mbed.org/users/jooter/code/RPC_USBSerial/",
+        "https://developer.mbed.org/users/okini3939/code/rpc_over_serial/",
+        "https://developer.mbed.org/users/okini3939/code/HTTPD_sample/",
+        "https://developer.mbed.org/users/sammacjunkie/code/HTTP-RPCServerExample/",
+        "https://developer.mbed.org/users/sammacjunkie/code/SmartRemote/",
+        "https://developer.mbed.org/users/ban4jp/code/TinyHTTPServer_WIZ820io/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed",
+        "rpc"
+    ],
+    "name": "mbed-rpc",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/mbed_official/code/mbed-rpc/"
+    }
+}

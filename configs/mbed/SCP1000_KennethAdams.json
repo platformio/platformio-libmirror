@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Kenneth Adams",
+        "url": "https://developer.mbed.org/users/kadams6/"
+    },
+    "description": "Library to interface the SCP1000 temperature and pressure sensor.",
+    "examples": [
+        "https://developer.mbed.org/users/kadams6/code/SCP1000_Example/",
+        "https://developer.mbed.org/users/kumajoi/code/ku-make_sensor/",
+        "https://developer.mbed.org/users/kumajoi/code/ku-make_sensor201302/",
+        "https://developer.mbed.org/users/KAME/code/SCP1000_Example/",
+        "https://developer.mbed.org/users/drrifat/code/sc100016x4lcd/",
+        "https://developer.mbed.org/users/tomonari/code/EARTH/",
+        "https://developer.mbed.org/users/ty0715/code/mbed_22/",
+        "https://developer.mbed.org/users/sdhingra/code/SCP1000/",
+        "https://developer.mbed.org/users/sdhingra/code/SCP1000_Hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "pressure",
+        "scp1000",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "SCP1000",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/kadams6/code/SCP1000/"
+    }
+}

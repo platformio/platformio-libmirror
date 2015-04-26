@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Christopher  Hasler",
+        "url": "https://developer.mbed.org/users/littlexc/"
+    },
+    "description": "motor drive libary to use speed control, coasting and dynamic braking.\nNOTE, dynamic braking my result in large currents. this may or may not set the motor driver on fire/break it/other undesired effects. so read the data sheet folks.",
+    "examples": [
+        "https://developer.mbed.org/users/littlexc/code/motordrivertestprogram/",
+        "https://developer.mbed.org/users/littlexc/code/Initialmbedrobotprogram/",
+        "https://developer.mbed.org/users/littlexc/code/mbedrobot/",
+        "https://developer.mbed.org/users/networker/code/ipod/",
+        "https://developer.mbed.org/users/4180_1/code/Magician_Motor_Test/",
+        "https://developer.mbed.org/users/Keisuke_Fujii/code/maxon_test/",
+        "https://developer.mbed.org/users/kagyroy/code/evorobo/",
+        "https://developer.mbed.org/users/angalo3/code/InternetControlledRobot/",
+        "https://developer.mbed.org/users/theschrade54/code/TestCompass/",
+        "https://developer.mbed.org/users/theschrade54/code/EtchSketchSmartbot/"
+    ],
+    "frameworks": "mbed",
+    "name": "Motordriver",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/littlexc/code/Motordriver/"
+    }
+}

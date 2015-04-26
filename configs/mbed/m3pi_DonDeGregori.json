@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Don DeGregori",
+        "url": "https://developer.mbed.org/users/donde/"
+    },
+    "frameworks": "mbed",
+    "name": "m3pi",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/donde/code/m3pi/"
+    }
+}

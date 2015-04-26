@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://developer.mbed.org/users/Sissors/"
+    },
+    "description": "MODSERIAL with support for more devices",
+    "examples": [
+        "https://developer.mbed.org/users/vsluiter/code/1D-Pong/",
+        "https://developer.mbed.org/users/vsluiter/code/BMT-K9_encoder/",
+        "https://developer.mbed.org/users/vsluiter/code/BMT-K9-Regelaar/",
+        "https://developer.mbed.org/users/jorick92/code/programma_filter/",
+        "https://developer.mbed.org/users/DanAuhust/code/EMGtest/",
+        "https://developer.mbed.org/users/DanAuhust/code/EMG2spier/",
+        "https://developer.mbed.org/users/gerard1993/code/K9motoraansturing_copy/",
+        "https://developer.mbed.org/users/jorick92/code/EMG2spier/",
+        "https://developer.mbed.org/users/bouvdberg/code/EMGverwerking/",
+        "https://developer.mbed.org/users/DanAuhust/code/EMG2spierJorick/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Buffered",
+        "MODSERIAL",
+        "Serial"
+    ],
+    "name": "MODSERIAL",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/Sissors/code/MODSERIAL/"
+    }
+}

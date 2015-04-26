@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Thomas Lunzer",
+        "url": "https://developer.mbed.org/users/tlunzer/"
+    },
+    "examples": [
+        "https://developer.mbed.org/users/tlunzer/code/revcounter/",
+        "https://developer.mbed.org/users/marishi/code/SDFileSystem_Load/",
+        "https://developer.mbed.org/users/GregMartin/code/TMP102HelloWorld/",
+        "https://developer.mbed.org/users/bromand/code/KnightRiderOptimized/",
+        "https://developer.mbed.org/users/bromand/code/ControlLED_Brightness/",
+        "https://developer.mbed.org/users/bromand/code/Counter_with_LCD_Display/",
+        "https://developer.mbed.org/users/kenbumono/code/mbed_TANK_PS3/",
+        "https://developer.mbed.org/users/loopsva/code/TFTdisp-104/",
+        "https://developer.mbed.org/users/srsmitherman/code/m3pi_BlueUSB_PS3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HD44780",
+        "TextLCD"
+    ],
+    "name": "TextLCD",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/tlunzer/code/TextLCD/"
+    }
+}

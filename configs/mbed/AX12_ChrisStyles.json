@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Chris Styles",
+        "url": "https://developer.mbed.org/users/chris/"
+    },
+    "examples": [
+        "https://developer.mbed.org/users/chris/code/Snackotron/",
+        "https://developer.mbed.org/users/frohst/code/Single_Axis/"
+    ],
+    "frameworks": "mbed",
+    "name": "AX12",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/chris/code/AX12/"
+    }
+}

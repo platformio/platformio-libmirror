@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://developer.mbed.org/users/simon/"
+    },
+    "description": "Version of http://mbed.org/cookbook/NetServicesTribute with setting set the same for LPC2368",
+    "examples": [
+        "https://developer.mbed.org/users/simon/code/UDPSocketExample/",
+        "https://developer.mbed.org/users/Yann/code/24LCxx_I2CApp/",
+        "https://developer.mbed.org/users/okini3939/code/WeatherPlatform_pachube/",
+        "https://developer.mbed.org/users/etherealflaim/code/HvZServerLib/",
+        "https://developer.mbed.org/users/claytong/code/QRSS_Rx/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "EthernetNetIf"
+    ],
+    "name": "NetServices",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/simon/code/NetServices/"
+    }
+}

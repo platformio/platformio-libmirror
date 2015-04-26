@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Stefan Mueller",
+        "url": "https://developer.mbed.org/users/NeoBelerophon/"
+    },
+    "description": "This is a lib to use ChaNFS lib with SD cards.\n\nLong filenames should work",
+    "examples": [
+        "https://developer.mbed.org/users/okini3939/code/USB_MSC/",
+        "https://developer.mbed.org/users/okini3939/code/USB_CDC_MSD_Hello/",
+        "https://developer.mbed.org/users/tuxic/code/TFTPServerTest/",
+        "https://developer.mbed.org/users/tosihisa/code/ENVLogger/",
+        "https://developer.mbed.org/users/okini3939/code/DMXStation/",
+        "https://developer.mbed.org/users/okini3939/code/WeatherStation/",
+        "https://developer.mbed.org/users/jksoft/code/GPSLogger/",
+        "https://developer.mbed.org/users/sherckuith/code/USB_CDC_MSD_Hello/",
+        "https://developer.mbed.org/users/ED7418/code/RMFWeb/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "card",
+        "ChaNFS",
+        "SD"
+    ],
+    "name": "ChaNFSSD",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/NeoBelerophon/code/ChaNFSSD/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Michael Hagberg",
+        "url": "https://developer.mbed.org/users/Michael_/"
+    },
+    "description": "Dallas / Maxim DS1820 1-Wire library. For communication with multiple DS1820 on a single 1-Wire bus. Also supports DS18S20 and DS18B20.",
+    "frameworks": "mbed",
+    "keywords": [
+        "DS1820",
+        "DS1822",
+        "DS18B20",
+        "one-wire"
+    ],
+    "name": "DS1820",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/Michael_/code/DS1820/"
+    }
+}

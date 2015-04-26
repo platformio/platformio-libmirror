@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "JST 2011",
+        "url": "https://developer.mbed.org/users/JST2011/"
+    },
+    "description": "*power consumption control(phy , semihost) library written by Michael Wei\r\n(some compile errors with mbed lib (20131011) were fixed)\r\n*for Mbed LPC1768\r\n*for clock control , see \"ClockControl\"",
+    "examples": [
+        "https://developer.mbed.org/users/yamaguch/code/GPSReceiver-EthernetDisabled/",
+        "https://developer.mbed.org/users/udomsak/code/GPS_1590R-A/",
+        "https://developer.mbed.org/users/Deurklink/code/GPSXbee/",
+        "https://developer.mbed.org/users/lelect/code/SerialConsol/",
+        "https://developer.mbed.org/users/kayekss/code/IsuProject_LPC1768/",
+        "https://developer.mbed.org/teams/Projet-S5-Info/code/Projet_S5/",
+        "https://developer.mbed.org/users/strysd/code/int555/",
+        "https://developer.mbed.org/users/Deurklink/code/GPSXbee_1_1/",
+        "https://developer.mbed.org/users/Deurklink/code/GPSXbee_1_0/",
+        "https://developer.mbed.org/users/Deurklink/code/GPSXbeeCamera_1_0/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "power consumption",
+        "power control",
+        "power management",
+        "PowerControl"
+    ],
+    "name": "PowerControl",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/JST2011/code/PowerControl/"
+    }
+}

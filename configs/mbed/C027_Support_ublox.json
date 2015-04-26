@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "u-blox",
+        "url": "https://developer.mbed.org/teams/ublox/"
+    },
+    "description": "support library for C027 helper functions for Buffer Pipes, Buffered Serial Port (rtos capable) and GPS parsing. It includes modem APIs for USSD, SMS and Sockets.",
+    "examples": [
+        "https://developer.mbed.org/teams/ublox/code/HTTPClient_Cellular_HelloWorld/",
+        "https://developer.mbed.org/teams/ublox/code/Cellular_HelloMQTT/",
+        "https://developer.mbed.org/users/vwochnik/code/MbedSmartRestMain/",
+        "https://developer.mbed.org/users/kwchang2/code/Car_Bon_car_module/",
+        "https://developer.mbed.org/users/mazgch/code/Cellular_m2x-demo-all/",
+        "https://developer.mbed.org/teams/MBED_DEMOS/code/mbed_mqtt_endpoint_ublox_cellular/",
+        "https://developer.mbed.org/teams/MBED_DEMOS/code/mbed_nsp_endpoint_ublox_cellular/",
+        "https://developer.mbed.org/teams/ublox/code/Cellular_PubNubDemo/",
+        "https://developer.mbed.org/teams/ublox/code/MbedSmartRestMain/",
+        "https://developer.mbed.org/users/embeddedartists/code/lpc4088_ebb_ublox_Cellular_PubNubDemo/"
+    ],
+    "frameworks": "mbed",
+    "name": "C027_Support",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/teams/ublox/code/C027_Support/"
+    }
+}

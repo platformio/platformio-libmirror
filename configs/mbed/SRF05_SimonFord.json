@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://developer.mbed.org/users/simon/"
+    },
+    "description": "Library for the SRF05 Ultrasonic Rangefinder",
+    "examples": [
+        "https://developer.mbed.org/users/simon/code/SRF05_HelloWorld/",
+        "https://developer.mbed.org/users/sowmy87/code/Final_Sonar/",
+        "https://developer.mbed.org/users/warpedkevin/code/MyFinalDerbot/",
+        "https://developer.mbed.org/users/eman87/code/Ultra_Infra_TEST1/",
+        "https://developer.mbed.org/users/dan_cuspi/code/SensoresUltrasonicosSRF05/",
+        "https://developer.mbed.org/users/projetmacintel/code/ProjetMacIntel/",
+        "https://developer.mbed.org/users/arturocontreras/code/Algoritmo_Fuzzy/",
+        "https://developer.mbed.org/users/fblanc/code/DR14_4D7S_US/",
+        "https://developer.mbed.org/users/stevenjigo/code/SRF05_VTOL/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "RangeFinder",
+        "SRF05",
+        "ultrasonic"
+    ],
+    "name": "SRF05",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/simon/code/SRF05/"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://developer.mbed.org/users/okini3939/"
+    },
+    "description": "XBee-mbed library\n\nhttp://mbed.org/users/okini3939/notebook/xbee-mbed/",
+    "examples": [
+        "https://developer.mbed.org/users/recotana/code/device_server_udp/",
+        "https://developer.mbed.org/users/recotana/code/led_sender_post/",
+        "https://developer.mbed.org/users/takashiyamanoue/code/XBee_API_ex1/",
+        "https://developer.mbed.org/users/takashiyamanoue/code/XBee_API_ex2/",
+        "https://developer.mbed.org/users/takashiyamanoue/code/XBee_API_ex3/",
+        "https://developer.mbed.org/users/okini3939/code/XBee_wifi_sample/",
+        "https://developer.mbed.org/users/okini3939/code/XBee_sample/",
+        "https://developer.mbed.org/teams/aigamozu/code/program1/",
+        "https://developer.mbed.org/users/kityann/code/agz_base_ver2/",
+        "https://developer.mbed.org/teams/aigamozu/code/agz_base_ver2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "api",
+        "mode",
+        "xbee",
+        "zigbee"
+    ],
+    "name": "XBee",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/okini3939/code/XBee/"
+    }
+}

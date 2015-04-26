@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://developer.mbed.org/users/dreschpe/"
+    },
+    "description": "Make noise with a piezo buzzer. Use a pwm pin.",
+    "examples": [
+        "https://developer.mbed.org/users/jhaksar/code/Cave_Runner/",
+        "https://developer.mbed.org/users/DaveStyles/code/popcorn/",
+        "https://developer.mbed.org/users/TickTock/code/default/",
+        "https://developer.mbed.org/users/ghostaudio/code/USBMIDI_Buzzer/",
+        "https://developer.mbed.org/users/ghostaudio/code/USBMIDI_Buzzer2-array/",
+        "https://developer.mbed.org/users/togayan/code/LcdClock/",
+        "https://developer.mbed.org/users/ivygatech/code/SmartAlarm/",
+        "https://developer.mbed.org/teams/FRDM-K64F-Code-Share/code/Pir/",
+        "https://developer.mbed.org/users/MasanoriSakai/code/BLE_Thermometer_prototype/",
+        "https://developer.mbed.org/users/Clovis/code/RFID_and_Bluetooth_testing/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "buzzer",
+        "piezo"
+    ],
+    "name": "beep",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/dreschpe/code/beep/"
+    }
+}

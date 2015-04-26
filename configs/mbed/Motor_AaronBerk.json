@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Aaron Berk",
+        "url": "https://developer.mbed.org/users/aberk/"
+    },
+    "description": "Control a DC motor via a standard H-bridge using a PwmOut pin to control speed and two DigitalOut pins to control direction. Can change pwm period on the PwmOut pin, and also brake high or low.",
+    "examples": [
+        "https://developer.mbed.org/users/aberk/code/SimpleRover/",
+        "https://developer.mbed.org/users/aberk/code/PIDRover/",
+        "https://developer.mbed.org/users/aberk/code/IMURover/",
+        "https://developer.mbed.org/users/rahulsharmak/code/incrementalencoder-pid-robot/",
+        "https://developer.mbed.org/users/lilac0112_1/code/Program_of_Revenge/",
+        "https://developer.mbed.org/teams/Tyfighters/code/MotorsCode/",
+        "https://developer.mbed.org/teams/The-Best-Team-Ever/code/Project/",
+        "https://developer.mbed.org/teams/Tyfighters/code/launch_servo/",
+        "https://developer.mbed.org/users/mamaleoni/code/Lab07_PartC/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "H-bridge",
+        "motor",
+        "PwmOut"
+    ],
+    "name": "Motor",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/aberk/code/Motor/"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "authors": {
+        "name": "mbed official",
+        "url": "https://developer.mbed.org/users/mbed_official/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        }
+    ],
+    "description": "USBHost library",
+    "examples": [
+        "https://developer.mbed.org/users/va009039/code/BTstack/",
+        "https://developer.mbed.org/users/jksoft/code/WallbotWii/",
+        "https://developer.mbed.org/users/vinit/code/SD-to-Flash-Data-Transfer/",
+        "https://developer.mbed.org/users/avnisha/code/USBHost-MSD_HelloWorld/",
+        "https://developer.mbed.org/users/jakowisp/code/HW7_USBHostMSD/",
+        "https://developer.mbed.org/users/nagarajbatta/code/USBHost-MSD_Sensors_1/",
+        "https://developer.mbed.org/users/jakowisp/code/class_project_main/",
+        "https://developer.mbed.org/users/screamer/code/VodafoneUSBModem/",
+        "https://developer.mbed.org/users/4180_1/code/AppBoard_Waveplayer/",
+        "https://developer.mbed.org/users/okini3939/code/USBHostXpad_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Host",
+        "hub",
+        "keyboard",
+        "mbed",
+        "Mouse",
+        "MSD",
+        "rtos",
+        "Serial",
+        "USB"
+    ],
+    "name": "USBHost",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/mbed_official/code/USBHost/"
+    }
+}

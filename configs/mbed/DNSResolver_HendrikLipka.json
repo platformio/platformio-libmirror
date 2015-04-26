@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Hendrik Lipka",
+        "url": "https://developer.mbed.org/users/hlipka/"
+    },
+    "description": "Wraps the DNSRequest class from NetServices to be synchronous, which is easier to use.",
+    "examples": [
+        "https://developer.mbed.org/users/treebykooba/code/TwitPicExample/",
+        "https://developer.mbed.org/users/u0421793/code/SPIVFDclock/",
+        "https://developer.mbed.org/users/samux/code/RPC_mbed_client/",
+        "https://developer.mbed.org/users/claytong/code/QRSS_Rx/",
+        "https://developer.mbed.org/users/takahashim/code/WebSocketSample/",
+        "https://developer.mbed.org/users/SomeRandomBloke/code/MQTT_Test/",
+        "https://developer.mbed.org/users/hlipka/code/pop3demo/",
+        "https://developer.mbed.org/users/SomeRandomBloke/code/IoTGateway_Basic/",
+        "https://developer.mbed.org/users/NickRyder/code/CosmicDAQ/",
+        "https://developer.mbed.org/users/joinamruta/code/LPC1768_AppBoard_Internet_LCD_Clock/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "dns",
+        "network",
+        "TCP"
+    ],
+    "name": "DNSResolver",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/hlipka/code/DNSResolver/"
+    }
+}

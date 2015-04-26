@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://developer.mbed.org/users/simon/"
+    },
+    "description": "Library for the EM-406 GPS module",
+    "examples": [
+        "https://developer.mbed.org/users/simon/code/GPS_HelloWorld/",
+        "https://developer.mbed.org/users/kadams6/code/Lab3/",
+        "https://developer.mbed.org/users/takeuchi/code/2bk0115_GPS_Test00/",
+        "https://developer.mbed.org/users/hanif/code/campur/",
+        "https://developer.mbed.org/users/drealfemo/code/mbed_gps/",
+        "https://developer.mbed.org/teams/Project-Supergroup-06/code/mbed_gps/",
+        "https://developer.mbed.org/users/Alex4475/code/CompleteMbed/",
+        "https://developer.mbed.org/users/arturocontreras/code/Algoritmo_Fuzzy/",
+        "https://developer.mbed.org/users/samialshorman/code/BluetoothNONIN/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "EM406-GPS-Module",
+        "BR-355-GPS"
+    ],
+    "name": "GPS",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/simon/code/GPS/"
+    }
+}

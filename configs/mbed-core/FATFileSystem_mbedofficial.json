@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "mbed official",
+        "url": "https://developer.mbed.org/users/mbed_official/"
+    },
+    "description": "FATFileSystem",
+    "examples": [
+        "https://developer.mbed.org/users/Danton/code/SDFileSystem/",
+        "https://developer.mbed.org/users/earlz/code/SDFileSystem_tryagain/",
+        "https://developer.mbed.org/users/jksoft/code/WallbotWii/",
+        "https://developer.mbed.org/users/zchen311/code/SDFileSystem/",
+        "https://developer.mbed.org/users/jlpalaci/code/SDFileSystem/",
+        "https://developer.mbed.org/users/mosi/code/SDFileSystem/",
+        "https://developer.mbed.org/users/sherckuith/code/USBHost/",
+        "https://developer.mbed.org/users/doctorura/code/SDFileSystem/",
+        "https://developer.mbed.org/users/doubster/code/HW3/",
+        "https://developer.mbed.org/users/sherryxy/code/SDFileSystem/"
+    ],
+    "frameworks": "mbed",
+    "name": "FATFileSystem",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/mbed_official/code/FATFileSystem/"
+    }
+}

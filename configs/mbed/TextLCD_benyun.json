@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "ben yun",
+        "url": "https://developer.mbed.org/users/benyun/"
+    },
+    "examples": [
+        "https://developer.mbed.org/users/socdough/code/Project_Stepper/",
+        "https://developer.mbed.org/users/pramodnataraja/code/MP3_Player_Touch_Panel_Input_LCD_Display/",
+        "https://developer.mbed.org/users/mafischl/code/WeatherStation/",
+        "https://developer.mbed.org/users/jksoft/code/HTTPClientTest/",
+        "https://developer.mbed.org/users/nakata/code/WiFiPositioning/",
+        "https://developer.mbed.org/users/charly/code/RF22_MAX_test_Send/",
+        "https://developer.mbed.org/users/facuclop/code/01_proyecto_principal_facuclop/",
+        "https://developer.mbed.org/users/robo8080/code/FRDM_TSI_LCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "text"
+    ],
+    "name": "TextLCD",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/benyun/code/TextLCD/"
+    }
+}

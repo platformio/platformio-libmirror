@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Awadh Al Shukaili",
+        "url": "https://developer.mbed.org/users/aralshukaili/"
+    },
+    "description": "Library for controlling ultrasonic ranging module HCSR04\n\nPorted by hiawoood from arduino library orgininally created by ITead studio.",
+    "examples": [
+        "https://developer.mbed.org/users/DavidMeza/code/Ultrasonic/",
+        "https://developer.mbed.org/users/e00nagog/code/test/",
+        "https://developer.mbed.org/users/jaruiz/code/ZMOTO42/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HCSR04",
+        "Ranging",
+        "ultrasonic"
+    ],
+    "name": "HCSR04",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/aralshukaili/code/HCSR04/"
+    }
+}

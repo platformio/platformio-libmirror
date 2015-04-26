@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://developer.mbed.org/users/simon/"
+    },
+    "description": "An interface to read a PWM input signal, using InterruptIn",
+    "examples": [
+        "https://developer.mbed.org/users/simon/code/PwmIn_HelloWorld/",
+        "https://developer.mbed.org/users/kinemax/code/PwmIn_ModSerial/",
+        "https://developer.mbed.org/users/kinemax/code/CHR6dm_reading/",
+        "https://developer.mbed.org/users/bclaus/code/tugboat/",
+        "https://developer.mbed.org/users/bclaus/code/tugboat2/",
+        "https://developer.mbed.org/users/AlexF64/code/MSCUsbHost/",
+        "https://developer.mbed.org/users/Ellor1/code/Fast_PWM/",
+        "https://developer.mbed.org/users/tzxl10000/code/Fish_2014Fall/"
+    ],
+    "frameworks": "mbed",
+    "name": "PwmIn",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/simon/code/PwmIn/"
+    }
+}

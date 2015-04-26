@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Aaron Berk",
+        "url": "https://developer.mbed.org/users/aberk/"
+    },
+    "description": "Proportional, integral, derivative controller library. Ported from the Arduino PID library by Brett Beauregard.",
+    "examples": [
+        "https://developer.mbed.org/users/aberk/code/PIDRover/",
+        "https://developer.mbed.org/users/aberk/code/IMURover/",
+        "https://developer.mbed.org/users/aberk/code/PID_HelloWorld/",
+        "https://developer.mbed.org/users/aberk/code/PID_VelocityExample/",
+        "https://developer.mbed.org/users/harryeakins/code/SimplePIDBot/",
+        "https://developer.mbed.org/users/narshu/code/eurobot_2011_main/",
+        "https://developer.mbed.org/users/akudohune/code/ver1_2_0/",
+        "https://developer.mbed.org/users/akudohune/code/ver1_2_2/",
+        "https://developer.mbed.org/users/akudohune/code/ver1_2_2_1/",
+        "https://developer.mbed.org/users/rahulsharmak/code/incrementalencoder-pid-robot/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "control",
+        "PID"
+    ],
+    "name": "PID",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/aberk/code/PID/"
+    }
+}
