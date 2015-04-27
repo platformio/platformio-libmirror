@@ -51,7 +51,7 @@ class MbedTopSpider(scrapy.Spider):
         l.add_xpath('repository', '/html/body/div[4]/div[1]/div/a[2]/@href')
         l.add_xpath('description', './/*[@id="mbed-content"]/p[1]/text()')
         l.add_value('frameworks', 'mbed')
-        l.add_value('platforms', ['freescalekinetis', 'nordicnrf51', 'nxplpc', 'ststm32'])
+        l.add_value('platforms', ['freescalekinetis', 'nordicnrf51', 'nxplpc', 'ststm32', 'teensy'])
         l.add_xpath('components', '/html/body/div[4]/div[2]/div[3]//a/@href')
         item = l.load_item()
 
