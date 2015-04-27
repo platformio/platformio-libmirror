@@ -16,12 +16,16 @@
         "https://developer.mbed.org/users/jt/code/MCBBThermostat/"
     ],
     "frameworks": "mbed",
+    "keywords": [
+        "EthernetNetIf"
+    ],
     "name": "NetServices",
     "platforms": [
         "freescalekinetis",
         "nordicnrf51",
         "nxplpc",
-        "ststm32"
+        "ststm32",
+        "teensy"
     ],
     "repository": {
         "type": "hg",

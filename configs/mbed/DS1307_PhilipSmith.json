@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Philip Smith",
+        "url": "https://developer.mbed.org/users/harrypowers/"
+    },
+    "description": "This is a class for using the DS1307 Real Time Clock chip from Dallas Semiconductor.  This class uses mbeds i2c class to talk to the chip.  I have tested this currently on the LPC1768 mbed device with the Spark fun breakout board from http://www.sparkfun.com/products/99",
+    "examples": [
+        "https://developer.mbed.org/users/tombracer/code/Mbell/",
+        "https://developer.mbed.org/users/Renato/code/Astromed_build20121123/",
+        "https://developer.mbed.org/users/pegcjs/code/Raymon_pub_ver/",
+        "https://developer.mbed.org/users/pegcjs/code/CCRMonitor12_sp07_120ver/",
+        "https://developer.mbed.org/users/yihui/code/Arch_GroveRTC_Ex1/",
+        "https://developer.mbed.org/users/payarito32/code/Tarea5_Reloj_y_Alarma_DS1307/",
+        "https://developer.mbed.org/users/mescobart22/code/Tarea5_Relojds/",
+        "https://developer.mbed.org/users/juniorACA/code/Tarea5-V1/",
+        "https://developer.mbed.org/users/batrado/code/Nucleo_IWDG/",
+        "https://developer.mbed.org/users/RubenHendriks/code/RTC/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "clock",
+        "ds1307",
+        "I2C",
+        "RTC"
+    ],
+    "name": "DS1307",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32",
+        "teensy"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/harrypowers/code/DS1307/"
+    }
+}

@@ -18,8 +18,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "buffer",
         "Buffered",
-        "MODSERIAL",
+        "rs232",
+        "RS485",
         "Serial"
     ],
     "name": "MODSERIAL",
@@ -27,7 +29,8 @@
         "freescalekinetis",
         "nordicnrf51",
         "nxplpc",
-        "ststm32"
+        "ststm32",
+        "teensy"
     ],
     "repository": {
         "type": "hg",

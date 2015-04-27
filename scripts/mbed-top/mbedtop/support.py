@@ -1,5 +1,8 @@
 import types
 
+def mbed_platforms():
+    return ['freescalekinetis', 'nordicnrf51', 'nxplpc', 'ststm32', 'teensy']
+
 def strip_mbed_url(resource):
     if isinstance(resource, types.StringTypes):
         resource = resource.replace("https://developer.mbed.org", "")
@@ -28,13 +31,35 @@ mbedrtos_mbedofficial.json
 mbedsrc_mbedofficial.json
 Socket_mbedofficial.json
 USBDevice_mbedofficial.json
+
+ls -1 $HOME/.platformio/packages/framework-mbed/libs/*|grep -v TARGET|sort|grep -v ^$HOME|grep -v ^$|grep -v \\.h
+ChaN
+EthernetInterface
+lwip
+lwip-eth
+lwip-sys
+Socket
+USBAudio
+USBDevice
+USBHID
+USBHost
+USBHost3GModule
+USBHostHID
+USBHostHub
+USBHostMIDI
+USBHostMSD
+USBHostSerial
+USBMIDI
+USBMSD
+USBSerial
 '''
 def is_mbed_core_library(url='', name='', owner=''):
     blacklist = [ 
         'mbed', 'mbed-rtos', 'mbed-src', 'mbed-rpc',
         'lwip', 'lwip-eth', 'lwip-sys',
-        'EthernetInterface', 'Socket', 
-        'USBDevice', 'USBHost', 
+        'EthernetInterface', 'Socket', 'ChaN',
+        'USBAudio', 'USBDevice', 'USBHID', 'USBMIDI', 'USBMSD', 'USBSerial',
+        'USBHost', 'USBHost3GModule', 'USBHostHID', 'USBHostHub', 'USBHostMIDI', 'USBHostMSD', 'USBHostSerial',
         'FATFileSystem',
     ]
     if "https://" in url:

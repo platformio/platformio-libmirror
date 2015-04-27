@@ -51,7 +51,7 @@ class MbedTopSpider(scrapy.Spider):
         l.add_xpath('repository', '/html/body/div[4]/div[1]/div/a[2]/@href')
         l.add_xpath('description', './/*[@id="mbed-content"]/p[1]/text()')
         l.add_value('frameworks', 'mbed')
-        l.add_value('platforms', ['freescalekinetis', 'nordicnrf51', 'nxplpc', 'ststm32'])
+        l.add_value('platforms', mbed_platforms())
         l.add_xpath('components', '/html/body/div[4]/div[2]/div[3]//a/@href')
         item = l.load_item()
 
@@ -93,7 +93,7 @@ class MbedTopSpider(scrapy.Spider):
         item = l.load_item()
 
         # if we already know keywords, we can used cached results:
-        if item['name'] in self.lib_tags:
+        if 0 and (item['name'] in self.lib_tags):
             item['keywords'] = self.lib_tags[item['name']]
             self.log('Found keywords for '+item['name']+' in lib_tags')
             return item
@@ -120,7 +120,8 @@ class MbedTopSpider(scrapy.Spider):
 
             if (len(name) > 0) and (len(tags) > 0):
                 self.lib_tags[name[0]] = tags
-                print "+++ Found keywords for", name, ": ", tags
+                #print "+++ Found keywords for", name, ": ", tags
+                self.log('Storing keywords for '+name[0])
 
         if item['name'] in self.lib_tags:
             item['keywords'] = self.lib_tags[item['name']]

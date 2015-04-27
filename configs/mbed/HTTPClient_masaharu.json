@@ -16,12 +16,21 @@
         "https://developer.mbed.org/users/nxpfan/code/TwitterExample/"
     ],
     "frameworks": "mbed",
+    "keywords": [
+        "authorization",
+        "client",
+        "custom",
+        "headers",
+        "http",
+        "HTTPClient"
+    ],
     "name": "HTTPClient",
     "platforms": [
         "freescalekinetis",
         "nordicnrf51",
         "nxplpc",
-        "ststm32"
+        "ststm32",
+        "teensy"
     ],
     "repository": {
         "type": "hg",

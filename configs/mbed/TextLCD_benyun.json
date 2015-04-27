@@ -15,15 +15,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "text"
+        "HD44780",
+        "TextLCD"
     ],
     "name": "TextLCD",
     "platforms": [
         "freescalekinetis",
         "nordicnrf51",
         "nxplpc",
-        "ststm32"
+        "ststm32",
+        "teensy"
     ],
     "repository": {
         "type": "hg",
