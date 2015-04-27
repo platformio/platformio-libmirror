@@ -6,6 +6,10 @@
     "dependencies": [
         {
             "frameworks": "mbed",
+            "name": "FATFileSystem"
+        },
+        {
+            "frameworks": "mbed",
             "name": "mbed-rtos"
         }
     ],

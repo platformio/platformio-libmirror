@@ -14,9 +14,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "SD",
-        "SDFileSystem",
-        "sdhcfilesystem"
+        "FAT",
+        "SD"
     ],
     "name": "SDHCFileSystem",
     "platforms": [

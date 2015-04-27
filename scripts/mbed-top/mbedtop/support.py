@@ -31,8 +31,11 @@ USBDevice_mbedofficial.json
 '''
 def is_mbed_core_library(url='', name='', owner=''):
     blacklist = [ 
-        'mbed', 'mbed-rtos', 'mbed-src', 'lwip', 'lwip-eth', 'lwip-sys',
-        'EthernetInterface', 'Socket', 'USBDevice'
+        'mbed', 'mbed-rtos', 'mbed-src', 'mbed-rpc',
+        'lwip', 'lwip-eth', 'lwip-sys',
+        'EthernetInterface', 'Socket', 
+        'USBDevice', 'USBHost', 
+        'FATFileSystem',
     ]
     if "https://" in url:
         url = strip_mbed_url(url).split('/')
