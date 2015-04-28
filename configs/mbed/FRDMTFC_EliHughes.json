@@ -3,12 +3,6 @@
         "name": "Eli Hughes",
         "url": "https://developer.mbed.org/users/emh203/"
     },
-    "dependencies": [
-        {
-            "frameworks": "mbed",
-            "name": "mbed"
-        }
-    ],
     "description": "Official library for the FRDM-TFC shield",
     "examples": [
         "https://developer.mbed.org/users/redxeth/code/TFC-TEST/",

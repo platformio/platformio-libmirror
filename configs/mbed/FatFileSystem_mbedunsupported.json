@@ -3,12 +3,6 @@
         "name": "mbed unsupported",
         "url": "https://developer.mbed.org/users/mbed_unsupported/"
     },
-    "dependencies": [
-        {
-            "frameworks": "mbed",
-            "name": "mbed"
-        }
-    ],
     "description": "Unsupported version of FatFileSystem, included for compatibility.",
     "examples": [
         "https://developer.mbed.org/users/KatsushiOgawa/code/SDFileSystem/",

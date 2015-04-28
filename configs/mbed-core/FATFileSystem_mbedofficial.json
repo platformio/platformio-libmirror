@@ -1,20 +1,12 @@
 {
     "authors": {
         "name": "mbed official",
-        "url": "https://developer.mbed.org/users/mbed_official/"
+        "url": "https://developer.mbed.org/teams/mbed-official/"
     },
     "description": "FATFileSystem",
     "examples": [
-        "https://developer.mbed.org/users/Danton/code/SDFileSystem/",
-        "https://developer.mbed.org/users/earlz/code/SDFileSystem_tryagain/",
-        "https://developer.mbed.org/users/jksoft/code/WallbotWii/",
-        "https://developer.mbed.org/users/zchen311/code/SDFileSystem/",
-        "https://developer.mbed.org/users/jlpalaci/code/SDFileSystem/",
-        "https://developer.mbed.org/users/mosi/code/SDFileSystem/",
-        "https://developer.mbed.org/users/sherckuith/code/USBHost/",
-        "https://developer.mbed.org/users/doctorura/code/SDFileSystem/",
-        "https://developer.mbed.org/users/doubster/code/HW3/",
-        "https://developer.mbed.org/users/sherryxy/code/SDFileSystem/"
+        "https://developer.mbed.org/users/jaerts/code/SDFileSystem/",
+        "https://developer.mbed.org/users/neilt6/code/SDFileSystem/"
     ],
     "frameworks": "mbed",
     "name": "FATFileSystem",
@@ -27,6 +19,6 @@
     ],
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/mbed_official/code/FATFileSystem/"
+        "url": "https://developer.mbed.org/teams/mbed-official/code/FATFileSystem/"
     }
 }

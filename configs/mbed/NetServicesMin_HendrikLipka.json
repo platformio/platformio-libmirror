@@ -3,16 +3,6 @@
         "name": "Hendrik Lipka",
         "url": "https://developer.mbed.org/users/hlipka/"
     },
-    "dependencies": [
-        {
-            "frameworks": "mbed",
-            "name": "lwip"
-        },
-        {
-            "frameworks": "mbed",
-            "name": "lwip-sys"
-        }
-    ],
     "description": "Stripped down version of Segundos NetService library (http://mbed.org/users/segundo/libraries/NetServices ). I have removed all NetServices, and all functions which had been disabled. Use this version when you need only pure TCP or UDP functions - this library compiles faster.",
     "examples": [
         "https://developer.mbed.org/users/alpsayin/code/christmasLights/",

@@ -3,16 +3,6 @@
         "name": "mbed official",
         "url": "https://developer.mbed.org/users/mbed_official/"
     },
-    "dependencies": [
-        {
-            "frameworks": "mbed",
-            "name": "FATFileSystem"
-        },
-        {
-            "frameworks": "mbed",
-            "name": "mbed-rtos"
-        }
-    ],
     "description": "USBHost library",
     "examples": [
         "https://developer.mbed.org/users/va009039/code/BTstack/",

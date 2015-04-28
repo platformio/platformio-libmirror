@@ -3,12 +3,6 @@
         "name": "Neil Thiessen",
         "url": "https://developer.mbed.org/users/neilt6/"
     },
-    "dependencies": [
-        {
-            "frameworks": "mbed",
-            "name": "FATFileSystem"
-        }
-    ],
     "description": "A re-written SDFileSystem library with improved compatibility, CRC support, and card removal/replacement support.",
     "examples": [
         "https://developer.mbed.org/users/whatnick/code/xadow_m0_SD_Hello/",

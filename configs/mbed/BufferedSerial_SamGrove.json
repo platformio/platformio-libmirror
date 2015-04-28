@@ -3,7 +3,12 @@
         "name": "Sam Grove",
         "url": "https://developer.mbed.org/users/sam_grove/"
     },
-    "dependencies": [],
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "Buffer"
+        }
+    ],
     "description": "Inherit from Serial and use software buffers for TX and RX. This allows the UART peripherals to operate in a IRQ driven mode. Overrides most (but not all) stdio functions as Serial did",
     "examples": [
         "https://developer.mbed.org/users/yihui/code/USB2UART/",

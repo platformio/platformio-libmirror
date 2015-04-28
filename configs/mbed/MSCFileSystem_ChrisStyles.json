@@ -3,7 +3,12 @@
         "name": "Chris Styles",
         "url": "https://developer.mbed.org/users/chris/"
     },
-    "dependencies": [],
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "FatFileSystem"
+        }
+    ],
     "description": "Added FATFileSystem",
     "examples": [
         "https://developer.mbed.org/users/chris/code/USBFlashDiskTest/",

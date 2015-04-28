@@ -3,12 +3,6 @@
         "name": "EmbeddedArtists AB",
         "url": "https://developer.mbed.org/users/embeddedartists/"
     },
-    "dependencies": [
-        {
-            "frameworks": "mbed",
-            "name": "FATFileSystem"
-        }
-    ],
     "description": "A library with drivers for different peripherals on the LPC4088 QuickStart Board or related add-on boards.",
     "examples": [
         "https://developer.mbed.org/users/mio/code/LPC4088test/",

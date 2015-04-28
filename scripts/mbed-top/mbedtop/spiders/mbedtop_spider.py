@@ -77,10 +77,10 @@ class MbedTopSpider(scrapy.Spider):
                 url.replace("https://developer.mbed.org/","")
                 urllist = url.split('/') 
                 #print "---- dependency urllist is len",len(urllist),": ",urllist
-		if (len(urllist) > 4) and is_mbed_core_library(owner=urllist[2],name=urllist[4]):
+		if (len(urllist) > 4) and not is_mbed_core_library(owner=urllist[2],name=urllist[4]):
                     deps.append({ 'name' : urllist[4], 'frameworks' : 'mbed' })
 
-            item['dependencies'] = deps
+            if len(deps): item['dependencies'] = deps
 
         request = scrapy.Request(response.meta['libpage']+"dependents",callback=self.parse_examples)
         request.meta['libpage'] = response.meta['libpage']

@@ -17,6 +17,9 @@
         "https://developer.mbed.org/users/jt/code/MCBBThermostat/"
     ],
     "frameworks": "mbed",
+    "keywords": [
+        "EthernetNetIf"
+    ],
     "name": "NetServices",
     "platforms": [
         "freescalekinetis",
