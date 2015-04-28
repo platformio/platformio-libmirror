@@ -64,3 +64,6 @@ ID | Project Repository | Manifest Repository | Project Manifest URL
 160 | [adafruit/Adafruit_INA219](https://github.com/adafruit/Adafruit_INA219) | [gandy92/Adafruit_INA219](https://raw.githubusercontent.com/gandy92/Adafruit_INA219/master/library.json) | 
 161 | [adafruit/SD](https://github.com/adafruit/SD.git) | [ivankravets/SD](https://raw.githubusercontent.com/ivankravets/SD/patch-1/library.json) | 
 172 | [guanix/arduino-nrf8001](https://github.com/guanix/arduino-nrf8001.git) | [gandy92/arduino-nrf8001](https://raw.githubusercontent.com/gandy92/arduino-nrf8001/master/library.json) | 
+184 | [users/simon](https://developer.mbed.org/users/simon/code/TextLCD/) | [platformio/platformio-libmirror](https://raw.githubusercontent.com/platformio/platformio-libmirror/master/configs/mbed/TextLCD_SimonFord.json) | 
+185 | [users/aberk](https://developer.mbed.org/users/aberk/code/PID/) | [platformio/platformio-libmirror](https://raw.githubusercontent.com/platformio/platformio-libmirror/master/configs/mbed/PID_AaronBerk.json) | 
+186 | [users/tristanjph](https://developer.mbed.org/users/tristanjph/code/xbee_lib/) | [platformio/platformio-libmirror](https://raw.githubusercontent.com/platformio/platformio-libmirror/master/configs/mbed/xbee_lib_TristanHughes.json) | 
