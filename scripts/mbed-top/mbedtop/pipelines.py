@@ -28,6 +28,15 @@ class JsonWriterPipeline(object):
 	if is_mbed_core_library(name=item['name'], owner=item['owner']):
             path = "../../configs/mbed-core/"
 
+        #TODO: Read existing file and add overwrite parsed fields only
+        # so that moderated files do not lose information
+
+        dirty = 0
+        for key in pio_required_fields():
+            if not key in item: dirty = 1
+        if dirty:
+            path = path + "moderation/"
+
         with open(path+filename+".json", "w") as f:
             expo = self.copy_selected(item, self.copykeys)
             json.dump(dict(expo), f, indent=4, sort_keys=True, separators=(',', ': '))

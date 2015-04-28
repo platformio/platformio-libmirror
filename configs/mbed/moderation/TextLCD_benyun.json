@@ -3,7 +3,6 @@
         "name": "ben yun",
         "url": "https://developer.mbed.org/users/benyun/"
     },
-    "description": "",
     "examples": [
         "https://developer.mbed.org/users/socdough/code/Project_Stepper/",
         "https://developer.mbed.org/users/pramodnataraja/code/MP3_Player_Touch_Panel_Input_LCD_Display/",
@@ -16,8 +15,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "text"
+        "HD44780",
+        "TextLCD"
     ],
     "name": "TextLCD",
     "platforms": [

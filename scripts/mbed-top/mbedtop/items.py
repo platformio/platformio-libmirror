@@ -30,10 +30,12 @@ class CleanupList(object):
     def __call__(self, values):
         nvalues = []
         for value in values:
-            if value not in nvalues:
+            if (value not in nvalues) and (value != ""):
                 nvalues.append(value)
         if len(nvalues) == 1:
             return nvalues[0]
+        if len(nvalues) == 0:
+            return None
         return nvalues
 
 

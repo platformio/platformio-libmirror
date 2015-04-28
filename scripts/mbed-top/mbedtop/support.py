@@ -3,6 +3,9 @@ import types
 def mbed_platforms():
     return ['freescalekinetis', 'nordicnrf51', 'nxplpc', 'ststm32', 'teensy']
 
+def pio_required_fields():
+    return ['description', 'keywords']
+
 def strip_mbed_url(resource):
     if isinstance(resource, types.StringTypes):
         resource = resource.replace("https://developer.mbed.org", "")
