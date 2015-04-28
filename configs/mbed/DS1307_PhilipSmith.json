@@ -3,7 +3,7 @@
         "name": "Philip Smith",
         "url": "https://developer.mbed.org/users/harrypowers/"
     },
-    "description": "This is a class for using the DS1307 Real Time Clock chip from Dallas Semiconductor.  This class uses mbeds i2c class to talk to the chip.  I have tested this currently on the LPC1768 mbed device with the Spark fun breakout board from http://www.sparkfun.com/products/99",
+    "description": "This is a class for using the DS1307 Real Time Clock chip from Dallas Semiconductor. This class uses mbeds i2c class to talk to the chip. I have tested this currently on the LPC1768 mbed device with the Spark fun breakout board from http://www.sparkfun.com/products/99",
     "examples": [
         "https://developer.mbed.org/users/tombracer/code/Mbell/",
         "https://developer.mbed.org/users/Renato/code/Astromed_build20121123/",

@@ -3,7 +3,7 @@
         "name": "Todor Todorov",
         "url": "https://developer.mbed.org/users/ttodorov/"
     },
-    "description": "This is a port of Henning Kralsen's UTFT library for Arduino/chipKIT to mbed, refactored to make full use of C++ inheritance and access control, in order to reduce work when implementing new drivers and at the same time make the code more readable and easier to maintain.\r\n\r\nAs of now supported are SSD1289 (16-bit interface), HX8340-B (serial interface) and ST7735 (serial interface). Drivers for other controllers will be added as time and resources to acquire the displays to test the code permit.",
+    "description": "This is a port of Henning Kralsen's UTFT library for Arduino/chipKIT to mbed, refactored to make full use of C++ inheritance and access control, in order to reduce work when implementing new drivers and at the same time make the code more readable and easier to maintain. As of now supported are SSD1289 (16-bit interface), HX8340-B (serial interface) and ST7735 (serial interface). Drivers for other controllers will be added as time and resources to acquire the displays to test the code permit.",
     "examples": [
         "https://developer.mbed.org/users/allanalpha/code/test/",
         "https://developer.mbed.org/users/Danton/code/SDCard/",

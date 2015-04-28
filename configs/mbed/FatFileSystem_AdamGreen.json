@@ -3,7 +3,7 @@
         "name": "Adam Green",
         "url": "https://developer.mbed.org/users/AdamGreen/"
     },
-    "description": "Updated FAT File System driver.\n\nFeatures include:\n* Updated to R0.09 - Sep 06, 2011 [[http://elm-chan.org/fsw/ff/00index_e.html]]\n* Bug fixes from St\u00e9phane Bausseron\n** [[http://mbed.org/forum/mbed/topic/2273/?page=1#comment-11521]]\n** [[http://mbed.org/forum/mbed/topic/2307]]\n* Long filename support enabled and exposed through mbed SDK.",
+    "description": "Updated FAT File System driver. Features include: * Updated to R0.09 - Sep 06, 2011 [[http://elm-chan.org/fsw/ff/00index_e.html]] * Bug fixes from St\u00e9phane Bausseron ** [[http://mbed.org/forum/mbed/topic/2273/?page=1#comment-11521]] ** [[http://mbed.org/forum/mbed/topic/2307]] * Long filename support enabled and exposed through mbed SDK.",
     "examples": [
         "https://developer.mbed.org/users/AdamGreen/code/WeatherStation/",
         "https://developer.mbed.org/users/jksoft/code/GPSLogger/",

@@ -6,6 +6,7 @@
 # http://doc.scrapy.org/en/latest/topics/items.html
 
 import scrapy
+import re
 
 from scrapy.contrib.loader import ItemLoader
 from scrapy.contrib.loader.processor import MapCompose, Join, TakeFirst, Compose
@@ -18,7 +19,7 @@ from w3lib.html import remove_entities
 
 def strip_component(str):
     if str:
-        str = str.strip()
+        str = re.sub(r"\s+", " ", str.replace("\n", " ")).strip()
         return str
 
     return None

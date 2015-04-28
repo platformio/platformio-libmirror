@@ -3,7 +3,7 @@
         "name": "Stefan Mueller",
         "url": "https://developer.mbed.org/users/NeoBelerophon/"
     },
-    "description": "First working version of a FATFileSystem compatible Chan FAT v0.8 implementation. This is intended to use with long file names and RTOS support.\n\nFor now long file names work but RTOS support is still untested.",
+    "description": "First working version of a FATFileSystem compatible Chan FAT v0.8 implementation. This is intended to use with long file names and RTOS support. For now long file names work but RTOS support is still untested.",
     "examples": [
         "https://developer.mbed.org/users/okini3939/code/USB_MSC/",
         "https://developer.mbed.org/users/okini3939/code/USB_CDC_MSD_Hello/",
