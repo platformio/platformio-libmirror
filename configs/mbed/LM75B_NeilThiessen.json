@@ -18,8 +18,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Celsius",
+        "driver",
         "I2C",
-        "LM75B"
+        "LM75B",
+        "nxp",
+        "sensor",
+        "Temperature"
     ],
     "name": "LM75B",
     "platforms": [

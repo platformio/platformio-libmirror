@@ -17,6 +17,10 @@
         "https://developer.mbed.org/users/marcbax/code/EtonBreadboard1/"
     ],
     "frameworks": "mbed",
+    "keywords": [
+        "PwmOut",
+        "Servo"
+    ],
     "name": "Servo",
     "platforms": [
         "freescalekinetis",

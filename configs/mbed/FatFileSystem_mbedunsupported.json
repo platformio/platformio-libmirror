@@ -1,0 +1,41 @@
+{
+    "authors": {
+        "name": "mbed unsupported",
+        "url": "https://developer.mbed.org/users/mbed_unsupported/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Unsupported version of FatFileSystem, included for compatibility.",
+    "examples": [
+        "https://developer.mbed.org/users/KatsushiOgawa/code/SDFileSystem/",
+        "https://developer.mbed.org/users/hosei2/code/nisiBlutooth/",
+        "https://developer.mbed.org/users/chris/code/USBFlashDiskTest/",
+        "https://developer.mbed.org/users/shintamainjp/code/Toragi_2012_PachubeCosm/",
+        "https://developer.mbed.org/users/jksoft/code/SDFileSystem_HelloWorld_1/",
+        "https://developer.mbed.org/users/pangsk/code/ecu_reader/",
+        "https://developer.mbed.org/users/Xach/code/PVA_logger/",
+        "https://developer.mbed.org/users/y_notsu/code/MARMEX_Oled_GPS_6/",
+        "https://developer.mbed.org/users/chris/code/mbed-App-USBFlash/",
+        "https://developer.mbed.org/users/higedura/code/9DOF_SensorStick/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "fatfilesystem"
+    ],
+    "name": "FatFileSystem",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32",
+        "teensy"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/mbed_unsupported/code/FatFileSystem/"
+    }
+}

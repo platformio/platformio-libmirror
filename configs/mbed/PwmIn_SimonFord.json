@@ -15,6 +15,10 @@
         "https://developer.mbed.org/users/tzxl10000/code/Fish_2014Fall/"
     ],
     "frameworks": "mbed",
+    "keywords": [
+        "InterruptIn",
+        "PwmIn"
+    ],
     "name": "PwmIn",
     "platforms": [
         "freescalekinetis",

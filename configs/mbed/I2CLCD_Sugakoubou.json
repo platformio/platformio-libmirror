@@ -11,6 +11,10 @@
         "https://developer.mbed.org/users/okini3939/code/WeatherStation/"
     ],
     "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LCD"
+    ],
     "name": "I2CLCD",
     "platforms": [
         "freescalekinetis",

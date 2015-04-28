@@ -1,0 +1,42 @@
+{
+    "authors": {
+        "name": "Eli Hughes",
+        "url": "https://developer.mbed.org/users/emh203/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Official library for the FRDM-TFC shield",
+    "examples": [
+        "https://developer.mbed.org/users/redxeth/code/TFC-TEST/",
+        "https://developer.mbed.org/users/redxeth/code/TFC-RACING-DEMO/",
+        "https://developer.mbed.org/users/morgonXak/code/TFC-RACING-DEMO/",
+        "https://developer.mbed.org/users/mrkeithcyr/code/TFC-Mentoring-Matters-Abstraction/",
+        "https://developer.mbed.org/teams/TFC/code/TFC-RACING-DEMO/",
+        "https://developer.mbed.org/users/SaverioF15/code/test_galileo/",
+        "https://developer.mbed.org/users/Jmon14/code/RaceCar/",
+        "https://developer.mbed.org/teams/Texas-State-IEEE-Robotics/code/TFC_run_track_oneline/",
+        "https://developer.mbed.org/teams/fatboyslim/code/fatboyslim/",
+        "https://developer.mbed.org/users/anthonylamme/code/TFC-TEST_TXSTATE_TEAM6_A/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Cup",
+        "Freescale"
+    ],
+    "name": "FRDM-TFC",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32",
+        "teensy"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/emh203/code/FRDM-TFC/"
+    }
+}

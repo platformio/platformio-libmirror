@@ -17,6 +17,10 @@
         "https://developer.mbed.org/users/dan_cuspi/code/OMNi-Robot_no_borrar/"
     ],
     "frameworks": "mbed",
+    "keywords": [
+        "IR",
+        "remote"
+    ],
     "name": "RemoteIR",
     "platforms": [
         "freescalekinetis",

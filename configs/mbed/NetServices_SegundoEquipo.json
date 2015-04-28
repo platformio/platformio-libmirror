@@ -3,6 +3,7 @@
         "name": "Segundo Equipo",
         "url": "https://developer.mbed.org/users/segundo/"
     },
+    "description": "",
     "examples": [
         "https://developer.mbed.org/users/hlipka/code/TimeZoneDemo/",
         "https://developer.mbed.org/users/hlipka/code/EthernetJackTestCode/",
@@ -16,9 +17,6 @@
         "https://developer.mbed.org/users/jt/code/MCBBThermostat/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "EthernetNetIf"
-    ],
     "name": "NetServices",
     "platforms": [
         "freescalekinetis",

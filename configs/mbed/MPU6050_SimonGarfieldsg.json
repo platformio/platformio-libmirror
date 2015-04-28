@@ -14,7 +14,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MPU6000",
+        "accelerometer",
+        "gyroscope",
+        "I2C",
+        "MPU-6050",
         "MPU6050",
         "MPU60x0"
     ],

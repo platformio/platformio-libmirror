@@ -19,7 +19,10 @@
     "frameworks": "mbed",
     "keywords": [
         "CC3000",
-        "firmware"
+        "socket",
+        "TCP",
+        "UDP",
+        "wifi"
     ],
     "name": "cc3000_hostdriver_mbedsocket",
     "platforms": [

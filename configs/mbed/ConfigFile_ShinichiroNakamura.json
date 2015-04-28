@@ -17,6 +17,10 @@
         "https://developer.mbed.org/users/okini3939/code/WeatherPlatform/"
     ],
     "frameworks": "mbed",
+    "keywords": [
+        "Config",
+        "file"
+    ],
     "name": "ConfigFile",
     "platforms": [
         "freescalekinetis",

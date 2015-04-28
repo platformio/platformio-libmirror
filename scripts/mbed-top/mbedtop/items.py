@@ -17,7 +17,11 @@ from w3lib.html import remove_entities
 # http://doc.scrapy.org/en/0.24/topics/request-response.html#topics-request-response-ref-request-callback-arguments
 
 def strip_component(str):
-    return str.strip() or None
+    if str:
+        str = str.strip()
+        return str
+
+    return None
 
 
 class CleanupList(object):

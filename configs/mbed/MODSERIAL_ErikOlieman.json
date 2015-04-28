@@ -18,10 +18,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "buffer",
         "Buffered",
-        "rs232",
-        "RS485",
+        "MODSERIAL",
         "Serial"
     ],
     "name": "MODSERIAL",

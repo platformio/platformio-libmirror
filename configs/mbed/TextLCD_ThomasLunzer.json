@@ -3,6 +3,7 @@
         "name": "Thomas Lunzer",
         "url": "https://developer.mbed.org/users/tlunzer/"
     },
+    "description": "",
     "examples": [
         "https://developer.mbed.org/users/tlunzer/code/revcounter/",
         "https://developer.mbed.org/users/marishi/code/SDFileSystem_Load/",
@@ -16,8 +17,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "text"
+        "16x1",
+        "TextLCD"
     ],
     "name": "TextLCD",
     "platforms": [

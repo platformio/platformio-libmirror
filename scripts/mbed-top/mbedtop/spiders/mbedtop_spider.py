@@ -6,9 +6,8 @@ from mbedtop.support import *
 class MbedTopSpider(scrapy.Spider):
     name = "mbedtop"
     allowed_domains = ["developer.mbed.org"]
-    start_urls = [
-        "https://developer.mbed.org/search/?q=&selected_facets=obj_type_exact%3ACode+Repository&repo_type=Library&order_by=-import_count"
-    ]
+    start_urls = [ "https://developer.mbed.org/search/?q=&selected_facets=obj_type_exact%3ACode+Repository&repo_type=Library&order_by=-import_count" ]
+    #start_urls = [ 'https://developer.mbed.org/search/?type=&q=TMP102' ]
     seen_urls = []
     lib_tags = {}   # will contain dict with "%NAME%" : [ %TAGS% ]
 
@@ -62,21 +61,23 @@ class MbedTopSpider(scrapy.Spider):
 
     def parse_dependencies(self, response):
         item = response.meta['item']
-        l = MbedLibLoader(item=item, response=response)
-        l.add_xpath('dependencies', './/*[@id="mbed-content"]//div/div[2]/div[2]/div[1]/b/a/@href')
-        item = l.load_item()
+        
+        deplist = response.xpath('.//*[@id="mbed-content"]//div/div[2]/div[2]/div[1]/b/a/@href').extract()
 
-        if 'dependencies' in item:
-            for i, url in enumerate(item['dependencies']):
-                if url[0] == '/': url = 'https://developer.mbed.org'+url
-                if not url in self.seen_urls:
+        if len(deplist):
+            print "****** dependencies for",item['name'],"are:",deplist
+            for url in deplist:
+                if (url != "/") and (url[0] == '/') : url = 'https://developer.mbed.org'+url
+                if ("https://" in url) and not (url in self.seen_urls):
+                    print ">>>>>>>>>>> follow dependency",url
                     yield scrapy.Request(url,callback=self.parse_project)
 
             deps = []
-            for url in item['dependencies']:
+            for url in deplist:
                 url.replace("https://developer.mbed.org/","")
                 urllist = url.split('/') 
-		if is_mbed_core_library(owner=urllist[2],name=urllist[4]):
+                #print "---- dependency urllist is len",len(urllist),": ",urllist
+		if (len(urllist) > 4) and is_mbed_core_library(owner=urllist[2],name=urllist[4]):
                     deps.append({ 'name' : urllist[4], 'frameworks' : 'mbed' })
 
             item['dependencies'] = deps
@@ -114,16 +115,27 @@ class MbedTopSpider(scrapy.Spider):
     def parse_tags(self, response):
         item = response.meta['item']
 
+        next = response.xpath(".//*[@class='paginate-next']/a/@href").extract()
+
         for elem in response.xpath('.//*[@id="mbed-content"]/div'):
             name = elem.xpath('div[2]/div/div[1]/b/a/text()').extract()
             tags = elem.xpath('div[2]/div/div[2]/a/text()').extract()
 
             if (len(name) > 0) and (len(tags) > 0):
                 self.lib_tags[name[0]] = tags
-                #print "+++ Found keywords for", name, ": ", tags
+                print "+++ Found keywords for", name, ": ", tags
                 self.log('Storing keywords for '+name[0])
 
         if item['name'] in self.lib_tags:
             item['keywords'] = self.lib_tags[item['name']]
+
+        if len(next):
+            print ">>> Next is",next
+            url = "https://developer.mbed.org"+item['ownerurl']+"code/"+next[0]
+
+            request = scrapy.Request(url,callback=self.parse_tags)
+            request.meta['libpage'] = response.meta['libpage']
+            request.meta['item'] = item
+            return request
 
         return item
