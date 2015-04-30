@@ -18,4 +18,4 @@ echo "-----------|----------|------------") > TOP-libs-TODO.md
 	fi
 done
 
-#git add *.md; git commit -m 'automated update using mk-summary.sh'
+git add *.md; git commit -m 'automated update using mk-summary.sh'
