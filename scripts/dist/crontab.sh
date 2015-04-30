@@ -11,9 +11,13 @@
 # Also note that add but uncommited files withh be committed and pushed
 # when the script ./mk-summary.sh is executed
 
-cd $(dirname $0)
+cd $(dirname $0)/../github-top
 git pull >/dev/null 2>/dev/null
 ./mk-list-platformio.sh >/dev/null 2>/dev/null
 ./mk-list-accepted.sh >/dev/null 2>/dev/null
 ./mk-summary.sh >/dev/null 2>/dev/null
 
+cd $(dirname $0)/../mbed-top
+./mk-summary.sh >/dev/null 2>/dev/null
+
+git push
