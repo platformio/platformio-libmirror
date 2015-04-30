@@ -3,7 +3,7 @@
         "name": "Christopher Hasler",
         "url": "https://developer.mbed.org/users/littlexc/"
     },
-    "description": "motor drive libary to use speed control, coasting and dynamic braking. NOTE, dynamic braking my result in large currents. this may or may not set the motor driver on fire/break it/other undesired effects. so read the data sheet folks.",
+    "description": "motor drive libary to use speed control, coasting and dynamic braking.",
     "examples": [
         "https://developer.mbed.org/users/littlexc/code/motordrivertestprogram/",
         "https://developer.mbed.org/users/littlexc/code/Initialmbedrobotprogram/",

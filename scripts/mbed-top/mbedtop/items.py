@@ -19,6 +19,9 @@ from w3lib.html import remove_entities
 
 def strip_component(str):
     if str:
+        strlist = str.strip().split('\n')
+        if len(strlist): str= strlist[0]
+
         str = re.sub(r"\s+", " ", str.replace("\n", " ")).strip()
         return str
 
