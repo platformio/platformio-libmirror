@@ -4,7 +4,9 @@
         "url": "https://developer.mbed.org/users/yamaguch/"
     },
     "description": "MMA7361L interface",
-    "examples": "https://de",
+    "examples": [
+        "https://developer.mbed.org/users/yamaguch/code/MMA7361L_Example/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "MMA7361L"

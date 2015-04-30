@@ -89,9 +89,8 @@ class MbedTopSpider(scrapy.Spider):
 
     def parse_examples(self, response):
         item = response.meta['item']
-        l = MbedLibLoader(item=item, response=response)
-        l.add_xpath('examples', './/*[@id="mbed-content"]//div/div[2]/div[2]/div[1]/b/a/@href')
-        item = l.load_item()
+        examples = response.xpath('.//*[@id="mbed-content"]//div/div[2]/div[2]/div[1]/b/a/@href').extract()
+        if len(examples): item['examples'] = examples
 
         # if we already know keywords, we can used cached results:
         if 0 and (item['name'] in self.lib_tags):
