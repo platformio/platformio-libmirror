@@ -15,11 +15,14 @@ piourl="http://platformio.org/#!/lib/show/"
         no=$(basename $manifest .json|sed -r -e 's/_([^_]+)$/ \1/')
 	name=$(echo $no|cut -d\  -f1)
 	owner=$(echo $no|cut -d\  -f2)
+	manifile=$(basename $manifest)
 	repo=$(grep -1 '"hg"' "../../$manifest"|grep '"url"'|cut -d\" -f4)
 	pio_lib=$(grep " $repo$" ../github-top/list.platformio.libs|cut -d: -f1|head -1)
-	echo "[$owner/$name]($repo) | [$manifest]($myrepo$manifest) | [$pio_lib]($piourl$pio_lib/$name)" >> TOP-libs-status.md
 	if [ -z "$pio_lib" ] ; then
-		echo "[$owner/$name]($repo) | [$manifest]($myrepo$manifest) | " >> TOP-libs-TODO.md
+		echo "[$owner/$name]($repo) | [$manifile]($myrepo$manifest) |" >> TOP-libs-status.md
+		echo "[$owner/$name]($repo) | [$manifest]($myrepo$manifest) |" >> TOP-libs-TODO.md
+	else
+		echo "[$owner/$name]($repo) | [$manifile]($myrepo$manifest) | [$pio_lib]($piourl$pio_lib/$name)" >> TOP-libs-status.md
 	fi
 done
 
