@@ -61,7 +61,6 @@ ID | Project Repository | Manifest Repository | Project Manifest URL
 118 | [TOppenhoff/MCP23017](https://github.com/TOppenhoff/MCP23017.git) | [ivankravets/MCP23017](https://raw.githubusercontent.com/ivankravets/MCP23017/patch-1/library.json) | 
 126 | [FastLED/FastLED](https://github.com/FastLED/FastLED.git) | [ivankravets/FastLED](https://raw.githubusercontent.com/ivankravets/FastLED/patch-1/library.json) | 
 135 | [adafruit/Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306.git) | [ivankravets/Adafruit_SSD1306](https://raw.githubusercontent.com/ivankravets/Adafruit_SSD1306/patch-1/library.json) | 
-160 | [adafruit/Adafruit_INA219](https://github.com/adafruit/Adafruit_INA219) | [gandy92/Adafruit_INA219](https://raw.githubusercontent.com/gandy92/Adafruit_INA219/master/library.json) | 
 161 | [adafruit/SD](https://github.com/adafruit/SD.git) | [ivankravets/SD](https://raw.githubusercontent.com/ivankravets/SD/patch-1/library.json) | 
 172 | [guanix/arduino-nrf8001](https://github.com/guanix/arduino-nrf8001.git) | [gandy92/arduino-nrf8001](https://raw.githubusercontent.com/gandy92/arduino-nrf8001/master/library.json) | 
 184 | [users/simon](https://developer.mbed.org/users/simon/code/TextLCD/) | [platformio/platformio-libmirror](https://raw.githubusercontent.com/platformio/platformio-libmirror/master/configs/mbed/TextLCD_SimonFord.json) | 
