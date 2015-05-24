@@ -17,7 +17,6 @@ Status | Repository | Comment
 - | [/pololu/lsm303-arduino](http://github.com/pololu/lsm303-arduino) | 
 - | [/mikalhart/TinyGPSPlus](http://github.com/mikalhart/TinyGPSPlus) | 
 - | [/GabrielBianconi/ArduinoNunchuk](http://github.com/GabrielBianconi/ArduinoNunchuk) | 
-- | [/mikalhart/TinyGPS](http://github.com/mikalhart/TinyGPS) | 
 - | [/gauravmm/HT1632-for-Arduino](http://github.com/gauravmm/HT1632-for-Arduino) | 
 - | [/cyborg5/IRLib](http://github.com/cyborg5/IRLib) | 
 - | [/scogswell/ArduinoSerialCommand](http://github.com/scogswell/ArduinoSerialCommand) | 

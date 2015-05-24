@@ -141,3 +141,4 @@ ID | Project Repository | Manifest Repository | Project Manifest URL
 397 | [users/yoonghm](https://developer.mbed.org/users/yoonghm/code/CMSIS/) | [platformio/platformio-libmirror](https://raw.githubusercontent.com/platformio/platformio-libmirror/master/configs/mbed/CMSIS_HMYoong.json) | 
 398 | [users/shintamainjp](https://developer.mbed.org/users/shintamainjp/code/ConfigFile/) | [platformio/platformio-libmirror](https://raw.githubusercontent.com/platformio/platformio-libmirror/master/configs/mbed/ConfigFile_ShinichiroNakamura.json) | 
 399 | [users/erik_kedo](https://developer.mbed.org/users/erik_kedo/code/NewTextLCD/) | [platformio/platformio-libmirror](https://raw.githubusercontent.com/platformio/platformio-libmirror/master/configs/mbed/NewTextLCD_ErikKerger.json) | 
+416 | [mikalhart/TinyGPS](https://github.com/mikalhart/TinyGPS.git) | [ivankravets/TinyGPS](https://raw.githubusercontent.com/ivankravets/TinyGPS/patch-1/library.json) | 
