@@ -163,7 +163,6 @@ Status | Repository | Comment
 - | [/maniacbug/MemoryFree](http://github.com/maniacbug/MemoryFree) | 
 - | [/clearwater/SwitecX25](http://github.com/clearwater/SwitecX25) | 
 - | [/lgeek/Arduino-Color-LCD](http://github.com/lgeek/Arduino-Color-LCD) | 
-- | [/MarkusLange/Arduino-Due-RTC-Library](http://github.com/MarkusLange/Arduino-Due-RTC-Library) | 
 - | [/yasiralijaved/Arduino-CC2500-Library](http://github.com/yasiralijaved/Arduino-CC2500-Library) | 
 - | [/cjbearman/xbee-wifi-spi-arduino](http://github.com/cjbearman/xbee-wifi-spi-arduino) | 
 - | [/CisecoPlc/PiLite](http://github.com/CisecoPlc/PiLite) | 
@@ -607,7 +606,6 @@ Status | Repository | Comment
 - | [/zhum/ardunoo](http://github.com/zhum/ardunoo) | 
 - | [/SoftwareTools4Makers/OPC](http://github.com/SoftwareTools4Makers/OPC) | 
 - | [/microbuilder/spiflash](http://github.com/microbuilder/spiflash) | 
-- | [/jfturcot/SimpleTimer](http://github.com/jfturcot/SimpleTimer) | 
 - | [/mikalhart/NewSoftSerial](http://github.com/mikalhart/NewSoftSerial) | 
 - | [/liquidware/SoftwareSerial_NB](http://github.com/liquidware/SoftwareSerial_NB) | 
 - | [/feranick/TwitterLib](http://github.com/feranick/TwitterLib) | 

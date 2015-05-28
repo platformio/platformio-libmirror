@@ -228,7 +228,7 @@ active | [/sparkfun/SFE_CC3000_Library](http://github.com/sparkfun/SFE_CC3000_Li
 - | [/maniacbug/MemoryFree](http://github.com/maniacbug/MemoryFree) | 
 - | [/clearwater/SwitecX25](http://github.com/clearwater/SwitecX25) | 
 - | [/lgeek/Arduino-Color-LCD](http://github.com/lgeek/Arduino-Color-LCD) | 
-- | [/MarkusLange/Arduino-Due-RTC-Library](http://github.com/MarkusLange/Arduino-Due-RTC-Library) | 
+active | [/MarkusLange/Arduino-Due-RTC-Library](http://github.com/MarkusLange/Arduino-Due-RTC-Library) | 422
 - | [/yasiralijaved/Arduino-CC2500-Library](http://github.com/yasiralijaved/Arduino-CC2500-Library) | 
 - | [/cjbearman/xbee-wifi-spi-arduino](http://github.com/cjbearman/xbee-wifi-spi-arduino) | 
 - | [/CisecoPlc/PiLite](http://github.com/CisecoPlc/PiLite) | 
@@ -674,7 +674,7 @@ active | [/adafruit/Adafruit_DHT_Unified](http://github.com/adafruit/Adafruit_DH
 - | [/zhum/ardunoo](http://github.com/zhum/ardunoo) | 
 - | [/SoftwareTools4Makers/OPC](http://github.com/SoftwareTools4Makers/OPC) | 
 - | [/microbuilder/spiflash](http://github.com/microbuilder/spiflash) | 
-- | [/jfturcot/SimpleTimer](http://github.com/jfturcot/SimpleTimer) | 
+active | [/jfturcot/SimpleTimer](http://github.com/jfturcot/SimpleTimer) | 419
 - | [/mikalhart/NewSoftSerial](http://github.com/mikalhart/NewSoftSerial) | 
 - | [/liquidware/SoftwareSerial_NB](http://github.com/liquidware/SoftwareSerial_NB) | 
 - | [/feranick/TwitterLib](http://github.com/feranick/TwitterLib) | 
