@@ -144,3 +144,4 @@ ID | Project Repository | Manifest Repository | Project Manifest URL
 416 | [mikalhart/TinyGPS](https://github.com/mikalhart/TinyGPS.git) | [ivankravets/TinyGPS](https://raw.githubusercontent.com/ivankravets/TinyGPS/patch-1/library.json) | 
 419 | [jfturcot/SimpleTimer](https://github.com/jfturcot/SimpleTimer.git) | [valeros/SimpleTimer](https://raw.githubusercontent.com/valeros/SimpleTimer/patch-1/library.json) | 
 420 | [wickeddevice/WildFire_CC3000_Library](https://github.com/wickeddevice/WildFire_CC3000_Library.git) | [WickedDevice/WildFire_CC3000_Library](https://raw.githubusercontent.com/WickedDevice/WildFire_CC3000_Library/master/library.json) | https://raw.githubusercontent.com/wickeddevice/WildFire_CC3000_Library/master/library.json
+423 | [CNMAT/OSC](https://github.com/CNMAT/OSC.git) | [ivankravets/OSC](https://raw.githubusercontent.com/ivankravets/OSC/patch-1/library.json) | 
