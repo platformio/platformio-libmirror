@@ -45,7 +45,6 @@ Status | Repository | Comment
 - | [/sowbug/G35Arduino](http://github.com/sowbug/G35Arduino) | 
 - | [/Diaoul/arduino-ESP8266](http://github.com/Diaoul/arduino-ESP8266) | 
 - | [/adafruit/Adafruit-Trinket-USB](http://github.com/adafruit/Adafruit-Trinket-USB) | 
-- | [/adafruit/CC3000_MDNS](http://github.com/adafruit/CC3000_MDNS) | 
 - | [/adafruit/RGB-matrix-Panel](http://github.com/adafruit/RGB-matrix-Panel) | 
 - | [/Qtechknow/Arduino-Libraries](http://github.com/Qtechknow/Arduino-Libraries) | done-fork
 - | [/msparks/arduino-ds1302](http://github.com/msparks/arduino-ds1302) | 
