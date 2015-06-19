@@ -150,3 +150,4 @@ ID | Project Repository | Manifest Repository | Project Manifest URL
 427 | [adafruit/CC3000_MDNS](https://github.com/adafruit/CC3000_MDNS.git) | [ivankravets/CC3000_MDNS](https://raw.githubusercontent.com/ivankravets/CC3000_MDNS/patch-1/library.json) | 
 429 | [marcoschwartz/aREST](https://github.com/marcoschwartz/aREST.git) | [ivankravets/aREST](https://raw.githubusercontent.com/ivankravets/aREST/patch-1/library.json) | https://raw.githubusercontent.com/marcoschwartz/aREST/master/library.json
 430 | [mariusrugan/MD_MAX72XX](https://github.com/mariusrugan/MD_MAX72XX.git) | [ivankravets/MD_MAX72XX](https://raw.githubusercontent.com/ivankravets/MD_MAX72XX/patch-1/library.json) | https://raw.githubusercontent.com/mariusrugan/MD_MAX72XX/master/library.json
+433 | [TMRh20/RF24](https://github.com/TMRh20/RF24.git) | [ivankravets/RF24](https://raw.githubusercontent.com/ivankravets/RF24/patch-1/library.json) | 
