@@ -1,0 +1,21 @@
+{
+  "name": "SipHash",
+  "keywords": "hash",
+  "description": "SipHash is an Add-Rotate-Xor (ARX) based family of pseudorandom functions",
+  "authors":
+  {
+    "name": "Matthew Ford",
+    "email": "matthew.ford@forward.com.au",
+    "url": "http://forward.com.au/profile/profile.html"
+  },
+  "version": "2.4",
+  "downloadUrl": "http://www.forward.com.au/pfod/SipHashLibrary/SipHash.zip",
+  "url": "http://www.forward.com.au/pfod/SipHashLibrary/",
+  "include": "SipHash",
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+    "teensy"
+  ]
+ }
