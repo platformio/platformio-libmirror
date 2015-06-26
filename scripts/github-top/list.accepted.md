@@ -147,5 +147,4 @@ ID | Project Repository | Manifest Repository | Project Manifest URL
 424 | [zrecommerce/imuduino-btle](https://github.com/zrecommerce/imuduino-btle.git) | [ivankravets/platformio_libs](https://raw.githubusercontent.com/ivankravets/platformio_libs/patch-1/IMUduino/library.json) | 
 426 | [adafruit/Adafruit_nRF8001](https://github.com/adafruit/Adafruit_nRF8001.git) | [ivankravets/Adafruit_nRF8001](https://raw.githubusercontent.com/ivankravets/Adafruit_nRF8001/patch-1/library.json) | 
 427 | [adafruit/CC3000_MDNS](https://github.com/adafruit/CC3000_MDNS.git) | [ivankravets/CC3000_MDNS](https://raw.githubusercontent.com/ivankravets/CC3000_MDNS/patch-1/library.json) | 
-429 | [marcoschwartz/aREST](https://github.com/marcoschwartz/aREST.git) | [ivankravets/aREST](https://raw.githubusercontent.com/ivankravets/aREST/patch-1/library.json) | https://raw.githubusercontent.com/marcoschwartz/aREST/master/library.json
 436 | [adidax/dht11](https://github.com/adidax/dht11.git) | [ivankravets/dht11](https://raw.githubusercontent.com/ivankravets/dht11/patch-1/library.json) | 
