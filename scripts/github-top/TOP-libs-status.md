@@ -511,7 +511,7 @@ active | [/adafruit/Adafruit_DHT_Unified](http://github.com/adafruit/Adafruit_DH
 - | [/jmgiacalone/Arduino-libraries](http://github.com/jmgiacalone/Arduino-libraries) | 
 - | [/d2kagw/arduino-rhythm-library](http://github.com/d2kagw/arduino-rhythm-library) | 
 - | [/reeedstudio/libraries](http://github.com/reeedstudio/libraries) | 
-- | [/johnmckerrell/xbee-arduino](http://github.com/johnmckerrell/xbee-arduino) | 
+- | [/johnmckerrell/xbee-arduino](http://github.com/johnmckerrell/xbee-arduino) | possible duplicate of 6: https://github.com/andrewrapp/xbee-arduino
 - | [/FriedCircuits/Dagu4Motor-Library](http://github.com/FriedCircuits/Dagu4Motor-Library) | 
 - | [/adafruit/Adafruit_MCP9808_Library](http://github.com/adafruit/Adafruit_MCP9808_Library) | 
 - | [/mariolukas/TwigMotor-Library](http://github.com/mariolukas/TwigMotor-Library) | 
