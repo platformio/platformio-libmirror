@@ -141,6 +141,7 @@ ID | Project Repository | Manifest Repository | Project Manifest URL
 396 | [users/sam_grove](https://developer.mbed.org/users/sam_grove/code/Buffer/) | [platformio/platformio-libmirror](https://raw.githubusercontent.com/platformio/platformio-libmirror/master/configs/mbed/Buffer_SamGrove.json) | 
 397 | [users/yoonghm](https://developer.mbed.org/users/yoonghm/code/CMSIS/) | [platformio/platformio-libmirror](https://raw.githubusercontent.com/platformio/platformio-libmirror/master/configs/mbed/CMSIS_HMYoong.json) | 
 398 | [users/shintamainjp](https://developer.mbed.org/users/shintamainjp/code/ConfigFile/) | [platformio/platformio-libmirror](https://raw.githubusercontent.com/platformio/platformio-libmirror/master/configs/mbed/ConfigFile_ShinichiroNakamura.json) | 
+399 | [users/erik_kedo](https://developer.mbed.org/users/erik_kedo/code/NewTextLCD/) | [platformio/platformio-libmirror](https://raw.githubusercontent.com/platformio/platformio-libmirror/master/configs/mbed/NewTextLCD_ErikKerger.json) | 
 416 | [mikalhart/TinyGPS](https://github.com/mikalhart/TinyGPS.git) | [ivankravets/TinyGPS](https://raw.githubusercontent.com/ivankravets/TinyGPS/patch-1/library.json) | 
 419 | [jfturcot/SimpleTimer](https://github.com/jfturcot/SimpleTimer.git) | [valeros/SimpleTimer](https://raw.githubusercontent.com/valeros/SimpleTimer/patch-1/library.json) | 
 420 | [wickeddevice/WildFire_CC3000_Library](https://github.com/wickeddevice/WildFire_CC3000_Library.git) | [WickedDevice/WildFire_CC3000_Library](https://raw.githubusercontent.com/WickedDevice/WildFire_CC3000_Library/master/library.json) | https://raw.githubusercontent.com/wickeddevice/WildFire_CC3000_Library/master/library.json
@@ -148,3 +149,4 @@ ID | Project Repository | Manifest Repository | Project Manifest URL
 426 | [adafruit/Adafruit_nRF8001](https://github.com/adafruit/Adafruit_nRF8001.git) | [ivankravets/Adafruit_nRF8001](https://raw.githubusercontent.com/ivankravets/Adafruit_nRF8001/patch-1/library.json) | 
 427 | [adafruit/CC3000_MDNS](https://github.com/adafruit/CC3000_MDNS.git) | [ivankravets/CC3000_MDNS](https://raw.githubusercontent.com/ivankravets/CC3000_MDNS/patch-1/library.json) | 
 436 | [adidax/dht11](https://github.com/adidax/dht11.git) | [ivankravets/dht11](https://raw.githubusercontent.com/ivankravets/dht11/patch-1/library.json) | 
+438 | [miloyip/rapidjson](https://github.com/miloyip/rapidjson) | [ivankravets/rapidjson](https://raw.githubusercontent.com/ivankravets/rapidjson/patch-1/library.json) | 
