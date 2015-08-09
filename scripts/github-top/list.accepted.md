@@ -3,6 +3,7 @@
 ID | Project Repository | Manifest Repository | Project Manifest URL
 ---|--------------------|---------------------|---------------------
 2 | [br3ttb/Arduino-PID-Library](https://github.com/br3ttb/Arduino-PID-Library.git) | [ivankravets/Arduino-PID-Library](https://raw.githubusercontent.com/ivankravets/Arduino-PID-Library/patch-2/library.json) | https://raw.githubusercontent.com/br3ttb/Arduino-PID-Library/master/library.json
+3 | [br3ttb/Arduino-PID-AutoTune-Library](https://github.com/br3ttb/Arduino-PID-AutoTune-Library.git) | [ivankravets/Arduino-PID-AutoTune-Library](https://raw.githubusercontent.com/ivankravets/Arduino-PID-AutoTune-Library/patch-1/library.json) | 
 5 | [sirleech/Webduino](https://github.com/sirleech/Webduino.git) | [ivankravets/Webduino](https://raw.githubusercontent.com/ivankravets/Webduino/patch-1/library.json) | 
 12 | [adafruit/Adafruit-ST7735-Library](https://github.com/adafruit/Adafruit-ST7735-Library.git) | [ivankravets/platformio-libmirror](https://raw.githubusercontent.com/ivankravets/platformio-libmirror/master/configs/adafruit/arduino-st7735.json) | 
 13 | [adafruit/Adafruit-GFX-Library](https://github.com/adafruit/Adafruit-GFX-Library.git) | [ivankravets/platformio-libmirror](https://raw.githubusercontent.com/ivankravets/platformio-libmirror/master/configs/adafruit/arduino-gfx.json) | 
