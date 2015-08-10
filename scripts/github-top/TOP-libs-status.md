@@ -426,7 +426,7 @@ active | [/johngineer/ArduinoINA219](http://github.com/johngineer/ArduinoINA219)
 - | [/niesteszeck/idDHTLib](http://github.com/niesteszeck/idDHTLib) | 
 - | [/fstdp/mobilerobot.ino](http://github.com/fstdp/mobilerobot.ino) | 
 - | [/erix/NexaTransmitter](http://github.com/erix/NexaTransmitter) | 
-- | [/claws/BH1750](http://github.com/claws/BH1750) | 
+active | [/claws/BH1750](http://github.com/claws/BH1750) | 439
 - | [/iamthechad/parallax_lcd](http://github.com/iamthechad/parallax_lcd) | 
 - | [/jjalling/Arduino-Si7005](http://github.com/jjalling/Arduino-Si7005) | 
 - | [/Materdaddy/GwtS-Arduino](http://github.com/Materdaddy/GwtS-Arduino) | 
