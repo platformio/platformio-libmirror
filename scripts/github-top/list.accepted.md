@@ -149,4 +149,4 @@ ID | Project Repository | Manifest Repository | Project Manifest URL
 427 | [adafruit/CC3000_MDNS](https://github.com/adafruit/CC3000_MDNS.git) | [ivankravets/CC3000_MDNS](https://raw.githubusercontent.com/ivankravets/CC3000_MDNS/patch-1/library.json) | 
 436 | [adidax/dht11](https://github.com/adidax/dht11.git) | [ivankravets/dht11](https://raw.githubusercontent.com/ivankravets/dht11/patch-1/library.json) | 
 439 | [claws/BH1750](https://github.com/claws/BH1750.git) | [ivankravets/BH1750](https://raw.githubusercontent.com/ivankravets/BH1750/patch-1/library.json) | 
-440 | [ivanseidel/ArduinoThread](https://github.com/ivanseidel/ArduinoThread.git) | [ivankravets/ArduinoThread](https://raw.githubusercontent.com/ivankravets/ArduinoThread/patch-1/library.json) | 
+440 | [ivanseidel/ArduinoThread](https://github.com/ivanseidel/ArduinoThread.git) | [ivankravets/ArduinoThread](https://raw.githubusercontent.com/ivankravets/ArduinoThread/patch-1/library.json) | https://raw.githubusercontent.com/ivanseidel/ArduinoThread/master/library.json
