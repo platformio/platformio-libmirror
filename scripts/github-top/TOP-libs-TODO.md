@@ -26,7 +26,6 @@ Status | Repository | Comment
 - | [/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library](http://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library) | 
 - | [/markruys/arduino-DHT](http://github.com/markruys/arduino-DHT) | 
 - | [/stanleyhuangyc/MultiLCD](http://github.com/stanleyhuangyc/MultiLCD) | 
-- | [/ivanseidel/DueTimer](http://github.com/ivanseidel/DueTimer) | 
 - | [/adafruit/Adafruit-MCP23017-Arduino-Library](http://github.com/adafruit/Adafruit-MCP23017-Arduino-Library) | 
 - | [/pololu/pololu-led-strip-arduino](http://github.com/pololu/pololu-led-strip-arduino) | 
 - | [/adamvr/arduino-base64](http://github.com/adamvr/arduino-base64) | 
@@ -792,7 +791,7 @@ Status | Repository | Comment
 - | [/RoboCraft/LMotorShield](http://github.com/RoboCraft/LMotorShield) | 
 - | [/hypatia/MorseOutput](http://github.com/hypatia/MorseOutput) | 
 - | [/elechouse/Mp3Shield](http://github.com/elechouse/Mp3Shield) | 
-- | [/SomeRandomGuy/DueTimer](http://github.com/SomeRandomGuy/DueTimer) | 
+- | [/SomeRandomGuy/DueTimer](http://github.com/SomeRandomGuy/DueTimer) | possible duplicate of 442: https://github.com/ivanseidel/DueTimer
 - | [/johndu9/NMusic](http://github.com/johndu9/NMusic) | 
 - | [/joruiz/shiftduino](http://github.com/joruiz/shiftduino) | 
 - | [/guyc/RC5](http://github.com/guyc/RC5) | 
@@ -856,7 +855,6 @@ Status | Repository | Comment
 - | [/alexhenning/I2CEncoder](http://github.com/alexhenning/I2CEncoder) | 
 - | [/flyrdm/KeypadBV4505](http://github.com/flyrdm/KeypadBV4505) | 
 - | [/moderndevice/MD_Serial_LED_Strips](http://github.com/moderndevice/MD_Serial_LED_Strips) | 
-- | [/ivanseidel/Gaussian](http://github.com/ivanseidel/Gaussian) | 
 - | [/cthoma/rpi-si4703](http://github.com/cthoma/rpi-si4703) | 
 - | [/mikalhart/galileo-LiquidCrystal](http://github.com/mikalhart/galileo-LiquidCrystal) | 
 - | [/ahuxtable/TDA7439](http://github.com/ahuxtable/TDA7439) | 
