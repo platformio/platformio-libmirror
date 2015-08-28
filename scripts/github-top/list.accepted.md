@@ -42,7 +42,7 @@ ID | Project Repository | Manifest Repository | Project Manifest URL
 76 | [JChristensen/Timezone](https://github.com/JChristensen/Timezone.git) | [ivankravets/Timezone](https://raw.githubusercontent.com/ivankravets/Timezone/master/library.json) | 
 77 | [JChristensen/Button](https://github.com/JChristensen/Button.git) | [ivankravets/Button](https://raw.githubusercontent.com/ivankravets/Button/master/library.json) | 
 78 | [JChristensen/DS3232RTC](https://github.com/JChristensen/DS3232RTC.git) | [ivankravets/DS3232RTC](https://raw.githubusercontent.com/ivankravets/DS3232RTC/master/library.json) | 
-79 | [rei-vilo/SD_TM4C](https://github.com/rei-vilo/SD_TM4C.git) | [ivankravets/SD_TM4C](https://raw.githubusercontent.com/ivankravets/SD_TM4C/patch-1/library.json) | 
+79 | [rei-vilo/SD_TM4C](https://github.com/rei-vilo/SD_TM4C.git) | [ivankravets/SD_TM4C](https://raw.githubusercontent.com/ivankravets/SD_TM4C/patch-1/library.json) | https://raw.githubusercontent.com/rei-vilo/SD_TM4C/master/library.json
 80 | [adafruit/Adafruit-WS2801-Library](https://github.com/adafruit/Adafruit-WS2801-Library.git) | [ivankravets/Adafruit-WS2801-Library](https://raw.githubusercontent.com/ivankravets/Adafruit-WS2801-Library/patch-1/library.json) | 
 81 | [adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library](https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library.git) | [ivankravets/Adafruit-PCD8544-Nokia-5110-LCD-library](https://raw.githubusercontent.com/ivankravets/Adafruit-PCD8544-Nokia-5110-LCD-library/patch-1/library.json) | 
 82 | [TinkerKit/DmxMaster](https://github.com/TinkerKit/DmxMaster.git) | [ivankravets/DmxMaster](https://raw.githubusercontent.com/ivankravets/DmxMaster/patch-1/library.json) | 
@@ -148,4 +148,4 @@ ID | Project Repository | Manifest Repository | Project Manifest URL
 426 | [adafruit/Adafruit_nRF8001](https://github.com/adafruit/Adafruit_nRF8001.git) | [ivankravets/Adafruit_nRF8001](https://raw.githubusercontent.com/ivankravets/Adafruit_nRF8001/patch-1/library.json) | 
 427 | [adafruit/CC3000_MDNS](https://github.com/adafruit/CC3000_MDNS.git) | [ivankravets/CC3000_MDNS](https://raw.githubusercontent.com/ivankravets/CC3000_MDNS/patch-1/library.json) | 
 436 | [adidax/dht11](https://github.com/adidax/dht11.git) | [ivankravets/dht11](https://raw.githubusercontent.com/ivankravets/dht11/patch-1/library.json) | 
-439 | [claws/BH1750](https://github.com/claws/BH1750.git) | [ivankravets/BH1750](https://raw.githubusercontent.com/ivankravets/BH1750/patch-1/library.json) | 
+439 | [claws/BH1750](https://github.com/claws/BH1750.git) | [ivankravets/BH1750](https://raw.githubusercontent.com/ivankravets/BH1750/patch-1/library.json) | https://raw.githubusercontent.com/claws/BH1750/master/library.json
