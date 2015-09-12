@@ -484,7 +484,7 @@ active | [/adafruit/Adafruit_DHT_Unified](http://github.com/adafruit/Adafruit_DH
 - | [/vic320/Arduino-MS5803-14BA](http://github.com/vic320/Arduino-MS5803-14BA) | 
 - | [/delsauce/ArduinoDueParallel](http://github.com/delsauce/ArduinoDueParallel) | 
 - | [/tzikis/gntp-arduino](http://github.com/tzikis/gntp-arduino) | 
-- | [/tomozh/arduino_ST7032](http://github.com/tomozh/arduino_ST7032) | 
+active | [/tomozh/arduino_ST7032](http://github.com/tomozh/arduino_ST7032) | 445
 - | [/andresarmento/modbus-arduino](http://github.com/andresarmento/modbus-arduino) | 
 - | [/itead/ITEADLIB_Arduino_IoTgo](http://github.com/itead/ITEADLIB_Arduino_IoTgo) | 
 - | [/davidknaack/EventFuse](http://github.com/davidknaack/EventFuse) | 
