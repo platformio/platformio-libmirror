@@ -3,7 +3,7 @@
 Status | Repository | Comment
 -------|------------|--------
 active | [/shirriff/Arduino-IRremote](http://github.com/shirriff/Arduino-IRremote) | 4
-active | [/jrowberg/i2cdevlib](http://github.com/jrowberg/i2cdevlib) | 10 11 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113
+active | [/jrowberg/i2cdevlib](http://github.com/jrowberg/i2cdevlib) | 10 11 94 95 96 97 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113
 active | [/sirleech/Webduino](http://github.com/sirleech/Webduino) | 5
 active | [/interactive-matter/aJson](http://github.com/interactive-matter/aJson) | 35
 ignored | [/mik3y/usb-serial-for-android](http://github.com/mik3y/usb-serial-for-android) | N/A
