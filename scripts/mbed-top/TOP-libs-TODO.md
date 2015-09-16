@@ -2,6 +2,7 @@
 
 Repository | Manifest | PIO-Library
 -----------|----------|------------
+[NealHorman/Adafruit_GFX](https://developer.mbed.org/users/nkhorman/code/Adafruit_GFX/) | [configs/mbed/Adafruit_GFX_NealHorman.json](https://raw.githubusercontent.com/platformio/platformio-libmirror/master/configs/mbed/Adafruit_GFX_NealHorman.json) |
 [Sugakoubou/BMP085](https://developer.mbed.org/users/okini3939/code/BMP085/) | [configs/mbed/BMP085_Sugakoubou.json](https://raw.githubusercontent.com/platformio/platformio-libmirror/master/configs/mbed/BMP085_Sugakoubou.json) |
 [PhilipSmith/DS1307](https://developer.mbed.org/users/harrypowers/code/DS1307/) | [configs/mbed/DS1307_PhilipSmith.json](https://raw.githubusercontent.com/platformio/platformio-libmirror/master/configs/mbed/DS1307_PhilipSmith.json) |
 [mbedunsupported/FatFileSystem](https://developer.mbed.org/users/mbed_unsupported/code/FatFileSystem/) | [configs/mbed/FatFileSystem_mbedunsupported.json](https://raw.githubusercontent.com/platformio/platformio-libmirror/master/configs/mbed/FatFileSystem_mbedunsupported.json) |
