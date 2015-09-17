@@ -2,7 +2,7 @@
 
 Repository | Manifest | PIO-Library
 -----------|----------|------------
-[NealHorman/Adafruit_GFX](https://developer.mbed.org/users/nkhorman/code/Adafruit_GFX/) | [Adafruit_GFX_NealHorman.json](https://raw.githubusercontent.com/platformio/platformio-libmirror/master/configs/mbed/Adafruit_GFX_NealHorman.json) |
+[NealHorman/Adafruit_GFX](https://developer.mbed.org/users/nkhorman/code/Adafruit_GFX/) | [Adafruit_GFX_NealHorman.json](https://raw.githubusercontent.com/platformio/platformio-libmirror/master/configs/mbed/Adafruit_GFX_NealHorman.json) | [188](http://platformio.org/#!/lib/show/188/Adafruit_GFX)
 [AaronBerk/ADXL345](https://developer.mbed.org/users/aberk/code/ADXL345/) | [ADXL345_AaronBerk.json](https://raw.githubusercontent.com/platformio/platformio-libmirror/master/configs/mbed/ADXL345_AaronBerk.json) | [187](http://platformio.org/#!/lib/show/187/ADXL345)
 [GilesBartonOwen/AndroidAccessory](https://developer.mbed.org/users/p07gbar/code/AndroidAccessory/) | [AndroidAccessory_GilesBartonOwen.json](https://raw.githubusercontent.com/platformio/platformio-libmirror/master/configs/mbed/AndroidAccessory_GilesBartonOwen.json) | [189](http://platformio.org/#!/lib/show/189/AndroidAccessory)
 [PeterDrescher/beep](https://developer.mbed.org/users/dreschpe/code/beep/) | [beep_PeterDrescher.json](https://raw.githubusercontent.com/platformio/platformio-libmirror/master/configs/mbed/beep_PeterDrescher.json) | [263](http://platformio.org/#!/lib/show/263/beep)
