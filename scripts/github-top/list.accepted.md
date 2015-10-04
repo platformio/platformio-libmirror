@@ -58,7 +58,7 @@ ID | Project Repository | Manifest Repository | Project Manifest URL
 115 | [nethoncho/Arduino-DHT22](https://github.com/nethoncho/Arduino-DHT22.git) | [ivankravets/Arduino-DHT22](https://raw.githubusercontent.com/ivankravets/Arduino-DHT22/patch-1/library.json) | 
 117 | [TOppenhoff/PCA9685](https://github.com/TOppenhoff/PCA9685.git) | [ivankravets/PCA9685](https://raw.githubusercontent.com/ivankravets/PCA9685/patch-1/library.json) | 
 118 | [TOppenhoff/MCP23017](https://github.com/TOppenhoff/MCP23017.git) | [ivankravets/MCP23017](https://raw.githubusercontent.com/ivankravets/MCP23017/patch-1/library.json) | 
-126 | [FastLED/FastLED](https://github.com/FastLED/FastLED.git) | [ivankravets/FastLED](https://raw.githubusercontent.com/ivankravets/FastLED/patch-1/library.json) | 
+126 | [FastLED/FastLED](https://github.com/FastLED/FastLED.git) | [ivankravets/FastLED](https://raw.githubusercontent.com/ivankravets/FastLED/patch-1/library.json) | https://raw.githubusercontent.com/FastLED/FastLED/master/library.json
 135 | [adafruit/Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306.git) | [ivankravets/Adafruit_SSD1306](https://raw.githubusercontent.com/ivankravets/Adafruit_SSD1306/patch-1/library.json) | 
 160 | [adafruit/Adafruit_INA219](https://github.com/adafruit/Adafruit_INA219) | [gandy92/Adafruit_INA219](https://raw.githubusercontent.com/gandy92/Adafruit_INA219/master/library.json) | 
 161 | [adafruit/SD](https://github.com/adafruit/SD.git) | [ivankravets/SD](https://raw.githubusercontent.com/ivankravets/SD/patch-1/library.json) | 
