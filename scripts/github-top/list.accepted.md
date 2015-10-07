@@ -148,3 +148,4 @@ ID | Project Repository | Manifest Repository | Project Manifest URL
 427 | [adafruit/CC3000_MDNS](https://github.com/adafruit/CC3000_MDNS.git) | [ivankravets/CC3000_MDNS](https://raw.githubusercontent.com/ivankravets/CC3000_MDNS/patch-1/library.json) | 
 436 | [adidax/dht11](https://github.com/adidax/dht11.git) | [ivankravets/dht11](https://raw.githubusercontent.com/ivankravets/dht11/patch-1/library.json) | 
 445 | [tomozh/arduino_ST7032](https://github.com/tomozh/arduino_ST7032.git) | [ivankravets/arduino_ST7032](https://raw.githubusercontent.com/ivankravets/arduino_ST7032/patch-1/library.json) | 
+446 | [hotchpotch/Arduino-HDC1000](https://github.com/hotchpotch/Arduino-HDC1000.git) | [ivankravets/Arduino-HDC1000](https://raw.githubusercontent.com/ivankravets/Arduino-HDC1000/patch-1/library.json) | https://raw.githubusercontent.com/hotchpotch/Arduino-HDC1000/master/library.json
