@@ -39,7 +39,7 @@ ignored | [/mrmorphic/hwio](http://github.com/mrmorphic/hwio) | N/A
 active | [/FortySevenEffects/arduino_midi_library](http://github.com/FortySevenEffects/arduino_midi_library) | 62
 active | [/JChristensen/Timer](http://github.com/JChristensen/Timer) | 75
 active | [/adafruit/Adafruit-WS2801-Library](http://github.com/adafruit/Adafruit-WS2801-Library) | 80
-active | [/plotly/arduino-api](http://github.com/plotly/arduino-api) | 48 49 50 51
+active | [/plotly/arduino-api](http://github.com/plotly/arduino-api) | 48 50 51
 ignored | [/scottschiller/arduino.js](http://github.com/scottschiller/arduino.js) | Javascript library
 active | [/harlequin-tech/WiFlyHQ](http://github.com/harlequin-tech/WiFlyHQ) | 65
 ignored | [/felis/USB_Host_Shield](http://github.com/felis/USB_Host_Shield) | 59
