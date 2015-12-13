@@ -151,3 +151,4 @@ ID | Project Repository | Manifest Repository | Project Manifest URL
 537 | [rock-solid-esp8266-wifi-mqtt-restful-client-for-arduino/ https:](http://tuanpm.net/rock-solid-esp8266-wifi-mqtt-restful-client-for-arduino/
 https://github.com/tuanpmt/espduino) | [ivankravets/espduino](https://raw.githubusercontent.com/ivankravets/espduino/9103288b3c5285e5713e17242b407849f30aab6c/espduino/library.json) | 
 543 | [souliss/souliss](https://github.com/souliss/souliss.git) | [ivankravets/souliss](https://raw.githubusercontent.com/ivankravets/souliss/patch-1/library.json) | 
+545 | [tinkerspy/Automaton](https://github.com/tinkerspy/Automaton) | [caspercba/Automaton](https://raw.githubusercontent.com/caspercba/Automaton/master/library.json) | https://raw.githubusercontent.com/tinkerspy/Automaton/master/library.json
