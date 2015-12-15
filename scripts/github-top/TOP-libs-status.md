@@ -269,7 +269,7 @@ active | [/MarkusLange/Arduino-Due-RTC-Library](http://github.com/MarkusLange/Ar
 - | [/alvieboy/arduino-serpro](http://github.com/alvieboy/arduino-serpro) | 
 - | [/eschnou/arduino-px4flow-i2c](http://github.com/eschnou/arduino-px4flow-i2c) | 
 - | [/biomood/LuaSerial](http://github.com/biomood/LuaSerial) | 
-- | [/sumotoy/TFT_ILI9163C](http://github.com/sumotoy/TFT_ILI9163C) | 
+active | [/sumotoy/TFT_ILI9163C](http://github.com/sumotoy/TFT_ILI9163C) | 546
 - | [/csdexter/MAX7219](http://github.com/csdexter/MAX7219) | 
 - | [/giannoug/ESP8266](http://github.com/giannoug/ESP8266) | 
 - | [/practicalarduino/TouchScreen](http://github.com/practicalarduino/TouchScreen) | 
