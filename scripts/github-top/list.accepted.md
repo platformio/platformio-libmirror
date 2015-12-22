@@ -149,6 +149,7 @@ ID | Project Repository | Manifest Repository | Project Manifest URL
 445 | [tomozh/arduino_ST7032](https://github.com/tomozh/arduino_ST7032.git) | [ivankravets/arduino_ST7032](https://raw.githubusercontent.com/ivankravets/arduino_ST7032/patch-1/library.json) | 
 535 | [xoseperez/pcf8583](https://bitbucket.org/xoseperez/pcf8583/) | [ivankravets/pcf8583](https://bitbucket.org/ivankravets/pcf8583/raw/b050d858ffaf97d908cc3df965ff1f8643076de9/library.json) | 
 537 | [rock-solid-esp8266-wifi-mqtt-restful-client-for-arduino/ https:](http://tuanpm.net/rock-solid-esp8266-wifi-mqtt-restful-client-for-arduino/
-https://github.com/tuanpmt/espduino) | [ivankravets/espduino](https://raw.githubusercontent.com/ivankravets/espduino/9103288b3c5285e5713e17242b407849f30aab6c/espduino/library.json) | 
+https://github.com/tuanpmt/espduino) | [tuanpmt/espduino](https://raw.githubusercontent.com/tuanpmt/espduino/master/espduino/library.json) | 
 543 | [souliss/souliss](https://github.com/souliss/souliss.git) | [ivankravets/souliss](https://raw.githubusercontent.com/ivankravets/souliss/patch-1/library.json) | 
 545 | [tinkerspy/Automaton](https://github.com/tinkerspy/Automaton) | [caspercba/Automaton](https://raw.githubusercontent.com/caspercba/Automaton/master/library.json) | https://raw.githubusercontent.com/tinkerspy/Automaton/master/library.json
+547 | [Makuna/NeoPixelBus](https://github.com/Makuna/NeoPixelBus.git) | [ivankravets/NeoPixelBus](https://raw.githubusercontent.com/ivankravets/NeoPixelBus/patch-1/library.json) | https://raw.githubusercontent.com/Makuna/NeoPixelBus/master/library.json
