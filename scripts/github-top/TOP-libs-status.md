@@ -25,7 +25,7 @@ ignored | [/scanlime/arduino-lelo-remote](http://github.com/scanlime/arduino-lel
 ignored | [/geekscape/aiko_arduino](http://github.com/geekscape/aiko_arduino) | Inactive?
 active | [/adafruit/LPD8806](http://github.com/adafruit/LPD8806) | 90
 - | [/kitschpatrol/Brain](http://github.com/kitschpatrol/Brain) | fork
-ignored | [/mysensors/Arduino](http://github.com/mysensors/Arduino) | Collection of other libraries
+active | [/mysensors/Arduino](http://github.com/mysensors/Arduino) | 548
 ignored | [/soundanalogous/Breakout](http://github.com/soundanalogous/Breakout) | Javascript library
 active | [/sensorium/Mozzi](http://github.com/sensorium/Mozzi) | 74
 ignored | [/platformio/platformio](http://github.com/platformio/platformio) | N/A
@@ -110,7 +110,7 @@ active | [/adafruit/CC3000_MDNS](http://github.com/adafruit/CC3000_MDNS) | 427
 - | [/kasperskaarhoj/Arduino-Library-for-ATEM-Switchers](http://github.com/kasperskaarhoj/Arduino-Library-for-ATEM-Switchers) | 
 - | [/wayoda/LedControl](http://github.com/wayoda/LedControl) | 
 active | [/itead/ITEADLIB_Arduino_WeeESP8266](http://github.com/itead/ITEADLIB_Arduino_WeeESP8266) | 127
-- | [/iot-playground/Arduino](http://github.com/iot-playground/Arduino) | 
+- | [/iot-playground/Arduino](http://github.com/iot-playground/Arduino) | possible duplicate of 548: https://github.com/mysensors/Arduino
 - | [/INEXTH/Arduino-ESP8266_libs](http://github.com/INEXTH/Arduino-ESP8266_libs) | 
 - | [/JRodrigoTech/Ultrasonic-HC-SR04](http://github.com/JRodrigoTech/Ultrasonic-HC-SR04) | 
 - | [/Kegbot/kegboard](http://github.com/Kegbot/kegboard) | 
@@ -595,9 +595,9 @@ active | [/tomozh/arduino_ST7032](http://github.com/tomozh/arduino_ST7032) | 445
 - | [/agoransson/processingadb](http://github.com/agoransson/processingadb) | 
 - | [/lazyatom/ThermalSD](http://github.com/lazyatom/ThermalSD) | 
 - | [/j-mcc1993/NES_Keyboard](http://github.com/j-mcc1993/NES_Keyboard) | 
-- | [/CBMalloch/Arduino](http://github.com/CBMalloch/Arduino) | 
-- | [/qoda/Arduino](http://github.com/qoda/Arduino) | 
-- | [/SolidSoils/Arduino](http://github.com/SolidSoils/Arduino) | 
+- | [/CBMalloch/Arduino](http://github.com/CBMalloch/Arduino) | possible duplicate of 548: https://github.com/mysensors/Arduino
+- | [/qoda/Arduino](http://github.com/qoda/Arduino) | possible duplicate of 548: https://github.com/mysensors/Arduino
+- | [/SolidSoils/Arduino](http://github.com/SolidSoils/Arduino) | possible duplicate of 548: https://github.com/mysensors/Arduino
 - | [/misenso/HMC6352-Arduino-Library](http://github.com/misenso/HMC6352-Arduino-Library) | 
 - | [/lstoll/arduino-libraries](http://github.com/lstoll/arduino-libraries) | 
 - | [/xiongyihui/PN532](http://github.com/xiongyihui/PN532) | 
@@ -733,11 +733,11 @@ active | [/PaulStoffregen/Encoder](http://github.com/PaulStoffregen/Encoder) | 1
 - | [/ptressel/LogSensorsWithDemoKit](http://github.com/ptressel/LogSensorsWithDemoKit) | 
 - | [/dcuartielles/HT1632c](http://github.com/dcuartielles/HT1632c) | 
 - | [/ntruchsess/panstamp](http://github.com/ntruchsess/panstamp) | 
-- | [/aoabook/Arduino](http://github.com/aoabook/Arduino) | 
+- | [/aoabook/Arduino](http://github.com/aoabook/Arduino) | possible duplicate of 548: https://github.com/mysensors/Arduino
 - | [/tah-io/Tah_Arduino_Library](http://github.com/tah-io/Tah_Arduino_Library) | 
 - | [/pbrook/arduino-onewire](http://github.com/pbrook/arduino-onewire) | 
 - | [/jccprj/RemoteSwitch-arduino-library](http://github.com/jccprj/RemoteSwitch-arduino-library) | 
-- | [/ubugnu/Arduino](http://github.com/ubugnu/Arduino) | 
+- | [/ubugnu/Arduino](http://github.com/ubugnu/Arduino) | possible duplicate of 548: https://github.com/mysensors/Arduino
 - | [/bubbapizza/arduino-stdlib](http://github.com/bubbapizza/arduino-stdlib) | 
 - | [/zaurky/arduino](http://github.com/zaurky/arduino) | 
 - | [/jcastaneyra/ds3231_library](http://github.com/jcastaneyra/ds3231_library) | 
@@ -998,7 +998,7 @@ active | [/ivanseidel/Gaussian](http://github.com/ivanseidel/Gaussian) | 441
 - | [/Skyzophreniac/Quadrotor](http://github.com/Skyzophreniac/Quadrotor) | 
 - | [/terminationshok/DynamicReactiveLighting](http://github.com/terminationshok/DynamicReactiveLighting) | 
 - | [/oskarirauta/commandInterpreter](http://github.com/oskarirauta/commandInterpreter) | 
-- | [/DenisNP/Arduino](http://github.com/DenisNP/Arduino) | 
-- | [/rogerclarkmelbourne/Arduino](http://github.com/rogerclarkmelbourne/Arduino) | 
-- | [/Xkonti/Arduino](http://github.com/Xkonti/Arduino) | 
+- | [/DenisNP/Arduino](http://github.com/DenisNP/Arduino) | possible duplicate of 548: https://github.com/mysensors/Arduino
+- | [/rogerclarkmelbourne/Arduino](http://github.com/rogerclarkmelbourne/Arduino) | possible duplicate of 548: https://github.com/mysensors/Arduino
+- | [/Xkonti/Arduino](http://github.com/Xkonti/Arduino) | possible duplicate of 548: https://github.com/mysensors/Arduino
 - | [/nherment/Arduino-Library](http://github.com/nherment/Arduino-Library) | 
