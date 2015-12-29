@@ -153,3 +153,4 @@ https://github.com/tuanpmt/espduino) | [tuanpmt/espduino](https://raw.githubuser
 543 | [souliss/souliss](https://github.com/souliss/souliss.git) | [ivankravets/souliss](https://raw.githubusercontent.com/ivankravets/souliss/patch-1/library.json) | 
 545 | [tinkerspy/Automaton](https://github.com/tinkerspy/Automaton) | [caspercba/Automaton](https://raw.githubusercontent.com/caspercba/Automaton/master/library.json) | https://raw.githubusercontent.com/tinkerspy/Automaton/master/library.json
 547 | [Makuna/NeoPixelBus](https://github.com/Makuna/NeoPixelBus.git) | [ivankravets/NeoPixelBus](https://raw.githubusercontent.com/ivankravets/NeoPixelBus/patch-1/library.json) | https://raw.githubusercontent.com/Makuna/NeoPixelBus/master/library.json
+549 | [Links2004/arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets.git) | [ivankravets/arduinoWebSockets](https://raw.githubusercontent.com/ivankravets/arduinoWebSockets/patch-1/library.json) | 
