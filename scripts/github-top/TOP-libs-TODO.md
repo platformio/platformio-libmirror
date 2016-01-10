@@ -116,7 +116,6 @@ Status | Repository | Comment
 - | [/rweather/arduinolibs](http://github.com/rweather/arduinolibs) | 
 - | [/jenschr/Arduino-libraries](http://github.com/jenschr/Arduino-libraries) | 
 - | [/jbkim/W5200-Arduino-Ethernet-library](http://github.com/jbkim/W5200-Arduino-Ethernet-library) | 
-- | [/adafruit/MAX6675-library](http://github.com/adafruit/MAX6675-library) | 
 - | [/fdebrabander/Arduino-LiquidCrystal-I2C-library](http://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library) | 
 - | [/tuupola/avr_demo](http://github.com/tuupola/avr_demo) | 
 - | [/asheeshr/Microsmooth](http://github.com/asheeshr/Microsmooth) | 

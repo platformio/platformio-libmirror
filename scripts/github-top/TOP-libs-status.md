@@ -180,7 +180,7 @@ active | [/DougC/arduino-x10](http://github.com/DougC/arduino-x10) | 36
 - | [/rweather/arduinolibs](http://github.com/rweather/arduinolibs) | 
 - | [/jenschr/Arduino-libraries](http://github.com/jenschr/Arduino-libraries) | 
 - | [/jbkim/W5200-Arduino-Ethernet-library](http://github.com/jbkim/W5200-Arduino-Ethernet-library) | 
-- | [/adafruit/MAX6675-library](http://github.com/adafruit/MAX6675-library) | 
+active | [/adafruit/MAX6675-library](http://github.com/adafruit/MAX6675-library) | 558
 - | [/fdebrabander/Arduino-LiquidCrystal-I2C-library](http://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library) | 
 - | [/tuupola/avr_demo](http://github.com/tuupola/avr_demo) | 
 active | [/JChristensen/Timezone](http://github.com/JChristensen/Timezone) | 76
