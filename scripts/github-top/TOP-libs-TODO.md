@@ -337,7 +337,7 @@ Status | Repository | Comment
 - | [/gorillabuilderz/gb-arduino-libs](http://github.com/gorillabuilderz/gb-arduino-libs) | 
 - | [/lukaszkujawa/arduino-serial-helper](http://github.com/lukaszkujawa/arduino-serial-helper) | 
 - | [/lucsmall/WH2-Weather-Sensor-Library-for-Arduino](http://github.com/lucsmall/WH2-Weather-Sensor-Library-for-Arduino) | 
-- | [/jarzebski/Arduino-ADXL345](http://github.com/jarzebski/Arduino-ADXL345) | 
+- | [/jarzebski/Arduino-ADXL345](http://github.com/jarzebski/Arduino-ADXL345) | possible duplicate of 559: https://github.com/jakalada/Arduino-ADXL345
 - | [/hughpyle/machinesalem-arduino-libs](http://github.com/hughpyle/machinesalem-arduino-libs) | 
 - | [/msiegenthaler/arduino-xbee](http://github.com/msiegenthaler/arduino-xbee) | 
 - | [/alberanid/arduino-rrd](http://github.com/alberanid/arduino-rrd) | 
