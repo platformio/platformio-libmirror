@@ -24,12 +24,5 @@
     "arduino",
     "energia"
   ],
-  "platforms":
-  [
-    "atmelavr",
-    "atmelsam",
-    "timsp430",
-    "titiva",
-    "teensy"
-  ]
+  "platforms": "*"
  }
