@@ -620,7 +620,7 @@ active | [/tomozh/arduino_ST7032](http://github.com/tomozh/arduino_ST7032) | 445
 - | [/brianlow/Rotary](http://github.com/brianlow/Rotary) | 
 - | [/pololu/dual-mc33926-motor-shield](http://github.com/pololu/dual-mc33926-motor-shield) | 
 - | [/kiuz/Arduino-Statistic-Library](http://github.com/kiuz/Arduino-Statistic-Library) | 
-- | [/adafruit/Adafruit_HTU21DF_Library](http://github.com/adafruit/Adafruit_HTU21DF_Library) | 
+active | [/adafruit/Adafruit_HTU21DF_Library](http://github.com/adafruit/Adafruit_HTU21DF_Library) | 566
 - | [/labatrockwell/arduinoConnect](http://github.com/labatrockwell/arduinoConnect) | 
 - | [/shaselton/arduino_wifly](http://github.com/shaselton/arduino_wifly) | 
 - | [/skywodd/NS73M_arduino_library](http://github.com/skywodd/NS73M_arduino_library) | 

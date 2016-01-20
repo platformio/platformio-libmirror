@@ -156,3 +156,4 @@ https://github.com/tuanpmt/espduino) | [tuanpmt/espduino](https://raw.githubuser
 554 | [johnogle222/AnalogInput](https://github.com/johnogle222/AnalogInput.git) | [ivankravets/AnalogInput](https://raw.githubusercontent.com/ivankravets/AnalogInput/patch-1/library.json) | https://raw.githubusercontent.com/johnogle222/AnalogInput/master/library.json
 556 | [TinkerKit/TinkerKit](https://github.com/TinkerKit/TinkerKit.git) | [ivankravets/TinkerKit](https://raw.githubusercontent.com/ivankravets/TinkerKit/patch-1/library.json) | 
 558 | [adafruit/MAX6675-library](https://github.com/adafruit/MAX6675-library.git) | [ivankravets/MAX6675-library](https://raw.githubusercontent.com/ivankravets/MAX6675-library/patch-1/library.json) | 
+566 | [adafruit/Adafruit_HTU21DF_Library](https://github.com/adafruit/Adafruit_HTU21DF_Library.git) | [ivankravets/Adafruit_HTU21DF_Library](https://raw.githubusercontent.com/ivankravets/Adafruit_HTU21DF_Library/patch-1/library.json) | 
