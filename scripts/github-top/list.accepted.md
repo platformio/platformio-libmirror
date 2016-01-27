@@ -152,7 +152,6 @@ ID | Project Repository | Manifest Repository | Project Manifest URL
 https://github.com/tuanpmt/espduino) | [tuanpmt/espduino](https://raw.githubusercontent.com/tuanpmt/espduino/master/espduino/library.json) | 
 543 | [souliss/souliss](https://github.com/souliss/souliss.git) | [ivankravets/souliss](https://raw.githubusercontent.com/ivankravets/souliss/patch-1/library.json) | 
 545 | [tinkerspy/Automaton](https://github.com/tinkerspy/Automaton) | [caspercba/Automaton](https://raw.githubusercontent.com/caspercba/Automaton/master/library.json) | https://raw.githubusercontent.com/tinkerspy/Automaton/master/library.json
-547 | [Makuna/NeoPixelBus](https://github.com/Makuna/NeoPixelBus.git) | [ivankravets/NeoPixelBus](https://raw.githubusercontent.com/ivankravets/NeoPixelBus/patch-1/library.json) | https://raw.githubusercontent.com/Makuna/NeoPixelBus/master/library.json
 548 | [mysensors/Arduino](https://github.com/mysensors/Arduino.git) | [ivankravets/Arduino-1](https://raw.githubusercontent.com/ivankravets/Arduino-1/patch-2/libraries/MySensors/library.json) | 
 554 | [johnogle222/AnalogInput](https://github.com/johnogle222/AnalogInput.git) | [ivankravets/AnalogInput](https://raw.githubusercontent.com/ivankravets/AnalogInput/patch-1/library.json) | https://raw.githubusercontent.com/johnogle222/AnalogInput/master/library.json
 556 | [TinkerKit/TinkerKit](https://github.com/TinkerKit/TinkerKit.git) | [ivankravets/TinkerKit](https://raw.githubusercontent.com/ivankravets/TinkerKit/patch-1/library.json) | 
