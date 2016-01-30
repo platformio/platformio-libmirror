@@ -978,7 +978,7 @@ active | [/ivanseidel/Gaussian](http://github.com/ivanseidel/Gaussian) | 441
 - | [/dydx/MRP121](http://github.com/dydx/MRP121) | 
 - | [/cblakkan/racr](http://github.com/cblakkan/racr) | 
 - | [/sudar/USB_Host_Shield_GPIO](http://github.com/sudar/USB_Host_Shield_GPIO) | 
-- | [/kiyoshigawa/LiquidCrystal_I2C](http://github.com/kiyoshigawa/LiquidCrystal_I2C) | 
+- | [/kiyoshigawa/LiquidCrystal_I2C](http://github.com/kiyoshigawa/LiquidCrystal_I2C) | possible duplicate of 576: https://github.com/marcoschwartz/LiquidCrystal_I2C
 - | [/rastating/LEDDisplay](http://github.com/rastating/LEDDisplay) | 
 - | [/sudar/TinyWire](http://github.com/sudar/TinyWire) | 
 - | [/debianmaster/RC-Control-Station](http://github.com/debianmaster/RC-Control-Station) | 
