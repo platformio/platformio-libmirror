@@ -50,7 +50,11 @@ ID | Project Repository | Manifest Repository | Project Manifest URL
 85 | [adafruit/Adafruit-Thermal-Printer-Library](https://github.com/adafruit/Adafruit-Thermal-Printer-Library.git) | [ivankravets/Adafruit-Thermal-Printer-Library](https://raw.githubusercontent.com/ivankravets/Adafruit-Thermal-Printer-Library/patch-1/library.json) | 
 86 | [practicalarduino/SHT1x](https://github.com/practicalarduino/SHT1x.git) | [ivankravets/SHT1x](https://raw.githubusercontent.com/ivankravets/SHT1x/patch-1/library.json) | 
 87 | [pbrier/ServoLight](https://github.com/pbrier/ServoLight.git) | [ivankravets/ServoLight](https://raw.githubusercontent.com/ivankravets/ServoLight/patch-1/library.json) | 
-89 | [knolleary/pubsubclient](https://github.com/knolleary/pubsubclient.git) | [ivankravets/pubsubclient](https://raw.githubusercontent.com/ivankravets/pubsubclient/patch-1/library.json) | 
+89 | [role= class= avatar blob-num js-line-number](
+ role=
+ class=
+avatar
+blob-num js-line-number) | [knolleary/pubsubclient](https://github.com/knolleary/pubsubclient/blob/master/library.json) | 
 90 | [adafruit/LPD8806](https://github.com/adafruit/LPD8806.git) | [ivankravets/LPD8806](https://raw.githubusercontent.com/ivankravets/LPD8806/patch-1/library.json) | 
 91 | [ntruchsess/arduino_uip](https://github.com/ntruchsess/arduino_uip.git) | [ivankravets/arduino_uip](https://raw.githubusercontent.com/ivankravets/arduino_uip/patch-1/library.json) | 
 93 | [LowPowerLab/RFM12B](https://github.com/LowPowerLab/RFM12B.git) | [ivankravets/RFM12B](https://raw.githubusercontent.com/ivankravets/RFM12B/patch-1/library.json) | 

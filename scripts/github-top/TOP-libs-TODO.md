@@ -2,6 +2,7 @@
 
 Status | Repository | Comment
 -------|------------|--------
+- | [/knolleary/pubsubclient](http://github.com/knolleary/pubsubclient) | 
 - | [/kitschpatrol/Brain](http://github.com/kitschpatrol/Brain) | fork
 - | [/asynclabs/WiShield](http://github.com/asynclabs/WiShield) | 
 - | [/ksksue/PhysicaloidLibrary](http://github.com/ksksue/PhysicaloidLibrary) | fork
