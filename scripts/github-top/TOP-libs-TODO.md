@@ -581,7 +581,6 @@ Status | Repository | Comment
 - | [/RobotGrrl/Arduino-SSC32](http://github.com/RobotGrrl/Arduino-SSC32) | 
 - | [/tangrs/HG7881-Arduino](http://github.com/tangrs/HG7881-Arduino) | 
 - | [/bergcloud/cc3000-arduino](http://github.com/bergcloud/cc3000-arduino) | 
-- | [/RoboTech-srl/EasyVR-Arduino](http://github.com/RoboTech-srl/EasyVR-Arduino) | 
 - | [/hmil/ADNS3_Arduino](http://github.com/hmil/ADNS3_Arduino) | 
 - | [/rocketscream/WISMO228](http://github.com/rocketscream/WISMO228) | 
 - | [/tastewar/BetaBrite](http://github.com/tastewar/BetaBrite) | 
