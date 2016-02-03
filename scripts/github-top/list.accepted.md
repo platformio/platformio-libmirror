@@ -17,7 +17,7 @@ ID | Project Repository | Manifest Repository | Project Manifest URL
 22 | [adafruit/Adafruit_HX8357_Library](https://github.com/adafruit/Adafruit_HX8357_Library.git) | [ivankravets/platformio-libmirror](https://raw.githubusercontent.com/ivankravets/platformio-libmirror/master/configs/adafruit/arduino-hx8357.json) | 
 23 | [adafruit/Adafruit_L3GD20_U](https://github.com/adafruit/Adafruit_L3GD20_U.git) | [ivankravets/platformio-libmirror](https://raw.githubusercontent.com/ivankravets/platformio-libmirror/master/configs/adafruit/arduino-l3gd20-unified.json) | 
 24 | [adafruit/Adafruit_L3GD20](https://github.com/adafruit/Adafruit_L3GD20.git) | [ivankravets/platformio-libmirror](https://raw.githubusercontent.com/ivankravets/platformio-libmirror/master/configs/adafruit/arduino-l3gd20.json) | 
-25 | [adafruit/Adafruit-LED-Backpack-Library](https://github.com/adafruit/Adafruit-LED-Backpack-Library.git) | [ivankravets/platformio-libmirror](https://raw.githubusercontent.com/ivankravets/platformio-libmirror/master/configs/adafruit/arduino-led-backpack.json) | 
+25 | [adafruit/Adafruit_LED_Backpack](https://github.com/adafruit/Adafruit_LED_Backpack.git) | [platformio/platformio-libmirror](https://raw.githubusercontent.com/platformio/platformio-libmirror/master/configs/adafruit/arduino-led-backpack.json) | 
 26 | [adafruit/Adafruit_LSM303DLHC](https://github.com/adafruit/Adafruit_LSM303DLHC.git) | [ivankravets/platformio-libmirror](https://raw.githubusercontent.com/ivankravets/platformio-libmirror/master/configs/adafruit/arduino-lsm303dlhc-unified.json) | 
 27 | [adafruit/Adafruit-Motor-Shield-library](https://github.com/adafruit/Adafruit-Motor-Shield-library.git) | [ivankravets/platformio-libmirror](https://raw.githubusercontent.com/ivankravets/platformio-libmirror/master/configs/adafruit/arduino-mshield.json) | 
 28 | [adafruit/Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel.git) | [ivankravets/platformio-libmirror](https://raw.githubusercontent.com/ivankravets/platformio-libmirror/master/configs/adafruit/arduino-neopixel.json) | 
@@ -50,11 +50,6 @@ ID | Project Repository | Manifest Repository | Project Manifest URL
 85 | [adafruit/Adafruit-Thermal-Printer-Library](https://github.com/adafruit/Adafruit-Thermal-Printer-Library.git) | [ivankravets/Adafruit-Thermal-Printer-Library](https://raw.githubusercontent.com/ivankravets/Adafruit-Thermal-Printer-Library/patch-1/library.json) | 
 86 | [practicalarduino/SHT1x](https://github.com/practicalarduino/SHT1x.git) | [ivankravets/SHT1x](https://raw.githubusercontent.com/ivankravets/SHT1x/patch-1/library.json) | 
 87 | [pbrier/ServoLight](https://github.com/pbrier/ServoLight.git) | [ivankravets/ServoLight](https://raw.githubusercontent.com/ivankravets/ServoLight/patch-1/library.json) | 
-89 | [role= class= avatar blob-num js-line-number](
- role=
- class=
-avatar
-blob-num js-line-number) | [knolleary/pubsubclient](https://github.com/knolleary/pubsubclient/blob/master/library.json) | 
 90 | [adafruit/LPD8806](https://github.com/adafruit/LPD8806.git) | [ivankravets/LPD8806](https://raw.githubusercontent.com/ivankravets/LPD8806/patch-1/library.json) | 
 91 | [ntruchsess/arduino_uip](https://github.com/ntruchsess/arduino_uip.git) | [ivankravets/arduino_uip](https://raw.githubusercontent.com/ivankravets/arduino_uip/patch-1/library.json) | 
 93 | [LowPowerLab/RFM12B](https://github.com/LowPowerLab/RFM12B.git) | [ivankravets/RFM12B](https://raw.githubusercontent.com/ivankravets/RFM12B/patch-1/library.json) | 
@@ -156,7 +151,6 @@ blob-num js-line-number) | [knolleary/pubsubclient](https://github.com/knolleary
 https://github.com/tuanpmt/espduino) | [tuanpmt/espduino](https://raw.githubusercontent.com/tuanpmt/espduino/master/espduino/library.json) | 
 543 | [souliss/souliss](https://github.com/souliss/souliss.git) | [ivankravets/souliss](https://raw.githubusercontent.com/ivankravets/souliss/patch-1/library.json) | 
 545 | [tinkerspy/Automaton](https://github.com/tinkerspy/Automaton) | [caspercba/Automaton](https://raw.githubusercontent.com/caspercba/Automaton/master/library.json) | https://raw.githubusercontent.com/tinkerspy/Automaton/master/library.json
-548 | [mysensors/Arduino](https://github.com/mysensors/Arduino.git) | [ivankravets/Arduino-1](https://raw.githubusercontent.com/ivankravets/Arduino-1/patch-2/libraries/MySensors/library.json) | 
 554 | [johnogle222/AnalogInput](https://github.com/johnogle222/AnalogInput.git) | [ivankravets/AnalogInput](https://raw.githubusercontent.com/ivankravets/AnalogInput/patch-1/library.json) | https://raw.githubusercontent.com/johnogle222/AnalogInput/master/library.json
 556 | [TinkerKit/TinkerKit](https://github.com/TinkerKit/TinkerKit.git) | [ivankravets/TinkerKit](https://raw.githubusercontent.com/ivankravets/TinkerKit/patch-1/library.json) | 
 558 | [adafruit/MAX6675-library](https://github.com/adafruit/MAX6675-library.git) | [ivankravets/MAX6675-library](https://raw.githubusercontent.com/ivankravets/MAX6675-library/patch-1/library.json) | 

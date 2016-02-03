@@ -10,7 +10,7 @@ ignored | [/mik3y/usb-serial-for-android](http://github.com/mik3y/usb-serial-for
 active | [/felis/USB_Host_Shield_2.0](http://github.com/felis/USB_Host_Shield_2.0) | 59
 active | [/adafruit/DHT-sensor-library](http://github.com/adafruit/DHT-sensor-library) | 19
 ignored | [/WiringPi/WiringPi](http://github.com/WiringPi/WiringPi) | N/A
-- | [/knolleary/pubsubclient](http://github.com/knolleary/pubsubclient) | 
+active | [/knolleary/pubsubclient](http://github.com/knolleary/pubsubclient) | 89
 active | [/br3ttb/Arduino-PID-Library](http://github.com/br3ttb/Arduino-PID-Library) | 2
 active | [/bblanchon/ArduinoJson](http://github.com/bblanchon/ArduinoJson) | 64
 ignored | [/HashNuke/arduino](http://github.com/HashNuke/arduino) | Ruby library
