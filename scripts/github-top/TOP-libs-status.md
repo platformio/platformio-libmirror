@@ -2,66 +2,67 @@
 
 Status | Repository | Comment
 -------|------------|--------
-active | [/shirriff/Arduino-IRremote](http://github.com/shirriff/Arduino-IRremote) | 4
-active | [/jrowberg/i2cdevlib](http://github.com/jrowberg/i2cdevlib) | 10 11 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113
-active | [/sirleech/Webduino](http://github.com/sirleech/Webduino) | 5
-active | [/interactive-matter/aJson](http://github.com/interactive-matter/aJson) | 35
+- | [/shirriff/Arduino-IRremote](http://github.com/shirriff/Arduino-IRremote) | 
+- | [/jrowberg/i2cdevlib](http://github.com/jrowberg/i2cdevlib) | 
+- | [/sirleech/Webduino](http://github.com/sirleech/Webduino) | 
+- | [/interactive-matter/aJson](http://github.com/interactive-matter/aJson) | 
 ignored | [/mik3y/usb-serial-for-android](http://github.com/mik3y/usb-serial-for-android) | N/A
-active | [/felis/USB_Host_Shield_2.0](http://github.com/felis/USB_Host_Shield_2.0) | 59
-active | [/adafruit/DHT-sensor-library](http://github.com/adafruit/DHT-sensor-library) | 19
+- | [/felis/USB_Host_Shield_2.0](http://github.com/felis/USB_Host_Shield_2.0) | 
+- | [/adafruit/DHT-sensor-library](http://github.com/adafruit/DHT-sensor-library) | 
 ignored | [/WiringPi/WiringPi](http://github.com/WiringPi/WiringPi) | N/A
-active | [/knolleary/pubsubclient](http://github.com/knolleary/pubsubclient) | 89
-active | [/br3ttb/Arduino-PID-Library](http://github.com/br3ttb/Arduino-PID-Library) | 2
-active | [/bblanchon/ArduinoJson](http://github.com/bblanchon/ArduinoJson) | 64
+- | [/knolleary/pubsubclient](http://github.com/knolleary/pubsubclient) | 
+- | [/br3ttb/Arduino-PID-Library](http://github.com/br3ttb/Arduino-PID-Library) | 
+- | [/bblanchon/ArduinoJson](http://github.com/bblanchon/ArduinoJson) | 
 ignored | [/HashNuke/arduino](http://github.com/HashNuke/arduino) | Ruby library
-active | [/miguelbalboa/rfid](http://github.com/miguelbalboa/rfid) | 63
-active | [/ntruchsess/arduino_uip](http://github.com/ntruchsess/arduino_uip) | 91
+- | [/miguelbalboa/rfid](http://github.com/miguelbalboa/rfid) | 
+- | [/ntruchsess/arduino_uip](http://github.com/ntruchsess/arduino_uip) | 
 ignored | [/graycatlabs/PyBBIO](http://github.com/graycatlabs/PyBBIO) | N/A
-active | [/rocketscream/Low-Power](http://github.com/rocketscream/Low-Power) | 38
-active | [/stanleyhuangyc/ArduinoOBD](http://github.com/stanleyhuangyc/ArduinoOBD) | 114
+- | [/rocketscream/Low-Power](http://github.com/rocketscream/Low-Power) | 
+- | [/stanleyhuangyc/ArduinoOBD](http://github.com/stanleyhuangyc/ArduinoOBD) | 
 ignored | [/thearn/Python-Arduino-Command-API](http://github.com/thearn/Python-Arduino-Command-API) | N/A
-active | [/milesburton/Arduino-Temperature-Control-Library](http://github.com/milesburton/Arduino-Temperature-Control-Library) | 54
+- | [/milesburton/Arduino-Temperature-Control-Library](http://github.com/milesburton/Arduino-Temperature-Control-Library) | 
 ignored | [/scanlime/arduino-lelo-remote](http://github.com/scanlime/arduino-lelo-remote) | -
 ignored | [/geekscape/aiko_arduino](http://github.com/geekscape/aiko_arduino) | Inactive?
-active | [/adafruit/LPD8806](http://github.com/adafruit/LPD8806) | 90
+- | [/adafruit/LPD8806](http://github.com/adafruit/LPD8806) | 
 - | [/kitschpatrol/Brain](http://github.com/kitschpatrol/Brain) | fork
-active | [/mysensors/Arduino](http://github.com/mysensors/Arduino) | 548
+ignored | [/mysensors/Arduino](http://github.com/mysensors/Arduino) | Collection of other libraries
 ignored | [/soundanalogous/Breakout](http://github.com/soundanalogous/Breakout) | Javascript library
-active | [/sensorium/Mozzi](http://github.com/sensorium/Mozzi) | 74
+- | [/sensorium/Mozzi](http://github.com/sensorium/Mozzi) | 
 ignored | [/platformio/platformio](http://github.com/platformio/platformio) | N/A
 ignored | [/WiringPi/WiringPi-Ruby](http://github.com/WiringPi/WiringPi-Ruby) | N/A
-active | [/adafruit/Adafruit-Thermal-Printer-Library](http://github.com/adafruit/Adafruit-Thermal-Printer-Library) | 85
+- | [/adafruit/Adafruit-Thermal-Printer-Library](http://github.com/adafruit/Adafruit-Thermal-Printer-Library) | 
 ignored | [/aaronds/arduino-nrf24l01](http://github.com/aaronds/arduino-nrf24l01) | Similar to 42?
-active | [/adafruit/Adafruit-Motor-Shield-library](http://github.com/adafruit/Adafruit-Motor-Shield-library) | 27
-active | [/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library](http://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library) | 81
-active | [/amcewen/HttpClient](http://github.com/amcewen/HttpClient) | 66
+- | [/adafruit/Adafruit-Motor-Shield-library](http://github.com/adafruit/Adafruit-Motor-Shield-library) | 
+- | [/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library](http://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library) | 
+- | [/amcewen/HttpClient](http://github.com/amcewen/HttpClient) | 
 ignored | [/mrmorphic/hwio](http://github.com/mrmorphic/hwio) | N/A
-active | [/FortySevenEffects/arduino_midi_library](http://github.com/FortySevenEffects/arduino_midi_library) | 62
-active | [/JChristensen/Timer](http://github.com/JChristensen/Timer) | 75
-active | [/adafruit/Adafruit-WS2801-Library](http://github.com/adafruit/Adafruit-WS2801-Library) | 80
-active | [/plotly/arduino-api](http://github.com/plotly/arduino-api) | 48 49 50 51
+- | [/FortySevenEffects/arduino_midi_library](http://github.com/FortySevenEffects/arduino_midi_library) | 
+- | [/JChristensen/Timer](http://github.com/JChristensen/Timer) | 
+- | [/adafruit/Adafruit-WS2801-Library](http://github.com/adafruit/Adafruit-WS2801-Library) | 
+- | [/plotly/arduino-api](http://github.com/plotly/arduino-api) | 
 ignored | [/scottschiller/arduino.js](http://github.com/scottschiller/arduino.js) | Javascript library
-active | [/harlequin-tech/WiFlyHQ](http://github.com/harlequin-tech/WiFlyHQ) | 65
+- | [/harlequin-tech/WiFlyHQ](http://github.com/harlequin-tech/WiFlyHQ) | 
 ignored | [/felis/USB_Host_Shield](http://github.com/felis/USB_Host_Shield) | 59
-active | [/nethoncho/Arduino-DHT22](http://github.com/nethoncho/Arduino-DHT22) | 115
+- | [/nethoncho/Arduino-DHT22](http://github.com/nethoncho/Arduino-DHT22) | 
 - | [/asynclabs/WiShield](http://github.com/asynclabs/WiShield) | 
-active | [/openenergymonitor/EmonLib](http://github.com/openenergymonitor/EmonLib) | 116
-active | [/kroimon/Arduino-SerialCommand](http://github.com/kroimon/Arduino-SerialCommand) | 173
-active | [/finsprings/arduinaap](http://github.com/finsprings/arduinaap) | 53
+- | [/openenergymonitor/EmonLib](http://github.com/openenergymonitor/EmonLib) | 
+- | [/kroimon/Arduino-SerialCommand](http://github.com/kroimon/Arduino-SerialCommand) | registered-fork
+tests | [](http://github.com) | 
+- | [/finsprings/arduinaap](http://github.com/finsprings/arduinaap) | 
 - | [/ksksue/PhysicaloidLibrary](http://github.com/ksksue/PhysicaloidLibrary) | fork
 - | [/thijse/Arduino-Libraries](http://github.com/thijse/Arduino-Libraries) | done-fork
-active | [/xively/xively_arduino](http://github.com/xively/xively_arduino) | 67
+- | [/xively/xively_arduino](http://github.com/xively/xively_arduino) | 
 - | [/geekammo/MicroView-Arduino-Library](http://github.com/geekammo/MicroView-Arduino-Library) | fork
-active | [/br3ttb/Arduino-PID-AutoTune-Library](http://github.com/br3ttb/Arduino-PID-AutoTune-Library) | 3
-active | [/practicalarduino/SHT1x](http://github.com/practicalarduino/SHT1x) | 86
-active | [/adafruit/SD](http://github.com/adafruit/SD) | 161
+- | [/br3ttb/Arduino-PID-AutoTune-Library](http://github.com/br3ttb/Arduino-PID-AutoTune-Library) | 
+- | [/practicalarduino/SHT1x](http://github.com/practicalarduino/SHT1x) | 
+ignored | [/adafruit/SD](http://github.com/adafruit/SD) | totally in progress. works but in beta
 - | [/adafruit/Touch-Screen-Library](http://github.com/adafruit/Touch-Screen-Library) | fork
 - | [/mmurdoch/arduinounit](http://github.com/mmurdoch/arduinounit) | fork
-active | [/guanix/arduino-nrf8001](http://github.com/guanix/arduino-nrf8001) | 172
+- | [/guanix/arduino-nrf8001](http://github.com/guanix/arduino-nrf8001) | done-fork
 ignored | [/recotana/ArdOSC](http://github.com/recotana/ArdOSC) | Examples do not compile
-active | [/adafruit/TFTLCD-Library](http://github.com/adafruit/TFTLCD-Library) | 32
-active | [/Zuph/AVRQueue](http://github.com/Zuph/AVRQueue) | 181
-active | [/TMRh20/TMRpcm](http://github.com/TMRh20/TMRpcm) | 162
+- | [/adafruit/TFTLCD-Library](http://github.com/adafruit/TFTLCD-Library) | 
+- | [/Zuph/AVRQueue](http://github.com/Zuph/AVRQueue) | fork
+- | [/TMRh20/TMRpcm](http://github.com/TMRh20/TMRpcm) | registered
 ignored | [/kitschpatrol/BrainGrapher](http://github.com/kitschpatrol/BrainGrapher) | Demo for Brain
 - | [/cmagagna/ArduinoCC3000](http://github.com/cmagagna/ArduinoCC3000) | fork
 - | [/elcojacobs/ShiftPWM](http://github.com/elcojacobs/ShiftPWM) | 
@@ -71,7 +72,7 @@ ignored | [/kitschpatrol/BrainGrapher](http://github.com/kitschpatrol/BrainGraph
 - | [/pololu/lsm303-arduino](http://github.com/pololu/lsm303-arduino) | 
 - | [/mikalhart/TinyGPSPlus](http://github.com/mikalhart/TinyGPSPlus) | 
 - | [/GabrielBianconi/ArduinoNunchuk](http://github.com/GabrielBianconi/ArduinoNunchuk) | 
-active | [/mikalhart/TinyGPS](http://github.com/mikalhart/TinyGPS) | 416
+- | [/mikalhart/TinyGPS](http://github.com/mikalhart/TinyGPS) | 
 - | [/gauravmm/HT1632-for-Arduino](http://github.com/gauravmm/HT1632-for-Arduino) | 
 - | [/cyborg5/IRLib](http://github.com/cyborg5/IRLib) | 
 - | [/scogswell/ArduinoSerialCommand](http://github.com/scogswell/ArduinoSerialCommand) | 
@@ -79,17 +80,17 @@ active | [/mikalhart/TinyGPS](http://github.com/mikalhart/TinyGPS) | 416
 - | [/PaulStoffregen/cores](http://github.com/PaulStoffregen/cores) | 
 - | [/floe/BTLE](http://github.com/floe/BTLE) | 
 - | [/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library](http://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library) | 
-active | [/adafruit/Adafruit-PN532](http://github.com/adafruit/Adafruit-PN532) | 29
+- | [/adafruit/Adafruit-PN532](http://github.com/adafruit/Adafruit-PN532) | 
 - | [/markruys/arduino-DHT](http://github.com/markruys/arduino-DHT) | 
 - | [/stanleyhuangyc/MultiLCD](http://github.com/stanleyhuangyc/MultiLCD) | 
-active | [/ivanseidel/DueTimer](http://github.com/ivanseidel/DueTimer) | 442
+- | [/ivanseidel/DueTimer](http://github.com/ivanseidel/DueTimer) | 
 - | [/adafruit/Adafruit-MCP23017-Arduino-Library](http://github.com/adafruit/Adafruit-MCP23017-Arduino-Library) | 
 - | [/pololu/pololu-led-strip-arduino](http://github.com/pololu/pololu-led-strip-arduino) | 
 - | [/adamvr/arduino-base64](http://github.com/adamvr/arduino-base64) | 
-active | [/PaulStoffregen/Time](http://github.com/PaulStoffregen/Time) | 44
+- | [/PaulStoffregen/Time](http://github.com/PaulStoffregen/Time) | 
 - | [/thomasfredericks/Bounce2](http://github.com/thomasfredericks/Bounce2) | 
 - | [/adafruit/ST7565-LCD](http://github.com/adafruit/ST7565-LCD) | 
-- | [/nmattisson/HttpClient](http://github.com/nmattisson/HttpClient) | possible duplicate of 46: https://github.com/zlalanne/HttpClient
+- | [/nmattisson/HttpClient](http://github.com/nmattisson/HttpClient) | 
 - | [/DavyLandman/AESLib](http://github.com/DavyLandman/AESLib) | 
 - | [/adafruit/Adafruit-Fingerprint-Sensor-Library](http://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library) | 
 - | [/giladaya/arduino-particle-sys](http://github.com/giladaya/arduino-particle-sys) | 
@@ -102,20 +103,20 @@ active | [/PaulStoffregen/Time](http://github.com/PaulStoffregen/Time) | 44
 - | [/sowbug/G35Arduino](http://github.com/sowbug/G35Arduino) | 
 - | [/Diaoul/arduino-ESP8266](http://github.com/Diaoul/arduino-ESP8266) | 
 - | [/adafruit/Adafruit-Trinket-USB](http://github.com/adafruit/Adafruit-Trinket-USB) | 
-active | [/adafruit/CC3000_MDNS](http://github.com/adafruit/CC3000_MDNS) | 427
+- | [/adafruit/CC3000_MDNS](http://github.com/adafruit/CC3000_MDNS) | 
 - | [/adafruit/RGB-matrix-Panel](http://github.com/adafruit/RGB-matrix-Panel) | 
 - | [/Qtechknow/Arduino-Libraries](http://github.com/Qtechknow/Arduino-Libraries) | done-fork
 - | [/msparks/arduino-ds1302](http://github.com/msparks/arduino-ds1302) | 
 - | [/don/NDEF](http://github.com/don/NDEF) | 
 - | [/kasperskaarhoj/Arduino-Library-for-ATEM-Switchers](http://github.com/kasperskaarhoj/Arduino-Library-for-ATEM-Switchers) | 
 - | [/wayoda/LedControl](http://github.com/wayoda/LedControl) | 
-active | [/itead/ITEADLIB_Arduino_WeeESP8266](http://github.com/itead/ITEADLIB_Arduino_WeeESP8266) | 127
-- | [/iot-playground/Arduino](http://github.com/iot-playground/Arduino) | possible duplicate of 548: https://github.com/mysensors/Arduino
+- | [/itead/ITEADLIB_Arduino_WeeESP8266](http://github.com/itead/ITEADLIB_Arduino_WeeESP8266) | 
+- | [/iot-playground/Arduino](http://github.com/iot-playground/Arduino) | 
 - | [/INEXTH/Arduino-ESP8266_libs](http://github.com/INEXTH/Arduino-ESP8266_libs) | 
 - | [/JRodrigoTech/Ultrasonic-HC-SR04](http://github.com/JRodrigoTech/Ultrasonic-HC-SR04) | 
 - | [/Kegbot/kegboard](http://github.com/Kegbot/kegboard) | 
 - | [/n0m1/Sleep_n0m1](http://github.com/n0m1/Sleep_n0m1) | 
-active | [/LowPowerLab/SPIFlash](http://github.com/LowPowerLab/SPIFlash) | 125
+- | [/LowPowerLab/SPIFlash](http://github.com/LowPowerLab/SPIFlash) | 
 - | [/collin80/due_can](http://github.com/collin80/due_can) | 
 - | [/jcw/rtclib](http://github.com/jcw/rtclib) | 
 - | [/greiman/FreeRTOS-Arduino](http://github.com/greiman/FreeRTOS-Arduino) | 
@@ -137,14 +138,14 @@ active | [/LowPowerLab/SPIFlash](http://github.com/LowPowerLab/SPIFlash) | 125
 - | [/sandeepmistry/arduino-BLEPeripheral](http://github.com/sandeepmistry/arduino-BLEPeripheral) | 
 - | [/stimmer/DueVGA](http://github.com/stimmer/DueVGA) | 
 - | [/jgarland79/GSM_Shield](http://github.com/jgarland79/GSM_Shield) | 
-active | [/adafruit/HT1632](http://github.com/adafruit/HT1632) | 21
+- | [/adafruit/HT1632](http://github.com/adafruit/HT1632) | 
 - | [/ratkins/RGBConverter](http://github.com/ratkins/RGBConverter) | 
 - | [/pardo-bsso/processing-arduino](http://github.com/pardo-bsso/processing-arduino) | 
 - | [/adafruit/Adafruit-MCP23008-library](http://github.com/adafruit/Adafruit-MCP23008-library) | 
 - | [/gmtii/ili9341-arduino](http://github.com/gmtii/ili9341-arduino) | 
 - | [/rodan/ds3231](http://github.com/rodan/ds3231) | 
 - | [/richards-tech/MPU9150Lib](http://github.com/richards-tech/MPU9150Lib) | 
-active | [/JChristensen/DS3232RTC](http://github.com/JChristensen/DS3232RTC) | 78
+- | [/JChristensen/DS3232RTC](http://github.com/JChristensen/DS3232RTC) | 
 - | [/bsalinas/ArduinoHue](http://github.com/bsalinas/ArduinoHue) | 
 - | [/zkemble/nRF905](http://github.com/zkemble/nRF905) | 
 - | [/frank26080115/Arduino-UsiSerial-Library](http://github.com/frank26080115/Arduino-UsiSerial-Library) | 
@@ -169,7 +170,7 @@ active | [/JChristensen/DS3232RTC](http://github.com/JChristensen/DS3232RTC) | 7
 - | [/sparkfun/SevSeg](http://github.com/sparkfun/SevSeg) | 
 - | [/UFactory-Team/UF_uArm](http://github.com/UFactory-Team/UF_uArm) | 
 - | [/thomasfredericks/Metro-Arduino-Wiring](http://github.com/thomasfredericks/Metro-Arduino-Wiring) | 
-active | [/DougC/arduino-x10](http://github.com/DougC/arduino-x10) | 36
+- | [/DougC/arduino-x10](http://github.com/DougC/arduino-x10) | 
 - | [/freetronics/DMD](http://github.com/freetronics/DMD) | 
 - | [/natcl/Artnet](http://github.com/natcl/Artnet) | 
 - | [/mathertel/OneButton](http://github.com/mathertel/OneButton) | 
@@ -180,10 +181,10 @@ active | [/DougC/arduino-x10](http://github.com/DougC/arduino-x10) | 36
 - | [/rweather/arduinolibs](http://github.com/rweather/arduinolibs) | 
 - | [/jenschr/Arduino-libraries](http://github.com/jenschr/Arduino-libraries) | 
 - | [/jbkim/W5200-Arduino-Ethernet-library](http://github.com/jbkim/W5200-Arduino-Ethernet-library) | 
-active | [/adafruit/MAX6675-library](http://github.com/adafruit/MAX6675-library) | 558
+- | [/adafruit/MAX6675-library](http://github.com/adafruit/MAX6675-library) | 
 - | [/fdebrabander/Arduino-LiquidCrystal-I2C-library](http://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library) | 
 - | [/tuupola/avr_demo](http://github.com/tuupola/avr_demo) | 
-active | [/JChristensen/Timezone](http://github.com/JChristensen/Timezone) | 76
+- | [/JChristensen/Timezone](http://github.com/JChristensen/Timezone) | 
 - | [/asheeshr/Microsmooth](http://github.com/asheeshr/Microsmooth) | 
 - | [/IronSavior/dsm2_tx](http://github.com/IronSavior/dsm2_tx) | 
 - | [/netlabtoolkit/VarSpeedServo](http://github.com/netlabtoolkit/VarSpeedServo) | 
@@ -215,20 +216,20 @@ active | [/JChristensen/Timezone](http://github.com/JChristensen/Timezone) | 76
 - | [/virgildisgr4ce/Neuroduino](http://github.com/virgildisgr4ce/Neuroduino) | 
 - | [/mikalhart/IridiumSBD](http://github.com/mikalhart/IridiumSBD) | 
 - | [/samatt/CardReaderY-n](http://github.com/samatt/CardReaderY-n) | 
-active | [/JChristensen/Button](http://github.com/JChristensen/Button) | 77
+- | [/JChristensen/Button](http://github.com/JChristensen/Button) | 
 - | [/johnmccombs/arduino-libraries](http://github.com/johnmccombs/arduino-libraries) | 
 - | [/adafruit/TSL2561-Arduino-Library](http://github.com/adafruit/TSL2561-Arduino-Library) | 
 - | [/kellyegan/OpenSCAD-Arduino-Mounting-Library](http://github.com/kellyegan/OpenSCAD-Arduino-Mounting-Library) | 
-active | [/sparkfun/SFE_CC3000_Library](http://github.com/sparkfun/SFE_CC3000_Library) | 61
+- | [/sparkfun/SFE_CC3000_Library](http://github.com/sparkfun/SFE_CC3000_Library) | 
 - | [/adafruit/Adafruit-SSD1331-OLED-Driver-Library-for-Arduino](http://github.com/adafruit/Adafruit-SSD1331-OLED-Driver-Library-for-Arduino) | 
 - | [/SFE-Chris/UNO-HIDKeyboard-Library](http://github.com/SFE-Chris/UNO-HIDKeyboard-Library) | 
 - | [/kristopher/PS2-Mouse-Arduino](http://github.com/kristopher/PS2-Mouse-Arduino) | 
 - | [/Integreight/1Sheeld-Arduino-Library](http://github.com/Integreight/1Sheeld-Arduino-Library) | 
-- | [/tigoe/Button](http://github.com/tigoe/Button) | possible duplicate of 77: https://github.com/JChristensen/Button
+- | [/tigoe/Button](http://github.com/tigoe/Button) | 
 - | [/maniacbug/MemoryFree](http://github.com/maniacbug/MemoryFree) | 
 - | [/clearwater/SwitecX25](http://github.com/clearwater/SwitecX25) | 
 - | [/lgeek/Arduino-Color-LCD](http://github.com/lgeek/Arduino-Color-LCD) | 
-active | [/MarkusLange/Arduino-Due-RTC-Library](http://github.com/MarkusLange/Arduino-Due-RTC-Library) | 422
+- | [/MarkusLange/Arduino-Due-RTC-Library](http://github.com/MarkusLange/Arduino-Due-RTC-Library) | 
 - | [/yasiralijaved/Arduino-CC2500-Library](http://github.com/yasiralijaved/Arduino-CC2500-Library) | 
 - | [/cjbearman/xbee-wifi-spi-arduino](http://github.com/cjbearman/xbee-wifi-spi-arduino) | 
 - | [/CisecoPlc/PiLite](http://github.com/CisecoPlc/PiLite) | 
@@ -269,7 +270,7 @@ active | [/MarkusLange/Arduino-Due-RTC-Library](http://github.com/MarkusLange/Ar
 - | [/alvieboy/arduino-serpro](http://github.com/alvieboy/arduino-serpro) | 
 - | [/eschnou/arduino-px4flow-i2c](http://github.com/eschnou/arduino-px4flow-i2c) | 
 - | [/biomood/LuaSerial](http://github.com/biomood/LuaSerial) | 
-active | [/sumotoy/TFT_ILI9163C](http://github.com/sumotoy/TFT_ILI9163C) | 546
+- | [/sumotoy/TFT_ILI9163C](http://github.com/sumotoy/TFT_ILI9163C) | 
 - | [/csdexter/MAX7219](http://github.com/csdexter/MAX7219) | 
 - | [/giannoug/ESP8266](http://github.com/giannoug/ESP8266) | 
 - | [/practicalarduino/TouchScreen](http://github.com/practicalarduino/TouchScreen) | 
@@ -371,7 +372,7 @@ active | [/sumotoy/TFT_ILI9163C](http://github.com/sumotoy/TFT_ILI9163C) | 546
 - | [/redpaperheart/ArduinoMindwave](http://github.com/redpaperheart/ArduinoMindwave) | 
 - | [/labatrockwell/spacebrew-arduino-library](http://github.com/labatrockwell/spacebrew-arduino-library) | 
 - | [/Arachnid/sm130](http://github.com/Arachnid/sm130) | 
-active | [/johngineer/ArduinoINA219](http://github.com/johngineer/ArduinoINA219) | 158
+- | [/johngineer/ArduinoINA219](http://github.com/johngineer/ArduinoINA219) | done
 - | [/jpmulligan/Arduino-DS1620](http://github.com/jpmulligan/Arduino-DS1620) | 
 - | [/pimatic/homeduino](http://github.com/pimatic/homeduino) | 
 - | [/aguegu/ardulibs](http://github.com/aguegu/ardulibs) | 
@@ -408,7 +409,7 @@ active | [/johngineer/ArduinoINA219](http://github.com/johngineer/ArduinoINA219)
 - | [/gorillabuilderz/gb-arduino-libs](http://github.com/gorillabuilderz/gb-arduino-libs) | 
 - | [/lukaszkujawa/arduino-serial-helper](http://github.com/lukaszkujawa/arduino-serial-helper) | 
 - | [/lucsmall/WH2-Weather-Sensor-Library-for-Arduino](http://github.com/lucsmall/WH2-Weather-Sensor-Library-for-Arduino) | 
-- | [/jarzebski/Arduino-ADXL345](http://github.com/jarzebski/Arduino-ADXL345) | possible duplicate of 559: https://github.com/jakalada/Arduino-ADXL345
+- | [/jarzebski/Arduino-ADXL345](http://github.com/jarzebski/Arduino-ADXL345) | 
 - | [/hughpyle/machinesalem-arduino-libs](http://github.com/hughpyle/machinesalem-arduino-libs) | 
 - | [/msiegenthaler/arduino-xbee](http://github.com/msiegenthaler/arduino-xbee) | 
 - | [/alberanid/arduino-rrd](http://github.com/alberanid/arduino-rrd) | 
@@ -426,11 +427,11 @@ active | [/johngineer/ArduinoINA219](http://github.com/johngineer/ArduinoINA219)
 - | [/niesteszeck/idDHTLib](http://github.com/niesteszeck/idDHTLib) | 
 - | [/fstdp/mobilerobot.ino](http://github.com/fstdp/mobilerobot.ino) | 
 - | [/erix/NexaTransmitter](http://github.com/erix/NexaTransmitter) | 
-active | [/claws/BH1750](http://github.com/claws/BH1750) | 439
+- | [/claws/BH1750](http://github.com/claws/BH1750) | 
 - | [/iamthechad/parallax_lcd](http://github.com/iamthechad/parallax_lcd) | 
 - | [/jjalling/Arduino-Si7005](http://github.com/jjalling/Arduino-Si7005) | 
 - | [/Materdaddy/GwtS-Arduino](http://github.com/Materdaddy/GwtS-Arduino) | 
-active | [/adafruit/Adafruit_DHT_Unified](http://github.com/adafruit/Adafruit_DHT_Unified) | 18
+- | [/adafruit/Adafruit_DHT_Unified](http://github.com/adafruit/Adafruit_DHT_Unified) | 
 - | [/KermMartian/ArTICL](http://github.com/KermMartian/ArTICL) | 
 - | [/Cameri/Itg3200](http://github.com/Cameri/Itg3200) | 
 - | [/practicalarduino/PracticalArduinoEagleLib](http://github.com/practicalarduino/PracticalArduinoEagleLib) | 
@@ -478,13 +479,13 @@ active | [/adafruit/Adafruit_DHT_Unified](http://github.com/adafruit/Adafruit_DH
 - | [/adafruit/Adafruit_TinyFlash](http://github.com/adafruit/Adafruit_TinyFlash) | 
 - | [/RoboCraft/SPI_Bus](http://github.com/RoboCraft/SPI_Bus) | 
 - | [/afiler/keyduino](http://github.com/afiler/keyduino) | 
-- | [/brunnels/PCA9685](http://github.com/brunnels/PCA9685) | possible duplicate of 117: https://github.com/TOppenhoff/PCA9685
+- | [/brunnels/PCA9685](http://github.com/brunnels/PCA9685) | 
 - | [/amperka/URM37](http://github.com/amperka/URM37) | 
 - | [/aguegu/dot-matrix](http://github.com/aguegu/dot-matrix) | 
 - | [/vic320/Arduino-MS5803-14BA](http://github.com/vic320/Arduino-MS5803-14BA) | 
 - | [/delsauce/ArduinoDueParallel](http://github.com/delsauce/ArduinoDueParallel) | 
 - | [/tzikis/gntp-arduino](http://github.com/tzikis/gntp-arduino) | 
-active | [/tomozh/arduino_ST7032](http://github.com/tomozh/arduino_ST7032) | 445
+- | [/tomozh/arduino_ST7032](http://github.com/tomozh/arduino_ST7032) | 
 - | [/andresarmento/modbus-arduino](http://github.com/andresarmento/modbus-arduino) | 
 - | [/itead/ITEADLIB_Arduino_IoTgo](http://github.com/itead/ITEADLIB_Arduino_IoTgo) | 
 - | [/davidknaack/EventFuse](http://github.com/davidknaack/EventFuse) | 
@@ -511,7 +512,7 @@ active | [/tomozh/arduino_ST7032](http://github.com/tomozh/arduino_ST7032) | 445
 - | [/jmgiacalone/Arduino-libraries](http://github.com/jmgiacalone/Arduino-libraries) | 
 - | [/d2kagw/arduino-rhythm-library](http://github.com/d2kagw/arduino-rhythm-library) | 
 - | [/reeedstudio/libraries](http://github.com/reeedstudio/libraries) | 
-- | [/johnmckerrell/xbee-arduino](http://github.com/johnmckerrell/xbee-arduino) | possible duplicate of 6: https://github.com/andrewrapp/xbee-arduino
+- | [/johnmckerrell/xbee-arduino](http://github.com/johnmckerrell/xbee-arduino) | 
 - | [/FriedCircuits/Dagu4Motor-Library](http://github.com/FriedCircuits/Dagu4Motor-Library) | 
 - | [/adafruit/Adafruit_MCP9808_Library](http://github.com/adafruit/Adafruit_MCP9808_Library) | 
 - | [/mariolukas/TwigMotor-Library](http://github.com/mariolukas/TwigMotor-Library) | 
@@ -595,9 +596,9 @@ active | [/tomozh/arduino_ST7032](http://github.com/tomozh/arduino_ST7032) | 445
 - | [/agoransson/processingadb](http://github.com/agoransson/processingadb) | 
 - | [/lazyatom/ThermalSD](http://github.com/lazyatom/ThermalSD) | 
 - | [/j-mcc1993/NES_Keyboard](http://github.com/j-mcc1993/NES_Keyboard) | 
-- | [/CBMalloch/Arduino](http://github.com/CBMalloch/Arduino) | possible duplicate of 548: https://github.com/mysensors/Arduino
-- | [/qoda/Arduino](http://github.com/qoda/Arduino) | possible duplicate of 548: https://github.com/mysensors/Arduino
-- | [/SolidSoils/Arduino](http://github.com/SolidSoils/Arduino) | possible duplicate of 548: https://github.com/mysensors/Arduino
+- | [/CBMalloch/Arduino](http://github.com/CBMalloch/Arduino) | 
+- | [/qoda/Arduino](http://github.com/qoda/Arduino) | 
+- | [/SolidSoils/Arduino](http://github.com/SolidSoils/Arduino) | 
 - | [/misenso/HMC6352-Arduino-Library](http://github.com/misenso/HMC6352-Arduino-Library) | 
 - | [/lstoll/arduino-libraries](http://github.com/lstoll/arduino-libraries) | 
 - | [/xiongyihui/PN532](http://github.com/xiongyihui/PN532) | 
@@ -620,7 +621,7 @@ active | [/tomozh/arduino_ST7032](http://github.com/tomozh/arduino_ST7032) | 445
 - | [/brianlow/Rotary](http://github.com/brianlow/Rotary) | 
 - | [/pololu/dual-mc33926-motor-shield](http://github.com/pololu/dual-mc33926-motor-shield) | 
 - | [/kiuz/Arduino-Statistic-Library](http://github.com/kiuz/Arduino-Statistic-Library) | 
-active | [/adafruit/Adafruit_HTU21DF_Library](http://github.com/adafruit/Adafruit_HTU21DF_Library) | 566
+- | [/adafruit/Adafruit_HTU21DF_Library](http://github.com/adafruit/Adafruit_HTU21DF_Library) | 
 - | [/labatrockwell/arduinoConnect](http://github.com/labatrockwell/arduinoConnect) | 
 - | [/shaselton/arduino_wifly](http://github.com/shaselton/arduino_wifly) | 
 - | [/skywodd/NS73M_arduino_library](http://github.com/skywodd/NS73M_arduino_library) | 
@@ -655,7 +656,7 @@ active | [/adafruit/Adafruit_HTU21DF_Library](http://github.com/adafruit/Adafrui
 - | [/RobotGrrl/Arduino-SSC32](http://github.com/RobotGrrl/Arduino-SSC32) | 
 - | [/tangrs/HG7881-Arduino](http://github.com/tangrs/HG7881-Arduino) | 
 - | [/bergcloud/cc3000-arduino](http://github.com/bergcloud/cc3000-arduino) | 
-active | [/RoboTech-srl/EasyVR-Arduino](http://github.com/RoboTech-srl/EasyVR-Arduino) | 580
+- | [/RoboTech-srl/EasyVR-Arduino](http://github.com/RoboTech-srl/EasyVR-Arduino) | 
 - | [/hmil/ADNS3_Arduino](http://github.com/hmil/ADNS3_Arduino) | 
 - | [/rocketscream/WISMO228](http://github.com/rocketscream/WISMO228) | 
 - | [/tastewar/BetaBrite](http://github.com/tastewar/BetaBrite) | 
@@ -669,12 +670,12 @@ active | [/RoboTech-srl/EasyVR-Arduino](http://github.com/RoboTech-srl/EasyVR-Ar
 - | [/interactive-matter/TMC26XStepper](http://github.com/interactive-matter/TMC26XStepper) | 
 - | [/signalwerk/thermalprinter](http://github.com/signalwerk/thermalprinter) | 
 - | [/prsolucoes/prduino](http://github.com/prsolucoes/prduino) | 
-- | [/Tecsmith/DS3232RTC](http://github.com/Tecsmith/DS3232RTC) | possible duplicate of 78: https://github.com/JChristensen/DS3232RTC
+- | [/Tecsmith/DS3232RTC](http://github.com/Tecsmith/DS3232RTC) | 
 - | [/elechouse/nRF905](http://github.com/elechouse/nRF905) | 
 - | [/zhum/ardunoo](http://github.com/zhum/ardunoo) | 
 - | [/SoftwareTools4Makers/OPC](http://github.com/SoftwareTools4Makers/OPC) | 
 - | [/microbuilder/spiflash](http://github.com/microbuilder/spiflash) | 
-active | [/jfturcot/SimpleTimer](http://github.com/jfturcot/SimpleTimer) | 419
+- | [/jfturcot/SimpleTimer](http://github.com/jfturcot/SimpleTimer) | 
 - | [/mikalhart/NewSoftSerial](http://github.com/mikalhart/NewSoftSerial) | 
 - | [/liquidware/SoftwareSerial_NB](http://github.com/liquidware/SoftwareSerial_NB) | 
 - | [/feranick/TwitterLib](http://github.com/feranick/TwitterLib) | 
@@ -682,7 +683,7 @@ active | [/jfturcot/SimpleTimer](http://github.com/jfturcot/SimpleTimer) | 419
 - | [/turdusmerula/ShockBurst](http://github.com/turdusmerula/ShockBurst) | 
 - | [/l3kn/RGBlink](http://github.com/l3kn/RGBlink) | 
 - | [/ficeto/espino](http://github.com/ficeto/espino) | 
-active | [/PaulStoffregen/Encoder](http://github.com/PaulStoffregen/Encoder) | 129
+- | [/PaulStoffregen/Encoder](http://github.com/PaulStoffregen/Encoder) | 
 - | [/nickstedman/SoftwareSerialWithHalfDuplex](http://github.com/nickstedman/SoftwareSerialWithHalfDuplex) | 
 - | [/Phara0h/ShiftBrite](http://github.com/Phara0h/ShiftBrite) | 
 - | [/akafugu/ds_rtc_lib](http://github.com/akafugu/ds_rtc_lib) | 
@@ -712,7 +713,7 @@ active | [/PaulStoffregen/Encoder](http://github.com/PaulStoffregen/Encoder) | 1
 - | [/stevenpetryk/rustle](http://github.com/stevenpetryk/rustle) | 
 - | [/ekstrand/ESP8266wifi](http://github.com/ekstrand/ESP8266wifi) | 
 - | [/kpegan/Radio](http://github.com/kpegan/Radio) | 
-- | [/ppicazo/OneWire](http://github.com/ppicazo/OneWire) | possible duplicate of 1: https://github.com/PaulStoffregen/OneWire
+- | [/ppicazo/OneWire](http://github.com/ppicazo/OneWire) | 
 - | [/JChristensen/TinyWireM](http://github.com/JChristensen/TinyWireM) | 
 - | [/poisa/Calibrator](http://github.com/poisa/Calibrator) | 
 - | [/thomasaw/RadiationWatch](http://github.com/thomasaw/RadiationWatch) | 
@@ -733,11 +734,11 @@ active | [/PaulStoffregen/Encoder](http://github.com/PaulStoffregen/Encoder) | 1
 - | [/ptressel/LogSensorsWithDemoKit](http://github.com/ptressel/LogSensorsWithDemoKit) | 
 - | [/dcuartielles/HT1632c](http://github.com/dcuartielles/HT1632c) | 
 - | [/ntruchsess/panstamp](http://github.com/ntruchsess/panstamp) | 
-- | [/aoabook/Arduino](http://github.com/aoabook/Arduino) | possible duplicate of 548: https://github.com/mysensors/Arduino
+- | [/aoabook/Arduino](http://github.com/aoabook/Arduino) | 
 - | [/tah-io/Tah_Arduino_Library](http://github.com/tah-io/Tah_Arduino_Library) | 
 - | [/pbrook/arduino-onewire](http://github.com/pbrook/arduino-onewire) | 
 - | [/jccprj/RemoteSwitch-arduino-library](http://github.com/jccprj/RemoteSwitch-arduino-library) | 
-- | [/ubugnu/Arduino](http://github.com/ubugnu/Arduino) | possible duplicate of 548: https://github.com/mysensors/Arduino
+- | [/ubugnu/Arduino](http://github.com/ubugnu/Arduino) | 
 - | [/bubbapizza/arduino-stdlib](http://github.com/bubbapizza/arduino-stdlib) | 
 - | [/zaurky/arduino](http://github.com/zaurky/arduino) | 
 - | [/jcastaneyra/ds3231_library](http://github.com/jcastaneyra/ds3231_library) | 
@@ -795,7 +796,7 @@ active | [/PaulStoffregen/Encoder](http://github.com/PaulStoffregen/Encoder) | 1
 - | [/mikeneiderhauser/I2C-EEPROM-Arduino](http://github.com/mikeneiderhauser/I2C-EEPROM-Arduino) | 
 - | [/Cathedrow/DmxSimple](http://github.com/Cathedrow/DmxSimple) | 
 - | [/RoboCraft/LiquidCrystalExt](http://github.com/RoboCraft/LiquidCrystalExt) | 
-- | [/yosemitebandit/PS2Keyboard](http://github.com/yosemitebandit/PS2Keyboard) | possible duplicate of 130: https://github.com/PaulStoffregen/PS2Keyboard
+- | [/yosemitebandit/PS2Keyboard](http://github.com/yosemitebandit/PS2Keyboard) | 
 - | [/cryptotronix/cryptoauth-arduino](http://github.com/cryptotronix/cryptoauth-arduino) | 
 - | [/h4x0rviper/Arduino-Pong](http://github.com/h4x0rviper/Arduino-Pong) | 
 - | [/volution/volution-arduino-libraries](http://github.com/volution/volution-arduino-libraries) | 
@@ -864,7 +865,7 @@ active | [/PaulStoffregen/Encoder](http://github.com/PaulStoffregen/Encoder) | 1
 - | [/RoboCraft/LMotorShield](http://github.com/RoboCraft/LMotorShield) | 
 - | [/hypatia/MorseOutput](http://github.com/hypatia/MorseOutput) | 
 - | [/elechouse/Mp3Shield](http://github.com/elechouse/Mp3Shield) | 
-- | [/SomeRandomGuy/DueTimer](http://github.com/SomeRandomGuy/DueTimer) | possible duplicate of 442: https://github.com/ivanseidel/DueTimer
+- | [/SomeRandomGuy/DueTimer](http://github.com/SomeRandomGuy/DueTimer) | 
 - | [/johndu9/NMusic](http://github.com/johndu9/NMusic) | 
 - | [/joruiz/shiftduino](http://github.com/joruiz/shiftduino) | 
 - | [/guyc/RC5](http://github.com/guyc/RC5) | 
@@ -907,7 +908,7 @@ active | [/PaulStoffregen/Encoder](http://github.com/PaulStoffregen/Encoder) | 1
 - | [/dsuarezv/carambola-gpio](http://github.com/dsuarezv/carambola-gpio) | 
 - | [/zamanandrew/MMA8452Q](http://github.com/zamanandrew/MMA8452Q) | 
 - | [/01010101/ResPads](http://github.com/01010101/ResPads) | 
-- | [/bygorillas/Button](http://github.com/bygorillas/Button) | possible duplicate of 77: https://github.com/JChristensen/Button
+- | [/bygorillas/Button](http://github.com/bygorillas/Button) | 
 - | [/ljbeng/NeoPixel](http://github.com/ljbeng/NeoPixel) | 
 - | [/flyersfanindc/TinyGpsPlus_SparkCore](http://github.com/flyersfanindc/TinyGpsPlus_SparkCore) | 
 - | [/mjakovlevs/Debounce](http://github.com/mjakovlevs/Debounce) | 
@@ -928,7 +929,7 @@ active | [/PaulStoffregen/Encoder](http://github.com/PaulStoffregen/Encoder) | 1
 - | [/alexhenning/I2CEncoder](http://github.com/alexhenning/I2CEncoder) | 
 - | [/flyrdm/KeypadBV4505](http://github.com/flyrdm/KeypadBV4505) | 
 - | [/moderndevice/MD_Serial_LED_Strips](http://github.com/moderndevice/MD_Serial_LED_Strips) | 
-active | [/ivanseidel/Gaussian](http://github.com/ivanseidel/Gaussian) | 441
+- | [/ivanseidel/Gaussian](http://github.com/ivanseidel/Gaussian) | 
 - | [/cthoma/rpi-si4703](http://github.com/cthoma/rpi-si4703) | 
 - | [/mikalhart/galileo-LiquidCrystal](http://github.com/mikalhart/galileo-LiquidCrystal) | 
 - | [/ahuxtable/TDA7439](http://github.com/ahuxtable/TDA7439) | 
@@ -965,7 +966,7 @@ active | [/ivanseidel/Gaussian](http://github.com/ivanseidel/Gaussian) | 441
 - | [/ElectricRCAircraftGuy/eRCaGuy_TouchLamp](http://github.com/ElectricRCAircraftGuy/eRCaGuy_TouchLamp) | 
 - | [/bransorem/SCUROV](http://github.com/bransorem/SCUROV) | 
 - | [/pololu/drv8835-motor-shield](http://github.com/pololu/drv8835-motor-shield) | 
-- | [/openenergymonitor/Ethernet](http://github.com/openenergymonitor/Ethernet) | possible duplicate of 134: https://github.com/PaulStoffregen/Ethernet
+- | [/openenergymonitor/Ethernet](http://github.com/openenergymonitor/Ethernet) | 
 - | [/radekk/wii-duofx-nunchuk](http://github.com/radekk/wii-duofx-nunchuk) | 
 - | [/tomorrowlab/M41T93-Real-Time-Clock](http://github.com/tomorrowlab/M41T93-Real-Time-Clock) | 
 - | [/j-mcc1993/SNES_Keyboard](http://github.com/j-mcc1993/SNES_Keyboard) | 
@@ -978,7 +979,7 @@ active | [/ivanseidel/Gaussian](http://github.com/ivanseidel/Gaussian) | 441
 - | [/dydx/MRP121](http://github.com/dydx/MRP121) | 
 - | [/cblakkan/racr](http://github.com/cblakkan/racr) | 
 - | [/sudar/USB_Host_Shield_GPIO](http://github.com/sudar/USB_Host_Shield_GPIO) | 
-- | [/kiyoshigawa/LiquidCrystal_I2C](http://github.com/kiyoshigawa/LiquidCrystal_I2C) | possible duplicate of 576: https://github.com/marcoschwartz/LiquidCrystal_I2C
+- | [/kiyoshigawa/LiquidCrystal_I2C](http://github.com/kiyoshigawa/LiquidCrystal_I2C) | 
 - | [/rastating/LEDDisplay](http://github.com/rastating/LEDDisplay) | 
 - | [/sudar/TinyWire](http://github.com/sudar/TinyWire) | 
 - | [/debianmaster/RC-Control-Station](http://github.com/debianmaster/RC-Control-Station) | 
@@ -998,7 +999,7 @@ active | [/ivanseidel/Gaussian](http://github.com/ivanseidel/Gaussian) | 441
 - | [/Skyzophreniac/Quadrotor](http://github.com/Skyzophreniac/Quadrotor) | 
 - | [/terminationshok/DynamicReactiveLighting](http://github.com/terminationshok/DynamicReactiveLighting) | 
 - | [/oskarirauta/commandInterpreter](http://github.com/oskarirauta/commandInterpreter) | 
-- | [/DenisNP/Arduino](http://github.com/DenisNP/Arduino) | possible duplicate of 548: https://github.com/mysensors/Arduino
-- | [/rogerclarkmelbourne/Arduino](http://github.com/rogerclarkmelbourne/Arduino) | possible duplicate of 548: https://github.com/mysensors/Arduino
-- | [/Xkonti/Arduino](http://github.com/Xkonti/Arduino) | possible duplicate of 548: https://github.com/mysensors/Arduino
+- | [/DenisNP/Arduino](http://github.com/DenisNP/Arduino) | 
+- | [/rogerclarkmelbourne/Arduino](http://github.com/rogerclarkmelbourne/Arduino) | 
+- | [/Xkonti/Arduino](http://github.com/Xkonti/Arduino) | 
 - | [/nherment/Arduino-Library](http://github.com/nherment/Arduino-Library) | 
