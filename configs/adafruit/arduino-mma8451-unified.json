@@ -8,6 +8,11 @@
     "url": "https://github.com/adafruit/Adafruit_MMA8451_Library"
   },
   "version": "1.0.0",
+  "dependencies":
+  {
+    "name": "Adafruit-Unified-Sensor",
+    "frameworks": "arduino"
+  },  
   "frameworks": "arduino",
   "platforms": "atmelavr"
 }
