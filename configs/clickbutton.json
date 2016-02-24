@@ -1,0 +1,14 @@
+{
+  "name": "clickButton",
+  "keywords": "button, switch, press",
+  "description": "A library that decodes multiple clicks on one button. Also copes with long clicks and click-and-hold.",
+  "url": "https://raronoff.wordpress.com/2013/08/29/arduino-clickbutton-library/",
+  "authors": {
+    "name": "raron",
+    "email": "raronzen@gmail.com"
+  },
+  "downloadUrl": "https://www.dropbox.com/s/lnk9234h2tb6hhf/ClickButton_2012.08.29.tar.gz?dl=1",
+  "version": "2012.08.29",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
