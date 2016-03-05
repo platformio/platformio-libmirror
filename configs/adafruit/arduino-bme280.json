@@ -7,6 +7,11 @@
     "type": "git",
     "url": "https://github.com/adafruit/Adafruit_BME280_Library.git"
   },
+  "dependencies":
+  {
+    "name": "Adafruit-Unified-Sensor",
+    "frameworks": "arduino"
+  },  
   "frameworks": "arduino",
   "platforms": "atmelavr"
 }
