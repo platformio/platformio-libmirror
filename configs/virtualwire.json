@@ -9,6 +9,7 @@
   },
   "version": "1.15",
   "downloadUrl": "https://www.pjrc.com/teensy/arduino_libraries/VirtualWire.zip",
+  "include": "VirtualWire",
   "exclude": "doc",
   "frameworks": "arduino",
   "platforms": "*"
