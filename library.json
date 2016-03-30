@@ -1,0 +1,15 @@
+{
+  "name": "VirtualWire",
+  "keywords": "rf, radio, protocol",
+  "description": "It provides a simple message passing protocol for a range of inexpensive transmitter and receiver modules",
+  "authors":
+  {
+    "name": "Mike McCauley",
+    "email": "mikem@airspayce.com"
+  },
+  "version": "1.15",
+  "downloadUrl": "https://www.pjrc.com/teensy/arduino_libraries/VirtualWire.zip",
+  "exclude": "doc",
+  "frameworks": "arduino",
+  "platforms": "*"
+ }
