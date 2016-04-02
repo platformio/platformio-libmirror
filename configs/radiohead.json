@@ -16,7 +16,8 @@
     "RadioHead/doc",
     "RadioHead/project.cfg",
     "RadioHead/STM32ArduinoCompat",
-    "RadioHead/tools"
+    "RadioHead/tools",
+    "RadioHead/RHutil"
   ],
   "examples": "RadioHead/examples/*/*/*.pde",
   "frameworks": 
