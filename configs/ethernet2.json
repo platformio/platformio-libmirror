@@ -1,0 +1,18 @@
+{
+  "name": "Ethernet2",
+  "keywords": "communication, ethernet",
+  "description": "Enables network connection (local and Internet) using the Arduino Ethernet board or shield. For all Arduino boards.",
+  "authors":
+  {
+    "name": "Arduino",
+    "url": "info@arduino.cc"
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/adafruit/Ethernet2.git"
+  },
+  "version": "1.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
