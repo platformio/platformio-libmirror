@@ -17,5 +17,6 @@
     "repository": {
         "type": "hg",
         "url": "https://developer.mbed.org/teams/Bluetooth-Low-Energy/code/BLE_API/"
-    }
+    },
+    "exclude": "*.doxyfile"
 }
