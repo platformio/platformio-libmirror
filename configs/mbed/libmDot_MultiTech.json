@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://developer.mbed.org/teams/MultiTech/"
+    },
+    "description": "Library for LoRa communication using MultiTech MDOT.",
+    "examples": [
+        "https://developer.mbed.org/teams/MultiTech/code/mDot_LoRa_Connect_Example/",
+        "https://developer.mbed.org/teams/MultiTech/code/mDot_LoRa_Connect_Example_APP_EUI_KEY/",
+        "https://developer.mbed.org/teams/MultiTech/code/mDot_LoRa_Connect_Example_ABPA/",
+        "https://developer.mbed.org/teams/MultiTech/code/mDot_AT_firmware/",
+        "https://developer.mbed.org/teams/MultiTech/code/mDot_DigitalIn_BusIn_Example/",
+        "https://developer.mbed.org/teams/MultiTech/code/mDot_DigitalOut_BusOut_Example/",
+        "https://developer.mbed.org/teams/MultiTech/code/mDot_InterruptIn_Example/",
+        "https://developer.mbed.org/teams/MultiTech/code/mDot_AnalogIn_Example/",
+        "https://developer.mbed.org/teams/MultiTech/code/mDot_PwmOut_Example/",
+        "https://developer.mbed.org/teams/MultiTech/code/mDot_Serial_Example/",
+        "https://developer.mbed.org/teams/MultiTech/code/mDot_LoRa_Sleep_Example/",
+        "https://developer.mbed.org/teams/MultiTech/code/mDot_helloworld/",
+        "https://developer.mbed.org/teams/MultiTech/code/MTDOT-BOX-EVB-Factory-Firmware/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "lora, mdot",
+    "name": "libmDot",
+    "platforms": "ststm32",
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/teams/MultiTech/code/libmDot/"
+    }
+}
