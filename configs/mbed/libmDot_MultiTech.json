@@ -26,5 +26,9 @@
     "repository": {
         "type": "hg",
         "url": "https://developer.mbed.org/teams/MultiTech/code/libmDot/"
-    }
+    },
+    "include": [
+        "MTS-Utils/*",
+        "LoRaMac/*"
+    ]
 }
