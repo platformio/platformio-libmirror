@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://developer.mbed.org/users/wim/"
+    },
+    "description": "TextLCD library for controlling various LCD panels based on the HD44780 4-bit interface, updated for more display types",
+    "examples": [
+        "https://developer.mbed.org/users/mprinke/code/GPSDevice/",
+        "https://developer.mbed.org/users/hgomez/code/TestTextLCD/",
+        "https://developer.mbed.org/users/vinit/code/SD-to-Flash-Data-Transfer/",
+        "https://developer.mbed.org/users/gcme93/code/DrumMachine/",
+        "https://developer.mbed.org/users/ralphoosterveld/code/TextLCD/",
+        "https://developer.mbed.org/users/embeddedartists/code/lpc812_exp_solution_character-lcd/",
+        "https://developer.mbed.org/users/umairaftab/code/LCD20x2/",
+        "https://developer.mbed.org/users/Tuxitheone/code/Accelerometer_ADXL345/",
+        "https://developer.mbed.org/users/embeddedartists/code/lpc4088_ebb_textlcd/",
+        "https://developer.mbed.org/users/strain11/code/LCD_16x2_1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HD44780",
+        "TextLCD"
+    ],
+    "name": "TextLCD",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32",
+        "teensy"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/wim/code/TextLCD/"
+    }
+}
