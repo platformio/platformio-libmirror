@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Components Team",
+        "url": "https://developer.mbed.org/teams/components/"
+    },
+    "description": "Parser for AT commands and similar protocols",
+    "frameworks": "mbed",
+    "keywords": "AT",
+    "name": "ATParser",
+    "platforms": [
+        "freescalekinetics",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32",
+        "teensy"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/teams/components/code/ATParser/"
+    }
+}
