@@ -1,0 +1,13 @@
+{
+  "name": "Adafruit_MCP23017",
+  "keywords": "expander, gpio, i2c",
+  "description": "Arduino library for the MCP23017 I2C Port Expander",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/adafruit/Adafruit-MCP23017-Arduino-Library.git"
+  },
+  "version": "1.0.1",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
