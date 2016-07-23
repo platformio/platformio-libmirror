@@ -9,5 +9,5 @@
   },
   "exclude": "fontconvert",
   "frameworks": "arduino",
-  "platforms": "atmelavr"
+  "platforms": "*"
 }
