@@ -1,5 +1,5 @@
 {
-  "name": "Adafruit_SSD1351",
+  "name": "Adafruit SSD1351 library",
   "keywords": "display, oled",
   "description": "Adafruit library for the color OLEDs displays with SSD1351 driver chip",
   "repository":
@@ -9,7 +9,7 @@
   },
   "dependencies":
   {
-    "name": "Adafruit-GFX",
+    "name": "Adafruit GFX Library",
     "frameworks": "arduino"
   },
   "version": "1.0.2",

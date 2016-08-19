@@ -1,5 +1,6 @@
   {
-  "name": "Adafruit-TSL2561-Unified",
+  "name": "Adafruit TSL2561",
+  "version": "1.0.0",
   "keywords": "sensor, light, i2c, unified",
   "description": "Unified light sensor driver for Adafruit's TSL2561 breakouts",
   "repository":
@@ -9,7 +10,7 @@
   },
   "dependencies":
   {
-    "name": "Adafruit-Unified-Sensor",
+    "name": "Adafruit Unified Sensor",
     "frameworks": "arduino"
   },
   "frameworks": "arduino",

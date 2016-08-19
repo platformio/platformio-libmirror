@@ -1,5 +1,6 @@
 {
-  "name": "Adafruit-HX8357",
+  "name": "Adafruit HX8357 Library",
+  "version": "1.0.1",
   "keywords": "display, tft, graphics, spi",
   "description": "A library for the Adafruit HX8357 SPI display",
   "repository":
@@ -10,7 +11,7 @@
   "exclude": "jumpers.bmp",
   "dependencies":
   {
-    "name": "Adafruit-GFX",
+    "name": "Adafruit GFX Library",
     "frameworks": "arduino"
   },
   "frameworks": "arduino",

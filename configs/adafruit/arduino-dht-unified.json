@@ -1,5 +1,6 @@
 {
-  "name": "Adafruit-DHT-Unified",
+  "name": "Adafruit DHT Unified",
+  "version": "1.0.0",
   "keywords": "sensor, humidity, temperature, dht, unified",
   "description": "Unified sensor library for DHT (DHT11, DHT22 and etc) temperature and humidity sensors",
   "repository":
@@ -10,11 +11,11 @@
   "dependencies":
   [
     {
-      "name": "Adafruit-Unified-Sensor",
+      "name": "Adafruit Unified Sensor",
       "frameworks": "arduino"
     },
     {
-      "name": "Adafruit-DHT -unified",
+      "name": "DHT sensor library",
       "frameworks": "arduino"
     }
   ],

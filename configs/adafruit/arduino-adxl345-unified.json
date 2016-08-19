@@ -1,5 +1,6 @@
 {
-  "name": "Adafruit-ADXL345-Unified",
+  "name": "Adafruit ADXL345",
+  "version": "1.0.0",
   "keywords": "sensor, accelerometer, i2c, spi, unified",
   "description": "Unified driver for the ADXL345 Accelerometer",
   "repository":
@@ -9,7 +10,7 @@
   },
   "dependencies":
   {
-    "name": "Adafruit-Unified-Sensor",
+    "name": "Adafruit Unified Sensor",
     "frameworks": "arduino"
   },
   "frameworks": "arduino",

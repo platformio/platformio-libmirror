@@ -1,5 +1,6 @@
 {
-  "name": "Adafruit-BMP085-Unified",
+  "name": "Adafruit BMP085 Unified",
+  "version": "1.0.0",
   "keywords": "sensor, barometer, pressure, temperature, altitude, altimeter, i2c, unified",
   "description": "Unified sensor driver for Adafruit's BMP085 & BMP180 breakouts (Barometric Pressure Sensor)",
   "repository":
@@ -9,7 +10,7 @@
   },
   "dependencies":
   {
-    "name": "Adafruit-Unified-Sensor",
+    "name": "Adafruit Unified Sensor",
     "frameworks": "arduino"
   },
   "frameworks": "arduino",
