@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "DongEun Koak",
+        "url": "https://developer.mbed.org/users/kaizen/"
+    },
+    "description": "A HTTP Client for the mbed networking libraries",
+    "examples": [
+        "https://developer.mbed.org/teams/EthernetInterfaceW5500-makers/code/CurrentWeatherData_W5500/",
+        "https://developer.mbed.org/teams/EthernetInterfaceW5500-makers/code/HTTPClient_Weather/",
+        "https://developer.mbed.org/teams/WIZnet/code/dweetIoExample/",
+        "https://developer.mbed.org/teams/IOP/code/dweetIo_CloudService_Helloworld_WIZwiki-/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HTTP",
+        "WWW"
+    ],
+    "name": "HTTPClient",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32",
+        "teensy"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://developer.mbed.org/users/kaizen/code/HTTPClient/"
+    }
+}
