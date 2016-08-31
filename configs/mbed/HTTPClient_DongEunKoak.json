@@ -26,5 +26,10 @@
     "repository": {
         "type": "hg",
         "url": "https://developer.mbed.org/users/kaizen/code/HTTPClient/"
+    },
+    "build": {
+        "flags": [
+            "-Idata"
+        ]
     }
 }
