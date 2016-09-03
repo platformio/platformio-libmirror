@@ -8,18 +8,18 @@
     "email": "mikem@airspayce.com",
     "url": "http://www.airspayce.com/mikem/arduino/RadioHead/index.html"
   },
-  "version": "1.45",
-  "downloadUrl": "http://www.airspayce.com/mikem/arduino/RadioHead/RadioHead-1.45.zip",
-  "include": "RadioHead",
-  "exclude":
-  [
-    "RadioHead/doc",
-    "RadioHead/project.cfg",
-    "RadioHead/STM32ArduinoCompat",
-    "RadioHead/tools",
-    "RadioHead/RHutil"
-  ],
-  "examples": "RadioHead/examples/*/*/*.pde",
+  "version": "1.62",
+  "downloadUrl": "http://www.airspayce.com/mikem/arduino/RadioHead/RadioHead-1.62.zip",
+  "export": {
+    "include": "RadioHead"
+    "exclude":
+    [
+      "RadioHead/doc",
+      "RadioHead/project.cfg",
+      "RadioHead/STM32ArduinoCompat",
+      "RadioHead/tools"
+    ]
+  },
   "frameworks": 
   [
     "arduino",
