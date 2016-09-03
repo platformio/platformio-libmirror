@@ -11,7 +11,7 @@
   "version": "1.62",
   "downloadUrl": "http://www.airspayce.com/mikem/arduino/RadioHead/RadioHead-1.62.zip",
   "export": {
-    "include": "RadioHead"
+    "include": "RadioHead",
     "exclude":
     [
       "RadioHead/doc",
