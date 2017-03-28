@@ -1,0 +1,21 @@
+{
+  "name": "Paho",
+  "keywords": "mqtt, iot, m2m",
+  "description": "The Paho project provides reliable open-source implementations of open and standard messaging protocols aimed at new, existing, and emerging applications for Machine-to-Machine (M2M) and Internet of Things (IoT).",
+  "authors":
+  {
+    "name": "Eclipse",
+    "url": "https://www.eclipse.org"
+  },
+  "homepage": "https://projects.eclipse.org/projects/technology.paho",
+  "version": "1.0.0",
+  "downloadUrl": "http://ftp.fau.de/eclipse/paho/arduino_1.0.0.zip",
+  "export": {
+    "include": "MQTTClient"
+  },
+  "frameworks": 
+  [
+    "arduino"
+  ],
+  "platforms": "*"
+ }
