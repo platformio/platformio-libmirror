@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Donatien Garnier",
+        "url": "https://os.mbed.com/users/donatien/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "NetworkingCoreLib",
+            "url": "/users/donatien/code/NetworkingCoreLib/"
+        }
+    ],
+    "description": "Ethernet Network Library",
+    "examples": [
+        "https://os.mbed.com/users/donatien/code/EthernetHTTPClientTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F746NG",
+        "SD",
+        "event",
+        "event-driven",
+        "fully-preemptive",
+        "multithread",
+        "rtos",
+        "run-to-completion",
+        "schedulling",
+        "single-stack"
+    ],
+    "name": "EthernetNetworkLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donatien/code/EthernetNetworkLib/"
+    }
+}

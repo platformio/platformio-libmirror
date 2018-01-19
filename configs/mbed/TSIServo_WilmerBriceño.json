@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Wilmer Brice\u00f1o",
+        "url": "https://os.mbed.com/users/RafaB/"
+    },
+    "description": "Libreria para manejo de Touchpad",
+    "frameworks": "mbed",
+    "keywords": [
+        "MPU-9250",
+        "scp1000",
+        "touch"
+    ],
+    "name": "TSIServo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RafaB/code/TSIServo/"
+    }
+}

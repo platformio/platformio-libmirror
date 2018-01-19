@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Donatien Garnier",
+        "url": "https://os.mbed.com/users/donatien/"
+    },
+    "description": "A HTTP Client for the mbed networking libraries",
+    "examples": [
+        "https://os.mbed.com/users/samux/code/HTTPClient_Wifly_HelloWorld/",
+        "https://os.mbed.com/users/va009039/code/HTTPPoster/",
+        "https://os.mbed.com/users/donatien/code/HTTPClient_HelloWorld/",
+        "https://os.mbed.com/users/togayan/code/mpod_nhk_english/",
+        "https://os.mbed.com/users/togayan/code/mpod_nhk_english_spxml/",
+        "https://os.mbed.com/users/escalion/code/HTTPClient_Twitter/",
+        "https://os.mbed.com/users/angalo3/code/InternetControlledRobot/",
+        "https://os.mbed.com/users/chris/code/app-board-Wifly-HTTPClient/",
+        "https://os.mbed.com/users/donatien/code/SprintUSBModemHTTPClientTest/",
+        "https://os.mbed.com/users/donatien/code/VodafoneUSBModemHTTPClientTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "debounce",
+        "DigitalIn",
+        "InterruptIn",
+        "buffer",
+        "BufferedSerial",
+        "BufferSerial",
+        "Serial",
+        "accelerometer",
+        "I2C",
+        "MMA7660",
+        "ADXL345"
+    ],
+    "name": "HTTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donatien/code/HTTPClient/"
+    }
+}

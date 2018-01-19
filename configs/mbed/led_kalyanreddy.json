@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "kalyan reddy",
+        "url": "https://os.mbed.com/users/kalyan/"
+    },
+    "description": "test2",
+    "examples": [
+        "https://os.mbed.com/users/kalyan/code/ledblink/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "clock",
+        "ds1307",
+        "RTC",
+        "accelerometer",
+        "ADXL345"
+    ],
+    "name": "led",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kalyan/code/led/"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Viraj Jayaweera",
+        "url": "https://os.mbed.com/users/virajjayaweera/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "TSI",
+            "url": "/users/mbed_official/code/TSI/"
+        }
+    ],
+    "description": "This library allow you to convert FRDM-KL25Z built-in touch slider in to 4 touch buttons.",
+    "examples": [
+        "https://os.mbed.com/users/virajjayaweera/code/CapacitiveTouchButton/",
+        "https://os.mbed.com/teams/BMT-M9-Groep01/code/CapacitiveTouchButton/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "4",
+        "buttons",
+        "convert",
+        "Slider",
+        "to",
+        "touch",
+        "Composite",
+        "USB",
+        "USBKeyboard",
+        "usbserial",
+        "Encoder",
+        "rotary"
+    ],
+    "name": "TouchButton",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/virajjayaweera/code/TouchButton/"
+    }
+}

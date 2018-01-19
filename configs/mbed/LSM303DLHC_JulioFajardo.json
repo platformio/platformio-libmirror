@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Julio Fajardo",
+        "url": "https://os.mbed.com/users/julioefajardo/"
+    },
+    "description": "Adafruit 9DOF - LSM303DLHC",
+    "examples": [
+        "https://os.mbed.com/users/julioefajardo/code/Galileo_HoverBoardRider/",
+        "https://os.mbed.com/users/LuisMSanchezB/code/accelerometerTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit 9DOF",
+        "LSM303DLHC"
+    ],
+    "name": "LSM303DLHC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/julioefajardo/code/LSM303DLHC/"
+    }
+}

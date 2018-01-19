@@ -1,36 +1,41 @@
 {
     "authors": {
         "name": "Simon Garfieldsg",
-        "url": "https://developer.mbed.org/users/garfieldsg/"
+        "url": "https://os.mbed.com/users/garfieldsg/"
     },
     "description": "Ported from Arduino Library : https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050",
     "examples": [
-        "https://developer.mbed.org/users/garfieldsg/code/mpu6050_test/",
-        "https://developer.mbed.org/users/pommzorz/code/testI2C/",
-        "https://developer.mbed.org/users/syundo0730/code/Hobby_Humanoid_controlor/",
-        "https://developer.mbed.org/users/kto1989/code/mpu6050_test/",
-        "https://developer.mbed.org/users/oakx/code/j_mpu6050/",
-        "https://developer.mbed.org/teams/Wallbot-BLE-Developer/code/mpu6050_test/"
+        "https://os.mbed.com/users/garfieldsg/code/mpu6050_test/",
+        "https://os.mbed.com/users/pommzorz/code/testI2C/",
+        "https://os.mbed.com/users/syundo0730/code/Hobby_Humanoid_controlor/",
+        "https://os.mbed.com/users/kto1989/code/mpu6050_test/",
+        "https://os.mbed.com/users/oakx/code/j_mpu6050/",
+        "https://os.mbed.com/teams/Wallbot-BLE-Developer/code/mpu6050_test/",
+        "https://os.mbed.com/users/shuhei2306/code/NeoPixels/",
+        "https://os.mbed.com/users/godai0505/code/mpu6050/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "GPS",
+        "Celsius",
+        "driver",
+        "I2C",
+        "LM75B",
+        "nxp",
+        "sensor",
+        "Temperature",
+        "BSP",
+        "DISCO_F746NG",
         "accelerometer",
         "gyroscope",
-        "I2C",
         "MPU-6050",
         "MPU6050",
         "MPU60x0"
     ],
     "name": "MPU6050",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/garfieldsg/code/MPU6050/"
+        "url": "https://os.mbed.com/users/garfieldsg/code/MPU6050/"
     }
 }

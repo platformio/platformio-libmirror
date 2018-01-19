@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Zeheng Chen",
+        "url": "https://os.mbed.com/users/zchen78/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "CMSIS_DSP_401",
+            "url": "/users/emh203/code/CMSIS_DSP_401/"
+        }
+    ],
+    "description": "fft library for mbed",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelererometer",
+        "ADXL345",
+        "I2C"
+    ],
+    "name": "FFT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/zchen78/code/FFT/"
+    }
+}

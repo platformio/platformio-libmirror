@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Henry Leinen",
+        "url": "https://os.mbed.com/users/leihen/"
+    },
+    "description": "Single instance HTTP Server using WiFly Interface.",
+    "examples": [
+        "https://os.mbed.com/users/leihen/code/WiFlyHTTPServerSample/",
+        "https://os.mbed.com/users/leihen/code/MultiThreadingHTTPServer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "daisy-chain",
+        "L6470",
+        "SPI",
+        "Stepper",
+        "Adafruit 2.8",
+        "FRDM-KL25Z",
+        "STMPE610",
+        "touchsensor",
+        "I2C",
+        "MPU6050",
+        "accelerometer",
+        "compass",
+        "eCompass",
+        "magnetometer",
+        "sensor",
+        "HTTPServer",
+        "WiFly"
+    ],
+    "name": "WiFlyHTTPServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/leihen/code/WiFlyHTTPServer/"
+    }
+}

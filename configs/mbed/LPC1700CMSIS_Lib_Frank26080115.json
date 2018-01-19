@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Frank 26080115",
+        "url": "https://os.mbed.com/users/frank26080115/"
+    },
+    "description": "Date: March 20, 2011",
+    "frameworks": "mbed",
+    "keywords": [
+        "api",
+        "Humidity",
+        "I2C",
+        "sht11",
+        "SHT15",
+        "SHT71",
+        "SHT75",
+        "Temperature"
+    ],
+    "name": "LPC1700CMSIS_Lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/frank26080115/code/LPC1700CMSIS_Lib/"
+    }
+}

@@ -1,36 +1,34 @@
 {
     "authors": {
         "name": "Andy Kirkham",
-        "url": "https://developer.mbed.org/users/AjK/"
+        "url": "https://os.mbed.com/users/AjK/"
     },
     "description": "Extends DigitalIn to DebounceIn to provide mechanical switch debouncing.",
     "examples": [
-        "https://developer.mbed.org/users/shimniok/code/AVC_20110423/",
-        "https://developer.mbed.org/users/4180_1/code/Pushbutton_NoBounce_Demo/",
-        "https://developer.mbed.org/users/cicklaus/code/FinalTime/",
-        "https://developer.mbed.org/users/shimniok/code/AVC_2012/",
-        "https://developer.mbed.org/users/psawant9/code/Lab3_VoiceMeter/",
-        "https://developer.mbed.org/users/Brandon/code/Slingshot/",
-        "https://developer.mbed.org/users/Ifrah/code/GPS_System_with_Google_Maps/",
-        "https://developer.mbed.org/users/kzampag/code/SlotSensorsTest/",
-        "https://developer.mbed.org/users/salondonog/code/tarea1/",
-        "https://developer.mbed.org/users/caaruizze/code/tarea2-3/"
+        "https://os.mbed.com/users/shimniok/code/AVC_20110423/",
+        "https://os.mbed.com/users/4180_1/code/Pushbutton_NoBounce_Demo/",
+        "https://os.mbed.com/users/cicklaus/code/FinalTime/",
+        "https://os.mbed.com/users/shimniok/code/AVC_2012/",
+        "https://os.mbed.com/users/psawant9/code/Lab3_VoiceMeter/",
+        "https://os.mbed.com/users/Brandon/code/Slingshot/",
+        "https://os.mbed.com/users/Ifrah/code/GPS_System_with_Google_Maps/",
+        "https://os.mbed.com/users/kzampag/code/SlotSensorsTest/",
+        "https://os.mbed.com/users/salondonog/code/tarea1/",
+        "https://os.mbed.com/users/caaruizze/code/tarea2-3/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Config",
+        "file",
         "debounce",
-        "DigitalIn"
+        "DigitalIn",
+        "interrupt",
+        "keypad"
     ],
     "name": "DebounceIn",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/AjK/code/DebounceIn/"
+        "url": "https://os.mbed.com/users/AjK/code/DebounceIn/"
     }
 }

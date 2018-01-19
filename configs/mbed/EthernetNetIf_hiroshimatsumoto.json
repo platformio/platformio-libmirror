@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "hiroshi matsumoto",
+        "url": "https://os.mbed.com/users/jh1cdv00/"
+    },
+    "description": "lpc1768",
+    "frameworks": "mbed",
+    "keywords": [
+        "IMU",
+        "MPU9150",
+        "Bluetooth module",
+        "hc-05",
+        "HC05",
+        "audio",
+        "bwf",
+        "file",
+        "wav",
+        "wave",
+        "eeprom on flash",
+        "flash file system"
+    ],
+    "name": "EthernetNetIf",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jh1cdv00/code/EthernetNetIf/"
+    }
+}

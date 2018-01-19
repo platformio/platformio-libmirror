@@ -1,0 +1,40 @@
+{
+    "authors": {
+        "name": "Reinhold Schaefer",
+        "url": "https://os.mbed.com/users/rs27/"
+    },
+    "description": "SDFileSystem",
+    "frameworks": "mbed",
+    "keywords": [
+        "Serial",
+        "SoftwareSerial",
+        "UART",
+        "DISCO_F746NG",
+        "LCD",
+        "any",
+        "no",
+        "Pin",
+        "pwm",
+        "Servo",
+        "dal",
+        "lancaster",
+        "Microbit",
+        "FAT",
+        "file",
+        "SD",
+        "System",
+        "I2C",
+        "wattbob",
+        "ethernet",
+        "power consumption",
+        "power control",
+        "power management",
+        "PowerControl"
+    ],
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rs27/code/SDFileSystem/"
+    }
+}

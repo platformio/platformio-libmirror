@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "Fork of the Freetronics LCD Shield library by KKempeneers.",
+    "examples": [
+        "https://os.mbed.com/users/jirik09/code/Thermo_Voltmeter/",
+        "https://os.mbed.com/teams/shields/code/Freetronics_16x2_LCD/",
+        "https://os.mbed.com/users/fblanc/code/DR14_DHT11_LCD/",
+        "https://os.mbed.com/users/juergen0001/code/Freetronics_16x2_LCD3/",
+        "https://os.mbed.com/users/hitzqt/code/PCSbox/",
+        "https://os.mbed.com/users/vidica94/code/HelloWorld_CCA01M1_mbedOS/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "25lcxxx",
+        "25xx",
+        "EEPROM",
+        "flash",
+        "memory",
+        "SPI",
+        "16x2",
+        "freetronics",
+        "LCD",
+        "dynamixel",
+        "MX28",
+        "Servo",
+        "GPGGA"
+    ],
+    "name": "Freetronics_16x2_LCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/Freetronics_16x2_LCD/"
+    }
+}

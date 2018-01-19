@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Georgios Petrou",
+        "url": "https://os.mbed.com/users/GIPetrou/"
+    },
+    "description": "Serial Half Duplex implementation",
+    "frameworks": "mbed",
+    "keywords": [
+        "SerialHalfDuplex",
+        "Radio",
+        "transceiver",
+        "decimation-in-frequency",
+        "FFT",
+        "IFFT",
+        "Nucleo",
+        "real data",
+        "UIT",
+        "BLE",
+        "MIDI"
+    ],
+    "name": "SerialHalfDuplex",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/GIPetrou/code/SerialHalfDuplex/"
+    }
+}

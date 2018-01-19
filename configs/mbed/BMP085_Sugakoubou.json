@@ -1,20 +1,20 @@
 {
     "authors": {
         "name": "Suga koubou",
-        "url": "https://developer.mbed.org/users/okini3939/"
+        "url": "https://os.mbed.com/users/okini3939/"
     },
     "description": "barometric pressure sensor BMP085",
     "examples": [
-        "https://developer.mbed.org/users/okini3939/code/WeatherPlatform_20110408/",
-        "https://developer.mbed.org/users/okini3939/code/WeatherPlatform/",
-        "https://developer.mbed.org/users/tosihisa/code/ENVLogger/",
-        "https://developer.mbed.org/users/okini3939/code/WeatherStation/",
-        "https://developer.mbed.org/users/projetmeteo3/code/ProgrammePrincipal/",
-        "https://developer.mbed.org/users/okini3939/code/barometer-m0/",
-        "https://developer.mbed.org/users/emanon/code/SaibiCansat2014/",
-        "https://developer.mbed.org/users/TakashiSasaki/code/SaibiCansat2014/",
-        "https://developer.mbed.org/teams/Seeed/code/Seeed_Barometer_Sensor_Example/",
-        "https://developer.mbed.org/users/grassel/code/Seeed_Barometer_Sensor_Example/"
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform_20110408/",
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform/",
+        "https://os.mbed.com/users/tosihisa/code/ENVLogger/",
+        "https://os.mbed.com/users/okini3939/code/WeatherStation/",
+        "https://os.mbed.com/users/projetmeteo3/code/ProgrammePrincipal/",
+        "https://os.mbed.com/users/okini3939/code/barometer-m0/",
+        "https://os.mbed.com/users/emanon/code/SaibiCansat2014/",
+        "https://os.mbed.com/users/TakashiSasaki/code/SaibiCansat2014/",
+        "https://os.mbed.com/teams/Seeed/code/Seeed_Barometer_Sensor_Example/",
+        "https://os.mbed.com/users/grassel/code/Seeed_Barometer_Sensor_Example/"
     ],
     "frameworks": "mbed",
     "keywords": [
@@ -22,15 +22,9 @@
         "Grove-Barometer-Sensor"
     ],
     "name": "BMP085",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/okini3939/code/BMP085/"
+        "url": "https://os.mbed.com/users/okini3939/code/BMP085/"
     }
 }

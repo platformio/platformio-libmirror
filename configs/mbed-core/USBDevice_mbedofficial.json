@@ -1,36 +1,35 @@
 {
     "authors": {
         "name": "mbed official",
-        "url": "https://developer.mbed.org/users/mbed_official/"
+        "url": "https://os.mbed.com/users/mbed_official/"
     },
     "description": "USB device stack",
     "examples": [
-        "https://developer.mbed.org/users/Tomoseec/code/mbed-mX-USB-TEST1/",
-        "https://developer.mbed.org/users/samux/code/USBMSD_SD_HID_HelloWorld/",
-        "https://developer.mbed.org/users/victorix/code/HidTest/",
-        "https://developer.mbed.org/users/okini3939/code/MIDI_usb_bridge/",
-        "https://developer.mbed.org/users/samux/code/USBAudio_HelloWorld/",
-        "https://developer.mbed.org/users/samux/code/USBAudio_micro/",
-        "https://developer.mbed.org/users/samux/code/USBAUDIO_speaker/",
-        "https://developer.mbed.org/users/samux/code/USBAudioPlayback/",
-        "https://developer.mbed.org/users/samux/code/USBHID_HelloWorld/",
-        "https://developer.mbed.org/users/samux/code/USBHID_TestCase/"
+        "https://os.mbed.com/users/Tomoseec/code/mbed-mX-USB-TEST1/",
+        "https://os.mbed.com/users/samux/code/USBMSD_SD_HID_HelloWorld/",
+        "https://os.mbed.com/users/victorix/code/HidTest/",
+        "https://os.mbed.com/users/okini3939/code/MIDI_usb_bridge/",
+        "https://os.mbed.com/users/samux/code/USBAudio_HelloWorld/",
+        "https://os.mbed.com/users/samux/code/USBAudio_micro/",
+        "https://os.mbed.com/users/samux/code/USBAUDIO_speaker/",
+        "https://os.mbed.com/users/samux/code/USBAudioPlayback/",
+        "https://os.mbed.com/users/samux/code/USBHID_HelloWorld/",
+        "https://os.mbed.com/users/samux/code/USBHID_TestCase/"
     ],
     "frameworks": "mbed",
     "keywords": [
         "device",
-        "USB"
+        "USB",
+        "PwmOut",
+        "Servo",
+        "3pi",
+        "m3pi",
+        "robot"
     ],
     "name": "USBDevice",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/mbed_official/code/USBDevice/"
+        "url": "https://os.mbed.com/users/mbed_official/code/USBDevice/"
     }
 }

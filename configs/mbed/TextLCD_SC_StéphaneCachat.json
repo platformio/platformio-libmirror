@@ -1,0 +1,44 @@
+{
+    "authors": {
+        "name": "St\u00e9phane Cachat",
+        "url": "https://os.mbed.com/users/scachat/"
+    },
+    "description": "TextLCD library for controlling various LCD panels based on the HD44780 4-bit interface. This version handles rs and rw pins",
+    "frameworks": "mbed",
+    "keywords": [
+        "flash",
+        "Serial",
+        "SPI",
+        "fast",
+        "FastPWM",
+        "precision",
+        "pwm",
+        "resolution",
+        "Servo",
+        "Speed",
+        "adc",
+        "Analog",
+        "calculate",
+        "convert",
+        "filter",
+        "Linear",
+        "LM335",
+        "median",
+        "multiplier",
+        "offset",
+        "sensor",
+        "Temperature",
+        "voltage",
+        "HD44780",
+        "TextLCD",
+        "CC3000",
+        "SimpleLink",
+        "Wi-Fi"
+    ],
+    "name": "TextLCD_SC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/scachat/code/TextLCD_SC/"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "authors": {
+        "name": "Fernando Machado",
+        "url": "https://os.mbed.com/users/fernandomachado/"
+    },
+    "description": "Learning how to use RPC.",
+    "frameworks": "mbed",
+    "name": "RPCInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fernandomachado/code/RPCInterface/"
+    }
+}

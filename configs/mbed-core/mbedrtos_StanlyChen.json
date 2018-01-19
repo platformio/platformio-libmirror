@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Stanly Chen",
+        "url": "https://os.mbed.com/users/stanly88/"
+    },
+    "description": "Add support new target: ST Nucleo-L152RE",
+    "frameworks": "mbed",
+    "keywords": [
+        "cmsis",
+        "rtos",
+        "RTX",
+        "led",
+        "LPD8803",
+        "LPD8806",
+        "LPD8809",
+        "SPI",
+        "OAuth",
+        "twitter"
+    ],
+    "name": "mbed-rtos",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/stanly88/code/mbed-rtos/"
+    }
+}

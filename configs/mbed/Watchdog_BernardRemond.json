@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Bernard Remond",
+        "url": "https://os.mbed.com/users/nbremond/"
+    },
+    "description": "This provides a basic Watchdog service, and includes a startup detection to determine if the reset was caused by the WD.",
+    "frameworks": "mbed",
+    "keywords": [
+        "watchdog",
+        "NDEF",
+        "NFC",
+        "PN532",
+        "Adafruit",
+        "I2C",
+        "PCA9685",
+        "pwm"
+    ],
+    "name": "Watchdog",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nbremond/code/Watchdog/"
+    }
+}

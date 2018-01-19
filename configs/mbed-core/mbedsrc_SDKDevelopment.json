@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "SDK Development",
+        "url": "https://os.mbed.com/teams/SDK-Development/"
+    },
+    "description": "mbed SDK library sources",
+    "frameworks": "mbed",
+    "keywords": [
+        "DHT22",
+        "SDFileSystem",
+        "STM32F746",
+        "development",
+        "SDK",
+        "sources"
+    ],
+    "name": "mbed-src",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/SDK-Development/code/mbed-src/"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Norimasa Okamoto",
+        "url": "https://os.mbed.com/users/va009039/"
+    },
+    "description": "UVC host library",
+    "examples": [
+        "https://os.mbed.com/users/va009039/code/LifeCam/",
+        "https://os.mbed.com/users/va009039/code/WebcamServer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ds1302",
+        "RTC",
+        "display",
+        "hotboards",
+        "SPI",
+        "DTH11",
+        "DTH22",
+        "RHT03",
+        "USB",
+        "UVC"
+    ],
+    "name": "uvchost",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/va009039/code/uvchost/"
+    }
+}

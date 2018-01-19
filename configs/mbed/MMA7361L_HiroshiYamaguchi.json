@@ -1,26 +1,41 @@
 {
     "authors": {
         "name": "Hiroshi Yamaguchi",
-        "url": "https://developer.mbed.org/users/yamaguch/"
+        "url": "https://os.mbed.com/users/yamaguch/"
     },
     "description": "MMA7361L interface",
     "examples": [
-        "https://developer.mbed.org/users/yamaguch/code/MMA7361L_Example/"
+        "https://os.mbed.com/users/yamaguch/code/MMA7361L_Example/",
+        "https://os.mbed.com/users/AkiraK/code/ARLISS2012_Hidaka/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MMA7361L"
+        "OLED",
+        "SSD1306",
+        "9-DOF",
+        "compass",
+        "HMC5883L",
+        "magnetometer",
+        "sparkfun",
+        "MMA7361L",
+        "CAN",
+        "can bus",
+        "CAN Nucleo",
+        "canbus",
+        "CANbus Nucleo",
+        "Controller Area Network",
+        "Nucleo",
+        "TextLCD",
+        "20X4",
+        "ELCD",
+        "LCD",
+        "OEM",
+        "Serial"
     ],
     "name": "MMA7361L",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/yamaguch/code/MMA7361L/"
+        "url": "https://os.mbed.com/users/yamaguch/code/MMA7361L/"
     }
 }

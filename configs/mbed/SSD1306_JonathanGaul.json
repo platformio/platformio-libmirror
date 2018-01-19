@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Jonathan Gaul",
+        "url": "https://os.mbed.com/users/Byrn/"
+    },
+    "description": "A buffered display driver for the SSD1306 OLED controller. Please note that this is a work-in-progress; only very rudimentary drawing support is provided.",
+    "frameworks": "mbed",
+    "keywords": [
+        "OLED",
+        "SSD1306",
+        "9-DOF",
+        "compass",
+        "HMC5883L",
+        "magnetometer",
+        "sparkfun",
+        "MMA7361L",
+        "CAN",
+        "can bus",
+        "CAN Nucleo",
+        "canbus",
+        "CANbus Nucleo",
+        "Controller Area Network",
+        "Nucleo",
+        "TextLCD",
+        "20X4",
+        "ELCD",
+        "LCD",
+        "OEM",
+        "Serial"
+    ],
+    "name": "SSD1306",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Byrn/code/SSD1306/"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "suu pen",
+        "url": "https://os.mbed.com/users/suupen/"
+    },
+    "description": "\u3053\u306e\u30e9\u30a4\u30d6\u30e9\u30ea\u306f\uff33\uff37\u8a8d\u8b58\u3092\u884c\u3044\u307e\u3059\u3002",
+    "examples": [
+        "https://os.mbed.com/users/suupen/code/kitchenTimer_Clock/",
+        "https://os.mbed.com/users/suupen/code/SwDigitalLibraryExampleProgram/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "PCF8575",
+        "edge",
+        "level",
+        "SW",
+        "tact",
+        "Toggle",
+        "Australia",
+        "Lora",
+        "LoRaWAN"
+    ],
+    "name": "SwDigital",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/suupen/code/SwDigital/"
+    }
+}

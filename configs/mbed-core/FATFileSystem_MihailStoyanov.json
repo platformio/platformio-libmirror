@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Mihail Stoyanov",
+        "url": "https://os.mbed.com/users/screamer/"
+    },
+    "description": "My fork of the FATFileSystem (working)",
+    "examples": [
+        "https://os.mbed.com/users/screamer/code/DGWWebServer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "joystick",
+        "accelerometer",
+        "LIS302",
+        "SPI",
+        "motor",
+        "Stepper",
+        "unipolar"
+    ],
+    "name": "FATFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/screamer/code/FATFileSystem/"
+    }
+}

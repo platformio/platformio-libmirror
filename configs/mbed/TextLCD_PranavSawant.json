@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Pranav Sawant",
+        "url": "https://os.mbed.com/users/psawant9/"
+    },
+    "description": "Oct122012mbedLab",
+    "examples": [
+        "https://os.mbed.com/users/psawant9/code/Lab3_VoiceMeter/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "cmsis",
+        "rtos",
+        "RTX",
+        "led",
+        "LPD8803",
+        "LPD8806",
+        "LPD8809",
+        "SPI",
+        "OAuth",
+        "twitter"
+    ],
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/psawant9/code/TextLCD/"
+    }
+}

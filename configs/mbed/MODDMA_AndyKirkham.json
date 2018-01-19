@@ -1,35 +1,40 @@
 {
     "authors": {
         "name": "Andy Kirkham",
-        "url": "https://developer.mbed.org/users/AjK/"
+        "url": "https://os.mbed.com/users/AjK/"
     },
     "description": "MODDMA GPDMA Controller",
     "examples": [
-        "https://developer.mbed.org/users/mpanetta/code/FirstTest/",
-        "https://developer.mbed.org/users/jeroen3/code/WaveSim/",
-        "https://developer.mbed.org/users/avnisha/code/IO-dma-memmem/",
-        "https://developer.mbed.org/users/Mischa/code/DACDMAfuncgenlib/",
-        "https://developer.mbed.org/users/heroic/code/FastPixelDemo/",
-        "https://developer.mbed.org/users/apullin/code/DMA_Ethernet_Mbed/",
-        "https://developer.mbed.org/users/michaelcoe/code/DMA_Ethernet_Mbed/",
-        "https://developer.mbed.org/users/tohu/code/DMANeoPixel/"
+        "https://os.mbed.com/users/mpanetta/code/FirstTest/",
+        "https://os.mbed.com/users/jeroen3/code/WaveSim/",
+        "https://os.mbed.com/users/avnisha/code/IO-dma-memmem/",
+        "https://os.mbed.com/users/Mischa/code/DACDMAfuncgenlib/",
+        "https://os.mbed.com/users/heroic/code/FastPixelDemo/",
+        "https://os.mbed.com/users/apullin/code/DMA_Ethernet_Mbed/",
+        "https://os.mbed.com/users/michaelcoe/code/DMA_Ethernet_Mbed/",
+        "https://os.mbed.com/users/tohu/code/DMANeoPixel/",
+        "https://os.mbed.com/users/ad_24/code/IRIS_MBED/",
+        "https://os.mbed.com/teams/EmbedEd/code/mbed_theremin/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "adc",
+        "AnalogIn",
+        "burst",
+        "fast",
         "DMA",
         "gpdma",
-        "MODDMA"
+        "MODDMA",
+        "C027",
+        "u-blox",
+        "bmp085",
+        "BMP180",
+        "I2C"
     ],
     "name": "MODDMA",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/AjK/code/MODDMA/"
+        "url": "https://os.mbed.com/users/AjK/code/MODDMA/"
     }
 }

@@ -1,33 +1,34 @@
 {
     "authors": {
         "name": "Dave Van Wagner",
-        "url": "https://developer.mbed.org/users/davervw/"
+        "url": "https://os.mbed.com/users/davervw/"
     },
     "description": "private Library copy of SDHCFileSystem",
     "examples": [
-        "https://developer.mbed.org/users/davervw/code/eBible/",
-        "https://developer.mbed.org/users/okini3939/code/WeatherPlatform_20110408/",
-        "https://developer.mbed.org/users/okini3939/code/WeatherPlatform/",
-        "https://developer.mbed.org/users/davervw/code/SDTest_fat_broken/",
-        "https://developer.mbed.org/users/daryl2110/code/FYPFinalProgram/",
-        "https://developer.mbed.org/users/daryl2110/code/FYPFinalizeProgram/"
+        "https://os.mbed.com/users/davervw/code/eBible/",
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform_20110408/",
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform/",
+        "https://os.mbed.com/users/davervw/code/SDTest_fat_broken/",
+        "https://os.mbed.com/users/daryl2110/code/FYPFinalProgram/",
+        "https://os.mbed.com/users/daryl2110/code/FYPFinalizeProgram/"
     ],
     "frameworks": "mbed",
     "keywords": [
         "SD",
         "SDFileSystem",
-        "sdhcfilesystem"
+        "sdhcfilesystem",
+        "mbed",
+        "nRF51822",
+        "FAT",
+        "clock",
+        "ds1307",
+        "I2C",
+        "RTC"
     ],
     "name": "SDHCFileSystem",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/davervw/code/SDHCFileSystem/"
+        "url": "https://os.mbed.com/users/davervw/code/SDHCFileSystem/"
     }
 }

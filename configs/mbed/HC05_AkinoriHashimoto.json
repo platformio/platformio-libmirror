@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Akinori Hashimoto",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "RingBuffer",
+            "url": "/users/AkinoriHashimoto/code/RingBuffer/"
+        }
+    ],
+    "description": "Bluetooth module HC-05 Lib.",
+    "examples": [
+        "https://os.mbed.com/teams/Team-del-Semaforo-CADC/code/semaforinoprova/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "IMU",
+        "MPU9150",
+        "Bluetooth module",
+        "hc-05",
+        "HC05",
+        "audio",
+        "bwf",
+        "file",
+        "wav",
+        "wave",
+        "eeprom on flash",
+        "flash file system"
+    ],
+    "name": "HC05",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/HC05/"
+    }
+}

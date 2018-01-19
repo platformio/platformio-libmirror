@@ -1,36 +1,61 @@
 {
     "authors": {
         "name": "Wim Huiskamp",
-        "url": "https://developer.mbed.org/users/wim/"
+        "url": "https://os.mbed.com/users/wim/"
     },
-    "description": "TextLCD library for controlling various LCD panels based on the HD44780 4-bit interface, updated for more display types",
+    "description": "Updated for more display types.",
     "examples": [
-        "https://developer.mbed.org/users/mprinke/code/GPSDevice/",
-        "https://developer.mbed.org/users/hgomez/code/TestTextLCD/",
-        "https://developer.mbed.org/users/vinit/code/SD-to-Flash-Data-Transfer/",
-        "https://developer.mbed.org/users/gcme93/code/DrumMachine/",
-        "https://developer.mbed.org/users/ralphoosterveld/code/TextLCD/",
-        "https://developer.mbed.org/users/embeddedartists/code/lpc812_exp_solution_character-lcd/",
-        "https://developer.mbed.org/users/umairaftab/code/LCD20x2/",
-        "https://developer.mbed.org/users/Tuxitheone/code/Accelerometer_ADXL345/",
-        "https://developer.mbed.org/users/embeddedartists/code/lpc4088_ebb_textlcd/",
-        "https://developer.mbed.org/users/strain11/code/LCD_16x2_1/"
+        "https://os.mbed.com/users/mprinke/code/GPSDevice/",
+        "https://os.mbed.com/users/hgomez/code/TestTextLCD/",
+        "https://os.mbed.com/users/vinit/code/SD-to-Flash-Data-Transfer/",
+        "https://os.mbed.com/users/gcme93/code/DrumMachine/",
+        "https://os.mbed.com/users/ralphoosterveld/code/TextLCD/",
+        "https://os.mbed.com/users/bouvdberg/code/HuidigePositieV2/",
+        "https://os.mbed.com/users/bouvdberg/code/HuidigePositieV3/",
+        "https://os.mbed.com/users/bouvdberg/code/HuidigePositieV5/",
+        "https://os.mbed.com/users/bouvdberg/code/RobotControlVfinal/",
+        "https://os.mbed.com/users/embeddedartists/code/lpc812_exp_solution_character-lcd/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Host",
+        "hub",
+        "keyboard",
+        "mbed",
+        "Mouse",
+        "MSD",
+        "rtos",
+        "Serial",
+        "USB",
+        "FAT",
+        "file",
+        "Filenames",
+        "fixes",
+        "Long",
+        "System",
+        "5110",
+        "LCD",
+        "N5110",
+        "Nokia",
+        "pcd8544",
+        "I2C",
+        "LM75B",
         "HD44780",
-        "TextLCD"
+        "PCF2116",
+        "ST7032",
+        "ST7036",
+        "text",
+        "TextLCD",
+        "WS0010",
+        "display",
+        "OLED",
+        "SPI",
+        "SSD1306"
     ],
     "name": "TextLCD",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/wim/code/TextLCD/"
+        "url": "https://os.mbed.com/users/wim/code/TextLCD/"
     }
 }

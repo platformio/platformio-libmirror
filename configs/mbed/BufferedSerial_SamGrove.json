@@ -1,44 +1,46 @@
 {
     "authors": {
         "name": "Sam Grove",
-        "url": "https://developer.mbed.org/users/sam_grove/"
+        "url": "https://os.mbed.com/users/sam_grove/"
     },
     "dependencies": [
         {
             "frameworks": "mbed",
-            "name": "Buffer"
+            "name": "Buffer",
+            "url": "/users/sam_grove/code/Buffer/"
         }
     ],
     "description": "Inherit from Serial and use software buffers for TX and RX. This allows the UART peripherals to operate in a IRQ driven mode. Overrides most (but not all) stdio functions as Serial did",
     "examples": [
-        "https://developer.mbed.org/users/yihui/code/USB2UART/",
-        "https://developer.mbed.org/users/jurgis/code/buffered_serial_test/",
-        "https://developer.mbed.org/teams/MBED_DEMOS/code/BLE_Police_HRM/",
-        "https://developer.mbed.org/users/evena/code/evena_BLE_Police_HRM/",
-        "https://developer.mbed.org/users/ansond/code/df-2014-workshop-rfid-case-generator-k64/",
-        "https://developer.mbed.org/teams/MBED_DEMOS/code/df-2014-salesforce-hrm-k64f/",
-        "https://developer.mbed.org/teams/MBED_DEMOS/code/df-2014-rfid-case-gen-k64f-complete/",
-        "https://developer.mbed.org/teams/MBED_DEMOS/code/df-2014-rfid-case-gen-k64f-exercise/",
-        "https://developer.mbed.org/users/ansond/code/df-2014-heroku-thermostat-k64f/",
-        "https://developer.mbed.org/teams/MBED_DEMOS/code/BLE_Police_HRM_Earbud/"
+        "https://os.mbed.com/users/jurgis/code/buffered_serial_test/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/BLE_Police_HRM/",
+        "https://os.mbed.com/users/evena/code/evena_BLE_Police_HRM/",
+        "https://os.mbed.com/users/ansond/code/df-2014-workshop-rfid-case-generator-k64/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/df-2014-rfid-case-gen-k64f-complete/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/df-2014-rfid-case-gen-k64f-exercise/",
+        "https://os.mbed.com/users/ansond/code/df-2014-heroku-thermostat-k64f/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/BLE_Police_HRM_Earbud/",
+        "https://os.mbed.com/users/mizmit1222/code/frdm_scissors/",
+        "https://os.mbed.com/users/kb10uy/code/NuFM402/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "debounce",
+        "DigitalIn",
+        "InterruptIn",
         "buffer",
         "BufferedSerial",
         "BufferSerial",
-        "Serial"
+        "Serial",
+        "accelerometer",
+        "I2C",
+        "MMA7660",
+        "ADXL345"
     ],
     "name": "BufferedSerial",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/sam_grove/code/BufferedSerial/"
+        "url": "https://os.mbed.com/users/sam_grove/code/BufferedSerial/"
     }
 }

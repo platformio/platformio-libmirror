@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Bas van Drunen Littel",
+        "url": "https://os.mbed.com/users/Bas/"
+    },
+    "description": "Simple driver for the ST7920 graphic LCD 128x64.",
+    "frameworks": "mbed",
+    "keywords": [
+        "application board",
+        "C12832",
+        "LCD",
+        "display",
+        "KS0107",
+        "KS0108",
+        "128x64",
+        "ST7920",
+        "fatfilesystem",
+        "MSD",
+        "SD",
+        "USB",
+        "authorization",
+        "client",
+        "custom",
+        "headers",
+        "http",
+        "HTTPClient"
+    ],
+    "name": "ST7920",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Bas/code/ST7920/"
+    }
+}

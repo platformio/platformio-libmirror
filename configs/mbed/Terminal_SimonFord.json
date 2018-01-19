@@ -1,35 +1,44 @@
 {
     "authors": {
         "name": "Simon Ford",
-        "url": "https://developer.mbed.org/users/simon/"
+        "url": "https://os.mbed.com/users/simon/"
     },
     "description": "Terminal interface for communicating with serial ANSI/VT100 terminals",
     "examples": [
-        "https://developer.mbed.org/users/simon/code/Terminal_HelloWorld/",
-        "https://developer.mbed.org/users/abe00makoto/code/geigercounter01/",
-        "https://developer.mbed.org/users/abe00makoto/code/geigercounter04/",
-        "https://developer.mbed.org/users/flash_ahaa/code/DiscoTech/",
-        "https://developer.mbed.org/users/flash_ahaa/code/ADC_Test/",
-        "https://developer.mbed.org/users/XIZ/code/filter_implement/",
-        "https://developer.mbed.org/users/marcuss421/code/WITGyro/",
-        "https://developer.mbed.org/users/majik/code/Rotation_test/"
+        "https://os.mbed.com/users/simon/code/Terminal_HelloWorld/",
+        "https://os.mbed.com/users/abe00makoto/code/geigercounter01/",
+        "https://os.mbed.com/users/abe00makoto/code/geigercounter04/",
+        "https://os.mbed.com/users/flash_ahaa/code/DiscoTech/",
+        "https://os.mbed.com/users/flash_ahaa/code/ADC_Test/",
+        "https://os.mbed.com/users/XIZ/code/filter_implement/",
+        "https://os.mbed.com/users/marcuss421/code/WITGyro/",
+        "https://os.mbed.com/users/majik/code/Rotation_test/",
+        "https://os.mbed.com/teams/CIS54112/code/Heart/",
+        "https://os.mbed.com/teams/CIS54112/code/Heartnew/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "RangeFinder",
+        "SRF05",
+        "ultrasonic",
+        "Freescale",
+        "sensing",
+        "touch",
+        "TSI",
         "ANSI",
         "Serial",
-        "Terminal"
+        "Terminal",
+        "sensor",
+        "Ultrasonic Ranging",
+        "Ultrasound Sensor",
+        "HD44780",
+        "PCF2116",
+        "TextLCD"
     ],
     "name": "Terminal",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/simon/code/Terminal/"
+        "url": "https://os.mbed.com/users/simon/code/Terminal/"
     }
 }

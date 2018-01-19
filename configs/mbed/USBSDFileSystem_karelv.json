@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "karelv",
+        "url": "https://os.mbed.com/users/karelv/"
+    },
+    "description": "Using the USBFileSystem class to provide SD-card with USBMSD and FATFileSystem support at same time.",
+    "examples": [
+        "https://os.mbed.com/users/karelv/code/SD_USB_FS_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "rgb",
+        "fatfilesystem",
+        "MSD",
+        "SD",
+        "USB",
+        "check;",
+        "CRC",
+        "CRC16;",
+        "Cyclic",
+        "redundancy",
+        "display",
+        "KS0107",
+        "KS0108"
+    ],
+    "name": "USBSDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/karelv/code/USBSDFileSystem/"
+    }
+}

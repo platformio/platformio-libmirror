@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Jim Carver",
+        "url": "https://os.mbed.com/users/JimCarver/"
+    },
+    "description": "Improved eCompass with support for different sensor options and a new C++ wrapper",
+    "examples": [
+        "https://os.mbed.com/users/JimCarver/code/KL46_eCompass/",
+        "https://os.mbed.com/users/IrvingHdez/code/KL46_eCompass_TiltCompensed_Acel-Mag/",
+        "https://os.mbed.com/users/IrvingHdez/code/Ragnarok_2ejes/",
+        "https://os.mbed.com/users/Kosinkadink/code/compass_acc/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Tilt-Compensated-eCompass-no-FPU",
+        "Freescale-Multi-Sensor-Shield"
+    ],
+    "name": "eCompass_Lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JimCarver/code/eCompass_Lib/"
+    }
+}

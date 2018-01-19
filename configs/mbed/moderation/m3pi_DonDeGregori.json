@@ -1,24 +1,31 @@
 {
     "authors": {
         "name": "Don DeGregori",
-        "url": "https://developer.mbed.org/users/donde/"
+        "url": "https://os.mbed.com/users/donde/"
     },
     "frameworks": "mbed",
     "keywords": [
-        "3pi",
-        "m3pi",
-        "robot"
+        "GPIO",
+        "Speed",
+        "CHaN",
+        "FAT",
+        "Fat16",
+        "Fat32",
+        "fatfilesystem",
+        "Filenames",
+        "Long",
+        "rtos",
+        "CC3000",
+        "socket",
+        "TCP",
+        "UDP",
+        "wifi",
+        "arduino"
     ],
     "name": "m3pi",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/donde/code/m3pi/"
+        "url": "https://os.mbed.com/users/donde/code/m3pi/"
     }
 }

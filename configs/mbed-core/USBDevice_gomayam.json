@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "goma yam",
+        "url": "https://os.mbed.com/users/toucyy/"
+    },
+    "description": "USBDevice",
+    "examples": [
+        "https://os.mbed.com/users/toucyy/code/QEI_X1_LCD_test3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "GFX",
+        "LCD",
+        "TFT",
+        "128x64",
+        "OLED",
+        "SSD1306",
+        "biquad",
+        "DSP",
+        "filter",
+        "at&t",
+        "data store",
+        "m2x",
+        "time-series"
+    ],
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/toucyy/code/USBDevice/"
+    }
+}

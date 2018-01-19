@@ -1,0 +1,43 @@
+{
+    "authors": {
+        "name": "TVZ Mechatronics Team",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "RateLimiter",
+            "url": "/teams/TVZ-Mechatronics-Team/code/RateLimiter/"
+        }
+    ],
+    "description": "A class for driving a DC motor using a full-bridge (H-bridge) driver.",
+    "examples": [
+        "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/L298N-Breakout-Test/",
+        "https://os.mbed.com/users/btomic/code/Zavrsni_rad_NXP_cup/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CPU",
+        "CPU_Usage",
+        "performance",
+        "resources",
+        "time",
+        "usage",
+        "nRF51-DK",
+        "RTC",
+        "DC",
+        "driver",
+        "full-bridge",
+        "H-bridge",
+        "motor",
+        "accelerometer",
+        "compass",
+        "magnetometer"
+    ],
+    "name": "HBridgeDCMotor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/HBridgeDCMotor/"
+    }
+}

@@ -1,20 +1,20 @@
 {
     "authors": {
         "name": "mbed official",
-        "url": "https://developer.mbed.org/users/mbed_official/"
+        "url": "https://os.mbed.com/users/mbed_official/"
     },
     "description": "The official mbed C/C++ SDK provides the software platform and libraries to build your applications.",
     "examples": [
-        "https://developer.mbed.org/users/testlpc/code/hello/",
-        "https://developer.mbed.org/users/simon/code/SerialTestv11/",
-        "https://developer.mbed.org/users/simon/code/SerialTestv12/",
-        "https://developer.mbed.org/users/EricWieser/code/Sierpinski/",
-        "https://developer.mbed.org/users/EricWieser/code/Mystic_rose/",
-        "https://developer.mbed.org/users/simon/code/MAX5842/",
-        "https://developer.mbed.org/users/user2590572057025720591/code/test/",
-        "https://developer.mbed.org/users/simon/code/AnalogInDigitalOut/",
-        "https://developer.mbed.org/users/simon/code/I2CU/",
-        "https://developer.mbed.org/users/rolf/code/ethsnif/"
+        "https://os.mbed.com/users/testlpc/code/hello/",
+        "https://os.mbed.com/users/simon/code/SerialTestv11/",
+        "https://os.mbed.com/users/simon/code/SerialTestv12/",
+        "https://os.mbed.com/users/EricWieser/code/Sierpinski/",
+        "https://os.mbed.com/users/EricWieser/code/Mystic_rose/",
+        "https://os.mbed.com/users/simon/code/MAX5842/",
+        "https://os.mbed.com/users/user2590572057025720591/code/test/",
+        "https://os.mbed.com/users/simon/code/AnalogInDigitalOut/",
+        "https://os.mbed.com/users/simon/code/I2CU/",
+        "https://os.mbed.com/users/rolf/code/ethsnif/"
     ],
     "frameworks": "mbed",
     "name": "mbed",
@@ -27,6 +27,6 @@
     ],
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/mbed_official/code/mbed/"
+        "url": "https://os.mbed.com/users/mbed_official/code/mbed/"
     }
 }

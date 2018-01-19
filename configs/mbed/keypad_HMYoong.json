@@ -1,36 +1,34 @@
 {
     "authors": {
         "name": "HM Yoong",
-        "url": "https://developer.mbed.org/users/yoonghm/"
+        "url": "https://os.mbed.com/users/yoonghm/"
     },
     "description": "An interrupt-driven interface to 4x4 keypad.",
     "examples": [
-        "https://developer.mbed.org/users/daryl2110/code/FYPFinalProgram/",
-        "https://developer.mbed.org/users/daryl2110/code/FYPFinalizeProgram/",
-        "https://developer.mbed.org/users/ficofer/code/KEYS/",
-        "https://developer.mbed.org/users/sherckuith/code/Proyect_Patric_electronic_door_MSC_Ok_ES/",
-        "https://developer.mbed.org/users/salondonog/code/Tarea6/",
-        "https://developer.mbed.org/users/avallejopo/code/Tarea6/",
-        "https://developer.mbed.org/users/amarincan/code/tarea6keypad/",
-        "https://developer.mbed.org/users/mandres7/code/Teclado/",
-        "https://developer.mbed.org/users/lcorralesc1/code/Tarea6_Teclado/",
-        "https://developer.mbed.org/users/yoonghm/code/_library_keypad/"
+        "https://os.mbed.com/users/daryl2110/code/FYPFinalProgram/",
+        "https://os.mbed.com/users/daryl2110/code/FYPFinalizeProgram/",
+        "https://os.mbed.com/users/ficofer/code/KEYS/",
+        "https://os.mbed.com/users/sherckuith/code/Proyect_Patric_electronic_door_MSC_Ok_ES/",
+        "https://os.mbed.com/users/salondonog/code/Tarea6/",
+        "https://os.mbed.com/users/avallejopo/code/Tarea6/",
+        "https://os.mbed.com/users/amarincan/code/tarea6keypad/",
+        "https://os.mbed.com/users/mandres7/code/Teclado/",
+        "https://os.mbed.com/users/lcorralesc1/code/Tarea6_Teclado/",
+        "https://os.mbed.com/users/yoonghm/code/_library_keypad/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Config",
+        "file",
+        "debounce",
+        "DigitalIn",
         "interrupt",
         "keypad"
     ],
     "name": "keypad",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/yoonghm/code/keypad/"
+        "url": "https://os.mbed.com/users/yoonghm/code/keypad/"
     }
 }

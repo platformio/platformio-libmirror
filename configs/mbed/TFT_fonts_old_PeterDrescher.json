@@ -1,0 +1,41 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "Font to use with SPI_TFT lib",
+    "examples": [
+        "https://os.mbed.com/users/dreschpe/code/touch/",
+        "https://os.mbed.com/users/dreschpe/code/TFT/",
+        "https://os.mbed.com/users/smultron1977/code/ST7735_Pong/",
+        "https://os.mbed.com/users/Mephi/code/LCD_Grapher/",
+        "https://os.mbed.com/users/ms523/code/OV7670_Testing/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "MCP4725",
+        "SRF02",
+        "algebra",
+        "Kinematics",
+        "Linear",
+        "matrix",
+        "game pad",
+        "gamepad",
+        "playstation",
+        "playstation2",
+        "PS2",
+        "SPI",
+        "AnalogIn",
+        "Capacitive",
+        "digitalOut",
+        "sensor",
+        "touch"
+    ],
+    "name": "TFT_fonts_old",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/TFT_fonts_old/"
+    }
+}

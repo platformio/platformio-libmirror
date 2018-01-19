@@ -1,32 +1,36 @@
 {
     "authors": {
         "name": "Andrew Lindsay",
-        "url": "https://developer.mbed.org/users/SomeRandomBloke/"
+        "url": "https://os.mbed.com/users/SomeRandomBloke/"
     },
     "description": "Updated get_fattime to use rtc and provide a date/time. This has been an annoying missing feature.",
     "examples": [
-        "https://developer.mbed.org/users/SomeRandomBloke/code/IoTGateway_Basic/",
-        "https://developer.mbed.org/users/esmiwa/code/y_XBeeTest_5_read/",
-        "https://developer.mbed.org/users/sunifu/code/CameraC1098_picture/",
-        "https://developer.mbed.org/users/va009039/code/LifeCam/",
-        "https://developer.mbed.org/users/va009039/code/WebcamServer/",
-        "https://developer.mbed.org/users/todotani/code/BTstackLE/",
-        "https://developer.mbed.org/users/jksoft/code/WallbotR4_BTLE/"
+        "https://os.mbed.com/users/SomeRandomBloke/code/IoTGateway_Basic/",
+        "https://os.mbed.com/users/esmiwa/code/y_XBeeTest_5_read/",
+        "https://os.mbed.com/users/sunifu/code/CameraC1098_picture/",
+        "https://os.mbed.com/users/va009039/code/LifeCam/",
+        "https://os.mbed.com/users/va009039/code/WebcamServer/",
+        "https://os.mbed.com/users/todotani/code/BTstackLE/",
+        "https://os.mbed.com/users/jksoft/code/WallbotR4_BTLE/",
+        "https://os.mbed.com/users/hepta2ume/code/CameraC1098_GPS_different_Lib/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "fatfilesystem"
+        "fatfilesystem",
+        "I2C",
+        "LCD",
+        "BME280",
+        "calibration",
+        "clock",
+        "real",
+        "RTC",
+        "time",
+        "timezone"
     ],
     "name": "FatFileSystem",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/SomeRandomBloke/code/FatFileSystem/"
+        "url": "https://os.mbed.com/users/SomeRandomBloke/code/FatFileSystem/"
     }
 }

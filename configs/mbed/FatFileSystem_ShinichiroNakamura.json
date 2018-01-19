@@ -1,30 +1,33 @@
 {
     "authors": {
         "name": "Shinichiro Nakamura",
-        "url": "https://developer.mbed.org/users/shintamainjp/"
+        "url": "https://os.mbed.com/users/shintamainjp/"
     },
     "description": "Local copy of the FatFileSystem.",
     "examples": [
-        "https://developer.mbed.org/users/shintamainjp/code/SimpleWaveRecorderPlayer/",
-        "https://developer.mbed.org/users/esmiwa/code/y_CameraC1098_ES_01/",
-        "https://developer.mbed.org/users/higedura/code/dotHR_URG/",
-        "https://developer.mbed.org/users/hayashiisme/code/_test_SDHCFileSystem/",
-        "https://developer.mbed.org/users/avnisha/code/Application-SimpleWaveRecorderPlayerGene/"
+        "https://os.mbed.com/users/shintamainjp/code/SimpleWaveRecorderPlayer/",
+        "https://os.mbed.com/users/esmiwa/code/y_CameraC1098_ES_01/",
+        "https://os.mbed.com/users/hayashiisme/code/_test_SDHCFileSystem/",
+        "https://os.mbed.com/users/avnisha/code/Application-SimpleWaveRecorderPlayerGene/",
+        "https://os.mbed.com/users/higedura/code/dotHR_URG/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "FAT"
+        "SD",
+        "SDFileSystem",
+        "sdhcfilesystem",
+        "mbed",
+        "nRF51822",
+        "FAT",
+        "clock",
+        "ds1307",
+        "I2C",
+        "RTC"
     ],
     "name": "FatFileSystem",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/shintamainjp/code/FatFileSystem/"
+        "url": "https://os.mbed.com/users/shintamainjp/code/FatFileSystem/"
     }
 }

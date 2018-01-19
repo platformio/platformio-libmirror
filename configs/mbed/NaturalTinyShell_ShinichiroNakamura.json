@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "Natural Tiny Shell (NT-Shell) library is a tiny shell library for a small embedded system.",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/NaturalTinyShell_TestProgram/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "7",
+        "display",
+        "segment",
+        "cmsis",
+        "rtos",
+        "RTX",
+        "shell",
+        "VT100",
+        "Humidity",
+        "Sensiron",
+        "Temperature"
+    ],
+    "name": "NaturalTinyShell",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/NaturalTinyShell/"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Robert Ellis",
+        "url": "https://os.mbed.com/users/Phlaphead/"
+    },
+    "description": "Utility library. Some string and mbed memory utilities.",
+    "frameworks": "mbed",
+    "keywords": [
+        "PS2",
+        "driver",
+        "Graphics",
+        "ILI9340",
+        "LCD",
+        "SPI",
+        "TFT",
+        "distance",
+        "eco",
+        "range",
+        "sonic",
+        "Ultra",
+        "memory",
+        "string",
+        "tokenize",
+        "trim",
+        "utility"
+    ],
+    "name": "Util",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Phlaphead/code/Util/"
+    }
+}

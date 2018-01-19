@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Yoji KURODA",
+        "url": "https://os.mbed.com/users/ykuroda/"
+    },
+    "description": "Analog Devices 16 channels, 1MSPS, 12bit ADC with SPI interface",
+    "frameworks": "mbed",
+    "keywords": [
+        "A/D",
+        "adc",
+        "SPI"
+    ],
+    "name": "AD7490",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ykuroda/code/AD7490/"
+    }
+}

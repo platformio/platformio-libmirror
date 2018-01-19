@@ -1,30 +1,38 @@
 {
     "authors": {
         "name": "Awadh Al Shukaili",
-        "url": "https://developer.mbed.org/users/aralshukaili/"
+        "url": "https://os.mbed.com/users/aralshukaili/"
     },
     "description": "Library for controlling ultrasonic ranging module HCSR04",
     "examples": [
-        "https://developer.mbed.org/users/DavidMeza/code/Ultrasonic/",
-        "https://developer.mbed.org/users/e00nagog/code/test/",
-        "https://developer.mbed.org/users/jaruiz/code/ZMOTO42/"
+        "https://os.mbed.com/users/DavidMeza/code/Ultrasonic/",
+        "https://os.mbed.com/users/e00nagog/code/test/",
+        "https://os.mbed.com/users/jaruiz/code/ZMOTO42/",
+        "https://os.mbed.com/users/eunkyoungkim/code/catchCats/",
+        "https://os.mbed.com/users/Alex_Hochart/code/contest_IOT/",
+        "https://os.mbed.com/teams/Contest-IOT-GSE5/code/contest_IOT2/",
+        "https://os.mbed.com/teams/Contest-IOT-GSE5/code/contest_IOT3/",
+        "https://os.mbed.com/teams/Contest-IOT-GSE5/code/contest_IOT4/",
+        "https://os.mbed.com/teams/Contest-IOT-GSE5/code/contest_IOT5/",
+        "https://os.mbed.com/teams/Contest-IOT-GSE5/code/contest_IOT6/"
     ],
     "frameworks": "mbed",
     "keywords": [
         "HCSR04",
         "Ranging",
-        "ultrasonic"
+        "ultrasonic",
+        "1",
+        "2",
+        "digimesh",
+        "Series",
+        "Wi-Fi",
+        "xbee",
+        "zigbee"
     ],
     "name": "HCSR04",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/aralshukaili/code/HCSR04/"
+        "url": "https://os.mbed.com/users/aralshukaili/code/HCSR04/"
     }
 }

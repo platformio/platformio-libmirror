@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Tyler Wilson",
+        "url": "https://os.mbed.com/users/tylerwilson/"
+    },
+    "description": "_Very_ simple wrapper to a WiFly module connected via serial port.",
+    "frameworks": "mbed",
+    "keywords": [
+        "WiFly",
+        "FTP",
+        "server",
+        "arduino",
+        "SDCard",
+        "Seeedstudio",
+        "TFT",
+        "touch",
+        "APDS9960",
+        "avago",
+        "color",
+        "Gesture",
+        "I2C",
+        "proximity",
+        "sparkfun",
+        "accelerometer",
+        "ADXL345",
+        "senor"
+    ],
+    "name": "wifly",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tylerwilson/code/wifly/"
+    }
+}

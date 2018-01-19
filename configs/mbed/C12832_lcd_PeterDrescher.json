@@ -1,37 +1,48 @@
 {
     "authors": {
         "name": "Peter Drescher",
-        "url": "https://developer.mbed.org/users/dreschpe/"
+        "url": "https://os.mbed.com/users/dreschpe/"
     },
     "description": "Lib for the LCD display on mbed lab Board",
     "examples": [
-        "https://developer.mbed.org/users/chris/code/SprintUSBModemWebsocketTest-LCD-RO/",
-        "https://developer.mbed.org/users/davidswi/code/iOSAppChat/",
-        "https://developer.mbed.org/users/dreschpe/code/Christmas-LCD/",
-        "https://developer.mbed.org/users/Shadow/code/led_dimm/",
-        "https://developer.mbed.org/users/sammekevremde/code/Snake/",
-        "https://developer.mbed.org/users/olgierdh/code/TestNetwork/",
-        "https://developer.mbed.org/users/xively/code/coinop/",
-        "https://developer.mbed.org/users/smulube/code/xively-jumpstart-demo/",
-        "https://developer.mbed.org/users/jwende/code/MQTTTest/",
-        "https://developer.mbed.org/users/GordonSin/code/Ethernetwebsocket/"
+        "https://os.mbed.com/users/chris/code/SprintUSBModemWebsocketTest-LCD-RO/",
+        "https://os.mbed.com/users/davidswi/code/iOSAppChat/",
+        "https://os.mbed.com/users/dreschpe/code/Christmas-LCD/",
+        "https://os.mbed.com/users/Shadow/code/led_dimm/",
+        "https://os.mbed.com/users/sammekevremde/code/Snake/",
+        "https://os.mbed.com/users/olgierdh/code/TestNetwork/",
+        "https://os.mbed.com/users/xively/code/coinop/",
+        "https://os.mbed.com/users/smulube/code/xively-jumpstart-demo/",
+        "https://os.mbed.com/users/jwende/code/MQTTTest/",
+        "https://os.mbed.com/users/GordonSin/code/Ethernetwebsocket/"
     ],
     "frameworks": "mbed",
     "keywords": [
         "application board",
         "C12832",
-        "LCD"
+        "LCD",
+        "Encoder",
+        "QEI",
+        "quadrature",
+        "H-bridge",
+        "motor",
+        "PwmOut",
+        "buffer",
+        "Buffered",
+        "rs232",
+        "RS485",
+        "Serial",
+        "fatfilesystem",
+        "MMC",
+        "SD",
+        "SD Card",
+        "SDHC",
+        "SDXC"
     ],
     "name": "C12832_lcd",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/dreschpe/code/C12832_lcd/"
+        "url": "https://os.mbed.com/users/dreschpe/code/C12832_lcd/"
     }
 }

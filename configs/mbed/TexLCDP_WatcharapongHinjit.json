@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Watcharapong Hinjit",
+        "url": "https://os.mbed.com/users/pom911/"
+    },
+    "description": "Text LCD Library include",
+    "examples": [
+        "https://os.mbed.com/users/mhnas/code/Boiler_control/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "16x4",
+        "LCD",
+        "JSON",
+        "QEI\u3000\u30ed\u30fc\u30bf\u30ea\u30fc\u30a8\u30f3\u30b3\u30fc\u30c0\u3000\u89d2\u5ea6\u3000angle"
+    ],
+    "name": "TexLCDP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pom911/code/TexLCDP/"
+    }
+}

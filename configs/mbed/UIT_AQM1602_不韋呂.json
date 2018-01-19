@@ -1,0 +1,44 @@
+{
+    "authors": {
+        "name": "\u4e0d\u97cb \u5442",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "I2C \u63a5\u7d9a\u306e LCD AQM1602XA-RN-GBW \u7528\u306e\u30e9\u30a4\u30d6\u30e9\u30ea\uff0e",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_MovingAv_Intr/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VariableFIR/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VowelSynthesizer/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_ALE_LeakyLMS/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VariableIIR_LPF/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VariableIIR_LPFHPF/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F446_MySoundMachine/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F446_ADF_Nlms/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/Demo_AQM1602/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/Demo_ADT7410/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AQM1602",
+        "I2C",
+        "Nucleo",
+        "UIT",
+        "motor",
+        "Stepper",
+        "unipolar",
+        "DMA",
+        "KL25z",
+        "device",
+        "USB",
+        "IR",
+        "Receiver",
+        "BLE",
+        "bluetooth",
+        "simpleble"
+    ],
+    "name": "UIT_AQM1602",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/UIT_AQM1602/"
+    }
+}

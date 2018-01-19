@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Chau Vo",
+        "url": "https://os.mbed.com/users/olympux/"
+    },
+    "description": "STM32 EEPROM emulation AN2594",
+    "frameworks": "mbed",
+    "keywords": [
+        "game pad",
+        "gamepad",
+        "USB Host",
+        "USBHOST",
+        "Xbox",
+        "xbox360",
+        "EEPROM",
+        "flash",
+        "stm32f10x",
+        "9-axis",
+        "acc",
+        "BNO055",
+        "Cortex-M0+",
+        "gyro",
+        "MAG",
+        "orientation",
+        "sensor",
+        "touch"
+    ],
+    "name": "eeprom",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/olympux/code/eeprom/"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Ian Hua",
+        "url": "https://os.mbed.com/users/pHysiX/"
+    },
+    "description": "Code to read a PPM/PWM pulse, interrupt driven. Most useful for RC receivers.",
+    "examples": [
+        "https://os.mbed.com/users/IonSystems/code/triforce-control/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "interrupt",
+        "PPM",
+        "pwm",
+        "RC",
+        "Receiver",
+        "DMA",
+        "rtos",
+        "SPI",
+        "1-wire",
+        "1wire",
+        "DS18B20",
+        "DS18S20",
+        "OneWire",
+        "CommandProcessor",
+        "Embedded",
+        "interactive",
+        "menu",
+        "BME280"
+    ],
+    "name": "PwmInRC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pHysiX/code/PwmInRC/"
+    }
+}

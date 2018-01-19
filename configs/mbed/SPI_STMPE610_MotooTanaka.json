@@ -1,0 +1,45 @@
+{
+    "authors": {
+        "name": "Motoo Tanaka",
+        "url": "https://os.mbed.com/users/Rhyme/"
+    },
+    "description": "STMPE610 touch sensor driver library",
+    "examples": [
+        "https://os.mbed.com/users/Rhyme/code/TS_Eyes/",
+        "https://os.mbed.com/users/Rhyme/code/Tokei/",
+        "https://os.mbed.com/teams/GraphicsDisplay/code/testUniGraphic_150217/",
+        "https://os.mbed.com/users/schnf30/code/AfficheurTFTAdafruit/",
+        "https://os.mbed.com/users/hcseran/code/Adafruit_TFT_Touch_Shield/",
+        "https://os.mbed.com/users/Rhyme/code/TFT_test_frdm-k64f/",
+        "https://os.mbed.com/users/Rhyme/code/TFT_test_frdm-kl25z/",
+        "https://os.mbed.com/users/Rhyme/code/TFT_test_NUCLEO-F411RE/",
+        "https://os.mbed.com/users/MACRUM/code/testUniGraphic_150217/",
+        "https://os.mbed.com/users/j3/code/Test_TFT_RT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "daisy-chain",
+        "L6470",
+        "SPI",
+        "Stepper",
+        "Adafruit 2.8",
+        "FRDM-KL25Z",
+        "STMPE610",
+        "touchsensor",
+        "I2C",
+        "MPU6050",
+        "accelerometer",
+        "compass",
+        "eCompass",
+        "magnetometer",
+        "sensor",
+        "HTTPServer",
+        "WiFly"
+    ],
+    "name": "SPI_STMPE610",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Rhyme/code/SPI_STMPE610/"
+    }
+}

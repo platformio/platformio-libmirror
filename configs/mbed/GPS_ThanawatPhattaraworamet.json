@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Thanawat Phattaraworamet",
+        "url": "https://os.mbed.com/users/fookies/"
+    },
+    "description": "Library for ublox neo 6m",
+    "examples": [
+        "https://os.mbed.com/users/narongdet/code/GPS_classroom/",
+        "https://os.mbed.com/users/fookies/code/wifigpslcd/",
+        "https://os.mbed.com/users/fookies/code/GPS_classroom/",
+        "https://os.mbed.com/users/tomece11/code/GPS_classroom2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "25lcxxx",
+        "25xx",
+        "EEPROM",
+        "flash",
+        "memory",
+        "SPI",
+        "16x2",
+        "freetronics",
+        "LCD",
+        "dynamixel",
+        "MX28",
+        "Servo",
+        "GPGGA"
+    ],
+    "name": "GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fookies/code/GPS/"
+    }
+}

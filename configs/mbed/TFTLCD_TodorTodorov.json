@@ -1,18 +1,33 @@
 {
     "authors": {
         "name": "Todor Todorov",
-        "url": "https://developer.mbed.org/users/ttodorov/"
+        "url": "https://os.mbed.com/users/ttodorov/"
     },
     "description": "This is a port of Henning Kralsen's UTFT library for Arduino/chipKIT to mbed, refactored to make full use of C++ inheritance and access control, in order to reduce work when implementing new drivers and at the same time make the code more readable and easier to maintain.",
     "examples": [
-        "https://developer.mbed.org/users/allanalpha/code/test/",
-        "https://developer.mbed.org/users/Danton/code/SDCard/",
-        "https://developer.mbed.org/users/ryanyuyu/code/capstone_display/",
-        "https://developer.mbed.org/users/ryanyuyu/code/capstone_display_2/",
-        "https://developer.mbed.org/users/micchassek/code/TFT_MyTouch/"
+        "https://os.mbed.com/users/allanalpha/code/test/",
+        "https://os.mbed.com/users/Danton/code/SDCard/",
+        "https://os.mbed.com/users/ryanyuyu/code/capstone_display/",
+        "https://os.mbed.com/users/ryanyuyu/code/capstone_display_2/",
+        "https://os.mbed.com/users/micchassek/code/TFT_MyTouch/",
+        "https://os.mbed.com/users/acracan/code/solder_oven/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "KL25z",
+        "LPC800-MAX",
+        "LPC812",
+        "powerdown",
+        "Sleep",
+        "wake-up",
+        "mbed",
+        "NeoPixel",
+        "NeoPixels",
+        "WS2811",
+        "WS2812",
+        "WS2812B",
+        "InterruptIn",
+        "PwmIn",
         "HX8340",
         "ILI9325",
         "ILI9328",
@@ -24,15 +39,9 @@
         "UTFT"
     ],
     "name": "TFTLCD",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/ttodorov/code/TFTLCD/"
+        "url": "https://os.mbed.com/users/ttodorov/code/TFTLCD/"
     }
 }

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "mbed unsupported",
+        "url": "https://os.mbed.com/users/mbed_unsupported/"
+    },
+    "description": "Serial Half-Duplex",
+    "frameworks": "mbed",
+    "keywords": [
+        "modbus rtu",
+        "real time",
+        "rtos",
+        "serial protocol",
+        "pwm",
+        "PwmOut",
+        "ROS"
+    ],
+    "name": "SerialHalfDuplex",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbed_unsupported/code/SerialHalfDuplex/"
+    }
+}

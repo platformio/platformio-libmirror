@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Mihail Stoyanov",
+        "url": "https://os.mbed.com/users/screamer/"
+    },
+    "description": "Fork of the official mbed C/C++ SDK provides the software platform and libraries to build your applications.",
+    "examples": [
+        "https://os.mbed.com/teams/Sprint-One/code/NervousPuppySprintOne/",
+        "https://os.mbed.com/teams/Sprint-One/code/NervousPuppySprint2602/",
+        "https://os.mbed.com/users/nbtavis/code/Robot/",
+        "https://os.mbed.com/users/bbabbs/code/WarehouseBot1/",
+        "https://os.mbed.com/users/bbabbs/code/WarehouseBotBT/",
+        "https://os.mbed.com/users/bbabbs/code/WarehouseBot/",
+        "https://os.mbed.com/users/bbabbs/code/WarehouseBotOther/",
+        "https://os.mbed.com/teams/IESS/code/Robot/",
+        "https://os.mbed.com/users/bbabbs/code/RobotB/",
+        "https://os.mbed.com/users/mattsims12/code/Lab1B/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DHT11",
+        "DHT22",
+        "Grove",
+        "MPU6000",
+        "MPU6050",
+        "MPU60x0"
+    ],
+    "name": "mbed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/screamer/code/mbed/"
+    }
+}

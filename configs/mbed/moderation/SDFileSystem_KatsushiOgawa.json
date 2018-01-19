@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Katsushi Ogawa",
+        "url": "https://os.mbed.com/users/KatsushiOgawa/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "FatFileSystem",
+            "url": "/users/mbed_unsupported/code/FatFileSystem/"
+        }
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "client",
+        "ENC28J60",
+        "ethernet",
+        "server",
+        "uIP",
+        "UIPEthernet",
+        "driver",
+        "ds1307",
+        "I2C",
+        "RTC"
+    ],
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/KatsushiOgawa/code/SDFileSystem/"
+    }
+}

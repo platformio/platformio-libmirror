@@ -1,34 +1,40 @@
 {
     "authors": {
         "name": "Thomas Lunzer",
-        "url": "https://developer.mbed.org/users/tlunzer/"
+        "url": "https://os.mbed.com/users/tlunzer/"
     },
     "examples": [
-        "https://developer.mbed.org/users/tlunzer/code/revcounter/",
-        "https://developer.mbed.org/users/marishi/code/SDFileSystem_Load/",
-        "https://developer.mbed.org/users/GregMartin/code/TMP102HelloWorld/",
-        "https://developer.mbed.org/users/bromand/code/KnightRiderOptimized/",
-        "https://developer.mbed.org/users/bromand/code/ControlLED_Brightness/",
-        "https://developer.mbed.org/users/bromand/code/Counter_with_LCD_Display/",
-        "https://developer.mbed.org/users/kenbumono/code/mbed_TANK_PS3/",
-        "https://developer.mbed.org/users/loopsva/code/TFTdisp-104/",
-        "https://developer.mbed.org/users/srsmitherman/code/m3pi_BlueUSB_PS3/"
+        "https://os.mbed.com/users/tlunzer/code/revcounter/",
+        "https://os.mbed.com/users/marishi/code/SDFileSystem_Load/",
+        "https://os.mbed.com/users/GregMartin/code/TMP102HelloWorld/",
+        "https://os.mbed.com/users/bromand/code/KnightRiderOptimized/",
+        "https://os.mbed.com/users/bromand/code/ControlLED_Brightness/",
+        "https://os.mbed.com/users/bromand/code/Counter_with_LCD_Display/",
+        "https://os.mbed.com/users/kenbumono/code/mbed_TANK_PS3/",
+        "https://os.mbed.com/users/loopsva/code/TFTdisp-104/",
+        "https://os.mbed.com/users/srsmitherman/code/m3pi_BlueUSB_PS3/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "m3pi",
+        "maze",
+        "music",
+        "sensors",
+        "1-wire",
+        "DS1820",
+        "DS18B20",
+        "DS18S20",
         "16x1",
-        "TextLCD"
+        "TextLCD",
+        "file",
+        "player",
+        "wav",
+        "wave"
     ],
     "name": "TextLCD",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/tlunzer/code/TextLCD/"
+        "url": "https://os.mbed.com/users/tlunzer/code/TextLCD/"
     }
 }

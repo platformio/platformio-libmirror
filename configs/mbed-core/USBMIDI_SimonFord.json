@@ -1,34 +1,38 @@
 {
     "authors": {
         "name": "Simon Ford",
-        "url": "https://developer.mbed.org/users/simon/"
+        "url": "https://os.mbed.com/users/simon/"
     },
     "description": "A library to send and receive MIDI messages over USB using the default USB-MIDI drivers on Win/Mac",
     "examples": [
-        "https://developer.mbed.org/users/simon/code/USBMIDI_HelloWorld/",
-        "https://developer.mbed.org/users/simon/code/USBMIDI_DrumExample/",
-        "https://developer.mbed.org/users/alaif/code/USBMIDI_MonoSynth/",
-        "https://developer.mbed.org/users/Vekotin/code/MIDI_Interface_ver_1/",
-        "https://developer.mbed.org/users/ywang627/code/LaserHarpProj/",
-        "https://developer.mbed.org/users/ywang627/code/FramedLaserHarp/"
+        "https://os.mbed.com/users/simon/code/USBMIDI_HelloWorld/",
+        "https://os.mbed.com/users/simon/code/USBMIDI_DrumExample/",
+        "https://os.mbed.com/users/alaif/code/USBMIDI_MonoSynth/",
+        "https://os.mbed.com/users/Vekotin/code/MIDI_Interface_ver_1/",
+        "https://os.mbed.com/users/ywang627/code/LaserHarpProj/",
+        "https://os.mbed.com/users/ywang627/code/FramedLaserHarp/",
+        "https://os.mbed.com/users/earlz/code/BYOController/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "cmsis",
+        "rtos",
+        "RTX",
+        "ID12",
+        "RFID",
+        "Serial",
         "library",
         "MIDI",
         "USB",
-        "USBMIDI"
+        "USBMIDI",
+        "DS18B20",
+        "one",
+        "Wire"
     ],
     "name": "USBMIDI",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/simon/code/USBMIDI/"
+        "url": "https://os.mbed.com/users/simon/code/USBMIDI/"
     }
 }

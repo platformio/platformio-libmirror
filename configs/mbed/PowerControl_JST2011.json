@@ -1,23 +1,42 @@
 {
     "authors": {
         "name": "JST 2011",
-        "url": "https://developer.mbed.org/users/JST2011/"
+        "url": "https://os.mbed.com/users/JST2011/"
     },
     "description": "*power consumption control(phy , semihost) library written by Michael Wei",
     "examples": [
-        "https://developer.mbed.org/users/yamaguch/code/GPSReceiver-EthernetDisabled/",
-        "https://developer.mbed.org/users/udomsak/code/GPS_1590R-A/",
-        "https://developer.mbed.org/users/Deurklink/code/GPSXbee/",
-        "https://developer.mbed.org/users/lelect/code/SerialConsol/",
-        "https://developer.mbed.org/users/kayekss/code/IsuProject_LPC1768/",
-        "https://developer.mbed.org/teams/Projet-S5-Info/code/Projet_S5/",
-        "https://developer.mbed.org/users/strysd/code/int555/",
-        "https://developer.mbed.org/users/Deurklink/code/GPSXbee_1_1/",
-        "https://developer.mbed.org/users/Deurklink/code/GPSXbee_1_0/",
-        "https://developer.mbed.org/users/Deurklink/code/GPSXbeeCamera_1_0/"
+        "https://os.mbed.com/users/yamaguch/code/GPSReceiver-EthernetDisabled/",
+        "https://os.mbed.com/users/udomsak/code/GPS_1590R-A/",
+        "https://os.mbed.com/users/Deurklink/code/GPSXbee/",
+        "https://os.mbed.com/users/lelect/code/SerialConsol/",
+        "https://os.mbed.com/users/kayekss/code/IsuProject_LPC1768/",
+        "https://os.mbed.com/teams/Projet-S5-Info/code/Projet_S5/",
+        "https://os.mbed.com/users/strysd/code/int555/",
+        "https://os.mbed.com/users/Deurklink/code/GPSXbee_1_1/",
+        "https://os.mbed.com/users/Deurklink/code/GPSXbee_1_0/",
+        "https://os.mbed.com/users/Deurklink/code/GPSXbeeCamera_1_0/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Serial",
+        "SoftwareSerial",
+        "UART",
+        "DISCO_F746NG",
+        "LCD",
+        "any",
+        "no",
+        "Pin",
+        "pwm",
+        "Servo",
+        "dal",
+        "lancaster",
+        "Microbit",
+        "FAT",
+        "file",
+        "SD",
+        "System",
+        "I2C",
+        "wattbob",
         "ethernet",
         "power consumption",
         "power control",
@@ -25,15 +44,9 @@
         "PowerControl"
     ],
     "name": "PowerControl",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/JST2011/code/PowerControl/"
+        "url": "https://os.mbed.com/users/JST2011/code/PowerControl/"
     }
 }

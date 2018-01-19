@@ -1,0 +1,44 @@
+{
+    "authors": {
+        "name": "Ariel Burman",
+        "url": "https://os.mbed.com/users/arielburman/"
+    },
+    "description": "Library for the MMA7455L acelerometer",
+    "frameworks": "mbed",
+    "keywords": [
+        "flash",
+        "Serial",
+        "SPI",
+        "fast",
+        "FastPWM",
+        "precision",
+        "pwm",
+        "resolution",
+        "Servo",
+        "Speed",
+        "adc",
+        "Analog",
+        "calculate",
+        "convert",
+        "filter",
+        "Linear",
+        "LM335",
+        "median",
+        "multiplier",
+        "offset",
+        "sensor",
+        "Temperature",
+        "voltage",
+        "HD44780",
+        "TextLCD",
+        "CC3000",
+        "SimpleLink",
+        "Wi-Fi"
+    ],
+    "name": "MMA7455L",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/arielburman/code/MMA7455L/"
+    }
+}

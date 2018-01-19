@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Roberto D'Amico",
+        "url": "https://os.mbed.com/users/bobboteck/"
+    },
+    "description": "A Library to control I2C SRF02 sensor",
+    "examples": [
+        "https://os.mbed.com/users/BPPearson/code/LPC1768BagSensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "NFC",
+        "p2p",
+        "PN532",
+        "Ranging",
+        "sensor",
+        "SRF02",
+        "ultrasonic"
+    ],
+    "name": "SRF02",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bobboteck/code/SRF02/"
+    }
+}

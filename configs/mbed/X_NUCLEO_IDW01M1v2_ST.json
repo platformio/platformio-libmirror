@@ -1,0 +1,47 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "SPWF01SA",
+            "url": "/teams/ST/code/SPWF01SA/"
+        }
+    ],
+    "description": "X-NUCLEO-IDW01M1 Wi-Fi expansion board mbed OS 2 (\"Classic\") library. mbed OS 5 library also available (see below).",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/SpwfInterface_NSAPI_Testsv2/",
+        "https://os.mbed.com/users/tamershek/code/Nucleo_read_a0_thingspace/",
+        "https://os.mbed.com/users/tamershek/code/Nucleo_read_a0_thingspace_mems/",
+        "https://os.mbed.com/teams/myDevicesIoT/code/Cayenne-X-NUCLEO-IDW01M1/",
+        "https://os.mbed.com/teams/myDevicesIoT/code/Cayenne-X-NUCLEO-IDW01M1-TMP36/",
+        "https://os.mbed.com/teams/ST/code/IDW01M1_Cloud_IBM/",
+        "https://os.mbed.com/users/fdalforno/code/TestUpload/",
+        "https://os.mbed.com/teams/ST/code/NTPClient_HelloWorld/",
+        "https://os.mbed.com/teams/ST/code/TLS_HelloWorld_IDW01M1/",
+        "https://os.mbed.com/teams/ST/code/HelloWorld_IDW01M1v2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LPC1114",
+        "LPC1114FN28",
+        "mbed-sdk",
+        "driver",
+        "ethernet",
+        "PicoTCP",
+        "Nucleo",
+        "stm32",
+        "Wi-Fi",
+        "X-NUCLEO-IDW01M1",
+        "I2C",
+        "LCD"
+    ],
+    "name": "X_NUCLEO_IDW01M1v2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/X_NUCLEO_IDW01M1v2/"
+    }
+}

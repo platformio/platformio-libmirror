@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Andy Kirkham",
+        "url": "https://os.mbed.com/users/AjK/"
+    },
+    "description": "Provides an API software interface to TIMER2 to control upto four stepper motors.",
+    "frameworks": "mbed",
+    "keywords": [
+        "1-wire",
+        "DALLAS",
+        "DS18B20",
+        "OneWire",
+        "thermometer",
+        "BLE",
+        "bluetooth",
+        "nRF51822",
+        "SSL",
+        "TLS",
+        "TLS1.3",
+        "wolfSSL",
+        "motor",
+        "Stepper"
+    ],
+    "name": "SimpleSteppers",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AjK/code/SimpleSteppers/"
+    }
+}

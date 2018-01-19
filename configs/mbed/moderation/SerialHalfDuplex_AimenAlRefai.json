@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Aimen Al-Refai",
+        "url": "https://os.mbed.com/users/aimen/"
+    },
+    "description": "Serial Half Duplex implementation",
+    "examples": [
+        "https://os.mbed.com/users/aimen/code/4dofRoboticArmAX12/",
+        "https://os.mbed.com/users/ppr2013G2/code/2014-Mx64/",
+        "https://os.mbed.com/users/ppr2013G2/code/2014-ax12-test/",
+        "https://os.mbed.com/users/ppr2013G2/code/2014-mx64-test/"
+    ],
+    "frameworks": "mbed",
+    "name": "SerialHalfDuplex",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aimen/code/SerialHalfDuplex/"
+    }
+}

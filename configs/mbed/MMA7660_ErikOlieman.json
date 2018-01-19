@@ -1,37 +1,39 @@
 {
     "authors": {
         "name": "Erik Olieman",
-        "url": "https://developer.mbed.org/users/Sissors/"
+        "url": "https://os.mbed.com/users/Sissors/"
     },
     "description": "Library for the MMA7660 triple axis accelerometer",
     "examples": [
-        "https://developer.mbed.org/users/samux/code/Websocket_Ethernet_acc/",
-        "https://developer.mbed.org/users/chris/code/app-board-Sprint-WS-Acc/",
-        "https://developer.mbed.org/users/chris/code/app-board-Ethernet-Websocket/",
-        "https://developer.mbed.org/users/chris/code/app-board-Wifly-Websocket/",
-        "https://developer.mbed.org/users/smulube/code/xively-jumpstart-demo/",
-        "https://developer.mbed.org/users/fossum_13/code/xivelyboard/",
-        "https://developer.mbed.org/users/samux/code/app-board-USBModem-Websocket/",
-        "https://developer.mbed.org/users/chapfohn/code/MMA7660_x_y_z_LCD/",
-        "https://developer.mbed.org/users/hirox/code/Logger_V1/",
-        "https://developer.mbed.org/users/groletter/code/FinalProject/"
+        "https://os.mbed.com/users/samux/code/Websocket_Ethernet_acc/",
+        "https://os.mbed.com/users/chris/code/app-board-Sprint-WS-Acc/",
+        "https://os.mbed.com/users/chris/code/app-board-Ethernet-Websocket/",
+        "https://os.mbed.com/users/chris/code/app-board-Wifly-Websocket/",
+        "https://os.mbed.com/users/smulube/code/xively-jumpstart-demo/",
+        "https://os.mbed.com/users/fossum_13/code/xivelyboard/",
+        "https://os.mbed.com/users/samux/code/app-board-USBModem-Websocket/",
+        "https://os.mbed.com/users/chapfohn/code/MMA7660_x_y_z_LCD/",
+        "https://os.mbed.com/users/hirox/code/Logger_V1/",
+        "https://os.mbed.com/users/groletter/code/FinalProject/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "debounce",
+        "DigitalIn",
+        "InterruptIn",
+        "buffer",
+        "BufferedSerial",
+        "BufferSerial",
+        "Serial",
         "accelerometer",
         "I2C",
-        "MMA7660"
+        "MMA7660",
+        "ADXL345"
     ],
     "name": "MMA7660",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/Sissors/code/MMA7660/"
+        "url": "https://os.mbed.com/users/Sissors/code/MMA7660/"
     }
 }

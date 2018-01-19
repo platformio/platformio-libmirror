@@ -1,37 +1,41 @@
 {
     "authors": {
         "name": "Simon Ford",
-        "url": "https://developer.mbed.org/users/simon/"
+        "url": "https://os.mbed.com/users/simon/"
     },
     "description": "ID12 RFID library for reading 125KHz RFID tags",
     "examples": [
-        "https://developer.mbed.org/users/simon/code/ID12RFID_HelloWorld/",
-        "https://developer.mbed.org/users/warpedkevin/code/MyFinalDerbot/",
-        "https://developer.mbed.org/users/sbobyr/code/RFID_CatDoor/",
-        "https://developer.mbed.org/users/ahurtado/code/TweetRFID/",
-        "https://developer.mbed.org/users/dburnham6/code/RFIDdoor/",
-        "https://developer.mbed.org/users/vkarthikr/code/TweetRFID/",
-        "https://developer.mbed.org/users/scologic/code/ID12RFID_HelloWorld/",
-        "https://developer.mbed.org/users/angel_efrain/code/Twitter_RFID/",
-        "https://developer.mbed.org/users/stevep/code/TweetRFID/",
-        "https://developer.mbed.org/users/allanalpha/code/test/"
+        "https://os.mbed.com/users/simon/code/ID12RFID_HelloWorld/",
+        "https://os.mbed.com/users/warpedkevin/code/MyFinalDerbot/",
+        "https://os.mbed.com/users/sbobyr/code/RFID_CatDoor/",
+        "https://os.mbed.com/users/ahurtado/code/TweetRFID/",
+        "https://os.mbed.com/users/dburnham6/code/RFIDdoor/",
+        "https://os.mbed.com/users/vkarthikr/code/TweetRFID/",
+        "https://os.mbed.com/users/scologic/code/ID12RFID_HelloWorld/",
+        "https://os.mbed.com/users/angel_efrain/code/Twitter_RFID/",
+        "https://os.mbed.com/users/stevep/code/TweetRFID/",
+        "https://os.mbed.com/users/allanalpha/code/test/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "cmsis",
+        "rtos",
+        "RTX",
         "ID12",
         "RFID",
-        "Serial"
+        "Serial",
+        "library",
+        "MIDI",
+        "USB",
+        "USBMIDI",
+        "DS18B20",
+        "one",
+        "Wire"
     ],
     "name": "ID12RFID",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/simon/code/ID12RFID/"
+        "url": "https://os.mbed.com/users/simon/code/ID12RFID/"
     }
 }

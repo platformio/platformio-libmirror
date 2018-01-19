@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Mike R",
+        "url": "https://os.mbed.com/users/mjr/"
+    },
+    "description": "USB device stack, with KL25Z fixes for USB 3.0 hosts and sleep/resume interrupt handling",
+    "examples": [
+        "https://os.mbed.com/users/oehlberg/code/frdm_Slider_Keyboard/",
+        "https://os.mbed.com/teams/Interactive-Device-Design/code/idd_hw2_figlax_PanType/",
+        "https://os.mbed.com/teams/Interactive-Device-Design/code/idd_hw2_appachu_finger_chording/",
+        "https://os.mbed.com/teams/Interactive-Device-Design/code/idd_hw3_AngieWangAntonioDeLimaFernandesD/",
+        "https://os.mbed.com/users/antoniorohit/code/microphone/",
+        "https://os.mbed.com/users/lemming/code/Pinscape_Controller_Slider/",
+        "https://os.mbed.com/users/gtfierro/code/hw2/",
+        "https://os.mbed.com/teams/IDD-Fall-2015/code/idd_fall15_hw2_inezraharjo_braille/",
+        "https://os.mbed.com/teams/IDD-Fall-2015/code/idd_hw2_gtfierro_keypad/",
+        "https://os.mbed.com/teams/IDD-Fall-2015/code/idd_fall15_hw2_twuster_tableautabletkeyb/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Card reader",
+        "LPC1768",
+        "SPI TFT",
+        "SPI Touch",
+        "BUTTON",
+        "ButtonGroup",
+        "DISCO-F746",
+        "UIT",
+        "device",
+        "USB"
+    ],
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mjr/code/USBDevice/"
+    }
+}

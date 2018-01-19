@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Miguel Angel Rodriguez Jodar",
+        "url": "https://os.mbed.com/users/rodriguj/"
+    },
+    "description": "A class for managing SSD1306 controlled LCD\u00b4s (cheap 128x64 models, 0.96'')",
+    "frameworks": "mbed",
+    "keywords": [
+        "FreeIMU",
+        "IMU",
+        "MPU6050",
+        "CAN",
+        "128x64",
+        "I2C",
+        "OLED",
+        "SSD1306",
+        "buzzer",
+        "music",
+        "RTTTL",
+        "sound",
+        "mp3",
+        "VS1033",
+        "VS1053"
+    ],
+    "name": "ssd1306_library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rodriguj/code/ssd1306_library/"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Paul Vander Griend",
+        "url": "https://os.mbed.com/users/vandep01/"
+    },
+    "description": "A simple class for driving an RGB LED that uses standard color specification.",
+    "examples": [
+        "https://os.mbed.com/users/dtravz/code/NucleoRGB/",
+        "https://os.mbed.com/users/zishan2627/code/mbed_blinky/",
+        "https://os.mbed.com/users/vm9/code/4180-lab3/",
+        "https://os.mbed.com/users/MAlmazan/code/ControlLed/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "rgb",
+        "Lora",
+        "Semtech",
+        "SX1272",
+        "SX1272Lib",
+        "SX1272MB1DxS",
+        "SX1276",
+        "SX1276Lib",
+        "SX1276MB1xAS",
+        "time",
+        "timezone"
+    ],
+    "name": "RgbLED",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vandep01/code/RgbLED/"
+    }
+}

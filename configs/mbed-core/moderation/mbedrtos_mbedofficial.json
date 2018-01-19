@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "mbed official",
+        "url": "https://os.mbed.com/users/mbed_official/"
+    },
+    "description": "Official mbed Real Time Operating System based on the RTX implementation of the CMSIS-RTOS API open standard.",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/denki-yohou_b/",
+        "https://os.mbed.com/users/ashleymills/code/TestY201/",
+        "https://os.mbed.com/users/tuxic/code/Network-RTOS/",
+        "https://os.mbed.com/users/donatien/code/NTPClient_HelloWorld/",
+        "https://os.mbed.com/users/yueee_yt/code/temp_FIAP/",
+        "https://os.mbed.com/users/yueee_yt/code/temp_FIAP_fetch/",
+        "https://os.mbed.com/users/yueee_yt/code/tepco_demand/",
+        "https://os.mbed.com/users/samux/code/Websocket_Ethernet_HelloWorld/",
+        "https://os.mbed.com/users/samux/code/RPC_Ethernet_HelloWorld/",
+        "https://os.mbed.com/users/va009039/code/HTTPPoster/"
+    ],
+    "frameworks": "mbed",
+    "name": "mbed-rtos",
+    "platforms": [
+        "freescalekinetis",
+        "nordicnrf51",
+        "nxplpc",
+        "ststm32",
+        "teensy"
+    ],
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbed_official/code/mbed-rtos/"
+    }
+}

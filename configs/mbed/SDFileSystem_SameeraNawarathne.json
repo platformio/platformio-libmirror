@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Sameera Nawarathne",
+        "url": "https://os.mbed.com/users/sameera0824/"
+    },
+    "description": "SDFileSystem library for FAT compatible",
+    "frameworks": "mbed",
+    "keywords": [
+        "W5200",
+        "WIZ820IO"
+    ],
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sameera0824/code/SDFileSystem/"
+    }
+}

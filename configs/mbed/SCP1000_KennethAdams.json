@@ -1,37 +1,42 @@
 {
     "authors": {
         "name": "Kenneth Adams",
-        "url": "https://developer.mbed.org/users/kadams6/"
+        "url": "https://os.mbed.com/users/kadams6/"
     },
     "description": "Library to interface the SCP1000 temperature and pressure sensor.",
     "examples": [
-        "https://developer.mbed.org/users/kadams6/code/SCP1000_Example/",
-        "https://developer.mbed.org/users/kumajoi/code/ku-make_sensor/",
-        "https://developer.mbed.org/users/kumajoi/code/ku-make_sensor201302/",
-        "https://developer.mbed.org/users/KAME/code/SCP1000_Example/",
-        "https://developer.mbed.org/users/drrifat/code/sc100016x4lcd/",
-        "https://developer.mbed.org/users/tomonari/code/EARTH/",
-        "https://developer.mbed.org/users/ty0715/code/mbed_22/",
-        "https://developer.mbed.org/users/sdhingra/code/SCP1000/",
-        "https://developer.mbed.org/users/sdhingra/code/SCP1000_Hello/"
+        "https://os.mbed.com/users/kadams6/code/SCP1000_Example/",
+        "https://os.mbed.com/users/kumajoi/code/ku-make_sensor/",
+        "https://os.mbed.com/users/kumajoi/code/ku-make_sensor201302/",
+        "https://os.mbed.com/users/KAME/code/SCP1000_Example/",
+        "https://os.mbed.com/users/drrifat/code/sc100016x4lcd/",
+        "https://os.mbed.com/users/tomonari/code/EARTH/",
+        "https://os.mbed.com/users/ty0715/code/mbed_22/",
+        "https://os.mbed.com/users/sdhingra/code/SCP1000/",
+        "https://os.mbed.com/users/sdhingra/code/SCP1000_Hello/",
+        "https://os.mbed.com/users/mohamedgamal/code/cansat3/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "buzzer",
+        "music",
+        "sound",
+        "debug",
+        "xbee",
+        "xbee library",
+        "XBEE pro",
+        "xbee programming",
+        "xbeeapi",
+        "xbeelibrary",
         "pressure",
         "scp1000",
         "sensor",
         "Temperature"
     ],
     "name": "SCP1000",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/kadams6/code/SCP1000/"
+        "url": "https://os.mbed.com/users/kadams6/code/SCP1000/"
     }
 }

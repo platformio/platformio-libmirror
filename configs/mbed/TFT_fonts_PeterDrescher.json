@@ -1,36 +1,36 @@
 {
     "authors": {
         "name": "Peter Drescher",
-        "url": "https://developer.mbed.org/users/dreschpe/"
+        "url": "https://os.mbed.com/users/dreschpe/"
     },
     "description": "Font to use with the SPI_TFT lib",
     "examples": [
-        "https://developer.mbed.org/users/dreschpe/code/TFT_Test1/",
-        "https://developer.mbed.org/users/TickTock/code/touch2/",
-        "https://developer.mbed.org/users/RorschachUK/code/Mandelbrot/",
-        "https://developer.mbed.org/users/RorschachUK/code/Mindwave-screen/",
-        "https://developer.mbed.org/users/dreschpe/code/TFT_Test_ILI9341/",
-        "https://developer.mbed.org/users/RorschachUK/code/BlinkTalk/",
-        "https://developer.mbed.org/users/neilt6/code/SeeedStudioTFTv2_HelloWorld/",
-        "https://developer.mbed.org/users/dreschpe/code/epaper_mbed_130411_KL25Z/",
-        "https://developer.mbed.org/users/dreschpe/code/epaper_mbed_test/",
-        "https://developer.mbed.org/users/k4zuki/code/SeeedTouchLCD/"
+        "https://os.mbed.com/users/dreschpe/code/TFT_Test1/",
+        "https://os.mbed.com/users/TickTock/code/touch2/",
+        "https://os.mbed.com/users/RorschachUK/code/Mandelbrot/",
+        "https://os.mbed.com/users/RorschachUK/code/Mindwave-screen/",
+        "https://os.mbed.com/users/dreschpe/code/TFT_Test_ILI9341/",
+        "https://os.mbed.com/users/RorschachUK/code/BlinkTalk/",
+        "https://os.mbed.com/users/neilt6/code/SeeedStudioTFTv2_HelloWorld/",
+        "https://os.mbed.com/users/dreschpe/code/epaper_mbed_130411_KL25Z/",
+        "https://os.mbed.com/users/dreschpe/code/epaper_mbed_test/",
+        "https://os.mbed.com/users/k4zuki/code/SeeedTouchLCD/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "uLCD144",
+        "kl46z",
+        "LCD",
+        "SLCD",
         "fonts",
-        "TFT"
+        "TFT",
+        "MQTT",
+        "MQTTClient"
     ],
     "name": "TFT_fonts",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/dreschpe/code/TFT_fonts/"
+        "url": "https://os.mbed.com/users/dreschpe/code/TFT_fonts/"
     }
 }

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Ermanno Brusadin",
+        "url": "https://os.mbed.com/users/ebrus/"
+    },
+    "description": "mbed library sources",
+    "frameworks": "mbed",
+    "keywords": [
+        "CC3000",
+        "SimpleLink",
+        "Wi-Fi",
+        "mbed",
+        "bridge",
+        "I2C",
+        "SC16IS750",
+        "SC16IS752",
+        "SPI",
+        "UART"
+    ],
+    "name": "mbed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ebrus/code/mbed/"
+    }
+}

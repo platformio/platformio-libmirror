@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Samuel Mokrani",
+        "url": "https://os.mbed.com/users/samux/"
+    },
+    "description": "USBMSD example using a file system located in RAM",
+    "examples": [
+        "https://os.mbed.com/users/samux/code/USBMSD_RAM/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Cayenne",
+        "MQTT",
+        "Display Module",
+        "emwin",
+        "LPC4088DM"
+    ],
+    "name": "RAM_DISK",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/samux/code/RAM_DISK/"
+    }
+}

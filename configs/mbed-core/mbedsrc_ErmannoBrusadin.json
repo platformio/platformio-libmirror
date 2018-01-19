@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Ermanno Brusadin",
+        "url": "https://os.mbed.com/users/ebrus/"
+    },
+    "description": "mbed library sources",
+    "frameworks": "mbed",
+    "keywords": [
+        "HTTPServer",
+        "BSP",
+        "DISCO_F429ZI",
+        "LCD",
+        "mbed",
+        "AD",
+        "da",
+        "MCP4921",
+        "MCP4922",
+        "Nucleo",
+        "SPI",
+        "UIT",
+        "Callback",
+        "FunctionPointer",
+        "Functor"
+    ],
+    "name": "mbed-src",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ebrus/code/mbed-src/"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Ale C.-",
+        "url": "https://os.mbed.com/users/Suky/"
+    },
+    "description": "Control TouchScreen ADS7843",
+    "examples": [
+        "https://os.mbed.com/users/Suky/code/Touch_Example/",
+        "https://os.mbed.com/users/Suky/code/Example_Menu_LCD_TFT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "game pad",
+        "gamepad",
+        "USB Host",
+        "USBHOST",
+        "Xbox",
+        "xbox360",
+        "EEPROM",
+        "flash",
+        "stm32f10x",
+        "9-axis",
+        "acc",
+        "BNO055",
+        "Cortex-M0+",
+        "gyro",
+        "MAG",
+        "orientation",
+        "sensor",
+        "touch"
+    ],
+    "name": "TouchADS7843",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Suky/code/TouchADS7843/"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "authors": {
+        "name": "Ad van der Weiden",
+        "url": "https://os.mbed.com/users/networker/"
+    },
+    "description": "SDP client for myBlueUSB",
+    "examples": [
+        "https://os.mbed.com/users/kenbumono/code/mbed_TANK_Kinect/",
+        "https://os.mbed.com/users/networker/code/ftusbClass/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Capactitve touch sensor",
+        "mpr121",
+        "SEN-10250",
+        "sparkfun",
+        "display",
+        "Seeedstudio",
+        "TFT",
+        "bluetooth",
+        "SDP",
+        "framework",
+        "modeling",
+        "multitasking",
+        "QM",
+        "qp",
+        "rtos",
+        "state-machine",
+        "uml",
+        "Altimeter",
+        "barometer",
+        "I2C",
+        "ms5611"
+    ],
+    "name": "sdp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/networker/code/sdp/"
+    }
+}

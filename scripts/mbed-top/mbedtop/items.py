@@ -8,8 +8,8 @@
 import scrapy
 import re
 
-from scrapy.contrib.loader import ItemLoader
-from scrapy.contrib.loader.processor import MapCompose, Join, TakeFirst, Compose
+from scrapy.loader import ItemLoader
+from scrapy.loader.processors import MapCompose, Join, TakeFirst, Compose
 from w3lib.html import remove_entities
 
 #

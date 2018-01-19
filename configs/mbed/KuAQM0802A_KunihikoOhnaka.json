@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Kunihiko Ohnaka",
+        "url": "https://os.mbed.com/users/kunichiko/"
+    },
+    "description": "A library for AQM0802A I2C connecting LCD module.",
+    "frameworks": "mbed",
+    "keywords": [
+        "lps25h",
+        "Encoder",
+        "QEI",
+        "qudrature",
+        "rotary",
+        "GPS",
+        "parse"
+    ],
+    "name": "KuAQM0802A",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kunichiko/code/KuAQM0802A/"
+    }
+}

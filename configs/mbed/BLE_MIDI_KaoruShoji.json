@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Kaoru Shoji",
+        "url": "https://os.mbed.com/users/kshoji/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "BLE_API",
+            "url": "/teams/Bluetooth-Low-Energy/code/BLE_API/"
+        }
+    ],
+    "description": "Utility class for MIDI over Bluetooth LE",
+    "frameworks": "mbed",
+    "keywords": [
+        "SerialHalfDuplex",
+        "Radio",
+        "transceiver",
+        "decimation-in-frequency",
+        "FFT",
+        "IFFT",
+        "Nucleo",
+        "real data",
+        "UIT",
+        "BLE",
+        "MIDI"
+    ],
+    "name": "BLE_MIDI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kshoji/code/BLE_MIDI/"
+    }
+}

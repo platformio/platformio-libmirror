@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Will Salisbury",
+        "url": "https://os.mbed.com/users/wsalis01/"
+    },
+    "description": "CAN Headers.",
+    "frameworks": "mbed",
+    "keywords": [
+        "FreeIMU",
+        "IMU",
+        "MPU6050",
+        "CAN",
+        "128x64",
+        "I2C",
+        "OLED",
+        "SSD1306",
+        "buzzer",
+        "music",
+        "RTTTL",
+        "sound",
+        "mp3",
+        "VS1033",
+        "VS1053"
+    ],
+    "name": "CANProtocol",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wsalis01/code/CANProtocol/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Tim M",
+        "url": "https://os.mbed.com/users/timm/"
+    },
+    "description": "Sensirion SHT11 library",
+    "frameworks": "mbed",
+    "keywords": [
+        "watchdog",
+        "NDEF",
+        "NFC",
+        "PN532",
+        "Adafruit",
+        "I2C",
+        "PCA9685",
+        "pwm"
+    ],
+    "name": "SHT11",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/timm/code/SHT11/"
+    }
+}

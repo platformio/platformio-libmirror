@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Adam Resnick",
+        "url": "https://os.mbed.com/users/stretch/"
+    },
+    "examples": [
+        "https://os.mbed.com/users/stretch/code/CNCAirbrushCode/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "OneWire",
+        "protocols",
+        "sensors",
+        "MPL3115A2",
+        "sparkfun",
+        "FRDM",
+        "KL25z",
+        "MLK25Z128FRDM"
+    ],
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/stretch/code/Servo/"
+    }
+}

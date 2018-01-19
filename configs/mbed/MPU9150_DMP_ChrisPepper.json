@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Chris Pepper",
+        "url": "https://os.mbed.com/users/p3p/"
+    },
+    "description": "The MPU9150s biggest selling point was its internal Motion Processor to offload the sensor fusion from the host processor, this library uploads the firmware to generate quaternions from the sensors. The API needs work but as other libraries don't support the DMP supplying as is.",
+    "examples": [
+        "https://os.mbed.com/users/p3p/code/MPU9150_Example/",
+        "https://os.mbed.com/users/Hagrass/code/CANSAT_COMBINED/",
+        "https://os.mbed.com/teams/BEaR-lab/code/MPU9150_Example/",
+        "https://os.mbed.com/users/Lockdog/code/mbed_rifletool/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DMP",
+        "motion",
+        "MPU9150",
+        "processor",
+        "Altitude",
+        "Freescale",
+        "MPL3115A2",
+        "pressure",
+        "sensor",
+        "Temperature",
+        "multiplexer",
+        "Shift Register",
+        "CAN",
+        "message"
+    ],
+    "name": "MPU9150_DMP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/p3p/code/MPU9150_DMP/"
+    }
+}

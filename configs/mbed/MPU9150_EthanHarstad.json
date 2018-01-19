@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Ethan Harstad",
+        "url": "https://os.mbed.com/users/ethanharstad/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "I2CHelper",
+            "url": "/users/ethanharstad/code/I2CHelper/"
+        }
+    ],
+    "description": "A library for the Invensense MPU9150",
+    "examples": [
+        "https://os.mbed.com/teams/Aerodyne/code/Atlas_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "IMU",
+        "MPU9150",
+        "Bluetooth module",
+        "hc-05",
+        "HC05",
+        "audio",
+        "bwf",
+        "file",
+        "wav",
+        "wave",
+        "eeprom on flash",
+        "flash file system"
+    ],
+    "name": "MPU9150",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ethanharstad/code/MPU9150/"
+    }
+}

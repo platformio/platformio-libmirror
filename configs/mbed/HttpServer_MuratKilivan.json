@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Murat Kilivan",
+        "url": "https://os.mbed.com/users/mkilivan/"
+    },
+    "description": "An example HTTP Server library using new Ethernet Interface",
+    "examples": [
+        "https://os.mbed.com/users/mkilivan/code/HTMLServer_Sample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AT",
+        "commands",
+        "control",
+        "door",
+        "modem",
+        "USB",
+        "Vodafone",
+        "mbed",
+        "Serial",
+        "UART",
+        "2",
+        "bus",
+        "CAN",
+        "II",
+        "OBD",
+        "obd2",
+        "obdII",
+        "reader",
+        "AquesTalk",
+        "ATP3011"
+    ],
+    "name": "HttpServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mkilivan/code/HttpServer/"
+    }
+}

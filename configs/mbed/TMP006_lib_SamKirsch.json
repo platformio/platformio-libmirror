@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Sam Kirsch",
+        "url": "https://os.mbed.com/users/sammacjunkie/"
+    },
+    "description": "These are the methods to interface the TMP006 sensor with the mbed controller.",
+    "examples": [
+        "https://os.mbed.com/users/minaminan/code/mbed_blinky_Tmp006_No2/",
+        "https://os.mbed.com/users/minaminan/code/mbed_blinky_Tmp006_3rd/",
+        "https://os.mbed.com/users/ismaelo/code/completesensor/",
+        "https://os.mbed.com/teams/BTSSN-Projet-Drone-Imagerie-et-Telemetri/code/TMP006IR_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TMP006",
+    "name": "TMP006_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sammacjunkie/code/TMP006_lib/"
+    }
+}

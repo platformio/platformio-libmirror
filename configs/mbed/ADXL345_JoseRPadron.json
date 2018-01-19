@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Jose R Padron",
+        "url": "https://os.mbed.com/users/elrafapadron/"
+    },
+    "description": "Add functions to read Ax, Ay and Az individually",
+    "frameworks": "mbed",
+    "keywords": [
+        "WiFly",
+        "FTP",
+        "server",
+        "arduino",
+        "SDCard",
+        "Seeedstudio",
+        "TFT",
+        "touch",
+        "APDS9960",
+        "avago",
+        "color",
+        "Gesture",
+        "I2C",
+        "proximity",
+        "sparkfun",
+        "accelerometer",
+        "ADXL345",
+        "senor"
+    ],
+    "name": "ADXL345",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/elrafapadron/code/ADXL345/"
+    }
+}

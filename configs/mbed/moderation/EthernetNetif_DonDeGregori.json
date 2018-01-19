@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Don DeGregori",
+        "url": "https://os.mbed.com/users/donde/"
+    },
+    "frameworks": "mbed",
+    "keywords": [
+        "client",
+        "ENC28J60",
+        "ethernet",
+        "server",
+        "uIP",
+        "UIPEthernet",
+        "driver",
+        "ds1307",
+        "I2C",
+        "RTC"
+    ],
+    "name": "EthernetNetif",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donde/code/EthernetNetif/"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "SparkFun Electronics",
+        "url": "https://os.mbed.com/users/sparkfun/"
+    },
+    "description": "Fork of the USBHost library by mbed.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Host",
+        "hub",
+        "keyboard",
+        "mbed",
+        "Mouse",
+        "MSD",
+        "rtos",
+        "Serial",
+        "USB",
+        "4D Dydtems",
+        "Visi-Genie"
+    ],
+    "name": "USBHost",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sparkfun/code/USBHost/"
+    }
+}

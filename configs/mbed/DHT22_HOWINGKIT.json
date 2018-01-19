@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "HO WING KIT",
+        "url": "https://os.mbed.com/users/hwkit/"
+    },
+    "description": "=DHT22 Temperature and Humidity Sensor=",
+    "frameworks": "mbed",
+    "keywords": [
+        "Humidity",
+        "sensor",
+        "Temperature",
+        "ROS",
+        "OLED",
+        "TextLCD",
+        "WEH000802",
+        "WEH001602",
+        "Winstar"
+    ],
+    "name": "DHT22",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hwkit/code/DHT22/"
+    }
+}

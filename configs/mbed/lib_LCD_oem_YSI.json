@@ -1,0 +1,40 @@
+{
+    "authors": {
+        "name": "Y SI",
+        "url": "https://os.mbed.com/users/YSI/"
+    },
+    "description": "lib_LCD_oem",
+    "examples": [
+        "https://os.mbed.com/users/YSI/code/lib_LCD_oem_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "OLED",
+        "SSD1306",
+        "9-DOF",
+        "compass",
+        "HMC5883L",
+        "magnetometer",
+        "sparkfun",
+        "MMA7361L",
+        "CAN",
+        "can bus",
+        "CAN Nucleo",
+        "canbus",
+        "CANbus Nucleo",
+        "Controller Area Network",
+        "Nucleo",
+        "TextLCD",
+        "20X4",
+        "ELCD",
+        "LCD",
+        "OEM",
+        "Serial"
+    ],
+    "name": "lib_LCD_oem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/YSI/code/lib_LCD_oem/"
+    }
+}

@@ -1,41 +1,30 @@
 {
     "authors": {
         "name": "Neil Thiessen",
-        "url": "https://developer.mbed.org/users/neilt6/"
+        "url": "https://os.mbed.com/users/neilt6/"
     },
     "description": "A feature complete driver for the LM75B temperature sensor from NXP.",
     "examples": [
-        "https://developer.mbed.org/users/4180_1/code/app-board-TempAlarm/",
-        "https://developer.mbed.org/users/Oneoftherulingparty/code/LM75B/",
-        "https://developer.mbed.org/teams/MBED_DEMOS/code/IoTWorkshopSensors/",
-        "https://developer.mbed.org/users/BjornVB/code/EduRobot/",
-        "https://developer.mbed.org/users/MACRUM/code/app-shield-demo/",
-        "https://developer.mbed.org/users/neilt6/code/LM75B_HelloWorld/",
-        "https://developer.mbed.org/users/thomas_sullivan/code/HW7-1_Xively_Thermostat/",
-        "https://developer.mbed.org/users/thomas_sullivan/code/IOT_Project_AnalogDisplay/",
-        "https://developer.mbed.org/users/vwochnik/code/MbedSmartRestMain/",
-        "https://developer.mbed.org/users/embeddedartists/code/EM027BS013/"
+        "https://os.mbed.com/users/4180_1/code/app-board-TempAlarm/",
+        "https://os.mbed.com/users/Oneoftherulingparty/code/LM75B/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/IoTWorkshopSensors/",
+        "https://os.mbed.com/users/BjornVB/code/EduRobot/",
+        "https://os.mbed.com/users/neilt6/code/LM75B_HelloWorld/",
+        "https://os.mbed.com/users/thomas_sullivan/code/HW7-1_Xively_Thermostat/",
+        "https://os.mbed.com/users/thomas_sullivan/code/IOT_Project_AnalogDisplay/",
+        "https://os.mbed.com/users/vwochnik/code/MbedSmartRestMain/",
+        "https://os.mbed.com/users/embeddedartists/code/EM027BS013/",
+        "https://os.mbed.com/users/icraggs/code/IoTStarterKit/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Celsius",
-        "driver",
-        "I2C",
-        "LM75B",
-        "nxp",
-        "sensor",
-        "Temperature"
+        "LM75B-Temperature-Sensor",
+        "LPC-General-Purpose-Shield-OM13082"
     ],
     "name": "LM75B",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/neilt6/code/LM75B/"
+        "url": "https://os.mbed.com/users/neilt6/code/LM75B/"
     }
 }

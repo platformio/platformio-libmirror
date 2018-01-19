@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "CyaSSL",
+            "url": "/teams/MultiTech/code/CyaSSL/"
+        }
+    ],
+    "description": "Library providing HTTP and HTTPS communications.",
+    "examples": [
+        "https://os.mbed.com/teams/MultiTech/code/MTS-Socket/",
+        "https://os.mbed.com/users/miaotwilio/code/MTS-Socket/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "http",
+        "https",
+        "SHT21",
+        "display",
+        "driver",
+        "HEXIWEAR",
+        "OLED",
+        "SSD1351",
+        "rtos",
+        "Serial",
+        "UART"
+    ],
+    "name": "HTTPClient-SSL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/HTTPClient-SSL/"
+    }
+}

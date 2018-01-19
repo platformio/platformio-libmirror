@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Donatien Garnier",
+        "url": "https://os.mbed.com/users/donatien/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "LwIPNetworking",
+            "url": "/users/donatien/code/LwIPNetworking/"
+        }
+    ],
+    "description": "Ethernet Interface Networking Library",
+    "examples": [
+        "https://os.mbed.com/users/donatien/code/CPPSocketsTest/"
+    ],
+    "frameworks": "mbed",
+    "name": "EthernetInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donatien/code/EthernetInterface/"
+    }
+}

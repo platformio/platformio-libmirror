@@ -1,0 +1,45 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "X_NUCLEO_COMMON",
+            "url": "/teams/ST/code/X_NUCLEO_COMMON/"
+        }
+    ],
+    "description": "Library to handle the X-NUCLEO-IHM01A1 Motor Control Expansion Board based on the L6474 component.",
+    "examples": [
+        "https://os.mbed.com/users/Arkadi/code/Stepper_Matlab_Control/",
+        "https://os.mbed.com/teams/ST/code/SunTracker_BLE/",
+        "https://os.mbed.com/users/STM32Workshop/code/Stepper_Matlab_Control/",
+        "https://os.mbed.com/teams/ST/code/MemsMotorControl/",
+        "https://os.mbed.com/users/maxweller/code/motorControlShell/",
+        "https://os.mbed.com/teams/3FEN/code/MotorSTEVE2/",
+        "https://os.mbed.com/teams/ST/code/HelloWorld_IHM01A1/",
+        "https://os.mbed.com/teams/ST/code/HelloWorld_IHM01A1_2Motors/",
+        "https://os.mbed.com/teams/ST/code/MotorControl_IHM01A1/",
+        "https://os.mbed.com/teams/ST/code/MemsMotorControl_IHM01A1_IKS01A2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CC3000",
+        "SimpleLink",
+        "Wi-Fi",
+        "mbed",
+        "bridge",
+        "I2C",
+        "SC16IS750",
+        "SC16IS752",
+        "SPI",
+        "UART"
+    ],
+    "name": "X_NUCLEO_IHM01A1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/X_NUCLEO_IHM01A1/"
+    }
+}

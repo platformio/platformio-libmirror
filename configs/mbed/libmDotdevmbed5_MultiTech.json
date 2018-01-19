@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "description": "Bleeding edge development version of the mDot library for mbed 5. This version of the library is not guaranteed to be stable or well tested and should not be used in production or deployment scenarios.",
+    "examples": [
+        "https://os.mbed.com/teams/MultiTech/code/MTDOT-BOX-EVB-Factory-Firmware/",
+        "https://os.mbed.com/users/pferland/code/mDot-IKS01A1/",
+        "https://os.mbed.com/users/mfiore/code/mDot-IKS01A1/",
+        "https://os.mbed.com/users/torik2416/code/sendhello/",
+        "https://os.mbed.com/users/torik2416/code/PremierTestLorenzo/",
+        "https://os.mbed.com/users/torik2416/code/PI_Digora/",
+        "https://os.mbed.com/users/macpijan/code/mDot-Examples/",
+        "https://os.mbed.com/users/MDR/code/mDot-IKS01A1-Explora/",
+        "https://os.mbed.com/teams/3mdeb/code/mdot-examples/",
+        "https://os.mbed.com/users/ScottHoppeMultitech/code/6_SPI_Slave/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "high",
+        "Speed",
+        "SPI",
+        "1.8",
+        "TFT"
+    ],
+    "name": "libmDot-dev-mbed5",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/libmDot-dev-mbed5/"
+    }
+}

@@ -1,38 +1,42 @@
 {
     "authors": {
         "name": "Steve Ravet",
-        "url": "https://developer.mbed.org/users/sravet/"
+        "url": "https://os.mbed.com/users/sravet/"
     },
     "description": "Wave playing code, based on Big Mouth Billy Bass, but cleaned up and capable of playing more bitrates and sample sizes.",
     "examples": [
-        "https://developer.mbed.org/users/mafischl/code/Bouncing_Betty/",
-        "https://developer.mbed.org/users/daryl2110/code/FinaliseWavePlayer/",
-        "https://developer.mbed.org/users/daryl2110/code/SDWavePlayer/",
-        "https://developer.mbed.org/users/daryl2110/code/FYPFinalProgram/",
-        "https://developer.mbed.org/users/daryl2110/code/FYPFinalizeProgram/",
-        "https://developer.mbed.org/users/nameless129/code/wav_pleyer_on_Orange/",
-        "https://developer.mbed.org/users/4180_1/code/WavePlayer_HelloWorld/",
-        "https://developer.mbed.org/users/rsartin3/code/Audio_Player/",
-        "https://developer.mbed.org/users/rsartin3/code/Wav_player_RPG_menu/",
-        "https://developer.mbed.org/users/zlee9/code/PORGFINAL/"
+        "https://os.mbed.com/users/mafischl/code/Bouncing_Betty/",
+        "https://os.mbed.com/users/daryl2110/code/FinaliseWavePlayer/",
+        "https://os.mbed.com/users/daryl2110/code/SDWavePlayer/",
+        "https://os.mbed.com/users/daryl2110/code/FYPFinalProgram/",
+        "https://os.mbed.com/users/daryl2110/code/FYPFinalizeProgram/",
+        "https://os.mbed.com/users/nameless129/code/wav_pleyer_on_Orange/",
+        "https://os.mbed.com/users/4180_1/code/WavePlayer_HelloWorld/",
+        "https://os.mbed.com/users/rsartin3/code/Audio_Player/",
+        "https://os.mbed.com/users/rsartin3/code/Wav_player_RPG_menu/",
+        "https://os.mbed.com/users/zlee9/code/PORGFINAL/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "m3pi",
+        "maze",
+        "music",
+        "sensors",
+        "1-wire",
+        "DS1820",
+        "DS18B20",
+        "DS18S20",
+        "16x1",
+        "TextLCD",
         "file",
         "player",
         "wav",
         "wave"
     ],
     "name": "wave_player",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/sravet/code/wave_player/"
+        "url": "https://os.mbed.com/users/sravet/code/wave_player/"
     }
 }

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Martijn Grootens",
+        "url": "https://os.mbed.com/users/megrootens/"
+    },
+    "description": "Library to read out HX711 24-Bit Analog-to-Digital Converter (ADC) for Weigh Scales by AVIA Semiconductor.",
+    "examples": [
+        "https://os.mbed.com/users/jmiller322/code/SmartCrutches/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "current",
+        "I2C",
+        "INA219",
+        "Power",
+        "voltage",
+        "adc",
+        "HX711"
+    ],
+    "name": "HX711",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/megrootens/code/HX711/"
+    }
+}

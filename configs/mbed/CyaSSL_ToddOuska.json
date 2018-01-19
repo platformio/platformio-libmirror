@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Todd Ouska",
+        "url": "https://os.mbed.com/users/toddouska/"
+    },
+    "description": "CyaSSL is an SSL library for devices like mbed.",
+    "examples": [
+        "https://os.mbed.com/users/toddouska/code/cyassl-client/",
+        "https://os.mbed.com/users/sivan_toledo/code/Sync/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AES",
+        "encryption",
+        "HMAC",
+        "RSA",
+        "security",
+        "SHA",
+        "SSL"
+    ],
+    "name": "CyaSSL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/toddouska/code/CyaSSL/"
+    }
+}

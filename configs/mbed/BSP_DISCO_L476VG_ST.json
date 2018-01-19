@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "STM32L476G-Discovery board drivers V1.0.0",
+    "examples": [
+        "https://os.mbed.com/users/flowh/code/DiscoLogger/",
+        "https://os.mbed.com/users/fsllll/code/DISCO_L476VG_GlassLCD/",
+        "https://os.mbed.com/users/Mawrk/code/DISCO_L476VG_MicrophoneRecorder/",
+        "https://os.mbed.com/users/codebreaker7/code/DISCO_L476VG_UART/",
+        "https://os.mbed.com/users/ketjow/code/vcdMaker_Demo_DISCO_L476/",
+        "https://os.mbed.com/teams/ST/code/DISCO_L476VG_Compass/",
+        "https://os.mbed.com/teams/ST/code/DISCO_L476VG_GlassLCD/",
+        "https://os.mbed.com/teams/ST/code/DISCO_L476VG_Gyro/",
+        "https://os.mbed.com/teams/ST/code/DISCO_L476VG_QSPI/",
+        "https://os.mbed.com/teams/ST/code/DISCO_L476VG_Sleep/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BSP",
+        "DISCO_L476VG"
+    ],
+    "name": "BSP_DISCO_L476VG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/BSP_DISCO_L476VG/"
+    }
+}

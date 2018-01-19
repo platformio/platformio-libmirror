@@ -1,0 +1,41 @@
+{
+    "authors": {
+        "name": "Nicholas Herriot",
+        "url": "https://os.mbed.com/users/nherriot/"
+    },
+    "description": "This is a simple device driver for the 3 axis accelerometer MMA8452 that works with mbed.",
+    "examples": [
+        "https://os.mbed.com/users/nherriot/code/MMA8452_test/",
+        "https://os.mbed.com/teams/App-S5/code/S05APP3_routeur/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "buffer",
+        "I2C",
+        "interrupt",
+        "ethernet",
+        "tcp/ip",
+        "WiFly",
+        "WiflyInterface",
+        "gpu",
+        "Graphics",
+        "LCD",
+        "module",
+        "smart",
+        "SMARTGPU",
+        "TFT",
+        "touch",
+        "3-axis",
+        "accelerometer",
+        "axis",
+        "mbed",
+        "MMA8452",
+        "Vodafone"
+    ],
+    "name": "MMA8452",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nherriot/code/MMA8452/"
+    }
+}

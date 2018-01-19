@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "Class that combined FATFileSystem with a USBMSD device, similar to LocalFileSystem",
+    "examples": [
+        "https://os.mbed.com/users/karelv/code/SD_USB_FS_HelloWorld/",
+        "https://os.mbed.com/users/Sissors/code/S25FL216K_USBFileSystem/",
+        "https://os.mbed.com/users/Sissors/code/USBFileSystem_RAMDISK_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "4DGL",
+        "fatfilesystem",
+        "LocalFileSystem",
+        "USBMSD",
+        "channel",
+        "MIDI",
+        "Note",
+        "pitch",
+        "Serial",
+        "UART",
+        "velocity"
+    ],
+    "name": "USBFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/USBFileSystem/"
+    }
+}

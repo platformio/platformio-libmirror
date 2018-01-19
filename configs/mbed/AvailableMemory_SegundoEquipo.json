@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Segundo Equipo",
+        "url": "https://os.mbed.com/users/segundo/"
+    },
+    "description": "Function to calculate the memory available for malloc",
+    "examples": [
+        "https://os.mbed.com/users/segundo/code/AvailableMemory_HelloWorld/",
+        "https://os.mbed.com/users/jt/code/MCBBThermostat/",
+        "https://os.mbed.com/users/y7jin/code/helloaabbc/",
+        "https://os.mbed.com/users/mbed36372/code/SP14P1_skeleton/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "malloc",
+        "memory",
+        "em-406",
+        "GPS",
+        "MTK3339",
+        "NMEA",
+        "Serial",
+        "UART"
+    ],
+    "name": "AvailableMemory",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/segundo/code/AvailableMemory/"
+    }
+}

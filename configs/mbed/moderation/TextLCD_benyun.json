@@ -1,33 +1,41 @@
 {
     "authors": {
         "name": "ben yun",
-        "url": "https://developer.mbed.org/users/benyun/"
+        "url": "https://os.mbed.com/users/benyun/"
     },
     "examples": [
-        "https://developer.mbed.org/users/socdough/code/Project_Stepper/",
-        "https://developer.mbed.org/users/pramodnataraja/code/MP3_Player_Touch_Panel_Input_LCD_Display/",
-        "https://developer.mbed.org/users/mafischl/code/WeatherStation/",
-        "https://developer.mbed.org/users/jksoft/code/HTTPClientTest/",
-        "https://developer.mbed.org/users/nakata/code/WiFiPositioning/",
-        "https://developer.mbed.org/users/charly/code/RF22_MAX_test_Send/",
-        "https://developer.mbed.org/users/facuclop/code/01_proyecto_principal_facuclop/",
-        "https://developer.mbed.org/users/robo8080/code/FRDM_TSI_LCD/"
+        "https://os.mbed.com/users/socdough/code/Project_Stepper/",
+        "https://os.mbed.com/users/pramodnataraja/code/MP3_Player_Touch_Panel_Input_LCD_Display/",
+        "https://os.mbed.com/users/mafischl/code/WeatherStation/",
+        "https://os.mbed.com/users/jksoft/code/HTTPClientTest/",
+        "https://os.mbed.com/users/nakata/code/WiFiPositioning/",
+        "https://os.mbed.com/users/charly/code/RF22_MAX_test_Send/",
+        "https://os.mbed.com/users/facuclop/code/01_proyecto_principal_facuclop/",
+        "https://os.mbed.com/users/robo8080/code/FRDM_TSI_LCD/",
+        "https://os.mbed.com/users/justinkim/code/FTP_Streaming_Music_Player_WIZwiki-W7500/",
+        "https://os.mbed.com/users/ToHellWithGeorgi/code/ECE4180_Lab4/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HD44780",
-        "TextLCD"
+        "BLE",
+        "Bluetooth Low Energy",
+        "ST",
+        "X-NUCLEO-IDB04A1",
+        "X-NUCLEO-IDB05A1",
+        "ax12",
+        "dynamixel",
+        "motor",
+        "Servo",
+        "HCSR04",
+        "Nucleo",
+        "STM",
+        "stm32",
+        "ultrasonic"
     ],
     "name": "TextLCD",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/benyun/code/TextLCD/"
+        "url": "https://os.mbed.com/users/benyun/code/TextLCD/"
     }
 }

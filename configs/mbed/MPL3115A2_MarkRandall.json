@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Mark Randall",
+        "url": "https://os.mbed.com/users/mr63/"
+    },
+    "description": "MPL3115A2 Altitude/Pressure Sensor",
+    "frameworks": "mbed",
+    "keywords": [
+        "OneWire",
+        "protocols",
+        "sensors",
+        "MPL3115A2",
+        "sparkfun",
+        "FRDM",
+        "KL25z",
+        "MLK25Z128FRDM"
+    ],
+    "name": "MPL3115A2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mr63/code/MPL3115A2/"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Murat Kilivan",
+        "url": "https://os.mbed.com/users/mkilivan/"
+    },
+    "description": "FAT file system",
+    "examples": [
+        "https://os.mbed.com/users/mkilivan/code/S25FL216K_FATFileSystem/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "3",
+        "joystick",
+        "playstation",
+        "frequency",
+        "LPC1768",
+        "MHz",
+        "output",
+        "Digital",
+        "Input",
+        "pulse",
+        "FAT",
+        "file",
+        "Filenames",
+        "fixes",
+        "Long",
+        "System"
+    ],
+    "name": "FATFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mkilivan/code/FATFileSystem/"
+    }
+}

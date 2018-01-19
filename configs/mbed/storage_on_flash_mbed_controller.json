@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "mbed_controller",
+        "url": "https://os.mbed.com/teams/mbed_controller/"
+    },
+    "description": "Tiny storage(file) system on MCU internal flash memory for Nucleo F4xx.",
+    "examples": [
+        "https://os.mbed.com/teams/mbed_controller/code/storage_on_flash_demo/",
+        "https://os.mbed.com/teams/mbed_controller/code/mbed_controller_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "IMU",
+        "MPU9150",
+        "Bluetooth module",
+        "hc-05",
+        "HC05",
+        "audio",
+        "bwf",
+        "file",
+        "wav",
+        "wave",
+        "eeprom on flash",
+        "flash file system"
+    ],
+    "name": "storage_on_flash",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/mbed_controller/code/storage_on_flash/"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Flotsam",
+        "url": "https://os.mbed.com/teams/Flotsam/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "Adafruit_GSM",
+            "url": "/teams/Flotsam/code/Adafruit_GSM/"
+        }
+    ],
+    "description": "GSM library for nucleo L152RE",
+    "examples": [
+        "https://os.mbed.com/teams/Flotsam/code/Full-Project/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "demo",
+        "HX711",
+        "Nucleo",
+        "I2C",
+        "Luminosity",
+        "Lux",
+        "sensor"
+    ],
+    "name": "GSM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Flotsam/code/GSM/"
+    }
+}

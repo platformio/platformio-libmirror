@@ -1,39 +1,61 @@
 {
     "authors": {
         "name": "Craig Evans",
-        "url": "https://developer.mbed.org/users/eencae/"
+        "url": "https://os.mbed.com/users/eencae/"
     },
-    "description": "Simple library for interfacing to Nokia 5110 LCD display (as found on the SparkFun website).",
+    "description": "Library for interfacing to Nokia 5110 LCD display (as found on the SparkFun website).",
     "examples": [
-        "https://developer.mbed.org/users/esokic/code/LV7_LCDtest/",
-        "https://developer.mbed.org/users/tim003/code/LV7_Grupa5_Tim003_Zadatak1/",
-        "https://developer.mbed.org/users/tim008/code/lv7_Grupa5_Tim008_zad1/",
-        "https://developer.mbed.org/users/tim010/code/LV7_PAI_Grupa5_tim10_Zadatak1/",
-        "https://developer.mbed.org/users/tim004/code/LAB7_Tim004_zadatak1/",
-        "https://developer.mbed.org/users/tim007/code/LV7-Grupa6-Tim007/",
-        "https://developer.mbed.org/users/tim004/code/ZADATAK/",
-        "https://developer.mbed.org/users/tim003/code/LV7_Grupa6_Zadatak1/",
-        "https://developer.mbed.org/users/tim010/code/LV7-Grupa6-Tim010-zad1/",
-        "https://developer.mbed.org/users/tim008/code/LV7_PAI_Grupa6_Tim008_zad1/"
+        "https://os.mbed.com/users/esokic/code/LV7_LCDtest/",
+        "https://os.mbed.com/users/tim003/code/LV7_Grupa5_Tim003_Zadatak1/",
+        "https://os.mbed.com/users/tim008/code/lv7_Grupa5_Tim008_zad1/",
+        "https://os.mbed.com/users/tim010/code/LV7_PAI_Grupa5_tim10_Zadatak1/",
+        "https://os.mbed.com/users/tim004/code/LAB7_Tim004_zadatak1/",
+        "https://os.mbed.com/users/tim007/code/LV7-Grupa6-Tim007/",
+        "https://os.mbed.com/users/tim004/code/ZADATAK/",
+        "https://os.mbed.com/users/tim003/code/LV7_Grupa6_Zadatak1/",
+        "https://os.mbed.com/users/tim010/code/LV7-Grupa6-Tim010-zad1/",
+        "https://os.mbed.com/users/tim008/code/LV7_PAI_Grupa6_Tim008_zad1/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Host",
+        "hub",
+        "keyboard",
+        "mbed",
+        "Mouse",
+        "MSD",
+        "rtos",
+        "Serial",
+        "USB",
+        "FAT",
+        "file",
+        "Filenames",
+        "fixes",
+        "Long",
+        "System",
         "5110",
         "LCD",
         "N5110",
         "Nokia",
-        "pcd8544"
+        "pcd8544",
+        "I2C",
+        "LM75B",
+        "HD44780",
+        "PCF2116",
+        "ST7032",
+        "ST7036",
+        "text",
+        "TextLCD",
+        "WS0010",
+        "display",
+        "OLED",
+        "SPI",
+        "SSD1306"
     ],
     "name": "N5110",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/eencae/code/N5110/"
+        "url": "https://os.mbed.com/users/eencae/code/N5110/"
     }
 }

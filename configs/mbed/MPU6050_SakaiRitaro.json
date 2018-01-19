@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Sakai Ritaro",
+        "url": "https://os.mbed.com/users/ritarosakai/"
+    },
+    "description": "MPU6050 simple library",
+    "examples": [
+        "https://os.mbed.com/users/ritarosakai/code/MPU6050_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "MPU6050",
+        "daisy-chain",
+        "L6470",
+        "SPI",
+        "Stepper"
+    ],
+    "name": "MPU6050",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ritarosakai/code/MPU6050/"
+    }
+}

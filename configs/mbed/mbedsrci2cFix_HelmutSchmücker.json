@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Helmut Schm\u00fccker",
+        "url": "https://os.mbed.com/users/humlet/"
+    },
+    "description": "fix for mbed lib issue 1 (i2c problem) see also https://mbed.org/users/mbed_official/code/mbed/issues/1",
+    "frameworks": "mbed",
+    "keywords": [
+        "bluetooth",
+        "GPS",
+        "MTK3339"
+    ],
+    "name": "mbed-src-i2cFix",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/humlet/code/mbed-src-i2cFix/"
+    }
+}

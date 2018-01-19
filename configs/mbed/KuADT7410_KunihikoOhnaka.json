@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Kunihiko Ohnaka",
+        "url": "https://os.mbed.com/users/kunichiko/"
+    },
+    "description": "A library for ADT7410 I2C connecting temperature sensor module.",
+    "frameworks": "mbed",
+    "keywords": [
+        "16x4",
+        "LCD",
+        "JSON",
+        "QEI\u3000\u30ed\u30fc\u30bf\u30ea\u30fc\u30a8\u30f3\u30b3\u30fc\u30c0\u3000\u89d2\u5ea6\u3000angle"
+    ],
+    "name": "KuADT7410",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kunichiko/code/KuADT7410/"
+    }
+}

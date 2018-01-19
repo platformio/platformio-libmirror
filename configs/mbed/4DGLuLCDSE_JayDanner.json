@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Jay Danner",
+        "url": "https://os.mbed.com/users/jdanner3/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "SDFileSystem",
+            "url": "/users/mbed_official/code/SDFileSystem/"
+        }
+    ],
+    "description": "Extended library to include a screensaver",
+    "examples": [
+        "https://os.mbed.com/users/jdanner3/code/uLCD_screensaver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "audio",
+        "HQ",
+        "I2S",
+        "TLV320",
+        "Beep",
+        "merody",
+        "sound",
+        "counter",
+        "frequency",
+        "LPC1114",
+        "LPC1768",
+        "stm32f401",
+        "STM32F411"
+    ],
+    "name": "4DGL-uLCD-SE",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jdanner3/code/4DGL-uLCD-SE/"
+    }
+}

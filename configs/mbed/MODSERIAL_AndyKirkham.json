@@ -1,39 +1,48 @@
 {
     "authors": {
         "name": "Andy Kirkham",
-        "url": "https://developer.mbed.org/users/AjK/"
+        "url": "https://os.mbed.com/users/AjK/"
     },
     "description": "Bug fix release",
     "examples": [
-        "https://developer.mbed.org/users/gsulc/code/AntiTheftGPS/",
-        "https://developer.mbed.org/users/kunaljacy/code/XbeeReceive/",
-        "https://developer.mbed.org/users/kunaljacy/code/XbeeSend/",
-        "https://developer.mbed.org/users/katzjacob/code/Superball_Ball2/",
-        "https://developer.mbed.org/users/ashleymills/code/TestY201/",
-        "https://developer.mbed.org/users/cbayley/code/UARTSnoop/",
-        "https://developer.mbed.org/users/lhiggs/code/UM6_IMU_AHRS_2012/",
-        "https://developer.mbed.org/users/SamClarke/code/GPS-GPRS_Tracker/",
-        "https://developer.mbed.org/users/Jasper/code/net-o-meter/",
-        "https://developer.mbed.org/users/tylerjw/code/AHRS/"
+        "https://os.mbed.com/users/gsulc/code/AntiTheftGPS/",
+        "https://os.mbed.com/users/kunaljacy/code/XbeeReceive/",
+        "https://os.mbed.com/users/kunaljacy/code/XbeeSend/",
+        "https://os.mbed.com/users/katzjacob/code/Superball_Ball2/",
+        "https://os.mbed.com/users/ashleymills/code/TestY201/",
+        "https://os.mbed.com/users/cbayley/code/UARTSnoop/",
+        "https://os.mbed.com/users/lhiggs/code/UM6_IMU_AHRS_2012/",
+        "https://os.mbed.com/users/SamClarke/code/GPS-GPRS_Tracker/",
+        "https://os.mbed.com/users/Jasper/code/net-o-meter/",
+        "https://os.mbed.com/users/tylerjw/code/AHRS/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "application board",
+        "C12832",
+        "LCD",
+        "Encoder",
+        "QEI",
+        "quadrature",
+        "H-bridge",
+        "motor",
+        "PwmOut",
         "buffer",
         "Buffered",
         "rs232",
         "RS485",
-        "Serial"
+        "Serial",
+        "fatfilesystem",
+        "MMC",
+        "SD",
+        "SD Card",
+        "SDHC",
+        "SDXC"
     ],
     "name": "MODSERIAL",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/AjK/code/MODSERIAL/"
+        "url": "https://os.mbed.com/users/AjK/code/MODSERIAL/"
     }
 }

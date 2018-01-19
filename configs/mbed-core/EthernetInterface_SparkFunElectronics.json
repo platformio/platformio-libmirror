@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "SparkFun Electronics",
+        "url": "https://os.mbed.com/users/sparkfun/"
+    },
+    "description": "Fork of the EthernetInterface library by mbed.",
+    "examples": [
+        "https://os.mbed.com/users/wye11/code/internet_clock/",
+        "https://os.mbed.com/teams/4180/code/4180_Final_Project/",
+        "https://os.mbed.com/teams/4180/code/4180_Final_Project_WaveProblems/",
+        "https://os.mbed.com/users/agamemaker/code/4180_Final_Project/",
+        "https://os.mbed.com/teams/4180/code/4180_Final_Project_new/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "ip",
+        "mbed"
+    ],
+    "name": "EthernetInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sparkfun/code/EthernetInterface/"
+    }
+}

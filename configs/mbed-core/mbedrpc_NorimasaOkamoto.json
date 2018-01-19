@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Norimasa Okamoto",
+        "url": "https://os.mbed.com/users/va009039/"
+    },
+    "description": "support to unsigned short and variable-length argument",
+    "frameworks": "mbed",
+    "keywords": [
+        "802.15.4",
+        "wireless",
+        "xbee",
+        "xml",
+        "rpc"
+    ],
+    "name": "mbed-rpc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/va009039/code/mbed-rpc/"
+    }
+}

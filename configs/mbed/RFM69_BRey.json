@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "B Rey",
+        "url": "https://os.mbed.com/users/br549/"
+    },
+    "description": "Port of lowpowerlab RFM69 Packet radio library for",
+    "frameworks": "mbed",
+    "keywords": [
+        "comparator",
+        "KL25z",
+        "2",
+        "gpu",
+        "mbed",
+        "smart",
+        "SmartGPU2",
+        "technologies",
+        "vizic",
+        "Dynamic",
+        "ethernet",
+        "http",
+        "pages",
+        "server",
+        "static",
+        "Web",
+        "WiFly",
+        "Radio",
+        "rf",
+        "rfm69"
+    ],
+    "name": "RFM69",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/br549/code/RFM69/"
+    }
+}

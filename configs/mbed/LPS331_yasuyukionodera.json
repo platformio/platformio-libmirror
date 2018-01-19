@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "yasuyuki onodera",
+        "url": "https://os.mbed.com/users/yasuyuki/"
+    },
+    "description": "LPS331 library",
+    "examples": [
+        "https://os.mbed.com/users/yasuyuki/code/mbed_DEMO/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "EFM32",
+        "Gecko",
+        "SegmentLCD",
+        "SiLabs",
+        "Silicon Labs",
+        "silicon_labs"
+    ],
+    "name": "LPS331",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yasuyuki/code/LPS331/"
+    }
+}

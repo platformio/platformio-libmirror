@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Donatien Garnier",
+        "url": "https://os.mbed.com/users/donatien/"
+    },
+    "description": "RTOS configured for use with Networking libraries",
+    "examples": [
+        "https://os.mbed.com/users/donatien/code/EthernetHTTPClientTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "3",
+        "joystick",
+        "playstation",
+        "frequency",
+        "LPC1768",
+        "MHz",
+        "output",
+        "Digital",
+        "Input",
+        "pulse",
+        "FAT",
+        "file",
+        "Filenames",
+        "fixes",
+        "Long",
+        "System"
+    ],
+    "name": "rtos_net",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donatien/code/rtos_net/"
+    }
+}

@@ -1,34 +1,43 @@
 {
     "authors": {
         "name": "Peter Drescher",
-        "url": "https://developer.mbed.org/users/dreschpe/"
+        "url": "https://os.mbed.com/users/dreschpe/"
     },
     "description": "Library to control a QVGA TFT connected to SPI.",
     "examples": [
-        "https://developer.mbed.org/users/dreschpe/code/TFT_Test1/",
-        "https://developer.mbed.org/users/pholzleitner/code/SourceCodePro31-SB/",
-        "https://developer.mbed.org/users/RorschachUK/code/Mandelbrot/",
-        "https://developer.mbed.org/users/RorschachUK/code/Mindwave-screen/",
-        "https://developer.mbed.org/users/RorschachUK/code/BlinkTalk/"
+        "https://os.mbed.com/users/dreschpe/code/TFT_Test1/",
+        "https://os.mbed.com/users/pholzleitner/code/SourceCodePro31-SB/",
+        "https://os.mbed.com/users/RorschachUK/code/Mandelbrot/",
+        "https://os.mbed.com/users/RorschachUK/code/Mindwave-screen/",
+        "https://os.mbed.com/users/RorschachUK/code/BlinkTalk/",
+        "https://os.mbed.com/users/xlNicolas/code/Tactile/",
+        "https://os.mbed.com/users/rtk/code/Tactile-Nicolas/",
+        "https://os.mbed.com/users/pieterjanluyssen/code/TFT_Test_Peter_Drescher/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "F401RE",
+        "F411RE",
+        "F446RE",
+        "K64F",
+        "KL25z",
+        "kl46z",
+        "USBHOST",
+        "UVC",
         "display",
         "graphic",
         "LCD",
         "QVGA",
-        "TFT"
+        "TFT",
+        "DS1820",
+        "DS1822",
+        "DS18B20",
+        "one-wire"
     ],
     "name": "SPI_TFT",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/dreschpe/code/SPI_TFT/"
+        "url": "https://os.mbed.com/users/dreschpe/code/SPI_TFT/"
     }
 }

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "HM Yoong",
+        "url": "https://os.mbed.com/users/yoonghm/"
+    },
+    "examples": [
+        "https://os.mbed.com/users/DasSidG/code/BMS_BMUCore_Max_DummyData/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "L152",
+        "Nucleo",
+        "CC3000",
+        "SimpleLink",
+        "Wi-Fi",
+        "file",
+        "ini"
+    ],
+    "name": "DS1820",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yoonghm/code/DS1820/"
+    }
+}

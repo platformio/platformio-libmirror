@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Luiz Hespanha",
+        "url": "https://os.mbed.com/users/luizhespanha/"
+    },
+    "description": "This is a library for the Adafruit LED Backpacks.",
+    "frameworks": "mbed",
+    "keywords": [
+        "DHT22",
+        "RHT03",
+        "8x8",
+        "Adafruit",
+        "backpack",
+        "led",
+        "command",
+        "Servo"
+    ],
+    "name": "Adafruit_LEDBackpack",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/luizhespanha/code/Adafruit_LEDBackpack/"
+    }
+}

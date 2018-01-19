@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "btp 3",
+        "url": "https://os.mbed.com/users/btp3/"
+    },
+    "description": "mbed IP library over Ethernet",
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "ip",
+        "mbed",
+        "GSM",
+        "SMS",
+        "display",
+        "ST7565R"
+    ],
+    "name": "EthernetInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/btp3/code/EthernetInterface/"
+    }
+}

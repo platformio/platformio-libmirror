@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Reinhold Schaefer",
+        "url": "https://os.mbed.com/users/rs27/"
+    },
+    "description": "mbed library sources",
+    "frameworks": "mbed",
+    "keywords": [
+        "KL25z",
+        "LPC800-MAX",
+        "LPC812",
+        "powerdown",
+        "Sleep",
+        "wake-up",
+        "mbed",
+        "NeoPixel",
+        "NeoPixels",
+        "WS2811",
+        "WS2812",
+        "WS2812B",
+        "InterruptIn",
+        "PwmIn",
+        "HX8340",
+        "ILI9325",
+        "ILI9328",
+        "ITDB02",
+        "LCD",
+        "SSD1289",
+        "ST7735",
+        "TFT",
+        "UTFT"
+    ],
+    "name": "mbed-src",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rs27/code/mbed-src/"
+    }
+}

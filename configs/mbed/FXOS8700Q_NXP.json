@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "NXP",
+        "url": "https://os.mbed.com/teams/NXP/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "MotionSensor",
+            "url": "/teams/components/code/MotionSensor/"
+        }
+    ],
+    "description": "Driver library for the Freescale FXOS8700Q sensor",
+    "examples": [
+        "https://os.mbed.com/teams/ELEC2645-201516/code/el14dg_Project/",
+        "https://os.mbed.com/users/azazeal88/code/frdm_serial_peopleAndComputing/",
+        "https://os.mbed.com/users/MACRUM/code/simple-client-app-shield/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "MPU6050",
+        "daisy-chain",
+        "L6470",
+        "SPI",
+        "Stepper"
+    ],
+    "name": "FXOS8700Q",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NXP/code/FXOS8700Q/"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Keerthana Santhi Pethappan",
+        "url": "https://os.mbed.com/users/keerthanasp/"
+    },
+    "examples": [
+        "https://os.mbed.com/users/gtg846r/code/Lab3_Surveillance/",
+        "https://os.mbed.com/users/sathguru/code/6adcSerial/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CPU",
+        "CPU_Usage",
+        "performance",
+        "resources",
+        "time",
+        "usage",
+        "nRF51-DK",
+        "RTC",
+        "DC",
+        "driver",
+        "full-bridge",
+        "H-bridge",
+        "motor",
+        "accelerometer",
+        "compass",
+        "magnetometer"
+    ],
+    "name": "GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/keerthanasp/code/GPS/"
+    }
+}

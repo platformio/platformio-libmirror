@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Akinori Hashimoto",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/"
+    },
+    "description": "You can output chars to AQM1602 with printf().",
+    "examples": [
+        "https://os.mbed.com/teams/TomiRobo/code/aqm1602/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AQM1602",
+        "display",
+        "I2C",
+        "led"
+    ],
+    "name": "AQM1602",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/AQM1602/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "tijo francis",
+        "url": "https://os.mbed.com/users/tijofrancis12/"
+    },
+    "description": "1602FLCD",
+    "frameworks": "mbed",
+    "keywords": [
+        "atoh",
+        "convert to hex",
+        "std library",
+        "TeraTerm",
+        "Terminal",
+        "MARMEX_OB_oled"
+    ],
+    "name": "LCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tijofrancis12/code/LCD/"
+    }
+}

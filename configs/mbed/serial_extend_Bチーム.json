@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "B\u30c1\u30fc\u30e0",
+        "url": "https://os.mbed.com/teams/B/"
+    },
+    "description": "serial_extend library for array data transmission and reception",
+    "examples": [
+        "https://os.mbed.com/teams/B/code/receives_robot_wheel/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AT",
+        "commands",
+        "control",
+        "door",
+        "modem",
+        "USB",
+        "Vodafone",
+        "mbed",
+        "Serial",
+        "UART",
+        "2",
+        "bus",
+        "CAN",
+        "II",
+        "OBD",
+        "obd2",
+        "obdII",
+        "reader",
+        "AquesTalk",
+        "ATP3011"
+    ],
+    "name": "serial_extend",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/B/code/serial_extend/"
+    }
+}

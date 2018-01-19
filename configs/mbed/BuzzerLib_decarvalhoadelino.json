@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "decarvalho adelino",
+        "url": "https://os.mbed.com/users/adelino/"
+    },
+    "description": "A simple sound library for mbed. I use the",
+    "examples": [
+        "https://os.mbed.com/users/jurica238814/code/acd52832_buzzer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FreeIMU",
+        "IMU",
+        "MPU6050",
+        "CAN",
+        "128x64",
+        "I2C",
+        "OLED",
+        "SSD1306",
+        "buzzer",
+        "music",
+        "RTTTL",
+        "sound",
+        "mp3",
+        "VS1033",
+        "VS1053"
+    ],
+    "name": "BuzzerLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/adelino/code/BuzzerLib/"
+    }
+}

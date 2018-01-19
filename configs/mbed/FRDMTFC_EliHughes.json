@@ -1,36 +1,42 @@
 {
     "authors": {
         "name": "Eli Hughes",
-        "url": "https://developer.mbed.org/users/emh203/"
+        "url": "https://os.mbed.com/users/emh203/"
     },
     "description": "Official library for the FRDM-TFC shield",
     "examples": [
-        "https://developer.mbed.org/users/redxeth/code/TFC-TEST/",
-        "https://developer.mbed.org/users/redxeth/code/TFC-RACING-DEMO/",
-        "https://developer.mbed.org/users/morgonXak/code/TFC-RACING-DEMO/",
-        "https://developer.mbed.org/users/mrkeithcyr/code/TFC-Mentoring-Matters-Abstraction/",
-        "https://developer.mbed.org/teams/TFC/code/TFC-RACING-DEMO/",
-        "https://developer.mbed.org/users/SaverioF15/code/test_galileo/",
-        "https://developer.mbed.org/users/Jmon14/code/RaceCar/",
-        "https://developer.mbed.org/teams/Texas-State-IEEE-Robotics/code/TFC_run_track_oneline/",
-        "https://developer.mbed.org/teams/fatboyslim/code/fatboyslim/",
-        "https://developer.mbed.org/users/anthonylamme/code/TFC-TEST_TXSTATE_TEAM6_A/"
+        "https://os.mbed.com/users/redxeth/code/TFC-TEST/",
+        "https://os.mbed.com/users/redxeth/code/TFC-RACING-DEMO/",
+        "https://os.mbed.com/users/morgonXak/code/TFC-RACING-DEMO/",
+        "https://os.mbed.com/users/redxeth/code/TFC-RACING-FSLMENTORMATTERS/",
+        "https://os.mbed.com/users/mrkeithcyr/code/TFC-Mentoring-Matters-Abstraction/",
+        "https://os.mbed.com/teams/TFC/code/TFC-RACING-DEMO/",
+        "https://os.mbed.com/users/SaverioF15/code/test_galileo/",
+        "https://os.mbed.com/users/Jmon14/code/RaceCar/",
+        "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/code/TFC_run_track_oneline/",
+        "https://os.mbed.com/teams/fatboyslim/code/fatboyslim/"
     ],
     "frameworks": "mbed",
     "keywords": [
         "Cup",
-        "Freescale"
+        "Freescale",
+        "6100",
+        "6610",
+        "mobileLCD",
+        "NokiaLCD",
+        "Olimex",
+        "PCF8833",
+        "sparkfun",
+        "tcp/ip",
+        "WebSocket",
+        "I2C",
+        "MCP23017",
+        "wattbob"
     ],
     "name": "FRDM-TFC",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/emh203/code/FRDM-TFC/"
+        "url": "https://os.mbed.com/users/emh203/code/FRDM-TFC/"
     }
 }

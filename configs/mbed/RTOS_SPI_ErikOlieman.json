@@ -1,0 +1,48 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "SimpleDMA",
+            "url": "/users/Sissors/code/SimpleDMA/"
+        }
+    ],
+    "description": "Uses DMA to read/write SPI blocks, while putting the current thread in Wait state.",
+    "examples": [
+        "https://os.mbed.com/users/Sissors/code/SDFileSystem-RTOS/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Nucleo",
+        "PCA9685",
+        "pwm controller",
+        "AT45DB081D",
+        "AT45DB161D",
+        "AT45DB321D",
+        "EEPROM",
+        "flash",
+        "memory",
+        "SPI",
+        "AM2321",
+        "Humidity",
+        "I2C",
+        "sensor",
+        "Temperature",
+        "http",
+        "NET",
+        "network",
+        "webservice",
+        "xml",
+        "DMA",
+        "rtos"
+    ],
+    "name": "RTOS_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/RTOS_SPI/"
+    }
+}

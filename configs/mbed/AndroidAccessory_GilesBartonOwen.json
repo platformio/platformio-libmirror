@@ -1,31 +1,42 @@
 {
     "authors": {
         "name": "Giles Barton-Owen",
-        "url": "https://developer.mbed.org/users/p07gbar/"
+        "url": "https://os.mbed.com/users/p07gbar/"
     },
     "description": "The modified AndroidAccessory Library",
     "examples": [
-        "https://developer.mbed.org/users/p07gbar/code/ADKTerm/",
-        "https://developer.mbed.org/users/DanielC/code/droidcycle/",
-        "https://developer.mbed.org/users/diepvriezer/code/uva_nc/",
-        "https://developer.mbed.org/users/aapje123/code/androidservo/"
+        "https://os.mbed.com/users/p07gbar/code/ADKTerm/",
+        "https://os.mbed.com/users/DanielC/code/droidcycle/",
+        "https://os.mbed.com/users/diepvriezer/code/uva_nc/",
+        "https://os.mbed.com/users/aapje123/code/androidservo/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Humidity",
+        "Sensirion",
+        "sensor",
+        "SHT",
+        "SHT15",
+        "SHT1x",
+        "Temperature",
+        "HC-SR04",
+        "HCSR04",
+        "ultrasonic",
         "ADK",
         "android",
-        "USB"
+        "USB",
+        "MPL115A2",
+        "client",
+        "ENC28J60",
+        "ethernet",
+        "server",
+        "uIP",
+        "UIPEthernet"
     ],
     "name": "AndroidAccessory",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/p07gbar/code/AndroidAccessory/"
+        "url": "https://os.mbed.com/users/p07gbar/code/AndroidAccessory/"
     }
 }

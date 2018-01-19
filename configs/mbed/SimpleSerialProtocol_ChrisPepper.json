@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Chris Pepper",
+        "url": "https://os.mbed.com/users/p3p/"
+    },
+    "description": "A library to send and receive packets over serial, uses MODSERIAL",
+    "examples": [
+        "https://os.mbed.com/users/p3p/code/SimpleSerialProtocolExample/",
+        "https://os.mbed.com/users/p3p/code/SerialFileReceiver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "3310",
+        "5110",
+        "Nokia",
+        "BME280",
+        "I2C sensor driver",
+        "checksum",
+        "packets",
+        "protocol",
+        "Serial",
+        "simple",
+        "gyroscope",
+        "I2C",
+        "l3g4200d",
+        "L3GD20"
+    ],
+    "name": "SimpleSerialProtocol",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/p3p/code/SimpleSerialProtocol/"
+    }
+}

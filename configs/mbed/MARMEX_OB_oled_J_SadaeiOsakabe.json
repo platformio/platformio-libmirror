@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Sadaei Osakabe",
+        "url": "https://os.mbed.com/users/diasea/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "NokiaLCD",
+            "url": "/users/simon/code/NokiaLCD/"
+        }
+    ],
+    "description": "MARMEX_OB_oled with Japanese font",
+    "examples": [
+        "https://os.mbed.com/users/diasea/code/MARMEX_OB_oled_J_Helloworld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "atoh",
+        "convert to hex",
+        "std library",
+        "TeraTerm",
+        "Terminal",
+        "MARMEX_OB_oled"
+    ],
+    "name": "MARMEX_OB_oled_J",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/diasea/code/MARMEX_OB_oled_J/"
+    }
+}

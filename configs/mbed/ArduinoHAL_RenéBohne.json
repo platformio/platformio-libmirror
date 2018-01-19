@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Ren\u00e9 Bohne",
+        "url": "https://os.mbed.com/users/rbohne/"
+    },
+    "description": "This will become a hardware abstraction layer for my mbed projects. It will make it easier to port sketches from Arduino to mbed",
+    "examples": [
+        "https://os.mbed.com/users/siridjen/code/Potentiometer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GPIO",
+        "Speed",
+        "CHaN",
+        "FAT",
+        "Fat16",
+        "Fat32",
+        "fatfilesystem",
+        "Filenames",
+        "Long",
+        "rtos",
+        "CC3000",
+        "socket",
+        "TCP",
+        "UDP",
+        "wifi",
+        "arduino"
+    ],
+    "name": "ArduinoHAL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rbohne/code/ArduinoHAL/"
+    }
+}

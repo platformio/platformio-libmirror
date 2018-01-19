@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Craig Evans",
+        "url": "https://os.mbed.com/users/eencae/"
+    },
+    "description": "Analog joystick library",
+    "examples": [
+        "https://os.mbed.com/users/ll14c4p/code/GameProject_Prototype/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "MCP4725",
+        "SRF02",
+        "algebra",
+        "Kinematics",
+        "Linear",
+        "matrix",
+        "game pad",
+        "gamepad",
+        "playstation",
+        "playstation2",
+        "PS2",
+        "SPI",
+        "AnalogIn",
+        "Capacitive",
+        "digitalOut",
+        "sensor",
+        "touch"
+    ],
+    "name": "Joystick",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eencae/code/Joystick/"
+    }
+}

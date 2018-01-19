@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Dmitry Gerasimenko",
+        "url": "https://os.mbed.com/users/dgeras/"
+    },
+    "description": "Some fun with LED and a button",
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "I2C",
+        "nordig",
+        "4D system",
+        "LCD",
+        "Picaso",
+        "Essex",
+        "MQTT"
+    ],
+    "name": "LEDtest",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dgeras/code/LEDtest/"
+    }
+}

@@ -1,23 +1,26 @@
 {
     "authors": {
         "name": "Suga koubou",
-        "url": "https://developer.mbed.org/users/okini3939/"
+        "url": "https://os.mbed.com/users/okini3939/"
     },
     "description": "XBee-mbed library",
     "examples": [
-        "https://developer.mbed.org/users/recotana/code/device_server_udp/",
-        "https://developer.mbed.org/users/recotana/code/led_sender_post/",
-        "https://developer.mbed.org/users/takashiyamanoue/code/XBee_API_ex1/",
-        "https://developer.mbed.org/users/takashiyamanoue/code/XBee_API_ex2/",
-        "https://developer.mbed.org/users/takashiyamanoue/code/XBee_API_ex3/",
-        "https://developer.mbed.org/users/okini3939/code/XBee_wifi_sample/",
-        "https://developer.mbed.org/users/okini3939/code/XBee_sample/",
-        "https://developer.mbed.org/teams/aigamozu/code/program1/",
-        "https://developer.mbed.org/users/kityann/code/agz_base_ver2/",
-        "https://developer.mbed.org/teams/aigamozu/code/agz_base_ver2/"
+        "https://os.mbed.com/users/recotana/code/device_server_udp/",
+        "https://os.mbed.com/users/recotana/code/led_sender_post/",
+        "https://os.mbed.com/users/takashiyamanoue/code/XBee_API_ex1/",
+        "https://os.mbed.com/users/takashiyamanoue/code/XBee_API_ex2/",
+        "https://os.mbed.com/users/takashiyamanoue/code/XBee_API_ex3/",
+        "https://os.mbed.com/users/okini3939/code/XBee_wifi_sample/",
+        "https://os.mbed.com/users/okini3939/code/XBee_sample/",
+        "https://os.mbed.com/teams/aigamozu/code/program1/",
+        "https://os.mbed.com/users/kityann/code/agz_base_ver2/",
+        "https://os.mbed.com/teams/aigamozu/code/agz_base_ver2/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "HCSR04",
+        "Ranging",
+        "ultrasonic",
         "1",
         "2",
         "digimesh",
@@ -27,15 +30,9 @@
         "zigbee"
     ],
     "name": "XBee",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/okini3939/code/XBee/"
+        "url": "https://os.mbed.com/users/okini3939/code/XBee/"
     }
 }

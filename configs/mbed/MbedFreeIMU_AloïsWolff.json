@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Alo\u00efs Wolff",
+        "url": "https://os.mbed.com/users/pommzorz/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "MPU6050_tmp",
+            "url": "/users/pommzorz/code/MPU6050_tmp/"
+        }
+    ],
+    "description": "quick and probably buggy port from the FreeIMU 0.4 library adapted for MBED and MPU6050 only...",
+    "frameworks": "mbed",
+    "keywords": [
+        "FreeIMU",
+        "IMU",
+        "MPU6050",
+        "CAN",
+        "128x64",
+        "I2C",
+        "OLED",
+        "SSD1306",
+        "buzzer",
+        "music",
+        "RTTTL",
+        "sound",
+        "mp3",
+        "VS1033",
+        "VS1053"
+    ],
+    "name": "MbedFreeIMU",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pommzorz/code/MbedFreeIMU/"
+    }
+}

@@ -1,37 +1,39 @@
 {
     "authors": {
         "name": "Andy Kirkham",
-        "url": "https://developer.mbed.org/users/AjK/"
+        "url": "https://os.mbed.com/users/AjK/"
     },
     "description": "InterruptIn style DigitalIn debounced with callbacks for pin state change and pin state hold.",
     "examples": [
-        "https://developer.mbed.org/users/shimniok/code/AVC_20110423/",
-        "https://developer.mbed.org/users/harryeakins/code/SimplePIDBot/",
-        "https://developer.mbed.org/users/4180_1/code/Pushbutton_Debounce_Interrupt/",
-        "https://developer.mbed.org/users/cicklaus/code/FinalProgram/",
-        "https://developer.mbed.org/users/BartJanssens/code/SatGPS/",
-        "https://developer.mbed.org/users/Rufaida/code/Elevator/",
-        "https://developer.mbed.org/users/shimniok/code/AVC_2012/",
-        "https://developer.mbed.org/users/tomontoast/code/FBRDash1/",
-        "https://developer.mbed.org/users/ryantm/code/m3pi-pov/",
-        "https://developer.mbed.org/users/kemken/code/elevator/"
+        "https://os.mbed.com/users/shimniok/code/AVC_20110423/",
+        "https://os.mbed.com/users/harryeakins/code/SimplePIDBot/",
+        "https://os.mbed.com/users/4180_1/code/Pushbutton_Debounce_Interrupt/",
+        "https://os.mbed.com/users/cicklaus/code/FinalProgram/",
+        "https://os.mbed.com/users/BartJanssens/code/SatGPS/",
+        "https://os.mbed.com/users/Rufaida/code/Elevator/",
+        "https://os.mbed.com/users/shimniok/code/AVC_2012/",
+        "https://os.mbed.com/users/tomontoast/code/FBRDash1/",
+        "https://os.mbed.com/users/ryantm/code/m3pi-pov/",
+        "https://os.mbed.com/users/kemken/code/elevator/"
     ],
     "frameworks": "mbed",
     "keywords": [
         "debounce",
         "DigitalIn",
-        "InterruptIn"
+        "InterruptIn",
+        "buffer",
+        "BufferedSerial",
+        "BufferSerial",
+        "Serial",
+        "accelerometer",
+        "I2C",
+        "MMA7660",
+        "ADXL345"
     ],
     "name": "PinDetect",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/AjK/code/PinDetect/"
+        "url": "https://os.mbed.com/users/AjK/code/PinDetect/"
     }
 }

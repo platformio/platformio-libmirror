@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Compass Developer",
+        "url": "https://os.mbed.com/users/fin4478/"
+    },
+    "description": "library for using LSM303DM chip",
+    "frameworks": "mbed",
+    "keywords": [
+        "WiFly",
+        "FTP",
+        "server",
+        "arduino",
+        "SDCard",
+        "Seeedstudio",
+        "TFT",
+        "touch",
+        "APDS9960",
+        "avago",
+        "color",
+        "Gesture",
+        "I2C",
+        "proximity",
+        "sparkfun",
+        "accelerometer",
+        "ADXL345",
+        "senor"
+    ],
+    "name": "LSM303DM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fin4478/code/LSM303DM/"
+    }
+}

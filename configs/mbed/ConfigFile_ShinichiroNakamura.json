@@ -1,36 +1,34 @@
 {
     "authors": {
         "name": "Shinichiro Nakamura",
-        "url": "https://developer.mbed.org/users/shintamainjp/"
+        "url": "https://os.mbed.com/users/shintamainjp/"
     },
     "description": "ConfigFile",
     "examples": [
-        "https://developer.mbed.org/users/shintamainjp/code/ConfigFile_TestProgram/",
-        "https://developer.mbed.org/users/shintamainjp/code/StarBoardOrangeExpansion1/",
-        "https://developer.mbed.org/users/shintamainjp/code/StarBoardOrangeExpansion2/",
-        "https://developer.mbed.org/users/shintamainjp/code/Drive2ChoroQ/",
-        "https://developer.mbed.org/users/okini3939/code/PhonePlatform/",
-        "https://developer.mbed.org/users/shintamainjp/code/Toragi_2011_04_Pachube/",
-        "https://developer.mbed.org/users/charly/code/eth_comfort_freebus/",
-        "https://developer.mbed.org/users/networker/code/tcpft/",
-        "https://developer.mbed.org/users/okini3939/code/WeatherPlatform_20110408/",
-        "https://developer.mbed.org/users/okini3939/code/WeatherPlatform/"
+        "https://os.mbed.com/users/shintamainjp/code/ConfigFile_TestProgram/",
+        "https://os.mbed.com/users/shintamainjp/code/StarBoardOrangeExpansion1/",
+        "https://os.mbed.com/users/shintamainjp/code/StarBoardOrangeExpansion2/",
+        "https://os.mbed.com/users/shintamainjp/code/Drive2ChoroQ/",
+        "https://os.mbed.com/users/okini3939/code/PhonePlatform/",
+        "https://os.mbed.com/users/shintamainjp/code/Toragi_2011_04_Pachube/",
+        "https://os.mbed.com/users/charly/code/eth_comfort_freebus/",
+        "https://os.mbed.com/users/networker/code/tcpft/",
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform_20110408/",
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform/"
     ],
     "frameworks": "mbed",
     "keywords": [
         "Config",
-        "file"
+        "file",
+        "debounce",
+        "DigitalIn",
+        "interrupt",
+        "keypad"
     ],
     "name": "ConfigFile",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/shintamainjp/code/ConfigFile/"
+        "url": "https://os.mbed.com/users/shintamainjp/code/ConfigFile/"
     }
 }

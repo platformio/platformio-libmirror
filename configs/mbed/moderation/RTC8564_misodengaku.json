@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "miso dengaku",
+        "url": "https://os.mbed.com/users/misodengaku/"
+    },
+    "frameworks": "mbed",
+    "keywords": [
+        "Card reader",
+        "LPC1768",
+        "SPI TFT",
+        "SPI Touch",
+        "BUTTON",
+        "ButtonGroup",
+        "DISCO-F746",
+        "UIT",
+        "device",
+        "USB"
+    ],
+    "name": "RTC8564",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/misodengaku/code/RTC8564/"
+    }
+}

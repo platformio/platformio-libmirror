@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Ale C.-",
+        "url": "https://os.mbed.com/users/Suky/"
+    },
+    "description": "LCD Serial with shift register",
+    "frameworks": "mbed",
+    "keywords": [
+        "fingerprint",
+        "GT-511C3",
+        "GT-511C31",
+        "Encoder",
+        "rotary",
+        "LCD",
+        "Register",
+        "Serial",
+        "shift",
+        "with"
+    ],
+    "name": "SerialLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Suky/code/SerialLCD/"
+    }
+}

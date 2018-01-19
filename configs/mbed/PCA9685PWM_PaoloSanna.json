@@ -1,0 +1,43 @@
+{
+    "authors": {
+        "name": "Paolo Sanna",
+        "url": "https://os.mbed.com/users/dreamworker/"
+    },
+    "description": "Library for 16-channel, 12-bit PWM controller NXP PCA9685.",
+    "examples": [
+        "https://os.mbed.com/users/dreamworker/code/PCA9685_Hello_World/",
+        "https://os.mbed.com/users/dreamworker/code/PCA9685_with_LED/",
+        "https://os.mbed.com/users/wrxavex/code/PCA9685/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Nucleo",
+        "PCA9685",
+        "pwm controller",
+        "AT45DB081D",
+        "AT45DB161D",
+        "AT45DB321D",
+        "EEPROM",
+        "flash",
+        "memory",
+        "SPI",
+        "AM2321",
+        "Humidity",
+        "I2C",
+        "sensor",
+        "Temperature",
+        "http",
+        "NET",
+        "network",
+        "webservice",
+        "xml",
+        "DMA",
+        "rtos"
+    ],
+    "name": "PCA9685PWM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreamworker/code/PCA9685PWM/"
+    }
+}

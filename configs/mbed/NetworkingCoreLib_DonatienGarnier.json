@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Donatien Garnier",
+        "url": "https://os.mbed.com/users/donatien/"
+    },
+    "dependencies": [
+        {
+            "frameworks": "mbed",
+            "name": "DebugLib",
+            "url": "/users/donatien/code/DebugLib/"
+        }
+    ],
+    "description": "Core networking libraries including LwIP implementation",
+    "examples": [
+        "https://os.mbed.com/users/donatien/code/EthernetNetworkLib/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "NeoPixel",
+        "nRF51822",
+        "RedBear",
+        "WS2812",
+        "CoAP",
+        "IOT",
+        "millis",
+        "debounce",
+        "interrupt"
+    ],
+    "name": "NetworkingCoreLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donatien/code/NetworkingCoreLib/"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Andreas Kodewitz",
+        "url": "https://os.mbed.com/users/akode/"
+    },
+    "description": "Ported from Arduino Library by Szymon Gaertig: https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050",
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F746NG",
+        "SD",
+        "Bee",
+        "bluetooth",
+        "BluetoothBee",
+        "Seeedstudio",
+        "Serial",
+        "UART",
+        "WLS125E1P",
+        "Adafruit",
+        "ILI9340",
+        "stm32",
+        "accelerometer",
+        "gyroscope",
+        "I2C",
+        "MPU-6050",
+        "MPU6050",
+        "MPU60x0",
+        "MPU9150"
+    ],
+    "name": "MPU6050 + MPU9150",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/akode/code/MPU6050-MPU9150/"
+    }
+}

@@ -1,37 +1,35 @@
 {
     "authors": {
         "name": "Chris Styles",
-        "url": "https://developer.mbed.org/users/chris/"
+        "url": "https://os.mbed.com/users/chris/"
     },
     "description": "Library for the m3pi robot. This works with a Pololu 3pi robot with the Serial Slave firmware, and exposes and API.",
     "examples": [
-        "https://developer.mbed.org/users/chris/code/m3pi_USBSerialRPC/",
-        "https://developer.mbed.org/users/chris/code/m3pi_BluetoothRPC/",
-        "https://developer.mbed.org/users/chris/code/m3pi_HelloWorld/",
-        "https://developer.mbed.org/users/chris/code/m3pi_WiiRacing/",
-        "https://developer.mbed.org/users/Nicholas/code/m3pi_Logo_HelloWorld/",
-        "https://developer.mbed.org/users/Nicholas/code/M3pi_logo_principle/",
-        "https://developer.mbed.org/users/jonmarsh/code/m3pi_POV/",
-        "https://developer.mbed.org/users/kanpapa/code/m3pi_ledpsd/",
-        "https://developer.mbed.org/users/aworsley/code/WixelTest/",
-        "https://developer.mbed.org/users/nbbhav/code/m3pi_RFIDReader/"
+        "https://os.mbed.com/users/chris/code/m3pi_USBSerialRPC/",
+        "https://os.mbed.com/users/chris/code/m3pi_BluetoothRPC/",
+        "https://os.mbed.com/users/chris/code/m3pi_HelloWorld/",
+        "https://os.mbed.com/users/chris/code/m3pi_WiiRacing/",
+        "https://os.mbed.com/users/Nicholas/code/m3pi_Logo_HelloWorld/",
+        "https://os.mbed.com/users/Nicholas/code/M3pi_logo_principle/",
+        "https://os.mbed.com/users/jonmarsh/code/m3pi_POV/",
+        "https://os.mbed.com/users/kanpapa/code/m3pi_ledpsd/",
+        "https://os.mbed.com/users/aworsley/code/WixelTest/",
+        "https://os.mbed.com/users/nbbhav/code/m3pi_RFIDReader/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "device",
+        "USB",
+        "PwmOut",
+        "Servo",
         "3pi",
         "m3pi",
         "robot"
     ],
     "name": "m3pi",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/chris/code/m3pi/"
+        "url": "https://os.mbed.com/users/chris/code/m3pi/"
     }
 }

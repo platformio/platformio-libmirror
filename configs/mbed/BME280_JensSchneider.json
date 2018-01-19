@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Jens Schneider",
+        "url": "https://os.mbed.com/users/jenschn/"
+    },
+    "description": "Bosch BME280 Temperature Pressure Humidity Sensor",
+    "frameworks": "mbed",
+    "keywords": [
+        "3310",
+        "5110",
+        "Nokia",
+        "BME280",
+        "I2C sensor driver",
+        "checksum",
+        "packets",
+        "protocol",
+        "Serial",
+        "simple",
+        "gyroscope",
+        "I2C",
+        "l3g4200d",
+        "L3GD20"
+    ],
+    "name": "BME280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jenschn/code/BME280/"
+    }
+}

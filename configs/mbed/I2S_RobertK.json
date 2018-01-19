@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Robert K",
+        "url": "https://os.mbed.com/users/Pinski1/"
+    },
+    "description": "This is an I2S library to allow people to take advantage of the I2S peripheral on the LPC1768. Ideally it will be included in future releases of the mbed.h file.",
+    "frameworks": "mbed",
+    "keywords": [
+        "hang",
+        "I2C",
+        "KL25z",
+        "lockup",
+        "ARM",
+        "DAY",
+        "heartbeat",
+        "RIT",
+        "I2S",
+        "library",
+        "LPC4330"
+    ],
+    "name": "I2S",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Pinski1/code/I2S/"
+    }
+}

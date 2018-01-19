@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Mihail Stoyanov",
+        "url": "https://os.mbed.com/users/screamer/"
+    },
+    "description": "fork of VodafoneUSBModem with updated USBHost library",
+    "examples": [
+        "https://os.mbed.com/users/screamer/code/VodafoneUSBModemSMSTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Card reader",
+        "LPC1768",
+        "SPI TFT",
+        "SPI Touch",
+        "BUTTON",
+        "ButtonGroup",
+        "DISCO-F746",
+        "UIT",
+        "3pi",
+        "m3pi",
+        "robot",
+        "HTTPServer",
+        "W7500"
+    ],
+    "name": "VodafoneUSBModem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/screamer/code/VodafoneUSBModem/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Micah B",
+        "url": "https://os.mbed.com/users/mbotkinl/"
+    },
+    "description": "mbed",
+    "examples": [
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/DHTSensor_Test/",
+        "https://os.mbed.com/users/robert_jw/code/K64F_eCompass_OneNET_JW/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "buzzer",
+        "piezo",
+        "pwm",
+        "PwmOut",
+        "SoftPWM",
+        "softwearPWM"
+    ],
+    "name": "mbed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbotkinl/code/mbed/"
+    }
+}

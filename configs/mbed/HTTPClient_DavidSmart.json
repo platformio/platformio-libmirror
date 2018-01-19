@@ -1,0 +1,43 @@
+{
+    "authors": {
+        "name": "David Smart",
+        "url": "https://os.mbed.com/users/WiredHome/"
+    },
+    "description": "Fixed custom headers and Basic authorization, added support for redirection, functional file download interface can be used for SW updates and more.",
+    "examples": [
+        "https://os.mbed.com/users/WiredHome/code/Sample_HTTPClient/",
+        "https://os.mbed.com/users/bhakti08/code/Sample_HTTPClient/",
+        "https://os.mbed.com/users/WiredHome/code/WattEye/",
+        "https://os.mbed.com/users/WiredHome/code/PUB_SWUpdate/",
+        "https://os.mbed.com/users/WiredHome/code/X10-Server/",
+        "https://os.mbed.com/users/pnysten/code/LWM2M_NanoService_Ethernet/",
+        "https://os.mbed.com/teams/Alcatel-Lucent-IoT-Development/code/LWM2M_NanoService_Ethernet/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "application board",
+        "C12832",
+        "LCD",
+        "display",
+        "KS0107",
+        "KS0108",
+        "128x64",
+        "ST7920",
+        "fatfilesystem",
+        "MSD",
+        "SD",
+        "USB",
+        "authorization",
+        "client",
+        "custom",
+        "headers",
+        "http",
+        "HTTPClient"
+    ],
+    "name": "HTTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WiredHome/code/HTTPClient/"
+    }
+}

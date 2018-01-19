@@ -1,34 +1,51 @@
 {
     "authors": {
         "name": "Simon Ford",
-        "url": "https://developer.mbed.org/users/simon/"
+        "url": "https://os.mbed.com/users/simon/"
     },
     "description": "An interface to read a PWM input signal, using InterruptIn",
     "examples": [
-        "https://developer.mbed.org/users/simon/code/PwmIn_HelloWorld/",
-        "https://developer.mbed.org/users/kinemax/code/PwmIn_ModSerial/",
-        "https://developer.mbed.org/users/kinemax/code/CHR6dm_reading/",
-        "https://developer.mbed.org/users/bclaus/code/tugboat/",
-        "https://developer.mbed.org/users/bclaus/code/tugboat2/",
-        "https://developer.mbed.org/users/AlexF64/code/MSCUsbHost/",
-        "https://developer.mbed.org/users/Ellor1/code/Fast_PWM/",
-        "https://developer.mbed.org/users/tzxl10000/code/Fish_2014Fall/"
+        "https://os.mbed.com/users/simon/code/PwmIn_HelloWorld/",
+        "https://os.mbed.com/users/kinemax/code/PwmIn_ModSerial/",
+        "https://os.mbed.com/users/kinemax/code/CHR6dm_reading/",
+        "https://os.mbed.com/users/bclaus/code/tugboat/",
+        "https://os.mbed.com/users/bclaus/code/tugboat2/",
+        "https://os.mbed.com/users/AlexF64/code/MSCUsbHost/",
+        "https://os.mbed.com/users/Ellor1/code/Fast_PWM/",
+        "https://os.mbed.com/users/tzxl10000/code/Fish_2014Fall/",
+        "https://os.mbed.com/users/RenjianHao/code/Fish_2014Fall/",
+        "https://os.mbed.com/users/LanierUSNA16/code/Polynomial_Controller_Car/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "KL25z",
+        "LPC800-MAX",
+        "LPC812",
+        "powerdown",
+        "Sleep",
+        "wake-up",
+        "mbed",
+        "NeoPixel",
+        "NeoPixels",
+        "WS2811",
+        "WS2812",
+        "WS2812B",
         "InterruptIn",
-        "PwmIn"
+        "PwmIn",
+        "HX8340",
+        "ILI9325",
+        "ILI9328",
+        "ITDB02",
+        "LCD",
+        "SSD1289",
+        "ST7735",
+        "TFT",
+        "UTFT"
     ],
     "name": "PwmIn",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/simon/code/PwmIn/"
+        "url": "https://os.mbed.com/users/simon/code/PwmIn/"
     }
 }

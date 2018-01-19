@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "High speed analog input class.",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/HighSpeedAnalogIn_TestProgram/",
+        "https://os.mbed.com/users/jksoft/code/WallbotR4_BTLE/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Melexis",
+        "MLX90614",
+        "2x40",
+        "40x2",
+        "HD44780",
+        "LCD",
+        "ST7066U",
+        "range",
+        "sensor",
+        "SRF08",
+        "AnalogIn",
+        "16x2",
+        "4-bit",
+        "4bit",
+        "KS0066U",
+        "LCD 16x2"
+    ],
+    "name": "HighSpeedAnalogIn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/HighSpeedAnalogIn/"
+    }
+}
