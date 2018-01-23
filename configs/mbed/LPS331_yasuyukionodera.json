@@ -9,12 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "EFM32",
-        "Gecko",
-        "SegmentLCD",
-        "SiLabs",
-        "Silicon Labs",
-        "silicon_labs"
+        "buzzer",
+        "music",
+        "RTTTL",
+        "sound",
+        "interrupt",
+        "PPM",
+        "pwm",
+        "RC",
+        "Receiver"
     ],
     "name": "LPS331",
     "platforms": "*",

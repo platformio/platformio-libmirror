@@ -6,6 +6,8 @@
     "description": "Fork of the USBHost library by mbed.",
     "frameworks": "mbed",
     "keywords": [
+        "4D Dydtems",
+        "Visi-Genie",
         "Host",
         "hub",
         "keyboard",
@@ -14,9 +16,7 @@
         "MSD",
         "rtos",
         "Serial",
-        "USB",
-        "4D Dydtems",
-        "Visi-Genie"
+        "USB"
     ],
     "name": "USBHost",
     "platforms": "*",

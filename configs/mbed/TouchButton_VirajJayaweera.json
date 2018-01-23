@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/mbed_official"
+            },
             "frameworks": "mbed",
             "name": "TSI",
-            "url": "/users/mbed_official/code/TSI/"
+            "url": "https://os.mbed.com/users/mbed_official/code/TSI/"
         }
     ],
     "description": "This library allow you to convert FRDM-KL25Z built-in touch slider in to 4 touch buttons.",
@@ -17,18 +20,21 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Encoder",
+        "rotary",
+        "Composite",
+        "USB",
+        "USBKeyboard",
+        "usbserial",
         "4",
         "buttons",
         "convert",
         "Slider",
         "to",
         "touch",
-        "Composite",
-        "USB",
-        "USBKeyboard",
-        "usbserial",
-        "Encoder",
-        "rotary"
+        "fatfilesystem",
+        "LocalFileSystem",
+        "USBMSD"
     ],
     "name": "TouchButton",
     "platforms": "*",

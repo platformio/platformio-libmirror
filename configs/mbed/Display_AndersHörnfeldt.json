@@ -1,22 +1,19 @@
 {
     "authors": {
-        "name": "Anders H\u00f6rnfeldt",
+        "name": "Anders Hörnfeldt",
         "url": "https://os.mbed.com/users/hornfeldt/"
     },
     "description": "128x64 grafical display with KS0107B and KS0108B controller",
     "frameworks": "mbed",
     "keywords": [
-        "led",
-        "rgb",
-        "fatfilesystem",
-        "MSD",
-        "SD",
-        "USB",
         "check;",
         "CRC",
         "CRC16;",
         "Cyclic",
         "redundancy",
+        "application board",
+        "C12832",
+        "LCD",
         "display",
         "KS0107",
         "KS0108"

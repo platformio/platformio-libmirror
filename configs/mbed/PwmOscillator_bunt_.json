@@ -5,24 +5,24 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/Sissors"
+            },
             "frameworks": "mbed",
             "name": "FastPWM",
-            "url": "/users/Sissors/code/FastPWM/"
+            "url": "https://os.mbed.com/users/Sissors/code/FastPWM/"
         }
     ],
     "description": "Creates square-wave frequency output on pin p22. Custom frequency between 1Hz and 48 MHz. (LPC 1768)",
     "frameworks": "mbed",
     "keywords": [
-        "3",
-        "joystick",
-        "playstation",
+        "Digital",
+        "Input",
+        "output",
+        "pulse",
         "frequency",
         "LPC1768",
         "MHz",
-        "output",
-        "Digital",
-        "Input",
-        "pulse",
         "FAT",
         "file",
         "Filenames",

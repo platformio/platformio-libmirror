@@ -3,22 +3,20 @@
         "name": "Jairo Rodriguez",
         "url": "https://os.mbed.com/users/jyrodriguezg/"
     },
-    "description": "Librer\u00eda Teclado 4x4",
+    "description": "Librería Teclado 4x4",
     "examples": [
         "https://os.mbed.com/users/jyrodriguezg/code/teclado/",
         "https://os.mbed.com/users/serbm/code/teclado/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "audio input",
-        "Audio output",
-        "CODEC",
-        "DISCO-F746NG",
-        "DMA",
-        "Mikami",
-        "SAI",
-        "SAI_IO",
-        "WM8994"
+        "files",
+        "filesystem",
+        "Terminal",
+        "motor",
+        "pwm",
+        "sparkfun",
+        "TB6612FNG"
     ],
     "name": "keypad",
     "platforms": "*",

@@ -10,11 +10,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "v3",
-        "ChaNFS",
-        "mass",
-        "storage",
-        "USB"
+        "Adafruit",
+        "GPS",
+        "NEMA",
+        "buzzer",
+        "pwm",
+        "tone",
+        "tune",
+        "HOPERF",
+        "RF22",
+        "RFM22"
     ],
     "name": "PCF8574",
     "platforms": "*",

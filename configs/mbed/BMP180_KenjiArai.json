@@ -11,19 +11,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HC05",
-        "7",
-        "display",
-        "driver",
-        "led",
-        "PCA9635",
-        "segment",
-        "HEJ",
-        "Communication",
-        "Serial",
-        "Terminal",
-        "VT100",
-        "VT200"
+        "compass",
+        "HMC5883L"
     ],
     "name": "BMP180",
     "platforms": "*",

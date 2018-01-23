@@ -5,16 +5,15 @@
     },
     "frameworks": "mbed",
     "keywords": [
+        "infrared",
+        "IR",
+        "transmit",
         "Card reader",
         "LPC1768",
         "SPI TFT",
         "SPI Touch",
-        "BUTTON",
-        "ButtonGroup",
-        "DISCO-F746",
-        "UIT",
-        "device",
-        "USB"
+        "HTTPServer",
+        "W7500"
     ],
     "name": "RTC8564",
     "platforms": "*",

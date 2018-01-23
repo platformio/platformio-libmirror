@@ -12,6 +12,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "DS18B20",
+        "one",
+        "Wire",
         "SD",
         "SDFileSystem",
         "sdhcfilesystem",

@@ -38,9 +38,9 @@ class JsonWriterPipeline(object):
             path = path + "moderation/"
 
         with open(path+filename+".json", "w") as f:
-            print "####################  >>>  ",filename
+            print( "####################  >>>  ",filename)
             expo = self.copy_selected(item, self.copykeys)
-            json.dump(dict(expo), f, indent=4, sort_keys=True, separators=(',', ': '))
+            json.dump(dict(expo), f, indent=4, sort_keys=True, separators=(',', ': '),ensure_ascii=False)
 
         return item
 

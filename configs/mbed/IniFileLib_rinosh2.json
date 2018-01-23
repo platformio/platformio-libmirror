@@ -10,13 +10,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "L152",
-        "Nucleo",
-        "CC3000",
-        "SimpleLink",
-        "Wi-Fi",
+        "mbed",
         "file",
-        "ini"
+        "ini",
+        "flash",
+        "Serial",
+        "SPI",
+        "bridge",
+        "I2C",
+        "SC16IS750",
+        "SC16IS752",
+        "UART"
     ],
     "name": "IniFileLib",
     "platforms": "*",

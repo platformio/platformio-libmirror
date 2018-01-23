@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/Sissors"
+            },
             "frameworks": "mbed",
             "name": "SimpleDMA",
-            "url": "/users/Sissors/code/SimpleDMA/"
+            "url": "https://os.mbed.com/users/Sissors/code/SimpleDMA/"
         }
     ],
     "description": "Uses DMA to read/write SPI blocks, while putting the current thread in Wait state.",
@@ -16,28 +19,20 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Nucleo",
-        "PCA9685",
-        "pwm controller",
-        "AT45DB081D",
-        "AT45DB161D",
-        "AT45DB321D",
-        "EEPROM",
-        "flash",
-        "memory",
-        "SPI",
-        "AM2321",
-        "Humidity",
-        "I2C",
-        "sensor",
-        "Temperature",
-        "http",
-        "NET",
-        "network",
-        "webservice",
-        "xml",
         "DMA",
-        "rtos"
+        "rtos",
+        "SPI",
+        "1-wire",
+        "1wire",
+        "DS18B20",
+        "DS18S20",
+        "OneWire",
+        "CommandProcessor",
+        "Embedded",
+        "interactive",
+        "menu",
+        "bt",
+        "UART"
     ],
     "name": "RTOS_SPI",
     "platforms": "*",

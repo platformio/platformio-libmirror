@@ -10,10 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "CAN",
-        "FRDM-KL25Z",
-        "Seeed Studios",
-        "csv"
+        "DC",
+        "driver",
+        "full-bridge",
+        "H-bridge",
+        "motor",
+        "csv",
+        "Buffered",
+        "MODSERIAL",
+        "Serial"
     ],
     "name": "csv_parser",
     "platforms": "*",

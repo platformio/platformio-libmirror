@@ -18,11 +18,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Adafruit",
+        "GPS",
+        "NEMA",
         "buzzer",
         "pwm",
         "tone",
         "tune",
-        "ROS"
+        "HOPERF",
+        "RF22",
+        "RFM22"
     ],
     "name": "PWM_Tone_Library",
     "platforms": "*",

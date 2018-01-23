@@ -18,17 +18,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "MQTT",
         "BLE",
         "buttons",
         "HEXIWEAR",
-        "KW40Z",
-        "AquesTalk",
-        "ATP3011",
-        "CAN",
-        "Queue",
-        "4D system",
-        "LCD",
-        "Picaso"
+        "KW40Z"
     ],
     "name": "Hexi_KW40Z",
     "platforms": "*",

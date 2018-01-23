@@ -10,10 +10,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "LMiC",
+        "Lora",
+        "LoRaWAN",
         "CAN",
         "FRDM-KL25Z",
         "Seeed Studios",
-        "csv"
+        "watchdog timer",
+        "WDT",
+        "display",
+        "EEPROM",
+        "flash",
+        "stm32"
     ],
     "name": "SEEED_CAN",
     "platforms": "*",

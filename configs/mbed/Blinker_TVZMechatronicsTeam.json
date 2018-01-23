@@ -14,9 +14,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "adc",
+        "dac",
+        "I2C",
+        "PCF8591",
+        "SHT21",
         "blinking",
         "led",
-        "HX711"
+        "rtos",
+        "Serial",
+        "UART"
     ],
     "name": "Blinker",
     "platforms": "*",

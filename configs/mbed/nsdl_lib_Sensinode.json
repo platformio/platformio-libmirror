@@ -18,10 +18,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "interpreter",
+        "Serial",
         "nsdl",
-        "OneWire",
-        "protocols",
-        "sensors"
+        "KL25",
+        "touch",
+        "TSI"
     ],
     "name": "nsdl_lib",
     "platforms": "*",

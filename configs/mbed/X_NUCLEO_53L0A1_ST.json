@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/ST"
+            },
             "frameworks": "mbed",
             "name": "ST_INTERFACES",
-            "url": "/teams/ST/code/ST_INTERFACES/"
+            "url": "https://os.mbed.com/teams/ST/code/ST_INTERFACES/"
         }
     ],
     "description": "Library for use with VL53L0X, cut 1.1, based on mass-market API v1.1.",

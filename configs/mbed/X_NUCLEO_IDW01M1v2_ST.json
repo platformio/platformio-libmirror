@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/ST"
+            },
             "frameworks": "mbed",
             "name": "SPWF01SA",
-            "url": "/teams/ST/code/SPWF01SA/"
+            "url": "https://os.mbed.com/teams/ST/code/SPWF01SA/"
         }
     ],
     "description": "X-NUCLEO-IDW01M1 Wi-Fi expansion board mbed OS 2 (\"Classic\") library. mbed OS 5 library also available (see below).",
@@ -25,16 +28,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Nucleo",
+        "stm32",
+        "Wi-Fi",
+        "X-NUCLEO-IDW01M1",
         "LPC1114",
         "LPC1114FN28",
         "mbed-sdk",
         "driver",
         "ethernet",
         "PicoTCP",
-        "Nucleo",
-        "stm32",
-        "Wi-Fi",
-        "X-NUCLEO-IDW01M1",
         "I2C",
         "LCD"
     ],

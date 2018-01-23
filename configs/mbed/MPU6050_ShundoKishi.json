@@ -5,9 +5,13 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "name": "Shundo Kishi",
+                "url": "https://os.mbed.com/users/syundo0730"
+            },
             "frameworks": "mbed",
             "name": "ArduinoSerial",
-            "url": "/users/syundo0730/code/ArduinoSerial/"
+            "url": "https://os.mbed.com/users/syundo0730/code/ArduinoSerial/"
         }
     ],
     "description": "ported from https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050.",
@@ -25,6 +29,9 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/syundo0730/code/MPU6050/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/syundo0730/code/MPU6050/"
+        }
     }
 }

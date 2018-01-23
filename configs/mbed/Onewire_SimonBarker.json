@@ -6,7 +6,9 @@
     "description": "Library to communicate with Maxim OneWire protocol devices",
     "frameworks": "mbed",
     "keywords": [
-        "nsdl",
+        "KL25",
+        "touch",
+        "TSI",
         "OneWire",
         "protocols",
         "sensors"

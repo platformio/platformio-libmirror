@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/Lancaster-University"
+            },
             "frameworks": "mbed",
             "name": "microbit-dal",
-            "url": "/teams/Lancaster-University/code/microbit-dal/"
+            "url": "https://os.mbed.com/teams/Lancaster-University/code/microbit-dal/"
         }
     ],
     "description": "developer.mbed.org branch of Lancaster University's microbit library.",
@@ -25,11 +28,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "DISCO_F746NG",
+        "LCD",
         "Serial",
         "SoftwareSerial",
         "UART",
-        "DISCO_F746NG",
-        "LCD",
         "any",
         "no",
         "Pin",
@@ -43,12 +46,7 @@
         "SD",
         "System",
         "I2C",
-        "wattbob",
-        "ethernet",
-        "power consumption",
-        "power control",
-        "power management",
-        "PowerControl"
+        "wattbob"
     ],
     "name": "microbit",
     "platforms": "*",

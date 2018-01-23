@@ -8,13 +8,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "compass",
-        "LSM303DLHC",
-        "magnetometer",
-        "sensors",
         "nunchuck",
         "Wii",
-        "WiiNunchuck"
+        "WiiNunchuck",
+        "BLE",
+        "BLE_API",
+        "HID",
+        "HID-over-Gatt"
     ],
     "name": "WiiNunchuck",
     "platforms": "*",

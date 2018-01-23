@@ -5,9 +5,13 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "name": "ITEAD STUDIO",
+                "url": "https://os.mbed.com/users/itead"
+            },
             "frameworks": "mbed",
             "name": "ArduinoAPI",
-            "url": "/users/itead/code/ArduinoAPI/"
+            "url": "https://os.mbed.com/users/itead/code/ArduinoAPI/"
         }
     ],
     "description": "Provide an easy-to-use way to manipulate ESP8266.",
@@ -20,7 +24,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "SSL",
+        "TLS",
         "v1.0",
+        "clock",
+        "ds1307",
+        "RTC",
         "em-406",
         "GPS",
         "MTK3339",
@@ -32,6 +41,9 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/itead/code/WeeESP8266/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/itead/code/WeeESP8266/"
+        }
     }
 }

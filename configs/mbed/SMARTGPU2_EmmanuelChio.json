@@ -18,8 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "comparator",
-        "KL25z",
         "2",
         "gpu",
         "mbed",
@@ -35,9 +33,8 @@
         "static",
         "Web",
         "WiFly",
-        "Radio",
-        "rf",
-        "rfm69"
+        "dac",
+        "MCP4922"
     ],
     "name": "SMARTGPU2",
     "platforms": "*",

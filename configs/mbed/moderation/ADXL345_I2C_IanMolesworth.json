@@ -19,7 +19,12 @@
     "keywords": [
         "network",
         "NTP",
-        "time"
+        "time",
+        "1-wire",
+        "DS18B20",
+        "one",
+        "One Wire",
+        "OneWire"
     ],
     "name": "ADXL345_I2C",
     "platforms": "*",

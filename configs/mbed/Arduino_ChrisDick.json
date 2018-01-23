@@ -10,16 +10,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DHT11",
-        "Humidity",
-        "Temperature",
         "arduino",
         "mbeduino",
         "PABLO",
         "R",
         "gyroscope",
         "ITG-3200",
-        "ITG3200"
+        "ITG3200",
+        "cmsis",
+        "rtos",
+        "RTX"
     ],
     "name": "Arduino",
     "platforms": "*",

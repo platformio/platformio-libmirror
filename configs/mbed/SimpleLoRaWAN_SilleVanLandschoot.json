@@ -5,24 +5,37 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "name": "Sille Van Landschoot",
+                "url": "https://os.mbed.com/users/sillevl"
+            },
             "frameworks": "mbed",
             "name": "LMiC",
-            "url": "/users/sillevl/code/LMiC/"
+            "url": "https://os.mbed.com/users/sillevl/code/LMiC/"
         }
     ],
     "description": "C++ Wrapper around the IBM LMiC LoRaWAN implementation",
     "frameworks": "mbed",
     "keywords": [
-        "Pokitto",
+        "3pi;",
+        "bluetooth;",
+        "m3pi;",
+        "robot;",
+        "xbee",
         "LMiC",
         "Lora",
         "LoRaWAN",
-        "display"
+        "Linked",
+        "Linked List",
+        "List"
     ],
     "name": "Simple-LoRaWAN",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/sillevl/code/Simple-LoRaWAN/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/sillevl/code/Simple-LoRaWAN/"
+        }
     }
 }

@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/components"
+            },
             "frameworks": "mbed",
             "name": "MotionSensor",
-            "url": "/teams/components/code/MotionSensor/"
+            "url": "https://os.mbed.com/teams/components/code/MotionSensor/"
         }
     ],
     "description": "A basic library for the FXOS8700Q combination accelerometer / magnetometer",

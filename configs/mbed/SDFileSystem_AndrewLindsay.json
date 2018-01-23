@@ -18,7 +18,10 @@
     "keywords": [
         "control",
         "PID",
-        "SDFileSystem"
+        "SDFileSystem",
+        "debounce",
+        "DigitalIn",
+        "InterruptIn"
     ],
     "name": "SDFileSystem",
     "platforms": "*",

@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/frankvnk"
+            },
             "frameworks": "mbed",
             "name": "SPI_TFT_ILI9320",
-            "url": "/users/frankvnk/code/SPI_TFT_ILI9320/"
+            "url": "https://os.mbed.com/users/frankvnk/code/SPI_TFT_ILI9320/"
         }
     ],
     "description": "Library for Mini-DK board",
@@ -18,16 +21,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "infrared",
+        "IR",
+        "transmit",
         "Card reader",
         "LPC1768",
         "SPI TFT",
         "SPI Touch",
-        "BUTTON",
-        "ButtonGroup",
-        "DISCO-F746",
-        "UIT",
-        "device",
-        "USB"
+        "HTTPServer",
+        "W7500"
     ],
     "name": "Mini-DK",
     "platforms": "*",

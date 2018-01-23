@@ -5,9 +5,13 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "name": "Sam Grove",
+                "url": "https://os.mbed.com/users/sam_grove"
+            },
             "frameworks": "mbed",
             "name": "Buffer",
-            "url": "/users/sam_grove/code/Buffer/"
+            "url": "https://os.mbed.com/users/sam_grove/code/Buffer/"
         }
     ],
     "description": "Inherit from Serial and use software buffers for TX and RX. This allows the UART peripherals to operate in a IRQ driven mode. Overrides most (but not all) stdio functions as Serial did",
@@ -25,9 +29,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "debounce",
-        "DigitalIn",
-        "InterruptIn",
         "buffer",
         "BufferedSerial",
         "BufferSerial",
@@ -41,6 +42,9 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/sam_grove/code/BufferedSerial/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/sam_grove/code/BufferedSerial/"
+        }
     }
 }

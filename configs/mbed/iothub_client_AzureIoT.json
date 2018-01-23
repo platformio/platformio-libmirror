@@ -18,13 +18,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "v1.0",
-        "em-406",
-        "GPS",
-        "MTK3339",
-        "NMEA",
-        "Serial",
-        "UART"
+        "malloc",
+        "memory",
+        "AQM1602"
     ],
     "name": "iothub_client",
     "platforms": "*",

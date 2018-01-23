@@ -13,9 +13,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "7",
+        "display",
+        "segment",
         "cmsis",
         "rtos",
-        "RTX"
+        "RTX",
+        "Humidity",
+        "Sensiron",
+        "Temperature"
     ],
     "name": "mbed-rtos",
     "platforms": "*",

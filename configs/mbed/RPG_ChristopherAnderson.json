@@ -15,14 +15,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "esc",
-        "pwm",
-        "RC",
-        "accelerometer",
-        "I2C",
-        "LIS3DH",
-        "AppNearMe",
-        "NFC"
+        "AES",
+        "MD2",
+        "md5",
+        "RC4",
+        "SHA"
     ],
     "name": "RPG",
     "platforms": "*",

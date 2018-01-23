@@ -6,6 +6,9 @@
     "description": "USB device stack with Nucleo F401RE support. NOTE: the default clock config needs to be changed to in order for USB to work.",
     "frameworks": "mbed",
     "keywords": [
+        "DMA",
+        "KL25z",
+        "accelerometer",
         "AQM1602",
         "I2C",
         "Nucleo",
@@ -13,15 +16,9 @@
         "motor",
         "Stepper",
         "unipolar",
-        "DMA",
-        "KL25z",
         "device",
         "USB",
-        "IR",
-        "Receiver",
-        "BLE",
-        "bluetooth",
-        "simpleble"
+        "DHT22"
     ],
     "name": "USBDevice",
     "platforms": "*",

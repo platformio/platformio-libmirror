@@ -6,13 +6,13 @@
     "description": "A library to read data from the Triple Axis Accelerometer Breakout - MMA8452Q from Sparkfun.",
     "frameworks": "mbed",
     "keywords": [
+        "minutes",
+        "seconds",
+        "stopwatch",
+        "timer",
+        "watch",
         "L152",
-        "Nucleo",
-        "Serial",
-        "Terminal",
-        "VT100",
-        "2645",
-        "TMP102"
+        "Nucleo"
     ],
     "name": "AccelSensor",
     "platforms": "*",

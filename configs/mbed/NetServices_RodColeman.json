@@ -6,9 +6,9 @@
     "description": "Netservices modded to read fragmented HTTP respsonse/payload from special purpose server - 180 bytes only",
     "frameworks": "mbed",
     "keywords": [
-        "ethernet",
-        "ip",
-        "mbed"
+        "RF12",
+        "rfm12",
+        "RFM12B"
     ],
     "name": "NetServices",
     "platforms": "*",

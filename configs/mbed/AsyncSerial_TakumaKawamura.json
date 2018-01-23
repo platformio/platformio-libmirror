@@ -5,9 +5,13 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "name": "Takuma Kawamura",
+                "url": "https://os.mbed.com/users/babylonica"
+            },
             "frameworks": "mbed",
             "name": "FIFO",
-            "url": "/users/babylonica/code/FIFO/"
+            "url": "https://os.mbed.com/users/babylonica/code/FIFO/"
         }
     ],
     "description": "Asynchronous (Non-blocking) Serial Communication library with variable length software ring buffer (FIFO). You can use RawSerial Library's primary method.",
@@ -16,19 +20,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit",
-        "fona",
-        "GPRS",
-        "GSM",
-        "sim800l",
-        "sim808",
-        "Akizuki",
-        "Humidity",
-        "I2C",
-        "MEMS",
-        "sensor",
-        "Temperature",
-        "TI",
         "asynchronous",
         "Buffered",
         "FIFO",
@@ -36,17 +27,27 @@
         "ring buffer",
         "Serial",
         "UART",
-        "EthernetInterface",
-        "gainspan",
-        "GS1011",
-        "GS1011M",
-        "Wi-Fi",
-        "wifi"
+        "Akizuki",
+        "Humidity",
+        "I2C",
+        "MEMS",
+        "sensor",
+        "Temperature",
+        "TI",
+        "Adafruit",
+        "fona",
+        "GPRS",
+        "GSM",
+        "sim800l",
+        "sim808"
     ],
     "name": "AsyncSerial",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/babylonica/code/AsyncSerial/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/babylonica/code/AsyncSerial/"
+        }
     }
 }

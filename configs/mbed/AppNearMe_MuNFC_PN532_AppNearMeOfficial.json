@@ -3,7 +3,7 @@
         "name": "AppNearMe Official",
         "url": "https://os.mbed.com/users/AppNearMe/"
     },
-    "description": "AppNearMe \u00b5NFC stack for the NXP PN532 chip",
+    "description": "AppNearMe µNFC stack for the NXP PN532 chip",
     "examples": [
         "https://os.mbed.com/users/tristanjph/code/IOT_sensor_nfc/",
         "https://os.mbed.com/users/AppNearMe/code/AppNearMe_MuNFC_PN532_Test/",
@@ -20,7 +20,11 @@
         "I2C",
         "LIS3DH",
         "AppNearMe",
-        "NFC"
+        "NFC",
+        "External SD",
+        "file system",
+        "SDHC",
+        "SPI"
     ],
     "name": "AppNearMe_MuNFC_PN532",
     "platforms": "*",

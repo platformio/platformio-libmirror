@@ -6,16 +6,8 @@
     "description": "http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/",
     "frameworks": "mbed",
     "keywords": [
-        "cmsis",
-        "rtos",
-        "RTX",
-        "led",
-        "LPD8803",
-        "LPD8806",
-        "LPD8809",
-        "SPI",
-        "OAuth",
-        "twitter"
+        "TeraTerm",
+        "Terminal"
     ],
     "name": "kalman",
     "platforms": "*",

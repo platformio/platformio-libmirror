@@ -6,18 +6,13 @@
     "description": "A library that makes use of the TB6612FNG and tested on the Sparkfun FTB6612NG carrier board.",
     "frameworks": "mbed",
     "keywords": [
+        "files",
+        "filesystem",
+        "Terminal",
         "motor",
         "pwm",
         "sparkfun",
-        "TB6612FNG",
-        "NDEF",
-        "NFC",
-        "PN532",
-        "CAN",
-        "format",
-        "parse",
-        "Queue",
-        "Utilities"
+        "TB6612FNG"
     ],
     "name": "TB6612FNG",
     "platforms": "*",

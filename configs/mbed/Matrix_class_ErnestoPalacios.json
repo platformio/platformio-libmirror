@@ -5,14 +5,21 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "name": "Ernesto Palacios",
+                "url": "https://os.mbed.com/users/Yo_Robot"
+            },
             "frameworks": "mbed",
             "name": "Matrix",
-            "url": "/users/Yo_Robot/code/Matrix/"
+            "url": "https://os.mbed.com/users/Yo_Robot/code/Matrix/"
         }
     ],
     "description": "This is a test Program for the Class Matrix version 1.6.4",
     "frameworks": "mbed",
     "keywords": [
+        "AnalogOut",
+        "dac",
+        "SPI",
         "gyroscope",
         "I2C",
         "l3g4200d",
@@ -25,6 +32,9 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/Yo_Robot/code/Matrix_class/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/Yo_Robot/code/Matrix_class/"
+        }
     }
 }

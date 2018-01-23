@@ -6,15 +6,10 @@
     "description": "=DHT22 Temperature and Humidity Sensor=",
     "frameworks": "mbed",
     "keywords": [
+        "4DGL",
         "Humidity",
         "sensor",
-        "Temperature",
-        "ROS",
-        "OLED",
-        "TextLCD",
-        "WEH000802",
-        "WEH001602",
-        "Winstar"
+        "Temperature"
     ],
     "name": "DHT22",
     "platforms": "*",

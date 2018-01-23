@@ -6,14 +6,12 @@
     "description": "- POSIX embedded realtime operating system.",
     "frameworks": "mbed",
     "keywords": [
+        "driver",
+        "ds1307",
+        "I2C",
+        "RTC",
         "POSIX",
-        "rtos",
-        "pressure",
-        "sensor",
-        "Temperature",
-        "cloud",
-        "firmware",
-        "update"
+        "rtos"
     ],
     "name": "lepton-rtos",
     "platforms": "*",

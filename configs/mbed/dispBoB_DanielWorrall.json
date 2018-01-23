@@ -18,19 +18,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HC05",
         "7",
         "display",
         "driver",
         "led",
         "PCA9635",
-        "segment",
-        "HEJ",
-        "Communication",
-        "Serial",
-        "Terminal",
-        "VT100",
-        "VT200"
+        "segment"
     ],
     "name": "dispBoB",
     "platforms": "*",

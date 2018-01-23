@@ -12,15 +12,7 @@
         "https://os.mbed.com/users/MrMavriks/code/Accelerometer/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "W5200",
-        "WIZ820IO",
-        "MMA8452",
-        "ax12",
-        "dynamixel",
-        "motor",
-        "Servo"
-    ],
+    "keywords": "MMA8452",
     "name": "MMA8452",
     "platforms": "*",
     "repository": {

@@ -5,9 +5,13 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "name": "Erik Olieman",
+                "url": "https://os.mbed.com/users/Sissors"
+            },
             "frameworks": "mbed",
             "name": "BurstSPI",
-            "url": "/users/Sissors/code/BurstSPI/"
+            "url": "https://os.mbed.com/users/Sissors/code/BurstSPI/"
         }
     ],
     "description": "SPI Library for 240x320 TFT LCD with ILI9320, ILI9325 and ILI9328 chip",
@@ -21,25 +25,25 @@
         "TCP",
         "UDP",
         "WiFly",
-        "1-wire",
-        "DS18B20",
-        "one",
-        "One Wire",
-        "OneWire",
         "DHT11",
-        "ILI9320",
-        "LCD",
+        "high",
+        "Speed",
         "SPI",
-        "TFT",
         "compass",
         "LSM303DLH",
         "magnetometer",
-        "sensors"
+        "sensors",
+        "ILI9320",
+        "LCD",
+        "TFT"
     ],
     "name": "SPI_TFT_ILI9320",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/frankvnk/code/SPI_TFT_ILI9320/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/frankvnk/code/SPI_TFT_ILI9320/"
+        }
     }
 }

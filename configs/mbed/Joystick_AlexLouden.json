@@ -6,16 +6,13 @@
     "description": "A class to handle reading, scaling and filtering horizontal and vertical position, and rise/fall interrupts for the button.",
     "frameworks": "mbed",
     "keywords": [
-        "Addressable",
-        "led",
-        "rgb",
-        "sparkfun",
-        "strip",
-        "ws2801",
-        "Beep",
-        "sound",
-        "tone",
-        "joystick"
+        "joystick",
+        "accelerometer",
+        "LIS302",
+        "SPI",
+        "motor",
+        "Stepper",
+        "unipolar"
     ],
     "name": "Joystick",
     "platforms": "*",

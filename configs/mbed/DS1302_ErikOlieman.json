@@ -17,16 +17,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "window",
-        "BME280",
+        "ds1302",
+        "RTC",
         "display",
         "hotboards",
         "SPI",
-        "ds1302",
-        "RTC",
-        "bt",
-        "UART"
+        "DTH11",
+        "DTH22",
+        "RHT03"
     ],
     "name": "DS1302",
     "platforms": "*",

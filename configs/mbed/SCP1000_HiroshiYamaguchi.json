@@ -11,9 +11,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MPU-9250",
+        "L3GD20",
         "scp1000",
-        "touch"
+        "MPU-9250"
     ],
     "name": "SCP1000",
     "platforms": "*",

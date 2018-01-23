@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "John Kemp",
+        "url": "https://os.mbed.com/users/Kemp/"
+    },
+    "description": "A library to interface to the MCP3208 SPI-based ADC from Microchip. This chip provides eight analogue inputs, providing converted 12-bit values via SPI.",
+    "examples": [
+        "https://os.mbed.com/users/ryood/code/Nucleo_MCP3208_Test/",
+        "https://os.mbed.com/users/ryood/code/Nucleo_MCP3208_Ticker_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "SPI"
+    ],
+    "name": "mcp3208",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Kemp/code/mcp3208/"
+    }
+}

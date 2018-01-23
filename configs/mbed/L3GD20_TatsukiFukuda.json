@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Tatsuki Fukuda",
+        "url": "https://os.mbed.com/users/lelect/"
+    },
+    "description": "秋月販売のL3GD20使用8pinDIPジャイロセンサーモジュールのライブラリです。",
+    "frameworks": "mbed",
+    "keywords": [
+        "L3GD20",
+        "scp1000",
+        "MPU-9250"
+    ],
+    "name": "L3GD20",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lelect/code/L3GD20/"
+    }
+}

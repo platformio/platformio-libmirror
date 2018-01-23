@@ -9,6 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "driver",
+        "OLED",
+        "SSD1306",
+        "stm32",
+        "duty cycle",
+        "measurement",
+        "pwm",
+        "timer2",
         "hang",
         "I2C",
         "KL25z",
@@ -18,8 +26,7 @@
         "heartbeat",
         "RIT",
         "I2S",
-        "library",
-        "LPC4330"
+        "library"
     ],
     "name": "HeartBeat",
     "platforms": "*",

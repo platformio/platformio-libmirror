@@ -24,10 +24,11 @@
         "sparkfun",
         "strip",
         "ws2801",
+        "IR",
+        "Receiver",
         "Beep",
         "sound",
-        "tone",
-        "joystick"
+        "tone"
     ],
     "name": "WiConnect",
     "platforms": "*",

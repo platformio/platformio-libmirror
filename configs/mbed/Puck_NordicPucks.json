@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/Bluetooth-Low-Energy"
+            },
             "frameworks": "mbed",
             "name": "BLE_API",
-            "url": "/teams/Bluetooth-Low-Energy/code/BLE_API/"
+            "url": "https://os.mbed.com/teams/Bluetooth-Low-Energy/code/BLE_API/"
         }
     ],
     "description": "A library for easier setup and prototyping of IoT devices (pucks), by collecting everything that is common for all pucks in one place.",
@@ -25,20 +28,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "1-wire",
-        "DALLAS",
-        "DS18B20",
-        "OneWire",
-        "thermometer",
+        "pressure",
+        "scp1000",
+        "sensor",
+        "Temperature",
         "BLE",
         "bluetooth",
         "nRF51822",
+        "motor",
+        "Stepper",
         "SSL",
         "TLS",
         "TLS1.3",
-        "wolfSSL",
-        "motor",
-        "Stepper"
+        "wolfSSL"
     ],
     "name": "Puck",
     "platforms": "*",

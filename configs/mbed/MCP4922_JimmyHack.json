@@ -5,14 +5,33 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "name": "Jimmy Hack",
+                "url": "https://os.mbed.com/users/JimmyTheHack"
+            },
             "frameworks": "mbed",
             "name": "DAC",
-            "url": "/users/JimmyTheHack/code/DAC/"
+            "url": "https://os.mbed.com/users/JimmyTheHack/code/DAC/"
         }
     ],
     "description": "The MCP4922 is a 12 bit DAC. This library should provide easy access to its basic functionality.",
     "frameworks": "mbed",
     "keywords": [
+        "2",
+        "gpu",
+        "mbed",
+        "smart",
+        "SmartGPU2",
+        "technologies",
+        "vizic",
+        "Dynamic",
+        "ethernet",
+        "http",
+        "pages",
+        "server",
+        "static",
+        "Web",
+        "WiFly",
         "dac",
         "MCP4922"
     ],
@@ -20,6 +39,9 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/JimmyTheHack/code/MCP4922/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/JimmyTheHack/code/MCP4922/"
+        }
     }
 }

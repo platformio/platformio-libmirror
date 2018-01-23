@@ -11,6 +11,7 @@
     "keywords": [
         "energy harvesting",
         "mobile robot",
+        "MQTT",
         "arp",
         "broadcast",
         "DHCP",
@@ -25,8 +26,7 @@
         "TCP",
         "tcp/ip",
         "tcpip stack",
-        "UDP",
-        "MQTT"
+        "UDP"
     ],
     "name": "MQTTClient",
     "platforms": "*",

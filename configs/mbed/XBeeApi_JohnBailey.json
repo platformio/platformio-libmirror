@@ -5,9 +5,13 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "name": "John Bailey",
+                "url": "https://os.mbed.com/users/johnb"
+            },
             "frameworks": "mbed",
             "name": "CircularBuffer",
-            "url": "/users/johnb/code/CircularBuffer/"
+            "url": "https://os.mbed.com/users/johnb/code/CircularBuffer/"
         }
     ],
     "description": "API for communicating with XBee devices.",
@@ -25,27 +29,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "3pi",
-        "m3pi",
-        "robot",
-        "barometer",
-        "MPL115A1",
-        "SPI",
-        "Analyzer",
-        "audio",
-        "FFT",
-        "Spectrum",
-        "l3g4200d",
-        "lsm303dlm",
-        "minimu-9",
         "802.15.4",
         "wireless",
-        "xbee"
+        "xbee",
+        "xml",
+        "rpc"
     ],
     "name": "XBeeApi",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/johnb/code/XBeeApi/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/johnb/code/XBeeApi/"
+        }
     }
 }

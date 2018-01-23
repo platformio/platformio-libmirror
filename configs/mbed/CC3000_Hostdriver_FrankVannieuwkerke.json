@@ -5,9 +5,13 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "name": "Frank Vannieuwkerke",
+                "url": "https://os.mbed.com/users/frankvnk"
+            },
             "frameworks": "mbed",
             "name": "NVIC_set_all_priorities",
-            "url": "/users/frankvnk/code/NVIC_set_all_priorities/"
+            "url": "https://os.mbed.com/users/frankvnk/code/NVIC_set_all_priorities/"
         }
     ],
     "description": "Driver for CC3000 Wi-Fi module",
@@ -17,18 +21,42 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "L152",
-        "Nucleo",
+        "file",
+        "ini",
+        "flash",
+        "Serial",
+        "SPI",
+        "fast",
+        "FastPWM",
+        "precision",
+        "pwm",
+        "resolution",
+        "Servo",
+        "Speed",
+        "adc",
+        "Analog",
+        "calculate",
+        "convert",
+        "filter",
+        "Linear",
+        "LM335",
+        "median",
+        "multiplier",
+        "offset",
+        "sensor",
+        "Temperature",
+        "voltage",
         "CC3000",
         "SimpleLink",
-        "Wi-Fi",
-        "file",
-        "ini"
+        "Wi-Fi"
     ],
     "name": "CC3000_Hostdriver",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/frankvnk/code/CC3000_Hostdriver/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/frankvnk/code/CC3000_Hostdriver/"
+        }
     }
 }

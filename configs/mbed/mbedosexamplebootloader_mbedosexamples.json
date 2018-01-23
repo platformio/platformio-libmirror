@@ -6,15 +6,11 @@
     "description": ".",
     "frameworks": "mbed",
     "keywords": [
-        "audio input",
-        "Audio output",
-        "CODEC",
-        "DISCO-F746NG",
-        "DMA",
-        "Mikami",
-        "SAI",
-        "SAI_IO",
-        "WM8994"
+        "MPL3115A2",
+        "sparkfun",
+        "OneWire",
+        "protocols",
+        "sensors"
     ],
     "name": "mbed-os-example-bootloader",
     "platforms": "*",

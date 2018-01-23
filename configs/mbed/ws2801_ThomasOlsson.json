@@ -15,10 +15,11 @@
         "sparkfun",
         "strip",
         "ws2801",
+        "IR",
+        "Receiver",
         "Beep",
         "sound",
-        "tone",
-        "joystick"
+        "tone"
     ],
     "name": "ws2801",
     "platforms": "*",

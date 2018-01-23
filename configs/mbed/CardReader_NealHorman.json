@@ -6,18 +6,12 @@
     "description": "Wiegand card reader driver library",
     "frameworks": "mbed",
     "keywords": [
-        "Nokia 5110",
-        "NOKIA5110",
-        "pcd8544",
-        "sound",
-        "camera",
-        "radioshack",
-        "shield",
-        "VC0706",
-        "DMX",
         "card",
         "reader",
-        "Wiegand"
+        "Wiegand",
+        "Light Sensor Array",
+        "pololu",
+        "QTR"
     ],
     "name": "CardReader",
     "platforms": "*",

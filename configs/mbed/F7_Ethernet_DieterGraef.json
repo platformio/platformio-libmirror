@@ -17,17 +17,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit",
-        "GPS",
-        "NEMA",
+        "ChaNFS",
+        "mass",
+        "storage",
+        "USB",
         "discovery",
         "ethernet",
         "Nucleo",
         "stm32",
-        "STM32F746",
-        "HOPERF",
-        "RF22",
-        "RFM22"
+        "STM32F746"
     ],
     "name": "F7_Ethernet",
     "platforms": "*",

@@ -6,12 +6,13 @@
     "description": "mbed SDK library sources",
     "frameworks": "mbed",
     "keywords": [
-        "DHT22",
-        "SDFileSystem",
-        "STM32F746",
         "development",
         "SDK",
-        "sources"
+        "sources",
+        "GSM",
+        "SMS",
+        "SDFileSystem",
+        "STM32F746"
     ],
     "name": "mbed-src",
     "platforms": "*",

@@ -6,13 +6,18 @@
     "description": "A library for AQM0802A I2C connecting LCD module.",
     "frameworks": "mbed",
     "keywords": [
-        "lps25h",
+        "8x8",
+        "Adafruit",
+        "backpack",
+        "led",
         "Encoder",
         "QEI",
         "qudrature",
         "rotary",
-        "GPS",
-        "parse"
+        "lps25h",
+        "driver",
+        "motor",
+        "ADT7410"
     ],
     "name": "KuAQM0802A",
     "platforms": "*",

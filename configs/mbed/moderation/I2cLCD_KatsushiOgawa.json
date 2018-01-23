@@ -8,13 +8,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AES",
-        "encryption",
-        "HMAC",
-        "RSA",
-        "security",
-        "SHA",
-        "SSL"
+        "email",
+        "SMTP",
+        "hbridge",
+        "motor",
+        "PwmOut"
     ],
     "name": "I2cLCD",
     "platforms": "*",

@@ -6,12 +6,13 @@
     "description": "Class library for a Topway LM6029ACW graphics LCD.",
     "frameworks": "mbed",
     "keywords": [
-        "DHT22",
-        "SDFileSystem",
-        "STM32F746",
         "development",
         "SDK",
-        "sources"
+        "sources",
+        "GSM",
+        "SMS",
+        "SDFileSystem",
+        "STM32F746"
     ],
     "name": "LM6029ACW",
     "platforms": "*",

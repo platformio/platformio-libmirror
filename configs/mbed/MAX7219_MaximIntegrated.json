@@ -18,10 +18,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BLE",
-        "BLE_API",
-        "HID",
-        "HID-over-Gatt"
+        "3-axis",
+        "accelerometer",
+        "axis",
+        "I2C",
+        "mbed",
+        "MMA8452",
+        "Vodafone"
     ],
     "name": "MAX7219",
     "platforms": "*",

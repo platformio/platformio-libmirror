@@ -10,15 +10,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Humidity",
-        "sensor",
-        "Temperature",
         "ROS",
+        "helloworld",
         "OLED",
         "TextLCD",
         "WEH000802",
         "WEH001602",
-        "Winstar"
+        "Winstar",
+        "DS1820",
+        "DS1822",
+        "DS18B20",
+        "DS18S20"
     ],
     "name": "TextOLED",
     "platforms": "*",

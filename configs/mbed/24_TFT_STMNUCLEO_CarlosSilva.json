@@ -6,16 +6,13 @@
     "description": "Code to run the cheap 2.4\" TFT made by mcufriend.com on the STM nucleo. No modifications required, this plugs into the arduino header.",
     "frameworks": "mbed",
     "keywords": [
-        "QEI",
-        "Quadrature encoder interface",
-        "Rotary Encoder",
-        "micropython",
-        "python",
-        "ethernet",
         "2.4",
         "MCUFRIEND.COM",
         "Nucleo",
-        "TFT"
+        "TFT",
+        "4D system",
+        "LCD",
+        "Picaso"
     ],
     "name": "24_TFT_STMNUCLEO",
     "platforms": "*",

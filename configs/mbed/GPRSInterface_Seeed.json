@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/sam_grove"
+            },
             "frameworks": "mbed",
             "name": "BufferedSerial",
-            "url": "/users/sam_grove/code/BufferedSerial/"
+            "url": "https://os.mbed.com/users/sam_grove/code/BufferedSerial/"
         }
     ],
     "description": "a library to use GPRS like ethernet or wifi, which makes it possible to connect to the internet with your GPRS module",
@@ -24,16 +27,16 @@
         "DMX512",
         "ethernet",
         "UDP",
+        "acc",
+        "gyro",
+        "MPU6050",
         "breakout",
         "gainspan",
         "GS1011MIC",
         "GS1011MIP",
         "sparkfun",
         "Wi-Fi",
-        "wifi",
-        "FRDM-KL25Z",
-        "FRDM-KL46Z",
-        "USBHOST"
+        "wifi"
     ],
     "name": "GPRSInterface",
     "platforms": "*",

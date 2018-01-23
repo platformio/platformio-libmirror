@@ -9,12 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "atoh",
-        "convert to hex",
-        "std library",
         "TeraTerm",
-        "Terminal",
-        "MARMEX_OB_oled"
+        "Terminal"
     ],
     "name": "Terminal",
     "platforms": "*",

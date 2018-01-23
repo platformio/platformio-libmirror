@@ -9,20 +9,7 @@
         "https://os.mbed.com/users/zlmun/code/Arch_Test/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "BH1750",
-        "digital light sensor",
-        "gy-30",
-        "MMA8452",
-        "LSM303DLH",
-        "directory",
-        "directory listing",
-        "file",
-        "file name listing",
-        "file system",
-        "folder",
-        "folder listing"
-    ],
+    "keywords": "LSM303DLH",
     "name": "LSM303DLH",
     "platforms": "*",
     "repository": {

@@ -18,19 +18,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "cmsis",
-        "rtos",
-        "RTX",
         "ID12",
         "RFID",
         "Serial",
         "library",
         "MIDI",
         "USB",
-        "USBMIDI",
-        "DS18B20",
-        "one",
-        "Wire"
+        "USBMIDI"
     ],
     "name": "ID12RFID",
     "platforms": "*",

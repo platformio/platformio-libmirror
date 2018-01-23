@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/MultiTech"
+            },
             "frameworks": "mbed",
             "name": "MTS-Cellular",
-            "url": "/teams/MultiTech/code/MTS-Cellular/"
+            "url": "https://os.mbed.com/teams/MultiTech/code/MTS-Cellular/"
         }
     ],
     "description": "Complete library supporting MultiConnect Dragonfly and SocketModem Arduino Shield devices.",
@@ -25,9 +28,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "2015",
-        "Bertl",
-        "Adafruit_GFX",
         "Cellular",
         "Dragonfly",
         "http",
@@ -39,7 +39,17 @@
         "UDP",
         "LCD",
         "Scroll",
-        "TextLCD"
+        "TextLCD",
+        "touch",
+        "decimation-in-frequency",
+        "FFT",
+        "IFFT",
+        "Nucleo",
+        "real data",
+        "UIT",
+        "EEPROM",
+        "flash",
+        "stm32f10x"
     ],
     "name": "mtsas",
     "platforms": "*",

@@ -9,17 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "DISCO_F469NI",
+        "LCD",
         "hang",
         "I2C",
         "KL25z",
-        "lockup",
-        "ARM",
-        "DAY",
-        "heartbeat",
-        "RIT",
-        "I2S",
-        "library",
-        "LPC4330"
+        "lockup"
     ],
     "name": "KL25Z_I2C_busreset",
     "platforms": "*",

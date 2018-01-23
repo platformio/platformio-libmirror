@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/sam_grove"
+            },
             "frameworks": "mbed",
             "name": "Buffer",
-            "url": "/users/sam_grove/code/Buffer/"
+            "url": "https://os.mbed.com/users/sam_grove/code/Buffer/"
         }
     ],
     "description": "Inherit from SoftSerial and use software buffers for TX and RX. This allows the SoftSerial to operate in a IRQ driven mode. Overrides most (but not all) stdio functions as SoftSerial did",
@@ -25,7 +28,9 @@
         "Serial",
         "SoftSerial",
         "software",
-        "JSON"
+        "JSON",
+        "debug",
+        "library"
     ],
     "name": "BufferedSoftSerial",
     "platforms": "*",

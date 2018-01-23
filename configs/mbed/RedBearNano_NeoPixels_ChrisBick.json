@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/Bluetooth-Low-Energy"
+            },
             "frameworks": "mbed",
             "name": "BLE_API",
-            "url": "/teams/Bluetooth-Low-Energy/code/BLE_API/"
+            "url": "https://os.mbed.com/teams/Bluetooth-Low-Energy/code/BLE_API/"
         }
     ],
     "description": "API for driving Adafruit's NeoPixels using RedBear's BLE Nano or BLE nRF51822",
@@ -16,6 +19,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "buffer",
+        "ringbuffer",
+        "Template Buffer",
         "LCD",
         "ST7565",
         "NeoPixel",

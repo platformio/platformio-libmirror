@@ -12,11 +12,12 @@
         "38kHz",
         "IR",
         "remote",
+        "millis",
+        "LCD",
+        "ST7565",
         "buffer",
         "ringbuffer",
-        "Template Buffer",
-        "LCD",
-        "ST7565"
+        "Template Buffer"
     ],
     "name": "st7565LCD",
     "platforms": "*",

@@ -6,14 +6,18 @@
     "description": "This is a library for the Adafruit LED Backpacks.",
     "frameworks": "mbed",
     "keywords": [
-        "DHT22",
-        "RHT03",
         "8x8",
         "Adafruit",
         "backpack",
         "led",
-        "command",
-        "Servo"
+        "Encoder",
+        "QEI",
+        "qudrature",
+        "rotary",
+        "lps25h",
+        "driver",
+        "motor",
+        "ADT7410"
     ],
     "name": "Adafruit_LEDBackpack",
     "platforms": "*",

@@ -18,19 +18,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "audio",
-        "HQ",
-        "I2S",
-        "TLV320",
-        "Beep",
-        "merody",
-        "sound",
         "counter",
         "frequency",
         "LPC1114",
         "LPC1768",
         "stm32f401",
-        "STM32F411"
+        "STM32F411",
+        "Beep",
+        "merody",
+        "sound"
     ],
     "name": "DS3231",
     "platforms": "*",

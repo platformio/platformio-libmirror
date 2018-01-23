@@ -9,6 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "file",
+        "ini",
         "flash",
         "Serial",
         "SPI",
@@ -32,8 +34,6 @@
         "sensor",
         "Temperature",
         "voltage",
-        "HD44780",
-        "TextLCD",
         "CC3000",
         "SimpleLink",
         "Wi-Fi"

@@ -6,8 +6,20 @@
     "description": "MPU-9150 is 9 axis IMU sensor. In details, web",
     "frameworks": "mbed",
     "keywords": [
+        "display",
+        "RenBED",
+        "segment",
+        "Seven",
         "IMU",
-        "sensor"
+        "sensor",
+        "driver",
+        "OLED",
+        "SSD1306",
+        "stm32",
+        "hang",
+        "I2C",
+        "KL25z",
+        "lockup"
     ],
     "name": "MPU9150",
     "platforms": "*",

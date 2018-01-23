@@ -18,8 +18,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "test",
-        "DISCO_F469NI"
+        "DISCO_F469NI",
+        "Pokitto",
+        "IR",
+        "remote",
+        "PCF8575"
     ],
     "name": "BSP_DISCO_F469NI",
     "platforms": "*",

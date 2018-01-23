@@ -12,16 +12,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "client",
-        "ENC28J60",
-        "ethernet",
-        "server",
-        "uIP",
-        "UIPEthernet",
         "driver",
         "ds1307",
         "I2C",
-        "RTC"
+        "RTC",
+        "POSIX",
+        "rtos"
     ],
     "name": "Adafruit_RTCLib",
     "platforms": "*",

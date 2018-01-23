@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "Pedro Enrique Vidal Pe\u00f1as",
+        "name": "Pedro Enrique Vidal Peñas",
         "url": "https://os.mbed.com/users/cr0n0s20/"
     },
     "description": "SERVO PARA QUADCOPTER",
@@ -19,9 +19,9 @@
         "HTTPClient",
         "buffer",
         "ring",
+        "HD44780",
         "quadcopter",
-        "Servo",
-        "HD44780"
+        "Servo"
     ],
     "name": "Servo",
     "platforms": "*",

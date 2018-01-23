@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/Yo_Robot"
+            },
             "frameworks": "mbed",
             "name": "TrackVector2D",
-            "url": "/users/Yo_Robot/code/TrackVector2D/"
+            "url": "https://os.mbed.com/users/Yo_Robot/code/TrackVector2D/"
         }
     ],
     "description": "This Library will contain classes to handle the mathematical operations of kinematics in robots. This will grow in time",
@@ -16,14 +19,23 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "I2C",
+        "led",
+        "SAA1064",
         "Kinematics",
         "lauther",
         "math",
         "matrix",
         "robot",
         "Robotics",
-        "ShiftRegister",
-        "TextLCD"
+        "Display Module",
+        "emwin",
+        "LPC4088DM",
+        "debug",
+        "debugging",
+        "Serial",
+        "term",
+        "Terminal"
     ],
     "name": "Kinematics",
     "platforms": "*",

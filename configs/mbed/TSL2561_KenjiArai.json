@@ -7,17 +7,26 @@
     "examples": [
         "https://os.mbed.com/users/switchscience/code/MusicBoxForFathersDay/",
         "https://os.mbed.com/users/smatthew/code/FTHR_SensorHub/",
-        "https://os.mbed.com/teams/OULOUTECH/code/Affich_Lum_Moist/"
+        "https://os.mbed.com/teams/OULOUTECH/code/Affich_Lum_Moist/",
+        "https://os.mbed.com/users/Pipou/code/Projetv0/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "demo",
-        "HX711",
-        "Nucleo",
         "I2C",
         "Luminosity",
         "Lux",
-        "sensor"
+        "sensor",
+        "cloud",
+        "dashboard",
+        "IOT",
+        "iot platform",
+        "smartphone",
+        "AD",
+        "da",
+        "Nucleo",
+        "SPI",
+        "demo",
+        "HX711"
     ],
     "name": "TSL2561",
     "platforms": "*",

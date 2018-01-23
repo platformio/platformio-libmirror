@@ -5,9 +5,13 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "name": "Michael Ammann",
+                "url": "https://os.mbed.com/users/mazgch"
+            },
             "frameworks": "mbed",
             "name": "SPI_TFT_ILI9341",
-            "url": "/users/mazgch/code/SPI_TFT_ILI9341/"
+            "url": "https://os.mbed.com/users/mazgch/code/SPI_TFT_ILI9341/"
         }
     ],
     "description": "Library for SeeedStudioTFTv2",
@@ -20,14 +24,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "WiFly",
-        "FTP",
-        "server",
-        "arduino",
-        "SDCard",
-        "Seeedstudio",
-        "TFT",
-        "touch",
         "APDS9960",
         "avago",
         "color",
@@ -37,12 +33,24 @@
         "sparkfun",
         "accelerometer",
         "ADXL345",
-        "senor"
+        "senor",
+        "arduino",
+        "SDCard",
+        "Seeedstudio",
+        "TFT",
+        "touch",
+        "http",
+        "IOT",
+        "rest",
+        "xively"
     ],
     "name": "SeeedStudioTFTv2",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/mazgch/code/SeeedStudioTFTv2/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/mazgch/code/SeeedStudioTFTv2/"
+        }
     }
 }

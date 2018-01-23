@@ -5,9 +5,13 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "name": "mbed unsupported",
+                "url": "https://os.mbed.com/users/mbed_unsupported"
+            },
             "frameworks": "mbed",
             "name": "FatFileSystem",
-            "url": "/users/mbed_unsupported/code/FatFileSystem/"
+            "url": "https://os.mbed.com/users/mbed_unsupported/code/FatFileSystem/"
         }
     ],
     "description": "Added FATFileSystem",
@@ -25,10 +29,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "m3pi",
-        "maze",
-        "music",
-        "sensors",
         "1-wire",
         "DS1820",
         "DS18B20",
@@ -44,6 +44,9 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/chris/code/MSCFileSystem/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/chris/code/MSCFileSystem/"
+        }
     }
 }

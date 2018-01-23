@@ -10,11 +10,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "interrupt",
-        "PPM",
-        "pwm",
-        "RC",
-        "Receiver",
         "DMA",
         "rtos",
         "SPI",
@@ -27,7 +22,8 @@
         "Embedded",
         "interactive",
         "menu",
-        "BME280"
+        "bt",
+        "UART"
     ],
     "name": "CommandProcessor",
     "platforms": "*",

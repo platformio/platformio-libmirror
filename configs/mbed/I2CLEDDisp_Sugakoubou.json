@@ -12,7 +12,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AQM1602",
+        "Serial",
+        "Terminal",
+        "VT100",
         "display",
         "I2C",
         "led"

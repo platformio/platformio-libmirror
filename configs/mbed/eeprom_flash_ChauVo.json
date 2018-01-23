@@ -9,11 +9,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "LMiC",
+        "Lora",
+        "LoRaWAN",
+        "CAN",
+        "FRDM-KL25Z",
+        "Seeed Studios",
+        "watchdog timer",
+        "WDT",
+        "display",
         "EEPROM",
         "flash",
-        "stm32",
-        "4D Dydtems",
-        "Visi-Genie"
+        "stm32"
     ],
     "name": "eeprom_flash",
     "platforms": "*",

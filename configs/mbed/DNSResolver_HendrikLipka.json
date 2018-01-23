@@ -18,10 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "alarm",
-        "interrupt",
-        "RTC",
-        "time",
         "ethernet",
         "http",
         "interface",
@@ -31,7 +27,12 @@
         "network",
         "TCP",
         "FreeRTOS",
-        "rtos"
+        "rtos",
+        "28BYJ-48",
+        "4phase",
+        "motor",
+        "Step",
+        "Stepper"
     ],
     "name": "DNSResolver",
     "platforms": "*",

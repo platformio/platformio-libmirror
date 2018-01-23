@@ -13,11 +13,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "lps25h",
-        "Encoder",
-        "QEI",
-        "qudrature",
-        "rotary",
+        "command",
+        "Servo",
+        "DHT22",
+        "RHT03",
         "GPS",
         "parse"
     ],

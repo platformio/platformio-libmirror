@@ -27,7 +27,9 @@
         "Series",
         "Wi-Fi",
         "xbee",
-        "zigbee"
+        "zigbee",
+        "Config",
+        "file"
     ],
     "name": "HCSR04",
     "platforms": "*",

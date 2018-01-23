@@ -1,13 +1,16 @@
 {
     "authors": {
-        "name": "Karl Zweim\u00fcller",
+        "name": "Karl Zweimüller",
         "url": "https://os.mbed.com/users/charly/"
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/AjK"
+            },
             "frameworks": "mbed",
             "name": "PinDetect",
-            "url": "/users/AjK/code/PinDetect/"
+            "url": "https://os.mbed.com/users/AjK/code/PinDetect/"
         }
     ],
     "description": "Class mRotaryEncoder for mechanical incremental rotary encoders with pushbuttons. Use debouncing and callback-functions for rotation and pressing of button.",
@@ -23,13 +26,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "lps25h",
+        "8x8",
+        "Adafruit",
+        "backpack",
+        "led",
         "Encoder",
         "QEI",
         "qudrature",
         "rotary",
-        "GPS",
-        "parse"
+        "lps25h",
+        "driver",
+        "motor",
+        "ADT7410"
     ],
     "name": "mRotaryEncoder",
     "platforms": "*",

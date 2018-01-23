@@ -13,16 +13,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DS1820",
-        "DS1822",
-        "DS18B20",
-        "DS18S20",
         "adc",
         "ads1015",
         "ads1115",
-        "VL6180x",
+        "Melexis",
+        "MLX90614",
         "TSL2560",
-        "TSL2561"
+        "TSL2561",
+        "VL6180x"
     ],
     "name": "VL6180x",
     "platforms": "*",

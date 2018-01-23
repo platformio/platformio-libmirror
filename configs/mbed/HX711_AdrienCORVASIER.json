@@ -3,7 +3,7 @@
         "name": "Adrien CORVASIER",
         "url": "https://os.mbed.com/users/Volt72/"
     },
-    "description": "Librairie pouvant \u00eatre utilis\u00e9e avec le module HX711.",
+    "description": "Librairie pouvant être utilisée avec le module HX711.",
     "examples": [
         "https://os.mbed.com/teams/FRA221_2015/code/11B_DOGFEEDER/",
         "https://os.mbed.com/teams/FRA221_2015/code/10B_Project_strian_guage_final/",
@@ -14,9 +14,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "blinking",
-        "led",
-        "HX711"
+        "HX711",
+        "Altimeter",
+        "MS5607",
+        "pressure",
+        "Temperature"
     ],
     "name": "HX711",
     "platforms": "*",

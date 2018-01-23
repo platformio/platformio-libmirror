@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/sam_grove"
+            },
             "frameworks": "mbed",
             "name": "FP",
-            "url": "/users/sam_grove/code/FP/"
+            "url": "https://os.mbed.com/users/sam_grove/code/FP/"
         }
     ],
     "description": "An API for using MQTT over multiple transports",
@@ -26,11 +29,11 @@
     "frameworks": "mbed",
     "keywords": [
         "uLCD144",
+        "fonts",
+        "TFT",
         "kl46z",
         "LCD",
         "SLCD",
-        "fonts",
-        "TFT",
         "MQTT",
         "MQTTClient"
     ],

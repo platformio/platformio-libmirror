@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "jesus antonio lopez",
+        "url": "https://os.mbed.com/users/jalp89/"
+    },
+    "description": "...",
+    "examples": [
+        "https://os.mbed.com/users/jalp89/code/2doejemplo/",
+        "https://os.mbed.com/users/arnaudsuire/code/Labo_TRSE_Drone/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "MPU6050"
+    ],
+    "name": "mbed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jalp89/code/mbed/"
+    }
+}

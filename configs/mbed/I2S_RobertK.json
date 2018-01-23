@@ -6,6 +6,14 @@
     "description": "This is an I2S library to allow people to take advantage of the I2S peripheral on the LPC1768. Ideally it will be included in future releases of the mbed.h file.",
     "frameworks": "mbed",
     "keywords": [
+        "driver",
+        "OLED",
+        "SSD1306",
+        "stm32",
+        "duty cycle",
+        "measurement",
+        "pwm",
+        "timer2",
         "hang",
         "I2C",
         "KL25z",
@@ -15,8 +23,7 @@
         "heartbeat",
         "RIT",
         "I2S",
-        "library",
-        "LPC4330"
+        "library"
     ],
     "name": "I2S",
     "platforms": "*",

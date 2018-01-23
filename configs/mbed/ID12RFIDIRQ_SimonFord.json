@@ -10,12 +10,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F469NI",
         "hash",
         "md5",
-        "Australia",
-        "Lora",
-        "LoRaWAN"
+        "debug",
+        "log",
+        "logger"
     ],
     "name": "ID12RFIDIRQ",
     "platforms": "*",

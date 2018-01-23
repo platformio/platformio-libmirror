@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/MultiTech"
+            },
             "frameworks": "mbed",
             "name": "CyaSSL",
-            "url": "/teams/MultiTech/code/CyaSSL/"
+            "url": "https://os.mbed.com/teams/MultiTech/code/CyaSSL/"
         }
     ],
     "description": "Library providing HTTP and HTTPS communications.",
@@ -17,17 +20,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "http",
-        "https",
-        "SHT21",
-        "display",
-        "driver",
-        "HEXIWEAR",
-        "OLED",
-        "SSD1351",
+        "cmsis",
+        "function",
+        "Instances",
+        "multiple",
         "rtos",
-        "Serial",
-        "UART"
+        "threads",
+        "1-wire",
+        "DS18B20",
+        "I2C",
+        "software",
+        "SuperTweet",
+        "http",
+        "https"
     ],
     "name": "HTTPClient-SSL",
     "platforms": "*",

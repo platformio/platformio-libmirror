@@ -14,14 +14,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "watchdog",
-        "NDEF",
-        "NFC",
-        "PN532",
+        "files",
+        "filesystem",
+        "Terminal",
         "Adafruit",
         "I2C",
         "PCA9685",
-        "pwm"
+        "pwm",
+        "Cayenne",
+        "MQTT"
     ],
     "name": "MMA8652",
     "platforms": "*",

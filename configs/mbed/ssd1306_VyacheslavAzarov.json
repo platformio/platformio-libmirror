@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Vyacheslav Azarov",
+        "url": "https://os.mbed.com/users/Viacheslav/"
+    },
+    "description": "This is tiny display driver for ssd1306 chip through I2C simulation. May be used you for debugging or other individual purposes.",
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "OLED",
+        "SSD1306",
+        "stm32",
+        "duty cycle",
+        "measurement",
+        "pwm",
+        "timer2",
+        "hang",
+        "I2C",
+        "KL25z",
+        "lockup",
+        "ARM",
+        "DAY",
+        "heartbeat",
+        "RIT",
+        "I2S",
+        "library"
+    ],
+    "name": "ssd1306",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Viacheslav/code/ssd1306/"
+    }
+}

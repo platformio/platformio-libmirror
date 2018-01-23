@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/components"
+            },
             "frameworks": "mbed",
             "name": "MotionSensor",
-            "url": "/teams/components/code/MotionSensor/"
+            "url": "https://os.mbed.com/teams/components/code/MotionSensor/"
         }
     ],
     "description": "Added function to retrieve raw data from sensor",
@@ -23,16 +26,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "CC3000",
-        "SimpleLink",
-        "Wi-Fi",
-        "mbed",
-        "bridge",
-        "I2C",
-        "SC16IS750",
-        "SC16IS752",
-        "SPI",
-        "UART"
+        "MQTT",
+        "BLE",
+        "buttons",
+        "HEXIWEAR",
+        "KW40Z"
     ],
     "name": "MAG3110",
     "platforms": "*",

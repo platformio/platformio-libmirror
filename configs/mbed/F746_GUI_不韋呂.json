@@ -1,13 +1,17 @@
 {
     "authors": {
-        "name": "\u4e0d\u97cb \u5442",
+        "name": "不韋 呂",
         "url": "https://os.mbed.com/users/MikamiUitOpen/"
     },
     "dependencies": [
         {
+            "authors": {
+                "name": "不韋 呂",
+                "url": "https://os.mbed.com/users/MikamiUitOpen"
+            },
             "frameworks": "mbed",
             "name": "Array_Matrix",
-            "url": "/users/MikamiUitOpen/code/Array_Matrix/"
+            "url": "https://os.mbed.com/users/MikamiUitOpen/code/Array_Matrix/"
         }
     ],
     "description": "GUI parts for DISCO-F746NG.",
@@ -25,6 +29,21 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "NeoPixel",
+        "WS2812",
+        "WS2812B",
+        "SPI",
+        "rtos",
+        "Serial",
+        "UART",
+        "TFT",
+        "Touchscreen",
+        "LCD",
+        "SB1602B",
+        "SB1602E",
+        "ST7032",
+        "Text LCD",
+        "TextLCD_SB1602E",
         "BlinkLabel",
         "BUTTON",
         "DISCO-F746",
@@ -34,21 +53,15 @@
         "NumericLabel",
         "ResetButton",
         "SeekBar",
-        "SeekbarGroup",
-        "ethernet",
-        "NetServices",
-        "network",
-        "TCP",
-        "UDP",
-        "Adafruit",
-        "LCD",
-        "ST7735",
-        "TFT"
+        "SeekbarGroup"
     ],
     "name": "F746_GUI",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/MikamiUitOpen/code/F746_GUI/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/MikamiUitOpen/code/F746_GUI/"
+        }
     }
 }

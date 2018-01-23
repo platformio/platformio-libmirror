@@ -18,11 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "28BYJ-48",
-        "4phase",
-        "motor",
-        "Step",
-        "Stepper",
         "arduino",
         "ExpansionBoard",
         "HTS221",
@@ -37,9 +32,10 @@
         "JPEG",
         "LinkSprite",
         "LS-Y201",
+        "4DGL-uLCD-SE",
         "application board",
         "LCD",
-        "4DGL-uLCD-SE"
+        "LPC4088"
     ],
     "name": "4DGL-uLCD-SE",
     "platforms": "*",

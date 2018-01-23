@@ -29,12 +29,12 @@
         "UC1608",
         "UC1701",
         "watchdog",
+        "HCSR04",
+        "ultrasonic",
         "Communication",
         "data",
         "Oscilloscope",
-        "prototype",
-        "HCSR04",
-        "ultrasonic"
+        "prototype"
     ],
     "name": "HC-SR04",
     "platforms": "*",

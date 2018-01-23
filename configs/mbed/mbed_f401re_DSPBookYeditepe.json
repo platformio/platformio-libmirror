@@ -6,8 +6,6 @@
     "description": "mbed library sources with internal temperature sensor for nucleo f401",
     "frameworks": "mbed",
     "keywords": [
-        "debug",
-        "library",
         "f401",
         "internal",
         "mbed",
@@ -23,7 +21,8 @@
         "20X4",
         "40x2",
         "HD4478",
-        "TextLCD"
+        "TextLCD",
+        "api"
     ],
     "name": "mbed_f401re",
     "platforms": "*",

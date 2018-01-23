@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/TVZ-Mechatronics-Team"
+            },
             "frameworks": "mbed",
             "name": "RateLimiter",
-            "url": "/teams/TVZ-Mechatronics-Team/code/RateLimiter/"
+            "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/RateLimiter/"
         }
     ],
     "description": "A class for driving a DC motor using a full-bridge (H-bridge) driver.",
@@ -17,22 +20,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "CPU",
-        "CPU_Usage",
-        "performance",
-        "resources",
-        "time",
-        "usage",
-        "nRF51-DK",
-        "RTC",
         "DC",
         "driver",
         "full-bridge",
         "H-bridge",
         "motor",
-        "accelerometer",
-        "compass",
-        "magnetometer"
+        "csv",
+        "Buffered",
+        "MODSERIAL",
+        "Serial"
     ],
     "name": "HBridgeDCMotor",
     "platforms": "*",

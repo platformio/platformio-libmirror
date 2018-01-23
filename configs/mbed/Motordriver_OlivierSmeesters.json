@@ -16,10 +16,7 @@
         "SMTP",
         "hbridge",
         "motor",
-        "PwmOut",
-        "finder",
-        "range",
-        "ultrasound"
+        "PwmOut"
     ],
     "name": "Motordriver",
     "platforms": "*",

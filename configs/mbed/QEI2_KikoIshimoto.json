@@ -3,23 +3,15 @@
         "name": "Kiko Ishimoto",
         "url": "https://os.mbed.com/users/kikoaac/"
     },
-    "description": "\uff31\uff25\uff29\u305d\u306e\uff12",
+    "description": "ＱＥＩその２",
     "examples": [
         "https://os.mbed.com/teams/2015-robotic-contest-arakawa-A/code/Nucleo_Motor/",
         "https://os.mbed.com/teams/GR-PEACH_producer_meeting/code/Nucleo_Motor/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "CC3000",
-        "SimpleLink",
-        "Wi-Fi",
-        "mbed",
-        "bridge",
-        "I2C",
-        "SC16IS750",
-        "SC16IS752",
-        "SPI",
-        "UART"
+        "L152",
+        "Nucleo"
     ],
     "name": "QEI2",
     "platforms": "*",

@@ -11,9 +11,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "BH1750",
+        "digital light sensor",
+        "gy-30",
         "W5200",
         "WIZ820IO",
-        "MMA8452",
         "ax12",
         "dynamixel",
         "motor",

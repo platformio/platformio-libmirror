@@ -6,6 +6,8 @@
     "description": "Add support new target: ST Nucleo-L152RE",
     "frameworks": "mbed",
     "keywords": [
+        "W5200",
+        "WIZ820IO",
         "cmsis",
         "rtos",
         "RTX",

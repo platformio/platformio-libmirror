@@ -9,19 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "barometer",
-        "I2C",
-        "MEMS",
-        "pressure",
-        "sensor",
-        "STMicro",
         "minutes",
         "seconds",
         "stopwatch",
         "timer",
         "watch",
-        "2645",
-        "TMP102"
+        "L152",
+        "Nucleo"
     ],
     "name": "Stopwatch",
     "platforms": "*",

@@ -6,15 +6,15 @@
     "description": "Extension of original I2CSlave library to support multiple slave addresses and interrupts.",
     "frameworks": "mbed",
     "keywords": [
-        "CAN",
-        "MCP2515",
+        "I2C",
+        "interrupt",
+        "slave",
         "call",
         "Procedure",
         "remote",
         "rpc",
-        "I2C",
-        "interrupt",
-        "slave"
+        "CAN",
+        "MCP2515"
     ],
     "name": "I2CSlaveX",
     "platforms": "*",

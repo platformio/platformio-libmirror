@@ -25,7 +25,11 @@
         "I2C",
         "LIS3DH",
         "AppNearMe",
-        "NFC"
+        "NFC",
+        "External SD",
+        "file system",
+        "SDHC",
+        "SPI"
     ],
     "name": "LIS3DH",
     "platforms": "*",

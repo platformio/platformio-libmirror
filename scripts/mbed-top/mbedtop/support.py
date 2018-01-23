@@ -7,7 +7,8 @@ def pio_required_fields():
     return ['description', 'keywords']
 
 def strip_mbed_url(resource):
-    if isinstance(resource, types.StringTypes):
+    if isinstance(resource, str):
+    # if isinstance(resource, types.StringTypes):
         resource = resource.replace("https://os.mbed.com", "")
     elif type(resource) is list:
         for i, value in enumerate(resource):
@@ -15,7 +16,8 @@ def strip_mbed_url(resource):
     return resource
 
 def make_mbed_url(resource):
-    if isinstance(resource, types.StringTypes):
+    if isinstance(resource, str):
+    # if isinstance(resource, types.StringTypes):
         if resource[0] == '/':
             resource = "https://os.mbed.com"+resource
     elif type(resource) is list:

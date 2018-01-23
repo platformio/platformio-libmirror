@@ -1,14 +1,17 @@
 {
     "authors": {
-        "name": "Wilmer Brice\u00f1o",
+        "name": "Wilmer Briceño",
         "url": "https://os.mbed.com/users/RafaB/"
     },
     "description": "Libreria para manejo de Touchpad",
     "frameworks": "mbed",
     "keywords": [
-        "MPU-9250",
-        "scp1000",
-        "touch"
+        "touch",
+        "async",
+        "LS013B7DH03",
+        "memory lcd",
+        "Sharp",
+        "sharp memory LCD"
     ],
     "name": "TSIServo",
     "platforms": "*",

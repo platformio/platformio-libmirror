@@ -14,8 +14,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "micropython",
-        "python",
         "QEI",
         "Quadrature encoder interface",
         "Rotary Encoder",
@@ -30,7 +28,9 @@
         "SMARTWAV",
         "sound",
         "stereo",
-        "wav"
+        "wav",
+        "USB",
+        "UVC"
     ],
     "name": "SMARTWAV",
     "platforms": "*",

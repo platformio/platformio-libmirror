@@ -10,13 +10,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "DISCO_F469NI",
+        "Pokitto",
         "IR",
         "remote",
-        "3pi;",
-        "bluetooth;",
-        "m3pi;",
-        "robot;",
-        "xbee"
+        "PCF8575"
     ],
     "name": "IRremote",
     "platforms": "*",

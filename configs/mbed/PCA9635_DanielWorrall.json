@@ -16,16 +16,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "int",
-        "interrupt",
-        "NVIC",
-        "priority",
         "bus",
         "driver",
         "Expander",
         "I2C",
         "led",
-        "PCA9635"
+        "PCA9635",
+        "int",
+        "interrupt",
+        "NVIC",
+        "priority"
     ],
     "name": "PCA9635",
     "platforms": "*",

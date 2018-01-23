@@ -14,8 +14,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Cup",
-        "Freescale",
         "6100",
         "6610",
         "mobileLCD",
@@ -23,11 +21,15 @@
         "Olimex",
         "PCF8833",
         "sparkfun",
-        "tcp/ip",
-        "WebSocket",
         "I2C",
         "MCP23017",
-        "wattbob"
+        "wattbob",
+        "tcp/ip",
+        "WebSocket",
+        "m3pi",
+        "maze",
+        "music",
+        "sensors"
     ],
     "name": "mbed-os",
     "platforms": "*",

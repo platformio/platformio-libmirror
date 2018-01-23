@@ -6,14 +6,13 @@
     "description": "Library to communicate with a ST LIS331DLH",
     "frameworks": "mbed",
     "keywords": [
-        "BLE",
-        "I2C",
-        "nordig",
+        "2.4",
+        "MCUFRIEND.COM",
+        "Nucleo",
+        "TFT",
         "4D system",
         "LCD",
-        "Picaso",
-        "Essex",
-        "MQTT"
+        "Picaso"
     ],
     "name": "LIS331_lib",
     "platforms": "*",

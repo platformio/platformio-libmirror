@@ -1,13 +1,16 @@
 {
     "authors": {
-        "name": "\u4e0d\u97cb \u5442",
+        "name": "不韋 呂",
         "url": "https://os.mbed.com/users/MikamiUitOpen/"
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/MikamiUitOpen"
+            },
             "frameworks": "mbed",
             "name": "Array_Matrix",
-            "url": "/users/MikamiUitOpen/code/Array_Matrix/"
+            "url": "https://os.mbed.com/users/MikamiUitOpen/code/Array_Matrix/"
         }
     ],
     "description": "SAI_IO class for using CODEC (MW8994) as analog input and output.",
@@ -25,6 +28,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "CAN",
+        "format",
+        "parse",
+        "Queue",
+        "Utilities",
+        "watchdog",
         "audio input",
         "Audio output",
         "CODEC",

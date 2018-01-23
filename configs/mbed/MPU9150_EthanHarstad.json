@@ -5,9 +5,13 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "name": "Ethan Harstad",
+                "url": "https://os.mbed.com/users/ethanharstad"
+            },
             "frameworks": "mbed",
             "name": "I2CHelper",
-            "url": "/users/ethanharstad/code/I2CHelper/"
+            "url": "https://os.mbed.com/users/ethanharstad/code/I2CHelper/"
         }
     ],
     "description": "A library for the Invensense MPU9150",
@@ -16,23 +20,26 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "modbus rtu",
+        "real time",
+        "rtos",
+        "serial protocol",
+        "eeprom on flash",
+        "flash file system",
         "IMU",
         "MPU9150",
         "Bluetooth module",
         "hc-05",
         "HC05",
-        "audio",
-        "bwf",
-        "file",
-        "wav",
-        "wave",
-        "eeprom on flash",
-        "flash file system"
+        "ROS"
     ],
     "name": "MPU9150",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/ethanharstad/code/MPU9150/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/ethanharstad/code/MPU9150/"
+        }
     }
 }

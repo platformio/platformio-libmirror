@@ -11,14 +11,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "command",
+        "Servo",
         "DHT22",
         "RHT03",
-        "8x8",
-        "Adafruit",
-        "backpack",
-        "led",
-        "command",
-        "Servo"
+        "GPS",
+        "parse"
     ],
     "name": "Nucleo_BLE_BlueNRG",
     "platforms": "*",

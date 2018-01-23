@@ -5,11 +5,17 @@
     },
     "frameworks": "mbed",
     "keywords": [
-        "EEPROM",
-        "flash",
-        "stm32",
         "4D Dydtems",
-        "Visi-Genie"
+        "Visi-Genie",
+        "Host",
+        "hub",
+        "keyboard",
+        "mbed",
+        "Mouse",
+        "MSD",
+        "rtos",
+        "Serial",
+        "USB"
     ],
     "name": "HCSR04",
     "platforms": "*",

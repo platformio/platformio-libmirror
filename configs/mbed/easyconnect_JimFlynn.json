@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/Avnet"
+            },
             "frameworks": "mbed",
             "name": "WNC14A2AInterface",
-            "url": "/teams/Avnet/code/WNC14A2AInterface/"
+            "url": "https://os.mbed.com/teams/Avnet/code/WNC14A2AInterface/"
         }
     ],
     "description": "Added support for WNC M14A2A Cellular LTE Data Module.",

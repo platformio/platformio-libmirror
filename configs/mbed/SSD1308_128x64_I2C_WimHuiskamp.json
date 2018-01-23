@@ -27,7 +27,8 @@
         "24LCxx",
         "EEPROM",
         "Microchip",
-        "Serial"
+        "Serial",
+        "STM32F103C8T6"
     ],
     "name": "SSD1308_128x64_I2C",
     "platforms": "*",

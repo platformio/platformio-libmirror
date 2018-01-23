@@ -9,19 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "QEI ロータリーエンコーダ 角度 angle",
+        "16x4",
+        "LCD",
         "25lcxxx",
         "25xx",
         "EEPROM",
         "flash",
         "memory",
-        "SPI",
-        "16x2",
-        "freetronics",
-        "LCD",
-        "dynamixel",
-        "MX28",
-        "Servo",
-        "GPGGA"
+        "SPI"
     ],
     "name": "25LCxxx_SPI",
     "platforms": "*",

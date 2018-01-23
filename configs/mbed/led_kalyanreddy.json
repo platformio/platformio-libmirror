@@ -9,11 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "clock",
-        "ds1307",
-        "RTC",
-        "accelerometer",
-        "ADXL345"
+        "128x64",
+        "I2C",
+        "OLED",
+        "SSD1306",
+        "mp3",
+        "VS1033",
+        "VS1053"
     ],
     "name": "led",
     "platforms": "*",

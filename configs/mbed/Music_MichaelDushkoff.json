@@ -10,20 +10,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "POSIX",
+        "rtos",
         "buzzer",
         "music",
-        "sound",
-        "debug",
-        "xbee",
-        "xbee library",
-        "XBEE pro",
-        "xbee programming",
-        "xbeeapi",
-        "xbeelibrary",
-        "pressure",
-        "scp1000",
-        "sensor",
-        "Temperature"
+        "sound"
     ],
     "name": "Music",
     "platforms": "*",

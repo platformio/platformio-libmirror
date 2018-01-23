@@ -12,11 +12,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Pokitto",
         "LMiC",
         "Lora",
         "LoRaWAN",
-        "display"
+        "CAN",
+        "FRDM-KL25Z",
+        "Seeed Studios",
+        "watchdog timer",
+        "WDT",
+        "display",
+        "EEPROM",
+        "flash",
+        "stm32"
     ],
     "name": "DigitDisplay",
     "platforms": "*",

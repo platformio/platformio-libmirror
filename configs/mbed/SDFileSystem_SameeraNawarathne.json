@@ -6,8 +6,12 @@
     "description": "SDFileSystem library for FAT compatible",
     "frameworks": "mbed",
     "keywords": [
-        "W5200",
-        "WIZ820IO"
+        "7",
+        "display",
+        "driver",
+        "led",
+        "PCA9635",
+        "segment"
     ],
     "name": "SDFileSystem",
     "platforms": "*",

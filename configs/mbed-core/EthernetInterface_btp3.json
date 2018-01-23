@@ -6,13 +6,16 @@
     "description": "mbed IP library over Ethernet",
     "frameworks": "mbed",
     "keywords": [
+        "development",
+        "SDK",
+        "sources",
         "ethernet",
         "ip",
         "mbed",
-        "GSM",
-        "SMS",
-        "display",
-        "ST7565R"
+        "http",
+        "https",
+        "SSL",
+        "TLS"
     ],
     "name": "EthernetInterface",
     "platforms": "*",

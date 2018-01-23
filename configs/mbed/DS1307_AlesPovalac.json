@@ -10,11 +10,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "SSL",
+        "TLS",
+        "v1.0",
         "clock",
         "ds1307",
         "RTC",
-        "accelerometer",
-        "ADXL345"
+        "em-406",
+        "GPS",
+        "MTK3339",
+        "NMEA",
+        "Serial",
+        "UART"
     ],
     "name": "DS1307",
     "platforms": "*",

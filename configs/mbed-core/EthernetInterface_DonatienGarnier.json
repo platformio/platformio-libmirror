@@ -1,0 +1,40 @@
+{
+    "authors": {
+        "name": "Donatien Garnier",
+        "url": "https://os.mbed.com/users/donatien/"
+    },
+    "dependencies": [
+        {
+            "authors": {
+                "name": "Donatien Garnier",
+                "url": "https://os.mbed.com/users/donatien"
+            },
+            "frameworks": "mbed",
+            "name": "LwIPNetworking",
+            "url": "https://os.mbed.com/users/donatien/code/LwIPNetworking/"
+        }
+    ],
+    "description": "Ethernet Interface Networking Library",
+    "examples": [
+        "https://os.mbed.com/users/donatien/code/CPPSocketsTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "3-axis",
+        "accelerometer",
+        "axis",
+        "I2C",
+        "mbed",
+        "MMA8452",
+        "Vodafone"
+    ],
+    "name": "EthernetInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/donatien/code/EthernetInterface/"
+        }
+    }
+}

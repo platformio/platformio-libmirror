@@ -10,12 +10,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "watchdog timer",
-        "WDT",
         "LMiC",
         "Lora",
-        "LoRaWAN"
+        "LoRaWAN",
+        "CAN",
+        "FRDM-KL25Z",
+        "Seeed Studios",
+        "watchdog timer",
+        "WDT",
+        "display",
+        "EEPROM",
+        "flash",
+        "stm32"
     ],
     "name": "WDT",
     "platforms": "*",

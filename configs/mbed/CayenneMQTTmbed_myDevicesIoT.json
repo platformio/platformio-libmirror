@@ -18,9 +18,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "files",
+        "filesystem",
+        "Terminal",
+        "Adafruit",
         "I2C",
-        "illuminance",
-        "ROHM",
+        "PCA9685",
+        "pwm",
         "Cayenne",
         "MQTT"
     ],

@@ -18,15 +18,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "IEEE",
-        "mbed",
-        "micromouse",
-        "UCLA",
+        "HX711",
         "Altimeter",
         "MS5607",
         "pressure",
-        "Temperature",
-        "RIT"
+        "Temperature"
     ],
     "name": "MS5607",
     "platforms": "*",

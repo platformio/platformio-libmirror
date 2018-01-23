@@ -10,13 +10,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "lps25h",
+        "8x8",
+        "Adafruit",
+        "backpack",
+        "led",
         "Encoder",
         "QEI",
         "qudrature",
         "rotary",
-        "GPS",
-        "parse"
+        "lps25h",
+        "driver",
+        "motor",
+        "ADT7410"
     ],
     "name": "LPS25H",
     "platforms": "*",

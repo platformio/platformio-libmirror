@@ -19,7 +19,9 @@
     "frameworks": "mbed",
     "keywords": [
         "FRDM-K64F",
-        "fxos8700cq"
+        "fxos8700cq",
+        "led",
+        "rgb"
     ],
     "name": "FXOS8700CQ",
     "platforms": "*",

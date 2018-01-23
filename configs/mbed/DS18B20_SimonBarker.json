@@ -6,15 +6,10 @@
     "description": "Library to tell DS18B20 temperature sensor to measure temperatures",
     "frameworks": "mbed",
     "keywords": [
+        "pwm",
+        "PwmOut",
         "DS18B20",
-        "temperature sensor",
-        "clock",
-        "CPU",
-        "Power",
-        "power consumption",
-        "power control",
-        "pressure",
-        "sensor"
+        "temperature sensor"
     ],
     "name": "DS18B20",
     "platforms": "*",

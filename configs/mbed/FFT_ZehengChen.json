@@ -5,22 +5,33 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "name": "Eli Hughes",
+                "url": "https://os.mbed.com/users/emh203"
+            },
             "frameworks": "mbed",
             "name": "CMSIS_DSP_401",
-            "url": "/users/emh203/code/CMSIS_DSP_401/"
+            "url": "https://os.mbed.com/users/emh203/code/CMSIS_DSP_401/"
         }
     ],
     "description": "fft library for mbed",
     "frameworks": "mbed",
     "keywords": [
-        "accelererometer",
-        "ADXL345",
-        "I2C"
+        "Communication",
+        "Serial",
+        "Terminal",
+        "VT100",
+        "VT200",
+        "W5200",
+        "WIZ820IO"
     ],
     "name": "FFT",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/zchen78/code/FFT/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/zchen78/code/FFT/"
+        }
     }
 }

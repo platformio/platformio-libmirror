@@ -5,9 +5,13 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "name": "Guillaume Fricker",
+                "url": "https://os.mbed.com/users/GuiTwo"
+            },
             "frameworks": "mbed",
             "name": "BusEnums",
-            "url": "/users/GuiTwo/code/BusEnums/"
+            "url": "https://os.mbed.com/users/GuiTwo/code/BusEnums/"
         }
     ],
     "description": "KS0108 LCD LIB with I2C I/O expander PCF8574 for Databus",
@@ -16,15 +20,25 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "current",
+        "I2C",
+        "INA219",
+        "Power",
+        "voltage",
         "640x480",
         "driver",
         "graphic",
-        "VGA"
+        "VGA",
+        "DISCO_F429ZI",
+        "gyroscope"
     ],
     "name": "KS0108_PCF8574",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/GuiTwo/code/KS0108_PCF8574/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/GuiTwo/code/KS0108_PCF8574/"
+        }
     }
 }

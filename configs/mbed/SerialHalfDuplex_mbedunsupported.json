@@ -6,13 +6,10 @@
     "description": "Serial Half-Duplex",
     "frameworks": "mbed",
     "keywords": [
-        "modbus rtu",
-        "real time",
-        "rtos",
-        "serial protocol",
         "pwm",
         "PwmOut",
-        "ROS"
+        "DS18B20",
+        "temperature sensor"
     ],
     "name": "SerialHalfDuplex",
     "platforms": "*",

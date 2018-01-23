@@ -13,14 +13,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "PS2",
         "card",
-        "SD",
-        "arp",
-        "icmp",
-        "interrupts",
-        "stack",
-        "tcpip",
-        "UDP"
+        "SD"
     ],
     "name": "SDFileSystem",
     "platforms": "*",

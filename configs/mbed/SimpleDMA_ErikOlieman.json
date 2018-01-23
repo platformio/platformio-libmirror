@@ -18,6 +18,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "DMA",
+        "KL25z",
+        "accelerometer",
         "AQM1602",
         "I2C",
         "Nucleo",
@@ -25,15 +28,9 @@
         "motor",
         "Stepper",
         "unipolar",
-        "DMA",
-        "KL25z",
         "device",
         "USB",
-        "IR",
-        "Receiver",
-        "BLE",
-        "bluetooth",
-        "simpleble"
+        "DHT22"
     ],
     "name": "SimpleDMA",
     "platforms": "*",

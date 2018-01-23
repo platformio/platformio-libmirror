@@ -13,13 +13,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ethernet",
-        "ip",
-        "mbed",
+        "development",
+        "SDK",
+        "sources",
         "GSM",
         "SMS",
-        "display",
-        "ST7565R"
+        "SDFileSystem",
+        "STM32F746"
     ],
     "name": "BNO055",
     "platforms": "*",

@@ -9,10 +9,7 @@
         "CAN",
         "control",
         "port",
-        "slope",
-        "ESP8266",
-        "NodeMCU",
-        "Adafruit_GFX"
+        "slope"
     ],
     "name": "CANPort",
     "platforms": "*",

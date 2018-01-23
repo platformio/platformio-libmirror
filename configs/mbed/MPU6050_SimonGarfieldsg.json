@@ -30,7 +30,8 @@
         "gyroscope",
         "MPU-6050",
         "MPU6050",
-        "MPU60x0"
+        "MPU60x0",
+        "LCD"
     ],
     "name": "MPU6050",
     "platforms": "*",

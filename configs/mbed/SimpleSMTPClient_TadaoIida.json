@@ -3,7 +3,7 @@
         "name": "Tadao Iida",
         "url": "https://os.mbed.com/users/sunifu/"
     },
-    "description": "EthernetIn\uff54erface Library\u3092\u4f7f\u3063\u305fSimple\u306a SMTP ClientLibrary\u3067\u3059\uff0e",
+    "description": "EthernetInｔerface Libraryを使ったSimpleな SMTP ClientLibraryです．",
     "examples": [
         "https://os.mbed.com/users/sunifu/code/SimpleSMTPClient_HelloWorld/",
         "https://os.mbed.com/users/nagarajbatta/code/USBHost-MSD_Sensors_1/",
@@ -20,10 +20,7 @@
         "SMTP",
         "hbridge",
         "motor",
-        "PwmOut",
-        "finder",
-        "range",
-        "ultrasound"
+        "PwmOut"
     ],
     "name": "SimpleSMTPClient",
     "platforms": "*",

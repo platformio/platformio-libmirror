@@ -11,10 +11,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Capactitve touch sensor",
-        "mpr121",
-        "SEN-10250",
-        "sparkfun",
+        "ESP-01",
+        "ESP8266",
         "display",
         "Seeedstudio",
         "TFT",
@@ -27,11 +25,7 @@
         "qp",
         "rtos",
         "state-machine",
-        "uml",
-        "Altimeter",
-        "barometer",
-        "I2C",
-        "ms5611"
+        "uml"
     ],
     "name": "qp",
     "platforms": "*",

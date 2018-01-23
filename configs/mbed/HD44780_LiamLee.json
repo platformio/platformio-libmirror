@@ -14,9 +14,9 @@
         "HTTPClient",
         "buffer",
         "ring",
+        "HD44780",
         "quadcopter",
-        "Servo",
-        "HD44780"
+        "Servo"
     ],
     "name": "HD44780",
     "platforms": "*",

@@ -6,16 +6,16 @@
     "description": "Pressure, Temperature, Altitude Sensor on breakout from sparkfun (I2C)",
     "frameworks": "mbed",
     "keywords": [
+        "EEPROM",
+        "LPC11U24",
         "device",
         "Nucleo",
         "USB",
+        "DHT22",
         "Altitude",
         "bmp085",
         "pressure",
-        "Temperature",
-        "BLE",
-        "bluetooth",
-        "simpleble"
+        "Temperature"
     ],
     "name": "BMP085",
     "platforms": "*",

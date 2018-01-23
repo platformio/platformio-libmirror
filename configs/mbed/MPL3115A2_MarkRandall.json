@@ -6,14 +6,11 @@
     "description": "MPL3115A2 Altitude/Pressure Sensor",
     "frameworks": "mbed",
     "keywords": [
-        "OneWire",
-        "protocols",
-        "sensors",
         "MPL3115A2",
         "sparkfun",
-        "FRDM",
-        "KL25z",
-        "MLK25Z128FRDM"
+        "OneWire",
+        "protocols",
+        "sensors"
     ],
     "name": "MPL3115A2",
     "platforms": "*",

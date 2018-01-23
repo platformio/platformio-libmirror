@@ -17,11 +17,7 @@
         "https://os.mbed.com/teams/Vaso-intelligente/code/prova_vaso/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "I2C",
-        "LCD",
-        "ESP8266"
-    ],
+    "keywords": "ESP8266",
     "name": "ESP8266",
     "platforms": "*",
     "repository": {

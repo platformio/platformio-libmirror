@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "Karl Zweim\u00fcller",
+        "name": "Karl Zweimüller",
         "url": "https://os.mbed.com/users/charly/"
     },
     "description": "Extendes Version of TextLCD which scrolls oversized lines.",
@@ -9,9 +9,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "2015",
-        "Bertl",
-        "Adafruit_GFX",
         "Cellular",
         "Dragonfly",
         "http",
@@ -23,7 +20,17 @@
         "UDP",
         "LCD",
         "Scroll",
-        "TextLCD"
+        "TextLCD",
+        "touch",
+        "decimation-in-frequency",
+        "FFT",
+        "IFFT",
+        "Nucleo",
+        "real data",
+        "UIT",
+        "EEPROM",
+        "flash",
+        "stm32f10x"
     ],
     "name": "TextLCDScroll",
     "platforms": "*",

@@ -10,7 +10,12 @@
         "https://os.mbed.com/users/wye11/code/temp_logging/"
     ],
     "frameworks": "mbed",
-    "keywords": "helloworld",
+    "keywords": [
+        "DS1820",
+        "DS1822",
+        "DS18B20",
+        "DS18S20"
+    ],
     "name": "SDFileSystem",
     "platforms": "*",
     "repository": {

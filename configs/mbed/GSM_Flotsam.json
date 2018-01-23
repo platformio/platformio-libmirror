@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/Flotsam"
+            },
             "frameworks": "mbed",
             "name": "Adafruit_GSM",
-            "url": "/teams/Flotsam/code/Adafruit_GSM/"
+            "url": "https://os.mbed.com/teams/Flotsam/code/Adafruit_GSM/"
         }
     ],
     "description": "GSM library for nucleo L152RE",
@@ -16,13 +19,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "DOG-M",
+        "DOGM",
+        "LCD",
+        "ST7036",
         "demo",
         "HX711",
         "Nucleo",
-        "I2C",
-        "Luminosity",
-        "Lux",
-        "sensor"
+        "cloud",
+        "dashboard",
+        "IOT",
+        "iot platform",
+        "smartphone"
     ],
     "name": "GSM",
     "platforms": "*",

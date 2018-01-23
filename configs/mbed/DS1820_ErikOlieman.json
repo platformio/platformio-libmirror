@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/sam_grove"
+            },
             "frameworks": "mbed",
             "name": "LinkedList",
-            "url": "/users/sam_grove/code/LinkedList/"
+            "url": "https://os.mbed.com/users/sam_grove/code/LinkedList/"
         }
     ],
     "description": "Library for reading temperature from DS1820, DS18B20 and DS1822",

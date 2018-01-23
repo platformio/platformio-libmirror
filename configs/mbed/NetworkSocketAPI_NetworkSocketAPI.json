@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/NetworkSocketAPI"
+            },
             "frameworks": "mbed",
             "name": "DnsQuery",
-            "url": "/teams/NetworkSocketAPI/code/DnsQuery/"
+            "url": "https://os.mbed.com/teams/NetworkSocketAPI/code/DnsQuery/"
         }
     ],
     "description": "Base class for IP Based Networking Libraries",

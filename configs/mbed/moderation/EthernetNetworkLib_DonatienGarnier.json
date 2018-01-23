@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Donatien Garnier",
+        "url": "https://os.mbed.com/users/donatien/"
+    },
+    "dependencies": [
+        {
+            "authors": {
+                "url": "https://os.mbed.com/users/donatien"
+            },
+            "frameworks": "mbed",
+            "name": "NetworkingCoreLib",
+            "url": "https://os.mbed.com/users/donatien/code/NetworkingCoreLib/"
+        }
+    ],
+    "description": "Ethernet Network Library",
+    "examples": [
+        "https://os.mbed.com/users/donatien/code/EthernetHTTPClientTest/"
+    ],
+    "frameworks": "mbed",
+    "name": "EthernetNetworkLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donatien/code/EthernetNetworkLib/"
+    }
+}

@@ -6,10 +6,10 @@
     "description": "LPC1768",
     "frameworks": "mbed",
     "keywords": [
-        "ILI9341",
-        "TFT",
         "led",
-        "led strip"
+        "led strip",
+        "filter",
+        "kalman"
     ],
     "name": "TARGET_LPC1768_N",
     "platforms": "*",

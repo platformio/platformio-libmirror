@@ -24,7 +24,9 @@
         "Serial",
         "SoftSerial",
         "software",
-        "JSON"
+        "JSON",
+        "debug",
+        "library"
     ],
     "name": "picojson",
     "platforms": "*",

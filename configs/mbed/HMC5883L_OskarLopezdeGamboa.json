@@ -15,13 +15,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "USB",
+        "UVC",
+        "Register",
+        "shift",
         "arduino",
         "motor",
         "shield",
         "compass",
-        "HMC5883L",
-        "Register",
-        "shift"
+        "HMC5883L"
     ],
     "name": "HMC5883L",
     "platforms": "*",

@@ -6,10 +6,10 @@
     "description": "Brought over the files from the Freescale site and modified for mbed.",
     "frameworks": "mbed",
     "keywords": [
-        "ILI9341",
-        "TFT",
         "led",
-        "led strip"
+        "led strip",
+        "filter",
+        "kalman"
     ],
     "name": "FRDM_KL46Z_LCD",
     "platforms": "*",

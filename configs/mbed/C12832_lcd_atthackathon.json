@@ -18,13 +18,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "joystick",
+        "DMA",
+        "KL25z",
         "accelerometer",
-        "LIS302",
-        "SPI",
+        "AQM1602",
+        "I2C",
+        "Nucleo",
+        "UIT",
         "motor",
         "Stepper",
-        "unipolar"
+        "unipolar",
+        "device",
+        "USB",
+        "DHT22"
     ],
     "name": "C12832_lcd",
     "platforms": "*",

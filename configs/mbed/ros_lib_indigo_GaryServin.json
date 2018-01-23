@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/sam_grove"
+            },
             "frameworks": "mbed",
             "name": "BufferedSerial",
-            "url": "/users/sam_grove/code/BufferedSerial/"
+            "url": "https://os.mbed.com/users/sam_grove/code/BufferedSerial/"
         }
     ],
     "description": "ROS Serial library for Mbed platforms for ROS Indigo Igloo. Check http://wiki.ros.org/rosserial_mbed/ for more information",
@@ -25,15 +28,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Humidity",
-        "sensor",
-        "Temperature",
         "ROS",
+        "helloworld",
         "OLED",
         "TextLCD",
         "WEH000802",
         "WEH001602",
-        "Winstar"
+        "Winstar",
+        "DS1820",
+        "DS1822",
+        "DS18B20",
+        "DS18S20"
     ],
     "name": "ros_lib_indigo",
     "platforms": "*",

@@ -9,16 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "window",
-        "BME280",
-        "display",
-        "hotboards",
-        "SPI",
-        "ds1302",
-        "RTC",
         "bt",
-        "UART"
+        "UART",
+        "BME280",
+        "LCD",
+        "window"
     ],
     "name": "LSM9DS1",
     "platforms": "*",

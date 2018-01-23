@@ -6,8 +6,20 @@
     "description": "DS1Wire simple Library",
     "frameworks": "mbed",
     "keywords": [
+        "display",
+        "RenBED",
+        "segment",
+        "Seven",
         "IMU",
-        "sensor"
+        "sensor",
+        "driver",
+        "OLED",
+        "SSD1306",
+        "stm32",
+        "hang",
+        "I2C",
+        "KL25z",
+        "lockup"
     ],
     "name": "DS1Wire",
     "platforms": "*",

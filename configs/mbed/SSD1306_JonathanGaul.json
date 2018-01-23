@@ -4,29 +4,18 @@
         "url": "https://os.mbed.com/users/Byrn/"
     },
     "description": "A buffered display driver for the SSD1306 OLED controller. Please note that this is a work-in-progress; only very rudimentary drawing support is provided.",
+    "examples": [
+        "https://os.mbed.com/teams/Green-Team/code/greenhouse_proj/",
+        "https://os.mbed.com/users/Pipou/code/Projetv0/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "disco",
+        "FT5336",
+        "Touch Screen",
+        "HCSR04",
         "OLED",
-        "SSD1306",
-        "9-DOF",
-        "compass",
-        "HMC5883L",
-        "magnetometer",
-        "sparkfun",
-        "MMA7361L",
-        "CAN",
-        "can bus",
-        "CAN Nucleo",
-        "canbus",
-        "CANbus Nucleo",
-        "Controller Area Network",
-        "Nucleo",
-        "TextLCD",
-        "20X4",
-        "ELCD",
-        "LCD",
-        "OEM",
-        "Serial"
+        "SSD1306"
     ],
     "name": "SSD1306",
     "platforms": "*",

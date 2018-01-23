@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/Digi-International-Inc"
+            },
             "frameworks": "mbed",
             "name": "DigiLogger",
-            "url": "/teams/Digi-International-Inc/code/DigiLogger/"
+            "url": "https://os.mbed.com/teams/Digi-International-Inc/code/DigiLogger/"
         }
     ],
     "description": "Library to easily communicate with XBee modules.",
@@ -28,6 +31,9 @@
         "buzzer",
         "music",
         "sound",
+        "cloud",
+        "firmware",
+        "update",
         "debug",
         "xbee",
         "xbee library",
@@ -35,10 +41,11 @@
         "xbee programming",
         "xbeeapi",
         "xbeelibrary",
-        "pressure",
-        "scp1000",
-        "sensor",
-        "Temperature"
+        "1-wire",
+        "DALLAS",
+        "DS18B20",
+        "OneWire",
+        "thermometer"
     ],
     "name": "XBeeLib",
     "platforms": "*",

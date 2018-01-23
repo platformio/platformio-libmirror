@@ -12,9 +12,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "wifi",
-        "WiFi Shield",
-        "WizFi250",
+        "current",
+        "I2C",
+        "INA219",
+        "Power",
+        "voltage",
+        "640x480",
+        "driver",
+        "graphic",
+        "VGA",
         "DISCO_F429ZI",
         "gyroscope"
     ],

@@ -26,11 +26,13 @@
         "ButtonGroup",
         "DISCO-F746",
         "UIT",
+        "HTTPServer",
+        "W7500",
+        "DISCO_F469NI",
+        "LCD",
         "3pi",
         "m3pi",
-        "robot",
-        "HTTPServer",
-        "W7500"
+        "robot"
     ],
     "name": "m3pi_ng",
     "platforms": "*",

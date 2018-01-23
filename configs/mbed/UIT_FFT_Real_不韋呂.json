@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "\u4e0d\u97cb \u5442",
+        "name": "不韋 呂",
         "url": "https://os.mbed.com/users/MikamiUitOpen/"
     },
     "description": "FFT for real data using decimation-in-frequency algorithm.",
@@ -18,17 +18,28 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "SerialHalfDuplex",
-        "Radio",
-        "transceiver",
+        "Cellular",
+        "Dragonfly",
+        "http",
+        "https",
+        "MTSAS",
+        "multitech",
+        "SMS",
+        "TCP",
+        "UDP",
+        "LCD",
+        "Scroll",
+        "TextLCD",
+        "touch",
         "decimation-in-frequency",
         "FFT",
         "IFFT",
         "Nucleo",
         "real data",
         "UIT",
-        "BLE",
-        "MIDI"
+        "EEPROM",
+        "flash",
+        "stm32f10x"
     ],
     "name": "UIT_FFT_Real",
     "platforms": "*",

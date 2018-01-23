@@ -14,14 +14,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "MQTT",
         "BLE",
-        "I2C",
-        "nordig",
-        "4D system",
-        "LCD",
-        "Picaso",
-        "Essex",
-        "MQTT"
+        "buttons",
+        "HEXIWEAR",
+        "KW40Z"
     ],
     "name": "MQTT",
     "platforms": "*",

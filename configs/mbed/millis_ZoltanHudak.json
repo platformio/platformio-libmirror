@@ -13,15 +13,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "NeoPixel",
-        "nRF51822",
-        "RedBear",
-        "WS2812",
-        "CoAP",
-        "IOT",
+        "38kHz",
+        "IR",
+        "remote",
         "millis",
-        "debounce",
-        "interrupt"
+        "LCD",
+        "ST7565",
+        "buffer",
+        "ringbuffer",
+        "Template Buffer"
     ],
     "name": "millis",
     "platforms": "*",

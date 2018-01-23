@@ -6,13 +6,15 @@
     "description": "Simple library for controlling a shift register using only three pins on the mbed. Defaults to controlling an 8 bit shift register.",
     "frameworks": "mbed",
     "keywords": [
+        "USB",
+        "UVC",
+        "Register",
+        "shift",
         "arduino",
         "motor",
         "shield",
         "compass",
-        "HMC5883L",
-        "Register",
-        "shift"
+        "HMC5883L"
     ],
     "name": "ShiftOut",
     "platforms": "*",

@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/sam_grove"
+            },
             "frameworks": "mbed",
             "name": "BufferedSerial",
-            "url": "/users/sam_grove/code/BufferedSerial/"
+            "url": "https://os.mbed.com/users/sam_grove/code/BufferedSerial/"
         }
     ],
     "description": "ROS Serial library for Mbed platforms for ROS Kinetic Kame. Check http://wiki.ros.org/rosserial_mbed/ for more information.",
@@ -26,8 +29,13 @@
         "real time",
         "rtos",
         "serial protocol",
-        "pwm",
-        "PwmOut",
+        "eeprom on flash",
+        "flash file system",
+        "IMU",
+        "MPU9150",
+        "Bluetooth module",
+        "hc-05",
+        "HC05",
         "ROS"
     ],
     "name": "ros_lib_kinetic",

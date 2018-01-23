@@ -9,9 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "blinking",
-        "led",
-        "HX711"
+        "HX711",
+        "Altimeter",
+        "MS5607",
+        "pressure",
+        "Temperature"
     ],
     "name": "WiflyInterface",
     "platforms": "*",

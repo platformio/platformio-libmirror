@@ -12,14 +12,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "heading",
-        "HMC5843",
-        "magnetic",
-        "sensor",
-        "count",
-        "external clock",
-        "MHz",
-        "pulse"
+        "clock",
+        "CPU",
+        "Power",
+        "power consumption",
+        "power control",
+        "pressure",
+        "sensor"
     ],
     "name": "USBDEVICE",
     "platforms": "*",

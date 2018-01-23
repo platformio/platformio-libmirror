@@ -19,7 +19,17 @@
     "frameworks": "mbed",
     "keywords": [
         "W5200",
-        "WIZ820IO"
+        "WIZ820IO",
+        "cmsis",
+        "rtos",
+        "RTX",
+        "led",
+        "LPD8803",
+        "LPD8806",
+        "LPD8809",
+        "SPI",
+        "OAuth",
+        "twitter"
     ],
     "name": "MTS-Serial",
     "platforms": "*",

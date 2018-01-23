@@ -15,7 +15,8 @@
         "24LCxx",
         "EEPROM",
         "Microchip",
-        "Serial"
+        "Serial",
+        "STM32F103C8T6"
     ],
     "name": "24LCxx_I2C",
     "platforms": "*",

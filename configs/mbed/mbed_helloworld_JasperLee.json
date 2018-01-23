@@ -8,7 +8,19 @@
         "https://os.mbed.com/users/Jasper_lee/code/twr_helloworld/"
     ],
     "frameworks": "mbed",
-    "keywords": "helloworld",
+    "keywords": [
+        "ROS",
+        "helloworld",
+        "OLED",
+        "TextLCD",
+        "WEH000802",
+        "WEH001602",
+        "Winstar",
+        "DS1820",
+        "DS1822",
+        "DS18B20",
+        "DS18S20"
+    ],
     "name": "mbed_helloworld",
     "platforms": "*",
     "repository": {

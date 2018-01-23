@@ -11,13 +11,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "L152",
-        "Nucleo",
         "Serial",
         "Terminal",
         "VT100",
-        "2645",
-        "TMP102"
+        "display",
+        "I2C",
+        "led"
     ],
     "name": "TermControl",
     "platforms": "*",

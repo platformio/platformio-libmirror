@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/ST"
+            },
             "frameworks": "mbed",
             "name": "X_NUCLEO_COMMON",
-            "url": "/teams/ST/code/X_NUCLEO_COMMON/"
+            "url": "https://os.mbed.com/teams/ST/code/X_NUCLEO_COMMON/"
         }
     ],
     "description": "Firmware Library for X-NUCLEO-IKS01A1 (MEMS Inertial & Environmental Sensors) Expansion Board",
@@ -25,11 +28,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "28BYJ-48",
-        "4phase",
-        "motor",
-        "Step",
-        "Stepper",
         "arduino",
         "ExpansionBoard",
         "HTS221",
@@ -44,9 +42,10 @@
         "JPEG",
         "LinkSprite",
         "LS-Y201",
+        "4DGL-uLCD-SE",
         "application board",
         "LCD",
-        "4DGL-uLCD-SE"
+        "LPC4088"
     ],
     "name": "X_NUCLEO_IKS01A1",
     "platforms": "*",

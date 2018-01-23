@@ -12,7 +12,10 @@
         "interrupt",
         "keypad",
         "polling",
-        "StrLib"
+        "file",
+        "flash",
+        "FlashFileSystem",
+        "System"
     ],
     "name": "keypad",
     "platforms": "*",

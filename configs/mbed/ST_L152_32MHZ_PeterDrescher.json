@@ -6,13 +6,13 @@
     "description": "Lib to change the clock speed of the ST Nucleo L152RE board to 32 MHz.",
     "frameworks": "mbed",
     "keywords": [
+        "minutes",
+        "seconds",
+        "stopwatch",
+        "timer",
+        "watch",
         "L152",
-        "Nucleo",
-        "Serial",
-        "Terminal",
-        "VT100",
-        "2645",
-        "TMP102"
+        "Nucleo"
     ],
     "name": "ST_L152_32MHZ",
     "platforms": "*",

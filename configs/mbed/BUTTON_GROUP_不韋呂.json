@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "\u4e0d\u97cb \u5442",
+        "name": "不韋 呂",
         "url": "https://os.mbed.com/users/MikamiUitOpen/"
     },
     "description": "Class library: Button class and ButtonGroup class for DISCO-F746NG.",
@@ -26,8 +26,13 @@
         "ButtonGroup",
         "DISCO-F746",
         "UIT",
-        "device",
-        "USB"
+        "HTTPServer",
+        "W7500",
+        "DISCO_F469NI",
+        "LCD",
+        "3pi",
+        "m3pi",
+        "robot"
     ],
     "name": "BUTTON_GROUP",
     "platforms": "*",

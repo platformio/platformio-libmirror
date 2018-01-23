@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/components"
+            },
             "frameworks": "mbed",
             "name": "SPI_TFT_ILI9341",
-            "url": "/teams/components/code/SPI_TFT_ILI9341/"
+            "url": "https://os.mbed.com/teams/components/code/SPI_TFT_ILI9341/"
         }
     ],
     "description": "Library for SeeedStudioTFTv2 2.8 Zoll 240x360 pixel touch SD card",

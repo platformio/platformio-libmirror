@@ -21,9 +21,9 @@
         "HTTPClient",
         "buffer",
         "ring",
+        "HD44780",
         "quadcopter",
-        "Servo",
-        "HD44780"
+        "Servo"
     ],
     "name": "Adafruit-PWM-Servo-Driver",
     "platforms": "*",

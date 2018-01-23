@@ -12,9 +12,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "cmsis",
-        "rtos",
-        "RTX"
+        "shell",
+        "VT100"
     ],
     "name": "LSM6DS3",
     "platforms": "*",

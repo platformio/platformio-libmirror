@@ -5,9 +5,13 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "name": "Simon Ford",
+                "url": "https://os.mbed.com/users/simon"
+            },
             "frameworks": "mbed",
             "name": "NokiaLCD",
-            "url": "/users/simon/code/NokiaLCD/"
+            "url": "https://os.mbed.com/users/simon/code/NokiaLCD/"
         }
     ],
     "description": "MARMEX_OB_oled with Japanese font",
@@ -19,14 +23,15 @@
         "atoh",
         "convert to hex",
         "std library",
-        "TeraTerm",
-        "Terminal",
         "MARMEX_OB_oled"
     ],
     "name": "MARMEX_OB_oled_J",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/diasea/code/MARMEX_OB_oled_J/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/diasea/code/MARMEX_OB_oled_J/"
+        }
     }
 }

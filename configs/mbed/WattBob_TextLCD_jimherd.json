@@ -18,11 +18,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "DISCO_F746NG",
+        "LCD",
         "Serial",
         "SoftwareSerial",
         "UART",
-        "DISCO_F746NG",
-        "LCD",
         "any",
         "no",
         "Pin",
@@ -36,12 +36,7 @@
         "SD",
         "System",
         "I2C",
-        "wattbob",
-        "ethernet",
-        "power consumption",
-        "power control",
-        "power management",
-        "PowerControl"
+        "wattbob"
     ],
     "name": "WattBob_TextLCD",
     "platforms": "*",

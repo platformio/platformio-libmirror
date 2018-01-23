@@ -5,9 +5,12 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "url": "https://os.mbed.com/users/sam_grove"
+            },
             "frameworks": "mbed",
             "name": "BufferedSerial",
-            "url": "/users/sam_grove/code/BufferedSerial/"
+            "url": "https://os.mbed.com/users/sam_grove/code/BufferedSerial/"
         }
     ],
     "description": "ESP8266 driver using the NodeMCU interface",
@@ -21,13 +24,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "CAN",
-        "control",
-        "port",
-        "slope",
         "ESP8266",
         "NodeMCU",
-        "Adafruit_GFX"
+        "https",
+        "HTTPSClient",
+        "security",
+        "SSL",
+        "TLS"
     ],
     "name": "ESP8266NodeMCUInterface",
     "platforms": "*",

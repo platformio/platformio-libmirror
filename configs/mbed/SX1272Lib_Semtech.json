@@ -17,11 +17,7 @@
         "https://os.mbed.com/users/franc_unina/code/SX1272PingPong/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "GPS",
-        "parse",
-        "ADT7410"
-    ],
+    "keywords": "ADT7410",
     "name": "SX1272Lib",
     "platforms": "*",
     "repository": {

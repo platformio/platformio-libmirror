@@ -13,16 +13,9 @@
     "frameworks": "mbed",
     "keywords": [
         "4DGL",
-        "fatfilesystem",
-        "LocalFileSystem",
-        "USBMSD",
-        "channel",
-        "MIDI",
-        "Note",
-        "pitch",
-        "Serial",
-        "UART",
-        "velocity"
+        "Humidity",
+        "sensor",
+        "Temperature"
     ],
     "name": "4DGL",
     "platforms": "*",

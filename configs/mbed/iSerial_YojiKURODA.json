@@ -5,9 +5,13 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "name": "Yoji KURODA",
+                "url": "https://os.mbed.com/users/ykuroda"
+            },
             "frameworks": "mbed",
             "name": "RingBuffer",
-            "url": "/users/ykuroda/code/RingBuffer/"
+            "url": "https://os.mbed.com/users/ykuroda/code/RingBuffer/"
         }
     ],
     "description": "Better Serial C++ class library with interrupt",
@@ -28,6 +32,9 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/ykuroda/code/iSerial/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/ykuroda/code/iSerial/"
+        }
     }
 }

@@ -6,16 +6,16 @@
     "description": "Containes code for programming KL25 MCU built on ARM Cortex-M0+",
     "frameworks": "mbed",
     "keywords": [
+        "EEPROM",
+        "LPC11U24",
         "device",
         "Nucleo",
         "USB",
+        "DHT22",
         "Altitude",
         "bmp085",
         "pressure",
-        "Temperature",
-        "BLE",
-        "bluetooth",
-        "simpleble"
+        "Temperature"
     ],
     "name": "FRDM-KL25Z",
     "platforms": "*",

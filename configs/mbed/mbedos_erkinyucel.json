@@ -8,13 +8,17 @@
     "keywords": [
         "L3GD20",
         "minimu-9 v2",
-        "card",
-        "ChaNFS",
-        "SD",
         "control",
         "RC",
         "remote",
-        "Servo"
+        "Servo",
+        "card",
+        "ChaNFS",
+        "SD",
+        "EthernetNetIf",
+        "W5500",
+        "WIZ550IO",
+        "Wiznet"
     ],
     "name": "mbed-os",
     "platforms": "*",

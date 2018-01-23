@@ -5,9 +5,13 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "name": "Nikolas Goldin",
+                "url": "https://os.mbed.com/users/ngoldin"
+            },
             "frameworks": "mbed",
             "name": "btbee",
-            "url": "/users/ngoldin/code/btbee/"
+            "url": "https://os.mbed.com/users/ngoldin/code/btbee/"
         }
     ],
     "description": "Library for the m3pi robot. This works with a Pololu 3pi robot with the Serial Slave firmware, and exposes and API.",
@@ -31,21 +35,21 @@
         "barometer",
         "MPL115A1",
         "SPI",
-        "Analyzer",
-        "audio",
-        "FFT",
-        "Spectrum",
         "l3g4200d",
         "lsm303dlm",
         "minimu-9",
-        "802.15.4",
-        "wireless",
-        "xbee"
+        "Analyzer",
+        "audio",
+        "FFT",
+        "Spectrum"
     ],
     "name": "m3pi_ng",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/ngoldin/code/m3pi_ng/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/ngoldin/code/m3pi_ng/"
+        }
     }
 }

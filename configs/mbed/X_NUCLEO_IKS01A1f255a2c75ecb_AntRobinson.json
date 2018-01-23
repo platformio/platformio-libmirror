@@ -5,9 +5,13 @@
     },
     "dependencies": [
         {
+            "authors": {
+                "name": "shigeru tanaka",
+                "url": "https://os.mbed.com/users/ST"
+            },
             "frameworks": "mbed",
             "name": "X_NUCLEO_COMMON",
-            "url": "/teams/ST/code/X_NUCLEO_COMMON/"
+            "url": "https://os.mbed.com/teams/ST/code/X_NUCLEO_COMMON/"
         }
     ],
     "description": "Board lib",
@@ -16,22 +20,21 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "4DGL",
-        "fatfilesystem",
-        "LocalFileSystem",
-        "USBMSD",
-        "channel",
-        "MIDI",
-        "Note",
-        "pitch",
-        "Serial",
-        "UART",
-        "velocity"
+        "DC",
+        "motor",
+        "pwm",
+        "api",
+        "network",
+        "NSAPI",
+        "socket"
     ],
     "name": "X_NUCLEO_IKS01A1-f255a2c75ecb",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/antseggs/code/X_NUCLEO_IKS01A1-f255a2c75ecb/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/antseggs/code/X_NUCLEO_IKS01A1-f255a2c75ecb/"
+        }
     }
 }

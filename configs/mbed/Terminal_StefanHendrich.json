@@ -6,19 +6,13 @@
     "description": "modified Library from sford for use with TeraTerm / VT100 emulation without sending any signs after a \\\"locate\\\" command.",
     "frameworks": "mbed",
     "keywords": [
-        "HC05",
-        "7",
-        "display",
-        "driver",
-        "led",
-        "PCA9635",
-        "segment",
-        "HEJ",
         "Communication",
         "Serial",
         "Terminal",
         "VT100",
-        "VT200"
+        "VT200",
+        "W5200",
+        "WIZ820IO"
     ],
     "name": "Terminal",
     "platforms": "*",

@@ -3,9 +3,14 @@
         "name": "Norimasa Okamoto",
         "url": "https://os.mbed.com/users/va009039/"
     },
-    "description": "WIZ820io\uff08W5200) network interface\u3001EthernetNetIf compatible.",
+    "description": "WIZ820io（W5200) network interface、EthernetNetIf compatible.",
     "frameworks": "mbed",
     "keywords": [
+        "Communication",
+        "Serial",
+        "Terminal",
+        "VT100",
+        "VT200",
         "W5200",
         "WIZ820IO"
     ],

@@ -16,10 +16,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ILI9341",
-        "TFT",
         "led",
-        "led strip"
+        "led strip",
+        "filter",
+        "kalman"
     ],
     "name": "PololuLedStrip",
     "platforms": "*",

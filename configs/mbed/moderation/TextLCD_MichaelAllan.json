@@ -10,13 +10,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "mbed",
-        "bridge",
-        "I2C",
-        "SC16IS750",
-        "SC16IS752",
-        "SPI",
-        "UART"
+        "MQTT",
+        "BLE",
+        "buttons",
+        "HEXIWEAR",
+        "KW40Z"
     ],
     "name": "TextLCD",
     "platforms": "*",

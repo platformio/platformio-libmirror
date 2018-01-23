@@ -6,9 +6,11 @@
     "frameworks": "mbed",
     "keywords": [
         "fatfilesystem",
+        "BME280",
         "I2C",
         "LCD",
-        "BME280",
+        "GPIO",
+        "Speed",
         "calibration",
         "clock",
         "real",

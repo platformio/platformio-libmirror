@@ -10,13 +10,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "development",
+        "SDK",
+        "sources",
         "ethernet",
         "ip",
         "mbed",
-        "GSM",
-        "SMS",
-        "display",
-        "ST7565R"
+        "http",
+        "https",
+        "SSL",
+        "TLS"
     ],
     "name": "mbedtls",
     "platforms": "*",

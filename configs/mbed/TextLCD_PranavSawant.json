@@ -9,16 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "cmsis",
-        "rtos",
-        "RTX",
-        "led",
-        "LPD8803",
-        "LPD8806",
-        "LPD8809",
-        "SPI",
-        "OAuth",
-        "twitter"
+        "TeraTerm",
+        "Terminal"
     ],
     "name": "TextLCD",
     "platforms": "*",

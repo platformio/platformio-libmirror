@@ -9,12 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F469NI",
         "hash",
         "md5",
-        "Australia",
-        "Lora",
-        "LoRaWAN"
+        "debug",
+        "log",
+        "logger"
     ],
     "name": "MD5",
     "platforms": "*",

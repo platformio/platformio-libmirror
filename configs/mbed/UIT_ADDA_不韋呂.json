@@ -1,9 +1,9 @@
 {
     "authors": {
-        "name": "\u4e0d\u97cb \u5442",
+        "name": "不韋 呂",
         "url": "https://os.mbed.com/users/MikamiUitOpen/"
     },
-    "description": "Class library for internal ADC and DAC connected by SPI. ADC is triggered by TIM2. This library support clock generator using TIM3 for switched-capacitor filter to smooth output signal of DAC. This library includes derivative class to support interrupt occured in end of AD conversion. Slave select of SPI for DAC is generated using TIM4. Validated for ST Nucleo F401RE, F411RE.\u3000New version.",
+    "description": "Class library for internal ADC and DAC connected by SPI. ADC is triggered by TIM2. This library support clock generator using TIM3 for switched-capacitor filter to smooth output signal of DAC. This library includes derivative class to support interrupt occured in end of AD conversion. Slave select of SPI for DAC is generated using TIM4. Validated for ST Nucleo F401RE, F411RE. New version.",
     "examples": [
         "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_MovingAverage/",
         "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_AllpassReverb/",
@@ -18,6 +18,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "I2C",
+        "Luminosity",
+        "Lux",
+        "sensor",
+        "cloud",
+        "dashboard",
+        "IOT",
+        "iot platform",
+        "smartphone",
         "AD",
         "da",
         "Nucleo",

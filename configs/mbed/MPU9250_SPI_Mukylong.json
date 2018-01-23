@@ -17,8 +17,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "debug",
-        "library",
         "f401",
         "internal",
         "mbed",
@@ -34,7 +32,8 @@
         "20X4",
         "40x2",
         "HD4478",
-        "TextLCD"
+        "TextLCD",
+        "api"
     ],
     "name": "MPU9250_SPI",
     "platforms": "*",
