@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "Rotary encoder library.",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/RotaryEncoder_TestProgram/",
+        "https://os.mbed.com/users/smultron1977/code/ST7735_Pong/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "rotary",
+        "Composite",
+        "USB",
+        "USBKeyboard",
+        "usbserial",
+        "DS1820",
+        "DS1822",
+        "DS18B20",
+        "DS18S20",
+        "4",
+        "buttons",
+        "convert",
+        "Slider",
+        "to",
+        "touch"
+    ],
+    "name": "RotaryEncoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/RotaryEncoder/"
+    }
+}

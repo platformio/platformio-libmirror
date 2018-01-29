@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Ad van der Weiden",
+        "url": "https://os.mbed.com/users/networker/"
+    },
+    "examples": [
+        "https://os.mbed.com/users/kenbumono/code/mbed_TANK_Kinect/",
+        "https://os.mbed.com/users/networker/code/ftusbClass/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "v3",
+        "ChaNFS",
+        "mass",
+        "storage",
+        "USB",
+        "discovery",
+        "ethernet",
+        "Nucleo",
+        "stm32",
+        "STM32F746"
+    ],
+    "name": "rfcomm",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/networker/code/rfcomm/"
+    }
+}

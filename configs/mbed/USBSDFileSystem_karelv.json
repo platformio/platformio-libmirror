@@ -9,6 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "display",
+        "ST7565R",
         "Nordic",
         "nRF24L01P",
         "rf",
@@ -18,9 +20,7 @@
         "USB",
         "graphic",
         "TFT",
-        "touch",
-        "led",
-        "rgb"
+        "touch"
     ],
     "name": "USBSDFileSystem",
     "platforms": "*",

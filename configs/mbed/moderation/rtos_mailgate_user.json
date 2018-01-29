@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Stanislav Silnitskiy",
+        "url": "https://os.mbed.com/users/mailgate_user/"
+    },
+    "frameworks": "mbed",
+    "keywords": [
+        "gauge",
+        "rain",
+        "Speed",
+        "vane",
+        "wind"
+    ],
+    "name": "rtos",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mailgate_user/code/rtos/"
+    }
+}

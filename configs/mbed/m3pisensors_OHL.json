@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "HL OH",
+        "url": "https://os.mbed.com/users/OHL/"
+    },
+    "description": "Added individual sensors reading to the original m3pi lib from Chris Style.",
+    "frameworks": "mbed",
+    "keywords": [
+        "3pi",
+        "m3pi",
+        "robot",
+        "sensors",
+        "DC Motor controller",
+        "h bridge",
+        "motor driver"
+    ],
+    "name": "m3pi-sensors",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/OHL/code/m3pi-sensors/"
+    }
+}

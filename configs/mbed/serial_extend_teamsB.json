@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Bチーム",
+        "url": "https://os.mbed.com/teams/B/"
+    },
+    "description": "serial_extend library for array data transmission and reception",
+    "examples": [
+        "https://os.mbed.com/teams/B/code/receives_robot_wheel/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AHRS",
+        "minimu-9",
+        "polulu",
+        "micropython",
+        "python",
+        "mbed",
+        "Serial",
+        "UART",
+        "autoconf",
+        "bonjour",
+        "DHCP",
+        "ethernet",
+        "HTTP server",
+        "HTTPServer",
+        "mdns",
+        "MiMic",
+        "Networking Libraries",
+        "SSDP",
+        "UPnP",
+        "webserver"
+    ],
+    "name": "serial_extend",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/B/code/serial_extend/"
+    }
+}

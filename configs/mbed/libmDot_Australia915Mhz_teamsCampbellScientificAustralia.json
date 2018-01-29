@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Campbell Scientific Australia",
+        "url": "https://os.mbed.com/teams/Campbell-Scientific-Australia/"
+    },
+    "description": "This is an Australian 915Mhz edition of 1.0.8v libDot.",
+    "examples": [
+        "https://os.mbed.com/users/1994timmeh/code/LoraGPSLogger/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "hash",
+        "md5",
+        "Linked",
+        "Linked List",
+        "List",
+        "Australia",
+        "Lora",
+        "LoRaWAN",
+        "DC",
+        "driver",
+        "full-bridge",
+        "H-bridge",
+        "motor",
+        "debug",
+        "log",
+        "logger"
+    ],
+    "name": "libmDot_Australia915Mhz",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Campbell-Scientific-Australia/code/libmDot_Australia915Mhz/"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Ale C.-",
+        "url": "https://os.mbed.com/users/Suky/"
+    },
+    "description": "Menus LCD TFT",
+    "examples": [
+        "https://os.mbed.com/users/Suky/code/Example_Menu_LCD_TFT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "Menus",
+        "TFT",
+        "Card reader",
+        "LPC1768",
+        "SPI TFT",
+        "SPI Touch",
+        "BUTTON",
+        "ButtonGroup",
+        "DISCO-F746",
+        "UIT"
+    ],
+    "name": "MenusLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Suky/code/MenusLCD/"
+    }
+}

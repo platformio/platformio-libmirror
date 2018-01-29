@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Owen Edwards",
+        "url": "https://os.mbed.com/users/Owen/"
+    },
+    "description": "ADXL345 triple axis, digital accelerometer library.",
+    "examples": [
+        "https://os.mbed.com/users/gsulc/code/AntiTheftGPS/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FreeIMU",
+        "IMU",
+        "MPU6050",
+        "EFM32",
+        "Gecko",
+        "SegmentLCD",
+        "SiLabs",
+        "Silicon Labs",
+        "silicon_labs",
+        "buzzer",
+        "music",
+        "RTTTL",
+        "sound",
+        "accelerometer",
+        "ADXL345",
+        "interrupt",
+        "PPM",
+        "pwm",
+        "RC",
+        "Receiver"
+    ],
+    "name": "ADXL345",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Owen/code/ADXL345/"
+    }
+}

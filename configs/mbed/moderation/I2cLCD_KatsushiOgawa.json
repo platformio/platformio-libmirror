@@ -8,11 +8,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "email",
-        "SMTP",
-        "hbridge",
-        "motor",
-        "PwmOut"
+        "Capactitve touch sensor",
+        "mpr121",
+        "SEN-10250",
+        "sparkfun",
+        "finder",
+        "range",
+        "ultrasound"
     ],
     "name": "I2cLCD",
     "platforms": "*",

@@ -13,12 +13,8 @@
         "sparkfun",
         "Wi-Fi",
         "wifi",
-        "BLDC",
-        "driver",
-        "motor",
-        "FRDM-KL25Z",
-        "FRDM-KL46Z",
-        "USBHOST"
+        "ESP8266",
+        "NodeMCU"
     ],
     "name": "GPS_CanSat",
     "platforms": "*",

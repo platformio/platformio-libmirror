@@ -1,0 +1,49 @@
+{
+    "authors": {
+        "name": "Ale C.-",
+        "url": "https://os.mbed.com/users/Suky/"
+    },
+    "description": "Control TouchScreen ADS7843",
+    "examples": [
+        "https://os.mbed.com/users/Suky/code/Touch_Example/",
+        "https://os.mbed.com/users/Suky/code/Example_Menu_LCD_TFT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "game pad",
+        "gamepad",
+        "USB Host",
+        "USBHOST",
+        "Xbox",
+        "xbox360",
+        "Cellular",
+        "Dragonfly",
+        "http",
+        "https",
+        "MTSAS",
+        "multitech",
+        "SMS",
+        "TCP",
+        "UDP",
+        "3x4",
+        "4x3",
+        "kepad",
+        "keyboard",
+        "polling",
+        "pull",
+        "up",
+        "touch",
+        "decimation-in-frequency",
+        "FFT",
+        "IFFT",
+        "Nucleo",
+        "real data",
+        "UIT"
+    ],
+    "name": "TouchADS7843",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Suky/code/TouchADS7843/"
+    }
+}

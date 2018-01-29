@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Grant Phillips",
+        "url": "https://os.mbed.com/users/grantphillips/"
+    },
+    "description": "Class library for a Topway LM6029ACW graphics LCD.",
+    "frameworks": "mbed",
+    "keywords": [
+        "development",
+        "SDK",
+        "sources",
+        "led",
+        "rgb"
+    ],
+    "name": "LM6029ACW",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/grantphillips/code/LM6029ACW/"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Shundo Kishi",
+        "url": "https://os.mbed.com/users/syundo0730/"
+    },
+    "dependencies": [
+        {
+            "authors": "Shundo Kishi",
+            "frameworks": "mbed",
+            "name": "ArduinoSerial"
+        }
+    ],
+    "description": "ported from https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050.",
+    "examples": [
+        "https://os.mbed.com/users/syundo0730/code/MPU6050_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "nRF24L01",
+        "Altitude",
+        "Freescale",
+        "MPL3115A2",
+        "pressure",
+        "sensor",
+        "Temperature",
+        "MPU-6050",
+        "MPU6050",
+        "MPU6050-DMP"
+    ],
+    "name": "MPU6050",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/syundo0730/code/MPU6050/"
+        }
+    }
+}

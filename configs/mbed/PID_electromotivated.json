@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Bryce Williams",
+        "url": "https://os.mbed.com/users/electromotivated/"
+    },
+    "description": "Basic but robust PID library",
+    "examples": [
+        "https://os.mbed.com/users/electromotivated/code/ESP8266_pid_mtrPos_webserver_SDcard_v2/",
+        "https://os.mbed.com/users/electromotivated/code/ESP8266_pid_mtrSpeed_Webserver_SDcard/",
+        "https://os.mbed.com/users/electromotivated/code/ESP8266_pid_spd_and_pos_webserver_SDcard/",
+        "https://os.mbed.com/users/electromotivated/code/ESP8266_pid_redbot_webserver/",
+        "https://os.mbed.com/users/ihl396/code/4180_lab4_project/",
+        "https://os.mbed.com/users/tgw/code/car_test_v1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F429ZI",
+        "gyroscope",
+        "control",
+        "PID",
+        "3pi",
+        "m3pi",
+        "robot",
+        "sensors",
+        "current",
+        "I2C",
+        "INA219",
+        "Power",
+        "voltage"
+    ],
+    "name": "PID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/electromotivated/code/PID/"
+    }
+}

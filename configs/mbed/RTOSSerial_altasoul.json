@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Tom Soulanille",
+        "url": "https://os.mbed.com/users/altasoul/"
+    },
+    "description": "An RTOS-friendly Serial interface",
+    "examples": [
+        "https://os.mbed.com/users/ValentinB/code/Test_RDM880_rfid_reader/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "KL25z",
+        "MAG3110",
+        "Wi-Go",
+        "rtos",
+        "Serial",
+        "UART",
+        "SPI",
+        "TFT",
+        "Touchscreen",
+        "LCD",
+        "SB1602B",
+        "SB1602E",
+        "ST7032",
+        "Text LCD",
+        "TextLCD_SB1602E"
+    ],
+    "name": "RTOS-Serial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/altasoul/code/RTOS-Serial/"
+    }
+}

@@ -6,21 +6,11 @@
     "description": "Driver for Text OLED display - 20x4 Winstar or Newhaven, with Winstar WS0010 driver IC",
     "frameworks": "mbed",
     "keywords": [
-        "led",
-        "pwm",
-        "tlc5940",
         "CRC",
         "CRC32",
-        "I2C",
-        "MPU6050",
-        "MPU9150",
         "display",
         "OLED",
-        "text",
-        "MCP3201",
-        "MCP3204",
-        "MCP3208",
-        "SPI"
+        "text"
     ],
     "name": "TextOLED20x4",
     "platforms": "*",

@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Tuan Anh Nguyen",
+        "url": "https://os.mbed.com/users/anhnt2407/"
+    },
+    "description": "A lib in development for TSL2561 light sensor communication.",
+    "examples": [
+        "https://os.mbed.com/users/anhnt2407/code/TSL2561_Townsend/",
+        "https://os.mbed.com/users/anhnt2407/code/TSL2561_Light_sensor/",
+        "https://os.mbed.com/users/biwa1400/code/Light/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "EEPROM",
+        "flash",
+        "stm32f10x",
+        "decimation-in-frequency",
+        "FFT",
+        "IFFT",
+        "Nucleo",
+        "real data",
+        "UIT",
+        "SerialHalfDuplex",
+        "Radio",
+        "transceiver"
+    ],
+    "name": "TSL2561",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/anhnt2407/code/TSL2561/"
+    }
+}

@@ -9,9 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "NFC",
+        "PN532",
+        "arbitrary precision",
+        "bigint",
+        "bignum",
+        "DISCO_L476VG",
+        "LCD",
         "AD-128160-UART",
         "AITENDO",
-        "LCD",
         "Serial"
     ],
     "name": "AD128160",

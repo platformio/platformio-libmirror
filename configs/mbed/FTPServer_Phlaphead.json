@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Robert Ellis",
+        "url": "https://os.mbed.com/users/Phlaphead/"
+    },
+    "description": "Simple FTP Server built on top of the NetServices TCP/IP stack.",
+    "frameworks": "mbed",
+    "keywords": [
+        "DMA",
+        "rtos",
+        "SD",
+        "SDFileSystem",
+        "WiFly",
+        "FTP",
+        "server",
+        "accelerometer",
+        "ADXL345",
+        "senor",
+        "arduino",
+        "SDCard",
+        "Seeedstudio",
+        "TFT",
+        "touch"
+    ],
+    "name": "FTPServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Phlaphead/code/FTPServer/"
+    }
+}

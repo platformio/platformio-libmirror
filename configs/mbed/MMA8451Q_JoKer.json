@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Johan Kritzinger",
+        "url": "https://os.mbed.com/users/JoKer/"
+    },
+    "description": "Double Tap Enable MMA8451Q library",
+    "examples": [
+        "https://os.mbed.com/users/JoKer/code/FRDM_MMA8451Q_DTAP_DEMO/",
+        "https://os.mbed.com/users/subhrajitmitra/code/FRDM_TSI/",
+        "https://os.mbed.com/users/jhestolano/code/data_logger/",
+        "https://os.mbed.com/users/oprospero/code/quadCommand2/",
+        "https://os.mbed.com/users/PavelM/code/USB_Handson/",
+        "https://os.mbed.com/users/PavelM/code/Midiudelator/",
+        "https://os.mbed.com/users/carlossell/code/touchdimmer/",
+        "https://os.mbed.com/users/jppang/code/XtrinsicSensorEVK/",
+        "https://os.mbed.com/users/e00nagog/code/test/",
+        "https://os.mbed.com/users/gcarmonar/code/11_accelerometer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DHT11",
+        "DHT22",
+        "Grove",
+        "MPU6000",
+        "MPU6050",
+        "MPU60x0"
+    ],
+    "name": "MMA8451Q",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JoKer/code/MMA8451Q/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "L3GD20 & L3G4200D / STMicroelectronics / MEMS motion sensor, three-axis gyroscope library",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/GR-PEACH_test_wo_rtos/",
+        "https://os.mbed.com/users/kenjiArai/code/GR-PEACH_test_on_rtos_works_well/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "gyroscope",
+        "I2C",
+        "l3g4200d",
+        "L3GD20"
+    ],
+    "name": "L3GD20",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/L3GD20/"
+    }
+}

@@ -11,9 +11,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "SerialHalfDuplex",
+        "accelerometer",
+        "Grove",
+        "I2C",
+        "MMA7660FC",
         "BLE",
         "MIDI",
-        "NTP"
+        "NTP",
+        "ITG3200",
+        "sparkfun"
     ],
     "name": "NTPClient",
     "platforms": "*",

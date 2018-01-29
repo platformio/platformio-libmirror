@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Wim van der Vegt",
+        "url": "https://os.mbed.com/users/wvd_vegt/"
+    },
+    "description": "TinyXml is a compact library that implements XML Parsing and Manipulation.",
+    "examples": [
+        "https://os.mbed.com/users/wvd_vegt/code/tinyxml_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "barometer",
+        "MPL115A1",
+        "SPI",
+        "Analyzer",
+        "audio",
+        "FFT",
+        "Spectrum",
+        "l3g4200d",
+        "lsm303dlm",
+        "minimu-9",
+        "xml",
+        "rpc"
+    ],
+    "name": "TINYXML",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wvd_vegt/code/TINYXML/"
+    }
+}

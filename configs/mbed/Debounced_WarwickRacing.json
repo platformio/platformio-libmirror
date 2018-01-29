@@ -18,11 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "ADXL345",
-        "FreeIMU",
-        "IMU",
-        "MPU6050",
         "CAN",
         "EFM32",
         "Gecko",
@@ -30,10 +25,9 @@
         "SiLabs",
         "Silicon Labs",
         "silicon_labs",
-        "buzzer",
-        "music",
-        "RTTTL",
-        "sound"
+        "FreeIMU",
+        "IMU",
+        "MPU6050"
     ],
     "name": "Debounced",
     "platforms": "*",

@@ -17,16 +17,11 @@
     "keywords": [
         "SSL",
         "TLS",
-        "v1.0",
+        "BSP",
+        "DISCO_L476VG",
         "clock",
         "ds1307",
-        "RTC",
-        "em-406",
-        "GPS",
-        "MTK3339",
-        "NMEA",
-        "Serial",
-        "UART"
+        "RTC"
     ],
     "name": "CyaSSL",
     "platforms": "*",

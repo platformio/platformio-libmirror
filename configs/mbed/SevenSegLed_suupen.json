@@ -12,14 +12,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "ADXL345",
+        "sparkfun",
         "display",
         "led",
         "numeric",
-        "Seven-Segment",
-        "api",
-        "mode",
-        "xbee",
-        "zigbee"
+        "Seven-Segment"
     ],
     "name": "SevenSegLed",
     "platforms": "*",

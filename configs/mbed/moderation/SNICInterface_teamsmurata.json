@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "muRata",
+        "url": "https://os.mbed.com/teams/murata/"
+    },
+    "description": "SNIC UART Interface library: Serial to Wi-Fi library for Murata TypeYD Wi-Fi module.",
+    "examples": [
+        "https://os.mbed.com/teams/murata/code/SNIC-xively-jumpstart-demo/",
+        "https://os.mbed.com/users/YuuichiAkagawa/code/SNIC-FluentLogger-example/",
+        "https://os.mbed.com/teams/KDDI-Fx0-hackathon/code/TCPEchoServer/",
+        "https://os.mbed.com/users/mbedAustin/code/murataDemo/",
+        "https://os.mbed.com/users/mbedAustin/code/murataTCPDemo/",
+        "https://os.mbed.com/teams/KDDI-Fx0-hackathon/code/HTTPClient_WiFi_HelloWorld/",
+        "https://os.mbed.com/teams/Nespresso-RGB-Sensor/code/EnvoyNespressoEndpointColorDetectorV2/",
+        "https://os.mbed.com/users/LouisAn/code/slog/",
+        "https://os.mbed.com/users/MACRUM/code/IBMIoTClientWifiExample/",
+        "https://os.mbed.com/users/Maggie17/code/HelloSNICInterface/"
+    ],
+    "frameworks": "mbed",
+    "name": "SNICInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/murata/code/SNICInterface/"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Yasushi TAUCHI",
+        "url": "https://os.mbed.com/users/yueee_yt/"
+    },
+    "description": "New EthernetInterface Version HTTPServer Library",
+    "examples": [
+        "https://os.mbed.com/users/yueee_yt/code/HttpServerSample/",
+        "https://os.mbed.com/users/yueee_yt/code/giken9_HTMLServer_Sample/",
+        "https://os.mbed.com/users/yueee_yt/code/giken9_HTMLServer_Temp_Sample/",
+        "https://os.mbed.com/teams/smdiotkit2ch/code/RPCHTTPServer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed",
+        "HTTPServer",
+        "BSP",
+        "DISCO_F429ZI",
+        "LCD",
+        "AD",
+        "da",
+        "MCP4921",
+        "MCP4922",
+        "Nucleo",
+        "SPI",
+        "UIT"
+    ],
+    "name": "HttpServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yueee_yt/code/HttpServer/"
+    }
+}

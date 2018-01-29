@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Kai Riedel",
+        "url": "https://os.mbed.com/users/kriedel/"
+    },
+    "description": "• Enhanced Version for EA DOG-M LCD, ST7036 Controller",
+    "frameworks": "mbed",
+    "keywords": [
+        "AD",
+        "da",
+        "Nucleo",
+        "SPI",
+        "DOG-M",
+        "DOGM",
+        "LCD",
+        "ST7036",
+        "demo",
+        "HX711"
+    ],
+    "name": "TextLCD_ST7036",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kriedel/code/TextLCD_ST7036/"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Spiridion Mbed",
+        "url": "https://os.mbed.com/users/spiridion/"
+    },
+    "description": "HIH6130 Humidity/Temperature Sensor library",
+    "examples": [
+        "https://os.mbed.com/users/andyhunti/code/BLE_HIH6130_tinkering/",
+        "https://os.mbed.com/users/Lockdog/code/mbed_rifletool/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MPL3115A2",
+        "sparkfun",
+        "Humidity",
+        "sensor",
+        "Temperature",
+        "FRDM",
+        "KL25z",
+        "MLK25Z128FRDM"
+    ],
+    "name": "HIH6130",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/spiridion/code/HIH6130/"
+    }
+}

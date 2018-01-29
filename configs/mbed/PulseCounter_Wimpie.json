@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Wim De Roeve",
+        "url": "https://os.mbed.com/users/Wimpie/"
+    },
+    "description": "Counts interrupt driven pulses (UP or DOWN) with min and max width",
+    "examples": [
+        "https://os.mbed.com/users/mkkharel/code/PulseSensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "barometer",
+        "I2C",
+        "MEMS",
+        "pressure",
+        "sensor",
+        "STMicro",
+        "filter",
+        "counter",
+        "interrupt",
+        "time",
+        "cc1101",
+        "driver",
+        "library"
+    ],
+    "name": "PulseCounter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Wimpie/code/PulseCounter/"
+    }
+}

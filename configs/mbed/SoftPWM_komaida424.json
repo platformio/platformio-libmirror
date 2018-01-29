@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "syouichi imamori",
+        "url": "https://os.mbed.com/users/komaida424/"
+    },
+    "description": "The PWM output by software. Can be output to any pin. It can be used to replace the Pwmout.",
+    "examples": [
+        "https://os.mbed.com/users/komaida424/code/SoftPWM_Example/",
+        "https://os.mbed.com/teams/NMLAB/code/XYZ_Joystick_PWM/",
+        "https://os.mbed.com/users/Kansuni/code/mbed_pwm/",
+        "https://os.mbed.com/users/Kansuni/code/mbed_Ahan_robocon/",
+        "https://os.mbed.com/teams/mbed123/code/AIR/",
+        "https://os.mbed.com/teams/mbed123/code/NHK2015/",
+        "https://os.mbed.com/teams/mbed123/code/NHK2015_slave/",
+        "https://os.mbed.com/teams/mbed123/code/NHK2015_new/",
+        "https://os.mbed.com/users/ALounes/code/IoT-Polytech-Upmc/",
+        "https://os.mbed.com/teams/Renesas/code/GR-PEACH_blinky/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "pwm",
+        "PwmOut",
+        "SoftPWM",
+        "softwearPWM"
+    ],
+    "name": "SoftPWM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/komaida424/code/SoftPWM/"
+    }
+}

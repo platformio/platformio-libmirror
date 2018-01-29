@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Ale C.-",
+        "url": "https://os.mbed.com/users/Suky/"
+    },
+    "description": "LCD TFT",
+    "examples": [
+        "https://os.mbed.com/users/Suky/code/Example_Menu_LCD_TFT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Accel",
+        "accelerometer",
+        "compass",
+        "gyro",
+        "gyroscope",
+        "IMU",
+        "LSM9DS0",
+        "magnet",
+        "magnetometer",
+        "LCD",
+        "TFT"
+    ],
+    "name": "LCDTFT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Suky/code/LCDTFT/"
+    }
+}

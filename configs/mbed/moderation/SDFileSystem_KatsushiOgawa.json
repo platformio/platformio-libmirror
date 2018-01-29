@@ -15,12 +15,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "POSIX",
+        "rtos",
         "driver",
         "ds1307",
         "I2C",
-        "RTC",
-        "POSIX",
-        "rtos"
+        "RTC"
     ],
     "name": "SDFileSystem",
     "platforms": "*",

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Ahmad Fauzy Mohd Aris",
+        "url": "https://os.mbed.com/users/el14afma/"
+    },
+    "description": "SD library",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelererometer",
+        "ADXL345",
+        "I2C",
+        "HY-1.8",
+        "ST7735"
+    ],
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/el14afma/code/SDFileSystem/"
+    }
+}

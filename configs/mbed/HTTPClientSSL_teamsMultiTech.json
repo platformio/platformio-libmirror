@@ -1,0 +1,48 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "dependencies": [
+        {
+            "authors": {
+                "url": "https://os.mbed.com/users/MultiTech"
+            },
+            "frameworks": "mbed",
+            "name": "CyaSSL",
+            "url": "https://os.mbed.com/teams/MultiTech/code/CyaSSL/"
+        }
+    ],
+    "description": "Library providing HTTP and HTTPS communications.",
+    "examples": [
+        "https://os.mbed.com/teams/MultiTech/code/MTS-Socket/",
+        "https://os.mbed.com/users/miaotwilio/code/MTS-Socket/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "16x4",
+        "LCD",
+        "25lcxxx",
+        "25xx",
+        "EEPROM",
+        "flash",
+        "memory",
+        "SPI",
+        "16x2",
+        "freetronics",
+        "http",
+        "https",
+        "cmsis",
+        "function",
+        "Instances",
+        "multiple",
+        "rtos",
+        "threads"
+    ],
+    "name": "HTTPClient-SSL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/HTTPClient-SSL/"
+    }
+}

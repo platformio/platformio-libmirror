@@ -30,11 +30,7 @@
         "Nucleo",
         "STM",
         "stm32",
-        "ultrasonic",
-        "alarm",
-        "interrupt",
-        "RTC",
-        "time"
+        "ultrasonic"
     ],
     "name": "TextLCD",
     "platforms": "*",

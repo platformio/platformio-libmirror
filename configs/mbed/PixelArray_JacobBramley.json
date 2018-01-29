@@ -28,7 +28,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "mbed",
         "KL25z",
         "LPC800-MAX",
         "LPC812",
@@ -44,16 +43,7 @@
         "PwmIn",
         "DHT11",
         "Humidity",
-        "Temperature",
-        "HX8340",
-        "ILI9325",
-        "ILI9328",
-        "ITDB02",
-        "LCD",
-        "SSD1289",
-        "ST7735",
-        "TFT",
-        "UTFT"
+        "Temperature"
     ],
     "name": "PixelArray",
     "platforms": "*",

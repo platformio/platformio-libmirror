@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "A lib to handle a E-Paper display from Pervasive Displays.",
+    "examples": [
+        "https://os.mbed.com/users/dreschpe/code/epaper_mbed_130411_KL25Z/",
+        "https://os.mbed.com/users/dreschpe/code/epaper_mbed_test/",
+        "https://os.mbed.com/users/jendo1969/code/epaper_KL25Z_2/",
+        "https://os.mbed.com/users/Starz/code/test_he10/",
+        "https://os.mbed.com/teams/ASE/code/Stick_It_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Futaba",
+        "MODSERIAL",
+        "SBUS",
+        "Serial",
+        "128x64",
+        "I2C",
+        "OLED",
+        "SSD1306",
+        "NET",
+        "network",
+        "stream",
+        "TCP"
+    ],
+    "name": "EaEpaper",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/EaEpaper/"
+    }
+}

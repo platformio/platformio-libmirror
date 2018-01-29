@@ -9,13 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DC",
-        "motor",
-        "pwm",
         "api",
         "network",
         "NSAPI",
-        "socket"
+        "socket",
+        "DC",
+        "motor",
+        "pwm"
     ],
     "name": "DcMotorDirectDrive",
     "platforms": "*",

@@ -27,10 +27,14 @@
     "frameworks": "mbed",
     "keywords": [
         "MQTT",
-        "BLE",
-        "buttons",
-        "HEXIWEAR",
-        "KW40Z"
+        "2",
+        "bus",
+        "CAN",
+        "II",
+        "OBD",
+        "obd2",
+        "obdII",
+        "reader"
     ],
     "name": "MAG3110",
     "platforms": "*",

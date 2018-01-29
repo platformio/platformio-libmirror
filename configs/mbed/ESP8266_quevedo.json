@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Antonio Quevedo",
+        "url": "https://os.mbed.com/users/quevedo/"
+    },
+    "description": "Library for using the Wifi module ESP8266, first version with basic commands, soon new commands will be added",
+    "examples": [
+        "https://os.mbed.com/users/mokhanaf/code/PIR_Sensor_wifi/",
+        "https://os.mbed.com/teams/FRA221A/code/myESP8266forLOstFound/",
+        "https://os.mbed.com/users/ndgohil/code/Motin_Activated_Temperature_Humidity_Blu/",
+        "https://os.mbed.com/users/Jakschwa/code/1Project3_Robot1_Final/",
+        "https://os.mbed.com/users/Jakschwa/code/2Project3_Robot2_Final/",
+        "https://os.mbed.com/users/2016US_AhmedPopovic/code/TwitterProjekat/",
+        "https://os.mbed.com/users/janhavi/code/Esp8266_LocalPhant_KL25z/",
+        "https://os.mbed.com/users/janhavi/code/ESP8266_ThingsSpeak_KL25z/",
+        "https://os.mbed.com/users/2016US_BenjaminRamic/code/TwitterProjekat/",
+        "https://os.mbed.com/teams/Vaso-intelligente/code/prova_vaso/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ESP8266",
+    "name": "ESP8266",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/quevedo/code/ESP8266/"
+    }
+}

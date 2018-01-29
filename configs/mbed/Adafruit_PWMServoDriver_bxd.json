@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Brian Dickman",
+        "url": "https://os.mbed.com/users/bxd/"
+    },
+    "description": "This is a library for our Adafruit 16-channel PWM & Servo driver",
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "I2C",
+        "PCA9685",
+        "pwm",
+        "Cayenne",
+        "MQTT"
+    ],
+    "name": "Adafruit_PWMServoDriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bxd/code/Adafruit_PWMServoDriver/"
+    }
+}

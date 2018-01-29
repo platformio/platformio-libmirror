@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "yasuyuki onodera",
+        "url": "https://os.mbed.com/users/yasuyuki/"
+    },
+    "description": "LPS25H library",
+    "examples": [
+        "https://os.mbed.com/users/yasuyuki/code/mbed_LPS25H/",
+        "https://os.mbed.com/users/tukumotann/code/GR-PEACH_TAMORI/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "lps25h",
+    "name": "LPS25H",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yasuyuki/code/LPS25H/"
+    }
+}

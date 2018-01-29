@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Kory Hill",
+        "url": "https://os.mbed.com/users/newk8600/"
+    },
+    "description": "demo program of BMP085 pressure sensor",
+    "frameworks": "mbed",
+    "keywords": [
+        "L6470",
+        "Serial",
+        "Terminal",
+        "VT100",
+        "ethernet",
+        "ip",
+        "mbed"
+    ],
+    "name": "BMP085_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/newk8600/code/BMP085_lib/"
+    }
+}

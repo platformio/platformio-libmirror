@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Zeheng Chen",
+        "url": "https://os.mbed.com/users/zchen78/"
+    },
+    "dependencies": [
+        {
+            "authors": "Eli Hughes",
+            "frameworks": "mbed",
+            "name": "CMSIS_DSP_401"
+        }
+    ],
+    "description": "fft library for mbed",
+    "frameworks": "mbed",
+    "keywords": [
+        "compass",
+        "HMC5883L",
+        "Communication",
+        "Serial",
+        "Terminal",
+        "VT100",
+        "VT200",
+        "7",
+        "display",
+        "driver",
+        "led",
+        "PCA9635",
+        "segment"
+    ],
+    "name": "FFT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/zchen78/code/FFT/"
+        }
+    }
+}

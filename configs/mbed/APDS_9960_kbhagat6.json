@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Krishan Bhagat",
+        "url": "https://os.mbed.com/users/kbhagat6/"
+    },
+    "description": "APDS-9960 Light, RGB, Proximity, and Gesture Sensor",
+    "examples": [
+        "https://os.mbed.com/users/kbhagat6/code/Gesture_User_Interface/",
+        "https://os.mbed.com/users/tgw/code/car_test_v1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "breakout",
+        "gainspan",
+        "GS1011MIC",
+        "GS1011MIP",
+        "sparkfun",
+        "Wi-Fi",
+        "wifi"
+    ],
+    "name": "APDS_9960",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kbhagat6/code/APDS_9960/"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Edoardo De Marchi",
+        "url": "https://os.mbed.com/users/edodm85/"
+    },
+    "description": "MODSERIAL with support for more devices.",
+    "examples": [
+        "https://os.mbed.com/users/edodm85/code/HC05_AT_mode/",
+        "https://os.mbed.com/users/edodm85/code/GPS_U-blox_NEO-6M_Test_Code/",
+        "https://os.mbed.com/users/jelalaoui/code/GPS_U-blox_NEO-6M_Code/",
+        "https://os.mbed.com/users/saypulung/code/UbloxGPSWithThread/",
+        "https://os.mbed.com/users/saypulung/code/UbloxWithThread/",
+        "https://os.mbed.com/users/Hagrass/code/GPS_U-blox_NEO-6M_Test_Code/",
+        "https://os.mbed.com/users/Hagrass/code/CANSAT_COMBINED/",
+        "https://os.mbed.com/teams/Robotics-Interest-Club/code/GPS_U-blox_NEO-6M_Test_Code_1/",
+        "https://os.mbed.com/users/yanay_amir/code/Final_Project3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HAM-radio",
+        "I2C",
+        "sdr",
+        "vcxo",
+        "vfo",
+        "LPC4330",
+        "3pi",
+        "m3pi",
+        "robot",
+        "DISCO_F469NI",
+        "LCD"
+    ],
+    "name": "MODSERIAL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/edodm85/code/MODSERIAL/"
+    }
+}

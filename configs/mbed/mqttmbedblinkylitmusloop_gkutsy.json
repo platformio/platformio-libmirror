@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "German Kutsy",
+        "url": "https://os.mbed.com/users/gkutsy/"
+    },
+    "description": "mbed training equivalent of LED \"Blinky but using pub/sub functionality and MQTT brokers",
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "ip",
+        "mbed",
+        "Serial",
+        "Terminal",
+        "VT100",
+        "display",
+        "I2C",
+        "led",
+        "minutes",
+        "seconds",
+        "stopwatch",
+        "timer",
+        "watch"
+    ],
+    "name": "mqtt-mbed-blinky-litmusloop",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gkutsy/code/mqtt-mbed-blinky-litmusloop/"
+    }
+}

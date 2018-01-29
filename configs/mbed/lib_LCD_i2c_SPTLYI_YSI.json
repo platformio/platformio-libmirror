@@ -13,16 +13,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "2x16",
+        "I2C",
+        "LCD",
         "digitalOut",
         "H-bridge",
         "library",
         "motor",
         "PwmOut",
-        "2x16",
-        "I2C",
-        "LCD",
         "SBC",
-        "WSE"
+        "WSE",
+        "buzzer",
+        "piezo"
     ],
     "name": "lib_LCD_i2c_SPTLYI",
     "platforms": "*",

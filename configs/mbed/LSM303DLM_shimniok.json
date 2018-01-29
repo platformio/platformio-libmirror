@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Michael Shimniok",
+        "url": "https://os.mbed.com/users/shimniok/"
+    },
+    "description": "Interface library for ST LSM303DLM 3-axis magnetometer/accelerometer",
+    "examples": [
+        "https://os.mbed.com/users/shimniok/code/AVC_2012/",
+        "https://os.mbed.com/users/rahm/code/m3pi_Kompass/",
+        "https://os.mbed.com/users/tzxl10000/code/Fish_2014Fall/",
+        "https://os.mbed.com/users/RenjianHao/code/Fish_2014Fall/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "1-wire",
+        "One Wire",
+        "one-wire",
+        "nRF51-DK",
+        "RTC",
+        "time",
+        "accelerometer",
+        "compass",
+        "magnetometer"
+    ],
+    "name": "LSM303DLM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shimniok/code/LSM303DLM/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Matt Egan",
+        "url": "https://os.mbed.com/users/mattegan/"
+    },
+    "description": "A basic basic basic driver for 2x16 HD44780 based displays using the four wire interface.",
+    "examples": [
+        "https://os.mbed.com/users/mattegan/code/lcdLibraryTest/",
+        "https://os.mbed.com/users/joseortega/code/generado_final/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MRF24J40",
+        "tranceiver",
+        "wireless",
+        "128x64",
+        "OLED",
+        "SSD1306"
+    ],
+    "name": "lcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mattegan/code/lcd/"
+    }
+}
