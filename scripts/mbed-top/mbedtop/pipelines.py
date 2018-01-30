@@ -20,7 +20,8 @@ class JsonWriterPipeline(object):
     ]
 
     def process_item(self, item, spider):
-        filename = item['name'] + '_' + item['owner']
+        # print(item)
+        filename = item['name'] + '_' + item['ownerurl'].replace("/users/","") #item['owner']
         filename.replace(' ', '_')
         filename = "".join(x for x in filename if x.isalnum() or x=='_')
 
