@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Jose R Padron",
+        "url": "https://os.mbed.com/users/elrafapadron/"
+    },
+    "description": "Add functions to get Mx, My and Mz.",
+    "examples": [
+        "https://os.mbed.com/users/Digixx/code/9DOF-Stick/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_program_ver2/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_program_ver2_yokokawa/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver1/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver2/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver3/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver3_1/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver3_temp/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver3_3/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver3_3_1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "heading",
+        "HMC5843",
+        "magnetic",
+        "sensor"
+    ],
+    "name": "HMC5843",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/elrafapadron/code/HMC5843/"
+    }
+}

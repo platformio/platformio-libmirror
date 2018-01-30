@@ -1,0 +1,42 @@
+{
+    "authors": {
+        "name": "Frank Vannieuwkerke",
+        "url": "https://os.mbed.com/users/frankvnk/"
+    },
+    "dependencies": [
+        {
+            "authors": "Frank Vannieuwkerke",
+            "frameworks": "mbed",
+            "name": "SPI_TFT_ILI9320"
+        }
+    ],
+    "description": "Library for Mini-DK board",
+    "examples": [
+        "https://os.mbed.com/users/frankvnk/code/LPC1768_Mini-DK_EasyWeb_DM9161/",
+        "https://os.mbed.com/users/duoduo/code/LPC1768_Mini-DK/",
+        "https://os.mbed.com/users/frankvnk/code/LPC1768_Mini-DK/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "Menus",
+        "TFT",
+        "Card reader",
+        "LPC1768",
+        "SPI TFT",
+        "SPI Touch",
+        "BUTTON",
+        "ButtonGroup",
+        "DISCO-F746",
+        "UIT"
+    ],
+    "name": "Mini-DK",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/frankvnk/code/Mini-DK/"
+        }
+    }
+}

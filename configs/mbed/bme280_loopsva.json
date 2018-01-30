@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Kevin Braun",
+        "url": "https://os.mbed.com/users/loopsva/"
+    },
+    "description": "Multi environmental sensor",
+    "frameworks": "mbed",
+    "keywords": [
+        "Altimeter",
+        "barometer",
+        "Humitity",
+        "I2C",
+        "Temparature"
+    ],
+    "name": "bme280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/loopsva/code/bme280/"
+    }
+}

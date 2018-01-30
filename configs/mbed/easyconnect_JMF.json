@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Jim Flynn",
+        "url": "https://os.mbed.com/users/JMF/"
+    },
+    "dependencies": [
+        {
+            "authors": {
+                "url": "https://os.mbed.com/users/Avnet"
+            },
+            "frameworks": "mbed",
+            "name": "WNC14A2AInterface",
+            "url": "https://os.mbed.com/teams/Avnet/code/WNC14A2AInterface/"
+        }
+    ],
+    "description": "Added support for WNC M14A2A Cellular LTE Data Module.",
+    "examples": [
+        "https://os.mbed.com/teams/Avnet/code/http-example-wnc/",
+        "https://os.mbed.com/users/tdMBED/code/http-example-wnc-modified/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DMX",
+        "Freescale",
+        "gyro",
+        "sensor",
+        "MAX7456",
+        "osd",
+        "Nokia 5110",
+        "NOKIA5110",
+        "pcd8544"
+    ],
+    "name": "easy-connect",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JMF/code/easy-connect/"
+    }
+}

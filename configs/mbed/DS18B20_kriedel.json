@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Kai Riedel",
+        "url": "https://os.mbed.com/users/kriedel/"
+    },
+    "description": "Library for Programmable Resolution",
+    "examples": [
+        "https://os.mbed.com/users/hgc_8421/code/DS18B20_HGC/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "http",
+        "https",
+        "dynamixel",
+        "MX28",
+        "Servo",
+        "1-wire",
+        "DS18B20",
+        "I2C",
+        "software"
+    ],
+    "name": "DS18B20",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kriedel/code/DS18B20/"
+    }
+}

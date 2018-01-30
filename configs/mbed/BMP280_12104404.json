@@ -1,0 +1,45 @@
+{
+    "authors": {
+        "name": "Edwin Cho",
+        "url": "https://os.mbed.com/users/12104404/"
+    },
+    "description": "BME280 Combined humidity and pressure sensor library",
+    "examples": [
+        "https://os.mbed.com/users/alaurens/code/STRAIGHT_DRIVE_NO_SEP/",
+        "https://os.mbed.com/users/12104404/code/FLOW_DERP/",
+        "https://os.mbed.com/users/motoseki/code/SkipperS2mputest/",
+        "https://os.mbed.com/users/maximusismax/code/LPC1768_BMP280_CAN_Interface/",
+        "https://os.mbed.com/users/thinkfire/code/GreenSenseWithWSN/",
+        "https://os.mbed.com/users/andrewbates11/code/pdiot-MS5803-test/",
+        "https://os.mbed.com/teams/SiliconLabs/code/TBSense2_Sensor_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "http",
+        "NET",
+        "network",
+        "webservice",
+        "xml",
+        "AM2321",
+        "Humidity",
+        "I2C",
+        "sensor",
+        "Temperature",
+        "1-wire",
+        "1wire",
+        "DS18B20",
+        "DS18S20",
+        "OneWire",
+        "BME280",
+        "CommandProcessor",
+        "Embedded",
+        "interactive",
+        "menu"
+    ],
+    "name": "BMP280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/12104404/code/BMP280/"
+    }
+}

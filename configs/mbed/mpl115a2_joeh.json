@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "joe holdsworth",
+        "url": "https://os.mbed.com/users/joeh/"
+    },
+    "description": "mpl115A2 i2c pressure and temperature sensor",
+    "examples": [
+        "https://os.mbed.com/users/kanpapa/code/HTTPClient_SuperTweet_MPL115A2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ADXL345",
+        "AHRS",
+        "ANGLE",
+        "bmp085",
+        "HMC5883",
+        "IMU",
+        "l3g4200d",
+        "sensor",
+        "MPL115A2",
+        "CAN",
+        "MCP2515",
+        "call",
+        "Procedure",
+        "remote",
+        "rpc"
+    ],
+    "name": "mpl115a2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/joeh/code/mpl115a2/"
+    }
+}

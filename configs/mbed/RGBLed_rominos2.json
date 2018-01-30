@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Romain Berrada",
+        "url": "https://os.mbed.com/users/rominos2/"
+    },
+    "description": "Basic RGB library for non-PWM LEDs",
+    "examples": [
+        "https://os.mbed.com/users/rominos2/code/MenuExample/",
+        "https://os.mbed.com/users/maanenson/code/exosite_http_example/",
+        "https://os.mbed.com/teams/Exosite/code/exosite_http_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "rgb"
+    ],
+    "name": "RGBLed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rominos2/code/RGBLed/"
+    }
+}

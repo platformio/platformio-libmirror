@@ -1,0 +1,45 @@
+{
+    "authors": {
+        "name": "Frank Vannieuwkerke",
+        "url": "https://os.mbed.com/users/frankvnk/"
+    },
+    "dependencies": [
+        {
+            "authors": {
+                "url": "https://os.mbed.com/users/Sissors"
+            },
+            "frameworks": "mbed",
+            "name": "BurstSPI",
+            "url": "https://os.mbed.com/users/Sissors/code/BurstSPI/"
+        }
+    ],
+    "description": "SPI Library for 240x320 TFT LCD with ILI9320, ILI9325 and ILI9328 chip",
+    "examples": [
+        "https://os.mbed.com/users/frankvnk/code/KL25Z_ILI9320_Demo/",
+        "https://os.mbed.com/users/frankvnk/code/Mini-DK/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "socket",
+        "TCP",
+        "UDP",
+        "WiFly",
+        "compass",
+        "LSM303DLH",
+        "magnetometer",
+        "sensors",
+        "DHT11",
+        "high",
+        "Speed",
+        "SPI",
+        "ILI9320",
+        "LCD",
+        "TFT"
+    ],
+    "name": "SPI_TFT_ILI9320",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/frankvnk/code/SPI_TFT_ILI9320/"
+    }
+}

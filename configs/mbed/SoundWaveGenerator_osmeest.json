@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Olivier Smeesters",
+        "url": "https://os.mbed.com/users/osmeest/"
+    },
+    "description": "Classes to produce a computed sound wave on the analog output.",
+    "examples": [
+        "https://os.mbed.com/users/osmeest/code/SoundWaveGeneratorTest/",
+        "https://os.mbed.com/users/peccu/code/SoundWaveGeneratorTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "control",
+        "led",
+        "LPC1768",
+        "mbed",
+        "Freescale",
+        "gyro",
+        "sensor",
+        "sound",
+        "Nokia 5110",
+        "NOKIA5110",
+        "pcd8544"
+    ],
+    "name": "SoundWaveGenerator",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/osmeest/code/SoundWaveGenerator/"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Seeed",
+        "url": "https://os.mbed.com/teams/Seeed/"
+    },
+    "dependencies": [
+        {
+            "authors": {
+                "url": "https://os.mbed.com/users/sam_grove"
+            },
+            "frameworks": "mbed",
+            "name": "BufferedSerial",
+            "url": "https://os.mbed.com/users/sam_grove/code/BufferedSerial/"
+        }
+    ],
+    "description": "a library to use GPRS like ethernet or wifi, which makes it possible to connect to the internet with your GPRS module",
+    "examples": [
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/ThinkSpeak_Test/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/roam_v1/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/roam_v2/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalv3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Art-Net",
+        "DMX",
+        "DMX512",
+        "ethernet",
+        "UDP"
+    ],
+    "name": "GPRSInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Seeed/code/GPRSInterface/"
+    }
+}

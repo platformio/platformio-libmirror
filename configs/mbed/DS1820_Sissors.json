@@ -1,0 +1,55 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "dependencies": [
+        {
+            "authors": {
+                "url": "https://os.mbed.com/users/sam_grove"
+            },
+            "frameworks": "mbed",
+            "name": "LinkedList",
+            "url": "https://os.mbed.com/users/sam_grove/code/LinkedList/"
+        }
+    ],
+    "description": "Library for reading temperature from DS1820, DS18B20 and DS1822",
+    "examples": [
+        "https://os.mbed.com/users/gkroussos/code/heatmap/",
+        "https://os.mbed.com/users/gkroussos/code/BLE_Temperature/",
+        "https://os.mbed.com/users/gkroussos/code/BLE_Temperature_Exercise/",
+        "https://os.mbed.com/users/emcu/code/F334andDS18B20/",
+        "https://os.mbed.com/users/emcu/code/F334-DS18B20/",
+        "https://os.mbed.com/users/emcu/code/NUCLEO-F401RE-DS1820andThermistorNTC10K/",
+        "https://os.mbed.com/users/emcu/code/F334andDS18B20andLCD1602andRELAYdlyCasaV/",
+        "https://os.mbed.com/teams/Thing-Innovations/code/mDot_TTN_DS18B20/",
+        "https://os.mbed.com/teams/Thing-Innovations/code/mDot_DS18B20/",
+        "https://os.mbed.com/teams/Thing-Innovations/code/mDot_TTN_OTAA_Node/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "F401RE",
+        "F411RE",
+        "F446RE",
+        "K64F",
+        "KL25z",
+        "kl46z",
+        "USBHOST",
+        "UVC",
+        "DS1820",
+        "DS1822",
+        "DS18B20",
+        "one-wire",
+        "display",
+        "graphic",
+        "LCD",
+        "QVGA",
+        "TFT"
+    ],
+    "name": "DS1820",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/DS1820/"
+    }
+}

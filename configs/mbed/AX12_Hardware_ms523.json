@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Martin Smith",
+        "url": "https://os.mbed.com/users/ms523/"
+    },
+    "description": "A library for the AX-12+ servo using external ICs instead of the SerialHalf-Duplex class",
+    "frameworks": "mbed",
+    "keywords": [
+        "Random",
+        "ax12",
+        "Servo",
+        "BMP180",
+        "pressure",
+        "sensor",
+        "C328",
+        "camera",
+        "JPEG",
+        "Serial",
+        "sparkfun"
+    ],
+    "name": "AX12_Hardware",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ms523/code/AX12_Hardware/"
+    }
+}

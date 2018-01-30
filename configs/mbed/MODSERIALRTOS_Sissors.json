@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "MODSERIAL with support for KL25Z + RTOS (beta, putc + puts currently)",
+    "examples": [
+        "https://os.mbed.com/users/rs27/code/kl25z_USB_4/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Buffered",
+        "MODSERIAL",
+        "Serial",
+        "fingerprint",
+        "GT-511C3",
+        "GT-511C31"
+    ],
+    "name": "MODSERIAL-RTOS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/MODSERIAL-RTOS/"
+    }
+}

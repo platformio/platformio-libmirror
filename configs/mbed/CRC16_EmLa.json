@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Emilie Laverge",
+        "url": "https://os.mbed.com/users/EmLa/"
+    },
+    "description": "Implementation of CRC16 using polynomial 0x8005 - (X^16+X^15+X^2+1)",
+    "examples": [
+        "https://os.mbed.com/teams/EdgeBotix/code/HC05/",
+        "https://os.mbed.com/users/JoeyDionne/code/S5info_APP4/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "check;",
+        "CRC",
+        "CRC16;",
+        "Cyclic",
+        "redundancy"
+    ],
+    "name": "CRC16",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/EmLa/code/CRC16/"
+    }
+}

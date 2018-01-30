@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Thomas Raab",
+        "url": "https://os.mbed.com/users/Raabinator/"
+    },
+    "description": "Handle rotary encoder connected to two pins. With interrupt. Operating encoder changes an int position value that can be polled.",
+    "frameworks": "mbed",
+    "keywords": [
+        "CPU",
+        "CPU_Usage",
+        "performance",
+        "resources",
+        "time",
+        "usage",
+        "Encoder",
+        "rotary",
+        "LCD",
+        "Register",
+        "Serial",
+        "shift",
+        "with",
+        "1-wire",
+        "One Wire",
+        "one-wire"
+    ],
+    "name": "CRotaryEncoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Raabinator/code/CRotaryEncoder/"
+    }
+}

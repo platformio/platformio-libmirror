@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "myDevicesIoT",
+        "url": "https://os.mbed.com/teams/myDevicesIoT/"
+    },
+    "description": "The Cayenne MQTT mbed Library provides functions to easily connect to the Cayenne IoT project builder.",
+    "examples": [
+        "https://os.mbed.com/teams/myDevicesIoT/code/Cayenne-ESP8266Interface/",
+        "https://os.mbed.com/teams/myDevicesIoT/code/Cayenne-WIZnet_Library/",
+        "https://os.mbed.com/teams/myDevicesIoT/code/Cayenne-WIZnetInterface/",
+        "https://os.mbed.com/teams/myDevicesIoT/code/Cayenne-X-NUCLEO-IDW01M1/",
+        "https://os.mbed.com/teams/myDevicesIoT/code/Cayenne-X-NUCLEO-IDW01M1-TMP36/",
+        "https://os.mbed.com/teams/myDevicesIoT/code/Cayenne-WIZ820ioInterface/",
+        "https://os.mbed.com/users/Jeffdhyan/code/Cayenne-X-NUCLEO-IDW01M1/",
+        "https://os.mbed.com/users/Jeffdhyan/code/Cayenne-X-NUCLEO-IDW01M1-TMP36/",
+        "https://os.mbed.com/users/rozendhyan/code/Cayenne-X-NUCLEO-IDW01M1-TMP36/",
+        "https://os.mbed.com/users/stema/code/Cayenne-ESP8266_F411/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Cayenne",
+        "MQTT"
+    ],
+    "name": "Cayenne-MQTT-mbed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/myDevicesIoT/code/Cayenne-MQTT-mbed/"
+    }
+}

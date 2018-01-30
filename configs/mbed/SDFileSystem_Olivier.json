@@ -1,0 +1,40 @@
+{
+    "authors": {
+        "name": "Olivier M",
+        "url": "https://os.mbed.com/users/Olivier/"
+    },
+    "description": "Fixed SDFileSystem when no card present (pull request).",
+    "examples": [
+        "https://os.mbed.com/users/RobertFischer/code/ILI9341_Clock_Nucleo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FAT",
+        "file",
+        "SD",
+        "System",
+        "ARM",
+        "DAY",
+        "heartbeat",
+        "RIT",
+        "DISCO_F746NG",
+        "STM32F746",
+        "APDS9960",
+        "avago",
+        "color",
+        "Gesture",
+        "I2C",
+        "proximity",
+        "sparkfun",
+        "display",
+        "RenBED",
+        "segment",
+        "Seven"
+    ],
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Olivier/code/SDFileSystem/"
+    }
+}

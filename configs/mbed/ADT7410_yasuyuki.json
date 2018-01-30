@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "yasuyuki onodera",
+        "url": "https://os.mbed.com/users/yasuyuki/"
+    },
+    "description": "ADT7410 library",
+    "examples": [
+        "https://os.mbed.com/users/yasuyuki/code/mbed_DEMO/",
+        "https://os.mbed.com/users/yasuyuki/code/mbed_BLE/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "SRF02",
+        "audio",
+        "I2S",
+        "library",
+        "tested",
+        "TLV320",
+        "DDS",
+        "generator",
+        "signal",
+        "JPEG",
+        "LS-Y201",
+        "at&t",
+        "data store",
+        "m2x",
+        "time-series"
+    ],
+    "name": "ADT7410",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yasuyuki/code/ADT7410/"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "authors": {
+        "name": "First Last",
+        "url": "https://os.mbed.com/users/vsluiter/"
+    },
+    "description": "Fork of mbed_official/TSI, giving access to raw values",
+    "examples": [
+        "https://os.mbed.com/users/vsluiter/code/PiezoClick/",
+        "https://os.mbed.com/users/PavelM/code/USB_Handson/",
+        "https://os.mbed.com/users/PavelM/code/Midiudelator/",
+        "https://os.mbed.com/users/jppang/code/XtrinsicSensorEVK/",
+        "https://os.mbed.com/users/darkmx4/code/Sensor/",
+        "https://os.mbed.com/users/Equipo13/code/parcial/",
+        "https://os.mbed.com/users/gcarmonar/code/12_Sensor_Capacitivo/",
+        "https://os.mbed.com/users/stefanimrich/code/MidiControler/",
+        "https://os.mbed.com/users/avallejopo/code/Tarea7/",
+        "https://os.mbed.com/users/amarincan/code/Tarea7touchcapacitivePWM/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "dal",
+        "lancaster",
+        "Microbit",
+        "DISCO_F746NG",
+        "LCD",
+        "Serial",
+        "SoftwareSerial",
+        "UART",
+        "any",
+        "no",
+        "Pin",
+        "pwm",
+        "Servo",
+        "FAT",
+        "file",
+        "SD",
+        "System",
+        "I2C",
+        "wattbob",
+        "ethernet",
+        "power consumption",
+        "power control",
+        "power management",
+        "PowerControl"
+    ],
+    "name": "TSI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vsluiter/code/TSI/"
+    }
+}

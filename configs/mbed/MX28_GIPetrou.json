@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Georgios Petrou",
+        "url": "https://os.mbed.com/users/GIPetrou/"
+    },
+    "description": "A library to control MX28 servos. It could also be used with the rest of the MX series servos.",
+    "examples": [
+        "https://os.mbed.com/users/kikutake/code/IDcheck/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "http",
+        "https",
+        "dynamixel",
+        "MX28",
+        "Servo",
+        "1-wire",
+        "DS18B20",
+        "I2C",
+        "software"
+    ],
+    "name": "MX28",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/GIPetrou/code/MX28/"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "authors": {
+        "name": "Jonne Valola",
+        "url": "https://os.mbed.com/users/Pokitto/"
+    },
+    "description": "PokittoLib is the library needed for programming the Pokitto DIY game console (www.pokitto.com)",
+    "examples": [
+        "https://os.mbed.com/users/HomineLudens/code/YATTT/",
+        "https://os.mbed.com/teams/Pokitto-Community-Team/code/Maruino/",
+        "https://os.mbed.com/teams/Pokitto-Community-Team/code/Raytracing/",
+        "https://os.mbed.com/users/wuuff/code/sd_map_test/",
+        "https://os.mbed.com/users/trelemar/code/cPong/",
+        "https://os.mbed.com/teams/Pokitto-Community-Team/code/SnowDemo/",
+        "https://os.mbed.com/users/spinal/code/GB_Printer/",
+        "https://os.mbed.com/users/trelemar/code/PolarParcel/",
+        "https://os.mbed.com/teams/Pokitto-Community-Team/code/Mode13/",
+        "https://os.mbed.com/teams/Pokitto-Community-Team/code/HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "edge",
+        "level",
+        "SW",
+        "tact",
+        "Toggle",
+        "Pokitto",
+        "14bit",
+        "3-axis",
+        "8bit",
+        "accelerometer",
+        "I2C",
+        "MMA8451Q"
+    ],
+    "name": "PokittoLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Pokitto/code/PokittoLib/"
+    }
+}

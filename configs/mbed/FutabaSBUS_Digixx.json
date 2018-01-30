@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Uwe Gartmann",
+        "url": "https://os.mbed.com/users/Digixx/"
+    },
+    "description": "Library decoding Futaba SBUS data and control SBUS Servos.",
+    "frameworks": "mbed",
+    "keywords": [
+        "802.15.4",
+        "wireless",
+        "xbee",
+        "Futaba",
+        "MODSERIAL",
+        "SBUS",
+        "Serial"
+    ],
+    "name": "FutabaSBUS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Digixx/code/FutabaSBUS/"
+    }
+}

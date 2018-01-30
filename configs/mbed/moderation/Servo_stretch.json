@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Adam Resnick",
+        "url": "https://os.mbed.com/users/stretch/"
+    },
+    "examples": [
+        "https://os.mbed.com/users/stretch/code/CNCAirbrushCode/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit 9DOF",
+        "LSM303DLHC",
+        "KL25",
+        "touch",
+        "TSI",
+        "I2C",
+        "illuminance",
+        "ROHM",
+        "OneWire",
+        "protocols",
+        "sensors",
+        "led",
+        "SAA1064"
+    ],
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/stretch/code/Servo/"
+    }
+}

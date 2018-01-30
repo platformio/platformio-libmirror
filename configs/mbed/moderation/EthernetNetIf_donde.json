@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Don DeGregori",
+        "url": "https://os.mbed.com/users/donde/"
+    },
+    "frameworks": "mbed",
+    "keywords": [
+        "minutes",
+        "seconds",
+        "stopwatch",
+        "timer",
+        "watch",
+        "AQM1602",
+        "Serial",
+        "Terminal",
+        "VT100",
+        "ethernet",
+        "ip",
+        "mbed"
+    ],
+    "name": "EthernetNetIf-",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donde/code/EthernetNetIf-/"
+    }
+}

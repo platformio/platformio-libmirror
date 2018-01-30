@@ -1,0 +1,49 @@
+{
+    "authors": {
+        "name": "Jon Fuge",
+        "url": "https://os.mbed.com/users/jf1452/"
+    },
+    "description": "Provides a multiplexed dual seven segment display driver used by RenBED",
+    "examples": [
+        "https://os.mbed.com/users/jf1452/code/RenBuggy/",
+        "https://os.mbed.com/users/jf1452/code/RenBEDCounter/",
+        "https://os.mbed.com/teams/Renishaw/code/RenBEDHelloWorld/",
+        "https://os.mbed.com/users/ELloyd/code/AmpBoardTest/",
+        "https://os.mbed.com/users/jf1452/code/RenBed_Reaction_Timer/",
+        "https://os.mbed.com/users/triple/code/DistanceOnSevenSegLed/",
+        "https://os.mbed.com/users/rantistic/code/USBSERIALto7SEG_HelloRanti/",
+        "https://os.mbed.com/users/DanArgust/code/1-RnBgyTmed_Edited/",
+        "https://os.mbed.com/users/MiskinPrj/code/Renbed_Seven_Segment/",
+        "https://os.mbed.com/users/MiskinPrj/code/Renbed_Buggy_Basics/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FAT",
+        "file",
+        "SD",
+        "System",
+        "ARM",
+        "DAY",
+        "heartbeat",
+        "RIT",
+        "DISCO_F746NG",
+        "STM32F746",
+        "APDS9960",
+        "avago",
+        "color",
+        "Gesture",
+        "I2C",
+        "proximity",
+        "sparkfun",
+        "display",
+        "RenBED",
+        "segment",
+        "Seven"
+    ],
+    "name": "SevenSegmentDisplay",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jf1452/code/SevenSegmentDisplay/"
+    }
+}

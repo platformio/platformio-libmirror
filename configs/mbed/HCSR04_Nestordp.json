@@ -1,0 +1,47 @@
+{
+    "authors": {
+        "name": "Nestor Pereira-Neto",
+        "url": "https://os.mbed.com/users/Nestordp/"
+    },
+    "description": "Biblioteca para uso do ultrassom HC-SR04",
+    "examples": [
+        "https://os.mbed.com/users/Nestordp/code/Sonar-HC-SR04/",
+        "https://os.mbed.com/users/Nestordp/code/CarrinhoLabirinto/",
+        "https://os.mbed.com/users/Amber77/code/Nucleo_Us_ticker_20160803/",
+        "https://os.mbed.com/users/diego1332/code/ProjetoSO/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ILI9320",
+        "ILI9325",
+        "ILI9328",
+        "ILI9341",
+        "ILI9481",
+        "ILI9486",
+        "IST3020",
+        "LCD",
+        "MIPI",
+        "parallel",
+        "SPI",
+        "SSD1306",
+        "ST7565",
+        "TFT",
+        "UC1608",
+        "UC1701",
+        "watchdog",
+        "HCSR04",
+        "ultrasonic",
+        "Communication",
+        "data",
+        "Oscilloscope",
+        "prototype",
+        "L3GD20",
+        "minimu-9 v2"
+    ],
+    "name": "HC-SR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Nestordp/code/HC-SR04/"
+    }
+}

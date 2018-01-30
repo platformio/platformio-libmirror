@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Kris Reynolds",
+        "url": "https://os.mbed.com/users/krmreynolds/"
+    },
+    "description": "AHRS library for the Polulu minIMU-9",
+    "frameworks": "mbed",
+    "keywords": [
+        "2",
+        "bus",
+        "CAN",
+        "II",
+        "OBD",
+        "obd2",
+        "obdII",
+        "reader",
+        "AHRS",
+        "minimu-9",
+        "polulu"
+    ],
+    "name": "DCM_AHRS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/krmreynolds/code/DCM_AHRS/"
+    }
+}

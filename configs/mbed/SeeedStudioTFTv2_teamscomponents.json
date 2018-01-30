@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "dependencies": [
+        {
+            "authors": {
+                "url": "https://os.mbed.com/users/components"
+            },
+            "frameworks": "mbed",
+            "name": "SPI_TFT_ILI9341",
+            "url": "https://os.mbed.com/teams/components/code/SPI_TFT_ILI9341/"
+        }
+    ],
+    "description": "Library for SeeedStudioTFTv2 2.8 Zoll 240x360 pixel touch SD card",
+    "examples": [
+        "https://os.mbed.com/users/robouden/code/Seeed_TFT_Touch_Shield/",
+        "https://os.mbed.com/teams/shields/code/Seeed_TFT_Touch_Shield/",
+        "https://os.mbed.com/users/hcseran/code/Adafruit_TFT_Touch_Shield/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_SpectrumAnalyzer/",
+        "https://os.mbed.com/users/pathae/code/Seeed_TFT_Touch_Shield2/",
+        "https://os.mbed.com/users/pathae/code/Seeed_TFT_Touch_Shield_2TSSNEC/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Seeed-Studio-28-TFT-Touch-Shield-V20",
+        "Adafruit-28-TFT-Touch-Shield-v2"
+    ],
+    "name": "SeeedStudioTFTv2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/SeeedStudioTFTv2/"
+    }
+}

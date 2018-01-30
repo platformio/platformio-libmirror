@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "TVZ Mechatronics Team",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/"
+    },
+    "description": "Library for driving a 3-phase brushless DC motor.",
+    "examples": [
+        "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/BLDC_mainProgram/",
+        "https://os.mbed.com/users/vicyap/code/STMF302R8_MotorDrive/",
+        "https://os.mbed.com/teams/ST/code/HelloWorld_IHM07M1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BLDC",
+        "driver",
+        "motor",
+        "maniacbug",
+        "nRF24L01",
+        "nRF24L01P",
+        "RF24",
+        "i2c expander",
+        "MCP23017"
+    ],
+    "name": "BLDCmotorDriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/BLDCmotorDriver/"
+    }
+}
