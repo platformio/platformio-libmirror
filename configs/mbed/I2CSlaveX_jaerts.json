@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Joris Aerts",
+        "url": "https://os.mbed.com/users/jaerts/"
+    },
+    "description": "Extension of original I2CSlave library to support multiple slave addresses and interrupts.",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "interrupt",
+        "slave"
+    ],
+    "name": "I2CSlaveX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jaerts/code/I2CSlaveX/"
+    }
+}

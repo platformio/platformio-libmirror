@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "Pachube",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/Pachube_TestProgram/",
+        "https://os.mbed.com/users/shintamainjp/code/_DearMrJeffMourich/",
+        "https://os.mbed.com/users/shintamainjp/code/StarBoardOrangeExpansion2/",
+        "https://os.mbed.com/users/shintamainjp/code/Toragi_2011_04_Pachube/",
+        "https://os.mbed.com/users/abe00makoto/code/geigercounter04/",
+        "https://os.mbed.com/users/shintamainjp/code/Toragi_2012_PachubeCosm/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Pachube",
+    "name": "Pachube",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/Pachube/"
+    }
+}

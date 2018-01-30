@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Graeme Coapes",
+        "url": "https://os.mbed.com/users/graeme88/"
+    },
+    "description": "a library that provides a connection to a SHT21 temperature and humidity sensor",
+    "examples": [
+        "https://os.mbed.com/users/graeme88/code/test_ncleee/",
+        "https://os.mbed.com/teams/Weather-man/code/WeatherStation/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "SuperTweet",
+        "I2C",
+        "software",
+        "adc",
+        "dac",
+        "PCF8591",
+        "blinking",
+        "led",
+        "SHT21"
+    ],
+    "name": "SHT21_ncleee",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/graeme88/code/SHT21_ncleee/"
+    }
+}

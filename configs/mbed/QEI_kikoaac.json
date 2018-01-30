@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Kiko Ishimoto",
+        "url": "https://os.mbed.com/users/kikoaac/"
+    },
+    "description": "ロータリーエンコーダーのライブラリです。",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "MCP4725",
+        "AnalogIn",
+        "Capacitive",
+        "digitalOut",
+        "sensor",
+        "touch",
+        "display",
+        "driver",
+        "HEXIWEAR",
+        "OLED",
+        "SSD1351",
+        "QEI ロータリーエンコーダ 角度 angle"
+    ],
+    "name": "QEI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kikoaac/code/QEI/"
+    }
+}

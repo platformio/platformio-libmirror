@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Norimasa Okamoto",
+        "url": "https://os.mbed.com/users/va009039/"
+    },
+    "description": "WIZ820io（W5200) network interface、EthernetNetIf compatible.",
+    "frameworks": "mbed",
+    "keywords": [
+        "L298",
+        "motor",
+        "Stepper",
+        "W5200",
+        "WIZ820IO"
+    ],
+    "name": "WIZ820ioNetIf",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/va009039/code/WIZ820ioNetIf/"
+    }
+}

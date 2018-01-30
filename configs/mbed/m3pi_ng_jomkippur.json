@@ -1,0 +1,42 @@
+{
+    "authors": {
+        "name": "Thomas Glatzel",
+        "url": "https://os.mbed.com/users/jomkippur/"
+    },
+    "description": "Library for the m3pi robot. This works with a Pololu 3pi robot with the Serial Slave firmware, and exposes and API.",
+    "examples": [
+        "https://os.mbed.com/users/jomkippur/code/newlib/",
+        "https://os.mbed.com/teams/MEGACARAZ/code/PID/",
+        "https://os.mbed.com/users/nbtavis/code/Robot/",
+        "https://os.mbed.com/users/bbabbs/code/WarehouseBot1/",
+        "https://os.mbed.com/users/bbabbs/code/WarehouseBotBT/",
+        "https://os.mbed.com/users/bbabbs/code/WarehouseBot/",
+        "https://os.mbed.com/users/bbabbs/code/WarehouseBotOther/",
+        "https://os.mbed.com/teams/MEGACARAZ/code/Turning/",
+        "https://os.mbed.com/teams/IESS/code/Robot/",
+        "https://os.mbed.com/teams/MEGACARAZ/code/ILC/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HAM-radio",
+        "I2C",
+        "sdr",
+        "vcxo",
+        "vfo",
+        "color",
+        "led",
+        "nRF51822",
+        "rgb",
+        "WS2812B",
+        "3pi",
+        "m3pi",
+        "robot",
+        "LPC4330"
+    ],
+    "name": "m3pi_ng",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jomkippur/code/m3pi_ng/"
+    }
+}

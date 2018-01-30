@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Y SI",
+        "url": "https://os.mbed.com/users/YSI/"
+    },
+    "description": "lib_LCD_oem",
+    "examples": [
+        "https://os.mbed.com/users/YSI/code/lib_LCD_oem_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "20X4",
+        "ELCD",
+        "LCD",
+        "OEM",
+        "Serial",
+        "I2C",
+        "TCS3472",
+        "TCS34721",
+        "TCS34723",
+        "TCS34725",
+        "TCS34727",
+        "cmsis",
+        "DSP",
+        "4x4",
+        "keypad",
+        "polling"
+    ],
+    "name": "lib_LCD_oem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/YSI/code/lib_LCD_oem/"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "http://mbed.org/users/okini3939/notebook/art-net/",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/ArtNode/",
+        "https://os.mbed.com/users/demian/code/ArtNode/",
+        "https://os.mbed.com/users/okini3939/code/DMXStation/",
+        "https://os.mbed.com/users/gipmad/code/ArtNodeLED/",
+        "https://os.mbed.com/users/tobyspark/code/SPK-DVIMXR/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Art-Net",
+        "DMX",
+        "DMX512",
+        "ethernet",
+        "UDP"
+    ],
+    "name": "DmxArtNet",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/DmxArtNet/"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "authors": {
+        "name": "Trombetta Michele",
+        "url": "https://os.mbed.com/users/trombettamichele/"
+    },
+    "description": "Very simple library for controll a 7 segment display.",
+    "examples": [
+        "https://os.mbed.com/users/trombettamichele/code/Demo_Led7seg/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "arp",
+        "broadcast",
+        "DHCP",
+        "dns",
+        "ethernet",
+        "free",
+        "GPL",
+        "IGMP",
+        "ip",
+        "multicast",
+        "sockets",
+        "TCP",
+        "tcp/ip",
+        "tcpip stack",
+        "UDP",
+        "max31855",
+        "MAX6675",
+        "Thermocouple",
+        "7",
+        "display",
+        "segment",
+        "ACM1602NI",
+        "I2C",
+        "LCD",
+        "Nucleo"
+    ],
+    "name": "Led7Seg",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/trombettamichele/code/Led7Seg/"
+    }
+}

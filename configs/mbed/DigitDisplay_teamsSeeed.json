@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Seeed",
+        "url": "https://os.mbed.com/teams/Seeed/"
+    },
+    "description": "library for Seeed's Grove - 4 Digit Display",
+    "examples": [
+        "https://os.mbed.com/teams/ST-Americas-mbed-Team/code/SeeedStudio_Grove_Sensors_Demo/",
+        "https://os.mbed.com/teams/Multi-Hackers/code/thermostat_fan_demo-fan/",
+        "https://os.mbed.com/users/ramkumarkoppu/code/SeeedStudio_Grove_Sensors_Demo/",
+        "https://os.mbed.com/users/ytsuboi/code/microbit-8-ultrasonic-meter/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GPS",
+        "PCF8575",
+        "display"
+    ],
+    "name": "DigitDisplay",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Seeed/code/DigitDisplay/"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Display Module",
+        "url": "https://os.mbed.com/users/displaymodule/"
+    },
+    "description": "Driver Library for our displays",
+    "examples": [
+        "https://os.mbed.com/users/displaymodule/code/dm_bubbles/",
+        "https://os.mbed.com/users/displaymodule/code/dm_calc/",
+        "https://os.mbed.com/users/displaymodule/code/dm_paint/",
+        "https://os.mbed.com/users/displaymodule/code/dm_sdcard_with_adapter/",
+        "https://os.mbed.com/users/embeddedartists/code/lpc4088_ebb_dm_40pin_spi/",
+        "https://os.mbed.com/users/displaymodule/code/dm_calibrate/",
+        "https://os.mbed.com/users/displaymodule/code/dm_ra8875_demo/",
+        "https://os.mbed.com/users/displaymodule/code/dm_sdcard/",
+        "https://os.mbed.com/users/displaymodule/code/dm_main/",
+        "https://os.mbed.com/users/displaymodule/code/dm_touch/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "18-TFT-with-SPI-Interface",
+        "22-TFT-with-8-bit-interface",
+        "28-Touch-TFT-with-8-bit-Interface",
+        "24-Touch-TFT-with-8-bit-Interface",
+        "28-Touch-TFT-with-SPI-Interface",
+        "35-Touch-TFT-with-SPI-Interface-and-4MB-",
+        "DisplayModule-43-480x272-Arduino-TFT-Shi",
+        "DisplayModule-50-800x480-Arduino-TFT-Shi",
+        "28-240x320-TFT-With-Capacitive-Touch"
+    ],
+    "name": "DmTftLibrary",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/displaymodule/code/DmTftLibrary/"
+    }
+}

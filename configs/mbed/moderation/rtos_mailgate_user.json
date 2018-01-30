@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Stanislav Silnitskiy",
+        "url": "https://os.mbed.com/users/mailgate_user/"
+    },
+    "frameworks": "mbed",
+    "keywords": [
+        "Nucleo",
+        "proximity sensor",
+        "stm32",
+        "X-NUCLEO-53L0A1",
+        "gauge",
+        "rain",
+        "Speed",
+        "vane",
+        "wind"
+    ],
+    "name": "rtos",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mailgate_user/code/rtos/"
+    }
+}

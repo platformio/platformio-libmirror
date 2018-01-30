@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Richard Collins",
+        "url": "https://os.mbed.com/users/RichardUK/"
+    },
+    "examples": [
+        "https://os.mbed.com/teams/virtualmech/code/vmConfort_v6/",
+        "https://os.mbed.com/teams/TVZ-Electrical-engeneering-team/code/Programski_zadatak_23/",
+        "https://os.mbed.com/teams/TVZ-Electrical-engeneering-team/code/Projektni_zadatak_23/",
+        "https://os.mbed.com/teams/TVZ-Electrical-engeneering-team/code/tempivolt/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "APDS9960",
+        "avago",
+        "color",
+        "Gesture",
+        "I2C",
+        "proximity",
+        "sparkfun",
+        "display",
+        "RenBED",
+        "segment",
+        "Seven",
+        "ARM",
+        "DAY",
+        "heartbeat",
+        "RIT"
+    ],
+    "name": "Display1602",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RichardUK/code/Display1602/"
+    }
+}

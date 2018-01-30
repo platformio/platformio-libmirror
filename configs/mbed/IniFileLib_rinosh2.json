@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "rinosh 2",
+        "url": "https://os.mbed.com/users/rinosh2/"
+    },
+    "description": "Simple library of INI file parser.",
+    "examples": [
+        "https://os.mbed.com/users/rinosh2/code/TrainInfoSample/",
+        "https://os.mbed.com/users/jksoft/code/WatchSensorMail/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "2.4",
+        "MCUFRIEND.COM",
+        "Nucleo",
+        "TFT",
+        "file",
+        "ini",
+        "flash",
+        "Serial",
+        "SPI",
+        "CC3000",
+        "SimpleLink",
+        "Wi-Fi",
+        "fast",
+        "FastPWM",
+        "precision",
+        "pwm",
+        "resolution",
+        "Servo",
+        "Speed"
+    ],
+    "name": "IniFileLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rinosh2/code/IniFileLib/"
+    }
+}

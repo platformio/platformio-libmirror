@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Hyeonjong Lee",
+        "url": "https://os.mbed.com/users/leejong87/"
+    },
+    "description": "IRremote",
+    "frameworks": "mbed",
+    "keywords": [
+        "quadcopter",
+        "Servo",
+        "38kHz",
+        "IR",
+        "remote",
+        "Nucleo",
+        "stm32",
+        "Wi-Fi",
+        "X-NUCLEO-IDW01M1"
+    ],
+    "name": "IRremote",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/leejong87/code/IRremote/"
+    }
+}

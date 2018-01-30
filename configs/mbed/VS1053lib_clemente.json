@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "clemente di caprio",
+        "url": "https://os.mbed.com/users/clemente/"
+    },
+    "description": "Library for VS1053 chip",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "Scroll",
+        "TextLCD",
+        "https",
+        "HTTPSClient",
+        "security",
+        "SSL",
+        "TLS",
+        "9-axis",
+        "acc",
+        "BNO055",
+        "Cortex-M0+",
+        "gyro",
+        "MAG",
+        "orientation",
+        "sensor"
+    ],
+    "name": "VS1053lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/clemente/code/VS1053lib/"
+    }
+}

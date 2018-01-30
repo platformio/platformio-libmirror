@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Carlos Silva",
+        "url": "https://os.mbed.com/users/cdtsilva/"
+    },
+    "description": "Code to run the cheap 2.4\" TFT made by mcufriend.com on the STM nucleo. No modifications required, this plugs into the arduino header.",
+    "frameworks": "mbed",
+    "keywords": [
+        "2.4",
+        "MCUFRIEND.COM",
+        "Nucleo",
+        "TFT",
+        "file",
+        "ini",
+        "flash",
+        "Serial",
+        "SPI",
+        "CC3000",
+        "SimpleLink",
+        "Wi-Fi",
+        "fast",
+        "FastPWM",
+        "precision",
+        "pwm",
+        "resolution",
+        "Servo",
+        "Speed"
+    ],
+    "name": "24_TFT_STMNUCLEO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cdtsilva/code/24_TFT_STMNUCLEO/"
+    }
+}

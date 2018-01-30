@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Katsushi Ogawa",
+        "url": "https://os.mbed.com/users/KatsushiOgawa/"
+    },
+    "examples": [
+        "https://os.mbed.com/users/mio/code/lpclcd/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "email",
+        "SMTP",
+        "finder",
+        "range",
+        "ultrasound"
+    ],
+    "name": "I2cLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/KatsushiOgawa/code/I2cLCD/"
+    }
+}

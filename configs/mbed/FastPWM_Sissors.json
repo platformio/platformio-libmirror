@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "Library that allows for higher resolution and speed than standard mbed PWM library using same syntax (drop-in replacement).",
+    "examples": [
+        "https://os.mbed.com/users/geotec/code/PwmOscillator/",
+        "https://os.mbed.com/users/daapp/code/FastStepDriver/",
+        "https://os.mbed.com/users/Spencer/code/TLC5940/",
+        "https://os.mbed.com/users/sampullman/code/CameraTest/",
+        "https://os.mbed.com/users/HMFK03LST1/code/H2M_2014_race/",
+        "https://os.mbed.com/users/acracan/code/BLDC_control/",
+        "https://os.mbed.com/users/jzeeff/code/espresso-machine-control/",
+        "https://os.mbed.com/users/Josvth/code/Eavesdropper/",
+        "https://os.mbed.com/users/dudanian/code/TLC5940Servo/",
+        "https://os.mbed.com/users/Clemo/code/kinetisizer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "pwm",
+        "resolution",
+        "Speed"
+    ],
+    "name": "FastPWM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/FastPWM/"
+    }
+}

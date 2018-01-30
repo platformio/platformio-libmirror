@@ -45,7 +45,7 @@ class MbedTopSpider(scrapy.Spider):
 
     # parse the library page
     def parse_project(self, response):
-        self.seen_urls.append(response.url)
+        # self.seen_urls.append(response.url)
 
         l = MbedLibLoader(item=MbedLibItem(), response=response)
         l.add_xpath('repo_type', './/*[@class="three columns sidebar "]//div[2]/table/tr[1]/td/text()[2]')
@@ -75,9 +75,9 @@ class MbedTopSpider(scrapy.Spider):
             print("****** dependencies for", item['name'], "are:",deplist)
             for url in deplist:
                 if (url != "/") and (url[0] == '/') : url = 'https://os.mbed.com'+url
-                if ("https://" in url) and not (url in self.seen_urls):
+                if ("https://" in url and "components" not in url):# and not (url in self.seen_urls):
                     print (">>>>>>>>>>> follow dependency",url)
-                    yield scrapy.Request(url,callback=self.parse_project)
+                    yield scrapy.Request(url,callback=self.parse_project,dont_filter=True)
 
             deps = []
             for url in deplist:
@@ -86,13 +86,14 @@ class MbedTopSpider(scrapy.Spider):
                 print( "---- dependency urllist is len",len(urllist),": ",urllist)
                 if (len(urllist) > 4) and not is_mbed_core_library(owner=urllist[2],name=urllist[4]):
                     deps_owner_nickname = urllist[2]
-                    owner_request = scrapy.Request('https://os.mbed.com/users/'+deps_owner_nickname, callback = self.parse_owner)
-                    owner_request.meta['item'] = item
-                    owner_request.meta['url'] = 'https://os.mbed.com/users/'+deps_owner_nickname
-                    deps.append({ 'name' : urllist[4], 'frameworks' : 'mbed','url':"https://os.mbed.com" + url, 'authors':{"url":'https://os.mbed.com/users/'+urllist[2]}})
-                    yield owner_request
+                    if(deps_owner_nickname!="components"):
+                        owner_request = scrapy.Request('https://os.mbed.com/users/'+deps_owner_nickname, callback = self.parse_owner,dont_filter=True)
+                        owner_request.meta['item'] = item
+                        owner_request.meta['url'] = 'https://os.mbed.com/users/'+deps_owner_nickname
+                        deps.append({ 'name' : urllist[4], 'frameworks' : 'mbed','url':"https://os.mbed.com" + url, 'authors':[{"url":'https://os.mbed.com/users/'+urllist[2]}] })
+                        yield owner_request
             if len(deps)>0: item['dependencies'] = deps
-
+            print("dependencies is ",deps)
         request = scrapy.Request(response.meta['libpage']+"dependents",callback=self.parse_examples)
         request.meta['libpage'] = response.meta['libpage']
         request.meta['item'] = item
@@ -159,7 +160,8 @@ class MbedTopSpider(scrapy.Spider):
         print("|||||||||||||",item)
         print("||||||||||||||||")
         for i in range(len(item['dependencies'])):
-            item['dependencies'][i]['authors'] = (owner[0])
+            # if isinstance(resource, str):
+            item['dependencies'][i]['authors'] = [owner[0]]
             item['dependencies'][i].pop('url', None)
             # if url == item['dependencies'][i]['authors']['url']:
                 # item['dependencies'][i]['authors'].update({'name':owner[0]})

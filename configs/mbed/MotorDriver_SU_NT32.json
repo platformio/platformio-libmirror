@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "naoto tanaka",
+        "url": "https://os.mbed.com/users/NT32/"
+    },
+    "description": "shindai",
+    "examples": [
+        "https://os.mbed.com/users/12f2030a/code/linetrace/",
+        "https://os.mbed.com/users/12f2039e/code/tracer/",
+        "https://os.mbed.com/users/12F2041G/code/tracer/",
+        "https://os.mbed.com/users/12f2039e/code/tracer1/",
+        "https://os.mbed.com/users/12F2041G/code/tracer1105/",
+        "https://os.mbed.com/users/12F2041G/code/tracer1106/",
+        "https://os.mbed.com/users/12f2039e/code/tracer1106/",
+        "https://os.mbed.com/users/12f2027a/code/termB/",
+        "https://os.mbed.com/users/12f2027a/code/termB-1/",
+        "https://os.mbed.com/users/12f2027a/code/termB1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CAN",
+        "FreeIMU",
+        "IMU",
+        "MPU6050"
+    ],
+    "name": "MotorDriver_SU",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/NT32/code/MotorDriver_SU/"
+    }
+}

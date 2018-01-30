@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Kenta Shimizu",
+        "url": "https://os.mbed.com/users/KentaShimizu/"
+    },
+    "description": "Buffering Serial receive data class",
+    "examples": [
+        "https://os.mbed.com/users/ivanff15/code/10dof/",
+        "https://os.mbed.com/users/ivanff15/code/10dof2/",
+        "https://os.mbed.com/users/robo8080/code/TTB_Wallbot/",
+        "https://os.mbed.com/teams/raspiezo/code/Nucleo_L432KC_Quadrature_Decoder_with_AD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Serial",
+    "name": "BufferSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/KentaShimizu/code/BufferSerial/"
+    }
+}

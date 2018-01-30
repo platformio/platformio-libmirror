@@ -1,0 +1,45 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "SPI Flash memory",
+    "examples": [
+        "https://os.mbed.com/users/apm_litoral/code/AT45DB161D/",
+        "https://os.mbed.com/users/okini3939/code/SPIFLASH_AT45DB/",
+        "https://os.mbed.com/users/chalikias/code/n-bed_AT45DB161E/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "interrupt",
+        "PPM",
+        "pwm",
+        "RC",
+        "Receiver",
+        "AM2321",
+        "Humidity",
+        "I2C",
+        "sensor",
+        "Temperature",
+        "RHT",
+        "Si7013",
+        "Si7020",
+        "Si7021",
+        "Silicon Labs",
+        "silicon_labs",
+        "siliconlabs",
+        "AT45DB081D",
+        "AT45DB161D",
+        "AT45DB321D",
+        "EEPROM",
+        "flash",
+        "memory",
+        "SPI"
+    ],
+    "name": "at45db161d",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/at45db161d/"
+    }
+}

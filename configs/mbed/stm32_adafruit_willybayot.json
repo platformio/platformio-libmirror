@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "WILLY BAYOT",
+        "url": "https://os.mbed.com/users/willybayot/"
+    },
+    "description": "ADAFRUIT CLD & SD lib",
+    "examples": [
+        "https://os.mbed.com/users/willybayot/code/TDEMNucleo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Altimeter",
+        "barometer",
+        "Humitity",
+        "I2C",
+        "Temparature"
+    ],
+    "name": "stm32_adafruit",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/willybayot/code/stm32_adafruit/"
+    }
+}

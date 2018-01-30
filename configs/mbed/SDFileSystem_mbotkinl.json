@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Micah B",
+        "url": "https://os.mbed.com/users/mbotkinl/"
+    },
+    "description": "sd",
+    "examples": [
+        "https://os.mbed.com/users/mbotkinl/code/finalV1/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalV1/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalv2/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalv3/",
+        "https://os.mbed.com/teams/Aqueles-Que-Nao-Sabem-O-Que-Fazem/code/Card/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BLDC",
+        "driver",
+        "motor",
+        "i2c expander",
+        "MCP23017",
+        "maniacbug",
+        "nRF24L01",
+        "nRF24L01P",
+        "RF24"
+    ],
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbotkinl/code/SDFileSystem/"
+    }
+}

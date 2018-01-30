@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Carl - SolderSplash Labs",
+        "url": "https://os.mbed.com/users/SolderSplashLabs/"
+    },
+    "description": "NTP Client for the mbed networking libraries",
+    "examples": [
+        "https://os.mbed.com/users/SolderSplashLabs/code/WiFiDip-KitchenSink/",
+        "https://os.mbed.com/teams/Solder-Splash/code/WiFiDip-UsbKitchenSink/",
+        "https://os.mbed.com/users/markirwin/code/WiFiDipCortexSensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "NTP",
+        "accelerometer",
+        "gyroscope",
+        "IMU",
+        "LSM9DS0",
+        "magnetometer",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "NTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SolderSplashLabs/code/NTPClient/"
+    }
+}

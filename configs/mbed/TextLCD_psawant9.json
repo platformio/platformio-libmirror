@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Pranav Sawant",
+        "url": "https://os.mbed.com/users/psawant9/"
+    },
+    "description": "Oct122012mbedLab",
+    "examples": [
+        "https://os.mbed.com/users/psawant9/code/Lab3_VoiceMeter/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "90393",
+        "MLX",
+        "mlx90393"
+    ],
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/psawant9/code/TextLCD/"
+    }
+}

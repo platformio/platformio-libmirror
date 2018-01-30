@@ -1,0 +1,49 @@
+{
+    "authors": {
+        "name": "Nordic Pucks",
+        "url": "https://os.mbed.com/teams/Nordic-Pucks/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                {
+                    "url": "https://os.mbed.com/users/Bluetooth-Low-Energy"
+                }
+            ],
+            "frameworks": "mbed",
+            "name": "BLE_API",
+            "url": "https://os.mbed.com/teams/Bluetooth-Low-Energy/code/BLE_API/"
+        }
+    ],
+    "description": "A library for easier setup and prototyping of IoT devices (pucks), by collecting everything that is common for all pucks in one place.",
+    "examples": [
+        "https://os.mbed.com/users/cristea/code/ir-puck/",
+        "https://os.mbed.com/users/cristea/code/display-puck/",
+        "https://os.mbed.com/users/cristea/code/ir-puck2/",
+        "https://os.mbed.com/users/Bobty/code/BLE_ScoringDevice/",
+        "https://os.mbed.com/users/malvira/code/ble-pwm-led-puck/",
+        "https://os.mbed.com/users/sushant/code/location_punk/",
+        "https://os.mbed.com/users/dludowise/code/location_puck/",
+        "https://os.mbed.com/users/bundy62/code/Wens_Test/",
+        "https://os.mbed.com/users/sigveseb/code/Example_Puck_BLE/",
+        "https://os.mbed.com/teams/Nordic-Semiconductor/code/Example_Puck_BLE/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "bluetooth",
+        "nRF51822",
+        "motor",
+        "Stepper",
+        "SSL",
+        "TLS",
+        "TLS1.3",
+        "wolfSSL"
+    ],
+    "name": "Puck",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nordic-Pucks/code/Puck/"
+    }
+}
