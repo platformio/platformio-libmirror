@@ -1,0 +1,45 @@
+{
+    "authors": {
+        "name": "David Rimer",
+        "url": "https://os.mbed.com/users/davidr99/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Erik Olieman"
+            ],
+            "frameworks": "mbed",
+            "name": "MODSERIAL"
+        }
+    ],
+    "description": "VC0706 driver for radio shack camera shield",
+    "frameworks": "mbed",
+    "keywords": [
+        "hotboards",
+        "keyboard",
+        "Display Module",
+        "emwin",
+        "LPC4088DM",
+        "ShiftRegister",
+        "TextLCD",
+        "camera",
+        "radioshack",
+        "shield",
+        "VC0706",
+        "Kinematics",
+        "lauther",
+        "math",
+        "matrix",
+        "robot",
+        "Robotics"
+    ],
+    "name": "VC0706CameraShield",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/davidr99/code/VC0706CameraShield/"
+        }
+    }
+}

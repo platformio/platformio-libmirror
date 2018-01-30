@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Andy Kirkham",
+        "url": "https://os.mbed.com/users/AjK/"
+    },
+    "description": "A simple API/Software interface to the LPC17xx PWM peripheral to provide control to up to six RC type servo controllers.",
+    "frameworks": "mbed",
+    "keywords": [
+        "L3GD20",
+        "minimu-9 v2",
+        "control",
+        "RC",
+        "remote",
+        "Servo",
+        "card",
+        "ChaNFS",
+        "SD",
+        "EthernetNetIf"
+    ],
+    "name": "SimpleRCservos",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AjK/code/SimpleRCservos/"
+    }
+}

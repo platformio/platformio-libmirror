@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Anil Kandangath",
+        "url": "https://os.mbed.com/users/kandangath/"
+    },
+    "description": "Debounce InterruptIn",
+    "examples": [
+        "https://os.mbed.com/teams/AIES/code/led_sigfox/",
+        "https://os.mbed.com/teams/AIES/code/Allumag_lampe_sigfox/",
+        "https://os.mbed.com/teams/Case-study-Embedded-System-Design/code/Case_study_02_Turnstile/",
+        "https://os.mbed.com/users/PKnevermind/code/B18_MP3_PLAYER/",
+        "https://os.mbed.com/teams/FRA221_2015/code/B18_MP3_PLAYER/",
+        "https://os.mbed.com/users/casiotone401/code/OSCtoCVConverter/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "debounce",
+        "interrupt"
+    ],
+    "name": "DebouncedInterrupt",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kandangath/code/DebouncedInterrupt/"
+    }
+}

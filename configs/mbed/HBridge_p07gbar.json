@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Giles Barton-Owen",
+        "url": "https://os.mbed.com/users/p07gbar/"
+    },
+    "description": "A simple Hbridge driver library (tested with the L293D). It uses a PWM pin on the enable and two DIOs on the control pins. Versatile.",
+    "examples": [
+        "https://os.mbed.com/users/p07gbar/code/RSALB_hbridge_helloworld/",
+        "https://os.mbed.com/users/p07gbar/code/RSALB_lobster/",
+        "https://os.mbed.com/teams/Netcentric-Computing/code/uva_nc/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "H-bridge",
+        "library",
+        "motor",
+        "motor driver",
+        "solenoid",
+        "stepper motor"
+    ],
+    "name": "HBridge",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/p07gbar/code/HBridge/"
+    }
+}

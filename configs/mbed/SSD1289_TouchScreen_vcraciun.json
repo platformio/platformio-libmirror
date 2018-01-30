@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Vlad Craciun",
+        "url": "https://os.mbed.com/users/vcraciun/"
+    },
+    "description": "SSD128 TouchScreen Library based on Todor Todorov tftlcd library",
+    "frameworks": "mbed",
+    "keywords": [
+        "debounce",
+        "interrupt"
+    ],
+    "name": "SSD1289_TouchScreen",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vcraciun/code/SSD1289_TouchScreen/"
+    }
+}

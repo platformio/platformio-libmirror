@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Juan Luis Palacio",
+        "url": "https://os.mbed.com/users/jlpalaci/"
+    },
+    "description": "mbed library implementation for Freescale microcontrollers - fast ADC",
+    "examples": [
+        "https://os.mbed.com/users/jlpalaci/code/Sensor_vibraciones/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Freescale",
+        "mbed",
+        "Essex",
+        "AnalogIn",
+        "filter",
+        "median",
+        "outlier",
+        "spikes"
+    ],
+    "name": "mbed-Freescale",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jlpalaci/code/mbed-Freescale/"
+    }
+}

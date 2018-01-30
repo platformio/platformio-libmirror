@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Dieter Graef",
+        "url": "https://os.mbed.com/users/DieterGraef/"
+    },
+    "description": "SDFileSystem for STM32F746NG DISCOVERY with 4bit SDMMC interface on fixed pins",
+    "examples": [
+        "https://os.mbed.com/users/DieterGraef/code/DISCO-F746NG_SDFileSystem/",
+        "https://os.mbed.com/users/shoaib_ahmed/code/uzairkhan/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "EEPROM",
+        "LPC11U24",
+        "DHT22",
+        "BLE",
+        "bluetooth",
+        "simpleble",
+        "Altitude",
+        "bmp085",
+        "pressure",
+        "Temperature",
+        "SDFileSystem",
+        "STM32F746",
+        "device",
+        "Nucleo",
+        "USB"
+    ],
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DieterGraef/code/SDFileSystem/"
+    }
+}

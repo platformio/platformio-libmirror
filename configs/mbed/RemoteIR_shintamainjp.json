@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "RemoteIR.",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/RemoteIR_TestProgram/",
+        "https://os.mbed.com/users/shintamainjp/code/SerialGPS_TestProgram/",
+        "https://os.mbed.com/users/shintamainjp/code/StarBoardOrangeExpansion1/",
+        "https://os.mbed.com/users/mversteeg3/code/Door_Slamming_Device/",
+        "https://os.mbed.com/users/kiban_honpo/code/IR/",
+        "https://os.mbed.com/users/suupen/code/HonyBeePropoIR_TestProgram/",
+        "https://os.mbed.com/users/sarvagyavaish/code/SmartRemote-Loopback_Test/",
+        "https://os.mbed.com/users/sammacjunkie/code/SmartRemote/",
+        "https://os.mbed.com/users/MrBearing/code/RPC_IR_Remote/",
+        "https://os.mbed.com/users/dan_cuspi/code/OMNi-Robot_no_borrar/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "IR",
+        "remote"
+    ],
+    "name": "RemoteIR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/RemoteIR/"
+    }
+}

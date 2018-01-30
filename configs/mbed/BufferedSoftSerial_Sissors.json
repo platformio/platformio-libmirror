@@ -1,0 +1,53 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Sam Grove"
+            ],
+            "frameworks": "mbed",
+            "name": "Buffer"
+        }
+    ],
+    "description": "Inherit from SoftSerial and use software buffers for TX and RX. This allows the SoftSerial to operate in a IRQ driven mode. Overrides most (but not all) stdio functions as SoftSerial did",
+    "examples": [
+        "https://os.mbed.com/users/MR_Kang/code/2014_Ensoul_Capstone/",
+        "https://os.mbed.com/users/dragyu/code/F103RB_tcp_rtu_modbus_copy_v1_0/",
+        "https://os.mbed.com/users/Zushauque/code/SDP_Testing/",
+        "https://os.mbed.com/users/hyeonchanglee/code/Nucleo_SFM/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FAT",
+        "file",
+        "Filenames",
+        "fixes",
+        "Long",
+        "System",
+        "buffer",
+        "BufferedSerial",
+        "BufferSerial",
+        "Serial",
+        "SoftSerial",
+        "software",
+        "debug",
+        "library",
+        "f401",
+        "internal",
+        "mbed",
+        "Nucleo",
+        "Temperature"
+    ],
+    "name": "BufferedSoftSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/Sissors/code/BufferedSoftSerial/"
+        }
+    }
+}

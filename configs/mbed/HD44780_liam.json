@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Liam Lee",
+        "url": "https://os.mbed.com/users/liam/"
+    },
+    "description": "the code need imporve later",
+    "frameworks": "mbed",
+    "keywords": [
+        "authorization",
+        "client",
+        "custom",
+        "headers",
+        "http",
+        "HTTPClient",
+        "HD44780",
+        "buffer",
+        "ring"
+    ],
+    "name": "HD44780",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/liam/code/HD44780/"
+    }
+}

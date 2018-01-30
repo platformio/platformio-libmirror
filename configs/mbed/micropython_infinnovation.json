@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Colin Hogben",
+        "url": "https://os.mbed.com/users/infinnovation/"
+    },
+    "description": "Port of MicroPython to the mbed platform.",
+    "examples": [
+        "https://os.mbed.com/users/infinnovation/code/micropython-repl/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "micropython",
+        "python",
+        "autoconf",
+        "bonjour",
+        "DHCP",
+        "ethernet",
+        "HTTP server",
+        "HTTPServer",
+        "mdns",
+        "MiMic",
+        "Networking Libraries",
+        "SSDP",
+        "UPnP",
+        "webserver",
+        "CAN",
+        "Queue",
+        "Freescale",
+        "mbed"
+    ],
+    "name": "micropython",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/infinnovation/code/micropython/"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Mark Radbourne",
+        "url": "https://os.mbed.com/users/markrad/"
+    },
+    "description": "mbed TLS Build",
+    "examples": [
+        "https://os.mbed.com/users/ritesh2094/code/Encrypt_Decrypt1/",
+        "https://os.mbed.com/users/bentor/code/mbed_blink_tls/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "EEPROM",
+        "LPC11U24",
+        "DHT22",
+        "BLE",
+        "bluetooth",
+        "simpleble",
+        "Altitude",
+        "bmp085",
+        "pressure",
+        "Temperature",
+        "SDFileSystem",
+        "STM32F746",
+        "device",
+        "Nucleo",
+        "USB"
+    ],
+    "name": "mbedtls",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/markrad/code/mbedtls/"
+    }
+}

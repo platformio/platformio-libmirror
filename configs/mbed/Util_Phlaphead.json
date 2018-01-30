@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Robert Ellis",
+        "url": "https://os.mbed.com/users/Phlaphead/"
+    },
+    "description": "Utility library. Some string and mbed memory utilities.",
+    "frameworks": "mbed",
+    "keywords": [
+        "counter",
+        "frequency",
+        "LPC1114",
+        "LPC1768",
+        "stm32f401",
+        "STM32F411",
+        "audio",
+        "HQ",
+        "I2S",
+        "TLV320",
+        "memory",
+        "string",
+        "tokenize",
+        "trim",
+        "utility",
+        "Beep",
+        "merody",
+        "sound"
+    ],
+    "name": "Util",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Phlaphead/code/Util/"
+    }
+}

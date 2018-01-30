@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "han jisan",
+        "url": "https://os.mbed.com/users/nexseed/"
+    },
+    "description": "led test",
+    "frameworks": "mbed",
+    "keywords": [
+        "clock",
+        "ds1302",
+        "real",
+        "RTC",
+        "time",
+        "compass",
+        "LSM303DLHC",
+        "magnetometer",
+        "sensors"
+    ],
+    "name": "Nucleo_blink_led",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nexseed/code/Nucleo_blink_led/"
+    }
+}

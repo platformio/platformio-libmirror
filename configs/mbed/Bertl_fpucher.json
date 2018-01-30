@@ -1,0 +1,52 @@
+{
+    "authors": {
+        "name": "Franz Pucher",
+        "url": "https://os.mbed.com/users/fpucher/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                {
+                    "url": "https://os.mbed.com/users/BERTL_CHEL_18"
+                }
+            ],
+            "frameworks": "mbed",
+            "name": "HCSR",
+            "url": "https://os.mbed.com/teams/BERTL_CHEL_18/code/HCSR/"
+        }
+    ],
+    "description": "Leds work simultanously. Version 3.1",
+    "examples": [
+        "https://os.mbed.com/users/niclasesterl/code/bertl_led/",
+        "https://os.mbed.com/users/bulmecisco/code/bertl_led/",
+        "https://os.mbed.com/users/Joci1221/code/bertl_led/",
+        "https://os.mbed.com/users/BenjaminMinixhofer/code/bertl_led/",
+        "https://os.mbed.com/users/david22/code/Bertel_led/",
+        "https://os.mbed.com/users/Dominik_2000/code/bertl_led/",
+        "https://os.mbed.com/users/david_burg/code/bertl_led/",
+        "https://os.mbed.com/users/Joci1221/code/Bertl_Aufgabe_5/",
+        "https://os.mbed.com/users/david22/code/eigene_Funktionen/",
+        "https://os.mbed.com/users/Nicholas_/code/EigenesProgramm/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit_GFX",
+        "2015",
+        "Bertl",
+        "Cellular",
+        "Dragonfly",
+        "http",
+        "https",
+        "MTSAS",
+        "multitech",
+        "SMS",
+        "TCP",
+        "UDP"
+    ],
+    "name": "Bertl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fpucher/code/Bertl/"
+    }
+}

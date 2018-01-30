@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "att hackathon",
+        "url": "https://os.mbed.com/users/atthackathon/"
+    },
+    "description": "mbed Application board library for on-board LCD",
+    "examples": [
+        "https://os.mbed.com/users/atthackathon/code/DallasHackathon/",
+        "https://os.mbed.com/users/ssery/code/app-board-Joystick-with-LCD/",
+        "https://os.mbed.com/users/thomas_sullivan/code/HW7-1_Xively_Thermostat/",
+        "https://os.mbed.com/users/yantao/code/analog-transportation-systems/",
+        "https://os.mbed.com/users/thomas_sullivan/code/IOT_Project_AnalogDisplay/",
+        "https://os.mbed.com/users/fgroepper/code/Potistellung_auf_LCD/",
+        "https://os.mbed.com/users/jelzemann/code/Praktikum2/",
+        "https://os.mbed.com/users/jessekaiser/code/EMGcontrol_XY_Table/",
+        "https://os.mbed.com/users/chapfohn/code/ADCdemo/",
+        "https://os.mbed.com/teams/UH-IoT/code/Joystick-with-LCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DMA",
+        "KL25z",
+        "AQM1602",
+        "I2C",
+        "Nucleo",
+        "UIT",
+        "accelerometer"
+    ],
+    "name": "C12832_lcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/atthackathon/code/C12832_lcd/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Matthew Waddilove",
+        "url": "https://os.mbed.com/users/giryan/"
+    },
+    "description": "To enable TextDisplays\\' use as a lib I removed main.cpp",
+    "examples": [
+        "https://os.mbed.com/users/giryan/code/TextLCD_Serial/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Callback",
+        "FunctionPointer",
+        "Functor",
+        "esc",
+        "pwm",
+        "RC"
+    ],
+    "name": "TextDisplays",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/giryan/code/TextDisplays/"
+    }
+}

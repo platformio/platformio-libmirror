@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Lancaster University",
+        "url": "https://os.mbed.com/teams/Lancaster-University/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                {
+                    "url": "https://os.mbed.com/users/Lancaster-University"
+                }
+            ],
+            "frameworks": "mbed",
+            "name": "BLE_API",
+            "url": "https://os.mbed.com/teams/Lancaster-University/code/BLE_API/"
+        }
+    ],
+    "description": "mbed.org local branch of microbit-dal.",
+    "examples": [
+        "https://os.mbed.com/teams/Lancaster-University/code/microbit/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "128x64",
+        "LCD",
+        "ST7920",
+        "check;",
+        "CRC",
+        "CRC16;",
+        "Cyclic",
+        "redundancy"
+    ],
+    "name": "microbit-dal",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Lancaster-University/code/microbit-dal/"
+    }
+}

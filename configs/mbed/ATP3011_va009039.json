@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Norimasa Okamoto",
+        "url": "https://os.mbed.com/users/va009039/"
+    },
+    "description": "AquesTalk pico LSI I2C interface",
+    "frameworks": "mbed",
+    "keywords": [
+        "AT",
+        "commands",
+        "control",
+        "door",
+        "modem",
+        "USB",
+        "Vodafone",
+        "AquesTalk",
+        "ATP3011",
+        "micropython",
+        "python",
+        "mbed",
+        "Serial",
+        "UART"
+    ],
+    "name": "ATP3011",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/va009039/code/ATP3011/"
+    }
+}

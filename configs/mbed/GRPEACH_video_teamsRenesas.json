@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Renesas",
+        "url": "https://os.mbed.com/teams/Renesas/"
+    },
+    "description": "Video library for GR-PEACH",
+    "examples": [
+        "https://os.mbed.com/users/ssuzukito/code/Trace_Program2/",
+        "https://os.mbed.com/users/RyoheiHagimoto/code/GR-PEACH_Camera_in_barcode/",
+        "https://os.mbed.com/users/dkato/code/GR-PEACH_LCD_sample/",
+        "https://os.mbed.com/users/dkato/code/GR-PEACH_LCD_4_3inch_sample/",
+        "https://os.mbed.com/users/1050186/code/ImageZoomInout_Sample/",
+        "https://os.mbed.com/users/1050186/code/ImageRotaion_Sample/",
+        "https://os.mbed.com/users/1050186/code/ImageScroll_Sample/",
+        "https://os.mbed.com/users/1050186/code/DrawImage_by_2_gesture_sensor/",
+        "https://os.mbed.com/users/dkato/code/GR-PEACH_LCD_shield_touch_sample/",
+        "https://os.mbed.com/users/1050186/code/GR-PEACH_LCD_4_3inch_Save_to_USB/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GR-PEACH",
+    "name": "GR-PEACH_video",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Renesas/code/GR-PEACH_video/"
+    }
+}

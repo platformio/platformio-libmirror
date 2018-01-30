@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Georgios Petrou",
+        "url": "https://os.mbed.com/users/GIPetrou/"
+    },
+    "description": "Serial Half Duplex implementation",
+    "frameworks": "mbed",
+    "keywords": [
+        "SerialHalfDuplex",
+        "NTP",
+        "accelerometer",
+        "Grove",
+        "I2C",
+        "MMA7660FC",
+        "ITG3200",
+        "sparkfun"
+    ],
+    "name": "SerialHalfDuplex",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/GIPetrou/code/SerialHalfDuplex/"
+    }
+}

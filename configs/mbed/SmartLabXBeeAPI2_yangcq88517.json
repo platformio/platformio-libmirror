@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "CHENGQI YANG",
+        "url": "https://os.mbed.com/users/yangcq88517/"
+    },
+    "description": "XBee API operation library for mbed",
+    "frameworks": "mbed",
+    "keywords": [
+        "HEJ",
+        "44100",
+        "audio",
+        "FAT",
+        "khz",
+        "mbedaudio",
+        "micro",
+        "pwm",
+        "SD",
+        "SMARTWAV",
+        "sound",
+        "stereo",
+        "wav",
+        "api",
+        "xbee",
+        "zigbee"
+    ],
+    "name": "SmartLabXBeeAPI2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yangcq88517/code/SmartLabXBeeAPI2/"
+    }
+}

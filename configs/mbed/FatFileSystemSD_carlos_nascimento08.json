@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Carlos Alberto Nascimento Filho",
+        "url": "https://os.mbed.com/users/carlos_nascimento08/"
+    },
+    "description": "Sd card",
+    "examples": [
+        "https://os.mbed.com/users/Dhruv_Varun/code/final_proj1/",
+        "https://os.mbed.com/users/lndv3/code/RoboPanorama/",
+        "https://os.mbed.com/users/carlos_nascimento08/code/Andar_Linha_Reta_Robo_Claw_v1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Linked",
+        "Linked List",
+        "List",
+        "GPS",
+        "test"
+    ],
+    "name": "FatFileSystemSD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/carlos_nascimento08/code/FatFileSystemSD/"
+    }
+}

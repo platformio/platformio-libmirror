@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "NFC library using PN532 to read/write NDEF Messages to NFC tags",
+    "examples": [
+        "https://os.mbed.com/teams/shields/code/Seeed_NFC_Shield_write/",
+        "https://os.mbed.com/users/Zukya/code/Nucleo_test_nfc/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "led",
+        "SAA1064",
+        "NDEF",
+        "NFC",
+        "PN532",
+        "motor",
+        "pwm",
+        "sparkfun",
+        "TB6612FNG",
+        "watchdog"
+    ],
+    "name": "PN532",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/PN532/"
+    }
+}

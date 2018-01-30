@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Masayoshi Takahashi",
+        "url": "https://os.mbed.com/users/takahashim/"
+    },
+    "description": "OAuth library for twitter.",
+    "examples": [
+        "https://os.mbed.com/users/geodenx/code/OAuth4Tw/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "W5200",
+        "WIZ820IO",
+        "cmsis",
+        "rtos",
+        "RTX",
+        "led",
+        "LPD8803",
+        "LPD8806",
+        "LPD8809",
+        "SPI",
+        "OAuth",
+        "twitter"
+    ],
+    "name": "OAuth4Tw",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/takahashim/code/OAuth4Tw/"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "authors": {
+        "name": "David Smart",
+        "url": "https://os.mbed.com/users/WiredHome/"
+    },
+    "description": "A simple web server that can be bound to either the EthernetInterface or the WiflyInterface.",
+    "examples": [
+        "https://os.mbed.com/users/WiredHome/code/WattEye/",
+        "https://os.mbed.com/users/WiredHome/code/Smart-WiFly-WebServer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Radio",
+        "rf",
+        "rfm69",
+        "comparator",
+        "KL25z",
+        "Dynamic",
+        "ethernet",
+        "http",
+        "pages",
+        "server",
+        "static",
+        "Web",
+        "WiFly",
+        "2",
+        "gpu",
+        "mbed",
+        "smart",
+        "SmartGPU2",
+        "technologies",
+        "vizic"
+    ],
+    "name": "SW_HTTPServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WiredHome/code/SW_HTTPServer/"
+    }
+}

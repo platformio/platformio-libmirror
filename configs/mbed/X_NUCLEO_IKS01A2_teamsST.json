@@ -1,0 +1,67 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "shigeru tanaka"
+            ],
+            "frameworks": "mbed",
+            "name": "HTS221"
+        }
+    ],
+    "description": "Firmware Library for X-NUCLEO-IKS01A2 (MEMS Inertial & Environmental Sensors) Expansion Board",
+    "examples": [
+        "https://os.mbed.com/teams/Due-Ingegneri-Ed-Un-Controllore/code/Giroscopio_main/",
+        "https://os.mbed.com/teams/duckietownhsunina/code/HelloWorld_IKS01A2/",
+        "https://os.mbed.com/teams/DuckieTownHS_FabLab/code/DuckieTownCar/",
+        "https://os.mbed.com/teams/duckietownhsunina1/code/HelloWorld_IKS01A2/",
+        "https://os.mbed.com/teams/duckietownhsunina1/code/AccpiuGiroscopio_timer/",
+        "https://os.mbed.com/teams/duckietownhsunina1/code/AccpiuGiroscopio/",
+        "https://os.mbed.com/teams/duckietownhsunina1/code/prova_motore/",
+        "https://os.mbed.com/teams/duckietownhsunina1/code/AccpiuGiroscopio_timer_copy/",
+        "https://os.mbed.com/teams/duckietownhsunina1/code/prova_motore_duck/",
+        "https://os.mbed.com/teams/duckietownhsunina1/code/Giroscopio_timer_fast/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GR-PEACH",
+        "HTU21D",
+        "Humidity",
+        "I2C",
+        "K64F",
+        "KL25z",
+        "Temperature",
+        "driver",
+        "Graphics",
+        "ILI9340",
+        "LCD",
+        "SPI",
+        "TFT",
+        "PS2",
+        "GPIO",
+        "distance",
+        "eco",
+        "range",
+        "sonic",
+        "Ultra",
+        "HTS221",
+        "LPS22HB",
+        "LSM303AGR",
+        "LSM6DSL",
+        "Nucleo",
+        "X-NUCLEO-IKS01A1",
+        "X-NUCLEO-IKS01A2"
+    ],
+    "name": "X_NUCLEO_IKS01A2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/teams/ST/code/X_NUCLEO_IKS01A2/"
+        }
+    }
+}

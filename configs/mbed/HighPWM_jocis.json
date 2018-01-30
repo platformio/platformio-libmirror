@@ -1,0 +1,48 @@
+{
+    "authors": {
+        "name": "Jochen Krapf",
+        "url": "https://os.mbed.com/users/jocis/"
+    },
+    "description": "Library that allows for higher resolution and speed than standard mbed PWM library. Based on FastPWM without floating point calculation in most functions",
+    "examples": [
+        "https://os.mbed.com/teams/DigiLogTeam/code/303test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "fast",
+        "FastPWM",
+        "precision",
+        "pwm",
+        "resolution",
+        "Servo",
+        "Speed",
+        "adc",
+        "Analog",
+        "calculate",
+        "convert",
+        "filter",
+        "Linear",
+        "LM335",
+        "median",
+        "multiplier",
+        "offset",
+        "sensor",
+        "Temperature",
+        "voltage",
+        "MQTT",
+        "2",
+        "bus",
+        "CAN",
+        "II",
+        "OBD",
+        "obd2",
+        "obdII",
+        "reader"
+    ],
+    "name": "HighPWM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jocis/code/HighPWM/"
+    }
+}

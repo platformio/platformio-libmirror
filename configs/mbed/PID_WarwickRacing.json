@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Warwick Racing",
+        "url": "https://os.mbed.com/users/WarwickRacing/"
+    },
+    "description": "PID library (not mine)",
+    "examples": [
+        "https://os.mbed.com/users/WarwickRacing/code/ElecPneuShifter_4/",
+        "https://os.mbed.com/users/networker/code/ipod/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LCD",
+        "LPC1114",
+        "LPC1114FN28",
+        "mbed-sdk",
+        "driver",
+        "ethernet",
+        "PicoTCP"
+    ],
+    "name": "PID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WarwickRacing/code/PID/"
+    }
+}

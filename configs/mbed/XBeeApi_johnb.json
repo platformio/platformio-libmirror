@@ -1,0 +1,52 @@
+{
+    "authors": {
+        "name": "John Bailey",
+        "url": "https://os.mbed.com/users/johnb/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "John Bailey"
+            ],
+            "frameworks": "mbed",
+            "name": "CircularBuffer"
+        }
+    ],
+    "description": "API for communicating with XBee devices.",
+    "examples": [
+        "https://os.mbed.com/users/johnb/code/XBeeApiTest/",
+        "https://os.mbed.com/users/johnb/code/XBeeApiSimpleATCmdsExample/",
+        "https://os.mbed.com/users/johnb/code/XBeeApiBroadcastExample/",
+        "https://os.mbed.com/users/johnb/code/XBeeApiBroadcastExampleRTOS/",
+        "https://os.mbed.com/users/johnb/code/XBeeApiSimpleBroadcastExample/",
+        "https://os.mbed.com/users/johnb/code/XBeeApiReceiveCallbackExampleRTOS/",
+        "https://os.mbed.com/users/johnb/code/XBeeApiReceiveCallbackExample/",
+        "https://os.mbed.com/users/johnb/code/XBeeApiSimpleReceiveExample/",
+        "https://os.mbed.com/users/johnb/code/XBeeApiRemoteATCmdsExample/",
+        "https://os.mbed.com/users/johnb/code/XBeeApiRemoteIOExample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "xml",
+        "802.15.4",
+        "wireless",
+        "xbee",
+        "Futaba",
+        "MODSERIAL",
+        "SBUS",
+        "Serial",
+        "128x64",
+        "I2C",
+        "OLED",
+        "SSD1306"
+    ],
+    "name": "XBeeApi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/johnb/code/XBeeApi/"
+        }
+    }
+}

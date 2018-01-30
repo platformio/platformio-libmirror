@@ -1,0 +1,50 @@
+{
+    "authors": {
+        "name": "David Smart",
+        "url": "https://os.mbed.com/users/WiredHome/"
+    },
+    "description": "Library to control a Graphics TFT connected to 4-wire SPI - revised for the Raio RA8875 Display Controller.",
+    "examples": [
+        "https://os.mbed.com/users/unix_guru/code/FRDM_RA8875_mPaint/",
+        "https://os.mbed.com/users/WiredHome/code/PUB_RA8875_Mandelbrot/",
+        "https://os.mbed.com/users/WiredHome/code/PUB_RA8875_TouchColors/",
+        "https://os.mbed.com/teams/FRDM-K64F-Code-Share/code/RA8875_Demo/",
+        "https://os.mbed.com/teams/FRDM-K64F-Code-Share/code/RA8875_KeyPadDemo/",
+        "https://os.mbed.com/users/WiredHome/code/PUB_RA8875_SoftFonts/",
+        "https://os.mbed.com/users/ramkumarkoppu/code/RA8875_Demo/",
+        "https://os.mbed.com/users/WiredHome/code/PUB_RA8875_Touch/",
+        "https://os.mbed.com/users/WiredHome/code/PUB_RA8875_Bitmap/",
+        "https://os.mbed.com/users/WiredHome/code/GameOfLife/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "JSON",
+        "game pad",
+        "gamepad",
+        "playstation",
+        "playstation2",
+        "PS2",
+        "SPI",
+        "display",
+        "graphic",
+        "LCD",
+        "QVGA",
+        "RA8875",
+        "TFT",
+        "Touch Screen",
+        "WQVGA",
+        "WVGA",
+        "Adafruit",
+        "GFX",
+        "algebra",
+        "Kinematics",
+        "Linear",
+        "matrix"
+    ],
+    "name": "RA8875",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WiredHome/code/RA8875/"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Olivier M",
+        "url": "https://os.mbed.com/users/Olivier/"
+    },
+    "description": "Fixed SDFileSystem when no card present (pull request).",
+    "examples": [
+        "https://os.mbed.com/users/RobertFischer/code/ILI9341_Clock_Nucleo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "color",
+        "led",
+        "nRF51822",
+        "rgb",
+        "WS2812B",
+        "3pi",
+        "m3pi",
+        "robot",
+        "FAT",
+        "file",
+        "SD",
+        "System",
+        "I2S",
+        "library"
+    ],
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Olivier/code/SDFileSystem/"
+    }
+}

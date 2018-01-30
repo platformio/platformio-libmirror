@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "LIB for resistiv touchscreen connected to 4 mbed pins",
+    "examples": [
+        "https://os.mbed.com/users/dreschpe/code/touch/",
+        "https://os.mbed.com/users/Mephi/code/LCD_Grapher/",
+        "https://os.mbed.com/users/RorschachUK/code/Mandelbrot/",
+        "https://os.mbed.com/users/xlNicolas/code/Tactile/",
+        "https://os.mbed.com/users/rtk/code/Tactile-Nicolas/",
+        "https://os.mbed.com/users/pieterjanluyssen/code/TFT_Test_Peter_Drescher/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "rtos",
+        "Serial",
+        "UART",
+        "KL25z",
+        "MAG3110",
+        "Wi-Go",
+        "SPI",
+        "TFT",
+        "Touchscreen",
+        "LCD",
+        "SB1602B",
+        "SB1602E",
+        "ST7032",
+        "Text LCD",
+        "TextLCD_SB1602E"
+    ],
+    "name": "Touch_tft",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/Touch_tft/"
+    }
+}

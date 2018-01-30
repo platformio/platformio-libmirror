@@ -1,0 +1,48 @@
+{
+    "authors": {
+        "name": "Penn Electric",
+        "url": "https://os.mbed.com/users/PennElectric/"
+    },
+    "description": "This library is designed to work with devices like the LM335 temperature sensor. There are only two requirements for compatibility: 1) The device must be a sensor device that has an analog voltage output. 2) The physical quantity measured must vary linearly with the analog voltage. The LM335 creates an analog voltage proportional to temperature. It can work very well with this library using the nominal multiplier of 0.0050354 and offset of -273.15 or by providing two user defined calibration points to the constructor. It uses a median filter to remove unwanted noise from ADC readings.",
+    "examples": [
+        "https://os.mbed.com/users/mariosimaremare/code/mbed_measuring_temperature/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "fast",
+        "FastPWM",
+        "precision",
+        "pwm",
+        "resolution",
+        "Servo",
+        "Speed",
+        "adc",
+        "Analog",
+        "calculate",
+        "convert",
+        "filter",
+        "Linear",
+        "LM335",
+        "median",
+        "multiplier",
+        "offset",
+        "sensor",
+        "Temperature",
+        "voltage",
+        "MQTT",
+        "2",
+        "bus",
+        "CAN",
+        "II",
+        "OBD",
+        "obd2",
+        "obdII",
+        "reader"
+    ],
+    "name": "LinearAnalogSensors",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/PennElectric/code/LinearAnalogSensors/"
+    }
+}

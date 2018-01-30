@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Norimasa Okamoto",
+        "url": "https://os.mbed.com/users/va009039/"
+    },
+    "description": "Simple USBHost ｌibrary for Nucleo F446RE/F411RE/F401RE FRDM-KL46Z/KL25Z/F64F LPC4088/LPC1768",
+    "examples": [
+        "https://os.mbed.com/users/va009039/code/F401RE-BTstack_example/",
+        "https://os.mbed.com/users/va009039/code/F401RE-USBHostMSD_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FRDM-KL25Z",
+        "FRDM-KL46Z",
+        "USBHOST",
+        "ESP8266",
+        "NodeMCU"
+    ],
+    "name": "F401RE-USBHost",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/va009039/code/F401RE-USBHost/"
+    }
+}
