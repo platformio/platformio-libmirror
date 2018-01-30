@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Yann Garcia",
+        "url": "https://os.mbed.com/users/Yann/"
+    },
+    "description": "Simplified access to the Microchip 1//8-Channels 12-Bit A/D Converters",
+    "examples": [
+        "https://os.mbed.com/users/Yann/code/MCP320xApp/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MCP3201",
+        "MCP3204",
+        "MCP3208",
+        "SPI",
+        "debug",
+        "debugging",
+        "Serial",
+        "term",
+        "Terminal",
+        "Kinematics",
+        "lauther",
+        "math",
+        "matrix",
+        "robot",
+        "Robotics"
+    ],
+    "name": "MCP320x_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Yann/code/MCP320x_SPI/"
+    }
+}

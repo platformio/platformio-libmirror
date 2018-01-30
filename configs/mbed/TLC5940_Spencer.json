@@ -1,0 +1,48 @@
+{
+    "authors": {
+        "name": "Spencer Davis",
+        "url": "https://os.mbed.com/users/Spencer/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Erik Olieman"
+            ],
+            "frameworks": "mbed",
+            "name": "FastPWM"
+        }
+    ],
+    "description": "This library allows control of the TLC5940 PWM driver IC. It supports both normal operation and controlling multiplexed displays.",
+    "examples": [
+        "https://os.mbed.com/teams/mmotor/code/TLC5940LEDtreiber/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "gyroscope",
+        "I2C",
+        "MPU-6050",
+        "MPU6050",
+        "MPU60x0",
+        "MPU9150",
+        "led",
+        "multiplexing",
+        "pwm",
+        "tlc5940",
+        "W5200",
+        "WIZ820IO",
+        "maxsonar",
+        "range",
+        "RangeFinder",
+        "sonar"
+    ],
+    "name": "TLC5940",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/Spencer/code/TLC5940/"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "David Smart",
+        "url": "https://os.mbed.com/users/WiredHome/"
+    },
+    "description": "The CommandProcessor is the interface to install a run-time menu into an embedded system.",
+    "examples": [
+        "https://os.mbed.com/users/WiredHome/code/A_CANAdapter/",
+        "https://os.mbed.com/users/ericebert/code/USB2I2C/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DMA",
+        "rtos",
+        "SPI",
+        "CommandProcessor",
+        "Embedded",
+        "interactive",
+        "menu",
+        "bt",
+        "UART",
+        "LCD",
+        "window"
+    ],
+    "name": "CommandProcessor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WiredHome/code/CommandProcessor/"
+    }
+}

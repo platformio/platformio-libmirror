@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://os.mbed.com/users/simon/"
+    },
+    "description": "TextLCD library for controlling various LCD panels based on the HD44780 4-bit interface",
+    "examples": [
+        "https://os.mbed.com/users/simon/code/TextLCD_HelloWorld/",
+        "https://os.mbed.com/users/Schueler/code/analog_test/",
+        "https://os.mbed.com/users/ytsuboi/code/AVR_standalone_writer/",
+        "https://os.mbed.com/users/todotani/code/XBeeApi_RemoteCommand/",
+        "https://os.mbed.com/users/tosihisa/code/S1315FLogger/",
+        "https://os.mbed.com/users/StijnS/code/DS1624LCD/",
+        "https://os.mbed.com/users/StijnS/code/DS1631LCD/",
+        "https://os.mbed.com/users/Nardi/code/RTCsetwithHttpClient/",
+        "https://os.mbed.com/users/jrsikken/code/HeartRate/",
+        "https://os.mbed.com/users/y_notsu/code/QVGA_TFT_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HD44780",
+        "TextLCD"
+    ],
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/simon/code/TextLCD/"
+    }
+}

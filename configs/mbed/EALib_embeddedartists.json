@@ -1,0 +1,46 @@
+{
+    "authors": {
+        "name": "EmbeddedArtists AB",
+        "url": "https://os.mbed.com/users/embeddedartists/"
+    },
+    "description": "A library with drivers for different peripherals on the LPC4088 QuickStart Board or related add-on boards.",
+    "examples": [
+        "https://os.mbed.com/users/mio/code/LPC4088test/",
+        "https://os.mbed.com/users/mio/code/LPC4088test_ledonly/",
+        "https://os.mbed.com/users/mio/code/LPC4088test_deleteall/",
+        "https://os.mbed.com/users/loopsva/code/LPC4088_RAMtest/",
+        "https://os.mbed.com/users/embeddedartists/code/app_gfx/",
+        "https://os.mbed.com/users/embeddedartists/code/app_lcdboard_demo_bubbles/",
+        "https://os.mbed.com/users/embeddedartists/code/app_lcdboard_demo_cube/",
+        "https://os.mbed.com/users/embeddedartists/code/app_lcdboard_demo_globe/",
+        "https://os.mbed.com/users/embeddedartists/code/app_lcdboard_demo_mandelbrot/",
+        "https://os.mbed.com/users/embeddedartists/code/app_lcdboard_demo_picture/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "ExpansionBoard",
+        "HTS221",
+        "LIS3MDL",
+        "lps25h",
+        "LSM6DS0",
+        "LSM6DS3",
+        "Nucleo",
+        "X-NUCLEO-IKS01A1",
+        "camera",
+        "color",
+        "JPEG",
+        "LinkSprite",
+        "LS-Y201",
+        "4DGL-uLCD-SE",
+        "application board",
+        "LCD",
+        "LPC4088"
+    ],
+    "name": "EALib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/embeddedartists/code/EALib/"
+    }
+}

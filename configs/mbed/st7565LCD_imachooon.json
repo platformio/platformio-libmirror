@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "jun imamura",
+        "url": "https://os.mbed.com/users/imachooon/"
+    },
+    "description": "This is test library which translated from code for arduino.",
+    "examples": [
+        "https://os.mbed.com/users/ryood/code/CH12864F-SPI2_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "millis",
+        "Nucleo",
+        "stm32",
+        "Wi-Fi",
+        "X-NUCLEO-IDW01M1",
+        "LCD",
+        "ST7565"
+    ],
+    "name": "st7565LCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/imachooon/code/st7565LCD/"
+    }
+}

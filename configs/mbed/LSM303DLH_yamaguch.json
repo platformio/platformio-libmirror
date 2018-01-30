@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Hiroshi Yamaguchi",
+        "url": "https://os.mbed.com/users/yamaguch/"
+    },
+    "description": "LSM303DLH interface library",
+    "examples": [
+        "https://os.mbed.com/users/yamaguch/code/LSM303DLH_Example/",
+        "https://os.mbed.com/users/zlmun/code/Arch_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "W5200",
+        "WIZ820IO",
+        "directory",
+        "directory listing",
+        "file",
+        "file name listing",
+        "file system",
+        "folder",
+        "folder listing",
+        "LSM303DLH",
+        "ax12",
+        "dynamixel",
+        "motor",
+        "Servo"
+    ],
+    "name": "LSM303DLH",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yamaguch/code/LSM303DLH/"
+    }
+}

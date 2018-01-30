@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "suu pen",
+        "url": "https://os.mbed.com/users/suupen/"
+    },
+    "description": "このライブラリはＳＷ認識を行います。",
+    "examples": [
+        "https://os.mbed.com/users/suupen/code/kitchenTimer_Clock/",
+        "https://os.mbed.com/users/suupen/code/SwDigitalLibraryExampleProgram/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Pokitto",
+        "edge",
+        "level",
+        "SW",
+        "tact",
+        "Toggle"
+    ],
+    "name": "SwDigital",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/suupen/code/SwDigital/"
+    }
+}

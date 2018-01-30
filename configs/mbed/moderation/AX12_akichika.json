@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Akichika Tanaka",
+        "url": "https://os.mbed.com/users/akichika/"
+    },
+    "frameworks": "mbed",
+    "keywords": [
+        "W5200",
+        "WIZ820IO",
+        "directory",
+        "directory listing",
+        "file",
+        "file name listing",
+        "file system",
+        "folder",
+        "folder listing",
+        "LSM303DLH",
+        "ax12",
+        "dynamixel",
+        "motor",
+        "Servo"
+    ],
+    "name": "AX12",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/akichika/code/AX12/"
+    }
+}

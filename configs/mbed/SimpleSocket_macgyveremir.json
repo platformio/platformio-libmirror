@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Luis Linares",
+        "url": "https://os.mbed.com/users/macgyveremir/"
+    },
+    "description": "A Simple TCP & UDP Socket Library. An update from that of Hiroshi Yamaguchi.",
+    "frameworks": "mbed",
+    "keywords": [
+        "BME280",
+        "I2C sensor driver",
+        "networking",
+        "socket",
+        "TCP",
+        "UDP",
+        "Kinematics",
+        "math",
+        "matrix",
+        "mbed"
+    ],
+    "name": "SimpleSocket",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/macgyveremir/code/SimpleSocket/"
+    }
+}

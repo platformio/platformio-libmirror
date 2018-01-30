@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Hendrik Lipka",
+        "url": "https://os.mbed.com/users/hlipka/"
+    },
+    "description": "port of Israel Ekpo\\'s CSV parser library",
+    "examples": [
+        "https://os.mbed.com/users/marishi/code/parser_sample/",
+        "https://os.mbed.com/users/SomeRandomBloke/code/IoTGateway_Basic/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "csv",
+    "name": "csv_parser",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hlipka/code/csv_parser/"
+    }
+}

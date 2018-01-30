@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Brian Jones",
+        "url": "https://os.mbed.com/users/mbj898/"
+    },
+    "description": "Library to use LED as a heartbeat. Powered using PWM.",
+    "examples": [
+        "https://os.mbed.com/users/mbj898/code/ARM_DAY_PWM/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F746NG",
+        "STM32F746",
+        "display",
+        "RenBED",
+        "segment",
+        "Seven",
+        "ARM",
+        "DAY",
+        "heartbeat",
+        "RIT",
+        "APDS9960",
+        "avago",
+        "color",
+        "Gesture",
+        "I2C",
+        "proximity",
+        "sparkfun"
+    ],
+    "name": "HeartBeat",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbj898/code/HeartBeat/"
+    }
+}

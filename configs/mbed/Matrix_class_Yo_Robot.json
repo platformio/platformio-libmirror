@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Ernesto Palacios",
+        "url": "https://os.mbed.com/users/Yo_Robot/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Ernesto Palacios"
+            ],
+            "frameworks": "mbed",
+            "name": "Matrix"
+        }
+    ],
+    "description": "This is a test Program for the Class Matrix version 1.6.4",
+    "frameworks": "mbed",
+    "keywords": [
+        "BME280",
+        "I2C sensor driver",
+        "networking",
+        "socket",
+        "TCP",
+        "UDP",
+        "Kinematics",
+        "math",
+        "matrix",
+        "mbed"
+    ],
+    "name": "Matrix_class",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/Yo_Robot/code/Matrix_class/"
+        }
+    }
+}

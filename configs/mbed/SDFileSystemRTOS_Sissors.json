@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "SDFileSystem which uses SimpleDMA to efficiently write to the SD card, while other Threads in the RTOS continue running",
+    "examples": [
+        "https://os.mbed.com/users/Sissors/code/SDFileSystem_RTOS_HelloWorld/",
+        "https://os.mbed.com/users/Bobty/code/RdGasUseMonitor/",
+        "https://os.mbed.com/teams/albatross/code/keiki2017/",
+        "https://os.mbed.com/teams/albatross/code/keiki2018/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DMA",
+        "rtos",
+        "SD",
+        "SDFileSystem",
+        "WiFly",
+        "FTP",
+        "server"
+    ],
+    "name": "SDFileSystem-RTOS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/SDFileSystem-RTOS/"
+    }
+}

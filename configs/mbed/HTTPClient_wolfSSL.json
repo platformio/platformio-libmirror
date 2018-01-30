@@ -1,0 +1,44 @@
+{
+    "authors": {
+        "name": "wolf SSL",
+        "url": "https://os.mbed.com/users/wolfSSL/"
+    },
+    "description": "A HTTP/HTTPS Client for the mbed networking/CyaSSL ssl library",
+    "examples": [
+        "https://os.mbed.com/users/mkttanabe/code/Anpi/",
+        "https://os.mbed.com/users/wolfSSL/code/Example-Dropbox/",
+        "https://os.mbed.com/users/wolfSSL/code/Example-Xively/",
+        "https://os.mbed.com/users/thursday1024/code/dropbox_access/",
+        "https://os.mbed.com/users/thursday1024/code/php_access_auth/",
+        "https://os.mbed.com/users/lgarabo/code/TwitterReader/",
+        "https://os.mbed.com/users/takashikojo/code/IF-SmartClock/",
+        "https://os.mbed.com/users/wolfSSL/code/Example-HTTPSClient/",
+        "https://os.mbed.com/users/thursday1024/code/php_access_i2c/",
+        "https://os.mbed.com/users/thursday1024/code/php_access/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "Scroll",
+        "TextLCD",
+        "https",
+        "HTTPSClient",
+        "security",
+        "SSL",
+        "TLS",
+        "9-axis",
+        "acc",
+        "BNO055",
+        "Cortex-M0+",
+        "gyro",
+        "MAG",
+        "orientation",
+        "sensor"
+    ],
+    "name": "HTTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wolfSSL/code/HTTPClient/"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Gert van der Knokke",
+        "url": "https://os.mbed.com/users/gertk/"
+    },
+    "description": "VGA 640x480 full graphic driver",
+    "examples": [
+        "https://os.mbed.com/users/gertk/code/vga640x480graphic/",
+        "https://os.mbed.com/users/smayr/code/gps_fastlib/",
+        "https://os.mbed.com/users/JLS/code/Chua-VGA/",
+        "https://os.mbed.com/users/JLS/code/Wolfram-1D-VGA/",
+        "https://os.mbed.com/users/JLS/code/WolframRnd-1D-VGA/",
+        "https://os.mbed.com/users/JLS/code/Basin-VGA/",
+        "https://os.mbed.com/users/brandin/code/6502vga/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "640x480",
+        "driver",
+        "graphic",
+        "VGA"
+    ],
+    "name": "vga640x480g",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gertk/code/vga640x480g/"
+    }
+}

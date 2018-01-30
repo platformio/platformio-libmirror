@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Peihsun Yeh",
+        "url": "https://os.mbed.com/users/pyeh9/"
+    },
+    "description": "Library of menu structure",
+    "examples": [
+        "https://os.mbed.com/users/pyeh9/code/lcd_menu/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "gyroscope",
+        "I2C",
+        "MPU-6050",
+        "MPU6050",
+        "MPU60x0",
+        "MPU9150",
+        "led",
+        "multiplexing",
+        "pwm",
+        "tlc5940",
+        "W5200",
+        "WIZ820IO",
+        "maxsonar",
+        "range",
+        "RangeFinder",
+        "sonar"
+    ],
+    "name": "Menu",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pyeh9/code/Menu/"
+    }
+}

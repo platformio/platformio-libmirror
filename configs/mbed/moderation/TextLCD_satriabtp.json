@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "rosya satria",
+        "url": "https://os.mbed.com/users/satriabtp/"
+    },
+    "examples": [
+        "https://os.mbed.com/users/satriabtp/code/eParking/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "RIT",
+        "Altimeter",
+        "MS5607",
+        "pressure",
+        "Temperature",
+        "card",
+        "SD"
+    ],
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/satriabtp/code/TextLCD/"
+    }
+}

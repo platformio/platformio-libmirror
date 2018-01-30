@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Ollie Milton",
+        "url": "https://os.mbed.com/users/ollie8/"
+    },
+    "description": "Simple library for controlling a shift register using only three pins on the mbed. Defaults to controlling an 8 bit shift register.",
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "motor",
+        "shield",
+        "Register",
+        "shift",
+        "Communication",
+        "Serial",
+        "Terminal",
+        "VT100",
+        "VT200"
+    ],
+    "name": "ShiftOut",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ollie8/code/ShiftOut/"
+    }
+}

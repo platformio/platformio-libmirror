@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Erik van Wijk",
+        "url": "https://os.mbed.com/users/evwijk/"
+    },
+    "description": "A debouncing InterruptIn wrapper",
+    "frameworks": "mbed",
+    "keywords": [
+        "DC",
+        "driver",
+        "full-bridge",
+        "H-bridge",
+        "motor",
+        "CAN",
+        "FRDM-KL25Z",
+        "Seeed Studios"
+    ],
+    "name": "ButtonIn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/evwijk/code/ButtonIn/"
+    }
+}

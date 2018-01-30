@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Katsushi Ogawa",
+        "url": "https://os.mbed.com/users/KatsushiOgawa/"
+    },
+    "examples": [
+        "https://os.mbed.com/users/mio/code/lpclcd/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "finder",
+        "range",
+        "ultrasound",
+        "adc",
+        "SPI",
+        "AES",
+        "encryption",
+        "HMAC",
+        "RSA",
+        "security",
+        "SHA",
+        "SSL",
+        "Altimeter",
+        "barometer",
+        "I2C",
+        "ms5611"
+    ],
+    "name": "I2cLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/KatsushiOgawa/code/I2cLCD/"
+    }
+}

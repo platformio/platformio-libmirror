@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Liam Lee",
+        "url": "https://os.mbed.com/users/liam/"
+    },
+    "description": "the code need imporve later",
+    "frameworks": "mbed",
+    "keywords": [
+        "HD44780",
+        "quadcopter",
+        "Servo",
+        "38kHz",
+        "IR",
+        "remote",
+        "Nucleo",
+        "stm32",
+        "Wi-Fi",
+        "X-NUCLEO-IDW01M1",
+        "millis"
+    ],
+    "name": "HD44780",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/liam/code/HD44780/"
+    }
+}

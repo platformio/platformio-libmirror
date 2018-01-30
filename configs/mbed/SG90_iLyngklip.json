@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Mathias Lyngklip",
+        "url": "https://os.mbed.com/users/iLyngklip/"
+    },
+    "description": "hej",
+    "examples": [
+        "https://os.mbed.com/users/iLyngklip/code/RoboticHackathon/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "USB",
+        "UVC",
+        "HEJ",
+        "api",
+        "xbee",
+        "zigbee",
+        "44100",
+        "audio",
+        "FAT",
+        "khz",
+        "mbedaudio",
+        "micro",
+        "pwm",
+        "SD",
+        "SMARTWAV",
+        "sound",
+        "stereo",
+        "wav"
+    ],
+    "name": "SG90",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/iLyngklip/code/SG90/"
+    }
+}

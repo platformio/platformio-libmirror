@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Tedd OKANO",
+        "url": "https://os.mbed.com/users/okano/"
+    },
+    "description": "IAP class library for LPC1768, LPC11U24, LPC1114, LPC812 and LPC824",
+    "examples": [
+        "https://os.mbed.com/users/jakeb/code/MakerBotServer/",
+        "https://os.mbed.com/teams/Penn-Electric-Racing/code/SystemManagement/",
+        "https://os.mbed.com/users/okano/code/IAP_internal_flash_write/",
+        "https://os.mbed.com/users/sam_grove/code/IAP_testing/",
+        "https://os.mbed.com/teams/Seeed/code/Arch_Pro_TCPSocket/",
+        "https://os.mbed.com/users/kikoaac/code/MotorDriveDEBUG/",
+        "https://os.mbed.com/users/alvaroferran/code/IntelliServo/",
+        "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/Flash/",
+        "https://os.mbed.com/users/BogdanL/code/Hibernus-LPC11U24/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "EEPROM",
+        "IAP",
+        "In-Application Programming",
+        "internal EEPROM",
+        "internal flash memory"
+    ],
+    "name": "IAP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okano/code/IAP/"
+    }
+}

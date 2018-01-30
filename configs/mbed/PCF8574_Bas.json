@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Bas van Drunen Littel",
+        "url": "https://os.mbed.com/users/Bas/"
+    },
+    "description": "Library with address set to hardware pins",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "gyroscope",
+        "I2C",
+        "MPU-6050",
+        "MPU6050",
+        "MPU60x0",
+        "MPU9150",
+        "IO expander"
+    ],
+    "name": "PCF8574",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Bas/code/PCF8574/"
+    }
+}

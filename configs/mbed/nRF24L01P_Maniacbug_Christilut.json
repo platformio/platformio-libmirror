@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Christiaan M",
+        "url": "https://os.mbed.com/users/Christilut/"
+    },
+    "description": "Maniacbug's nRF24L01+ arduino library ported to mbed.",
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "maniacbug",
+        "nRF24L01+",
+        "nRF24L01P",
+        "api",
+        "mode",
+        "xbee",
+        "zigbee",
+        "FAT",
+        "SD",
+        "Algebra.",
+        "matrix",
+        "vector"
+    ],
+    "name": "nRF24L01P_Maniacbug",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Christilut/code/nRF24L01P_Maniacbug/"
+    }
+}

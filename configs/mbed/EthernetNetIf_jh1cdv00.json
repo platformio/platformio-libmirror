@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "hiroshi matsumoto",
+        "url": "https://os.mbed.com/users/jh1cdv00/"
+    },
+    "description": "lpc1768",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "MMA8451",
+        "MMA8452",
+        "MMA8453",
+        "MMA845x",
+        "Bluetooth module",
+        "hc-05",
+        "HC05"
+    ],
+    "name": "EthernetNetIf",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jh1cdv00/code/EthernetNetIf/"
+    }
+}

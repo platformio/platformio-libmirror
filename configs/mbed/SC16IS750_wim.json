@@ -1,0 +1,41 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "SPI or I2C to UART Bridge",
+    "examples": [
+        "https://os.mbed.com/users/wim/code/SC16IS750_Test/",
+        "https://os.mbed.com/users/wim/code/mbed_SC16IS750/",
+        "https://os.mbed.com/users/whatnick/code/Xadow_SC16IS750_Test/",
+        "https://os.mbed.com/users/whatnick/code/Xadow_MPU9150AHRS/",
+        "https://os.mbed.com/teams/SMART-KATODIK/code/04_PGN_TR_00000002/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "bridge",
+        "I2C",
+        "SC16IS750",
+        "SC16IS752",
+        "SPI",
+        "UART",
+        "BLE",
+        "buttons",
+        "HEXIWEAR",
+        "KW40Z",
+        "2.4",
+        "MCUFRIEND.COM",
+        "Nucleo",
+        "TFT",
+        "file",
+        "ini",
+        "flash",
+        "Serial"
+    ],
+    "name": "SC16IS750",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/SC16IS750/"
+    }
+}

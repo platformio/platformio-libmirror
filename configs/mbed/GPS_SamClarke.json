@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Sam Clarke",
+        "url": "https://os.mbed.com/users/SamClarke/"
+    },
+    "description": "A basic library for the Adafruit Ultimate GPS module. (MTK3339)",
+    "examples": [
+        "https://os.mbed.com/users/SamClarke/code/GPS-GPRS_Tracker/",
+        "https://os.mbed.com/users/SamClarke/code/Plan13/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "discovery",
+        "ethernet",
+        "Nucleo",
+        "stm32",
+        "STM32F746",
+        "Adafruit",
+        "GPS",
+        "NEMA",
+        "buzzer",
+        "pwm",
+        "tone",
+        "tune"
+    ],
+    "name": "GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SamClarke/code/GPS/"
+    }
+}

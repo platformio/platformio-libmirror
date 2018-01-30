@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "James Kidd",
+        "url": "https://os.mbed.com/users/infotech1/"
+    },
+    "description": "Port of the Adafruit_ILI9341 library for MBED. Depends on BurstSPI.",
+    "examples": [
+        "https://os.mbed.com/users/infotech1/code/ili9341_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "audio",
+        "files",
+        "I2C",
+        "I2S",
+        "playing",
+        "RS labboard",
+        "TLV320",
+        "wav",
+        "count",
+        "external clock",
+        "MHz",
+        "pulse",
+        "ILI9341",
+        "TFT"
+    ],
+    "name": "Adafruit_ILI9341",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/infotech1/code/Adafruit_ILI9341/"
+    }
+}

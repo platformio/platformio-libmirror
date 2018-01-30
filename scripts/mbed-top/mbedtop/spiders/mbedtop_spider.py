@@ -87,10 +87,10 @@ class MbedTopSpider(scrapy.Spider):
                 if (len(urllist) > 4) and not is_mbed_core_library(owner=urllist[2],name=urllist[4]):
                     deps_owner_nickname = urllist[2]
                     if(deps_owner_nickname!="components"):
-                        owner_request = scrapy.Request('https://os.mbed.com/users/'+deps_owner_nickname, callback = self.parse_owner,dont_filter=True)
+                        owner_request = scrapy.Request('https://os.mbed.com/'+urllist[1]+'/'+deps_owner_nickname, callback = self.parse_owner,dont_filter=True)
                         owner_request.meta['item'] = item
-                        owner_request.meta['url'] = 'https://os.mbed.com/users/'+deps_owner_nickname
-                        deps.append({ 'name' : urllist[4], 'frameworks' : 'mbed','url':"https://os.mbed.com" + url, 'authors':[{"url":'https://os.mbed.com/users/'+urllist[2]}] })
+                        owner_request.meta['url'] = 'https://os.mbed.com/'+urllist[1]+'/'+deps_owner_nickname
+                        deps.append({ 'name' : urllist[4], 'frameworks' : 'mbed','url':"https://os.mbed.com" + url, 'authors':[{"url":'https://os.mbed.com/'+urllist[1]+'/'+urllist[2]}] })
                         yield owner_request
             if len(deps)>0: item['dependencies'] = deps
             print("dependencies is ",deps)
@@ -155,13 +155,19 @@ class MbedTopSpider(scrapy.Spider):
         # self.seen_urls.append(response.url)
         item = response.meta['item']
         url = response.meta['url']
-        owner = response.xpath('.//*[@id="mbed-content"]//div/div/div/div[2]/h3/text()').extract()
+        urlsplit = url.split('/')
+        print("|||||||",urlsplit)
+        owner = ''
+        if 'users'in urlsplit:
+            owner = response.xpath('.//*[@id="mbed-content"]//div/div/div/div[2]/h3/text()').extract()[0]
+        if 'teams' in urlsplit:
+            owner = response.xpath('.//*[@class="twelve columns profile"]//div/h3/a/text()[1]').extract()[0]
 
         print("|||||||||||||",item)
         print("||||||||||||||||")
         for i in range(len(item['dependencies'])):
             # if isinstance(resource, str):
-            item['dependencies'][i]['authors'] = [owner[0]]
+            item['dependencies'][i]['authors'] = [owner]
             item['dependencies'][i].pop('url', None)
             # if url == item['dependencies'][i]['authors']['url']:
                 # item['dependencies'][i]['authors'].update({'name':owner[0]})

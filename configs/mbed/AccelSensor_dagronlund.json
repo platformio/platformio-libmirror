@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "David Gronlund",
+        "url": "https://os.mbed.com/users/dagronlund/"
+    },
+    "description": "A library to read data from the Triple Axis Accelerometer Breakout - MMA8452Q from Sparkfun.",
+    "frameworks": "mbed",
+    "keywords": [
+        "bridge",
+        "I2C",
+        "SC16IS750",
+        "SC16IS752",
+        "SPI",
+        "UART",
+        "file",
+        "ini"
+    ],
+    "name": "AccelSensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dagronlund/code/AccelSensor/"
+    }
+}

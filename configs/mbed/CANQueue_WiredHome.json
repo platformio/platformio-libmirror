@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "David Smart",
+        "url": "https://os.mbed.com/users/WiredHome/"
+    },
+    "description": "CAN Queue mechanism permitting creation and management of CAN messages through a queueing",
+    "frameworks": "mbed",
+    "keywords": [
+        "micropython",
+        "python",
+        "autoconf",
+        "bonjour",
+        "DHCP",
+        "ethernet",
+        "HTTP server",
+        "HTTPServer",
+        "mdns",
+        "MiMic",
+        "Networking Libraries",
+        "SSDP",
+        "UPnP",
+        "webserver",
+        "CAN",
+        "Queue"
+    ],
+    "name": "CANQueue",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WiredHome/code/CANQueue/"
+    }
+}

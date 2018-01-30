@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "Modified TextLCD lib.",
+    "examples": [
+        "https://os.mbed.com/users/blmarket/code/TwitterClient/",
+        "https://os.mbed.com/users/blmarket/code/CSVParser/",
+        "https://os.mbed.com/users/hajesusrodrigues/code/_EXAMPLE_RFM12B/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Lora",
+        "Semtech",
+        "SX1276",
+        "SX1276Lib",
+        "SX1276MB1xAS",
+        "LCD",
+        "text",
+        "STM32F030F4",
+        "STM32F030F4P6"
+    ],
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/TextLCD/"
+    }
+}

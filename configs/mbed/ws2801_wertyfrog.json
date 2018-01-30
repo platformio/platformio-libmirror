@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Thomas Olsson",
+        "url": "https://os.mbed.com/users/wertyfrog/"
+    },
+    "description": "Library for controlling LED strips or arrays based on the WS2801",
+    "examples": [
+        "https://os.mbed.com/users/AlanRager/code/ws2801_controller/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Addressable",
+        "led",
+        "rgb",
+        "sparkfun",
+        "strip",
+        "ws2801",
+        "Beep",
+        "sound",
+        "tone",
+        "IR",
+        "Receiver",
+        "accelerometer",
+        "LIS302",
+        "SPI"
+    ],
+    "name": "ws2801",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wertyfrog/code/ws2801/"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "authors": {
+        "name": "Silicon Labs",
+        "url": "https://os.mbed.com/teams/SiliconLabs/"
+    },
+    "description": "This is a library to read out sensor values from Silicon Labs' si70xx-range of relative humidity and temperature sensors.",
+    "examples": [
+        "https://os.mbed.com/teams/SiliconLabs/code/MemLCD-Temperature-Humidity-Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "interrupt",
+        "PPM",
+        "pwm",
+        "RC",
+        "Receiver",
+        "AM2321",
+        "Humidity",
+        "I2C",
+        "sensor",
+        "Temperature",
+        "BME280",
+        "RHT",
+        "Si7013",
+        "Si7020",
+        "Si7021",
+        "Silicon Labs",
+        "silicon_labs",
+        "siliconlabs",
+        "AT45DB081D",
+        "AT45DB161D",
+        "AT45DB321D",
+        "EEPROM",
+        "flash",
+        "memory",
+        "SPI"
+    ],
+    "name": "SILABS_RHT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/SiliconLabs/code/SILABS_RHT/"
+    }
+}

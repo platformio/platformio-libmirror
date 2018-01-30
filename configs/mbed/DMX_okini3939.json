@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "DMX512, RDM send/recv library http://mbed.org/users/okini3939/notebook/dmx512",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/dmx_test/",
+        "https://os.mbed.com/users/gipmad/code/ArtNodeLED/",
+        "https://os.mbed.com/users/tobyspark/code/SPK-DVIMXR/",
+        "https://os.mbed.com/users/tobyspark/code/SPK-DMXer/",
+        "https://os.mbed.com/users/okini3939/code/DMX_RDM_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "W5500",
+        "WIZ550IO",
+        "Wiznet",
+        "1wire",
+        "DS18B20",
+        "OneWire",
+        "Adafruit",
+        "led",
+        "NeoPixel",
+        "rgb",
+        "Shiftbrite",
+        "Dimmer",
+        "DMX",
+        "DMX512",
+        "lighting",
+        "RDM"
+    ],
+    "name": "DMX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/DMX/"
+    }
+}

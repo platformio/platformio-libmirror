@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Seeed",
+        "url": "https://os.mbed.com/teams/Seeed/"
+    },
+    "description": "offer some API for GPRS use, such as call / sms / tcp connect",
+    "examples": [
+        "https://os.mbed.com/users/Zushauque/code/SDP_Testing/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DC",
+        "driver",
+        "full-bridge",
+        "H-bridge",
+        "motor",
+        "CAN",
+        "FRDM-KL25Z",
+        "Seeed Studios"
+    ],
+    "name": "GPRS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Seeed/code/GPRS/"
+    }
+}

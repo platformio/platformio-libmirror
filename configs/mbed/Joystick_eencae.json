@@ -1,0 +1,41 @@
+{
+    "authors": {
+        "name": "Craig Evans",
+        "url": "https://os.mbed.com/users/eencae/"
+    },
+    "description": "Analog joystick library",
+    "examples": [
+        "https://os.mbed.com/users/ll14c4p/code/GameProject_Prototype/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "game pad",
+        "gamepad",
+        "playstation",
+        "playstation2",
+        "PS2",
+        "SPI",
+        "JSON",
+        "display",
+        "graphic",
+        "LCD",
+        "QVGA",
+        "RA8875",
+        "TFT",
+        "Touch Screen",
+        "WQVGA",
+        "WVGA",
+        "Adafruit",
+        "GFX",
+        "algebra",
+        "Kinematics",
+        "Linear",
+        "matrix"
+    ],
+    "name": "Joystick",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eencae/code/Joystick/"
+    }
+}

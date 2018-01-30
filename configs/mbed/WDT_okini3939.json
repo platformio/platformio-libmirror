@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "LPC1768 and LPC11U24 watchdog timer",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/GSwifi_tsutenkaku/",
+        "https://os.mbed.com/users/okini3939/code/barometer-m0/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "watchdog timer",
+        "WDT"
+    ],
+    "name": "WDT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/WDT/"
+    }
+}

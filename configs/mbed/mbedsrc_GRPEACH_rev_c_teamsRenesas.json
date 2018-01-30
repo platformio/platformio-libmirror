@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Renesas",
+        "url": "https://os.mbed.com/teams/Renesas/"
+    },
+    "description": "Please use mbed-src instead of this library.mbed-src supports GR-PEACH rev.C.",
+    "frameworks": "mbed",
+    "keywords": [
+        "graphic",
+        "TFT",
+        "touch",
+        "mbed",
+        "application board",
+        "C12832",
+        "LCD",
+        "display",
+        "KS0107",
+        "KS0108",
+        "128x64",
+        "ST7920"
+    ],
+    "name": "mbed-src_GR-PEACH_rev_c",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Renesas/code/mbed-src_GR-PEACH_rev_c/"
+    }
+}
