@@ -35,7 +35,8 @@
         "Nucleo",
         "stm32",
         "Wi-Fi",
-        "X-NUCLEO-IDW01M1"
+        "X-NUCLEO-IDW01M1",
+        "millis"
     ],
     "name": "X_NUCLEO_IDW01M1v2",
     "platforms": "*",

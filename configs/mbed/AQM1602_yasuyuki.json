@@ -13,13 +13,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Agent",
-        "Net-SNMP",
-        "SNMP",
-        "16 Bit A2D",
-        "Differential A2D",
-        "K64F",
-        "AQM1602"
+        "AQM1602",
+        "SSL",
+        "TLS",
+        "v1.0",
+        "clock",
+        "ds1307",
+        "RTC"
     ],
     "name": "AQM1602",
     "platforms": "*",

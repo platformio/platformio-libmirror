@@ -6,6 +6,10 @@
     "description": "A library to read and write all 25* serial SPI flash devices from various manufacturers.",
     "frameworks": "mbed",
     "keywords": [
+        "BLE",
+        "buttons",
+        "HEXIWEAR",
+        "KW40Z",
         "2.4",
         "MCUFRIEND.COM",
         "Nucleo",
@@ -17,14 +21,7 @@
         "SPI",
         "CC3000",
         "SimpleLink",
-        "Wi-Fi",
-        "fast",
-        "FastPWM",
-        "precision",
-        "pwm",
-        "resolution",
-        "Servo",
-        "Speed"
+        "Wi-Fi"
     ],
     "name": "flash25spi",
     "platforms": "*",

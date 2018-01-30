@@ -20,12 +20,7 @@
         "mbed",
         "display",
         "I2C",
-        "led",
-        "minutes",
-        "seconds",
-        "stopwatch",
-        "timer",
-        "watch"
+        "led"
     ],
     "name": "I2CLEDDisp",
     "platforms": "*",

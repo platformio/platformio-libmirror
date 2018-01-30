@@ -12,10 +12,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "character",
-        "display",
-        "HD44780",
-        "LCD"
+        "AS5048",
+        "Encoder",
+        "magnetic sensors",
+        "sensor"
     ],
     "name": "DebugLib",
     "platforms": "*",

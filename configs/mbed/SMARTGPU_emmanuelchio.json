@@ -34,7 +34,10 @@
         "smart",
         "SMARTGPU",
         "TFT",
-        "touch"
+        "touch",
+        "int",
+        "NVIC",
+        "priority"
     ],
     "name": "SMARTGPU",
     "platforms": "*",

@@ -9,11 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "TeraTerm",
-        "Terminal",
         "L298",
         "motor",
-        "Stepper"
+        "Stepper",
+        "W5200",
+        "WIZ820IO"
     ],
     "name": "ArduinoMotorShield",
     "platforms": "*",

@@ -15,13 +15,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AQM1602",
         "SSL",
         "TLS",
-        "v1.0",
         "clock",
         "ds1307",
-        "RTC"
+        "RTC",
+        "v1.0"
     ],
     "name": "CyaSSL",
     "platforms": "*",

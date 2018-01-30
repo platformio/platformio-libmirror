@@ -13,9 +13,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "TeraTerm",
+        "Terminal",
         "arduino",
         "motor",
-        "shield"
+        "shield",
+        "Register",
+        "shift",
+        "Communication",
+        "Serial",
+        "VT100",
+        "VT200"
     ],
     "name": "ArduinoMotorShield",
     "platforms": "*",

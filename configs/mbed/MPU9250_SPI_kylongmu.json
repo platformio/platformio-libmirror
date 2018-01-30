@@ -22,13 +22,13 @@
         "real",
         "RTC",
         "time",
-        "api",
         "16x2",
         "20x2",
         "20X4",
         "40x2",
         "HD4478",
-        "TextLCD"
+        "TextLCD",
+        "api"
     ],
     "name": "MPU9250_SPI",
     "platforms": "*",

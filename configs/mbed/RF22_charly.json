@@ -15,16 +15,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit",
-        "GPS",
-        "NEMA",
-        "buzzer",
-        "pwm",
-        "tone",
-        "tune",
         "HOPERF",
         "RF22",
-        "RFM22"
+        "RFM22",
+        "ROS"
     ],
     "name": "RF22",
     "platforms": "*",

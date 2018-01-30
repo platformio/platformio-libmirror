@@ -14,11 +14,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Linked",
-        "Linked List",
-        "List",
         "GPS",
-        "test"
+        "PCF8575",
+        "display"
     ],
     "name": "lib_gps",
     "platforms": "*",

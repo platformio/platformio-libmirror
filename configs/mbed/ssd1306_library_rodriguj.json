@@ -6,18 +6,14 @@
     "description": "A class for managing SSD1306 controlled LCD´s (cheap 128x64 models, 0.96'')",
     "frameworks": "mbed",
     "keywords": [
-        "xml",
-        "802.15.4",
-        "wireless",
-        "xbee",
-        "Futaba",
-        "MODSERIAL",
-        "SBUS",
-        "Serial",
         "128x64",
         "I2C",
         "OLED",
-        "SSD1306"
+        "SSD1306",
+        "NET",
+        "network",
+        "stream",
+        "TCP"
     ],
     "name": "ssd1306_library",
     "platforms": "*",

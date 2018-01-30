@@ -6,13 +6,14 @@
     "description": "library for using LSM303DM chip",
     "frameworks": "mbed",
     "keywords": [
-        "DMA",
-        "rtos",
-        "SD",
-        "SDFileSystem",
-        "WiFly",
-        "FTP",
-        "server"
+        "accelerometer",
+        "ADXL345",
+        "senor",
+        "arduino",
+        "SDCard",
+        "Seeedstudio",
+        "TFT",
+        "touch"
     ],
     "name": "LSM303DM",
     "platforms": "*",

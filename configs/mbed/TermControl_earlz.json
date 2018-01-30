@@ -11,13 +11,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AQM1602",
         "Serial",
         "Terminal",
         "VT100",
         "ethernet",
         "ip",
-        "mbed"
+        "mbed",
+        "display",
+        "I2C",
+        "led"
     ],
     "name": "TermControl",
     "platforms": "*",

@@ -14,14 +14,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "millis",
-        "LCD",
-        "ST7565",
         "debounce",
         "interrupt",
-        "buffer",
-        "ringbuffer",
-        "Template Buffer"
+        "NeoPixel",
+        "nRF51822",
+        "RedBear",
+        "WS2812"
     ],
     "name": "DebouncedInterrupt",
     "platforms": "*",

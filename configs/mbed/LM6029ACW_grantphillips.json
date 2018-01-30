@@ -6,8 +6,13 @@
     "description": "Class library for a Topway LM6029ACW graphics LCD.",
     "frameworks": "mbed",
     "keywords": [
+        "GSM",
+        "SMS",
         "led",
-        "rgb"
+        "rgb",
+        "ethernet",
+        "ip",
+        "mbed"
     ],
     "name": "LM6029ACW",
     "platforms": "*",

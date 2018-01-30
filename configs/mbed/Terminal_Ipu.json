@@ -6,6 +6,8 @@
     "description": "modified Library from sford for use with TeraTerm / VT100 emulation without sending any signs after a \\\"locate\\\" command.",
     "frameworks": "mbed",
     "keywords": [
+        "TeraTerm",
+        "Terminal",
         "arduino",
         "motor",
         "shield",
@@ -13,7 +15,6 @@
         "shift",
         "Communication",
         "Serial",
-        "Terminal",
         "VT100",
         "VT200"
     ],

@@ -24,10 +24,7 @@
         "buzzer",
         "pwm",
         "tone",
-        "tune",
-        "HOPERF",
-        "RF22",
-        "RFM22"
+        "tune"
     ],
     "name": "PWM_Tone_Library",
     "platforms": "*",

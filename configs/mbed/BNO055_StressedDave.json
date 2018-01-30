@@ -14,21 +14,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "EEPROM",
-        "LPC11U24",
-        "BLE",
-        "bluetooth",
-        "simpleble",
-        "DHT22",
-        "Altitude",
-        "bmp085",
-        "pressure",
-        "Temperature",
-        "SDFileSystem",
-        "STM32F746",
-        "device",
-        "Nucleo",
-        "USB"
+        "led",
+        "rgb"
     ],
     "name": "BNO055",
     "platforms": "*",

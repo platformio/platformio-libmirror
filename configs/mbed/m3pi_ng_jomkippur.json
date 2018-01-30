@@ -18,11 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HAM-radio",
-        "I2C",
-        "sdr",
-        "vcxo",
-        "vfo",
         "color",
         "led",
         "nRF51822",
@@ -31,7 +26,12 @@
         "3pi",
         "m3pi",
         "robot",
-        "LPC4330"
+        "FAT",
+        "file",
+        "SD",
+        "System",
+        "I2S",
+        "library"
     ],
     "name": "m3pi_ng",
     "platforms": "*",

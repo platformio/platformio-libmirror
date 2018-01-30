@@ -11,8 +11,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "GSM",
+        "SMS",
         "led",
-        "rgb"
+        "rgb",
+        "ethernet",
+        "ip",
+        "mbed"
     ],
     "name": "RGBLed",
     "platforms": "*",

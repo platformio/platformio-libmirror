@@ -13,7 +13,10 @@
         "MPU6050",
         "MPU60x0",
         "MPU9150",
-        "IO expander"
+        "led",
+        "multiplexing",
+        "pwm",
+        "tlc5940"
     ],
     "name": "MPU6050 + MPU9150",
     "platforms": "*",

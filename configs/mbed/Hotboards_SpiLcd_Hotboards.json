@@ -18,15 +18,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "window",
         "display",
         "hotboards",
         "SPI",
-        "ds1302",
-        "RTC",
-        "USB",
-        "UVC"
+        "TMP006",
+        "BMP180",
+        "I2C",
+        "Luminosity",
+        "Lux",
+        "sensor"
     ],
     "name": "Hotboards_SpiLcd",
     "platforms": "*",

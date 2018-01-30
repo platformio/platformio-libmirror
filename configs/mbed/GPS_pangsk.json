@@ -26,7 +26,10 @@
         "smart",
         "SMARTGPU",
         "TFT",
-        "touch"
+        "touch",
+        "int",
+        "NVIC",
+        "priority"
     ],
     "name": "GPS",
     "platforms": "*",

@@ -9,10 +9,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "A/D",
-        "adc",
-        "SPI",
-        "Random"
+        "Random",
+        "BMP180",
+        "pressure",
+        "sensor",
+        "ax12",
+        "Servo",
+        "C328",
+        "camera",
+        "JPEG",
+        "Serial",
+        "sparkfun"
     ],
     "name": "RNG",
     "platforms": "*",

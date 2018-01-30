@@ -8,7 +8,10 @@
     "keywords": [
         "I2C",
         "interrupt",
-        "slave"
+        "slave",
+        "A/D",
+        "adc",
+        "SPI"
     ],
     "name": "I2CSlaveX",
     "platforms": "*",

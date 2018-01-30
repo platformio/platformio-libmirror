@@ -10,11 +10,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "L298",
-        "motor",
-        "Stepper",
         "W5200",
-        "WIZ820IO"
+        "WIZ820IO",
+        "cmsis",
+        "rtos",
+        "RTX",
+        "led",
+        "LPD8803",
+        "LPD8806",
+        "LPD8809",
+        "SPI",
+        "OAuth",
+        "twitter"
     ],
     "name": "KS0108",
     "platforms": "*",

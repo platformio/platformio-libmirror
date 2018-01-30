@@ -19,6 +19,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "BLE",
+        "buttons",
+        "HEXIWEAR",
+        "KW40Z",
         "2.4",
         "MCUFRIEND.COM",
         "Nucleo",
@@ -30,14 +34,7 @@
         "SPI",
         "CC3000",
         "SimpleLink",
-        "Wi-Fi",
-        "fast",
-        "FastPWM",
-        "precision",
-        "pwm",
-        "resolution",
-        "Servo",
-        "Speed"
+        "Wi-Fi"
     ],
     "name": "CC3000_Hostdriver",
     "platforms": "*",

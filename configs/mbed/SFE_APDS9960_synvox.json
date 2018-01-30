@@ -9,12 +9,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ARM",
-        "DAY",
-        "heartbeat",
-        "RIT",
-        "DISCO_F746NG",
-        "STM32F746",
         "APDS9960",
         "avago",
         "color",
@@ -25,7 +19,11 @@
         "display",
         "RenBED",
         "segment",
-        "Seven"
+        "Seven",
+        "ARM",
+        "DAY",
+        "heartbeat",
+        "RIT"
     ],
     "name": "SFE_APDS9960",
     "platforms": "*",

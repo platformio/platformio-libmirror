@@ -15,10 +15,12 @@
         "resolution",
         "Servo",
         "Speed",
-        "BLE",
-        "buttons",
-        "HEXIWEAR",
-        "KW40Z"
+        "bridge",
+        "I2C",
+        "SC16IS750",
+        "SC16IS752",
+        "SPI",
+        "UART"
     ],
     "name": "DS1820",
     "platforms": "*",

@@ -6,6 +6,9 @@
     "description": "K64F applications.",
     "frameworks": "mbed",
     "keywords": [
+        "128x64",
+        "LCD",
+        "ST7920",
         "check;",
         "CRC",
         "CRC16;",

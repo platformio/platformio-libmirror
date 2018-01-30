@@ -27,7 +27,7 @@ class MbedTopSpider(scrapy.Spider):
                 if not url in self.seen_urls:
                     if not is_mbed_core_library(url=url):
                         self.top_cnt = self.top_cnt + 1
-                    scrapy_requests = scrapy.Request(url,callback=self.parse_project)
+                    scrapy_requests = scrapy.Request(url,callback=self.parse_project,dont_filter=True)
                     scrapy_requests.meta['keywords'] = response.xpath('.//*[@class="inline Library"]/../../../a/text()').extract()
                     yield scrapy_requests
 
@@ -38,7 +38,7 @@ class MbedTopSpider(scrapy.Spider):
             pagenum = 1
             if 'pagenum' in response.meta: pagenum = response.meta['pagenum']
             nextpage = pagenum + 1
-            request = scrapy.Request(baseurl+('&page=%d' % nextpage))
+            request = scrapy.Request(baseurl+('&page=%d' % nextpage),dont_filter=True)
             request.meta['pagenum'] = nextpage
             request.meta['baseurl'] = baseurl
             yield request
@@ -60,7 +60,7 @@ class MbedTopSpider(scrapy.Spider):
         l.add_value('keywords',response.request.meta['keywords'])
         item = l.load_item()
         
-        request = scrapy.Request(response.url+"dependencies",callback=self.parse_dependencies)
+        request = scrapy.Request(response.url+"dependencies",callback=self.parse_dependencies,dont_filter=True)
         request.meta['libpage'] = response.url
         request.meta['item'] = item
         return request
@@ -94,7 +94,7 @@ class MbedTopSpider(scrapy.Spider):
                         yield owner_request
             if len(deps)>0: item['dependencies'] = deps
             print("dependencies is ",deps)
-        request = scrapy.Request(response.meta['libpage']+"dependents",callback=self.parse_examples)
+        request = scrapy.Request(response.meta['libpage']+"dependents",callback=self.parse_examples,dont_filter=True)
         request.meta['libpage'] = response.meta['libpage']
         request.meta['item'] = item
         yield request
@@ -118,7 +118,7 @@ class MbedTopSpider(scrapy.Spider):
         # note that duplicate requests will be dropped, so make sure to use unique url!
         url = "https://os.mbed.com"+item['ownerurl']+"code/?q="+item['name']
 
-        request = scrapy.Request(url,callback=self.parse_tags)
+        request = scrapy.Request(url,callback=self.parse_tags,dont_filter=True)
         request.meta['libpage'] = response.meta['libpage']
         request.meta['item'] = item
         return request
@@ -144,7 +144,7 @@ class MbedTopSpider(scrapy.Spider):
             print (">>> Next is",next)
             url = "https://os.mbed.com"+item['ownerurl']+"code/"+next[0]
 
-            request = scrapy.Request(url,callback=self.parse_tags)
+            request = scrapy.Request(url,callback=self.parse_tags,dont_filter=True)
             request.meta['libpage'] = response.meta['libpage']
             request.meta['item'] = item
             return request

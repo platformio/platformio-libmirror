@@ -6,6 +6,8 @@
     "description": "Simple library for controlling a shift register using only three pins on the mbed. Defaults to controlling an 8 bit shift register.",
     "frameworks": "mbed",
     "keywords": [
+        "TeraTerm",
+        "Terminal",
         "arduino",
         "motor",
         "shield",
@@ -13,7 +15,6 @@
         "shift",
         "Communication",
         "Serial",
-        "Terminal",
         "VT100",
         "VT200"
     ],

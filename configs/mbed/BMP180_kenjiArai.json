@@ -11,8 +11,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "TeraTerm",
-        "Terminal",
+        "7",
+        "display",
+        "driver",
+        "led",
+        "PCA9635",
+        "segment",
         "L298",
         "motor",
         "Stepper"
