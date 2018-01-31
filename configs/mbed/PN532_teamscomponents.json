@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "NFC library using PN532 to read/write NDEF Messages to NFC tags",
+    "examples": [
+        "https://os.mbed.com/teams/shields/code/Seeed_NFC_Shield_write/",
+        "https://os.mbed.com/users/Zukya/code/Nucleo_test_nfc/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "audio input",
+        "Audio output",
+        "CODEC",
+        "DISCO-F746NG",
+        "DMA",
+        "Mikami",
+        "SAI",
+        "SAI_IO",
+        "WM8994",
+        "NDEF",
+        "NFC",
+        "PN532"
+    ],
+    "name": "PN532",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/PN532/"
+    }
+}

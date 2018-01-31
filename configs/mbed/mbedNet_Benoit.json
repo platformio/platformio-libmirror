@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Benoît Locher",
+        "url": "https://os.mbed.com/users/Benoit/"
+    },
+    "description": "Rewrite from scratch a TCP/IP stack for mbed. So far the following parts are usable:",
+    "frameworks": "mbed",
+    "keywords": [
+        "arp",
+        "icmp",
+        "interrupts",
+        "stack",
+        "tcpip",
+        "UDP",
+        "MPL115A2"
+    ],
+    "name": "mbedNet",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Benoit/code/mbedNet/"
+    }
+}

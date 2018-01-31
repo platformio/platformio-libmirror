@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "yasuyuki onodera",
+        "url": "https://os.mbed.com/users/yasuyuki/"
+    },
+    "description": "LPS331 library",
+    "examples": [
+        "https://os.mbed.com/users/yasuyuki/code/mbed_DEMO/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "interrupt",
+        "PPM",
+        "pwm",
+        "RC",
+        "Receiver",
+        "AT45DB081D",
+        "AT45DB161D",
+        "AT45DB321D",
+        "EEPROM",
+        "flash",
+        "memory",
+        "SPI"
+    ],
+    "name": "LPS331",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yasuyuki/code/LPS331/"
+    }
+}

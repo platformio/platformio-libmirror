@@ -9,8 +9,8 @@ import types
 
 import json
 
-from support import *
-
+# from support.py import *
+from mbedtop.support import *
 class JsonWriterPipeline(object):
 
     copykeys = [
@@ -20,16 +20,17 @@ class JsonWriterPipeline(object):
     ]
 
     def process_item(self, item, spider):
-        filename = item['name'] + '_' + item['owner']
+        # print(item)
+        filename = item['name'] + '_' + item['ownerurl'].replace("/users/","") #item['owner']
         filename.replace(' ', '_')
         filename = "".join(x for x in filename if x.isalnum() or x=='_')
 
-	path = "../../configs/mbed/"
-	if is_mbed_core_library(name=item['name'], owner=item['owner']):
+        path = "../../configs/mbed/"
+        if is_mbed_core_library(name=item['name'], owner=item['owner']):
             path = "../../configs/mbed-core/"
 
-        #TODO: Read existing file and add overwrite parsed fields only
-        # so that moderated files do not lose information
+            #TODO: Read existing file and add overwrite parsed fields only
+            # so that moderated files do not lose information
 
         dirty = 0
         for key in pio_required_fields():
@@ -38,8 +39,9 @@ class JsonWriterPipeline(object):
             path = path + "moderation/"
 
         with open(path+filename+".json", "w") as f:
+            print( "####################  >>>  ",filename)
             expo = self.copy_selected(item, self.copykeys)
-            json.dump(dict(expo), f, indent=4, sort_keys=True, separators=(',', ': '))
+            json.dump(dict(expo), f, indent=4, sort_keys=True, separators=(',', ': '),ensure_ascii=False)
 
         return item
 
@@ -59,6 +61,9 @@ class RepoPostProc(object):
         if 'repository' in item:
             repo = { "type" : "hg", "url" : make_mbed_url(item['repository']) }
             item['repository'] = repo
+
+        if 'dependencies' in item:
+            item['dependencies'] = make_mbed_url(item['dependencies'])
 
         if ('ownerurl' in item) and ('owner' in item):
             item['authors'] = { "name" : item['owner'], "url" : make_mbed_url(item['ownerurl']) }            

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "Library for EM-406 and MTK3339 GPS modules (NMEA), using UART communication.",
+    "examples": [
+        "https://os.mbed.com/teams/shields/code/Sparkfun_GPS_Shield/",
+        "https://os.mbed.com/users/VictorMC/code/My_GPS/",
+        "https://os.mbed.com/teams/project123/code/Teste_GPS_luis/",
+        "https://os.mbed.com/users/Luizoliveira/code/STM32L152RE/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit-Ultimate-GPS-Breakout-v3",
+        "Sparkfun-GPS-Shield"
+    ],
+    "name": "SerialGPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/SerialGPS/"
+    }
+}

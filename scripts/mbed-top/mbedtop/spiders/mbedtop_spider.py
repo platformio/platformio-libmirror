@@ -5,26 +5,26 @@ from mbedtop.support import *
 
 class MbedTopSpider(scrapy.Spider):
     name = "mbedtop"
-    allowed_domains = ["developer.mbed.org"]
-    start_urls = [ "https://developer.mbed.org/search/?q=&selected_facets=obj_type_exact%3ACode+Repository&repo_type=Library&order_by=-import_count" ]
-    #start_urls = [ 'https://developer.mbed.org/search/?type=&q=TMP102' ]
+    allowed_domains = ["os.mbed.com"]
+    start_urls = ["https://os.mbed.com/code/all/?sort=imports"]
     seen_urls = []
     lib_tags = {}   # will contain dict with "%NAME%" : [ %TAGS% ]
 
-    top_max = 100
+    top_max = 1000
     top_cnt = 0
 
     def parse(self, response):
-        libraries = response.xpath('.//*[@id="mbed-content"]//div/div[2]/div[2]/div[1]/b/a/@href').extract()
-        print "found libraries: ", libraries
-
+        libraries = response.xpath('.//*[@class="inline Library"]//a/@href').extract()
+        print("found libraries: ", libraries)
         for url in libraries:
             if self.top_cnt < self.top_max:
-                if url[0] == '/': url = 'https://developer.mbed.org'+url
+                if url[0] == '/': url = 'https://os.mbed.com'+url
                 if not url in self.seen_urls:
                     if not is_mbed_core_library(url=url):
                         self.top_cnt = self.top_cnt + 1
-                    yield scrapy.Request(url,callback=self.parse_project)
+                    scrapy_requests = scrapy.Request(url,callback=self.parse_project,dont_filter=True)
+                    scrapy_requests.meta['keywords'] = response.xpath('.//*[@class="inline Library"]/../../../a/text()').extract()
+                    yield scrapy_requests
 
         if self.top_cnt < self.top_max:
             # Request next page of results
@@ -33,56 +33,63 @@ class MbedTopSpider(scrapy.Spider):
             pagenum = 1
             if 'pagenum' in response.meta: pagenum = response.meta['pagenum']
             nextpage = pagenum + 1
-            request = scrapy.Request(baseurl+('&page=%d' % nextpage))
+            request = scrapy.Request(baseurl+('&page=%d' % nextpage),dont_filter=True)
             request.meta['pagenum'] = nextpage
             request.meta['baseurl'] = baseurl
             yield request
 
     # parse the library page
     def parse_project(self, response):
-        self.seen_urls.append(response.url)
-
+        # self.seen_urls.append(response.url)
         l = MbedLibLoader(item=MbedLibItem(), response=response)
-        l.add_xpath('repo_type', '/html/body/div[4]/div[2]/div[2]/table/tr[1]/td/text()[2]')
-        l.add_xpath('owner', '/html/body/div[4]/div[1]/div/a[1]/text()[2]')
-        l.add_xpath('ownerurl', '/html/body/div[4]/div[1]/div/a[1]/@href')
-        l.add_xpath('name', '/html/body/div[4]/div[1]/div/a[2]/text()[2]')
-        l.add_xpath('repository', '/html/body/div[4]/div[1]/div/a[2]/@href')
+        l.add_xpath('repo_type', './/*[@class="three columns sidebar "]//div[2]/table/tr[1]/td/text()[2]')
+        l.add_xpath('owner', './/*[@class="code-header"]//a[1]/text()[2]')
+        l.add_xpath('ownerurl', './/*[@class="code-header"]//a[1]/@href')
+        l.add_xpath('name', './/*[@class="code-header"]//a[2]/text()[2]')
+        l.add_xpath('repository', './/*[@class="code-header"]//a[2]/@href')
         l.add_xpath('description', './/*[@id="mbed-content"]/p[1]/text()')
         l.add_value('frameworks', 'mbed')
         l.add_value('platforms', mbed_platforms())
-        l.add_xpath('components', '/html/body/div[4]/div[2]/div[3]//a/@href')
+        l.add_xpath('components', './/*[@class="three columns sidebar "]//div[4]/a/@href')
+        l.add_value('keywords',response.request.meta['keywords'])
         item = l.load_item()
-
-        request = scrapy.Request(response.url+"dependencies",callback=self.parse_dependencies)
+        if not ('description' in item):
+            item['description'] = item['name']
+        if not ('keywords' in item):
+            item['keywords'] = item['name']
+        request = scrapy.Request(response.url+"dependencies",callback=self.parse_dependencies,dont_filter=True)
         request.meta['libpage'] = response.url
         request.meta['item'] = item
         return request
 
     def parse_dependencies(self, response):
         item = response.meta['item']
-        
-        deplist = response.xpath('.//*[@id="mbed-content"]//div/div[2]/div[2]/div[1]/b/a/@href').extract()
+        deplist = response.xpath('.//*[@id="mbed-content"]//div[2]/div[2]/div[2]/div/b/a/@href').extract()
 
         if len(deplist):
-            print "****** dependencies for",item['name'],"are:",deplist
+            print("****** dependencies for", item['name'], "are:",deplist)
             for url in deplist:
-                if (url != "/") and (url[0] == '/') : url = 'https://developer.mbed.org'+url
-                if ("https://" in url) and not (url in self.seen_urls):
-                    print ">>>>>>>>>>> follow dependency",url
-                    yield scrapy.Request(url,callback=self.parse_project)
+                if (url != "/") and (url[0] == '/') : url = 'https://os.mbed.com'+url
+                if ("https://" in url and "components" not in url):
+                    print (">>>>>>>>>>> follow dependency",url)
+                    yield scrapy.Request(url,callback=self.parse_project,dont_filter=True)
 
             deps = []
             for url in deplist:
-                url.replace("https://developer.mbed.org/","")
+                url.replace("https://os.mbed.com/","")
                 urllist = url.split('/') 
-                #print "---- dependency urllist is len",len(urllist),": ",urllist
-		if (len(urllist) > 4) and not is_mbed_core_library(owner=urllist[2],name=urllist[4]):
-                    deps.append({ 'name' : urllist[4], 'frameworks' : 'mbed' })
-
-            if len(deps): item['dependencies'] = deps
-
-        request = scrapy.Request(response.meta['libpage']+"dependents",callback=self.parse_examples)
+                print( "---- dependency urllist is len",len(urllist),": ",urllist)
+                if (len(urllist) > 4) and not is_mbed_core_library(owner=urllist[2],name=urllist[4]):
+                    deps_owner_nickname = urllist[2]
+                    if(deps_owner_nickname!="components"):
+                        owner_request = scrapy.Request('https://os.mbed.com/'+urllist[1]+'/'+deps_owner_nickname, callback = self.parse_owner,dont_filter=True)
+                        owner_request.meta['item'] = item
+                        owner_request.meta['url'] = 'https://os.mbed.com/'+urllist[1]+'/'+deps_owner_nickname
+                        deps.append({ 'name' : urllist[4], 'frameworks' : 'mbed','url':"https://os.mbed.com" + url, 'authors':[{"url":'https://os.mbed.com/'+urllist[1]+'/'+urllist[2]}] })
+                        yield owner_request
+            if len(deps)>0: item['dependencies'] = deps
+            print("dependencies is ",deps)
+        request = scrapy.Request(response.meta['libpage']+"dependents",callback=self.parse_examples,dont_filter=True)
         request.meta['libpage'] = response.meta['libpage']
         request.meta['item'] = item
         yield request
@@ -104,9 +111,9 @@ class MbedTopSpider(scrapy.Spider):
             return item
 
         # note that duplicate requests will be dropped, so make sure to use unique url!
-        url = "https://developer.mbed.org"+item['ownerurl']+"code/?q="+item['name']
+        url = "https://os.mbed.com"+item['ownerurl']+"code/?q="+item['name']
 
-        request = scrapy.Request(url,callback=self.parse_tags)
+        request = scrapy.Request(url,callback=self.parse_tags,dont_filter=True)
         request.meta['libpage'] = response.meta['libpage']
         request.meta['item'] = item
         return request
@@ -122,19 +129,35 @@ class MbedTopSpider(scrapy.Spider):
 
             if (len(name) > 0) and (len(tags) > 0):
                 self.lib_tags[name[0]] = tags
-                print "+++ Found keywords for", name, ": ", tags
+                print( "+++ Found keywords for", name, ": ", tags)
                 self.log('Storing keywords for '+name[0])
 
         if item['name'] in self.lib_tags:
             item['keywords'] = self.lib_tags[item['name']]
 
         if len(next):
-            print ">>> Next is",next
-            url = "https://developer.mbed.org"+item['ownerurl']+"code/"+next[0]
+            print (">>> Next is",next)
+            url = "https://os.mbed.com"+item['ownerurl']+"code/"+next[0]
 
-            request = scrapy.Request(url,callback=self.parse_tags)
+            request = scrapy.Request(url,callback=self.parse_tags,dont_filter=True)
             request.meta['libpage'] = response.meta['libpage']
             request.meta['item'] = item
             return request
 
+        return item
+
+    def parse_owner(self, response):
+
+        item = response.meta['item']
+        url = response.meta['url']
+        urlsplit = url.split('/')
+        owner = ''
+        if 'users'in urlsplit:
+            owner = response.xpath('.//*[@id="mbed-content"]//div/div/div/div[2]/h3/text()').extract()[0]
+        if 'teams' in urlsplit:
+            owner = response.xpath('.//*[@class="twelve columns profile"]//div/h3/a/text()[1]').extract()[0]
+        for i in range(len(item['dependencies'])):
+            item['dependencies'][i]['authors'] = [owner]
+            item['dependencies'][i].pop('url', None)
+            
         return item

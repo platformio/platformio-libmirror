@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Panu Kauppinen",
+        "url": "https://os.mbed.com/users/innocopter/"
+    },
+    "description": "Joystick enabled version of USBHID -library. Has full Playstation 3 functionality including button pressures and a working home-button implementation, while maintaining full PC/MAC/linux -compatibility.",
+    "frameworks": "mbed",
+    "keywords": [
+        "3",
+        "joystick",
+        "playstation",
+        "motor",
+        "SPG20-332",
+        "Stepper",
+        "stepping",
+        "TA7774",
+        "frequency",
+        "LPC1768",
+        "MHz",
+        "output",
+        "JSON",
+        "FAT",
+        "file",
+        "Filenames",
+        "fixes",
+        "Long",
+        "System"
+    ],
+    "name": "USBHID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/innocopter/code/USBHID/"
+    }
+}

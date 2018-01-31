@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Gert Jan Schoneveld",
+        "url": "https://os.mbed.com/users/gj_schoneveld/"
+    },
+    "description": "Fork without short circuits",
+    "examples": [
+        "https://os.mbed.com/users/gj_schoneveld/code/SaveKeypad/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "OLED",
+        "text",
+        "interrupt",
+        "keypad",
+        "polling",
+        "file",
+        "flash",
+        "FlashFileSystem",
+        "System"
+    ],
+    "name": "keypad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gj_schoneveld/code/keypad/"
+    }
+}

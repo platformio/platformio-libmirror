@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Ale C.-",
+        "url": "https://os.mbed.com/users/Suky/"
+    },
+    "description": "Control TouchScreen ADS7843",
+    "examples": [
+        "https://os.mbed.com/users/Suky/code/Touch_Example/",
+        "https://os.mbed.com/users/Suky/code/Example_Menu_LCD_TFT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "touch",
+        "EEPROM",
+        "flash",
+        "stm32f10x",
+        "Radio",
+        "transceiver",
+        "NTP",
+        "SerialHalfDuplex"
+    ],
+    "name": "TouchADS7843",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Suky/code/TouchADS7843/"
+    }
+}

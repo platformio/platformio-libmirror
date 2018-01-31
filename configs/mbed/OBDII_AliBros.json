@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Ali Bros",
+        "url": "https://os.mbed.com/users/AliBros/"
+    },
+    "description": "OBDII library, based on SK Pang\\\\\\'s ecu reader. more details to be added shortly.",
+    "frameworks": "mbed",
+    "keywords": [
+        "2",
+        "bus",
+        "CAN",
+        "II",
+        "OBD",
+        "obd2",
+        "obdII",
+        "reader"
+    ],
+    "name": "OBDII",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AliBros/code/OBDII/"
+    }
+}

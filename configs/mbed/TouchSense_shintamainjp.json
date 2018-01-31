@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "A capacitive touch sensor using a analog input port.",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/TouchSenseTestProgram/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "GFX",
+        "LCD",
+        "TFT",
+        "display",
+        "driver",
+        "HEXIWEAR",
+        "OLED",
+        "SSD1351",
+        "I2C",
+        "MCP4725",
+        "AnalogIn",
+        "Capacitive",
+        "digitalOut",
+        "sensor",
+        "touch",
+        "biquad",
+        "DSP",
+        "filter"
+    ],
+    "name": "TouchSense",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/TouchSense/"
+    }
+}

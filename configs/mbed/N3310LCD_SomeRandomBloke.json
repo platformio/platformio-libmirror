@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Andrew Lindsay",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/"
+    },
+    "description": "Library for Nuelectronics Nokia 3310/5110 LCD Display and joystick.",
+    "examples": [
+        "https://os.mbed.com/users/SomeRandomBloke/code/N3310LCD_Demo/",
+        "https://os.mbed.com/users/SomeRandomBloke/code/FRDM_N3110LCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "3310",
+        "5110",
+        "Nokia"
+    ],
+    "name": "N3310LCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/code/N3310LCD/"
+    }
+}

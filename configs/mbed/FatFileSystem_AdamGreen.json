@@ -1,39 +1,61 @@
 {
     "authors": {
         "name": "Adam Green",
-        "url": "https://developer.mbed.org/users/AdamGreen/"
+        "url": "https://os.mbed.com/users/AdamGreen/"
     },
     "description": "Updated FAT File System driver.",
     "examples": [
-        "https://developer.mbed.org/users/AdamGreen/code/WeatherStation/",
-        "https://developer.mbed.org/users/jksoft/code/GPSLogger/",
-        "https://developer.mbed.org/users/dcoban/code/Deneme/",
-        "https://developer.mbed.org/users/higedura/code/dotHR_EKF/",
-        "https://developer.mbed.org/users/higedura/code/dotHR_EKF_phithe/",
-        "https://developer.mbed.org/users/jphastings/code/SDFileSystem/",
-        "https://developer.mbed.org/users/jksoft/code/WallbotMouse/",
-        "https://developer.mbed.org/users/ryanmc/code/MOVIE_MUSIC_TRIVIA_GAME/",
-        "https://developer.mbed.org/users/belloula/code/BELLMT3329/"
+        "https://os.mbed.com/users/AdamGreen/code/WeatherStation/",
+        "https://os.mbed.com/users/jksoft/code/GPSLogger/",
+        "https://os.mbed.com/users/dcoban/code/Deneme/",
+        "https://os.mbed.com/users/higedura/code/dotHR_EKF/",
+        "https://os.mbed.com/users/higedura/code/dotHR_EKF_phithe/",
+        "https://os.mbed.com/users/jphastings/code/SDFileSystem/",
+        "https://os.mbed.com/users/jksoft/code/WallbotMouse/",
+        "https://os.mbed.com/users/ryanmc/code/MOVIE_MUSIC_TRIVIA_GAME/",
+        "https://os.mbed.com/users/belloula/code/BELLMT3329/",
+        "https://os.mbed.com/users/jys1/code/iot_cook/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Host",
+        "hub",
+        "keyboard",
+        "mbed",
+        "Mouse",
+        "MSD",
+        "rtos",
+        "Serial",
+        "USB",
         "FAT",
         "file",
         "Filenames",
         "fixes",
         "Long",
-        "System"
+        "System",
+        "5110",
+        "LCD",
+        "N5110",
+        "Nokia",
+        "pcd8544",
+        "I2C",
+        "LM75B",
+        "HD44780",
+        "PCF2116",
+        "ST7032",
+        "ST7036",
+        "text",
+        "TextLCD",
+        "WS0010",
+        "display",
+        "OLED",
+        "SPI",
+        "SSD1306"
     ],
     "name": "FatFileSystem",
-    "platforms": [
-        "freescalekinetis",
-        "nordicnrf51",
-        "nxplpc",
-        "ststm32",
-        "teensy"
-    ],
+    "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://developer.mbed.org/users/AdamGreen/code/FatFileSystem/"
+        "url": "https://os.mbed.com/users/AdamGreen/code/FatFileSystem/"
     }
 }

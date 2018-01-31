@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "EmbeddedArtists AB",
+        "url": "https://os.mbed.com/users/embeddedartists/"
+    },
+    "description": "Interface to the MTK3339 GPS module",
+    "examples": [
+        "https://os.mbed.com/users/embeddedartists/code/app_gps/",
+        "https://os.mbed.com/users/embeddedartists/code/lpc812_exp_solution_exp-port-gps-lib/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GPS",
+        "MTK3339"
+    ],
+    "name": "MTK3339",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/embeddedartists/code/MTK3339/"
+    }
+}

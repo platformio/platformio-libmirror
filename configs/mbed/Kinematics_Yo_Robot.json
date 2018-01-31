@@ -1,0 +1,49 @@
+{
+    "authors": {
+        "name": "Ernesto Palacios",
+        "url": "https://os.mbed.com/users/Yo_Robot/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Ernesto Palacios"
+            ],
+            "frameworks": "mbed",
+            "name": "TrackVector2D"
+        }
+    ],
+    "description": "This Library will contain classes to handle the mathematical operations of kinematics in robots. This will grow in time",
+    "examples": [
+        "https://os.mbed.com/users/Yo_Robot/code/Matrix_class/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "hotboards",
+        "keyboard",
+        "debug",
+        "debugging",
+        "Serial",
+        "term",
+        "Terminal",
+        "Kinematics",
+        "lauther",
+        "math",
+        "matrix",
+        "robot",
+        "Robotics",
+        "ShiftRegister",
+        "TextLCD",
+        "Display Module",
+        "emwin",
+        "LPC4088DM"
+    ],
+    "name": "Kinematics",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/Yo_Robot/code/Kinematics/"
+        }
+    }
+}

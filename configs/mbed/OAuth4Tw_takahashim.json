@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Masayoshi Takahashi",
+        "url": "https://os.mbed.com/users/takahashim/"
+    },
+    "description": "OAuth library for twitter.",
+    "examples": [
+        "https://os.mbed.com/users/geodenx/code/OAuth4Tw/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "OAuth",
+        "twitter",
+        "90393",
+        "MLX",
+        "mlx90393"
+    ],
+    "name": "OAuth4Tw",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/takahashim/code/OAuth4Tw/"
+    }
+}

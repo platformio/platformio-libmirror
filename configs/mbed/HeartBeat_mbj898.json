@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Brian Jones",
+        "url": "https://os.mbed.com/users/mbj898/"
+    },
+    "description": "Library to use LED as a heartbeat. Powered using PWM.",
+    "examples": [
+        "https://os.mbed.com/users/mbj898/code/ARM_DAY_PWM/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "RenBED",
+        "segment",
+        "Seven",
+        "ARM",
+        "DAY",
+        "heartbeat",
+        "RIT",
+        "IMU",
+        "sensor"
+    ],
+    "name": "HeartBeat",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbj898/code/HeartBeat/"
+    }
+}

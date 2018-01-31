@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Stanislav Silnitskiy",
+        "url": "https://os.mbed.com/users/mailgate_user/"
+    },
+    "description": "rtos",
+    "frameworks": "mbed",
+    "keywords": [
+        "gauge",
+        "rain",
+        "Speed",
+        "vane",
+        "wind",
+        "asynchronous",
+        "Buffered",
+        "FIFO",
+        "Non blocking",
+        "ring buffer",
+        "Serial",
+        "UART"
+    ],
+    "name": "rtos",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mailgate_user/code/rtos/"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/"
+    },
+    "description": "Library for the MAX7219 LED display driver",
+    "examples": [
+        "https://os.mbed.com/teams/Maxim-Integrated/code/MAXREFDES99_demo/",
+        "https://os.mbed.com/teams/Maxim-Integrated/code/MAXREFDES99_RTC_Display/",
+        "https://os.mbed.com/users/anywill/code/nucleo_spi_max7219_led8x8/",
+        "https://os.mbed.com/users/Paxtel/code/max7219/",
+        "https://os.mbed.com/users/miguelmstein/code/Nucleo_blink_led/",
+        "https://os.mbed.com/users/miguelmstein/code/spimatriz/",
+        "https://os.mbed.com/users/JDC128/code/visual4m/",
+        "https://os.mbed.com/users/Paxtel/code/proyecto/",
+        "https://os.mbed.com/users/Paxtel/code/Final/",
+        "https://os.mbed.com/teams/Projektseminar-3/code/GrundansteuerungDisplay/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MAX7219",
+    "name": "MAX7219",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/code/MAX7219/"
+    }
+}

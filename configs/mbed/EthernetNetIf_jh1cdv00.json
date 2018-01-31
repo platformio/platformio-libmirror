@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "hiroshi matsumoto",
+        "url": "https://os.mbed.com/users/jh1cdv00/"
+    },
+    "description": "lpc1768",
+    "frameworks": "mbed",
+    "keywords": [
+        "modbus rtu",
+        "real time",
+        "rtos",
+        "serial protocol",
+        "gyro",
+        "eeprom on flash",
+        "flash file system",
+        "audio",
+        "bwf",
+        "file",
+        "wav",
+        "wave",
+        "DMA",
+        "FRDM-KL25Z",
+        "led",
+        "WS2811",
+        "WS2812"
+    ],
+    "name": "EthernetNetIf",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jh1cdv00/code/EthernetNetIf/"
+    }
+}

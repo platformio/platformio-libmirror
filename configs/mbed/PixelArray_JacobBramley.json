@@ -1,0 +1,56 @@
+{
+    "authors": {
+        "name": "Jacob Bramley",
+        "url": "https://os.mbed.com/users/JacobBramley/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Erik Olieman"
+            ],
+            "frameworks": "mbed",
+            "name": "BurstSPI"
+        }
+    ],
+    "description": "Control an array or chain of NeoPixel-compatible RGB LEDs.",
+    "examples": [
+        "https://os.mbed.com/users/morecat_lab/code/mbed_ws2812b/",
+        "https://os.mbed.com/users/dannellyz/code/easyNeo/",
+        "https://os.mbed.com/users/TareObjects/code/WS2811_Solidarite/",
+        "https://os.mbed.com/users/pighixxx/code/blip_rainbow/",
+        "https://os.mbed.com/users/paclema/code/blip_rainbow/",
+        "https://os.mbed.com/users/jjmerelo/code/blip_rainbow_ejemplo/",
+        "https://os.mbed.com/users/jjmerelo/code/colorines/",
+        "https://os.mbed.com/users/paclema/code/blip_analog/",
+        "https://os.mbed.com/users/pighixxx/code/blip_dado/",
+        "https://os.mbed.com/users/JCristobal/code/blip_dado/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "KL25z",
+        "LPC800-MAX",
+        "LPC812",
+        "powerdown",
+        "Sleep",
+        "wake-up",
+        "NeoPixel",
+        "NeoPixels",
+        "WS2811",
+        "WS2812",
+        "WS2812B",
+        "InterruptIn",
+        "PwmIn",
+        "cmsis",
+        "rtos",
+        "RTX"
+    ],
+    "name": "PixelArray",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/JacobBramley/code/PixelArray/"
+        }
+    }
+}

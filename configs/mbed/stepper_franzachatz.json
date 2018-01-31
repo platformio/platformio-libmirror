@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Franz Achatz",
+        "url": "https://os.mbed.com/users/franzachatz/"
+    },
+    "description": "simple library for applying number of steps, direction, speed and",
+    "examples": [
+        "https://os.mbed.com/teams/FRA221_2015/code/16A_Autopancakemaker/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CAN",
+        "message",
+        "CNC",
+        "motor",
+        "Stepper",
+        "USBHOST"
+    ],
+    "name": "stepper",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/franzachatz/code/stepper/"
+    }
+}

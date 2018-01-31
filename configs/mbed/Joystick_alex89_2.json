@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Alex Louden",
+        "url": "https://os.mbed.com/users/alex89_2/"
+    },
+    "description": "A class to handle reading, scaling and filtering horizontal and vertical position, and rise/fall interrupts for the button.",
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "MIDI",
+        "ITG3200",
+        "sparkfun",
+        "motor",
+        "Stepper",
+        "unipolar",
+        "joystick"
+    ],
+    "name": "Joystick",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/alex89_2/code/Joystick/"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "Temp and Humidity sensor device driver.",
+    "examples": [
+        "https://os.mbed.com/users/kenno/code/KL05Z_DHT11/",
+        "https://os.mbed.com/teams/ST-Americas-mbed-Team/code/SeeedStudio_Grove_Sensors_Demo/",
+        "https://os.mbed.com/teams/Seeed/code/Seeed_Grove_Temp_Humidity_Example/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/roam_v1/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/roam_v2/",
+        "https://os.mbed.com/users/michaeljkoster/code/ipso_interop_mbed1/",
+        "https://os.mbed.com/users/Kevin_Lee/code/archlink_Temperture_ethernet_http/",
+        "https://os.mbed.com/users/Kevin_Lee/code/archlink_Temperture_dweetio/",
+        "https://os.mbed.com/teams/IOP/code/DHT11_HelloWorld_WIZwiki-W7500/",
+        "https://os.mbed.com/users/Hapi_Tech/code/LCD-DHT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DHT11",
+        "DHT22"
+    ],
+    "name": "DHT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/DHT/"
+    }
+}

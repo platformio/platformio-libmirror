@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "mbed library to use a SENSIRION SHT1x/SHT7x sensor humidity and temperature",
+    "frameworks": "mbed",
+    "keywords": [
+        "command",
+        "Servo",
+        "Humidity",
+        "I2C",
+        "sht11",
+        "SHT15",
+        "SHT71",
+        "SHT75",
+        "Temperature",
+        "GPS",
+        "parse",
+        "DHT22",
+        "RHT03"
+    ],
+    "name": "SHT1x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/SHT1x/"
+    }
+}

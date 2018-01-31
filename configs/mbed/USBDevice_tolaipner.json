@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Tomas Cerskus",
+        "url": "https://os.mbed.com/users/tolaipner/"
+    },
+    "description": "USB device stack with Nucleo F401RE support. NOTE: the default clock config needs to be changed to in order for USB to work.",
+    "frameworks": "mbed",
+    "keywords": [
+        "DMA",
+        "KL25z",
+        "SDFileSystem",
+        "STM32F746",
+        "BLE",
+        "bluetooth",
+        "simpleble",
+        "DHT22",
+        "EEPROM",
+        "LPC11U24",
+        "Altitude",
+        "bmp085",
+        "pressure",
+        "Temperature",
+        "device",
+        "Nucleo",
+        "USB"
+    ],
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tolaipner/code/USBDevice/"
+    }
+}

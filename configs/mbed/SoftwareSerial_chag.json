@@ -1,0 +1,43 @@
+{
+    "authors": {
+        "name": "chag",
+        "url": "https://os.mbed.com/users/chag/"
+    },
+    "description": "ALPHA WORK IN PROGRESS. DO NOT USE IN PRODUCTION CODE.",
+    "examples": [
+        "https://os.mbed.com/users/chag/code/SoftwareUART/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "dal",
+        "lancaster",
+        "Microbit",
+        "DISCO_F746NG",
+        "LCD",
+        "Serial",
+        "SoftwareSerial",
+        "UART",
+        "FAT",
+        "file",
+        "SD",
+        "System",
+        "any",
+        "no",
+        "Pin",
+        "pwm",
+        "Servo",
+        "I2C",
+        "wattbob",
+        "ethernet",
+        "power consumption",
+        "power control",
+        "power management",
+        "PowerControl"
+    ],
+    "name": "SoftwareSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chag/code/SoftwareSerial/"
+    }
+}

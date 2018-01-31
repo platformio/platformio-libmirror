@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Jonne Valola",
+        "url": "https://os.mbed.com/users/smultron1977/"
+    },
+    "description": "This is a mbed library for a 1.8 inch 128x160 pixel SPI TFT display",
+    "examples": [
+        "https://os.mbed.com/users/smultron1977/code/ST7735_Pong/",
+        "https://os.mbed.com/users/alex_asi_elec/code/ST7735_TFT/",
+        "https://os.mbed.com/users/morgonXak/code/SPI18TFT_FRDM-KL25Z/",
+        "https://os.mbed.com/users/DevonHeron/code/SPI18TFT/",
+        "https://os.mbed.com/users/NilliM/code/F-CubeSatKit4/",
+        "https://os.mbed.com/users/rulla/code/3D_Scanner_OV7670_/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "1.8",
+        "SPI",
+        "TFT"
+    ],
+    "name": "ST7735_TFT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/smultron1977/code/ST7735_TFT/"
+    }
+}

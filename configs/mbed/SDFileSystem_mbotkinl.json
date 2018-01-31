@@ -1,0 +1,44 @@
+{
+    "authors": {
+        "name": "Micah B",
+        "url": "https://os.mbed.com/users/mbotkinl/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "mbed official "
+            ],
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "sd",
+    "examples": [
+        "https://os.mbed.com/users/mbotkinl/code/finalV1/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalV1/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalv2/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalv3/",
+        "https://os.mbed.com/teams/Aqueles-Que-Nao-Sabem-O-Que-Fazem/code/Card/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "maniacbug",
+        "nRF24L01",
+        "nRF24L01P",
+        "RF24",
+        "BLDC",
+        "driver",
+        "motor",
+        "i2c expander",
+        "MCP23017"
+    ],
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/mbotkinl/code/SDFileSystem/"
+        }
+    }
+}

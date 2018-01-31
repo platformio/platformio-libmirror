@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Gerrit Polder",
+        "url": "https://os.mbed.com/users/soldeerridder/"
+    },
+    "description": "Library to control Silicon Labs SI570 10 MHZ TO 1.4 GHZ I2C PROGRAMMABLE XO/VCXO.",
+    "frameworks": "mbed",
+    "keywords": [
+        "HAM-radio",
+        "I2C",
+        "sdr",
+        "vcxo",
+        "vfo",
+        "SSL",
+        "TLS",
+        "APDS9960",
+        "avago",
+        "color",
+        "Gesture",
+        "proximity",
+        "sparkfun"
+    ],
+    "name": "SI570",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/soldeerridder/code/SI570/"
+    }
+}

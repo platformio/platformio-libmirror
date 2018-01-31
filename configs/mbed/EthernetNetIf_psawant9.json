@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Pranav Sawant",
+        "url": "https://os.mbed.com/users/psawant9/"
+    },
+    "description": "12Oct2012MbedLab",
+    "examples": [
+        "https://os.mbed.com/users/psawant9/code/Lab3_VoiceMeter/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "buzzer",
+        "music",
+        "sound",
+        "cloud",
+        "firmware",
+        "update",
+        "debug",
+        "1-wire",
+        "DALLAS",
+        "DS18B20",
+        "OneWire",
+        "thermometer"
+    ],
+    "name": "EthernetNetIf",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/psawant9/code/EthernetNetIf/"
+    }
+}

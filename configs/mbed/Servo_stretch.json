@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Adam Resnick",
+        "url": "https://os.mbed.com/users/stretch/"
+    },
+    "description": "Servo",
+    "examples": [
+        "https://os.mbed.com/users/stretch/code/CNCAirbrushCode/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "KL25",
+        "touch",
+        "TSI"
+    ],
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/stretch/code/Servo/"
+    }
+}

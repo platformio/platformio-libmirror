@@ -1,0 +1,49 @@
+{
+    "authors": {
+        "name": "Klaus Steinhammer",
+        "url": "https://os.mbed.com/users/stonie/"
+    },
+    "description": "A library to read and write all 25* serial SPI flash devices from various manufacturers.",
+    "frameworks": "mbed",
+    "keywords": [
+        "CC3000",
+        "SimpleLink",
+        "Wi-Fi",
+        "bridge",
+        "I2C",
+        "SC16IS750",
+        "SC16IS752",
+        "SPI",
+        "UART",
+        "file",
+        "ini",
+        "flash",
+        "Serial",
+        "fast",
+        "FastPWM",
+        "precision",
+        "pwm",
+        "resolution",
+        "Servo",
+        "Speed",
+        "adc",
+        "Analog",
+        "calculate",
+        "convert",
+        "filter",
+        "Linear",
+        "LM335",
+        "median",
+        "multiplier",
+        "offset",
+        "sensor",
+        "Temperature",
+        "voltage"
+    ],
+    "name": "flash25spi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/stonie/code/flash25spi/"
+    }
+}

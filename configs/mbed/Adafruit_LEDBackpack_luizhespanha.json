@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Luiz Hespanha",
+        "url": "https://os.mbed.com/users/luizhespanha/"
+    },
+    "description": "This is a library for the Adafruit LED Backpacks.",
+    "frameworks": "mbed",
+    "keywords": [
+        "clock",
+        "ds1307",
+        "real",
+        "RTC",
+        "time",
+        "api",
+        "8x8",
+        "Adafruit",
+        "backpack",
+        "led",
+        "16x2",
+        "20x2",
+        "20X4",
+        "40x2",
+        "HD4478",
+        "TextLCD"
+    ],
+    "name": "Adafruit_LEDBackpack",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/luizhespanha/code/Adafruit_LEDBackpack/"
+    }
+}

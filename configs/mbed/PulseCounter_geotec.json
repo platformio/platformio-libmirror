@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "bunt _",
+        "url": "https://os.mbed.com/users/geotec/"
+    },
+    "description": "Counts pulses on pin p29. Pulse frequency can be up to 48 MHz.",
+    "frameworks": "mbed",
+    "keywords": [
+        "audio",
+        "files",
+        "I2C",
+        "I2S",
+        "playing",
+        "RS labboard",
+        "TLV320",
+        "wav",
+        "heading",
+        "HMC5843",
+        "magnetic",
+        "sensor",
+        "count",
+        "external clock",
+        "MHz",
+        "pulse",
+        "ILI9341",
+        "TFT"
+    ],
+    "name": "PulseCounter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/geotec/code/PulseCounter/"
+    }
+}
