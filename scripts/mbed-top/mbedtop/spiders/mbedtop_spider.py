@@ -5,10 +5,7 @@ from mbedtop.support import *
 
 class MbedTopSpider(scrapy.Spider):
     name = "mbedtop"
-    # allowed_domains = ["os.mbed.com"]
     allowed_domains = ["os.mbed.com"]
-    # start_urls = [ "https://os.mbed.com/search/?q=&selected_facets=obj_type_exact%3ACode+Repository&repo_type=Library&order_by=-import_count" ]
-    #start_urls = [ 'https://os.mbed.com/search/?type=&q=TMP102' ]
     start_urls = ["https://os.mbed.com/code/all/?sort=imports"]
     seen_urls = []
     lib_tags = {}   # will contain dict with "%NAME%" : [ %TAGS% ]
@@ -17,10 +14,8 @@ class MbedTopSpider(scrapy.Spider):
     top_cnt = 0
 
     def parse(self, response):
-        # libraries = response.xpath('.//*[@id="mbed-content"]//div/div[2]/div[2]/div[1]/b/a/@href').extract()
         libraries = response.xpath('.//*[@class="inline Library"]//a/@href').extract()
         print("found libraries: ", libraries)
-
         for url in libraries:
             if self.top_cnt < self.top_max:
                 if url[0] == '/': url = 'https://os.mbed.com'+url
@@ -46,7 +41,6 @@ class MbedTopSpider(scrapy.Spider):
     # parse the library page
     def parse_project(self, response):
         # self.seen_urls.append(response.url)
-
         l = MbedLibLoader(item=MbedLibItem(), response=response)
         l.add_xpath('repo_type', './/*[@class="three columns sidebar "]//div[2]/table/tr[1]/td/text()[2]')
         l.add_xpath('owner', './/*[@class="code-header"]//a[1]/text()[2]')
@@ -67,15 +61,13 @@ class MbedTopSpider(scrapy.Spider):
 
     def parse_dependencies(self, response):
         item = response.meta['item']
-        
-        # deplist = response.xpath('.//*[@id="mbed-content"]//div/div[2]/div[2]/div[1]/b/a/@href').extract()
         deplist = response.xpath('.//*[@id="mbed-content"]//div[2]/div[2]/div[2]/div/b/a/@href').extract()
 
         if len(deplist):
             print("****** dependencies for", item['name'], "are:",deplist)
             for url in deplist:
                 if (url != "/") and (url[0] == '/') : url = 'https://os.mbed.com'+url
-                if ("https://" in url and "components" not in url):# and not (url in self.seen_urls):
+                if ("https://" in url and "components" not in url):
                     print (">>>>>>>>>>> follow dependency",url)
                     yield scrapy.Request(url,callback=self.parse_project,dont_filter=True)
 
@@ -152,23 +144,17 @@ class MbedTopSpider(scrapy.Spider):
         return item
 
     def parse_owner(self, response):
-        # self.seen_urls.append(response.url)
+
         item = response.meta['item']
         url = response.meta['url']
         urlsplit = url.split('/')
-        print("|||||||",urlsplit)
         owner = ''
         if 'users'in urlsplit:
             owner = response.xpath('.//*[@id="mbed-content"]//div/div/div/div[2]/h3/text()').extract()[0]
         if 'teams' in urlsplit:
             owner = response.xpath('.//*[@class="twelve columns profile"]//div/h3/a/text()[1]').extract()[0]
-
-        print("|||||||||||||",item)
-        print("||||||||||||||||")
         for i in range(len(item['dependencies'])):
-            # if isinstance(resource, str):
             item['dependencies'][i]['authors'] = [owner]
             item['dependencies'][i].pop('url', None)
-            # if url == item['dependencies'][i]['authors']['url']:
-                # item['dependencies'][i]['authors'].update({'name':owner[0]})
+            
         return item
