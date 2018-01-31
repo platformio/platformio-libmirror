@@ -10,12 +10,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "em-406",
+        "GPS",
+        "MTK3339",
+        "NMEA",
+        "Serial",
+        "UART",
         "SSL",
         "TLS",
         "clock",
         "ds1307",
-        "RTC",
-        "v1.0"
+        "RTC"
     ],
     "name": "DS1307",
     "platforms": "*",

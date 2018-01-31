@@ -16,17 +16,7 @@
         "I2C",
         "mbed",
         "MMA8452",
-        "Vodafone",
-        "buffer",
-        "interrupt",
-        "gpu",
-        "Graphics",
-        "LCD",
-        "module",
-        "smart",
-        "SMARTGPU",
-        "TFT",
-        "touch"
+        "Vodafone"
     ],
     "name": "GPS",
     "platforms": "*",

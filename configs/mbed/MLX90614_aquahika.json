@@ -15,11 +15,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "VL6180x",
-        "Melexis",
-        "MLX90614",
         "TSL2560",
-        "TSL2561"
+        "TSL2561",
+        "Melexis",
+        "MLX90614"
     ],
     "name": "MLX90614",
     "platforms": "*",

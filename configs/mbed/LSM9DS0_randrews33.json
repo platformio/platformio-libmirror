@@ -11,6 +11,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Dimmer",
+        "DMX",
+        "DMX512",
+        "lighting",
+        "RDM",
         "Accel",
         "accelerometer",
         "compass",
@@ -19,9 +24,7 @@
         "IMU",
         "LSM9DS0",
         "magnet",
-        "magnetometer",
-        "LCD",
-        "TFT"
+        "magnetometer"
     ],
     "name": "LSM9DS0",
     "platforms": "*",

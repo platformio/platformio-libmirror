@@ -18,10 +18,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "CAN",
         "FreeIMU",
         "IMU",
-        "MPU6050"
+        "MPU6050",
+        "accelerometer",
+        "ADXL345"
     ],
     "name": "Debounced",
     "platforms": "*",

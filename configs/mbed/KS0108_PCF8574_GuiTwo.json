@@ -18,15 +18,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "3pi",
-        "m3pi",
-        "robot",
-        "sensors",
         "current",
         "I2C",
         "INA219",
         "Power",
-        "voltage"
+        "voltage",
+        "control",
+        "PID"
     ],
     "name": "KS0108_PCF8574",
     "platforms": "*",

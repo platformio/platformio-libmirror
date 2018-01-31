@@ -15,7 +15,10 @@
         "LCD",
         "LPC1114",
         "LPC1114FN28",
-        "mbed-sdk"
+        "mbed-sdk",
+        "driver",
+        "ethernet",
+        "PicoTCP"
     ],
     "name": "LCD",
     "platforms": "*",

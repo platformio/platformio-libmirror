@@ -26,9 +26,7 @@
         "interactive",
         "menu",
         "bt",
-        "UART",
-        "LCD",
-        "window"
+        "UART"
     ],
     "name": "RTOS_SPI",
     "platforms": "*",

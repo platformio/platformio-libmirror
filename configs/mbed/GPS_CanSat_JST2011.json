@@ -6,15 +6,10 @@
     "description": "Serial RX interrupt driving GPS(NMEA) library",
     "frameworks": "mbed",
     "keywords": [
-        "breakout",
-        "gainspan",
-        "GS1011MIC",
-        "GS1011MIP",
-        "sparkfun",
-        "Wi-Fi",
-        "wifi",
-        "ESP8266",
-        "NodeMCU"
+        "CAN",
+        "control",
+        "port",
+        "slope"
     ],
     "name": "GPS_CanSat",
     "platforms": "*",

@@ -15,12 +15,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AQM1602",
+        "em-406",
+        "GPS",
+        "MTK3339",
+        "NMEA",
+        "Serial",
+        "UART",
         "SSL",
         "TLS",
-        "BSP",
-        "DISCO_L476VG",
-        "v1.0"
+        "clock",
+        "ds1307",
+        "RTC"
     ],
     "name": "CyaSSL",
     "platforms": "*",

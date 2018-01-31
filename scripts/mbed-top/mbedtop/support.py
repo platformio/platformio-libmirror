@@ -62,10 +62,7 @@ def is_mbed_core_library(url='', name='', owner=''):
     blacklist = [ 
         'mbed', 'mbed-rtos', 'mbed-src', 'mbed-rpc',
         'lwip', 'lwip-eth', 'lwip-sys',
-        'EthernetInterface', 'Socket', 'ChaN',
-        'USBAudio', 'USBDevice', 'USBHID', 'USBMIDI', 'USBMSD', 'USBSerial',
-        'USBHost', 'USBHost3GModule', 'USBHostHID', 'USBHostHub', 'USBHostMIDI', 'USBHostMSD', 'USBHostSerial',
-        'FATFileSystem',
+        'EthernetInterface', 'Socket', 
     ]
     if "https://" in url:
         url = strip_mbed_url(url).split('/')

@@ -27,9 +27,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "led",
-        "SAA1064",
         "audio input",
         "Audio output",
         "CODEC",
@@ -38,15 +35,7 @@
         "Mikami",
         "SAI",
         "SAI_IO",
-        "WM8994",
-        "NDEF",
-        "NFC",
-        "PN532",
-        "motor",
-        "pwm",
-        "sparkfun",
-        "TB6612FNG",
-        "watchdog"
+        "WM8994"
     ],
     "name": "F746_SAI_IO",
     "platforms": "*",

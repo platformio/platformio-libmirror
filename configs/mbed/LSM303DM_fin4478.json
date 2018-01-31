@@ -5,15 +5,7 @@
     },
     "description": "library for using LSM303DM chip",
     "frameworks": "mbed",
-    "keywords": [
-        "DMA",
-        "rtos",
-        "SD",
-        "SDFileSystem",
-        "WiFly",
-        "FTP",
-        "server"
-    ],
+    "keywords": "HDC1000",
     "name": "LSM303DM",
     "platforms": "*",
     "repository": {

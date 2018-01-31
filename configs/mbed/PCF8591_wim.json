@@ -13,12 +13,11 @@
         "SuperTweet",
         "I2C",
         "software",
+        "blinking",
+        "led",
         "adc",
         "dac",
-        "PCF8591",
-        "SHT21",
-        "blinking",
-        "led"
+        "PCF8591"
     ],
     "name": "PCF8591",
     "platforms": "*",

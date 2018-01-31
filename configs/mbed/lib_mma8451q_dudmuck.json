@@ -17,7 +17,9 @@
         "I2C",
         "Nucleo",
         "UIT",
-        "accelerometer"
+        "accelerometer",
+        "SDFileSystem",
+        "STM32F746"
     ],
     "name": "lib_mma8451q",
     "platforms": "*",

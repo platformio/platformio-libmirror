@@ -3,6 +3,15 @@
         "name": "Erik Olieman",
         "url": "https://os.mbed.com/users/Sissors/"
     },
+    "dependencies": [
+        {
+            "authors": [
+                "mbed official "
+            ],
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
     "description": "SDFileSystem which uses SimpleDMA to efficiently write to the SD card, while other Threads in the RTOS continue running",
     "examples": [
         "https://os.mbed.com/users/Sissors/code/SDFileSystem_RTOS_HelloWorld/",
@@ -12,6 +21,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "HDC1000",
         "DMA",
         "rtos",
         "SD",
@@ -24,6 +34,9 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/Sissors/code/SDFileSystem-RTOS/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/Sissors/code/SDFileSystem-RTOS/"
+        }
     }
 }

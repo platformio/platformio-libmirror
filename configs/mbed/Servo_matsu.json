@@ -25,7 +25,9 @@
         "SHT75",
         "Temperature",
         "GPS",
-        "parse"
+        "parse",
+        "DHT22",
+        "RHT03"
     ],
     "name": "Servo",
     "platforms": "*",

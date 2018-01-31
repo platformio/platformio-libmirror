@@ -25,7 +25,9 @@
         "EEPROM",
         "flash",
         "memory",
-        "SPI"
+        "SPI",
+        "16x2",
+        "freetronics"
     ],
     "name": "Threads",
     "platforms": "*",

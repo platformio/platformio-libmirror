@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Kaoru Onoe",
+        "url": "https://os.mbed.com/users/kayekss/"
+    },
+    "description": "Analog-to-binary input with hysteresis",
+    "examples": [
+        "https://os.mbed.com/users/SIT2016/code/Hysteresis/",
+        "https://os.mbed.com/teams/IBS/code/LAB9_Hysteresis/",
+        "https://os.mbed.com/teams/IBS/code/LAB18_StreetLight/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HysteresisIn",
+    "name": "HysteresisIn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kayekss/code/HysteresisIn/"
+    }
+}

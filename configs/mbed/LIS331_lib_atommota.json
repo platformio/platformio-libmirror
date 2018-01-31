@@ -6,12 +6,11 @@
     "description": "Library to communicate with a ST LIS331DLH",
     "frameworks": "mbed",
     "keywords": [
-        "Essex",
-        "AnalogIn",
-        "filter",
-        "median",
-        "outlier",
-        "spikes"
+        "BLE",
+        "I2C",
+        "nordig",
+        "Freescale",
+        "mbed"
     ],
     "name": "LIS331_lib",
     "platforms": "*",

@@ -18,13 +18,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "SerialHalfDuplex",
-        "accelerometer",
-        "Grove",
-        "I2C",
-        "MMA7660FC",
+        "BLE",
+        "MIDI",
         "ITG3200",
-        "sparkfun"
+        "sparkfun",
+        "motor",
+        "Stepper",
+        "unipolar",
+        "joystick"
     ],
     "name": "ITG3200",
     "platforms": "*",

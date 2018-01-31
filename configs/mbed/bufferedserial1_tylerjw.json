@@ -11,10 +11,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HX711",
         "rtos",
         "Serial",
-        "UART"
+        "UART",
+        "IEEE",
+        "mbed",
+        "micromouse",
+        "UCLA",
+        "HX711"
     ],
     "name": "buffered-serial1",
     "platforms": "*",

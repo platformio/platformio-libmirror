@@ -6,14 +6,15 @@
     "description": "Add functions to read Ax, Ay and Az individually",
     "frameworks": "mbed",
     "keywords": [
+        "Humidity",
+        "sensor",
+        "Temperature",
         "accelerometer",
         "ADXL345",
         "senor",
-        "arduino",
-        "SDCard",
-        "Seeedstudio",
-        "TFT",
-        "touch"
+        "OneWire",
+        "protocols",
+        "sensors"
     ],
     "name": "ADXL345",
     "platforms": "*",

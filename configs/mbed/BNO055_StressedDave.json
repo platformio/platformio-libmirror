@@ -14,8 +14,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "led",
-        "rgb"
+        "DMA",
+        "KL25z",
+        "AQM1602",
+        "I2C",
+        "Nucleo",
+        "UIT",
+        "accelerometer",
+        "SDFileSystem",
+        "STM32F746"
     ],
     "name": "BNO055",
     "platforms": "*",

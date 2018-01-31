@@ -3,6 +3,15 @@
         "name": "Erik Olieman",
         "url": "https://os.mbed.com/users/Sissors/"
     },
+    "dependencies": [
+        {
+            "authors": [
+                "mbed official "
+            ],
+            "frameworks": "mbed",
+            "name": "USBDevice"
+        }
+    ],
     "description": "Class that combined FATFileSystem with a USBMSD device, similar to LocalFileSystem",
     "examples": [
         "https://os.mbed.com/users/karelv/code/SD_USB_FS_HelloWorld/",
@@ -11,21 +20,24 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DS1820",
-        "DS1822",
-        "DS18B20",
-        "DS18S20",
+        "4",
+        "buttons",
+        "convert",
+        "Slider",
+        "to",
+        "touch",
         "fatfilesystem",
         "LocalFileSystem",
         "USBMSD",
-        "Humidity",
-        "sensor",
-        "Temperature"
+        "4DGL"
     ],
     "name": "USBFileSystem",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/Sissors/code/USBFileSystem/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/Sissors/code/USBFileSystem/"
+        }
     }
 }

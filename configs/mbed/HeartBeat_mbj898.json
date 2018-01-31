@@ -9,8 +9,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F746NG",
-        "STM32F746",
         "display",
         "RenBED",
         "segment",
@@ -19,13 +17,8 @@
         "DAY",
         "heartbeat",
         "RIT",
-        "APDS9960",
-        "avago",
-        "color",
-        "Gesture",
-        "I2C",
-        "proximity",
-        "sparkfun"
+        "IMU",
+        "sensor"
     ],
     "name": "HeartBeat",
     "platforms": "*",

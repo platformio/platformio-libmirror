@@ -18,7 +18,9 @@
         "CPU",
         "Power",
         "power consumption",
-        "power control"
+        "power control",
+        "pressure",
+        "sensor"
     ],
     "name": "ClockControl",
     "platforms": "*",

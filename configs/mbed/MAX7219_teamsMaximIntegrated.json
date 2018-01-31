@@ -17,12 +17,7 @@
         "https://os.mbed.com/teams/Projektseminar-3/code/GrundansteuerungDisplay/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "compass",
-        "LSM303DLHC",
-        "magnetometer",
-        "sensors"
-    ],
+    "keywords": "MAX7219",
     "name": "MAX7219",
     "platforms": "*",
     "repository": {

@@ -5,13 +5,7 @@
     },
     "description": "Fork of https://developer.mbed.org/teams/mbed-os-examples/code/mbed-os-example-client/",
     "frameworks": "mbed",
-    "keywords": [
-        "Art-Net",
-        "DMX",
-        "DMX512",
-        "ethernet",
-        "UDP"
-    ],
+    "keywords": "mbed-os-example-client",
     "name": "mbed-os-example-client",
     "platforms": "*",
     "repository": {

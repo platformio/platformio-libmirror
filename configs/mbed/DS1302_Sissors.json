@@ -17,15 +17,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "window",
         "display",
         "hotboards",
         "SPI",
         "ds1302",
         "RTC",
-        "USB",
-        "UVC"
+        "TMP006",
+        "I2C",
+        "Luminosity",
+        "Lux",
+        "sensor"
     ],
     "name": "DS1302",
     "platforms": "*",

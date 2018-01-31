@@ -31,11 +31,11 @@
         "proximity sensor",
         "stm32",
         "X-NUCLEO-53L0A1",
-        "gauge",
-        "rain",
-        "Speed",
-        "vane",
-        "wind"
+        "ax12",
+        "Servo",
+        "BMP180",
+        "pressure",
+        "sensor"
     ],
     "name": "X_NUCLEO_53L0A1",
     "platforms": "*",

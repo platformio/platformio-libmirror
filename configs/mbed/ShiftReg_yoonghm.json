@@ -19,7 +19,10 @@
         "MPU9150",
         "processor",
         "multiplexer",
-        "Shift Register"
+        "Shift Register",
+        "clock",
+        "f401",
+        "Nucleo"
     ],
     "name": "ShiftReg",
     "platforms": "*",

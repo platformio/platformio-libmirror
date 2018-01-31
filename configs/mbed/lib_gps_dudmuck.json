@@ -14,9 +14,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GPS",
-        "PCF8575",
-        "display"
+        "FRDM",
+        "KL25z",
+        "LCD",
+        "LCD4884",
+        "Linked",
+        "Linked List",
+        "List",
+        "DISCO_F469NI",
+        "test",
+        "GPS"
     ],
     "name": "lib_gps",
     "platforms": "*",

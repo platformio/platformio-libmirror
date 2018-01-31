@@ -6,12 +6,16 @@
     "description": "esp8266 websocket and socket",
     "frameworks": "mbed",
     "keywords": [
+        "display",
+        "RenBED",
+        "segment",
+        "Seven",
         "ARM",
         "DAY",
         "heartbeat",
         "RIT",
-        "DISCO_F746NG",
-        "STM32F746"
+        "IMU",
+        "sensor"
     ],
     "name": "ESP8266",
     "platforms": "*",

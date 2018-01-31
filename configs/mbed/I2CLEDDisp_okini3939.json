@@ -12,21 +12,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AQM1602",
         "Serial",
         "Terminal",
         "VT100",
-        "ethernet",
-        "ip",
-        "mbed",
         "display",
         "I2C",
         "led",
-        "minutes",
-        "seconds",
-        "stopwatch",
-        "timer",
-        "watch"
+        "mbed",
+        "AQM1602"
     ],
     "name": "I2CLEDDisp",
     "platforms": "*",

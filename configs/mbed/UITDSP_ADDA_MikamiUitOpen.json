@@ -21,14 +21,14 @@
         "HTTPServer",
         "BSP",
         "DISCO_F429ZI",
-        "LCD",
         "AD",
         "da",
         "MCP4921",
         "MCP4922",
         "Nucleo",
         "SPI",
-        "UIT"
+        "UIT",
+        "LCD"
     ],
     "name": "UITDSP_ADDA",
     "platforms": "*",

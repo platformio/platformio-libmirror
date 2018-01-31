@@ -18,20 +18,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "color",
-        "led",
-        "nRF51822",
-        "rgb",
-        "WS2812B",
         "3pi",
         "m3pi",
         "robot",
+        "SSL",
+        "TLS",
         "FAT",
         "file",
         "SD",
-        "System",
-        "I2S",
-        "library"
+        "System"
     ],
     "name": "m3pi_ng",
     "platforms": "*",

@@ -15,11 +15,7 @@
         "filter",
         "median",
         "outlier",
-        "spikes",
-        "BLE",
-        "I2C",
-        "nordig",
-        "HEJ"
+        "spikes"
     ],
     "name": "filter",
     "platforms": "*",

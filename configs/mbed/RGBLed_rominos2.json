@@ -11,20 +11,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "development",
-        "SDK",
-        "sources",
-        "GSM",
-        "SMS",
         "led",
-        "rgb",
-        "ethernet",
-        "ip",
-        "mbed",
-        "http",
-        "https",
-        "SSL",
-        "TLS"
+        "rgb"
     ],
     "name": "RGBLed",
     "platforms": "*",

@@ -18,9 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "W5500",
-        "WIZ550IO",
-        "Wiznet",
         "1wire",
         "DS18B20",
         "OneWire",
@@ -28,12 +25,7 @@
         "led",
         "NeoPixel",
         "rgb",
-        "Shiftbrite",
-        "Dimmer",
-        "DMX",
-        "DMX512",
-        "lighting",
-        "RDM"
+        "Shiftbrite"
     ],
     "name": "NeoStrip",
     "platforms": "*",

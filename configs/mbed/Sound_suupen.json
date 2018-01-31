@@ -10,12 +10,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "counter",
-        "frequency",
-        "LPC1114",
-        "LPC1768",
-        "stm32f401",
-        "STM32F411",
+        "Beep",
+        "merody",
+        "sound",
         "audio",
         "HQ",
         "I2S",
@@ -24,10 +21,7 @@
         "string",
         "tokenize",
         "trim",
-        "utility",
-        "Beep",
-        "merody",
-        "sound"
+        "utility"
     ],
     "name": "Sound",
     "platforms": "*",

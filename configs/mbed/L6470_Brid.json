@@ -10,14 +10,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AQM1602",
         "L6470",
+        "AQM1602",
         "Serial",
         "Terminal",
-        "VT100",
-        "ethernet",
-        "ip",
-        "mbed"
+        "VT100"
     ],
     "name": "L6470",
     "platforms": "*",

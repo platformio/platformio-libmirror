@@ -3,6 +3,15 @@
         "name": "Micah B",
         "url": "https://os.mbed.com/users/mbotkinl/"
     },
+    "dependencies": [
+        {
+            "authors": [
+                "mbed official "
+            ],
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
     "description": "sd",
     "examples": [
         "https://os.mbed.com/users/mbotkinl/code/finalV1/",
@@ -13,13 +22,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BLDC",
-        "driver",
-        "motor",
         "maniacbug",
         "nRF24L01",
         "nRF24L01P",
         "RF24",
+        "BLDC",
+        "driver",
+        "motor",
         "i2c expander",
         "MCP23017"
     ],
@@ -27,6 +36,9 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/mbotkinl/code/SDFileSystem/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/mbotkinl/code/SDFileSystem/"
+        }
     }
 }

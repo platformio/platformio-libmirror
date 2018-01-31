@@ -18,16 +18,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DS1820",
-        "DS1822",
-        "DS18B20",
-        "DS18S20",
+        "4",
+        "buttons",
+        "convert",
+        "Slider",
+        "to",
+        "touch",
         "fatfilesystem",
         "LocalFileSystem",
         "USBMSD",
-        "Humidity",
-        "sensor",
-        "Temperature"
+        "4DGL"
     ],
     "name": "Servo",
     "platforms": "*",

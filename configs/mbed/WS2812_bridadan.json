@@ -18,13 +18,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "C12832",
-        "LCD",
         "NeoPixel",
         "WS2812",
         "WS2812B",
-        "camera",
-        "OV7670"
+        "C12832",
+        "LCD",
+        "rtos",
+        "Serial",
+        "UART"
     ],
     "name": "WS2812",
     "platforms": "*",

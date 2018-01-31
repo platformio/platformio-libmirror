@@ -10,17 +10,7 @@
         "https://os.mbed.com/users/sedid/code/Test_Boussole_moteur/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "BLDC",
-        "driver",
-        "motor",
-        "maniacbug",
-        "nRF24L01",
-        "nRF24L01P",
-        "RF24",
-        "i2c expander",
-        "MCP23017"
-    ],
+    "keywords": "HMC5883L",
     "name": "HMC5883L",
     "platforms": "*",
     "repository": {

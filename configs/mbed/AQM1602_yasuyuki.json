@@ -13,12 +13,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AQM1602",
-        "SSL",
-        "TLS",
+        "Agent",
+        "Net-SNMP",
+        "SNMP",
+        "16 Bit A2D",
+        "Differential A2D",
+        "K64F",
         "BSP",
         "DISCO_L476VG",
-        "v1.0"
+        "AQM1602"
     ],
     "name": "AQM1602",
     "platforms": "*",

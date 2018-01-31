@@ -8,11 +8,7 @@
         "https://os.mbed.com/users/donatien/code/NetworkingCoreLib/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Nucleo",
-        "PCA9685",
-        "pwm controller"
-    ],
+    "keywords": "lwip_ppp_ethernet",
     "name": "lwip_ppp_ethernet",
     "platforms": "*",
     "repository": {

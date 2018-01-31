@@ -6,10 +6,15 @@
     "description": "General purpose character LCD library. I found the TextLCD library had too many constraints and it didn\\\\\\\\\\\\\\'t supply acces to all functions in the HD44780 chipset, so i decided to write my own character lcd library.",
     "frameworks": "mbed",
     "keywords": [
+        "HDC1000",
         "character",
         "display",
         "HD44780",
-        "LCD"
+        "LCD",
+        "AS5048",
+        "Encoder",
+        "magnetic sensors",
+        "sensor"
     ],
     "name": "charLCD",
     "platforms": "*",

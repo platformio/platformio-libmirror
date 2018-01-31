@@ -9,6 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "camera",
+        "radioshack",
+        "shield",
+        "VC0706",
         "AES",
         "CBC",
         "cipher",
@@ -19,13 +23,7 @@
         "format",
         "parse",
         "Queue",
-        "Utilities",
-        "KL25",
-        "touch",
-        "TSI",
-        "I2C",
-        "illuminance",
-        "ROHM"
+        "Utilities"
     ],
     "name": "CANUtilities",
     "platforms": "*",

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Ad van der Weiden",
+        "url": "https://os.mbed.com/users/networker/"
+    },
+    "description": "attempt to save recently used BT devices with their link keys in the BT dongle link key storage",
+    "examples": [
+        "https://os.mbed.com/users/networker/code/ftusbClass/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "neigbourhood",
+    "name": "neigbourhood",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/networker/code/neigbourhood/"
+    }
+}

@@ -23,7 +23,10 @@
         "api",
         "mode",
         "xbee",
-        "zigbee"
+        "zigbee",
+        "hbridge",
+        "motor",
+        "PwmOut"
     ],
     "name": "SevenSegLed",
     "platforms": "*",

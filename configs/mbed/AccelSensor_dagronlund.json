@@ -6,14 +6,16 @@
     "description": "A library to read data from the Triple Axis Accelerometer Breakout - MMA8452Q from Sparkfun.",
     "frameworks": "mbed",
     "keywords": [
+        "BLE",
+        "buttons",
+        "HEXIWEAR",
+        "KW40Z",
         "bridge",
         "I2C",
         "SC16IS750",
         "SC16IS752",
         "SPI",
-        "UART",
-        "file",
-        "ini"
+        "UART"
     ],
     "name": "AccelSensor",
     "platforms": "*",

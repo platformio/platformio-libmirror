@@ -14,11 +14,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "v3",
         "ChaNFS",
         "mass",
         "storage",
-        "USB"
+        "USB",
+        "v3",
+        "discovery",
+        "ethernet",
+        "Nucleo",
+        "stm32",
+        "STM32F746"
     ],
     "name": "fastlib",
     "platforms": "*",

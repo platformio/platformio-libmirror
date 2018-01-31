@@ -9,13 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "TeraTerm",
+        "Terminal",
         "arduino",
         "motor",
         "shield",
-        "TeraTerm",
-        "Terminal",
-        "Register",
-        "shift"
+        "Communication",
+        "Serial",
+        "VT100",
+        "VT200"
     ],
     "name": "Terminal",
     "platforms": "*",

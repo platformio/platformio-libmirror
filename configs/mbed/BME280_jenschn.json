@@ -6,16 +6,19 @@
     "description": "Bosch BME280 Temperature Pressure Humidity Sensor",
     "frameworks": "mbed",
     "keywords": [
-        "BME280",
-        "I2C sensor driver",
         "networking",
         "socket",
         "TCP",
         "UDP",
+        "HTTP server",
+        "httpd",
+        "websocket server",
+        "BME280",
+        "I2C sensor driver",
+        "mbed",
         "Kinematics",
         "math",
-        "matrix",
-        "mbed"
+        "matrix"
     ],
     "name": "BME280",
     "platforms": "*",

@@ -11,9 +11,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "BSP",
+        "DISCO_L476VG",
+        "malloc",
+        "memory",
         "Nucleo",
         "PCA9685",
-        "pwm controller"
+        "pwm controller",
+        "SSL",
+        "TLS"
     ],
     "name": "PCA9685PWM",
     "platforms": "*",

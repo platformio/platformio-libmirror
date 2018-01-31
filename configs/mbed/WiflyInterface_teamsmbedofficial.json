@@ -9,13 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "card",
+        "SD",
         "RIT",
         "Altimeter",
         "MS5607",
         "pressure",
-        "Temperature",
-        "card",
-        "SD"
+        "Temperature"
     ],
     "name": "WiflyInterface",
     "platforms": "*",

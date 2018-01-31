@@ -6,18 +6,16 @@
     "description": "128x64 grafical display with KS0107B and KS0108B controller",
     "frameworks": "mbed",
     "keywords": [
-        "graphic",
-        "TFT",
-        "touch",
-        "mbed",
         "application board",
         "C12832",
         "LCD",
+        "mbed",
+        "graphic",
+        "TFT",
+        "touch",
         "display",
         "KS0107",
-        "KS0108",
-        "128x64",
-        "ST7920"
+        "KS0108"
     ],
     "name": "Display",
     "platforms": "*",

@@ -10,9 +10,10 @@
         "I2C",
         "OLED",
         "SSD1306",
-        "16 Bit A2D",
-        "Differential A2D",
-        "K64F"
+        "NET",
+        "network",
+        "stream",
+        "TCP"
     ],
     "name": "ssd1306_library",
     "platforms": "*",

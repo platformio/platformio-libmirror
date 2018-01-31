@@ -9,9 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GPS",
         "PCF8575",
-        "display"
+        "debug",
+        "log",
+        "logger"
     ],
     "name": "PCF8575",
     "platforms": "*",

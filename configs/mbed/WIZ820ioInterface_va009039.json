@@ -12,19 +12,7 @@
     "frameworks": "mbed",
     "keywords": [
         "W5200",
-        "WIZ820IO",
-        "directory",
-        "directory listing",
-        "file",
-        "file name listing",
-        "file system",
-        "folder",
-        "folder listing",
-        "LSM303DLH",
-        "ax12",
-        "dynamixel",
-        "motor",
-        "Servo"
+        "WIZ820IO"
     ],
     "name": "WIZ820ioInterface",
     "platforms": "*",

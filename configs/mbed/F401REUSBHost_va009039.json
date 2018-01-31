@@ -3,6 +3,15 @@
         "name": "Norimasa Okamoto",
         "url": "https://os.mbed.com/users/va009039/"
     },
+    "dependencies": [
+        {
+            "authors": [
+                "mbed official "
+            ],
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
     "description": "Simple USBHost ｌibrary for Nucleo F446RE/F411RE/F401RE FRDM-KL46Z/KL25Z/F64F LPC4088/LPC1768",
     "examples": [
         "https://os.mbed.com/users/va009039/code/F401RE-BTstack_example/",
@@ -10,6 +19,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "DS1820",
+        "DS1822",
+        "DS18B20",
+        "one-wire",
         "F401RE",
         "F411RE",
         "F446RE",
@@ -18,10 +31,6 @@
         "kl46z",
         "USBHOST",
         "UVC",
-        "DS1820",
-        "DS1822",
-        "DS18B20",
-        "one-wire",
         "display",
         "graphic",
         "LCD",
@@ -32,6 +41,9 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/va009039/code/F401RE-USBHost/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/va009039/code/F401RE-USBHost/"
+        }
     }
 }

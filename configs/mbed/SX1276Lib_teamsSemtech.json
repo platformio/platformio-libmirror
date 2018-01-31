@@ -23,10 +23,10 @@
         "SX1276",
         "SX1276Lib",
         "SX1276MB1xAS",
-        "LCD",
-        "text",
         "STM32F030F4",
-        "STM32F030F4P6"
+        "STM32F030F4P6",
+        "LCD",
+        "text"
     ],
     "name": "SX1276Lib",
     "platforms": "*",

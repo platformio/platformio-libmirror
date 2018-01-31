@@ -18,19 +18,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DOG-M",
-        "DOGM",
-        "LCD",
-        "ST7036",
         "checksum",
         "packets",
         "protocol",
         "Serial",
-        "simple",
-        "networking",
-        "socket",
-        "TCP",
-        "UDP"
+        "simple"
     ],
     "name": "GSM",
     "platforms": "*",

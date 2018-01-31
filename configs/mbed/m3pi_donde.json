@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Don DeGregori",
+        "url": "https://os.mbed.com/users/donde/"
+    },
+    "description": "m3pi",
+    "frameworks": "mbed",
+    "keywords": [
+        "CHaN",
+        "FAT",
+        "Fat16",
+        "Fat32",
+        "fatfilesystem",
+        "Filenames",
+        "Long",
+        "rtos",
+        "arduino"
+    ],
+    "name": "m3pi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donde/code/m3pi/"
+    }
+}

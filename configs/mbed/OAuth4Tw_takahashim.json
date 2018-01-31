@@ -9,18 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "W5200",
-        "WIZ820IO",
-        "cmsis",
-        "rtos",
-        "RTX",
-        "led",
-        "LPD8803",
-        "LPD8806",
-        "LPD8809",
-        "SPI",
         "OAuth",
-        "twitter"
+        "twitter",
+        "90393",
+        "MLX",
+        "mlx90393"
     ],
     "name": "OAuth4Tw",
     "platforms": "*",

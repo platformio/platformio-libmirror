@@ -12,7 +12,9 @@
         "CPU",
         "Power",
         "power consumption",
-        "power control"
+        "power control",
+        "pressure",
+        "sensor"
     ],
     "name": "DS18B20",
     "platforms": "*",

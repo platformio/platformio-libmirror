@@ -10,9 +10,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "NDEF",
-        "NFC",
-        "PN532",
         "audio input",
         "Audio output",
         "CODEC",
@@ -21,7 +18,10 @@
         "Mikami",
         "SAI",
         "SAI_IO",
-        "WM8994"
+        "WM8994",
+        "NDEF",
+        "NFC",
+        "PN532"
     ],
     "name": "PN532",
     "platforms": "*",

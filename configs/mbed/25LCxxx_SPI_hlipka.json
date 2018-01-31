@@ -22,7 +22,9 @@
         "EEPROM",
         "flash",
         "memory",
-        "SPI"
+        "SPI",
+        "16x2",
+        "freetronics"
     ],
     "name": "25LCxxx_SPI",
     "platforms": "*",

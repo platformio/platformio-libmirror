@@ -10,20 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "W5200",
-        "WIZ820IO",
-        "directory",
-        "directory listing",
-        "file",
-        "file name listing",
-        "file system",
-        "folder",
-        "folder listing",
-        "LSM303DLH",
+        "MMA8452",
         "ax12",
         "dynamixel",
         "motor",
-        "Servo"
+        "Servo",
+        "LSM303DLH"
     ],
     "name": "LSM303DLH",
     "platforms": "*",

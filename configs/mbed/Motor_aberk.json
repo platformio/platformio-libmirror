@@ -18,14 +18,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "2x16",
-        "I2C",
-        "LCD",
         "digitalOut",
         "H-bridge",
         "library",
         "motor",
-        "PwmOut"
+        "PwmOut",
+        "2x16",
+        "I2C",
+        "LCD"
     ],
     "name": "Motor",
     "platforms": "*",

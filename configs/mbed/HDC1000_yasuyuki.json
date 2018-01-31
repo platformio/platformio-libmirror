@@ -13,10 +13,13 @@
     "frameworks": "mbed",
     "keywords": [
         "HDC1000",
-        "AS5048",
-        "Encoder",
-        "magnetic sensors",
-        "sensor"
+        "DMA",
+        "rtos",
+        "SD",
+        "SDFileSystem",
+        "WiFly",
+        "FTP",
+        "server"
     ],
     "name": "HDC1000",
     "platforms": "*",

@@ -18,18 +18,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "control",
-        "RC",
-        "remote",
-        "Servo",
         "L3GD20",
         "minimu-9 v2",
         "card",
         "ChaNFS",
         "SD",
-        "W5500",
-        "WIZ550IO",
-        "Wiznet"
+        "EthernetNetIf"
     ],
     "name": "L3GD20",
     "platforms": "*",

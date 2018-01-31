@@ -11,13 +11,7 @@
         "https://os.mbed.com/users/pnysten/code/lwip/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "HDC1000",
-        "AS5048",
-        "Encoder",
-        "magnetic sensors",
-        "sensor"
-    ],
+    "keywords": "HDC1000",
     "name": "DebugLib",
     "platforms": "*",
     "repository": {

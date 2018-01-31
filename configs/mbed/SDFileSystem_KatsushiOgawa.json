@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Katsushi Ogawa",
+        "url": "https://os.mbed.com/users/KatsushiOgawa/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "mbed unsupported"
+            ],
+            "frameworks": "mbed",
+            "name": "FatFileSystem"
+        }
+    ],
+    "description": "SDFileSystem",
+    "frameworks": "mbed",
+    "keywords": [
+        "xbee",
+        "xbee library",
+        "XBEE pro",
+        "xbee programming",
+        "xbeeapi",
+        "xbeelibrary",
+        "pressure",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/KatsushiOgawa/code/SDFileSystem/"
+        }
+    }
+}

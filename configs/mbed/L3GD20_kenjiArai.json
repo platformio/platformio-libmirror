@@ -13,7 +13,12 @@
         "gyroscope",
         "I2C",
         "l3g4200d",
-        "L3GD20"
+        "L3GD20",
+        "edge",
+        "level",
+        "SW",
+        "tact",
+        "Toggle"
     ],
     "name": "L3GD20",
     "platforms": "*",

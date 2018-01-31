@@ -24,12 +24,17 @@
     "keywords": [
         "pwm",
         "softwarePWM",
+        "128x64",
+        "OLED",
+        "SSD1306",
         "MRF24J40",
         "tranceiver",
         "wireless",
-        "128x64",
-        "OLED",
-        "SSD1306"
+        "audio",
+        "I2S",
+        "library",
+        "tested",
+        "TLV320"
     ],
     "name": "SSD1306_128x64_I2C",
     "platforms": "*",

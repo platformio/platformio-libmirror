@@ -8,12 +8,7 @@
         "https://os.mbed.com/users/clemente/code/FRDM_RTC/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "character",
-        "display",
-        "HD44780",
-        "LCD"
-    ],
+    "keywords": "HDC1000",
     "name": "KL25Z_RTC",
     "platforms": "*",
     "repository": {

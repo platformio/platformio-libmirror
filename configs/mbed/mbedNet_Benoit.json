@@ -12,14 +12,7 @@
         "stack",
         "tcpip",
         "UDP",
-        "ADXL345",
-        "AHRS",
-        "ANGLE",
-        "bmp085",
-        "HMC5883",
-        "IMU",
-        "l3g4200d",
-        "sensor"
+        "MPL115A2"
     ],
     "name": "mbedNet",
     "platforms": "*",

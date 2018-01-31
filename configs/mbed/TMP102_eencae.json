@@ -16,13 +16,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "barometer",
+        "I2C",
+        "MEMS",
+        "pressure",
+        "sensor",
+        "STMicro",
         "2645",
         "TMP102",
-        "MPU9150",
-        "Quaternion",
-        "vector",
-        "L152",
-        "Nucleo"
+        "BLE",
+        "buttons",
+        "HEXIWEAR",
+        "KW40Z"
     ],
     "name": "TMP102",
     "platforms": "*",

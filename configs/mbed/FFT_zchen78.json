@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Zeheng Chen",
+        "url": "https://os.mbed.com/users/zchen78/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Eli Hughes"
+            ],
+            "frameworks": "mbed",
+            "name": "CMSIS_DSP_401"
+        }
+    ],
+    "description": "fft library for mbed",
+    "frameworks": "mbed",
+    "keywords": [
+        "TeraTerm",
+        "Terminal",
+        "arduino",
+        "motor",
+        "shield",
+        "Communication",
+        "Serial",
+        "VT100",
+        "VT200"
+    ],
+    "name": "FFT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/zchen78/code/FFT/"
+        }
+    }
+}

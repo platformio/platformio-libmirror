@@ -14,12 +14,11 @@
     "keywords": [
         "GPS",
         "parse",
+        "ADT7410",
         "Encoder",
         "QEI",
         "qudrature",
-        "rotary",
-        "ADT7410",
-        "lps25h"
+        "rotary"
     ],
     "name": "ADT7410",
     "platforms": "*",

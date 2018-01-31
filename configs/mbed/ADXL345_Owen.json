@@ -13,12 +13,7 @@
         "IMU",
         "MPU6050",
         "accelerometer",
-        "ADXL345",
-        "interrupt",
-        "PPM",
-        "pwm",
-        "RC",
-        "Receiver"
+        "ADXL345"
     ],
     "name": "ADXL345",
     "platforms": "*",

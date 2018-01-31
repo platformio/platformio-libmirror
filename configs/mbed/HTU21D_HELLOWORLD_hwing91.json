@@ -6,18 +6,10 @@
     "description": "This code uses a uLCD-144-G2 128 by 128 Smart Color LCD to display the humidity and temperature in celcius, kelvin, and fahrenheit.",
     "frameworks": "mbed",
     "keywords": [
-        "2015",
-        "Bertl",
-        "Adafruit_GFX",
-        "Cellular",
-        "Dragonfly",
-        "http",
-        "https",
-        "MTSAS",
-        "multitech",
-        "SMS",
-        "TCP",
-        "UDP"
+        "CAN",
+        "control",
+        "port",
+        "slope"
     ],
     "name": "HTU21D_HELLOWORLD",
     "platforms": "*",

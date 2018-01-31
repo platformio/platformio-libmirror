@@ -24,9 +24,7 @@
         "adc",
         "AnalogIn",
         "burst",
-        "fast",
-        "C027",
-        "u-blox"
+        "fast"
     ],
     "name": "FastAnalogIn",
     "platforms": "*",

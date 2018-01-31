@@ -10,14 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GPS",
-        "parse",
-        "Encoder",
-        "QEI",
-        "qudrature",
-        "rotary",
-        "ADT7410",
-        "lps25h"
+        "lps25h",
+        "EEPROM",
+        "IAP",
+        "In-Application Programming",
+        "internal EEPROM",
+        "internal flash memory"
     ],
     "name": "LPS25H",
     "platforms": "*",

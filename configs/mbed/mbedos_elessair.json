@@ -6,18 +6,12 @@
     "description": "mbed os with nrf51 internal bandgap enabled to read battery level",
     "frameworks": "mbed",
     "keywords": [
-        "control",
-        "RC",
-        "remote",
-        "Servo",
         "L3GD20",
         "minimu-9 v2",
         "card",
         "ChaNFS",
         "SD",
-        "W5500",
-        "WIZ550IO",
-        "Wiznet"
+        "EthernetNetIf"
     ],
     "name": "mbed-os",
     "platforms": "*",

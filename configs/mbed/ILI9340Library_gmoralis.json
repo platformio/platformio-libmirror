@@ -6,6 +6,9 @@
     "description": "ILI9340 Library based on the Arduino version from Adafruit. It has been tested with a custom STM32F103C8 board.",
     "frameworks": "mbed",
     "keywords": [
+        "LPC1114",
+        "LPC1114FN28",
+        "mbed-sdk",
         "event",
         "event-driven",
         "fully-preemptive",

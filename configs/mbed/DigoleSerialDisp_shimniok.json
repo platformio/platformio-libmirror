@@ -6,9 +6,12 @@
     "description": "Driver for the Digole Serial universal LCD display adapter",
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
+        "OneWire",
+        "protocols",
+        "sensors",
         "MPL3115A2",
-        "sparkfun"
+        "sparkfun",
+        "LCD"
     ],
     "name": "DigoleSerialDisp",
     "platforms": "*",

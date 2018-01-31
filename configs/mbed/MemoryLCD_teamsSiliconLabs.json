@@ -13,13 +13,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MPU-9250",
-        "touch",
         "async",
         "LS013B7DH03",
         "memory lcd",
         "Sharp",
-        "sharp memory LCD"
+        "sharp memory LCD",
+        "f401",
+        "mbed"
     ],
     "name": "MemoryLCD",
     "platforms": "*",

@@ -9,13 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "millis",
-        "Nucleo",
-        "stm32",
-        "Wi-Fi",
-        "X-NUCLEO-IDW01M1",
         "LCD",
-        "ST7565"
+        "ST7565",
+        "buffer",
+        "ringbuffer",
+        "Template Buffer",
+        "NeoPixel",
+        "nRF51822",
+        "RedBear",
+        "WS2812"
     ],
     "name": "st7565LCD",
     "platforms": "*",

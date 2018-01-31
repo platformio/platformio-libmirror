@@ -12,9 +12,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "pressure",
-        "sensor",
-        "Temperature",
         "buzzer",
         "music",
         "sound",
@@ -26,8 +23,7 @@
         "DALLAS",
         "DS18B20",
         "OneWire",
-        "thermometer",
-        "scp1000"
+        "thermometer"
     ],
     "name": "FirmwareUpdater",
     "platforms": "*",

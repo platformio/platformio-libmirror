@@ -19,12 +19,12 @@
     "frameworks": "mbed",
     "keywords": [
         "SerialHalfDuplex",
+        "BLE",
+        "MIDI",
         "accelerometer",
         "Grove",
         "I2C",
-        "MMA7660FC",
-        "ITG3200",
-        "sparkfun"
+        "MMA7660FC"
     ],
     "name": "HCSR",
     "platforms": "*",

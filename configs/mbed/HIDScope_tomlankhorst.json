@@ -3,6 +3,15 @@
         "name": "Tom Tom",
         "url": "https://os.mbed.com/users/tomlankhorst/"
     },
+    "dependencies": [
+        {
+            "authors": [
+                "mbed official "
+            ],
+            "frameworks": "mbed",
+            "name": "USBDevice"
+        }
+    ],
     "description": "A simple but very effective scope. Up to 6 channels of 32 bit float data at 1 kHz.",
     "examples": [
         "https://os.mbed.com/teams/BMT-M9-Groep01/code/HIDScope/",
@@ -41,15 +50,16 @@
         "data",
         "Oscilloscope",
         "prototype",
-        "control",
-        "RC",
-        "remote",
-        "Servo"
+        "L3GD20",
+        "minimu-9 v2"
     ],
     "name": "HIDScope",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/tomlankhorst/code/HIDScope/"
+        "url": {
+            "type": "hg",
+            "url": "https://os.mbed.com/users/tomlankhorst/code/HIDScope/"
+        }
     }
 }

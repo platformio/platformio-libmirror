@@ -6,10 +6,8 @@
     "description": "Serial terminal, mainly for debugging purposes",
     "frameworks": "mbed",
     "keywords": [
-        "MCP3201",
-        "MCP3204",
-        "MCP3208",
-        "SPI",
+        "hotboards",
+        "keyboard",
         "debug",
         "debugging",
         "Serial",
@@ -20,7 +18,12 @@
         "math",
         "matrix",
         "robot",
-        "Robotics"
+        "Robotics",
+        "ShiftRegister",
+        "TextLCD",
+        "Display Module",
+        "emwin",
+        "LPC4088DM"
     ],
     "name": "SerialTerm",
     "platforms": "*",

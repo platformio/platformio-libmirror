@@ -6,15 +6,15 @@
     "description": "m3pi library with fixes for left and right motor specific functions and additional functionality like play",
     "frameworks": "mbed",
     "keywords": [
-        "3310",
-        "5110",
-        "Nokia",
-        "IR",
-        "remote",
         "gyroscope",
         "I2C",
         "l3g4200d",
-        "L3GD20"
+        "L3GD20",
+        "edge",
+        "level",
+        "SW",
+        "tact",
+        "Toggle"
     ],
     "name": "m3pi",
     "platforms": "*",

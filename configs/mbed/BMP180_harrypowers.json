@@ -10,16 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BMP180",
-        "pressure",
-        "sensor",
+        "Nucleo",
+        "proximity sensor",
+        "stm32",
+        "X-NUCLEO-53L0A1",
         "ax12",
         "Servo",
-        "C328",
-        "camera",
-        "JPEG",
-        "Serial",
-        "sparkfun"
+        "BMP180",
+        "pressure",
+        "sensor"
     ],
     "name": "BMP180",
     "platforms": "*",

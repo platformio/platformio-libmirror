@@ -6,6 +6,7 @@
     "description": "Extension for mbed rpc library. Default methods for RPC classes added. Write /function arguments list to call a function, /variable to read variable, /variable value to set it.",
     "frameworks": "mbed",
     "keywords": [
+        "MPL115A2",
         "ADXL345",
         "AHRS",
         "ANGLE",

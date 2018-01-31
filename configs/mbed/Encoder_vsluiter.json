@@ -18,11 +18,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ESP-01",
-        "ESP8266",
         "display",
         "Seeedstudio",
-        "TFT"
+        "TFT",
+        "ESP-01",
+        "ESP8266"
     ],
     "name": "Encoder",
     "platforms": "*",

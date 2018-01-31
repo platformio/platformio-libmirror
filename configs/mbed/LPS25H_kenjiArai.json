@@ -6,7 +6,9 @@
     "description": "MEMS pressure sensor by STMicroelectronics. FIFO Hardware digital filter as default.",
     "frameworks": "mbed",
     "keywords": [
-        "mbed",
+        "Serial",
+        "Terminal",
+        "VT100",
         "RF12",
         "rfm12",
         "RFM12B",

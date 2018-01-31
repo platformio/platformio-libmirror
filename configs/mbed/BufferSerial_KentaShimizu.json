@@ -11,7 +11,13 @@
         "https://os.mbed.com/teams/raspiezo/code/Nucleo_L432KC_Quadrature_Decoder_with_AD/"
     ],
     "frameworks": "mbed",
-    "keywords": "Serial",
+    "keywords": [
+        "thermistor",
+        "Serial",
+        "DISCO_F429ZI",
+        "LCD",
+        "Touch Screen"
+    ],
     "name": "BufferSerial",
     "platforms": "*",
     "repository": {

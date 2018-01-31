@@ -27,6 +27,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "3pi",
+        "m3pi",
+        "robot",
         "barometer",
         "MPL115A1",
         "SPI",
@@ -34,17 +37,9 @@
         "audio",
         "FFT",
         "Spectrum",
-        "3pi",
-        "m3pi",
-        "robot",
-        "l3g4200d",
-        "lsm303dlm",
-        "minimu-9",
-        "xml",
         "802.15.4",
         "wireless",
-        "xbee",
-        "rpc"
+        "xbee"
     ],
     "name": "m3pi_ng",
     "platforms": "*",

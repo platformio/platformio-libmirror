@@ -6,16 +6,15 @@
     "description": "A library for the AX-12+ servo using external ICs instead of the SerialHalf-Duplex class",
     "frameworks": "mbed",
     "keywords": [
-        "BMP180",
-        "pressure",
-        "sensor",
+        "Nucleo",
+        "proximity sensor",
+        "stm32",
+        "X-NUCLEO-53L0A1",
         "ax12",
         "Servo",
-        "C328",
-        "camera",
-        "JPEG",
-        "Serial",
-        "sparkfun"
+        "BMP180",
+        "pressure",
+        "sensor"
     ],
     "name": "AX12_Hardware",
     "platforms": "*",

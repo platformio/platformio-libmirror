@@ -9,6 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "16x2",
+        "freetronics",
+        "LCD",
         "http",
         "https",
         "dynamixel",
@@ -17,8 +20,7 @@
         "1-wire",
         "DS18B20",
         "I2C",
-        "software",
-        "SuperTweet"
+        "software"
     ],
     "name": "MX28",
     "platforms": "*",

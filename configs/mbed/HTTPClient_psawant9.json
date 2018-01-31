@@ -8,11 +8,7 @@
         "https://os.mbed.com/users/psawant9/code/Lab3_VoiceMeter/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Nucleo",
-        "PCA9685",
-        "pwm controller"
-    ],
+    "keywords": "HTTPClient",
     "name": "HTTPClient",
     "platforms": "*",
     "repository": {

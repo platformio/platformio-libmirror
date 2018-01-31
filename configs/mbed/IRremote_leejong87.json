@@ -6,17 +6,15 @@
     "description": "IRremote",
     "frameworks": "mbed",
     "keywords": [
-        "HD44780",
-        "quadcopter",
-        "Servo",
-        "38kHz",
-        "IR",
-        "remote",
         "Nucleo",
         "stm32",
         "Wi-Fi",
         "X-NUCLEO-IDW01M1",
-        "millis"
+        "38kHz",
+        "IR",
+        "remote",
+        "LCD",
+        "ST7565"
     ],
     "name": "IRremote",
     "platforms": "*",

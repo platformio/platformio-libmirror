@@ -9,6 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "accelererometer",
+        "ADXL345",
+        "I2C",
         "adc",
         "HX711"
     ],

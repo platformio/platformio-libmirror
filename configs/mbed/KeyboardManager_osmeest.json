@@ -12,7 +12,9 @@
         "keyboard",
         "DC Motor controller",
         "h bridge",
-        "motor driver"
+        "motor driver",
+        "control",
+        "PID"
     ],
     "name": "KeyboardManager",
     "platforms": "*",

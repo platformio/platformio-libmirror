@@ -9,14 +9,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "cc1101",
+        "driver",
+        "library",
         "filter",
         "counter",
         "interrupt",
         "time",
-        "mbed",
-        "cc1101",
-        "driver",
-        "library"
+        "barometer",
+        "I2C",
+        "MEMS",
+        "pressure",
+        "sensor",
+        "STMicro"
     ],
     "name": "cc1101",
     "platforms": "*",

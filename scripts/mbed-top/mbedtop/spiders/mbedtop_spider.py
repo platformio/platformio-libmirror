@@ -53,7 +53,10 @@ class MbedTopSpider(scrapy.Spider):
         l.add_xpath('components', './/*[@class="three columns sidebar "]//div[4]/a/@href')
         l.add_value('keywords',response.request.meta['keywords'])
         item = l.load_item()
-        
+        if not ('description' in item):
+            item['description'] = item['name']
+        if not ('keywords' in item):
+            item['keywords'] = item['name']
         request = scrapy.Request(response.url+"dependencies",callback=self.parse_dependencies,dont_filter=True)
         request.meta['libpage'] = response.url
         request.meta['item'] = item

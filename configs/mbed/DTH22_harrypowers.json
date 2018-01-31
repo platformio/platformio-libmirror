@@ -6,15 +6,9 @@
     "description": "DTH22, RHT03 and DTH11 sensors can be read with this code!",
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "Luminosity",
-        "Lux",
-        "sensor",
-        "TMP006",
         "DTH11",
         "DTH22",
-        "RHT03",
-        "BMP180"
+        "RHT03"
     ],
     "name": "DTH22",
     "platforms": "*",

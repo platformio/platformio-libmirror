@@ -10,11 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "DS18B20",
+        "temperature sensor",
+        "clock",
+        "CPU",
+        "Power",
+        "power consumption",
+        "power control",
         "pressure",
-        "sensor",
-        "heading",
-        "HMC5843",
-        "magnetic"
+        "sensor"
     ],
     "name": "LPS331_I2C",
     "platforms": "*",

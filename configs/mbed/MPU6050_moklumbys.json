@@ -11,7 +11,14 @@
         "https://os.mbed.com/teams/Project-bike/code/Gyro/"
     ],
     "frameworks": "mbed",
-    "keywords": "LSM303DLH",
+    "keywords": [
+        "MMA8452",
+        "ax12",
+        "dynamixel",
+        "motor",
+        "Servo",
+        "LSM303DLH"
+    ],
     "name": "MPU6050",
     "platforms": "*",
     "repository": {
