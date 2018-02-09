@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "justin kim",
+        "url": "https://os.mbed.com/users/justinkim/"
+    },
+    "description": "Adafruit GFX Library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "FAT",
+        "file system",
+        "SD",
+        "lcdmenu",
+        "menu",
+        "Adafruit",
+        "GFX",
+        "LCD",
+        "TFT"
+    ],
+    "name": "Adafruit_GFX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/justinkim/code/Adafruit_GFX/"
+    }
+}

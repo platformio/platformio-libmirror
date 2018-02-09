@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Kai Riedel",
+        "url": "https://os.mbed.com/users/kriedel/"
+    },
+    "description": "Library for Programmable Resolution",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "card",
+        "SD",
+        "16x2",
+        "freetronics",
+        "LCD",
+        "blinking",
+        "led",
+        "dynamixel",
+        "MX28",
+        "Servo",
+        "I2C",
+        "software",
+        "1-wire",
+        "DS18B20"
+    ],
+    "name": "DS18B20",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kriedel/code/DS18B20/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Toyomasa Watarai",
+        "url": "https://os.mbed.com/users/MACRUM/"
+    },
+    "description": "AS-289R2 Thermal Printer shield control library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "A4982",
+        "A4983 smart step 3d printing",
+        "rap",
+        "rep",
+        "Stepper",
+        "printer",
+        "shield"
+    ],
+    "name": "AS289R2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MACRUM/code/AS289R2/"
+    }
+}

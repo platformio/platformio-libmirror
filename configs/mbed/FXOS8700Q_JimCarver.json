@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Jim Carver",
+        "url": "https://os.mbed.com/users/JimCarver/"
+    },
+    "description": "A basic library for the FXOS8700Q combination accelerometer / magnetometer",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "FXOS8700Q",
+        "Freescale-Multi-Sensor-Shield"
+    ],
+    "name": "FXOS8700Q",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JimCarver/code/FXOS8700Q/"
+    }
+}

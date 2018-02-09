@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Emir Sokic",
+        "url": "https://os.mbed.com/users/esokic/"
+    },
+    "description": "mbed.h verzija za koristenje na predmetu PAI",
+    "frameworks": "mbed",
+    "keywords": [
+        "A4982",
+        "A4983 smart step 3d printing",
+        "rap",
+        "rep",
+        "Stepper",
+        "printer",
+        "shield"
+    ],
+    "name": "mbedPAI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/esokic/code/mbedPAI/"
+    }
+}

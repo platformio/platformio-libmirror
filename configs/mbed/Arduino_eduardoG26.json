@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Eduardo de Mier",
+        "url": "https://os.mbed.com/users/eduardoG26/"
+    },
+    "description": "Arduino functions millis, micros and eventually some more to come",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "motor",
+        "PCA9629",
+        "Stepper",
+        "arduino",
+        "micros",
+        "millis",
+        "arithmetic",
+        "fixed",
+        "point"
+    ],
+    "name": "Arduino",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eduardoG26/code/Arduino/"
+    }
+}

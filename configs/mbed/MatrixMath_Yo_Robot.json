@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Ernesto Palacios",
+        "url": "https://os.mbed.com/users/Yo_Robot/"
+    },
+    "description": "This class provides with operations for Matrix Objects",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "SRF02",
+        "GPGGA",
+        "JPEG",
+        "LS-Y201",
+        "algebra",
+        "Kinematics",
+        "Linear",
+        "matrix"
+    ],
+    "name": "MatrixMath",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Yo_Robot/code/MatrixMath/"
+    }
+}

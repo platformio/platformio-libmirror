@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "David McDaid",
+        "url": "https://os.mbed.com/users/B50132/"
+    },
+    "description": "My version of the library for this accelerometer. It works on 800Hz data rate.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "LPC4330",
+    "name": "MMA8451Q",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/B50132/code/MMA8451Q/"
+    }
+}

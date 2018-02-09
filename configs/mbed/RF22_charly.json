@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Karl Zweimüller",
+        "url": "https://os.mbed.com/users/charly/"
+    },
+    "description": "Library for HopeRF RFM22 / RFM22B transceiver module ported to mbed.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "HOPERF",
+        "RF22",
+        "RFM22",
+        "ROS"
+    ],
+    "name": "RF22",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/charly/code/RF22/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Ian Hua",
+        "url": "https://os.mbed.com/users/pHysiX/"
+    },
+    "description": "Fork from Tyler Weaver.",
+    "frameworks": "mbed",
+    "keywords": [
+        "compass",
+        "HMC5883L",
+        "magnetometer"
+    ],
+    "name": "HMC5883L",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pHysiX/code/HMC5883L/"
+    }
+}

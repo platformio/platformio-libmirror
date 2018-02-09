@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Francisco Paez",
+        "url": "https://os.mbed.com/users/fep/"
+    },
+    "description": "FreeRTOS v9.0.0 for Cortex-M4F based boards.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "ADXL345",
+        "C++",
+        "mbed",
+        "FreeRTOS",
+        "rtos",
+        "EEPROM",
+        "GPS",
+        "NMEA0183"
+    ],
+    "name": "freertos",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fep/code/freertos/"
+    }
+}

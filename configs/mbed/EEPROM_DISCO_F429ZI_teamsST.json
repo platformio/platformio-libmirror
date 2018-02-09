@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "EEPROM component demo",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "ADXL345",
+        "C++",
+        "mbed",
+        "FreeRTOS",
+        "rtos",
+        "EEPROM",
+        "GPS",
+        "NMEA0183"
+    ],
+    "name": "EEPROM_DISCO_F429ZI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/EEPROM_DISCO_F429ZI/"
+    }
+}

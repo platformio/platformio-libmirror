@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Joel Rosiene",
+        "url": "https://os.mbed.com/users/rosienej/"
+    },
+    "description": "Works with the parallax ping sensor. Uses a timer and interrupts to get the time and calculate the distance",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "parallax",
+        "PING",
+        "sensor",
+        "ultrasonic",
+        "client",
+        "ENC28J60",
+        "ethernet",
+        "server",
+        "uIP",
+        "UIPEthernet",
+        "CMPS03",
+        "LCD",
+        "TFT",
+        "5110",
+        "Nokia",
+        "pcd8544",
+        "HC-SR04",
+        "HCSR04"
+    ],
+    "name": "Ping",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rosienej/code/Ping/"
+    }
+}

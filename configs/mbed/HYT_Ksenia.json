@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Ksenia Kondrashova",
+        "url": "https://os.mbed.com/users/Ksenia/"
+    },
+    "description": "Lib for HYT temp & humidity sensor",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "HYT",
+    "name": "HYT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Ksenia/code/HYT/"
+    }
+}

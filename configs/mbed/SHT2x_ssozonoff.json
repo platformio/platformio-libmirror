@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Serge Sozonoff",
+        "url": "https://os.mbed.com/users/ssozonoff/"
+    },
+    "description": "Port of the SHT2x example code from Sensirion",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "led strip",
+        "Sensirion",
+        "SHT21",
+        "MPU-9250",
+        "display",
+        "graphic",
+        "LCD",
+        "QVGA",
+        "TFT",
+        "touch"
+    ],
+    "name": "SHT2x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ssozonoff/code/SHT2x/"
+    }
+}

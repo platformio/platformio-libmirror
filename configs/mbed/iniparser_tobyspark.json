@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Toby Harris",
+        "url": "https://os.mbed.com/users/tobyspark/"
+    },
+    "description": "http://ndevilla.free.fr/iniparser/",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "sensor",
+        "Temperature",
+        "gyro",
+        "iniparser",
+        "TMP",
+        "TMP36"
+    ],
+    "name": "iniparser",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tobyspark/code/iniparser/"
+    }
+}

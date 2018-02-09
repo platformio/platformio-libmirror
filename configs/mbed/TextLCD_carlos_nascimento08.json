@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Carlos Alberto Nascimento Filho",
+        "url": "https://os.mbed.com/users/carlos_nascimento08/"
+    },
+    "description": "TextLCD",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ROS",
+        "Humidity",
+        "sensor",
+        "Temperature",
+        "helloworld",
+        "4DGL",
+        "channel",
+        "MIDI",
+        "Note",
+        "pitch",
+        "Serial",
+        "UART",
+        "velocity"
+    ],
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/carlos_nascimento08/code/TextLCD/"
+    }
+}

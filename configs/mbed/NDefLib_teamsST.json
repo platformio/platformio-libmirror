@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "Utility library to read and write Ndef messages from/to a Type4 NFC tag",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Thermocouple",
+        "NDEF",
+        "NFC",
+        "Type4",
+        "mbed",
+        "RX8025"
+    ],
+    "name": "NDefLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/NDefLib/"
+    }
+}

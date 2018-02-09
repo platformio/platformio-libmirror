@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "ST Americas mbed Team",
+        "url": "https://os.mbed.com/teams/ST-Americas-mbed-Team/"
+    },
+    "description": "Library for supporting the Nucleo Sensor Shield.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "NET",
+        "network",
+        "stream",
+        "TCP",
+        "Agent",
+        "Net-SNMP",
+        "SNMP"
+    ],
+    "name": "Nucleo_Sensor_Shield",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST-Americas-mbed-Team/code/Nucleo_Sensor_Shield/"
+    }
+}

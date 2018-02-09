@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Aloïs Wolff",
+        "url": "https://os.mbed.com/users/pommzorz/"
+    },
+    "description": "minor modifications to adapt syntax to FreeIMU",
+    "frameworks": "mbed",
+    "keywords": "ADXL345_I2C",
+    "name": "ADXL345_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pommzorz/code/ADXL345_I2C/"
+    }
+}

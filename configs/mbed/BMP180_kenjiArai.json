@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "BMP180 is a digital barometric pressure sensor made by Bosch Sensortec (I2C Interface)",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "BMP180",
+    "name": "BMP180",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/BMP180/"
+    }
+}

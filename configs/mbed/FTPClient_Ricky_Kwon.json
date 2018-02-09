@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Ricky Kwon",
+        "url": "https://os.mbed.com/users/Ricky_Kwon/"
+    },
+    "description": "FTPClient",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "FTP",
+        "ftpclient",
+        "adc",
+        "dac",
+        "interrupt",
+        "Nucleo F446",
+        "polling",
+        "STM32F446",
+        "MQTT",
+        "LIDAR Lite",
+        "LidarLite"
+    ],
+    "name": "FTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Ricky_Kwon/code/FTPClient/"
+    }
+}

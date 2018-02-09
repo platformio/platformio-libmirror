@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "UC SolarCar",
+        "url": "https://os.mbed.com/teams/SolarCar/"
+    },
+    "description": "first draft",
+    "frameworks": "mbed",
+    "keywords": [
+        "etti",
+        "TUIASI"
+    ],
+    "name": "spi_sample",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/SolarCar/code/spi_sample/"
+    }
+}

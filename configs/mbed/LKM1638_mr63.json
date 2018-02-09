@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Mark Randall",
+        "url": "https://os.mbed.com/users/mr63/"
+    },
+    "description": "This is a library for the JY-LKM1638 Display",
+    "frameworks": "mbed",
+    "keywords": "JY-LKM1638",
+    "name": "LKM1638",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mr63/code/LKM1638/"
+    }
+}

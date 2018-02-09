@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "The SZ",
+        "url": "https://os.mbed.com/users/the_sz/"
+    },
+    "description": "bugfixes and reduced version for disco board only",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Cellular",
+        "APDS",
+        "APDS9960",
+        "Gesture",
+        "sensor"
+    ],
+    "name": "BSP_DISCO_F746NG_patch_fixed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/the_sz/code/BSP_DISCO_F746NG_patch_fixed/"
+    }
+}

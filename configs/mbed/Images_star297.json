@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Paul Staron",
+        "url": "https://os.mbed.com/users/star297/"
+    },
+    "description": "Image bitmaps for use with Sharp Memory LCD's",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "BD6211",
+        "control",
+        "Input",
+        "pwm",
+        "I2C",
+        "ISL1208",
+        "real time clock",
+        "RTC"
+    ],
+    "name": "Images",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/star297/code/Images/"
+    }
+}

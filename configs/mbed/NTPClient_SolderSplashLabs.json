@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Carl - SolderSplash Labs",
+        "url": "https://os.mbed.com/users/SolderSplashLabs/"
+    },
+    "description": "NTP Client for the mbed networking libraries",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Nokia 5110",
+        "NOKIA5110",
+        "pcd8544",
+        "accelerometer",
+        "gyroscope",
+        "IMU",
+        "LSM9DS0",
+        "magnetometer",
+        "sensor",
+        "Temperature",
+        "bluetooth"
+    ],
+    "name": "NTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SolderSplashLabs/code/NTPClient/"
+    }
+}

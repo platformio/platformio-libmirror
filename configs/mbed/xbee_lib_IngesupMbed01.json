@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Yang Shi",
+        "url": "https://os.mbed.com/users/IngesupMbed01/"
+    },
+    "description": "xbee lib changé",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "TCS3472",
+        "TCS34721",
+        "TCS34723",
+        "TCS34725",
+        "TCS34727"
+    ],
+    "name": "xbee_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/IngesupMbed01/code/xbee_lib/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Alex Allen",
+        "url": "https://os.mbed.com/users/AlexAllen/"
+    },
+    "description": "A library for the UM12 433MHz long range radio modules from HAC.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ar1020",
+        "Microchip",
+        "screen",
+        "touch"
+    ],
+    "name": "UM12",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AlexAllen/code/UM12/"
+    }
+}

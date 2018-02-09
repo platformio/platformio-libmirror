@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Abe Takumi",
+        "url": "https://os.mbed.com/users/YSB/"
+    },
+    "description": "IMU",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "IMUfilter",
+    "name": "IMUfilter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/YSB/code/IMUfilter/"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Matthew Else",
+        "url": "https://os.mbed.com/users/melse/"
+    },
+    "description": "A simple stepper motor driver library, supporting micro-stepping drivers such as the Pololu A4988 stepper driver carrier or the Sparkfun EasyDriver.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Capactitve touch sensor",
+        "mpr121",
+        "SEN-10250",
+        "sparkfun",
+        "display",
+        "led",
+        "numeric",
+        "Seven-Segment",
+        "hbridge",
+        "motor",
+        "PwmOut"
+    ],
+    "name": "StepperMotor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/melse/code/StepperMotor/"
+    }
+}

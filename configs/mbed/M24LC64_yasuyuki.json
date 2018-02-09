@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "yasuyuki onodera",
+        "url": "https://os.mbed.com/users/yasuyuki/"
+    },
+    "description": "M24LC64 library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "LPC4088",
+        "LPC4088DM",
+        "module",
+        "K64F",
+        "watchdog",
+        "WDT",
+        "6000",
+        "6050",
+        "acc",
+        "accelerometer",
+        "gyro",
+        "gyroscope",
+        "IMU",
+        "invensense",
+        "MPU",
+        "MPU6000"
+    ],
+    "name": "M24LC64",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yasuyuki/code/M24LC64/"
+    }
+}

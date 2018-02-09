@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Antoniolinux B.",
+        "url": "https://os.mbed.com/users/antoniolinux/"
+    },
+    "description": "Library for Ultrasonic Range,",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ax12",
+        "dynamixel",
+        "motor",
+        "Servo",
+        "HCSR04",
+        "Nucleo",
+        "STM",
+        "stm32",
+        "ultrasonic"
+    ],
+    "name": "HCSR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/antoniolinux/code/HCSR04/"
+    }
+}

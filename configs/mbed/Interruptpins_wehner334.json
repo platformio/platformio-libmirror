@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Steffen Wehner",
+        "url": "https://os.mbed.com/users/wehner334/"
+    },
+    "description": "new library to structure the programe better",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "converter",
+        "decoder",
+        "floating",
+        "point",
+        "precision",
+        "readable",
+        "single"
+    ],
+    "name": "Interruptpins",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wehner334/code/Interruptpins/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Ale C.-",
+        "url": "https://os.mbed.com/users/Suky/"
+    },
+    "description": "PCA9538 I2C Expander",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Expander",
+        "I2C",
+        "PCA9538",
+        "LM75B",
+        "PCT2075",
+        "sensor",
+        "Temperature",
+        "temperature sensor"
+    ],
+    "name": "PCA9538_Expander",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Suky/code/PCA9538_Expander/"
+    }
+}

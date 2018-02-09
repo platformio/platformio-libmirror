@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "David Glover",
+        "url": "https://os.mbed.com/users/dglover77/"
+    },
+    "description": "HCSR04",
+    "frameworks": "mbed",
+    "keywords": [
+        "1-wire",
+        "One Wire",
+        "one-wire",
+        "Host",
+        "hub",
+        "keyboard",
+        "mbed",
+        "Mouse",
+        "MSD",
+        "rtos",
+        "Serial",
+        "USB",
+        "Buffered",
+        "MODSERIAL",
+        "4D Dydtems",
+        "Visi-Genie"
+    ],
+    "name": "HCSR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dglover77/code/HCSR04/"
+    }
+}

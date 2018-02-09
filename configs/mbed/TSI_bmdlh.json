@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Shaojie Wang",
+        "url": "https://os.mbed.com/users/bmdlh/"
+    },
+    "description": "useless",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Dynamic",
+        "led",
+        "tlc5940"
+    ],
+    "name": "TSI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bmdlh/code/TSI/"
+    }
+}

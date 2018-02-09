@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Allen Litton",
+        "url": "https://os.mbed.com/users/celeritous/"
+    },
+    "description": "A ST7565R display driver written with backbuffering capabilities. Model used and tested: NHD-C12832A1Z-FSW-FBW-3V3",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "KS0107",
+        "KS0108",
+        "ST7565R",
+        "Nordic",
+        "nRF24L01P",
+        "rf",
+        "check;",
+        "CRC",
+        "CRC16;",
+        "Cyclic",
+        "redundancy"
+    ],
+    "name": "ST7565R",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/celeritous/code/ST7565R/"
+    }
+}

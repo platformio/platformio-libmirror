@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Sarah Marsh",
+        "url": "https://os.mbed.com/users/sarahmarshy/"
+    },
+    "description": "Changed RPC sucessful execution code from 1 to 200. Included RpcHandler.h in main header file.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "gmmp",
+        "IOT",
+        "SKTelecom",
+        "TCP",
+        "client",
+        "CoAP",
+        "protocol",
+        "server",
+        "acc",
+        "gyro",
+        "IMU",
+        "iNEMO",
+        "MAG",
+        "STM"
+    ],
+    "name": "HTTPServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sarahmarshy/code/HTTPServer/"
+    }
+}

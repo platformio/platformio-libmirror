@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Pablo Paniagua",
+        "url": "https://os.mbed.com/users/papaco/"
+    },
+    "description": "Program made to control Dynamixel servos type AX-12W.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "wallbot",
+        "AX-12",
+        "AX-12W",
+        "control",
+        "dynamixel",
+        "LPC1768",
+        "nxp",
+        "PAPACO",
+        "Robotics",
+        "Servo",
+        "Humidity",
+        "Sensirion",
+        "SHT7x",
+        "Temperature"
+    ],
+    "name": "AX_12W",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/papaco/code/AX_12W/"
+    }
+}

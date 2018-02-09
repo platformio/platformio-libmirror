@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "David Lowe",
+        "url": "https://os.mbed.com/users/gregeric/"
+    },
+    "description": "Font to use with the SPI_TFT lib",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "counter",
+        "led",
+        "LPC1768",
+        "mbed",
+        "fonts",
+        "TFT",
+        "MAPLE",
+        "mini",
+        "DISCO_F469NI",
+        "LCD",
+        "Touch Screen",
+        "hydro",
+        "ROS",
+        "ros_serial"
+    ],
+    "name": "TFT_fonts",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gregeric/code/TFT_fonts/"
+    }
+}

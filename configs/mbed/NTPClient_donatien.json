@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Donatien Garnier",
+        "url": "https://os.mbed.com/users/donatien/"
+    },
+    "description": "NTP Client for the mbed networking libraries",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "interrupt",
+        "keypad",
+        "ANSI",
+        "Serial",
+        "Terminal",
+        "Freescale",
+        "sensing",
+        "touch",
+        "TSI",
+        "RangeFinder",
+        "SRF05",
+        "ultrasonic",
+        "sensor",
+        "Ultrasonic Ranging",
+        "Ultrasound Sensor"
+    ],
+    "name": "NTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donatien/code/NTPClient/"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "naoto tanaka",
+        "url": "https://os.mbed.com/users/NT32/"
+    },
+    "description": "shindai",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "BME280",
+        "I2C",
+        "RHT",
+        "sensor",
+        "Si7013",
+        "Si7020",
+        "Si7021",
+        "Silicon Labs",
+        "silicon_labs",
+        "siliconlabs"
+    ],
+    "name": "MotorDriver_SU",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/NT32/code/MotorDriver_SU/"
+    }
+}

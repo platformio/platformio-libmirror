@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "In TextLCD_I2C_N Class, added void setContrast(unsigned char c) function as temporary.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "CPU Serial number",
+        "Device ID",
+        "IOT",
+        "Serial Number",
+        "SED1330",
+        "SED1335",
+        "TextDisplay"
+    ],
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/TextLCD/"
+    }
+}

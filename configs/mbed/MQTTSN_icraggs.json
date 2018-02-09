@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Ian Craggs",
+        "url": "https://os.mbed.com/users/icraggs/"
+    },
+    "description": "High level MQTT-SN C++ library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "MQTT",
+        "1.0.3",
+        "LCD",
+        "ST7032",
+        "TextLCD"
+    ],
+    "name": "MQTTSN",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/icraggs/code/MQTTSN/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Alex Marinov",
+        "url": "https://os.mbed.com/users/alexmarinov/"
+    },
+    "description": "mbed library for the Bosh BNO055 9 axis sensor",
+    "frameworks": "mbed",
+    "keywords": [
+        "BNO055",
+        "sensor",
+        "BLE Bluetooth Low Energy BLE",
+        "Bluetooth 4.0 Low Energy 4.0 ble HM-11 Hm11 Ble"
+    ],
+    "name": "BNO055",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/alexmarinov/code/BNO055/"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "jim hamblen",
+        "url": "https://os.mbed.com/users/4180_1/"
+    },
+    "description": "class for emic 2 speech synthesis module",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "BME280",
+    "name": "emic2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/4180_1/code/emic2/"
+    }
+}

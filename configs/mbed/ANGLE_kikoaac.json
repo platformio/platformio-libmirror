@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Kiko Ishimoto",
+        "url": "https://os.mbed.com/users/kikoaac/"
+    },
+    "description": "I am able to get angle from ADXL345 and L3GD20. Please use this program. Angle is made by deg/sec and acceramater. I used Kalmanfilter.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Kalmanfilter",
+        "L3GD20 ADXL345",
+        "HvZ"
+    ],
+    "name": "ANGLE",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kikoaac/code/ANGLE/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "michael hollegha",
+        "url": "https://os.mbed.com/users/hollegha2/"
+    },
+    "description": "Lib for Bulme Bertl",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "EthernetInterface",
+        "network",
+        "TFTP",
+        "UDP",
+        "Bertl14"
+    ],
+    "name": "BertlLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hollegha2/code/BertlLib/"
+    }
+}

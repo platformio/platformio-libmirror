@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "David Smart",
+        "url": "https://os.mbed.com/users/WiredHome/"
+    },
+    "description": "Fixed custom headers and Basic authorization, added support for redirection, functional file download interface can be used for SW updates and more.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "authorization",
+        "client",
+        "custom",
+        "headers",
+        "http",
+        "HTTPClient"
+    ],
+    "name": "HTTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WiredHome/code/HTTPClient/"
+    }
+}

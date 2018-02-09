@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Krishna Kaushal Panduru",
+        "url": "https://os.mbed.com/users/kaushalpkk/"
+    },
+    "description": "QuadratureEncoder",
+    "frameworks": "mbed",
+    "keywords": [
+        "LED Dimmer",
+        "led driver",
+        "PCA9955",
+        "full-scale",
+        "ITG3200",
+        "gpu",
+        "LCD",
+        "mbed",
+        "mini",
+        "minismartgpu",
+        "smart",
+        "SMARTGPU",
+        "vizic"
+    ],
+    "name": "QuadratureEncoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kaushalpkk/code/QuadratureEncoder/"
+    }
+}

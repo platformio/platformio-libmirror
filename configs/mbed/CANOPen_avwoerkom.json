@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Allard van Woerkom",
+        "url": "https://os.mbed.com/users/avwoerkom/"
+    },
+    "description": "CANOPEN voor IROM",
+    "frameworks": "mbed",
+    "keywords": [
+        "ADT7410",
+        "I2C",
+        "Nucleo",
+        "UIT",
+        "ProcVis"
+    ],
+    "name": "CANOPen",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/avwoerkom/code/CANOPen/"
+    }
+}

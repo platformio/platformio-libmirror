@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Zibin Zheng",
+        "url": "https://os.mbed.com/users/jaup/"
+    },
+    "description": "Library for detecting button clicks, doubleclicks and long press pattern on a single button.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "crc8",
+        "Flash-fs",
+        "adc",
+        "Color Sensor",
+        "Colour Sensor",
+        "High Speed ADC",
+        "irq",
+        "ldr",
+        "Light Dependent Resistor",
+        "RGB LED"
+    ],
+    "name": "OneButton",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jaup/code/OneButton/"
+    }
+}

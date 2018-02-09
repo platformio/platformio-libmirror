@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "CLTP 8",
+        "url": "https://os.mbed.com/users/HEPTA/"
+    },
+    "description": "HeptaCamera&GPS Library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "checksum",
+    "name": "HeptaCamera_GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/HEPTA/code/HeptaCamera_GPS/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Delta",
+        "url": "https://os.mbed.com/teams/Delta/"
+    },
+    "description": "NNN50 WIFI_API library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Armand",
+        "Coetzer",
+        "NNN50",
+        "wifi"
+    ],
+    "name": "NNN50_WIFI_API",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Delta/code/NNN50_WIFI_API/"
+    }
+}

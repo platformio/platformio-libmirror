@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "James Watanabe",
+        "url": "https://os.mbed.com/users/gltest26/"
+    },
+    "description": "Forked from Jose R. Padron and Aaron Berk's library, customized for my specific application using 9DoF-Stick by Sparkfun.",
+    "frameworks": "mbed",
+    "keywords": [
+        "file",
+        "Serial",
+        "SimpleSerialProtocol",
+        "transfer",
+        "9Dof-Stick",
+        "heading",
+        "HMC5843",
+        "magnetic",
+        "sensor",
+        "yo"
+    ],
+    "name": "HMC5843",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gltest26/code/HMC5843/"
+    }
+}

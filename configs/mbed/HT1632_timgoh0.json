@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Timothy Goh",
+        "url": "https://os.mbed.com/users/timgoh0/"
+    },
+    "description": "HT1632 control library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "LCD-11062",
+        "PCF8833",
+        "sparkfun",
+        "dot",
+        "HT1632",
+        "led",
+        "matrix",
+        "sure",
+        "motor",
+        "KL25z",
+        "light sensor",
+        "Wi-Go"
+    ],
+    "name": "HT1632",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/timgoh0/code/HT1632/"
+    }
+}

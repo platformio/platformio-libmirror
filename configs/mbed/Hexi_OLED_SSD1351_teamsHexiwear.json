@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Hexiwear",
+        "url": "https://os.mbed.com/teams/Hexiwear/"
+    },
+    "description": "Hexiwear OLED Display Driver",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "graphic",
+        "LCD",
+        "QVGA",
+        "RA8875",
+        "TFT",
+        "Touch Screen",
+        "WQVGA",
+        "WVGA",
+        "Adafruit",
+        "GFX",
+        "driver",
+        "HEXIWEAR",
+        "OLED",
+        "SSD1351",
+        "JSON"
+    ],
+    "name": "Hexi_OLED_SSD1351",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Hexiwear/code/Hexi_OLED_SSD1351/"
+    }
+}

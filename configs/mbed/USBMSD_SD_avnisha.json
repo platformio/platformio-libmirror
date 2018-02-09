@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "avnish aggarwal",
+        "url": "https://os.mbed.com/users/avnisha/"
+    },
+    "description": "ok",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "EM406",
+        "GPS",
+        "library",
+        "Serial"
+    ],
+    "name": "USBMSD_SD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/avnisha/code/USBMSD_SD/"
+    }
+}

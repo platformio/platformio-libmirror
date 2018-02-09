@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "kobe leysen",
+        "url": "https://os.mbed.com/users/leysenkobe/"
+    },
+    "description": "Library of a DAQ system with the following IC's:",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Mouse",
+        "optical",
+        "sensor",
+        "edutech",
+        "EPB",
+        "EPB_TextLCD",
+        "LCD"
+    ],
+    "name": "DAQ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/leysenkobe/code/DAQ/"
+    }
+}

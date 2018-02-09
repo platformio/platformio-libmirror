@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Ollie Milton",
+        "url": "https://os.mbed.com/users/ollie8/"
+    },
+    "description": "Utility for copying and renaming files.",
+    "frameworks": "mbed",
+    "keywords": [
+        "copy",
+        "file",
+        "rename"
+    ],
+    "name": "FileUtils",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ollie8/code/FileUtils/"
+    }
+}

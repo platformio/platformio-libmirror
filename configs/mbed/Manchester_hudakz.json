@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "Manchester code (phase encoding) library.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Color Sensor",
+        "I2C",
+        "manchester"
+    ],
+    "name": "Manchester",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/Manchester/"
+    }
+}

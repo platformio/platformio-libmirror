@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Alex Allen",
+        "url": "https://os.mbed.com/users/AlexAllen/"
+    },
+    "description": "A library for the Honeywell HIH-4030 humidity sensor.",
+    "frameworks": "mbed",
+    "keywords": "HIH4030",
+    "name": "HIH4030",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AlexAllen/code/HIH4030/"
+    }
+}

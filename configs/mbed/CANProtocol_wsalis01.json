@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Will Salisbury",
+        "url": "https://os.mbed.com/users/wsalis01/"
+    },
+    "description": "CAN Headers.",
+    "frameworks": "mbed",
+    "keywords": [
+        "mp3",
+        "VS1033",
+        "VS1053",
+        "accelerometer",
+        "ADXL345",
+        "BME280",
+        "CAN"
+    ],
+    "name": "CANProtocol",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wsalis01/code/CANProtocol/"
+    }
+}

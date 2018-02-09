@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "Stepper Motor Driver library for Uni-polar type",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "LM75B",
+        "motor",
+        "Stepper",
+        "stepping",
+        "Uni-polar"
+    ],
+    "name": "stepper",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/stepper/"
+    }
+}

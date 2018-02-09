@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Abdessamad El Abbassi",
+        "url": "https://os.mbed.com/users/abdess/"
+    },
+    "description": "mbed library sources",
+    "frameworks": "mbed",
+    "keywords": "mbed",
+    "name": "mbed-src-temp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/abdess/code/mbed-src-temp/"
+    }
+}

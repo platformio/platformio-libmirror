@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "Controller Area Network library for NUCLEO boards equipped with CAN peripheral.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "HCSR04",
+        "CAN",
+        "can bus",
+        "CAN Nucleo",
+        "canbus",
+        "CANbus Nucleo",
+        "Controller Area Network",
+        "Nucleo",
+        "9-DOF",
+        "compass",
+        "HMC5883L",
+        "magnetometer",
+        "sparkfun",
+        "MMA7361L",
+        "TextLCD"
+    ],
+    "name": "CANnucleo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/CANnucleo/"
+    }
+}

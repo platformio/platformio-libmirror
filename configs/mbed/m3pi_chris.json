@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Chris Styles",
+        "url": "https://os.mbed.com/users/chris/"
+    },
+    "description": "Library for the m3pi robot. This works with a Pololu 3pi robot with the Serial Slave firmware, and exposes and API.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "device",
+        "USB",
+        "PwmOut",
+        "Servo",
+        "3pi",
+        "m3pi",
+        "robot",
+        "application board",
+        "C12832",
+        "LCD"
+    ],
+    "name": "m3pi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chris/code/m3pi/"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Alexander Ferrara",
+        "url": "https://os.mbed.com/users/AlexFerrara/"
+    },
+    "description": "- -",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Nokia 5110",
+        "NOKIA5110",
+        "pcd8544",
+        "accelerometer",
+        "gyroscope",
+        "IMU",
+        "LSM9DS0",
+        "magnetometer",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "4DGL-uLCD-SE",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AlexFerrara/code/4DGL-uLCD-SE/"
+    }
+}

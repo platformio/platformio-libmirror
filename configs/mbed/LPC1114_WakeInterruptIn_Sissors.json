@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "Class similar to InterruptIn which allows the LPC1114 to wake from deepsleep. (For other targets you can use InterruptIn).",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "mutex",
+        "rtos",
+        "DeepSleep",
+        "InterruptIn",
+        "LPC1114"
+    ],
+    "name": "LPC1114_WakeInterruptIn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/LPC1114_WakeInterruptIn/"
+    }
+}

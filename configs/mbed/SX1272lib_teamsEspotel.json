@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Espotel",
+        "url": "https://os.mbed.com/teams/Espotel/"
+    },
+    "description": "Semtech SX1272 radio chipset driver - ported based on Semtech SX1276 driver.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "SX1272lib",
+    "name": "SX1272lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Espotel/code/SX1272lib/"
+    }
+}

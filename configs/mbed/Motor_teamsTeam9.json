@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Team 9",
+        "url": "https://os.mbed.com/teams/Team-9/"
+    },
+    "description": "Motor control library - worjking for checkpoint.",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LM77",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "Motor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Team-9/code/Motor/"
+    }
+}

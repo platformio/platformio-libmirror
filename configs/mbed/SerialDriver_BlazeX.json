@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "BlazeX",
+        "url": "https://os.mbed.com/users/BlazeX/"
+    },
+    "description": "Buffered Serial Port Driver for RTOS",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Buffered",
+        "ROS",
+        "Serial",
+        "UART"
+    ],
+    "name": "SerialDriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BlazeX/code/SerialDriver/"
+    }
+}

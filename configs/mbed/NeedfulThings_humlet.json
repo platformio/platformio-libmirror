@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Helmut Schmücker",
+        "url": "https://os.mbed.com/users/humlet/"
+    },
+    "description": "Some useful stuff",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "frequency",
+        "measurement",
+        "Pulsewidth",
+        "circular buffer",
+        "FIFO",
+        "Queue",
+        "ring buffer",
+        "stack",
+        "Template"
+    ],
+    "name": "NeedfulThings",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/humlet/code/NeedfulThings/"
+    }
+}

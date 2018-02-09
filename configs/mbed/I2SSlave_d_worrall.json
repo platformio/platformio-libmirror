@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Daniel Worrall",
+        "url": "https://os.mbed.com/users/d_worrall/"
+    },
+    "description": "I2SSlave",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "pressure",
+        "sensor"
+    ],
+    "name": "I2SSlave",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/d_worrall/code/I2SSlave/"
+    }
+}

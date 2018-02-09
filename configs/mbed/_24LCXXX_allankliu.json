@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Kai Liu",
+        "url": "https://os.mbed.com/users/allankliu/"
+    },
+    "description": "I2C EEPROM 24LCXXX Driver",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Alps",
+        "EC11",
+        "Encoder",
+        "quadrature",
+        "switch"
+    ],
+    "name": "_24LCXXX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/allankliu/code/_24LCXXX/"
+    }
+}

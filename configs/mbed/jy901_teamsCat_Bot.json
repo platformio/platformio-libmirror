@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Cat_Bot",
+        "url": "https://os.mbed.com/teams/Cat_Bot/"
+    },
+    "description": "Can measure acceleration, angular Velocity, magnetic and Angle.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "AirIndoorQuality",
+        "MtSense02",
+        "DS130x",
+        "Maxim",
+        "RTC",
+        "JY901"
+    ],
+    "name": "jy901",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Cat_Bot/code/jy901/"
+    }
+}

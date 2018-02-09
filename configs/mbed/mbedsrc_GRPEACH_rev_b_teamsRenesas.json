@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Renesas",
+        "url": "https://os.mbed.com/teams/Renesas/"
+    },
+    "description": "mbed library sources for GR-PEACH rev.B.",
+    "frameworks": "mbed",
+    "keywords": [
+        "IR",
+        "remote",
+        "networking",
+        "socket",
+        "TCP",
+        "UDP",
+        "BME280",
+        "I2C sensor driver",
+        "edge",
+        "level",
+        "SW",
+        "tact",
+        "Toggle",
+        "mbed",
+        "HTTP server",
+        "httpd",
+        "websocket server"
+    ],
+    "name": "mbed-src_GR-PEACH_rev_b",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Renesas/code/mbed-src_GR-PEACH_rev_b/"
+    }
+}

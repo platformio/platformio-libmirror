@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "mike egan",
+        "url": "https://os.mbed.com/users/davernm/"
+    },
+    "description": "I2C interface of Bosch BMP085 pressure/temperature sensor.",
+    "frameworks": "mbed",
+    "keywords": [
+        "bmp085",
+        "I2C"
+    ],
+    "name": "bmp085",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/davernm/code/bmp085/"
+    }
+}

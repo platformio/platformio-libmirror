@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Chris Snow",
+        "url": "https://os.mbed.com/users/chrissnow/"
+    },
+    "description": "ADC Library",
+    "frameworks": "mbed",
+    "keywords": [
+        "GPIO Exoender",
+        "MCP23017"
+    ],
+    "name": "MCP3424",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chrissnow/code/MCP3424/"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "mbed official",
+        "url": "https://os.mbed.com/teams/mbed-official/"
+    },
+    "description": "CMSIS DSP library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ax12",
+        "Servo",
+        "BMP180",
+        "pressure",
+        "sensor",
+        "gauge",
+        "rain",
+        "Speed",
+        "vane",
+        "wind"
+    ],
+    "name": "mbed-dsp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/mbed-official/code/mbed-dsp/"
+    }
+}

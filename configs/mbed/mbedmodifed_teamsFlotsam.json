@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Flotsam",
+        "url": "https://os.mbed.com/teams/Flotsam/"
+    },
+    "description": "Modified version of the mbed library for use with the Nucleo boards.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "IOT",
+        "sigfox",
+        "consumption",
+        "control",
+        "ethernet",
+        "Management",
+        "Power",
+        "PowerControl",
+        "Nucleo-F4xx",
+        "open-drain",
+        "UIT"
+    ],
+    "name": "mbed-modifed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Flotsam/code/mbed-modifed/"
+    }
+}

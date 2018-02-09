@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Bird Techstep",
+        "url": "https://os.mbed.com/users/techstep/"
+    },
+    "description": "MAX7219/MAX7221 Library",
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "millis",
+        "Modbus",
+        "MODSERIAL",
+        "rtu",
+        "MAX7219",
+        "MAX7221",
+        "debug",
+        "Error",
+        "flash",
+        "led"
+    ],
+    "name": "MAX72XX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/techstep/code/MAX72XX/"
+    }
+}

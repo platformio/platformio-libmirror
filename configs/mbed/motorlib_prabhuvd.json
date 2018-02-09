@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Prabhu Desai",
+        "url": "https://os.mbed.com/users/prabhuvd/"
+    },
+    "description": "Library for H-Bridge Motor Driver Using Bipolar Transistors",
+    "frameworks": "mbed",
+    "keywords": "motorlib",
+    "name": "motorlib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/prabhuvd/code/motorlib/"
+    }
+}

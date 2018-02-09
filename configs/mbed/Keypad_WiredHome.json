@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "David Smart",
+        "url": "https://os.mbed.com/users/WiredHome/"
+    },
+    "description": "Onscreen QWERTY keypad for RA8857 based display. Uses the resistive touch panel.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Serial",
+        "keypad",
+        "RA8875",
+        "Touchscreen"
+    ],
+    "name": "Keypad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WiredHome/code/Keypad/"
+    }
+}

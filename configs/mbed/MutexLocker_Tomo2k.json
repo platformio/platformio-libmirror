@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Richard Thompson",
+        "url": "https://os.mbed.com/users/Tomo2k/"
+    },
+    "description": "Mutex Locker utility class to lock/unlock mbed RTOS mutexes.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "mutex",
+        "rtos",
+        "DeepSleep",
+        "InterruptIn",
+        "LPC1114"
+    ],
+    "name": "MutexLocker",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Tomo2k/code/MutexLocker/"
+    }
+}

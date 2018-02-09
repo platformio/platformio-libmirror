@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Alef Sin",
+        "url": "https://os.mbed.com/users/salarian/"
+    },
+    "description": "Modified version of the Watchdog library with improved support for STM32",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "Watchdog",
+    "name": "Watchdog",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/salarian/code/Watchdog/"
+    }
+}

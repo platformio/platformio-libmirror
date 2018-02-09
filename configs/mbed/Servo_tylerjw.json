@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Tyler Weaver",
+        "url": "https://os.mbed.com/users/tylerjw/"
+    },
+    "description": "Added max and min calibration",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "JSON",
+        "Servo"
+    ],
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tylerjw/code/Servo/"
+    }
+}

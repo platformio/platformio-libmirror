@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Akinori Hashimoto",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/"
+    },
+    "description": "Simple Network Time Protocol Client.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "OLED",
+        "SSD1306",
+        "client",
+        "SimpleNTP",
+        "SNTP"
+    ],
+    "name": "SimpleNTP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/SimpleNTP/"
+    }
+}

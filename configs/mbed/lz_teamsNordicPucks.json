@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Nordic Pucks",
+        "url": "https://os.mbed.com/teams/Nordic-Pucks/"
+    },
+    "description": "Simple light-weight LZ compression library.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "basic",
+        "flash",
+        "Flasher",
+        "fun",
+        "led",
+        "rgb",
+        "dac",
+        "MCP4822"
+    ],
+    "name": "lz",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nordic-Pucks/code/lz/"
+    }
+}

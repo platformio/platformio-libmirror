@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Tiago Padovani",
+        "url": "https://os.mbed.com/users/tpadovani/"
+    },
+    "description": "Driver for AT25SF041 SPI Flash Memory, just basic operations",
+    "frameworks": "mbed",
+    "keywords": [
+        "at25sf041",
+        "flash",
+        "SPI",
+        "PID"
+    ],
+    "name": "at25sf041",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tpadovani/code/at25sf041/"
+    }
+}

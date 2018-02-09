@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Michael Walker",
+        "url": "https://os.mbed.com/users/MichaelW/"
+    },
+    "description": "Library to provide a mechanism to make it easier to add RPC to custom code by using RPCFunction and RPCVariable objects. Also includes a class to receive and process RPC over serial.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "rpc",
+    "name": "RPCInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MichaelW/code/RPCInterface/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Hiroshi Yamaguchi",
+        "url": "https://os.mbed.com/users/yamaguch/"
+    },
+    "description": "Strawberry Linux LCD module interface",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LCD"
+    ],
+    "name": "LCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yamaguch/code/LCD/"
+    }
+}

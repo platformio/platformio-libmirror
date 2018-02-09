@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "AT&T M2X Team",
+        "url": "https://os.mbed.com/teams/ATT-M2X-team/"
+    },
+    "description": "ARM mbed M2X API Client: The ARM mbed client library is used to send/receive data to/from AT&T's M2X service from mbed LPC1768 microcontrollers.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "game pad",
+        "gamepad",
+        "playstation",
+        "playstation2",
+        "PS2",
+        "SPI",
+        "pwm",
+        "softwarePWM",
+        "MRF24J40",
+        "tranceiver",
+        "wireless",
+        "DDS",
+        "generator",
+        "signal",
+        "QEI ロータリーエンコーダ 角度 angle",
+        "SRF02",
+        "at&t",
+        "data store",
+        "m2x",
+        "time-series"
+    ],
+    "name": "M2XStreamClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ATT-M2X-team/code/M2XStreamClient/"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Jason Garner",
+        "url": "https://os.mbed.com/users/elevatorguy/"
+    },
+    "description": "same stuff from mbed trunk (LPC17xx.h, etc.) but nothing else",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "CC3000",
+        "socket",
+        "TCP",
+        "UDP",
+        "wifi",
+        "CHaN",
+        "FAT",
+        "Fat16",
+        "Fat32",
+        "fatfilesystem",
+        "Filenames",
+        "Long",
+        "rtos"
+    ],
+    "name": "ARM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/elevatorguy/code/ARM/"
+    }
+}

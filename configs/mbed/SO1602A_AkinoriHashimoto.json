@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Akinori Hashimoto",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/"
+    },
+    "description": "SO1602A Lib.",
+    "frameworks": "mbed",
+    "keywords": [
+        "NFC",
+        "PN532",
+        "OLED",
+        "Organic-LED",
+        "SO1602A"
+    ],
+    "name": "SO1602A",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/SO1602A/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "SDRAM class for DISCO_F746NG",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ad7124",
+        "DISCO_F746NG",
+        "sdram"
+    ],
+    "name": "SDRAM_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/SDRAM_DISCO_F746NG/"
+    }
+}

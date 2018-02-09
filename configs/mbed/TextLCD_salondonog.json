@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Sergio Londono",
+        "url": "https://os.mbed.com/users/salondonog/"
+    },
+    "description": "A driver code library for Text LCD panels using the 4-bit HD44780 lcd display driver.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "PCF8591",
+        "accelerometer",
+        "newbi;debug;serial;"
+    ],
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/salondonog/code/TextLCD/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Huseyin Buyukesmeli",
+        "url": "https://os.mbed.com/users/buyukesmeli/"
+    },
+    "description": "OV7670 Support",
+    "frameworks": "mbed",
+    "keywords": [
+        "BSP_DISCO_F746NG",
+        "OV7670"
+    ],
+    "name": "BSP_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/buyukesmeli/code/BSP_DISCO_F746NG/"
+    }
+}

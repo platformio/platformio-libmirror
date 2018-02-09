@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Hassan Elahi",
+        "url": "https://os.mbed.com/users/hassan_elahi/"
+    },
+    "description": "reading from 6 sensors and packaging the data",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LPC800",
+        "LPC800-MAX",
+        "PCA9672",
+        "bitmap",
+        "Graphics",
+        "LCD"
+    ],
+    "name": "LSM303D",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hassan_elahi/code/LSM303D/"
+    }
+}

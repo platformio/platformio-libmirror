@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Dieter Graef",
+        "url": "https://os.mbed.com/users/DieterGraef/"
+    },
+    "description": "partly working USB Device lib for STM32F746NG Discovery both Interface are working",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F746NG",
+        "STM32F746",
+        "hang",
+        "I2C",
+        "KL25z",
+        "lockup",
+        "ARM",
+        "DAY",
+        "heartbeat",
+        "RIT"
+    ],
+    "name": "DISCO_F746NG_USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DieterGraef/code/DISCO_F746NG_USBDevice/"
+    }
+}

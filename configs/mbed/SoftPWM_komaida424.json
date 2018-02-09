@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "syouichi imamori",
+        "url": "https://os.mbed.com/users/komaida424/"
+    },
+    "description": "The PWM output by software. Can be output to any pin. It can be used to replace the Pwmout.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "Bluetooth Low Energy",
+        "ST",
+        "X-NUCLEO-IDB04A1",
+        "X-NUCLEO-IDB05A1",
+        "buzzer",
+        "piezo",
+        "SBC",
+        "WSE",
+        "pwm",
+        "PwmOut",
+        "SoftPWM",
+        "softwearPWM"
+    ],
+    "name": "SoftPWM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/komaida424/code/SoftPWM/"
+    }
+}

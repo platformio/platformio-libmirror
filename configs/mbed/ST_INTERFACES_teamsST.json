@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "Official interfaces for ST components.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "actuators",
+        "commnunications",
+        "interfaces",
+        "sensors"
+    ],
+    "name": "ST_INTERFACES",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/ST_INTERFACES/"
+    }
+}

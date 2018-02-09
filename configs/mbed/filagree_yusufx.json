@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Yusuf X",
+        "url": "https://os.mbed.com/users/yusufx/"
+    },
+    "description": "MBED port of https://github.com/ys1382/filagree . The only change is adding #define MBED",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ultrasonico",
+        "I2C"
+    ],
+    "name": "filagree",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yusufx/code/filagree/"
+    }
+}

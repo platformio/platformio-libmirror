@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Mark Irwin",
+        "url": "https://os.mbed.com/users/markirwin/"
+    },
+    "description": "Forked Changes to Pressure sensor",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "OLED",
+        "SSD1306",
+        "client",
+        "SimpleNTP",
+        "SNTP"
+    ],
+    "name": "MPL3115A2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/markirwin/code/MPL3115A2/"
+    }
+}

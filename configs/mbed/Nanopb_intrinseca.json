@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Michael Allan",
+        "url": "https://os.mbed.com/users/intrinseca/"
+    },
+    "description": "Nanopb is a plain-C implementation of Google's Protocol Buffers data format. It is targeted at 32 bit microcontrollers, but is also fit for other embedded systems with tight (2-10 kB ROM, <1 kB RAM) memory constraints.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "APA102",
+        "led",
+        "rgb",
+        "ws2801",
+        "2645",
+        "accelerometer",
+        "fxos8700cq",
+        "I2C",
+        "magnetometer",
+        "nxp"
+    ],
+    "name": "Nanopb",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/intrinseca/code/Nanopb/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Don DeGregori",
+        "url": "https://os.mbed.com/users/donde/"
+    },
+    "description": "NokiaLCD",
+    "frameworks": "mbed",
+    "keywords": [
+        "basic",
+        "flash",
+        "Flasher",
+        "fun",
+        "led",
+        "rgb",
+        "dac",
+        "MCP4822"
+    ],
+    "name": "NokiaLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donde/code/NokiaLCD/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Aaron Berk",
+        "url": "https://os.mbed.com/users/aberk/"
+    },
+    "description": "Control a DC motor via a standard H-bridge using a PwmOut pin to control speed and two DigitalOut pins to control direction. Can change pwm period on the PwmOut pin, and also brake high or low.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "digitalOut",
+        "H-bridge",
+        "library",
+        "motor",
+        "PwmOut",
+        "2x16",
+        "I2C",
+        "LCD"
+    ],
+    "name": "Motor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aberk/code/Motor/"
+    }
+}

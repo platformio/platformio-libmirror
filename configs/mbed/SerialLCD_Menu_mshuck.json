@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Mark Shuck",
+        "url": "https://os.mbed.com/users/mshuck/"
+    },
+    "description": "Serial LCD Menu system with buttons instead of RPG. Based on Peihsun Yeh's work",
+    "frameworks": "mbed",
+    "keywords": [
+        "distance",
+        "Fischer",
+        "sensor",
+        "Technik",
+        "ultrasonic",
+        "control",
+        "PID",
+        "Encoder"
+    ],
+    "name": "SerialLCD_Menu",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mshuck/code/SerialLCD_Menu/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Shohei Yasutake",
+        "url": "https://os.mbed.com/users/amutake/"
+    },
+    "description": "Frame Level Language for controlling DUALSHOCK2",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "debouncing",
+        "Interrupt Handling",
+        "4DSystems",
+        "audio",
+        "library",
+        "module",
+        "program",
+        "SOMO-14D",
+        "stm32"
+    ],
+    "name": "fll",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/amutake/code/fll/"
+    }
+}

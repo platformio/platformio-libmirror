@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Aloïs Wolff",
+        "url": "https://os.mbed.com/users/pommzorz/"
+    },
+    "description": "A quick adaptation of a library made for Arduino by Fabio Varesano",
+    "frameworks": "mbed",
+    "keywords": [
+        "brushDC",
+        "low power",
+        "motor",
+        "ST",
+        "STSPIN240",
+        "ADT7410",
+        "Analog Devices",
+        "I2C",
+        "sensor",
+        "Temperature",
+        "HMC5843",
+        "HMC5883L",
+        "HMC58X3",
+        "magnetometer"
+    ],
+    "name": "HMC58X3",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pommzorz/code/HMC58X3/"
+    }
+}

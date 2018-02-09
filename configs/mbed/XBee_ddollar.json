@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "David Dollar",
+        "url": "https://os.mbed.com/users/ddollar/"
+    },
+    "description": "XBee-mbed library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "XBee",
+    "name": "XBee",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ddollar/code/XBee/"
+    }
+}

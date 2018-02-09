@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "David Lowe",
+        "url": "https://os.mbed.com/users/gregeric/"
+    },
+    "description": "Lib for the new LCD Display with ILI9341 controller",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "led cube"
+    ],
+    "name": "SPI_TFT_ILI9341",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gregeric/code/SPI_TFT_ILI9341/"
+    }
+}

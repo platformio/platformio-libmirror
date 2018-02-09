@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Roland Kamp",
+        "url": "https://os.mbed.com/users/rolo644u/"
+    },
+    "description": "Library for 1.8 inch 160*180 TFT Display. Nice fonts in different formats.",
+    "frameworks": "mbed",
+    "keywords": [
+        "SSD1331",
+        "DPF",
+        "FTP",
+        "photo",
+        "W7500",
+        "WIZwiki_W7500",
+        "display",
+        "MicroOLED",
+        "OLED",
+        "sparkfun",
+        "SPI",
+        "SSD1306",
+        "distance",
+        "driver",
+        "sensor",
+        "VL6180x"
+    ],
+    "name": "ST7735",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rolo644u/code/ST7735/"
+    }
+}

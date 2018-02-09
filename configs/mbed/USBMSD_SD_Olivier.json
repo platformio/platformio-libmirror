@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Olivier M",
+        "url": "https://os.mbed.com/users/Olivier/"
+    },
+    "description": "USBMSD: Use SDFileSystem class and USB non-blocking",
+    "frameworks": "mbed",
+    "keywords": [
+        "decoder",
+        "Encoder",
+        "Morse",
+        "cmsis",
+        "rtos",
+        "RTX",
+        "SDFileSystem",
+        "USBMSD",
+        "codificacion",
+        "UTF8"
+    ],
+    "name": "USBMSD_SD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Olivier/code/USBMSD_SD/"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Miguel Angel Rodriguez Jodar",
+        "url": "https://os.mbed.com/users/rodriguj/"
+    },
+    "description": "A class for managing SSD1306 controlled LCD´s (cheap 128x64 models, 0.96'')",
+    "frameworks": "mbed",
+    "keywords": [
+        "l3g4200d",
+        "lsm303dlm",
+        "minimu-9",
+        "128x64",
+        "I2C",
+        "OLED",
+        "SSD1306",
+        "3pi",
+        "m3pi",
+        "robot",
+        "Futaba",
+        "MODSERIAL",
+        "SBUS",
+        "Serial",
+        "Analyzer",
+        "audio",
+        "FFT",
+        "Spectrum"
+    ],
+    "name": "ssd1306_library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rodriguj/code/ssd1306_library/"
+    }
+}

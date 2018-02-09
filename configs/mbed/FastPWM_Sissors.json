@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "Library that allows for higher resolution and speed than standard mbed PWM library using same syntax (drop-in replacement).",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "pwm",
+        "resolution",
+        "Speed"
+    ],
+    "name": "FastPWM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/FastPWM/"
+    }
+}

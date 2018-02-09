@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://os.mbed.com/users/simon/"
+    },
+    "description": "Debug library for instrumentation a.k.a printf debugging",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "pressure",
+        "sensor",
+        "Temperature",
+        "cloud",
+        "firmware",
+        "update",
+        "debug",
+        "1-wire",
+        "DALLAS",
+        "DS18B20",
+        "OneWire",
+        "thermometer"
+    ],
+    "name": "debug",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/simon/code/debug/"
+    }
+}

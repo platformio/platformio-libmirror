@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Ales Povalac",
+        "url": "https://os.mbed.com/users/alpov/"
+    },
+    "description": "Dallas DS1307 real-time clock minimalistic driver",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "clock",
+        "ds1307",
+        "RTC"
+    ],
+    "name": "DS1307",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/alpov/code/DS1307/"
+    }
+}

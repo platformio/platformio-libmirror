@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Daiki Kato",
+        "url": "https://os.mbed.com/users/dkato/"
+    },
+    "description": "PWM drives the speaker.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "magnetometer",
+        "PNI",
+        "rm3100",
+        "sensor",
+        "DC",
+        "motor",
+        "PM motor",
+        "audio",
+        "pwm"
+    ],
+    "name": "PwmOutSpeaker",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dkato/code/PwmOutSpeaker/"
+    }
+}

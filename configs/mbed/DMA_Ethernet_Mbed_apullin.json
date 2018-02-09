@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Andrew p",
+        "url": "https://os.mbed.com/users/apullin/"
+    },
+    "description": "Mbed firmware to capture 4 mic inputs and provide data over ethernet.",
+    "frameworks": "mbed",
+    "keywords": "DMA_Ethernet_Mbed",
+    "name": "DMA_Ethernet_Mbed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/apullin/code/DMA_Ethernet_Mbed/"
+    }
+}

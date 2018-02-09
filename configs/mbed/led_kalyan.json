@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "kalyan reddy",
+        "url": "https://os.mbed.com/users/kalyan/"
+    },
+    "description": "test2",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "mp3",
+        "VS1033",
+        "VS1053",
+        "accelerometer",
+        "ADXL345",
+        "BME280",
+        "CAN"
+    ],
+    "name": "led",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kalyan/code/led/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Multi-Hackers",
+        "url": "https://os.mbed.com/teams/Multi-Hackers/"
+    },
+    "description": "A wrapper class for talking to Axeda from MBED devices.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Axeda",
+        "flash"
+    ],
+    "name": "AxedaWrapper",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Multi-Hackers/code/AxedaWrapper/"
+    }
+}

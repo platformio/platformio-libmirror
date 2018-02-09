@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Ben Carr",
+        "url": "https://os.mbed.com/users/bencarr22/"
+    },
+    "description": "CR95 Library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "H-bridge",
+        "motor",
+        "TB6612FNG"
+    ],
+    "name": "CR95",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bencarr22/code/CR95/"
+    }
+}

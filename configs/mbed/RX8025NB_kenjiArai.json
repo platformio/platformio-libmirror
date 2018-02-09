@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "RX-8025NB Real Time Clock Module by EPSON",
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed5",
+        "NetworkInterfaceAPI",
+        "Wi-Fi",
+        "WizFi250",
+        "8025",
+        "EPSON",
+        "RTC",
+        "RX-8025NB",
+        "16x2 LCD",
+        "TextLCD"
+    ],
+    "name": "RX8025NB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/RX8025NB/"
+    }
+}

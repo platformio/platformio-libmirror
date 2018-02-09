@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "christian b",
+        "url": "https://os.mbed.com/users/chris215/"
+    },
+    "description": "Mbed 4dGenie class",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "1-wire",
+        "One Wire",
+        "one-wire",
+        "Host",
+        "hub",
+        "keyboard",
+        "mbed",
+        "Mouse",
+        "MSD",
+        "rtos",
+        "Serial",
+        "USB",
+        "Buffered",
+        "MODSERIAL",
+        "4D Dydtems",
+        "Visi-Genie"
+    ],
+    "name": "4dGENIE",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chris215/code/4dGENIE/"
+    }
+}

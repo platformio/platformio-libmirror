@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "ethernet mac address from serial number",
+    "frameworks": "mbed",
+    "keywords": [
+        "bmp280",
+        "AT42QT2100",
+        "QT2100",
+        "QTouch"
+    ],
+    "name": "DDKARM_ethmac",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/DDKARM_ethmac/"
+    }
+}

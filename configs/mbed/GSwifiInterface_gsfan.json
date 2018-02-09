@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "gs fan",
+        "url": "https://os.mbed.com/users/gsfan/"
+    },
+    "description": "GSwifiInterface library (interface for GainSpan Wi-Fi GS1011 modules)",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Akizuki",
+        "Humidity",
+        "I2C",
+        "MEMS",
+        "sensor",
+        "Temperature",
+        "TI",
+        "acctuators",
+        "EthernetInterface",
+        "gainspan",
+        "GS1011",
+        "GS1011M",
+        "Wi-Fi",
+        "wifi"
+    ],
+    "name": "GSwifiInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gsfan/code/GSwifiInterface/"
+    }
+}

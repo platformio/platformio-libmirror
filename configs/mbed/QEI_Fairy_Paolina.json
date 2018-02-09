@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Paolina Povolotskaya",
+        "url": "https://os.mbed.com/users/Fairy_Paolina/"
+    },
+    "description": "Quadrature encoder interface library.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "clock",
+        "ds1307",
+        "real",
+        "RTC",
+        "time",
+        "COMMAND PARSER",
+        "serial command",
+        "uart interupt",
+        "Encoder",
+        "QEI",
+        "quadrature",
+        "MAX30101"
+    ],
+    "name": "QEI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Fairy_Paolina/code/QEI/"
+    }
+}

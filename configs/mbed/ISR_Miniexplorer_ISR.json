@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "ISR UC",
+        "url": "https://os.mbed.com/users/ISR/"
+    },
+    "description": "Energy harvesting mobile robot.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "f401",
+        "mbed",
+        "async",
+        "LS013B7DH03",
+        "memory lcd",
+        "Sharp",
+        "sharp memory LCD",
+        "energy harvesting",
+        "mobile robot",
+        "MQTT"
+    ],
+    "name": "ISR_Mini-explorer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ISR/code/ISR_Mini-explorer/"
+    }
+}

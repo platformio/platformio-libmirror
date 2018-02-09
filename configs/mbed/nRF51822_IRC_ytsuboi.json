@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Yoshihiro TSUBOI",
+        "url": "https://os.mbed.com/users/ytsuboi/"
+    },
+    "description": "changed low freq. clock source to IRC",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "geo",
+        "GPS",
+        "latitude",
+        "longitude",
+        "navigation",
+        "distance",
+        "distance sensor",
+        "HC-SR04",
+        "measurement",
+        "SR04",
+        "ultrasonic",
+        "display",
+        "MicroOLED",
+        "OLED",
+        "sparkfun",
+        "SPI",
+        "SSD1306"
+    ],
+    "name": "nRF51822_IRC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ytsuboi/code/nRF51822_IRC/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "MEM",
+        "url": "https://os.mbed.com/teams/MEM/"
+    },
+    "description": "Libreria ultrasuoni",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "socket",
+        "wifi",
+        "WifiPlusClick",
+        "WLAN"
+    ],
+    "name": "HCSR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MEM/code/HCSR04/"
+    }
+}

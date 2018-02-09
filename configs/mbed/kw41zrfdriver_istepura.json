@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Igor Stepura",
+        "url": "https://os.mbed.com/users/istepura/"
+    },
+    "description": "ARM mbed Nanostack RF driver for NXP KW41Z 802.15.4 wireless MCU",
+    "frameworks": "mbed",
+    "keywords": [
+        "Calibrate",
+        "compass",
+        "Magneto",
+        "MAX14661",
+        "mux",
+        "AT45DBxx",
+        "USBMSD",
+        "4D Systems",
+        "LDC-43PCt"
+    ],
+    "name": "kw41z-rf-driver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/istepura/code/kw41z-rf-driver/"
+    }
+}

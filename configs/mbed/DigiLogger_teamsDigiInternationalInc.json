@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Digi International Inc.",
+        "url": "https://os.mbed.com/teams/Digi-International-Inc/"
+    },
+    "description": "A common library used by Digi International Inc. mbed libraries to output debug information.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "biduad",
+        "cascade structure",
+        "IIR filter",
+        "Nucleo",
+        "UIT",
+        "ITDB_02",
+        "TFTCLD",
+        "Touch Screen",
+        "Touchscreen",
+        "XPT2046",
+        "BME280"
+    ],
+    "name": "DigiLogger",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Digi-International-Inc/code/DigiLogger/"
+    }
+}

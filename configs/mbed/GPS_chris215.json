@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "christian b",
+        "url": "https://os.mbed.com/users/chris215/"
+    },
+    "description": "Mbed library to handle GPS data reception and parsing",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "GPS",
+        "mbed",
+        "C1098-SS",
+        "camera",
+        "JPEG",
+        "UART"
+    ],
+    "name": "GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chris215/code/GPS/"
+    }
+}

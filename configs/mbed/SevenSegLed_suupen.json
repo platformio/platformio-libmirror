@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "suu pen",
+        "url": "https://os.mbed.com/users/suupen/"
+    },
+    "description": "このライブラリは１桁から８桁までのSeven segment Numeric LEDを制御します。",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Capactitve touch sensor",
+        "mpr121",
+        "SEN-10250",
+        "sparkfun",
+        "display",
+        "led",
+        "numeric",
+        "Seven-Segment",
+        "hbridge",
+        "motor",
+        "PwmOut"
+    ],
+    "name": "SevenSegLed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/suupen/code/SevenSegLed/"
+    }
+}

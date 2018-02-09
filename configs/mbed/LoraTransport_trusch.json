@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Tino Rusch",
+        "url": "https://os.mbed.com/users/trusch/"
+    },
+    "description": "Lora Transport Abstraction Layer for sx1272",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "LoraTransport",
+    "name": "LoraTransport",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/trusch/code/LoraTransport/"
+    }
+}

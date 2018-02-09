@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Ale C.-",
+        "url": "https://os.mbed.com/users/Suky/"
+    },
+    "description": "Control TouchScreen ADS7843",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Radio",
+        "transceiver",
+        "touch",
+        "3x4",
+        "4x3",
+        "kepad",
+        "keyboard",
+        "polling",
+        "pull",
+        "up",
+        "BLE",
+        "bluetooth",
+        "simpleble"
+    ],
+    "name": "TouchADS7843",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Suky/code/TouchADS7843/"
+    }
+}

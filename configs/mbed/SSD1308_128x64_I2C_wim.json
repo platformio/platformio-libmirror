@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "SSD1308 128x64 OLED Driver with I2C interface",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "OLED",
+        "SSD1308",
+        "24LCxx",
+        "EEPROM",
+        "Microchip",
+        "Serial",
+        "Lora",
+        "Semtech",
+        "SX1276",
+        "SX1276Lib",
+        "SX1276MB1xAS"
+    ],
+    "name": "SSD1308_128x64_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/SSD1308_128x64_I2C/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "DRV8830/Texas Instruments H-Bridge Voltage-Controlled Motor Driver library for Brushed DC Motor",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "DC",
+        "driver",
+        "H-bridge",
+        "motor"
+    ],
+    "name": "DRV8830",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/DRV8830/"
+    }
+}

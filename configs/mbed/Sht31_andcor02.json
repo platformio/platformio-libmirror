@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Andrea Corrado",
+        "url": "https://os.mbed.com/users/andcor02/"
+    },
+    "description": "working with mbed os 5.5",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "checksum",
+    "name": "Sht31",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/andcor02/code/Sht31/"
+    }
+}

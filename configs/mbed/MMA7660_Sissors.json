@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "Library for the MMA7660 triple axis accelerometer",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "buffer",
+        "BufferedSerial",
+        "BufferSerial",
+        "Serial",
+        "accelerometer",
+        "I2C",
+        "MMA7660",
+        "ADXL345"
+    ],
+    "name": "MMA7660",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/MMA7660/"
+    }
+}

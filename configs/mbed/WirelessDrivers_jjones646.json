@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Jonathan Jones",
+        "url": "https://os.mbed.com/users/jjones646/"
+    },
+    "description": "For robots and stuff",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "BMI160",
+        "gyroscope",
+        "I2C",
+        "SPI"
+    ],
+    "name": "Wireless Drivers",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jjones646/code/Wireless-Drivers/"
+    }
+}

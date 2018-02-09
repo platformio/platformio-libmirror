@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Toshihiro Sasai",
+        "url": "https://os.mbed.com/users/Vaxchan/"
+    },
+    "description": "Test LPC1768 Board",
+    "frameworks": "mbed",
+    "keywords": [
+        "Apeiros",
+        "F401RE",
+        "Nucleo",
+        "robot"
+    ],
+    "name": "Test_LPC1768",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Vaxchan/code/Test_LPC1768/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Minya Rancic",
+        "url": "https://os.mbed.com/users/whatsGravity/"
+    },
+    "description": "A PID Controller Library",
+    "frameworks": "mbed",
+    "keywords": [
+        "distance",
+        "Fischer",
+        "sensor",
+        "Technik",
+        "ultrasonic",
+        "control",
+        "PID",
+        "Encoder"
+    ],
+    "name": "PID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/whatsGravity/code/PID/"
+    }
+}

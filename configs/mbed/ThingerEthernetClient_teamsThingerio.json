@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Thinger.io",
+        "url": "https://os.mbed.com/teams/Thingerio/"
+    },
+    "description": "Thinger.io client for boards compatible with the ARM mbed Ethernet Interface.",
+    "frameworks": "mbed",
+    "keywords": "ThingerEthernetClient",
+    "name": "ThingerEthernetClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Thingerio/code/ThingerEthernetClient/"
+    }
+}

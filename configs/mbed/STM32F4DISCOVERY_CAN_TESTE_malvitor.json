@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "João Victor",
+        "url": "https://os.mbed.com/users/malvitor/"
+    },
+    "description": "STM32F4-DISCOVERY_CAN_TESTE",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "led",
+        "numeric",
+        "Seven-Segment",
+        "PCF2129",
+        "RTC"
+    ],
+    "name": "STM32F4-DISCOVERY_CAN_TESTE",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/malvitor/code/STM32F4-DISCOVERY_CAN_TESTE/"
+    }
+}

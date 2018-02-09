@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Katsushi Ogawa",
+        "url": "https://os.mbed.com/users/KatsushiOgawa/"
+    },
+    "description": "I2cLCD",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "api",
+        "mode",
+        "xbee",
+        "zigbee"
+    ],
+    "name": "I2cLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/KatsushiOgawa/code/I2cLCD/"
+    }
+}

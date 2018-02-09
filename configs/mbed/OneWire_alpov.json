@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Ales Povalac",
+        "url": "https://os.mbed.com/users/alpov/"
+    },
+    "description": "Dallas 1-wire driver with DS18B20 temperature sensor support; custom bus driver to work with https://emir.googlecode.com/svn/emir2/trunk/eagle/emir-shield.sch",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "DMA",
+        "rtos",
+        "SPI",
+        "AT45DB081D",
+        "AT45DB161D",
+        "AT45DB321D",
+        "EEPROM",
+        "flash",
+        "memory",
+        "1-wire",
+        "1wire",
+        "DS18B20",
+        "DS18S20",
+        "OneWire",
+        "cloud",
+        "dashboard",
+        "IOT",
+        "iot platform",
+        "smartphone"
+    ],
+    "name": "OneWire",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/alpov/code/OneWire/"
+    }
+}

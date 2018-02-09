@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "W5500-Ethernet-Interface Makers",
+        "url": "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/"
+    },
+    "description": "WIZnet PPPoE application library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "pppoe",
+        "Wiznet",
+        "AR6210",
+        "RC",
+        "remote",
+        "spektrum"
+    ],
+    "name": "pppoe",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/code/pppoe/"
+    }
+}

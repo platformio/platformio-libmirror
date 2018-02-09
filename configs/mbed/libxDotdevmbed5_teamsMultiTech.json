@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "description": "Bleeding edge development version of the xDot library for mbed 5. This version of the library is not guaranteed to be stable or well tested and should not be used in production or deployment scenarios.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "DS18B20",
+        "one",
+        "Wire",
+        "library",
+        "MIDI",
+        "USB",
+        "USBMIDI",
+        "mbed",
+        "nRF51822",
+        "SD",
+        "SDFileSystem",
+        "sdhcfilesystem",
+        "FAT",
+        "clock",
+        "ds1307",
+        "I2C",
+        "RTC"
+    ],
+    "name": "libxDot-dev-mbed5",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/libxDot-dev-mbed5/"
+    }
+}

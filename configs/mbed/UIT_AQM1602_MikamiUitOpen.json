@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "I2C 接続の LCD AQM1602XA-RN-GBW 用のライブラリ．",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "AQM1602",
+        "I2C",
+        "Nucleo",
+        "UIT",
+        "EEPROM",
+        "LPC11U24",
+        "DMA",
+        "KL25z",
+        "accelerometer",
+        "DHT22"
+    ],
+    "name": "UIT_AQM1602",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/UIT_AQM1602/"
+    }
+}

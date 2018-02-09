@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Pierre-Alexandre Geraert",
+        "url": "https://os.mbed.com/users/PA/"
+    },
+    "description": "RPCInterface",
+    "frameworks": "mbed",
+    "keywords": [
+        "debug",
+        "SPI",
+        "control",
+        "interrupt",
+        "motor",
+        "pwm",
+        "ramps"
+    ],
+    "name": "RPCInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/PA/code/RPCInterface/"
+    }
+}

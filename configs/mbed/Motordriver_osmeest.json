@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Olivier Smeesters",
+        "url": "https://os.mbed.com/users/osmeest/"
+    },
+    "description": "Motor driver library.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Capactitve touch sensor",
+        "mpr121",
+        "SEN-10250",
+        "sparkfun",
+        "display",
+        "led",
+        "numeric",
+        "Seven-Segment",
+        "hbridge",
+        "motor",
+        "PwmOut"
+    ],
+    "name": "Motordriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/osmeest/code/Motordriver/"
+    }
+}

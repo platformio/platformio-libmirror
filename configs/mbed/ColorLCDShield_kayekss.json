@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Kaoru Onoe",
+        "url": "https://os.mbed.com/users/kayekss/"
+    },
+    "description": "Sparkfun's Nokia Color LCD Arduino Shield library for FRDM boards",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "GPS",
+        "NMEA",
+        "parse",
+        "broadcast",
+        "multicast",
+        "UDP",
+        "Seeedstudio",
+        "shield",
+        "wifi",
+        "WiFly",
+        "FAT",
+        "file",
+        "SD",
+        "System",
+        "FRDM-KL25Z",
+        "LCD",
+        "Nokia"
+    ],
+    "name": "ColorLCDShield",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kayekss/code/ColorLCDShield/"
+    }
+}

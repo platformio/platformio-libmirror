@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "BERTL_CHEL18",
+        "url": "https://os.mbed.com/teams/BERTL_CHEL_18/"
+    },
+    "description": "ultra sonic sensor",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "bluetooth",
+        "simpleble",
+        "SerialHalfDuplex",
+        "accelerometer",
+        "Grove",
+        "I2C",
+        "MMA7660FC",
+        "MIDI"
+    ],
+    "name": "HCSR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/BERTL_CHEL_18/code/HCSR/"
+    }
+}

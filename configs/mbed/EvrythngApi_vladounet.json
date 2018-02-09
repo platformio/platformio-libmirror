@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Evry Thng",
+        "url": "https://os.mbed.com/users/vladounet/"
+    },
+    "description": "Api wrapper to communicate with EVRYTHNG's Engine.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "test",
+        "evrythng",
+        "CyaSSL",
+        "https",
+        "SSL"
+    ],
+    "name": "EvrythngApi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vladounet/code/EvrythngApi/"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Tedd OKANO",
+        "url": "https://os.mbed.com/users/okano/"
+    },
+    "description": "Stepper motor control class library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "3",
+        "joystick",
+        "playstation",
+        "motor",
+        "SPG20-332",
+        "Stepper",
+        "stepping",
+        "TA7774",
+        "frequency",
+        "LPC1768",
+        "MHz",
+        "output",
+        "JSON"
+    ],
+    "name": "StepperMotor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okano/code/StepperMotor/"
+    }
+}

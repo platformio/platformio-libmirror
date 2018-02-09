@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Seeed",
+        "url": "https://os.mbed.com/teams/Seeed/"
+    },
+    "description": "Color pixels library using WS2812B and nRF51822",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "color",
+        "led",
+        "nRF51822",
+        "rgb",
+        "WS2812B",
+        "wifi",
+        "WiFi Shield",
+        "WizFi250"
+    ],
+    "name": "color_pixels",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Seeed/code/color_pixels/"
+    }
+}

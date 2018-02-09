@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Bas van Drunen Littel",
+        "url": "https://os.mbed.com/users/Bas/"
+    },
+    "description": "8x8x8 Led Cube driven by 4x PCF8575 for the columns and 1x PCF8574 for the layers",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "led cube"
+    ],
+    "name": "LED_CUBE",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Bas/code/LED_CUBE/"
+    }
+}

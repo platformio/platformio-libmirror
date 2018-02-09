@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "xiao sun",
+        "url": "https://os.mbed.com/users/sunsmile2015/"
+    },
+    "description": "API for temperature sensor in nrf51822",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "Temperature",
+    "name": "TMP_nrf51",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sunsmile2015/code/TMP_nrf51/"
+    }
+}

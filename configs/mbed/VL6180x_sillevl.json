@@ -1,0 +1,40 @@
+{
+    "authors": {
+        "name": "Sille Van Landschoot",
+        "url": "https://os.mbed.com/users/sillevl/"
+    },
+    "description": "i2c driver for VL6180x distance sensor",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Nucleo",
+        "open-drain",
+        "push-pull",
+        "UIT",
+        "display",
+        "MicroOLED",
+        "OLED",
+        "sparkfun",
+        "SPI",
+        "SSD1306",
+        "distance",
+        "driver",
+        "sensor",
+        "VL6180x",
+        "DHT11",
+        "DHT22",
+        "Humidity",
+        "Temperature",
+        "low power",
+        "LPC11U24",
+        "lpc11uxx",
+        "mBuino",
+        "Sleep"
+    ],
+    "name": "VL6180x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sillevl/code/VL6180x/"
+    }
+}

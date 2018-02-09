@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Michael Ruck",
+        "url": "https://os.mbed.com/users/michaelruck/"
+    },
+    "description": "Quadrature Encoder Switch (Alps EC11)",
+    "frameworks": "mbed",
+    "keywords": [
+        "Alps",
+        "EC11",
+        "Encoder",
+        "quadrature",
+        "switch"
+    ],
+    "name": "Quadrature_Encoder_Switch",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/michaelruck/code/Quadrature_Encoder_Switch/"
+    }
+}

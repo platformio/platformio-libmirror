@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "The Electronics Nuke",
+        "url": "https://os.mbed.com/users/mbeded/"
+    },
+    "description": "Added new createChar() method.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Arduino mbed commands",
+        "HD44780 LCD text custom char 16X2",
+        "Ciseco",
+        "SRF",
+        "wireless",
+        "XRF"
+    ],
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbeded/code/TextLCD/"
+    }
+}

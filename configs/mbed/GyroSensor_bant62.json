@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Hiroshi M",
+        "url": "https://os.mbed.com/users/bant62/"
+    },
+    "description": "Gyro Sensor Library",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "sensor",
+        "Temperature",
+        "gyro",
+        "iniparser",
+        "TMP",
+        "TMP36"
+    ],
+    "name": "GyroSensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bant62/code/GyroSensor/"
+    }
+}

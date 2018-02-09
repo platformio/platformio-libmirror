@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Matthias Prinke",
+        "url": "https://os.mbed.com/users/mprinke/"
+    },
+    "description": "Fixed compiler errors/warnings (declaration of _uidx, scope of index variables i)",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "MODGPS",
+    "name": "MODGPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mprinke/code/MODGPS/"
+    }
+}

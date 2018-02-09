@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "HM Yoong",
+        "url": "https://os.mbed.com/users/yoonghm/"
+    },
+    "description": "An interrupt-driven interface to 4x4 keypad.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "interrupt",
+        "keypad",
+        "ANSI",
+        "Serial",
+        "Terminal",
+        "Freescale",
+        "sensing",
+        "touch",
+        "TSI",
+        "RangeFinder",
+        "SRF05",
+        "ultrasonic",
+        "sensor",
+        "Ultrasonic Ranging",
+        "Ultrasound Sensor"
+    ],
+    "name": "keypad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yoonghm/code/keypad/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Tadao Iida",
+        "url": "https://os.mbed.com/users/sunifu/"
+    },
+    "description": "EthernetInｔerface Libraryを使ったSimpleな SMTP ClientLibraryです．",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "email",
+        "SMTP",
+        "finder",
+        "range",
+        "ultrasound",
+        "adc",
+        "SPI"
+    ],
+    "name": "SimpleSMTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sunifu/code/SimpleSMTPClient/"
+    }
+}

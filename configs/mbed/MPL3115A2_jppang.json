@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "JP PANG",
+        "url": "https://os.mbed.com/users/jppang/"
+    },
+    "description": "Llibrary for the WiGo MPL3115A2, I2C Precision Altimeter sensor.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "AHRS",
+        "IMU",
+        "kalman",
+        "Madgwick",
+        "XTRINSIC-SENSOR-EVK"
+    ],
+    "name": "MPL3115A2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jppang/code/MPL3115A2/"
+    }
+}

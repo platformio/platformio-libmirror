@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Jon Trinder",
+        "url": "https://os.mbed.com/users/jont/"
+    },
+    "description": "Replaced original getTemperature Routine as it was returned strange values",
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "display",
+        "LCD",
+        "memory",
+        "Sharp",
+        "BME280"
+    ],
+    "name": "BME280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jont/code/BME280/"
+    }
+}

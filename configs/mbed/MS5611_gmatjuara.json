@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "GM AT",
+        "url": "https://os.mbed.com/users/gmatjuara/"
+    },
+    "description": "baro",
+    "frameworks": "mbed",
+    "keywords": [
+        "jsmn",
+        "JSON",
+        "L3GD20",
+        "9Dof-Stick",
+        "gyro",
+        "ITG3200",
+        "sensor"
+    ],
+    "name": "MS5611",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gmatjuara/code/MS5611/"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Joe Staton",
+        "url": "https://os.mbed.com/users/Stavlin/"
+    },
+    "description": "Library to interface with the MAX31855 Cold Junction Compensated Thermocouple-to-Digital Converter",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "MQTT",
+        "max31855",
+        "MAX6675",
+        "Thermocouple",
+        "arp",
+        "broadcast",
+        "DHCP",
+        "dns",
+        "ethernet",
+        "free",
+        "GPL",
+        "IGMP",
+        "ip",
+        "multicast",
+        "sockets",
+        "TCP",
+        "tcp/ip",
+        "tcpip stack",
+        "UDP",
+        "7",
+        "display",
+        "segment"
+    ],
+    "name": "MAX31855",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Stavlin/code/MAX31855/"
+    }
+}

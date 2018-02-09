@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "jim herd",
+        "url": "https://os.mbed.com/users/jimherd/"
+    },
+    "description": "Library of routines to drive a MD25 motor control board",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "H-bridge",
+        "I2C",
+        "MD25",
+        "motor",
+        "LM75B"
+    ],
+    "name": "MD25",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jimherd/code/MD25/"
+    }
+}

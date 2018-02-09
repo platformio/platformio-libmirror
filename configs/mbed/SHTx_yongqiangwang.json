@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Yongqiang Wang",
+        "url": "https://os.mbed.com/users/yongqiangwang/"
+    },
+    "description": "version one",
+    "frameworks": "mbed",
+    "keywords": [
+        "fischertechnik",
+        "ftlib",
+        "ftmsclib"
+    ],
+    "name": "SHTx",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yongqiangwang/code/SHTx/"
+    }
+}

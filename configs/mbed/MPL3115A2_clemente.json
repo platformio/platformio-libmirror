@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "clemente di caprio",
+        "url": "https://os.mbed.com/users/clemente/"
+    },
+    "description": "Llibrary for the WiGo MPL3115A2, I2C Precision Altimeter sensor.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "clock",
+        "ds1302",
+        "real",
+        "RTC",
+        "time"
+    ],
+    "name": "MPL3115A2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/clemente/code/MPL3115A2/"
+    }
+}

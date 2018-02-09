@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "takeshi yoshida",
+        "url": "https://os.mbed.com/users/gakuburu/"
+    },
+    "description": "lambdaController",
+    "frameworks": "mbed",
+    "keywords": [
+        "F401RE",
+        "Nucleo",
+        "USBHOST",
+        "Serial Communication",
+        "test console",
+        "test program",
+        "K64F",
+        "led",
+        "RF22",
+        "BUTTON",
+        "click"
+    ],
+    "name": "2016_lambdaController",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gakuburu/code/2016_lambdaController/"
+    }
+}

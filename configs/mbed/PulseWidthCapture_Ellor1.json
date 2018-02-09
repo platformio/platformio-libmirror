@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Callum Ellor",
+        "url": "https://os.mbed.com/users/Ellor1/"
+    },
+    "description": "Library to Capture the +ve and -ve Pulsewidth of a signal",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "frequency",
+        "measurement",
+        "Pulsewidth",
+        "circular buffer",
+        "FIFO",
+        "Queue",
+        "ring buffer",
+        "stack",
+        "Template"
+    ],
+    "name": "PulseWidthCapture",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Ellor1/code/PulseWidthCapture/"
+    }
+}

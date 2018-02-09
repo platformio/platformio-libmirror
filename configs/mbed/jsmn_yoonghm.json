@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "HM Yoong",
+        "url": "https://os.mbed.com/users/yoonghm/"
+    },
+    "description": "C-based memory friendly JSON parser based on Serge Zaitsev's JSMN (https://bitbucket.org/zserge/jsmn/wiki/Home)",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "JSON",
+        "Servo"
+    ],
+    "name": "jsmn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yoonghm/code/jsmn/"
+    }
+}

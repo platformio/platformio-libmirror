@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "ST Americas mbed Team",
+        "url": "https://os.mbed.com/teams/ST-Americas-mbed-Team/"
+    },
+    "description": "Bluetooth LE library for Nucleo board",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "watchdog",
+    "name": "Nucleo_BLE_API",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST-Americas-mbed-Team/code/Nucleo_BLE_API/"
+    }
+}

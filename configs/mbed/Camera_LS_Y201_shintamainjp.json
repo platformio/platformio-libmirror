@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "LinkSprite LS-Y201 JPEG Color Camera.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "ExpansionBoard",
+        "HTS221",
+        "LIS3MDL",
+        "lps25h",
+        "LSM6DS0",
+        "LSM6DS3",
+        "Nucleo",
+        "X-NUCLEO-IKS01A1",
+        "STM32F103C8T6",
+        "application board",
+        "LCD",
+        "4DGL-uLCD-SE",
+        "camera",
+        "color",
+        "JPEG",
+        "LinkSprite",
+        "LS-Y201",
+        "LPC4088"
+    ],
+    "name": "Camera_LS_Y201",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/Camera_LS_Y201/"
+    }
+}

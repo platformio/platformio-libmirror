@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "kibeom kim",
+        "url": "https://os.mbed.com/users/kkb4605/"
+    },
+    "description": "serial communication",
+    "frameworks": "mbed",
+    "keywords": [
+        "dynamixel",
+        "IOT",
+        "AX-12",
+        "ax12",
+        "ethernet",
+        "EthernetInterface",
+        "EthernetLibrary",
+        "W5500",
+        "WIZ550IO",
+        "Wiznet"
+    ],
+    "name": "serial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kkb4605/code/serial/"
+    }
+}

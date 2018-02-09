@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Jim Carver",
+        "url": "https://os.mbed.com/users/JimCarver/"
+    },
+    "description": "Added function to retrieve raw data from sensor",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "buttons",
+        "HEXIWEAR",
+        "KW40Z",
+        "2645",
+        "TMP102",
+        "2.4",
+        "MCUFRIEND.COM",
+        "Nucleo",
+        "TFT",
+        "bridge",
+        "I2C",
+        "SC16IS750",
+        "SC16IS752",
+        "SPI",
+        "UART",
+        "L152"
+    ],
+    "name": "MAG3110",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JimCarver/code/MAG3110/"
+    }
+}

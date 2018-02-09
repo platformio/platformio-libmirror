@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "Library for build-in ADC and DAC in STM32F446 mounted on Nucleo F446RE.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "FTP",
+        "ftpclient",
+        "adc",
+        "dac",
+        "interrupt",
+        "Nucleo F446",
+        "polling",
+        "STM32F446",
+        "MQTT",
+        "LIDAR Lite",
+        "LidarLite"
+    ],
+    "name": "F446_AD_DA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/F446_AD_DA/"
+    }
+}

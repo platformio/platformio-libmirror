@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "Class library for LCD character display ACM1602NI using I2C on Nucleo.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ACM1602NI",
+        "I2C",
+        "LCD",
+        "Nucleo",
+        "ADXL345",
+        "sparkfun"
+    ],
+    "name": "UIT_ACM1602NI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/UIT_ACM1602NI/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Chris Pepper",
+        "url": "https://os.mbed.com/users/p3p/"
+    },
+    "description": "A library to send and receive packets over serial, uses MODSERIAL",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Pokitto",
+        "checksum",
+        "packets",
+        "protocol",
+        "Serial",
+        "simple"
+    ],
+    "name": "SimpleSerialProtocol",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/p3p/code/SimpleSerialProtocol/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/"
+    },
+    "description": "Library for Bosch Sensortec BMI160 IMU",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "motor",
+        "Stepper"
+    ],
+    "name": "BMI160",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/code/BMI160/"
+    }
+}

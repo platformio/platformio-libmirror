@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "FRDM-K64F Code Share",
+        "url": "https://os.mbed.com/teams/FRDM-K64F-Code-Share/"
+    },
+    "description": "This library can be used to control a low-cost Adafruit 358 TFT display. It has basic functionality but is a starting point for others trying to control this type of display using the FRDM-K64F.",
+    "frameworks": "mbed",
+    "keywords": [
+        "assembly",
+        "exception",
+        "fault",
+        "handler",
+        "hardfault",
+        "registerdump",
+        "mbed",
+        "HTTPServer",
+        "358",
+        "Adafruit",
+        "TFT"
+    ],
+    "name": "Adafruit_358",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/FRDM-K64F-Code-Share/code/Adafruit_358/"
+    }
+}

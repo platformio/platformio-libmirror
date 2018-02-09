@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Dwayne Dilbeck",
+        "url": "https://os.mbed.com/users/jakowisp/"
+    },
+    "description": "Library to allo USB PTP device to be hosted by the mbed platform",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "inair4",
+        "inair8",
+        "inair9",
+        "Lora",
+        "modtronix",
+        "SX1276",
+        "HD44780",
+        "LCD",
+        "MT-16S2D",
+        "rus",
+        "Russian",
+        "text",
+        "TextLCD",
+        "TextLCD_Rus",
+        "buzzer",
+        "pwm",
+        "tone",
+        "tune",
+        "Host",
+        "mbed",
+        "PTP",
+        "USB"
+    ],
+    "name": "USBHostPTP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jakowisp/code/USBHostPTP/"
+    }
+}

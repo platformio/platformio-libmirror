@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "ADITYA RAJ",
+        "url": "https://os.mbed.com/users/ECESAT/"
+    },
+    "description": "Testing the GPS module for my Cansat",
+    "frameworks": "mbed",
+    "keywords": "Cansat_GPS",
+    "name": "Cansat_GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ECESAT/code/Cansat_GPS/"
+    }
+}

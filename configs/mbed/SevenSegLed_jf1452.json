@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Jon Fuge",
+        "url": "https://os.mbed.com/users/jf1452/"
+    },
+    "description": "このライブラリは１桁から８桁までのSeven segment Numeric LEDを制御します。",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "led",
+        "numeric",
+        "Seven-Segment",
+        "PCF2129",
+        "RTC"
+    ],
+    "name": "SevenSegLed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jf1452/code/SevenSegLed/"
+    }
+}

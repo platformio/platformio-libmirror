@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Oskar Weigl",
+        "url": "https://os.mbed.com/users/madcowswe/"
+    },
+    "description": "Working lib for qq v2",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "MCB1700",
+        "STMPE811",
+        "Touchscreen",
+        "ICRS",
+        "rf12B"
+    ],
+    "name": "RF12B",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/madcowswe/code/RF12B/"
+    }
+}

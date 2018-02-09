@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Telesensorics",
+        "url": "https://os.mbed.com/teams/Telesensorics/"
+    },
+    "description": "Provides an interface to an AX-12A servo. Requires the Dynamixel bus protocol library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "dynamixel",
+        "IOT",
+        "AX-12",
+        "ax12",
+        "ethernet",
+        "EthernetInterface",
+        "EthernetLibrary",
+        "W5500",
+        "WIZ550IO",
+        "Wiznet"
+    ],
+    "name": "AX-12A",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Telesensorics/code/AX-12A/"
+    }
+}

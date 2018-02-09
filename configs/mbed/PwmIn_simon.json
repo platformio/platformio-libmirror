@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://os.mbed.com/users/simon/"
+    },
+    "description": "An interface to read a PWM input signal, using InterruptIn",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "KL25z",
+        "LPC800-MAX",
+        "LPC812",
+        "powerdown",
+        "Sleep",
+        "wake-up",
+        "NeoPixel",
+        "NeoPixels",
+        "WS2811",
+        "WS2812",
+        "WS2812B",
+        "InterruptIn",
+        "PwmIn"
+    ],
+    "name": "PwmIn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/simon/code/PwmIn/"
+    }
+}

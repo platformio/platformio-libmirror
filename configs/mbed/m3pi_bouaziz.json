@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Samir Bouaziz",
+        "url": "https://os.mbed.com/users/bouaziz/"
+    },
+    "description": "function correction on motor control",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ELEC3880",
+        "gait",
+        "hexapod",
+        "Leeds",
+        "PCA9685",
+        "robot",
+        "Servo",
+        "M2PI",
+        "paris",
+        "polytech",
+        "pour",
+        "sud",
+        "elec2645",
+        "display",
+        "output",
+        "128",
+        "ACE",
+        "bourns",
+        "Encoder"
+    ],
+    "name": "m3pi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bouaziz/code/m3pi/"
+    }
+}

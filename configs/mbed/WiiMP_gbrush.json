@@ -1,0 +1,40 @@
+{
+    "authors": {
+        "name": "Greg Brush",
+        "url": "https://os.mbed.com/users/gbrush/"
+    },
+    "description": "Connect to a Wii Motion Plus (compatible) unit with no pass through or other controllers connected. The Motion Plus is a 3-axis gyroscope add-on w/Invensense IDG655 & IXZ650 MEMS gyros communicating via I2C @ 100KHz clock (some may do 400KHz)",
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "ip",
+        "mbed",
+        "EEPROM",
+        "hotboards",
+        "storage",
+        "gyro",
+        "IDG655",
+        "invensense",
+        "IXZ650",
+        "motionplus",
+        "Wii",
+        "LPC4088",
+        "watchdog",
+        "WDT",
+        "Host",
+        "hub",
+        "Isochronous",
+        "keyboard",
+        "Mouse",
+        "MSD",
+        "rtos",
+        "Serial",
+        "USB"
+    ],
+    "name": "WiiMP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gbrush/code/WiiMP/"
+    }
+}

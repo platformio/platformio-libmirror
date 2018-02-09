@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "terence zhang",
+        "url": "https://os.mbed.com/users/terencez/"
+    },
+    "description": "pick up wakaama files from https://github.com/eclipse/wakaama",
+    "frameworks": "mbed",
+    "keywords": "wakaama",
+    "name": "wakaama",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/terencez/code/wakaama/"
+    }
+}

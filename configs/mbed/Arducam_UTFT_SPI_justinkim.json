@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "justin kim",
+        "url": "https://os.mbed.com/users/justinkim/"
+    },
+    "description": "Arducam_UTFT_SPI_Library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Arducam",
+        "UTFT",
+        "adc",
+        "AnalogIn",
+        "burst",
+        "fast"
+    ],
+    "name": "Arducam_UTFT_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/justinkim/code/Arducam_UTFT_SPI/"
+    }
+}

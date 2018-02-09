@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Sylvain Savon",
+        "url": "https://os.mbed.com/users/capsavon/"
+    },
+    "description": "BSP library for DISCO-STM32F746NG board.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "AMS",
+        "AS5045",
+        "SPI",
+        "DISCO-STM32F746NG",
+        "flash",
+        "QSPI",
+        "ST"
+    ],
+    "name": "BSP_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/capsavon/code/BSP_DISCO_F746NG/"
+    }
+}

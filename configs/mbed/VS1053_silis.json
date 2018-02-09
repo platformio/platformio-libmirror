@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Vassilis Serasidis",
+        "url": "https://os.mbed.com/users/silis/"
+    },
+    "description": "A simple library for decoding MP3 files with the VS1053 CoDec chip.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "5110",
+        "shower",
+        "31865",
+        "max",
+        "max31865",
+        "mp3",
+        "VS1053",
+        "W7500",
+        "WIZwiki"
+    ],
+    "name": "VS1053",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/silis/code/VS1053/"
+    }
+}

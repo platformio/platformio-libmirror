@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Daniele Lacamera",
+        "url": "https://os.mbed.com/users/daniele/"
+    },
+    "description": "Free (GPLv2) TCP/IP stack developed by TASS Belgium",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "MQTT",
+        "max31855",
+        "MAX6675",
+        "Thermocouple",
+        "arp",
+        "broadcast",
+        "DHCP",
+        "dns",
+        "ethernet",
+        "free",
+        "GPL",
+        "IGMP",
+        "ip",
+        "multicast",
+        "sockets",
+        "TCP",
+        "tcp/ip",
+        "tcpip stack",
+        "UDP",
+        "7",
+        "display",
+        "segment"
+    ],
+    "name": "PicoTCP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/daniele/code/PicoTCP/"
+    }
+}

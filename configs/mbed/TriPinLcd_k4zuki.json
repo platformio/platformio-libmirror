@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Kazuki Yamamoto",
+        "url": "https://os.mbed.com/users/k4zuki/"
+    },
+    "description": "HD44780 compatible 16x2 character LCD driver with HC595 shiftregister",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "HD44780",
+        "I2C multiplexer",
+        "PCA9547",
+        "basicauth"
+    ],
+    "name": "TriPinLcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/k4zuki/code/TriPinLcd/"
+    }
+}

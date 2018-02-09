@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Karl Zweimüller",
+        "url": "https://os.mbed.com/users/charly/"
+    },
+    "description": "Extendes Version of TextLCD which scrolls oversized lines.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "call",
+        "Procedure",
+        "remote",
+        "rpc",
+        "CAN",
+        "MCP2515",
+        "LCD",
+        "Scroll",
+        "TextLCD"
+    ],
+    "name": "TextLCDScroll",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/charly/code/TextLCDScroll/"
+    }
+}

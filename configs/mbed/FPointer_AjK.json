@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Andy Kirkham",
+        "url": "https://os.mbed.com/users/AjK/"
+    },
+    "description": "FPointer - A callback system that allows for 32bit unsigned ints to be passed to and from the callback.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "AD",
+        "da",
+        "MCP4921",
+        "MCP4922",
+        "Nucleo",
+        "SPI",
+        "UIT",
+        "accelerometer",
+        "I2C",
+        "LIS3DH",
+        "Callback",
+        "FunctionPointer",
+        "Functor",
+        "esc",
+        "pwm",
+        "RC"
+    ],
+    "name": "FPointer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AjK/code/FPointer/"
+    }
+}

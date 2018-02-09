@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "UH Robotics",
+        "url": "https://os.mbed.com/teams/UH-Robotics/"
+    },
+    "description": "Sharp IR Distance Sensor",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "Sharp",
+    "name": "Sharp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/UH-Robotics/code/Sharp/"
+    }
+}

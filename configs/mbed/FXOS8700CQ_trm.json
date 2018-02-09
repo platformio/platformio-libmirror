@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Thomas Murphy",
+        "url": "https://os.mbed.com/users/trm/"
+    },
+    "description": "An in-development library to provide effective access to all features of the FXOS8700CQ on the FRDM-K64F mbed-enabled development board. As of 28 May 2014 1325EDT, the code should be generally usable and modifiable.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "FRDM-K64F",
+        "fxos8700cq"
+    ],
+    "name": "FXOS8700CQ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/trm/code/FXOS8700CQ/"
+    }
+}

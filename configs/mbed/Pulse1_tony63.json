@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Gustavo Ramirez",
+        "url": "https://os.mbed.com/users/tony63/"
+    },
+    "description": "PARA IRDA",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LM75B",
+        "MSS",
+        "MSU",
+        "sensor",
+        "Temperature",
+        "copter",
+        "PPM",
+        "quad"
+    ],
+    "name": "Pulse1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tony63/code/Pulse1/"
+    }
+}

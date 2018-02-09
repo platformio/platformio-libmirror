@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Jessy Nadeau",
+        "url": "https://os.mbed.com/users/nadj2608/"
+    },
+    "description": "V1",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "A4982",
+        "A4983 smart step 3d printing",
+        "rap",
+        "rep",
+        "Stepper",
+        "printer",
+        "shield"
+    ],
+    "name": "MMA8452Q",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nadj2608/code/MMA8452Q/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "A library for the SIM900 module to enable calling, answering, sending and receiving SMS messages",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "rgb",
+        "SDFileSystem",
+        "STM32F746",
+        "accelerometer",
+        "GSM",
+        "SMS"
+    ],
+    "name": "GSM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/GSM/"
+    }
+}

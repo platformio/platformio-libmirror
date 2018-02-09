@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Victor Hugo Sillerico Justo",
+        "url": "https://os.mbed.com/users/victorsillerico/"
+    },
+    "description": "This library let you work with an infrared sensor",
+    "frameworks": "mbed",
+    "keywords": [
+        "infrared",
+        "Obstacle detection",
+        "by",
+        "controller",
+        "dual",
+        "micro",
+        "motor",
+        "pololu",
+        "Serial"
+    ],
+    "name": "Infrarrojo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/victorsillerico/code/Infrarrojo/"
+    }
+}

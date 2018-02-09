@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Dave Van Wagner",
+        "url": "https://os.mbed.com/users/davervw/"
+    },
+    "description": "Software SPI allows non-standard SPI pins to be used for interfacing with SPI devices",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "C12832",
+        "LCD",
+        "rtos",
+        "Serial",
+        "UART",
+        "SPI",
+        "camera",
+        "OV7670",
+        "KL25z",
+        "MAG3110",
+        "Wi-Go",
+        "SB1602B",
+        "SB1602E",
+        "ST7032",
+        "Text LCD",
+        "TextLCD_SB1602E"
+    ],
+    "name": "SWSPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/davervw/code/SWSPI/"
+    }
+}

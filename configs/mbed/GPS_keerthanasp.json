@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Keerthana Santhi Pethappan",
+        "url": "https://os.mbed.com/users/keerthanasp/"
+    },
+    "description": "GPS",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "nRF51-DK",
+        "RTC",
+        "time",
+        "Radio",
+        "rf",
+        "rfm69",
+        "mbed"
+    ],
+    "name": "GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/keerthanasp/code/GPS/"
+    }
+}

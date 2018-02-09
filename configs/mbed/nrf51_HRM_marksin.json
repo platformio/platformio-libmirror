@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Marksin Qiu",
+        "url": "https://os.mbed.com/users/marksin/"
+    },
+    "description": "BLE_HRM",
+    "frameworks": "mbed",
+    "keywords": "nrf51_HRM",
+    "name": "nrf51_HRM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/marksin/code/nrf51_HRM/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Roy van Dam",
+        "url": "https://os.mbed.com/users/NegativeBlack/"
+    },
+    "description": "A new object oriented network api that can be used to replace the one provided by the EthernetInterface library.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "BME280",
+        "cpp",
+        "ethernet",
+        "network",
+        "TCP",
+        "UDP",
+        "DHT22",
+        "RHT03"
+    ],
+    "name": "NetworkAPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/NegativeBlack/code/NetworkAPI/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "AB&T",
+        "url": "https://os.mbed.com/users/EasyCAT/"
+    },
+    "description": "EasyCAT shield library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "EasyCAT",
+        "etherCAT",
+        "ethernet",
+        "fieldbus",
+        "shield",
+        "display",
+        "monochrome"
+    ],
+    "name": "EasyCAT_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/EasyCAT/code/EasyCAT_lib/"
+    }
+}

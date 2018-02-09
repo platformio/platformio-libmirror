@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Michael Shimniok",
+        "url": "https://os.mbed.com/users/shimniok/"
+    },
+    "description": "Interface library for ST L3G4200D gyro ported from Pololu.com L3G4200D Arduino library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "audio",
+        "bwf",
+        "file",
+        "wav",
+        "wave",
+        "modbus rtu",
+        "real time",
+        "rtos",
+        "serial protocol",
+        "IMU",
+        "MPU9150",
+        "gyro"
+    ],
+    "name": "L3G4200D",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shimniok/code/L3G4200D/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Martin Kojtal",
+        "url": "https://os.mbed.com/users/Kojto/"
+    },
+    "description": "cc3000 hostdriver with the mbed socket interface",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "SimpleLink-Wi-Fi-CC3000",
+        "Avnet-Wi-Go-System"
+    ],
+    "name": "cc3000_hostdriver_mbedsocket",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Kojto/code/cc3000_hostdriver_mbedsocket/"
+    }
+}

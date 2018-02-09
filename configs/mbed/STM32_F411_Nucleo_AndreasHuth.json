@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Andreas Huth",
+        "url": "https://os.mbed.com/users/AndreasHuth/"
+    },
+    "description": "Ablage der Daten",
+    "frameworks": "mbed",
+    "keywords": [
+        "api",
+        "CSR",
+        "GPS",
+        "Nucleo",
+        "STM32F446",
+        "USBDevice",
+        "Adafruit",
+        "LCD",
+        "S6D02A1",
+        "ST7735",
+        "TFT"
+    ],
+    "name": "STM32_F411_Nucleo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AndreasHuth/code/STM32_F411_Nucleo/"
+    }
+}

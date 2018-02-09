@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Jim Flynn",
+        "url": "https://os.mbed.com/users/JMF/"
+    },
+    "description": "This library has been extended by providing an HTTPSClass for secure transactions using the ARMmbed TLS library.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "at25sf041",
+        "flash",
+        "SPI",
+        "PID"
+    ],
+    "name": "HTTPClient-JMF",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JMF/code/HTTPClient-JMF/"
+    }
+}

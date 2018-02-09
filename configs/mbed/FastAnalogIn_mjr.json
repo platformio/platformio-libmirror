@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Mike R",
+        "url": "https://os.mbed.com/users/mjr/"
+    },
+    "description": "Class similar to AnalogIn that uses burst mode to run continious background conversions so when the input is read, the last value can immediatly be returned. This slightly modified version allows NC pins.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Arducam",
+        "UTFT",
+        "adc",
+        "AnalogIn",
+        "burst",
+        "fast"
+    ],
+    "name": "FastAnalogIn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mjr/code/FastAnalogIn/"
+    }
+}

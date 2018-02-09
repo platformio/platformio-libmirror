@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Chris Womack",
+        "url": "https://os.mbed.com/users/redbird/"
+    },
+    "description": "Headers for emWin lib",
+    "frameworks": "mbed",
+    "keywords": [
+        "dynamixel",
+        "MX28",
+        "RS485",
+        "IOT",
+        "lpwan",
+        "sigfox",
+        "MX64"
+    ],
+    "name": "emwin",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/redbird/code/emwin/"
+    }
+}

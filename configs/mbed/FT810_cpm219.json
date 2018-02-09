@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Curtis Mattull",
+        "url": "https://os.mbed.com/users/cpm219/"
+    },
+    "description": "Library for FT810 EVE chip",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "I2C",
+        "led",
+        "nxp",
+        "PCA9685",
+        "pwm",
+        "Servo"
+    ],
+    "name": "FT810",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cpm219/code/FT810/"
+    }
+}

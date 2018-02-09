@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Philip Smith",
+        "url": "https://os.mbed.com/users/harrypowers/"
+    },
+    "description": "Class for using BMP180 Bosch Pressure sensor",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ax12",
+        "Servo",
+        "BMP180",
+        "pressure",
+        "sensor",
+        "gauge",
+        "rain",
+        "Speed",
+        "vane",
+        "wind"
+    ],
+    "name": "BMP180",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/harrypowers/code/BMP180/"
+    }
+}

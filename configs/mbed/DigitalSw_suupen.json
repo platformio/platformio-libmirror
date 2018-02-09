@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "suu pen",
+        "url": "https://os.mbed.com/users/suupen/"
+    },
+    "description": "This library is push button or dipSw noise cancel and on/off edge recognition",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "conversion",
+        "Thermocouple",
+        "BUTTON",
+        "cancel",
+        "DIP",
+        "noise",
+        "push",
+        "SW"
+    ],
+    "name": "DigitalSw",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/suupen/code/DigitalSw/"
+    }
+}

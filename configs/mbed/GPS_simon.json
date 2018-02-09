@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://os.mbed.com/users/simon/"
+    },
+    "description": "Library for the EM-406 GPS module",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "EM406-GPS-Module",
+        "BR-355-GPS"
+    ],
+    "name": "GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/simon/code/GPS/"
+    }
+}

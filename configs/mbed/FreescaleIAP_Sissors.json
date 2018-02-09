@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "IAP code for Freescale platforms",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Composite",
+        "USB",
+        "USBKeyboard",
+        "usbserial",
+        "4",
+        "buttons",
+        "convert",
+        "Slider",
+        "to",
+        "touch"
+    ],
+    "name": "FreescaleIAP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/FreescaleIAP/"
+    }
+}

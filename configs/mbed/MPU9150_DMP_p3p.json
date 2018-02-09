@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Chris Pepper",
+        "url": "https://os.mbed.com/users/p3p/"
+    },
+    "description": "The MPU9150s biggest selling point was its internal Motion Processor to offload the sensor fusion from the host processor, this library uploads the firmware to generate quaternions from the sensors. The API needs work but as other libraries don't support the DMP supplying as is.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "DMP",
+        "motion",
+        "MPU9150",
+        "processor",
+        "MPU-6050",
+        "MPU6050",
+        "MPU6050-DMP",
+        "CAN",
+        "message"
+    ],
+    "name": "MPU9150_DMP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/p3p/code/MPU9150_DMP/"
+    }
+}

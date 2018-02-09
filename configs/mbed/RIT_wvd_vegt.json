@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Wim van der Vegt",
+        "url": "https://os.mbed.com/users/wvd_vegt/"
+    },
+    "description": "RIT (Repetitive Interrupt Timer) Library.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "SuperTweet",
+        "RIT",
+        "SHT21",
+        "adc",
+        "dac",
+        "I2C",
+        "PCF8591",
+        "IEEE",
+        "mbed",
+        "micromouse",
+        "UCLA"
+    ],
+    "name": "RIT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wvd_vegt/code/RIT/"
+    }
+}

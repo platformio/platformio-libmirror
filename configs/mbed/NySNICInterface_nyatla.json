@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Ryo Iizuka",
+        "url": "https://os.mbed.com/users/nyatla/"
+    },
+    "description": "customized SNICInterface",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "bmp280",
+        "AT42QT2100",
+        "QT2100",
+        "QTouch"
+    ],
+    "name": "NySNICInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nyatla/code/NySNICInterface/"
+    }
+}

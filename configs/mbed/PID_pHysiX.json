@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Ian Hua",
+        "url": "https://os.mbed.com/users/pHysiX/"
+    },
+    "description": "PID control library forked from Aaron Berk.",
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed",
+        "dac",
+        "Host",
+        "Isochronous",
+        "USB",
+        "PID",
+        "RenBuggy"
+    ],
+    "name": "PID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pHysiX/code/PID/"
+    }
+}

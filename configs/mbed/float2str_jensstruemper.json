@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Jens Strümper",
+        "url": "https://os.mbed.com/users/jensstruemper/"
+    },
+    "description": "float2str converts floating point numbers to a character array. Its purpose is to",
+    "frameworks": "mbed",
+    "keywords": [
+        "CNCAirbrush",
+        "conversion",
+        "float",
+        "string",
+        "EA",
+        "Graphics",
+        "OLED",
+        "SPI"
+    ],
+    "name": "float2str",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jensstruemper/code/float2str/"
+    }
+}

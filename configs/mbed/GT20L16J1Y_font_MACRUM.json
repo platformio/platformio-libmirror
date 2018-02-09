@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Toyomasa Watarai",
+        "url": "https://os.mbed.com/users/MACRUM/"
+    },
+    "description": "GT20L16J1Y 16x16 Japanese font ROM access library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "controller",
+        "I2C",
+        "Wii",
+        "led",
+        "rgb",
+        "WS2812",
+        "WS2812B"
+    ],
+    "name": "GT20L16J1Y_font",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MACRUM/code/GT20L16J1Y_font/"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "francesco fantoni",
+        "url": "https://os.mbed.com/users/hvfrancesco/"
+    },
+    "description": "a modified version of N5110 library to be used with freescale boards",
+    "frameworks": "mbed",
+    "keywords": [
+        "asynchronous",
+        "Buffered",
+        "FIFO",
+        "Non blocking",
+        "ring buffer",
+        "Serial",
+        "UART",
+        "arp",
+        "icmp",
+        "interrupts",
+        "stack",
+        "tcpip",
+        "UDP",
+        "5110",
+        "84x48",
+        "display",
+        "Nokia"
+    ],
+    "name": "N5110",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hvfrancesco/code/N5110/"
+    }
+}

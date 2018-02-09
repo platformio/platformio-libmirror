@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Tom Kreyche",
+        "url": "https://os.mbed.com/users/tkreyche/"
+    },
+    "description": "The AD7190 is a low noise, complete analog front end for high precision measurement applications. It contains a low noise, 24-bit sigma-delta (Σ-Δ) analog-to-digital converter (ADC). The on-chip low noise gain stage means that signals of small amplitude can be interfaced directly to the ADC.",
+    "frameworks": "mbed",
+    "keywords": [
+        "infrared",
+        "IR",
+        "Multiprotocol",
+        "NEC",
+        "RC5",
+        "RC6"
+    ],
+    "name": "AD7190 ULTRALOW NOISE 24-BIT SIGMA-DELTA ADC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tkreyche/code/AD7190-ULTRALOW-NOISE-24-BIT-SIGMA-DELTA/"
+    }
+}

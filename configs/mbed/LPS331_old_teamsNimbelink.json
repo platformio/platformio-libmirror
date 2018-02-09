@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "NimbeLink",
+        "url": "https://os.mbed.com/teams/Nimbelink/"
+    },
+    "description": "Fork of original LPS331 library",
+    "frameworks": "mbed",
+    "keywords": "mbed",
+    "name": "LPS331_old",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nimbelink/code/LPS331_old/"
+    }
+}

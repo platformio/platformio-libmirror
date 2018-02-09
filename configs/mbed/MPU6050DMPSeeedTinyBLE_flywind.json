@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "YUFEI JIANG",
+        "url": "https://os.mbed.com/users/flywind/"
+    },
+    "description": "MPU6050-DMP-Seeed-Tiny-BLE",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "controller",
+        "PID"
+    ],
+    "name": "MPU6050-DMP-Seeed-Tiny-BLE",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/flywind/code/MPU6050-DMP-Seeed-Tiny-BLE/"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Yifei Teng",
+        "url": "https://os.mbed.com/users/tyftyftyf/"
+    },
+    "description": "High resolution barometer and altimeter using i2c mode.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "MS561101BA",
+    "name": "MS561101BA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tyftyftyf/code/MS561101BA/"
+    }
+}

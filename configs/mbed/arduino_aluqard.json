@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "SE HUI PARK",
+        "url": "https://os.mbed.com/users/aluqard/"
+    },
+    "description": "arduino library for mbed",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "PS2",
+        "driver",
+        "Graphics",
+        "ILI9340",
+        "LCD",
+        "SPI",
+        "TFT",
+        "distance",
+        "eco",
+        "range",
+        "sonic",
+        "Ultra",
+        "GPIO",
+        "Beep",
+        "merody",
+        "sound"
+    ],
+    "name": "arduino",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aluqard/code/arduino/"
+    }
+}

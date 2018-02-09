@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Hiroshi Yamaguchi",
+        "url": "https://os.mbed.com/users/yamaguch/"
+    },
+    "description": "Station API",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "station",
+        "3310",
+        "3390",
+        "LCD",
+        "Nokia",
+        "pcd8544",
+        "TextLCD"
+    ],
+    "name": "Station",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yamaguch/code/Station/"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "ぐり (tessecraft)",
+        "url": "https://os.mbed.com/users/ztztno1/"
+    },
+    "description": "The library for Shift Register (ex. 74595).",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "filesystem",
+        "MSD",
+        "SD",
+        "USB",
+        "accelerometer",
+        "fxos8700cq",
+        "I2C",
+        "magnetometer",
+        "mbed myoware",
+        "muscle sensor",
+        "myoware"
+    ],
+    "name": "SPIShiftReg",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ztztno1/code/SPIShiftReg/"
+    }
+}

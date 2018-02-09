@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Romain Berrada",
+        "url": "https://os.mbed.com/users/rominos2/"
+    },
+    "description": "A simple Menu Library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "MQTT",
+        "MQTTClient",
+        "GUI",
+        "menu",
+        "Serial"
+    ],
+    "name": "Menu",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rominos2/code/Menu/"
+    }
+}

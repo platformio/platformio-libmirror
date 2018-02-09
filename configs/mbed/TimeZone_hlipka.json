@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Hendrik Lipka",
+        "url": "https://os.mbed.com/users/hlipka/"
+    },
+    "description": "This library takes the current time (which must be set to UTC, e.g. via an NTP call), and applies a timezone definition (loaded at startup) to calculate the local time. This includes the handling of daylight saving.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "time",
+        "timezone"
+    ],
+    "name": "TimeZone",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hlipka/code/TimeZone/"
+    }
+}

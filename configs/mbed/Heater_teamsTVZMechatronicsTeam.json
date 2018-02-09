@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "TVZ Mechatronics Team",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/"
+    },
+    "description": "Simple heater library for controlling the temperature via analog temperature sensor and digital heater output.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "74hc595",
+        "Adafruit",
+        "arduino",
+        "FRDM-KL46Z",
+        "L293D",
+        "motor",
+        "motorshield",
+        "pwm",
+        "WS2811",
+        "WS2812",
+        "WS2812B",
+        "control",
+        "FRDM-K64F",
+        "Heater",
+        "PID",
+        "Temperature",
+        "DA7212",
+        "I2S",
+        "TLV320"
+    ],
+    "name": "Heater",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/Heater/"
+    }
+}

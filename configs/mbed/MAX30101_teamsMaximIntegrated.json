@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/"
+    },
+    "description": "Library for MAX30101 SpO2 and heart rate sensor",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "DOG",
+        "LCD",
+        "ST7036",
+        "TextLCD",
+        "AT",
+        "C027",
+        "C030",
+        "CellularInterface",
+        "u-blox"
+    ],
+    "name": "MAX30101",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/code/MAX30101/"
+    }
+}

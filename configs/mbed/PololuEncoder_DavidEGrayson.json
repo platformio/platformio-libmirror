@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "David Grayson",
+        "url": "https://os.mbed.com/users/DavidEGrayson/"
+    },
+    "description": "Library for decoding quadrature encoders. Uses a ring buffer so you can be sure to process every tick in the order that it happened. This library is not really intended for public use yet and does not have much documentation.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "assembly",
+        "exception",
+        "fault",
+        "handler",
+        "hardfault",
+        "registerdump",
+        "mbed",
+        "HTTPServer",
+        "358",
+        "Adafruit",
+        "TFT"
+    ],
+    "name": "PololuEncoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DavidEGrayson/code/PololuEncoder/"
+    }
+}

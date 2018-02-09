@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Francis Schumacher",
+        "url": "https://os.mbed.com/users/fxschumacher/"
+    },
+    "description": "An attempt to provide a Real Time Clock for the nRF51-DK. This code provides rtc.time and rtc.set_time replacements for the similarly named C standard methods (unimplemented for nRF51-DK last I checked). Not very well tested, but it seems to work for simple applications.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "nRF51-DK",
+        "RTC",
+        "time",
+        "Radio",
+        "rf",
+        "rfm69",
+        "mbed"
+    ],
+    "name": "nrf51_rtc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fxschumacher/code/nrf51_rtc/"
+    }
+}

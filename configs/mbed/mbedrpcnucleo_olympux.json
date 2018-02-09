@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Chau Vo",
+        "url": "https://os.mbed.com/users/olympux/"
+    },
+    "description": "Added NUCLEO-F103RB support",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Celsius",
+        "driver",
+        "I2C",
+        "LM75B",
+        "nxp",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "mbed-rpc-nucleo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/olympux/code/mbed-rpc-nucleo/"
+    }
+}

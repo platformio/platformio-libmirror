@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Frank Vannieuwkerke",
+        "url": "https://os.mbed.com/users/frankvnk/"
+    },
+    "description": "Library for ISL29125 - I2C RGB ambient light sensor",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "nRF2401A",
+        "ALS",
+        "ambient light sensor",
+        "I2C",
+        "ISL29125",
+        "rgb",
+        "GPS"
+    ],
+    "name": "ISL29125",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/frankvnk/code/ISL29125/"
+    }
+}

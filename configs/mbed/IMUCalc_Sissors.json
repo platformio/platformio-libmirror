@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "Never actually tested in practise",
+    "frameworks": "mbed",
+    "keywords": [
+        "dac",
+        "MAX500",
+        "SPI",
+        "AHRS",
+        "calculations",
+        "IMU"
+    ],
+    "name": "IMUCalc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/IMUCalc/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Doug Anson",
+        "url": "https://os.mbed.com/users/ansond/"
+    },
+    "description": "Library for the Grove Earbud Heartrate Sensor",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "cmsis",
+        "rtos",
+        "RTX",
+        "digitalOut",
+        "led",
+        "Grove",
+        "heartrate",
+        "sensor"
+    ],
+    "name": "GroveEarbudSensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ansond/code/GroveEarbudSensor/"
+    }
+}

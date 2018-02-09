@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "David Godfrey",
+        "url": "https://os.mbed.com/users/sbts/"
+    },
+    "description": "A driver code library for Text LCD panels using the 4-bit HD44780 lcd display driver.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "api",
+        "16x2",
+        "20x2",
+        "20X4",
+        "40x2",
+        "HD4478",
+        "TextLCD"
+    ],
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sbts/code/TextLCD/"
+    }
+}

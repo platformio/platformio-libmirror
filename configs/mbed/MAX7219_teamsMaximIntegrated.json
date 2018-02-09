@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/"
+    },
+    "description": "Library for the MAX7219 LED display driver",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "tcp/ip",
+        "WiFly",
+        "WiflyInterface"
+    ],
+    "name": "MAX7219",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/code/MAX7219/"
+    }
+}

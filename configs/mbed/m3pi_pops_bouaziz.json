@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Samir Bouaziz",
+        "url": "https://os.mbed.com/users/bouaziz/"
+    },
+    "description": "corrected error assignation of motors in methods right and left. now it work fun.",
+    "frameworks": "mbed",
+    "keywords": [
+        "arithmetic",
+        "Expression",
+        "Linear",
+        "matrix",
+        "Template",
+        "vector",
+        "NeoPixel",
+        "WS2811",
+        "WS2812"
+    ],
+    "name": "m3pi_pops",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bouaziz/code/m3pi_pops/"
+    }
+}

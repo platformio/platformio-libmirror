@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Stefan Nielsen",
+        "url": "https://os.mbed.com/users/Julepalme/"
+    },
+    "description": "Code for controlling servos using the TLC5940 pwm led driver.",
+    "frameworks": "mbed",
+    "keywords": "TLC5940",
+    "name": "TLC5940",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Julepalme/code/TLC5940/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Andrew L",
+        "url": "https://os.mbed.com/users/AndrewL/"
+    },
+    "description": "mbos",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "v3",
+        "ChaNFS",
+        "mass",
+        "storage",
+        "USB"
+    ],
+    "name": "mbos",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AndrewL/code/mbos/"
+    }
+}

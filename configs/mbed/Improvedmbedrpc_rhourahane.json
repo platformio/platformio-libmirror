@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Robin Hourahane",
+        "url": "https://os.mbed.com/users/rhourahane/"
+    },
+    "description": "Improved RPC library with added bounds checking to stop memory corruption, removed memory leaks, Arduino pin names, better object discovery.",
+    "frameworks": "mbed",
+    "keywords": "Improved-mbed-rpc",
+    "name": "Improved-mbed-rpc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rhourahane/code/Improved-mbed-rpc/"
+    }
+}

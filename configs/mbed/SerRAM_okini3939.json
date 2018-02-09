@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "Serial RAM (SPI SRAM) library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "myTimer",
+        "23K256",
+        "23LC1024",
+        "DMA",
+        "FIFO",
+        "RAM",
+        "ring buffer",
+        "SPI",
+        "sram",
+        "dac"
+    ],
+    "name": "SerRAM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/SerRAM/"
+    }
+}

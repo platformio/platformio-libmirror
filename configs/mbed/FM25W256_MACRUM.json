@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Toyomasa Watarai",
+        "url": "https://os.mbed.com/users/MACRUM/"
+    },
+    "description": "Cypress F-RAM FM25W256 library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "dac",
+        "MCP4728",
+        "cypress",
+        "F-RAM",
+        "piezo",
+        "pwm"
+    ],
+    "name": "FM25W256",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MACRUM/code/FM25W256/"
+    }
+}

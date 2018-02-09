@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Toby Harris",
+        "url": "https://os.mbed.com/users/tobyspark/"
+    },
+    "description": "RS232 control for TVOne products",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "real-time clock",
+        "RTC",
+        "software",
+        "Ticker"
+    ],
+    "name": "SPK-TVOne",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tobyspark/code/SPK-TVOne/"
+    }
+}

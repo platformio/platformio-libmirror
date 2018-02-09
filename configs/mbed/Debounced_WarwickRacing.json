@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Warwick Racing",
+        "url": "https://os.mbed.com/users/WarwickRacing/"
+    },
+    "description": "Debouncing library (not mine)",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "BME280",
+        "I2C",
+        "RHT",
+        "sensor",
+        "Si7013",
+        "Si7020",
+        "Si7021",
+        "Silicon Labs",
+        "silicon_labs",
+        "siliconlabs"
+    ],
+    "name": "Debounced",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WarwickRacing/code/Debounced/"
+    }
+}

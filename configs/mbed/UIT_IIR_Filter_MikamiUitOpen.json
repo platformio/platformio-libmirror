@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "縦続形 IIR フィルタ用ライブラリ．",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "biduad",
+        "cascade structure",
+        "IIR filter",
+        "Nucleo",
+        "UIT",
+        "ITDB_02",
+        "TFTCLD",
+        "Touch Screen",
+        "Touchscreen",
+        "XPT2046",
+        "BME280"
+    ],
+    "name": "UIT_IIR_Filter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/UIT_IIR_Filter/"
+    }
+}

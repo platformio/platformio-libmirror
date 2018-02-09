@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "榎本 裕佑",
+        "url": "https://os.mbed.com/users/enomoto/"
+    },
+    "description": "LEDをtoggleします。TEST用",
+    "frameworks": "mbed",
+    "keywords": "LED_TOGGLE",
+    "name": "LED_TOGGLE",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/enomoto/code/LED_TOGGLE/"
+    }
+}

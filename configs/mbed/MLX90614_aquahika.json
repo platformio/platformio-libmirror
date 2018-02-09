@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Hikaru Sugiura",
+        "url": "https://os.mbed.com/users/aquahika/"
+    },
+    "description": "Melexis MLX90614 library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Melexis",
+        "MLX90614",
+        "2x40",
+        "40x2",
+        "HD44780",
+        "LCD",
+        "ST7066U",
+        "AnalogIn"
+    ],
+    "name": "MLX90614",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aquahika/code/MLX90614/"
+    }
+}

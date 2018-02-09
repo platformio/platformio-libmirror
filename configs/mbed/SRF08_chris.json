@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Chris Styles",
+        "url": "https://os.mbed.com/users/chris/"
+    },
+    "description": "SRF08 Libraray",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Akizuki",
+        "character",
+        "I2C",
+        "LCD",
+        "Digital",
+        "Input",
+        "output",
+        "pulse",
+        "3",
+        "joystick",
+        "playstation"
+    ],
+    "name": "SRF08",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chris/code/SRF08/"
+    }
+}

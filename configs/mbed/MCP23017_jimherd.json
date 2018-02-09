@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "jim herd",
+        "url": "https://os.mbed.com/users/jimherd/"
+    },
+    "description": "Basic library of routines to interface to a Microchip MCP23017 16-bit I/O expander using an I2C interface.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Cup",
+        "Freescale",
+        "6100",
+        "6610",
+        "mobileLCD",
+        "NokiaLCD",
+        "Olimex",
+        "PCF8833",
+        "sparkfun",
+        "I2C",
+        "MCP23017",
+        "wattbob",
+        "tcp/ip",
+        "WebSocket"
+    ],
+    "name": "MCP23017",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jimherd/code/MCP23017/"
+    }
+}

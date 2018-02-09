@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Tyler Weaver",
+        "url": "https://os.mbed.com/users/tylerjw/"
+    },
+    "description": "Republished Library, to be refined for use with the SparkFun 9DOF in HARP project.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ADXL345",
+        "Automation",
+        "DT1",
+        "elements",
+        "I",
+        "PDT1",
+        "Pi",
+        "PT1",
+        "PT2",
+        "PT2cc"
+    ],
+    "name": "ADXL345",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tylerjw/code/ADXL345/"
+    }
+}

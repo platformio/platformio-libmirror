@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Stephane ROCHON",
+        "url": "https://os.mbed.com/users/Kerpower/"
+    },
+    "description": "This is a library for 4DGL screens from 4D Systems in Autralia (http://www.4dsystems.com.au). Most graphic, touch and text functions are supported",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ROS",
+        "Humidity",
+        "sensor",
+        "Temperature",
+        "helloworld",
+        "4DGL",
+        "channel",
+        "MIDI",
+        "Note",
+        "pitch",
+        "Serial",
+        "UART",
+        "velocity"
+    ],
+    "name": "4DGL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Kerpower/code/4DGL/"
+    }
+}

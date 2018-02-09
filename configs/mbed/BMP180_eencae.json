@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Craig Evans",
+        "url": "https://os.mbed.com/users/eencae/"
+    },
+    "description": "Library for getting temperature and pressure values from Bosch BMP180 barometer.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Dieter Graef",
+        "DISCO-F746",
+        "SDFileSystem",
+        "NFC",
+        "p2p",
+        "PN532",
+        "BMP180"
+    ],
+    "name": "BMP180",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eencae/code/BMP180/"
+    }
+}

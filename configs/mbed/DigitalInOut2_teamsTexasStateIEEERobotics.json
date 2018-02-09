@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Texas State IEEE",
+        "url": "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/"
+    },
+    "description": "Modified InOut library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ALS",
+        "ambient light sensor",
+        "Lux"
+    ],
+    "name": "DigitalInOut2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/code/DigitalInOut2/"
+    }
+}

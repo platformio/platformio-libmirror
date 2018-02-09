@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "Luminosity sensor by Texas Advanced Optoelectronic Solutions Inc..",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "window",
+        "I2C",
+        "Luminosity",
+        "Lux",
+        "sensor",
+        "display",
+        "hotboards",
+        "SPI"
+    ],
+    "name": "TSL2561",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/TSL2561/"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Norimasa Okamoto",
+        "url": "https://os.mbed.com/users/va009039/"
+    },
+    "description": "USB device stack",
+    "frameworks": "mbed",
+    "keywords": [
+        "game",
+        "inheritance",
+        "OOP",
+        "polymorphism",
+        "tutorial",
+        "2.4GHz",
+        "a7105",
+        "FSK",
+        "GFSK",
+        "transceiver",
+        "txrx",
+        "device",
+        "USB",
+        "controller",
+        "Design"
+    ],
+    "name": "KL25Z_USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/va009039/code/KL25Z_USBDevice/"
+    }
+}

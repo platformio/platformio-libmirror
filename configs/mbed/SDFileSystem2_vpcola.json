@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Vergil Cola",
+        "url": "https://os.mbed.com/users/vpcola/"
+    },
+    "description": "A fork of the original SDFileSystem, added only stat() for getting file information.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "NFC",
+        "PN532",
+        "OLED",
+        "Organic-LED",
+        "SO1602A"
+    ],
+    "name": "SDFileSystem2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vpcola/code/SDFileSystem2/"
+    }
+}

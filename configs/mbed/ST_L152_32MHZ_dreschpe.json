@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "Lib to change the clock speed of the ST Nucleo L152RE board to 32 MHz.",
+    "frameworks": "mbed",
+    "keywords": [
+        "L152",
+        "Nucleo",
+        "2645",
+        "TMP102",
+        "BLE",
+        "buttons",
+        "HEXIWEAR",
+        "KW40Z",
+        "bridge",
+        "I2C",
+        "SC16IS750",
+        "SC16IS752",
+        "SPI",
+        "UART",
+        "HD44780",
+        "TextLCD"
+    ],
+    "name": "ST_L152_32MHZ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/ST_L152_32MHZ/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "B Rey",
+        "url": "https://os.mbed.com/users/br549/"
+    },
+    "description": "Port of lowpowerlab RFM69 Packet radio library for",
+    "frameworks": "mbed",
+    "keywords": [
+        "nRF51-DK",
+        "RTC",
+        "time",
+        "Radio",
+        "rf",
+        "rfm69",
+        "mbed"
+    ],
+    "name": "RFM69",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/br549/code/RFM69/"
+    }
+}

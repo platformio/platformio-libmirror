@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Donatien Garnier",
+        "url": "https://os.mbed.com/users/donatien/"
+    },
+    "description": "RTOS configured for use with Networking libraries",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "3",
+        "joystick",
+        "playstation",
+        "motor",
+        "SPG20-332",
+        "Stepper",
+        "stepping",
+        "TA7774",
+        "frequency",
+        "LPC1768",
+        "MHz",
+        "output",
+        "JSON"
+    ],
+    "name": "rtos_net",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donatien/code/rtos_net/"
+    }
+}

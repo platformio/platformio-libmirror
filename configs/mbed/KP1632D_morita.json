@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Jun Morita",
+        "url": "https://os.mbed.com/users/morita/"
+    },
+    "description": "32dot x 16dot LED matrix display driving library.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "KP1632D",
+    "name": "KP1632D",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/morita/code/KP1632D/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Steven Ventura",
+        "url": "https://os.mbed.com/users/sventura3/"
+    },
+    "description": "LidarLitev2 Library for distance reading. Capable of both single distance reads and continuous distance read setup.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "Lidar"
+    ],
+    "name": "LidarLitev2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sventura3/code/LidarLitev2/"
+    }
+}

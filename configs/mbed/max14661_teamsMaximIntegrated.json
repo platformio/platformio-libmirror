@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/"
+    },
+    "description": "library for MAX14661 16:2 mux",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "max14661",
+    "name": "max14661",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/code/max14661/"
+    }
+}

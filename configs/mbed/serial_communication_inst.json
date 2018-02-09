@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "tarou yamada",
+        "url": "https://os.mbed.com/users/inst/"
+    },
+    "description": "serial_communication",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "matrix",
+        "SDA5708",
+        "bluetooth",
+        "Evobots"
+    ],
+    "name": "serial_communication",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/inst/code/serial_communication/"
+    }
+}

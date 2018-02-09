@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Nikolay Krasheninnikov",
+        "url": "https://os.mbed.com/users/GoodNike/"
+    },
+    "description": "First repository for testing projects",
+    "frameworks": "mbed",
+    "keywords": [
+        "geo",
+        "GPS",
+        "latitude",
+        "longitude",
+        "navigation",
+        "distance",
+        "distance sensor",
+        "HC-SR04",
+        "measurement",
+        "SR04",
+        "ultrasonic",
+        "display",
+        "MicroOLED",
+        "OLED",
+        "sparkfun",
+        "SPI",
+        "SSD1306"
+    ],
+    "name": "stm32nucleo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/GoodNike/code/stm32nucleo/"
+    }
+}

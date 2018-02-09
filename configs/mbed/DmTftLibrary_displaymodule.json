@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Display Module",
+        "url": "https://os.mbed.com/users/displaymodule/"
+    },
+    "description": "Driver Library for our displays",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "18-TFT-with-SPI-Interface",
+        "22-TFT-with-8-bit-interface",
+        "28-Touch-TFT-with-8-bit-Interface",
+        "24-Touch-TFT-with-8-bit-Interface",
+        "28-Touch-TFT-with-SPI-Interface",
+        "35-Touch-TFT-with-SPI-Interface-and-4MB-",
+        "DisplayModule-43-480x272-Arduino-TFT-Shi",
+        "DisplayModule-50-800x480-Arduino-TFT-Shi",
+        "28-240x320-TFT-With-Capacitive-Touch"
+    ],
+    "name": "DmTftLibrary",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/displaymodule/code/DmTftLibrary/"
+    }
+}

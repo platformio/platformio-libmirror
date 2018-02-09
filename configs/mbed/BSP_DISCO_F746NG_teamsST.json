@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "STM32746G-Discovery board drivers V1.0.0",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "16x1",
+        "TextLCD",
+        "file",
+        "player",
+        "wav",
+        "wave",
+        "Celsius",
+        "driver",
+        "I2C",
+        "LM75B",
+        "nxp",
+        "sensor",
+        "Temperature",
+        "GPS",
+        "BSP",
+        "DISCO_F746NG",
+        "accelerometer",
+        "gyroscope",
+        "MPU-6050",
+        "MPU6050",
+        "MPU60x0"
+    ],
+    "name": "BSP_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/BSP_DISCO_F746NG/"
+    }
+}

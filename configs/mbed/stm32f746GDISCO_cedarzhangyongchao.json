@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "zhang yongchao",
+        "url": "https://os.mbed.com/users/cedarzhangyongchao/"
+    },
+    "description": "TEST",
+    "frameworks": "mbed",
+    "keywords": [
+        "NZ32-SC151",
+        "Digital",
+        "library",
+        "logic",
+        "Out",
+        "Register",
+        "shift",
+        "Shift Register",
+        "SN74HC595N",
+        "adc",
+        "DIFF",
+        "K64F"
+    ],
+    "name": "stm32f746G DISCO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cedarzhangyongchao/code/stm32f746G-DISCO/"
+    }
+}

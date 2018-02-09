@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Rune Langoy",
+        "url": "https://os.mbed.com/users/rlanghbv/"
+    },
+    "description": "4x4 Keypad easy to use library that pollis the interface width pullups",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "4x4",
+        "4x4 Keypad",
+        "keyboard",
+        "keypad",
+        "pullup",
+        "low current",
+        "low power",
+        "nrf51",
+        "nRF51822"
+    ],
+    "name": "KeypadLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rlanghbv/code/KeypadLib/"
+    }
+}

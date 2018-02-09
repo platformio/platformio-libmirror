@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Giles Barton-Owen",
+        "url": "https://os.mbed.com/users/p07gbar/"
+    },
+    "description": "The modified AndroidAccessory Library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ADK",
+        "android",
+        "USB",
+        "MPL115A2"
+    ],
+    "name": "AndroidAccessory",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/p07gbar/code/AndroidAccessory/"
+    }
+}

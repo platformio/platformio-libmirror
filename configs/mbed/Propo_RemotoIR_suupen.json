@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "suu pen",
+        "url": "https://os.mbed.com/users/suupen/"
+    },
+    "description": "RemotoIR Libraryに、IRC Helicopter Propo の受信処理と、受信パルス幅測定処理を追加したものです。",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "Propo_RemotoIR",
+    "name": "Propo_RemotoIR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/suupen/code/Propo_RemotoIR/"
+    }
+}

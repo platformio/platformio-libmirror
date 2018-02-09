@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "Replacement for regular GPIO (DigitalIn, DigitalOut, DigitalInOut) classes which has superior speed.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "fatfilesystem",
+        "I2C",
+        "LCD",
+        "calibration",
+        "clock",
+        "real",
+        "RTC",
+        "time",
+        "timezone",
+        "GPIO",
+        "Speed"
+    ],
+    "name": "FastIO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/FastIO/"
+    }
+}

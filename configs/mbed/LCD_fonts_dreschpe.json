@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "Fonts to use with the mbed Lab Board",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "ExpansionBoard",
+        "HTS221",
+        "LIS3MDL",
+        "lps25h",
+        "LSM6DS0",
+        "LSM6DS3",
+        "Nucleo",
+        "X-NUCLEO-IKS01A1",
+        "STM32F103C8T6",
+        "application board",
+        "LCD",
+        "4DGL-uLCD-SE",
+        "camera",
+        "color",
+        "JPEG",
+        "LinkSprite",
+        "LS-Y201",
+        "LPC4088"
+    ],
+    "name": "LCD_fonts",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/LCD_fonts/"
+    }
+}

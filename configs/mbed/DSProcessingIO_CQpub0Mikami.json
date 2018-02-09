@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "CQpub0 Mikami",
+        "url": "https://os.mbed.com/users/CQpub0Mikami/"
+    },
+    "description": "Source lists for AD converter is explained on \"Interface\" No.10, CQ publishing Co.,Ltd, 2014.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "dac",
+        "dual",
+        "MCP4922",
+        "Nucleo",
+        "single"
+    ],
+    "name": "DSProcessingIO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/CQpub0Mikami/code/DSProcessingIO/"
+    }
+}

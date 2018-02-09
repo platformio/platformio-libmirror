@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Seeed",
+        "url": "https://os.mbed.com/teams/Seeed/"
+    },
+    "description": "RGB LED library for Grove - Chainable RGB LED using P9813",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "rgb"
+    ],
+    "name": "Chainable_RGB_LED",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Seeed/code/Chainable_RGB_LED/"
+    }
+}

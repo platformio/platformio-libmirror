@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "Extended library from C12832 Lib. by Peter Drescher, Chris Styles & Mihail Stoyanov. LCD in the market such as AQM1248A (Akizuki), AD-12864-SPI (antendo), NHD-C12832 (Newhaven), ST7565 (adafruit) and so on",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "interrupt",
+        "rotary",
+        "AD-12864-SPI",
+        "AQM1248A",
+        "C12832",
+        "LCD",
+        "SPI",
+        "ST7565"
+    ],
+    "name": "ST7565_SPI_LCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/ST7565_SPI_LCD/"
+    }
+}

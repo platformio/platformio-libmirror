@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Leander Brandl",
+        "url": "https://os.mbed.com/users/lbrandl/"
+    },
+    "description": "Library for the KeplerBRAIN Robotik Education System",
+    "frameworks": "mbed",
+    "keywords": [
+        "TFT",
+        "Touchscreen",
+        "BlinkLabel",
+        "BUTTON",
+        "DISCO-F746",
+        "GUI",
+        "Label",
+        "Mikami",
+        "NumericLabel",
+        "ResetButton",
+        "SeekBar",
+        "SeekbarGroup",
+        "ethernet",
+        "NetServices",
+        "network",
+        "TCP",
+        "UDP"
+    ],
+    "name": "KeplerBRAIN_V4",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lbrandl/code/KeplerBRAIN_V4/"
+    }
+}

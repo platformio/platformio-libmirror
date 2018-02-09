@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "WIZnet",
+        "url": "https://os.mbed.com/teams/WIZnet/"
+    },
+    "description": "This is a WizFi310 library. It supports new mbed5 features including NetworkInterfaceAPI.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed5",
+        "NetworkInterfaceAPI",
+        "wifi",
+        "wifiinterface",
+        "wizfi310",
+        "wizfi310interface",
+        "timer",
+        "Ton",
+        "wait",
+        "maestro",
+        "Serial",
+        "Servo",
+        "led",
+        "TM1638"
+    ],
+    "name": "WizFi310Interface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/WIZnet/code/WizFi310Interface/"
+    }
+}

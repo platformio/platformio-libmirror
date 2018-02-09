@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "James Hilder",
+        "url": "https://os.mbed.com/users/jah128/"
+    },
+    "description": "Unfinished v0.7, added bearing detection",
+    "frameworks": "mbed",
+    "keywords": [
+        "piswarm",
+        "cmsis",
+        "L152",
+        "Nucleo",
+        "rtos",
+        "RTX"
+    ],
+    "name": "Pi_Swarm_Library_7",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jah128/code/Pi_Swarm_Library_7/"
+    }
+}

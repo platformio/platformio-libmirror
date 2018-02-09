@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Montvydas Klumbys",
+        "url": "https://os.mbed.com/users/moklumbys/"
+    },
+    "description": "A library used for controlling a quadcopter. It provides an easy to use interface, which allows to mount, calibrate and run motors. It is also able to calibrate the actual speed according to calculated PID roll & pitch difference.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "L6208",
+        "microstep",
+        "motor",
+        "ST",
+        "Stepper"
+    ],
+    "name": "Quadcopter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/moklumbys/code/Quadcopter/"
+    }
+}

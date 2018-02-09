@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Jason Swanson",
+        "url": "https://os.mbed.com/users/JasonSwanson/"
+    },
+    "description": "Internet of Things project for the uWater team.",
+    "frameworks": "mbed",
+    "keywords": [
+        "conversion",
+        "Thermocouple",
+        "BUTTON",
+        "cancel",
+        "DIP",
+        "noise",
+        "push",
+        "SW"
+    ],
+    "name": "uWater_Project",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JasonSwanson/code/uWater_Project/"
+    }
+}

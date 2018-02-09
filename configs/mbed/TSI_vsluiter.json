@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "First Last",
+        "url": "https://os.mbed.com/users/vsluiter/"
+    },
+    "description": "Fork of mbed_official/TSI, giving access to raw values",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F746NG",
+        "LCD",
+        "Serial",
+        "SoftwareSerial",
+        "UART",
+        "FAT",
+        "file",
+        "SD",
+        "System",
+        "any",
+        "no",
+        "Pin",
+        "pwm",
+        "Servo",
+        "I2C",
+        "wattbob"
+    ],
+    "name": "TSI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vsluiter/code/TSI/"
+    }
+}

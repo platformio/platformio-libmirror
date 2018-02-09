@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Johnny Yam",
+        "url": "https://os.mbed.com/users/jyam/"
+    },
+    "description": "Simple read/write API for the W25X40BV SPI Flash IC",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "hotboards",
+        "SPI",
+        "TMP006",
+        "api",
+        "DIP",
+        "flash",
+        "spiflash",
+        "W25X40BV",
+        "winbond",
+        "Dieter Graef",
+        "DISCO-F746",
+        "SDFileSystem"
+    ],
+    "name": "W25X40BV",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jyam/code/W25X40BV/"
+    }
+}

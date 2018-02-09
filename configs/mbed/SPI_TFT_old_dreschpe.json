@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "Library to control a QVGA TFT connected to SPI.",
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "led strip",
+        "Sensirion",
+        "SHT21",
+        "MPU-9250",
+        "display",
+        "graphic",
+        "LCD",
+        "QVGA",
+        "TFT",
+        "touch"
+    ],
+    "name": "SPI_TFT_old",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/SPI_TFT_old/"
+    }
+}

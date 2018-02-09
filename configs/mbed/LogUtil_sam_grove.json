@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Sam Grove",
+        "url": "https://os.mbed.com/users/sam_grove/"
+    },
+    "description": "Helpful logging and error format",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "debug",
+        "log",
+        "logger",
+        "Linked",
+        "Linked List",
+        "List",
+        "test",
+        "DISCO_F469NI",
+        "LMiC",
+        "Lora",
+        "LoRaWAN"
+    ],
+    "name": "LogUtil",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sam_grove/code/LogUtil/"
+    }
+}

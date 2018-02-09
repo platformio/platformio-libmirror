@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Steven .",
+        "url": "https://os.mbed.com/users/sjj698/"
+    },
+    "description": "Working Version of the Real Time Clock module DS1307.",
+    "frameworks": "mbed",
+    "keywords": [
+        "clock",
+        "ds1307",
+        "real",
+        "RTC",
+        "time",
+        "COMMAND PARSER",
+        "serial command",
+        "uart interupt",
+        "Encoder",
+        "QEI",
+        "quadrature",
+        "MAX30101"
+    ],
+    "name": "RTC-DS1307",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sjj698/code/RTC-DS1307/"
+    }
+}

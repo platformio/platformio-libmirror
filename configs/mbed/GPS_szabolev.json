@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Levente Szabó",
+        "url": "https://os.mbed.com/users/szabolev/"
+    },
+    "description": "Library for the EM-406 GPS module",
+    "frameworks": "mbed",
+    "keywords": [
+        "EM406",
+        "GPS",
+        "library",
+        "Serial"
+    ],
+    "name": "GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/szabolev/code/GPS/"
+    }
+}

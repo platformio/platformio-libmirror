@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Clark Scheff",
+        "url": "https://os.mbed.com/users/d34d/"
+    },
+    "description": "Generalized adaptation of the WiiChuk_compat library.",
+    "frameworks": "mbed",
+    "keywords": [
+        "DS1721",
+        "I2C",
+        "sensor",
+        "Temperature",
+        "numchuck",
+        "nunchuck",
+        "Nunchuk",
+        "Wii",
+        "8563",
+        "LPC1768",
+        "PCF",
+        "PCF8563"
+    ],
+    "name": "WiiChuck",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/d34d/code/WiiChuck/"
+    }
+}

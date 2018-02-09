@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "mbed library for ENC28J60 Ethernet modules. Full support for TCP/IP and UDP Server, Client and HTTP server (webserver). DHCP and DNS is included.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "parallax",
+        "PING",
+        "sensor",
+        "ultrasonic",
+        "client",
+        "ENC28J60",
+        "ethernet",
+        "server",
+        "uIP",
+        "UIPEthernet",
+        "CMPS03",
+        "LCD",
+        "TFT",
+        "5110",
+        "Nokia",
+        "pcd8544",
+        "HC-SR04",
+        "HCSR04"
+    ],
+    "name": "UIPEthernet",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/UIPEthernet/"
+    }
+}

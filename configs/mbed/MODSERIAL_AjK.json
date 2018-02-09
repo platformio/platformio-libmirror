@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Andy Kirkham",
+        "url": "https://os.mbed.com/users/AjK/"
+    },
+    "description": "Bug fix release",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "QEI",
+        "quadrature",
+        "H-bridge",
+        "motor",
+        "PwmOut",
+        "fatfilesystem",
+        "MMC",
+        "SD",
+        "SD Card",
+        "SDHC",
+        "SDXC",
+        "buffer",
+        "Buffered",
+        "rs232",
+        "RS485",
+        "Serial"
+    ],
+    "name": "MODSERIAL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AjK/code/MODSERIAL/"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Hiroshi Yamaguchi",
+        "url": "https://os.mbed.com/users/yamaguch/"
+    },
+    "description": "XBee API mode library",
+    "frameworks": "mbed",
+    "keywords": [
+        "api",
+        "mode",
+        "xbee",
+        "zigbee",
+        "NeoPixel",
+        "WS2812",
+        "WS2812B",
+        "Algebra.",
+        "matrix",
+        "vector",
+        "GPS",
+        "Serial",
+        "FAT",
+        "SD"
+    ],
+    "name": "XBee",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yamaguch/code/XBee/"
+    }
+}

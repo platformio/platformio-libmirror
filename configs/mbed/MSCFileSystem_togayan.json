@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Satoshi Togawa",
+        "url": "https://os.mbed.com/users/togayan/"
+    },
+    "description": "Change HOSTBASEADDR ｆor use with the RTOS.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "10DOF",
+        "ADXL345",
+        "AHRS",
+        "BMP",
+        "dcm",
+        "FreeIMU",
+        "HMC5883L",
+        "Hobbyking",
+        "IMU",
+        "l3g4200d",
+        "quaternions"
+    ],
+    "name": "MSCFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/togayan/code/MSCFileSystem/"
+    }
+}

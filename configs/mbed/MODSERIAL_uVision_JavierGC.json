@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Javier Gómez Cabello",
+        "url": "https://os.mbed.com/users/JavierGC/"
+    },
+    "description": "adapted to Keil uVision",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "minutes",
+        "seconds",
+        "stopwatch",
+        "timer",
+        "watch"
+    ],
+    "name": "MODSERIAL_uVision",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JavierGC/code/MODSERIAL_uVision/"
+    }
+}

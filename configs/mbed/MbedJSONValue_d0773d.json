@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Richard C. Glover",
+        "url": "https://os.mbed.com/users/d0773d/"
+    },
+    "description": "Forked version of MbedJSONValue. I edited the source to allow only two decimal places for a float/double value",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "ADJD-S311-CR99",
+    "name": "MbedJSONValue",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/d0773d/code/MbedJSONValue/"
+    }
+}

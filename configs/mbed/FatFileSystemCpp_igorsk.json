@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Igor Skochinsky",
+        "url": "https://os.mbed.com/users/igorsk/"
+    },
+    "description": "Fork of Adam Green's library with .cpp fix for current compiler",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "buffer",
+        "BufferedSerial",
+        "BufferSerial",
+        "Serial",
+        "SoftSerial",
+        "software",
+        "FAT",
+        "file",
+        "Filenames",
+        "fixes",
+        "Long",
+        "System",
+        "f401",
+        "internal",
+        "mbed",
+        "Nucleo",
+        "Temperature",
+        "debug",
+        "library"
+    ],
+    "name": "FatFileSystemCpp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/igorsk/code/FatFileSystemCpp/"
+    }
+}

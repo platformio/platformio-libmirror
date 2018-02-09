@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Embedded Artists",
+        "url": "https://os.mbed.com/teams/Embedded-Artists/"
+    },
+    "description": "A basic graphics package for the LPC4088 Display Module.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "LPC4088",
+        "LPC4088DM",
+        "module",
+        "FRDMK64",
+        "MPU6050"
+    ],
+    "name": "DMBasicGUI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Embedded-Artists/code/DMBasicGUI/"
+    }
+}

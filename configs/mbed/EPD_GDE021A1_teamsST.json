@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "ePaperDisplay (ePD) gde021a1 driver.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "disco",
+        "discovery",
+        "ePaper",
+        "EPD",
+        "ST",
+        "eve",
+        "FT800",
+        "graphic",
+        "LCD",
+        "TFT",
+        "touch"
+    ],
+    "name": "EPD_GDE021A1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/EPD_GDE021A1/"
+    }
+}

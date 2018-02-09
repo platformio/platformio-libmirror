@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Farid Izar",
+        "url": "https://os.mbed.com/users/Faridzaher/"
+    },
+    "description": "First Version. This library has functions to measure distance using the PW out of an ultrasonic sensor.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "CV7",
+        "sensor",
+        "wind"
+    ],
+    "name": "SonicD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Faridzaher/code/SonicD/"
+    }
+}

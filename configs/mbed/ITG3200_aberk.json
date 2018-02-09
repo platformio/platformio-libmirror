@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Aaron Berk",
+        "url": "https://os.mbed.com/users/aberk/"
+    },
+    "description": "ITG-3200 triple axis, digital gyroscope library.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "gyroscope",
+        "ITG-3200",
+        "ITG3200",
+        "ID12",
+        "RFID",
+        "Serial"
+    ],
+    "name": "ITG3200",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aberk/code/ITG3200/"
+    }
+}

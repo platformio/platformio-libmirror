@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "STM32F469NI Discovery board drivers",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "debug",
+        "log",
+        "logger",
+        "Linked",
+        "Linked List",
+        "List",
+        "test",
+        "DISCO_F469NI",
+        "LMiC",
+        "Lora",
+        "LoRaWAN"
+    ],
+    "name": "BSP_DISCO_F469NI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/BSP_DISCO_F469NI/"
+    }
+}

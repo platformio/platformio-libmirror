@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "chris stevens",
+        "url": "https://os.mbed.com/users/cstevens/"
+    },
+    "description": "cj wave",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "wave_player",
+    "name": "wave_player",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cstevens/code/wave_player/"
+    }
+}

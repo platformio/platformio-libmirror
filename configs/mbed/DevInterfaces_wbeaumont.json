@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "wimbeaumont Project",
+        "url": "https://os.mbed.com/users/wbeaumont/"
+    },
+    "description": "This are general defs and base class interfaces. ( DACInterface, I2CInterface) to be used with I2C devices",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "wallbot",
+    "name": "DevInterfaces",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wbeaumont/code/DevInterfaces/"
+    }
+}

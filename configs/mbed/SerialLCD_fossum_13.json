@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Eric Fossum",
+        "url": "https://os.mbed.com/users/fossum_13/"
+    },
+    "description": "SparkFun SerLCD v2.5 controller; Copied from the Arduino.cc SerLCD library; http://playground.arduino.cc/Code/SerLCD",
+    "frameworks": "mbed",
+    "keywords": [
+        "6100",
+        "Nokia LCD",
+        "LCD",
+        "Serial",
+        "sparkfun"
+    ],
+    "name": "SerialLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fossum_13/code/SerialLCD/"
+    }
+}

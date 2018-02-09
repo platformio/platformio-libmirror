@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "ceri clatworthy",
+        "url": "https://os.mbed.com/users/ceri/"
+    },
+    "description": "Libary for Strpper motor controller, eg: Rep-Rap smart stick",
+    "frameworks": "mbed",
+    "keywords": [
+        "A4982",
+        "A4983 smart step 3d printing",
+        "rap",
+        "rep",
+        "Stepper",
+        "printer",
+        "shield"
+    ],
+    "name": "Stepper",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ceri/code/Stepper/"
+    }
+}

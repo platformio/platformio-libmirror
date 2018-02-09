@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Eduardo Avelar",
+        "url": "https://os.mbed.com/users/AVELARDEV/"
+    },
+    "description": "Library thread Blink Led or other processes use RTOS",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "multithreading",
+        "rtos",
+        "thread",
+        "Temp",
+        "Temperature",
+        "TMP102"
+    ],
+    "name": "LibThreadProcess",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AVELARDEV/code/LibThreadProcess/"
+    }
+}

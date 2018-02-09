@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Ale C.-",
+        "url": "https://os.mbed.com/users/Suky/"
+    },
+    "description": "TMP175 Temperature Sensor",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "sensor",
+        "Temperature",
+        "TMP175",
+        "VCNL4000",
+        "VCNL4010",
+        "VCNL4020",
+        "herkulex",
+        "Servo"
+    ],
+    "name": "TMP175",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Suky/code/TMP175/"
+    }
+}

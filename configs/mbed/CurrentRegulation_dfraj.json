@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Dean Fraj",
+        "url": "https://os.mbed.com/users/dfraj/"
+    },
+    "description": "Library for current regulation of BLDC motor.",
+    "frameworks": "mbed",
+    "keywords": [
+        "hotboards",
+        "rtcc"
+    ],
+    "name": "CurrentRegulation",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dfraj/code/CurrentRegulation/"
+    }
+}

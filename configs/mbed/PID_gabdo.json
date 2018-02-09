@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Greg Abdo",
+        "url": "https://os.mbed.com/users/gabdo/"
+    },
+    "description": "Problems with motor #2",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "LCD",
+    "name": "PID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gabdo/code/PID/"
+    }
+}

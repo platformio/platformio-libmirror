@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Sebastián Pastor",
+        "url": "https://os.mbed.com/users/spastor/"
+    },
+    "description": "Etherios Cloud Connector very first porting for mbed.",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "acelerometro",
+        "club",
+        "cuadricoptero",
+        "cuadrotor",
+        "fiuba",
+        "I2C",
+        "quadrotor",
+        "robotica",
+        "vuelo",
+        "CloudConnector",
+        "etherios",
+        "IOT"
+    ],
+    "name": "EtheriosCloudConnector",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/spastor/code/EtheriosCloudConnector/"
+    }
+}

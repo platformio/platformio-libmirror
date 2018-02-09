@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "embedded system bmt 4033",
+        "url": "https://os.mbed.com/teams/embedded-system-bmt-4033/"
+    },
+    "description": "keypad driver",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "dac",
+        "External DAC"
+    ],
+    "name": "Keypadlatest",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/embedded-system-bmt-4033/code/Keypadlatest/"
+    }
+}

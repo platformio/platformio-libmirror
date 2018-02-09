@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Marc Plouhinec",
+        "url": "https://os.mbed.com/users/marcpl/"
+    },
+    "description": "Fork of the original SoftSerial library with just a little modification in order to compile it with the current mbed version.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "SoftSerial",
+    "name": "SoftSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/marcpl/code/SoftSerial/"
+    }
+}

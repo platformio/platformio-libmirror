@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Brian Daniels",
+        "url": "https://os.mbed.com/users/bridadan/"
+    },
+    "description": "Library for the WS2812 LED Driver. Uses bit banging and nops for precise timing. Number of nops executed are configurable at run time.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "api",
+        "mode",
+        "xbee",
+        "zigbee",
+        "NeoPixel",
+        "WS2812",
+        "WS2812B",
+        "Algebra.",
+        "matrix",
+        "vector",
+        "GPS",
+        "Serial",
+        "FAT",
+        "SD"
+    ],
+    "name": "WS2812",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bridadan/code/WS2812/"
+    }
+}

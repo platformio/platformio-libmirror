@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "mbed_controller",
+        "url": "https://os.mbed.com/teams/mbed_controller/"
+    },
+    "description": "Tiny storage(file) system on MCU internal flash memory for Nucleo F4xx.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "MMA8451",
+        "MMA8452",
+        "MMA8453",
+        "MMA845x",
+        "Bluetooth module",
+        "hc-05",
+        "HC05",
+        "DMA",
+        "FRDM-KL25Z",
+        "led",
+        "WS2811",
+        "WS2812",
+        "eeprom on flash",
+        "flash file system"
+    ],
+    "name": "storage_on_flash",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/mbed_controller/code/storage_on_flash/"
+    }
+}

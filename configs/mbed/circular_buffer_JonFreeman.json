@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Jon Freeman",
+        "url": "https://os.mbed.com/users/JonFreeman/"
+    },
+    "description": "circular_buffer",
+    "frameworks": "mbed",
+    "keywords": [
+        "hih6130",
+        "Humidity",
+        "I2C",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "circular_buffer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JonFreeman/code/circular_buffer/"
+    }
+}

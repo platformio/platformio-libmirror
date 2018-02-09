@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Hotboards MX",
+        "url": "https://os.mbed.com/users/Hotboards/"
+    },
+    "description": "Driver to control buttons (with hardware debounce). This driver considered external pull-ups (or pull-downs) are in use",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "buttons",
+        "hotboards",
+        "flash",
+        "IS25LQ032B",
+        "ISSI",
+        "SPI"
+    ],
+    "name": "Hotboards_buttons",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Hotboards/code/Hotboards_buttons/"
+    }
+}

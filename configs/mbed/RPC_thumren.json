@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Jakub Stepien",
+        "url": "https://os.mbed.com/users/thumren/"
+    },
+    "description": "Extension for mbed rpc library. Default methods for RPC classes added. Write /function arguments list to call a function, /variable to read variable, /variable value to set it.",
+    "frameworks": "mbed",
+    "keywords": [
+        "call",
+        "Procedure",
+        "remote",
+        "rpc",
+        "CAN",
+        "MCP2515",
+        "LCD",
+        "Scroll",
+        "TextLCD"
+    ],
+    "name": "RPC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/thumren/code/RPC/"
+    }
+}

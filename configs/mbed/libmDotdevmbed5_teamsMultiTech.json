@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "description": "Bleeding edge development version of the mDot library for mbed 5. This version of the library is not guaranteed to be stable or well tested and should not be used in production or deployment scenarios.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "1.8",
+        "SPI",
+        "TFT"
+    ],
+    "name": "libmDot-dev-mbed5",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/libmDot-dev-mbed5/"
+    }
+}

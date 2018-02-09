@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/"
+    },
+    "description": "Library for the MAX11300",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "MPL3115A2",
+        "pressure",
+        "sensor"
+    ],
+    "name": "MAX11300",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/code/MAX11300/"
+    }
+}

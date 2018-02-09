@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "AppNearMe",
+        "url": "https://os.mbed.com/teams/AppNearMe/"
+    },
+    "description": "NFC API for mbed using the MicroNFCBoard as a peripheral",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "MicroNFCBoard",
+        "NFC"
+    ],
+    "name": "MicroNFCBoardAPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/AppNearMe/code/MicroNFCBoardAPI/"
+    }
+}

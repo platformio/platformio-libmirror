@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Baser Kandehir",
+        "url": "https://os.mbed.com/users/BaserK/"
+    },
+    "description": "brushless motor control library with l293d",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Low_Power",
+        "LPC1114",
+        "LPC1114FN28",
+        "PCA9629A",
+        "stepper motor",
+        "stepping motor",
+        "brushless",
+        "L293D",
+        "LPC1768",
+        "mbed",
+        "motor",
+        "accelerometer",
+        "gyroscope",
+        "IMU",
+        "STM32F0",
+        "device",
+        "USB"
+    ],
+    "name": "brushlessController_L293D",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BaserK/code/brushlessController_L293D/"
+    }
+}

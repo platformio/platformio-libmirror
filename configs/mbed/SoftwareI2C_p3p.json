@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Chris Pepper",
+        "url": "https://os.mbed.com/users/p3p/"
+    },
+    "description": "First release of a Software I2C implementation, Tested and confirmed to work with the BMP085 Barometric Pressure Sensor",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "card",
+        "SD",
+        "16x2",
+        "freetronics",
+        "LCD",
+        "blinking",
+        "led",
+        "dynamixel",
+        "MX28",
+        "Servo",
+        "I2C",
+        "software",
+        "1-wire",
+        "DS18B20"
+    ],
+    "name": "SoftwareI2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/p3p/code/SoftwareI2C/"
+    }
+}

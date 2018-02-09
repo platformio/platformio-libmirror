@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Nick Ryder",
+        "url": "https://os.mbed.com/users/NickRyder/"
+    },
+    "description": "The IrcBot class can connect to a channel on an IRC network. Users on the same network can send messages to the bot that are parsed by message handlers. The included handlers read digital/analog inputs and write digital outputs or echo messages back to the command sender/channel. Users can write their own message handlers inheriting from the MessageHandler class to perform different actions.",
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "add layout example",
+        "pullup",
+        "IRC"
+    ],
+    "name": "IrcBot",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/NickRyder/code/IrcBot/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Arve Seljebu",
+        "url": "https://os.mbed.com/users/arve0/"
+    },
+    "description": "A library for ADS1015 and ADS1115 from Texas Instruments.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ADS1015",
+        "ADS1115"
+    ],
+    "name": "ADS1015",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/arve0/code/ADS1015/"
+    }
+}

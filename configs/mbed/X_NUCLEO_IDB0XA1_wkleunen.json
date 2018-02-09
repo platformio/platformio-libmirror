@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Wouter van Kleunen",
+        "url": "https://os.mbed.com/users/wkleunen/"
+    },
+    "description": "Compilation fix for newer mbed-os",
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "driver",
+        "HX711",
+        "library",
+        "Weigh scales"
+    ],
+    "name": "X_NUCLEO_IDB0XA1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wkleunen/code/X_NUCLEO_IDB0XA1/"
+    }
+}

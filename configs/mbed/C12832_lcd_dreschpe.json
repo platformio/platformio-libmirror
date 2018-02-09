@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "Lib for the LCD display on mbed lab Board",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "device",
+        "USB",
+        "PwmOut",
+        "Servo",
+        "3pi",
+        "m3pi",
+        "robot",
+        "application board",
+        "C12832",
+        "LCD"
+    ],
+    "name": "C12832_lcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/C12832_lcd/"
+    }
+}

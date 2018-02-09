@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Azure IoT",
+        "url": "https://os.mbed.com/users/AzureIoTClient/"
+    },
+    "description": "Azure IoT common library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "message queue pattern",
+        "real time",
+        "thread synchronization"
+    ],
+    "name": "azure_c_shared_utility",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AzureIoTClient/code/azure_c_shared_utility/"
+    }
+}

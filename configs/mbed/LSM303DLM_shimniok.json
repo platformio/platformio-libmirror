@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Michael Shimniok",
+        "url": "https://os.mbed.com/users/shimniok/"
+    },
+    "description": "Interface library for ST LSM303DLM 3-axis magnetometer/accelerometer",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "compass",
+        "magnetometer",
+        "CPU",
+        "CPU_Usage",
+        "performance",
+        "resources",
+        "time",
+        "usage",
+        "Encoder",
+        "rotary",
+        "LCD",
+        "Register",
+        "Serial",
+        "shift",
+        "with",
+        "mbed"
+    ],
+    "name": "LSM303DLM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shimniok/code/LSM303DLM/"
+    }
+}

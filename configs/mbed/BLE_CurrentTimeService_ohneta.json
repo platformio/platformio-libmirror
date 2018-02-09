@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Takehisa Oneta",
+        "url": "https://os.mbed.com/users/ohneta/"
+    },
+    "description": "BLE Current Time Service",
+    "frameworks": "mbed",
+    "keywords": [
+        "eCompass",
+        "Wi-Go",
+        "WiGo",
+        "semihosting",
+        "SWD",
+        "servos",
+        "slow",
+        "Speed"
+    ],
+    "name": "BLE_CurrentTimeService",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ohneta/code/BLE_CurrentTimeService/"
+    }
+}

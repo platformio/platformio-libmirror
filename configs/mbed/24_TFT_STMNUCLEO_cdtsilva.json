@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Carlos Silva",
+        "url": "https://os.mbed.com/users/cdtsilva/"
+    },
+    "description": "Code to run the cheap 2.4\" TFT made by mcufriend.com on the STM nucleo. No modifications required, this plugs into the arduino header.",
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "buttons",
+        "HEXIWEAR",
+        "KW40Z",
+        "2645",
+        "TMP102",
+        "2.4",
+        "MCUFRIEND.COM",
+        "Nucleo",
+        "TFT",
+        "bridge",
+        "I2C",
+        "SC16IS750",
+        "SC16IS752",
+        "SPI",
+        "UART",
+        "L152"
+    ],
+    "name": "24_TFT_STMNUCLEO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cdtsilva/code/24_TFT_STMNUCLEO/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Carl - SolderSplash Labs",
+        "url": "https://os.mbed.com/users/SolderSplashLabs/"
+    },
+    "description": "DipCortex EEprom IAP library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "multithreading",
+        "rtos",
+        "thread",
+        "Temp",
+        "Temperature",
+        "TMP102"
+    ],
+    "name": "DipCortex-EEprom",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SolderSplashLabs/code/DipCortex-EEprom/"
+    }
+}

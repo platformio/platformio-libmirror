@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Tobias Knapp",
+        "url": "https://os.mbed.com/users/tknapp/"
+    },
+    "description": "ASCIIGraph draws graphs to serial console using the \"Terminal\" lib.",
+    "frameworks": "mbed",
+    "keywords": [
+        "pwm",
+        "SoftPWM",
+        "Ascii",
+        "ASCIIGraph",
+        "graph",
+        "Serial",
+        "Terminal"
+    ],
+    "name": "ASCIIGraph",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tknapp/code/ASCIIGraph/"
+    }
+}

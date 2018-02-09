@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Oskar Lopez de Gamboa",
+        "url": "https://os.mbed.com/users/xeta05/"
+    },
+    "description": "Changed to add KL25Z.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "PinDetect",
+    "name": "PinDetect",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/xeta05/code/PinDetect/"
+    }
+}

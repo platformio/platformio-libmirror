@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "ASEE-2014",
+        "url": "https://os.mbed.com/teams/ASEE-2014/"
+    },
+    "description": "First team commit",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "dac",
+        "I2C",
+        "LTC"
+    ],
+    "name": "LineFollower",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ASEE-2014/code/LineFollower/"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Craig Evans",
+        "url": "https://os.mbed.com/users/eencae/"
+    },
+    "description": "Simple library for reading distance from SRF02 Ultrasonic Sensor in I2C mode.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "game pad",
+        "gamepad",
+        "playstation",
+        "playstation2",
+        "PS2",
+        "SPI",
+        "pwm",
+        "softwarePWM",
+        "MRF24J40",
+        "tranceiver",
+        "wireless",
+        "DDS",
+        "generator",
+        "signal",
+        "QEI ロータリーエンコーダ 角度 angle",
+        "SRF02",
+        "at&t",
+        "data store",
+        "m2x",
+        "time-series"
+    ],
+    "name": "SRF02",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eencae/code/SRF02/"
+    }
+}

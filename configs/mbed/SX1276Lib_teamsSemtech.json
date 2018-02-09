@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Semtech",
+        "url": "https://os.mbed.com/teams/Semtech/"
+    },
+    "description": "Driver for the SX1276 RF Transceiver",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "OLED",
+        "SSD1308",
+        "24LCxx",
+        "EEPROM",
+        "Microchip",
+        "Serial",
+        "Lora",
+        "Semtech",
+        "SX1276",
+        "SX1276Lib",
+        "SX1276MB1xAS"
+    ],
+    "name": "SX1276Lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Semtech/code/SX1276Lib/"
+    }
+}

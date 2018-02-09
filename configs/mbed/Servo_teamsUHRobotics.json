@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "UH Robotics",
+        "url": "https://os.mbed.com/teams/UH-Robotics/"
+    },
+    "description": "Library for servos.",
+    "frameworks": "mbed",
+    "keywords": [
+        "game",
+        "inheritance",
+        "OOP",
+        "polymorphism",
+        "tutorial"
+    ],
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/UH-Robotics/code/Servo/"
+    }
+}

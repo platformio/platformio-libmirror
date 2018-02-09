@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Jeroen Hilgers",
+        "url": "https://os.mbed.com/users/hilgo/"
+    },
+    "description": "This library lets you connect an MRF24J40 tranceiver to your mbed. The MRF24J40 is intended for use as a zigbee tranceiver. However, it can also be used to simply send data from one tranceiver to another. The tranceiver is also available as a module on a small PCB with antenna etc. It requires no other components and can be connected to the mbed using 5 pins.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "game pad",
+        "gamepad",
+        "playstation",
+        "playstation2",
+        "PS2",
+        "SPI",
+        "pwm",
+        "softwarePWM",
+        "MRF24J40",
+        "tranceiver",
+        "wireless",
+        "DDS",
+        "generator",
+        "signal",
+        "QEI ロータリーエンコーダ 角度 angle",
+        "SRF02",
+        "at&t",
+        "data store",
+        "m2x",
+        "time-series"
+    ],
+    "name": "MRF24J40",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hilgo/code/MRF24J40/"
+    }
+}

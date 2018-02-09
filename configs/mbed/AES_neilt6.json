@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Neil Thiessen",
+        "url": "https://os.mbed.com/users/neilt6/"
+    },
+    "description": "A lightweight AES implementation with Cipher Block Chaining and Ciphertext Stealing.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "AES",
+        "CBC",
+        "cipher",
+        "Crypto",
+        "CTS",
+        "ECB",
+        "FRDM",
+        "KL25z",
+        "MLK25Z128FRDM",
+        "LCD",
+        "nsdl"
+    ],
+    "name": "AES",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/neilt6/code/AES/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Ian Craggs",
+        "url": "https://os.mbed.com/users/icraggs/"
+    },
+    "description": "Low level MQTTSN packet library, part of the Eclipse Paho project: http://eclipse.org/paho",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "eCompass",
+        "Wi-Go",
+        "WiGo",
+        "semihosting",
+        "SWD",
+        "servos",
+        "slow",
+        "Speed"
+    ],
+    "name": "MQTTSNPacket",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/icraggs/code/MQTTSNPacket/"
+    }
+}

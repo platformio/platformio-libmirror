@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Sherry Yang",
+        "url": "https://os.mbed.com/users/5hel2l2y/"
+    },
+    "description": "Modified LSM9DS1 Library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "pwm",
+    "name": "LSM9DS1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/5hel2l2y/code/LSM9DS1/"
+    }
+}

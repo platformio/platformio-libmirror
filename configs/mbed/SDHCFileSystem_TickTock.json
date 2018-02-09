@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Tick Tock",
+        "url": "https://os.mbed.com/users/TickTock/"
+    },
+    "description": ".",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "SSL",
+        "TLS"
+    ],
+    "name": "SDHCFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/TickTock/code/SDHCFileSystem/"
+    }
+}

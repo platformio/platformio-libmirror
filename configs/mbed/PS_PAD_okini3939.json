@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "PlayStation Controller library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "game pad",
+        "gamepad",
+        "playstation",
+        "playstation2",
+        "PS2",
+        "SPI",
+        "pwm",
+        "softwarePWM",
+        "MRF24J40",
+        "tranceiver",
+        "wireless",
+        "DDS",
+        "generator",
+        "signal",
+        "QEI ロータリーエンコーダ 角度 angle",
+        "SRF02",
+        "at&t",
+        "data store",
+        "m2x",
+        "time-series"
+    ],
+    "name": "PS_PAD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/PS_PAD/"
+    }
+}

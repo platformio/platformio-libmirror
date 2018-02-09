@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Chris Zagel",
+        "url": "https://os.mbed.com/users/VipaSpeed/"
+    },
+    "description": "MotorControl",
+    "frameworks": "mbed",
+    "keywords": [
+        "Communication",
+        "protocols",
+        "wireless",
+        "xbee",
+        "ANSI",
+        "Terminal",
+        "controller",
+        "motor",
+        "pololu",
+        "Qik",
+        "VNH25P30"
+    ],
+    "name": "MotorControl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/VipaSpeed/code/MotorControl/"
+    }
+}

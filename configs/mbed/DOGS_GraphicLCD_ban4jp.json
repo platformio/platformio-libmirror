@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "ban4jp -",
+        "url": "https://os.mbed.com/users/ban4jp/"
+    },
+    "description": "This Library for DOGS-102 Graphic LCD module.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "MAX30101",
+        "MSS",
+        "MSU",
+        "3D",
+        "LCD",
+        "mono-lcd",
+        "api",
+        "blink",
+        "led"
+    ],
+    "name": "DOG-S_GraphicLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ban4jp/code/DOG-S_GraphicLCD/"
+    }
+}

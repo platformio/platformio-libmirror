@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/"
+    },
+    "description": "Maxim Integrated Bluetooth LE Library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "9bit",
+        "RS-485",
+        "Serial",
+        "bmp085",
+        "I2C"
+    ],
+    "name": "MaximBLE",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/code/MaximBLE/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "syslog device(client) library",
+    "frameworks": "mbed",
+    "keywords": [
+        "AT",
+        "C027",
+        "C030",
+        "CellularInterface",
+        "u-blox",
+        "logger",
+        "syslog",
+        "syslogd"
+    ],
+    "name": "logger",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/logger/"
+    }
+}

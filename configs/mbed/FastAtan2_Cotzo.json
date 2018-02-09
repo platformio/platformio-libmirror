@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Federico Luis Pinna Gonzalez",
+        "url": "https://os.mbed.com/users/Cotzo/"
+    },
+    "description": "Computes the arctangent using Lagrange polynomial approximation with fixed-point arithmetic.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "atan",
+        "atan2",
+        "fixed-point",
+        "trigonometry"
+    ],
+    "name": "FastAtan2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Cotzo/code/FastAtan2/"
+    }
+}

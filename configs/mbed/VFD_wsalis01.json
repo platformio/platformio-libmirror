@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Will Salisbury",
+        "url": "https://os.mbed.com/users/wsalis01/"
+    },
+    "description": "Library for Matrix Orbital VFD2041 display. Also useable for LCD2041 modules.",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "VFD",
+        "flash",
+        "M25PE10",
+        "M25PE20",
+        "memory",
+        "SPI",
+        "ST"
+    ],
+    "name": "VFD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wsalis01/code/VFD/"
+    }
+}

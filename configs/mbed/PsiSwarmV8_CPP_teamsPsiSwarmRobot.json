@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Psi Swarm Robot",
+        "url": "https://os.mbed.com/teams/Psi-Swarm-Robot/"
+    },
+    "description": "C++ Library for the PsiSwarm Robot - Version 0.8",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "amherst",
+        "M5",
+        "PCA9685",
+        "Servo",
+        "umass",
+        "zzm5",
+        "PsiSwarm"
+    ],
+    "name": "PsiSwarmV8_CPP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Psi-Swarm-Robot/code/PsiSwarmV8_CPP/"
+    }
+}

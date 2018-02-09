@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Andrew Hopewell",
+        "url": "https://os.mbed.com/users/AndyHope/"
+    },
+    "description": "Infrared remote test functions (11/26/2010)",
+    "frameworks": "mbed",
+    "keywords": [
+        "APA102",
+        "led",
+        "rgb",
+        "ws2801",
+        "2645",
+        "accelerometer",
+        "fxos8700cq",
+        "I2C",
+        "magnetometer",
+        "nxp"
+    ],
+    "name": "Infrared",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AndyHope/code/Infrared/"
+    }
+}

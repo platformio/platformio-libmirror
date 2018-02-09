@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Adrien Chapelet",
+        "url": "https://os.mbed.com/users/adrien3d/"
+    },
+    "description": "Sigfox Communication library, allowing you to use any kind of UART able Sigfox Transmitter",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "dynamixel",
+        "MX28",
+        "RS485",
+        "IOT",
+        "lpwan",
+        "sigfox",
+        "MX64"
+    ],
+    "name": "Sigfox_Com",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/adrien3d/code/Sigfox_Com/"
+    }
+}

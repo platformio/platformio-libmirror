@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Hendrik Lipka",
+        "url": "https://os.mbed.com/users/hlipka/"
+    },
+    "description": "Wraps the DNSRequest class from NetServices to be synchronous, which is easier to use.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "alarm",
+        "interrupt",
+        "RTC",
+        "time",
+        "ethernet",
+        "http",
+        "interface",
+        "server",
+        "HMC6352",
+        "FreeRTOS",
+        "rtos",
+        "dns",
+        "network",
+        "TCP",
+        "28BYJ-48",
+        "4phase",
+        "motor",
+        "Step",
+        "Stepper"
+    ],
+    "name": "DNSResolver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hlipka/code/DNSResolver/"
+    }
+}

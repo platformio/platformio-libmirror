@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Aaron Berk",
+        "url": "https://os.mbed.com/users/aberk/"
+    },
+    "description": "Quadrature encoder interface library.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "QEI",
+        "quadrature",
+        "H-bridge",
+        "motor",
+        "PwmOut",
+        "fatfilesystem",
+        "MMC",
+        "SD",
+        "SD Card",
+        "SDHC",
+        "SDXC",
+        "buffer",
+        "Buffered",
+        "rs232",
+        "RS485",
+        "Serial"
+    ],
+    "name": "QEI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aberk/code/QEI/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Serge Sozonoff",
+        "url": "https://os.mbed.com/users/ssozonoff/"
+    },
+    "description": "HMC6343",
+    "frameworks": "mbed",
+    "keywords": [
+        "Dimmer",
+        "DMX",
+        "DMX512",
+        "lighting",
+        "STM",
+        "stm32",
+        "compass",
+        "DISCO_L476VG",
+        "LSM303"
+    ],
+    "name": "HMC6343",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ssozonoff/code/HMC6343/"
+    }
+}

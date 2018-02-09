@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Chandler Matz",
+        "url": "https://os.mbed.com/users/cmatz3/"
+    },
+    "description": "Code used to connect the Grove RGB LCD display to an mbed microcontroller.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F429ZI",
+        "LCD",
+        "Touch Screen"
+    ],
+    "name": "Grove_LCD_RGB_Backlight",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cmatz3/code/Grove_LCD_RGB_Backlight/"
+    }
+}

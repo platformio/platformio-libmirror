@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "BNO055 Intelligent 9-axis absolute orientation sensor by Bosch Sensortec.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "acc",
+        "gyro",
+        "MPU6050",
+        "Art-Net",
+        "DMX",
+        "DMX512",
+        "ethernet",
+        "UDP",
+        "9-axis",
+        "BNO055",
+        "Cortex-M0+",
+        "MAG",
+        "orientation",
+        "sensor"
+    ],
+    "name": "BNO055_fusion",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/BNO055_fusion/"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Matt Dominey",
+        "url": "https://os.mbed.com/users/mdomino/"
+    },
+    "description": "Stopwatch library with start, stop, and getTime functions. Returns a 00:00:00 in MM:SS:MS format with a max duration of ~30min per documentation on the Timer class.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "L6470",
+        "AQM1602",
+        "display",
+        "I2C",
+        "led",
+        "Serial",
+        "Terminal",
+        "VT100",
+        "minutes",
+        "seconds",
+        "stopwatch",
+        "timer",
+        "watch"
+    ],
+    "name": "Stopwatch",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mdomino/code/Stopwatch/"
+    }
+}

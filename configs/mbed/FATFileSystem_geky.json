@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Christopher Haster",
+        "url": "https://os.mbed.com/users/geky/"
+    },
+    "description": "FATFileSystem",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed5",
+        "NetworkInterfaceAPI",
+        "Wi-Fi",
+        "WizFi250",
+        "8025",
+        "EPSON",
+        "RTC",
+        "RX-8025NB",
+        "16x2 LCD",
+        "TextLCD"
+    ],
+    "name": "FATFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/geky/code/FATFileSystem/"
+    }
+}

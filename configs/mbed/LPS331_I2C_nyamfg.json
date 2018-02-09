@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "NYA Manufacturing",
+        "url": "https://os.mbed.com/users/nyamfg/"
+    },
+    "description": "STMicroelectronics LPS331 I2C Library.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "pressure",
+        "sensor"
+    ],
+    "name": "LPS331_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nyamfg/code/LPS331_I2C/"
+    }
+}

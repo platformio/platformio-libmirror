@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Jason Mar",
+        "url": "https://os.mbed.com/users/jmar7/"
+    },
+    "description": "d",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "GPIO",
+        "TCA9554A",
+        "TI",
+        "DOGL",
+        "DOGL128",
+        "LCD",
+        "LCD 128x64",
+        "ST7565",
+        "ST7565R",
+        "migool"
+    ],
+    "name": "wave_player",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jmar7/code/wave_player/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "jetfishteam",
+        "url": "https://os.mbed.com/teams/jetfishteam/"
+    },
+    "description": "Library for use on MS5803 devices",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "2.4",
+        "LCD",
+        "MCUFRIEND",
+        "TFT"
+    ],
+    "name": "MS5803",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/jetfishteam/code/MS5803/"
+    }
+}

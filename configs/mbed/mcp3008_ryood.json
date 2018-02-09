@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Ryo Od",
+        "url": "https://os.mbed.com/users/ryood/"
+    },
+    "description": "A Library for MCP3008",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Axeda",
+        "flash"
+    ],
+    "name": "mcp3008",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ryood/code/mcp3008/"
+    }
+}

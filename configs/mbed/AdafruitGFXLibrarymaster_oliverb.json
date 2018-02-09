@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Oliver Broad",
+        "url": "https://os.mbed.com/users/oliverb/"
+    },
+    "description": "MBED Import of ADAFRUIT graphics library, BSD License",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "gyroscope",
+        "I2C",
+        "MPU-6050",
+        "MPU6050",
+        "MPU60x0",
+        "Lora",
+        "mdot",
+        "multitech"
+    ],
+    "name": "Adafruit-GFX-Library-master",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/oliverb/code/Adafruit-GFX-Library-master/"
+    }
+}

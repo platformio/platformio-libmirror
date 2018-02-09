@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Alex Allen",
+        "url": "https://os.mbed.com/users/AlexAllen/"
+    },
+    "description": "A library which implements vectors.",
+    "frameworks": "mbed",
+    "keywords": [
+        "bluetooth",
+        "bt",
+        "rtos",
+        "buzzer",
+        "piezo",
+        "BLE",
+        "Nordic",
+        "nRF51822"
+    ],
+    "name": "vectr",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AlexAllen/code/vectr/"
+    }
+}

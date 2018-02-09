@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Meurig Phillips",
+        "url": "https://os.mbed.com/users/meurigp/"
+    },
+    "description": "functions for reading the joystick",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "Joystick",
+    "name": "Joystick",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/meurigp/code/Joystick/"
+    }
+}

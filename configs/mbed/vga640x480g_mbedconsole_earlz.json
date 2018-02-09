@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Jordan Earls",
+        "url": "https://os.mbed.com/users/earlz/"
+    },
+    "description": "This is a version of vga640x480g customized to work well with MbedConsole",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "VGA",
+        "video",
+        "JPEG",
+        "adc",
+        "MCP",
+        "MCP3002"
+    ],
+    "name": "vga640x480g_mbedconsole",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/earlz/code/vga640x480g_mbedconsole/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Hexiwear",
+        "url": "https://os.mbed.com/teams/Hexiwear/"
+    },
+    "description": "Simple temperature and humidity program example for Hexiwear featuring UART",
+    "frameworks": "mbed",
+    "keywords": [
+        "dim",
+        "led",
+        "pattern"
+    ],
+    "name": "Hexi_Humid_Temp_Example",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Hexiwear/code/Hexi_Humid_Temp_Example/"
+    }
+}

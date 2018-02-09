@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Farbod (ex-Rohollah) Jam(ex-Miri)",
+        "url": "https://os.mbed.com/users/farbodjam/"
+    },
+    "description": "Motordriver",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "LCD 16x2",
+        "Parallel LCD",
+        "1D",
+        "2D",
+        "array",
+        "matrix"
+    ],
+    "name": "Motordriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/farbodjam/code/Motordriver/"
+    }
+}

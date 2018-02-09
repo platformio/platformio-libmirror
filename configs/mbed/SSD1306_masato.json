@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Masato YAMANISHI",
+        "url": "https://os.mbed.com/users/masato/"
+    },
+    "description": "derived from Aidafruit SSD1306 library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "SSD1306",
+    "name": "SSD1306",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/masato/code/SSD1306/"
+    }
+}

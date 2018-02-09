@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "STM32L476G-Discovery board drivers V1.0.0",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "802.15.4",
+        "wireless",
+        "xbee",
+        "BSP",
+        "DISCO_L476VG",
+        "Nucleo",
+        "PCA9685",
+        "pwm controller"
+    ],
+    "name": "BSP_DISCO_L476VG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/BSP_DISCO_L476VG/"
+    }
+}

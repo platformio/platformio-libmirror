@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Federico Luis Pinna Gonzalez",
+        "url": "https://os.mbed.com/users/Cotzo/"
+    },
+    "description": "Interface for driving a driver motor dc with control pwm.",
+    "frameworks": "mbed",
+    "keywords": [
+        "bus switch",
+        "I2C",
+        "PCA9546A",
+        "1wire",
+        "DS18B20",
+        "OneWire",
+        "motorDC"
+    ],
+    "name": "MotorDC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Cotzo/code/MotorDC/"
+    }
+}

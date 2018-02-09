@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "David Smart",
+        "url": "https://os.mbed.com/users/WiredHome/"
+    },
+    "description": "A simple .ini file interface.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Configuration",
+        "file",
+        "ini",
+        "interface"
+    ],
+    "name": "IniManager",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WiredHome/code/IniManager/"
+    }
+}

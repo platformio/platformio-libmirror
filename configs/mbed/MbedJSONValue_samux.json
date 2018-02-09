@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Samuel Mokrani",
+        "url": "https://os.mbed.com/users/samux/"
+    },
+    "description": "Minimalist JSON parser and serializer (inspired by picojson). Used by MbedJSONRpc.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "xbee",
+        "XBEE pro",
+        "zigbee",
+        "STM32F030F4",
+        "STM32F030F4P6",
+        "LCD",
+        "text"
+    ],
+    "name": "MbedJSONValue",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/samux/code/MbedJSONValue/"
+    }
+}

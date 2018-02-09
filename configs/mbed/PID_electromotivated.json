@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Bryce Williams",
+        "url": "https://os.mbed.com/users/electromotivated/"
+    },
+    "description": "Basic but robust PID library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "control",
+        "PID"
+    ],
+    "name": "PID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/electromotivated/code/PID/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Wesley Schon",
+        "url": "https://os.mbed.com/users/wschon/"
+    },
+    "description": "Driver for Sparkfun GP-20U7 GPS module",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "optical",
+        "Si1145",
+        "Si1146",
+        "Si1147",
+        "Si114x",
+        "uV",
+        "GPS",
+        "sparkfun"
+    ],
+    "name": "GP-20U7",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wschon/code/GP-20U7/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Mark Randall",
+        "url": "https://os.mbed.com/users/mr63/"
+    },
+    "description": "BMP085 Sparkfun class",
+    "frameworks": "mbed",
+    "keywords": [
+        "IHM03A1",
+        "Powerstep01",
+        "ST",
+        "ARCH",
+        "GPRS",
+        "Seeed",
+        "v2",
+        "bmp085",
+        "sparkfun"
+    ],
+    "name": "Sparkfun_BMP085",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mr63/code/Sparkfun_BMP085/"
+    }
+}

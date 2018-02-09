@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Dmitry Pakhomenko",
+        "url": "https://os.mbed.com/users/dmitryp/"
+    },
+    "description": "Added support for Vodafone K4606, for more details refer to",
+    "frameworks": "mbed",
+    "keywords": [
+        "EDP2",
+        "TMP102",
+        "TMP112"
+    ],
+    "name": "HTTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dmitryp/code/HTTPClient/"
+    }
+}

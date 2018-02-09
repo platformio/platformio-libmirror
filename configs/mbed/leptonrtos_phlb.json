@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "philippe le boulanger",
+        "url": "https://os.mbed.com/users/phlb/"
+    },
+    "description": "- POSIX embedded realtime operating system.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Humidity",
+        "Sensirion",
+        "sensor",
+        "SHT",
+        "SHT15",
+        "SHT1x",
+        "Temperature",
+        "POSIX",
+        "rtos"
+    ],
+    "name": "lepton-rtos",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/phlb/code/lepton-rtos/"
+    }
+}

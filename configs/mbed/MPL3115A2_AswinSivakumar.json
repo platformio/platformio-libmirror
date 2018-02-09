@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Aswin Sivakumar",
+        "url": "https://os.mbed.com/users/AswinSivakumar/"
+    },
+    "description": "MPL3115A2 Pressure sensor library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "EEPROM",
+        "flash",
+        "IAP",
+        "In-Application",
+        "internal",
+        "memory",
+        "programming"
+    ],
+    "name": "MPL3115A2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AswinSivakumar/code/MPL3115A2/"
+    }
+}

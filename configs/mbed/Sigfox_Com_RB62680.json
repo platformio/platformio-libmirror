@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Romain Braems",
+        "url": "https://os.mbed.com/users/RB62680/"
+    },
+    "description": "Sigfox Communication library, allowing you to use any kind of UART able Sigfox Transmitter",
+    "frameworks": "mbed",
+    "keywords": [
+        "IOT",
+        "sigfox",
+        "consumption",
+        "control",
+        "ethernet",
+        "Management",
+        "Power",
+        "PowerControl",
+        "Nucleo-F4xx",
+        "open-drain",
+        "UIT"
+    ],
+    "name": "Sigfox_Com",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RB62680/code/Sigfox_Com/"
+    }
+}

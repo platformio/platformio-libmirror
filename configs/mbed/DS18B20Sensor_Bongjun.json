@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Bongjun Hur",
+        "url": "https://os.mbed.com/users/Bongjun/"
+    },
+    "description": "Simple cpp wrapper of a ds18b20, onewire 'c' library.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "bus switch",
+        "I2C",
+        "PCA9546A",
+        "1wire",
+        "DS18B20",
+        "OneWire",
+        "motorDC"
+    ],
+    "name": "DS18B20Sensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Bongjun/code/DS18B20Sensor/"
+    }
+}

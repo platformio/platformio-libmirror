@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Awadh Al Shukaili",
+        "url": "https://os.mbed.com/users/aralshukaili/"
+    },
+    "description": "Library for controlling ultrasonic ranging module HCSR04",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "HCSR04",
+        "Ranging",
+        "ultrasonic",
+        "1",
+        "2",
+        "digimesh",
+        "Series",
+        "Wi-Fi",
+        "xbee",
+        "zigbee"
+    ],
+    "name": "HCSR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aralshukaili/code/HCSR04/"
+    }
+}

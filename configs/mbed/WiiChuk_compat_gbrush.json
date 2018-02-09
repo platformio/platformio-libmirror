@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Greg Brush",
+        "url": "https://os.mbed.com/users/gbrush/"
+    },
+    "description": "Revision of \\\"WiiChuck\\\" to use \\\"new\\\" initialization process that is compatible with 3rd party nunchuk controllers",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "numchuck",
+        "nunchuck",
+        "Nunchuk",
+        "Wii",
+        "LM75B",
+        "accelerometer",
+        "mma7361"
+    ],
+    "name": "WiiChuk_compat",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gbrush/code/WiiChuk_compat/"
+    }
+}

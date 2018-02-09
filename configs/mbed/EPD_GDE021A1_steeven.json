@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "steeven lee",
+        "url": "https://os.mbed.com/users/steeven/"
+    },
+    "description": "A lib to handle a E-Paper display from Jiaxian Displays. The lib can handle graphic and text drawing and is using external fonts. SPI interface.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "AD7791",
+        "adc"
+    ],
+    "name": "EPD_GDE021A1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/steeven/code/EPD_GDE021A1/"
+    }
+}

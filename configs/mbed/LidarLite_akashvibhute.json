@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Akash Vibhute",
+        "url": "https://os.mbed.com/users/akashvibhute/"
+    },
+    "description": "Library for easy interface of LidarLite with mbed using I2C",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "FTP",
+        "ftpclient",
+        "adc",
+        "dac",
+        "interrupt",
+        "Nucleo F446",
+        "polling",
+        "STM32F446",
+        "MQTT",
+        "LIDAR Lite",
+        "LidarLite"
+    ],
+    "name": "LidarLite",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/akashvibhute/code/LidarLite/"
+    }
+}

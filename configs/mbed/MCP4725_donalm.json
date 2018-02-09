@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Donal Morrissey",
+        "url": "https://os.mbed.com/users/donalm/"
+    },
+    "description": "Library for controlling an MCP4725 \"12-Bit Digital-to-Analog Converter with EEPROM Memory\".",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "cmsis",
+        "function",
+        "Instances",
+        "multiple",
+        "rtos",
+        "threads",
+        "AnalogIn",
+        "Capacitive",
+        "digitalOut",
+        "sensor",
+        "touch",
+        "I2C",
+        "MCP4725",
+        "biquad",
+        "DSP",
+        "filter"
+    ],
+    "name": "MCP4725",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donalm/code/MCP4725/"
+    }
+}

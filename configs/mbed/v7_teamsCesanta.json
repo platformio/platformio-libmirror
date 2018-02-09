@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Cesanta",
+        "url": "https://os.mbed.com/teams/Cesanta/"
+    },
+    "description": "Embedded JavaScript virtual machine",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "f746ZG",
+        "Nucleo",
+        "unzen",
+        "javascript",
+        "scripting"
+    ],
+    "name": "v7",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Cesanta/code/v7/"
+    }
+}

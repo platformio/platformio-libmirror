@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Gustavo Corrente",
+        "url": "https://os.mbed.com/users/gcorrente/"
+    },
+    "description": "QTR1RC class is the interface to read the Pololu QTR-xRC Reflectance Sensor.",
+    "frameworks": "mbed",
+    "keywords": [
+        "64 bit",
+        "timer class",
+        "Data Logging",
+        "datalog",
+        "FRAM",
+        "log"
+    ],
+    "name": "QTR1RC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gcorrente/code/QTR1RC/"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Citrusbyte Team",
+        "url": "https://os.mbed.com/users/citrusbyte/"
+    },
+    "description": "JSON parsing library by Andrii Mamchur",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "graphic",
+        "LCD",
+        "QVGA",
+        "RA8875",
+        "TFT",
+        "Touch Screen",
+        "WQVGA",
+        "WVGA",
+        "Adafruit",
+        "GFX",
+        "driver",
+        "HEXIWEAR",
+        "OLED",
+        "SSD1351",
+        "JSON"
+    ],
+    "name": "jsonlite",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/citrusbyte/code/jsonlite/"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "SparkFun Electronics",
+        "url": "https://os.mbed.com/users/sparkfun/"
+    },
+    "description": "Fork of the USBDevice library by mbed.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "device",
+        "USB",
+        "74hc595",
+        "Adafruit",
+        "arduino",
+        "FRDM-KL46Z",
+        "L293D",
+        "motor",
+        "motorshield",
+        "pwm"
+    ],
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sparkfun/code/USBDevice/"
+    }
+}

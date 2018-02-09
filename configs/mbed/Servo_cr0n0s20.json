@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Pedro Enrique Vidal Peñas",
+        "url": "https://os.mbed.com/users/cr0n0s20/"
+    },
+    "description": "SERVO PARA QUADCOPTER",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "quadcopter",
+        "Servo",
+        "DISCO_F746NG",
+        "SD",
+        "38kHz",
+        "IR",
+        "remote"
+    ],
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cr0n0s20/code/Servo/"
+    }
+}

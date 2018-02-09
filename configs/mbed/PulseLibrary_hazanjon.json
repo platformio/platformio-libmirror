@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Jon Hazan",
+        "url": "https://os.mbed.com/users/hazanjon/"
+    },
+    "description": "This is a Library I have created for a Project, the aim being to send the shutter release trigger signal to my Nikon D40x DSLR using an IR led.",
+    "frameworks": "mbed",
+    "keywords": [
+        "F401RE",
+        "L3GD20",
+        "Nucleo",
+        "device",
+        "USB"
+    ],
+    "name": "PulseLibrary",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hazanjon/code/PulseLibrary/"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Sang Vu Van",
+        "url": "https://os.mbed.com/users/SangSTBK/"
+    },
+    "description": "RF22",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "F401RE",
+        "Nucleo",
+        "USBHOST",
+        "Serial Communication",
+        "test console",
+        "test program",
+        "K64F",
+        "led",
+        "RF22",
+        "BUTTON",
+        "click"
+    ],
+    "name": "RF22",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SangSTBK/code/RF22/"
+    }
+}

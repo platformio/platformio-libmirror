@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Christian B.",
+        "url": "https://os.mbed.com/users/cbuss/"
+    },
+    "description": "This is a library for the Adafruit LED Backpacks.",
+    "frameworks": "mbed",
+    "keywords": [
+        "8x8",
+        "Adafruit",
+        "backpack",
+        "led"
+    ],
+    "name": "Adafruit_LEDBackpack",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cbuss/code/Adafruit_LEDBackpack/"
+    }
+}

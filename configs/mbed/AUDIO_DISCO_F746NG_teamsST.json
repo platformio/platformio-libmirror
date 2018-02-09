@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "Class for BSP AUDIO for DISCO_F746NG",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ds1307",
+        "RTC",
+        "WSE",
+        "max31855",
+        "Thermocouple",
+        "audio",
+        "DISCO_F746NG"
+    ],
+    "name": "AUDIO_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/AUDIO_DISCO_F746NG/"
+    }
+}

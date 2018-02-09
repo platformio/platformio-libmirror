@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Toshihisa T",
+        "url": "https://os.mbed.com/users/tosihisa/"
+    },
+    "description": "Class Library of \"INA226 CURRENT/POWER MONITOR with I2C\"",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "14bit",
+        "3-axis",
+        "8bit",
+        "accelerometer",
+        "I2C",
+        "MMA8451Q",
+        "gyroscope",
+        "l3g4200d",
+        "L3GD20",
+        "INA226"
+    ],
+    "name": "INA226",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tosihisa/code/INA226/"
+    }
+}

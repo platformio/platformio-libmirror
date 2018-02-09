@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "CHENGQI YANG",
+        "url": "https://os.mbed.com/users/yangcq88517/"
+    },
+    "description": "SP03 Text to Speech Synthesizer",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "SP03",
+        "speech",
+        "led",
+        "LED controller",
+        "led driver",
+        "PCA9622",
+        "PCA9624",
+        "PCA9626",
+        "PCA962x",
+        "pwm"
+    ],
+    "name": "SP03",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yangcq88517/code/SP03/"
+    }
+}

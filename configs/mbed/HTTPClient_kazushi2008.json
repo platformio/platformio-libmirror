@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Kazushi Mukaiyama",
+        "url": "https://os.mbed.com/users/kazushi2008/"
+    },
+    "description": "Fork with basicauth enabled.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "HD44780",
+        "I2C multiplexer",
+        "PCA9547",
+        "basicauth"
+    ],
+    "name": "HTTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kazushi2008/code/HTTPClient/"
+    }
+}

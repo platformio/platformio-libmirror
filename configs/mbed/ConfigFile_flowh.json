@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Florent Haddad",
+        "url": "https://os.mbed.com/users/flowh/"
+    },
+    "description": "Library to read and write configuration saved on SD Card",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "MPL115A2",
+    "name": "ConfigFile",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/flowh/code/ConfigFile/"
+    }
+}

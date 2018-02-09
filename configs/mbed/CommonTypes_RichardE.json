@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Richard Ellingworth",
+        "url": "https://os.mbed.com/users/RichardE/"
+    },
+    "description": "Contains a number of commonly used integer types which allows a degree of portability for any code which uses them.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "SCA3000",
+        "Nucleo",
+        "stm32",
+        "Wi-Fi",
+        "X-NUCLEO-IDW01M1"
+    ],
+    "name": "CommonTypes",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RichardE/code/CommonTypes/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Maggie Mei",
+        "url": "https://os.mbed.com/users/Maggie17/"
+    },
+    "description": "EMW3162 driver for NSAPI",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ADS7843",
+        "event",
+        "touch",
+        "Host",
+        "Paradigma",
+        "Pelletti",
+        "USB"
+    ],
+    "name": "emw3162-driver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Maggie17/code/emw3162-driver/"
+    }
+}

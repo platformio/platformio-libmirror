@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://os.mbed.com/users/simon/"
+    },
+    "description": "A library to send and receive MIDI messages over USB using the default USB-MIDI drivers on Win/Mac",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "DS18B20",
+        "one",
+        "Wire",
+        "library",
+        "MIDI",
+        "USB",
+        "USBMIDI",
+        "mbed",
+        "nRF51822",
+        "SD",
+        "SDFileSystem",
+        "sdhcfilesystem",
+        "FAT",
+        "clock",
+        "ds1307",
+        "I2C",
+        "RTC"
+    ],
+    "name": "USBMIDI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/simon/code/USBMIDI/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Edoardo De Marchi",
+        "url": "https://os.mbed.com/users/edodm85/"
+    },
+    "description": "Library for MMA7660FC Accelerometer device",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "bluetooth",
+        "simpleble",
+        "SerialHalfDuplex",
+        "accelerometer",
+        "Grove",
+        "I2C",
+        "MMA7660FC",
+        "MIDI"
+    ],
+    "name": "MMA7660FC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/edodm85/code/MMA7660FC/"
+    }
+}

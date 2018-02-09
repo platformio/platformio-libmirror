@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Martin Kojtal",
+        "url": "https://os.mbed.com/users/Kojto/"
+    },
+    "description": "A library for Freescale MCU which contain TSI peripheral, just for Kinetis L version. Because they use \"lighter\" version of TSI peripheral.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "interrupt",
+        "keypad",
+        "ANSI",
+        "Serial",
+        "Terminal",
+        "Freescale",
+        "sensing",
+        "touch",
+        "TSI",
+        "RangeFinder",
+        "SRF05",
+        "ultrasonic",
+        "sensor",
+        "Ultrasonic Ranging",
+        "Ultrasound Sensor"
+    ],
+    "name": "tsi_sensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Kojto/code/tsi_sensor/"
+    }
+}

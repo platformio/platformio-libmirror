@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Reiko Randoja",
+        "url": "https://os.mbed.com/users/Reiko/"
+    },
+    "description": "Motor",
+    "frameworks": "mbed",
+    "keywords": [
+        "SPI",
+        "DC",
+        "motor",
+        "PM motor"
+    ],
+    "name": "Motor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Reiko/code/Motor/"
+    }
+}

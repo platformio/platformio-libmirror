@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Jonne Valola",
+        "url": "https://os.mbed.com/users/smultron1977/"
+    },
+    "description": "This is a mbed library for a 1.8 inch 128x160 pixel SPI TFT display",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "1.8",
+        "SPI",
+        "TFT"
+    ],
+    "name": "ST7735_TFT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/smultron1977/code/ST7735_TFT/"
+    }
+}

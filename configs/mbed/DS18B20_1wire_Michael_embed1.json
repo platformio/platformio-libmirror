@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "M Hey",
+        "url": "https://os.mbed.com/users/Michael_embed1/"
+    },
+    "description": "Version of Richard Lane's library, with #define CABLE_EXT_DELAYS to extend reset() settling delays for extension cable",
+    "frameworks": "mbed",
+    "keywords": "DS18B20",
+    "name": "DS18B20_1wire",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Michael_embed1/code/DS18B20_1wire/"
+    }
+}

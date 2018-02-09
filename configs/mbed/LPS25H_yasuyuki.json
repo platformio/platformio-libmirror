@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "yasuyuki onodera",
+        "url": "https://os.mbed.com/users/yasuyuki/"
+    },
+    "description": "LPS25H library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "lps25h",
+        "EEPROM",
+        "IAP",
+        "In-Application Programming",
+        "internal EEPROM",
+        "internal flash memory"
+    ],
+    "name": "LPS25H",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yasuyuki/code/LPS25H/"
+    }
+}

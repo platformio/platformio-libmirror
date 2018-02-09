@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Claudio Donate",
+        "url": "https://os.mbed.com/users/cdonate/"
+    },
+    "description": "ITG3200 library with multiple configurable full-scale ranges. Based on the Sensor_test by Bo Carøe.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "LED Dimmer",
+        "led driver",
+        "PCA9955",
+        "full-scale",
+        "ITG3200",
+        "gpu",
+        "LCD",
+        "mbed",
+        "mini",
+        "minismartgpu",
+        "smart",
+        "SMARTGPU",
+        "vizic"
+    ],
+    "name": "ITG3200",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cdonate/code/ITG3200/"
+    }
+}

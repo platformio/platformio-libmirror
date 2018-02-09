@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Mike Panetta",
+        "url": "https://os.mbed.com/users/mpanetta/"
+    },
+    "description": "Modified MODSERIAL library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "msgpack",
+        "GP2Y0A21YK",
+        "Sharp"
+    ],
+    "name": "MODSERIAL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mpanetta/code/MODSERIAL/"
+    }
+}

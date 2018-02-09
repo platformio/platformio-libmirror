@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "USBDevice for STM support",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Melexis",
+        "MLX90614",
+        "2x40",
+        "40x2",
+        "HD44780",
+        "LCD",
+        "ST7066U",
+        "AnalogIn"
+    ],
+    "name": "USBDEVICE",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/USBDEVICE/"
+    }
+}

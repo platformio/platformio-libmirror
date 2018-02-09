@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Andy Kirkham",
+        "url": "https://os.mbed.com/users/AjK/"
+    },
+    "description": "MODDMA GPDMA Controller",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "power consumption",
+        "power control",
+        "power management",
+        "PowerControl",
+        "DMA",
+        "gpdma",
+        "MODDMA",
+        "adc",
+        "AnalogIn",
+        "burst",
+        "fast",
+        "cmsis",
+        "rtos",
+        "RTX",
+        "accelerometer",
+        "Freescale",
+        "magnetometer",
+        "sensor"
+    ],
+    "name": "MODDMA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AjK/code/MODDMA/"
+    }
+}

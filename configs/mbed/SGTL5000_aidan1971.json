@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Aidan Walton",
+        "url": "https://os.mbed.com/users/aidan1971/"
+    },
+    "description": "Library to control and transfer data from NXP SGTL5000. As used on the Teensy Audio Shield. It uses DMA to transfer I2S FIFO data.",
+    "frameworks": "mbed",
+    "keywords": [
+        "audio",
+        "SGTL5000"
+    ],
+    "name": "SGTL5000",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aidan1971/code/SGTL5000/"
+    }
+}

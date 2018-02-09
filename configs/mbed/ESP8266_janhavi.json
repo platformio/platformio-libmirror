@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Janhavi Kulkarni",
+        "url": "https://os.mbed.com/users/janhavi/"
+    },
+    "description": "Wrapper library for ESP8266",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F469NI",
+        "SD",
+        "H-bridge",
+        "Moror",
+        "PID",
+        "QEI",
+        "Stinger",
+        "Ticker",
+        "at45",
+        "12-bit",
+        "dac",
+        "MCP4822",
+        "SPI"
+    ],
+    "name": "ESP8266",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/janhavi/code/ESP8266/"
+    }
+}

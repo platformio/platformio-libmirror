@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Waldemar Dworakowski",
+        "url": "https://os.mbed.com/users/Waldek/"
+    },
+    "description": "Conversions for the LCD display in FRDM-KL46Z",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "4DGL",
+    "name": "Convert",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Waldek/code/Convert/"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Martin Olejar",
+        "url": "https://os.mbed.com/users/AtomX/"
+    },
+    "description": "RFID Chip MFRC522 driver",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "OLED",
+        "SSD1308",
+        "24LCxx",
+        "EEPROM",
+        "Microchip",
+        "Serial",
+        "Lora",
+        "Semtech",
+        "SX1276",
+        "SX1276Lib",
+        "SX1276MB1xAS"
+    ],
+    "name": "MFRC522",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AtomX/code/MFRC522/"
+    }
+}

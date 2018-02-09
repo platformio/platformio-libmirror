@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Thierry Pébayle",
+        "url": "https://os.mbed.com/users/pebayle/"
+    },
+    "description": "servo PWM and PPM output library. Uses timeout timers to provide servo PWM and PPM signals on any digital out pin. (does not use internal PWM generators). Flysky RC receiver example code provided.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "MPU9250",
+        "DISCO-F746",
+        "F746",
+        "Graphics",
+        "karpent",
+        "flysky",
+        "PPM",
+        "pwm",
+        "RC",
+        "Receiver",
+        "Servo",
+        "NeoPixel",
+        "rgb"
+    ],
+    "name": "SERVO_PPM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pebayle/code/SERVO_PPM/"
+    }
+}

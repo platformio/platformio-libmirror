@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Rune Langoy",
+        "url": "https://os.mbed.com/users/rlanghbv/"
+    },
+    "description": "A TextLCD interface for driving 4-bit 16x2 KS0066U LCD",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "AnalogIn",
+        "range",
+        "sensor",
+        "SRF08",
+        "16x2",
+        "4-bit",
+        "4bit",
+        "KS0066U",
+        "LCD",
+        "LCD 16x2"
+    ],
+    "name": "LCDLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rlanghbv/code/LCDLib/"
+    }
+}

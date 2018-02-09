@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Kazuhiro Ouchi",
+        "url": "https://os.mbed.com/users/kanpapa/"
+    },
+    "description": "Change path size.",
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "matrix",
+        "SDA5708",
+        "bluetooth",
+        "Evobots"
+    ],
+    "name": "HTTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kanpapa/code/HTTPClient/"
+    }
+}

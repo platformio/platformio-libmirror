@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Renesas",
+        "url": "https://os.mbed.com/teams/Renesas/"
+    },
+    "description": "USBHost custom library.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "GR-PEACH",
+        "LCD",
+        "wifiモジュール",
+        "F103RB",
+        "rpc",
+        "stm32",
+        "USBHOST"
+    ],
+    "name": "USBHost_custom",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Renesas/code/USBHost_custom/"
+    }
+}

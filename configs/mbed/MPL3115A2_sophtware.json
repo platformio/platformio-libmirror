@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Michael Lange",
+        "url": "https://os.mbed.com/users/sophtware/"
+    },
+    "description": "Library to wrapper most of the functions on the MPL3115A2 pressure and temperature sensor.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "NetServices",
+        "network",
+        "TCP",
+        "UDP",
+        "multiplexer",
+        "Shift Register",
+        "Altitude",
+        "Freescale",
+        "MPL3115A2",
+        "pressure",
+        "sensor",
+        "Temperature",
+        "nRF24L01"
+    ],
+    "name": "MPL3115A2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sophtware/code/MPL3115A2/"
+    }
+}

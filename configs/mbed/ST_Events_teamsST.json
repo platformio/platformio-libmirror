@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "This is a fork of the `events` subdirectory of https://github.com/ARMmbed/mbed-os",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "compass",
+        "eCompass",
+        "magnetometer",
+        "sensor"
+    ],
+    "name": "ST_Events",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/ST_Events/"
+    }
+}

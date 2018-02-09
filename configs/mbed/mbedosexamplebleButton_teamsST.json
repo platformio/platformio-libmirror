@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "BLE Button example",
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit 9DOF",
+        "L3GD20H",
+        "BLE",
+        "BLE Bluetooth Low Energy BLE",
+        "BUTTON",
+        "LIN"
+    ],
+    "name": "mbed-os-example-ble-Button",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/mbed-os-example-ble-Button/"
+    }
+}

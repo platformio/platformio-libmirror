@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Robert Ellis",
+        "url": "https://os.mbed.com/users/Phlaphead/"
+    },
+    "description": "SparkFun SerLCD v2.5 controller",
+    "frameworks": "mbed",
+    "keywords": [
+        "HMC5883L",
+        "MIDI",
+        "pwm",
+        "LCD",
+        "Serial",
+        "sparkfun"
+    ],
+    "name": "LCDSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Phlaphead/code/LCDSerial/"
+    }
+}

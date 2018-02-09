@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "ST Americas mbed Team",
+        "url": "https://os.mbed.com/teams/ST-Americas-mbed-Team/"
+    },
+    "description": "NFC NDEF library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "JY901",
+        "ADT7310",
+        "Nucleo",
+        "SPI",
+        "UIT"
+    ],
+    "name": "lib_NFC_NDEF",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST-Americas-mbed-Team/code/lib_NFC_NDEF/"
+    }
+}

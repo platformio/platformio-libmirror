@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Edoardo De Marchi",
+        "url": "https://os.mbed.com/users/edodm85/"
+    },
+    "description": "Library for TEA5767 FM stereo radio module",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "FM Radio",
+        "TEA5767",
+        "bounce",
+        "BUTTON",
+        "contact",
+        "keyboard",
+        "navigation",
+        "repeat",
+        "switch"
+    ],
+    "name": "TEA5767",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/edodm85/code/TEA5767/"
+    }
+}

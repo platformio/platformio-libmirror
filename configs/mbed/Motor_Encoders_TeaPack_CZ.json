@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Tea Pack",
+        "url": "https://os.mbed.com/users/TeaPack_CZ/"
+    },
+    "description": "Library for digital quadrature encoder",
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "InterruptIn",
+        "motor"
+    ],
+    "name": "Motor_Encoders",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/TeaPack_CZ/code/Motor_Encoders/"
+    }
+}

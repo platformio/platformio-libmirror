@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "Generic class libraries for 1D array and 2D array: Array and Matrix. 1次元および2次元配列用の汎用クラスライブラリ: Array と Matrix.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "LCD 16x2",
+        "Parallel LCD",
+        "1D",
+        "2D",
+        "array",
+        "matrix"
+    ],
+    "name": "Array_Matrix",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/Array_Matrix/"
+    }
+}

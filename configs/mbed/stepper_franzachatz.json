@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Franz Achatz",
+        "url": "https://os.mbed.com/users/franzachatz/"
+    },
+    "description": "simple library for applying number of steps, direction, speed and",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "CAN",
+        "message",
+        "CNC",
+        "motor",
+        "Stepper",
+        "clock",
+        "f401",
+        "Nucleo"
+    ],
+    "name": "stepper",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/franzachatz/code/stepper/"
+    }
+}

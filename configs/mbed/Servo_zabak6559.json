@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Zainal Abidin",
+        "url": "https://os.mbed.com/users/zabak6559/"
+    },
+    "description": "Servo",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "DigitalIn",
+        "accelerometer",
+        "ADXL362",
+        "Analog",
+        "AnalogIn",
+        "gyro",
+        "sensor"
+    ],
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/zabak6559/code/Servo/"
+    }
+}

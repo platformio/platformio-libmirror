@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Tom Kreyche",
+        "url": "https://os.mbed.com/users/tkreyche/"
+    },
+    "description": "Library for ADT7410 I2C temperature sensor.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ADT7410",
+        "GPS",
+        "parse",
+        "DHT22",
+        "RHT03",
+        "Encoder",
+        "QEI",
+        "qudrature",
+        "rotary"
+    ],
+    "name": "ADT7410",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tkreyche/code/ADT7410/"
+    }
+}

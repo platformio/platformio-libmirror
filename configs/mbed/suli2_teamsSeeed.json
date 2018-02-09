@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Seeed",
+        "url": "https://os.mbed.com/teams/Seeed/"
+    },
+    "description": "seeed unified library interface",
+    "frameworks": "mbed",
+    "keywords": [
+        "Gatech",
+        "accelerometer",
+        "LSM303DLHC",
+        "magnetometer",
+        "Temperature"
+    ],
+    "name": "suli2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Seeed/code/suli2/"
+    }
+}

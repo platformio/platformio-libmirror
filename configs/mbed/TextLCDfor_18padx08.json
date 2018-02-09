@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Patrick Amrein",
+        "url": "https://os.mbed.com/users/18padx08/"
+    },
+    "description": "TextLCD for GDM2004D based on testbed version based on TextLCD. Changed to library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "network",
+        "WNC"
+    ],
+    "name": "TextLCDfor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/18padx08/code/TextLCDfor/"
+    }
+}

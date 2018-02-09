@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Eduardo Avelar",
+        "url": "https://os.mbed.com/users/AVELARDEV/"
+    },
+    "description": "port oxullo library Arduino",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "Microchip",
+        "16",
+        "HT1621",
+        "LCD",
+        "segment"
+    ],
+    "name": "MAX30100",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AVELARDEV/code/MAX30100/"
+    }
+}

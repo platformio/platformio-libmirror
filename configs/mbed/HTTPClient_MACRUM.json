@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Toyomasa Watarai",
+        "url": "https://os.mbed.com/users/MACRUM/"
+    },
+    "description": "A HTTP Client library - increase receive buffer size",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "GPS",
+        "NMEA",
+        "Venus",
+        "16x2",
+        "20x2",
+        "20X4",
+        "40x2",
+        "HD4478",
+        "TextLCD",
+        "I2C",
+        "PCF8583",
+        "RTC"
+    ],
+    "name": "HTTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MACRUM/code/HTTPClient/"
+    }
+}

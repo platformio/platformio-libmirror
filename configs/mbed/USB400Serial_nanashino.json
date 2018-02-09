@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Yasuhisa KAWAMOTO",
+        "url": "https://os.mbed.com/users/nanashino/"
+    },
+    "description": "EnOcean USB400 Serial Library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "USB400Serial",
+    "name": "USB400Serial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nanashino/code/USB400Serial/"
+    }
+}

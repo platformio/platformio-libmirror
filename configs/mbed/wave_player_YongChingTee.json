@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "YongChing Tee",
+        "url": "https://os.mbed.com/users/YongChingTee/"
+    },
+    "description": "forked",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Analog",
+        "CN0391",
+        "devices",
+        "Thermocouple",
+        "I2C",
+        "IMU",
+        "LEGO",
+        "mindstorms",
+        "AT",
+        "parser",
+        "AITENDO",
+        "OLED"
+    ],
+    "name": "wave_player",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/YongChingTee/code/wave_player/"
+    }
+}

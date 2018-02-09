@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "rosya satria",
+        "url": "https://os.mbed.com/users/satriabtp/"
+    },
+    "description": "adds getMACAddress() like getIPAddress(). Initializes in constructor.",
+    "frameworks": "mbed",
+    "keywords": [
+        "etti",
+        "TUIASI",
+        "card",
+        "fatfilesystem",
+        "MMC",
+        "SD",
+        "SDHC",
+        "SDXC"
+    ],
+    "name": "EthernetInterface_RSF",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/satriabtp/code/EthernetInterface_RSF/"
+    }
+}

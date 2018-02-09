@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Blackstone Engineering",
+        "url": "https://os.mbed.com/users/mbedAustin/"
+    },
+    "description": "If This Then That interface library. Designed to hook up to various services provided by IFTTT.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "if this then that",
+        "IFTTT",
+        "maker channel",
+        "maker.ifttt.com"
+    ],
+    "name": "IFTTT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbedAustin/code/IFTTT/"
+    }
+}

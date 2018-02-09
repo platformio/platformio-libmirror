@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Jay Cady",
+        "url": "https://os.mbed.com/users/jcady92/"
+    },
+    "description": "Simple implementation of the watchdog timer for NRF51xxx.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ambient",
+        "light",
+        "max",
+        "MAX44009",
+        "Maxim",
+        "sensor",
+        "FeRAM",
+        "Nordic",
+        "nRF",
+        "nRF51422",
+        "nRF51822",
+        "timer",
+        "watchdog"
+    ],
+    "name": "WatchdogTimer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jcady92/code/WatchdogTimer/"
+    }
+}

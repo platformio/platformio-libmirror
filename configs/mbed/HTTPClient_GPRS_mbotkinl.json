@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Micah B",
+        "url": "https://os.mbed.com/users/mbotkinl/"
+    },
+    "description": "http",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Configuration",
+        "file",
+        "ini",
+        "interface"
+    ],
+    "name": "HTTPClient_GPRS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbotkinl/code/HTTPClient_GPRS/"
+    }
+}

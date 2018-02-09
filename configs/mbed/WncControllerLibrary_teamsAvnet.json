@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Avnet",
+        "url": "https://os.mbed.com/teams/Avnet/"
+    },
+    "description": "This library controls the WNC. There is a derived class for usage from the K64F board.",
+    "frameworks": "mbed",
+    "keywords": [
+        "frequency",
+        "14A2A",
+        "ATT",
+        "avnet",
+        "Cellular",
+        "modem",
+        "WNC",
+        "WncController"
+    ],
+    "name": "WncControllerLibrary",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Avnet/code/WncControllerLibrary/"
+    }
+}

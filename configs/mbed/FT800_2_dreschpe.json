@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "Lib for FTDI FT800 graphic controller \"EVE\"",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "EVE-FT800",
+        "ADAM"
+    ],
+    "name": "FT800_2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/FT800_2/"
+    }
+}

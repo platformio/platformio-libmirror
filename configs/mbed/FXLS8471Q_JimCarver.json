@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Jim Carver",
+        "url": "https://os.mbed.com/users/JimCarver/"
+    },
+    "description": "Rev 0.1 Simple operation of just X, Y, Z values in floating point G's",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "graphic",
+        "monochrome",
+        "VGA",
+        "ILI9341",
+        "SPI"
+    ],
+    "name": "FXLS8471Q",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JimCarver/code/FXLS8471Q/"
+    }
+}

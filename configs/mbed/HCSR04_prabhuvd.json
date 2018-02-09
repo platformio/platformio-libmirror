@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Prabhu Desai",
+        "url": "https://os.mbed.com/users/prabhuvd/"
+    },
+    "description": "Ultrasound Ranging Sensor module",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "interrupt",
+        "keypad",
+        "ANSI",
+        "Serial",
+        "Terminal",
+        "Freescale",
+        "sensing",
+        "touch",
+        "TSI",
+        "RangeFinder",
+        "SRF05",
+        "ultrasonic",
+        "sensor",
+        "Ultrasonic Ranging",
+        "Ultrasound Sensor"
+    ],
+    "name": "HCSR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/prabhuvd/code/HCSR04/"
+    }
+}

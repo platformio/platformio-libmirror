@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "Fork of the Freetronics LCD Shield library by KKempeneers.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "card",
+        "SD",
+        "16x2",
+        "freetronics",
+        "LCD",
+        "blinking",
+        "led",
+        "dynamixel",
+        "MX28",
+        "Servo",
+        "I2C",
+        "software",
+        "1-wire",
+        "DS18B20"
+    ],
+    "name": "Freetronics_16x2_LCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/Freetronics_16x2_LCD/"
+    }
+}

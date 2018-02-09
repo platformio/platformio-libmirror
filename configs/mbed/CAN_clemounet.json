@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Clément BENOIT",
+        "url": "https://os.mbed.com/users/clemounet/"
+    },
+    "description": "CanInterface Dispatcher, it depends on MyThread (MyThings lib)",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "hih6130",
+        "Humidity",
+        "I2C",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "CAN",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/clemounet/code/CAN/"
+    }
+}

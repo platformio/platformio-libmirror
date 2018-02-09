@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Joseph Bradshaw",
+        "url": "https://os.mbed.com/users/jebradshaw/"
+    },
+    "description": "C Library for mbedWSE project based single board computer for hardware peripherals",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "Bluetooth Low Energy",
+        "ST",
+        "X-NUCLEO-IDB04A1",
+        "X-NUCLEO-IDB05A1",
+        "buzzer",
+        "piezo",
+        "SBC",
+        "WSE",
+        "pwm",
+        "PwmOut",
+        "SoftPWM",
+        "softwearPWM"
+    ],
+    "name": "mbedWSEsbc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jebradshaw/code/mbedWSEsbc/"
+    }
+}

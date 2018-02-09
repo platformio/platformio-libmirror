@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Jonne Valola",
+        "url": "https://os.mbed.com/users/Pokitto/"
+    },
+    "description": "PokittoLib is the library needed for programming the Pokitto DIY game console (www.pokitto.com)",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Pokitto",
+        "checksum",
+        "packets",
+        "protocol",
+        "Serial",
+        "simple"
+    ],
+    "name": "PokittoLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Pokitto/code/PokittoLib/"
+    }
+}

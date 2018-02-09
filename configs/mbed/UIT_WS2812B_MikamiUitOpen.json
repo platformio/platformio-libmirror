@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "Class library for WS2812B. Board: Nucleo-F401RE and Nucleo-F446RE using SPI.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Serial",
+        "Terminal",
+        "VT100",
+        "VT200",
+        "VT52",
+        "f401",
+        "F446",
+        "Nucleo",
+        "RGB LED",
+        "SPI",
+        "UIT",
+        "WS2812B"
+    ],
+    "name": "UIT_WS2812B",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/UIT_WS2812B/"
+    }
+}

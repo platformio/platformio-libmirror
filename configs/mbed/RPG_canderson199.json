@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Christopher Anderson",
+        "url": "https://os.mbed.com/users/canderson199/"
+    },
+    "description": "Simple RPG Library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "time",
+        "timezone"
+    ],
+    "name": "RPG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/canderson199/code/RPG/"
+    }
+}

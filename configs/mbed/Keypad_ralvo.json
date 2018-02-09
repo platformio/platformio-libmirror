@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Ramon Calvo",
+        "url": "https://os.mbed.com/users/ralvo/"
+    },
+    "description": "A basic keypad library. It uses C++ STL. May contain some bugs. Use at your own risk.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "aconno",
+        "nrf52",
+        "UART",
+        "BurstSPI",
+        "F411RE"
+    ],
+    "name": "Keypad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ralvo/code/Keypad/"
+    }
+}

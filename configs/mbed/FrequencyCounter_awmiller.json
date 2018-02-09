@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Andrew Miller",
+        "url": "https://os.mbed.com/users/awmiller/"
+    },
+    "description": "counts digital frequency based on interrupt and timer, triggers on rising edge",
+    "frameworks": "mbed",
+    "keywords": [
+        "rn41",
+        "BNO055",
+        "Elmicro",
+        "FM25W256",
+        "FRAM",
+        "RAMTRON",
+        "SPI",
+        "SSP1"
+    ],
+    "name": "FrequencyCounter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/awmiller/code/FrequencyCounter/"
+    }
+}

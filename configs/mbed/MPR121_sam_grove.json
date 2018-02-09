@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Sam Grove",
+        "url": "https://os.mbed.com/users/sam_grove/"
+    },
+    "description": "A device driver for the Freescale MPR121 capactive touch IC. Not optimized for any particular system, just a starting point to get the chip up in running in no time. Changes to registers init() method will tailor the library for end system use.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "MPR121",
+        "Grove-I2C-Touch-Sensor"
+    ],
+    "name": "MPR121",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sam_grove/code/MPR121/"
+    }
+}

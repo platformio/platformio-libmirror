@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Joel Rosiene",
+        "url": "https://os.mbed.com/users/rosienej/"
+    },
+    "description": "Routines to drive a chain of APA102 Leds.",
+    "frameworks": "mbed",
+    "keywords": "APA102",
+    "name": "APA102",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rosienej/code/APA102/"
+    }
+}

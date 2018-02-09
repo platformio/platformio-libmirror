@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "tetsuya noguchi",
+        "url": "https://os.mbed.com/users/TETSUYA/"
+    },
+    "description": "ALO-095BWNN-J9 aitendo OLED 96x64 SPI model Ver1.04",
+    "frameworks": "mbed",
+    "keywords": [
+        "Nokia 5110",
+        "NOKIA5110",
+        "pcd8544",
+        "accelerometer",
+        "gyroscope",
+        "IMU",
+        "LSM9DS0",
+        "magnetometer",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "OledLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/TETSUYA/code/OledLib/"
+    }
+}

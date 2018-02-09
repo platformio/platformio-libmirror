@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://os.mbed.com/users/simon/"
+    },
+    "description": "ID12 RFID library for reading 125KHz RFID tags",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "gyroscope",
+        "ITG-3200",
+        "ITG3200",
+        "ID12",
+        "RFID",
+        "Serial"
+    ],
+    "name": "ID12RFID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/simon/code/ID12RFID/"
+    }
+}

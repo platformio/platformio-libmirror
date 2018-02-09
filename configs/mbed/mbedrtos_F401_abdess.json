@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Abdessamad El Abbassi",
+        "url": "https://os.mbed.com/users/abdess/"
+    },
+    "description": "Official mbed Real Time Operating System based on the RTX implementation of the CMSIS-RTOS API open standard.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "cmsis",
+        "rtos",
+        "RTX",
+        "digitalOut",
+        "led",
+        "Grove",
+        "heartrate",
+        "sensor"
+    ],
+    "name": "mbed-rtos_F401",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/abdess/code/mbed-rtos_F401/"
+    }
+}

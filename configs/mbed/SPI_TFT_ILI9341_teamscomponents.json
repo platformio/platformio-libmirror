@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "Lib for the LCD Display with ILI9341 controller",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "ILI9341",
+        "LCD",
+        "ADT7410",
+        "Analog Devices",
+        "I2C",
+        "temperature sensor",
+        "mbed"
+    ],
+    "name": "SPI_TFT_ILI9341",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/SPI_TFT_ILI9341/"
+    }
+}

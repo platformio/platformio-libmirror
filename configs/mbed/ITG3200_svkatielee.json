@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Larry Littlefield",
+        "url": "https://os.mbed.com/users/svkatielee/"
+    },
+    "description": "Ported to have same calls as L3G4200D lib so it can be substituted in HK10dof library ( which is being modified to use this and renamed IMU10DOF) platform NUCLEO-F401",
+    "frameworks": "mbed",
+    "keywords": [
+        "HK10DOF",
+        "IMU10DOF",
+        "ITG3200",
+        "MEMS"
+    ],
+    "name": "ITG3200",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/svkatielee/code/ITG3200/"
+    }
+}

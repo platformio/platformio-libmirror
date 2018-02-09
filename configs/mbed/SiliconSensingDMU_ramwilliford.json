@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Randall Williford",
+        "url": "https://os.mbed.com/users/ramwilliford/"
+    },
+    "description": "A library for Silicon Sensing DMU02",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "arithmetic",
+        "fixed",
+        "point",
+        "FATFS",
+        "NP8P128A13",
+        "Phase Change RAM",
+        "PRAM",
+        "SPI"
+    ],
+    "name": "SiliconSensingDMU",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ramwilliford/code/SiliconSensingDMU/"
+    }
+}

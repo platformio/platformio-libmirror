@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "雄介 太田",
+        "url": "https://os.mbed.com/users/yusuke_kyo/"
+    },
+    "description": "Dyanamixel",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "mutex",
+        "rtos",
+        "DeepSleep",
+        "InterruptIn",
+        "LPC1114"
+    ],
+    "name": "Dynamixel",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yusuke_kyo/code/Dynamixel/"
+    }
+}

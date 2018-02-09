@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Lukasz Uszko",
+        "url": "https://os.mbed.com/users/igbt6/"
+    },
+    "description": "library for ADT7410 temperature sensor first version",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "ILI9341",
+        "LCD",
+        "ADT7410",
+        "Analog Devices",
+        "I2C",
+        "temperature sensor",
+        "mbed"
+    ],
+    "name": "ADT7410",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/igbt6/code/ADT7410/"
+    }
+}

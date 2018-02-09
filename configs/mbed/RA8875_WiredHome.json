@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "David Smart",
+        "url": "https://os.mbed.com/users/WiredHome/"
+    },
+    "description": "Library to control a Graphics TFT connected to 4-wire SPI - revised for the Raio RA8875 Display Controller.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "graphic",
+        "LCD",
+        "QVGA",
+        "RA8875",
+        "TFT",
+        "Touch Screen",
+        "WQVGA",
+        "WVGA",
+        "Adafruit",
+        "GFX",
+        "driver",
+        "HEXIWEAR",
+        "OLED",
+        "SSD1351",
+        "JSON"
+    ],
+    "name": "RA8875",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WiredHome/code/RA8875/"
+    }
+}

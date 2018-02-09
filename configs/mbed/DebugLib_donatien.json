@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Donatien Garnier",
+        "url": "https://os.mbed.com/users/donatien/"
+    },
+    "description": "Debug library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "character",
+        "display",
+        "HD44780",
+        "LCD"
+    ],
+    "name": "DebugLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donatien/code/DebugLib/"
+    }
+}

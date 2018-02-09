@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Teemu Lilleberg",
+        "url": "https://os.mbed.com/users/MetropoliaMies/"
+    },
+    "description": "*power consumption control(phy , semihost) library written by Michael Wei",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "consumption",
+        "control",
+        "ethernet",
+        "Management",
+        "Power",
+        "PowerControl"
+    ],
+    "name": "PowerControl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MetropoliaMies/code/PowerControl/"
+    }
+}

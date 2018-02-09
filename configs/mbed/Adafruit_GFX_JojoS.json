@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Johannes Stratmann",
+        "url": "https://os.mbed.com/users/JojoS/"
+    },
+    "description": "i2c version has an offset due to wrong copy of temp buffer to display buffer, fixed in Adafruit_SSD1306.h",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "infrared",
+        "IR",
+        "Multiprotocol",
+        "NEC",
+        "RC5",
+        "RC6"
+    ],
+    "name": "Adafruit_GFX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JojoS/code/Adafruit_GFX/"
+    }
+}

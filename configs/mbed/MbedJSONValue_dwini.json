@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Nico De Witte",
+        "url": "https://os.mbed.com/users/dwini/"
+    },
+    "description": "Minimalist JSON parser and serializer (inspired by picojson). Used by MbedJSONRpc. (Original by Samuel Mokrani)",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "AquesTalk pico",
+        "ATP3011",
+        "CN0216",
+        "scale",
+        "sensor",
+        "weigh",
+        "2016年度IZU"
+    ],
+    "name": "MbedJSONValue",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dwini/code/MbedJSONValue/"
+    }
+}

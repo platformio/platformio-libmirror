@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Thanawat Phattaraworamet",
+        "url": "https://os.mbed.com/users/fookies/"
+    },
+    "description": "Library for ublox neo 6m",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "SRF02",
+        "GPGGA",
+        "JPEG",
+        "LS-Y201",
+        "algebra",
+        "Kinematics",
+        "Linear",
+        "matrix"
+    ],
+    "name": "GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fookies/code/GPS/"
+    }
+}

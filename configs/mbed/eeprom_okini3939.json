@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "LPC11U24 internal EEPROM",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "AQM1602",
+        "I2C",
+        "Nucleo",
+        "UIT",
+        "EEPROM",
+        "LPC11U24",
+        "DMA",
+        "KL25z",
+        "accelerometer",
+        "DHT22"
+    ],
+    "name": "eeprom",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/eeprom/"
+    }
+}

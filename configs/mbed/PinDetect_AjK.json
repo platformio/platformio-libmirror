@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Andy Kirkham",
+        "url": "https://os.mbed.com/users/AjK/"
+    },
+    "description": "InterruptIn style DigitalIn debounced with callbacks for pin state change and pin state hold.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "control",
+        "PID",
+        "debounce",
+        "DigitalIn",
+        "InterruptIn",
+        "SDFileSystem"
+    ],
+    "name": "PinDetect",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AjK/code/PinDetect/"
+    }
+}

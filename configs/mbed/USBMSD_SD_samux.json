@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Samuel Mokrani",
+        "url": "https://os.mbed.com/users/samux/"
+    },
+    "description": "USBMSD example using an SD card",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "filter",
+        "IMU",
+        "orientation"
+    ],
+    "name": "USBMSD_SD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/samux/code/USBMSD_SD/"
+    }
+}

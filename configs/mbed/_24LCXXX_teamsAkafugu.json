@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Akafugu",
+        "url": "https://os.mbed.com/teams/Akafugu/"
+    },
+    "description": "24LCXXX I2C eeprom library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "_24LCXXX",
+    "name": "_24LCXXX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Akafugu/code/_24LCXXX/"
+    }
+}

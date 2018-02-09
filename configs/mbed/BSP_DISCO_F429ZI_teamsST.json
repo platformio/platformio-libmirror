@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "STM32F429ZI Discovery board drivers",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "tcp/ip",
+        "W5500",
+        "W5500 Ethernet shield",
+        "W7500",
+        "W7500P",
+        "Wiznet",
+        "WIZnetInterface",
+        "WIZwiki_W7500",
+        "WIZwiki_W7500ECO",
+        "WIZwiki_W7500P",
+        "HTTPServer",
+        "BSP",
+        "DISCO_F429ZI",
+        "LCD"
+    ],
+    "name": "BSP_DISCO_F429ZI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/BSP_DISCO_F429ZI/"
+    }
+}

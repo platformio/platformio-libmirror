@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Ben Goodman",
+        "url": "https://os.mbed.com/users/Benegoodman/"
+    },
+    "description": "Cell Library",
+    "frameworks": "mbed",
+    "keywords": [
+        "C027",
+        "C030",
+        "file",
+        "SMS",
+        "u-blox",
+        "ussd"
+    ],
+    "name": "CELL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Benegoodman/code/CELL/"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Michael Shimniok",
+        "url": "https://os.mbed.com/users/shimniok/"
+    },
+    "description": "Simple PWM / beep generation library. Supports timed-duration beeps or infinite length tone generation.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "motor",
+        "Stepper",
+        "unipolar",
+        "joystick",
+        "Beep",
+        "sound",
+        "tone",
+        "accelerometer",
+        "LIS302",
+        "SPI",
+        "AQM1602",
+        "I2C",
+        "Nucleo",
+        "UIT"
+    ],
+    "name": "Beep",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shimniok/code/Beep/"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Jordan Earls",
+        "url": "https://os.mbed.com/users/earlz/"
+    },
+    "description": "A version of the PS/2 library customized for MbedConsole. Also includes a few things that make it's behavior easier to control and a few bug fixes.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "8",
+        "ack",
+        "Analog",
+        "awesome",
+        "bit",
+        "channel",
+        "converter",
+        "dac",
+        "Digital",
+        "dual",
+        "I2C",
+        "isolated",
+        "MAX518",
+        "no-ack",
+        "Input",
+        "keyboard",
+        "PS/2",
+        "ax12",
+        "dynamixel",
+        "motor",
+        "Servo"
+    ],
+    "name": "PS2_MbedConsole",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/earlz/code/PS2_MbedConsole/"
+    }
+}

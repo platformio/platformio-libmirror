@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Nicholas Herriot",
+        "url": "https://os.mbed.com/users/nherriot/"
+    },
+    "description": "A tiny change to SKPanks GPS library to allow Ublox GPS modems to work.",
+    "frameworks": "mbed",
+    "keywords": [
+        "GPS",
+        "ublox",
+        "Vodafone"
+    ],
+    "name": "UbloxVodafoneGPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nherriot/code/UbloxVodafoneGPS/"
+    }
+}

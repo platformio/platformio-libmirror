@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Ollie Milton",
+        "url": "https://os.mbed.com/users/ollie8/"
+    },
+    "description": "A HTTP Client for the mbed networking libraries with HTTPFile for use with latest networking stack",
+    "frameworks": "mbed",
+    "keywords": [
+        "adns9500",
+        "avago",
+        "laser",
+        "motion",
+        "Mouse",
+        "navigation",
+        "sensor",
+        "adafruit printer",
+        "thermal printer"
+    ],
+    "name": "HTTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ollie8/code/HTTPClient/"
+    }
+}

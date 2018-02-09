@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Dwayne Dilbeck",
+        "url": "https://os.mbed.com/users/jakowisp/"
+    },
+    "description": "Adjust the LCD_Menu to use the mBed Application board resources",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "unk",
+    "name": "LCD_Menu",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jakowisp/code/LCD_Menu/"
+    }
+}

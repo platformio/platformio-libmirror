@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Seeed",
+        "url": "https://os.mbed.com/teams/Seeed/"
+    },
+    "description": "grove_compass",
+    "frameworks": "mbed",
+    "keywords": "grove_compass",
+    "name": "grove_compass",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Seeed/code/grove_compass/"
+    }
+}

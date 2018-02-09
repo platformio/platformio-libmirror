@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Alexander Lang",
+        "url": "https://os.mbed.com/users/langster1980/"
+    },
+    "description": "A fork of the mbed 4dgenie library with updated baud rate and reset function",
+    "frameworks": "mbed",
+    "keywords": [
+        "aconno",
+        "NFC",
+        "nrf52"
+    ],
+    "name": "4dGENIE",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/langster1980/code/4dGENIE/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "justin kim",
+        "url": "https://os.mbed.com/users/justinkim/"
+    },
+    "description": "Arducam_OV5642_Library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Arducam",
+        "OV5642",
+        "HY-1.8",
+        "ST7735",
+        "HMC5843",
+        "sparkfun"
+    ],
+    "name": "Arducam_OV5642",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/justinkim/code/Arducam_OV5642/"
+    }
+}

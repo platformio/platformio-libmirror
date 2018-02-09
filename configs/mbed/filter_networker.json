@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Ad van der Weiden",
+        "url": "https://os.mbed.com/users/networker/"
+    },
+    "description": "a floating median filter to filter floating point data such as analog inputs",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Essex",
+        "HEJ",
+        "AnalogIn",
+        "filter",
+        "median",
+        "outlier",
+        "spikes"
+    ],
+    "name": "filter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/networker/code/filter/"
+    }
+}

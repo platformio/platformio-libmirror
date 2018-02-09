@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "HIMBED_3AHELI",
+        "url": "https://os.mbed.com/teams/HIMBED_3AHELI/"
+    },
+    "description": "RTC8563 libray for real time clock PCF8563",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "wallbot",
+        "AX-12",
+        "AX-12W",
+        "control",
+        "dynamixel",
+        "LPC1768",
+        "nxp",
+        "PAPACO",
+        "Robotics",
+        "Servo",
+        "Humidity",
+        "Sensirion",
+        "SHT7x",
+        "Temperature"
+    ],
+    "name": "RTC8563",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/HIMBED_3AHELI/code/RTC8563/"
+    }
+}

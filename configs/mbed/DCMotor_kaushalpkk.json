@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Krishna Kaushal Panduru",
+        "url": "https://os.mbed.com/users/kaushalpkk/"
+    },
+    "description": "software to control a DC motor, preferably interfacing with a motor driver.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Akizuki",
+        "Humidity",
+        "I2C",
+        "MEMS",
+        "sensor",
+        "Temperature",
+        "TI",
+        "acctuators",
+        "EthernetInterface",
+        "gainspan",
+        "GS1011",
+        "GS1011M",
+        "Wi-Fi",
+        "wifi"
+    ],
+    "name": "DCMotor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kaushalpkk/code/DCMotor/"
+    }
+}

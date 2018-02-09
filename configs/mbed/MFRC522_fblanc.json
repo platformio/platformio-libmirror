@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "frederic blanc",
+        "url": "https://os.mbed.com/users/fblanc/"
+    },
+    "description": "test ok",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "RFID",
+        "RFID-RC522"
+    ],
+    "name": "MFRC522",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fblanc/code/MFRC522/"
+    }
+}

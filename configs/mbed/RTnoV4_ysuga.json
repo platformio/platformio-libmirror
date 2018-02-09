@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Yuki Suga",
+        "url": "https://os.mbed.com/users/ysuga/"
+    },
+    "description": "RTno is communicating library and framework which allows you to make your embedded device capable of communicating with RT-middleware world.",
+    "frameworks": "mbed",
+    "keywords": [
+        "EEPROM",
+        "read",
+        "stm32",
+        "Clock Generator",
+        "Si5351A",
+        "SiLabs",
+        "robot",
+        "Robotics",
+        "RT-component",
+        "RT-middleware"
+    ],
+    "name": "RTnoV4",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ysuga/code/RTnoV4/"
+    }
+}

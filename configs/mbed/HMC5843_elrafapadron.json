@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Jose R Padron",
+        "url": "https://os.mbed.com/users/elrafapadron/"
+    },
+    "description": "Add functions to get Mx, My and Mz.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "heading",
+        "HMC5843",
+        "magnetic",
+        "sensor",
+        "ILI9341",
+        "TFT",
+        "BLE",
+        "nRF8001",
+        "RedBearLab",
+        "FRDM",
+        "KL46",
+        "kl46z",
+        "LCD",
+        "SLCD"
+    ],
+    "name": "HMC5843",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/elrafapadron/code/HMC5843/"
+    }
+}

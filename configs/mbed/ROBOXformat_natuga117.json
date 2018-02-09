@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "akira yamada",
+        "url": "https://os.mbed.com/users/natuga117/"
+    },
+    "description": "パリティ入りの独自規格赤外線通信ライブラリ。受送信がセットになっています",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "IR",
+        "ROBOX",
+        "AES",
+        "Crypto",
+        "ecc",
+        "HMAC",
+        "NationZ",
+        "RSA",
+        "SHA",
+        "TCG",
+        "TPM",
+        "buffer",
+        "FIFO",
+        "ring buffer",
+        "Serial"
+    ],
+    "name": "ROBOXformat",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/natuga117/code/ROBOXformat/"
+    }
+}

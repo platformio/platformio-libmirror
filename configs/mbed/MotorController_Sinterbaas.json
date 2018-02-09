@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Thijs Riezebeek",
+        "url": "https://os.mbed.com/users/Sinterbaas/"
+    },
+    "description": "Utility class for controlling a servo system motor.",
+    "frameworks": "mbed",
+    "keywords": "MotorController",
+    "name": "MotorController",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sinterbaas/code/MotorController/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Akinori Hashimoto",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/"
+    },
+    "description": "String library.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "tcp/ip",
+        "w5100",
+        "W5200",
+        "W5500",
+        "Wiznet",
+        "StrLib"
+    ],
+    "name": "StrLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/StrLib/"
+    }
+}

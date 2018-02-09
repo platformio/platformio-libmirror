@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "Class to drive the QSPI external memory (N25Q128A device) present on DISCO_F746NG board.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F746NG",
+        "QSPI",
+        "TMP102",
+        "cpputest",
+        "TDD",
+        "test",
+        "testframework",
+        "unit-test"
+    ],
+    "name": "QSPI_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/QSPI_DISCO_F746NG/"
+    }
+}

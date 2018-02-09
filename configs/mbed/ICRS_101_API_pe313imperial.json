@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Patrick Engelbert",
+        "url": "https://os.mbed.com/users/pe313imperial/"
+    },
+    "description": "API for ICRS 101 sessions to allow manual control of robots",
+    "frameworks": "mbed",
+    "keywords": [
+        "FTP",
+        "ftpclient",
+        "adc",
+        "dac",
+        "interrupt",
+        "Nucleo F446",
+        "polling",
+        "STM32F446",
+        "MQTT",
+        "LIDAR Lite",
+        "LidarLite"
+    ],
+    "name": "ICRS_101_API",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pe313imperial/code/ICRS_101_API/"
+    }
+}

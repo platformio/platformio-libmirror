@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "EJ Teb",
+        "url": "https://os.mbed.com/users/ejteb/"
+    },
+    "description": "A library for the WTV020SD sound breakout board",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "WTV020SD_Sound_Breakout_Library",
+    "name": "WTV020SD_Sound_Breakout_Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ejteb/code/WTV020SD_Sound_Breakout_Library/"
+    }
+}

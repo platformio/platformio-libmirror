@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Andy Kirkham",
+        "url": "https://os.mbed.com/users/AjK/"
+    },
+    "description": "Allows for a GPS module to be connected to a serial port and exposes an easy to use API to get the GPS data. New feature, added Mbed/LPC17xx RTC synchronisation",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "16x1",
+        "TextLCD",
+        "file",
+        "player",
+        "wav",
+        "wave",
+        "Celsius",
+        "driver",
+        "I2C",
+        "LM75B",
+        "nxp",
+        "sensor",
+        "Temperature",
+        "GPS",
+        "BSP",
+        "DISCO_F746NG",
+        "accelerometer",
+        "gyroscope",
+        "MPU-6050",
+        "MPU6050",
+        "MPU60x0"
+    ],
+    "name": "MODGPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AjK/code/MODGPS/"
+    }
+}

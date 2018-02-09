@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Renesas",
+        "url": "https://os.mbed.com/teams/Renesas/"
+    },
+    "description": "TLV320_RBSP class, defined on the I2C master bus.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "interpreter",
+        "Pawn",
+        "GR-PEACH",
+        "R_BSP"
+    ],
+    "name": "TLV320_RBSP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Renesas/code/TLV320_RBSP/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Laura Corrales",
+        "url": "https://os.mbed.com/users/lcorralesc1/"
+    },
+    "description": "TextLCD library for controlling various LCD panels based on the HD44780 4-bit interface",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "PCF8591",
+        "accelerometer",
+        "newbi;debug;serial;"
+    ],
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lcorralesc1/code/TextLCD/"
+    }
+}

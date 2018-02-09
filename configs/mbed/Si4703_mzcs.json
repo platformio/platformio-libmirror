@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Moran Z.",
+        "url": "https://os.mbed.com/users/mzcs/"
+    },
+    "description": "A mbed Port of 'Sparkfun Si4703 Arduino Library'.",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "AK8975",
+        "BMA-150",
+        "compass",
+        "gyro",
+        "I2C",
+        "IMU",
+        "Inertial",
+        "ITG3200",
+        "magnetometer",
+        "one"
+    ],
+    "name": "Si4703",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mzcs/code/Si4703/"
+    }
+}

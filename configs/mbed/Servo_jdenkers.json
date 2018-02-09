@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Jasper Denkers",
+        "url": "https://os.mbed.com/users/jdenkers/"
+    },
+    "description": "A servo library for controlling servos without using PWM. Can be used on any pin.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F746NG",
+        "LCD",
+        "Serial",
+        "SoftwareSerial",
+        "UART",
+        "FAT",
+        "file",
+        "SD",
+        "System",
+        "any",
+        "no",
+        "Pin",
+        "pwm",
+        "Servo",
+        "I2C",
+        "wattbob"
+    ],
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jdenkers/code/Servo/"
+    }
+}

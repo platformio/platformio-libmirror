@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "yasuyuki onodera",
+        "url": "https://os.mbed.com/users/yasuyuki/"
+    },
+    "description": "RX8025 library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Thermocouple",
+        "NDEF",
+        "NFC",
+        "Type4",
+        "mbed",
+        "RX8025"
+    ],
+    "name": "RX8025",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yasuyuki/code/RX8025/"
+    }
+}

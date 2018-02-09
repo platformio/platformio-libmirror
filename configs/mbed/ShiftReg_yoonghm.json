@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "HM Yoong",
+        "url": "https://os.mbed.com/users/yoonghm/"
+    },
+    "description": "A library interface to shift register such as NXP 74HCT595",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "NetServices",
+        "network",
+        "TCP",
+        "UDP",
+        "multiplexer",
+        "Shift Register",
+        "Altitude",
+        "Freescale",
+        "MPL3115A2",
+        "pressure",
+        "sensor",
+        "Temperature",
+        "nRF24L01"
+    ],
+    "name": "ShiftReg",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yoonghm/code/ShiftReg/"
+    }
+}

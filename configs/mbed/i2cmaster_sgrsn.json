@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "hidaka sato",
+        "url": "https://os.mbed.com/users/sgrsn/"
+    },
+    "description": "Plese use this class with my \"i2cslave\" class.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "median",
+        "sliding",
+        "window",
+        "I2C"
+    ],
+    "name": "i2cmaster",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sgrsn/code/i2cmaster/"
+    }
+}

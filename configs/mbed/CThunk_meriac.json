@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Milosch Meriac",
+        "url": "https://os.mbed.com/users/meriac/"
+    },
+    "description": "General thunking class to allow C-style callbacks to C++ class members - including optional parameters.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "K64F",
+        "overclock",
+        "buffer",
+        "impulses",
+        "LPC1768",
+        "motor",
+        "n",
+        "number",
+        "of",
+        "programing",
+        "pwm",
+        "registry",
+        "Stepper",
+        "MPU6000",
+        "MPU6050",
+        "MPU60x0"
+    ],
+    "name": "CThunk",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/meriac/code/CThunk/"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Aravind Vadali",
+        "url": "https://os.mbed.com/users/aravindsv/"
+    },
+    "description": "mbed.h library with any bug fixes AV finds.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "SuperTweet",
+        "RIT",
+        "SHT21",
+        "adc",
+        "dac",
+        "I2C",
+        "PCF8591",
+        "IEEE",
+        "mbed",
+        "micromouse",
+        "UCLA"
+    ],
+    "name": "mbed-src-AV",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aravindsv/code/mbed-src-AV/"
+    }
+}

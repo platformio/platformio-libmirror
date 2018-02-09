@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "DMA library for the KL25Z",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "AQM1602",
+        "I2C",
+        "Nucleo",
+        "UIT",
+        "EEPROM",
+        "LPC11U24",
+        "DMA",
+        "KL25z",
+        "accelerometer",
+        "DHT22"
+    ],
+    "name": "SimpleDMA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/SimpleDMA/"
+    }
+}

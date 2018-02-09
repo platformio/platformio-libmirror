@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "Font to use with the SPI_TFT lib",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "fonts",
+        "TFT",
+        "kl46z",
+        "LCD",
+        "SLCD",
+        "MQTT",
+        "MQTTClient",
+        "dal",
+        "lancaster",
+        "Microbit"
+    ],
+    "name": "TFT_fonts",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/TFT_fonts/"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "François Berder",
+        "url": "https://os.mbed.com/users/feb11/"
+    },
+    "description": "wrapper of TLS library to connect to HTTPS servers",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "http",
+        "https",
+        "SSL",
+        "TLS",
+        "development",
+        "SDK",
+        "sources",
+        "application board",
+        "C12832",
+        "LCD",
+        "ethernet",
+        "ip",
+        "mbed"
+    ],
+    "name": "HTTPSClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/feb11/code/HTTPSClient/"
+    }
+}

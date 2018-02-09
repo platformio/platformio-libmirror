@@ -1,0 +1,40 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "FFT for real data using decimation-in-frequency algorithm.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "decimation-in-frequency",
+        "FFT",
+        "IFFT",
+        "Nucleo",
+        "real data",
+        "UIT",
+        "Cellular",
+        "Dragonfly",
+        "http",
+        "https",
+        "MTSAS",
+        "multitech",
+        "SMS",
+        "TCP",
+        "UDP",
+        "2015",
+        "Bertl",
+        "Altitude",
+        "bmp085",
+        "pressure",
+        "Temperature",
+        "Radio",
+        "transceiver"
+    ],
+    "name": "UIT_FFT_Real",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/UIT_FFT_Real/"
+    }
+}

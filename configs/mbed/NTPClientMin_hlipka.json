@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Hendrik Lipka",
+        "url": "https://os.mbed.com/users/hlipka/"
+    },
+    "description": "The extracted NTP client from Segundos NetServices library, for use with the [[http://mbed.org/users/hlipka/libraries/NetServicesMin|NetServicesMin]] library. The only fixed bug is the memory leak / OOM problem. Needs the [[http://mbed.org/users/hlipka/libraries/DNSResolver|DNSResolver]] library as well.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "network",
+        "NTP",
+        "time",
+        "DHT11"
+    ],
+    "name": "NTPClientMin",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hlipka/code/NTPClientMin/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "ban4jp -",
+        "url": "https://os.mbed.com/users/ban4jp/"
+    },
+    "description": "Fixed NTPResult values",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "sensor",
+        "Temperature",
+        "gyro",
+        "iniparser",
+        "TMP",
+        "TMP36"
+    ],
+    "name": "NTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ban4jp/code/NTPClient/"
+    }
+}

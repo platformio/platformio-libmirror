@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Mbed",
+        "url": "https://os.mbed.com/teams/mbed/"
+    },
+    "description": "mbedHelper is a small tool that simplifies downloading of compiled files from mbed.",
+    "frameworks": "mbed",
+    "keywords": [
+        "GPS",
+        "ublox",
+        "Vodafone"
+    ],
+    "name": "mbedHelper",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/mbed/code/mbedHelper/"
+    }
+}

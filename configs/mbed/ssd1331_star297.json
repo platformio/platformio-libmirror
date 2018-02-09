@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Paul Staron",
+        "url": "https://os.mbed.com/users/star297/"
+    },
+    "description": "SSD1331 Oled driver library for 96x64 colour Oled display. Demo included in .h file",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "SSD1331",
+        "DPF",
+        "FTP",
+        "photo",
+        "W7500",
+        "WIZwiki_W7500",
+        "display",
+        "MicroOLED",
+        "OLED",
+        "sparkfun",
+        "SPI",
+        "SSD1306",
+        "distance",
+        "driver",
+        "sensor",
+        "VL6180x"
+    ],
+    "name": "ssd1331",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/star297/code/ssd1331/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Jurica Resetar",
+        "url": "https://os.mbed.com/users/jurica238814/"
+    },
+    "description": "MMA8452Q, 3-axis, 12-bit/8-bit digital accelerometer library. Developed by aconno dev team. For example program with the library, contact us.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "RN-XV",
+        "WiFly",
+        "accelerometer",
+        "aconno",
+        "MMA8452",
+        "2017NOSHIRO"
+    ],
+    "name": "MMA8452",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jurica238814/code/MMA8452/"
+    }
+}

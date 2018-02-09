@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Xavier Bouvard",
+        "url": "https://os.mbed.com/users/XavierBouvard/"
+    },
+    "description": "herkulex servo control library (fixes velocityControl and positionControl)",
+    "frameworks": "mbed",
+    "keywords": [
+        "fxas21002",
+        "gyroscope",
+        "I2C",
+        "MSS",
+        "MSU"
+    ],
+    "name": "herkulex",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/XavierBouvard/code/herkulex/"
+    }
+}

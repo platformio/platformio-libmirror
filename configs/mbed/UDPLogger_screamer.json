@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Mihail Stoyanov",
+        "url": "https://os.mbed.com/users/screamer/"
+    },
+    "description": "A simple UDP logger that lets you send messages via UDP to a remote host.",
+    "frameworks": "mbed",
+    "keywords": [
+        "log",
+        "logging",
+        "NetServices",
+        "UDP",
+        "UDPLog",
+        "UDPLogging",
+        "Gesture",
+        "I2C",
+        "sensor",
+        "SI1143",
+        "Analog",
+        "filter",
+        "Linear",
+        "mbed",
+        "median",
+        "samples",
+        "Temp",
+        "Temperature",
+        "voltage"
+    ],
+    "name": "UDPLogger",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/screamer/code/UDPLogger/"
+    }
+}

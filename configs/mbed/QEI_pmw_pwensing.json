@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Patrick Wensing",
+        "url": "https://os.mbed.com/users/pwensing/"
+    },
+    "description": "QEI library with velocity implementation based on time difference between successive encoder counts.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "3pi",
+        "m3pi",
+        "robot",
+        "802.15.4",
+        "wireless",
+        "xbee",
+        "rpc",
+        "xml"
+    ],
+    "name": "QEI_pmw",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pwensing/code/QEI_pmw/"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "WIZnet",
+        "url": "https://os.mbed.com/teams/WIZnet/"
+    },
+    "description": "NTP client.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "NTP",
+    "name": "NTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/WIZnet/code/NTPClient/"
+    }
+}

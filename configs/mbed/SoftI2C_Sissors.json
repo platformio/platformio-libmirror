@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "A software I2C interface which is a drop-in replacement for the regular mbed I2C interface in case you run out of I2C ports",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "emulation",
+        "I2C",
+        "SoftI2C",
+        "software",
+        "GPS",
+        "K64F",
+        "Serial"
+    ],
+    "name": "SoftI2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/SoftI2C/"
+    }
+}

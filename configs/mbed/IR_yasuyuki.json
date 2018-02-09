@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "yasuyuki onodera",
+        "url": "https://os.mbed.com/users/yasuyuki/"
+    },
+    "description": "Infrared Rays library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "dac",
+        "more pwm",
+        "pwm",
+        "pwm 48Mhz",
+        "pwmdac",
+        "DMP",
+        "IMU",
+        "invensense",
+        "MPU605-DMP",
+        "MPU6050",
+        "Quaternion",
+        "Tilty",
+        "TiltyIMU"
+    ],
+    "name": "IR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yasuyuki/code/IR/"
+    }
+}

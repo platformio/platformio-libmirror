@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Dan Summers",
+        "url": "https://os.mbed.com/users/dansummers/"
+    },
+    "description": "Inspired by Simon Ford's \"Terminal\" library, this is a clean-room reimplementation that supports a larger set of the ANSI escape sequences and includes a few handy drawing routines. Useful for making console UIs for your projects.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Communication",
+        "protocols",
+        "wireless",
+        "xbee",
+        "ANSI",
+        "Terminal",
+        "controller",
+        "motor",
+        "pololu",
+        "Qik",
+        "VNH25P30"
+    ],
+    "name": "ANSITerm",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dansummers/code/ANSITerm/"
+    }
+}

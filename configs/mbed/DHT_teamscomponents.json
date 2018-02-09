@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "Temp and Humidity sensor device driver.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "DHT11",
+        "DHT22"
+    ],
+    "name": "DHT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/DHT/"
+    }
+}

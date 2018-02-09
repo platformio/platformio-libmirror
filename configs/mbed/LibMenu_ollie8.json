@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Ollie Milton",
+        "url": "https://os.mbed.com/users/ollie8/"
+    },
+    "description": "Library for creating menu systems in displays.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "FAT",
+        "file system",
+        "SD",
+        "lcdmenu",
+        "menu",
+        "Adafruit",
+        "GFX",
+        "LCD",
+        "TFT"
+    ],
+    "name": "LibMenu",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ollie8/code/LibMenu/"
+    }
+}

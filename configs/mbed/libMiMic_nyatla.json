@@ -1,0 +1,44 @@
+{
+    "authors": {
+        "name": "Ryo Iizuka",
+        "url": "https://os.mbed.com/users/nyatla/"
+    },
+    "description": "This is Webservice SDK for mbed.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "4D system",
+        "LCD",
+        "Picaso",
+        "AHRS",
+        "minimu-9",
+        "polulu",
+        "autoconf",
+        "bonjour",
+        "DHCP",
+        "ethernet",
+        "HTTP server",
+        "HTTPServer",
+        "mdns",
+        "MiMic",
+        "Networking Libraries",
+        "SSDP",
+        "UPnP",
+        "webserver",
+        "AT",
+        "commands",
+        "control",
+        "door",
+        "modem",
+        "USB",
+        "Vodafone",
+        "micropython",
+        "python"
+    ],
+    "name": "libMiMic",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nyatla/code/libMiMic/"
+    }
+}

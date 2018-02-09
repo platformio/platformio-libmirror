@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Andrew Boyson",
+        "url": "https://os.mbed.com/users/andrewboyson/"
+    },
+    "description": "Log",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed OS2",
+        "wizfi310",
+        "wizfi310interface",
+        "color",
+        "colour",
+        "detection",
+        "detector",
+        "Grove",
+        "sensor"
+    ],
+    "name": "log",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/andrewboyson/code/log/"
+    }
+}

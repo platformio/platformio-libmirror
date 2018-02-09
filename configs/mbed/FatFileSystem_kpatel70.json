@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Kunal Patel",
+        "url": "https://os.mbed.com/users/kpatel70/"
+    },
+    "description": "none",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Dimmer",
+        "DMX",
+        "DMX512",
+        "lighting",
+        "STM",
+        "stm32",
+        "compass",
+        "DISCO_L476VG",
+        "LSM303"
+    ],
+    "name": "FatFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kpatel70/code/FatFileSystem/"
+    }
+}

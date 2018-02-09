@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Olivier Smeesters",
+        "url": "https://os.mbed.com/users/osmeest/"
+    },
+    "description": "KeyboardManager: a class to manage the polling of a switch-matrix keyboard",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "RTX",
+        "keyboard",
+        "AD-128160-UART",
+        "AITENDO",
+        "LCD",
+        "Serial"
+    ],
+    "name": "KeyboardManager",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/osmeest/code/KeyboardManager/"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "Library to control a QVGA TFT connected to SPI.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "filter",
+        "IMU",
+        "orientation",
+        "DS1820",
+        "DS1822",
+        "DS18B20",
+        "one-wire",
+        "F401RE",
+        "F411RE",
+        "F446RE",
+        "K64F",
+        "KL25z",
+        "kl46z",
+        "USBHOST",
+        "UVC",
+        "display",
+        "graphic",
+        "LCD",
+        "QVGA",
+        "TFT"
+    ],
+    "name": "SPI_TFT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/SPI_TFT/"
+    }
+}

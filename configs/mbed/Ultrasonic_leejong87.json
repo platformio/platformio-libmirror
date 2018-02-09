@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Hyeonjong Lee",
+        "url": "https://os.mbed.com/users/leejong87/"
+    },
+    "description": "Ultrasonic",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "PS2",
+        "driver",
+        "Graphics",
+        "ILI9340",
+        "LCD",
+        "SPI",
+        "TFT",
+        "distance",
+        "eco",
+        "range",
+        "sonic",
+        "Ultra",
+        "GPIO",
+        "Beep",
+        "merody",
+        "sound"
+    ],
+    "name": "Ultrasonic",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/leejong87/code/Ultrasonic/"
+    }
+}

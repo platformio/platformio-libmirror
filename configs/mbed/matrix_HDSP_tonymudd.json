@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Tony Mudd",
+        "url": "https://os.mbed.com/users/tonymudd/"
+    },
+    "description": "Matrix driver for HDSP-200x four character 5x7 alphanumeric displays.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "matrix_HDSP",
+    "name": "matrix_HDSP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tonymudd/code/matrix_HDSP/"
+    }
+}

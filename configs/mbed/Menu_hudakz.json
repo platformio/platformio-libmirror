@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "Menu and push buttons.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "BUTTON",
+        "click",
+        "debounce",
+        "\\",
+        "manager\\",
+        "Scheduler",
+        "task",
+        "F411",
+        "Frequency Counter",
+        "display",
+        "menu",
+        "push buttons"
+    ],
+    "name": "Menu",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/Menu/"
+    }
+}

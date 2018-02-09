@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Erik van Wijk",
+        "url": "https://os.mbed.com/users/evwijk/"
+    },
+    "description": "A debouncing InterruptIn wrapper",
+    "frameworks": "mbed",
+    "keywords": "ButtonIn",
+    "name": "ButtonIn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/evwijk/code/ButtonIn/"
+    }
+}

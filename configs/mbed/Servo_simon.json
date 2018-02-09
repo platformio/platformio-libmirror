@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://os.mbed.com/users/simon/"
+    },
+    "description": "A class to control a model R/C servo, using a PwmOut",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "device",
+        "USB",
+        "PwmOut",
+        "Servo",
+        "3pi",
+        "m3pi",
+        "robot",
+        "application board",
+        "C12832",
+        "LCD"
+    ],
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/simon/code/Servo/"
+    }
+}

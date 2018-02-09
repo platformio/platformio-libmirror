@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Dénes Berger",
+        "url": "https://os.mbed.com/users/denes/"
+    },
+    "description": "Simple class to turn on the RGB led by color",
+    "frameworks": "mbed",
+    "keywords": [
+        "F401RE",
+        "Nucleo",
+        "USBHOST",
+        "Serial Communication",
+        "test console",
+        "test program",
+        "K64F",
+        "led",
+        "RF22",
+        "BUTTON",
+        "click"
+    ],
+    "name": "Leds",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/denes/code/Leds/"
+    }
+}

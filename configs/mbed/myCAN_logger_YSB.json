@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Abe Takumi",
+        "url": "https://os.mbed.com/users/YSB/"
+    },
+    "description": "for CAN communication between mbed",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "education",
+        "mechatronics",
+        "TVZ",
+        "Battery Monitor",
+        "LTC2990"
+    ],
+    "name": "myCAN_logger",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/YSB/code/myCAN_logger/"
+    }
+}

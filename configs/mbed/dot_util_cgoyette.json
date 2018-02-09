@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Chad Goyette",
+        "url": "https://os.mbed.com/users/cgoyette/"
+    },
+    "description": "Minor maintenance updates",
+    "frameworks": "mbed",
+    "keywords": [
+        "pikachu",
+        "IEEE488",
+        "SCPI"
+    ],
+    "name": "dot_util",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cgoyette/code/dot_util/"
+    }
+}

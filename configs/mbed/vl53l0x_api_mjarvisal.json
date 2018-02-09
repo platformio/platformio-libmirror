@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Markus Järvisalo",
+        "url": "https://os.mbed.com/users/mjarvisal/"
+    },
+    "description": "mbed compatible API for the VL53L0X Time-of-Flight sensor",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "VL53L0X",
+        "MQTT"
+    ],
+    "name": "vl53l0x_api",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mjarvisal/code/vl53l0x_api/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Renesas",
+        "url": "https://os.mbed.com/teams/Renesas/"
+    },
+    "description": "Bug fix I2C driver",
+    "frameworks": "mbed",
+    "keywords": [
+        "game",
+        "inheritance",
+        "OOP",
+        "polymorphism",
+        "tutorial",
+        "etti",
+        "TUIASI",
+        "AT93C46",
+        "EEPROM"
+    ],
+    "name": "mbed-src_GR-PEACH_rev_c_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Renesas/code/mbed-src_GR-PEACH_rev_c_I2C/"
+    }
+}

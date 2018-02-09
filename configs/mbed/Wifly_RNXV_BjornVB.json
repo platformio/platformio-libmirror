@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Bjorn Van Bockel",
+        "url": "https://os.mbed.com/users/BjornVB/"
+    },
+    "description": "Wifly interface for RN-XV (wifly RN171XVW)",
+    "frameworks": "mbed",
+    "keywords": [
+        "RN-XV",
+        "WiFly",
+        "accelerometer",
+        "aconno",
+        "MMA8452",
+        "2017NOSHIRO"
+    ],
+    "name": "Wifly_RNXV",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BjornVB/code/Wifly_RNXV/"
+    }
+}

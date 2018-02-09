@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "http://mbed.org/users/shintamainjp/notebook/textlcd_sr4_en/",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Display Module",
+        "emwin",
+        "LPC4088DM",
+        "MCP3201",
+        "MCP3204",
+        "MCP3208",
+        "SPI",
+        "ShiftRegister",
+        "TextLCD"
+    ],
+    "name": "TextLCD_SR4",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/TextLCD_SR4/"
+    }
+}

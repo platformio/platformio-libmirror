@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Patrick Clary",
+        "url": "https://os.mbed.com/users/pclary/"
+    },
+    "description": "Specialized interface code for the nRF24L01P wireless transceiver.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Arduino mbed commands",
+        "HD44780 LCD text custom char 16X2",
+        "Ciseco",
+        "SRF",
+        "wireless",
+        "XRF"
+    ],
+    "name": "Radio",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pclary/code/Radio/"
+    }
+}

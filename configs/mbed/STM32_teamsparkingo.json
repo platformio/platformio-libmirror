@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "parkingo",
+        "url": "https://os.mbed.com/teams/parkingo/"
+    },
+    "description": "microcontrolleur",
+    "frameworks": "mbed",
+    "keywords": [
+        "dac",
+        "MCP4728",
+        "cypress",
+        "F-RAM",
+        "piezo",
+        "pwm"
+    ],
+    "name": "STM32",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/parkingo/code/STM32/"
+    }
+}

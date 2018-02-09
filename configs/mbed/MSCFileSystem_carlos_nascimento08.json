@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Carlos Alberto Nascimento Filho",
+        "url": "https://os.mbed.com/users/carlos_nascimento08/"
+    },
+    "description": "SD",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "myTimer",
+        "23K256",
+        "23LC1024",
+        "DMA",
+        "FIFO",
+        "RAM",
+        "ring buffer",
+        "SPI",
+        "sram",
+        "dac"
+    ],
+    "name": "MSCFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/carlos_nascimento08/code/MSCFileSystem/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Norimasa Okamoto",
+        "url": "https://os.mbed.com/users/va009039/"
+    },
+    "description": "huffmancode to decode in real-time for motion-jpeg",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "VGA",
+        "video",
+        "JPEG",
+        "adc",
+        "MCP",
+        "MCP3002"
+    ],
+    "name": "BaseJpegDecode",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/va009039/code/BaseJpegDecode/"
+    }
+}

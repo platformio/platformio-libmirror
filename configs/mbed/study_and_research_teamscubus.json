@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "cubus",
+        "url": "https://os.mbed.com/teams/cubus/"
+    },
+    "description": "Study and research of features",
+    "frameworks": "mbed",
+    "keywords": [
+        "AquesTalk pico",
+        "ATP3011",
+        "CN0216",
+        "scale",
+        "sensor",
+        "weigh",
+        "2016年度IZU"
+    ],
+    "name": "study_and_research",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/cubus/code/study_and_research/"
+    }
+}

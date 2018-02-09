@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Embedded Artists",
+        "url": "https://os.mbed.com/teams/Embedded-Artists/"
+    },
+    "description": "Adaptation of the official mbed USBHost repository to work with the LPC4088 Display Module",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "Host",
+        "hub",
+        "keyboard",
+        "LPC4088",
+        "LPC4088DM",
+        "mbed",
+        "module",
+        "Mouse",
+        "MSD",
+        "rtos",
+        "Serial",
+        "USB",
+        "driver",
+        "microstep",
+        "motor",
+        "ST",
+        "Stepper",
+        "STSPIN220"
+    ],
+    "name": "DM_USBHost",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Embedded-Artists/code/DM_USBHost/"
+    }
+}

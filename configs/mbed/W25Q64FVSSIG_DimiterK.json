@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Dimiter K",
+        "url": "https://os.mbed.com/users/DimiterK/"
+    },
+    "description": "Hexiwear 8MB NOR flash memory library.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Flash memory",
+        "HEXIWEAR",
+        "nor"
+    ],
+    "name": "W25Q64FVSSIG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DimiterK/code/W25Q64FVSSIG/"
+    }
+}

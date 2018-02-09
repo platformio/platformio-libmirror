@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Gustavo González",
+        "url": "https://os.mbed.com/users/gugani/"
+    },
+    "description": "SimpleModbusSlave allows you to communicate",
+    "frameworks": "mbed",
+    "keywords": [
+        "Modbus",
+        "DS1620",
+        "thermometer",
+        "thermostat"
+    ],
+    "name": "SimpleModbusSlave",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gugani/code/SimpleModbusSlave/"
+    }
+}

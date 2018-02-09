@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Hao-Wei He",
+        "url": "https://os.mbed.com/users/eveolution/"
+    },
+    "description": "Arduino Serial + Serial base = less flash usage",
+    "frameworks": "mbed",
+    "keywords": "Serial",
+    "name": "ardSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eveolution/code/ardSerial/"
+    }
+}

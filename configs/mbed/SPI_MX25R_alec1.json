@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "alec cohen",
+        "url": "https://os.mbed.com/users/alec1/"
+    },
+    "description": "Macronix Low Power Serial NOR Flash in SPI mode.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "SPI",
+        "DC",
+        "motor",
+        "PM motor"
+    ],
+    "name": "SPI_MX25R",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/alec1/code/SPI_MX25R/"
+    }
+}

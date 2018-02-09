@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Takanobu Muraguchi",
+        "url": "https://os.mbed.com/users/muraguchi/"
+    },
+    "description": "ks0713 SPI library.",
+    "frameworks": "mbed",
+    "keywords": [
+        "GoogleChart",
+        "ESP8266",
+        "AITENDO",
+        "KS0713",
+        "SPI"
+    ],
+    "name": "ks0713_spi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/muraguchi/code/ks0713_spi/"
+    }
+}

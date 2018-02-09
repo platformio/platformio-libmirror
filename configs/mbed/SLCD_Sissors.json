@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "SCLD peripheral of the KL46Z",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "fonts",
+        "TFT",
+        "kl46z",
+        "LCD",
+        "SLCD",
+        "MQTT",
+        "MQTTClient",
+        "dal",
+        "lancaster",
+        "Microbit"
+    ],
+    "name": "SLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/SLCD/"
+    }
+}

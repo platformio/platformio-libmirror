@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Kleber Kruger",
+        "url": "https://os.mbed.com/users/kleberkruger/"
+    },
+    "description": "Fault recovery library.",
+    "frameworks": "mbed",
+    "keywords": "FaultRecovery",
+    "name": "FaultRecovery",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kleberkruger/code/FaultRecovery/"
+    }
+}

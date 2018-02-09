@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Danilo Bustamante",
+        "url": "https://os.mbed.com/users/danilob/"
+    },
+    "description": "a simple c queue",
+    "frameworks": "mbed",
+    "keywords": "queue",
+    "name": "queue",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/danilob/code/queue/"
+    }
+}

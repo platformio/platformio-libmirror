@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Shane Vallely",
+        "url": "https://os.mbed.com/users/shanev/"
+    },
+    "description": "z",
+    "frameworks": "mbed",
+    "keywords": [
+        "H-bridge",
+        "I2C",
+        "MD25",
+        "motor",
+        "LM75B"
+    ],
+    "name": "mbed_blinkylib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shanev/code/mbed_blinkylib/"
+    }
+}

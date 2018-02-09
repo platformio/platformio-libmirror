@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "mbed-x",
+        "url": "https://os.mbed.com/teams/mbed-x/"
+    },
+    "description": "Library that exposes BLE characteristics as ordinary variables.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "bluetooth",
+        "simpleble",
+        "SerialHalfDuplex",
+        "accelerometer",
+        "Grove",
+        "I2C",
+        "MMA7660FC",
+        "MIDI"
+    ],
+    "name": "SimpleBLE",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/mbed-x/code/SimpleBLE/"
+    }
+}

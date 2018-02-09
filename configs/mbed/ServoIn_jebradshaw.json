@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Joseph Bradshaw",
+        "url": "https://os.mbed.com/users/jebradshaw/"
+    },
+    "description": "Class Library for reading hobby servos and detecting invalid or disconnected channels",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "PCM",
+        "pulse",
+        "RC",
+        "Servo",
+        "ServoIn",
+        "digital out",
+        "FRDMKL25Z",
+        "mbed",
+        "rpc",
+        "control",
+        "led",
+        "LPC1768"
+    ],
+    "name": "ServoIn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jebradshaw/code/ServoIn/"
+    }
+}

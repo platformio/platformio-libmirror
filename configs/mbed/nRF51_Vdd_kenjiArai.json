@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "Read nRF51822(BLE Chip) VDD voltage and return 100 to 0% charging level",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "bluetooth",
+        "bt",
+        "rtos",
+        "buzzer",
+        "piezo",
+        "BLE",
+        "Nordic",
+        "nRF51822"
+    ],
+    "name": "nRF51_Vdd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/nRF51_Vdd/"
+    }
+}

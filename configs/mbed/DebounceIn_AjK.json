@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Andy Kirkham",
+        "url": "https://os.mbed.com/users/AjK/"
+    },
+    "description": "Extends DigitalIn to DebounceIn to provide mechanical switch debouncing.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Config",
+        "file",
+        "debounce",
+        "DigitalIn"
+    ],
+    "name": "DebounceIn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AjK/code/DebounceIn/"
+    }
+}

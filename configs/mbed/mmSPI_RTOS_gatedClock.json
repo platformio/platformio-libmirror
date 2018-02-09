@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Mike Moore",
+        "url": "https://os.mbed.com/users/gatedClock/"
+    },
+    "description": "SPI object for communication with an altera FPGA.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "tcp/ip",
+        "WebSocket",
+        "fault",
+        "injector"
+    ],
+    "name": "mmSPI_RTOS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gatedClock/code/mmSPI_RTOS/"
+    }
+}

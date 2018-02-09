@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "okp mh",
+        "url": "https://os.mbed.com/users/okp_mh/"
+    },
+    "description": "SO1602A_i2c_oled",
+    "frameworks": "mbed",
+    "keywords": "I2CLCD",
+    "name": "I2CLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okp_mh/code/I2CLCD/"
+    }
+}

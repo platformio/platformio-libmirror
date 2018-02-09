@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Claudio Donate",
+        "url": "https://os.mbed.com/users/cdonate/"
+    },
+    "description": "BMA180 library with multiple configurable ranges. Based on the Sensor_test by Bo Carøe.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "bma180",
+        "polling",
+        "scheduling",
+        "timing"
+    ],
+    "name": "BMA180",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cdonate/code/BMA180/"
+    }
+}

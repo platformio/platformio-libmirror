@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Chris Wilson",
+        "url": "https://os.mbed.com/users/chrisisthefish/"
+    },
+    "description": "Library used to interface to the 7-band Graphic Equalizer Chip MSGEQ7, made by company Mixed Signal Integration",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Humidity",
+        "I2C",
+        "sensor"
+    ],
+    "name": "MSGEQ7",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chrisisthefish/code/MSGEQ7/"
+    }
+}

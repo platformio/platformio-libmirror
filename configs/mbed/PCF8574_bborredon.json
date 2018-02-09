@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "bernard borredon",
+        "url": "https://os.mbed.com/users/bborredon/"
+    },
+    "description": "Complete PCF8574 and PCF74A library with interrupt handling",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "buzzer",
+        "pwm",
+        "tone",
+        "tune",
+        "audio",
+        "I2S",
+        "library",
+        "tested",
+        "TLV320",
+        "128x64",
+        "OLED",
+        "SSD1306",
+        "Adafruit",
+        "GPS",
+        "NEMA"
+    ],
+    "name": "PCF8574",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bborredon/code/PCF8574/"
+    }
+}

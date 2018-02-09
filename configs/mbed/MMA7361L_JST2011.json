@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "JST 2011",
+        "url": "https://os.mbed.com/users/JST2011/"
+    },
+    "description": "MMA7361L",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "numchuck",
+        "nunchuck",
+        "Nunchuk",
+        "Wii",
+        "LM75B",
+        "accelerometer",
+        "mma7361"
+    ],
+    "name": "MMA7361L",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JST2011/code/MMA7361L/"
+    }
+}

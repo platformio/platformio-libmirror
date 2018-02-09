@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "clemente di caprio",
+        "url": "https://os.mbed.com/users/clemente/"
+    },
+    "description": "Library for MI0283QT-2 LCD",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "DOGM",
+        "text"
+    ],
+    "name": "MI0283QTlib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/clemente/code/MI0283QTlib/"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "XBee-mbed library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "HCSR04",
+        "Ranging",
+        "ultrasonic",
+        "1",
+        "2",
+        "digimesh",
+        "Series",
+        "Wi-Fi",
+        "xbee",
+        "zigbee"
+    ],
+    "name": "XBee",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/XBee/"
+    }
+}

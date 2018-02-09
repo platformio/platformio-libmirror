@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Steven Wray",
+        "url": "https://os.mbed.com/users/StevieWray/"
+    },
+    "description": "mbed library sources. Supersedes mbed-src.",
+    "frameworks": "mbed",
+    "keywords": [
+        "ambient",
+        "light",
+        "TSL2550"
+    ],
+    "name": "mbed-dev",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/StevieWray/code/mbed-dev/"
+    }
+}

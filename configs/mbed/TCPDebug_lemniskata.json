@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Ivan Shindev",
+        "url": "https://os.mbed.com/users/lemniskata/"
+    },
+    "description": "TCP Server that can be used as a debug interface",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "MPU6000",
+        "MPU6050",
+        "MPU60x0",
+        "debug",
+        "ethernet",
+        "server",
+        "TCP"
+    ],
+    "name": "TCPDebug",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lemniskata/code/TCPDebug/"
+    }
+}

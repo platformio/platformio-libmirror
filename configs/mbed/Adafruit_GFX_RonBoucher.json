@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Ronald Boucher",
+        "url": "https://os.mbed.com/users/RonBoucher/"
+    },
+    "description": "gfx library for ssd1351",
+    "frameworks": "mbed",
+    "keywords": [
+        "BNO055",
+        "sensor",
+        "BLE Bluetooth Low Energy BLE",
+        "Bluetooth 4.0 Low Energy 4.0 ble HM-11 Hm11 Ble"
+    ],
+    "name": "Adafruit_GFX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RonBoucher/code/Adafruit_GFX/"
+    }
+}

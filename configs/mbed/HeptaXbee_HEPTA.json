@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "CLTP 8",
+        "url": "https://os.mbed.com/users/HEPTA/"
+    },
+    "description": "HeptaXbee Library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "MPU6000",
+        "MPU6050",
+        "MPU60x0",
+        "debug",
+        "ethernet",
+        "server",
+        "TCP"
+    ],
+    "name": "HeptaXbee",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/HEPTA/code/HeptaXbee/"
+    }
+}

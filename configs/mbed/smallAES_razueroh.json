@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Rafael Azuero Hurtado",
+        "url": "https://os.mbed.com/users/razueroh/"
+    },
+    "description": "Small AES_ECB with T-box",
+    "frameworks": "mbed",
+    "keywords": [
+        "AES",
+        "cipher",
+        "encryption",
+        "security",
+        "C12832",
+        "C12832A1Z",
+        "MBED Application Board",
+        "Armand",
+        "bluetooth",
+        "Coetzer",
+        "comms"
+    ],
+    "name": "smallAES",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/razueroh/code/smallAES/"
+    }
+}

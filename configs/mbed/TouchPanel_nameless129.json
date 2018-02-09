@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "en 129",
+        "url": "https://os.mbed.com/users/nameless129/"
+    },
+    "description": "4線抵抗皮膜式タッチパネル用",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "bot",
+        "motor",
+        "sensors",
+        "shield",
+        "Analyzer",
+        "logic",
+        "osc",
+        "Oscilloscope",
+        "scope",
+        "ethernet",
+        "ip",
+        "mbed"
+    ],
+    "name": "TouchPanel",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nameless129/code/TouchPanel/"
+    }
+}

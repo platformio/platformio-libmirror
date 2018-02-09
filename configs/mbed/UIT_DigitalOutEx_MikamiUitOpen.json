@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "DigitalOut クラスを継承して，オープンドレインにも設定できるように拡張した DigitalOutEx クラス.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "IOT",
+        "sigfox",
+        "consumption",
+        "control",
+        "ethernet",
+        "Management",
+        "Power",
+        "PowerControl",
+        "Nucleo-F4xx",
+        "open-drain",
+        "UIT"
+    ],
+    "name": "UIT_DigitalOutEx",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/UIT_DigitalOutEx/"
+    }
+}

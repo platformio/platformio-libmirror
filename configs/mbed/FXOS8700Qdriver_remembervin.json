@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Vinay Shrivastav",
+        "url": "https://os.mbed.com/users/remembervin/"
+    },
+    "description": "FXOS8700Q-driver 9-axis accelerometer drivers",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "core2530(B)",
+        "waveshare",
+        "xbee",
+        "zbee",
+        "LCDC",
+        "S1D13781",
+        "shield",
+        "TFT"
+    ],
+    "name": "FXOS8700Q-driver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/remembervin/code/FXOS8700Q-driver/"
+    }
+}

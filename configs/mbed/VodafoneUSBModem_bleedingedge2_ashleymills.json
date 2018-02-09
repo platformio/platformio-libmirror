@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Ashley Mills",
+        "url": "https://os.mbed.com/users/ashleymills/"
+    },
+    "description": "local fork",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "hbridge",
+        "ICRS",
+        "motor"
+    ],
+    "name": "VodafoneUSBModem_bleedingedge2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ashleymills/code/VodafoneUSBModem_bleedingedge2/"
+    }
+}

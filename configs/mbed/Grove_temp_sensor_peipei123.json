@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "peiyu wang",
+        "url": "https://os.mbed.com/users/peipei123/"
+    },
+    "description": "Grove temperature sensor library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "frequency",
+        "measurement",
+        "Pulsewidth",
+        "circular buffer",
+        "FIFO",
+        "Queue",
+        "ring buffer",
+        "stack",
+        "Template"
+    ],
+    "name": "Grove_temp_sensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/peipei123/code/Grove_temp_sensor/"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Jurica Resetar",
+        "url": "https://os.mbed.com/users/jurica238814/"
+    },
+    "description": "SAADC library and drivers for nrf52832.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "acn_nrf52_saadc",
+    "name": "acn_nrf52_saadc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jurica238814/code/acn_nrf52_saadc/"
+    }
+}

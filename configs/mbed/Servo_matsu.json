@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Hiroaki Matsuda",
+        "url": "https://os.mbed.com/users/matsu/"
+    },
+    "description": "to move servo",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "motor",
+        "command",
+        "Servo",
+        "Humidity",
+        "I2C",
+        "sht11",
+        "SHT15",
+        "SHT71",
+        "SHT75",
+        "Temperature"
+    ],
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/matsu/code/Servo/"
+    }
+}

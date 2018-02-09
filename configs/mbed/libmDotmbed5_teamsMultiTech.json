@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "description": "Stable version of the mDot library for mbed 5. This version of the library is suitable for deployment scenarios.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Cup",
+        "Freescale",
+        "6100",
+        "6610",
+        "mobileLCD",
+        "NokiaLCD",
+        "Olimex",
+        "PCF8833",
+        "sparkfun",
+        "I2C",
+        "MCP23017",
+        "wattbob",
+        "tcp/ip",
+        "WebSocket"
+    ],
+    "name": "libmDot-mbed5",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/libmDot-mbed5/"
+    }
+}

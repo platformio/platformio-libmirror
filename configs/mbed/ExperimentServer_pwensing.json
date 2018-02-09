@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Patrick Wensing",
+        "url": "https://os.mbed.com/users/pwensing/"
+    },
+    "description": "UDP Experiment Server",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "Bertl14",
+    "name": "ExperimentServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pwensing/code/ExperimentServer/"
+    }
+}

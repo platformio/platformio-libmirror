@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Ken Todotani",
+        "url": "https://os.mbed.com/users/todotani/"
+    },
+    "description": "Nordic stack and drivers for the mbed BLE API",
+    "frameworks": "mbed",
+    "keywords": "Serializer",
+    "name": "nRF51822-060mod",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/todotani/code/nRF51822-060mod/"
+    }
+}

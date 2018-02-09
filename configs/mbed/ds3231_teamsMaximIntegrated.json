@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/"
+    },
+    "description": "Library for DS3231 RTC",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "pwm",
+        "PwmOut",
+        "clock",
+        "CPU",
+        "Power",
+        "power consumption",
+        "power control",
+        "DS18B20",
+        "temperature sensor"
+    ],
+    "name": "ds3231",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/code/ds3231/"
+    }
+}

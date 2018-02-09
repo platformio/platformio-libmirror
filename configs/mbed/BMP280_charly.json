@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Karl Zweimüller",
+        "url": "https://os.mbed.com/users/charly/"
+    },
+    "description": "Library for Bosch BMP280 temperature and pressure sensor",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "bmp280",
+        "pressure",
+        "Temperature"
+    ],
+    "name": "BMP280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/charly/code/BMP280/"
+    }
+}

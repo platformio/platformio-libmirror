@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "A Team",
+        "url": "https://os.mbed.com/teams/A-Team1/"
+    },
+    "description": "IMU Kalman Filter",
+    "frameworks": "mbed",
+    "keywords": "IMU Kalman Filter",
+    "name": "IMU Kalman Filter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/A-Team1/code/IMU-Kalman-Filter/"
+    }
+}

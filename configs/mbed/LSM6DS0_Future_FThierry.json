@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Frederic Thierry",
+        "url": "https://os.mbed.com/users/Future_FThierry/"
+    },
+    "description": "only for Future hands-on purpose",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "CyaSSL",
+        "SSL",
+        "compass",
+        "driver",
+        "HMC5583L",
+        "I2C",
+        "sensor",
+        "Elecret Microphone",
+        "MAX9814",
+        "sound",
+        "Volume Indicator"
+    ],
+    "name": "LSM6DS0",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Future_FThierry/code/LSM6DS0/"
+    }
+}

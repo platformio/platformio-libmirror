@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Shuto Naruse",
+        "url": "https://os.mbed.com/users/narshu/"
+    },
+    "description": "RTOS lib used for Eurobot 2012",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Config",
+        "file",
+        "debounce",
+        "DigitalIn"
+    ],
+    "name": "rtos",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/narshu/code/rtos/"
+    }
+}

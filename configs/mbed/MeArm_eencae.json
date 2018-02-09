@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Craig Evans",
+        "url": "https://os.mbed.com/users/eencae/"
+    },
+    "description": "Library for controlling #MeArm from phenoptix (http://www.phenoptix.com/collections/mearm).",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ds1307",
+        "DS3231m",
+        "inverse kinematics",
+        "mearm",
+        "robotic arm",
+        "servo motor"
+    ],
+    "name": "MeArm",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eencae/code/MeArm/"
+    }
+}

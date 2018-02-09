@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Paul Paterson",
+        "url": "https://os.mbed.com/users/ptpaterson/"
+    },
+    "description": "library for C++ CANOpen implementation.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "api",
+        "CSR",
+        "GPS",
+        "Nucleo",
+        "STM32F446",
+        "USBDevice",
+        "Adafruit",
+        "LCD",
+        "S6D02A1",
+        "ST7735",
+        "TFT"
+    ],
+    "name": "ppCANOpen",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ptpaterson/code/ppCANOpen/"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Lucas Ezequiel Blanco",
+        "url": "https://os.mbed.com/users/Lucas_eb/"
+    },
+    "description": "Xbee Bluetooth, una librería modificada para la configuracion y protocolo de comunicación",
+    "frameworks": "mbed",
+    "keywords": [
+        "dac",
+        "more pwm",
+        "pwm",
+        "pwm 48Mhz",
+        "pwmdac",
+        "DMP",
+        "IMU",
+        "invensense",
+        "MPU605-DMP",
+        "MPU6050",
+        "Quaternion",
+        "Tilty",
+        "TiltyIMU"
+    ],
+    "name": "BluetoothBee",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Lucas_eb/code/BluetoothBee/"
+    }
+}

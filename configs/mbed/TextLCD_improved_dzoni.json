@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Honza T.",
+        "url": "https://os.mbed.com/users/dzoni/"
+    },
+    "description": "Optimization (wait(float) changed to wait_us(int)) of original library TextLCD.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "TextLCD",
+        "rtos",
+        "STM32F030R8"
+    ],
+    "name": "TextLCD_improved",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dzoni/code/TextLCD_improved/"
+    }
+}

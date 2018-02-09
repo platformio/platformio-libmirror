@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Andrew Lindsay",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/"
+    },
+    "description": "Updated get_fattime to use rtc and provide a date/time. This has been an annoying missing feature.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "fatfilesystem",
+        "I2C",
+        "LCD",
+        "calibration",
+        "clock",
+        "real",
+        "RTC",
+        "time",
+        "timezone",
+        "GPIO",
+        "Speed"
+    ],
+    "name": "FatFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/code/FatFileSystem/"
+    }
+}

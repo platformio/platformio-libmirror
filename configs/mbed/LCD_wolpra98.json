@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Wolfgang Praschk",
+        "url": "https://os.mbed.com/users/wolpra98/"
+    },
+    "description": "LCD-Library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Lora",
+        "Semtech",
+        "SX1272",
+        "SX1272Lib",
+        "SX1272MB1DxS",
+        "SX1276",
+        "SX1276Lib",
+        "SX1276MB1xAS",
+        "NeoPixel",
+        "stm32",
+        "WS2812B"
+    ],
+    "name": "LCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wolpra98/code/LCD/"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "bousiya03",
+        "url": "https://os.mbed.com/users/bousiya03/"
+    },
+    "description": "ピン変化割り込み拡張しよう的な",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "InterruptIn",
+    "name": "interruptin_mod",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bousiya03/code/interruptin_mod/"
+    }
+}

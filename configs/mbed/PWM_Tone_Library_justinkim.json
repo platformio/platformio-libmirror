@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "justin kim",
+        "url": "https://os.mbed.com/users/justinkim/"
+    },
+    "description": "tone function Library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "buzzer",
+        "pwm",
+        "tone",
+        "tune",
+        "audio",
+        "I2S",
+        "library",
+        "tested",
+        "TLV320",
+        "128x64",
+        "OLED",
+        "SSD1306",
+        "Adafruit",
+        "GPS",
+        "NEMA"
+    ],
+    "name": "PWM_Tone_Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/justinkim/code/PWM_Tone_Library/"
+    }
+}

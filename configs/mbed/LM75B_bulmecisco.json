@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Dr. Pucher",
+        "url": "https://os.mbed.com/users/bulmecisco/"
+    },
+    "description": "Bulme lib for temp sensor LM75B",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "numchuck",
+        "nunchuck",
+        "Nunchuk",
+        "Wii",
+        "LM75B",
+        "accelerometer",
+        "mma7361"
+    ],
+    "name": "LM75B",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bulmecisco/code/LM75B/"
+    }
+}

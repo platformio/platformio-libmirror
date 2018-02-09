@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "Added support for banked registers",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "i2c expander",
+        "MCP23017"
+    ],
+    "name": "MCP23017",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/MCP23017/"
+    }
+}

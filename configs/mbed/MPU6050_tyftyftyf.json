@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Yifei Teng",
+        "url": "https://os.mbed.com/users/tyftyftyf/"
+    },
+    "description": "MPU6050 FreeIMU library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "FTP",
+        "ftpclient",
+        "adc",
+        "dac",
+        "interrupt",
+        "Nucleo F446",
+        "polling",
+        "STM32F446",
+        "MQTT",
+        "LIDAR Lite",
+        "LidarLite"
+    ],
+    "name": "MPU6050",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tyftyftyf/code/MPU6050/"
+    }
+}

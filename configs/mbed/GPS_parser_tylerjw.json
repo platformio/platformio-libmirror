@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Tyler Weaver",
+        "url": "https://os.mbed.com/users/tylerjw/"
+    },
+    "description": "nmea gps library - without any serial",
+    "frameworks": "mbed",
+    "keywords": "GPS_parser",
+    "name": "GPS_parser",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tylerjw/code/GPS_parser/"
+    }
+}

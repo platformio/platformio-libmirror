@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "Local copy of the FatFileSystem.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "DS18B20",
+        "one",
+        "Wire",
+        "library",
+        "MIDI",
+        "USB",
+        "USBMIDI",
+        "mbed",
+        "nRF51822",
+        "SD",
+        "SDFileSystem",
+        "sdhcfilesystem",
+        "FAT",
+        "clock",
+        "ds1307",
+        "I2C",
+        "RTC"
+    ],
+    "name": "FatFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/FatFileSystem/"
+    }
+}

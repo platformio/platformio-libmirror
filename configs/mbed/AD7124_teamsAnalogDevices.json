@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Analog Devices",
+        "url": "https://os.mbed.com/teams/AnalogDevices/"
+    },
+    "description": "Analog Devices AD7124-8 - 8-Channel, Low Noise, Low Power, 24-Bit,",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ad7124",
+        "DISCO_F746NG",
+        "sdram"
+    ],
+    "name": "AD7124",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/AnalogDevices/code/AD7124/"
+    }
+}

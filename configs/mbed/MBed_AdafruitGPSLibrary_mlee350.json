@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Myron Lee",
+        "url": "https://os.mbed.com/users/mlee350/"
+    },
+    "description": "Adafruit Ultimate GPS Arduino library adapted for mBed use.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "interrupt",
+        "Serial",
+        "ILI9320",
+        "ILI9325",
+        "ILI9328",
+        "ILI9341",
+        "ILI9481",
+        "ILI9486",
+        "IST3020",
+        "LCD",
+        "MIPI",
+        "parallel",
+        "SPI",
+        "SSD1306",
+        "ST7565",
+        "TFT",
+        "UC1608",
+        "UC1701",
+        "Adafruit",
+        "GPS",
+        "library",
+        "Ultimate"
+    ],
+    "name": "MBed_Adafruit-GPS-Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mlee350/code/MBed_Adafruit-GPS-Library/"
+    }
+}

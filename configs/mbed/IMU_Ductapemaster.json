@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Daniel Kouba",
+        "url": "https://os.mbed.com/users/Ductapemaster/"
+    },
+    "description": "Interface library for the Atmel Inertial One IMU. Contains drivers for the ITG 3200 3 axis gyro, BMA-150 3 axis accelerometer, and AK8975 3 axis compass",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "AK8975",
+        "BMA-150",
+        "compass",
+        "gyro",
+        "I2C",
+        "IMU",
+        "Inertial",
+        "ITG3200",
+        "magnetometer",
+        "one"
+    ],
+    "name": "IMU",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Ductapemaster/code/IMU/"
+    }
+}

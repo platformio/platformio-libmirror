@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Jurica Resetar",
+        "url": "https://os.mbed.com/users/jurica238814/"
+    },
+    "description": "An improved version of mbed's I2C class.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "aconno",
+        "I2C"
+    ],
+    "name": "aconno_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jurica238814/code/aconno_I2C/"
+    }
+}

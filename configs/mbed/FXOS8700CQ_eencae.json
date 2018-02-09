@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Craig Evans",
+        "url": "https://os.mbed.com/users/eencae/"
+    },
+    "description": "Library for interfacing with NXP FXOS8700CQ accelerometer/magnetometer",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "APA102",
+        "led",
+        "rgb",
+        "ws2801",
+        "2645",
+        "accelerometer",
+        "fxos8700cq",
+        "I2C",
+        "magnetometer",
+        "nxp"
+    ],
+    "name": "FXOS8700CQ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eencae/code/FXOS8700CQ/"
+    }
+}

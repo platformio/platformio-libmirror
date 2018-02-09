@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "ATHANASIOS POLITIS",
+        "url": "https://os.mbed.com/users/atpolitis/"
+    },
+    "description": "LM74 temperature sensor Library on SPI I/F",
+    "frameworks": "mbed",
+    "keywords": [
+        "MPL115A1",
+        "pressure",
+        "sensor",
+        "sparkfun",
+        "mbed",
+        "LM61"
+    ],
+    "name": "TmpLM74",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/atpolitis/code/TmpLM74/"
+    }
+}

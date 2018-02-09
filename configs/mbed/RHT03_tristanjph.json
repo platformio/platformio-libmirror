@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Tristan Hughes",
+        "url": "https://os.mbed.com/users/tristanjph/"
+    },
+    "description": "An eddied version of http://mbed.org/users/crazystick/code/DHT22/ for LPC11U24. All printf statements are removed and features requiring the real time clock are removed.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ADT7410",
+        "GPS",
+        "parse",
+        "DHT22",
+        "RHT03",
+        "Encoder",
+        "QEI",
+        "qudrature",
+        "rotary"
+    ],
+    "name": "RHT03",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tristanjph/code/RHT03/"
+    }
+}

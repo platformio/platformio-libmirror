@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "remi cormier",
+        "url": "https://os.mbed.com/users/cromda/"
+    },
+    "description": "MAXIM DS3231 accurate Real Time Clock Library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "HTS221",
+        "LPS22HB",
+        "LSM303AGR",
+        "LSM6DSL",
+        "Nucleo",
+        "X-NUCLEO-IKS01A1",
+        "X-NUCLEO-IKS01A2",
+        "H-bridge",
+        "library",
+        "motor",
+        "motor driver",
+        "solenoid",
+        "stepper motor"
+    ],
+    "name": "DS3231",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cromda/code/DS3231/"
+    }
+}

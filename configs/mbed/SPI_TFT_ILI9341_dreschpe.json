@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "Lib for the new LCD Display with ILI9341 controller",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Seeed-Studio-28-TFT-Touch-Shield-V20",
+        "22-QVGA-display-with-SD-card-socket"
+    ],
+    "name": "SPI_TFT_ILI9341",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/SPI_TFT_ILI9341/"
+    }
+}

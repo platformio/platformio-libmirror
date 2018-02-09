@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Eldar Granulo",
+        "url": "https://os.mbed.com/users/matsura/"
+    },
+    "description": "Mala biblioteka snake Granulo Eldar",
+    "frameworks": "mbed",
+    "keywords": [
+        "ATParser",
+        "sigfox"
+    ],
+    "name": "Snake",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/matsura/code/Snake/"
+    }
+}

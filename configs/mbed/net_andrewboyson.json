@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Andrew Boyson",
+        "url": "https://os.mbed.com/users/andrewboyson/"
+    },
+    "description": "A stack which works with or without an Mbed os library. Provides IPv4 or IPv6 with a full 1500 byte buffer.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "net",
+    "name": "net",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/andrewboyson/code/net/"
+    }
+}

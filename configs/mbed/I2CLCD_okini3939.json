@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "character LCD module to I2C adapter",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LCD",
+        "uLCD144",
+        "ESP8266"
+    ],
+    "name": "I2CLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/I2CLCD/"
+    }
+}

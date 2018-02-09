@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Yann Garcia",
+        "url": "https://os.mbed.com/users/Yann/"
+    },
+    "description": "This class provides simplified I2C access to a Microchip 24LCxx Serial EEPROM device:",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "OLED",
+        "SSD1308",
+        "24LCxx",
+        "EEPROM",
+        "Microchip",
+        "Serial",
+        "Lora",
+        "Semtech",
+        "SX1276",
+        "SX1276Lib",
+        "SX1276MB1xAS"
+    ],
+    "name": "24LCxx_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Yann/code/24LCxx_I2C/"
+    }
+}

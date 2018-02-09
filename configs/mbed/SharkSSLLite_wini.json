@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Real Time Logic LLC",
+        "url": "https://os.mbed.com/users/wini/"
+    },
+    "description": "This package includes the SharkSSL lite library and header files.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "interrupt",
+        "masking",
+        "MQTT",
+        "SharkSSL",
+        "SSL",
+        "TLS",
+        "WebSocket",
+        "FM25V02",
+        "FM25V10",
+        "FRAM"
+    ],
+    "name": "SharkSSL-Lite",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wini/code/SharkSSL-Lite/"
+    }
+}

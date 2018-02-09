@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Sam Grove",
+        "url": "https://os.mbed.com/users/sam_grove/"
+    },
+    "description": "Templated function pointer class. Common utility that other classes are built on / with",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ROS",
+        "Callback",
+        "Function Pointer",
+        "handler",
+        "current",
+        "I2C",
+        "INA219",
+        "T.I."
+    ],
+    "name": "FP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sam_grove/code/FP/"
+    }
+}

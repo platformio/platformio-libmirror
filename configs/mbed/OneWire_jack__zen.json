@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "jack zen",
+        "url": "https://os.mbed.com/users/jack__zen/"
+    },
+    "description": "DS18B20",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "checksum",
+    "name": "OneWire",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jack__zen/code/OneWire/"
+    }
+}

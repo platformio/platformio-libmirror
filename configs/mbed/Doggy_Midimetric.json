@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Bernard Escaillas",
+        "url": "https://os.mbed.com/users/Midimetric/"
+    },
+    "description": "Doggy",
+    "frameworks": "mbed",
+    "keywords": [
+        "A4982",
+        "A4983 smart step 3d printing",
+        "rap",
+        "rep",
+        "Stepper",
+        "printer",
+        "shield"
+    ],
+    "name": "Doggy",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Midimetric/code/Doggy/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Marvin Villamizar",
+        "url": "https://os.mbed.com/users/dimmu8410/"
+    },
+    "description": "An awesome library for the 7 segment displays.",
+    "frameworks": "mbed",
+    "keywords": [
+        "EDP2",
+        "TMP102",
+        "TMP112"
+    ],
+    "name": "Discrete_SevenSegment_A_K",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dimmu8410/code/Discrete_SevenSegment_A_K/"
+    }
+}

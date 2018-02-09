@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "taka haya",
+        "url": "https://os.mbed.com/users/takoyaki/"
+    },
+    "description": "a motor driver IC TA7291P",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ad7124",
+        "DISCO_F746NG",
+        "sdram"
+    ],
+    "name": "TA7291P",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/takoyaki/code/TA7291P/"
+    }
+}

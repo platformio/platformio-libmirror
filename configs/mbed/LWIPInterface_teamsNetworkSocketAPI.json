@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "NetworkSocketAPI",
+        "url": "https://os.mbed.com/teams/NetworkSocketAPI/"
+    },
+    "description": "Implementation of the NetworkSocketAPI for LWIP",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "3axis",
+        "accelorometer",
+        "AnalogIn",
+        "sensor",
+        "card",
+        "reader",
+        "Wiegand"
+    ],
+    "name": "LWIPInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NetworkSocketAPI/code/LWIPInterface/"
+    }
+}

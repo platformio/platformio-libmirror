@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Patrick Ciccone",
+        "url": "https://os.mbed.com/users/rctaduio/"
+    },
+    "description": "MPU9250 library fork",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "buffer",
+        "ring",
+        "hotboards",
+        "MCP9808",
+        "sesnor",
+        "Temp"
+    ],
+    "name": "mpu9250",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rctaduio/code/mpu9250/"
+    }
+}

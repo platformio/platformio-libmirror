@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Harsha vardan",
+        "url": "https://os.mbed.com/users/Harshavardan61/"
+    },
+    "description": "Interface Stepper motor with mbed",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "bipolar",
+        "L293D",
+        "mbed",
+        "Stepper",
+        "Fibocom",
+        "GPS",
+        "GPS Module",
+        "GTS-4e-60",
+        "NMEA",
+        "NMEA Parser"
+    ],
+    "name": "BipoarStepperMotor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Harshavardan61/code/BipoarStepperMotor/"
+    }
+}

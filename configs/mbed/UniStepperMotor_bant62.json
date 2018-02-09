@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Hiroshi M",
+        "url": "https://os.mbed.com/users/bant62/"
+    },
+    "description": "Unipolar Stepper Motor Library",
+    "frameworks": "mbed",
+    "keywords": "UniStepperMotor",
+    "name": "UniStepperMotor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bant62/code/UniStepperMotor/"
+    }
+}

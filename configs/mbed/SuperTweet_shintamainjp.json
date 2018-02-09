@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "SuperTweet interface driver classes.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "SuperTweet",
+        "RIT",
+        "SHT21",
+        "adc",
+        "dac",
+        "I2C",
+        "PCF8591",
+        "IEEE",
+        "mbed",
+        "micromouse",
+        "UCLA"
+    ],
+    "name": "SuperTweet",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/SuperTweet/"
+    }
+}

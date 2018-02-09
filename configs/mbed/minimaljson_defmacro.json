@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Xuejie Xiao",
+        "url": "https://os.mbed.com/users/defmacro/"
+    },
+    "description": "Minimal JSON parser",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "MCP4726",
+    "name": "minimal-json",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/defmacro/code/minimal-json/"
+    }
+}

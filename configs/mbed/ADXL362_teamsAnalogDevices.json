@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Analog Devices",
+        "url": "https://os.mbed.com/teams/AnalogDevices/"
+    },
+    "description": "ADXL362 accelerometer library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "DigitalIn",
+        "accelerometer",
+        "ADXL362",
+        "Analog",
+        "AnalogIn",
+        "gyro",
+        "sensor"
+    ],
+    "name": "ADXL362",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/AnalogDevices/code/ADXL362/"
+    }
+}

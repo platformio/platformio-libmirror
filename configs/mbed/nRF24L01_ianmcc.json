@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Ian McCulloch",
+        "url": "https://os.mbed.com/users/ianmcc/"
+    },
+    "description": "nRF24L01 driver",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "NetServices",
+        "network",
+        "TCP",
+        "UDP",
+        "multiplexer",
+        "Shift Register",
+        "Altitude",
+        "Freescale",
+        "MPL3115A2",
+        "pressure",
+        "sensor",
+        "Temperature",
+        "nRF24L01"
+    ],
+    "name": "nRF24L01",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ianmcc/code/nRF24L01/"
+    }
+}

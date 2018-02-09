@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "aconno dev team",
+        "url": "https://os.mbed.com/teams/aconno-dev-team/"
+    },
+    "description": "GDEP015OC1 ePaper display for ACD52832 Dev board",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ePaper",
+        "EPD",
+        "GDEP015",
+        "GDEP015OC1"
+    ],
+    "name": "GDEP015OC1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/aconno-dev-team/code/GDEP015OC1/"
+    }
+}

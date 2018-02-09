@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "moccos mizuki",
+        "url": "https://os.mbed.com/users/moccos/"
+    },
+    "description": "for testing ATP3011F4",
+    "frameworks": "mbed",
+    "keywords": [
+        "Hokuyo",
+        "Lidar",
+        "Range Finder",
+        "URG-04LX",
+        "arduino",
+        "mbed",
+        "Serial"
+    ],
+    "name": "ATP3011F4",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/moccos/code/ATP3011F4/"
+    }
+}

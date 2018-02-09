@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Jochen Krapf",
+        "url": "https://os.mbed.com/users/jocis/"
+    },
+    "description": "Measurement of low frequencys based on timing between pulses",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Energy Meter",
+        "frequency",
+        "measurement",
+        "Lidar",
+        "TTL74HC595"
+    ],
+    "name": "Pulses",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jocis/code/Pulses/"
+    }
+}

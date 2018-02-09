@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/"
+    },
+    "description": "Library for MAXREFDES131 OneWire GridEYE sensor interface",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "ip",
+        "mbed"
+    ],
+    "name": "OWGridEye",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/code/OWGridEye/"
+    }
+}

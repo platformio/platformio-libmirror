@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Eric Van den Bulck",
+        "url": "https://os.mbed.com/users/Euler/"
+    },
+    "description": "Library for setting and reading the Pololu minIMU 9 v2 sensor",
+    "frameworks": "mbed",
+    "keywords": [
+        "MQTT",
+        "MQTTClient"
+    ],
+    "name": "IMU",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Euler/code/IMU/"
+    }
+}

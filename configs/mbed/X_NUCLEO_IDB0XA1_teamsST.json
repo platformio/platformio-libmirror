@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "BLE_API wrapper library for STMicroelectronics' BlueNRG Bluetooth Low Energy expansion board shield (Component)",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "X-NUCLEO-IDB04A1",
+        "X-NUCLEO-IDB05A1-Bluetooth-Low-Energy"
+    ],
+    "name": "X_NUCLEO_IDB0XA1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/X_NUCLEO_IDB0XA1/"
+    }
+}

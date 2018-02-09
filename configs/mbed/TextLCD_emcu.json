@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Enrico Marinoni",
+        "url": "https://os.mbed.com/users/emcu/"
+    },
+    "description": "This library must included in:",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "timer",
+        "watchdog",
+        "12BIT",
+        "adc",
+        "I2C",
+        "Nucleo",
+        "debounce",
+        "DigitalIn",
+        "InterruptIn"
+    ],
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/emcu/code/TextLCD/"
+    }
+}

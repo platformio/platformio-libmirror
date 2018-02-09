@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Dan Searle",
+        "url": "https://os.mbed.com/users/Searle95/"
+    },
+    "description": "Base library for various projects.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "SPI",
+        "DC",
+        "motor",
+        "PM motor"
+    ],
+    "name": "Functions",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Searle95/code/Functions/"
+    }
+}

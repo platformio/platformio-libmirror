@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Kiko Ishimoto",
+        "url": "https://os.mbed.com/users/kikoaac/"
+    },
+    "description": "ＱＥＩその２",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "barometer",
+        "I2C",
+        "MEMS",
+        "pressure",
+        "sensor",
+        "STMicro",
+        "cc1101",
+        "driver",
+        "library",
+        "RF12",
+        "rfm12",
+        "RFM12B"
+    ],
+    "name": "QEI2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kikoaac/code/QEI2/"
+    }
+}

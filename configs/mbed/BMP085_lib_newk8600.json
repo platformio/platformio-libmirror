@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Kory Hill",
+        "url": "https://os.mbed.com/users/newk8600/"
+    },
+    "description": "demo program of BMP085 pressure sensor",
+    "frameworks": "mbed",
+    "keywords": [
+        "api",
+        "Digi",
+        "xbee",
+        "zigbee"
+    ],
+    "name": "BMP085_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/newk8600/code/BMP085_lib/"
+    }
+}

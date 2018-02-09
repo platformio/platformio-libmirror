@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Kleber Kruger",
+        "url": "https://os.mbed.com/users/kleberkruger/"
+    },
+    "description": "Fault injector system.",
+    "frameworks": "mbed",
+    "keywords": [
+        "tcp/ip",
+        "WebSocket",
+        "fault",
+        "injector"
+    ],
+    "name": "FaultInjector",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kleberkruger/code/FaultInjector/"
+    }
+}

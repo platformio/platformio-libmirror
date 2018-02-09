@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "gerard marchas",
+        "url": "https://os.mbed.com/users/gm/"
+    },
+    "description": "For Seiko M4024 (LCD 4x40)",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LCD",
+        "PCF2119",
+        "PCF2119x",
+        "SCG002B",
+        "TextLCD",
+        "EEPROM",
+        "MSD",
+        "SPI",
+        "USB"
+    ],
+    "name": "TextLCD_4x40",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gm/code/TextLCD_4x40/"
+    }
+}

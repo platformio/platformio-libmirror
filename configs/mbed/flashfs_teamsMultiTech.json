@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "description": "Filesystem library designed for flash devices",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "crc8",
+        "Flash-fs",
+        "adc",
+        "Color Sensor",
+        "Colour Sensor",
+        "High Speed ADC",
+        "irq",
+        "ldr",
+        "Light Dependent Resistor",
+        "RGB LED"
+    ],
+    "name": "flash-fs",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/flash-fs/"
+    }
+}

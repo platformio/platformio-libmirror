@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "Ring Buffer",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "HD44780",
+        "buffer",
+        "ring",
+        "quadcopter",
+        "Servo",
+        "Nucleo",
+        "stm32",
+        "Wi-Fi",
+        "X-NUCLEO-IDW01M1"
+    ],
+    "name": "RingBuffer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/RingBuffer/"
+    }
+}

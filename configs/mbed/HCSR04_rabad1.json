@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Robert Abad",
+        "url": "https://os.mbed.com/users/rabad1/"
+    },
+    "description": "mbed device driver for HC-SR04 ultrasonic range finder",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "HCSR04",
+        "CAN",
+        "can bus",
+        "CAN Nucleo",
+        "canbus",
+        "CANbus Nucleo",
+        "Controller Area Network",
+        "Nucleo",
+        "9-DOF",
+        "compass",
+        "HMC5883L",
+        "magnetometer",
+        "sparkfun",
+        "MMA7361L",
+        "TextLCD"
+    ],
+    "name": "HCSR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rabad1/code/HCSR04/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Kyle Cassar",
+        "url": "https://os.mbed.com/users/cassar10/"
+    },
+    "description": "Class for AD7390, a 12 bit SPI driven external DAC from Analog Devices.",
+    "frameworks": "mbed",
+    "keywords": [
+        "dac",
+        "External DAC"
+    ],
+    "name": "DACAD7390",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cassar10/code/DACAD7390/"
+    }
+}

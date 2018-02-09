@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Ahmad Fauzy Mohd Aris",
+        "url": "https://os.mbed.com/users/el14afma/"
+    },
+    "description": "SD library",
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/el14afma/code/SDFileSystem/"
+    }
+}

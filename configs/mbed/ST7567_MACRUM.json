@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Toyomasa Watarai",
+        "url": "https://os.mbed.com/users/MACRUM/"
+    },
+    "description": "LPC General Purpose Shield (OM13082) LCD module library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Gatech",
+        "accelerometer",
+        "LSM303DLHC",
+        "magnetometer",
+        "Temperature"
+    ],
+    "name": "ST7567",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MACRUM/code/ST7567/"
+    }
+}

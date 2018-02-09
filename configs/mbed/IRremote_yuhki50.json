@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Taguchi Yuuki",
+        "url": "https://os.mbed.com/users/yuhki50/"
+    },
+    "description": "Infrared remote library for Arduino: send and receive infrared signals with multiple protocols",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "IR",
+        "remote",
+        "networking",
+        "socket",
+        "TCP",
+        "UDP",
+        "BME280",
+        "I2C sensor driver",
+        "edge",
+        "level",
+        "SW",
+        "tact",
+        "Toggle",
+        "mbed",
+        "HTTP server",
+        "httpd",
+        "websocket server"
+    ],
+    "name": "IRremote",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yuhki50/code/IRremote/"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Dieter Graef",
+        "url": "https://os.mbed.com/users/DieterGraef/"
+    },
+    "description": "Ethernet for Nucleo and Disco board STM32F746 works with gcc and arm. IAC is untested",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Altimeter",
+        "barometer",
+        "I2C",
+        "ms5611",
+        "bluetooth",
+        "SDP",
+        "display",
+        "Seeedstudio",
+        "TFT",
+        "discovery",
+        "ethernet",
+        "Nucleo",
+        "stm32",
+        "STM32F746"
+    ],
+    "name": "F7_Ethernet",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DieterGraef/code/F7_Ethernet/"
+    }
+}

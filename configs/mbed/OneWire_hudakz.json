@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "Dallas' 1-Wire bus protocol library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "1-wire",
+        "One Wire",
+        "one-wire",
+        "Host",
+        "hub",
+        "keyboard",
+        "mbed",
+        "Mouse",
+        "MSD",
+        "rtos",
+        "Serial",
+        "USB",
+        "Buffered",
+        "MODSERIAL",
+        "4D Dydtems",
+        "Visi-Genie"
+    ],
+    "name": "OneWire",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/OneWire/"
+    }
+}

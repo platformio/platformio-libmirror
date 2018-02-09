@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Sergio Londono",
+        "url": "https://os.mbed.com/users/salondonog/"
+    },
+    "description": "A driver code library for Text LCD panels using the 4-bit HD44780 lcd display driver.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "8x8",
+        "Adafruit",
+        "backpack",
+        "led"
+    ],
+    "name": "TextLCD-modificada",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/salondonog/code/TextLCD-modificada/"
+    }
+}

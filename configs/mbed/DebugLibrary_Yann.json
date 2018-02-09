@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Yann Garcia",
+        "url": "https://os.mbed.com/users/Yann/"
+    },
+    "description": "Add missing undefined symbols to be sure to use mine",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "buffer",
+        "BufferedSerial",
+        "BufferSerial",
+        "Serial",
+        "SoftSerial",
+        "software",
+        "FAT",
+        "file",
+        "Filenames",
+        "fixes",
+        "Long",
+        "System",
+        "f401",
+        "internal",
+        "mbed",
+        "Nucleo",
+        "Temperature",
+        "debug",
+        "library"
+    ],
+    "name": "DebugLibrary",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Yann/code/DebugLibrary/"
+    }
+}

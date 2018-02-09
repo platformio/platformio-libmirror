@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Akash Vibhute",
+        "url": "https://os.mbed.com/users/akashvibhute/"
+    },
+    "description": "Maniacbug's RF24 arduino library ported to mbed. Tested, it works for Nucleo F411",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "compass",
+        "LSM303DLHC",
+        "magnetometer",
+        "sensors",
+        "maniacbug",
+        "nRF24L01",
+        "nRF24L01P",
+        "RF24"
+    ],
+    "name": "RF24",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/akashvibhute/code/RF24/"
+    }
+}

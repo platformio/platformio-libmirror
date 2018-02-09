@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Keith Bryer",
+        "url": "https://os.mbed.com/users/innovodesign/"
+    },
+    "description": "Modified wrapper for UDP socket allowing broadcast packets using the new network stack.",
+    "frameworks": "mbed",
+    "keywords": [
+        "GPS",
+        "NMEA",
+        "parse",
+        "broadcast",
+        "multicast",
+        "UDP",
+        "Seeedstudio",
+        "shield",
+        "wifi",
+        "WiFly",
+        "FAT",
+        "file",
+        "SD",
+        "System",
+        "FRDM-KL25Z",
+        "LCD",
+        "Nokia"
+    ],
+    "name": "udpBroadcastSocket",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/innovodesign/code/udpBroadcastSocket/"
+    }
+}

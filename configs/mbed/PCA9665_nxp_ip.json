@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "InetrfaceProducts NXP",
+        "url": "https://os.mbed.com/users/nxp_ip/"
+    },
+    "description": "Mini board PCU9669 evaluation kit library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "matrix"
+    ],
+    "name": "PCA9665",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nxp_ip/code/PCA9665/"
+    }
+}

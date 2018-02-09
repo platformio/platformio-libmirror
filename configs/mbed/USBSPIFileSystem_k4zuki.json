@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Kazuki Yamamoto",
+        "url": "https://os.mbed.com/users/k4zuki/"
+    },
+    "description": "USB MSD filesystem using 1MBit(128kByte) SPI EEPROM",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LCD",
+        "PCF2119",
+        "PCF2119x",
+        "SCG002B",
+        "TextLCD",
+        "EEPROM",
+        "MSD",
+        "SPI",
+        "USB"
+    ],
+    "name": "USBSPIFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/k4zuki/code/USBSPIFileSystem/"
+    }
+}

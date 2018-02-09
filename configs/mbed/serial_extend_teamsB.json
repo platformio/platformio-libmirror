@@ -1,0 +1,45 @@
+{
+    "authors": {
+        "name": "Bチーム",
+        "url": "https://os.mbed.com/teams/B/"
+    },
+    "description": "serial_extend library for array data transmission and reception",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "flash",
+        "Serial",
+        "SPI",
+        "mbed",
+        "UART",
+        "fast",
+        "FastPWM",
+        "precision",
+        "pwm",
+        "resolution",
+        "Servo",
+        "Speed",
+        "adc",
+        "Analog",
+        "calculate",
+        "convert",
+        "filter",
+        "Linear",
+        "LM335",
+        "median",
+        "multiplier",
+        "offset",
+        "sensor",
+        "Temperature",
+        "voltage",
+        "BLE",
+        "I2C",
+        "nordig"
+    ],
+    "name": "serial_extend",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/B/code/serial_extend/"
+    }
+}

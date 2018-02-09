@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "David Grayson",
+        "url": "https://os.mbed.com/users/DavidEGrayson/"
+    },
+    "description": "This library lets you control the addressable RGB LED strips from Pololu Robotics & Electronics.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "led strip",
+        "Sensirion",
+        "SHT21",
+        "MPU-9250",
+        "display",
+        "graphic",
+        "LCD",
+        "QVGA",
+        "TFT",
+        "touch"
+    ],
+    "name": "PololuLedStrip",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DavidEGrayson/code/PololuLedStrip/"
+    }
+}

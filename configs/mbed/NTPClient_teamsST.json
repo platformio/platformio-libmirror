@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "NTP client to get UTC time from the internet time servers",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "2017NOSHIRO",
+    "name": "NTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/NTPClient/"
+    }
+}

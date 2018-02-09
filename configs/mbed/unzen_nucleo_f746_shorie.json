@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "seiichi horie",
+        "url": "https://os.mbed.com/users/shorie/"
+    },
+    "description": "First Publish. Works fine.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "f746ZG",
+        "Nucleo",
+        "unzen",
+        "javascript",
+        "scripting"
+    ],
+    "name": "unzen_nucleo_f746",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shorie/code/unzen_nucleo_f746/"
+    }
+}

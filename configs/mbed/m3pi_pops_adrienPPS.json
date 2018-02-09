@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Adrien Aflalo",
+        "url": "https://os.mbed.com/users/adrienPPS/"
+    },
+    "description": "Library for the m3pi robot. This works with a Pololu 3pi robot with the Serial Slave firmware, and exposes and API. Added a read sensors function",
+    "frameworks": "mbed",
+    "keywords": [
+        "3pi",
+        "II",
+        "m3pi",
+        "pololu",
+        "pops",
+        "PPS",
+        "robot"
+    ],
+    "name": "m3pi_pops",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/adrienPPS/code/m3pi_pops/"
+    }
+}

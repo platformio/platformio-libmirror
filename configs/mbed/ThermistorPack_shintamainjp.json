@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "ThermistorPack.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "fona",
+        "GPRS",
+        "GSM",
+        "sim800l",
+        "sim808",
+        "thermistor",
+        "Serial",
+        "compass",
+        "Digital",
+        "F411RE",
+        "HMC5883L",
+        "magnetometer",
+        "mbed",
+        "Nucleo"
+    ],
+    "name": "ThermistorPack",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/ThermistorPack/"
+    }
+}

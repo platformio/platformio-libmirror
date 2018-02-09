@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Tyler Weaver",
+        "url": "https://os.mbed.com/users/tylerjw/"
+    },
+    "description": "SDHCFileSystem in a library.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "AppNearMe",
+        "NFC",
+        "External SD",
+        "file system",
+        "SDHC",
+        "SPI"
+    ],
+    "name": "SDHC_FileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tylerjw/code/SDHC_FileSystem/"
+    }
+}

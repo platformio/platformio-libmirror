@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Veikko Kero",
+        "url": "https://os.mbed.com/users/Vekotin/"
+    },
+    "description": "jepjaee",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "parser",
+        "tinyxml",
+        "xml"
+    ],
+    "name": "Touch_tft",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Vekotin/code/Touch_tft/"
+    }
+}

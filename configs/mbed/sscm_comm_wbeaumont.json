@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "wimbeaumont Project",
+        "url": "https://os.mbed.com/users/wbeaumont/"
+    },
+    "description": "functions for the communication between SOLID slow control modules and Cprograms",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "sscm_comm",
+    "name": "sscm_comm",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wbeaumont/code/sscm_comm/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "ken fuji",
+        "url": "https://os.mbed.com/users/fujikenac/"
+    },
+    "description": "田中くんのモタドラを制御する石本さんのやつ",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "BMI160",
+        "gyroscope",
+        "I2C",
+        "SPI"
+    ],
+    "name": "T_motor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fujikenac/code/T_motor/"
+    }
+}

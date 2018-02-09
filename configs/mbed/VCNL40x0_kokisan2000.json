@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Dirck Sowada",
+        "url": "https://os.mbed.com/users/kokisan2000/"
+    },
+    "description": "Driver for Proximity / Ambient Light Sensor VCNL40xx from Vishay",
+    "frameworks": "mbed",
+    "keywords": [
+        "sensor",
+        "Temperature",
+        "TMP175",
+        "VCNL4000",
+        "VCNL4010",
+        "VCNL4020",
+        "herkulex",
+        "Servo"
+    ],
+    "name": "VCNL40x0",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kokisan2000/code/VCNL40x0/"
+    }
+}

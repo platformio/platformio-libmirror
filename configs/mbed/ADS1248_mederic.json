@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Mederic Melard",
+        "url": "https://os.mbed.com/users/mederic/"
+    },
+    "description": "ADS1246/7/8 24bit ADC converter for Temperature Sensors class",
+    "frameworks": "mbed",
+    "keywords": [
+        "24bit",
+        "adc",
+        "NTC",
+        "PT100",
+        "PT1000",
+        "PT500",
+        "RTD",
+        "Temperature",
+        "Thermocouple",
+        "dB",
+        "digital filter",
+        "DISCO-F746",
+        "frequency response",
+        "log scale",
+        "Mikami",
+        "printf",
+        "ringbuffer",
+        "Serial",
+        "led",
+        "pwm",
+        "Ticker"
+    ],
+    "name": "ADS1248",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mederic/code/ADS1248/"
+    }
+}

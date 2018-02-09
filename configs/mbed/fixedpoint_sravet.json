@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Steve Ravet",
+        "url": "https://os.mbed.com/users/sravet/"
+    },
+    "description": "A fixed point library from Trenki http://www.trenki.net/content/view/17/1/",
+    "frameworks": "mbed",
+    "keywords": [
+        "motor",
+        "PCA9629",
+        "Stepper",
+        "arduino",
+        "micros",
+        "millis",
+        "arithmetic",
+        "fixed",
+        "point"
+    ],
+    "name": "fixedpoint",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sravet/code/fixedpoint/"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Ilsoe Peter",
+        "url": "https://os.mbed.com/users/piniels/"
+    },
+    "description": "A library for the Arduino motor shield board",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "L298",
+        "motor",
+        "Stepper",
+        "Communication",
+        "Serial",
+        "Terminal",
+        "VT100",
+        "VT200",
+        "7",
+        "display",
+        "driver",
+        "led",
+        "PCA9635",
+        "segment"
+    ],
+    "name": "ArduinoMotorShield",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/piniels/code/ArduinoMotorShield/"
+    }
+}

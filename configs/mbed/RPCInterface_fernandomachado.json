@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Fernando Machado",
+        "url": "https://os.mbed.com/users/fernandomachado/"
+    },
+    "description": "Learning how to use RPC.",
+    "frameworks": "mbed",
+    "keywords": [
+        "daisy-chain",
+        "L6470",
+        "SPI",
+        "Stepper",
+        "command",
+        "prompt",
+        "shell",
+        "tinyshell"
+    ],
+    "name": "RPCInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fernandomachado/code/RPCInterface/"
+    }
+}

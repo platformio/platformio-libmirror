@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Edutech IoT Team",
+        "url": "https://os.mbed.com/teams/Edutech/"
+    },
+    "description": "si1145 library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "BMC150",
+    "name": "SI1145",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Edutech/code/SI1145/"
+    }
+}

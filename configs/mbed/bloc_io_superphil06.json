@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "philippe laurent",
+        "url": "https://os.mbed.com/users/superphil06/"
+    },
+    "description": "communication mbed/pld altera lib",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "TFT",
+    "name": "bloc_io",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/superphil06/code/bloc_io/"
+    }
+}

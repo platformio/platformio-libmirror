@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "mimil owns",
+        "url": "https://os.mbed.com/users/mimil/"
+    },
+    "description": "JSON library for parser and serializer",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "3",
+        "joystick",
+        "playstation",
+        "motor",
+        "SPG20-332",
+        "Stepper",
+        "stepping",
+        "TA7774",
+        "frequency",
+        "LPC1768",
+        "MHz",
+        "output",
+        "JSON"
+    ],
+    "name": "picojson",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mimil/code/picojson/"
+    }
+}

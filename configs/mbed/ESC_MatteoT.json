@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Matteo Terruzzi",
+        "url": "https://os.mbed.com/users/MatteoT/"
+    },
+    "description": "ESC class used to controll standard Electronic Speed Controllers for brushless motors of RC models",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "AD",
+        "da",
+        "MCP4921",
+        "MCP4922",
+        "Nucleo",
+        "SPI",
+        "UIT",
+        "accelerometer",
+        "I2C",
+        "LIS3DH",
+        "Callback",
+        "FunctionPointer",
+        "Functor",
+        "esc",
+        "pwm",
+        "RC"
+    ],
+    "name": "ESC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MatteoT/code/ESC/"
+    }
+}

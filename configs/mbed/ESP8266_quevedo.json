@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Antonio Quevedo",
+        "url": "https://os.mbed.com/users/quevedo/"
+    },
+    "description": "Library for using the Wifi module ESP8266, first version with basic commands, soon new commands will be added",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LCD",
+        "uLCD144",
+        "ESP8266"
+    ],
+    "name": "ESP8266",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/quevedo/code/ESP8266/"
+    }
+}

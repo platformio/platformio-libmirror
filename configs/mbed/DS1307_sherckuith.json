@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Angel David Yaguana Hernandez",
+        "url": "https://os.mbed.com/users/sherckuith/"
+    },
+    "description": "Libreria para trabajar con DS1307 y usar su memoria",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "dynamixel",
+        "IOT",
+        "AX-12",
+        "ax12",
+        "ethernet",
+        "EthernetInterface",
+        "EthernetLibrary",
+        "W5500",
+        "WIZ550IO",
+        "Wiznet"
+    ],
+    "name": "DS1307",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sherckuith/code/DS1307/"
+    }
+}

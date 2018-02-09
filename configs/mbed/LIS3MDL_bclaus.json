@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "brian claus",
+        "url": "https://os.mbed.com/users/bclaus/"
+    },
+    "description": "Copied from STs implementation.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "authorization",
+        "client",
+        "custom",
+        "headers",
+        "http"
+    ],
+    "name": "LIS3MDL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bclaus/code/LIS3MDL/"
+    }
+}

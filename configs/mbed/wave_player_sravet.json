@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Steve Ravet",
+        "url": "https://os.mbed.com/users/sravet/"
+    },
+    "description": "Wave playing code, based on Big Mouth Billy Bass, but cleaned up and capable of playing more bitrates and sample sizes.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "16x1",
+        "TextLCD",
+        "file",
+        "player",
+        "wav",
+        "wave",
+        "Celsius",
+        "driver",
+        "I2C",
+        "LM75B",
+        "nxp",
+        "sensor",
+        "Temperature",
+        "GPS",
+        "BSP",
+        "DISCO_F746NG",
+        "accelerometer",
+        "gyroscope",
+        "MPU-6050",
+        "MPU6050",
+        "MPU60x0"
+    ],
+    "name": "wave_player",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sravet/code/wave_player/"
+    }
+}

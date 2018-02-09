@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Johnny Yam",
+        "url": "https://os.mbed.com/users/jyam/"
+    },
+    "description": "wireless debugging via Bluetooth Bee module",
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "ILI9340",
+        "stm32",
+        "Bee",
+        "bluetooth",
+        "BluetoothBee",
+        "Seeedstudio",
+        "Serial",
+        "UART",
+        "WLS125E1P",
+        "BH1750",
+        "digital light sensor",
+        "gy-30",
+        "event",
+        "event-driven",
+        "fully-preemptive",
+        "multithread",
+        "rtos",
+        "run-to-completion",
+        "schedulling",
+        "single-stack"
+    ],
+    "name": "BluetoothBee",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jyam/code/BluetoothBee/"
+    }
+}

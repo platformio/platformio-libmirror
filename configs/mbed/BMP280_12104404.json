@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Edwin Cho",
+        "url": "https://os.mbed.com/users/12104404/"
+    },
+    "description": "BME280 Combined humidity and pressure sensor library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "BME280",
+        "I2C",
+        "RHT",
+        "sensor",
+        "Si7013",
+        "Si7020",
+        "Si7021",
+        "Silicon Labs",
+        "silicon_labs",
+        "siliconlabs"
+    ],
+    "name": "BMP280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/12104404/code/BMP280/"
+    }
+}

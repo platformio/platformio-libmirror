@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "silabs-abakurs",
+        "url": "https://os.mbed.com/teams/silabs-abakurs/"
+    },
+    "description": "Library for the BMP085 barometer.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ELEC3880",
+        "gait",
+        "hexapod",
+        "Leeds",
+        "PCA9685",
+        "robot",
+        "Servo",
+        "M2PI",
+        "paris",
+        "polytech",
+        "pour",
+        "sud",
+        "elec2645",
+        "display",
+        "output",
+        "128",
+        "ACE",
+        "bourns",
+        "Encoder"
+    ],
+    "name": "BMP085",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/silabs-abakurs/code/BMP085/"
+    }
+}

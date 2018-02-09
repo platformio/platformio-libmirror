@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Przemysław Kochański",
+        "url": "https://os.mbed.com/users/kochansky/"
+    },
+    "description": "Library for Pololu Maestro Servo Controller",
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed5",
+        "NetworkInterfaceAPI",
+        "wifi",
+        "wifiinterface",
+        "wizfi310",
+        "wizfi310interface",
+        "timer",
+        "Ton",
+        "wait",
+        "maestro",
+        "Serial",
+        "Servo",
+        "led",
+        "TM1638"
+    ],
+    "name": "Maestro",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kochansky/code/Maestro/"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Nordic Semiconductor",
+        "url": "https://os.mbed.com/teams/Nordic-Semiconductor/"
+    },
+    "description": "Nordic stack and drivers for the mbed BLE API",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "rpc",
+    "name": "nRF51822",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nordic-Semiconductor/code/nRF51822/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Controls2 Developer",
+        "url": "https://os.mbed.com/users/cfscontrols2/"
+    },
+    "description": "Class for using AD7730 chip",
+    "frameworks": "mbed",
+    "keywords": [
+        "Configuration",
+        "file",
+        "ini",
+        "interface"
+    ],
+    "name": "AD7730",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cfscontrols2/code/AD7730/"
+    }
+}

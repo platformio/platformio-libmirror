@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "W5500-Ethernet-Interface Makers",
+        "url": "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/"
+    },
+    "description": "This is the Interface library for WIZnet W5500 chip which forked of EthernetInterfaceW5500, WIZnetInterface and WIZ550ioInterface. This library has simple name as \"W5500Interface\". and can be used for Wiz550io users also.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "WIZ550io",
+        "W5500"
+    ],
+    "name": "W5500Interface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/code/W5500Interface/"
+    }
+}

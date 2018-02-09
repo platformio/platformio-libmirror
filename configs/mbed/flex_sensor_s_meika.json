@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Meika Sugimoto",
+        "url": "https://os.mbed.com/users/s_meika/"
+    },
+    "description": "This library operates flex sensor 4.5 made by sparkfun.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "AT",
+        "C030",
+        "CellularInterface",
+        "N211",
+        "N2xx",
+        "u-blox",
+        "Nunchuk"
+    ],
+    "name": "flex_sensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/s_meika/code/flex_sensor/"
+    }
+}

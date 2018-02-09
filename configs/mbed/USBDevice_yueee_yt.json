@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Yasushi TAUCHI",
+        "url": "https://os.mbed.com/users/yueee_yt/"
+    },
+    "description": "add keycode2 at USBKeyboard",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "keyboard",
+        "USB"
+    ],
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yueee_yt/code/USBDevice/"
+    }
+}

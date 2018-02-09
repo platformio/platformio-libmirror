@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Miroslaw K.",
+        "url": "https://os.mbed.com/users/karpent/"
+    },
+    "description": "Tiny graphics library for STM32F746G-DISCO board",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "MPU9250",
+        "DISCO-F746",
+        "F746",
+        "Graphics",
+        "karpent",
+        "flysky",
+        "PPM",
+        "pwm",
+        "RC",
+        "Receiver",
+        "Servo",
+        "NeoPixel",
+        "rgb"
+    ],
+    "name": "Graphics",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/karpent/code/Graphics/"
+    }
+}

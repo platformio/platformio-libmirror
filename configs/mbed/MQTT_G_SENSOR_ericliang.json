@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "eric liang",
+        "url": "https://os.mbed.com/users/ericliang/"
+    },
+    "description": "MQTT+G SENSOR",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Fastsensing",
+        "IOT",
+        "sensing"
+    ],
+    "name": "MQTT_G_SENSOR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ericliang/code/MQTT_G_SENSOR/"
+    }
+}

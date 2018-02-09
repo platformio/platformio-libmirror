@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Kero Sunutte",
+        "url": "https://os.mbed.com/users/MBE13170/"
+    },
+    "description": "This is a very tiny library which counts DigitalIn rising , using \"Ticker\" interrupts.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "DigitalIn",
+        "accelerometer",
+        "ADXL362",
+        "Analog",
+        "AnalogIn",
+        "gyro",
+        "sensor"
+    ],
+    "name": "Pswitch_Lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MBE13170/code/Pswitch_Lib/"
+    }
+}

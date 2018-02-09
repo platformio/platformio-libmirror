@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "Socket interface for ESP8266. Implements the NetworkSocketAPI. Requires device to use the Espressif Firmware.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "infra",
+        "infrared",
+        "IR",
+        "mbed",
+        "red",
+        "keil",
+        "MCB1700",
+        "QVGA",
+        "TFT",
+        "ESP8266",
+        "NetworkSocketAPI",
+        "network",
+        "TCPSocket",
+        "twitpic",
+        "twitter"
+    ],
+    "name": "ESP8266Interface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/ESP8266Interface/"
+    }
+}

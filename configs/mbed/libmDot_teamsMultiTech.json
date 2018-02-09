@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "description": "Library for LoRa communication using MultiTech MDOT.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "EM406",
+        "GPS",
+        "library",
+        "Serial",
+        "Lora",
+        "mdot",
+        "multitech",
+        "ethernet",
+        "tcp/ip",
+        "w5100",
+        "W5200",
+        "W5500",
+        "Wiznet"
+    ],
+    "name": "libmDot",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/libmDot/"
+    }
+}

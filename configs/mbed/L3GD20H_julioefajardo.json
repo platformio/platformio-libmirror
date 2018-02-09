@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Julio Fajardo",
+        "url": "https://os.mbed.com/users/julioefajardo/"
+    },
+    "description": "Adafruit 9DOF - L3GD20H Driver",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit 9DOF",
+        "L3GD20H",
+        "BLE",
+        "BLE Bluetooth Low Energy BLE",
+        "BUTTON",
+        "LIN"
+    ],
+    "name": "L3GD20H",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/julioefajardo/code/L3GD20H/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "Fork of https://developer.mbed.org/teams/mbed-os-examples/code/mbed-os-example-client/",
+    "frameworks": "mbed",
+    "keywords": [
+        "i2c expander",
+        "MCP23017"
+    ],
+    "name": "mbed-os-example-client",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/mbed-os-example-client/"
+    }
+}

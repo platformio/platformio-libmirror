@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "科学部 唐津東",
+        "url": "https://os.mbed.com/users/karatuhigasi/"
+    },
+    "description": "XBee",
+    "frameworks": "mbed",
+    "keywords": [
+        "Humidity",
+        "Sensirion",
+        "sensor",
+        "SHT71",
+        "SHT75",
+        "SHT7x",
+        "Temperature",
+        "Freescale",
+        "FXAS21002CQ",
+        "Giroscope",
+        "ethernet",
+        "socket",
+        "W5500",
+        "C027;",
+        "G350;",
+        "GPS;",
+        "SARA"
+    ],
+    "name": "MODSERIAL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/karatuhigasi/code/MODSERIAL/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Stéphane Cachat",
+        "url": "https://os.mbed.com/users/scachat/"
+    },
+    "description": "DS1338 RTC library",
+    "frameworks": "mbed",
+    "keywords": [
+        "DS1338",
+        "I2C",
+        "adc",
+        "F411RE",
+        "Nucleo",
+        "quadrature",
+        "SPI",
+        "stm32",
+        "timer"
+    ],
+    "name": "DS1338",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/scachat/code/DS1338/"
+    }
+}

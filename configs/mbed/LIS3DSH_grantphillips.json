@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Grant Phillips",
+        "url": "https://os.mbed.com/users/grantphillips/"
+    },
+    "description": "Class library for a LIS3DSH MEMS digital output motion sensor (acceleromoter).",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "CAN",
+        "can bus",
+        "CAN message"
+    ],
+    "name": "LIS3DSH",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/grantphillips/code/LIS3DSH/"
+    }
+}

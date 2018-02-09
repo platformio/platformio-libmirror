@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "jim herd",
+        "url": "https://os.mbed.com/users/jimherd/"
+    },
+    "description": "Set of routines to access 16*32character LCD display on WattBob I board.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F746NG",
+        "LCD",
+        "Serial",
+        "SoftwareSerial",
+        "UART",
+        "FAT",
+        "file",
+        "SD",
+        "System",
+        "any",
+        "no",
+        "Pin",
+        "pwm",
+        "Servo",
+        "I2C",
+        "wattbob"
+    ],
+    "name": "WattBob_TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jimherd/code/WattBob_TextLCD/"
+    }
+}

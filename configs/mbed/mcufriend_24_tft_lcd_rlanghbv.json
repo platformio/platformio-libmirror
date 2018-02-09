@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Rune Langoy",
+        "url": "https://os.mbed.com/users/rlanghbv/"
+    },
+    "description": "mcufriend 2.4 TFT LCD Shield Lib",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "2.4",
+        "LCD",
+        "MCUFRIEND",
+        "TFT"
+    ],
+    "name": "mcufriend_24_tft_lcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rlanghbv/code/mcufriend_24_tft_lcd/"
+    }
+}

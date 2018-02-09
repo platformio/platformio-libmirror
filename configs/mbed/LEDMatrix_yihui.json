@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Yihui Xiong",
+        "url": "https://os.mbed.com/users/yihui/"
+    },
+    "description": "LED matrix library for http://goo.gl/y6VnO6",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "matrix"
+    ],
+    "name": "LEDMatrix",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yihui/code/LEDMatrix/"
+    }
+}

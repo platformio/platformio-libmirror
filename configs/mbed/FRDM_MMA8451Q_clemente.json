@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "clemente di caprio",
+        "url": "https://os.mbed.com/users/clemente/"
+    },
+    "description": "Added code to manage Orientation, FreeFall and Motion Detection. Data is also available via IRQ.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "card",
+        "SD",
+        "16x2",
+        "freetronics",
+        "LCD",
+        "blinking",
+        "led",
+        "dynamixel",
+        "MX28",
+        "Servo",
+        "I2C",
+        "software",
+        "1-wire",
+        "DS18B20"
+    ],
+    "name": "FRDM_MMA8451Q",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/clemente/code/FRDM_MMA8451Q/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Joseph Bradshaw",
+        "url": "https://os.mbed.com/users/jebradshaw/"
+    },
+    "description": "Preliminary mbed encoder interface IC class",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "F401RE",
+        "L3GD20",
+        "Nucleo",
+        "device",
+        "USB"
+    ],
+    "name": "LS7366LIB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jebradshaw/code/LS7366LIB/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Ian Krase",
+        "url": "https://os.mbed.com/users/ikrase/"
+    },
+    "description": "Our forked version of FRDM-TFC without superfluous mbed-lib",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "bluetooth",
+        "Serial",
+        "shield",
+        "FIAP",
+        "IEEE1888"
+    ],
+    "name": "FRDM-TFC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ikrase/code/FRDM-TFC/"
+    }
+}

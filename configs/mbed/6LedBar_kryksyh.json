@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Dmitry Makarenko",
+        "url": "https://os.mbed.com/users/kryksyh/"
+    },
+    "description": "Simple 6-LED bar library. Provides some useful functions.",
+    "frameworks": "mbed",
+    "keywords": "6LedBar",
+    "name": "6LedBar",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kryksyh/code/6LedBar/"
+    }
+}

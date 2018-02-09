@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "PubNub",
+        "url": "https://os.mbed.com/teams/PubNub/"
+    },
+    "description": "Build Realtime Apps With The Real-Time Network - the mbed PubNub API+SDK",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "TCP",
+        "UDP"
+    ],
+    "name": "PubNub",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PubNub/code/PubNub/"
+    }
+}

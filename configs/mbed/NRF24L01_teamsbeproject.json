@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "be project",
+        "url": "https://os.mbed.com/teams/be-project/"
+    },
+    "description": "simple code",
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "BLE Bluetooth Low Energy BLE",
+        "led",
+        "5110",
+        "LCD"
+    ],
+    "name": "NRF24L01",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/be-project/code/NRF24L01/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Senet",
+        "url": "https://os.mbed.com/teams/Senet/"
+    },
+    "description": "Senet Packet API",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Lora",
+        "senet"
+    ],
+    "name": "Senet_Packet",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Senet/code/Senet_Packet/"
+    }
+}

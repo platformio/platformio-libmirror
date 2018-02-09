@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Steven Swenson",
+        "url": "https://os.mbed.com/users/melangeaddict/"
+    },
+    "description": "Class to determine the frequency of an input array",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "frequency",
+        "14A2A",
+        "ATT",
+        "avnet",
+        "Cellular",
+        "modem",
+        "WNC",
+        "WncController"
+    ],
+    "name": "FrequencyFinder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/melangeaddict/code/FrequencyFinder/"
+    }
+}

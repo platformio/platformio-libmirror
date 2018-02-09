@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Litan Virgil",
+        "url": "https://os.mbed.com/users/Elefantul_umilit/"
+    },
+    "description": "Buzzer class with note definitions and custom song functionality",
+    "frameworks": "mbed",
+    "keywords": [
+        "buzzer",
+        "song",
+        "sound"
+    ],
+    "name": "Buzzer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Elefantul_umilit/code/Buzzer/"
+    }
+}

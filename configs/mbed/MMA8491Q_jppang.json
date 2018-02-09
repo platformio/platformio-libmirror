@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "JP PANG",
+        "url": "https://os.mbed.com/users/jppang/"
+    },
+    "description": "modified from MMA8451Q",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "control",
+        "PID"
+    ],
+    "name": "MMA8491Q",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jppang/code/MMA8491Q/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Eli Hughes",
+        "url": "https://os.mbed.com/users/emh203/"
+    },
+    "description": "test",
+    "frameworks": "mbed",
+    "keywords": "chan_fatfs",
+    "name": "chan_fatfs",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/emh203/code/chan_fatfs/"
+    }
+}

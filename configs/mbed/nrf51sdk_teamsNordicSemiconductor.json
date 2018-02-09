@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Nordic Semiconductor",
+        "url": "https://os.mbed.com/teams/Nordic-Semiconductor/"
+    },
+    "description": "Nordic nrf51 sdk sources.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "time",
+        "timezone"
+    ],
+    "name": "nrf51-sdk",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nordic-Semiconductor/code/nrf51-sdk/"
+    }
+}

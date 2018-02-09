@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "John VanLaanen",
+        "url": "https://os.mbed.com/users/johnvanlaanen/"
+    },
+    "description": "Block access only to a SD Flash card conected via SPI. Based on SDFileSystem, but without any file system support.",
+    "frameworks": "mbed",
+    "keywords": [
+        "station",
+        "3310",
+        "3390",
+        "LCD",
+        "Nokia",
+        "pcd8544",
+        "TextLCD"
+    ],
+    "name": "SDFlashDisk",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/johnvanlaanen/code/SDFlashDisk/"
+    }
+}

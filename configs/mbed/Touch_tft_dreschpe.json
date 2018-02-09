@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "LIB for resistiv touchscreen connected to 4 mbed pins",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "TFT",
+        "Touchscreen",
+        "BlinkLabel",
+        "BUTTON",
+        "DISCO-F746",
+        "GUI",
+        "Label",
+        "Mikami",
+        "NumericLabel",
+        "ResetButton",
+        "SeekBar",
+        "SeekbarGroup",
+        "ethernet",
+        "NetServices",
+        "network",
+        "TCP",
+        "UDP"
+    ],
+    "name": "Touch_tft",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/Touch_tft/"
+    }
+}

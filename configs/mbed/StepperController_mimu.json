@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Maxim R",
+        "url": "https://os.mbed.com/users/mimu/"
+    },
+    "description": "Simple stepper motor control via driver.",
+    "frameworks": "mbed",
+    "keywords": [
+        "inair4",
+        "inair8",
+        "inair9",
+        "Lora",
+        "modtronix",
+        "SX1276",
+        "HD44780",
+        "LCD",
+        "MT-16S2D",
+        "rus",
+        "Russian",
+        "text",
+        "TextLCD",
+        "TextLCD_Rus",
+        "buzzer",
+        "pwm",
+        "tone",
+        "tune",
+        "Host",
+        "mbed",
+        "PTP",
+        "USB"
+    ],
+    "name": "StepperController",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mimu/code/StepperController/"
+    }
+}

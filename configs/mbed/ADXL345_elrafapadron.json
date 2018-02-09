@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Jose R Padron",
+        "url": "https://os.mbed.com/users/elrafapadron/"
+    },
+    "description": "Add functions to read Ax, Ay and Az individually",
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "SDCard",
+        "Seeedstudio",
+        "TFT",
+        "touch",
+        "Humidity",
+        "sensor",
+        "Temperature",
+        "accelerometer",
+        "ADXL345",
+        "senor",
+        "DMA",
+        "rtos",
+        "SD",
+        "SDFileSystem",
+        "FRDM",
+        "KL25z",
+        "MLK25Z128FRDM"
+    ],
+    "name": "ADXL345",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/elrafapadron/code/ADXL345/"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "suu pen",
+        "url": "https://os.mbed.com/users/suupen/"
+    },
+    "description": "アナログポート から スイッチを３つ認識するライブラリです。",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Analog",
+        "dipsw",
+        "Input",
+        "SW",
+        "tactsw",
+        "FreeRTOS",
+        "rtos",
+        "graphic",
+        "Lascar",
+        "LCD",
+        "SP5-GFX1",
+        "SPI",
+        "aconno",
+        "Nordic",
+        "nrf52"
+    ],
+    "name": "SwAnalog",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/suupen/code/SwAnalog/"
+    }
+}

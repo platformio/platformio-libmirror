@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "justin kim",
+        "url": "https://os.mbed.com/users/justinkim/"
+    },
+    "description": "Adafruit ST7735 Library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "LandTiger",
+        "SSD1289",
+        "Adafruit",
+        "LCD",
+        "ST7735",
+        "TFT"
+    ],
+    "name": "Adafruit_ST7735",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/justinkim/code/Adafruit_ST7735/"
+    }
+}

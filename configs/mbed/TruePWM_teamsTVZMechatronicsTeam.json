@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "TVZ Mechatronics Team",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/"
+    },
+    "description": "A PWM library for LPC1768 that enables the sending of n number of PWM impulses through registry editing of LPC1768.",
+    "frameworks": "mbed",
+    "keywords": [
+        "K64F",
+        "overclock",
+        "buffer",
+        "impulses",
+        "LPC1768",
+        "motor",
+        "n",
+        "number",
+        "of",
+        "programing",
+        "pwm",
+        "registry",
+        "Stepper",
+        "MPU6000",
+        "MPU6050",
+        "MPU60x0"
+    ],
+    "name": "TruePWM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/TruePWM/"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Tim B",
+        "url": "https://os.mbed.com/users/tim_b/"
+    },
+    "description": "For D",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "audio",
+        "bwf",
+        "file",
+        "wav",
+        "wave",
+        "modbus rtu",
+        "real time",
+        "rtos",
+        "serial protocol",
+        "IMU",
+        "MPU9150",
+        "gyro"
+    ],
+    "name": "MMA8451Q_tb",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tim_b/code/MMA8451Q_tb/"
+    }
+}

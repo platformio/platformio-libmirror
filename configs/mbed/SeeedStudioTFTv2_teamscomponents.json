@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "Library for SeeedStudioTFTv2 2.8 Zoll 240x360 pixel touch SD card",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Seeed-Studio-28-TFT-Touch-Shield-V20",
+        "Adafruit-28-TFT-Touch-Shield-v2"
+    ],
+    "name": "SeeedStudioTFTv2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/SeeedStudioTFTv2/"
+    }
+}

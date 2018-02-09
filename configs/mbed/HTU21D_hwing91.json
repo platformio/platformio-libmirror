@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Alan Lai",
+        "url": "https://os.mbed.com/users/hwing91/"
+    },
+    "description": "BASIC LIBRARY TO INTERFACE WITH HTU21D TEMPERATURE AND HUMIDITY SENSOR",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "8x8",
+        "Adafruit",
+        "backpack",
+        "led",
+        "clock",
+        "ds1307",
+        "real",
+        "RTC",
+        "time"
+    ],
+    "name": "HTU21D",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hwing91/code/HTU21D/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "BLE EddystoneService example",
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "BLE Bluetooth Low Energy BLE",
+        "Eddystone"
+    ],
+    "name": "mbed-os-example-ble-EddystoneService",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/mbed-os-example-ble-EddystoneService/"
+    }
+}

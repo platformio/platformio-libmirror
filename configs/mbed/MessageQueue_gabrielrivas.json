@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Gabriel Rivas",
+        "url": "https://os.mbed.com/users/gabrielrivas/"
+    },
+    "description": "Message queue to synchronize and share information between threads. It is a template class, so it can hold elements of different types.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "message queue pattern",
+        "real time",
+        "thread synchronization"
+    ],
+    "name": "MessageQueue",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gabrielrivas/code/MessageQueue/"
+    }
+}

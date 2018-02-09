@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Sergey Drobyshevskiy",
+        "url": "https://os.mbed.com/users/dROb/"
+    },
+    "description": "Last version of TinyGPS library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "F401RE",
+        "mma7361",
+        "Nucleo",
+        "JSON",
+        "MessagePack",
+        "GPS",
+        "WS2812"
+    ],
+    "name": "TinyGPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dROb/code/TinyGPS/"
+    }
+}

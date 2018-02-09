@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "Driver for ITG3200 gyro",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ITG-3200-Gyroscope",
+        "Grove-3-Axis-Digital-Gyro"
+    ],
+    "name": "ITG3200",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/ITG3200/"
+    }
+}

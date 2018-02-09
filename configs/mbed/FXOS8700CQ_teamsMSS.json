@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "MSS",
+        "url": "https://os.mbed.com/teams/MSS/"
+    },
+    "description": "FXOS8700CQ, 6-Axis Sensor with Integrated Linear Accelerometer and Magnetometer",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "filesystem",
+        "MSD",
+        "SD",
+        "USB",
+        "accelerometer",
+        "fxos8700cq",
+        "I2C",
+        "magnetometer",
+        "mbed myoware",
+        "muscle sensor",
+        "myoware"
+    ],
+    "name": "FXOS8700CQ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MSS/code/FXOS8700CQ/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Motoo Tanaka",
+        "url": "https://os.mbed.com/users/Rhyme/"
+    },
+    "description": "My implementation of VT100 ESC-sequence utility",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "numchuck",
+        "nunchuck",
+        "Nunchuk",
+        "Wii",
+        "LM75B",
+        "accelerometer",
+        "mma7361"
+    ],
+    "name": "vt100",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Rhyme/code/vt100/"
+    }
+}

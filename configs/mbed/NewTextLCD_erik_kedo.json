@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Erik Kerger",
+        "url": "https://os.mbed.com/users/erik_kedo/"
+    },
+    "description": "Connect HD44780 LCD display to mbed (4-Bit mode). Changes to make PCF2116 work.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "HD44780",
+        "PCF2116",
+        "TextLCD",
+        "IR",
+        "remote"
+    ],
+    "name": "NewTextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/erik_kedo/code/NewTextLCD/"
+    }
+}

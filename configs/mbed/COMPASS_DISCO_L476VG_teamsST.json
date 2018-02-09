@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "Class to drive the Compass (LSM303 device with Accelerometer and Magnetometer) present on DISCO_L476VG board.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Dimmer",
+        "DMX",
+        "DMX512",
+        "lighting",
+        "STM",
+        "stm32",
+        "compass",
+        "DISCO_L476VG",
+        "LSM303"
+    ],
+    "name": "COMPASS_DISCO_L476VG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/COMPASS_DISCO_L476VG/"
+    }
+}

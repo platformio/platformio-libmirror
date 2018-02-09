@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Mustafa Kanli",
+        "url": "https://os.mbed.com/users/mkanli/"
+    },
+    "description": "Class to read range measurements from a MaxBotix MaxSonar ranging device.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "MMA8452",
+        "led",
+        "multiplexing",
+        "pwm",
+        "tlc5940",
+        "I2C",
+        "IO expander",
+        "W5200",
+        "WIZ820IO",
+        "maxsonar",
+        "range",
+        "RangeFinder",
+        "sonar",
+        "directory",
+        "directory listing",
+        "file",
+        "file name listing",
+        "file system",
+        "folder",
+        "folder listing"
+    ],
+    "name": "MaxSonar",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mkanli/code/MaxSonar/"
+    }
+}

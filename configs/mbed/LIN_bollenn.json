@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Nico Bollen",
+        "url": "https://os.mbed.com/users/bollenn/"
+    },
+    "description": "Software LIN communication library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit 9DOF",
+        "L3GD20H",
+        "BLE",
+        "BLE Bluetooth Low Energy BLE",
+        "BUTTON",
+        "LIN"
+    ],
+    "name": "LIN",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bollenn/code/LIN/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "kazunori ogasawara",
+        "url": "https://os.mbed.com/users/macht/"
+    },
+    "description": "MIDI protocol using UART",
+    "frameworks": "mbed",
+    "keywords": [
+        "DC motor",
+        "h bridge",
+        "L293D",
+        "l298n",
+        "pwm",
+        "96x96",
+        "OLED",
+        "Seeed",
+        "SeeedGrayOLED",
+        "ssd1327"
+    ],
+    "name": "SerialMIDI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/macht/code/SerialMIDI/"
+    }
+}

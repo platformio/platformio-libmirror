@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Andrew Fox",
+        "url": "https://os.mbed.com/users/andrewjfox/"
+    },
+    "description": "add \"LE Device Address\" 0x1B to advertising data types",
+    "frameworks": "mbed",
+    "keywords": "stm32",
+    "name": "BLE_API",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/andrewjfox/code/BLE_API/"
+    }
+}

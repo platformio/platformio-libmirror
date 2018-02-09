@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "EmbeddedArtists AB",
+        "url": "https://os.mbed.com/users/embeddedartists/"
+    },
+    "description": "Library with PCF8591 support for the experiments for LPC812 MAX",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "motor",
+        "stepping"
+    ],
+    "name": "lpc812_exp_lib_PCF8591",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/embeddedartists/code/lpc812_exp_lib_PCF8591/"
+    }
+}

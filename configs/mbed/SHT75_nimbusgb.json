@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Ian Molesworth",
+        "url": "https://os.mbed.com/users/nimbusgb/"
+    },
+    "description": "Sensiron SHT 7x Temperature and humidity device library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "7",
+        "display",
+        "segment",
+        "debounce",
+        "DebounceIn",
+        "I2C",
+        "MPU6050",
+        "Humidity",
+        "Sensiron",
+        "Temperature",
+        "LPC4088",
+        "USB"
+    ],
+    "name": "SHT75",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nimbusgb/code/SHT75/"
+    }
+}

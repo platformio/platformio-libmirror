@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Gong Chen",
+        "url": "https://os.mbed.com/users/ppr2013G2/"
+    },
+    "description": "new ax12 lib",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "MI0283QT-9A",
+        "Panel",
+        "resistive",
+        "touch",
+        "Touchscreen",
+        "ax12"
+    ],
+    "name": "AX12",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ppr2013G2/code/AX12/"
+    }
+}

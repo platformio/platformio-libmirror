@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://os.mbed.com/users/simon/"
+    },
+    "description": "CMSIS DSP Library from CMSIS 2.0. See http://www.onarm.com/cmsis/ for full details",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "TCS3472",
+        "TCS34721",
+        "TCS34723",
+        "TCS34725",
+        "TCS34727",
+        "20X4",
+        "ELCD",
+        "LCD",
+        "OEM",
+        "Serial",
+        "cmsis",
+        "DSP",
+        "4x4",
+        "keypad",
+        "polling"
+    ],
+    "name": "dsp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/simon/code/dsp/"
+    }
+}

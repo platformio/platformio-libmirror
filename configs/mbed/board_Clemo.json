@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Clemens Valens",
+        "url": "https://os.mbed.com/users/Clemo/"
+    },
+    "description": "This is a part of the Kinetiszer project.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "dc-motor",
+        "Freescale",
+        "hbridge",
+        "MC33926",
+        "motor"
+    ],
+    "name": "board",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Clemo/code/board/"
+    }
+}

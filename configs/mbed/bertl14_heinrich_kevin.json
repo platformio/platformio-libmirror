@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Kevin Heinrich",
+        "url": "https://os.mbed.com/users/heinrich_kevin/"
+    },
+    "description": "BERTL library, Kevin Heinrich",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "MPU9250",
+        "DISCO-F746",
+        "F746",
+        "Graphics",
+        "karpent",
+        "flysky",
+        "PPM",
+        "pwm",
+        "RC",
+        "Receiver",
+        "Servo",
+        "NeoPixel",
+        "rgb"
+    ],
+    "name": "bertl14",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/heinrich_kevin/code/bertl14/"
+    }
+}

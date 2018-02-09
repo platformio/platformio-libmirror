@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "Library for Si114x optical sensors. Currently intended for the Si1146, although it will work also for the Si1145, and without full functionality for the Si1147",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Si114x",
+        "Uzuki-sensor-shield"
+    ],
+    "name": "Si114x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/Si114x/"
+    }
+}

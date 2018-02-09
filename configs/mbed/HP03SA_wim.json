@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "Lib for HP03SA atmospheric pressure sensor. Provides pressure, temperature and altitude data.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Altitude",
+        "atmospheric",
+        "HP03SA",
+        "I2C",
+        "pressure"
+    ],
+    "name": "HP03SA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/HP03SA/"
+    }
+}

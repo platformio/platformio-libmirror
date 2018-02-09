@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "suu pen",
+        "url": "https://os.mbed.com/users/suupen/"
+    },
+    "description": "このライブラリはＳＷ認識を行います。",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "edge",
+        "level",
+        "SW",
+        "tact",
+        "Toggle",
+        "HTTP server",
+        "httpd",
+        "websocket server",
+        "3310",
+        "5110",
+        "Nokia"
+    ],
+    "name": "SwDigital",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/suupen/code/SwDigital/"
+    }
+}

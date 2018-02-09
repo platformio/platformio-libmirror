@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Richard Lane",
+        "url": "https://os.mbed.com/users/richardlane/"
+    },
+    "description": "Interface for Dallas DS18B20 digital thermometer device.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "pressure",
+        "sensor",
+        "Temperature",
+        "cloud",
+        "firmware",
+        "update",
+        "debug",
+        "1-wire",
+        "DALLAS",
+        "DS18B20",
+        "OneWire",
+        "thermometer"
+    ],
+    "name": "DS18B20_1wire",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/richardlane/code/DS18B20_1wire/"
+    }
+}

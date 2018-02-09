@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Andrew Lindsay",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/"
+    },
+    "description": "MQTTClient",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "MQTT",
+        "max31855",
+        "MAX6675",
+        "Thermocouple",
+        "arp",
+        "broadcast",
+        "DHCP",
+        "dns",
+        "ethernet",
+        "free",
+        "GPL",
+        "IGMP",
+        "ip",
+        "multicast",
+        "sockets",
+        "TCP",
+        "tcp/ip",
+        "tcpip stack",
+        "UDP",
+        "7",
+        "display",
+        "segment"
+    ],
+    "name": "MQTTClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/code/MQTTClient/"
+    }
+}

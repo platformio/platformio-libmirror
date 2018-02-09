@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "PURS",
+        "url": "https://os.mbed.com/teams/PURS/"
+    },
+    "description": "a",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ALS",
+        "driver",
+        "I2C",
+        "IR",
+        "proximity",
+        "rohm rpr0521"
+    ],
+    "name": "HCSR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PURS/code/HCSR04/"
+    }
+}

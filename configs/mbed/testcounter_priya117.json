@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "priya nandikeshwarmath",
+        "url": "https://os.mbed.com/users/priya117/"
+    },
+    "description": "it is used for blinking onboards leds",
+    "frameworks": "mbed",
+    "keywords": [
+        "LPC1549",
+        "FRDM-KL25Z",
+        "I2C",
+        "MSS",
+        "MSU",
+        "VCNL4020",
+        "Vishay",
+        "BUTTON",
+        "Callback",
+        "duration",
+        "push",
+        "Freescale",
+        "sensing",
+        "touch",
+        "TSI",
+        "hi"
+    ],
+    "name": "testcounter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/priya117/code/testcounter/"
+    }
+}

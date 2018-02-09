@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Leonardo Restrepo",
+        "url": "https://os.mbed.com/users/leorestrepo93/"
+    },
+    "description": "libreria teclado",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ALS",
+        "driver",
+        "I2C",
+        "IR",
+        "proximity",
+        "rohm rpr0521"
+    ],
+    "name": "keypad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/leorestrepo93/code/keypad/"
+    }
+}

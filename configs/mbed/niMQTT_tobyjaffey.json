@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Toby Jaffey",
+        "url": "https://os.mbed.com/users/tobyjaffey/"
+    },
+    "description": "Removed blocking keepalive code",
+    "frameworks": "mbed",
+    "keywords": "MQTT",
+    "name": "niMQTT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tobyjaffey/code/niMQTT/"
+    }
+}

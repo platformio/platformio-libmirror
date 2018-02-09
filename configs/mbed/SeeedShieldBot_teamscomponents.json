@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "Library for the Shield Bot by SeeedStudio",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "bot",
+        "motor",
+        "sensors",
+        "shield",
+        "Analyzer",
+        "logic",
+        "osc",
+        "Oscilloscope",
+        "scope",
+        "ethernet",
+        "ip",
+        "mbed"
+    ],
+    "name": "SeeedShieldBot",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/SeeedShieldBot/"
+    }
+}

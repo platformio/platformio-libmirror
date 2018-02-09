@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Ryo Iizuka",
+        "url": "https://os.mbed.com/users/nyatla/"
+    },
+    "description": "SDFileSystem/LocalFileSystem等の不具合や機種依存性を少なくしたライブラリ。",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "filesystem",
+        "MiMic"
+    ],
+    "name": "NyFileSystems",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nyatla/code/NyFileSystems/"
+    }
+}

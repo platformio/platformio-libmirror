@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "Software serial, for when you are out of serial pins",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "DHT11",
+        "DHT22"
+    ],
+    "name": "SoftSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/SoftSerial/"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "CHENGQI YANG",
+        "url": "https://os.mbed.com/users/yangcq88517/"
+    },
+    "description": "SRF02 Ultrasonic Ranger",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "ranger",
+        "SRF02",
+        "ultrasonic",
+        "control",
+        "dot",
+        "Dynamic",
+        "gray",
+        "led",
+        "lighting",
+        "matrix",
+        "scale",
+        "1621",
+        "ds1621"
+    ],
+    "name": "SRF02",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yangcq88517/code/SRF02/"
+    }
+}

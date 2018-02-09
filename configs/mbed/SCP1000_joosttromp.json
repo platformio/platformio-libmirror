@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Joost Tromp",
+        "url": "https://os.mbed.com/users/joosttromp/"
+    },
+    "description": "SCP1000",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "4DGL",
+    "name": "SCP1000",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/joosttromp/code/SCP1000/"
+    }
+}

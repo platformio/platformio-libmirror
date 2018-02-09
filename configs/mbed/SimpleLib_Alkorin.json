@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Thomas SOETE",
+        "url": "https://os.mbed.com/users/Alkorin/"
+    },
+    "description": "Simple mbed library with macros",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "amateur",
+        "code",
+        "HAM",
+        "International",
+        "led",
+        "Morse",
+        "MorseOut",
+        "Out",
+        "Radio"
+    ],
+    "name": "SimpleLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Alkorin/code/SimpleLib/"
+    }
+}

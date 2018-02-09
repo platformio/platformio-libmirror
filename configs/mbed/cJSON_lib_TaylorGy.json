@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Taylor Gy",
+        "url": "https://os.mbed.com/users/TaylorGy/"
+    },
+    "description": "open sourced cJSON lib",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "cJSON_lib",
+    "name": "cJSON_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/TaylorGy/code/cJSON_lib/"
+    }
+}

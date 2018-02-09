@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Azure IoT",
+        "url": "https://os.mbed.com/users/AzureIoTClient/"
+    },
+    "description": "A small memory footprint AMQP implimentation",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "GPIO Exoender",
+        "MCP23017"
+    ],
+    "name": "azure_uamqp_c",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AzureIoTClient/code/azure_uamqp_c/"
+    }
+}

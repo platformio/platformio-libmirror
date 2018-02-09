@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Pierre David",
+        "url": "https://os.mbed.com/users/kkoichy/"
+    },
+    "description": "32bits encoder counter using 16bits TIM and a 32bits software counter",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "baro",
+        "MS5611_01BA03",
+        "SPI",
+        "variometer"
+    ],
+    "name": "Encoder_Nucleo_32_bits",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kkoichy/code/Encoder_Nucleo_32_bits/"
+    }
+}

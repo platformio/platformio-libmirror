@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Helmut Schmücker",
+        "url": "https://os.mbed.com/users/humlet/"
+    },
+    "description": "mbed port of",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "camera",
+        "JPEG",
+        "OV528",
+        "uCAM TTL120",
+        "decoder",
+        "decompression",
+        "JPG"
+    ],
+    "name": "TinyJpgDec",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/humlet/code/TinyJpgDec/"
+    }
+}

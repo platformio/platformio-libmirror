@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "brian claus",
+        "url": "https://os.mbed.com/users/bclaus/"
+    },
+    "description": "functions for dealing with the L3GD20 gyro",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "HCSR04",
+        "ultrasonic",
+        "Communication",
+        "data",
+        "Oscilloscope",
+        "prototype",
+        "L3GD20",
+        "minimu-9 v2",
+        "control",
+        "RC",
+        "remote",
+        "Servo",
+        "card",
+        "ChaNFS",
+        "SD"
+    ],
+    "name": "L3GD20",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bclaus/code/L3GD20/"
+    }
+}

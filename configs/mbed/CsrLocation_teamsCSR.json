@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Qualcomm Technologies International, Ltd.",
+        "url": "https://os.mbed.com/teams/CSR/"
+    },
+    "description": "Csr location class shows location and satellite information, which supports H13467 + ST F103RB/NXP LCP1549 boards now.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "2.8",
+        "Adafruit",
+        "FRDM-KL25Z",
+        "TFT",
+        "FRDM-K20D50",
+        "YMZ294",
+        "sensors"
+    ],
+    "name": "CsrLocation",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/CSR/code/CsrLocation/"
+    }
+}

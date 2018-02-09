@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Toyomasa Watarai",
+        "url": "https://os.mbed.com/users/MACRUM/"
+    },
+    "description": "C12832 LCD library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "full-bridge",
+        "motor",
+        "TA8428"
+    ],
+    "name": "C12832_lcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MACRUM/code/C12832_lcd/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Ivan Georgiev",
+        "url": "https://os.mbed.com/users/azsymaivan/"
+    },
+    "description": "fix warning \"statement is unreachable\" in file ff.cpp",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "6100",
+        "6610",
+        "mobileLCD",
+        "NokiaLCD",
+        "Olimex",
+        "PCF8833",
+        "sparkfun",
+        "motor",
+        "Servo"
+    ],
+    "name": "FATFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/azsymaivan/code/FATFileSystem/"
+    }
+}

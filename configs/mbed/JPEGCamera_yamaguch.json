@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Hiroshi Yamaguchi",
+        "url": "https://os.mbed.com/users/yamaguch/"
+    },
+    "description": "Interface for LinkSprite JPEG camera module LS-Y201",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "SRF02",
+        "GPGGA",
+        "JPEG",
+        "LS-Y201",
+        "algebra",
+        "Kinematics",
+        "Linear",
+        "matrix"
+    ],
+    "name": "JPEGCamera",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yamaguch/code/JPEGCamera/"
+    }
+}

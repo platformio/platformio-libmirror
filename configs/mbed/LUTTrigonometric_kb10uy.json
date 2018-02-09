@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Yuu Kobayashi",
+        "url": "https://os.mbed.com/users/kb10uy/"
+    },
+    "description": "provide trigonometric functions with LUT.",
+    "frameworks": "mbed",
+    "keywords": "LUTTrigonometric",
+    "name": "LUTTrigonometric",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kb10uy/code/LUTTrigonometric/"
+    }
+}

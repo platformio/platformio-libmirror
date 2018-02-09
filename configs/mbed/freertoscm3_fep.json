@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Francisco Paez",
+        "url": "https://os.mbed.com/users/fep/"
+    },
+    "description": "FreeRTOS v9.0.0 for ARM Cortex-M3 based boards.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Analog",
+        "dipsw",
+        "Input",
+        "SW",
+        "tactsw",
+        "FreeRTOS",
+        "rtos",
+        "graphic",
+        "Lascar",
+        "LCD",
+        "SP5-GFX1",
+        "SPI",
+        "aconno",
+        "Nordic",
+        "nrf52"
+    ],
+    "name": "freertos-cm3",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fep/code/freertos-cm3/"
+    }
+}

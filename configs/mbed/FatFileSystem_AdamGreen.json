@@ -1,0 +1,50 @@
+{
+    "authors": {
+        "name": "Adam Green",
+        "url": "https://os.mbed.com/users/AdamGreen/"
+    },
+    "description": "Updated FAT File System driver.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Host",
+        "hub",
+        "keyboard",
+        "mbed",
+        "Mouse",
+        "MSD",
+        "rtos",
+        "Serial",
+        "USB",
+        "FAT",
+        "file",
+        "Filenames",
+        "fixes",
+        "Long",
+        "System",
+        "5110",
+        "LCD",
+        "N5110",
+        "Nokia",
+        "pcd8544",
+        "I2C",
+        "LM75B",
+        "HD44780",
+        "PCF2116",
+        "ST7032",
+        "ST7036",
+        "text",
+        "TextLCD",
+        "WS0010",
+        "display",
+        "OLED",
+        "SPI",
+        "SSD1306"
+    ],
+    "name": "FatFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AdamGreen/code/FatFileSystem/"
+    }
+}

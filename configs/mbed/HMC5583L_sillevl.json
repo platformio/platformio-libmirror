@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Sille Van Landschoot",
+        "url": "https://os.mbed.com/users/sillevl/"
+    },
+    "description": "I2C driver for HMC5583L digital compass sensor",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "CyaSSL",
+        "SSL",
+        "compass",
+        "driver",
+        "HMC5583L",
+        "I2C",
+        "sensor",
+        "Elecret Microphone",
+        "MAX9814",
+        "sound",
+        "Volume Indicator"
+    ],
+    "name": "HMC5583L",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sillevl/code/HMC5583L/"
+    }
+}

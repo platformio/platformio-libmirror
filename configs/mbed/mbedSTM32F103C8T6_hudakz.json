@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "mbed support for STM32F103C8T6 (Blue Pill) boards",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "ExpansionBoard",
+        "HTS221",
+        "LIS3MDL",
+        "lps25h",
+        "LSM6DS0",
+        "LSM6DS3",
+        "Nucleo",
+        "X-NUCLEO-IKS01A1",
+        "STM32F103C8T6",
+        "application board",
+        "LCD",
+        "4DGL-uLCD-SE",
+        "camera",
+        "color",
+        "JPEG",
+        "LinkSprite",
+        "LS-Y201",
+        "LPC4088"
+    ],
+    "name": "mbed-STM32F103C8T6",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/mbed-STM32F103C8T6/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Shinya Okumura",
+        "url": "https://os.mbed.com/users/briareos/"
+    },
+    "description": "I2C LCD Library",
+    "frameworks": "mbed",
+    "keywords": [
+        "StarBoardOrange",
+        "C++",
+        "Encoder",
+        "hardware",
+        "QEI",
+        "DS18B20",
+        "DS2450",
+        "MAX31850",
+        "OneWire"
+    ],
+    "name": "libLcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/briareos/code/libLcd/"
+    }
+}

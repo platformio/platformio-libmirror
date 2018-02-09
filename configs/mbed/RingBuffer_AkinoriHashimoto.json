@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Akinori Hashimoto",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/"
+    },
+    "description": "Ring Buffer reconciled with RTOS.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "buffer",
+        "ring",
+        "hotboards",
+        "MCP9808",
+        "sesnor",
+        "Temp"
+    ],
+    "name": "RingBuffer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/RingBuffer/"
+    }
+}

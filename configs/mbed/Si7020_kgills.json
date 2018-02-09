@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Kevin Gillepsie",
+        "url": "https://os.mbed.com/users/kgills/"
+    },
+    "description": "Device driver for Si7020 Digital humidity and temperature sensor.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "Si7020",
+    "name": "Si7020",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kgills/code/Si7020/"
+    }
+}

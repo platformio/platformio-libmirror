@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Ahmed Saber",
+        "url": "https://os.mbed.com/users/thesane/"
+    },
+    "description": "Bluetooth JPEG camera library with test program build over the the original library for LS-Y201 LinkSprite JPEG Camera",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "bluetooth",
+        "camera",
+        "JPEG",
+        "LinkSprite",
+        "LS-Y201",
+        "Serial"
+    ],
+    "name": "JPEGCamera",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/thesane/code/JPEGCamera/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Micah B",
+        "url": "https://os.mbed.com/users/mbotkinl/"
+    },
+    "description": "usb",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "StarBoardOrange",
+        "C++",
+        "Encoder",
+        "hardware",
+        "QEI",
+        "DS18B20",
+        "DS2450",
+        "MAX31850",
+        "OneWire"
+    ],
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbotkinl/code/USBDevice/"
+    }
+}

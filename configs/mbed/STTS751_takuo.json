@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Takuo WATANABE",
+        "url": "https://os.mbed.com/users/takuo/"
+    },
+    "description": "A library for STMicroelectronics STTS751 I2C temperature sensor",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "STTS751-Temperature-Sensor",
+        "ACM1602NI-FLW-FBW-M01"
+    ],
+    "name": "STTS751",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/takuo/code/STTS751/"
+    }
+}

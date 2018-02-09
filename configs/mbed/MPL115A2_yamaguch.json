@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Hiroshi Yamaguchi",
+        "url": "https://os.mbed.com/users/yamaguch/"
+    },
+    "description": "MPL115A2 (I2C) Pressure sensor interface",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ADK",
+        "android",
+        "USB",
+        "MPL115A2"
+    ],
+    "name": "MPL115A2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yamaguch/code/MPL115A2/"
+    }
+}

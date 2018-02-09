@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Ifrah Saeed",
+        "url": "https://os.mbed.com/users/Ifrah/"
+    },
+    "description": "Added Patches for Display Quality",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "conversion",
+        "Thermocouple",
+        "BUTTON",
+        "cancel",
+        "DIP",
+        "noise",
+        "push",
+        "SW"
+    ],
+    "name": "NokiaLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Ifrah/code/NokiaLCD/"
+    }
+}

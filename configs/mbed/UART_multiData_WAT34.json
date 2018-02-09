@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Wataru Nakata",
+        "url": "https://os.mbed.com/users/WAT34/"
+    },
+    "description": "シリアル通信ようのライブラリです。charとfloatのデータを送受信できます。",
+    "frameworks": "mbed",
+    "keywords": [
+        "Serial",
+        "keypad",
+        "RA8875",
+        "Touchscreen"
+    ],
+    "name": "UART_multiData",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WAT34/code/UART_multiData/"
+    }
+}

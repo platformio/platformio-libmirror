@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Ollie Milton",
+        "url": "https://os.mbed.com/users/ollie8/"
+    },
+    "description": "Single instance HTTP Server using new Ethernet Interface with bug fix for URL arguments",
+    "frameworks": "mbed",
+    "keywords": [
+        "8x8",
+        "led",
+        "led matrix",
+        "PCA9622",
+        "SRF02"
+    ],
+    "name": "HTTPServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ollie8/code/HTTPServer/"
+    }
+}

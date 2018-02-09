@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Samuel Mokrani",
+        "url": "https://os.mbed.com/users/samux/"
+    },
+    "description": "wifly/socket interface for wifly modules",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "high",
+        "Speed",
+        "SPI",
+        "compass",
+        "LSM303DLH",
+        "magnetometer",
+        "sensors",
+        "socket",
+        "TCP",
+        "UDP",
+        "WiFly",
+        "ILI9320",
+        "LCD",
+        "TFT"
+    ],
+    "name": "WiflyInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/samux/code/WiflyInterface/"
+    }
+}

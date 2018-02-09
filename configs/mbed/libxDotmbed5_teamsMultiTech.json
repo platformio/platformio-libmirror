@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "description": "Stable version of the xDot library for mbed 5. This version of the library is suitable for deployment scenarios.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "OLED",
+        "SSD1308",
+        "24LCxx",
+        "EEPROM",
+        "Microchip",
+        "Serial",
+        "Lora",
+        "Semtech",
+        "SX1276",
+        "SX1276Lib",
+        "SX1276MB1xAS"
+    ],
+    "name": "libxDot-mbed5",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/libxDot-mbed5/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Richard Ellingworth",
+        "url": "https://os.mbed.com/users/RichardE/"
+    },
+    "description": "Library for communicating with a Gameduino shield. Provides colour VGA display, hardware sprites with collision detection and stero sound. See http://excamera.com/sphinx/gameduino/ for more details.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Gameduino",
+        "VGA",
+        "adc"
+    ],
+    "name": "Gameduino",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RichardE/code/Gameduino/"
+    }
+}

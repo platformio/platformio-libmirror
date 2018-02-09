@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Alexander Jenal",
+        "url": "https://os.mbed.com/users/ajenal/"
+    },
+    "description": "Library for using the AMS TSL45315 Ambient Light Sensor",
+    "frameworks": "mbed",
+    "keywords": [
+        "ALS",
+        "ambient light sensor",
+        "Lux"
+    ],
+    "name": "TSL45315",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ajenal/code/TSL45315/"
+    }
+}

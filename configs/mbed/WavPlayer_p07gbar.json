@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Giles Barton-Owen",
+        "url": "https://os.mbed.com/users/p07gbar/"
+    },
+    "description": "A library which allows the playing of Wav files using the TLV320",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "audio",
+        "files",
+        "I2C",
+        "I2S",
+        "playing",
+        "RS labboard",
+        "TLV320",
+        "wav",
+        "count",
+        "external clock",
+        "MHz",
+        "pulse",
+        "xml",
+        "heading",
+        "HMC5843",
+        "magnetic",
+        "sensor"
+    ],
+    "name": "WavPlayer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/p07gbar/code/WavPlayer/"
+    }
+}

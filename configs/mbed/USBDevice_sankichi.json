@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Sankichi",
+        "url": "https://os.mbed.com/users/sankichi/"
+    },
+    "description": "Modified for PS3 Joystick",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "joystick",
+        "PS3",
+        "USB"
+    ],
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sankichi/code/USBDevice/"
+    }
+}

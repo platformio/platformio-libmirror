@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Joseph Roberts",
+        "url": "https://os.mbed.com/users/joe4465/"
+    },
+    "description": "A 10-Point moving average filter that returns a float each time a new value is added to the moving average array.",
+    "frameworks": "mbed",
+    "keywords": [
+        "DMP",
+        "I2Cdev",
+        "MPU6050",
+        "MPU9150",
+        "Nucelo",
+        "actuators",
+        "control",
+        "industrial",
+        "Linear",
+        "Modbus",
+        "Over",
+        "mutex",
+        "preemptive",
+        "rtos"
+    ],
+    "name": "MovingAverageFilter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/joe4465/code/MovingAverageFilter/"
+    }
+}

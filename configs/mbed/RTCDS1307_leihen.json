@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Henry Leinen",
+        "url": "https://os.mbed.com/users/leihen/"
+    },
+    "description": "Working Version of the Real Time Clock module DS1307.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "8x8",
+        "Adafruit",
+        "backpack",
+        "led",
+        "clock",
+        "ds1307",
+        "real",
+        "RTC",
+        "time"
+    ],
+    "name": "RTC-DS1307",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/leihen/code/RTC-DS1307/"
+    }
+}

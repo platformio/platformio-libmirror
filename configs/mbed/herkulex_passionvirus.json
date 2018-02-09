@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Yoonseok Pyo",
+        "url": "https://os.mbed.com/users/passionvirus/"
+    },
+    "description": "herkulex servo control library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "sensor",
+        "Temperature",
+        "TMP175",
+        "VCNL4000",
+        "VCNL4010",
+        "VCNL4020",
+        "herkulex",
+        "Servo"
+    ],
+    "name": "herkulex",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/passionvirus/code/herkulex/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Frank Vannieuwkerke",
+        "url": "https://os.mbed.com/users/frankvnk/"
+    },
+    "description": "HSI to RGB/RGBW conversion library with optional direct PWM output",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "DIFF",
+        "K64F",
+        "HSI",
+        "pwm",
+        "rgb",
+        "RGBW"
+    ],
+    "name": "HSI2RGBW_PWM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/frankvnk/code/HSI2RGBW_PWM/"
+    }
+}

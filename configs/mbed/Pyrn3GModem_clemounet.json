@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Clément BENOIT",
+        "url": "https://os.mbed.com/users/clemounet/"
+    },
+    "description": "Implementation of 3G USB Modem Huawei E372",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "education",
+        "mechatronics",
+        "TVZ",
+        "Battery Monitor",
+        "LTC2990"
+    ],
+    "name": "Pyrn3GModem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/clemounet/code/Pyrn3GModem/"
+    }
+}

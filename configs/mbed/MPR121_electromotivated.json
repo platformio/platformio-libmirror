@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Bryce Williams",
+        "url": "https://os.mbed.com/users/electromotivated/"
+    },
+    "description": "Anthony Buckton's MPR121 Driver Library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "DHT22",
+        "3pi",
+        "m3dpi",
+        "m3pi",
+        "pololu",
+        "robot"
+    ],
+    "name": "MPR121",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/electromotivated/code/MPR121/"
+    }
+}

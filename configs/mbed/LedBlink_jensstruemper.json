@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Jens Strümper",
+        "url": "https://os.mbed.com/users/jensstruemper/"
+    },
+    "description": "LedBlink library makes it possible to change blink frequency of a given LED by calling the Blink function with a float parameter elsewhere in the code to visualise state changes in a program.",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "MAX30101",
+        "MSS",
+        "MSU",
+        "3D",
+        "LCD",
+        "mono-lcd",
+        "api",
+        "blink",
+        "led"
+    ],
+    "name": "LedBlink",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jensstruemper/code/LedBlink/"
+    }
+}

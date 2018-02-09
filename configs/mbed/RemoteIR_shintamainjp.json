@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "RemoteIR.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "HD44780",
+        "PCF2116",
+        "TextLCD",
+        "IR",
+        "remote"
+    ],
+    "name": "RemoteIR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/RemoteIR/"
+    }
+}

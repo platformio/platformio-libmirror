@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Toyomasa Watarai",
+        "url": "https://os.mbed.com/users/MACRUM/"
+    },
+    "description": "BME280 Combined humidity and pressure sensor library with I2C interface",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "BME280",
+        "cpp",
+        "ethernet",
+        "network",
+        "TCP",
+        "UDP",
+        "DHT22",
+        "RHT03"
+    ],
+    "name": "BME280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MACRUM/code/BME280/"
+    }
+}

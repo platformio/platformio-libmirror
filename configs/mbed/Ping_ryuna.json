@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Fumiya Fujisawa",
+        "url": "https://os.mbed.com/users/ryuna/"
+    },
+    "description": "4ピン用ピング",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed",
+        "dac",
+        "Host",
+        "Isochronous",
+        "USB",
+        "PID",
+        "RenBuggy"
+    ],
+    "name": "Ping",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ryuna/code/Ping/"
+    }
+}

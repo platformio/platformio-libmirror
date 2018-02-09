@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Samuel Mokrani",
+        "url": "https://os.mbed.com/users/samux/"
+    },
+    "description": "USBMSD example using a file system located in RAM",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Display Module",
+        "emwin",
+        "LPC4088DM",
+        "Kinematics",
+        "lauther",
+        "math",
+        "matrix",
+        "robot",
+        "Robotics",
+        "debug",
+        "debugging",
+        "Serial",
+        "term",
+        "Terminal"
+    ],
+    "name": "RAM_DISK",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/samux/code/RAM_DISK/"
+    }
+}

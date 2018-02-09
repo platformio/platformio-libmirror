@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Tyler Weaver",
+        "url": "https://os.mbed.com/users/tylerjw/"
+    },
+    "description": "Pressure, Temperature, Altitude Sensor on breakout from sparkfun (I2C)",
+    "frameworks": "mbed",
+    "keywords": [
+        "decimation-in-frequency",
+        "FFT",
+        "IFFT",
+        "Nucleo",
+        "real data",
+        "UIT",
+        "Cellular",
+        "Dragonfly",
+        "http",
+        "https",
+        "MTSAS",
+        "multitech",
+        "SMS",
+        "TCP",
+        "UDP",
+        "2015",
+        "Bertl",
+        "Altitude",
+        "bmp085",
+        "pressure",
+        "Temperature",
+        "Radio",
+        "transceiver"
+    ],
+    "name": "BMP085",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tylerjw/code/BMP085/"
+    }
+}

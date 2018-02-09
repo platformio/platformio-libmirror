@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "Frequency counter library only for NucleoF411RE",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "BUTTON",
+        "click",
+        "debounce",
+        "\\",
+        "manager\\",
+        "Scheduler",
+        "task",
+        "F411",
+        "Frequency Counter",
+        "display",
+        "menu",
+        "push buttons"
+    ],
+    "name": "Frq_cuntr_full",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/Frq_cuntr_full/"
+    }
+}

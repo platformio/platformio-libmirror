@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Henry Leinen",
+        "url": "https://os.mbed.com/users/leihen/"
+    },
+    "description": "Single instance HTTP Server using new Ethernet Interface.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "alarm",
+        "interrupt",
+        "RTC",
+        "time",
+        "ethernet",
+        "http",
+        "interface",
+        "server",
+        "HMC6352",
+        "FreeRTOS",
+        "rtos",
+        "dns",
+        "network",
+        "TCP",
+        "28BYJ-48",
+        "4phase",
+        "motor",
+        "Step",
+        "Stepper"
+    ],
+    "name": "HTTPServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/leihen/code/HTTPServer/"
+    }
+}

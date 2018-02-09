@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Kenta Matsumoto",
+        "url": "https://os.mbed.com/users/mbed_tw_hoehoe/"
+    },
+    "description": "Driver for MPU9250 with SPI .",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "MPU9250_SPI",
+    "name": "MPU9250_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbed_tw_hoehoe/code/MPU9250_SPI/"
+    }
+}

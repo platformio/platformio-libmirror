@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Ivo van Poorten",
+        "url": "https://os.mbed.com/users/Ivop/"
+    },
+    "description": "Library to access LPC17xx peripherals. It uses static inline functions, constant propagation and dead code elimination to be as fast as possible.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "v3",
+        "ChaNFS",
+        "mass",
+        "storage",
+        "USB"
+    ],
+    "name": "fastlib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Ivop/code/fastlib/"
+    }
+}

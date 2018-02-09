@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Joseph Bradshaw",
+        "url": "https://os.mbed.com/users/jebradshaw/"
+    },
+    "description": "Library for generating servo pulses from mbed output pins",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "scp1000",
+        "SoftSPI",
+        "Servo",
+        "servo pulse",
+        "SERVOGEN",
+        "ServoOut"
+    ],
+    "name": "ServoOut",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jebradshaw/code/ServoOut/"
+    }
+}

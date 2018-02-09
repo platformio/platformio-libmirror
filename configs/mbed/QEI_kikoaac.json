@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Kiko Ishimoto",
+        "url": "https://os.mbed.com/users/kikoaac/"
+    },
+    "description": "ロータリーエンコーダーのライブラリです。",
+    "frameworks": "mbed",
+    "keywords": [
+        "game pad",
+        "gamepad",
+        "playstation",
+        "playstation2",
+        "PS2",
+        "SPI",
+        "pwm",
+        "softwarePWM",
+        "MRF24J40",
+        "tranceiver",
+        "wireless",
+        "DDS",
+        "generator",
+        "signal",
+        "QEI ロータリーエンコーダ 角度 angle",
+        "SRF02",
+        "at&t",
+        "data store",
+        "m2x",
+        "time-series"
+    ],
+    "name": "QEI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kikoaac/code/QEI/"
+    }
+}

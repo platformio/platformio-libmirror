@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Will Salisbury",
+        "url": "https://os.mbed.com/users/wsalis01/"
+    },
+    "description": "DigitalPotentiometer code for MCP4131.",
+    "frameworks": "mbed",
+    "keywords": "SPI",
+    "name": "DigitalPotentiometer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wsalis01/code/DigitalPotentiometer/"
+    }
+}

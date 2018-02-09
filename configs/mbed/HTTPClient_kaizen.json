@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "DongEun Koak",
+        "url": "https://os.mbed.com/users/kaizen/"
+    },
+    "description": "Change the CHUNK_SIZE, KEY_SIZE and VALUE_SIZE",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "Creation",
+    "name": "HTTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kaizen/code/HTTPClient/"
+    }
+}

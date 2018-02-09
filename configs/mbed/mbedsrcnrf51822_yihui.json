@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Yihui Xiong",
+        "url": "https://os.mbed.com/users/yihui/"
+    },
+    "description": "customized mbed library sources for nrf51822",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "DS18B20",
+        "one",
+        "Wire",
+        "library",
+        "MIDI",
+        "USB",
+        "USBMIDI",
+        "mbed",
+        "nRF51822",
+        "SD",
+        "SDFileSystem",
+        "sdhcfilesystem",
+        "FAT",
+        "clock",
+        "ds1307",
+        "I2C",
+        "RTC"
+    ],
+    "name": "mbed-src-nrf51822",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yihui/code/mbed-src-nrf51822/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "James Watanabe",
+        "url": "https://os.mbed.com/users/gltest26/"
+    },
+    "description": "Forked from Uwe Gartmann's ADXL345 library, customized as part of the 9DOF stick from Sparkfun.com",
+    "frameworks": "mbed",
+    "keywords": [
+        "9Dof-Stick",
+        "ADXL345",
+        "sparkfun"
+    ],
+    "name": "ADXL345",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gltest26/code/ADXL345/"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Takehiko Shimojima",
+        "url": "https://os.mbed.com/users/AmbientData/"
+    },
+    "description": "Ambient library. It provides \"set\" function to set data to a packet and \"send\" function",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "IOT",
+    "name": "AmbientLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AmbientData/code/AmbientLib/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "bernard borredon",
+        "url": "https://os.mbed.com/users/bborredon/"
+    },
+    "description": "Complete DS1621 library (all functions implemented)",
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F746NG",
+        "QSPI",
+        "TMP102",
+        "cpputest",
+        "TDD",
+        "test",
+        "testframework",
+        "unit-test"
+    ],
+    "name": "DS1621",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bborredon/code/DS1621/"
+    }
+}

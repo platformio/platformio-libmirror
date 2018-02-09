@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Grelet Jacques",
+        "url": "https://os.mbed.com/users/greletj/"
+    },
+    "description": "This library provides the ability to compute the median, circular median, mean and standard deviation of a dataset stored in a circular buffer",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "chip select",
+        "master",
+        "Serial",
+        "SPI",
+        "bitmask",
+        "circular_buffer",
+        "dataset",
+        "filter",
+        "filtering",
+        "mean",
+        "median",
+        "standard_deviation",
+        "Template"
+    ],
+    "name": "statis",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/greletj/code/statis/"
+    }
+}

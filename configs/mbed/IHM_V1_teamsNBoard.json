@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "NBoard",
+        "url": "https://os.mbed.com/teams/NBoard/"
+    },
+    "description": "IHM NBoard",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "cmsis",
+        "function",
+        "Instances",
+        "multiple",
+        "rtos",
+        "threads",
+        "AnalogIn",
+        "Capacitive",
+        "digitalOut",
+        "sensor",
+        "touch",
+        "I2C",
+        "MCP4725",
+        "biquad",
+        "DSP",
+        "filter"
+    ],
+    "name": "IHM_V1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NBoard/code/IHM_V1/"
+    }
+}

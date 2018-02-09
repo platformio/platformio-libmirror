@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Montvydas Klumbys",
+        "url": "https://os.mbed.com/users/moklumbys/"
+    },
+    "description": "Thanks Erik Olieman for his beta library, that saved me a huge amount of time when getting Raw data from MPU6050 module!",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "LSM303DLH",
+    "name": "MPU6050",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/moklumbys/code/MPU6050/"
+    }
+}

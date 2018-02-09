@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Stefan Thom",
+        "url": "https://os.mbed.com/users/LordOfDorks/"
+    },
+    "description": "This library provides support for NationZ I2C and SPI TPM 2.0 devices so they can be used as a hardware crypto library for the ARM processor. The TPM not only may be used for crypto offload, but also for isolated key storage, strong device identity and device attestation.",
+    "frameworks": "mbed",
+    "keywords": [
+        "IR",
+        "ROBOX",
+        "AES",
+        "Crypto",
+        "ecc",
+        "HMAC",
+        "NationZ",
+        "RSA",
+        "SHA",
+        "TCG",
+        "TPM",
+        "buffer",
+        "FIFO",
+        "ring buffer",
+        "Serial"
+    ],
+    "name": "NationZ_TPM20",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/LordOfDorks/code/NationZ_TPM20/"
+    }
+}

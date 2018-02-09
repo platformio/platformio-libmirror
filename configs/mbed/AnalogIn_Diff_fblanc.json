@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "frederic blanc",
+        "url": "https://os.mbed.com/users/fblanc/"
+    },
+    "description": "differential input adc board K64F",
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "DIFF",
+        "K64F",
+        "HSI",
+        "pwm",
+        "rgb",
+        "RGBW"
+    ],
+    "name": "AnalogIn_Diff",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fblanc/code/AnalogIn_Diff/"
+    }
+}

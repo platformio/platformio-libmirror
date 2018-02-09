@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "yasuyuki onodera",
+        "url": "https://os.mbed.com/users/yasuyuki/"
+    },
+    "description": "BME280 library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "biduad",
+        "cascade structure",
+        "IIR filter",
+        "Nucleo",
+        "UIT",
+        "ITDB_02",
+        "TFTCLD",
+        "Touch Screen",
+        "Touchscreen",
+        "XPT2046",
+        "BME280"
+    ],
+    "name": "BME280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yasuyuki/code/BME280/"
+    }
+}

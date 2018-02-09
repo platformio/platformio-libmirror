@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "wayne roberts",
+        "url": "https://os.mbed.com/users/dudmuck/"
+    },
+    "description": "Driver library for SX1272/SX1276 transceivers",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Radio",
+        "transceiver",
+        "touch",
+        "3x4",
+        "4x3",
+        "kepad",
+        "keyboard",
+        "polling",
+        "pull",
+        "up",
+        "BLE",
+        "bluetooth",
+        "simpleble"
+    ],
+    "name": "SX127x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dudmuck/code/SX127x/"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "Class library: Button class and ButtonGroup class for DISCO-F746NG.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "wifi",
+        "WiFi Shield",
+        "WizFi250",
+        "BUTTON",
+        "ButtonGroup",
+        "DISCO-F746",
+        "UIT",
+        "f334",
+        "F401RE",
+        "F411RE",
+        "F746",
+        "l476",
+        "Nucleo",
+        "power on/off",
+        "reset",
+        "RTC",
+        "VBAT",
+        "device",
+        "USB"
+    ],
+    "name": "BUTTON_GROUP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/BUTTON_GROUP/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Michael Ruck",
+        "url": "https://os.mbed.com/users/michaelruck/"
+    },
+    "description": "Debounce an input pin.",
+    "frameworks": "mbed",
+    "keywords": [
+        "debounce",
+        "Input"
+    ],
+    "name": "Debounce",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/michaelruck/code/Debounce/"
+    }
+}

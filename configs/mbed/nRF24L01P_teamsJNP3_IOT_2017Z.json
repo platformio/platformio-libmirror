@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "JNP3_IOT_2017Z",
+        "url": "https://os.mbed.com/teams/JNP3_IOT_2017Z/"
+    },
+    "description": "library for nrf24L01 radio module",
+    "frameworks": "mbed",
+    "keywords": [
+        "diferential mobile robot",
+        "L298",
+        "LCD",
+        "LCD 16x2",
+        "LPC11U68",
+        "ST7066U"
+    ],
+    "name": "nRF24L01P",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/JNP3_IOT_2017Z/code/nRF24L01P/"
+    }
+}

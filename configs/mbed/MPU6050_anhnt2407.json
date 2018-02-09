@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Tuan Anh Nguyen",
+        "url": "https://os.mbed.com/users/anhnt2407/"
+    },
+    "description": "MPU6050 library that is kinda beta and will probably never leave beta but it might help some people.",
+    "frameworks": "mbed",
+    "keywords": [
+        "MPU6000",
+        "MPU6050",
+        "MPU60x0",
+        "debug",
+        "ethernet",
+        "server",
+        "TCP"
+    ],
+    "name": "MPU6050",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/anhnt2407/code/MPU6050/"
+    }
+}

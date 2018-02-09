@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Tetsuya Hoshino",
+        "url": "https://os.mbed.com/users/tetsuya256/"
+    },
+    "description": "Akizuki I2C 8x2 Character LCD AQM0802A driver class.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Akizuki",
+        "character",
+        "I2C",
+        "LCD",
+        "Digital",
+        "Input",
+        "output",
+        "pulse",
+        "3",
+        "joystick",
+        "playstation"
+    ],
+    "name": "AQM0802A",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tetsuya256/code/AQM0802A/"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Ben Katz",
+        "url": "https://os.mbed.com/users/benkatz/"
+    },
+    "description": "other",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "Host",
+        "hub",
+        "keyboard",
+        "LPC4088",
+        "LPC4088DM",
+        "mbed",
+        "module",
+        "Mouse",
+        "MSD",
+        "rtos",
+        "Serial",
+        "USB",
+        "driver",
+        "microstep",
+        "motor",
+        "ST",
+        "Stepper",
+        "STSPIN220"
+    ],
+    "name": "FastPWM3",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/benkatz/code/FastPWM3/"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Junichi Katsu",
+        "url": "https://os.mbed.com/users/jksoft/"
+    },
+    "description": "TB6612FNG用のモータコントロールライブラリ",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "motor",
+        "command",
+        "Servo",
+        "Humidity",
+        "I2C",
+        "sht11",
+        "SHT15",
+        "SHT71",
+        "SHT75",
+        "Temperature"
+    ],
+    "name": "TB6612FNG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jksoft/code/TB6612FNG/"
+    }
+}

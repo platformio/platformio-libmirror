@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Seeed",
+        "url": "https://os.mbed.com/teams/Seeed/"
+    },
+    "description": "Grove Air Quality Sensor library.",
+    "frameworks": "mbed",
+    "keywords": [
+        "AirQuality",
+        "Grove",
+        "Seeed",
+        "sensor",
+        "KL-25Z",
+        "Zumo",
+        "DISCO_F746NG",
+        "EEPROM",
+        "DISCO_F429ZI",
+        "sdram"
+    ],
+    "name": "Grove_Air_Quality_Sensor_Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Seeed/code/Grove_Air_Quality_Sensor_Library/"
+    }
+}

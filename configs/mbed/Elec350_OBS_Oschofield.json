@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Oscar Schofield",
+        "url": "https://os.mbed.com/users/Oschofield/"
+    },
+    "description": "Library for ELEC350 Work",
+    "frameworks": "mbed",
+    "keywords": [
+        "GR-PEACH",
+        "pwm"
+    ],
+    "name": "Elec350_OBS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Oschofield/code/Elec350_OBS/"
+    }
+}

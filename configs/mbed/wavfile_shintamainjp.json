@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "The tiny wav I/O module is the most simple wav file I/O module you've ever seen.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "audio",
+        "bwf",
+        "file",
+        "wav",
+        "wave",
+        "modbus rtu",
+        "real time",
+        "rtos",
+        "serial protocol",
+        "IMU",
+        "MPU9150",
+        "gyro"
+    ],
+    "name": "wavfile",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/wavfile/"
+    }
+}

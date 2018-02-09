@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Pete Isley",
+        "url": "https://os.mbed.com/users/Fenwiz/"
+    },
+    "description": "This library is designed to make it easy for anyone to get the Nokia 5110 84x48 display 3.3V module up and running without delay",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "asynchronous",
+        "Buffered",
+        "FIFO",
+        "Non blocking",
+        "ring buffer",
+        "Serial",
+        "UART",
+        "arp",
+        "icmp",
+        "interrupts",
+        "stack",
+        "tcpip",
+        "UDP",
+        "5110",
+        "84x48",
+        "display",
+        "Nokia"
+    ],
+    "name": "N_5110_Display",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Fenwiz/code/N_5110_Display/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "TAKT 平林",
+        "url": "https://os.mbed.com/users/taktkaihatu/"
+    },
+    "description": "AnalogInBase",
+    "frameworks": "mbed",
+    "keywords": [
+        "Humidity",
+        "I2C",
+        "sensor"
+    ],
+    "name": "AnalogInBaseClass",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/taktkaihatu/code/AnalogInBaseClass/"
+    }
+}

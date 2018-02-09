@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "GraphicsDisplay",
+        "url": "https://os.mbed.com/teams/GraphicsDisplay/"
+    },
+    "description": "Basically i glued Peter Drescher and Simon Ford libs in a GraphicsDisplay class, then derived TFT or LCD class (which inherits Protocols class), then the most derived ones (Inits), which are per-display and are the only part needed to be adapted to diff hw.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "interrupt",
+        "Serial",
+        "ILI9320",
+        "ILI9325",
+        "ILI9328",
+        "ILI9341",
+        "ILI9481",
+        "ILI9486",
+        "IST3020",
+        "LCD",
+        "MIPI",
+        "parallel",
+        "SPI",
+        "SSD1306",
+        "ST7565",
+        "TFT",
+        "UC1608",
+        "UC1701",
+        "Adafruit",
+        "GPS",
+        "library",
+        "Ultimate"
+    ],
+    "name": "UniGraphic",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/GraphicsDisplay/code/UniGraphic/"
+    }
+}

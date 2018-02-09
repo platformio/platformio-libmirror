@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "C Sonsino",
+        "url": "https://os.mbed.com/users/cabledev/"
+    },
+    "description": "Single instance HTTP Server using new Ethernet Interface.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "http",
+        "interface",
+        "server",
+        "CNCAirbrush"
+    ],
+    "name": "HTTPServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cabledev/code/HTTPServer/"
+    }
+}

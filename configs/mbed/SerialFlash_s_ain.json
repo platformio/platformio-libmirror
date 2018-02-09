@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Seiji Ainoguchi",
+        "url": "https://os.mbed.com/users/s_ain/"
+    },
+    "description": "SPI serial flash memory read/write library.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "SPI",
+    "name": "SerialFlash",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/s_ain/code/SerialFlash/"
+    }
+}

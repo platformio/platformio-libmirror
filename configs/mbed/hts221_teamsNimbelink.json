@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "NimbeLink",
+        "url": "https://os.mbed.com/teams/Nimbelink/"
+    },
+    "description": "Changed hts221 into Class.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "RTC",
+        "DMA",
+        "fast",
+        "led strip",
+        "LPD8806",
+        "SPI"
+    ],
+    "name": "hts221",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nimbelink/code/hts221/"
+    }
+}

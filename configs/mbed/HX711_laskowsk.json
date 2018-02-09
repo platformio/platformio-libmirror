@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Stephen Laskowski",
+        "url": "https://os.mbed.com/users/laskowsk/"
+    },
+    "description": "HX711 code",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "etti",
+        "TUIASI",
+        "array",
+        "I2C",
+        "infrared",
+        "IR",
+        "KL25z",
+        "Temperature"
+    ],
+    "name": "HX711",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/laskowsk/code/HX711/"
+    }
+}

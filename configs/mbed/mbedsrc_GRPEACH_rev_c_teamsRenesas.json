@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Renesas",
+        "url": "https://os.mbed.com/teams/Renesas/"
+    },
+    "description": "Please use mbed-src instead of this library.mbed-src supports GR-PEACH rev.C.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Nordic",
+        "nRF24L01P",
+        "rf",
+        "display",
+        "KS0107",
+        "KS0108",
+        "mbed"
+    ],
+    "name": "mbed-src_GR-PEACH_rev_c",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Renesas/code/mbed-src_GR-PEACH_rev_c/"
+    }
+}

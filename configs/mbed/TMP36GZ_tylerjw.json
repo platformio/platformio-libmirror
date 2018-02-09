@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Tyler Weaver",
+        "url": "https://os.mbed.com/users/tylerjw/"
+    },
+    "description": "simple temperature sensor",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "sensor",
+        "Temperature",
+        "gyro",
+        "iniparser",
+        "TMP",
+        "TMP36"
+    ],
+    "name": "TMP36 GZ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tylerjw/code/TMP36-GZ/"
+    }
+}

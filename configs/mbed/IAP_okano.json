@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Tedd OKANO",
+        "url": "https://os.mbed.com/users/okano/"
+    },
+    "description": "IAP class library for LPC1768, LPC11U24, LPC1114, LPC812 and LPC824",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "lps25h",
+        "EEPROM",
+        "IAP",
+        "In-Application Programming",
+        "internal EEPROM",
+        "internal flash memory"
+    ],
+    "name": "IAP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okano/code/IAP/"
+    }
+}

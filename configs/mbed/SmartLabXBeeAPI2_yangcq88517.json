@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "CHENGQI YANG",
+        "url": "https://os.mbed.com/users/yangcq88517/"
+    },
+    "description": "XBee API operation library for mbed",
+    "frameworks": "mbed",
+    "keywords": [
+        "api",
+        "xbee",
+        "zigbee",
+        "radiohead",
+        "ethernet"
+    ],
+    "name": "SmartLabXBeeAPI2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yangcq88517/code/SmartLabXBeeAPI2/"
+    }
+}

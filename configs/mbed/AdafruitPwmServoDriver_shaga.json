@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "shohei haga",
+        "url": "https://os.mbed.com/users/shaga/"
+    },
+    "description": "Adafruit PWM Servo Driver Library for mbed.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Flash memory",
+        "HEXIWEAR",
+        "nor"
+    ],
+    "name": "AdafruitPwmServoDriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shaga/code/AdafruitPwmServoDriver/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Hotboards MX",
+        "url": "https://os.mbed.com/users/Hotboards/"
+    },
+    "description": "Hotboards_SpiLcd.cpp - Library for write and control and lcd with spi interfaces and the ST7032 controller. Base on Arduino's Liquid Cristal library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "window",
+        "I2C",
+        "Luminosity",
+        "Lux",
+        "sensor",
+        "display",
+        "hotboards",
+        "SPI"
+    ],
+    "name": "Hotboards_SpiLcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Hotboards/code/Hotboards_SpiLcd/"
+    }
+}

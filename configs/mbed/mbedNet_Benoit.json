@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Benoît Locher",
+        "url": "https://os.mbed.com/users/Benoit/"
+    },
+    "description": "Rewrite from scratch a TCP/IP stack for mbed. So far the following parts are usable:",
+    "frameworks": "mbed",
+    "keywords": [
+        "asynchronous",
+        "Buffered",
+        "FIFO",
+        "Non blocking",
+        "ring buffer",
+        "Serial",
+        "UART",
+        "arp",
+        "icmp",
+        "interrupts",
+        "stack",
+        "tcpip",
+        "UDP",
+        "5110",
+        "84x48",
+        "display",
+        "Nokia"
+    ],
+    "name": "mbedNet",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Benoit/code/mbedNet/"
+    }
+}

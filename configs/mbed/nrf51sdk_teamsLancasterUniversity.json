@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Lancaster University",
+        "url": "https://os.mbed.com/teams/Lancaster-University/"
+    },
+    "description": "Lancaster University fork of the Nordic nrf51-SDK repository, which actually lives on github:",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "biduad",
+        "cascade structure",
+        "IIR filter",
+        "Nucleo",
+        "UIT",
+        "ITDB_02",
+        "TFTCLD",
+        "Touch Screen",
+        "Touchscreen",
+        "XPT2046",
+        "BME280"
+    ],
+    "name": "nrf51-sdk",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Lancaster-University/code/nrf51-sdk/"
+    }
+}

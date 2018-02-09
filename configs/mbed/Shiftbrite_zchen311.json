@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "ze chen",
+        "url": "https://os.mbed.com/users/zchen311/"
+    },
+    "description": "Shiftbrite class",
+    "frameworks": "mbed",
+    "keywords": [
+        "max31855",
+        "Temperature",
+        "Thermocouple"
+    ],
+    "name": "Shiftbrite",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/zchen311/code/Shiftbrite/"
+    }
+}

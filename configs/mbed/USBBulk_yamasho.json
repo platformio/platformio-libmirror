@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Sho Yama",
+        "url": "https://os.mbed.com/users/yamasho/"
+    },
+    "description": "Usb Bulk Tranceport driver",
+    "frameworks": "mbed",
+    "keywords": [
+        "etti",
+        "TUIASI",
+        "Bulk",
+        "Traceport",
+        "USB"
+    ],
+    "name": "USBBulk",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yamasho/code/USBBulk/"
+    }
+}

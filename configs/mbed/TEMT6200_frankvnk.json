@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Frank Vannieuwkerke",
+        "url": "https://os.mbed.com/users/frankvnk/"
+    },
+    "description": "TEMT6200 - Ambient light sensor library for Wi-Go board",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "LCD-11062",
+        "PCF8833",
+        "sparkfun",
+        "dot",
+        "HT1632",
+        "led",
+        "matrix",
+        "sure",
+        "motor",
+        "KL25z",
+        "light sensor",
+        "Wi-Go"
+    ],
+    "name": "TEMT6200",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/frankvnk/code/TEMT6200/"
+    }
+}

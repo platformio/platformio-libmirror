@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "aconno dev team",
+        "url": "https://os.mbed.com/teams/aconno-dev-team/"
+    },
+    "description": "Utilities for aconno development kit.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Analog",
+        "dipsw",
+        "Input",
+        "SW",
+        "tactsw",
+        "FreeRTOS",
+        "rtos",
+        "graphic",
+        "Lascar",
+        "LCD",
+        "SP5-GFX1",
+        "SPI",
+        "aconno",
+        "Nordic",
+        "nrf52"
+    ],
+    "name": "adc52832_common",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/aconno-dev-team/code/adc52832_common/"
+    }
+}

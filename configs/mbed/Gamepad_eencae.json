@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Craig Evans",
+        "url": "https://os.mbed.com/users/eencae/"
+    },
+    "description": "Library for ELEC2645 Gamepad PCB.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "hotboards",
+        "SPI",
+        "TMP006",
+        "api",
+        "DIP",
+        "flash",
+        "spiflash",
+        "W25X40BV",
+        "winbond",
+        "Dieter Graef",
+        "DISCO-F746",
+        "SDFileSystem"
+    ],
+    "name": "Gamepad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eencae/code/Gamepad/"
+    }
+}

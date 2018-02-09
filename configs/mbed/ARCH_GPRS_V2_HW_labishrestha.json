@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Labi Shrestha",
+        "url": "https://os.mbed.com/users/labishrestha/"
+    },
+    "description": "Arch GPRS V2 HW Library Created from the Arch GPRS HW DEMO",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "ARCH",
+        "GPRS",
+        "Seeed",
+        "v2",
+        "ucam",
+        "AES",
+        "cipher",
+        "encryption",
+        "security"
+    ],
+    "name": "ARCH_GPRS_V2_HW",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/labishrestha/code/ARCH_GPRS_V2_HW/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Thieu Lammers",
+        "url": "https://os.mbed.com/users/lammers/"
+    },
+    "description": "write values to LED-array",
+    "frameworks": "mbed",
+    "keywords": [
+        "controller",
+        "motor",
+        "Serial"
+    ],
+    "name": "ledarray",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lammers/code/ledarray/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "hs loovee",
+        "url": "https://os.mbed.com/users/loovee/"
+    },
+    "description": "128x64 oled",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Armand",
+        "Coetzer",
+        "I2C",
+        "Nunchuk"
+    ],
+    "name": "Grove_OLED_Display_128X64",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/loovee/code/Grove_OLED_Display_128X64/"
+    }
+}

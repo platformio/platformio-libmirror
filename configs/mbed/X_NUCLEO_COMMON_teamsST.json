@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "Generic mbed Extensions used by STM Expansion Board Firmware Packages.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Dynamic",
+        "led",
+        "tlc5940",
+        "APIs",
+        "extension",
+        "generic"
+    ],
+    "name": "X_NUCLEO_COMMON",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/X_NUCLEO_COMMON/"
+    }
+}

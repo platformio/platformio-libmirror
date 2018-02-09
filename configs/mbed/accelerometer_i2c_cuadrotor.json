@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "fiuba robotica",
+        "url": "https://os.mbed.com/users/cuadrotor/"
+    },
+    "description": "Ready for usage of this device:",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "acelerometro",
+        "club",
+        "cuadricoptero",
+        "cuadrotor",
+        "fiuba",
+        "I2C",
+        "quadrotor",
+        "robotica",
+        "vuelo",
+        "CloudConnector",
+        "etherios",
+        "IOT"
+    ],
+    "name": "accelerometer_i2c",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cuadrotor/code/accelerometer_i2c/"
+    }
+}

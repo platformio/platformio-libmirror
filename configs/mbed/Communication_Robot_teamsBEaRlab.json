@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "BE@R lab",
+        "url": "https://os.mbed.com/teams/BEaR-lab/"
+    },
+    "description": "similar robotis communication v1.0",
+    "frameworks": "mbed",
+    "keywords": [
+        "Parallax X-Band",
+        "Radar",
+        "X-Band"
+    ],
+    "name": "Communication_Robot",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/BEaR-lab/code/Communication_Robot/"
+    }
+}

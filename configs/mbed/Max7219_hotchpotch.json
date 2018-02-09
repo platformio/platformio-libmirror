@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Yuichi Tateno",
+        "url": "https://os.mbed.com/users/hotchpotch/"
+    },
+    "description": "Max7219 7seg LED library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "control",
+        "PID",
+        "TJPS",
+        "max14690"
+    ],
+    "name": "Max7219",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hotchpotch/code/Max7219/"
+    }
+}

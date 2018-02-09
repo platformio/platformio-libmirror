@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "InetrfaceProducts NXP",
+        "url": "https://os.mbed.com/users/nxp_ip/"
+    },
+    "description": "Parallel bus (address 8 bit, data 8 bit) access sample using GPIO pins.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "VL53L0X",
+        "MQTT"
+    ],
+    "name": "parallel_bus",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nxp_ip/code/parallel_bus/"
+    }
+}

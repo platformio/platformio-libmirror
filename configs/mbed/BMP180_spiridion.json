@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Spiridion Mbed",
+        "url": "https://os.mbed.com/users/spiridion/"
+    },
+    "description": "BMP180 Pressure/Temperature Sensor library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "pressure",
+        "sensor",
+        "Temperature",
+        "cloud",
+        "firmware",
+        "update",
+        "debug",
+        "1-wire",
+        "DALLAS",
+        "DS18B20",
+        "OneWire",
+        "thermometer"
+    ],
+    "name": "BMP180",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/spiridion/code/BMP180/"
+    }
+}

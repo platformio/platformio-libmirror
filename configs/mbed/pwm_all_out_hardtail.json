@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "takaaki mastuzawa",
+        "url": "https://os.mbed.com/users/hardtail/"
+    },
+    "description": "MATSU-bed(LPC1549)でPWMを4つ以上出すプログラム",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "LPC1549",
+        "FRDM-KL25Z",
+        "I2C",
+        "MSS",
+        "MSU",
+        "VCNL4020",
+        "Vishay",
+        "BUTTON",
+        "Callback",
+        "duration",
+        "push",
+        "Freescale",
+        "sensing",
+        "touch",
+        "TSI",
+        "hi"
+    ],
+    "name": "pwm_all_out",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hardtail/code/pwm_all_out/"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Jason Beatch",
+        "url": "https://os.mbed.com/users/jbeatch/"
+    },
+    "description": "Mbed Pololu LPS331 SPI library",
+    "frameworks": "mbed",
+    "keywords": [
+        "counter",
+        "pulse",
+        "Celllular",
+        "lte",
+        "M14A2A",
+        "WNC",
+        "WNC M14A2A",
+        "LPS331AP",
+        "mbed",
+        "SPI",
+        "ICRS",
+        "kalman"
+    ],
+    "name": "LPS331AP_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jbeatch/code/LPS331AP_SPI/"
+    }
+}

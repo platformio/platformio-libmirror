@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "mbed official",
+        "url": "https://os.mbed.com/teams/mbed-official/"
+    },
+    "description": "FATFileSystem",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "BME280",
+        "cpp",
+        "ethernet",
+        "network",
+        "TCP",
+        "UDP",
+        "DHT22",
+        "RHT03"
+    ],
+    "name": "FATFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/mbed-official/code/FATFileSystem/"
+    }
+}

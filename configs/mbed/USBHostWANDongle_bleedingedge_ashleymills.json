@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Ashley Mills",
+        "url": "https://os.mbed.com/users/ashleymills/"
+    },
+    "description": "local fork (temporary)",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "piswarm",
+        "cmsis",
+        "L152",
+        "Nucleo",
+        "rtos",
+        "RTX"
+    ],
+    "name": "USBHostWANDongle_bleedingedge",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ashleymills/code/USBHostWANDongle_bleedingedge/"
+    }
+}

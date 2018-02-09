@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Jasper Gerth",
+        "url": "https://os.mbed.com/users/Gerth/"
+    },
+    "description": "Library with P, PI and PID controller",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "Serial",
+        "sparkfun",
+        "font",
+        "NeoPixel",
+        "WS2812",
+        "wx2811"
+    ],
+    "name": "controlandadjust",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Gerth/code/controlandadjust/"
+    }
+}

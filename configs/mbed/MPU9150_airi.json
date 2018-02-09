@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Airi SENA",
+        "url": "https://os.mbed.com/users/airi/"
+    },
+    "description": "MPU-9150 is 9 axis IMU sensor. In details, web",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2S",
+        "library",
+        "IMU",
+        "sensor",
+        "DISCO_F746NG",
+        "STM32F746"
+    ],
+    "name": "MPU9150",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/airi/code/MPU9150/"
+    }
+}

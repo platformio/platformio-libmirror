@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Reinhold Schaefer",
+        "url": "https://os.mbed.com/users/rs27/"
+    },
+    "description": "one wire driver",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Internet",
+        "of",
+        "Sen.se",
+        "things",
+        "LFSR",
+        "Linear Feedback Shift Register",
+        "Number Generator",
+        "Pseudo",
+        "Random"
+    ],
+    "name": "DS2482",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rs27/code/DS2482/"
+    }
+}

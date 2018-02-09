@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Janek Mann",
+        "url": "https://os.mbed.com/users/janekm/"
+    },
+    "description": "Class which provides functions to control a TAOS TCS3472 Color Light-to-Digital Converter with IR Filter via I2C. (Tidied up)",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "TCS3472",
+        "TCS34721",
+        "TCS34723",
+        "TCS34725",
+        "TCS34727"
+    ],
+    "name": "TCS3472_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/janekm/code/TCS3472_I2C/"
+    }
+}

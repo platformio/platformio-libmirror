@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Gert van der Knokke",
+        "url": "https://os.mbed.com/users/gertk/"
+    },
+    "description": "VGA 640x480 full graphic driver",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F429ZI",
+        "gyroscope",
+        "640x480",
+        "driver",
+        "graphic",
+        "VGA"
+    ],
+    "name": "vga640x480g",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gertk/code/vga640x480g/"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "description": "Serial library for MTS Socket Modem Arduino Shield devices from Multi-Tech Systems",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "MTS-Serial",
+    "name": "MTS-Serial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/MTS-Serial/"
+    }
+}

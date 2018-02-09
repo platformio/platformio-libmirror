@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "Make noise with a piezo buzzer. Use a pwm pin.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "Bluetooth Low Energy",
+        "ST",
+        "X-NUCLEO-IDB04A1",
+        "X-NUCLEO-IDB05A1",
+        "buzzer",
+        "piezo",
+        "SBC",
+        "WSE",
+        "pwm",
+        "PwmOut",
+        "SoftPWM",
+        "softwearPWM"
+    ],
+    "name": "beep",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/beep/"
+    }
+}

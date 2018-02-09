@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Vadim Artamonov",
+        "url": "https://os.mbed.com/users/vart/"
+    },
+    "description": "MIDI sequence player on speaker/buzzer using PWM",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "HMC5883L",
+        "MIDI",
+        "pwm",
+        "LCD",
+        "Serial",
+        "sparkfun"
+    ],
+    "name": "MIDISongPlayer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vart/code/MIDISongPlayer/"
+    }
+}

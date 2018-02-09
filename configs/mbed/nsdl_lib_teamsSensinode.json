@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Sensinode",
+        "url": "https://os.mbed.com/teams/Sensinode/"
+    },
+    "description": "NSDL C library",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "AES",
+        "CBC",
+        "cipher",
+        "Crypto",
+        "CTS",
+        "ECB",
+        "FRDM",
+        "KL25z",
+        "MLK25Z128FRDM",
+        "LCD",
+        "nsdl"
+    ],
+    "name": "nsdl_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Sensinode/code/nsdl_lib/"
+    }
+}

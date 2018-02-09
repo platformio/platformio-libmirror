@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "John Bailey",
+        "url": "https://os.mbed.com/users/johnb/"
+    },
+    "description": "Small library for using circular buffers (forked from François Berder's implementation in order to add methods and fix problems)",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "buffer",
+        "circular",
+        "ring"
+    ],
+    "name": "CircularBuffer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/johnb/code/CircularBuffer/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Ken Todotani",
+        "url": "https://os.mbed.com/users/todotani/"
+    },
+    "description": "Nordic stack and drivers for the mbed BLE API",
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "LED controller",
+        "PCA9632",
+        "pwm"
+    ],
+    "name": "nRF51822-hrm1017",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/todotani/code/nRF51822-hrm1017/"
+    }
+}

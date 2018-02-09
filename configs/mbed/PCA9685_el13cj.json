@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Calum Johnston",
+        "url": "https://os.mbed.com/users/el13cj/"
+    },
+    "description": "Library for interfacing with the NXP PCA9685 PWM controller over an I2C connection.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "I2C",
+        "led",
+        "nxp",
+        "PCA9685",
+        "pwm",
+        "Servo"
+    ],
+    "name": "PCA9685",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/el13cj/code/PCA9685/"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Jens Schneider",
+        "url": "https://os.mbed.com/users/jenschn/"
+    },
+    "description": "Bosch BME280 Temperature Pressure Humidity Sensor",
+    "frameworks": "mbed",
+    "keywords": [
+        "IR",
+        "remote",
+        "networking",
+        "socket",
+        "TCP",
+        "UDP",
+        "BME280",
+        "I2C sensor driver",
+        "edge",
+        "level",
+        "SW",
+        "tact",
+        "Toggle",
+        "mbed",
+        "HTTP server",
+        "httpd",
+        "websocket server"
+    ],
+    "name": "BME280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jenschn/code/BME280/"
+    }
+}

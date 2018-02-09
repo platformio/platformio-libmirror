@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Dan Gongora",
+        "url": "https://os.mbed.com/users/dmgongora/"
+    },
+    "description": "mbed to Dynamixel servo communication.",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "dynamixel",
+    "name": "Dynamixel",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dmgongora/code/Dynamixel/"
+    }
+}

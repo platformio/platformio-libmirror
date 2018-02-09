@@ -1,0 +1,16 @@
+{
+    "authors": {
+        "name": "Winfried Sjoukes",
+        "url": "https://os.mbed.com/users/wsjoukes/"
+    },
+    "description": "library for Tetris program",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": "beepLib",
+    "name": "beepLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wsjoukes/code/beepLib/"
+    }
+}

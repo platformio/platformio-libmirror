@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "EdgeBotix",
+        "url": "https://os.mbed.com/teams/EdgeBotix/"
+    },
+    "description": "Initial Fork",
+    "frameworks": "mbed",
+    "keywords": [
+        "Serial",
+        "thermal printer"
+    ],
+    "name": "TB6612FNG2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/EdgeBotix/code/TB6612FNG2/"
+    }
+}

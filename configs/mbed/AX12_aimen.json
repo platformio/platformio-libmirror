@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Aimen Al-Refai",
+        "url": "https://os.mbed.com/users/aimen/"
+    },
+    "description": "4 dof robotic arm use of AX12 code",
+    "examples": "https://os",
+    "frameworks": "mbed",
+    "keywords": [
+        "8",
+        "ack",
+        "Analog",
+        "awesome",
+        "bit",
+        "channel",
+        "converter",
+        "dac",
+        "Digital",
+        "dual",
+        "I2C",
+        "isolated",
+        "MAX518",
+        "no-ack",
+        "Input",
+        "keyboard",
+        "PS/2",
+        "ax12",
+        "dynamixel",
+        "motor",
+        "Servo"
+    ],
+    "name": "AX12",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aimen/code/AX12/"
+    }
+}
