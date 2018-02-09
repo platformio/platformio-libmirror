@@ -59,6 +59,8 @@ class RepoPostProc(object):
             item['examples'] = make_mbed_url(item['examples'])[0:10]
 
         if 'repository' in item:
+            print("+++===="*20)
+            print(item['repository'])
             repo = { "type" : "hg", "url" : make_mbed_url(item['repository']) }
             item['repository'] = repo
 

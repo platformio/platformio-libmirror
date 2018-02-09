@@ -16,13 +16,19 @@ def strip_mbed_url(resource):
     return resource
 
 def make_mbed_url(resource):
+    print("+="*20)
+    print(resource)
     if isinstance(resource, str):
     # if isinstance(resource, types.StringTypes):
         if resource[0] == '/':
             resource = "https://os.mbed.com"+resource
+    elif type(resource) is dict:
+        resource = "https://os.mbed.com"+resource['url']
+    # elif type(resource) 
     elif type(resource) is list:
-        for i, value in enumerate(resource):
-            resource[i]= make_mbed_url(value)
+        resource = "https://os.mbed.com"+resource[0]  
+        # for i, value in enumerate(resource):
+            # resource[i]= make_mbed_url(value)
     return resource
 
 '''
