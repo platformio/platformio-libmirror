@@ -6,6 +6,11 @@
     "description": "Murata RF modules are designed to simplify wireless development and certification by minimizing the amount of RF expertise you need to wirelessly enable a wide range of applications.",
     "frameworks": "mbed",
     "keywords": [
+        "CyaSSL",
+        "SSL",
+        "accelerometer",
+        "I2C",
+        "MMA7660",
         "muRata",
         "sn8200",
         "wifi"

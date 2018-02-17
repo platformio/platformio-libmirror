@@ -6,13 +6,13 @@
     "description": "Object for MX28 with rs485",
     "frameworks": "mbed",
     "keywords": [
+        "Serial",
         "dynamixel",
         "MX28",
         "RS485",
         "IOT",
         "lpwan",
-        "sigfox",
-        "MX64"
+        "sigfox"
     ],
     "name": "MX28",
     "platforms": "*",

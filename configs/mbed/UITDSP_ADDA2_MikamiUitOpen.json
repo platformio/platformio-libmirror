@@ -4,27 +4,21 @@
         "url": "https://os.mbed.com/users/MikamiUitOpen/"
     },
     "description": "Class library for internal ADC and DAC connected by SPI. ADC is triggered by TIM2. This library support clock generator using TIM3 for switched-capacitor filter to smooth output signal of DAC. This library includes derivative class to support interrupt occured in end of AD conversion. Slave select of SPI for DAC is generated using TIM4.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/UITDSP_ADDA_Example2/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "ESP8266",
-        "milkcocoa",
+        "HIH-4030",
+        "Humidity",
+        "sensor",
         "AD",
         "da",
         "MCP4921",
         "MCP4922",
         "Nucleo",
         "SPI",
-        "UIT",
-        "GPS",
-        "MKT3339",
-        "TinyGPS",
-        "brushless",
-        "control",
-        "LPC1768",
-        "mbed",
-        "motor",
-        "TB6612FNG"
+        "UIT"
     ],
     "name": "UITDSP_ADDA2",
     "platforms": "*",

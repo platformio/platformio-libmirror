@@ -4,10 +4,14 @@
         "url": "https://os.mbed.com/users/kim1212/"
     },
     "description": "BMX055に4線式SPIモードで接続するためのライブラリです",
+    "examples": [
+        "https://os.mbed.com/users/kim1212/code/SensorManager/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Lora",
-        "rn2483"
+        "frequency",
+        "measurement",
+        "Pulsewidth"
     ],
     "name": "BMX055",
     "platforms": "*",

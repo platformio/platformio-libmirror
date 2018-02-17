@@ -6,10 +6,15 @@
     "description": "counter",
     "frameworks": "mbed",
     "keywords": [
-        "colour",
-        "Grove",
-        "sensor",
-        "DS1631"
+        "audio",
+        "mp3",
+        "record",
+        "serial MP3",
+        "sound",
+        "vs1011",
+        "vs1011e",
+        "VS1053",
+        "wav"
     ],
     "name": "counter",
     "platforms": "*",

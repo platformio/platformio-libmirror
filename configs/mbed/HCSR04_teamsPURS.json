@@ -4,15 +4,17 @@
         "url": "https://os.mbed.com/teams/PURS/"
     },
     "description": "a",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/PURS/code/glavni-program-za-semafor-i-ultrazvucni/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "ALS",
-        "driver",
+        "ST7032i",
+        "accelerometer",
+        "BMI160",
+        "gyroscope",
         "I2C",
-        "IR",
-        "proximity",
-        "rohm rpr0521"
+        "SPI"
     ],
     "name": "HCSR04",
     "platforms": "*",

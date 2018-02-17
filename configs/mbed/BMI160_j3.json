@@ -4,9 +4,17 @@
         "url": "https://os.mbed.com/users/j3/"
     },
     "description": "Library for Bosch Sensortech BMI160 IMU",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/j3/code/MAX32630FTHR_BALANCE_BOT/"
+    ],
     "frameworks": "mbed",
-    "keywords": "BMI160",
+    "keywords": [
+        "DISCO_F746NG",
+        "QSPI",
+        "led",
+        "TM1638",
+        "TMP102"
+    ],
     "name": "BMI160",
     "platforms": "*",
     "repository": {

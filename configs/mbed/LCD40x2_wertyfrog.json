@@ -4,17 +4,19 @@
         "url": "https://os.mbed.com/users/wertyfrog/"
     },
     "description": "library for driving character LCD in 4-bit mode",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/DavidMeza/code/Ultrasonic/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Melexis",
-        "MLX90614",
         "2x40",
         "40x2",
         "HD44780",
         "LCD",
         "ST7066U",
-        "AnalogIn"
+        "range",
+        "sensor",
+        "SRF08"
     ],
     "name": "LCD40x2",
     "platforms": "*",

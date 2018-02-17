@@ -4,12 +4,30 @@
         "url": "https://os.mbed.com/users/AzureIoTClient/"
     },
     "description": "A modelling and serializer library for Microsoft Azure IoTHub client applications",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/ppatierno/code/sht15_remote_monitoring/",
+        "https://os.mbed.com/users/lrh/code/f767zi_mqtt/",
+        "https://os.mbed.com/users/AzureIoTClient/code/remote_monitoring/",
+        "https://os.mbed.com/users/AzureIoTClient/code/simplesample_amqp/",
+        "https://os.mbed.com/users/AzureIoTClient/code/simplesample_http/",
+        "https://os.mbed.com/users/AzureIoTClient/code/simplesample_mqtt/",
+        "https://os.mbed.com/users/AzureIoTClient/code/temp_sensor_anomaly/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "nRF2401A",
+        "OLED",
+        "Organic-LED",
+        "SO1602A",
         "EPSON",
         "RTC",
         "TOYOCOM",
+        "GPS",
+        "ALS",
+        "ambient light sensor",
+        "I2C",
+        "ISL29125",
+        "rgb",
         "FRDM-K22F",
         "fxos8700cq"
     ],

@@ -5,7 +5,12 @@
     },
     "description": "Radio Structures in OOP",
     "frameworks": "mbed",
-    "keywords": "Radios",
+    "keywords": [
+        "I2C",
+        "ISL1208",
+        "real time clock",
+        "RTC"
+    ],
     "name": "Radios",
     "platforms": "*",
     "repository": {

@@ -4,7 +4,18 @@
         "url": "https://os.mbed.com/users/AjK/"
     },
     "description": "MODDMA GPDMA Controller",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/mpanetta/code/FirstTest/",
+        "https://os.mbed.com/users/jeroen3/code/WaveSim/",
+        "https://os.mbed.com/users/avnisha/code/IO-dma-memmem/",
+        "https://os.mbed.com/users/Mischa/code/DACDMAfuncgenlib/",
+        "https://os.mbed.com/users/heroic/code/FastPixelDemo/",
+        "https://os.mbed.com/users/apullin/code/DMA_Ethernet_Mbed/",
+        "https://os.mbed.com/users/michaelcoe/code/DMA_Ethernet_Mbed/",
+        "https://os.mbed.com/users/tohu/code/DMANeoPixel/",
+        "https://os.mbed.com/users/ad_24/code/IRIS_MBED/",
+        "https://os.mbed.com/teams/EmbedEd/code/mbed_theremin/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "ethernet",
@@ -12,20 +23,14 @@
         "power control",
         "power management",
         "PowerControl",
+        "mbed",
         "DMA",
         "gpdma",
         "MODDMA",
         "adc",
         "AnalogIn",
         "burst",
-        "fast",
-        "cmsis",
-        "rtos",
-        "RTX",
-        "accelerometer",
-        "Freescale",
-        "magnetometer",
-        "sensor"
+        "fast"
     ],
     "name": "MODDMA",
     "platforms": "*",

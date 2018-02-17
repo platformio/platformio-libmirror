@@ -6,15 +6,17 @@
     "description": "Extension for mbed rpc library. Default methods for RPC classes added. Write /function arguments list to call a function, /variable to read variable, /variable value to set it.",
     "frameworks": "mbed",
     "keywords": [
+        "5110",
+        "84x48",
+        "display",
+        "Nokia",
+        "I2C",
+        "interrupt",
+        "slave",
         "call",
         "Procedure",
         "remote",
-        "rpc",
-        "CAN",
-        "MCP2515",
-        "LCD",
-        "Scroll",
-        "TextLCD"
+        "rpc"
     ],
     "name": "RPC",
     "platforms": "*",

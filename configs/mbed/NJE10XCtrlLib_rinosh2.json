@@ -4,9 +4,13 @@
         "url": "https://os.mbed.com/users/rinosh2/"
     },
     "description": "This library is for the control of NJE-105/106.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/rinosh2/code/NJE10XCtrlSample/",
+        "https://os.mbed.com/users/rinosh2/code/TrainInfoSample/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "HTTPServer",
         "NJE-10X",
         "Serial"
     ],

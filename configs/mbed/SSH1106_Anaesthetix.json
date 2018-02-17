@@ -4,17 +4,17 @@
         "url": "https://os.mbed.com/users/Anaesthetix/"
     },
     "description": "A simple library for SSH1106 controlled GLCDs",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Anaesthetix/code/SSH1106_OLED/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "tcp/ip",
-        "WebSocket",
         "GLCD",
         "OLED",
         "SSH1106",
-        "ethernet",
-        "ip",
-        "mbed"
+        "ACM1602NI",
+        "I2C",
+        "LCD"
     ],
     "name": "SSH1106",
     "platforms": "*",

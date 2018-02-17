@@ -4,12 +4,20 @@
         "url": "https://os.mbed.com/teams/CQ-Publishing/"
     },
     "description": "MARMEX-VB : \"Mary Camera module\" library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/CQ-Publishing/code/MARMEX_VB_test/",
+        "https://os.mbed.com/teams/CQ-Publishing/code/MARMEX_VB_Hello/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "camera",
         "MARMEX-VB",
-        "MARY"
+        "MARY",
+        "clock",
+        "ds1307",
+        "real",
+        "RTC",
+        "time"
     ],
     "name": "MARMEX_VB",
     "platforms": "*",

@@ -4,24 +4,21 @@
         "url": "https://os.mbed.com/users/neilt6/"
     },
     "description": "A feature complete driver for the PCA9952/55 LED driver from NXP.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/neilt6/code/PCA9955_HelloWorld/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "clock",
-        "ds1307",
-        "RTC",
-        "time",
-        "EEPROM",
-        "file",
-        "mFS",
-        "System",
+        "MicroNFCBoard",
+        "NFC",
         "constant",
         "current",
         "driver",
         "led",
         "nxp",
         "PCA9952",
-        "PCA9955"
+        "PCA9955",
+        "ERC1602"
     ],
     "name": "PCA9955",
     "platforms": "*",

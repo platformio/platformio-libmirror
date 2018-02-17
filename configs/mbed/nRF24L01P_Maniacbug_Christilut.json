@@ -6,6 +6,11 @@
     "description": "Maniacbug's nRF24L01+ arduino library ported to mbed.",
     "frameworks": "mbed",
     "keywords": [
+        "EEPROM",
+        "IAP",
+        "In-Application Programming",
+        "internal EEPROM",
+        "internal flash memory",
         "arduino",
         "maniacbug",
         "nRF24L01+",

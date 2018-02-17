@@ -4,19 +4,20 @@
         "url": "https://os.mbed.com/users/tony63/"
     },
     "description": "PARA IRDA",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "I2C",
-        "LM75B",
-        "MSS",
-        "MSU",
-        "sensor",
-        "Temperature",
-        "copter",
-        "PPM",
-        "quad"
+    "examples": [
+        "https://os.mbed.com/users/tony63/code/irda/",
+        "https://os.mbed.com/users/tony63/code/irda1/",
+        "https://os.mbed.com/users/avallejopo/code/Tarea5/",
+        "https://os.mbed.com/users/laura608/code/irda/",
+        "https://os.mbed.com/users/cmorab/code/irda1CMORAB/",
+        "https://os.mbed.com/users/caaruizze/code/infrarojoleds/",
+        "https://os.mbed.com/users/salvarear/code/irda1/",
+        "https://os.mbed.com/users/amarincan/code/Tarea5irda1/",
+        "https://os.mbed.com/users/fvelasquezv/code/Infra_rojo/",
+        "https://os.mbed.com/users/salondonog/code/Tarea5/"
     ],
+    "frameworks": "mbed",
+    "keywords": "Pulse1",
     "name": "Pulse1",
     "platforms": "*",
     "repository": {

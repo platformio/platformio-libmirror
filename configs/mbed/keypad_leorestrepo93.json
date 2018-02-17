@@ -4,16 +4,19 @@
         "url": "https://os.mbed.com/users/leorestrepo93/"
     },
     "description": "libreria teclado",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "ALS",
-        "driver",
-        "I2C",
-        "IR",
-        "proximity",
-        "rohm rpr0521"
+    "examples": [
+        "https://os.mbed.com/users/Jesse/code/Tarea3_Teclado/",
+        "https://os.mbed.com/users/Jesse/code/Tarea3_Teclado_Mejoras/",
+        "https://os.mbed.com/users/Jepalacioh/code/Tarea3_Teclado_sonido/",
+        "https://os.mbed.com/users/Jesse/code/IngresoHORA/",
+        "https://os.mbed.com/users/Jesse/code/Tarea_5/",
+        "https://os.mbed.com/users/Jesse/code/Tarea5_AlarmaDS1307/",
+        "https://os.mbed.com/users/juanco/code/tareamanejobasicoteclado/",
+        "https://os.mbed.com/users/Jepalacioh/code/PID2/",
+        "https://os.mbed.com/users/Jesse/code/guardadoantes/"
     ],
+    "frameworks": "mbed",
+    "keywords": "keypad",
     "name": "keypad",
     "platforms": "*",
     "repository": {

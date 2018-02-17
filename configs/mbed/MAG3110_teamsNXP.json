@@ -4,19 +4,21 @@
         "url": "https://os.mbed.com/teams/NXP/"
     },
     "description": "MAG3110 magnetometer library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/NXP/code/FRDM-FXS-MULTI2-B_SensorShield_HelloWorl/",
+        "https://os.mbed.com/users/seanburford/code/xtrinsic_sensors/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "distance",
-        "HCSR04",
-        "sensor",
-        "DS18B20",
-        "DS2450",
-        "MAX31850",
-        "Thermocouple",
-        "Accessory",
-        "ADK",
-        "android"
+        "loststone",
+        "Mouse",
+        "trackball",
+        "2.4",
+        "DSM",
+        "DSM2",
+        "GHz",
+        "Serial",
+        "spektrum"
     ],
     "name": "MAG3110",
     "platforms": "*",

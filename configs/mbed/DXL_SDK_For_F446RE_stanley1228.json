@@ -4,9 +4,17 @@
         "url": "https://os.mbed.com/users/stanley1228/"
     },
     "description": "DXL_SDK_For_F446RE. Now test with MX64AR, MX28AR with 1Mbps",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/stanley1228/code/RoboticArm/",
+        "https://os.mbed.com/users/stanley1228/code/DXL_SDK_Porting_Test/"
+    ],
     "frameworks": "mbed",
-    "keywords": "DXL_SDK_For_F446RE",
+    "keywords": [
+        "cmsis",
+        "rtos",
+        "RTX",
+        "DXL_SDK_For_F446RE"
+    ],
     "name": "DXL_SDK_For_F446RE",
     "platforms": "*",
     "repository": {

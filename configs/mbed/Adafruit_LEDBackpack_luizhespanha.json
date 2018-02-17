@@ -6,15 +6,12 @@
     "description": "This is a library for the Adafruit LED Backpacks.",
     "frameworks": "mbed",
     "keywords": [
+        "debug",
+        "library",
         "8x8",
         "Adafruit",
         "backpack",
-        "led",
-        "clock",
-        "ds1307",
-        "real",
-        "RTC",
-        "time"
+        "led"
     ],
     "name": "Adafruit_LEDBackpack",
     "platforms": "*",

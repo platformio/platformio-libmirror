@@ -4,22 +4,24 @@
         "url": "https://os.mbed.com/users/Brid/"
     },
     "description": "test upload",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/e00nagog/code/test/",
+        "https://os.mbed.com/users/Brid/code/L6470exaple/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "L6470",
-        "AQM1602",
-        "display",
-        "I2C",
-        "led",
-        "Serial",
-        "Terminal",
-        "VT100",
         "minutes",
         "seconds",
         "stopwatch",
         "timer",
-        "watch"
+        "watch",
+        "display",
+        "I2C",
+        "led",
+        "L6470",
+        "MPU9150",
+        "Quaternion",
+        "vector"
     ],
     "name": "L6470",
     "platforms": "*",

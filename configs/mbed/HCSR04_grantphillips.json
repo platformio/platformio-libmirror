@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/grantphillips/"
     },
     "description": "Class library for a HC-SR04 Distance Sensor based on PwmOut (Trig) and InterruptIn (Echo).",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/SolManB/code/ultra/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "buzzer",
@@ -15,13 +17,7 @@
         "I2S",
         "library",
         "tested",
-        "TLV320",
-        "128x64",
-        "OLED",
-        "SSD1306",
-        "Adafruit",
-        "GPS",
-        "NEMA"
+        "TLV320"
     ],
     "name": "HCSR04",
     "platforms": "*",

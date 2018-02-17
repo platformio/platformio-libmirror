@@ -4,13 +4,22 @@
         "url": "https://os.mbed.com/users/WiredHome/"
     },
     "description": "A simple .ini file interface.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/WiredHome/code/WattEye/",
+        "https://os.mbed.com/users/WiredHome/code/Smart-WiFly-WebServer/",
+        "https://os.mbed.com/users/WiredHome/code/X10-Server/",
+        "https://os.mbed.com/users/WiredHome/code/SignalGenerator/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "I2C",
         "Configuration",
         "file",
         "ini",
-        "interface"
+        "interface",
+        "NetServices",
+        "network",
+        "NTP"
     ],
     "name": "IniManager",
     "platforms": "*",

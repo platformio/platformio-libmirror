@@ -4,9 +4,17 @@
         "url": "https://os.mbed.com/teams/NerfUS/"
     },
     "description": "Servomotor",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/NerfUS/code/ServomotorTests/",
+        "https://os.mbed.com/teams/NerfUS/code/NerfUSTarget/"
+    ],
     "frameworks": "mbed",
-    "keywords": "Servomotor",
+    "keywords": [
+        "BD6211",
+        "control",
+        "Input",
+        "pwm"
+    ],
     "name": "Servomotor",
     "platforms": "*",
     "repository": {

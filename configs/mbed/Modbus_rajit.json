@@ -6,13 +6,11 @@
     "description": "Port of the FreeModbus Libary for mbed, copied from https://developer.mbed.org/users/cam/code/Modbus/ and upgraded to mbed 5",
     "frameworks": "mbed",
     "keywords": [
-        "nRF2401A",
-        "ALS",
-        "ambient light sensor",
         "I2C",
-        "ISL29125",
-        "rgb",
-        "GPS"
+        "sensor",
+        "Temperature",
+        "gyro",
+        "iniparser"
     ],
     "name": "Modbus",
     "platforms": "*",

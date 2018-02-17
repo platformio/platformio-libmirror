@@ -4,18 +4,22 @@
         "url": "https://os.mbed.com/users/kpatel70/"
     },
     "description": "none",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/kpatel70/code/4180_Project/",
+        "https://os.mbed.com/users/higedura/code/YNU_MPU/",
+        "https://os.mbed.com/users/khoshino/code/YNU_MPUd2/",
+        "https://os.mbed.com/users/higedura/code/YNU_MPUd2/",
+        "https://os.mbed.com/users/khoshino/code/YNU_MPUd2h/",
+        "https://os.mbed.com/users/higedura/code/YNU_MPUd2h/",
+        "https://os.mbed.com/users/khoshino/code/YNU_MPU_0108/",
+        "https://os.mbed.com/users/kenkenpapurika/code/YNU_MPU_0108/",
+        "https://os.mbed.com/users/higedura/code/YNU_MPU_0108/",
+        "https://os.mbed.com/users/yal_kaiyo/code/130111_YNU_MPU_1/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Dimmer",
-        "DMX",
-        "DMX512",
-        "lighting",
-        "STM",
-        "stm32",
-        "compass",
-        "DISCO_L476VG",
-        "LSM303"
+        "timer",
+        "watchdog"
     ],
     "name": "FatFileSystem",
     "platforms": "*",

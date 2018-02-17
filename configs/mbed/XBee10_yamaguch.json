@@ -9,7 +9,14 @@
         "api",
         "mode",
         "xbee",
-        "zigbee"
+        "zigbee",
+        "email",
+        "SMTP",
+        "ESP-01",
+        "ESP8266",
+        "finder",
+        "range",
+        "ultrasound"
     ],
     "name": "XBee 1.0",
     "platforms": "*",

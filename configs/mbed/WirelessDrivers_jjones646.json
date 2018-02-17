@@ -4,14 +4,21 @@
         "url": "https://os.mbed.com/users/jjones646/"
     },
     "description": "For robots and stuff",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/jjones646/code/Base-Station/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "BMI160",
-        "gyroscope",
-        "I2C",
-        "SPI"
+        "AD7791",
+        "adc",
+        "consumption",
+        "control",
+        "ethernet",
+        "Management",
+        "Power",
+        "PowerControl",
+        "debounce",
+        "Input"
     ],
     "name": "Wireless Drivers",
     "platforms": "*",

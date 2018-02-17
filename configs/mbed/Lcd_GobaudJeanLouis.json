@@ -6,12 +6,11 @@
     "description": "Test",
     "frameworks": "mbed",
     "keywords": [
-        "pressure",
+        "Analog",
+        "AnalogIn",
+        "gyro",
         "sensor",
-        "Temperature",
-        "LCD",
-        "Watch Dog Timer",
-        "WDT"
+        "LCD"
     ],
     "name": "Lcd",
     "platforms": "*",

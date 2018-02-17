@@ -6,9 +6,12 @@
     "description": "Program for generating morse code via a callback.",
     "frameworks": "mbed",
     "keywords": [
-        "jsmn",
-        "JSON",
-        "Morse"
+        "Morse",
+        "LCD",
+        "Serial",
+        "TextDisplay",
+        "TextDisplays",
+        "TextLCD"
     ],
     "name": "MorseGenerator",
     "platforms": "*",

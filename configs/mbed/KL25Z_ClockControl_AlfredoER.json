@@ -6,9 +6,14 @@
     "description": "Library to control the KL25z Clock Module.",
     "frameworks": "mbed",
     "keywords": [
-        "NeoPixel",
-        "stm32",
-        "WS2812B",
+        "Lora",
+        "Semtech",
+        "SX1272",
+        "SX1272Lib",
+        "SX1272MB1DxS",
+        "SX1276",
+        "SX1276Lib",
+        "SX1276MB1xAS",
         "clock",
         "KL25z",
         "PLL"

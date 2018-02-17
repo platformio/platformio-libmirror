@@ -4,10 +4,16 @@
         "url": "https://os.mbed.com/teams/SiliconLabs/"
     },
     "description": "This is a library to read out sensor values from Silicon Labs' si70xx-range of relative humidity and temperature sensors.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/SiliconLabs/code/MemLCD-Temperature-Humidity-Demo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "BME280",
+        "cloud",
+        "dashboard",
+        "IOT",
+        "iot platform",
+        "smartphone",
         "I2C",
         "RHT",
         "sensor",
@@ -16,7 +22,15 @@
         "Si7021",
         "Silicon Labs",
         "silicon_labs",
-        "siliconlabs"
+        "siliconlabs",
+        "FreeIMU",
+        "IMU",
+        "MPU6050",
+        "1-wire",
+        "1wire",
+        "DS18B20",
+        "DS18S20",
+        "OneWire"
     ],
     "name": "SILABS_RHT",
     "platforms": "*",

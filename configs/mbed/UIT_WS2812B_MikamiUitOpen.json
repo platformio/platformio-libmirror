@@ -4,21 +4,22 @@
         "url": "https://os.mbed.com/users/MikamiUitOpen/"
     },
     "description": "Class library for WS2812B. Board: Nucleo-F401RE and Nucleo-F446RE using SPI.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/Demo_WS2812B_SPI/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Serial",
-        "Terminal",
-        "VT100",
-        "VT200",
-        "VT52",
         "f401",
         "F446",
         "Nucleo",
         "RGB LED",
         "SPI",
         "UIT",
-        "WS2812B"
+        "WS2812B",
+        "controller",
+        "game",
+        "interrupt",
+        "joystick"
     ],
     "name": "UIT_WS2812B",
     "platforms": "*",

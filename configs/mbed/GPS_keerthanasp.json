@@ -4,17 +4,12 @@
         "url": "https://os.mbed.com/users/keerthanasp/"
     },
     "description": "GPS",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "nRF51-DK",
-        "RTC",
-        "time",
-        "Radio",
-        "rf",
-        "rfm69",
-        "mbed"
+    "examples": [
+        "https://os.mbed.com/users/gtg846r/code/Lab3_Surveillance/",
+        "https://os.mbed.com/users/sathguru/code/6adcSerial/"
     ],
+    "frameworks": "mbed",
+    "keywords": "GPS",
     "name": "GPS",
     "platforms": "*",
     "repository": {

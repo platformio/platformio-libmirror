@@ -5,7 +5,19 @@
     },
     "description": "HR and RR measurement",
     "frameworks": "mbed",
-    "keywords": "timer",
+    "keywords": [
+        "Analog",
+        "CN0391",
+        "devices",
+        "Thermocouple",
+        "Gesture",
+        "mtconnnect04s",
+        "mtm",
+        "mtmtech",
+        "paj7620",
+        "paj7620u2",
+        "pixart"
+    ],
     "name": "HRandRR",
     "platforms": "*",
     "repository": {

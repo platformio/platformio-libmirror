@@ -4,21 +4,28 @@
         "url": "https://os.mbed.com/users/gabrielrivas/"
     },
     "description": "Modbus RTU class for slave devices. It shares data with other software components via a Message queue object, and can exist more than one Modbus Slave RTU instances in a application program.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/gabrielrivas/code/Nucleo_modbus_protocol_test/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "audio",
-        "bwf",
-        "file",
-        "wav",
-        "wave",
         "modbus rtu",
         "real time",
         "rtos",
         "serial protocol",
-        "IMU",
-        "MPU9150",
-        "gyro"
+        "Pachube",
+        "eeprom on flash",
+        "flash file system",
+        "accelerometer",
+        "MMA8451",
+        "MMA8452",
+        "MMA8453",
+        "MMA845x",
+        "DMA",
+        "FRDM-KL25Z",
+        "led",
+        "WS2811",
+        "WS2812"
     ],
     "name": "ModbusSlaveRTU",
     "platforms": "*",

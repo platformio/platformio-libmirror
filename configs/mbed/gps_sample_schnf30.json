@@ -4,16 +4,19 @@
         "url": "https://os.mbed.com/users/schnf30/"
     },
     "description": "Cette librairie permet de gérer les event d'un gps NMEA rs232.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/schnf30/code/Test_gps_sample/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Analog",
-        "joystick",
-        "Carrier",
-        "driver",
-        "motor",
-        "Pololu1451",
-        "VNH5019"
+        "BP3595",
+        "network",
+        "ROHM",
+        "WLAN",
+        "api",
+        "Digi",
+        "xbee",
+        "zigbee"
     ],
     "name": "gps_sample",
     "platforms": "*",

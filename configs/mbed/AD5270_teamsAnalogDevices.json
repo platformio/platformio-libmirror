@@ -4,13 +4,16 @@
         "url": "https://os.mbed.com/teams/AnalogDevices/"
     },
     "description": "Driver for the AD5270 digipot",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/AnalogDevices/code/ad5270-helloworld/",
+        "https://os.mbed.com/teams/AnalogDevices/code/CN0357/",
+        "https://os.mbed.com/teams/AnalogDevices/code/CN0396/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "AD5270",
         "Digipot",
-        "AD7790",
-        "adc"
+        "2645"
     ],
     "name": "AD5270",
     "platforms": "*",

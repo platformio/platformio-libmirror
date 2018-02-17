@@ -4,9 +4,11 @@
         "url": "https://os.mbed.com/users/defmacro/"
     },
     "description": "Minimal JSON parser",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/Avnet/code/WNCInterface_M2XMQTTdemo/"
+    ],
     "frameworks": "mbed",
-    "keywords": "MCP4726",
+    "keywords": "WS2812",
     "name": "minimal-json",
     "platforms": "*",
     "repository": {

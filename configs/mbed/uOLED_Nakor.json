@@ -4,7 +4,12 @@
         "url": "https://os.mbed.com/users/Nakor/"
     },
     "description": "Heavily documented control library for the uOLED-96-G1 (SGC) by 4D Systems. Will likely work with any of the 4D Systems serial controlled screens.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Renato/code/DS18B20/",
+        "https://os.mbed.com/users/Renato/code/DS18B20GSM/",
+        "https://os.mbed.com/users/Renato/code/Astromed/",
+        "https://os.mbed.com/users/Renato/code/Astromed_build20121123/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "4D",
@@ -14,8 +19,8 @@
         "micro",
         "OLED",
         "uOLED",
-        "6610",
-        "Nokia"
+        "motor",
+        "stepping"
     ],
     "name": "uOLED",
     "platforms": "*",

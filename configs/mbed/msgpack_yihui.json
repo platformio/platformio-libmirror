@@ -4,16 +4,15 @@
         "url": "https://os.mbed.com/users/yihui/"
     },
     "description": "MessagePack C implementation for mbed, modified from https://github.com/msgpack/msgpack-c",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/yihui/code/msgpack_example/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "F401RE",
-        "mma7361",
-        "Nucleo",
+        "GUI",
         "JSON",
         "MessagePack",
-        "GPS",
-        "WS2812"
+        "GPS"
     ],
     "name": "msgpack",
     "platforms": "*",

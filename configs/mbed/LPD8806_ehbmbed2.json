@@ -4,19 +4,25 @@
         "url": "https://os.mbed.com/users/ehbmbed2/"
     },
     "description": "Library for LPD8806 (and probably LPD8803/LPD8809) PWM LED driver chips, strips and pixels.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/ehbmbed2/code/LPD8806_Test/",
+        "https://os.mbed.com/users/Jasper/code/net-o-meter/",
+        "https://os.mbed.com/users/kcon/code/PennGradCap/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "cmsis",
-        "rtos",
-        "RTX",
+        "W5200",
+        "WIZ820IO",
         "led",
         "LPD8803",
         "LPD8806",
         "LPD8809",
         "SPI",
         "OAuth",
-        "twitter"
+        "twitter",
+        "arbitrary precision",
+        "bigint",
+        "bignum"
     ],
     "name": "LPD8806",
     "platforms": "*",

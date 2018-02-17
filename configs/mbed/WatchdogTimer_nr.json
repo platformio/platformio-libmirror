@@ -7,14 +7,7 @@
     "frameworks": "mbed",
     "keywords": [
         "timer",
-        "watchdog",
-        "12BIT",
-        "adc",
-        "I2C",
-        "Nucleo",
-        "debounce",
-        "DigitalIn",
-        "InterruptIn"
+        "watchdog"
     ],
     "name": "WatchdogTimer",
     "platforms": "*",

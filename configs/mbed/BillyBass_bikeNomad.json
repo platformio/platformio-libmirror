@@ -4,12 +4,16 @@
         "url": "https://os.mbed.com/users/bikeNomad/"
     },
     "description": "Big Mouth Billy Bass automation library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/bikeNomad/code/BillyBass_with_SD/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "audio",
         "billy bass",
-        "FRDM-KL25Z"
+        "FRDM-KL25Z",
+        "K64F",
+        "TCA9548A"
     ],
     "name": "BillyBass",
     "platforms": "*",

@@ -4,20 +4,22 @@
         "url": "https://os.mbed.com/users/akashvibhute/"
     },
     "description": "Library for easy interface of LidarLite with mbed using I2C",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/akashvibhute/code/LidarLite_mbed/",
+        "https://os.mbed.com/teams/Impact-Echo/code/Lidar_Magnet/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "FTP",
-        "ftpclient",
-        "adc",
-        "dac",
-        "interrupt",
-        "Nucleo F446",
-        "polling",
-        "STM32F446",
-        "MQTT",
+        "6dof",
+        "9DOF",
+        "motion",
+        "MPU6050",
+        "MPU9250",
         "LIDAR Lite",
-        "LidarLite"
+        "LidarLite",
+        "broadcast",
+        "multicast",
+        "UDP"
     ],
     "name": "LidarLite",
     "platforms": "*",

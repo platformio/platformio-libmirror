@@ -4,9 +4,20 @@
         "url": "https://os.mbed.com/users/HEPTA/"
     },
     "description": "HeptaCamera&GPS Library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/HEPTA/code/All_transmit/",
+        "https://os.mbed.com/users/HEPTA/code/Detect_GPS_Rawdata/",
+        "https://os.mbed.com/users/HEPTA/code/Detect_GPGGA/",
+        "https://os.mbed.com/users/HEPTA/code/Uplink_Downlink_Xbee_2/",
+        "https://os.mbed.com/users/HEPTA/code/Thermal_chamber/",
+        "https://os.mbed.com/users/VicZl/code/Final_Magnetism_measurement_GPS_data_sav/",
+        "https://os.mbed.com/users/HEPTA/code/Camera_snapshot/",
+        "https://os.mbed.com/users/HEPTA/code/template/",
+        "https://os.mbed.com/users/HEPTA/code/Camera_Transmitting-program_sample/",
+        "https://os.mbed.com/users/stoilivanov/code/LaserCommProtocol_01/"
+    ],
     "frameworks": "mbed",
-    "keywords": "checksum",
+    "keywords": "HeptaCamera_GPS",
     "name": "HeptaCamera_GPS",
     "platforms": "*",
     "repository": {

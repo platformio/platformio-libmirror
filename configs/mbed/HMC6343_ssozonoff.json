@@ -6,15 +6,8 @@
     "description": "HMC6343",
     "frameworks": "mbed",
     "keywords": [
-        "Dimmer",
-        "DMX",
-        "DMX512",
-        "lighting",
-        "STM",
-        "stm32",
-        "compass",
-        "DISCO_L476VG",
-        "LSM303"
+        "timer",
+        "watchdog"
     ],
     "name": "HMC6343",
     "platforms": "*",

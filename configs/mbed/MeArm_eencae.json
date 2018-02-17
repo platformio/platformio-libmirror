@@ -4,11 +4,18 @@
         "url": "https://os.mbed.com/users/eencae/"
     },
     "description": "Library for controlling #MeArm from phenoptix (http://www.phenoptix.com/collections/mearm).",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Ricky_Kwon/code/wizArm_WIZwiki-W7500ECO/",
+        "https://os.mbed.com/users/group-WIZ_Proto_Makers/code/wizArm_WIZwiki-W7500ECO/",
+        "https://os.mbed.com/users/eencae/code/MeArm_Lab2_Task1/",
+        "https://os.mbed.com/users/eencae/code/MeArm_Lab3_Task1/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "ds1307",
-        "DS3231m",
+        "LCD",
+        "ST7565",
+        "TextLCD",
+        "evrythng",
         "inverse kinematics",
         "mearm",
         "robotic arm",

@@ -4,20 +4,19 @@
         "url": "https://os.mbed.com/users/sam_grove/"
     },
     "description": "Helpful logging and error format",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/jekain314/code/Waldo_Embed_V2/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "FRDM",
+        "KL25z",
+        "LCD",
+        "LCD4884",
+        "DISCO_F469NI",
         "debug",
         "log",
-        "logger",
-        "Linked",
-        "Linked List",
-        "List",
-        "test",
-        "DISCO_F469NI",
-        "LMiC",
-        "Lora",
-        "LoRaWAN"
+        "logger"
     ],
     "name": "LogUtil",
     "platforms": "*",

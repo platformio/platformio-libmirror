@@ -4,12 +4,14 @@
         "url": "https://os.mbed.com/users/grantphillips/"
     },
     "description": "Class library for a LIS3DSH MEMS digital output motion sensor (acceleromoter).",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/programmer5/code/stm32f407/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "CAN",
-        "can bus",
-        "CAN message"
+        "EaPaper",
+        "EM027BS013",
+        "log"
     ],
     "name": "LIS3DSH",
     "platforms": "*",

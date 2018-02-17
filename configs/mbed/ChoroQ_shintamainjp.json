@@ -4,9 +4,18 @@
         "url": "https://os.mbed.com/users/shintamainjp/"
     },
     "description": "ChoroQ",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/ChoroQ_TestProgram/",
+        "https://os.mbed.com/users/shintamainjp/code/Drive2ChoroQ/"
+    ],
     "frameworks": "mbed",
-    "keywords": "choroQ",
+    "keywords": [
+        "choroQ",
+        "3g",
+        "arduino",
+        "PHS",
+        "shield"
+    ],
     "name": "ChoroQ",
     "platforms": "*",
     "repository": {

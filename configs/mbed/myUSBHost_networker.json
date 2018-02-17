@@ -4,7 +4,12 @@
         "url": "https://os.mbed.com/users/networker/"
     },
     "description": "Almost identical to USBHostShell; reads all endpoint descriptors",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/networker/code/myBlueUSB/",
+        "https://os.mbed.com/users/kenbumono/code/mbed_TANK_Kinect/",
+        "https://os.mbed.com/users/OTL/code/myBlueUSB_ros/",
+        "https://os.mbed.com/users/nobukuma/code/myBlueUSB_localfix/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "Lora",
@@ -15,10 +20,7 @@
         "SX1276",
         "SX1276Lib",
         "SX1276MB1xAS",
-        "USBHOST",
-        "mbed",
-        "DipCortex",
-        "USB device"
+        "USBHOST"
     ],
     "name": "myUSBHost",
     "platforms": "*",

@@ -4,7 +4,10 @@
         "url": "https://os.mbed.com/users/el13cj/"
     },
     "description": "Library for interfacing with the NXP PCA9685 PWM controller over an I2C connection.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/el13cj/code/Hexapod_Library/",
+        "https://os.mbed.com/users/Gorgolet/code/main_robot_gant_v22/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "Adafruit",

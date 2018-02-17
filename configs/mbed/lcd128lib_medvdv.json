@@ -4,22 +4,17 @@
         "url": "https://os.mbed.com/users/medvdv/"
     },
     "description": "Lightweight proportional text library for C12832 LCD. Easy to modify, fast, robust and compact. Nice font, good for text driven menus, messages, etc. Fell free to use and modify in any projects.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/medvdv/code/app-board-lcd128/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "http",
-        "https",
-        "SSL",
-        "TLS",
-        "development",
-        "SDK",
-        "sources",
         "application board",
         "C12832",
         "LCD",
-        "ethernet",
-        "ip",
-        "mbed"
+        "development",
+        "SDK",
+        "sources"
     ],
     "name": "lcd128lib",
     "platforms": "*",

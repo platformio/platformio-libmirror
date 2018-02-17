@@ -4,7 +4,18 @@
         "url": "https://os.mbed.com/teams/Seeed/"
     },
     "description": "RGB LED library for Grove - Chainable RGB LED using P9813",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/Seeed/code/Seeed_Grove_Chainable_RGB_LED_Example/",
+        "https://os.mbed.com/users/yihui/code/Temperature_Color/",
+        "https://os.mbed.com/teams/Seeed/code/SEEED_RGB_COLOR_LED_Example/",
+        "https://os.mbed.com/teams/Actility/code/LoRaWAN_actility/",
+        "https://os.mbed.com/users/yuanyi/code/iPole_Bourseul/",
+        "https://os.mbed.com/users/yuanyi/code/Infrared_sensor_test1/",
+        "https://os.mbed.com/teams/ATT-Hackathon/code/frdm_Grove_RGB_LED_Example/",
+        "https://os.mbed.com/users/cantbewong/code/SmartFan/",
+        "https://os.mbed.com/users/pzheng/code/LoRaWAN_MBED/",
+        "https://os.mbed.com/users/mararn/code/LoRaWANSharedTest/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "led",

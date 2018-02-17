@@ -4,18 +4,14 @@
         "url": "https://os.mbed.com/users/Ellor1/"
     },
     "description": "Library to Capture the +ve and -ve Pulsewidth of a signal",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Ellor1/code/PulseWidthCapture_Program/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "frequency",
         "measurement",
-        "Pulsewidth",
-        "circular buffer",
-        "FIFO",
-        "Queue",
-        "ring buffer",
-        "stack",
-        "Template"
+        "Pulsewidth"
     ],
     "name": "PulseWidthCapture",
     "platforms": "*",

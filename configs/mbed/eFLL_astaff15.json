@@ -6,11 +6,15 @@
     "description": "Fuzzy libray for embedded targets developed by zerokol.",
     "frameworks": "mbed",
     "keywords": [
-        "xbee",
+        "adc",
+        "DIFF",
+        "K64F",
+        "H-bridge",
+        "motor",
+        "TB6612FNG",
         "eFLL",
         "fuzzy",
-        "logic",
-        "Graphics"
+        "logic"
     ],
     "name": "eFLL",
     "platforms": "*",

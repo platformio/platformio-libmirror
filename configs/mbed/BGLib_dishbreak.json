@@ -11,16 +11,7 @@
         "ble112",
         "bluegiga",
         "bluetooth-low-energy",
-        "UART",
-        "card",
-        "fatfilesystem",
-        "MMC",
-        "SD",
-        "SDHC",
-        "SDXC",
-        "3DOF",
-        "inverse kinematics",
-        "Robotics"
+        "UART"
     ],
     "name": "BGLib",
     "platforms": "*",

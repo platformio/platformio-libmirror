@@ -4,9 +4,15 @@
         "url": "https://os.mbed.com/teams/Embedded-Artists/"
     },
     "description": "Support for the emWin GUI library from Segger.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/Embedded-Artists/code/lpc4088_displaymodule_emwin/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "hotboards",
+        "keyboard",
+        "ShiftRegister",
+        "TextLCD",
         "Display Module",
         "emwin",
         "LPC4088DM",
@@ -14,8 +20,12 @@
         "MCP3204",
         "MCP3208",
         "SPI",
-        "ShiftRegister",
-        "TextLCD"
+        "Kinematics",
+        "lauther",
+        "math",
+        "matrix",
+        "robot",
+        "Robotics"
     ],
     "name": "DMemWin",
     "platforms": "*",

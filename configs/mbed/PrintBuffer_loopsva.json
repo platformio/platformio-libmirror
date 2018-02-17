@@ -4,20 +4,18 @@
         "url": "https://os.mbed.com/users/loopsva/"
     },
     "description": "Tool to dump contents of a data buffer in traditional terminal format. Some VT100 color commands used.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/loopsva/code/KL25Z_MLX90620/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "dac",
-        "MCP4822",
+        "I2C",
+        "I2CRTOS",
+        "non-blocking",
+        "rtos",
         "Ascii",
         "hex",
-        "tools",
-        "example",
-        "kitt",
-        "knightrider",
-        "led",
-        "LPC1768",
-        "mbed"
+        "tools"
     ],
     "name": "PrintBuffer",
     "platforms": "*",

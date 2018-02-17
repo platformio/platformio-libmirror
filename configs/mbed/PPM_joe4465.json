@@ -4,15 +4,13 @@
         "url": "https://os.mbed.com/users/joe4465/"
     },
     "description": "First version of my PPM library.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/joe4465/code/PPM_Test/",
+        "https://os.mbed.com/users/joe4465/code/QuadCopter/",
+        "https://os.mbed.com/users/joe4465/code/Quadcopter_mk2/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "LM75B",
-        "MSS",
-        "MSU",
-        "sensor",
-        "Temperature",
         "copter",
         "PPM",
         "quad"

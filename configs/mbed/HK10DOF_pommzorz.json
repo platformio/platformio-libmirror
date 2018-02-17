@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/pommzorz/"
     },
     "description": "mbed implementation of the FreeIMU IMU for HobbyKing's 10DOF board",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/pommzorz/code/testHK10DOF/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "10DOF",

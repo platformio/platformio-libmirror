@@ -4,12 +4,20 @@
         "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/"
     },
     "description": "A class for driving a stepper motor via driver with indexer.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/StepperTest/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "ar1020",
+        "Microchip",
+        "screen",
+        "touch",
         "driver",
         "motor",
-        "Stepper"
+        "Stepper",
+        "javascript",
+        "scripting"
     ],
     "name": "StepperDriver",
     "platforms": "*",

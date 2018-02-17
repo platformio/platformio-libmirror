@@ -6,9 +6,21 @@
     "description": "LCDモジュール AQM0802 を制御するクラス",
     "frameworks": "mbed",
     "keywords": [
+        "LIN",
+        "master",
+        "Melexis",
+        "MLX",
+        "USB",
         "aqm0802",
         "I2C",
-        "LCD"
+        "LCD",
+        "actuators",
+        "control",
+        "industrial",
+        "Linear",
+        "Modbus",
+        "Over",
+        "wifiモジュール"
     ],
     "name": "LcdAqm0802",
     "platforms": "*",

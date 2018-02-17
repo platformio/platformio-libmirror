@@ -6,10 +6,12 @@
     "description": "Alarm library for use with mbed.",
     "frameworks": "mbed",
     "keywords": [
-        "bma180",
-        "polling",
-        "scheduling",
-        "timing"
+        "CANopen",
+        "arduino",
+        "millis",
+        "Modbus",
+        "MODSERIAL",
+        "rtu"
     ],
     "name": "AlarmTimeDate",
     "platforms": "*",

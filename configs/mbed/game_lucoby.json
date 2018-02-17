@@ -4,9 +4,18 @@
         "url": "https://os.mbed.com/users/lucoby/"
     },
     "description": "api for dealing with game logic for snake",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/lucoby/code/snake/"
+    ],
     "frameworks": "mbed",
-    "keywords": "game",
+    "keywords": [
+        "I2C",
+        "LCD",
+        "PCF2119",
+        "PCF2119x",
+        "SCG002B",
+        "TextLCD"
+    ],
     "name": "game",
     "platforms": "*",
     "repository": {

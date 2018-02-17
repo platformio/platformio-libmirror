@@ -4,20 +4,12 @@
         "url": "https://os.mbed.com/users/AkinoriHashimoto/"
     },
     "description": "Timer peripheral class.",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "myTimer",
-        "23K256",
-        "23LC1024",
-        "DMA",
-        "FIFO",
-        "RAM",
-        "ring buffer",
-        "SPI",
-        "sram",
-        "dac"
+    "examples": [
+        "https://os.mbed.com/users/AkinoriHashimoto/code/DetectFreqAboveTH/",
+        "https://os.mbed.com/users/AkinoriHashimoto/code/RN41/"
     ],
+    "frameworks": "mbed",
+    "keywords": "myTimer",
     "name": "myTimer",
     "platforms": "*",
     "repository": {

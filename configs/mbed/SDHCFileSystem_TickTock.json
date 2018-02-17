@@ -4,11 +4,19 @@
         "url": "https://os.mbed.com/users/TickTock/"
     },
     "description": ".",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/TickTock/code/CANcan/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "SSL",
-        "TLS"
+        "Adafruit",
+        "GFX",
+        "LCD",
+        "TFT",
+        "driver",
+        "Haptics",
+        "motor",
+        "vibration"
     ],
     "name": "SDHCFileSystem",
     "platforms": "*",

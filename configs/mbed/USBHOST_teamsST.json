@@ -4,23 +4,23 @@
         "url": "https://os.mbed.com/teams/ST/"
     },
     "description": "USBHOST lib for STM",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/Nucleo_usbhost/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "MAPLE",
+        "mini",
         "counter",
         "led",
         "LPC1768",
         "mbed",
-        "fonts",
-        "TFT",
-        "MAPLE",
-        "mini",
+        "Accessory",
+        "ADK",
+        "android",
         "DISCO_F469NI",
         "LCD",
-        "Touch Screen",
-        "hydro",
-        "ROS",
-        "ros_serial"
+        "Touch Screen"
     ],
     "name": "USBHOST",
     "platforms": "*",

@@ -4,14 +4,14 @@
         "url": "https://os.mbed.com/teams/MaximIntegrated/"
     },
     "description": "Maxim Integrated Bluetooth LE Library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/MaximIntegrated/code/BLE_Thermometer/",
+        "https://os.mbed.com/teams/MaximIntegrated/code/MAXWSNENV_demo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "9bit",
-        "RS-485",
-        "Serial",
-        "bmp085",
-        "I2C"
+        "scp1000",
+        "SoftSPI"
     ],
     "name": "MaximBLE",
     "platforms": "*",

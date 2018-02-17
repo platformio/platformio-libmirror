@@ -6,11 +6,13 @@
     "description": "Text console library for ST7032 text LCD controller over I2C interface.",
     "frameworks": "mbed",
     "keywords": [
-        "MQTT",
-        "1.0.3",
         "LCD",
         "ST7032",
-        "TextLCD"
+        "TextLCD",
+        "Thermocouple",
+        "RX8025",
+        "MQTT",
+        "1.0.3"
     ],
     "name": "TextLCD_ST7032I2C",
     "platforms": "*",

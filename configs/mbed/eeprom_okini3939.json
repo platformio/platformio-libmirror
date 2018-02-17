@@ -4,19 +4,17 @@
         "url": "https://os.mbed.com/users/okini3939/"
     },
     "description": "LPC11U24 internal EEPROM",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/yusuke_robocup/code/ver1_2_2_1/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "AQM1602",
-        "I2C",
-        "Nucleo",
-        "UIT",
         "EEPROM",
         "LPC11U24",
-        "DMA",
-        "KL25z",
-        "accelerometer",
-        "DHT22"
+        "SDFileSystem",
+        "STM32F746",
+        "DHT22",
+        "accelerometer"
     ],
     "name": "eeprom",
     "platforms": "*",

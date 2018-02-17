@@ -4,9 +4,20 @@
         "url": "https://os.mbed.com/users/andcor02/"
     },
     "description": "working with mbed os 5.5",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/Cloud-Hackathon/code/Mbed-Connect-Cloud-Demo/",
+        "https://os.mbed.com/users/lwc24/code/Mbed-Connect-Cloud-Demo/",
+        "https://os.mbed.com/users/jg811/code/mbed-cloud-connect-sensor-laser-distance/",
+        "https://os.mbed.com/users/dskott/code/mbed-cloud-connect-sensor-laser-distance/",
+        "https://os.mbed.com/users/lwc24/code/HTTP-all-sensors/",
+        "https://os.mbed.com/users/andcor02/code/mbed-cloud-connect-sensor-light/",
+        "https://os.mbed.com/users/andcor02/code/mbed-cloud-connect-sensor-temp-hum/",
+        "https://os.mbed.com/users/andcor02/code/mbed-cloud-connect-sensor-air-quality/",
+        "https://os.mbed.com/users/andcor02/code/mbed-cloud-connect-sensor-accelerometer/",
+        "https://os.mbed.com/users/andcor02/code/mbed-cloud-connect-sensor-laser-distance/"
+    ],
     "frameworks": "mbed",
-    "keywords": "checksum",
+    "keywords": "Sht31",
     "name": "Sht31",
     "platforms": "*",
     "repository": {

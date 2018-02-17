@@ -4,17 +4,11 @@
         "url": "https://os.mbed.com/users/yamaguch/"
     },
     "description": "Station API",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "station",
-        "3310",
-        "3390",
-        "LCD",
-        "Nokia",
-        "pcd8544",
-        "TextLCD"
+    "examples": [
+        "https://os.mbed.com/users/yamaguch/code/GMCStation/"
     ],
+    "frameworks": "mbed",
+    "keywords": "station",
     "name": "Station",
     "platforms": "*",
     "repository": {

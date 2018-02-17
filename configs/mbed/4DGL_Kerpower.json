@@ -4,14 +4,14 @@
         "url": "https://os.mbed.com/users/Kerpower/"
     },
     "description": "This is a library for 4DGL screens from 4D Systems in Autralia (http://www.4dsystems.com.au). Most graphic, touch and text functions are supported",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/copperd/code/Conways_Game_Life/",
+        "https://os.mbed.com/users/4180_1/code/uVGAII_demo/",
+        "https://os.mbed.com/users/kagelump/code/4DGLtest_CalSol/",
+        "https://os.mbed.com/users/fengspot/code/uVGA_4180/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "ROS",
-        "Humidity",
-        "sensor",
-        "Temperature",
-        "helloworld",
         "4DGL",
         "channel",
         "MIDI",
@@ -19,7 +19,12 @@
         "pitch",
         "Serial",
         "UART",
-        "velocity"
+        "velocity",
+        "OLED",
+        "TextLCD",
+        "WEH000802",
+        "WEH001602",
+        "Winstar"
     ],
     "name": "4DGL",
     "platforms": "*",

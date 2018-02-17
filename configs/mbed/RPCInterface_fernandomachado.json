@@ -5,16 +5,7 @@
     },
     "description": "Learning how to use RPC.",
     "frameworks": "mbed",
-    "keywords": [
-        "daisy-chain",
-        "L6470",
-        "SPI",
-        "Stepper",
-        "command",
-        "prompt",
-        "shell",
-        "tinyshell"
-    ],
+    "keywords": "RPCInterface",
     "name": "RPCInterface",
     "platforms": "*",
     "repository": {

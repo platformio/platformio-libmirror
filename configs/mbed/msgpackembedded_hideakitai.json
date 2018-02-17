@@ -4,12 +4,17 @@
         "url": "https://os.mbed.com/users/hideakitai/"
     },
     "description": "messagepack implementation for embedded systems (mbed / arduino)",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/MACRUM/code/hello_message_pack/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "msgpack",
-        "GP2Y0A21YK",
-        "Sharp"
+        "ADT7410",
+        "Analog Devices",
+        "I2C",
+        "sensor",
+        "Temperature"
     ],
     "name": "msgpack-embedded",
     "platforms": "*",

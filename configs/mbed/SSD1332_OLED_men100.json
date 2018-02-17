@@ -4,17 +4,24 @@
         "url": "https://os.mbed.com/users/men100/"
     },
     "description": "SSD1332_OLED: an OLED control libraly.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/men100/code/ssd1332_oled_hello/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "HMC5843",
+        "sparkfun",
+        "dot",
+        "HT1632",
+        "led",
+        "matrix",
+        "sure",
         "OLED",
         "SPI",
         "SSD1332",
-        "accelerometer",
-        "eCompass",
-        "fast",
-        "FRDM-KL46Z",
-        "magnetometer"
+        "KL25z",
+        "light sensor",
+        "Wi-Go"
     ],
     "name": "SSD1332_OLED",
     "platforms": "*",

@@ -4,15 +4,19 @@
         "url": "https://os.mbed.com/users/huliyang/"
     },
     "description": "Use the hardware PwmOut to pulsate an LED (or something else), with selectable active high/low, customisable intensity function, gamma correction, and number of brightness levels.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/huliyang/code/RedButton/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "library",
-        "rgb",
-        "sensor",
-        "TCS34725",
         "led",
-        "pwm"
+        "pwm",
+        "2wd",
+        "car",
+        "daisen",
+        "edes",
+        "I2C",
+        "robot"
     ],
     "name": "Pulsator",
     "platforms": "*",

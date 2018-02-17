@@ -6,16 +6,14 @@
     "description": "Modified TextLCD library to support DOG series displays with ST7036 controller.",
     "frameworks": "mbed",
     "keywords": [
+        "accelerometer",
+        "ADXL362",
         "display",
         "DOG",
         "LCD",
         "ST7036",
         "TextLCD",
-        "AT",
-        "C027",
-        "C030",
-        "CellularInterface",
-        "u-blox"
+        "Gatech"
     ],
     "name": "TextLCD_ST7036",
     "platforms": "*",

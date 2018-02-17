@@ -4,7 +4,14 @@
         "url": "https://os.mbed.com/teams/ublox/"
     },
     "description": "Implementation of the CellularInterface for u-blox C030 boards with N2xx modems. Note: requires the N211 module firmware to be at least 06.57 A01.02.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/fahimalavi/code/example-ublox-cellular-interface/",
+        "https://os.mbed.com/teams/ublox/code/HelloMQTT/",
+        "https://os.mbed.com/teams/ublox/code/example-ublox-cellular-interface/",
+        "https://os.mbed.com/teams/ublox/code/example-ublox-mbed-client/",
+        "https://os.mbed.com/users/mudassar0121/code/example-ublox-cellular-interface/",
+        "https://os.mbed.com/users/mudassar0121/code/example-ublox-cellular-interface_r410M/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "AT",
@@ -13,7 +20,8 @@
         "N211",
         "N2xx",
         "u-blox",
-        "Nunchuk"
+        "HD44780",
+        "TextLCD"
     ],
     "name": "ublox-at-cellular-interface-n2xx",
     "platforms": "*",

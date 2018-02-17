@@ -6,11 +6,7 @@
     "description": "syslog device(client) library",
     "frameworks": "mbed",
     "keywords": [
-        "AT",
-        "C027",
-        "C030",
-        "CellularInterface",
-        "u-blox",
+        "MCP3425",
         "logger",
         "syslog",
         "syslogd"

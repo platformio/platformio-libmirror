@@ -4,7 +4,18 @@
         "url": "https://os.mbed.com/users/dreschpe/"
     },
     "description": "Fonts to use with the mbed Lab Board",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/dreschpe/code/Christmas-LCD/",
+        "https://os.mbed.com/users/Shadow/code/led_dimm/",
+        "https://os.mbed.com/users/mio/code/Ra-men-Timer/",
+        "https://os.mbed.com/users/4180_1/code/app-board-RTOS-Threads/",
+        "https://os.mbed.com/users/isteinwand93/code/Christmas-LCD2/",
+        "https://os.mbed.com/users/isteinwand93/code/Christmas-LCD/",
+        "https://os.mbed.com/users/avnisha/code/app-board-RTOS-Threads/",
+        "https://os.mbed.com/users/ned/code/limb2/",
+        "https://os.mbed.com/users/tonydbeck/code/gLCD/",
+        "https://os.mbed.com/users/bhakti08/code/IOT_HW_5_websockets/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "arduino",
@@ -16,16 +27,17 @@
         "LSM6DS3",
         "Nucleo",
         "X-NUCLEO-IKS01A1",
-        "STM32F103C8T6",
+        "4DGL-uLCD-SE",
         "application board",
         "LCD",
-        "4DGL-uLCD-SE",
+        "I2C",
+        "OLED",
+        "SSD1308",
         "camera",
         "color",
         "JPEG",
         "LinkSprite",
-        "LS-Y201",
-        "LPC4088"
+        "LS-Y201"
     ],
     "name": "LCD_fonts",
     "platforms": "*",

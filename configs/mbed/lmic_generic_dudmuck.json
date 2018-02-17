@@ -4,13 +4,14 @@
         "url": "https://os.mbed.com/users/dudmuck/"
     },
     "description": "LoRaWAN in C for generic mbed platform (unoptimized HAL)",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/dudmuck/code/lmic_transmit_generic/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "baro",
-        "MS5611_01BA03",
-        "SPI",
-        "variometer"
+        "LIN",
+        "SSL",
+        "TLS"
     ],
     "name": "lmic_generic",
     "platforms": "*",

@@ -6,12 +6,16 @@
     "description": "Code to interface with the MCP7940 Real time clock. Supports getting and setting the time in 24 hour format",
     "frameworks": "mbed",
     "keywords": [
-        "arp",
-        "icmp",
-        "ip",
-        "MIT License",
-        "networking",
-        "UDP"
+        "NZ32-SC151",
+        "1",
+        "2",
+        "digimesh",
+        "Series",
+        "Wi-Fi",
+        "xbee",
+        "zigbee",
+        "fs",
+        "USB"
     ],
     "name": "RTC_MCP7940M",
     "platforms": "*",

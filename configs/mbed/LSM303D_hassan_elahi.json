@@ -4,16 +4,14 @@
         "url": "https://os.mbed.com/users/hassan_elahi/"
     },
     "description": "reading from 6 sensors and packaging the data",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/hassan_elahi/code/LSM303D_SPI/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "LPC800",
-        "LPC800-MAX",
-        "PCA9672",
-        "bitmap",
-        "Graphics",
-        "LCD"
+        "AM2321",
+        "BNO055",
+        "sensor"
     ],
     "name": "LSM303D",
     "platforms": "*",

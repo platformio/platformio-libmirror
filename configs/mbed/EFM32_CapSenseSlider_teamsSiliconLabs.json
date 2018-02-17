@@ -4,10 +4,22 @@
         "url": "https://os.mbed.com/teams/SiliconLabs/"
     },
     "description": "Driver for the capacitive sense slider available on the EFM32 Giant, Wonder and Leopard starter kits.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/star297/code/EFM32-RDA5807M-RDS-Radio/",
+        "https://os.mbed.com/users/MaxScorda/code/EMF32-Segment-Touch-Demo/",
+        "https://os.mbed.com/teams/Droni-e-Droidi/code/EFM32_Bugs/",
+        "https://os.mbed.com/users/hamid_155/code/MFALHIMOHAMMED/",
+        "https://os.mbed.com/users/star297/code/EFM32_BUrtc-Demo/",
+        "https://os.mbed.com/teams/SiliconLabs/code/Segment-Touch-Demo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
+        "2645",
+        "accelerometer",
+        "fxos8700cq",
+        "I2C",
+        "magnetometer",
+        "nxp",
         "EFM32",
         "SiLabs",
         "Silicon Labs",

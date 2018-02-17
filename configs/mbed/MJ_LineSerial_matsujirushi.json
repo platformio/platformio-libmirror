@@ -6,14 +6,10 @@
     "description": "Interactive functions for UART.",
     "frameworks": "mbed",
     "keywords": [
-        "basic",
-        "flash",
-        "Flasher",
-        "fun",
-        "led",
-        "rgb",
-        "dac",
-        "MCP4822"
+        "FR-E700",
+        "inverter",
+        "mitsubishi",
+        "RS485"
     ],
     "name": "MJ_LineSerial",
     "platforms": "*",

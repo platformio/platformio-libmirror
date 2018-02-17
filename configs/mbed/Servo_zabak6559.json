@@ -4,16 +4,16 @@
         "url": "https://os.mbed.com/users/zabak6559/"
     },
     "description": "Servo",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/robertgarncarek/code/servooo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "DigitalIn",
-        "accelerometer",
-        "ADXL362",
         "Analog",
         "AnalogIn",
         "gyro",
-        "sensor"
+        "sensor",
+        "LCD"
     ],
     "name": "Servo",
     "platforms": "*",

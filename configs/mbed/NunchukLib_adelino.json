@@ -6,10 +6,18 @@
     "description": "Library to use the wii nunchuk distributed by Nintendo",
     "frameworks": "mbed",
     "keywords": [
-        "Armand",
-        "Coetzer",
+        "batron",
+        "cog",
+        "LCD",
+        "audio",
+        "CODEC",
         "I2C",
-        "Nunchuk"
+        "TLV320",
+        "Nunchuk",
+        "display",
+        "HT1632",
+        "led",
+        "matrix"
     ],
     "name": "NunchukLib",
     "platforms": "*",

@@ -8,11 +8,12 @@
     "keywords": [
         "Analog",
         "joystick",
-        "Carrier",
-        "driver",
-        "motor",
-        "Pololu1451",
-        "VNH5019"
+        "2.4GHz",
+        "a7105",
+        "FSK",
+        "GFSK",
+        "transceiver",
+        "txrx"
     ],
     "name": "Joystick",
     "platforms": "*",

@@ -5,15 +5,7 @@
     },
     "description": ".",
     "frameworks": "mbed",
-    "keywords": [
-        "controller",
-        "I2C",
-        "Wii",
-        "led",
-        "rgb",
-        "WS2812",
-        "WS2812B"
-    ],
+    "keywords": "nanostack-border-router",
     "name": "nanostack-border-router",
     "platforms": "*",
     "repository": {

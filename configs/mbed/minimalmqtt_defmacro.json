@@ -5,7 +5,16 @@
     },
     "description": "Minimal MQTT library",
     "frameworks": "mbed",
-    "keywords": "Temperature",
+    "keywords": [
+        "Temperature",
+        "led",
+        "LED controller",
+        "led driver",
+        "PCA9955A",
+        "PCA9956A",
+        "PCA995xA",
+        "ADXL345"
+    ],
     "name": "minimal-mqtt",
     "platforms": "*",
     "repository": {

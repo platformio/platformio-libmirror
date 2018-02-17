@@ -4,9 +4,11 @@
         "url": "https://os.mbed.com/users/FrankWeissenborn/"
     },
     "description": "WiiChuck",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/k4zuki/code/WiiNunchuckTest/"
+    ],
     "frameworks": "mbed",
-    "keywords": "IOT",
+    "keywords": "WiiChuck",
     "name": "WiiChuck",
     "platforms": "*",
     "repository": {

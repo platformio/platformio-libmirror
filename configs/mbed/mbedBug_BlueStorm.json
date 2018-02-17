@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/BlueStorm/"
     },
     "description": "A library of nifty debug utilities for mbed.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/BlueStorm/code/FlowerBed/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "assert",

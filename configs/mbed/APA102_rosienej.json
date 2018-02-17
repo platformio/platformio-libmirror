@@ -5,7 +5,16 @@
     },
     "description": "Routines to drive a chain of APA102 Leds.",
     "frameworks": "mbed",
-    "keywords": "APA102",
+    "keywords": [
+        "Serial",
+        "Terminal",
+        "VT100",
+        "VT200",
+        "VT52",
+        "F401RE",
+        "mma7361",
+        "Nucleo"
+    ],
     "name": "APA102",
     "platforms": "*",
     "repository": {

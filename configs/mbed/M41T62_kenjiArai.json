@@ -4,9 +4,15 @@
         "url": "https://os.mbed.com/users/kenjiArai/"
     },
     "description": "M41T62 is a serial real-time clock (RTC) made by STMicroelectronics.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/LPC1114_barometer_with_data_logging/",
+        "https://os.mbed.com/users/kenjiArai/code/LPC1114_data_logger/"
+    ],
     "frameworks": "mbed",
-    "keywords": "RTC",
+    "keywords": [
+        "RTC",
+        "MPL115A2"
+    ],
     "name": "M41T62",
     "platforms": "*",
     "repository": {

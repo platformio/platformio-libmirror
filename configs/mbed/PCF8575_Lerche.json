@@ -4,11 +4,12 @@
         "url": "https://os.mbed.com/users/Lerche/"
     },
     "description": "Changed the bitwise OR.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/kzampag/code/I2CTester/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F469NI",
-        "display",
+        "GPS",
         "PCF8575",
         "CAN",
         "FRDM-KL25Z",

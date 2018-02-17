@@ -4,16 +4,19 @@
         "url": "https://os.mbed.com/users/RichardE/"
     },
     "description": "Library for communicating with a Wii classic controller using the I2C bus.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/RichardE/code/WiiClassicControllerTest/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "controller",
         "I2C",
         "Wii",
-        "led",
-        "rgb",
-        "WS2812",
-        "WS2812B"
+        "Scheduler",
+        "2.4",
+        "LCD",
+        "MCUFRIEND",
+        "TFT"
     ],
     "name": "WiiClassicControllerLib",
     "platforms": "*",

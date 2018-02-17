@@ -4,11 +4,18 @@
         "url": "https://os.mbed.com/users/SomeRandomBloke/"
     },
     "description": "LLAP Library for Ciseco wireless products.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/SomeRandomBloke/code/Ciseco_LLAP_Test/",
+        "https://os.mbed.com/teams/shields/code/Ciseco_SRF_Shield/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Arduino mbed commands",
-        "HD44780 LCD text custom char 16X2",
+        "card",
+        "fatfilesystem",
+        "MMC",
+        "SD",
+        "SDHC",
+        "SDXC",
         "Ciseco",
         "SRF",
         "wireless",

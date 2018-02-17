@@ -4,23 +4,19 @@
         "url": "https://os.mbed.com/users/kenjiArai/"
     },
     "description": "Analog Devices / ADT7410 16-Bit Digital I2C Temperature Sensor",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/Frequency_Counter_w_GPS_1PPS/",
+        "https://os.mbed.com/users/kaz260/code/MQTToverCC3000/",
+        "https://os.mbed.com/users/kenjiArai/code/Frequency_Cntr_1PPS_F746ZG/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "brushDC",
-        "low power",
-        "motor",
-        "ST",
-        "STSPIN240",
+        "msgpack",
         "ADT7410",
         "Analog Devices",
         "I2C",
         "sensor",
-        "Temperature",
-        "HMC5843",
-        "HMC5883L",
-        "HMC58X3",
-        "magnetometer"
+        "Temperature"
     ],
     "name": "ADT7410",
     "platforms": "*",

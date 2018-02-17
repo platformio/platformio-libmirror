@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/rinosh2/"
     },
     "description": "NextTrain format file library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/rinosh2/code/TrainInfoSample/"
+    ],
     "frameworks": "mbed",
     "keywords": "NextTrainFileLib",
     "name": "NextTrainFileLib",

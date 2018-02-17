@@ -4,20 +4,29 @@
         "url": "https://os.mbed.com/users/wertyfrog/"
     },
     "description": "Library for controlling LED strips or arrays based on the WS2801",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/AlanRager/code/ws2801_controller/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "BLE",
-        "MIDI",
         "Addressable",
         "led",
         "rgb",
         "sparkfun",
         "strip",
         "ws2801",
+        "IR",
+        "Receiver",
+        "Beep",
+        "sound",
+        "tone",
         "motor",
         "Stepper",
-        "unipolar"
+        "unipolar",
+        "device",
+        "Nucleo",
+        "USB",
+        "joystick"
     ],
     "name": "ws2801",
     "platforms": "*",

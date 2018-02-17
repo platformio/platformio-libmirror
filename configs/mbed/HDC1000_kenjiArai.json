@@ -4,9 +4,14 @@
         "url": "https://os.mbed.com/users/kenjiArai/"
     },
     "description": "Digital Humidity Sensor with Temperature Sensor by TI. Default address sets Akizuki kit module.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/AmbientData/code/AmbientExampleLPC1768/",
+        "https://os.mbed.com/users/kyun_kun/code/HumidifierController_LPC824/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "Serial",
+        "acctuators",
         "Akizuki",
         "Humidity",
         "I2C",
@@ -14,7 +19,6 @@
         "sensor",
         "Temperature",
         "TI",
-        "acctuators",
         "EthernetInterface",
         "gainspan",
         "GS1011",

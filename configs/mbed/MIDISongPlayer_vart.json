@@ -4,15 +4,21 @@
         "url": "https://os.mbed.com/users/vart/"
     },
     "description": "MIDI sequence player on speaker/buzzer using PWM",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/vart/code/MidiPlayerExample/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "HMC5883L",
+        "color",
+        "led",
+        "rgb",
         "MIDI",
         "pwm",
-        "LCD",
-        "Serial",
-        "sparkfun"
+        "network",
+        "TCPSocket",
+        "twitpic",
+        "twitter",
+        "ROS"
     ],
     "name": "MIDISongPlayer",
     "platforms": "*",

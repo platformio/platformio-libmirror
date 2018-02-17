@@ -4,16 +4,15 @@
         "url": "https://os.mbed.com/users/ashleymills/"
     },
     "description": "This is the Adafruit thermal printer, whose Arduino library is published here: http://www.ladyada.net/products/thermalprinter/. This is a basic port to mbed that needs proper testing. The printBitmap function is not ported yet.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/ashleymills/code/3GReceiptPrinter/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "adns9500",
-        "avago",
-        "laser",
-        "motion",
-        "Mouse",
-        "navigation",
-        "sensor",
+        "control",
+        "led",
+        "LPC1768",
+        "mbed",
         "adafruit printer",
         "thermal printer"
     ],

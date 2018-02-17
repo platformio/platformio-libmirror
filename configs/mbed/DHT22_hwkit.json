@@ -6,19 +6,13 @@
     "description": "=DHT22 Temperature and Humidity Sensor=",
     "frameworks": "mbed",
     "keywords": [
-        "ROS",
+        "helloworld",
         "Humidity",
         "sensor",
         "Temperature",
-        "helloworld",
-        "4DGL",
-        "channel",
-        "MIDI",
-        "Note",
-        "pitch",
-        "Serial",
-        "UART",
-        "velocity"
+        "adc",
+        "ads1015",
+        "ads1115"
     ],
     "name": "DHT22",
     "platforms": "*",

@@ -4,18 +4,14 @@
         "url": "https://os.mbed.com/users/Sissors/"
     },
     "description": "Background calibration for magnetometers, both gain and offset errors are removed (hard/soft iron).",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/Bremen-Team-B/code/SML2/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "Calibrate",
         "compass",
-        "Magneto",
-        "MAX14661",
-        "mux",
-        "AT45DBxx",
-        "USBMSD",
-        "4D Systems",
-        "LDC-43PCt"
+        "Magneto"
     ],
     "name": "CalibrateMagneto",
     "platforms": "*",

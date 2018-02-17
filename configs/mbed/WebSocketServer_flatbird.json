@@ -4,14 +4,17 @@
         "url": "https://os.mbed.com/users/flatbird/"
     },
     "description": "Simple WebSocket server library.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/flatbird/code/WebSocketServerTest/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "etti",
-        "TUIASI",
-        "Bulk",
-        "Traceport",
-        "USB"
+        "arduino",
+        "H-bridge",
+        "L298",
+        "Robotic",
+        "shield",
+        "I2C"
     ],
     "name": "WebSocketServer",
     "platforms": "*",

@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/perezalvarezhi/"
     },
     "description": "Winbond W25Q80BV SPI library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/joeata2wh/code/data_log/"
+    ],
     "frameworks": "mbed",
     "keywords": "W25Q80BV",
     "name": "W25Q80BV",

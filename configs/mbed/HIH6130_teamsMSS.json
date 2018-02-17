@@ -4,14 +4,18 @@
         "url": "https://os.mbed.com/teams/MSS/"
     },
     "description": "Honeywell HumidIcon Digital Humidty/Temperature Sensor.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/MSS/code/test_HIH6130/",
+        "https://os.mbed.com/teams/MSS/code/testSensor/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "hih6130",
         "Humidity",
         "I2C",
         "sensor",
-        "Temperature"
+        "Temperature",
+        "DS1338"
     ],
     "name": "HIH6130",
     "platforms": "*",

@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/hlipka/"
     },
     "description": "A simple class to do line-based TCP communication. To be used with the NetServicesMin library-.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/hlipka/code/pop3demo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "NET",
@@ -13,7 +15,10 @@
         "TCP",
         "Agent",
         "Net-SNMP",
-        "SNMP"
+        "SNMP",
+        "malloc",
+        "memory",
+        "AQM1602"
     ],
     "name": "TcpLineStream",
     "platforms": "*",

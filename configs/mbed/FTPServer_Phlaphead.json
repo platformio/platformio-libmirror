@@ -6,14 +6,14 @@
     "description": "Simple FTP Server built on top of the NetServices TCP/IP stack.",
     "frameworks": "mbed",
     "keywords": [
+        "WiFly",
+        "FTP",
+        "server",
         "arduino",
         "SDCard",
         "Seeedstudio",
         "TFT",
-        "touch",
-        "WiFly",
-        "FTP",
-        "server"
+        "touch"
     ],
     "name": "FTPServer",
     "platforms": "*",

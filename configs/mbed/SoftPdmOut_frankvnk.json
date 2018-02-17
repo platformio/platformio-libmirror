@@ -4,11 +4,27 @@
         "url": "https://os.mbed.com/users/frankvnk/"
     },
     "description": "PDM library (Pulse Density Modulation)",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/frankvnk/code/mbed-shiny/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "Adafruit",
+        "GFX",
+        "I2C",
+        "OLED",
+        "SPI",
+        "SSD1306",
+        "16x4",
+        "array",
+        "infrared",
+        "IR",
+        "Temperature",
         "PDM",
-        "Pulse Density Modulation"
+        "Pulse Density Modulation",
+        "Analog Devices",
+        "drivers",
+        "mbed"
     ],
     "name": "SoftPdmOut",
     "platforms": "*",

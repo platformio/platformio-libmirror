@@ -5,12 +5,7 @@
     },
     "description": "Very simple cooperative round-robin task scheduler. See examples.",
     "frameworks": "mbed",
-    "keywords": [
-        "Scheduler",
-        "average",
-        "math",
-        "Moving"
-    ],
+    "keywords": "Scheduler",
     "name": "SimpleScheduler",
     "platforms": "*",
     "repository": {

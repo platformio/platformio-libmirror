@@ -4,10 +4,11 @@
         "url": "https://os.mbed.com/users/p07gbar/"
     },
     "description": "A fairly well tested TLV320 library for I2C configuration and control of the TI TLV320 part",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/p07gbar/code/TLV320_Write_test/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "m3pi",
         "batron",
         "cog",
         "LCD",
@@ -15,6 +16,7 @@
         "CODEC",
         "I2C",
         "TLV320",
+        "Nunchuk",
         "display",
         "HT1632",
         "led",

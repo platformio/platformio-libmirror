@@ -4,21 +4,14 @@
         "url": "https://os.mbed.com/users/ohtsuka/"
     },
     "description": "You can use multiple clicks event with one button.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/ohtsuka/code/multiclick_test/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "BUTTON",
         "click",
-        "debounce",
-        "\\",
-        "manager\\",
-        "Scheduler",
-        "task",
-        "F411",
-        "Frequency Counter",
-        "display",
-        "menu",
-        "push buttons"
+        "debounce"
     ],
     "name": "MultiClick",
     "platforms": "*",

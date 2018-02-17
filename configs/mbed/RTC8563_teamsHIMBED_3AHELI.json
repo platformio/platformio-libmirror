@@ -4,24 +4,17 @@
         "url": "https://os.mbed.com/teams/HIMBED_3AHELI/"
     },
     "description": "RTC8563 libray for real time clock PCF8563",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "wallbot",
-        "AX-12",
-        "AX-12W",
-        "control",
-        "dynamixel",
-        "LPC1768",
-        "nxp",
-        "PAPACO",
-        "Robotics",
-        "Servo",
-        "Humidity",
-        "Sensirion",
-        "SHT7x",
-        "Temperature"
+    "examples": [
+        "https://os.mbed.com/users/chabo/code/rtc_class3/",
+        "https://os.mbed.com/users/Cartillius/code/rtc_class2/",
+        "https://os.mbed.com/users/Andi104/code/rtc_class/",
+        "https://os.mbed.com/users/perrytieku/code/rtc_class/",
+        "https://os.mbed.com/teams/HIMBED_3AHELI/code/rtc_class/",
+        "https://os.mbed.com/users/c0ld/code/rtc_classneu/",
+        "https://os.mbed.com/users/wolpra98/code/rtc_class2/"
     ],
+    "frameworks": "mbed",
+    "keywords": "mbed",
     "name": "RTC8563",
     "platforms": "*",
     "repository": {

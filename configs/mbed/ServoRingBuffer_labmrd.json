@@ -4,9 +4,14 @@
         "url": "https://os.mbed.com/users/labmrd/"
     },
     "description": "Custom ring buffer written from scratch to allow data collection at a rigid rate, while allowing writing that data to either serial or an SD card whenever time allows.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/labmrd/code/SpindleBot_1_5b/"
+    ],
     "frameworks": "mbed",
-    "keywords": "ServoRingBuffer",
+    "keywords": [
+        "touch keypad",
+        "TTP229"
+    ],
     "name": "ServoRingBuffer",
     "platforms": "*",
     "repository": {

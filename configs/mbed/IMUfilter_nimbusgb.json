@@ -5,7 +5,14 @@
     },
     "description": "IMUfilter",
     "frameworks": "mbed",
-    "keywords": "IMUfilter",
+    "keywords": [
+        "Low_Power",
+        "LPC1114",
+        "LPC1114FN28",
+        "PCA9629A",
+        "stepper motor",
+        "stepping motor"
+    ],
     "name": "IMUfilter",
     "platforms": "*",
     "repository": {

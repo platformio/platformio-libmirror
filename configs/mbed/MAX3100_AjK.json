@@ -4,9 +4,14 @@
         "url": "https://os.mbed.com/users/AjK/"
     },
     "description": "MAX3100, an external serial device to add additional serial ports via SPI",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/lhiggs/code/FLIGHT_CONTROL_AND_COMMUNICATIONS_SYSTEM/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "compass",
+        "DISCO_L476VG",
+        "LSM303",
         "MAX3100",
         "Serial"
     ],

@@ -4,13 +4,33 @@
         "url": "https://os.mbed.com/users/kenjiArai/"
     },
     "description": "DRV8830/Texas Instruments H-Bridge Voltage-Controlled Motor Driver library for Brushed DC Motor",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/NucleoF401_motor_test_simple/",
+        "https://os.mbed.com/users/kenjiArai/code/Frequency_Counter_w_GPS_1PPS/",
+        "https://os.mbed.com/users/kenjiArai/code/Frequency_Cntr_1PPS_F746ZG/",
+        "https://os.mbed.com/teams/Thinkbed/code/Nucleo_ACM1602_I2C_DC_Angle/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "LPC1768",
+        "sensor",
+        "Si7021",
         "DC",
         "driver",
         "H-bridge",
-        "motor"
+        "motor",
+        "F042K6",
+        "F103RB",
+        "L152RE",
+        "STM32F0",
+        "STM32F1",
+        "STM32L1",
+        "USBDevice",
+        "ARCH",
+        "GPRS",
+        "Seeed",
+        "v2",
+        "MCP23S17"
     ],
     "name": "DRV8830",
     "platforms": "*",

@@ -4,11 +4,23 @@
         "url": "https://os.mbed.com/teams/Multi-Hackers/"
     },
     "description": "A wrapper class for talking to Axeda from MBED devices.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/mfiore/code/axeda_wrapper_dev/",
+        "https://os.mbed.com/teams/Multi-Hackers/code/MTS_Axeda_Example/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "Axeda",
-        "flash"
+        "16",
+        "HT1621",
+        "LCD",
+        "segment",
+        "C027",
+        "C030",
+        "file",
+        "SMS",
+        "u-blox",
+        "ussd"
     ],
     "name": "AxedaWrapper",
     "platforms": "*",

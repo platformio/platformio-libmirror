@@ -7,13 +7,6 @@
     "frameworks": "mbed",
     "keywords": [
         "MPL115A2",
-        "I2C",
-        "interrupt",
-        "slave",
-        "5110",
-        "84x48",
-        "display",
-        "Nokia",
         "ADXL345",
         "AHRS",
         "ANGLE",
@@ -21,7 +14,11 @@
         "HMC5883",
         "IMU",
         "l3g4200d",
-        "sensor"
+        "sensor",
+        "5110",
+        "84x48",
+        "display",
+        "Nokia"
     ],
     "name": "IMU_10DOF",
     "platforms": "*",

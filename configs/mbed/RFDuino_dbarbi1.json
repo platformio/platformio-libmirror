@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/dbarbi1/"
     },
     "description": "mbed library to connect to rfduino",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/dbarbi1/code/RFDuino_example/"
+    ],
     "frameworks": "mbed",
     "keywords": "rfduino",
     "name": "RFDuino",

@@ -6,10 +6,9 @@
     "description": "PCM Player for Magnetone",
     "frameworks": "mbed",
     "keywords": [
-        "ADC converter",
-        "Linear",
-        "Linear Technology",
-        "LTC2460"
+        "cli",
+        "term",
+        "Terminal"
     ],
     "name": "MagneWave",
     "platforms": "*",

@@ -5,11 +5,7 @@
     },
     "description": "nrf905 trancsiever library",
     "frameworks": "mbed",
-    "keywords": [
-        "debounce",
-        "interrupt",
-        "masking"
-    ],
+    "keywords": "digitalOut",
     "name": "nrf_905",
     "platforms": "*",
     "repository": {

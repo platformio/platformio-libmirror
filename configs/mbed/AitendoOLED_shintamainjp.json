@@ -4,19 +4,15 @@
         "url": "https://os.mbed.com/users/shintamainjp/"
     },
     "description": "Aitendo OLED device driver library.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/AitendoOLED_TestProgram/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Analog",
-        "CN0391",
-        "devices",
-        "Thermocouple",
         "I2C",
         "IMU",
         "LEGO",
         "mindstorms",
-        "AT",
-        "parser",
         "AITENDO",
         "OLED"
     ],

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Matthew Phillipps",
+        "url": "https://os.mbed.com/users/phillippsm/"
+    },
+    "description": "Pololu QTR Sensor Library, based on the QTR Arduino Library",
+    "examples": [
+        "https://os.mbed.com/users/phillippsm/code/Nucleo_QTR/",
+        "https://os.mbed.com/users/I_failed_Cpp/code/ZumoReflectanceSensorArray/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Light Sensor Array",
+        "pololu",
+        "QTR"
+    ],
+    "name": "PololuQTRSensors",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/phillippsm/code/PololuQTRSensors/"
+    }
+}

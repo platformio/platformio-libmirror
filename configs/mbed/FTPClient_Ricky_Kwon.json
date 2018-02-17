@@ -4,20 +4,20 @@
         "url": "https://os.mbed.com/users/Ricky_Kwon/"
     },
     "description": "FTPClient",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Ricky_Kwon/code/FTPClient_example/",
+        "https://os.mbed.com/users/wiznetw7500/code/FTP_TESTClient/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "FTP",
         "ftpclient",
-        "adc",
-        "dac",
-        "interrupt",
-        "Nucleo F446",
-        "polling",
-        "STM32F446",
-        "MQTT",
-        "LIDAR Lite",
-        "LidarLite"
+        "MI0283QT-9A",
+        "Panel",
+        "resistive",
+        "touch",
+        "Touchscreen",
+        "ax12"
     ],
     "name": "FTPClient",
     "platforms": "*",

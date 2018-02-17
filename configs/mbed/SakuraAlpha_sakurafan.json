@@ -4,7 +4,10 @@
         "url": "https://os.mbed.com/users/sakurafan/"
     },
     "description": "SAKURA Internet IoT Alpha Communication Module Library for mbed",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/sakurafan/code/SakuraAlpha_SPI/",
+        "https://os.mbed.com/users/sakurafan/code/SakuraAlpha_I2C/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "arduino",

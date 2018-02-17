@@ -4,12 +4,13 @@
         "url": "https://os.mbed.com/users/ivygatech/"
     },
     "description": "Library for uVGAIII",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/ivygatech/code/uVGAIII_demo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "ALS",
-        "ambient light sensor",
-        "Lux"
+        "led",
+        "rgb"
     ],
     "name": "uVGAIII",
     "platforms": "*",

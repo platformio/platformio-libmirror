@@ -4,18 +4,25 @@
         "url": "https://os.mbed.com/users/hlipka/"
     },
     "description": "Display text on LCD displays (even on multiple ones). Allow to create windows (frames) on display, and to combine them (split, add, duplicate, scroll). See http://mbed.org/users/hlipka/notebook/lcdwindow/ for more information.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/tombracer/code/Mbell/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "window",
-        "I2C",
-        "Luminosity",
-        "Lux",
+        "CommandProcessor",
+        "Embedded",
+        "interactive",
+        "menu",
+        "ds1302",
+        "RTC",
+        "Ranging",
         "sensor",
-        "display",
-        "hotboards",
-        "SPI"
+        "SRF02",
+        "ultrasonic",
+        "bt",
+        "UART",
+        "LCD",
+        "window"
     ],
     "name": "LcdWindow",
     "platforms": "*",

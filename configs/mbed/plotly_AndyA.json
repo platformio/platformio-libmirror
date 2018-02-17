@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/AndyA/"
     },
     "description": "plotly interface based on ardunio sample code",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/AndyA/code/Plotly_HelloWorld/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "chart",

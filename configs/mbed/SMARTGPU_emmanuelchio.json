@@ -4,7 +4,18 @@
         "url": "https://os.mbed.com/users/emmanuelchio/"
     },
     "description": "SMARTGPU intelligent embedded graphics processor, this library helps to communicate mBed with SMARTGPU dev board 2.4\\\" touch, excellent serial board that only require TX,RX, and Reset pin to mbed.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/emmanuelchio/code/VariousSG/",
+        "https://os.mbed.com/users/emmanuelchio/code/BouncingBalls/",
+        "https://os.mbed.com/users/emmanuelchio/code/BounceBall/",
+        "https://os.mbed.com/users/emmanuelchio/code/House/",
+        "https://os.mbed.com/users/emmanuelchio/code/Ipod/",
+        "https://os.mbed.com/users/emmanuelchio/code/NiceClock/",
+        "https://os.mbed.com/users/emmanuelchio/code/Paint/",
+        "https://os.mbed.com/users/emmanuelchio/code/PaintPro/",
+        "https://os.mbed.com/users/emmanuelchio/code/PhotoFrame/",
+        "https://os.mbed.com/users/emmanuelchio/code/Pong/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "buffer",
@@ -17,12 +28,7 @@
         "smart",
         "SMARTGPU",
         "TFT",
-        "touch",
-        "bus",
-        "driver",
-        "Expander",
-        "led",
-        "PCA9635"
+        "touch"
     ],
     "name": "SMARTGPU",
     "platforms": "*",

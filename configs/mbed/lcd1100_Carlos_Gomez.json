@@ -6,11 +6,7 @@
     "description": "Librería LCD Nokia 1100,1108",
     "frameworks": "mbed",
     "keywords": [
-        "AT",
-        "C027",
-        "C030",
-        "CellularInterface",
-        "u-blox",
+        "MCP3425",
         "logger",
         "syslog",
         "syslogd"

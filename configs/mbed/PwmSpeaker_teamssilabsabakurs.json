@@ -4,16 +4,15 @@
         "url": "https://os.mbed.com/teams/silabs-abakurs/"
     },
     "description": "Drive a speaker using PWM",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/silabs-abakurs/code/PwmSpeaker-Example/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit",
-        "I2C",
-        "led",
-        "nxp",
-        "PCA9685",
-        "pwm",
-        "Servo"
+        "inAir",
+        "SX1276",
+        "SX1278",
+        "MyLab"
     ],
     "name": "PwmSpeaker",
     "platforms": "*",

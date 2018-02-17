@@ -6,14 +6,17 @@
     "description": "File library for Bitmap images (*.bmp, *.dib). Currently supports only Windows V3 format with 24-bit-per-pixel color depth.",
     "frameworks": "mbed",
     "keywords": [
-        "flash",
-        "SPI",
         "bitmap",
         "BMP",
         "image",
+        "maestro",
+        "Serial",
         "Servo",
-        "servo pulse",
-        "WSE"
+        "I2C",
+        "PCF8583",
+        "RTC",
+        "flash",
+        "SPI"
     ],
     "name": "BMPFile",
     "platforms": "*",

@@ -4,13 +4,25 @@
         "url": "https://os.mbed.com/users/hollegha2/"
     },
     "description": "Lib for Bulme Bertl",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/hollegha2/code/BertlPingPong/",
+        "https://os.mbed.com/users/hollegha2/code/BertlTemplate/",
+        "https://os.mbed.com/teams/5ABELI/code/LineSensTest/",
+        "https://os.mbed.com/teams/5ABELI/code/MotorTest2/",
+        "https://os.mbed.com/users/hollegha2/code/Dist2Wall_US_Angabe/",
+        "https://os.mbed.com/users/hollegha2/code/MotorTest/",
+        "https://os.mbed.com/teams/BULME_AHEL18/code/Linesensor/",
+        "https://os.mbed.com/teams/5ABELI/code/LineMaster/",
+        "https://os.mbed.com/teams/5ABELI/code/bertlwallandreturn/",
+        "https://os.mbed.com/users/hollegha2/code/BertlCard/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "EthernetInterface",
-        "network",
-        "TFTP",
-        "UDP",
+        "AT",
+        "C027",
+        "C030",
+        "CellularInterface",
+        "u-blox",
         "Bertl14"
     ],
     "name": "BertlLib",

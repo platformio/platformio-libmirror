@@ -5,13 +5,7 @@
     },
     "description": "H-bridge DCmotor controller",
     "frameworks": "mbed",
-    "keywords": [
-        "Cellular",
-        "APDS",
-        "APDS9960",
-        "Gesture",
-        "sensor"
-    ],
+    "keywords": "DCmotor",
     "name": "DCmotor",
     "platforms": "*",
     "repository": {

@@ -5,15 +5,7 @@
     },
     "description": "Library for reading a Nunchuk controller",
     "frameworks": "mbed",
-    "keywords": [
-        "AT",
-        "C030",
-        "CellularInterface",
-        "N211",
-        "N2xx",
-        "u-blox",
-        "Nunchuk"
-    ],
+    "keywords": "Nunchuk",
     "name": "Nunchuk",
     "platforms": "*",
     "repository": {

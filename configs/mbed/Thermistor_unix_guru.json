@@ -6,17 +6,11 @@
     "description": "Thermistor to Temperature library, using Steinhart-Hart algorithm",
     "frameworks": "mbed",
     "keywords": [
+        "Lora",
+        "mdot",
+        "multitech",
         "Temperature",
-        "thermistor",
-        "AT",
-        "C030",
-        "CellularInterface",
-        "N211",
-        "N2xx",
-        "u-blox",
-        "infrared",
-        "MLX90614",
-        "sensor"
+        "thermistor"
     ],
     "name": "Thermistor",
     "platforms": "*",

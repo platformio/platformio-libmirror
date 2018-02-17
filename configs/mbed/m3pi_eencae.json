@@ -4,9 +4,24 @@
         "url": "https://os.mbed.com/users/eencae/"
     },
     "description": "Library for Pololu m3pi line-following robot. Implements the serial slave commands.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/eencae/code/3pi_Example_2/",
+        "https://os.mbed.com/users/eencae/code/3pi_Lab1_Task2_Example1/",
+        "https://os.mbed.com/users/eencae/code/3pi_Lab2_Task1_Example1/",
+        "https://os.mbed.com/users/eencae/code/3pi_Lab1_Task1/",
+        "https://os.mbed.com/users/eencae/code/3pi_Lab1_Task2/",
+        "https://os.mbed.com/users/eencae/code/3pi_Lab2_Task1/",
+        "https://os.mbed.com/users/eencae/code/3pi_Lab3_Task1/",
+        "https://os.mbed.com/users/eencae/code/3pi_Lab1_Task3/"
+    ],
     "frameworks": "mbed",
-    "keywords": "m3pi",
+    "keywords": [
+        "driver",
+        "full-bridge",
+        "motor",
+        "TA8428",
+        "m3pi"
+    ],
     "name": "m3pi",
     "platforms": "*",
     "repository": {

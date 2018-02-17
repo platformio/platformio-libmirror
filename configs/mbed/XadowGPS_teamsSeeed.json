@@ -4,15 +4,12 @@
         "url": "https://os.mbed.com/teams/Seeed/"
     },
     "description": "new Xadow GPS module",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "Encoder",
-        "I2C",
-        "cmsis",
-        "rtos",
-        "RTX"
+    "examples": [
+        "https://os.mbed.com/teams/Seeed/code/xadow_smartstrap_for_pebble/",
+        "https://os.mbed.com/users/HackTampa/code/Avnet_ATT_Cellular_IOT/"
     ],
+    "frameworks": "mbed",
+    "keywords": "XadowGPS",
     "name": "XadowGPS",
     "platforms": "*",
     "repository": {

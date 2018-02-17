@@ -4,13 +4,13 @@
         "url": "https://os.mbed.com/users/tobyspark/"
     },
     "description": "RS232 control for TVOne products",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/tobyspark/code/SPK-DVIMXR/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "real-time clock",
-        "RTC",
-        "software",
-        "Ticker"
+        "Lora",
+        "rn2483"
     ],
     "name": "SPK-TVOne",
     "platforms": "*",

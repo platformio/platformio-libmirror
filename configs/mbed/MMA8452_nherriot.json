@@ -4,18 +4,25 @@
         "url": "https://os.mbed.com/users/nherriot/"
     },
     "description": "This is a simple device driver for the 3 axis accelerometer MMA8452 that works with mbed.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/nherriot/code/MMA8452_test/",
+        "https://os.mbed.com/teams/App-S5/code/S05APP3_routeur/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "EthernetInterface",
+        "gainspan",
+        "GS1011",
+        "GS1011M",
+        "Wi-Fi",
+        "wifi",
         "3-axis",
         "accelerometer",
         "axis",
         "I2C",
         "mbed",
         "MMA8452",
-        "Vodafone",
-        "buffer",
-        "interrupt"
+        "Vodafone"
     ],
     "name": "MMA8452",
     "platforms": "*",

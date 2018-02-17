@@ -4,7 +4,11 @@
         "url": "https://os.mbed.com/users/randrews33/"
     },
     "description": "Allows for reading accelerometer, gyroscope, and magnetometer data from an LSM9DS0 IMU device",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/fengspot/code/uVGA_4180/",
+        "https://os.mbed.com/users/fengspot/code/uLCD_4180_mini/",
+        "https://os.mbed.com/users/mburtt3/code/ECE4781_Project/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "1wire",

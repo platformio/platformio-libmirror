@@ -4,21 +4,15 @@
         "url": "https://os.mbed.com/users/mimil/"
     },
     "description": "aJson is the attempt to port a complete JSON implementation to Arduino. It is based on the cJSON implementation, reduced in size and removing one or two feature.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/joon874/code/WIZwikiREST20/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "JSON",
-        "audio",
-        "mp3",
-        "record",
-        "serial MP3",
-        "sound",
-        "vs1011",
-        "vs1011e",
-        "VS1053",
-        "wav",
-        "FRDM-KL25Z",
-        "SPI"
+        "capture",
+        "timer",
+        "timer2"
     ],
     "name": "aJSON",
     "platforms": "*",

@@ -4,14 +4,11 @@
         "url": "https://os.mbed.com/users/yasuyuki/"
     },
     "description": "Infrared Rays library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/yasuyuki/code/mbed_IR/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "dac",
-        "more pwm",
-        "pwm",
-        "pwm 48Mhz",
-        "pwmdac",
         "DMP",
         "IMU",
         "invensense",

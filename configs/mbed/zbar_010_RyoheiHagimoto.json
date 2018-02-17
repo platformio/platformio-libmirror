@@ -4,18 +4,16 @@
         "url": "https://os.mbed.com/users/RyoheiHagimoto/"
     },
     "description": "ZBar bar code reader . http://zbar.sourceforge.net/ ZBar is licensed under the GNU LGPL 2.1 to enable development of both open source and commercial projects.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/RyoheiHagimoto/code/GR-PEACH_Camera_in_barcode/",
+        "https://os.mbed.com/users/levkovigor/code/levkov_ov7670/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "game",
-        "inheritance",
-        "OOP",
-        "polymorphism",
-        "tutorial",
         "etti",
         "TUIASI",
-        "AT93C46",
-        "EEPROM"
+        "SPI",
+        "XBEE pro"
     ],
     "name": "zbar_010",
     "platforms": "*",

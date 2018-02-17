@@ -4,9 +4,23 @@
         "url": "https://os.mbed.com/users/morecat_lab/"
     },
     "description": "7 segment display library for mbed",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/morecat_lab/code/7segMbed/"
+    ],
     "frameworks": "mbed",
-    "keywords": "sseg",
+    "keywords": [
+        "f401",
+        "F446",
+        "Nucleo",
+        "RGB LED",
+        "SPI",
+        "UIT",
+        "WS2812B",
+        "controller",
+        "game",
+        "interrupt",
+        "joystick"
+    ],
     "name": "sseg",
     "platforms": "*",
     "repository": {

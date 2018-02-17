@@ -4,19 +4,21 @@
         "url": "https://os.mbed.com/users/rinosh2/"
     },
     "description": "Simple library of INI file parser.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/rinosh2/code/TrainInfoSample/",
+        "https://os.mbed.com/users/jksoft/code/WatchSensorMail/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "HD44780",
         "TextLCD",
-        "CC3000",
-        "SimpleLink",
-        "Wi-Fi",
         "mbed",
         "Serial",
         "UART",
         "file",
-        "ini"
+        "ini",
+        "flash",
+        "SPI"
     ],
     "name": "IniFileLib",
     "platforms": "*",

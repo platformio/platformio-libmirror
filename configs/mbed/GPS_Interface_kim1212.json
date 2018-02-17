@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "yuki kimura",
+        "url": "https://os.mbed.com/users/kim1212/"
+    },
+    "description": "Mbed library to get location informatiuon from GYSFDMAXB",
+    "frameworks": "mbed",
+    "keywords": [
+        "meters",
+        "sparkfun",
+        "weather",
+        "maniacbug",
+        "nRF24L01",
+        "nRF24L01P",
+        "RF24",
+        "RF24Network"
+    ],
+    "name": "GPS_Interface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kim1212/code/GPS_Interface/"
+    }
+}

@@ -4,14 +4,19 @@
         "url": "https://os.mbed.com/users/vladounet/"
     },
     "description": "Api wrapper to communicate with EVRYTHNG's Engine.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/vladounet/code/EvrythngApiExample/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "test",
+        "LCD",
+        "ST7565",
+        "TextLCD",
         "evrythng",
-        "CyaSSL",
-        "https",
-        "SSL"
+        "inverse kinematics",
+        "mearm",
+        "robotic arm",
+        "servo motor"
     ],
     "name": "EvrythngApi",
     "platforms": "*",

@@ -4,18 +4,27 @@
         "url": "https://os.mbed.com/users/bjo3rn/"
     },
     "description": "Changed default PinMode from PullDown to PullDefault for compatibility with KL25Z",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/Interactive-Device-Design/code/ChordJoy/",
+        "https://os.mbed.com/teams/Interactive-Device-Design/code/idd_hw2_andrewhead_chordjoy/",
+        "https://os.mbed.com/users/phorust/code/idd_hw2_kevinlee_typinglove/",
+        "https://os.mbed.com/teams/IDD-Fall-2015/code/idd_hw2_kevinlee_typinglove/",
+        "https://os.mbed.com/teams/IDD-Fall-2015/code/idd_hw2_wretrop_Glover/",
+        "https://os.mbed.com/teams/IDD-Fall-2015/code/idd_hw2_MayaMardini_SignLanguageGlove/",
+        "https://os.mbed.com/users/adithya_murali/code/chiller_usbkb_test/",
+        "https://os.mbed.com/teams/IDD-HW3/code/idd_hw3/",
+        "https://os.mbed.com/teams/IDD-HW3/code/idd_fa15_hw3_lauren_bill_tomas/",
+        "https://os.mbed.com/teams/IDD-Fall-2015/code/idd_fa15_hw3_lauren_bill_tomas/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "timer",
-        "watchdog",
-        "12BIT",
-        "adc",
-        "I2C",
         "Nucleo",
         "debounce",
         "DigitalIn",
-        "InterruptIn"
+        "InterruptIn",
+        "FAT",
+        "file system",
+        "SD"
     ],
     "name": "PinDetect_KL25Z",
     "platforms": "*",

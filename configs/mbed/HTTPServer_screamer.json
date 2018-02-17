@@ -4,7 +4,10 @@
         "url": "https://os.mbed.com/users/screamer/"
     },
     "description": "My fork of the HTTPServer (working)",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/screamer/code/DGWWebServer/",
+        "https://os.mbed.com/users/damir/code/LAN2/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "I2C",

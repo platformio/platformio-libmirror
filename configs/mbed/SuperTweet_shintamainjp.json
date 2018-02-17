@@ -4,20 +4,21 @@
         "url": "https://os.mbed.com/users/shintamainjp/"
     },
     "description": "SuperTweet interface driver classes.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/SuperTweet_TestProgram/",
+        "https://os.mbed.com/users/shintamainjp/code/StarBoardOrangeExpansion1/",
+        "https://os.mbed.com/users/botdream/code/GSL_04-Network_Twitter/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "1-wire",
+        "DS18B20",
         "SuperTweet",
-        "RIT",
         "SHT21",
         "adc",
         "dac",
         "I2C",
-        "PCF8591",
-        "IEEE",
-        "mbed",
-        "micromouse",
-        "UCLA"
+        "PCF8591"
     ],
     "name": "SuperTweet",
     "platforms": "*",

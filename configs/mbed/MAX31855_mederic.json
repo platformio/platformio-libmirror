@@ -6,12 +6,13 @@
     "description": "MAX31855 Cold-Junction Compensated Thermocouple-to-Digital Converter",
     "frameworks": "mbed",
     "keywords": [
+        "LCD",
+        "ST7032",
+        "TextLCD",
         "Thermocouple",
-        "NDEF",
-        "NFC",
-        "Type4",
-        "mbed",
-        "RX8025"
+        "RX8025",
+        "MQTT",
+        "1.0.3"
     ],
     "name": "MAX31855",
     "platforms": "*",

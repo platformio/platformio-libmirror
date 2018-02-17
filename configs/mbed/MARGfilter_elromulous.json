@@ -4,9 +4,17 @@
         "url": "https://os.mbed.com/users/elromulous/"
     },
     "description": "Sebastian Madgwick\\'s MARG filter",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/roger_wee/code/Robosub_test/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "realtimeclock",
+        "DHT11",
+        "DHT22",
+        "Humidity",
+        "sensor",
+        "Temperature",
         "filter",
         "IMU",
         "MARG"

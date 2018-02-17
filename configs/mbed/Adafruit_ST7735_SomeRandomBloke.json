@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Andrew Lindsay",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/"
+    },
+    "description": "A first port of the excellent Adafruit ST7735 library",
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "NetServices",
+        "network",
+        "TCP",
+        "UDP",
+        "Adafruit",
+        "LCD",
+        "ST7735",
+        "TFT",
+        "nRF24L01",
+        "multiplexer",
+        "Shift Register",
+        "Altitude",
+        "Freescale",
+        "MPL3115A2",
+        "pressure",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "Adafruit_ST7735",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/code/Adafruit_ST7735/"
+    }
+}

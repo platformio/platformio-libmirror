@@ -4,9 +4,11 @@
         "url": "https://os.mbed.com/teams/Seeed/"
     },
     "description": "new xadow NFC module",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/Seeed/code/xadow_smartstrap_for_pebble/"
+    ],
     "frameworks": "mbed",
-    "keywords": "XadowNFC",
+    "keywords": "xbee",
     "name": "XadowNFC",
     "platforms": "*",
     "repository": {

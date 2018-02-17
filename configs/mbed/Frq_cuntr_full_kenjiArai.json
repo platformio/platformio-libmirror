@@ -4,21 +4,13 @@
         "url": "https://os.mbed.com/users/kenjiArai/"
     },
     "description": "Frequency counter library only for NucleoF411RE",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/Frequency_Counter_w_GPS_1PPS/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "BUTTON",
-        "click",
-        "debounce",
-        "\\",
-        "manager\\",
-        "Scheduler",
-        "task",
         "F411",
-        "Frequency Counter",
-        "display",
-        "menu",
-        "push buttons"
+        "Frequency Counter"
     ],
     "name": "Frq_cuntr_full",
     "platforms": "*",

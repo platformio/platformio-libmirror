@@ -4,25 +4,16 @@
         "url": "https://os.mbed.com/users/feb11/"
     },
     "description": "Small library for using circular buffers",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/feb11/code/CircularBufferExample/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "dynamixel",
-        "MX-12W",
-        "MX12",
-        "MX12W",
-        "robotis",
-        "Servo",
-        "MCP3425",
-        "binary",
-        "GPS",
-        "NMEA",
-        "protocol",
-        "sIRFstar3",
-        "sIRFstarIII",
-        "real time",
-        "serial port",
-        "serial protocols"
+        "choroQ",
+        "3g",
+        "arduino",
+        "PHS",
+        "shield"
     ],
     "name": "CircularBuffer",
     "platforms": "*",

@@ -4,7 +4,14 @@
         "url": "https://os.mbed.com/users/sophtware/"
     },
     "description": "Library to wrapper most of the functions on the MPL3115A2 pressure and temperature sensor.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/cmiller86/code/WeatherBalloon4180/",
+        "https://os.mbed.com/users/Gjika/code/WeatherBalloon4180/",
+        "https://os.mbed.com/users/Lockdog/code/mbed_rifletool/",
+        "https://os.mbed.com/users/nsloth/code/Smart_Watch_4180_Final_Design/",
+        "https://os.mbed.com/users/NilliM/code/Mbedmaestra/",
+        "https://os.mbed.com/users/seanburford/code/xtrinsic_sensors/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "ethernet",
@@ -12,6 +19,11 @@
         "network",
         "TCP",
         "UDP",
+        "Adafruit",
+        "LCD",
+        "ST7735",
+        "TFT",
+        "nRF24L01",
         "multiplexer",
         "Shift Register",
         "Altitude",
@@ -19,8 +31,7 @@
         "MPL3115A2",
         "pressure",
         "sensor",
-        "Temperature",
-        "nRF24L01"
+        "Temperature"
     ],
     "name": "MPL3115A2",
     "platforms": "*",

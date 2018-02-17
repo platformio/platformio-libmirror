@@ -4,7 +4,14 @@
         "url": "https://os.mbed.com/users/shintamainjp/"
     },
     "description": "ThermistorPack.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/Pachube_TestProgram/",
+        "https://os.mbed.com/users/shintamainjp/code/ThermistorPack_TestProgram/",
+        "https://os.mbed.com/users/shintamainjp/code/_DearMrJeffMourich/",
+        "https://os.mbed.com/users/shintamainjp/code/StarBoardOrangeExpansion2/",
+        "https://os.mbed.com/users/shintamainjp/code/Toragi_2011_04_Pachube/",
+        "https://os.mbed.com/users/shintamainjp/code/Toragi_2012_PachubeCosm/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "Adafruit",
@@ -14,7 +21,6 @@
         "sim800l",
         "sim808",
         "thermistor",
-        "Serial",
         "compass",
         "Digital",
         "F411RE",

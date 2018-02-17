@@ -5,11 +5,7 @@
     },
     "description": "Software based digital input debouncer",
     "frameworks": "mbed",
-    "keywords": [
-        "joystick",
-        "PS3",
-        "USB"
-    ],
+    "keywords": "DigitalInDebounced",
     "name": "DigitalInDebounced",
     "platforms": "*",
     "repository": {

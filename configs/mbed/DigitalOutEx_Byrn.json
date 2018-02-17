@@ -6,14 +6,13 @@
     "description": "Provides an extended version of DigitalOut that adds a \"toggle()\" function, and uses the RTOS Thread API to provide a \"flash()\" function that toggles the pin in the background at a given interval.",
     "frameworks": "mbed",
     "keywords": [
-        "cmsis",
-        "rtos",
-        "RTX",
         "digitalOut",
         "led",
-        "Grove",
-        "heartrate",
-        "sensor"
+        "rtos",
+        "DISCO-F746",
+        "F746",
+        "Graphics",
+        "karpent"
     ],
     "name": "DigitalOutEx",
     "platforms": "*",

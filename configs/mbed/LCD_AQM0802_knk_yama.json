@@ -6,9 +6,10 @@
     "description": "printf() on AQM0802",
     "frameworks": "mbed",
     "keywords": [
-        "capture",
-        "timer",
-        "timer2"
+        "EthernetInterface",
+        "network",
+        "TFTP",
+        "UDP"
     ],
     "name": "LCD_AQM0802",
     "platforms": "*",

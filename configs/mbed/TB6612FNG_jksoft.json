@@ -4,20 +4,15 @@
         "url": "https://os.mbed.com/users/jksoft/"
     },
     "description": "TB6612FNG用のモータコントロールライブラリ",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/Wallbot-BLE-Developer/code/BLE_WALLBOT_BLE/",
+        "https://os.mbed.com/teams/Interactive-Device-Design/code/net_trap_noBLE/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "driver",
         "motor",
-        "command",
-        "Servo",
-        "Humidity",
-        "I2C",
-        "sht11",
-        "SHT15",
-        "SHT71",
-        "SHT75",
-        "Temperature"
+        "ADT7410"
     ],
     "name": "TB6612FNG",
     "platforms": "*",

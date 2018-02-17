@@ -4,13 +4,17 @@
         "url": "https://os.mbed.com/users/AlexAllen/"
     },
     "description": "A library for the UM12 433MHz long range radio modules from HAC.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/AlexAllen/code/Balloon/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "ar1020",
-        "Microchip",
-        "screen",
-        "touch"
+        "bm1383",
+        "I2C",
+        "pressure",
+        "ROHM",
+        "DISCO_F469NI",
+        "EEPROM"
     ],
     "name": "UM12",
     "platforms": "*",

@@ -4,22 +4,26 @@
         "url": "https://os.mbed.com/users/nucho/"
     },
     "description": "This library is a library for controlling a motor by Sabertooth2x25(Packetized Serial Mode).",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/jalp89/code/2doejemplo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "ethernet",
+        "socket",
+        "W5500",
         "LCD",
         "LCD-11062",
         "PCF8833",
         "sparkfun",
-        "dot",
-        "HT1632",
-        "led",
-        "matrix",
-        "sure",
         "motor",
-        "KL25z",
-        "light sensor",
-        "Wi-Go"
+        "C027;",
+        "G350;",
+        "GPS;",
+        "SARA",
+        "Arducam",
+        "OV5642",
+        "ADF4360"
     ],
     "name": "Sabertooth2x25",
     "platforms": "*",

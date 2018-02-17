@@ -4,13 +4,18 @@
         "url": "https://os.mbed.com/users/Cumulocity/"
     },
     "description": "mbed.org implementation of the abstract SmartREST library for the Cumulocity Platform SmartREST protocol.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/vwochnik/code/MbedSmartRestMain/",
+        "https://os.mbed.com/teams/ublox/code/MbedSmartRestMain/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "bma180",
-        "polling",
-        "scheduling",
-        "timing"
+        "CANopen",
+        "arduino",
+        "millis",
+        "Modbus",
+        "MODSERIAL",
+        "rtu"
     ],
     "name": "MbedSmartRest",
     "platforms": "*",

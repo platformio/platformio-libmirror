@@ -4,17 +4,28 @@
         "url": "https://os.mbed.com/users/NegativeBlack/"
     },
     "description": "A new object oriented network api that can be used to replace the one provided by the EthernetInterface library.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/NegativeBlack/code/NetRelais/",
+        "https://os.mbed.com/users/NegativeBlack/code/TCP_Client_Example/",
+        "https://os.mbed.com/users/NegativeBlack/code/TCP_Server_Example/",
+        "https://os.mbed.com/users/NegativeBlack/code/UDP_Server_Example/",
+        "https://os.mbed.com/users/willange/code/DistanceFirmware/",
+        "https://os.mbed.com/users/bumisee/code/apc_ups_mon_141217/",
+        "https://os.mbed.com/users/zeus3110/code/NetworkThermometer/",
+        "https://os.mbed.com/teams/Menagerie-Technologique/code/TCP_Server_Example/",
+        "https://os.mbed.com/users/charlyo/code/thethingsiO-DISCO_F746NG-http/",
+        "https://os.mbed.com/users/AlexNaylor/code/FullIMUscriptsTCP/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "BME280",
+        "DHT22",
+        "RHT03",
         "cpp",
         "ethernet",
         "network",
         "TCP",
-        "UDP",
-        "DHT22",
-        "RHT03"
+        "UDP"
     ],
     "name": "NetworkAPI",
     "platforms": "*",

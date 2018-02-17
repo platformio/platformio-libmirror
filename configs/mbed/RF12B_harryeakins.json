@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Harry Eakins",
+        "url": "https://os.mbed.com/users/harryeakins/"
+    },
+    "description": "Library to send and receive data using RF12B transceiver modules",
+    "examples": [
+        "https://os.mbed.com/users/benecsj/code/Measure_system/",
+        "https://os.mbed.com/users/madcowswe/code/Quadcopter_copy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "6LowPan",
+        "nanostack",
+        "ST Nucleo",
+        "STM",
+        "stm32",
+        "Sub-Ghz RF",
+        "X-NUCLEO-IDS01A4",
+        "X-NUCLEO-IDS01A4celo",
+        "FAT",
+        "LPC1114",
+        "SDCard",
+        "accelerometer",
+        "compass",
+        "eCompass",
+        "magnetometer",
+        "sensor"
+    ],
+    "name": "RF12B",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/harryeakins/code/RF12B/"
+    }
+}

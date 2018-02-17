@@ -4,12 +4,19 @@
         "url": "https://os.mbed.com/users/duncanFrance/"
     },
     "description": "Foundation classes for a basic GUI implementing simple widgets and events",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/duncanFrance/code/TouchScreenGUIDemo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "LCD",
         "ST7565",
-        "TextLCD"
+        "TextLCD",
+        "evrythng",
+        "inverse kinematics",
+        "mearm",
+        "robotic arm",
+        "servo motor"
     ],
     "name": "SimpleGUI",
     "platforms": "*",

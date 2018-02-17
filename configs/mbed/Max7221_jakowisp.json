@@ -4,20 +4,18 @@
         "url": "https://os.mbed.com/users/jakowisp/"
     },
     "description": "A generic library to support Max7221 chip for 8 digit 7 segment displays",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/jakowisp/code/Example_Max7221/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "nRF24L01P",
-        "Nucelo",
-        "RF24",
-        "STM32F",
-        "BLE Nano",
-        "BLE_Nano",
-        "BLEnano",
         "7-segment",
         "display",
         "MAX7221",
-        "I2C"
+        "nRF24L01P",
+        "Nucelo",
+        "RF24",
+        "STM32F"
     ],
     "name": "Max7221",
     "platforms": "*",

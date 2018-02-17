@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Christopher Hasler",
+        "url": "https://os.mbed.com/users/littlexc/"
+    },
+    "description": "libary to return a range for sharp IR rangefinders.",
+    "examples": [
+        "https://os.mbed.com/users/littlexc/code/GP2D12rangefinder/",
+        "https://os.mbed.com/users/littlexc/code/Initialmbedrobotprogram/",
+        "https://os.mbed.com/users/littlexc/code/mbedrobot/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HY-1.8",
+        "ST7735",
+        "arbitrary precision",
+        "bigint",
+        "bignum",
+        "Altimeter",
+        "barometer",
+        "Humitity",
+        "I2C",
+        "Temparature"
+    ],
+    "name": "GP2xx",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/littlexc/code/GP2xx/"
+    }
+}

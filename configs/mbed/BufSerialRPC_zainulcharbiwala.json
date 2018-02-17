@@ -6,9 +6,17 @@
     "description": "Serial RPC Interface using the MODSERIAL library. Does not hang when serial port misbehaves.",
     "frameworks": "mbed",
     "keywords": [
-        "flash",
-        "S25FL216K",
-        "Serial"
+        "acc",
+        "gyro",
+        "IMU",
+        "iNEMO",
+        "MAG",
+        "STM",
+        "client",
+        "CoAP",
+        "IOT",
+        "protocol",
+        "server"
     ],
     "name": "BufSerialRPC",
     "platforms": "*",

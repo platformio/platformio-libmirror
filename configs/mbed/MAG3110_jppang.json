@@ -4,12 +4,18 @@
         "url": "https://os.mbed.com/users/jppang/"
     },
     "description": "Simple library for MAG3110 magenetometer as built into Avnet Wi-Go module",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/jppang/code/XtrinsicSensorEVK/",
+        "https://os.mbed.com/users/jppang/code/KL46Z/",
+        "https://os.mbed.com/users/rajkiran_anthapur/code/KL46Z_CS213A_HW1/",
+        "https://os.mbed.com/users/jppang/code/KL46Z_NokiaLCD/",
+        "https://os.mbed.com/users/rickbronson/code/KL46Z/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "aconno",
-        "NFC",
-        "nrf52"
+        "log",
+        "logger",
+        "logging"
     ],
     "name": "MAG3110",
     "platforms": "*",

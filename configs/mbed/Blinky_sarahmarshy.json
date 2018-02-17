@@ -4,11 +4,17 @@
         "url": "https://os.mbed.com/users/sarahmarshy/"
     },
     "description": "Given LED PinName and blink interval, spawns a thread that blinks that LED at the specified interval",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/sarahmarshy/code/Blinky_Tests/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "GPIO Exoender",
-        "MCP23017"
+        "4x3",
+        "AE-KIT45-KEYPAD4X3",
+        "Akizuki",
+        "key",
+        "matrix",
+        "switch"
     ],
     "name": "Blinky",
     "platforms": "*",

@@ -4,15 +4,15 @@
         "url": "https://os.mbed.com/users/okini3939/"
     },
     "description": "http://mbed.org/users/okini3939/notebook/melinverter",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/MelInverter_sample/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "FR-E700",
         "inverter",
         "mitsubishi",
-        "RS485",
-        "LPC1114FN28",
-        "sound"
+        "RS485"
     ],
     "name": "MelInverter",
     "platforms": "*",

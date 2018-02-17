@@ -4,16 +4,19 @@
         "url": "https://os.mbed.com/users/andcor02/"
     },
     "description": "Library to control Electret Microphone Amplifier - MAX9814 from adafruit.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/andcor02/code/MAX9814_LED_Sound_Indicator/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "CyaSSL",
-        "SSL",
-        "compass",
-        "driver",
-        "HMC5583L",
-        "I2C",
-        "sensor",
+        "command",
+        "Olimex",
+        "SHIELD-LCD",
+        "dc-motor",
+        "Freescale",
+        "hbridge",
+        "MC33926",
+        "motor",
         "Elecret Microphone",
         "MAX9814",
         "sound",

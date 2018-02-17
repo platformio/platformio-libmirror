@@ -4,11 +4,12 @@
         "url": "https://os.mbed.com/users/MikamiUitOpen/"
     },
     "description": "DigitalOut クラスを継承して，オープンドレインにも設定できるように拡張した DigitalOutEx クラス.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/Demo_DigitalOutEx/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "IOT",
-        "sigfox",
+        "BLE",
         "consumption",
         "control",
         "ethernet",

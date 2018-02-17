@@ -4,13 +4,27 @@
         "url": "https://os.mbed.com/users/charly/"
     },
     "description": "Library for HopeRF RFM22 / RFM22B transceiver module ported to mbed.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/charly/code/RF22_MAX_test_Send/",
+        "https://os.mbed.com/users/13beeuishfaq/code/Geofence_receiver/",
+        "https://os.mbed.com/users/13beeuishfaq/code/Geofence_sender/",
+        "https://os.mbed.com/users/afahadshujah/code/Geofence_sender/",
+        "https://os.mbed.com/users/MLev/code/Receive/",
+        "https://os.mbed.com/users/MLev/code/Send/",
+        "https://os.mbed.com/users/MLev/code/MultiThread/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "ROS",
         "HOPERF",
         "RF22",
         "RFM22",
-        "ROS"
+        "game pad",
+        "gamepad",
+        "playstation",
+        "playstation2",
+        "PS2",
+        "SPI"
     ],
     "name": "RF22",
     "platforms": "*",

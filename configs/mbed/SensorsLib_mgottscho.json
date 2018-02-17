@@ -6,9 +6,10 @@
     "description": "A compilation of some hardware sensors and their shared programming interfaces.",
     "frameworks": "mbed",
     "keywords": [
-        "nunchuck",
-        "Wii",
-        "WiiNunchuck"
+        "BLE",
+        "BLE_API",
+        "HID",
+        "HID-over-Gatt"
     ],
     "name": "SensorsLib",
     "platforms": "*",

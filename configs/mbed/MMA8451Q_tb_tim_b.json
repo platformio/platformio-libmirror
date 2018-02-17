@@ -4,7 +4,10 @@
         "url": "https://os.mbed.com/users/tim_b/"
     },
     "description": "For D",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/tim_b/code/PWM_2_way_level-r1/",
+        "https://os.mbed.com/users/donoman/code/StepLogger-Serial/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "audio",
@@ -12,10 +15,6 @@
         "file",
         "wav",
         "wave",
-        "modbus rtu",
-        "real time",
-        "rtos",
-        "serial protocol",
         "IMU",
         "MPU9150",
         "gyro"

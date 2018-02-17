@@ -4,16 +4,24 @@
         "url": "https://os.mbed.com/users/eencae/"
     },
     "description": "Library for getting temperature and pressure values from Bosch BMP180 barometer.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/afreshmeat/code/WeatherStation/",
+        "https://os.mbed.com/users/afreshmeat/code/WeatherStation1/",
+        "https://os.mbed.com/users/oe386961252/code/ProjectD/",
+        "https://os.mbed.com/users/el13nsp/code/Weather_Station/",
+        "https://os.mbed.com/users/takis94/code/Weather_Station/",
+        "https://os.mbed.com/users/orlagilson/code/WeatherLogger/",
+        "https://os.mbed.com/users/el13akr/code/WeatherLogger/",
+        "https://os.mbed.com/users/Chakweza/code/mbed_weather_station/",
+        "https://os.mbed.com/users/FFLopes/code/Weather_Station/",
+        "https://os.mbed.com/users/amiraseman/code/WeatherStation/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Dieter Graef",
-        "DISCO-F746",
-        "SDFileSystem",
-        "NFC",
-        "p2p",
-        "PN532",
-        "BMP180"
+        "BMP180",
+        "DTH11",
+        "DTH22",
+        "RHT03"
     ],
     "name": "BMP180",
     "platforms": "*",

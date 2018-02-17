@@ -4,13 +4,19 @@
         "url": "https://os.mbed.com/users/SomeRandomBloke/"
     },
     "description": "MQTTClient",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/SomeRandomBloke/code/IoTGateway_Basic/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "async",
+        "LS013B7DH03",
+        "memory lcd",
+        "Sharp",
+        "sharp memory LCD",
+        "energy harvesting",
+        "mobile robot",
         "MQTT",
-        "max31855",
-        "MAX6675",
-        "Thermocouple",
         "arp",
         "broadcast",
         "DHCP",
@@ -25,10 +31,7 @@
         "TCP",
         "tcp/ip",
         "tcpip stack",
-        "UDP",
-        "7",
-        "display",
-        "segment"
+        "UDP"
     ],
     "name": "MQTTClient",
     "platforms": "*",

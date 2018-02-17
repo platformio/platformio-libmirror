@@ -4,16 +4,17 @@
         "url": "https://os.mbed.com/users/leysenkobe/"
     },
     "description": "Library of a DAQ system with the following IC's:",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/leysenkobe/code/TEST/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "accelerometer",
+        "I2C",
+        "MMA8452Q",
         "Mouse",
         "optical",
-        "sensor",
-        "edutech",
-        "EPB",
-        "EPB_TextLCD",
-        "LCD"
+        "sensor"
     ],
     "name": "DAQ",
     "platforms": "*",

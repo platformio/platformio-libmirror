@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/ptpaterson/"
     },
     "description": "Provides a CanPipe class that will associate callback methods with filter handles and pipe CAN messages through them.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/ptpaterson/code/CanPipe_Example/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "CAN",

@@ -4,7 +4,13 @@
         "url": "https://os.mbed.com/users/kkoichy/"
     },
     "description": "32bits encoder counter using 16bits TIM and a 32bits software counter",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/illan/code/v1/",
+        "https://os.mbed.com/users/Cachan1/code/v2/",
+        "https://os.mbed.com/users/Cachan1/code/v2bis/",
+        "https://os.mbed.com/users/Cachan1/code/GestionPixy/",
+        "https://os.mbed.com/users/Cachan1/code/Projet_neutre/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "baro",

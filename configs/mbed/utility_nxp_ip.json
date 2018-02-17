@@ -4,14 +4,14 @@
         "url": "https://os.mbed.com/users/nxp_ip/"
     },
     "description": "Mini board PCU9669 evaluation kit library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/nxp_ip/code/mini_board_PCU9669/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "dc-motor",
-        "Freescale",
-        "hbridge",
-        "MC33926",
-        "motor"
+        "FRDM-KL25Z",
+        "rtos",
+        "thread"
     ],
     "name": "utility",
     "platforms": "*",

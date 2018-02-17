@@ -4,9 +4,12 @@
         "url": "https://os.mbed.com/teams/Rohm/"
     },
     "description": "KX022 Accelerometer library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/Rohm/code/LazuriteGraph_Hello/",
+        "https://os.mbed.com/teams/Rohm/code/KX022_Hello/"
+    ],
     "frameworks": "mbed",
-    "keywords": "KX022",
+    "keywords": "LSM303D",
     "name": "KX022",
     "platforms": "*",
     "repository": {

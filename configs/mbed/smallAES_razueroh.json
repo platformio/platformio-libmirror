@@ -4,19 +4,22 @@
         "url": "https://os.mbed.com/users/razueroh/"
     },
     "description": "Small AES_ECB with T-box",
+    "examples": [
+        "https://os.mbed.com/teams/ArmfulKST/code/BLE_LED_ADC_BBC/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "bmp085",
+        "sparkfun",
+        "Maple Mini",
+        "NUCLEO-F103RB",
+        "STM32F103C8C6",
+        "USB device",
+        "USBDevice",
         "AES",
         "cipher",
         "encryption",
-        "security",
-        "C12832",
-        "C12832A1Z",
-        "MBED Application Board",
-        "Armand",
-        "bluetooth",
-        "Coetzer",
-        "comms"
+        "security"
     ],
     "name": "smallAES",
     "platforms": "*",

@@ -4,16 +4,19 @@
         "url": "https://os.mbed.com/users/hirokimineshita/"
     },
     "description": "これは MMA7361 3軸アナログ加速度センサ の Nucleo F401RE 用のライブラリです。詳しい説明はLibrary中のReadMe.hに記載しています。文字化けや開けない場合はダウンロードしてみてください。Google Chrome では見れるはずです。",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/hirokimineshita/code/Nucleo_L3GD20_MMA7361_Kalman/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "Serial",
+        "Terminal",
+        "VT100",
+        "VT200",
+        "VT52",
         "F401RE",
         "mma7361",
-        "Nucleo",
-        "JSON",
-        "MessagePack",
-        "GPS",
-        "WS2812"
+        "Nucleo"
     ],
     "name": "MMA7361",
     "platforms": "*",

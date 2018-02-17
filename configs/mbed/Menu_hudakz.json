@@ -4,18 +4,12 @@
         "url": "https://os.mbed.com/users/hudakz/"
     },
     "description": "Menu and push buttons.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/hudakz/code/Menu_Hello/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "BUTTON",
-        "click",
-        "debounce",
-        "\\",
-        "manager\\",
-        "Scheduler",
-        "task",
-        "F411",
-        "Frequency Counter",
+        "mbed",
         "display",
         "menu",
         "push buttons"

@@ -4,22 +4,26 @@
         "url": "https://os.mbed.com/users/Suky/"
     },
     "description": "Control TouchScreen ADS7843",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Suky/code/Touch_Example/",
+        "https://os.mbed.com/users/Suky/code/Example_Menu_LCD_TFT/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "2015",
+        "Bertl",
+        "EEPROM",
+        "flash",
+        "stm32f10x",
+        "game pad",
+        "gamepad",
+        "USB Host",
+        "USBHOST",
+        "Xbox",
+        "xbox360",
         "Radio",
         "transceiver",
-        "touch",
-        "3x4",
-        "4x3",
-        "kepad",
-        "keyboard",
-        "polling",
-        "pull",
-        "up",
-        "BLE",
-        "bluetooth",
-        "simpleble"
+        "touch"
     ],
     "name": "TouchADS7843",
     "platforms": "*",

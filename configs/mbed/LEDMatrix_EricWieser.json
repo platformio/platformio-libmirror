@@ -6,15 +6,8 @@
     "description": "A library to manipulate 2D arrays, and output them to an LED Dot Matrix Display. The display must be wired up using a shift register combined with a nor latch.",
     "frameworks": "mbed",
     "keywords": [
-        "4x4",
-        "4x4 Keypad",
-        "keyboard",
-        "keypad",
-        "pullup",
-        "low current",
-        "low power",
-        "nrf51",
-        "nRF51822"
+        "DISCO_F746NG",
+        "sdram"
     ],
     "name": "LEDMatrix",
     "platforms": "*",

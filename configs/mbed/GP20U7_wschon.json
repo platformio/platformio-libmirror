@@ -4,17 +4,19 @@
         "url": "https://os.mbed.com/users/wschon/"
     },
     "description": "Driver for Sparkfun GP-20U7 GPS module",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/wschon/code/GP20U7_HelloWorld/",
+        "https://os.mbed.com/users/alex7095/code/gpsmpu60500/",
+        "https://os.mbed.com/users/mmittal8/code/BaseStation/",
+        "https://os.mbed.com/users/dnergui3/code/healt_monitor_ECE4180/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "optical",
-        "Si1145",
-        "Si1146",
-        "Si1147",
-        "Si114x",
-        "uV",
         "GPS",
-        "sparkfun"
+        "sparkfun",
+        "debounce",
+        "interrupt",
+        "masking"
     ],
     "name": "GP-20U7",
     "platforms": "*",

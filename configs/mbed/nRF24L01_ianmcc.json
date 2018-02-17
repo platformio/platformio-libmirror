@@ -4,7 +4,10 @@
         "url": "https://os.mbed.com/users/ianmcc/"
     },
     "description": "nRF24L01 driver",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Andthen/code/Nucleo_IOT1/",
+        "https://os.mbed.com/teams/Flying-Monkeys/code/wireless/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "ethernet",
@@ -12,6 +15,11 @@
         "network",
         "TCP",
         "UDP",
+        "Adafruit",
+        "LCD",
+        "ST7735",
+        "TFT",
+        "nRF24L01",
         "multiplexer",
         "Shift Register",
         "Altitude",
@@ -19,8 +27,7 @@
         "MPL3115A2",
         "pressure",
         "sensor",
-        "Temperature",
-        "nRF24L01"
+        "Temperature"
     ],
     "name": "nRF24L01",
     "platforms": "*",

@@ -6,10 +6,13 @@
     "description": "Minimal version of mBuino Sleep",
     "frameworks": "mbed",
     "keywords": [
-        "Armand",
-        "Coetzer",
-        "NNN50",
-        "wifi"
+        "mutex",
+        "preemptive",
+        "rtos",
+        "norm",
+        "pdf",
+        "Random",
+        "stats"
     ],
     "name": "mBuino_Sleep_Minimal",
     "platforms": "*",

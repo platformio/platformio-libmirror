@@ -4,13 +4,18 @@
         "url": "https://os.mbed.com/users/va009039/"
     },
     "description": "USB host library, support isochronous,bulk,interrupt and control.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/va009039/code/BaseUsbHost_example/",
+        "https://os.mbed.com/users/va009039/code/BaseJpegDecode_example/",
+        "https://os.mbed.com/users/va009039/code/SimpleJpegDecode_example/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Essex",
-        "api",
-        "xbee",
-        "zigbee",
+        "radiohead",
+        "TeraTerm",
+        "Terminal",
+        "compass",
+        "HMC5883L",
         "USB",
         "UVC"
     ],

@@ -4,25 +4,22 @@
         "url": "https://os.mbed.com/users/shintamainjp/"
     },
     "description": "A capacitive touch sensor using a analog input port.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/TouchSenseTestProgram/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "cmsis",
-        "function",
-        "Instances",
-        "multiple",
-        "rtos",
-        "threads",
+        "I2C",
+        "MCP4725",
+        "Adafruit",
+        "GFX",
+        "LCD",
+        "TFT",
         "AnalogIn",
         "Capacitive",
         "digitalOut",
         "sensor",
-        "touch",
-        "I2C",
-        "MCP4725",
-        "biquad",
-        "DSP",
-        "filter"
+        "touch"
     ],
     "name": "TouchSense",
     "platforms": "*",

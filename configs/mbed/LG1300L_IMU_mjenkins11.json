@@ -4,19 +4,16 @@
         "url": "https://os.mbed.com/users/mjenkins11/"
     },
     "description": "I2C interface for LG1300L IMU",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/mjenkins11/code/LG1300L_Hello_World/",
+        "https://os.mbed.com/users/mjenkins11/code/LG1300L_Hello_World_LCD/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Analog",
-        "CN0391",
-        "devices",
-        "Thermocouple",
         "I2C",
         "IMU",
         "LEGO",
         "mindstorms",
-        "AT",
-        "parser",
         "AITENDO",
         "OLED"
     ],

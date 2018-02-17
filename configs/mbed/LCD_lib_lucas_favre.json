@@ -4,9 +4,16 @@
         "url": "https://os.mbed.com/users/lucas_favre/"
     },
     "description": "Librarie pour ecran 128x32 de MyLab",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/lucas_favre/code/MyLab_Lib/"
+    ],
     "frameworks": "mbed",
-    "keywords": "MyLab",
+    "keywords": [
+        "inAir",
+        "SX1276",
+        "SX1278",
+        "MyLab"
+    ],
     "name": "LCD_lib",
     "platforms": "*",
     "repository": {

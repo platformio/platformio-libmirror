@@ -6,14 +6,16 @@
     "description": "This is a library for our Adafruit 16-channel PWM & Servo driver",
     "frameworks": "mbed",
     "keywords": [
-        "watchdog",
+        "files",
+        "filesystem",
+        "Terminal",
         "Adafruit",
         "I2C",
         "PCA9685",
         "pwm",
-        "NDEF",
-        "NFC",
-        "PN532"
+        "motor",
+        "sparkfun",
+        "TB6612FNG"
     ],
     "name": "Adafruit_PWMServoDriver",
     "platforms": "*",

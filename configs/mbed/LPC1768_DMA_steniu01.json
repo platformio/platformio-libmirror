@@ -4,13 +4,13 @@
         "url": "https://os.mbed.com/users/steniu01/"
     },
     "description": "implement LPC1768 GPDMA API",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/steniu01/code/LPC1768_DMA_implementation/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "2.4",
         "LCD",
-        "MCUFRIEND",
-        "TFT"
+        "NUCLEO_L152RE"
     ],
     "name": "LPC1768_DMA",
     "platforms": "*",

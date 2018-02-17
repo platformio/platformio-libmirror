@@ -6,12 +6,11 @@
     "description": "4D Systems serial microOLED driver",
     "frameworks": "mbed",
     "keywords": [
-        "driver",
-        "I2C",
-        "led",
-        "TLC59116",
         "OLED",
-        "Serial"
+        "Serial",
+        "9Dof-Stick",
+        "ADXL345",
+        "sparkfun"
     ],
     "name": "microOLED",
     "platforms": "*",

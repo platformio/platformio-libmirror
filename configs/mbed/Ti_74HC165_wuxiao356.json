@@ -6,14 +6,10 @@
     "description": "Library for TI 74HC165, which is a parallel-in serial-out shift register.",
     "frameworks": "mbed",
     "keywords": [
-        "C027",
-        "C030",
-        "CellularInterface",
-        "u-blox",
-        "I2C",
-        "NeoPixel",
-        "rhb",
-        "slave",
+        "motor",
+        "Stepper",
+        "stepping",
+        "Uni-polar",
         "74HC165"
     ],
     "name": "Ti_74HC165",

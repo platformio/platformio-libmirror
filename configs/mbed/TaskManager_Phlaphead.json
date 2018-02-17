@@ -6,18 +6,10 @@
     "description": "Simple task manager which uses a Ticker",
     "frameworks": "mbed",
     "keywords": [
-        "BUTTON",
-        "click",
-        "debounce",
         "\\",
         "manager\\",
         "Scheduler",
-        "task",
-        "F411",
-        "Frequency Counter",
-        "display",
-        "menu",
-        "push buttons"
+        "task"
     ],
     "name": "TaskManager",
     "platforms": "*",

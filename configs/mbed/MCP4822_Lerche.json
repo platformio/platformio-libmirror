@@ -6,8 +6,6 @@
     "description": "Library for MCP4822 SPI 12-bit DAC, both outputs supported, nLDAC connected to GND.",
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F469NI",
-        "SD",
         "H-bridge",
         "Moror",
         "PID",

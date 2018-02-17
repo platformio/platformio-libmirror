@@ -8,7 +8,9 @@
     "keywords": [
         "Humidity",
         "I2C",
-        "sensor"
+        "sensor",
+        "led",
+        "matrix"
     ],
     "name": "AnalogInBaseClass",
     "platforms": "*",

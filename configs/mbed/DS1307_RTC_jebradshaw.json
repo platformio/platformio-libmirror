@@ -9,10 +9,8 @@
         "ds1307",
         "RTC",
         "WSE",
-        "max31855",
-        "Thermocouple",
-        "audio",
-        "DISCO_F746NG"
+        "jsmn",
+        "JSON"
     ],
     "name": "DS1307_RTC",
     "platforms": "*",

@@ -6,16 +6,10 @@
     "description": "Library for MAX30101 SpO2 and heart rate sensor",
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "DOG",
-        "LCD",
-        "ST7036",
-        "TextLCD",
-        "AT",
-        "C027",
-        "C030",
-        "CellularInterface",
-        "u-blox"
+        "colour",
+        "Grove",
+        "sensor",
+        "DS1631"
     ],
     "name": "MAX30101",
     "platforms": "*",

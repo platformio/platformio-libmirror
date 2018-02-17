@@ -4,7 +4,15 @@
         "url": "https://os.mbed.com/users/WiredHome/"
     },
     "description": "Fixed custom headers and Basic authorization, added support for redirection, functional file download interface can be used for SW updates and more.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/WiredHome/code/Sample_HTTPClient/",
+        "https://os.mbed.com/users/bhakti08/code/Sample_HTTPClient/",
+        "https://os.mbed.com/users/WiredHome/code/WattEye/",
+        "https://os.mbed.com/users/WiredHome/code/PUB_SWUpdate/",
+        "https://os.mbed.com/users/WiredHome/code/X10-Server/",
+        "https://os.mbed.com/users/pnysten/code/LWM2M_NanoService_Ethernet/",
+        "https://os.mbed.com/teams/Alcatel-Lucent-IoT-Development/code/LWM2M_NanoService_Ethernet/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "authorization",
@@ -12,7 +20,8 @@
         "custom",
         "headers",
         "http",
-        "HTTPClient"
+        "HTTPClient",
+        "HD44780"
     ],
     "name": "HTTPClient",
     "platforms": "*",

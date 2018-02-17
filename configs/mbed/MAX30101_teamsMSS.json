@@ -4,19 +4,21 @@
         "url": "https://os.mbed.com/teams/MSS/"
     },
     "description": "Library for MAX30101, read/write functions for registers implemented.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/MSS/code/test_MAX30101/",
+        "https://os.mbed.com/teams/MSS/code/testSensor/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "I2C",
         "MAX30101",
         "MSS",
         "MSU",
-        "3D",
-        "LCD",
-        "mono-lcd",
         "api",
         "blink",
-        "led"
+        "led",
+        "dynamixel",
+        "IOT"
     ],
     "name": "MAX30101",
     "platforms": "*",

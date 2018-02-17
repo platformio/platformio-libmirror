@@ -6,10 +6,12 @@
     "description": "Multi purpose buffer module.",
     "frameworks": "mbed",
     "keywords": [
-        "L9110S",
         "FIFO",
         "lifo",
-        "ringbuffer"
+        "ringbuffer",
+        "bus switch",
+        "I2C",
+        "PCA9546A"
     ],
     "name": "xIFO",
     "platforms": "*",

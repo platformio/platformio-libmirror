@@ -7,14 +7,15 @@
     "frameworks": "mbed",
     "keywords": [
         "StarBoardOrange",
-        "C++",
-        "Encoder",
-        "hardware",
-        "QEI",
-        "DS18B20",
-        "DS2450",
-        "MAX31850",
-        "OneWire"
+        "flysky",
+        "PPM",
+        "pwm",
+        "RC",
+        "Receiver",
+        "Servo",
+        "L3GD20",
+        "NeoPixel",
+        "rgb"
     ],
     "name": "RF12B",
     "platforms": "*",

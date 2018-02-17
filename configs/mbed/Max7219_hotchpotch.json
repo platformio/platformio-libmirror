@@ -4,14 +4,11 @@
         "url": "https://os.mbed.com/users/hotchpotch/"
     },
     "description": "Max7219 7seg LED library",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "control",
-        "PID",
-        "TJPS",
-        "max14690"
+    "examples": [
+        "https://os.mbed.com/users/hotchpotch/code/Max7219_7segled_example/"
     ],
+    "frameworks": "mbed",
+    "keywords": "L9110S",
     "name": "Max7219",
     "platforms": "*",
     "repository": {

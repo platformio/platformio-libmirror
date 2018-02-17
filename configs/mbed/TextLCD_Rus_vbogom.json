@@ -4,15 +4,11 @@
         "url": "https://os.mbed.com/users/vbogom/"
     },
     "description": "TextLCD_RUS - this change module NewTextLCD Erik Kerger. It adds the ability to output a simple Russian text, as well as some additional features implemented chip HD44780. The test was carried out on the module module MT-16S2D.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/vbogom/code/Rus_TextLCD/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "inair4",
-        "inair8",
-        "inair9",
-        "Lora",
-        "modtronix",
-        "SX1276",
         "HD44780",
         "LCD",
         "MT-16S2D",
@@ -21,14 +17,8 @@
         "text",
         "TextLCD",
         "TextLCD_Rus",
-        "buzzer",
-        "pwm",
-        "tone",
-        "tune",
-        "Host",
-        "mbed",
-        "PTP",
-        "USB"
+        "printer",
+        "shield"
     ],
     "name": "TextLCD_Rus",
     "platforms": "*",

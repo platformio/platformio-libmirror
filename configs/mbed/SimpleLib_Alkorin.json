@@ -4,7 +4,12 @@
         "url": "https://os.mbed.com/users/Alkorin/"
     },
     "description": "Simple mbed library with macros",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/mchai/code/SimpleTimer/",
+        "https://os.mbed.com/users/Alkorin/code/SimpleUART/",
+        "https://os.mbed.com/users/Alkorin/code/SimpleTimer/",
+        "https://os.mbed.com/users/wango/code/Stoppuhr1/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "amateur",

@@ -6,8 +6,14 @@
     "description": "program to blink two leds along with value of N",
     "frameworks": "mbed",
     "keywords": [
-        "led",
-        "tricolor"
+        "CGRAM",
+        "CLCD",
+        "custom",
+        "TextLCD",
+        "hih6130",
+        "sensor",
+        "Temp",
+        "Temperature"
     ],
     "name": "blink_LED",
     "platforms": "*",

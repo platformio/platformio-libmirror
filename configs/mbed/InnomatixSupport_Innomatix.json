@@ -6,10 +6,13 @@
     "description": "Official support library for using mbed as a programmable coprocessor in the Innomatix DAP-III+ telematics platform",
     "frameworks": "mbed",
     "keywords": [
-        "3pi",
-        "m3pi",
         "DAP-III+",
-        "innomatix"
+        "innomatix",
+        "ESP8266",
+        "Apeiros",
+        "F401RE",
+        "Nucleo",
+        "robot"
     ],
     "name": "InnomatixSupport",
     "platforms": "*",

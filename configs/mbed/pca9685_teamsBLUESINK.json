@@ -4,15 +4,19 @@
         "url": "https://os.mbed.com/teams/BLUESINK/"
     },
     "description": "PCA9685 library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/BLUESINK/code/s-rov-firmware/",
+        "https://os.mbed.com/users/TuxLeon/code/DISCO-F746NG_rtos_test/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "OLED",
-        "SSD1332",
-        "fm",
-        "Radio",
-        "RDA5807M",
-        "RDS"
+        "LPS22HB",
+        "pressure",
+        "2017NOSHIRO",
+        "Hokuyo",
+        "Lidar",
+        "Range Finder",
+        "URG-04LX"
     ],
     "name": "pca9685",
     "platforms": "*",

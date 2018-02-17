@@ -6,18 +6,13 @@
     "description": "PCD8544LCD",
     "frameworks": "mbed",
     "keywords": [
-        "clock",
-        "ds1307",
-        "real",
-        "RTC",
-        "time",
-        "COMMAND PARSER",
-        "serial command",
-        "uart interupt",
         "Encoder",
         "QEI",
         "quadrature",
-        "MAX30101"
+        "digital out",
+        "FRDMKL25Z",
+        "mbed",
+        "rpc"
     ],
     "name": "PCD8544LCD",
     "platforms": "*",

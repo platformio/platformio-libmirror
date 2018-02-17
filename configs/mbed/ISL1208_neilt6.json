@@ -4,13 +4,11 @@
         "url": "https://os.mbed.com/users/neilt6/"
     },
     "description": "A feature complete driver for the ISL1208 real time clock from Intersil.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/neilt6/code/ISL1208_HelloWorld/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "BD6211",
-        "control",
-        "Input",
-        "pwm",
         "I2C",
         "ISL1208",
         "real time clock",

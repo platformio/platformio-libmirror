@@ -4,7 +4,15 @@
         "url": "https://os.mbed.com/users/simon/"
     },
     "description": "A library to send and receive MIDI messages over USB using the default USB-MIDI drivers on Win/Mac",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/simon/code/USBMIDI_HelloWorld/",
+        "https://os.mbed.com/users/simon/code/USBMIDI_DrumExample/",
+        "https://os.mbed.com/users/alaif/code/USBMIDI_MonoSynth/",
+        "https://os.mbed.com/users/Vekotin/code/MIDI_Interface_ver_1/",
+        "https://os.mbed.com/users/ywang627/code/LaserHarpProj/",
+        "https://os.mbed.com/users/ywang627/code/FramedLaserHarp/",
+        "https://os.mbed.com/users/earlz/code/BYOController/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "DS18B20",
@@ -14,16 +22,15 @@
         "MIDI",
         "USB",
         "USBMIDI",
+        "2x16",
+        "I2C",
+        "LCD",
         "mbed",
         "nRF51822",
         "SD",
         "SDFileSystem",
         "sdhcfilesystem",
-        "FAT",
-        "clock",
-        "ds1307",
-        "I2C",
-        "RTC"
+        "FAT"
     ],
     "name": "USBMIDI",
     "platforms": "*",

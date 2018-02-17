@@ -4,15 +4,27 @@
         "url": "https://os.mbed.com/users/Bobty/"
     },
     "description": "A simple web server mainly based on ideas from Jasper Schuurmans Netduino web server",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Bobty/code/RdBlindsServer/",
+        "https://os.mbed.com/users/Bobty/code/SpideyWallWeb/",
+        "https://os.mbed.com/users/Bobty/code/RdGasUseMonitor/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C_EEPROM",
         "itoa",
         "joystick",
         "LCD",
+        "APIs",
+        "extension",
+        "generic",
         "http",
-        "web server"
+        "web server",
+        "I2C_EEPROM",
+        "JSON",
+        "https",
+        "mbedTLS",
+        "SSL",
+        "Graphics"
     ],
     "name": "RdWebServer",
     "platforms": "*",

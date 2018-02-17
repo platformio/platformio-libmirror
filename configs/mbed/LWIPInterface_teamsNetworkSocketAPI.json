@@ -4,16 +4,18 @@
         "url": "https://os.mbed.com/teams/NetworkSocketAPI/"
     },
     "description": "Implementation of the NetworkSocketAPI for LWIP",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/NetworkSocketAPI/code/HelloLWIPInterface/",
+        "https://os.mbed.com/teams/NetworkSocketAPI/code/HelloLWIPInterfaceNonBlocking/",
+        "https://os.mbed.com/teams/NetworkSocketAPI/code/LWIPInterfaceTests/",
+        "https://os.mbed.com/users/geky/code/SimpleHTTPExample/",
+        "https://os.mbed.com/teams/ROHM-Developers/code/HelloLWIPBP3595Interface/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "3axis",
-        "accelorometer",
-        "AnalogIn",
-        "sensor",
-        "card",
-        "reader",
-        "Wiegand"
+        "Light Sensor Array",
+        "pololu",
+        "QTR"
     ],
     "name": "LWIPInterface",
     "platforms": "*",

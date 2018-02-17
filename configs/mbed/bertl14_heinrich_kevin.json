@@ -4,23 +4,11 @@
         "url": "https://os.mbed.com/users/heinrich_kevin/"
     },
     "description": "BERTL library, Kevin Heinrich",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "MPU9250",
-        "DISCO-F746",
-        "F746",
-        "Graphics",
-        "karpent",
-        "flysky",
-        "PPM",
-        "pwm",
-        "RC",
-        "Receiver",
-        "Servo",
-        "NeoPixel",
-        "rgb"
+    "examples": [
+        "https://os.mbed.com/users/heinrich_kevin/code/BertlPingPong_UEbung3_EB/"
     ],
+    "frameworks": "mbed",
+    "keywords": "MPU9250",
     "name": "bertl14",
     "platforms": "*",
     "repository": {

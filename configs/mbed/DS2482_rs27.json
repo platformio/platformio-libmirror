@@ -4,19 +4,13 @@
         "url": "https://os.mbed.com/users/rs27/"
     },
     "description": "one wire driver",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "Internet",
-        "of",
-        "Sen.se",
-        "things",
-        "LFSR",
-        "Linear Feedback Shift Register",
-        "Number Generator",
-        "Pseudo",
-        "Random"
+    "examples": [
+        "https://os.mbed.com/users/rs27/code/09_PT1000/",
+        "https://os.mbed.com/users/Sven3010/code/10_PT1000/",
+        "https://os.mbed.com/teams/Temp/code/11_PT1000/"
     ],
+    "frameworks": "mbed",
+    "keywords": "mbed",
     "name": "DS2482",
     "platforms": "*",
     "repository": {

@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/sam_grove/"
     },
     "description": "Utility to manage ASCII communications. Register a header and event and then pass messages into the class and events are generated on a match",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/jekain314/code/Waldo_Embed_V2/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "Addressable",
@@ -17,7 +19,9 @@
         "FP",
         "LinkedList",
         "Serial",
-        "Terminal"
+        "Terminal",
+        "GUI",
+        "menu"
     ],
     "name": "CommHandler",
     "platforms": "*",

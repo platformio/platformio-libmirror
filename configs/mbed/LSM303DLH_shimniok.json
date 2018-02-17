@@ -4,23 +4,22 @@
         "url": "https://os.mbed.com/users/shimniok/"
     },
     "description": "Interface library for STMicro LSM303DLH 3-axis magnetometer w/ 3-axis acceleromter. Computes magnetic heading.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/shimniok/code/AVC_20110423/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "high",
         "Speed",
         "SPI",
-        "compass",
-        "LSM303DLH",
-        "magnetometer",
-        "sensors",
         "socket",
         "TCP",
         "UDP",
         "WiFly",
-        "ILI9320",
-        "LCD",
-        "TFT"
+        "compass",
+        "LSM303DLH",
+        "magnetometer",
+        "sensors"
     ],
     "name": "LSM303DLH",
     "platforms": "*",

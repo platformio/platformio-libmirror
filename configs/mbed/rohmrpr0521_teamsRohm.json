@@ -4,7 +4,10 @@
         "url": "https://os.mbed.com/teams/Rohm/"
     },
     "description": "Rohm RPR0521 proximity-als-ir -sensor driver",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/Rohm/code/rohm-rpr0521-hello/",
+        "https://os.mbed.com/teams/Rohm/code/rohm-tileshield-6sensor-demo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "ALS",

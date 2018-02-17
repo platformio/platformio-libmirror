@@ -4,20 +4,26 @@
         "url": "https://os.mbed.com/users/wvd_vegt/"
     },
     "description": "RIT (Repetitive Interrupt Timer) Library.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/passionvirus/code/ORTP-L_SensorTest/",
+        "https://os.mbed.com/users/passionvirus/code/ORTP-L_V01/",
+        "https://os.mbed.com/users/wjsgur12/code/ORTP-L_V01/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "SuperTweet",
-        "RIT",
-        "SHT21",
-        "adc",
-        "dac",
-        "I2C",
-        "PCF8591",
         "IEEE",
         "mbed",
         "micromouse",
-        "UCLA"
+        "UCLA",
+        "16x2",
+        "freetronics",
+        "LCD",
+        "dynamixel",
+        "MX28",
+        "Servo",
+        "I2C",
+        "software",
+        "RIT"
     ],
     "name": "RIT",
     "platforms": "*",

@@ -5,21 +5,7 @@
     },
     "description": "QuadratureEncoder",
     "frameworks": "mbed",
-    "keywords": [
-        "LED Dimmer",
-        "led driver",
-        "PCA9955",
-        "full-scale",
-        "ITG3200",
-        "gpu",
-        "LCD",
-        "mbed",
-        "mini",
-        "minismartgpu",
-        "smart",
-        "SMARTGPU",
-        "vizic"
-    ],
+    "keywords": "QuadratureEncoder",
     "name": "QuadratureEncoder",
     "platforms": "*",
     "repository": {

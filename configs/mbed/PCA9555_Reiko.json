@@ -4,22 +4,17 @@
         "url": "https://os.mbed.com/users/Reiko/"
     },
     "description": "PCA9555",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Reiko/code/Telliskivi2_2014/",
+        "https://os.mbed.com/teams/Missouri-ST-IEEE-Robotics-Team/code/PowerManagementBoard_Rev_A_2017/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "http",
-        "SSL",
-        "TLS",
-        "LocalFileSystem",
-        "S25FL216K",
-        "USBFileSystem",
-        "mail",
-        "network",
-        "pop3",
-        "dac",
-        "DMA",
-        "function generator",
-        "MODDMA"
+        "IBMIoTF",
+        "IOT",
+        "iotf",
+        "7seg",
+        "LCD"
     ],
     "name": "PCA9555",
     "platforms": "*",

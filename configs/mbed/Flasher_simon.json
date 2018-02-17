@@ -6,15 +6,8 @@
     "description": "A very simple example of a library to flash a DigitalOut, used to demonstrate how to write a library",
     "frameworks": "mbed",
     "keywords": [
-        "SSG",
-        "YMZ294",
-        "digitalOut",
-        "ethernet",
-        "socket",
-        "W5500",
-        "arduino",
-        "Gameduino",
-        "mbeduino"
+        "IR",
+        "digitalOut"
     ],
     "name": "Flasher",
     "platforms": "*",

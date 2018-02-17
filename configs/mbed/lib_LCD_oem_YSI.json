@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/YSI/"
     },
     "description": "lib_LCD_oem",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/YSI/code/lib_LCD_oem_example/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "I2C",

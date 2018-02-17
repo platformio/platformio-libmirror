@@ -4,17 +4,13 @@
         "url": "https://os.mbed.com/users/Yajirushi/"
     },
     "description": "BNO055をI2CとUARTで使用するためのライブラリ。UARTはmbedにて不安定なため使用できるボードとできないボードがある模様。",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Yajirushi/code/BNO055_BME280_/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "rn41",
-        "BNO055",
-        "Elmicro",
-        "FM25W256",
-        "FRAM",
-        "RAMTRON",
-        "SPI",
-        "SSP1"
+        "Serial",
+        "BNO055"
     ],
     "name": "BOARDC_BNO055",
     "platforms": "*",

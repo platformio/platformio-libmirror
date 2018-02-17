@@ -4,17 +4,27 @@
         "url": "https://os.mbed.com/teams/components/"
     },
     "description": "Lib for the LCD Display with ILI9341 controller",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/components/code/SeeedStudioTFTv2/",
+        "https://os.mbed.com/teams/P542-Labs12/code/SeeedStudioTFTv2/",
+        "https://os.mbed.com/users/sjkirby/code/SeeedStudioTFTv2/",
+        "https://os.mbed.com/teams/P542-Labs12/code/SeeedStudioTFTv21/",
+        "https://os.mbed.com/users/bhavk11/code/SeeedStudioTFTv2/",
+        "https://os.mbed.com/users/kaizen/code/SeeedStudioTFTv2/",
+        "https://os.mbed.com/users/MidnightCow/code/SeeedStudioTFTv2/",
+        "https://os.mbed.com/users/pathae/code/Tactile/",
+        "https://os.mbed.com/users/Ganstrich/code/SeeedStudioTFTv2/",
+        "https://os.mbed.com/users/rba90/code/SeeedStudioTFTv2/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "display",
         "ILI9341",
         "LCD",
-        "ADT7410",
-        "Analog Devices",
-        "I2C",
-        "temperature sensor",
-        "mbed"
+        "RF22",
+        "RFM22",
+        "RFM22Max",
+        "wireless"
     ],
     "name": "SPI_TFT_ILI9341",
     "platforms": "*",

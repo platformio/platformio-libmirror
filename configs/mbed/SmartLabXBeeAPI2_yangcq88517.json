@@ -9,8 +9,13 @@
         "api",
         "xbee",
         "zigbee",
-        "radiohead",
-        "ethernet"
+        "Register",
+        "shift",
+        "compass",
+        "HMC5883L",
+        "L298",
+        "motor",
+        "Stepper"
     ],
     "name": "SmartLabXBeeAPI2",
     "platforms": "*",

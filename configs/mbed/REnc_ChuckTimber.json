@@ -4,12 +4,19 @@
         "url": "https://os.mbed.com/users/ChuckTimber/"
     },
     "description": "Rotary Encoder handling library for mbed",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/ChuckTimber/code/MIDI_CW/",
+        "https://os.mbed.com/users/ChuckTimber/code/Gemphet8/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Dynamic",
-        "led",
-        "tlc5940"
+        "14A2A",
+        "ATT",
+        "avnet",
+        "Cellular",
+        "modem",
+        "WNC",
+        "WncController"
     ],
     "name": "REnc",
     "platforms": "*",

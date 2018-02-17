@@ -4,19 +4,11 @@
         "url": "https://os.mbed.com/users/Striker121/"
     },
     "description": "Allows for a 90 frame animated gauge to be display on the uLCD",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "C12832",
-        "LCD",
-        "FM24Vxx",
-        "I2C",
-        "RAMTRON",
-        "FAT",
-        "file",
-        "SD",
-        "System"
+    "examples": [
+        "https://os.mbed.com/users/Striker121/code/uLCDgaugeTest/"
     ],
+    "frameworks": "mbed",
+    "keywords": "uLCD_gauges",
     "name": "uLCD_gauges",
     "platforms": "*",
     "repository": {

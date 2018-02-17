@@ -4,9 +4,14 @@
         "url": "https://os.mbed.com/users/yihui/"
     },
     "description": "LED matrix library for http://goo.gl/y6VnO6",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/yihui/code/led_matrix/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "Humidity",
+        "I2C",
+        "sensor",
         "led",
         "matrix"
     ],

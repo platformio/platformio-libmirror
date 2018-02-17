@@ -4,12 +4,20 @@
         "url": "https://os.mbed.com/users/AndyA/"
     },
     "description": "A low resolution font for LED matrix displays e.g. neopixels",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/AndyA/code/WS2812Text/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "Serial",
-        "sparkfun",
+        "FATFS",
+        "NP8P128A13",
+        "Phase Change RAM",
+        "PRAM",
+        "SPI",
+        "DMA",
+        "fast",
+        "led strip",
+        "LPD8806",
         "font",
         "NeoPixel",
         "WS2812",

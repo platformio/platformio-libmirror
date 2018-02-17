@@ -4,26 +4,16 @@
         "url": "https://os.mbed.com/users/mgolino/"
     },
     "description": "This library sets up and LED volume indication function and reading values from the Electret Microphone - MAX4466 Amplifier",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/mgolino/code/MAX4466_Hello_World/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Humidity",
-        "Sensirion",
-        "sensor",
-        "SHT71",
-        "SHT75",
-        "SHT7x",
-        "Temperature",
-        "Freescale",
-        "FXAS21002CQ",
-        "Giroscope",
-        "ethernet",
-        "socket",
-        "W5500",
-        "C027;",
-        "G350;",
-        "GPS;",
-        "SARA"
+        "accelerometer",
+        "BMC050",
+        "Bosch",
+        "Field",
+        "magnetic"
     ],
     "name": "MAX4466",
     "platforms": "*",

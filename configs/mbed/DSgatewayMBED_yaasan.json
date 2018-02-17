@@ -4,7 +4,10 @@
         "url": "https://os.mbed.com/users/yaasan/"
     },
     "description": "Desktop Station gateway software for mbed",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/yaasan/code/DSGatewayMBED_Nucleo/",
+        "https://os.mbed.com/users/tyamakun/code/DSGatewayMBED_Nucleo_Step128/"
+    ],
     "frameworks": "mbed",
     "keywords": "DSgatewayMBED",
     "name": "DSgatewayMBED",

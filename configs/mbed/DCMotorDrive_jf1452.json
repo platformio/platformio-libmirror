@@ -4,19 +4,21 @@
         "url": "https://os.mbed.com/users/jf1452/"
     },
     "description": "Dual DC Motor Drive using PWM for RenBuggy; there are two inputs to feed a hall sensor for distance / speed feedback.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/jf1452/code/RenBuggy/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "AD5933",
-        "AD5934",
-        "Capacitance",
-        "impedance",
-        "measure",
-        "Meter",
-        "resistance",
         "RenBED",
         "RenBuggy",
-        "Renishaw"
+        "Renishaw",
+        "Humidity",
+        "Sensirion",
+        "sensor",
+        "SHT71",
+        "SHT75",
+        "SHT7x",
+        "Temperature"
     ],
     "name": "DCMotorDrive",
     "platforms": "*",

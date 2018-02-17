@@ -6,14 +6,13 @@
     "description": "SCP1000-D01 MEMS pressure sensor library",
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "graphic",
-        "KS0107",
-        "KS0108",
-        "LCD",
-        "console",
-        "v7",
-        "VGA"
+        "audio",
+        "DISCO_F746NG",
+        "etti",
+        "TUIASI",
+        "Bulk",
+        "Traceport",
+        "USB"
     ],
     "name": "scp1000-D01",
     "platforms": "*",

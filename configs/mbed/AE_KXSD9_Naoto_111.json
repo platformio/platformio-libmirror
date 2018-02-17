@@ -4,12 +4,13 @@
         "url": "https://os.mbed.com/users/Naoto_111/"
     },
     "description": "Library for AE-KXSD9(3 axis accelerometer Module KXSD9-2050)",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Naoto_111/code/LPC1768_AE_KXSD9/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_L476VG",
-        "N25Q128A",
-        "QSPI"
+        "CNMAT",
+        "osc"
     ],
     "name": "AE_KXSD9",
     "platforms": "*",

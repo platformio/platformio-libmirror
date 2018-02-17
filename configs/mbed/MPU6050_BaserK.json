@@ -4,9 +4,19 @@
         "url": "https://os.mbed.com/users/BaserK/"
     },
     "description": "MPU6050 library using i2c interface on LPC1768",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/BaserK/code/gimbalController_brushless_IMU/",
+        "https://os.mbed.com/users/BaserK/code/i2c_MPU6050/",
+        "https://os.mbed.com/users/BaserK/code/IMU_fusion/",
+        "https://os.mbed.com/users/shreyashpalande/code/kpitmpu6050dht11/",
+        "https://os.mbed.com/teams/Coreonetech/code/CORE-1000_MPU6050/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "DipCortex",
+        "USB device",
+        "FRDM-K64F",
+        "fxos8700cq",
         "accelerometer",
         "ANGLE",
         "complementary",
@@ -19,9 +29,7 @@
         "MPU6050",
         "Nucleo F411RE",
         "pitch",
-        "roll",
-        "led",
-        "rgb"
+        "roll"
     ],
     "name": "MPU6050",
     "platforms": "*",

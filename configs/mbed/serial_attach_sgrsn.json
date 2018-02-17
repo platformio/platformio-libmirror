@@ -5,7 +5,17 @@
     },
     "description": "Serial 自動受信割り込み",
     "frameworks": "mbed",
-    "keywords": "serial_attach",
+    "keywords": [
+        "I2C",
+        "MAX30101",
+        "MSS",
+        "MSU",
+        "api",
+        "blink",
+        "led",
+        "dynamixel",
+        "IOT"
+    ],
     "name": "serial_attach",
     "platforms": "*",
     "repository": {

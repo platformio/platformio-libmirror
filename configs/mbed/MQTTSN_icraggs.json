@@ -4,14 +4,18 @@
         "url": "https://os.mbed.com/users/icraggs/"
     },
     "description": "High level MQTT-SN C++ library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/icraggs/code/HelloMQTTSN/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "MQTT",
-        "1.0.3",
         "LCD",
         "ST7032",
-        "TextLCD"
+        "TextLCD",
+        "Thermocouple",
+        "RX8025",
+        "MQTT",
+        "1.0.3"
     ],
     "name": "MQTTSN",
     "platforms": "*",

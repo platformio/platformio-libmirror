@@ -4,14 +4,23 @@
         "url": "https://os.mbed.com/users/MACRUM/"
     },
     "description": "LPC General Purpose Shield (OM13082) LCD module library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/MACRUM/code/OM13082-LCD/",
+        "https://os.mbed.com/users/MACRUM/code/OM13082-test/",
+        "https://os.mbed.com/users/FBSEletronica/code/LPCXpresso4337_OM13082_test/",
+        "https://os.mbed.com/users/uLipe/code/lpc4337_acc_demo/",
+        "https://os.mbed.com/users/uLipe/code/lpc4337_mbed_os_thread_demo/",
+        "https://os.mbed.com/users/uLipe/code/lpc4337_mbed_os_mutex_demo/",
+        "https://os.mbed.com/users/uLipe/code/lpc4337_mbed_os_semaphore_demo/",
+        "https://os.mbed.com/users/dalmago/code/sysClean/",
+        "https://os.mbed.com/users/uLipe/code/ftf_mbed_lab0/",
+        "https://os.mbed.com/users/uLipe/code/ftf_mbed_lab1/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Gatech",
-        "accelerometer",
-        "LSM303DLHC",
-        "magnetometer",
-        "Temperature"
+        "Dynamic",
+        "led",
+        "tlc5940"
     ],
     "name": "ST7567",
     "platforms": "*",

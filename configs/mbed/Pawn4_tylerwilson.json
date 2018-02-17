@@ -4,13 +4,21 @@
         "url": "https://os.mbed.com/users/tylerwilson/"
     },
     "description": "This is the open source Pawn interpreter ported to mbed. See here: http://www.compuphase.com/pawn/pawn.htm and here: http://code.google.com/p/pawnscript/",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/tylerwilson/code/Pawn4Test/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "interpreter",
         "Pawn",
-        "GR-PEACH",
-        "R_BSP"
+        "api",
+        "CSR",
+        "GPS",
+        "Adafruit",
+        "LCD",
+        "S6D02A1",
+        "ST7735",
+        "TFT"
     ],
     "name": "Pawn4",
     "platforms": "*",

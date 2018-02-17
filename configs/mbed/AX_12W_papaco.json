@@ -4,10 +4,11 @@
         "url": "https://os.mbed.com/users/papaco/"
     },
     "description": "Program made to control Dynamixel servos type AX-12W.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/papaco/code/UNIBOT/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "wallbot",
         "AX-12",
         "AX-12W",
         "control",
@@ -17,10 +18,16 @@
         "PAPACO",
         "Robotics",
         "Servo",
-        "Humidity",
-        "Sensirion",
-        "SHT7x",
-        "Temperature"
+        "breakout",
+        "gainspan",
+        "GS1011MIC",
+        "GS1011MIP",
+        "sparkfun",
+        "Wi-Fi",
+        "wifi",
+        "WiFly",
+        "3DOF",
+        "inverse kinematics"
     ],
     "name": "AX_12W",
     "platforms": "*",

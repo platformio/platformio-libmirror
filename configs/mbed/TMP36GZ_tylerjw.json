@@ -4,14 +4,23 @@
         "url": "https://os.mbed.com/users/tylerjw/"
     },
     "description": "simple temperature sensor",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/tylerjw/code/HARP2/",
+        "https://os.mbed.com/users/tylerjw/code/HARP3/",
+        "https://os.mbed.com/users/MarcoAmerena/code/Thermostat_NucleoF401/",
+        "https://os.mbed.com/users/Colmustard/code/4180Lab4_p1/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
+        "4x4",
+        "4x4 Keypad",
+        "keyboard",
+        "keypad",
+        "pullup",
+        "fonts",
+        "TFT",
         "sensor",
         "Temperature",
-        "gyro",
-        "iniparser",
         "TMP",
         "TMP36"
     ],

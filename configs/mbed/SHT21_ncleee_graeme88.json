@@ -4,20 +4,20 @@
         "url": "https://os.mbed.com/users/graeme88/"
     },
     "description": "a library that provides a connection to a SHT21 temperature and humidity sensor",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/graeme88/code/test_ncleee/",
+        "https://os.mbed.com/teams/Weather-man/code/WeatherStation/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "1-wire",
+        "DS18B20",
         "SuperTweet",
-        "RIT",
         "SHT21",
         "adc",
         "dac",
         "I2C",
-        "PCF8591",
-        "IEEE",
-        "mbed",
-        "micromouse",
-        "UCLA"
+        "PCF8591"
     ],
     "name": "SHT21_ncleee",
     "platforms": "*",

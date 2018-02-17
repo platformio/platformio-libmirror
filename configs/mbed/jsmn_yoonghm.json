@@ -4,11 +4,27 @@
         "url": "https://os.mbed.com/users/yoonghm/"
     },
     "description": "C-based memory friendly JSON parser based on Serge Zaitsev's JSMN (https://bitbucket.org/zserge/jsmn/wiki/Home)",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/yoonghm/code/_library_jsmn/",
+        "https://os.mbed.com/users/ajeet3004/code/_library_jsmn/",
+        "https://os.mbed.com/users/wiznetw7500/code/_library_jsmn/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "itoa",
+        "joystick",
+        "LCD",
+        "APIs",
+        "extension",
+        "generic",
+        "http",
+        "web server",
+        "I2C_EEPROM",
         "JSON",
-        "Servo"
+        "https",
+        "mbedTLS",
+        "SSL",
+        "Graphics"
     ],
     "name": "jsmn",
     "platforms": "*",

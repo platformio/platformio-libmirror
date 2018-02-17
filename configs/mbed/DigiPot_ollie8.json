@@ -6,10 +6,9 @@
     "description": "A simple library for controlling an MCP4241 digital potentiometer",
     "frameworks": "mbed",
     "keywords": [
-        "at25sf041",
-        "flash",
-        "SPI",
-        "PID"
+        "decoder",
+        "Encoder",
+        "Morse"
     ],
     "name": "DigiPot",
     "platforms": "*",

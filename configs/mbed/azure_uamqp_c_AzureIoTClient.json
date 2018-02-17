@@ -4,11 +4,15 @@
         "url": "https://os.mbed.com/users/AzureIoTClient/"
     },
     "description": "A small memory footprint AMQP implimentation",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/AzureIoTClient/code/iothub_client_sample_amqp/",
+        "https://os.mbed.com/users/AzureIoTClient/code/remote_monitoring/",
+        "https://os.mbed.com/users/AzureIoTClient/code/simplesample_amqp/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "GPIO Exoender",
-        "MCP23017"
+        "MCP4921",
+        "SPI"
     ],
     "name": "azure_uamqp_c",
     "platforms": "*",

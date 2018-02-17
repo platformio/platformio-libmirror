@@ -4,11 +4,16 @@
         "url": "https://os.mbed.com/users/Electrotiger/"
     },
     "description": "Driver for the JY-MCU v1.06 HC-06 Bluetooth module.",
+    "examples": [
+        "https://os.mbed.com/users/TuxLeon/code/DISCO-F746NG_rtos_test/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "meters",
-        "sparkfun",
-        "weather"
+        "FOTA",
+        "LPC1768",
+        "SW Update",
+        "MAX7456",
+        "osd"
     ],
     "name": "HC06Bluetooth",
     "platforms": "*",

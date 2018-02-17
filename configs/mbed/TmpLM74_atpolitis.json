@@ -6,12 +6,10 @@
     "description": "LM74 temperature sensor Library on SPI I/F",
     "frameworks": "mbed",
     "keywords": [
-        "MPL115A1",
-        "pressure",
-        "sensor",
-        "sparkfun",
         "mbed",
-        "LM61"
+        "display",
+        "menu",
+        "push buttons"
     ],
     "name": "TmpLM74",
     "platforms": "*",

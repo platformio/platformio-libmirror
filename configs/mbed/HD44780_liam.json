@@ -6,15 +6,13 @@
     "description": "the code need imporve later",
     "frameworks": "mbed",
     "keywords": [
-        "HD44780",
-        "buffer",
-        "ring",
-        "quadcopter",
-        "Servo",
-        "Nucleo",
-        "stm32",
-        "Wi-Fi",
-        "X-NUCLEO-IDW01M1"
+        "authorization",
+        "client",
+        "custom",
+        "headers",
+        "http",
+        "HTTPClient",
+        "HD44780"
     ],
     "name": "HD44780",
     "platforms": "*",

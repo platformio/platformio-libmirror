@@ -4,9 +4,18 @@
         "url": "https://os.mbed.com/users/jurica238814/"
     },
     "description": "SAADC library and drivers for nrf52832.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/jurica238814/code/acd52832_SAADC_Differential_input_EPD/",
+        "https://os.mbed.com/teams/aconno-dev-team/code/acd52832_3_Analog_In/",
+        "https://os.mbed.com/users/jurica238814/code/acd52832_Car_battery_ch/",
+        "https://os.mbed.com/users/jurica238814/code/acd52832_Car_battery_ch_2/"
+    ],
     "frameworks": "mbed",
-    "keywords": "acn_nrf52_saadc",
+    "keywords": [
+        "MCP4018",
+        "display",
+        "output"
+    ],
     "name": "acn_nrf52_saadc",
     "platforms": "*",
     "repository": {

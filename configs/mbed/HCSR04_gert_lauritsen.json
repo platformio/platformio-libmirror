@@ -4,19 +4,22 @@
         "url": "https://os.mbed.com/users/gert_lauritsen/"
     },
     "description": "A library for the HCSR04 sensor. work with interrupt",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/gert_lauritsen/code/AdrianLysShow/",
+        "https://os.mbed.com/users/arno3456/code/AdrianLysShow/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "distance",
-        "HCSR04",
-        "sensor",
         "DS18B20",
         "DS2450",
         "MAX31850",
         "Thermocouple",
-        "Accessory",
-        "ADK",
-        "android"
+        "distance",
+        "HCSR04",
+        "sensor",
+        "LCD",
+        "Serial",
+        "sparkfun"
     ],
     "name": "HCSR04",
     "platforms": "*",

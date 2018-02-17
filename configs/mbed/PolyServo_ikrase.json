@@ -4,14 +4,21 @@
         "url": "https://os.mbed.com/users/ikrase/"
     },
     "description": "Library for interrupt-based control of multiple RC servos. No PWM pins required.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/ikrase/code/Quadrapod/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "64F",
+        "FRDM",
+        "I2S",
+        "game",
+        "inheritance",
+        "OOP",
+        "polymorphism",
+        "tutorial",
         "Robotics",
-        "Servo",
-        "F746NG",
-        "RTC",
-        "Touchscreen"
+        "Servo"
     ],
     "name": "PolyServo",
     "platforms": "*",

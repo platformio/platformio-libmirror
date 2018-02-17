@@ -4,16 +4,28 @@
         "url": "https://os.mbed.com/users/TheChrisyd/"
     },
     "description": "Library for the nRF2401A Transceiver",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/TheChrisyd/code/nRF2401A_Hello_World/",
+        "https://os.mbed.com/users/TheChrisyd/code/nRF2401A_Wireless_Accelerometer_joypad/",
+        "https://os.mbed.com/users/TheChrisyd/code/nRF2401A_Gameduino_Invaders/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "nRF2401A",
+        "OLED",
+        "Organic-LED",
+        "SO1602A",
+        "EPSON",
+        "RTC",
+        "TOYOCOM",
+        "GPS",
         "ALS",
         "ambient light sensor",
         "I2C",
         "ISL29125",
         "rgb",
-        "GPS"
+        "FRDM-K22F",
+        "fxos8700cq"
     ],
     "name": "nRF2401A",
     "platforms": "*",

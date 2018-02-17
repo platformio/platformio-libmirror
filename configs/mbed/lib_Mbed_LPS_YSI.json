@@ -5,7 +5,12 @@
     },
     "description": "lib_Mbed_LPS",
     "frameworks": "mbed",
-    "keywords": "lib_Mbed_LPS",
+    "keywords": [
+        "AK8963",
+        "AKM",
+        "magnetic sensor",
+        "magnetometer"
+    ],
     "name": "lib_Mbed_LPS",
     "platforms": "*",
     "repository": {

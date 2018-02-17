@@ -4,12 +4,19 @@
         "url": "https://os.mbed.com/users/okano/"
     },
     "description": "Component class library for PCT2075 and LM75B.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/okano/code/PCT2075_Hello/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Expander",
-        "I2C",
-        "PCA9538",
+        "control",
+        "dot",
+        "Dynamic",
+        "gray",
+        "led",
+        "lighting",
+        "matrix",
+        "scale",
         "LM75B",
         "PCT2075",
         "sensor",

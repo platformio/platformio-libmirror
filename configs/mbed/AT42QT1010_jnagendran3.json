@@ -4,9 +4,18 @@
         "url": "https://os.mbed.com/users/jnagendran3/"
     },
     "description": "Class header for the AT42QT1010 device.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/jnagendran3/code/AT42QT1010_Hello_world/"
+    ],
     "frameworks": "mbed",
-    "keywords": "AT42QT1010",
+    "keywords": [
+        "2017NOSHIRO",
+        "AT42QT1010",
+        "Altimeter",
+        "barometer",
+        "I2C",
+        "ms5637"
+    ],
     "name": "AT42QT1010",
     "platforms": "*",
     "repository": {

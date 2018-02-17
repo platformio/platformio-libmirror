@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/p3p/"
     },
     "description": "A Composite device with USBSerial and USBKeyboard",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/p3p/code/USBSerialKeyboard_Example/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "Composite",
@@ -16,7 +18,8 @@
         "convert",
         "Slider",
         "to",
-        "touch"
+        "touch",
+        "ROS"
     ],
     "name": "USBSerialKeyboard",
     "platforms": "*",

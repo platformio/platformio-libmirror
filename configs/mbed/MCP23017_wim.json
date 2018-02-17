@@ -4,9 +4,18 @@
         "url": "https://os.mbed.com/users/wim/"
     },
     "description": "Added support for banked registers",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/mehatfie/code/Component_Test_Interface/",
+        "https://os.mbed.com/users/mehatfie/code/FalconWing/",
+        "https://os.mbed.com/users/mehatfie/code/MX_Spoile_Test/",
+        "https://os.mbed.com/teams/Component-Test-Group/code/Simple_Power_Distribution/",
+        "https://os.mbed.com/teams/IMaR/code/MCP_test_mod/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "BLDC",
+        "driver",
+        "motor",
         "i2c expander",
         "MCP23017"
     ],

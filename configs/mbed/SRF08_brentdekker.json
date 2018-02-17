@@ -4,19 +4,20 @@
         "url": "https://os.mbed.com/users/brentdekker/"
     },
     "description": "Library for interfacing the SRF08 ultrasonic range sensor. Most functions of the SRF08 are covered, including interrupt-based waiting for the ranging process to finish",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/dommbed/code/DISCO-F746NG_LCDTS_demo/",
+        "https://os.mbed.com/teams/eWolf-4-Regelung/code/Srf08Test/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "AnalogIn",
+        "2x40",
+        "40x2",
+        "HD44780",
+        "LCD",
+        "ST7066U",
         "range",
         "sensor",
-        "SRF08",
-        "16x2",
-        "4-bit",
-        "4bit",
-        "KS0066U",
-        "LCD",
-        "LCD 16x2"
+        "SRF08"
     ],
     "name": "SRF08",
     "platforms": "*",

@@ -4,12 +4,32 @@
         "url": "https://os.mbed.com/users/mfiore/"
     },
     "description": "fork of http://developer.mbed.org/users/jwende/code/MQTT/, removed inclusion of EthernetInterface.h",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/mfiore/code/2lemetry/",
+        "https://os.mbed.com/teams/AerCloud/code/AerCloud_MutliTech_Socket_Modem_Example/",
+        "https://os.mbed.com/users/BlueShadow/code/MultiTech_AerCloud_ST-sensor_Modem/",
+        "https://os.mbed.com/users/BlueShadow/code/MultiTech_ST_Aeris_Demo/",
+        "https://os.mbed.com/teams/Multi-Hackers/code/2lemetry_Sensor_Example/",
+        "https://os.mbed.com/teams/MultiTech/code/2lemetry_Sensor_Example/",
+        "https://os.mbed.com/users/BlueShadow/code/YYY_Dragonfly_ST_MEMS/",
+        "https://os.mbed.com/teams/AerCloud/code/Aeris_Moisture_Workshop/",
+        "https://os.mbed.com/users/BlueShadow/code/YYY_Dragonfly_ST_MEMS_2015-10/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "GPS",
-        "ublox",
-        "Vodafone"
+        "atmospheric pressure",
+        "I2C",
+        "lps25h",
+        "display",
+        "led",
+        "numeric",
+        "Seven-Segment",
+        "bluetooth",
+        "camera",
+        "JPEG",
+        "LinkSprite",
+        "LS-Y201",
+        "Serial"
     ],
     "name": "MQTT",
     "platforms": "*",

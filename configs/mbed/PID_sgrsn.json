@@ -4,13 +4,20 @@
         "url": "https://os.mbed.com/users/sgrsn/"
     },
     "description": "Ultimate Gain method",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/sgrsn/code/2016_slave_MD_rorikon/",
+        "https://os.mbed.com/teams/robocon_2016/code/2016_slave_MD_rorikon/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "at25sf041",
-        "flash",
-        "SPI",
-        "PID"
+        "PID",
+        "4094",
+        "7segm",
+        "display",
+        "led",
+        "segment",
+        "shift",
+        "sr"
     ],
     "name": "PID",
     "platforms": "*",

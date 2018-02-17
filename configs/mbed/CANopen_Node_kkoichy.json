@@ -4,16 +4,18 @@
         "url": "https://os.mbed.com/users/kkoichy/"
     },
     "description": "Simplified CANopen library for a CANopen slave device",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/Team-Projet-Robot-Barman/code/SDC21XX_Motor/",
+        "https://os.mbed.com/users/kkoichy/code/SDC21XX_Motor/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "4x3",
-        "AE-KIT45-KEYPAD4X3",
-        "Akizuki",
-        "key",
-        "matrix",
-        "switch",
-        "CANopen"
+        "CANopen",
+        "arduino",
+        "millis",
+        "Modbus",
+        "MODSERIAL",
+        "rtu"
     ],
     "name": "CANopen_Node",
     "platforms": "*",

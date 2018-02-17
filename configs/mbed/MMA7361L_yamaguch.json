@@ -4,7 +4,10 @@
         "url": "https://os.mbed.com/users/yamaguch/"
     },
     "description": "MMA7361L interface",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/yamaguch/code/MMA7361L_Example/",
+        "https://os.mbed.com/users/AkiraK/code/ARLISS2012_Hidaka/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "HCSR04",
@@ -20,8 +23,8 @@
         "HMC5883L",
         "magnetometer",
         "sparkfun",
-        "MMA7361L",
-        "TextLCD"
+        "TextLCD",
+        "MMA7361L"
     ],
     "name": "MMA7361L",
     "platforms": "*",

@@ -4,17 +4,12 @@
         "url": "https://os.mbed.com/users/joeh/"
     },
     "description": "mpl115A2 i2c pressure and temperature sensor",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/kanpapa/code/HTTPClient_SuperTweet_MPL115A2/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "MPL115A2",
-        "I2C",
-        "interrupt",
-        "slave",
-        "5110",
-        "84x48",
-        "display",
-        "Nokia",
         "ADXL345",
         "AHRS",
         "ANGLE",
@@ -22,7 +17,11 @@
         "HMC5883",
         "IMU",
         "l3g4200d",
-        "sensor"
+        "sensor",
+        "5110",
+        "84x48",
+        "display",
+        "Nokia"
     ],
     "name": "mpl115a2",
     "platforms": "*",

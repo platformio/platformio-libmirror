@@ -4,9 +4,24 @@
         "url": "https://os.mbed.com/users/rominos2/"
     },
     "description": "A light Command Dispatcher Library with commands linked to your functions.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/danjulio/code/Rocket/"
+    ],
     "frameworks": "mbed",
-    "keywords": "command",
+    "keywords": [
+        "command",
+        "Olimex",
+        "SHIELD-LCD",
+        "dc-motor",
+        "Freescale",
+        "hbridge",
+        "MC33926",
+        "motor",
+        "Elecret Microphone",
+        "MAX9814",
+        "sound",
+        "Volume Indicator"
+    ],
     "name": "CommandDispatcher",
     "platforms": "*",
     "repository": {

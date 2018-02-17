@@ -6,12 +6,12 @@
     "description": "BLE Button example",
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit 9DOF",
-        "L3GD20H",
         "BLE",
         "BLE Bluetooth Low Energy BLE",
         "BUTTON",
-        "LIN"
+        "12BIT",
+        "adc",
+        "I2C"
     ],
     "name": "mbed-os-example-ble-Button",
     "platforms": "*",

@@ -4,9 +4,29 @@
         "url": "https://os.mbed.com/users/xeta05/"
     },
     "description": "Changed to add KL25Z.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/def/code/ABBlind_hardware_test/",
+        "https://os.mbed.com/users/tony63/code/Tarea_Reloj_mayamira/",
+        "https://os.mbed.com/users/tulanthoar/code/Nucleo_read_button_interrupt_copy/",
+        "https://os.mbed.com/users/zathorix/code/SOS_MAIN/",
+        "https://os.mbed.com/users/Marrkk_92/code/SOS_V1/",
+        "https://os.mbed.com/users/zathorix/code/SOS_V1/"
+    ],
     "frameworks": "mbed",
-    "keywords": "PinDetect",
+    "keywords": [
+        "W5200",
+        "WIZ820IO",
+        "led",
+        "LPD8803",
+        "LPD8806",
+        "LPD8809",
+        "SPI",
+        "OAuth",
+        "twitter",
+        "arbitrary precision",
+        "bigint",
+        "bignum"
+    ],
     "name": "PinDetect",
     "platforms": "*",
     "repository": {

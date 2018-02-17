@@ -5,7 +5,13 @@
     },
     "description": "Library for accelerometer KXR94-2050",
     "frameworks": "mbed",
-    "keywords": "KXR94_2050",
+    "keywords": [
+        "display",
+        "grafical",
+        "LCD",
+        "LS020",
+        "S65"
+    ],
     "name": "KXR94_2050",
     "platforms": "*",
     "repository": {

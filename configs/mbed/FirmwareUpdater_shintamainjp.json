@@ -4,21 +4,18 @@
         "url": "https://os.mbed.com/users/shintamainjp/"
     },
     "description": "The FirmwareUpdater is a mbed firmware update library with HTTP server on cloud.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/FirmwareUpdater_TestProgram/",
+        "https://os.mbed.com/users/abe00makoto/code/geigercounter04/",
+        "https://os.mbed.com/users/Aaronduino/code/firm/",
+        "https://os.mbed.com/users/vinajarr/code/LPC1768_up_frim/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "pressure",
-        "sensor",
-        "Temperature",
         "cloud",
         "firmware",
         "update",
-        "debug",
-        "1-wire",
-        "DALLAS",
-        "DS18B20",
-        "OneWire",
-        "thermometer"
+        "debug"
     ],
     "name": "FirmwareUpdater",
     "platforms": "*",

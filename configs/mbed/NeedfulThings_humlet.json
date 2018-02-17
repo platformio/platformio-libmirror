@@ -4,18 +4,21 @@
         "url": "https://os.mbed.com/users/humlet/"
     },
     "description": "Some useful stuff",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/humlet/code/FtEncoder/",
+        "https://os.mbed.com/users/humlet/code/FtControlSet/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "frequency",
-        "measurement",
-        "Pulsewidth",
         "circular buffer",
         "FIFO",
         "Queue",
         "ring buffer",
         "stack",
-        "Template"
+        "Template",
+        "I2C",
+        "SP03",
+        "speech"
     ],
     "name": "NeedfulThings",
     "platforms": "*",

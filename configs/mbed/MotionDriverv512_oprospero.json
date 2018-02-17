@@ -4,9 +4,19 @@
         "url": "https://os.mbed.com/users/oprospero/"
     },
     "description": "InvenSense Motion Driver v5.1.2 ported",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/oprospero/code/Sensorv2/"
+    ],
     "frameworks": "mbed",
-    "keywords": "MotionDriverv512",
+    "keywords": [
+        "Encoder",
+        "QEI",
+        "quadrature",
+        "digital out",
+        "FRDMKL25Z",
+        "mbed",
+        "rpc"
+    ],
     "name": "MotionDriverv512",
     "platforms": "*",
     "repository": {

@@ -4,13 +4,11 @@
         "url": "https://os.mbed.com/users/OPSHUD/"
     },
     "description": "PWM/Direction Motor Driver compatible with VNH3SP30 Motor Driver Carrier MD01B",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "NetServices",
-        "network",
-        "NTP"
+    "examples": [
+        "https://os.mbed.com/users/denden/code/RoboCup_2015/"
     ],
+    "frameworks": "mbed",
+    "keywords": "PWMMotorDriver",
     "name": "PWMMotorDriver",
     "platforms": "*",
     "repository": {

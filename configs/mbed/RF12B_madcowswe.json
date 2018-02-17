@@ -4,15 +4,16 @@
         "url": "https://os.mbed.com/users/madcowswe/"
     },
     "description": "Working lib for qq v2",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/xiaxia686/code/Sonar_Beacon/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "MCB1700",
-        "STMPE811",
-        "Touchscreen",
         "ICRS",
-        "rf12B"
+        "rf12B",
+        "HC-SR04",
+        "Microbit",
+        "ultrasound"
     ],
     "name": "RF12B",
     "platforms": "*",

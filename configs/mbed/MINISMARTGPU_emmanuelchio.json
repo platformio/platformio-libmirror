@@ -4,14 +4,16 @@
         "url": "https://os.mbed.com/users/emmanuelchio/"
     },
     "description": "Mini SmartGPU Intelligent Graphics Processor. Mbed library Rev1.0 Vizic Technologies 2012 http://vizictechnologies.com/#/mini-smart-gpu/4566376187",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/emmanuelchio/code/BounceBallMSG/",
+        "https://os.mbed.com/users/emmanuelchio/code/BouncingBallsMSG/",
+        "https://os.mbed.com/users/emmanuelchio/code/HouseMSG/",
+        "https://os.mbed.com/users/emmanuelchio/code/NiceClockMSG/",
+        "https://os.mbed.com/users/emmanuelchio/code/PhotoFrameMSG/",
+        "https://os.mbed.com/users/emmanuelchio/code/SimpleClockMSG/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "LED Dimmer",
-        "led driver",
-        "PCA9955",
-        "full-scale",
-        "ITG3200",
         "gpu",
         "LCD",
         "mbed",
@@ -19,7 +21,10 @@
         "minismartgpu",
         "smart",
         "SMARTGPU",
-        "vizic"
+        "vizic",
+        "VGA",
+        "video",
+        "JPEG"
     ],
     "name": "MINISMARTGPU",
     "platforms": "*",

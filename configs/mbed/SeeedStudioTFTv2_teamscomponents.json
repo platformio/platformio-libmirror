@@ -4,7 +4,14 @@
         "url": "https://os.mbed.com/teams/components/"
     },
     "description": "Library for SeeedStudioTFTv2 2.8 Zoll 240x360 pixel touch SD card",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/robouden/code/Seeed_TFT_Touch_Shield/",
+        "https://os.mbed.com/teams/shields/code/Seeed_TFT_Touch_Shield/",
+        "https://os.mbed.com/users/hcseran/code/Adafruit_TFT_Touch_Shield/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_SpectrumAnalyzer/",
+        "https://os.mbed.com/users/pathae/code/Seeed_TFT_Touch_Shield2/",
+        "https://os.mbed.com/users/pathae/code/Seeed_TFT_Touch_Shield_2TSSNEC/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "Seeed-Studio-28-TFT-Touch-Shield-V20",

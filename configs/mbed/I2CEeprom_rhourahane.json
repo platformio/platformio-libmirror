@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/rhourahane/"
     },
     "description": "Class to provide simple access to I2C EEPROM chiles like Microchip's 24LC range or AMTELS AT24C range. Chips up to 64Kb in size are directly supported.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/rhourahane/code/Test_I2CEeprom/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "HAM-radio",

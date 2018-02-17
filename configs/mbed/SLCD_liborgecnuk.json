@@ -4,15 +4,15 @@
         "url": "https://os.mbed.com/users/liborgecnuk/"
     },
     "description": "SCLD peripheral of the KL46Z - with sign \"-\" just for USB Academy",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/wue/code/KL46Z-Lab2_lodz/",
+        "https://os.mbed.com/users/Osator/code/KL46Z-Lab2_fullll/",
+        "https://os.mbed.com/users/zochmen/code/KL46Z-Lab2_szkolenie/",
+        "https://os.mbed.com/users/wue/code/kL46Z-Lab3-lodz/",
+        "https://os.mbed.com/users/bclaus/code/RCSailboatController/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "heading",
-        "HMC5843",
-        "magnetic",
-        "sensor",
-        "ILI9341",
-        "TFT",
         "BLE",
         "nRF8001",
         "RedBearLab",
@@ -20,7 +20,13 @@
         "KL46",
         "kl46z",
         "LCD",
-        "SLCD"
+        "SLCD",
+        "led",
+        "led strip",
+        "MPU-9250",
+        "Sensirion",
+        "SHT21",
+        "touch"
     ],
     "name": "SLCD-",
     "platforms": "*",

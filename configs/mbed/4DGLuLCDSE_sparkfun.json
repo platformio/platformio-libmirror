@@ -4,7 +4,18 @@
         "url": "https://os.mbed.com/users/sparkfun/"
     },
     "description": "Fork of the 4DGL-uLCD-SE library by Jim Hamblen.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/wye11/code/ulcd_demo/",
+        "https://os.mbed.com/users/wye11/code/ulcd_accel/",
+        "https://os.mbed.com/users/wye11/code/internet_clock/",
+        "https://os.mbed.com/teams/4180/code/4180_Final_Project/",
+        "https://os.mbed.com/teams/4180/code/4180_Final_Project_WaveProblems/",
+        "https://os.mbed.com/users/agamemaker/code/4180_Final_Project/",
+        "https://os.mbed.com/users/agamemaker/code/final_serial/",
+        "https://os.mbed.com/teams/4180/code/weather_Nokia_LCD_display_yahoo/",
+        "https://os.mbed.com/teams/4180/code/final_serial/",
+        "https://os.mbed.com/teams/4180/code/weather/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "arduino",
@@ -16,16 +27,17 @@
         "LSM6DS3",
         "Nucleo",
         "X-NUCLEO-IKS01A1",
-        "STM32F103C8T6",
+        "4DGL-uLCD-SE",
         "application board",
         "LCD",
-        "4DGL-uLCD-SE",
+        "I2C",
+        "OLED",
+        "SSD1308",
         "camera",
         "color",
         "JPEG",
         "LinkSprite",
-        "LS-Y201",
-        "LPC4088"
+        "LS-Y201"
     ],
     "name": "4DGL-uLCD-SE",
     "platforms": "*",

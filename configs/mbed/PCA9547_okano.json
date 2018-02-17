@@ -4,13 +4,16 @@
         "url": "https://os.mbed.com/users/okano/"
     },
     "description": "PCA9547: an I2C bus multiplexer control library.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/okano/code/pca9547_Hello/",
+        "https://os.mbed.com/users/sillevl/code/m3Dpi/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "HD44780",
+        "Armand",
+        "Coetzer",
         "I2C multiplexer",
-        "PCA9547",
-        "basicauth"
+        "PCA9547"
     ],
     "name": "PCA9547",
     "platforms": "*",

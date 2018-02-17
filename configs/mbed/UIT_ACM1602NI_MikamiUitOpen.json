@@ -4,15 +4,27 @@
         "url": "https://os.mbed.com/users/MikamiUitOpen/"
     },
     "description": "Class library for LCD character display ACM1602NI using I2C on Nucleo.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VariableFIR_LPFHPF/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VariableFIR_LPF/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_InputSW_LCD/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/ADDA_Prototype_PollingSW/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/ADDA_Prototype2_Interrupt/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/ADDA_Prototype_Polling/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_LCD_Demo/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_MovingAv_Intr/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VariableFIR/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VowelSynthesizer/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "7",
+        "display",
+        "segment",
         "ACM1602NI",
         "I2C",
         "LCD",
-        "Nucleo",
-        "ADXL345",
-        "sparkfun"
+        "Nucleo"
     ],
     "name": "UIT_ACM1602NI",
     "platforms": "*",

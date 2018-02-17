@@ -6,9 +6,8 @@
     "description": "//TemperatureRecorder class",
     "frameworks": "mbed",
     "keywords": [
-        "Bluetooth module",
-        "rn41",
-        "RN42"
+        "Adafruit",
+        "PCA9685"
     ],
     "name": "temperatureRecorder",
     "platforms": "*",

@@ -4,18 +4,25 @@
         "url": "https://os.mbed.com/users/gsteiert/"
     },
     "description": "MAX14661 Serial Controlled 16:2 Multiplexer",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/gsteiert/code/MBD2PMD_WebServer/",
+        "https://os.mbed.com/users/gsteiert/code/ARD2PMD_WebServer/",
+        "https://os.mbed.com/users/gsteiert/code/MAX14661_DEMO/",
+        "https://os.mbed.com/users/gsteiert/code/MAX3232_DEMO/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Calibrate",
-        "compass",
-        "Magneto",
         "MAX14661",
         "mux",
-        "AT45DBxx",
-        "USBMSD",
         "4D Systems",
-        "LDC-43PCt"
+        "LDC-43PCt",
+        "control",
+        "Kinematics",
+        "lauther",
+        "math",
+        "matrix",
+        "mobile",
+        "robot"
     ],
     "name": "MAX14661",
     "platforms": "*",

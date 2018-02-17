@@ -4,13 +4,18 @@
         "url": "https://os.mbed.com/users/Searle95/"
     },
     "description": "Base library for various projects.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Searle95/code/LEDFun/",
+        "https://os.mbed.com/users/Searle95/code/NetTester/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "SPI",
-        "DC",
+        "driver",
+        "L6208",
+        "microstep",
         "motor",
-        "PM motor"
+        "ST",
+        "Stepper"
     ],
     "name": "Functions",
     "platforms": "*",

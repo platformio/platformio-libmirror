@@ -4,13 +4,25 @@
         "url": "https://os.mbed.com/users/bobboteck/"
     },
     "description": "A Library to control I2C SRF02 sensor",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/BPPearson/code/LPC1768BagSensor/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "CommandProcessor",
+        "Embedded",
+        "interactive",
+        "menu",
+        "ds1302",
+        "RTC",
         "Ranging",
         "sensor",
         "SRF02",
-        "ultrasonic"
+        "ultrasonic",
+        "bt",
+        "UART",
+        "LCD",
+        "window"
     ],
     "name": "SRF02",
     "platforms": "*",

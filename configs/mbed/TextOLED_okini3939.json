@@ -4,9 +4,13 @@
         "url": "https://os.mbed.com/users/okini3939/"
     },
     "description": "mbed TextOLED Library, for a 4-bit LCD based on Winstar WEH000000 series",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/m0dts/code/Dawson_Controller/",
+        "https://os.mbed.com/users/Joeatsumi/code/allsystem_2/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "4DGL",
         "channel",
         "MIDI",
         "Note",
@@ -14,9 +18,6 @@
         "Serial",
         "UART",
         "velocity",
-        "adc",
-        "ads1015",
-        "ads1115",
         "OLED",
         "TextLCD",
         "WEH000802",

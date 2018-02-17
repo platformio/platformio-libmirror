@@ -4,13 +4,24 @@
         "url": "https://os.mbed.com/users/jebradshaw/"
     },
     "description": "Simple DC motor control commands for driving DC motor conroller with PWM and up to 2 direction signals (complementary). Takes float value from -1.0 to 1.0.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/jebradshaw/code/Axis/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "SPI",
         "DC",
         "motor",
-        "PM motor"
+        "PM motor",
+        "bluetooth",
+        "bt",
+        "rtos",
+        "digital pot",
+        "digital potentiometer",
+        "MCP4131",
+        "MCP4132",
+        "MCP4241",
+        "MCP4XXX",
+        "SPI"
     ],
     "name": "MotCon",
     "platforms": "*",

@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Rod Coleman",
+        "url": "https://os.mbed.com/users/RodColeman/"
+    },
+    "description": "Driver for Text OLED display - 20x4 Winstar or Newhaven, with Winstar WS0010 driver IC",
+    "frameworks": "mbed",
+    "keywords": [
+        "file",
+        "flash",
+        "FlashFileSystem",
+        "System",
+        "4G cellular",
+        "lte",
+        "sakura internet",
+        "Sakura IoT Platform",
+        "sakuraio",
+        "SCM-LTE-01",
+        "SCM-LTE-beta",
+        "card",
+        "reader",
+        "Wiegand",
+        "display",
+        "OLED",
+        "text",
+        "Light Sensor Array",
+        "pololu",
+        "QTR"
+    ],
+    "name": "TextOLED20x4",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RodColeman/code/TextOLED20x4/"
+    }
+}

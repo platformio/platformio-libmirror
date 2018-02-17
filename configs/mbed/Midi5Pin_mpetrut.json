@@ -4,12 +4,17 @@
         "url": "https://os.mbed.com/users/mpetrut/"
     },
     "description": "Simple mbed 5-pin DIN to USB MIDI Converter library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/mpetrut/code/5-PinMIDIDemo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "CAN",
-        "can bus",
-        "FIFO"
+        "inair4",
+        "inair8",
+        "inair9",
+        "Lora",
+        "modtronix",
+        "SX1276"
     ],
     "name": "Midi5Pin",
     "platforms": "*",

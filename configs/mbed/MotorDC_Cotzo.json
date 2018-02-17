@@ -5,15 +5,7 @@
     },
     "description": "Interface for driving a driver motor dc with control pwm.",
     "frameworks": "mbed",
-    "keywords": [
-        "bus switch",
-        "I2C",
-        "PCA9546A",
-        "1wire",
-        "DS18B20",
-        "OneWire",
-        "motorDC"
-    ],
+    "keywords": "motorDC",
     "name": "MotorDC",
     "platforms": "*",
     "repository": {

@@ -6,8 +6,18 @@
     "description": "Library for the OLIMEX_LTD SHIELD-LCD16x2 two-rows display (compatible with the shield layout of Arduino)",
     "frameworks": "mbed",
     "keywords": [
+        "command",
         "Olimex",
-        "SHIELD-LCD"
+        "SHIELD-LCD",
+        "dc-motor",
+        "Freescale",
+        "hbridge",
+        "MC33926",
+        "motor",
+        "Elecret Microphone",
+        "MAX9814",
+        "sound",
+        "Volume Indicator"
     ],
     "name": "SHIELD_LCD16x2",
     "platforms": "*",

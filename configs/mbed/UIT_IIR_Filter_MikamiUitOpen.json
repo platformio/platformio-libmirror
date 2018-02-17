@@ -4,20 +4,18 @@
         "url": "https://os.mbed.com/users/MikamiUitOpen/"
     },
     "description": "縦続形 IIR フィルタ用ライブラリ．",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/Demo_IIR_Filter/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VariableIIR_LPF/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VariableIIR_LPFHPF/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "biduad",
         "cascade structure",
         "IIR filter",
         "Nucleo",
-        "UIT",
-        "ITDB_02",
-        "TFTCLD",
-        "Touch Screen",
-        "Touchscreen",
-        "XPT2046",
-        "BME280"
+        "UIT"
     ],
     "name": "UIT_IIR_Filter",
     "platforms": "*",

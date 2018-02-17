@@ -4,12 +4,13 @@
         "url": "https://os.mbed.com/users/dreamworker/"
     },
     "description": "Library for 16-channel, 12-bit PWM controller NXP PCA9685.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/dreamworker/code/PCA9685_Hello_World/",
+        "https://os.mbed.com/users/dreamworker/code/PCA9685_with_LED/",
+        "https://os.mbed.com/users/wrxavex/code/PCA9685/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "802.15.4",
-        "wireless",
-        "xbee",
         "BSP",
         "DISCO_L476VG",
         "Nucleo",

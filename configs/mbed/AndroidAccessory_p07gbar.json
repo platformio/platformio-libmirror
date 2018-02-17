@@ -4,13 +4,26 @@
         "url": "https://os.mbed.com/users/p07gbar/"
     },
     "description": "The modified AndroidAccessory Library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/p07gbar/code/ADKTerm/",
+        "https://os.mbed.com/users/DanielC/code/droidcycle/",
+        "https://os.mbed.com/users/diepvriezer/code/uva_nc/",
+        "https://os.mbed.com/users/aapje123/code/androidservo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "POSIX",
+        "rtos",
         "ADK",
         "android",
         "USB",
-        "MPL115A2"
+        "MPL115A2",
+        "xbee",
+        "xbee library",
+        "XBEE pro",
+        "xbee programming",
+        "xbeeapi",
+        "xbeelibrary"
     ],
     "name": "AndroidAccessory",
     "platforms": "*",

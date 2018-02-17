@@ -6,12 +6,9 @@
     "description": "QTR1RC class is the interface to read the Pololu QTR-xRC Reflectance Sensor.",
     "frameworks": "mbed",
     "keywords": [
-        "64 bit",
-        "timer class",
-        "Data Logging",
-        "datalog",
-        "FRAM",
-        "log"
+        "cmsis",
+        "rtos",
+        "RTX"
     ],
     "name": "QTR1RC",
     "platforms": "*",

@@ -4,23 +4,27 @@
         "url": "https://os.mbed.com/users/elrafapadron/"
     },
     "description": "Add functions to get Mx, My and Mz.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Digixx/code/9DOF-Stick/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_program_ver2/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_program_ver2_yokokawa/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver1/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver2/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver3/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver3_1/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver3_temp/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver3_3/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver3_3_1/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "xml",
         "heading",
         "HMC5843",
         "magnetic",
         "sensor",
         "ILI9341",
-        "TFT",
-        "BLE",
-        "nRF8001",
-        "RedBearLab",
-        "FRDM",
-        "KL46",
-        "kl46z",
-        "LCD",
-        "SLCD"
+        "TFT"
     ],
     "name": "HMC5843",
     "platforms": "*",

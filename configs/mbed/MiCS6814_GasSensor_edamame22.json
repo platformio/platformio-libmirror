@@ -4,15 +4,18 @@
         "url": "https://os.mbed.com/users/edamame22/"
     },
     "description": "A component library for MiCS-6814 Multichannel Gas Sensor (seeed)",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/MACRUM/code/MiCS6814_GasSensor_Hello/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Configuration",
-        "file",
-        "ini",
-        "mbed",
-        "System",
-        "windows",
+        "RN-XV",
+        "WiFly",
+        "AES",
+        "MD2",
+        "md5",
+        "RC4",
+        "SHA",
         "Gas",
         "MiCS-6814",
         "Multichannel",

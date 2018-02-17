@@ -4,20 +4,22 @@
         "url": "https://os.mbed.com/users/yasuyuki/"
     },
     "description": "BME280 library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/yasuyuki/code/mbed_BME280/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "biduad",
-        "cascade structure",
-        "IIR filter",
-        "Nucleo",
-        "UIT",
+        "dac",
+        "DMA",
+        "function generator",
+        "MODDMA",
+        "BME280",
         "ITDB_02",
         "TFTCLD",
         "Touch Screen",
         "Touchscreen",
         "XPT2046",
-        "BME280"
+        "HD44780"
     ],
     "name": "BME280",
     "platforms": "*",

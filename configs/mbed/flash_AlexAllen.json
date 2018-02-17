@@ -5,7 +5,21 @@
     },
     "description": "A collection of light flashing functions",
     "frameworks": "mbed",
-    "keywords": "flash",
+    "keywords": [
+        "AD7606",
+        "SPI",
+        "Communication",
+        "protocols",
+        "wireless",
+        "xbee",
+        "ANSI",
+        "Terminal",
+        "controller",
+        "motor",
+        "pololu",
+        "Qik",
+        "VNH25P30"
+    ],
     "name": "flash",
     "platforms": "*",
     "repository": {

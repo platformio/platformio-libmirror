@@ -4,23 +4,15 @@
         "url": "https://os.mbed.com/users/samux/"
     },
     "description": "USBMSD example using a file system located in RAM",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/samux/code/USBMSD_RAM/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Display Module",
-        "emwin",
-        "LPC4088DM",
-        "Kinematics",
-        "lauther",
-        "math",
-        "matrix",
-        "robot",
-        "Robotics",
-        "debug",
-        "debugging",
-        "Serial",
-        "term",
-        "Terminal"
+        "BD6211F",
+        "motor",
+        "Cayenne",
+        "MQTT"
     ],
     "name": "RAM_DISK",
     "platforms": "*",

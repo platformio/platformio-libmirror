@@ -4,9 +4,15 @@
         "url": "https://os.mbed.com/users/piniels/"
     },
     "description": "HIH-6139-021 I2C humidity and temperature sensor",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/piniels/code/HIDTympDeviceWithPIDController/"
+    ],
     "frameworks": "mbed",
-    "keywords": "HIH6130",
+    "keywords": [
+        "graphic",
+        "monochrome",
+        "VGA"
+    ],
     "name": "HIH6130",
     "platforms": "*",
     "repository": {

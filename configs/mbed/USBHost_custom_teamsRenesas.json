@@ -4,15 +4,23 @@
         "url": "https://os.mbed.com/teams/Renesas/"
     },
     "description": "USBHost custom library.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/dkato/code/GR-PEACH_HVC-P2_sample_client/",
+        "https://os.mbed.com/teams/Renesas/code/GR-PEACH_Camera_in/",
+        "https://os.mbed.com/teams/Renesas/code/JCU_HelloWorld/",
+        "https://os.mbed.com/teams/Renesas/code/GR-PEACH_Audio_WAV/",
+        "https://os.mbed.com/users/dkato/code/mbed-os-storage-access/",
+        "https://os.mbed.com/users/dkato/code/GR-PEACH_Digital_Signage/",
+        "https://os.mbed.com/teams/Renesas/code/GR-PEACH_Audio_Playback_Sample/",
+        "https://os.mbed.com/teams/Renesas/code/GR-PEACH_Audio_Playback_7InchLCD_Sample/",
+        "https://os.mbed.com/users/ymichimoto/code/GR-PEACH_Camera_in/",
+        "https://os.mbed.com/teams/Renesas/code/SDG_Mouse_Sample/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "GR-PEACH",
+        "DISCO-F746",
         "LCD",
-        "wifiモジュール",
-        "F103RB",
-        "rpc",
-        "stm32",
+        "Tracing",
         "USBHOST"
     ],
     "name": "USBHost_custom",

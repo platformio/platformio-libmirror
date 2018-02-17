@@ -5,7 +5,13 @@
     },
     "description": "test",
     "frameworks": "mbed",
-    "keywords": "chan_fatfs",
+    "keywords": [
+        "interrupt",
+        "masking",
+        "FM25V02",
+        "FM25V10",
+        "FRAM"
+    ],
     "name": "chan_fatfs",
     "platforms": "*",
     "repository": {

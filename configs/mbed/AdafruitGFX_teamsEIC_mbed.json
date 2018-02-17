@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "EIC",
+        "url": "https://os.mbed.com/teams/EIC_mbed/"
+    },
+    "description": "Adafruit-GFX porting for mbed",
+    "examples": [
+        "https://os.mbed.com/teams/EIC_mbed/code/RGB_matrix_Panel/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "led",
+        "1-wire",
+        "ds18x20",
+        "DS2450",
+        "multi-channel",
+        "OneWire",
+        "arduino",
+        "H-bridge",
+        "L298",
+        "Robotic",
+        "shield"
+    ],
+    "name": "Adafruit-GFX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/EIC_mbed/code/Adafruit-GFX/"
+    }
+}

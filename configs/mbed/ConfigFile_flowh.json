@@ -4,9 +4,17 @@
         "url": "https://os.mbed.com/users/flowh/"
     },
     "description": "Library to read and write configuration saved on SD Card",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/flowh/code/DiscoLogger/",
+        "https://os.mbed.com/users/m0dts/code/Dawson_Controller/"
+    ],
     "frameworks": "mbed",
-    "keywords": "MPL115A2",
+    "keywords": [
+        "GPIO",
+        "master",
+        "Serial",
+        "SPI"
+    ],
     "name": "ConfigFile",
     "platforms": "*",
     "repository": {

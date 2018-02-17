@@ -4,9 +4,28 @@
         "url": "https://os.mbed.com/users/infotech1/"
     },
     "description": "Port of the Adafruit_GFX library for use in MBED.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/infotech1/code/ili9341_test/",
+        "https://os.mbed.com/users/bdk9/code/ece495_firmware/",
+        "https://os.mbed.com/users/davidr99/code/Adafruit-64x32-PWM-Demo/"
+    ],
     "frameworks": "mbed",
-    "keywords": "Adafruit_GFX",
+    "keywords": [
+        "https",
+        "HTTPSClient",
+        "security",
+        "SSL",
+        "TLS",
+        "NTP",
+        "BLE",
+        "bluetooth",
+        "simpleble",
+        "CAN",
+        "control",
+        "port",
+        "slope",
+        "Adafruit_GFX"
+    ],
     "name": "Adafruit_GFX_MBED",
     "platforms": "*",
     "repository": {

@@ -6,6 +6,8 @@
     "description": "Library for HX711 device. 24-Bit Analog-to-Digital Converter (ADC) for Weigh Scales",
     "frameworks": "mbed",
     "keywords": [
+        "dac",
+        "MCP4822",
         "adc",
         "driver",
         "HX711",

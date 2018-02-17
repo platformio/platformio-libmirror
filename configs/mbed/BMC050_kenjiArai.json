@@ -4,11 +4,11 @@
         "url": "https://os.mbed.com/users/kenjiArai/"
     },
     "description": "eCompass (6-axes electronic compass) / Electronic Compass with Three-axis Magnetic Field Sensor and Three-axis Accelerometer by Bosch Sensortech",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/BLE_EddystoneBeacon_w_ACC_TY51822/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "MPU6050",
-        "MPU9250",
         "accelerometer",
         "BMC050",
         "Bosch",

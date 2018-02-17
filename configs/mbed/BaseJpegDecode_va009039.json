@@ -4,15 +4,24 @@
         "url": "https://os.mbed.com/users/va009039/"
     },
     "description": "huffmancode to decode in real-time for motion-jpeg",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/va009039/code/BaseJpegDecode_example/",
+        "https://os.mbed.com/users/va009039/code/SimpleJpegDecode_example/",
+        "https://os.mbed.com/teams/VOC/code/Dumb_box_rev2/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "gpu",
+        "LCD",
+        "mbed",
+        "mini",
+        "minismartgpu",
+        "smart",
+        "SMARTGPU",
+        "vizic",
         "VGA",
         "video",
-        "JPEG",
-        "adc",
-        "MCP",
-        "MCP3002"
+        "JPEG"
     ],
     "name": "BaseJpegDecode",
     "platforms": "*",

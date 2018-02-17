@@ -4,14 +4,17 @@
         "url": "https://os.mbed.com/users/Nurbol/"
     },
     "description": "globals",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Nurbol/code/state_machine_modes25_11_11/",
+        "https://os.mbed.com/users/Nurbol/code/state_machine_modes29_11_11/",
+        "https://os.mbed.com/users/Nurbol/code/state_machine_modes_1_12_11/",
+        "https://os.mbed.com/users/Nurbol/code/state_machine_modes_1_12_11_11h/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "authorization",
-        "client",
-        "custom",
-        "headers",
-        "http"
+        "C027",
+        "I2C",
+        "LCD"
     ],
     "name": "globals",
     "platforms": "*",

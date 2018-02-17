@@ -5,7 +5,14 @@
     },
     "description": "bertl14",
     "frameworks": "mbed",
-    "keywords": "Bertl14",
+    "keywords": [
+        "device",
+        "USB",
+        "Bertl14",
+        "checksum",
+        "I2C",
+        "PCA9672"
+    ],
     "name": "distance",
     "platforms": "*",
     "repository": {

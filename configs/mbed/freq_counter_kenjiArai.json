@@ -4,20 +4,25 @@
         "url": "https://os.mbed.com/users/kenjiArai/"
     },
     "description": "Frequency Counter Library. Only for mbed LPC1768, mbed LPC1114FN28, Nucleo-F401 and Nucleo-F411.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/Frequency_Counter/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "memory",
-        "string",
-        "tokenize",
-        "trim",
-        "utility",
         "counter",
         "frequency",
         "LPC1114",
         "LPC1768",
         "stm32f401",
-        "STM32F411"
+        "STM32F411",
+        "memory",
+        "string",
+        "tokenize",
+        "trim",
+        "utility",
+        "A/D",
+        "adc",
+        "SPI"
     ],
     "name": "freq_counter",
     "platforms": "*",

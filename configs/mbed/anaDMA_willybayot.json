@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "WILLY BAYOT",
+        "url": "https://os.mbed.com/users/willybayot/"
+    },
+    "description": "analogIn with DMA",
+    "examples": [
+        "https://os.mbed.com/users/willybayot/code/TDEMNucleo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "4DGL",
+        "4DSystems",
+        "OLED",
+        "AnalogIn",
+        "DMA",
+        "JSON",
+        "LPC11U24",
+        "LPC1768",
+        "WDT"
+    ],
+    "name": "anaDMA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/willybayot/code/anaDMA/"
+    }
+}

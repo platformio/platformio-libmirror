@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/eduardoG26/"
     },
     "description": "Arduino functions millis, micros and eventually some more to come",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/justinkim/code/DigitalCamera_OV5642_WIZwiki-W7500/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "motor",
@@ -12,10 +14,7 @@
         "Stepper",
         "arduino",
         "micros",
-        "millis",
-        "arithmetic",
-        "fixed",
-        "point"
+        "millis"
     ],
     "name": "Arduino",
     "platforms": "*",

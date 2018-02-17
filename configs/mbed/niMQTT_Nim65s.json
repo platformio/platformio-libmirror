@@ -4,11 +4,17 @@
         "url": "https://os.mbed.com/users/Nim65s/"
     },
     "description": "An MQTT Client for the new etherNet Interface.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Nim65s/code/AV_MQTT/",
+        "https://os.mbed.com/users/Nim65s/code/niMQTT_example/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "FTP",
-        "ftpclient",
+        "brushDC",
+        "driver",
+        "L6206",
+        "motor",
+        "ST",
         "adc",
         "dac",
         "interrupt",
@@ -16,8 +22,10 @@
         "polling",
         "STM32F446",
         "MQTT",
-        "LIDAR Lite",
-        "LidarLite"
+        "Adafruit",
+        "LCD",
+        "ST7735",
+        "TFT"
     ],
     "name": "niMQTT",
     "platforms": "*",

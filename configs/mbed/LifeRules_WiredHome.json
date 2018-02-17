@@ -4,13 +4,18 @@
         "url": "https://os.mbed.com/users/WiredHome/"
     },
     "description": "Conway's game of life - derived from another project, turned into a c++ class, and scaled to support up to a 480x272 display, or a lower resolution color display.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/WiredHome/code/GameOfLife/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "Conway's",
         "game",
         "Life",
-        "of"
+        "of",
+        "Dynamic",
+        "led",
+        "tlc5940"
     ],
     "name": "LifeRules",
     "platforms": "*",

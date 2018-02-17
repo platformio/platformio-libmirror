@@ -4,14 +4,14 @@
         "url": "https://os.mbed.com/users/inst/"
     },
     "description": "serial_communication",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/inst/code/communication/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "led",
-        "matrix",
-        "SDA5708",
-        "bluetooth",
-        "Evobots"
+        "compass",
+        "HMC5883L",
+        "magnetometer"
     ],
     "name": "serial_communication",
     "platforms": "*",

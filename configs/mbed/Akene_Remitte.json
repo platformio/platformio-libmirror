@@ -5,7 +5,14 @@
     },
     "description": "This library is a Snootlab's library's translation to use Akene on mbed boards instead of Arduino ones.",
     "frameworks": "mbed",
-    "keywords": "Akene",
+    "keywords": [
+        "Akene",
+        "Humidity",
+        "sensor",
+        "Temperature",
+        "HD44780",
+        "TextLCD"
+    ],
     "name": "Akene",
     "platforms": "*",
     "repository": {

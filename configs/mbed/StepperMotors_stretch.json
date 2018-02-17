@@ -4,18 +4,11 @@
         "url": "https://os.mbed.com/users/stretch/"
     },
     "description": "Specifically for CNC Airbrush project",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "CNCAirbrush",
-        "conversion",
-        "float",
-        "string",
-        "EA",
-        "Graphics",
-        "OLED",
-        "SPI"
+    "examples": [
+        "https://os.mbed.com/users/stretch/code/CNCAirbrushCode/"
     ],
+    "frameworks": "mbed",
+    "keywords": "CNCAirbrush",
     "name": "StepperMotors",
     "platforms": "*",
     "repository": {

@@ -6,14 +6,10 @@
     "description": "My useful library.",
     "frameworks": "mbed",
     "keywords": [
-        "distance",
-        "Fischer",
-        "sensor",
-        "Technik",
-        "ultrasonic",
         "control",
         "PID",
-        "Encoder"
+        "KL25z",
+        "Robotic"
     ],
     "name": "RS485_usrlib",
     "platforms": "*",

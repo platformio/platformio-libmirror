@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Kevin Braun",
+        "url": "https://os.mbed.com/users/loopsva/"
+    },
+    "description": "Ethernet link status for the K64F",
+    "examples": [
+        "https://os.mbed.com/users/miguelcordero191/code/JRO_DDSv2/",
+        "https://os.mbed.com/users/joaquinbvw/code/JRO_CR2/",
+        "https://os.mbed.com/users/loopsva/code/K64F_EthLink_HelloWorld/",
+        "https://os.mbed.com/users/omassanet/code/frdm_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "K64F",
+        "VL53L0X"
+    ],
+    "name": "k64f_EthLink",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/loopsva/code/k64f_EthLink/"
+    }
+}

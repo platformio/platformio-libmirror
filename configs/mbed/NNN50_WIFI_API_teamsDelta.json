@@ -4,13 +4,34 @@
         "url": "https://os.mbed.com/teams/Delta/"
     },
     "description": "NNN50 WIFI_API library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/janshiue/code/NNN50_CE_Test_UDP/",
+        "https://os.mbed.com/users/janshiue/code/NNN50_linux_firmware/",
+        "https://os.mbed.com/teams/Delta/code/NNN50_SoftAP_HelloWorld/",
+        "https://os.mbed.com/users/tsungta/code/NNN50_BLEWIFISensor/",
+        "https://os.mbed.com/users/tsungta/code/mbed_SPIS_multiByte_example_SOG/",
+        "https://os.mbed.com/teams/Delta/code/NNN50_WiFi_HelloWorld/",
+        "https://os.mbed.com/teams/Delta/code/NNN50_SSL_SocketClient/",
+        "https://os.mbed.com/teams/Delta/code/NNN50_CLI/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Armand",
-        "Coetzer",
+        "game",
+        "inheritance",
+        "OOP",
+        "polymorphism",
+        "tutorial",
         "NNN50",
-        "wifi"
+        "wifi",
+        "Serial",
+        "adc",
+        "Microchip",
+        "AT93C46",
+        "EEPROM",
+        "debug",
+        "debugger",
+        "debugging",
+        "logging"
     ],
     "name": "NNN50_WIFI_API",
     "platforms": "*",

@@ -6,10 +6,9 @@
     "description": "demo program of BMP085 pressure sensor",
     "frameworks": "mbed",
     "keywords": [
-        "api",
-        "Digi",
-        "xbee",
-        "zigbee"
+        "Serial",
+        "Terminal",
+        "VT100"
     ],
     "name": "BMP085_lib",
     "platforms": "*",

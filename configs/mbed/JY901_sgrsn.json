@@ -6,11 +6,17 @@
     "description": "unfinished",
     "frameworks": "mbed",
     "keywords": [
-        "JY901",
+        "DHCP",
+        "EthernetInterface",
+        "actuators",
+        "commnunications",
+        "interfaces",
+        "sensors",
         "ADT7310",
         "Nucleo",
         "SPI",
-        "UIT"
+        "UIT",
+        "JY901"
     ],
     "name": "JY901",
     "platforms": "*",

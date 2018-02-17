@@ -4,23 +4,18 @@
         "url": "https://os.mbed.com/teams/SKTelecom_ThingPlug/"
     },
     "description": "ThingPlug GMMP library for mbed",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/SKTelecom_ThingPlug/code/ThingPlug_WiFi_Example/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "flash",
+        "S25FL216K",
+        "Serial",
         "gmmp",
         "IOT",
         "SKTelecom",
-        "TCP",
-        "client",
-        "CoAP",
-        "protocol",
-        "server",
-        "acc",
-        "gyro",
-        "IMU",
-        "iNEMO",
-        "MAG",
-        "STM"
+        "TCP"
     ],
     "name": "GMMP",
     "platforms": "*",

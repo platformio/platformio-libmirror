@@ -6,15 +6,12 @@
     "description": "DS1338 RTC library",
     "frameworks": "mbed",
     "keywords": [
-        "DS1338",
+        "hih6130",
+        "Humidity",
         "I2C",
-        "adc",
-        "F411RE",
-        "Nucleo",
-        "quadrature",
-        "SPI",
-        "stm32",
-        "timer"
+        "sensor",
+        "Temperature",
+        "DS1338"
     ],
     "name": "DS1338",
     "platforms": "*",

@@ -4,16 +4,20 @@
         "url": "https://os.mbed.com/teams/AnalogDevices/"
     },
     "description": "ADXL362 accelerometer library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/AnalogDevices/code/ADXL362-helloworld/",
+        "https://os.mbed.com/teams/AnalogDevices/code/EVAL_ADXL362_ARDZ/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "DigitalIn",
         "accelerometer",
         "ADXL362",
-        "Analog",
-        "AnalogIn",
-        "gyro",
-        "sensor"
+        "display",
+        "DOG",
+        "LCD",
+        "ST7036",
+        "TextLCD",
+        "Gatech"
     ],
     "name": "ADXL362",
     "platforms": "*",

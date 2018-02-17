@@ -4,22 +4,11 @@
         "url": "https://os.mbed.com/users/gabrielrivas/"
     },
     "description": "Serial port handler class that allows sharing data from the serial ports via message queues objects. Each instance of this class is intended to handle a serial port in the system and is suitable for slow serial protocols.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/gabrielrivas/code/Nucleo_modbus_protocol_test/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "dynamixel",
-        "MX-12W",
-        "MX12",
-        "MX12W",
-        "robotis",
-        "Servo",
-        "MCP3425",
-        "binary",
-        "GPS",
-        "NMEA",
-        "protocol",
-        "sIRFstar3",
-        "sIRFstarIII",
         "real time",
         "serial port",
         "serial protocols"

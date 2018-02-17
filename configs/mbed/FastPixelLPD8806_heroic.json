@@ -4,15 +4,24 @@
         "url": "https://os.mbed.com/users/heroic/"
     },
     "description": "DMA-enabled high data rate driver for Heroic Robotics LED strips.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/heroic/code/FastPixelDemo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "RTC",
+        "FATFS",
+        "NP8P128A13",
+        "Phase Change RAM",
+        "PRAM",
+        "SPI",
         "DMA",
         "fast",
         "led strip",
         "LPD8806",
-        "SPI"
+        "font",
+        "NeoPixel",
+        "WS2812",
+        "wx2811"
     ],
     "name": "FastPixelLPD8806",
     "platforms": "*",

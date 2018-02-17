@@ -6,10 +6,12 @@
     "description": "Motor",
     "frameworks": "mbed",
     "keywords": [
-        "SPI",
-        "DC",
+        "driver",
+        "L6208",
+        "microstep",
         "motor",
-        "PM motor"
+        "ST",
+        "Stepper"
     ],
     "name": "Motor",
     "platforms": "*",

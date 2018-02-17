@@ -4,18 +4,17 @@
         "url": "https://os.mbed.com/users/geky/"
     },
     "description": "Note! This project has moved to github.com/armmbed/mbed-events",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/geky/code/SimpleHTTPExample/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "window",
-        "I2C",
-        "Luminosity",
-        "Lux",
-        "sensor",
-        "display",
-        "hotboards",
-        "SPI"
+        "em-406",
+        "GPS",
+        "MTK3339",
+        "NMEA",
+        "Serial",
+        "UART"
     ],
     "name": "events",
     "platforms": "*",

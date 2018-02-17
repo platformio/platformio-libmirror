@@ -10,11 +10,13 @@
         "I2C",
         "INA226",
         "T.I.",
+        "DC motor",
+        "h bridge",
+        "L293D",
+        "l298n",
+        "pwm",
         "device",
-        "USB",
-        "blink",
-        "led",
-        "LED control"
+        "USB"
     ],
     "name": "INA226",
     "platforms": "*",

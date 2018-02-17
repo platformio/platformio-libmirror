@@ -4,17 +4,11 @@
         "url": "https://os.mbed.com/users/nadj2608/"
     },
     "description": "V1",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "A4982",
-        "A4983 smart step 3d printing",
-        "rap",
-        "rep",
-        "Stepper",
-        "printer",
-        "shield"
+    "examples": [
+        "https://os.mbed.com/users/nadj2608/code/mbed_I2C_with_library/"
     ],
+    "frameworks": "mbed",
+    "keywords": "MMA8452Q",
     "name": "MMA8452Q",
     "platforms": "*",
     "repository": {

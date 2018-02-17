@@ -4,13 +4,31 @@
         "url": "https://os.mbed.com/teams/ST/"
     },
     "description": "Official interfaces for ST components.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Wosser1sProductions/code/X_NUCLEO_IKS01A1/",
+        "https://os.mbed.com/users/pferland/code/mDot_X_NUCLEO_IKS01A1/",
+        "https://os.mbed.com/users/zero515/code/53L0A1/",
+        "https://os.mbed.com/users/Arkadi/code/X_NUCLEO_IKS01A1/",
+        "https://os.mbed.com/teams/WizziLab/code/X_NUCLEO_IKS01A1/",
+        "https://os.mbed.com/teams/ST/code/X_NUCLEO_IHM01A1/",
+        "https://os.mbed.com/teams/ST/code/X_NUCLEO_IHM02A1/",
+        "https://os.mbed.com/teams/ST/code/X_NUCLEO_IKS01A1/",
+        "https://os.mbed.com/users/mfiore/code/unh-hackathon-example/",
+        "https://os.mbed.com/users/mfiore/code/unh-hackathon-example-raw/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "DHCP",
+        "EthernetInterface",
         "actuators",
         "commnunications",
         "interfaces",
-        "sensors"
+        "sensors",
+        "ADT7310",
+        "Nucleo",
+        "SPI",
+        "UIT",
+        "JY901"
     ],
     "name": "ST_INTERFACES",
     "platforms": "*",

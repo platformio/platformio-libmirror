@@ -4,12 +4,16 @@
         "url": "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/"
     },
     "description": "Modified InOut library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/code/LineSensors/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "ALS",
-        "ambient light sensor",
-        "Lux"
+        "Carrier",
+        "driver",
+        "motor",
+        "Pololu1451",
+        "VNH5019"
     ],
     "name": "DigitalInOut2",
     "platforms": "*",

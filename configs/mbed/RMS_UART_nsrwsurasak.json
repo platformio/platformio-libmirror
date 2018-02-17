@@ -5,17 +5,7 @@
     },
     "description": "1st release (without comment)",
     "frameworks": "mbed",
-    "keywords": [
-        "DS1338",
-        "I2C",
-        "adc",
-        "F411RE",
-        "Nucleo",
-        "quadrature",
-        "SPI",
-        "stm32",
-        "timer"
-    ],
+    "keywords": "RMS_UART",
     "name": "RMS_UART",
     "platforms": "*",
     "repository": {

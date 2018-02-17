@@ -4,23 +4,27 @@
         "url": "https://os.mbed.com/users/simon/"
     },
     "description": "Interface for an LIS302 accelerometer, using the SPI interface",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/simon/code/LIS302_HelloWorld/",
+        "https://os.mbed.com/users/havri/code/mbed_line_camera/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "motor",
-        "Stepper",
-        "unipolar",
-        "joystick",
-        "Beep",
-        "sound",
-        "tone",
+        "device",
+        "Nucleo",
+        "USB",
         "accelerometer",
         "LIS302",
         "SPI",
+        "DMA",
+        "KL25z",
         "AQM1602",
         "I2C",
-        "Nucleo",
-        "UIT"
+        "UIT",
+        "SDFileSystem",
+        "STM32F746",
+        "EEPROM",
+        "LPC11U24"
     ],
     "name": "LIS302",
     "platforms": "*",

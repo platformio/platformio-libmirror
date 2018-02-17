@@ -11,7 +11,9 @@
         "Data Logging",
         "datalog",
         "FRAM",
-        "log"
+        "log",
+        "Arduino mbed commands",
+        "HD44780 LCD text custom char 16X2"
     ],
     "name": "Timer64",
     "platforms": "*",

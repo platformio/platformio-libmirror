@@ -4,18 +4,11 @@
         "url": "https://os.mbed.com/users/star297/"
     },
     "description": "Image bitmaps for use with Sharp Memory LCD's",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "BD6211",
-        "control",
-        "Input",
-        "pwm",
-        "I2C",
-        "ISL1208",
-        "real time clock",
-        "RTC"
+    "examples": [
+        "https://os.mbed.com/users/star297/code/SharpMemoryLCD/"
     ],
+    "frameworks": "mbed",
+    "keywords": "Images",
     "name": "Images",
     "platforms": "*",
     "repository": {

@@ -6,11 +6,12 @@
     "description": "ks0713 SPI library.",
     "frameworks": "mbed",
     "keywords": [
-        "GoogleChart",
-        "ESP8266",
         "AITENDO",
         "KS0713",
-        "SPI"
+        "SPI",
+        "LPC4088QSB",
+        "MSD",
+        "USBHOST"
     ],
     "name": "ks0713_spi",
     "platforms": "*",

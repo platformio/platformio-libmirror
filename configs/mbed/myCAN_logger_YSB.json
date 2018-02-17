@@ -4,15 +4,12 @@
         "url": "https://os.mbed.com/users/YSB/"
     },
     "description": "for CAN communication between mbed",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "education",
-        "mechatronics",
-        "TVZ",
-        "Battery Monitor",
-        "LTC2990"
+    "examples": [
+        "https://os.mbed.com/users/YSB/code/EM_Logger/",
+        "https://os.mbed.com/users/YSB/code/EM_Mission/"
     ],
+    "frameworks": "mbed",
+    "keywords": "xbee",
     "name": "myCAN_logger",
     "platforms": "*",
     "repository": {

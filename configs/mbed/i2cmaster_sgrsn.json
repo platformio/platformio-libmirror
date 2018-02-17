@@ -4,13 +4,19 @@
         "url": "https://os.mbed.com/users/sgrsn/"
     },
     "description": "Plese use this class with my \"i2cslave\" class.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/robocon_2016/code/2016_mother_3/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "median",
-        "sliding",
-        "window",
-        "I2C"
+        "I2C",
+        "Configuration",
+        "file",
+        "ini",
+        "interface",
+        "NetServices",
+        "network",
+        "NTP"
     ],
     "name": "i2cmaster",
     "platforms": "*",

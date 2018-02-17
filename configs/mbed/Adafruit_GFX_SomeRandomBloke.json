@@ -4,25 +4,22 @@
         "url": "https://os.mbed.com/users/SomeRandomBloke/"
     },
     "description": "A first port of the excellent Adafruit GFX library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/liam/code/Adafruit_GFX/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "graphic",
-        "LCD",
-        "QVGA",
-        "RA8875",
-        "TFT",
-        "Touch Screen",
-        "WQVGA",
-        "WVGA",
+        "I2C",
+        "MCP4725",
         "Adafruit",
         "GFX",
-        "driver",
-        "HEXIWEAR",
-        "OLED",
-        "SSD1351",
-        "JSON"
+        "LCD",
+        "TFT",
+        "AnalogIn",
+        "Capacitive",
+        "digitalOut",
+        "sensor",
+        "touch"
     ],
     "name": "Adafruit_GFX",
     "platforms": "*",

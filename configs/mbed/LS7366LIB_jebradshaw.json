@@ -4,14 +4,18 @@
         "url": "https://os.mbed.com/users/jebradshaw/"
     },
     "description": "Preliminary mbed encoder interface IC class",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/jebradshaw/code/mbed_QUAD_ENCLIB_TEST/",
+        "https://os.mbed.com/users/jebradshaw/code/Axis/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "F401RE",
-        "L3GD20",
-        "Nucleo",
-        "device",
-        "USB"
+        "distance",
+        "HC-SR04",
+        "HCSR04",
+        "ultrasonic",
+        "US-015",
+        "US015"
     ],
     "name": "LS7366LIB",
     "platforms": "*",

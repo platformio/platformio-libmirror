@@ -4,9 +4,11 @@
         "url": "https://os.mbed.com/teams/Flotsam/"
     },
     "description": "Modified EEPROM library for the full project.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/Flotsam/code/Full-Project/"
+    ],
     "frameworks": "mbed",
-    "keywords": "mbed",
+    "keywords": "Storage_Library",
     "name": "Storage_Library",
     "platforms": "*",
     "repository": {

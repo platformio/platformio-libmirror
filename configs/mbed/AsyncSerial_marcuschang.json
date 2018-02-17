@@ -5,14 +5,7 @@
     },
     "description": "Asynchronous Serial Library with flow control and tag detection.",
     "frameworks": "mbed",
-    "keywords": [
-        "TCG",
-        "TPM",
-        "hih6130",
-        "sensor",
-        "Temp",
-        "Temperature"
-    ],
+    "keywords": "AsyncSerial",
     "name": "AsyncSerial",
     "platforms": "*",
     "repository": {

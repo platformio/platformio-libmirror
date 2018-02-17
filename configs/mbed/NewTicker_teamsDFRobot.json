@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/teams/DFRobot/"
     },
     "description": "new ticker",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/DFRobot/code/newTicker_demo/"
+    ],
     "frameworks": "mbed",
     "keywords": "NewTicker",
     "name": "NewTicker",

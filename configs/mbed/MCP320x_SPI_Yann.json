@@ -4,9 +4,15 @@
         "url": "https://os.mbed.com/users/Yann/"
     },
     "description": "Simplified access to the Microchip 1//8-Channels 12-Bit A/D Converters",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Yann/code/MCP320xApp/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "hotboards",
+        "keyboard",
+        "ShiftRegister",
+        "TextLCD",
         "Display Module",
         "emwin",
         "LPC4088DM",
@@ -14,8 +20,12 @@
         "MCP3204",
         "MCP3208",
         "SPI",
-        "ShiftRegister",
-        "TextLCD"
+        "Kinematics",
+        "lauther",
+        "math",
+        "matrix",
+        "robot",
+        "Robotics"
     ],
     "name": "MCP320x_SPI",
     "platforms": "*",

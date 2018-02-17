@@ -4,18 +4,15 @@
         "url": "https://os.mbed.com/users/peipei123/"
     },
     "description": "Grove temperature sensor library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/peipei123/code/Grove_Temp_Hello_world/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "frequency",
-        "measurement",
-        "Pulsewidth",
-        "circular buffer",
-        "FIFO",
-        "Queue",
-        "ring buffer",
-        "stack",
-        "Template"
+        "BLE",
+        "BLE Bluetooth Low Energy BLE",
+        "BUTTON",
+        "GAP"
     ],
     "name": "Grove_temp_sensor",
     "platforms": "*",

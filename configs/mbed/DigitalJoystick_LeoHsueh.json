@@ -5,7 +5,11 @@
     },
     "description": "Digital Joystick",
     "frameworks": "mbed",
-    "keywords": "Digital-Joystick",
+    "keywords": [
+        "CloudConnector",
+        "etherios",
+        "IOT"
+    ],
     "name": "Digital-Joystick",
     "platforms": "*",
     "repository": {

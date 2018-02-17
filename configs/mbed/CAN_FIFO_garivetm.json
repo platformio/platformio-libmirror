@@ -8,7 +8,11 @@
     "keywords": [
         "CAN",
         "can bus",
-        "FIFO"
+        "FIFO",
+        "Host",
+        "mbed",
+        "PTP",
+        "USB"
     ],
     "name": "CAN_FIFO",
     "platforms": "*",

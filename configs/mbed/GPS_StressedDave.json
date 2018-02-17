@@ -5,7 +5,20 @@
     },
     "description": "Modified AdaFruit GPS library",
     "frameworks": "mbed",
-    "keywords": "GPS",
+    "keywords": [
+        "WS2811",
+        "WS2812",
+        "WS2812B",
+        "8025",
+        "EPSON",
+        "RTC",
+        "RX-8025NB",
+        "GPS",
+        "mbed5",
+        "NetworkInterfaceAPI",
+        "Wi-Fi",
+        "WizFi250"
+    ],
     "name": "GPS",
     "platforms": "*",
     "repository": {

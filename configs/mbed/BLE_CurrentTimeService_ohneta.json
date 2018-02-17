@@ -6,14 +6,11 @@
     "description": "BLE Current Time Service",
     "frameworks": "mbed",
     "keywords": [
-        "eCompass",
-        "Wi-Go",
-        "WiGo",
-        "semihosting",
-        "SWD",
-        "servos",
-        "slow",
-        "Speed"
+        "OLED",
+        "Serial",
+        "9Dof-Stick",
+        "ADXL345",
+        "sparkfun"
     ],
     "name": "BLE_CurrentTimeService",
     "platforms": "*",

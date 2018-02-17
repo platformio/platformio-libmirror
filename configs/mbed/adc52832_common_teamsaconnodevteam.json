@@ -4,21 +4,20 @@
         "url": "https://os.mbed.com/teams/aconno-dev-team/"
     },
     "description": "Utilities for aconno development kit.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/jurica238814/code/acd52832_BMC150_example/",
+        "https://os.mbed.com/users/Dautor/code/acd52832_NFC_example/",
+        "https://os.mbed.com/users/Dautor/code/acn52832_Battery_Beacon/",
+        "https://os.mbed.com/users/jurica238814/code/acn52832_Battery_Beacon/",
+        "https://os.mbed.com/users/jurica238814/code/acd52832_pwm_driver_example/",
+        "https://os.mbed.com/users/Dautor/code/acd52832_bmc150_test/",
+        "https://os.mbed.com/users/jurica238814/code/acd52832_Humidity_Temp_Example/",
+        "https://os.mbed.com/teams/aconno-dev-team/code/acd52832_UART/",
+        "https://os.mbed.com/users/jurica238814/code/acd52832_SAADC_Differential_input_2/",
+        "https://os.mbed.com/users/jurica238814/code/acd52832_SAADC_Differential_input_EPD/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Analog",
-        "dipsw",
-        "Input",
-        "SW",
-        "tactsw",
-        "FreeRTOS",
-        "rtos",
-        "graphic",
-        "Lascar",
-        "LCD",
-        "SP5-GFX1",
-        "SPI",
         "aconno",
         "Nordic",
         "nrf52"

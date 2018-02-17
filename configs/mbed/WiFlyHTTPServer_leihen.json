@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Henry Leinen",
+        "url": "https://os.mbed.com/users/leihen/"
+    },
+    "description": "Single instance HTTP Server using WiFly Interface.",
+    "examples": [
+        "https://os.mbed.com/users/leihen/code/WiFlyHTTPServerSample/",
+        "https://os.mbed.com/users/leihen/code/MultiThreadingHTTPServer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "LCD 16x2",
+        "Parallel LCD",
+        "Adafruit 2.8",
+        "FRDM-KL25Z",
+        "STMPE610",
+        "touchsensor",
+        "HTTPServer",
+        "WiFly"
+    ],
+    "name": "WiFlyHTTPServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/leihen/code/WiFlyHTTPServer/"
+    }
+}

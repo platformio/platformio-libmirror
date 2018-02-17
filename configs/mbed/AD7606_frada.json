@@ -4,17 +4,24 @@
         "url": "https://os.mbed.com/users/frada/"
     },
     "description": "AD7606 Library for mbed",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/frada/code/AD7606_demo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "AD7606",
         "SPI",
-        "DISCO-STM32F746NG",
-        "flash",
-        "Micron",
-        "QSPI",
-        "Quad-SPI",
-        "ST"
+        "Communication",
+        "protocols",
+        "wireless",
+        "xbee",
+        "ANSI",
+        "Terminal",
+        "controller",
+        "motor",
+        "pololu",
+        "Qik",
+        "VNH25P30"
     ],
     "name": "AD7606",
     "platforms": "*",

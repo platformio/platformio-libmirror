@@ -4,13 +4,25 @@
         "url": "https://os.mbed.com/users/EEAVDC/"
     },
     "description": "S1D13781 Shield Graphics Library for mbed (requires modified S1D13781 Shield TFT board)",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/EEAVDC/code/S1D13781Shield_BitBltDemo/",
+        "https://os.mbed.com/users/EEAVDC/code/S1D13781Shield_GraphicsLibraryDemo/",
+        "https://os.mbed.com/users/EEAVDC/code/S1D13781Shield_LutDemo/",
+        "https://os.mbed.com/users/EEAVDC/code/S1D13781Shield_MemoryTest/",
+        "https://os.mbed.com/users/EEAVDC/code/S1D13781Shield_ProgramTemplate/",
+        "https://os.mbed.com/users/EEAVDC/code/S1D13781Shield_RegisterTest/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "core2530(B)",
         "waveshare",
         "xbee",
         "zbee",
+        "minutes",
+        "seconds",
+        "stopwatch",
+        "timer",
+        "watch",
         "LCDC",
         "S1D13781",
         "shield",

@@ -4,19 +4,17 @@
         "url": "https://os.mbed.com/users/gatedClock/"
     },
     "description": "watchdog library. this is a derived work.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/gatedClock/code/RTOS_project/",
+        "https://os.mbed.com/users/gatedClock/code/RTOS_project_fork_01/",
+        "https://os.mbed.com/users/gatedClock/code/RTOS_project_fork_02/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "bipolar",
         "L293D",
         "mbed",
-        "Stepper",
-        "Fibocom",
-        "GPS",
-        "GPS Module",
-        "GTS-4e-60",
-        "NMEA",
-        "NMEA Parser"
+        "Stepper"
     ],
     "name": "watchdog_RTOS",
     "platforms": "*",

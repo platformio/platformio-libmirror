@@ -4,21 +4,23 @@
         "url": "https://os.mbed.com/users/Fairy_Paolina/"
     },
     "description": "Quadrature encoder interface library.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/jjcarr2/code/NavigationTest_/",
+        "https://os.mbed.com/users/Fairy_Paolina/code/NavigationTest/",
+        "https://os.mbed.com/users/Fairy_Paolina/code/theRobotNEW/",
+        "https://os.mbed.com/users/jjcarr2/code/theRobot/",
+        "https://os.mbed.com/users/tashworth/code/theRobot/",
+        "https://os.mbed.com/teams/UH-Robotics/code/theRobot3/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "clock",
-        "ds1307",
-        "real",
-        "RTC",
-        "time",
-        "COMMAND PARSER",
-        "serial command",
-        "uart interupt",
         "Encoder",
         "QEI",
         "quadrature",
-        "MAX30101"
+        "digital out",
+        "FRDMKL25Z",
+        "mbed",
+        "rpc"
     ],
     "name": "QEI",
     "platforms": "*",

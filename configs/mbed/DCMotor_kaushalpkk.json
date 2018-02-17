@@ -6,6 +6,8 @@
     "description": "software to control a DC motor, preferably interfacing with a motor driver.",
     "frameworks": "mbed",
     "keywords": [
+        "Serial",
+        "acctuators",
         "Akizuki",
         "Humidity",
         "I2C",
@@ -13,7 +15,6 @@
         "sensor",
         "Temperature",
         "TI",
-        "acctuators",
         "EthernetInterface",
         "gainspan",
         "GS1011",

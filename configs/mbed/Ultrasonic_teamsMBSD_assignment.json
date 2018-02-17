@@ -4,9 +4,12 @@
         "url": "https://os.mbed.com/teams/MBSD_assignment/"
     },
     "description": "Library to use the ultrasonic sensor",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/MBSD_assignment/code/test_ultrasonic/",
+        "https://os.mbed.com/teams/MBSD_assignment/code/AEB/"
+    ],
     "frameworks": "mbed",
-    "keywords": "mbed",
+    "keywords": "Ultrasonic",
     "name": "Ultrasonic",
     "platforms": "*",
     "repository": {

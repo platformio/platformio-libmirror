@@ -4,11 +4,26 @@
         "url": "https://os.mbed.com/teams/AppNearMe/"
     },
     "description": "NFC API for mbed using the MicroNFCBoard as a peripheral",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/AppNearMe/code/MicroNFCBoardAPI_P2P_Client/",
+        "https://os.mbed.com/teams/AppNearMe/code/MicroNFCBoardAPI_Blink/",
+        "https://os.mbed.com/teams/AppNearMe/code/MicroNFCBoardAPI_Tag_Emulator/",
+        "https://os.mbed.com/teams/AppNearMe/code/MicroNFCBoardAPI_Tag_Reader/",
+        "https://os.mbed.com/teams/AppNearMe/code/MicroNFCBoardAPI_Tag_Writer/",
+        "https://os.mbed.com/teams/AppNearMe/code/MicroNFCBoardAPI_P2P_Server/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "MicroNFCBoard",
-        "NFC"
+        "NFC",
+        "constant",
+        "current",
+        "driver",
+        "led",
+        "nxp",
+        "PCA9952",
+        "PCA9955",
+        "ERC1602"
     ],
     "name": "MicroNFCBoardAPI",
     "platforms": "*",

@@ -4,16 +4,20 @@
         "url": "https://os.mbed.com/teams/ST/"
     },
     "description": "Class for BSP AUDIO for DISCO_F746NG",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/DISCO-F746NG_AUDIO_demo/",
+        "https://os.mbed.com/users/DouglasK/code/DISCO-F746NG_Monttory_Base/",
+        "https://os.mbed.com/teams/Monttori/code/DISCO-F746NG_Monttory_Base/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "ds1307",
-        "RTC",
-        "WSE",
-        "max31855",
-        "Thermocouple",
         "audio",
-        "DISCO_F746NG"
+        "DISCO_F746NG",
+        "etti",
+        "TUIASI",
+        "Bulk",
+        "Traceport",
+        "USB"
     ],
     "name": "AUDIO_DISCO_F746NG",
     "platforms": "*",

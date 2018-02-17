@@ -4,17 +4,18 @@
         "url": "https://os.mbed.com/users/Yajirushi/"
     },
     "description": "Library for STMicroelectronics dSPIN L6470 stepper driver. \"daisy-chain\" supported.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Yajirushi/code/L6470_daisy_chain/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "Humidity",
+        "Sensiron",
+        "Temperature",
         "daisy-chain",
         "L6470",
         "SPI",
-        "Stepper",
-        "command",
-        "prompt",
-        "shell",
-        "tinyshell"
+        "Stepper"
     ],
     "name": "L6470SDC",
     "platforms": "*",

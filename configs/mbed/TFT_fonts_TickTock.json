@@ -4,9 +4,19 @@
         "url": "https://os.mbed.com/users/TickTock/"
     },
     "description": "added big fonts",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/TickTock/code/default/",
+        "https://os.mbed.com/users/TickTock/code/CANary_9341_test/",
+        "https://os.mbed.com/users/TickTock/code/CANary_merge/",
+        "https://os.mbed.com/users/TickTock/code/CANary_9341/",
+        "https://os.mbed.com/users/TickTock/code/CANary/",
+        "https://os.mbed.com/users/schnf30/code/SFmikroerev2/"
+    ],
     "frameworks": "mbed",
-    "keywords": "TFT_fonts",
+    "keywords": [
+        "mcp4261",
+        "SPI"
+    ],
     "name": "TFT_fonts",
     "platforms": "*",
     "repository": {

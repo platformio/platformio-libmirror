@@ -4,9 +4,14 @@
         "url": "https://os.mbed.com/users/Yann/"
     },
     "description": "This library provides simplified I2C access to a Microchip MCP23x17 GPIO expender device, including a general interface for any GPIO expender",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Yann/code/MCP23017App/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "EEPROM",
+        "GPS",
+        "NMEA0183",
         "GPIO Exoender",
         "MCP23017"
     ],

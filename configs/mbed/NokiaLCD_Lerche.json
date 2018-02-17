@@ -9,7 +9,9 @@
         "6610",
         "LCD",
         "Nokia",
-        "DS3231"
+        "DS3231",
+        "ethernet",
+        "K64F"
     ],
     "name": "NokiaLCD",
     "platforms": "*",

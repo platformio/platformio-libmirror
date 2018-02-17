@@ -5,7 +5,10 @@
     },
     "description": "mpu9250のライブラリ、I2Cを利用。開発段階のため微妙",
     "frameworks": "mbed",
-    "keywords": "mpu9250_i2c",
+    "keywords": [
+        "motor",
+        "Servo"
+    ],
     "name": "mpu9250_i2c",
     "platforms": "*",
     "repository": {

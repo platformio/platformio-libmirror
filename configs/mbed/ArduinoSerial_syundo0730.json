@@ -4,9 +4,24 @@
         "url": "https://os.mbed.com/users/syundo0730/"
     },
     "description": "Emulate 「Serial」of Arduino library for mbed. We can easily port arduino's project into mbed by this library.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/syundo0730/code/MPU6050/",
+        "https://os.mbed.com/users/syundo0730/code/MPU9150/",
+        "https://os.mbed.com/users/tsumagari/code/MPU6050/",
+        "https://os.mbed.com/users/sem40590/code/MPU6050/"
+    ],
     "frameworks": "mbed",
-    "keywords": "MCP9808",
+    "keywords": [
+        "ProcVis",
+        "FAT",
+        "file",
+        "SD",
+        "System",
+        "ADT7410",
+        "I2C",
+        "Nucleo",
+        "UIT"
+    ],
     "name": "ArduinoSerial",
     "platforms": "*",
     "repository": {

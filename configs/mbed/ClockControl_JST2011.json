@@ -4,7 +4,12 @@
         "url": "https://os.mbed.com/users/JST2011/"
     },
     "description": "clock control library written by Michael Wei",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/kayekss/code/IsuProject_LPC1768/",
+        "https://os.mbed.com/users/strysd/code/int555/",
+        "https://os.mbed.com/users/kayekss/code/Gemini_Soloist_LPC1768/",
+        "https://os.mbed.com/users/casiotone401/code/OSCtoCVConverter/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "pwm",
@@ -13,9 +18,7 @@
         "CPU",
         "Power",
         "power consumption",
-        "power control",
-        "DS18B20",
-        "temperature sensor"
+        "power control"
     ],
     "name": "ClockControl",
     "platforms": "*",

@@ -4,11 +4,13 @@
         "url": "https://os.mbed.com/users/mbj898/"
     },
     "description": "Library to use LED as a heartbeat. Powered using PWM.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/mbj898/code/ARM_DAY_PWM/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F746NG",
-        "STM32F746",
+        "IMU",
+        "sensor",
         "hang",
         "I2C",
         "KL25z",

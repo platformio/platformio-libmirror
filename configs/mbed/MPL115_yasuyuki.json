@@ -4,9 +4,14 @@
         "url": "https://os.mbed.com/users/yasuyuki/"
     },
     "description": "MPL115A2 library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/yasuyuki/code/mbed_MPL115/"
+    ],
     "frameworks": "mbed",
-    "keywords": "MPL115A2",
+    "keywords": [
+        "RTC",
+        "MPL115A2"
+    ],
     "name": "MPL115",
     "platforms": "*",
     "repository": {

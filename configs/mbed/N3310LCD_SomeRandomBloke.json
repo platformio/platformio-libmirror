@@ -4,17 +4,21 @@
         "url": "https://os.mbed.com/users/SomeRandomBloke/"
     },
     "description": "Library for Nuelectronics Nokia 3310/5110 LCD Display and joystick.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/SomeRandomBloke/code/N3310LCD_Demo/",
+        "https://os.mbed.com/users/SomeRandomBloke/code/FRDM_N3110LCD/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "edge",
-        "level",
-        "SW",
-        "tact",
-        "Toggle",
-        "HTTP server",
-        "httpd",
-        "websocket server",
+        "14bit",
+        "3-axis",
+        "8bit",
+        "accelerometer",
+        "I2C",
+        "MMA8451Q",
+        "Linked",
+        "Linked List",
+        "List",
         "3310",
         "5110",
         "Nokia"

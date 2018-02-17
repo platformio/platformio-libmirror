@@ -4,17 +4,25 @@
         "url": "https://os.mbed.com/users/passionvirus/"
     },
     "description": "herkulex servo control library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/passionvirus/code/HerkuleX-HelloWorld/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "sensor",
-        "Temperature",
-        "TMP175",
         "VCNL4000",
         "VCNL4010",
         "VCNL4020",
         "herkulex",
-        "Servo"
+        "Servo",
+        "BUTTON",
+        "debounce",
+        "DigitalIn",
+        "Ticker",
+        "trigger",
+        "C1098-SS",
+        "camera",
+        "JPEG",
+        "UART"
     ],
     "name": "herkulex",
     "platforms": "*",

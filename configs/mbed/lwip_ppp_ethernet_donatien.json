@@ -4,12 +4,27 @@
         "url": "https://os.mbed.com/users/donatien/"
     },
     "description": "LwIP with PPP & Ethernet integration",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/donatien/code/NetworkingCoreLib/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "clock",
-        "ds1307",
-        "RTC"
+        "em-406",
+        "GPS",
+        "MTK3339",
+        "NMEA",
+        "Serial",
+        "UART",
+        "EFM32",
+        "Gecko",
+        "SegmentLCD",
+        "SiLabs",
+        "Silicon Labs",
+        "silicon_labs",
+        "buzzer",
+        "music",
+        "RTTTL",
+        "sound"
     ],
     "name": "lwip_ppp_ethernet",
     "platforms": "*",

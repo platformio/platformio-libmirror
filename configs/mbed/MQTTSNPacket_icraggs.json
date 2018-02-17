@@ -4,14 +4,22 @@
         "url": "https://os.mbed.com/users/icraggs/"
     },
     "description": "Low level MQTTSN packet library, part of the Eclipse Paho project: http://eclipse.org/paho",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/icraggs/code/MQTTSN/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "eCompass",
-        "Wi-Go",
-        "WiGo",
-        "semihosting",
-        "SWD",
+        "Digital",
+        "library",
+        "logic",
+        "Out",
+        "Register",
+        "shift",
+        "Shift Register",
+        "SN74HC595N",
+        "adc",
+        "DIFF",
+        "K64F",
         "servos",
         "slow",
         "Speed"

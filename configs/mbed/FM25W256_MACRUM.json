@@ -4,15 +4,18 @@
         "url": "https://os.mbed.com/users/MACRUM/"
     },
     "description": "Cypress F-RAM FM25W256 library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/MACRUM/code/Hello-FM25W256/",
+        "https://os.mbed.com/users/ohneta/code/Hello-FM25W256/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "dac",
         "MCP4728",
         "cypress",
         "F-RAM",
-        "piezo",
-        "pwm"
+        "HD44780",
+        "TextLCD"
     ],
     "name": "FM25W256",
     "platforms": "*",

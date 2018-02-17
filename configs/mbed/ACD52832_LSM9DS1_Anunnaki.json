@@ -4,9 +4,17 @@
         "url": "https://os.mbed.com/users/Anunnaki/"
     },
     "description": "Mems sensor",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/aconno-dev-team/code/ADC52832_Intro_example/",
+        "https://os.mbed.com/teams/aconno-dev-team/code/ACD52832_Master_Example/",
+        "https://os.mbed.com/teams/aconno-dev-team/code/acn52832_sensor_board/"
+    ],
     "frameworks": "mbed",
-    "keywords": "ACD52832_LSM9DS1",
+    "keywords": [
+        "IOT",
+        "sigfox",
+        "ultrasonico"
+    ],
     "name": "ACD52832_LSM9DS1",
     "platforms": "*",
     "repository": {

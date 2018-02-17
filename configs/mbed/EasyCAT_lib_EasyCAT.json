@@ -4,7 +4,12 @@
         "url": "https://os.mbed.com/users/EasyCAT/"
     },
     "description": "EasyCAT shield library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/EasyCAT/code/TestEasyCAT/",
+        "https://os.mbed.com/users/EasyCAT/code/TestEasyCAT_DC_sync/",
+        "https://os.mbed.com/users/EasyCAT/code/TestEasyCAT_SM_sync/",
+        "https://os.mbed.com/users/EasyCAT/code/TestEasyCAT_LoopBack/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "arduino",
@@ -13,8 +18,9 @@
         "ethernet",
         "fieldbus",
         "shield",
-        "display",
-        "monochrome"
+        "adc",
+        "ads1015",
+        "ads1115"
     ],
     "name": "EasyCAT_lib",
     "platforms": "*",

@@ -4,15 +4,25 @@
         "url": "https://os.mbed.com/users/AppNearMe/"
     },
     "description": "AppNearMe µNFC stack for the NXP PN532 chip",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/tristanjph/code/IOT_sensor_nfc/",
+        "https://os.mbed.com/users/AppNearMe/code/AppNearMe_MuNFC_PN532_Test/",
+        "https://os.mbed.com/users/thomasjanke/code/p2p_nfc_test/",
+        "https://os.mbed.com/users/AppNearMe/code/NFCMoodLamp/",
+        "https://os.mbed.com/users/balamuruganms/code/NFC_mbed/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "AppNearMe",
-        "NFC",
         "External SD",
         "file system",
         "SDHC",
-        "SPI"
+        "SPI",
+        "AppNearMe",
+        "NFC",
+        "DS1820",
+        "DS1822",
+        "DS18B20",
+        "DS18S20"
     ],
     "name": "AppNearMe_MuNFC_PN532",
     "platforms": "*",

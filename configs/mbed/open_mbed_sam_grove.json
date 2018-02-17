@@ -5,13 +5,7 @@
     },
     "description": "Tool that opens a comport for every mbed connected to your computer with one command - never look for the COM number again!",
     "frameworks": "mbed",
-    "keywords": [
-        "assert",
-        "debug",
-        "mbed",
-        "rgb",
-        "utility"
-    ],
+    "keywords": "open_mbed",
     "name": "open_mbed",
     "platforms": "*",
     "repository": {

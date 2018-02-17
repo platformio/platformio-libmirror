@@ -4,11 +4,18 @@
         "url": "https://os.mbed.com/users/kikoaac/"
     },
     "description": "Ｍｏｔｏｒ",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/kikoaac/code/Nucleo_spi/",
+        "https://os.mbed.com/users/sgrsn/code/2015_denziben_i2c_S2/",
+        "https://os.mbed.com/teams/2015-robotic-contest-arakawa-A/code/Nucleo_Motor/",
+        "https://os.mbed.com/teams/GR-PEACH_producer_meeting/code/Nucleo_Motor/",
+        "https://os.mbed.com/users/kikoaac/code/FourSicleRobot/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F469NI",
-        "sdram"
+        "log",
+        "logger",
+        "logging"
     ],
     "name": "Motor",
     "platforms": "*",

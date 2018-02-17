@@ -4,9 +4,24 @@
         "url": "https://os.mbed.com/users/sarahmarshy/"
     },
     "description": "Library to resolve text URLs to IP addresses (IPv4)",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/kixorz/code/TempTower/"
+    ],
     "frameworks": "mbed",
-    "keywords": "DnsQuery",
+    "keywords": [
+        "led",
+        "LED controller",
+        "led driver",
+        "PCA9622",
+        "PCA9624",
+        "PCA9626",
+        "PCA962x",
+        "pwm",
+        "FAT",
+        "file",
+        "SD",
+        "System"
+    ],
     "name": "DnsQuery",
     "platforms": "*",
     "repository": {

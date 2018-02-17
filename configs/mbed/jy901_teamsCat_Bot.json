@@ -4,14 +4,13 @@
         "url": "https://os.mbed.com/teams/Cat_Bot/"
     },
     "description": "Can measure acceleration, angular Velocity, magnetic and Angle.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/NHK2017_octopus/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "AirIndoorQuality",
         "MtSense02",
-        "DS130x",
-        "Maxim",
-        "RTC",
         "JY901"
     ],
     "name": "jy901",

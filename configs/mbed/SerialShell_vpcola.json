@@ -4,17 +4,12 @@
         "url": "https://os.mbed.com/users/vpcola/"
     },
     "description": "A simple serial shell running on its own thread (stack is statically allocated).",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "Adafruit",
-        "I2C",
-        "led",
-        "nxp",
-        "PCA9685",
-        "pwm",
-        "Servo"
+    "examples": [
+        "https://os.mbed.com/users/vpcola/code/FRDM_K64F_IOT/",
+        "https://os.mbed.com/users/vpcola/code/lpc1768_blinky/"
     ],
+    "frameworks": "mbed",
+    "keywords": "I2C",
     "name": "SerialShell",
     "platforms": "*",
     "repository": {

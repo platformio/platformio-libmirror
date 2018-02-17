@@ -7,13 +7,7 @@
     "frameworks": "mbed",
     "keywords": [
         "I2C",
-        "VFD",
-        "flash",
-        "M25PE10",
-        "M25PE20",
-        "memory",
-        "SPI",
-        "ST"
+        "VFD"
     ],
     "name": "VFD",
     "platforms": "*",

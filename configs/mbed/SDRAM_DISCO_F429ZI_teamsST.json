@@ -4,19 +4,26 @@
         "url": "https://os.mbed.com/teams/ST/"
     },
     "description": "Class used to drive the IS42S16400J SDRAM memory mounted on STM32F429I-Discovery board.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/wsquan171/code/DISCO-F429ZI_Gauge/",
+        "https://os.mbed.com/teams/ST/code/DISCO-F429ZI_SDRAM_demo/",
+        "https://os.mbed.com/users/mozillain/code/WIRE-BANDING_FT810/",
+        "https://os.mbed.com/users/mozillain/code/WIRE-BANDING_copy/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "AirQuality",
-        "Grove",
-        "Seeed",
-        "sensor",
-        "KL-25Z",
-        "Zumo",
         "DISCO_F746NG",
         "EEPROM",
+        "thermistor",
         "DISCO_F429ZI",
-        "sdram"
+        "sdram",
+        "alarm",
+        "DS3231",
+        "RTC",
+        "FM24Vxx",
+        "I2C",
+        "RAMTRON",
+        "MCP9808"
     ],
     "name": "SDRAM_DISCO_F429ZI",
     "platforms": "*",

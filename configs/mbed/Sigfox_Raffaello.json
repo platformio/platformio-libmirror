@@ -6,8 +6,16 @@
     "description": "Sigfox library with integration of ATParser",
     "frameworks": "mbed",
     "keywords": [
+        "HOPERF",
+        "RF22",
+        "RFM22",
         "ATParser",
-        "sigfox"
+        "sigfox",
+        "358",
+        "Adafruit",
+        "TFT",
+        "id3",
+        "mp3"
     ],
     "name": "Sigfox",
     "platforms": "*",

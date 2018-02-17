@@ -4,15 +4,18 @@
         "url": "https://os.mbed.com/users/nkhorman/"
     },
     "description": "This is a port of the Adafruit driver and DateTime library for the DS1307 RTC controller",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/jzeeff/code/espresso-machine-control/",
+        "https://os.mbed.com/users/oscarvzfz/code/SAT_OLED/",
+        "https://os.mbed.com/users/NilliM/code/Mbedesclava/",
+        "https://os.mbed.com/users/NilliM/code/Mbedmaestra/",
+        "https://os.mbed.com/users/bwang/code/SerialBlockReceiver/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "xbee",
-        "xbee library",
-        "XBEE pro",
-        "xbee programming",
-        "xbeeapi",
-        "xbeelibrary",
+        "buzzer",
+        "music",
+        "sound",
         "driver",
         "ds1307",
         "I2C",

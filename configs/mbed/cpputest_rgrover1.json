@@ -6,9 +6,10 @@
     "description": "Unit Testing framework based on http://cpputest.github.io/",
     "frameworks": "mbed",
     "keywords": [
-        "aqm0802a",
         "I2C",
-        "Nucleo"
+        "ranger",
+        "SRF02",
+        "ultrasonic"
     ],
     "name": "cpputest",
     "platforms": "*",

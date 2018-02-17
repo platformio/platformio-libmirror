@@ -4,11 +4,16 @@
         "url": "https://os.mbed.com/users/RichardUK/"
     },
     "description": "Display1602",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/virtualmech/code/vmConfort_v6/",
+        "https://os.mbed.com/teams/TVZ-Electrical-engeneering-team/code/Programski_zadatak_23/",
+        "https://os.mbed.com/teams/TVZ-Electrical-engeneering-team/code/Projektni_zadatak_23/",
+        "https://os.mbed.com/teams/TVZ-Electrical-engeneering-team/code/tempivolt/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F746NG",
-        "STM32F746",
+        "IMU",
+        "sensor",
         "hang",
         "I2C",
         "KL25z",

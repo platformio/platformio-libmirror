@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/piniels/"
     },
     "description": "A library for the Arduino motor shield board",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/piniels/code/HIDTympDeviceWithPIDController/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "L298",
@@ -14,13 +16,7 @@
         "Serial",
         "Terminal",
         "VT100",
-        "VT200",
-        "7",
-        "display",
-        "driver",
-        "led",
-        "PCA9635",
-        "segment"
+        "VT200"
     ],
     "name": "ArduinoMotorShield",
     "platforms": "*",

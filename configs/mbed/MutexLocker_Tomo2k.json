@@ -4,14 +4,16 @@
         "url": "https://os.mbed.com/users/Tomo2k/"
     },
     "description": "Mutex Locker utility class to lock/unlock mbed RTOS mutexes.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/cabledev/code/SmartLight/",
+        "https://os.mbed.com/users/rproctor6/code/HelloThreadsYo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "HY-1.8",
+        "ST7735",
         "mutex",
-        "rtos",
-        "DeepSleep",
-        "InterruptIn",
-        "LPC1114"
+        "rtos"
     ],
     "name": "MutexLocker",
     "platforms": "*",

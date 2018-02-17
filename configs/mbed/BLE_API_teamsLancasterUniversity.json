@@ -4,10 +4,20 @@
         "url": "https://os.mbed.com/teams/Lancaster-University/"
     },
     "description": "Lancaster University's fork of the mbed BLE API.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/cefn/code/microbit-dal/",
+        "https://os.mbed.com/teams/Lancaster-University/code/microbit-dal/",
+        "https://os.mbed.com/users/fbeaufort/code/microbit-ble-open/",
+        "https://os.mbed.com/users/TheoHavercroft/code/microbit-dal/",
+        "https://os.mbed.com/users/Asimov/code/microbit-dal/",
+        "https://os.mbed.com/users/rengro01/code/microbit-dal/",
+        "https://os.mbed.com/users/bluetooth_mdw/code/microbit-dal-eddystone/",
+        "https://os.mbed.com/users/bluetooth_mdw/code/microbit-dal/",
+        "https://os.mbed.com/users/bluetooth_mdw/code/microbit-dal-ble-accelerometer-example/",
+        "https://os.mbed.com/users/bluetooth_mdw/code/microbit-dal-x/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "debouncing",
         "BLE_API",
         "Microbit"
     ],

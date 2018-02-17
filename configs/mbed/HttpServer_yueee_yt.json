@@ -4,7 +4,12 @@
         "url": "https://os.mbed.com/users/yueee_yt/"
     },
     "description": "New EthernetInterface Version HTTPServer Library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/yueee_yt/code/HttpServerSample/",
+        "https://os.mbed.com/users/yueee_yt/code/giken9_HTMLServer_Sample/",
+        "https://os.mbed.com/users/yueee_yt/code/giken9_HTMLServer_Temp_Sample/",
+        "https://os.mbed.com/teams/smdiotkit2ch/code/RPCHTTPServer/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "tcp/ip",
@@ -17,10 +22,7 @@
         "WIZwiki_W7500",
         "WIZwiki_W7500ECO",
         "WIZwiki_W7500P",
-        "HTTPServer",
-        "BSP",
-        "DISCO_F429ZI",
-        "LCD"
+        "HTTPServer"
     ],
     "name": "HttpServer",
     "platforms": "*",

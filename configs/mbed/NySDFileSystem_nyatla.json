@@ -4,18 +4,24 @@
         "url": "https://os.mbed.com/users/nyatla/"
     },
     "description": "This is SDFileSystem which corrected the bug for MiMicSDK.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/mio/code/MbedFileServer_1768MiniDK2/",
+        "https://os.mbed.com/users/nyatla/code/RedWireBridge/",
+        "https://os.mbed.com/users/nyatla/code/IssueDebug_gcc/",
+        "https://os.mbed.com/users/nyatla/code/MiMicRemoteMCU-for-Mbed/",
+        "https://os.mbed.com/users/nyatla/code/MiMicSimpleHttpd/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "C12832",
-        "LCD",
-        "FM24Vxx",
-        "I2C",
-        "RAMTRON",
+        "ProcVis",
         "FAT",
         "file",
         "SD",
-        "System"
+        "System",
+        "ADT7410",
+        "I2C",
+        "Nucleo",
+        "UIT"
     ],
     "name": "NySDFileSystem",
     "platforms": "*",

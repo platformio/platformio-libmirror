@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/jsteve/"
     },
     "description": "Simple cpp wrapper of a ds18b20, onewire 'c' library.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/umairaftab/code/DS18B20Sensor/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "1wire",

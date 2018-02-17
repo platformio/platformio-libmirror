@@ -6,9 +6,11 @@
     "description": "Software driver for Luminex LCD-S401M16KR LCD Numeric Display Modules 4 Digit 0.17\" 7 Seg Reflective",
     "frameworks": "mbed",
     "keywords": [
+        "IBMIoTF",
+        "IOT",
+        "iotf",
         "7seg",
-        "LCD",
-        "Encoder"
+        "LCD"
     ],
     "name": "S401M16KR",
     "platforms": "*",

@@ -4,15 +4,17 @@
         "url": "https://os.mbed.com/teams/components/"
     },
     "description": "A controller-neutral API for working with GPS devices.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/components/code/CsrLocationDemo/",
+        "https://os.mbed.com/teams/CSR/code/CsrLocationDemo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "interpreter",
+        "Pawn",
         "api",
         "CSR",
         "GPS",
-        "Nucleo",
-        "STM32F446",
-        "USBDevice",
         "Adafruit",
         "LCD",
         "S6D02A1",

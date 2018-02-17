@@ -4,14 +4,16 @@
         "url": "https://os.mbed.com/users/hirokimineshita/"
     },
     "description": "このライブラリーはテストに作ったものです。近いうちに他の関数を加えた形でアップデートするつもりです。",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/hirokimineshita/code/Nucleo_L3GD20_MMA7361_Kalman/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "F401RE",
         "L3GD20",
         "Nucleo",
-        "device",
-        "USB"
+        "tcp/ip",
+        "WiFly"
     ],
     "name": "L3GD20",
     "platforms": "*",

@@ -4,13 +4,11 @@
         "url": "https://os.mbed.com/users/HBP/"
     },
     "description": "Very simple library for controlling small graphic LCDs",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/HBP/code/LCD/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "LPC800",
-        "LPC800-MAX",
-        "PCA9672",
         "bitmap",
         "Graphics",
         "LCD"

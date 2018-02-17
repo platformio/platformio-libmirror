@@ -4,14 +4,14 @@
         "url": "https://os.mbed.com/users/rtgree01/"
     },
     "description": "Extremely simple OBDII library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/rtgree01/code/DodgeRadioEmulatorv30/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "device",
         "USB",
-        "nRF51822",
-        "Switch Sience",
-        "TY51822r3"
+        "DigitalIn"
     ],
     "name": "OBDIILib",
     "platforms": "*",

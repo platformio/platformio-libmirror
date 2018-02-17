@@ -6,11 +6,13 @@
     "description": "http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/",
     "frameworks": "mbed",
     "keywords": [
-        "api",
-        "xbee",
-        "zigbee",
         "radiohead",
-        "ethernet"
+        "TeraTerm",
+        "Terminal",
+        "compass",
+        "HMC5883L",
+        "USB",
+        "UVC"
     ],
     "name": "kalman",
     "platforms": "*",

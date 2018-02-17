@@ -4,9 +4,19 @@
         "url": "https://os.mbed.com/users/morimoriYNCT/"
     },
     "description": "24日間連続してカウントするタイマークラスです。クラスの実装が公開されていないので理由は不明ですが、mbed標準のTimerクラスは2148秒までしかカウントしてくれません。そのため、せめてArduinoと同等のカウントが可能なように作成しました。",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/morimoriYNCT/code/gps_com/"
+    ],
     "frameworks": "mbed",
-    "keywords": "timer",
+    "keywords": [
+        "timer",
+        "I2C",
+        "LM77",
+        "sensor",
+        "Temperature",
+        "AT",
+        "parser"
+    ],
     "name": "TimerExtended",
     "platforms": "*",
     "repository": {

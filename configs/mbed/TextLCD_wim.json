@@ -4,7 +4,18 @@
         "url": "https://os.mbed.com/users/wim/"
     },
     "description": "Updated for more display types.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/mprinke/code/GPSDevice/",
+        "https://os.mbed.com/users/hgomez/code/TestTextLCD/",
+        "https://os.mbed.com/users/vinit/code/SD-to-Flash-Data-Transfer/",
+        "https://os.mbed.com/users/gcme93/code/DrumMachine/",
+        "https://os.mbed.com/users/ralphoosterveld/code/TextLCD/",
+        "https://os.mbed.com/users/bouvdberg/code/HuidigePositieV2/",
+        "https://os.mbed.com/users/bouvdberg/code/HuidigePositieV3/",
+        "https://os.mbed.com/users/bouvdberg/code/HuidigePositieV5/",
+        "https://os.mbed.com/users/bouvdberg/code/RobotControlVfinal/",
+        "https://os.mbed.com/users/embeddedartists/code/lpc812_exp_solution_character-lcd/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "Host",

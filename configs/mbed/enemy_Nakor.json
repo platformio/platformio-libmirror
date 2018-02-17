@@ -4,24 +4,21 @@
         "url": "https://os.mbed.com/users/Nakor/"
     },
     "description": "Enemy class. Written for OOP Review. Derived from life_entity.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Nakor/code/life_entity/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "64F",
+        "FRDM",
+        "I2S",
         "game",
         "inheritance",
         "OOP",
         "polymorphism",
         "tutorial",
-        "2.4GHz",
-        "a7105",
-        "FSK",
-        "GFSK",
-        "transceiver",
-        "txrx",
-        "device",
-        "USB",
-        "controller",
-        "Design"
+        "Robotics",
+        "Servo"
     ],
     "name": "enemy",
     "platforms": "*",

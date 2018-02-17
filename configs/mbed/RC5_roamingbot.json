@@ -6,10 +6,12 @@
     "description": "Completed RC5 send and receive",
     "frameworks": "mbed",
     "keywords": [
-        "C1098-SS",
-        "camera",
-        "JPEG",
-        "UART"
+        "bar",
+        "Grove",
+        "led",
+        "GraphicsDisplay",
+        "GUI",
+        "TextDisplay"
     ],
     "name": "RC5",
     "platforms": "*",

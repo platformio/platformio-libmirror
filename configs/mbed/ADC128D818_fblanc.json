@@ -4,20 +4,15 @@
         "url": "https://os.mbed.com/users/fblanc/"
     },
     "description": "12-Bit, 8-Channel, ADC System Monitor w/ Temp Sensor, Internal/External Reference, & I2C Interface",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/fblanc/code/ADC128D818_HelloWorld/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "GPS",
-        "interrupt",
-        "NMEA",
         "adc",
         "I2C",
         "Monito",
-        "System",
-        "Grove",
-        "RFID",
-        "SEN11425P",
-        "Serial"
+        "System"
     ],
     "name": "ADC128D818",
     "platforms": "*",

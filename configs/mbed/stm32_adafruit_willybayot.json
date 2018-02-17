@@ -4,19 +4,14 @@
         "url": "https://os.mbed.com/users/willybayot/"
     },
     "description": "ADAFRUIT CLD & SD lib",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/willybayot/code/TDEMNucleo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "cmsis",
         "rtos",
-        "RTX",
-        "led",
-        "LPD8803",
-        "LPD8806",
-        "LPD8809",
-        "SPI",
-        "OAuth",
-        "twitter"
+        "RTX"
     ],
     "name": "stm32_adafruit",
     "platforms": "*",

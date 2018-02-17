@@ -4,16 +4,16 @@
         "url": "https://os.mbed.com/users/okini3939/"
     },
     "description": "pcm - u-law encode/decode",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/PhonePlatform/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "DigitalIn",
-        "accelerometer",
-        "ADXL362",
         "Analog",
         "AnalogIn",
         "gyro",
-        "sensor"
+        "sensor",
+        "LCD"
     ],
     "name": "ulaw",
     "platforms": "*",

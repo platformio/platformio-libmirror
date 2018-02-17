@@ -4,16 +4,11 @@
         "url": "https://os.mbed.com/teams/Flotsam/"
     },
     "description": "Simple pH class.",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "ds1307",
-        "DS3231m",
-        "inverse kinematics",
-        "mearm",
-        "robotic arm",
-        "servo motor"
+    "examples": [
+        "https://os.mbed.com/teams/Flotsam/code/Full-Project/"
     ],
+    "frameworks": "mbed",
+    "keywords": "test",
     "name": "pH_Sensor",
     "platforms": "*",
     "repository": {

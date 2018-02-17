@@ -4,15 +4,18 @@
         "url": "https://os.mbed.com/users/charly/"
     },
     "description": "Extendes Version of TextLCD which scrolls oversized lines.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/charly/code/RF22_MAX_test_Send/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "call",
-        "Procedure",
-        "remote",
-        "rpc",
-        "CAN",
-        "MCP2515",
+        "GR-PEACH",
+        "HTU21D",
+        "Humidity",
+        "I2C",
+        "K64F",
+        "KL25z",
+        "Temperature",
         "LCD",
         "Scroll",
         "TextLCD"

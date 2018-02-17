@@ -6,12 +6,16 @@
     "description": "MPU-9150 is 9 axis IMU sensor. In details, web",
     "frameworks": "mbed",
     "keywords": [
-        "I2S",
-        "library",
         "IMU",
         "sensor",
-        "DISCO_F746NG",
-        "STM32F746"
+        "hang",
+        "I2C",
+        "KL25z",
+        "lockup",
+        "ARM",
+        "DAY",
+        "heartbeat",
+        "RIT"
     ],
     "name": "MPU9150",
     "platforms": "*",

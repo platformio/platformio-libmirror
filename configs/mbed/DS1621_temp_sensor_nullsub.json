@@ -6,20 +6,9 @@
     "description": "A small library to read the tempature from ds1621(with little changes all those ds162x) devices over I2C.",
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "ranger",
-        "SRF02",
-        "ultrasonic",
-        "control",
-        "dot",
-        "Dynamic",
-        "gray",
-        "led",
-        "lighting",
-        "matrix",
-        "scale",
         "1621",
-        "ds1621"
+        "ds1621",
+        "I2C"
     ],
     "name": "DS1621_temp_sensor",
     "platforms": "*",

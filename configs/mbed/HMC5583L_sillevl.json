@@ -4,20 +4,21 @@
         "url": "https://os.mbed.com/users/sillevl/"
     },
     "description": "I2C driver for HMC5583L digital compass sensor",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/sillevl/code/m3Dpi/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "CyaSSL",
-        "SSL",
         "compass",
         "driver",
         "HMC5583L",
         "I2C",
         "sensor",
-        "Elecret Microphone",
-        "MAX9814",
-        "sound",
-        "Volume Indicator"
+        "EEPROM",
+        "MSD",
+        "SPI",
+        "USB",
+        "kalman"
     ],
     "name": "HMC5583L",
     "platforms": "*",

@@ -4,11 +4,27 @@
         "url": "https://os.mbed.com/users/d_worrall/"
     },
     "description": "I2SSlave",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/d_worrall/code/playback/",
+        "https://os.mbed.com/users/d_worrall/code/FTSESpeech/",
+        "https://os.mbed.com/users/okini3939/code/i2s_audio_echo/",
+        "https://os.mbed.com/users/okini3939/code/i2s_audio_sampler/",
+        "https://os.mbed.com/users/okini3939/code/i2s_audio_madplayer/",
+        "https://os.mbed.com/users/HB9GAA/code/AudioCODEC_6/",
+        "https://os.mbed.com/teams/digital-audio-mod11/code/k/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "pressure",
-        "sensor"
+        "DS18B20",
+        "temperature sensor",
+        "audio",
+        "files",
+        "I2C",
+        "I2S",
+        "playing",
+        "RS labboard",
+        "TLV320",
+        "wav"
     ],
     "name": "I2SSlave",
     "platforms": "*",

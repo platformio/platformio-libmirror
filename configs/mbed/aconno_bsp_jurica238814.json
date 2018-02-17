@@ -4,19 +4,20 @@
         "url": "https://os.mbed.com/users/jurica238814/"
     },
     "description": "aconno board support file for acd52832 device.",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "C027",
-        "C030",
-        "CellularInterface",
-        "u-blox",
-        "I2C",
-        "NeoPixel",
-        "rhb",
-        "slave",
-        "74HC165"
+    "examples": [
+        "https://os.mbed.com/users/jurica238814/code/acd52832_TempRead/",
+        "https://os.mbed.com/users/jurica238814/code/acd52832_LSM9DS1/",
+        "https://os.mbed.com/users/jurica238814/code/beep/",
+        "https://os.mbed.com/users/jurica238814/code/beep_2/",
+        "https://os.mbed.com/users/jurica238814/code/acd52832_beep_buzzer_ints/",
+        "https://os.mbed.com/teams/aconno-dev-team/code/BuzzerRTTL/",
+        "https://os.mbed.com/users/jurica238814/code/acd52832_blinky/",
+        "https://os.mbed.com/teams/aconno-dev-team/code/ACD52832_rgb_show/",
+        "https://os.mbed.com/teams/aconno-dev-team/code/ACD52832_Beacon_basic_example/",
+        "https://os.mbed.com/users/Dautor/code/acn52832_Battery_Beacon/"
     ],
+    "frameworks": "mbed",
+    "keywords": "crc8",
     "name": "aconno_bsp",
     "platforms": "*",
     "repository": {

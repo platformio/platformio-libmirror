@@ -4,11 +4,24 @@
         "url": "https://os.mbed.com/users/jebradshaw/"
     },
     "description": "Library for generating servo pulses from mbed output pins",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/jebradshaw/code/mbed_ES20X_Tester/",
+        "https://os.mbed.com/teams/USNA-WSE-ES456/code/MadPulseCntrl/",
+        "https://os.mbed.com/users/m176846/code/ES413Integration/",
+        "https://os.mbed.com/teams/Emaxx-Navigation-Group/code/Emaxx_Navigation/",
+        "https://os.mbed.com/users/chuckwebb/code/mbed_pc_connection/",
+        "https://os.mbed.com/teams/Emaxx-Navigation-Group/code/Emaxx_Navigation_Dynamic_HIL/",
+        "https://os.mbed.com/teams/USNA-WSE-ES456/code/Madpulse_Speed_Control_temp/",
+        "https://os.mbed.com/teams/USNA-WSE-ES456/code/Madpulse_Speed_Control_Students/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "scp1000",
-        "SoftSPI",
+        "CDC",
+        "MSD",
+        "USB",
+        "Energy Meter",
+        "frequency",
+        "measurement",
         "Servo",
         "servo pulse",
         "SERVOGEN",

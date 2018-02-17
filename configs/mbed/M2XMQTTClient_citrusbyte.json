@@ -4,17 +4,25 @@
         "url": "https://os.mbed.com/users/citrusbyte/"
     },
     "description": "M2X MQTT Client for ARM MBED",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/Avnet/code/WNCInterface_M2XMQTTdemo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "16x4",
-        "array",
-        "I2C",
-        "infrared",
-        "IR",
-        "Temperature",
-        "display",
-        "LCD"
+        "Dimmer",
+        "DMX",
+        "DMX512",
+        "lighting",
+        "STM",
+        "stm32",
+        "parallax",
+        "PING",
+        "ping)))",
+        "sensor",
+        "ultrasonic",
+        "Servo",
+        "servo pulse",
+        "WSE"
     ],
     "name": "M2XMQTTClient",
     "platforms": "*",

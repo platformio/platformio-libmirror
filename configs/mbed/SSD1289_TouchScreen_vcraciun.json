@@ -6,11 +6,8 @@
     "description": "SSD128 TouchScreen Library based on Todor Todorov tftlcd library",
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "ST7565",
-        "buffer",
-        "ringbuffer",
-        "Template Buffer"
+        "DISCO_F746NG",
+        "SD"
     ],
     "name": "SSD1289_TouchScreen",
     "platforms": "*",

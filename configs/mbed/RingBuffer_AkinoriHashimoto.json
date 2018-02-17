@@ -4,15 +4,17 @@
         "url": "https://os.mbed.com/users/AkinoriHashimoto/"
     },
     "description": "Ring Buffer reconciled with RTOS.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/AkinoriHashimoto/code/RN41/",
+        "https://os.mbed.com/users/AkinoriHashimoto/code/HC05/",
+        "https://os.mbed.com/users/Paulbearne/code/HC05/",
+        "https://os.mbed.com/users/AkinoriHashimoto/code/mySerial/",
+        "https://os.mbed.com/users/tnn85/code/HC05/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "buffer",
-        "ring",
-        "hotboards",
-        "MCP9808",
-        "sesnor",
-        "Temp"
+        "ring"
     ],
     "name": "RingBuffer",
     "platforms": "*",

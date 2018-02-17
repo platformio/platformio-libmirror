@@ -4,18 +4,20 @@
         "url": "https://os.mbed.com/users/PhoenixUnicamp/"
     },
     "description": "Basic Implementation of JSON.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/ajayke/code/mbed_networking/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "4DGL",
+        "4DSystems",
+        "OLED",
+        "AnalogIn",
+        "DMA",
         "JSON",
         "LPC11U24",
         "LPC1768",
-        "WDT",
-        "LCD",
-        "Serial",
-        "TextDisplay",
-        "TextDisplays",
-        "TextLCD"
+        "WDT"
     ],
     "name": "oJSON",
     "platforms": "*",

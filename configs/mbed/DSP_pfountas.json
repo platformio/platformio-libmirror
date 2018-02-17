@@ -5,7 +5,11 @@
     },
     "description": "This repository contains Digital Signal Processing related code..",
     "frameworks": "mbed",
-    "keywords": "TFT",
+    "keywords": [
+        "NeoPixel",
+        "WS2811",
+        "WS2812"
+    ],
     "name": "DSP",
     "platforms": "*",
     "repository": {

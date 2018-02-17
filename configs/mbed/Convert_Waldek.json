@@ -4,9 +4,27 @@
         "url": "https://os.mbed.com/users/Waldek/"
     },
     "description": "Conversions for the LCD display in FRDM-KL46Z",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/jhaugen/code/eem202a_display/",
+        "https://os.mbed.com/users/resolutedreamer/code/eem202a_resolutedreamer_1/"
+    ],
     "frameworks": "mbed",
-    "keywords": "4DGL",
+    "keywords": [
+        "EEPROM",
+        "file",
+        "mFS",
+        "System",
+        "accelerometer",
+        "acelerometro",
+        "club",
+        "cuadricoptero",
+        "cuadrotor",
+        "fiuba",
+        "I2C",
+        "quadrotor",
+        "robotica",
+        "vuelo"
+    ],
     "name": "Convert",
     "platforms": "*",
     "repository": {

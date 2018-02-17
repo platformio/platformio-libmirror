@@ -4,10 +4,11 @@
         "url": "https://os.mbed.com/users/okini3939/"
     },
     "description": "Serial RAM (SPI SRAM) library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/SPIRAM_23LC1024_FIFO/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "myTimer",
         "23K256",
         "23LC1024",
         "DMA",
@@ -16,7 +17,8 @@
         "ring buffer",
         "SPI",
         "sram",
-        "dac"
+        "dac",
+        "basicauth"
     ],
     "name": "SerRAM",
     "platforms": "*",

@@ -4,22 +4,24 @@
         "url": "https://os.mbed.com/users/suupen/"
     },
     "description": "このライブラリでは、単音とメロディの出力が可能です。",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/suupen/code/kitchenTimer_Clock/",
+        "https://os.mbed.com/users/suupen/code/SoundLibraryExample_Melody_ProgramData/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "PS2",
-        "driver",
-        "Graphics",
-        "ILI9340",
-        "LCD",
-        "SPI",
-        "TFT",
         "distance",
         "eco",
         "range",
         "sonic",
         "Ultra",
-        "GPIO",
+        "asynchronous",
+        "Buffered",
+        "FIFO",
+        "Non blocking",
+        "ring buffer",
+        "Serial",
+        "UART",
         "Beep",
         "merody",
         "sound"

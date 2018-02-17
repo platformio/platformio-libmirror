@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/okano/"
     },
     "description": "Stepper motor control class library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/okano/code/StepperMotor_HelloWorld/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "3",
@@ -18,8 +20,7 @@
         "frequency",
         "LPC1768",
         "MHz",
-        "output",
-        "JSON"
+        "output"
     ],
     "name": "StepperMotor",
     "platforms": "*",

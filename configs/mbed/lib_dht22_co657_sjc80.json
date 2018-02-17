@@ -4,19 +4,18 @@
         "url": "https://os.mbed.com/users/co657_sjc80/"
     },
     "description": "A simple library for reading data from a DHT22 sensor",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/co657_sjc80/code/frdm_dht22_example/",
+        "https://os.mbed.com/users/lamyaezerrouki/code/DISCO-L053C8_ePD_demo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "AQM1602",
-        "I2C",
-        "Nucleo",
-        "UIT",
         "EEPROM",
         "LPC11U24",
-        "DMA",
-        "KL25z",
-        "accelerometer",
-        "DHT22"
+        "SDFileSystem",
+        "STM32F746",
+        "DHT22",
+        "accelerometer"
     ],
     "name": "lib_dht22",
     "platforms": "*",

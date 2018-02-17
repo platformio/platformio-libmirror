@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Toby Harris",
+        "url": "https://os.mbed.com/users/tobyspark/"
+    },
+    "description": "An Open Sound Control library for the mbed, created to be compatible with Recotana's OSCClass library (http://recotana.com) for the",
+    "examples": [
+        "https://os.mbed.com/users/tobyspark/code/SPK-DVIMXR/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Bee",
+        "bluetooth",
+        "BluetoothBee",
+        "Seeedstudio",
+        "Serial",
+        "UART",
+        "WLS125E1P",
+        "I2C",
+        "LCD"
+    ],
+    "name": "OSC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tobyspark/code/OSC/"
+    }
+}

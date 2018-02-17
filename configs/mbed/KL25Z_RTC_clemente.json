@@ -4,13 +4,21 @@
         "url": "https://os.mbed.com/users/clemente/"
     },
     "description": "Class for the RTC module.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/clemente/code/FRDM_RTC/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "character",
-        "display",
-        "HD44780",
-        "LCD"
+        "IMU",
+        "sensor",
+        "hang",
+        "I2C",
+        "KL25z",
+        "lockup",
+        "ARM",
+        "DAY",
+        "heartbeat",
+        "RIT"
     ],
     "name": "KL25Z_RTC",
     "platforms": "*",

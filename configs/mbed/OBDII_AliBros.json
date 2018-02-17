@@ -6,6 +6,10 @@
     "description": "OBDII library, based on SK Pang\\\\\\'s ecu reader. more details to be added shortly.",
     "frameworks": "mbed",
     "keywords": [
+        "BLE",
+        "I2C",
+        "nordig",
+        "Essex",
         "2",
         "bus",
         "CAN",
@@ -13,10 +17,7 @@
         "OBD",
         "obd2",
         "obdII",
-        "reader",
-        "BLE",
-        "I2C",
-        "nordig"
+        "reader"
     ],
     "name": "OBDII",
     "platforms": "*",

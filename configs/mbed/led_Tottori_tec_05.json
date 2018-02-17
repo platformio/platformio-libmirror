@@ -4,9 +4,15 @@
         "url": "https://os.mbed.com/users/Tottori_tec_05/"
     },
     "description": "led",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/kalyan/code/mig16to161/"
+    ],
     "frameworks": "mbed",
-    "keywords": "led",
+    "keywords": [
+        "led",
+        "pwm",
+        "Ticker"
+    ],
     "name": "led",
     "platforms": "*",
     "repository": {

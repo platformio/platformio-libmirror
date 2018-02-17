@@ -4,13 +4,18 @@
         "url": "https://os.mbed.com/users/beanmachine44/"
     },
     "description": "LSM9DS1 IMU sensor driver",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/beanmachine44/code/LSM9DS1_Demo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Ranging",
-        "sensor",
-        "SRF02",
-        "ultrasonic"
+        "EFM32",
+        "Gecko",
+        "SegmentLCD",
+        "SiLabs",
+        "Silicon Labs",
+        "silicon_labs",
+        "BME280"
     ],
     "name": "LSM9DS1",
     "platforms": "*",

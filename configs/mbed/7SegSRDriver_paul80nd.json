@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Paul Law",
+        "url": "https://os.mbed.com/users/paul80nd/"
+    },
+    "description": "7-Segment Display Driver class, via an 8-bit shift register (such as the 74HC595)",
+    "frameworks": "mbed",
+    "keywords": [
+        "LPC11U24",
+        "LPC1768",
+        "WDT"
+    ],
+    "name": "7SegSRDriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/paul80nd/code/7SegSRDriver/"
+    }
+}

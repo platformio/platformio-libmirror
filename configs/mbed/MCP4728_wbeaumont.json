@@ -4,15 +4,17 @@
         "url": "https://os.mbed.com/users/wbeaumont/"
     },
     "description": "General usable MCP4728 quad DAC implementation only limited function",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/wbeaumont/code/MCP4728test/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "dac",
         "MCP4728",
         "cypress",
         "F-RAM",
-        "piezo",
-        "pwm"
+        "HD44780",
+        "TextLCD"
     ],
     "name": "MCP4728",
     "platforms": "*",

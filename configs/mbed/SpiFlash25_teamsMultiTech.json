@@ -4,17 +4,24 @@
         "url": "https://os.mbed.com/teams/MultiTech/"
     },
     "description": "SPI driver for M25P* flash devices.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/MultiTech/code/flash-fs-example/",
+        "https://os.mbed.com/teams/MultiTech/code/Dragonfly_Filesystem_Example/",
+        "https://os.mbed.com/teams/MultiTech/code/Dragonfly_Low_Power_Example/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "flash",
-        "SPI",
         "bitmap",
         "BMP",
         "image",
+        "maestro",
+        "Serial",
         "Servo",
-        "servo pulse",
-        "WSE"
+        "I2C",
+        "PCF8583",
+        "RTC",
+        "flash",
+        "SPI"
     ],
     "name": "SpiFlash25",
     "platforms": "*",

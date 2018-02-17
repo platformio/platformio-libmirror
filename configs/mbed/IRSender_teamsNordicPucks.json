@@ -4,7 +4,11 @@
         "url": "https://os.mbed.com/teams/Nordic-Pucks/"
     },
     "description": "Lib for sending IR signals from mbed.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/cristea/code/ir-puck/",
+        "https://os.mbed.com/users/cristea/code/ir-puck2/",
+        "https://os.mbed.com/teams/Nordic-Pucks/code/ir-puck/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "infra",
@@ -12,16 +16,8 @@
         "IR",
         "mbed",
         "red",
-        "keil",
-        "MCB1700",
-        "QVGA",
-        "TFT",
         "ESP8266",
-        "NetworkSocketAPI",
-        "network",
-        "TCPSocket",
-        "twitpic",
-        "twitter"
+        "NetworkSocketAPI"
     ],
     "name": "IRSender",
     "platforms": "*",

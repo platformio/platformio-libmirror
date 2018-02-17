@@ -4,15 +4,14 @@
         "url": "https://os.mbed.com/users/bollenn/"
     },
     "description": "Software LIN communication library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/pmckenna/code/MBED_LIN_RGB_Master_Example/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit 9DOF",
-        "L3GD20H",
-        "BLE",
-        "BLE Bluetooth Low Energy BLE",
-        "BUTTON",
-        "LIN"
+        "LIN",
+        "SSL",
+        "TLS"
     ],
     "name": "LIN",
     "platforms": "*",

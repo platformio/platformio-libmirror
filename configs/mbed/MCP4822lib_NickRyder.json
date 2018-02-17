@@ -4,10 +4,11 @@
         "url": "https://os.mbed.com/users/NickRyder/"
     },
     "description": "MCP4822 dual 12-bit Digital to Analog Converter (DAC) chip.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/janekm/code/ADC2DAC/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "myTimer",
         "23K256",
         "23LC1024",
         "DMA",
@@ -16,7 +17,8 @@
         "ring buffer",
         "SPI",
         "sram",
-        "dac"
+        "dac",
+        "basicauth"
     ],
     "name": "MCP4822lib",
     "platforms": "*",

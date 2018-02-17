@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/syundo0730/"
     },
     "description": "Class for Futaba Servo motor RS3xx series",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/syundo0730/code/Hobby_Humanoid_controlor/"
+    ],
     "frameworks": "mbed",
     "keywords": "RS300",
     "name": "RS300",

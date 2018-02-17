@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/hudakz/"
     },
     "description": "CAN message container. Defines \"<<\" and \">>\" operators to simplify adding/getting data to/from a CAN message.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/hudakz/code/CAN_Hello/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "CAN",

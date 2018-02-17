@@ -4,19 +4,21 @@
         "url": "https://os.mbed.com/users/shintamainjp/"
     },
     "description": "Rotary encoder library.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/RotaryEncoder_TestProgram/",
+        "https://os.mbed.com/users/smultron1977/code/ST7735_Pong/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "DS1820",
-        "DS1822",
-        "DS18B20",
-        "DS18S20",
+        "fatfilesystem",
+        "LocalFileSystem",
+        "USBMSD",
+        "DC",
+        "motor",
+        "pwm",
         "Encoder",
         "rotary",
-        "Composite",
-        "USB",
-        "USBKeyboard",
-        "usbserial"
+        "ROS"
     ],
     "name": "RotaryEncoder",
     "platforms": "*",

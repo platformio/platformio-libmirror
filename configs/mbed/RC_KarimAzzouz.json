@@ -4,9 +4,13 @@
         "url": "https://os.mbed.com/users/KarimAzzouz/"
     },
     "description": "Used to read incoming PWM signals from RC channels",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/KarimAzzouz/code/A-Quad/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "NFC",
+        "PN532",
         "AHRS",
         "dcm",
         "navigation"

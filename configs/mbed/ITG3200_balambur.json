@@ -5,12 +5,7 @@
     },
     "description": "ITG3200",
     "frameworks": "mbed",
-    "keywords": [
-        "I2C",
-        "I2CRTOS",
-        "non-blocking",
-        "rtos"
-    ],
+    "keywords": "BME280",
     "name": "ITG3200",
     "platforms": "*",
     "repository": {

@@ -4,9 +4,13 @@
         "url": "https://os.mbed.com/users/Reiko/"
     },
     "description": "Quadrature decoder",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Reiko/code/Telliskivi2_2014/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "NFC",
+        "PN532",
         "AHRS",
         "dcm",
         "navigation"

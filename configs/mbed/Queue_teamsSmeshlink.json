@@ -4,9 +4,21 @@
         "url": "https://os.mbed.com/teams/Smeshlink/"
     },
     "description": "A simple queue Class",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/Smeshlink/code/MxSniffer/"
+    ],
     "frameworks": "mbed",
-    "keywords": "Queue",
+    "keywords": [
+        "keypad",
+        "RA8875",
+        "Touchscreen",
+        "Elmicro",
+        "FM25W256",
+        "FRAM",
+        "RAMTRON",
+        "SPI",
+        "SSP1"
+    ],
     "name": "Queue",
     "platforms": "*",
     "repository": {

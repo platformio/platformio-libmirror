@@ -4,15 +4,14 @@
         "url": "https://os.mbed.com/users/Veino/"
     },
     "description": "SCA61T Single Axis Inclinometer",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Veino/code/SCA61T_example/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "grps",
-        "shield",
         "SCA61T",
         "SCA61T-FA1H1G",
-        "SCA61T-FAHH1G",
-        "steering"
+        "SCA61T-FAHH1G"
     ],
     "name": "SCA61T",
     "platforms": "*",

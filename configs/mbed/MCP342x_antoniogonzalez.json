@@ -6,9 +6,10 @@
     "description": "Library for using Microchip's family of analog-to-digital converters MCP3422/3/4.",
     "frameworks": "mbed",
     "keywords": [
-        "Gameduino",
-        "VGA",
-        "adc"
+        "adc",
+        "DISCO_L476VG",
+        "N25Q128A",
+        "QSPI"
     ],
     "name": "MCP342x",
     "platforms": "*",

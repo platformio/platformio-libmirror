@@ -6,15 +6,11 @@
     "description": "a stupid GPS's NMEA0183 format parser.",
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "ADXL345",
-        "C++",
-        "mbed",
-        "FreeRTOS",
-        "rtos",
         "EEPROM",
         "GPS",
-        "NMEA0183"
+        "NMEA0183",
+        "GPIO Exoender",
+        "MCP23017"
     ],
     "name": "nmea0183",
     "platforms": "*",

@@ -4,25 +4,20 @@
         "url": "https://os.mbed.com/users/AjK/"
     },
     "description": "Simple to use macros to manipulate GPIOs quickly.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/tlunzer/code/revcounter/",
+        "https://os.mbed.com/users/daapp/code/FastStepDriver/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "H-bridge",
+        "library",
+        "motor",
+        "motor driver",
+        "solenoid",
+        "stepper motor",
         "PS2",
-        "driver",
-        "Graphics",
-        "ILI9340",
-        "LCD",
-        "SPI",
-        "TFT",
-        "distance",
-        "eco",
-        "range",
-        "sonic",
-        "Ultra",
-        "GPIO",
-        "Beep",
-        "merody",
-        "sound"
+        "GPIO"
     ],
     "name": "SimpleIOMacros",
     "platforms": "*",

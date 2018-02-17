@@ -6,6 +6,9 @@
     "description": "A library for solving mazes.",
     "frameworks": "mbed",
     "keywords": [
+        "GR-PEACH",
+        "LCD",
+        "touch",
         "ALS",
         "ambient light sensor",
         "Lux"

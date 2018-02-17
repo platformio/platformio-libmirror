@@ -4,19 +4,11 @@
         "url": "https://os.mbed.com/users/13075593/"
     },
     "description": "TCP communication",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "C12832",
-        "LCD",
-        "FM24Vxx",
-        "I2C",
-        "RAMTRON",
-        "FAT",
-        "file",
-        "SD",
-        "System"
+    "examples": [
+        "https://os.mbed.com/users/13075593/code/Ethernet/"
     ],
+    "frameworks": "mbed",
+    "keywords": "TCP_COMM",
     "name": "TCP_COMM",
     "platforms": "*",
     "repository": {

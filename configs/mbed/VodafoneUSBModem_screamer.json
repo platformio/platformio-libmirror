@@ -4,18 +4,17 @@
         "url": "https://os.mbed.com/users/screamer/"
     },
     "description": "fork of VodafoneUSBModem with updated USBHost library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/screamer/code/VodafoneUSBModemSMSTest/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "duty cycle",
-        "measurement",
-        "pwm",
-        "timer2",
         "HAM-radio",
         "I2C",
         "sdr",
         "vcxo",
-        "vfo"
+        "vfo",
+        "LPC4330"
     ],
     "name": "VodafoneUSBModem",
     "platforms": "*",

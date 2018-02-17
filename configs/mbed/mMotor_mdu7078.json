@@ -4,15 +4,19 @@
         "url": "https://os.mbed.com/users/mdu7078/"
     },
     "description": "This is a library that drives a stepper motor with given parameters for speed and direction.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/mdu7078/code/RaceTimer/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "library",
         "motor",
         "Stepper",
-        "HC-SR04",
-        "Microbit",
-        "ultrasound"
+        "display",
+        "display-initialisation",
+        "driver",
+        "setpixel",
+        "st7626"
     ],
     "name": "mMotor",
     "platforms": "*",

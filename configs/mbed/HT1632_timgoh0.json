@@ -4,19 +4,21 @@
         "url": "https://os.mbed.com/users/timgoh0/"
     },
     "description": "HT1632 control library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/khalooool/code/7-SEG-DRIVE/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "LCD-11062",
-        "PCF8833",
+        "HMC5843",
         "sparkfun",
         "dot",
         "HT1632",
         "led",
         "matrix",
         "sure",
-        "motor",
+        "OLED",
+        "SPI",
+        "SSD1332",
         "KL25z",
         "light sensor",
         "Wi-Go"

@@ -5,7 +5,13 @@
     },
     "description": "Drivber for Ti's TMP007 Infrared Thermopile Sensor with Integrated Math Engine",
     "frameworks": "mbed",
-    "keywords": "TMP007",
+    "keywords": [
+        "AT",
+        "C027",
+        "C030",
+        "CellularInterface",
+        "u-blox"
+    ],
     "name": "TMP007",
     "platforms": "*",
     "repository": {

@@ -4,12 +4,19 @@
         "url": "https://os.mbed.com/users/kayekss/"
     },
     "description": "Text console library for ST7565 graphics LCD controller over SPI interface.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/kayekss/code/TextLCD_ST7565SPI_Test/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "LCD",
         "ST7565",
-        "TextLCD"
+        "TextLCD",
+        "evrythng",
+        "inverse kinematics",
+        "mearm",
+        "robotic arm",
+        "servo motor"
     ],
     "name": "TextLCD_ST7565SPI",
     "platforms": "*",

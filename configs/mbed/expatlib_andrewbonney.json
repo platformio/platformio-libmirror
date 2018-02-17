@@ -4,9 +4,13 @@
         "url": "https://os.mbed.com/users/andrewbonney/"
     },
     "description": "SAX based XML parser",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/yueee_yt/code/giken9_HTMLServer_Temp_Sample/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "OLED",
+        "Serial",
         "9Dof-Stick",
         "ADXL345",
         "sparkfun"

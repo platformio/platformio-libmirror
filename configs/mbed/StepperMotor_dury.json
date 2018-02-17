@@ -6,12 +6,15 @@
     "description": "Library for handle a Stepper Motor Driver Borad",
     "frameworks": "mbed",
     "keywords": [
+        "display",
+        "OLED",
+        "text",
+        "3axis",
+        "accelorometer",
+        "AnalogIn",
+        "sensor",
         "motor",
-        "Stepper",
-        "file",
-        "flash",
-        "FlashFileSystem",
-        "System"
+        "Stepper"
     ],
     "name": "StepperMotor",
     "platforms": "*",

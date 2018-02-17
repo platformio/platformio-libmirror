@@ -4,9 +4,21 @@
         "url": "https://os.mbed.com/teams/ST-Americas-mbed-Team/"
     },
     "description": "Bluetooth LE library for Nucleo board",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/ST-Americas-mbed-Team/code/Nucleo_BLE_HeartRate/",
+        "https://os.mbed.com/teams/ST-Americas-mbed-Team/code/Nucleo_BLE_UART/",
+        "https://os.mbed.com/teams/Cortex-challenge-team/code/Nucleo_BLE_Demo/",
+        "https://os.mbed.com/users/sjallouli/code/Nucleo_BLE_UART/"
+    ],
     "frameworks": "mbed",
-    "keywords": "watchdog",
+    "keywords": [
+        "Adafruit",
+        "GPS",
+        "library",
+        "Ultimate",
+        "HCSR04",
+        "ultrasonic"
+    ],
     "name": "Nucleo_BLE_API",
     "platforms": "*",
     "repository": {

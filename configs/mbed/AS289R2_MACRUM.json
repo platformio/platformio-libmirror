@@ -4,14 +4,23 @@
         "url": "https://os.mbed.com/users/MACRUM/"
     },
     "description": "AS-289R2 Thermal Printer shield control library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/MACRUM/code/AS-289R2_Hello-World/",
+        "https://os.mbed.com/users/MACRUM/code/AS-289R2_Hello-mbed-OS-World/",
+        "https://os.mbed.com/users/takehiro/code/AS-289R2_Hello-World-mbed-OS/",
+        "https://os.mbed.com/users/takehiro/code/hybrid_image_as289r2/",
+        "https://os.mbed.com/users/MACRUM/code/microbit_AS-289R2/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "A4982",
-        "A4983 smart step 3d printing",
-        "rap",
-        "rep",
-        "Stepper",
+        "HD44780",
+        "LCD",
+        "MT-16S2D",
+        "rus",
+        "Russian",
+        "text",
+        "TextLCD",
+        "TextLCD_Rus",
         "printer",
         "shield"
     ],

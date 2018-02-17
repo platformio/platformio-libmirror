@@ -4,14 +4,19 @@
         "url": "https://os.mbed.com/users/JimmyTheHack/"
     },
     "description": "A wrapper library for easy access to DACs using the SPI interface. Individual devices will receive their own libraries.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/JimmyTheHack/code/MAX500/",
+        "https://os.mbed.com/users/JimmyTheHack/code/MCP4922/",
+        "https://os.mbed.com/users/JimmyTheHack/code/MCP4822/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "VCNL4000",
+        "VCNL4010",
+        "VCNL4020",
         "regex",
         "slre",
-        "AnalogOut",
         "dac",
-        "MCP4725",
         "SPI"
     ],
     "name": "DAC",

@@ -4,22 +4,17 @@
         "url": "https://os.mbed.com/users/frada/"
     },
     "description": "This is a fork of MS5803-01 library by Raig Kaufer adapted for the MS5803-14BA.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/frada/code/MS5803_demo/",
+        "https://os.mbed.com/users/potless/code/ARNSRS_SERVOS_USB_TFT/",
+        "https://os.mbed.com/users/andrewbates11/code/pdiot-MS5803-test/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "chip select",
-        "master",
-        "Serial",
-        "SPI",
-        "bitmask",
-        "circular_buffer",
-        "dataset",
-        "filter",
-        "filtering",
-        "mean",
-        "median",
-        "standard_deviation",
-        "Template"
+        "LCD",
+        "SSD1289",
+        "TFT",
+        "TFT320_QVT"
     ],
     "name": "MS5803_14BA",
     "platforms": "*",

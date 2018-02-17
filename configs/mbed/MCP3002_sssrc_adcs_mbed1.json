@@ -6,12 +6,10 @@
     "description": "10bit ADC Microchip MCP3002 Library",
     "frameworks": "mbed",
     "keywords": [
-        "VGA",
-        "video",
-        "JPEG",
         "adc",
         "MCP",
-        "MCP3002"
+        "MCP3002",
+        "Creation"
     ],
     "name": "MCP3002",
     "platforms": "*",

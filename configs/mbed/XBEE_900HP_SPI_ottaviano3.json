@@ -4,17 +4,14 @@
         "url": "https://os.mbed.com/users/ottaviano3/"
     },
     "description": "This is an experimental driver for the XBee 900 HP pro module's SPI connection. This driver is unfinished and stability is not guaranteed. Use with caution.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/ottaviano3/code/Sentinel_BASE/",
+        "https://os.mbed.com/users/ottaviano3/code/Sentinel_NODE/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "mbed",
-        "planespotter",
-        "stm32",
-        "stm32f030k6",
-        "norm",
-        "pdf",
-        "Random",
-        "stats",
+        "etti",
+        "TUIASI",
         "SPI",
         "XBEE pro"
     ],

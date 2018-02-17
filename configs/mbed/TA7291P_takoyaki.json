@@ -4,12 +4,19 @@
         "url": "https://os.mbed.com/users/takoyaki/"
     },
     "description": "a motor driver IC TA7291P",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/tomoya123/code/ANCHOR_Navigation3/",
+        "https://os.mbed.com/users/tomoya123/code/TA7291P/",
+        "https://os.mbed.com/users/tomoya123/code/TA7291P_2/",
+        "https://os.mbed.com/users/tomoya123/code/avoidance_program/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "ad7124",
-        "DISCO_F746NG",
-        "sdram"
+        "driver",
+        "sonar",
+        "Data visualisation",
+        "Realtime debugger",
+        "Realtime monitor"
     ],
     "name": "TA7291P",
     "platforms": "*",

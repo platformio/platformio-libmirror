@@ -6,15 +6,12 @@
     "description": "FT5206 capacitive Touch Panel driver for 7 inch BuyDisplay LCD, with 5-point touch.",
     "frameworks": "mbed",
     "keywords": [
-        "adns9500",
-        "avago",
-        "laser",
-        "motion",
-        "Mouse",
-        "navigation",
-        "sensor",
-        "adafruit printer",
-        "thermal printer"
+        "\\",
+        "Controller\\",
+        "I2C",
+        "MD25",
+        "motor",
+        "robot"
     ],
     "name": "FT5206",
     "platforms": "*",

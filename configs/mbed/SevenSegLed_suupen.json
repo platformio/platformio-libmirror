@@ -4,17 +4,23 @@
         "url": "https://os.mbed.com/users/suupen/"
     },
     "description": "このライブラリは１桁から８桁までのSeven segment Numeric LEDを制御します。",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/suupen/code/kitchenTimer_Clock/",
+        "https://os.mbed.com/users/suupen/code/kitchenTimer/",
+        "https://os.mbed.com/users/suupen/code/LPC1114FN28_kitchenTimer_Clock/",
+        "https://os.mbed.com/users/suupen/code/SevenSegmentLedSample/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Capactitve touch sensor",
-        "mpr121",
-        "SEN-10250",
+        "ADXL345",
         "sparkfun",
         "display",
         "led",
         "numeric",
         "Seven-Segment",
+        "Capactitve touch sensor",
+        "mpr121",
+        "SEN-10250",
         "hbridge",
         "motor",
         "PwmOut"

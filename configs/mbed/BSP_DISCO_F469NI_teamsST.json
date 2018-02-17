@@ -4,20 +4,28 @@
         "url": "https://os.mbed.com/teams/ST/"
     },
     "description": "STM32F469NI Discovery board drivers",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/inkiiin/code/DISCO-F469NI_LCDTS_GUI_demo/",
+        "https://os.mbed.com/teams/Configurable-Robots/code/Configurable_Robots/",
+        "https://os.mbed.com/teams/ST/code/DISCO-F469NI_LCD_demo/",
+        "https://os.mbed.com/teams/ST/code/DISCO-F469NI_SD_demo/",
+        "https://os.mbed.com/teams/ST/code/DISCO-F469NI_EEPROM_demo/",
+        "https://os.mbed.com/teams/ST/code/DISCO-F469NI_LCDTS_demo/",
+        "https://os.mbed.com/teams/ST/code/DISCO-F469NI_QSPI/",
+        "https://os.mbed.com/teams/ST/code/DISCO-F469NI_SDRAM_demo/",
+        "https://os.mbed.com/users/wupinxian/code/DISCO-F469NI_LCDTS_demo/",
+        "https://os.mbed.com/users/jeonbc/code/stm32-disco-example/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "FRDM",
+        "KL25z",
+        "LCD",
+        "LCD4884",
+        "DISCO_F469NI",
         "debug",
         "log",
-        "logger",
-        "Linked",
-        "Linked List",
-        "List",
-        "test",
-        "DISCO_F469NI",
-        "LMiC",
-        "Lora",
-        "LoRaWAN"
+        "logger"
     ],
     "name": "BSP_DISCO_F469NI",
     "platforms": "*",

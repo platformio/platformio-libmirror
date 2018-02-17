@@ -4,17 +4,14 @@
         "url": "https://os.mbed.com/users/acracan/"
     },
     "description": "Three phase bridge control",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/acracan/code/BLDC_control/",
+        "https://os.mbed.com/users/acracan/code/BLDC_RPM_meter/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "etti",
-        "TUIASI",
-        "card",
-        "fatfilesystem",
-        "MMC",
-        "SD",
-        "SDHC",
-        "SDXC"
+        "TUIASI"
     ],
     "name": "ThreePhaseBridge",
     "platforms": "*",

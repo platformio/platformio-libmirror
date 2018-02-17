@@ -4,14 +4,27 @@
         "url": "https://os.mbed.com/teams/MultiTech/"
     },
     "description": "Cellular library for MTS Socket Modem Arduino Shield devices from Multi-Tech Systems",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/MultiTech/code/mtsas/",
+        "https://os.mbed.com/users/JonB/code/mtsas/",
+        "https://os.mbed.com/users/miaotwilio/code/mtsas/",
+        "https://os.mbed.com/users/dabraham/code/mtsas/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Cellular",
         "APDS",
         "APDS9960",
         "Gesture",
-        "sensor"
+        "sensor",
+        "Cellular",
+        "Grove",
+        "RFID",
+        "SEN11425P",
+        "Serial",
+        "accelerometer",
+        "gyroscope",
+        "IMU",
+        "STM32F0"
     ],
     "name": "MTS-Cellular",
     "platforms": "*",

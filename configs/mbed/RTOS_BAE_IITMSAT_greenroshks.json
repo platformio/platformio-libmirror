@@ -5,10 +5,7 @@
     },
     "description": "Rtos code for BAE microcontroller, IITMSAT",
     "frameworks": "mbed",
-    "keywords": [
-        "LCD",
-        "Serial"
-    ],
+    "keywords": "Serializer",
     "name": "RTOS_BAE_IITMSAT",
     "platforms": "*",
     "repository": {

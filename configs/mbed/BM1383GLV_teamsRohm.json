@@ -4,13 +4,18 @@
         "url": "https://os.mbed.com/teams/Rohm/"
     },
     "description": "BM1383GLV pressure sensor library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/Rohm/code/BM1383GLV_Hello/",
+        "https://os.mbed.com/teams/Rohm/code/LazuriteGraph_Hello/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "bm1383",
         "I2C",
         "pressure",
-        "ROHM"
+        "ROHM",
+        "DISCO_F469NI",
+        "EEPROM"
     ],
     "name": "BM1383GLV",
     "platforms": "*",

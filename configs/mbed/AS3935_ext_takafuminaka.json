@@ -4,9 +4,21 @@
         "url": "https://os.mbed.com/users/takafuminaka/"
     },
     "description": "Lightning sensor library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/takafuminaka/code/BLE_Lightning_sensor/"
+    ],
     "frameworks": "mbed",
-    "keywords": "AS3935",
+    "keywords": [
+        "ePaper",
+        "EPD",
+        "GDEP015",
+        "GDEP015OC1",
+        "display",
+        "monochrome",
+        "AS3935",
+        "24LCxx",
+        "EEPROM"
+    ],
     "name": "AS3935_ext",
     "platforms": "*",
     "repository": {

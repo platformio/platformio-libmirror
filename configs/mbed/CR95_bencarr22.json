@@ -4,12 +4,14 @@
         "url": "https://os.mbed.com/users/bencarr22/"
     },
     "description": "CR95 Library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/bencarr22/code/CR95HFRFIDClick/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "H-bridge",
-        "motor",
-        "TB6612FNG"
+        "DS130x",
+        "Maxim",
+        "RTC"
     ],
     "name": "CR95",
     "platforms": "*",

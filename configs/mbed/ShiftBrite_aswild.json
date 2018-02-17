@@ -4,9 +4,15 @@
         "url": "https://os.mbed.com/users/aswild/"
     },
     "description": "Controls a single ShiftBrite LED",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/aswild/code/4180_L1/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "Conway's",
+        "game",
+        "Life",
+        "of",
         "Dynamic",
         "led",
         "tlc5940"

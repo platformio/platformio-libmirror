@@ -4,16 +4,14 @@
         "url": "https://os.mbed.com/users/MBE13170/"
     },
     "description": "This is a very tiny library which counts DigitalIn rising , using \"Ticker\" interrupts.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/nanaju/code/mgnetswitch2-NaoKondo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "DigitalIn",
-        "accelerometer",
-        "ADXL362",
-        "Analog",
-        "AnalogIn",
-        "gyro",
-        "sensor"
+        "device",
+        "USB",
+        "DigitalIn"
     ],
     "name": "Pswitch_Lib",
     "platforms": "*",

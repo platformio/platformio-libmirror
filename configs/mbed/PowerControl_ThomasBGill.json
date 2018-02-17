@@ -4,11 +4,12 @@
         "url": "https://os.mbed.com/users/ThomasBGill/"
     },
     "description": "*power consumption control(phy , semihost) library written by Michael Wei",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/ThomasBGill/code/LabyrinthOfTheMinotaur/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "IOT",
-        "sigfox",
+        "BLE",
         "consumption",
         "control",
         "ethernet",

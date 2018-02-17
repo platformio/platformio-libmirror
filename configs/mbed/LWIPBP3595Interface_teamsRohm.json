@@ -4,17 +4,19 @@
         "url": "https://os.mbed.com/teams/Rohm/"
     },
     "description": "This is LWIPBP3595Interface class library.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/ROHM-Developers/code/LWIPBP3595Interface_STA/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "api",
-        "Digi",
-        "xbee",
-        "zigbee",
         "BP3595",
         "network",
         "ROHM",
-        "WLAN"
+        "WLAN",
+        "api",
+        "Digi",
+        "xbee",
+        "zigbee"
     ],
     "name": "LWIPBP3595Interface",
     "platforms": "*",

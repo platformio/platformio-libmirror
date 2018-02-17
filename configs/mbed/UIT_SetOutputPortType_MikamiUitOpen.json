@@ -4,32 +4,17 @@
         "url": "https://os.mbed.com/users/MikamiUitOpen/"
     },
     "description": "出力ポートを，オープンドレインまたはプッシュプルに設定するグローバル関数.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/Demo_SetOutputPortType/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "Nucleo",
         "open-drain",
         "push-pull",
         "UIT",
-        "display",
-        "MicroOLED",
-        "OLED",
-        "sparkfun",
-        "SPI",
-        "SSD1306",
-        "distance",
-        "driver",
-        "sensor",
-        "VL6180x",
-        "DHT11",
-        "DHT22",
-        "Humidity",
-        "Temperature",
-        "low power",
-        "LPC11U24",
-        "lpc11uxx",
-        "mBuino",
-        "Sleep"
+        "LEDcontroller",
+        "TM1637"
     ],
     "name": "UIT_SetOutputPortType",
     "platforms": "*",

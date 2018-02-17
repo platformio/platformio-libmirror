@@ -4,12 +4,11 @@
         "url": "https://os.mbed.com/teams/Campbell-Scientific-Australia/"
     },
     "description": "This is an Australian 915Mhz edition of 1.0.8v libDot.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/1994timmeh/code/LoraGPSLogger/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "hash",
-        "md5",
         "Australia",
         "Lora",
         "LoRaWAN"

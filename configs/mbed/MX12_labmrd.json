@@ -4,25 +4,20 @@
         "url": "https://os.mbed.com/users/labmrd/"
     },
     "description": "Robotis Dynamixel MX-12W Servo Library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/labmrd/code/SpindleBot_1_5b/",
+        "https://os.mbed.com/teams/CRAC-Team/code/Utilisatio_MX12_V4/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "Flash-fs",
         "dynamixel",
         "MX-12W",
         "MX12",
         "MX12W",
         "robotis",
         "Servo",
-        "MCP3425",
-        "binary",
-        "GPS",
-        "NMEA",
-        "protocol",
-        "sIRFstar3",
-        "sIRFstarIII",
-        "real time",
-        "serial port",
-        "serial protocols"
+        "USBDevice"
     ],
     "name": "MX12",
     "platforms": "*",

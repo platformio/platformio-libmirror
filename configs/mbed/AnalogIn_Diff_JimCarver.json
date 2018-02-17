@@ -4,9 +4,12 @@
         "url": "https://os.mbed.com/users/JimCarver/"
     },
     "description": "A basic Library for the 16 bit Differential A/D in the K64F Freedom platform",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/JimCarver/code/K64F_DIFF_A2D/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "v1.0",
         "16 Bit A2D",
         "Differential A2D",
         "K64F"

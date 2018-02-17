@@ -6,9 +6,16 @@
     "description": "imu01c",
     "frameworks": "mbed",
     "keywords": [
-        "BLE",
-        "BLE Bluetooth Low Energy BLE",
-        "Eddystone"
+        "HIH-4030",
+        "Humidity",
+        "sensor",
+        "AD",
+        "da",
+        "MCP4921",
+        "MCP4922",
+        "Nucleo",
+        "SPI",
+        "UIT"
     ],
     "name": "LSM303D_imu",
     "platforms": "*",

@@ -4,9 +4,16 @@
         "url": "https://os.mbed.com/users/p07gbar/"
     },
     "description": "A library which allows the playing of Wav files using the TLV320",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/p07gbar/code/RSALB_hbridge_helloworld/",
+        "https://os.mbed.com/users/p07gbar/code/RSALB_lobster/",
+        "https://os.mbed.com/users/p07gbar/code/WavPlayer_test/",
+        "https://os.mbed.com/users/p07gbar/code/AudioCODEC_HelloWorld/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "DS18B20",
+        "temperature sensor",
         "audio",
         "files",
         "I2C",
@@ -14,16 +21,7 @@
         "playing",
         "RS labboard",
         "TLV320",
-        "wav",
-        "count",
-        "external clock",
-        "MHz",
-        "pulse",
-        "xml",
-        "heading",
-        "HMC5843",
-        "magnetic",
-        "sensor"
+        "wav"
     ],
     "name": "WavPlayer",
     "platforms": "*",

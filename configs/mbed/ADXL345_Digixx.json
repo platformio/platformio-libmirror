@@ -4,15 +4,32 @@
         "url": "https://os.mbed.com/users/Digixx/"
     },
     "description": "ADXL345 Library as part of the 9DOF stick from Sparkfun.com",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Digixx/code/9DOF-Stick/",
+        "https://os.mbed.com/users/ivanff15/code/10dof/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_program_ver2/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_program_ver2_yokokawa/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver1/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver2/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver3/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver3_1/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver3_temp/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver3_3/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "ACM1602NI",
-        "I2C",
-        "LCD",
-        "Nucleo",
         "ADXL345",
-        "sparkfun"
+        "sparkfun",
+        "display",
+        "led",
+        "numeric",
+        "Seven-Segment",
+        "Capactitve touch sensor",
+        "mpr121",
+        "SEN-10250",
+        "hbridge",
+        "motor",
+        "PwmOut"
     ],
     "name": "ADXL345",
     "platforms": "*",

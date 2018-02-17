@@ -6,10 +6,15 @@
     "description": "Small library for controll the TTL74HC595, who is a SerialIn-ParallelOut",
     "frameworks": "mbed",
     "keywords": [
+        "LandTiger",
+        "SSD1289",
         "Energy Meter",
         "frequency",
         "measurement",
-        "Lidar",
+        "Servo",
+        "servo pulse",
+        "SERVOGEN",
+        "ServoOut",
         "TTL74HC595"
     ],
     "name": "ttl_74HC595",

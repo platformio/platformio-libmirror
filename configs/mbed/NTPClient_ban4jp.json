@@ -4,17 +4,19 @@
         "url": "https://os.mbed.com/users/ban4jp/"
     },
     "description": "Fixed NTPResult values",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "I2C",
-        "sensor",
-        "Temperature",
-        "gyro",
-        "iniparser",
-        "TMP",
-        "TMP36"
+    "examples": [
+        "https://os.mbed.com/users/ban4jp/code/NTPClient_HelloWorld_WIZ550io/",
+        "https://os.mbed.com/users/Bongjun/code/LPC11U68_NTPClient_HelloWorld_WIZ550io/",
+        "https://os.mbed.com/users/ban4jp/code/SNIC-ntpclient-example/",
+        "https://os.mbed.com/users/ban4jp/code/NTPClient_HelloWorld/",
+        "https://os.mbed.com/users/ban4jp/code/CyaSSL-Twitter-OAuth4Tw/",
+        "https://os.mbed.com/users/zeus3110/code/TweetTest/",
+        "https://os.mbed.com/users/zeus3110/code/NetworkThermometer/",
+        "https://os.mbed.com/users/mbed2015/code/CyaSSL-Twitter-OAuth4Tw_arrange/",
+        "https://os.mbed.com/users/olympux/code/F103-Web-Server/"
     ],
+    "frameworks": "mbed",
+    "keywords": "NTPClient",
     "name": "NTPClient",
     "platforms": "*",
     "repository": {

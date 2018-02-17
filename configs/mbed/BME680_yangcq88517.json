@@ -10,13 +10,7 @@
         "Gas",
         "Humidity",
         "pressure",
-        "Temperature",
-        "axis",
-        "motion",
-        "PID",
-        "robot arm",
-        "trapezoid",
-        "trapezoidal profile"
+        "Temperature"
     ],
     "name": "BME680",
     "platforms": "*",

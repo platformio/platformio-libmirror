@@ -10,12 +10,11 @@
         "MAX30101",
         "MSS",
         "MSU",
-        "3D",
-        "LCD",
-        "mono-lcd",
         "api",
         "blink",
-        "led"
+        "led",
+        "dynamixel",
+        "IOT"
     ],
     "name": "LedBlink",
     "platforms": "*",

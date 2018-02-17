@@ -4,15 +4,15 @@
         "url": "https://os.mbed.com/users/fblanc/"
     },
     "description": "STMPE811 TouchScreen MCB1700",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/fblanc/code/Touch_Screen_MCB/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "I2C",
         "MCB1700",
         "STMPE811",
-        "Touchscreen",
-        "ICRS",
-        "rf12B"
+        "Touchscreen"
     ],
     "name": "TS_STMPE811",
     "platforms": "*",

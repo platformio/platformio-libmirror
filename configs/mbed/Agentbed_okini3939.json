@@ -4,7 +4,11 @@
         "url": "https://os.mbed.com/users/okini3939/"
     },
     "description": "SNMP Agent",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform_20110408/",
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform/",
+        "https://os.mbed.com/users/okini3939/code/WeatherStation/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "NET",
@@ -13,7 +17,10 @@
         "TCP",
         "Agent",
         "Net-SNMP",
-        "SNMP"
+        "SNMP",
+        "malloc",
+        "memory",
+        "AQM1602"
     ],
     "name": "Agentbed",
     "platforms": "*",

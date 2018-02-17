@@ -4,9 +4,12 @@
         "url": "https://os.mbed.com/users/MiniTLS/"
     },
     "description": "A super trimmed down TLS stack, GPL licensed",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/MiniTLS/code/MiniTLS-HTTPS-Example/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "LIN",
         "SSL",
         "TLS"
     ],

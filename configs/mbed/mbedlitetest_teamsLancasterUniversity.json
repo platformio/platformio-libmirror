@@ -5,7 +5,11 @@
     },
     "description": "test",
     "frameworks": "mbed",
-    "keywords": "mbed-lite-test",
+    "keywords": [
+        "led",
+        "matrix",
+        "SDA5708"
+    ],
     "name": "mbed-lite-test",
     "platforms": "*",
     "repository": {

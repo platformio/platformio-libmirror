@@ -4,24 +4,16 @@
         "url": "https://os.mbed.com/users/vtraveller/"
     },
     "description": "Simple RTC class based on DS1307. Emphasis on simple. Allows you to run at 100k or 400k Hz (for newer DS1307 capable devices).",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/vtraveller/code/AdaFruit_RGBLCD/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "clock",
         "ds1307",
         "RTC",
         "time",
-        "EEPROM",
-        "file",
-        "mFS",
-        "System",
-        "constant",
-        "current",
-        "driver",
-        "led",
-        "nxp",
-        "PCA9952",
-        "PCA9955"
+        "DS3231m"
     ],
     "name": "RTclock",
     "platforms": "*",

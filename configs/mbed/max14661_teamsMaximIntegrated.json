@@ -4,9 +4,26 @@
         "url": "https://os.mbed.com/teams/Maxim-Integrated/"
     },
     "description": "library for MAX14661 16:2 mux",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/Maxim-Integrated/code/ard2pmod/",
+        "https://os.mbed.com/teams/Maxim-Integrated/code/MAX14661_Demo/"
+    ],
     "frameworks": "mbed",
-    "keywords": "max14661",
+    "keywords": [
+        "helping",
+        "libraries",
+        "pololu",
+        "robot",
+        "Utilities",
+        "Zumo",
+        "BurstSPI",
+        "F411RE",
+        "Encoder",
+        "ADT7410",
+        "Analog Devices",
+        "I2C",
+        "temperature sensor"
+    ],
     "name": "max14661",
     "platforms": "*",
     "repository": {

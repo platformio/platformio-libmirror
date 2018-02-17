@@ -5,7 +5,16 @@
     },
     "description": "I2C discovery routine",
     "frameworks": "mbed",
-    "keywords": "I2C",
+    "keywords": [
+        "MQTT",
+        "MQTTClient",
+        "GR-PEACH",
+        "I2C",
+        "digitalOut",
+        "PwmOut",
+        "RenBuggy",
+        "Renishaw"
+    ],
     "name": "i2cDevices",
     "platforms": "*",
     "repository": {

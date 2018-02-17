@@ -4,22 +4,15 @@
         "url": "https://os.mbed.com/users/dreschpe/"
     },
     "description": "Font to use with SPI_TFT lib",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/dreschpe/code/touch/",
+        "https://os.mbed.com/users/dreschpe/code/TFT/",
+        "https://os.mbed.com/users/smultron1977/code/ST7735_Pong/",
+        "https://os.mbed.com/users/Mephi/code/LCD_Grapher/",
+        "https://os.mbed.com/users/ms523/code/OV7670_Testing/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "cmsis",
-        "function",
-        "Instances",
-        "multiple",
-        "rtos",
-        "threads",
-        "AnalogIn",
-        "Capacitive",
-        "digitalOut",
-        "sensor",
-        "touch",
-        "I2C",
-        "MCP4725",
         "biquad",
         "DSP",
         "filter"

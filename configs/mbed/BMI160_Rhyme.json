@@ -4,9 +4,13 @@
         "url": "https://os.mbed.com/users/Rhyme/"
     },
     "description": "My implementation of Bosh BMI160",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Rhyme/code/test_BMI160/",
+        "https://os.mbed.com/users/Rhyme/code/TFT_test_MAX32630FTHR/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "ST7032i",
         "accelerometer",
         "BMI160",
         "gyroscope",

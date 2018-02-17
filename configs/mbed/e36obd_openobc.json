@@ -4,9 +4,11 @@
         "url": "https://os.mbed.com/users/openobc/"
     },
     "description": "bmw ds2 for e36",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/openobc/code/obdtest/"
+    ],
     "frameworks": "mbed",
-    "keywords": "ST7032i",
+    "keywords": "e36obd",
     "name": "e36obd",
     "platforms": "*",
     "repository": {

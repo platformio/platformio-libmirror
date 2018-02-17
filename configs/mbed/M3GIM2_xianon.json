@@ -4,20 +4,21 @@
         "url": "https://os.mbed.com/users/xianon/"
     },
     "description": "タブレイン社の 3GIM (3G IoT Module : IoT 向け 3G 通信モジュール) を簡単に利用するための mbed 用ライブラリです。",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/xianon/code/M3GIM2MilkcocoaSample/",
+        "https://os.mbed.com/users/xianon/code/M3GIM2Sample/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "SED1330",
+        "SED1335",
+        "TextDisplay",
         "assembly",
         "exception",
         "fault",
         "handler",
         "hardfault",
-        "registerdump",
-        "mbed",
-        "HTTPServer",
-        "358",
-        "Adafruit",
-        "TFT"
+        "registerdump"
     ],
     "name": "M3GIM2",
     "platforms": "*",

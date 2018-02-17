@@ -4,19 +4,16 @@
         "url": "https://os.mbed.com/users/kenjiArai/"
     },
     "description": "Silicon Laboratories Inc. Si5351A-B-GT",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/suupen/code/clockGenerator/",
+        "https://os.mbed.com/users/kenjiArai/code/Check_Si5351A_Clock_generator/",
+        "https://os.mbed.com/users/davcordova/code/t2d/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "EEPROM",
-        "read",
-        "stm32",
         "Clock Generator",
         "Si5351A",
-        "SiLabs",
-        "robot",
-        "Robotics",
-        "RT-component",
-        "RT-middleware"
+        "SiLabs"
     ],
     "name": "Si5351A",
     "platforms": "*",

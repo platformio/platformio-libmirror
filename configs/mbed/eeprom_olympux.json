@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Chau Vo",
+        "url": "https://os.mbed.com/users/olympux/"
+    },
+    "description": "STM32 EEPROM emulation AN2594",
+    "frameworks": "mbed",
+    "keywords": [
+        "2015",
+        "Bertl",
+        "EEPROM",
+        "flash",
+        "stm32f10x",
+        "game pad",
+        "gamepad",
+        "USB Host",
+        "USBHOST",
+        "Xbox",
+        "xbox360",
+        "Radio",
+        "transceiver",
+        "touch"
+    ],
+    "name": "eeprom",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/olympux/code/eeprom/"
+    }
+}

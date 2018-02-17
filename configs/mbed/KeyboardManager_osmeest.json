@@ -4,15 +4,19 @@
         "url": "https://os.mbed.com/users/osmeest/"
     },
     "description": "KeyboardManager: a class to manage the polling of a switch-matrix keyboard",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/osmeest/code/KeyboardTest/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "RTX",
         "keyboard",
+        "RTX",
         "AD-128160-UART",
         "AITENDO",
         "LCD",
-        "Serial"
+        "Serial",
+        "DISCO_F429ZI",
+        "gyroscope"
     ],
     "name": "KeyboardManager",
     "platforms": "*",

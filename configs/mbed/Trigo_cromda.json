@@ -5,7 +5,12 @@
     },
     "description": "Trigonomectric constants",
     "frameworks": "mbed",
-    "keywords": "Creation",
+    "keywords": [
+        "adc",
+        "MCP",
+        "MCP3002",
+        "Creation"
+    ],
     "name": "Trigo",
     "platforms": "*",
     "repository": {

@@ -4,12 +4,16 @@
         "url": "https://os.mbed.com/users/slowness/"
     },
     "description": "version qui corrige tous les beugs",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/Pierrotlandrouille/code/Projet_client_serveur/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "1.8",
+        "ILI9320",
+        "LCD",
         "SPI",
-        "TFT"
+        "TFT",
+        "1.8"
     ],
     "name": "IHM",
     "platforms": "*",

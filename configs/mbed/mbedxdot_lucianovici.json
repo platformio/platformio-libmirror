@@ -6,8 +6,10 @@
     "description": "Multitech xDot Utils",
     "frameworks": "mbed",
     "keywords": [
-        "MicroNFCBoard",
-        "NFC"
+        "adc",
+        "I2C",
+        "Monito",
+        "System"
     ],
     "name": "mbed-xdot",
     "platforms": "*",

@@ -5,7 +5,18 @@
     },
     "description": "LCD For I2C",
     "frameworks": "mbed",
-    "keywords": "LCDTaonoi",
+    "keywords": [
+        "card",
+        "fatfilesystem",
+        "MMC",
+        "SD",
+        "SDHC",
+        "SDXC",
+        "Ciseco",
+        "SRF",
+        "wireless",
+        "XRF"
+    ],
     "name": "LCDTaonoi",
     "platforms": "*",
     "repository": {

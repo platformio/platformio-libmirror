@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/kenjiArai/"
     },
     "description": "4x3 keypad library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/Keypad_input/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "4x3",
@@ -12,8 +14,7 @@
         "Akizuki",
         "key",
         "matrix",
-        "switch",
-        "CANopen"
+        "switch"
     ],
     "name": "Keypad",
     "platforms": "*",

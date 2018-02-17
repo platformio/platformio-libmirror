@@ -4,23 +4,22 @@
         "url": "https://os.mbed.com/users/loopsva/"
     },
     "description": "High resolution barometer and altimeter using i2c mode",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/sam_grove/code/upverter_fitbit_clone/",
+        "https://os.mbed.com/teams/FIBO/code/ReadingMag_HMC5883L_work/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "128x64",
+        "OLED",
+        "SSD1306",
         "Altimeter",
         "barometer",
         "I2C",
         "ms5611",
-        "bluetooth",
-        "SDP",
         "display",
         "Seeedstudio",
-        "TFT",
-        "discovery",
-        "ethernet",
-        "Nucleo",
-        "stm32",
-        "STM32F746"
+        "TFT"
     ],
     "name": "ms5611",
     "platforms": "*",

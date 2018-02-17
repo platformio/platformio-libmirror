@@ -4,9 +4,17 @@
         "url": "https://os.mbed.com/users/manitou/"
     },
     "description": "Port of teensy 3 FastCRC library, uses hardware CRC",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/manitou/code/fastCRCperf/"
+    ],
     "frameworks": "mbed",
-    "keywords": "K64F",
+    "keywords": [
+        "audio",
+        "billy bass",
+        "FRDM-KL25Z",
+        "K64F",
+        "TCA9548A"
+    ],
     "name": "FastCRC",
     "platforms": "*",
     "repository": {

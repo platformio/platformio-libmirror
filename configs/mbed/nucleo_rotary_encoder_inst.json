@@ -4,18 +4,26 @@
         "url": "https://os.mbed.com/users/inst/"
     },
     "description": "nucleo_rotary_encoder",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/kachikyun/code/serial_connected_mcu_nucleo/",
+        "https://os.mbed.com/users/inst/code/rotary_encoder_mbed/",
+        "https://os.mbed.com/users/inst/code/serial_connected_mcu_nucleo/",
+        "https://os.mbed.com/users/sawai/code/omuni_speed_pid/",
+        "https://os.mbed.com/users/Akito914/code/speed_mesurement/",
+        "https://os.mbed.com/users/Akito914/code/ROBOCON2017_archan/",
+        "https://os.mbed.com/users/sawai/code/omuni/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "StarBoardOrange",
+        "cmsis",
+        "rtos",
+        "RTX",
+        "jsmn",
+        "JSON",
         "C++",
         "Encoder",
         "hardware",
-        "QEI",
-        "DS18B20",
-        "DS2450",
-        "MAX31850",
-        "OneWire"
+        "QEI"
     ],
     "name": "nucleo_rotary_encoder",
     "platforms": "*",

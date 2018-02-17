@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/takuo/"
     },
     "description": "A library for STMicroelectronics STTS751 I2C temperature sensor",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/takuo/code/STTS751_Demo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "STTS751-Temperature-Sensor",

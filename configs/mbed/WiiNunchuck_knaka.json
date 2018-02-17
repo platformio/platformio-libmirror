@@ -4,12 +4,16 @@
         "url": "https://os.mbed.com/users/knaka/"
     },
     "description": "WiiNunchuck",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Thomas_H/code/HoverboardTest/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "nunchuck",
         "Wii",
-        "WiiNunchuck"
+        "WiiNunchuck",
+        "ESP8266",
+        "NodeMCU"
     ],
     "name": "WiiNunchuck",
     "platforms": "*",

@@ -4,13 +4,17 @@
         "url": "https://os.mbed.com/users/carlosftm/"
     },
     "description": "PCD8544 Driver for an LCD with an PCD8544 controller (e.g. Nokia 3310, 3390)",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/carlosftm/code/PCD8544_LCD/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "station",
+        "display",
+        "eINK",
+        "LCD",
+        "Sharp",
         "3310",
         "3390",
-        "LCD",
         "Nokia",
         "pcd8544",
         "TextLCD"

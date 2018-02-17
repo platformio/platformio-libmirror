@@ -4,14 +4,23 @@
         "url": "https://os.mbed.com/users/dreschpe/"
     },
     "description": "Modified TextLCD lib.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/blmarket/code/TwitterClient/",
+        "https://os.mbed.com/users/blmarket/code/CSVParser/",
+        "https://os.mbed.com/users/hajesusrodrigues/code/_EXAMPLE_RFM12B/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "Lora",
+        "Semtech",
+        "SX1276",
+        "SX1276Lib",
+        "SX1276MB1xAS",
+        "STM32F030F4",
+        "STM32F030F4P6",
         "xbee",
         "XBEE pro",
         "zigbee",
-        "STM32F030F4",
-        "STM32F030F4P6",
         "LCD",
         "text"
     ],

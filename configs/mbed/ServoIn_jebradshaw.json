@@ -4,7 +4,13 @@
         "url": "https://os.mbed.com/users/jebradshaw/"
     },
     "description": "Class Library for reading hobby servos and detecting invalid or disconnected channels",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/USNA-WSE-ES456/code/MadPulseCntrl/",
+        "https://os.mbed.com/teams/Emaxx-Navigation-Group/code/Emaxx_Navigation/",
+        "https://os.mbed.com/teams/Emaxx-Navigation-Group/code/Emaxx_Navigation_Dynamic_HIL/",
+        "https://os.mbed.com/teams/USNA-WSE-ES456/code/Madpulse_Speed_Control_temp/",
+        "https://os.mbed.com/teams/USNA-WSE-ES456/code/Madpulse_Speed_Control_Students/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "PCM",
@@ -12,13 +18,16 @@
         "RC",
         "Servo",
         "ServoIn",
-        "digital out",
-        "FRDMKL25Z",
-        "mbed",
-        "rpc",
-        "control",
-        "led",
-        "LPC1768"
+        "AS5048",
+        "rotary sensor",
+        "SPI",
+        "SSG",
+        "YMZ294",
+        "accelerometer",
+        "eCompass",
+        "fast",
+        "FRDM-KL46Z",
+        "magnetometer"
     ],
     "name": "ServoIn",
     "platforms": "*",

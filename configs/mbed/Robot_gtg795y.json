@@ -6,8 +6,6 @@
     "description": "Simple controller class for Stinger Robot without using Robotics Connection board.",
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F469NI",
-        "SD",
         "H-bridge",
         "Moror",
         "PID",

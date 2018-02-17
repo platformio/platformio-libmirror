@@ -4,16 +4,25 @@
         "url": "https://os.mbed.com/users/k4zuki/"
     },
     "description": "Basic library for SHARP LCD LS027B4DH01/LS027B7DH01",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/ban4jp/code/AkiSpiLcd_demo/",
+        "https://os.mbed.com/users/ban4jp/code/AkiSpiLcd_demo2/",
+        "https://os.mbed.com/users/k4zuki/code/LCDRAM/",
+        "https://os.mbed.com/users/k4zuki/code/AkiSpiLcd_example/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "LCD",
-        "EFM32",
-        "SiLabs",
-        "Silicon Labs",
-        "silicon_labs",
-        "Slider",
-        "touch"
+        "binary",
+        "GPS",
+        "NMEA",
+        "protocol",
+        "sIRFstar3",
+        "sIRFstarIII",
+        "I2C",
+        "NeoPixel",
+        "rhb",
+        "slave"
     ],
     "name": "AkiSpiLcd",
     "platforms": "*",

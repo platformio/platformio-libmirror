@@ -4,18 +4,22 @@
         "url": "https://os.mbed.com/users/dkato/"
     },
     "description": "Dhcp server sample.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/dkato/code/GR-PEACH_WebCamera_AP/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "led",
-        "TextLCD",
         "DHCP",
         "EthernetInterface",
-        "FAT",
-        "file",
-        "SD",
-        "System"
+        "actuators",
+        "commnunications",
+        "interfaces",
+        "sensors",
+        "ADT7310",
+        "Nucleo",
+        "SPI",
+        "UIT",
+        "JY901"
     ],
     "name": "DhcpServer",
     "platforms": "*",

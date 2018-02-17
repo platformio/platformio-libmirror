@@ -4,13 +4,19 @@
         "url": "https://os.mbed.com/users/donatien/"
     },
     "description": "Debug library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/donatien/code/NetworkingCoreLib/",
+        "https://os.mbed.com/users/donatien/code/LwIPNetworking/",
+        "https://os.mbed.com/teams/Yes-We-Can/code/yeswecancoap/",
+        "https://os.mbed.com/users/pnysten/code/lwip/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "character",
-        "display",
-        "HD44780",
-        "LCD"
+        "Humidity",
+        "sensor",
+        "Temperature",
+        "ethernet",
+        "NTP"
     ],
     "name": "DebugLib",
     "platforms": "*",

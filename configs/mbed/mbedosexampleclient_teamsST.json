@@ -5,10 +5,7 @@
     },
     "description": "Fork of https://developer.mbed.org/teams/mbed-os-examples/code/mbed-os-example-client/",
     "frameworks": "mbed",
-    "keywords": [
-        "i2c expander",
-        "MCP23017"
-    ],
+    "keywords": "mbed-os-example-client",
     "name": "mbed-os-example-client",
     "platforms": "*",
     "repository": {

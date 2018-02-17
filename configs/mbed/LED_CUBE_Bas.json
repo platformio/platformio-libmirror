@@ -7,7 +7,11 @@
     "frameworks": "mbed",
     "keywords": [
         "I2C",
-        "led cube"
+        "led cube",
+        "display",
+        "led",
+        "numeric",
+        "Seven-Segment"
     ],
     "name": "LED_CUBE",
     "platforms": "*",

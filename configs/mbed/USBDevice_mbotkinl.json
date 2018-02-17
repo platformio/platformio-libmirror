@@ -4,18 +4,24 @@
         "url": "https://os.mbed.com/users/mbotkinl/"
     },
     "description": "usb",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/mbotkinl/code/finalV1/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalV1/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalv2/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalv3/",
+        "https://os.mbed.com/users/Vlad/code/Test_Chirp/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "StarBoardOrange",
+        "cmsis",
+        "rtos",
+        "RTX",
+        "jsmn",
+        "JSON",
         "C++",
         "Encoder",
         "hardware",
-        "QEI",
-        "DS18B20",
-        "DS2450",
-        "MAX31850",
-        "OneWire"
+        "QEI"
     ],
     "name": "USBDevice",
     "platforms": "*",

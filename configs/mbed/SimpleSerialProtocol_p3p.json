@@ -4,15 +4,22 @@
         "url": "https://os.mbed.com/users/p3p/"
     },
     "description": "A library to send and receive packets over serial, uses MODSERIAL",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/p3p/code/SimpleSerialProtocolExample/",
+        "https://os.mbed.com/users/p3p/code/SerialFileReceiver/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Pokitto",
+        "IR",
+        "remote",
         "checksum",
         "packets",
         "protocol",
         "Serial",
-        "simple"
+        "simple",
+        "HTTP server",
+        "httpd",
+        "websocket server"
     ],
     "name": "SimpleSerialProtocol",
     "platforms": "*",

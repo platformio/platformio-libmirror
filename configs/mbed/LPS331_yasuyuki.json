@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "yasuyuki onodera",
+        "url": "https://os.mbed.com/users/yasuyuki/"
+    },
+    "description": "LPS331 library",
+    "examples": [
+        "https://os.mbed.com/users/yasuyuki/code/mbed_DEMO/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "1-wire",
+        "1wire",
+        "DS18B20",
+        "DS18S20",
+        "OneWire",
+        "interrupt",
+        "PPM",
+        "pwm",
+        "RC",
+        "Receiver",
+        "mbed"
+    ],
+    "name": "LPS331",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yasuyuki/code/LPS331/"
+    }
+}

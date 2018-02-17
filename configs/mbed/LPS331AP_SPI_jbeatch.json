@@ -6,18 +6,9 @@
     "description": "Mbed Pololu LPS331 SPI library",
     "frameworks": "mbed",
     "keywords": [
-        "counter",
-        "pulse",
-        "Celllular",
-        "lte",
-        "M14A2A",
-        "WNC",
-        "WNC M14A2A",
         "LPS331AP",
         "mbed",
-        "SPI",
-        "ICRS",
-        "kalman"
+        "SPI"
     ],
     "name": "LPS331AP_SPI",
     "platforms": "*",

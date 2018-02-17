@@ -4,11 +4,13 @@
         "url": "https://os.mbed.com/teams/WIZnet/"
     },
     "description": "DDNS use No-IP",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/Ricky_Kwon/code/TCPEchoClient-WIZwiki-W7500/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "AD9850",
-        "DDNS"
+        "DDNS",
+        "AD9850"
     ],
     "name": "DDNS_NoIP",
     "platforms": "*",

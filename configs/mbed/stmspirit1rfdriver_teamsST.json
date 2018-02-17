@@ -6,11 +6,6 @@
     "description": "Prototype RF driver for STM Sub-1 GHz RF expansion board based on the SPSGRF-868 module for STM32 Nucleo.",
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "compass",
-        "eCompass",
-        "magnetometer",
-        "sensor",
         "6LowPan",
         "nanostack",
         "ST Nucleo",
@@ -18,7 +13,15 @@
         "stm32",
         "Sub-Ghz RF",
         "X-NUCLEO-IDS01A4",
-        "X-NUCLEO-IDS01A4celo"
+        "X-NUCLEO-IDS01A4celo",
+        "FAT",
+        "LPC1114",
+        "SDCard",
+        "accelerometer",
+        "compass",
+        "eCompass",
+        "magnetometer",
+        "sensor"
     ],
     "name": "stm-spirit1-rf-driver",
     "platforms": "*",

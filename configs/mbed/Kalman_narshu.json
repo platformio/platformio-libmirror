@@ -6,6 +6,10 @@
     "description": "Kalman",
     "frameworks": "mbed",
     "keywords": [
+        "EEPROM",
+        "file",
+        "mFS",
+        "System",
         "accelerometer",
         "acelerometro",
         "club",
@@ -15,10 +19,7 @@
         "I2C",
         "quadrotor",
         "robotica",
-        "vuelo",
-        "CloudConnector",
-        "etherios",
-        "IOT"
+        "vuelo"
     ],
     "name": "Kalman",
     "platforms": "*",

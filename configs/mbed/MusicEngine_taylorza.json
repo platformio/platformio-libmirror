@@ -4,17 +4,21 @@
         "url": "https://os.mbed.com/users/taylorza/"
     },
     "description": "Music Engine plays Music Macro Language compositions in the background",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/maxint/code/RETRO_BallsAndPaddle/",
+        "https://os.mbed.com/users/maxint/code/RETRO_BallAndHoles/",
+        "https://os.mbed.com/users/switchscience/code/MusicBoxForFathersDay/",
+        "https://os.mbed.com/users/kazu0o2/code/USBSec_mbed-os_dev/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "led",
-        "LED controller",
-        "led driver",
-        "PCA9955A",
-        "PCA9956A",
-        "PCA995xA",
-        "adc",
-        "driver"
+        "ambient",
+        "light",
+        "max",
+        "MAX44009",
+        "Maxim",
+        "sensor",
+        "FeRAM"
     ],
     "name": "MusicEngine",
     "platforms": "*",

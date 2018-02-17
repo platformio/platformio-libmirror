@@ -4,21 +4,18 @@
         "url": "https://os.mbed.com/users/nameless129/"
     },
     "description": "4線抵抗皮膜式タッチパネル用",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/nameless129/code/11U68_MP3Player-with-TFTLCD/",
+        "https://os.mbed.com/users/Hapi_Tech/code/11U68_MP3Player-with-TFTLCD/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "bot",
-        "motor",
-        "sensors",
-        "shield",
-        "Analyzer",
-        "logic",
-        "osc",
-        "Oscilloscope",
-        "scope",
-        "ethernet",
-        "ip",
-        "mbed"
+        "I2C",
+        "IMU",
+        "LEGO",
+        "mindstorms",
+        "AITENDO",
+        "OLED"
     ],
     "name": "TouchPanel",
     "platforms": "*",

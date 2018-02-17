@@ -4,9 +4,16 @@
         "url": "https://os.mbed.com/users/yasuyuki/"
     },
     "description": "AM2321 library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/morinagatomoya/code/mbed_AM2321_copy/",
+        "https://os.mbed.com/users/yasuyuki/code/mbed_AM2321/"
+    ],
     "frameworks": "mbed",
-    "keywords": "AM2321",
+    "keywords": [
+        "AM2321",
+        "BNO055",
+        "sensor"
+    ],
     "name": "AM2321",
     "platforms": "*",
     "repository": {

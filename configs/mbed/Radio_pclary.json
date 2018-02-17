@@ -4,15 +4,18 @@
         "url": "https://os.mbed.com/users/pclary/"
     },
     "description": "Specialized interface code for the nRF24L01P wireless transceiver.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/alex03/code/WalkingRobot/",
+        "https://os.mbed.com/users/pclary/code/PcRadioBridge/",
+        "https://os.mbed.com/teams/Interactive-Device-Design/code/FzeroXcontroller/",
+        "https://os.mbed.com/users/pclary/code/WalkingRobot/",
+        "https://os.mbed.com/users/alexandertyler/code/FzeroXcontroller/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Arduino mbed commands",
-        "HD44780 LCD text custom char 16X2",
-        "Ciseco",
-        "SRF",
-        "wireless",
-        "XRF"
+        "GPS",
+        "ublox",
+        "Vodafone"
     ],
     "name": "Radio",
     "platforms": "*",

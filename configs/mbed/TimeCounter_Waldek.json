@@ -5,18 +5,7 @@
     },
     "description": "Time (seconds) counter based on TimerSubscriber",
     "frameworks": "mbed",
-    "keywords": [
-        "myTimer",
-        "23K256",
-        "23LC1024",
-        "DMA",
-        "FIFO",
-        "RAM",
-        "ring buffer",
-        "SPI",
-        "sram",
-        "dac"
-    ],
+    "keywords": "TimeCounter",
     "name": "TimeCounter",
     "platforms": "*",
     "repository": {

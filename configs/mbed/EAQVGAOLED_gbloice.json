@@ -6,14 +6,11 @@
     "description": "An mbed library for the Embedded Artists QVGA OLED 2.8 inch panel",
     "frameworks": "mbed",
     "keywords": [
-        "CNCAirbrush",
-        "conversion",
-        "float",
-        "string",
         "EA",
         "Graphics",
         "OLED",
-        "SPI"
+        "SPI",
+        "YMZ294"
     ],
     "name": "EAQVGAOLED",
     "platforms": "*",

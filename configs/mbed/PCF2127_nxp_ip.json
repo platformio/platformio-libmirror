@@ -4,15 +4,25 @@
         "url": "https://os.mbed.com/users/nxp_ip/"
     },
     "description": "PCF2127 and PCF2129 are high accuracy real-time-clock (RTC) module.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/nxp_ip/code/PCF2127_Demo/",
+        "https://os.mbed.com/users/nxp_ip/code/PCF2127_Hello/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit",
-        "PCA9685",
         "PCF2127",
         "PCF2129",
         "real time clock",
-        "RTC"
+        "RTC",
+        "C027",
+        "C030",
+        "CellLocate",
+        "file",
+        "FTP",
+        "http",
+        "SMS",
+        "u-blox",
+        "ussd"
     ],
     "name": "PCF2127",
     "platforms": "*",

@@ -4,16 +4,17 @@
         "url": "https://os.mbed.com/users/Gerth/"
     },
     "description": "Library with P, PI and PID controller",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/BioRobotics1/code/buttoncontrol/",
+        "https://os.mbed.com/teams/BioRobotics1/code/includeair/",
+        "https://os.mbed.com/users/Gerth/code/includeair/",
+        "https://os.mbed.com/users/peterknoben/code/Oudverslag/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "Serial",
-        "sparkfun",
-        "font",
-        "NeoPixel",
-        "WS2812",
-        "wx2811"
+        "Communication",
+        "debugging",
+        "rpc"
     ],
     "name": "controlandadjust",
     "platforms": "*",

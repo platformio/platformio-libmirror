@@ -4,14 +4,16 @@
         "url": "https://os.mbed.com/users/CQpub0Mikami/"
     },
     "description": "Library for LCD ACM1602NI connected using I2C interface on Nucleo F401/411.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/CQpub0Mikami/code/ACM1602NI_NucleoF4_Demo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "MAX30102",
         "ACM1602NI",
         "I2C",
         "LCD",
-        "Nucleo",
-        "MAX30102"
+        "Nucleo"
     ],
     "name": "ACM1602NI_NucleoF4",
     "platforms": "*",

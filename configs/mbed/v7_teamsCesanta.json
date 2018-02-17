@@ -4,12 +4,16 @@
         "url": "https://os.mbed.com/teams/Cesanta/"
     },
     "description": "Embedded JavaScript virtual machine",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/Cesanta/code/DISCO-F469NI_javascript_blinker/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "f746ZG",
-        "Nucleo",
-        "unzen",
+        "display",
+        "I2C",
+        "OLED",
+        "SPI",
+        "SSD1351",
         "javascript",
         "scripting"
     ],

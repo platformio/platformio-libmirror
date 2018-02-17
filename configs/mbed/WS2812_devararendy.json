@@ -4,12 +4,18 @@
         "url": "https://os.mbed.com/users/devararendy/"
     },
     "description": "This is a bitbang library for WS2812. I test it with STM32F411RE (Nucleo 441RE). If you want to use another board, u need to adjust the sum of asm(\"nop\"). In the example program i put some code to measure how many asm(\"nop\") do we need. See more detail about WS2812 timing https://cdn-shop.adafruit.com/datasheets/WS2812.pdf",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/devararendy/code/STM32FC_RGB_WS2812/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "controller",
-        "I2C",
-        "Wii",
+        "frequencies",
+        "guitar",
+        "tuner",
+        "mbed rtos",
+        "rtos",
+        "Serial",
+        "UART0",
         "led",
         "rgb",
         "WS2812",

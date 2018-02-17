@@ -4,15 +4,27 @@
         "url": "https://os.mbed.com/users/justinkim/"
     },
     "description": "Arducam_OV5642_Library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/justinkim/code/DigitalCamera_OV5642_WIZwiki-W7500/",
+        "https://os.mbed.com/users/vkaminsk/code/RFID-RC522_buffer/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "ethernet",
+        "socket",
+        "W5500",
+        "LCD",
+        "LCD-11062",
+        "PCF8833",
+        "sparkfun",
+        "motor",
+        "C027;",
+        "G350;",
+        "GPS;",
+        "SARA",
         "Arducam",
         "OV5642",
-        "HY-1.8",
-        "ST7735",
-        "HMC5843",
-        "sparkfun"
+        "ADF4360"
     ],
     "name": "Arducam_OV5642",
     "platforms": "*",

@@ -4,17 +4,18 @@
         "url": "https://os.mbed.com/users/frankvnk/"
     },
     "description": "Avnet - Precompiled eCompass library for the Wi-Go board",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/frankvnk/code/Wi-Go_IOT_Demo/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/IoT_World_Hackathon_WiGo_NSP_Demo/",
+        "https://os.mbed.com/users/frankvnk/code/Wi-Go_IOT_Demo_MKII/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "eCompass",
         "Wi-Go",
         "WiGo",
         "semihosting",
-        "SWD",
-        "servos",
-        "slow",
-        "Speed"
+        "SWD"
     ],
     "name": "Wi-Go_eCompass_Lib_V3",
     "platforms": "*",

@@ -4,14 +4,21 @@
         "url": "https://os.mbed.com/users/networker/"
     },
     "description": "rfcomm",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/kenbumono/code/mbed_TANK_Kinect/",
+        "https://os.mbed.com/users/networker/code/ftusbClass/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "v3",
         "ChaNFS",
         "mass",
         "storage",
-        "USB"
+        "USB",
+        "v3",
+        "buzzer",
+        "pwm",
+        "tone",
+        "tune"
     ],
     "name": "rfcomm",
     "platforms": "*",

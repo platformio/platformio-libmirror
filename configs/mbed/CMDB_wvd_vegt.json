@@ -4,22 +4,27 @@
         "url": "https://os.mbed.com/users/wvd_vegt/"
     },
     "description": "A Command Interpreter with support for used defined commands, subsystems, macros, help and parameter parsing.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/wvd_vegt/code/Cmdb_test/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "interpreter",
-        "Serial",
+        "FRDM",
+        "KL25z",
+        "MLK25Z128FRDM",
+        "CAN",
+        "format",
+        "parse",
+        "Queue",
+        "Utilities",
         "AES",
         "CBC",
         "cipher",
         "Crypto",
         "CTS",
         "ECB",
-        "nsdl",
-        "I2C",
-        "illuminance",
-        "ROHM"
+        "interpreter",
+        "Serial"
     ],
     "name": "CMDB",
     "platforms": "*",

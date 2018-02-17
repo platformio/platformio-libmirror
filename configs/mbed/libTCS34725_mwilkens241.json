@@ -6,12 +6,14 @@
     "description": "Basic library for the TCS34725, based off of several example programs and the Adafruit Arduino library",
     "frameworks": "mbed",
     "keywords": [
+        "mp3",
+        "VS1053",
+        "W7500",
+        "WIZwiki",
         "library",
         "rgb",
         "sensor",
-        "TCS34725",
-        "led",
-        "pwm"
+        "TCS34725"
     ],
     "name": "libTCS34725",
     "platforms": "*",

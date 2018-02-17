@@ -4,12 +4,24 @@
         "url": "https://os.mbed.com/users/segundo/"
     },
     "description": "Function to calculate the memory available for malloc",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/segundo/code/AvailableMemory_HelloWorld/",
+        "https://os.mbed.com/users/jt/code/MCBBThermostat/",
+        "https://os.mbed.com/users/y7jin/code/helloaabbc/",
+        "https://os.mbed.com/users/mbed36372/code/SP14P1_skeleton/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "AQM1602",
+        "NET",
+        "network",
+        "stream",
+        "TCP",
+        "Agent",
+        "Net-SNMP",
+        "SNMP",
         "malloc",
-        "memory"
+        "memory",
+        "AQM1602"
     ],
     "name": "AvailableMemory",
     "platforms": "*",

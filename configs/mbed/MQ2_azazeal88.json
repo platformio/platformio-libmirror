@@ -4,13 +4,13 @@
         "url": "https://os.mbed.com/users/azazeal88/"
     },
     "description": "A library for the MQ2 sensor. Based on https://github.com/labay11 and http://sandboxelectronics.com/?p=165",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/azazeal88/code/mq2_example/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "gas sensor",
-        "mq2",
-        "HD44780",
-        "TextLCD"
+        "mq2"
     ],
     "name": "MQ2",
     "platforms": "*",

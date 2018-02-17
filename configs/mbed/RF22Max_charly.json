@@ -4,13 +4,14 @@
         "url": "https://os.mbed.com/users/charly/"
     },
     "description": "Class to communicate with ELV(R) MAX! wireless devices with RFM22B-Modules. Based on Library RF22.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/charly/code/RF22_MAX_test_Send/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "robot",
-        "Robotics",
-        "RT-component",
-        "RT-middleware",
+        "display",
+        "ILI9341",
+        "LCD",
         "RF22",
         "RFM22",
         "RFM22Max",

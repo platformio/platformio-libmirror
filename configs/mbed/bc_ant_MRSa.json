@@ -4,9 +4,15 @@
         "url": "https://os.mbed.com/users/MRSa/"
     },
     "description": "BC-ANT-SERIAL communication library.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/MRSa/code/bc_ant-sample/",
+        "https://os.mbed.com/users/MRSa/code/bc_ant-receiver/"
+    ],
     "frameworks": "mbed",
-    "keywords": "bc_ant",
+    "keywords": [
+        "cube",
+        "led"
+    ],
     "name": "bc_ant",
     "platforms": "*",
     "repository": {

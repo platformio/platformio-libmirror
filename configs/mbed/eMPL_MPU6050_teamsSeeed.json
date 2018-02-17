@@ -4,23 +4,20 @@
         "url": "https://os.mbed.com/teams/Seeed/"
     },
     "description": "MPU6050 library",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/tmushie/code/CSSE4011_BLE_IMU_Project_rev2/",
+        "https://os.mbed.com/teams/Seeed/code/Seeed_Tiny_BLE_Get_Started/",
+        "https://os.mbed.com/users/yihui/code/nrf51822_fix_i2c_spi_conflict/",
+        "https://os.mbed.com/users/squirelo/code/balanceboard/",
+        "https://os.mbed.com/users/vbahl2/code/Encryptulator2/",
+        "https://os.mbed.com/users/bowenfeng/code/Seeed_Tiny_BLE_FTHR_Peripheral/",
+        "https://os.mbed.com/users/IoTer/code/Seeed_Tiny_BLE_Blinky/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "acc",
         "gyro",
-        "MPU6050",
-        "Art-Net",
-        "DMX",
-        "DMX512",
-        "ethernet",
-        "UDP",
-        "9-axis",
-        "BNO055",
-        "Cortex-M0+",
-        "MAG",
-        "orientation",
-        "sensor"
+        "MPU6050"
     ],
     "name": "eMPL_MPU6050",
     "platforms": "*",

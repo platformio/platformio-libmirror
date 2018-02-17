@@ -4,23 +4,14 @@
         "url": "https://os.mbed.com/users/AjK/"
     },
     "description": "A Ton (Timer On) is used to provide an \\'on delay\\' system so as to avoid using wait()",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/jjcimon/code/NEWlcd_menu_v2/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "mbed5",
-        "NetworkInterfaceAPI",
-        "wifi",
-        "wifiinterface",
-        "wizfi310",
-        "wizfi310interface",
         "timer",
         "Ton",
-        "wait",
-        "maestro",
-        "Serial",
-        "Servo",
-        "led",
-        "TM1638"
+        "wait"
     ],
     "name": "Ton",
     "platforms": "*",

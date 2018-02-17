@@ -6,8 +6,12 @@
     "description": "Initial Fork",
     "frameworks": "mbed",
     "keywords": [
-        "Serial",
-        "thermal printer"
+        "bglib",
+        "BLE",
+        "ble112",
+        "bluegiga",
+        "bluetooth-low-energy",
+        "UART"
     ],
     "name": "TB6612FNG2",
     "platforms": "*",

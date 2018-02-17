@@ -4,9 +4,12 @@
         "url": "https://os.mbed.com/users/dishbreak/"
     },
     "description": "Library to simplify using capture pins on hardware.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/dishbreak/code/bluesync/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "JSON",
         "capture",
         "timer",
         "timer2"

@@ -4,10 +4,20 @@
         "url": "https://os.mbed.com/users/rbohne/"
     },
     "description": "This will become a hardware abstraction layer for my mbed projects. It will make it easier to port sketches from Arduino to mbed",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/siridjen/code/Potentiometer/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "arduino",
+        "calibration",
+        "clock",
+        "real",
+        "RTC",
+        "time",
+        "timezone",
+        "GPIO",
+        "Speed",
         "CC3000",
         "socket",
         "TCP",

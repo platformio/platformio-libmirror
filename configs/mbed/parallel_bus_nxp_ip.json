@@ -4,11 +4,23 @@
         "url": "https://os.mbed.com/users/nxp_ip/"
     },
     "description": "Parallel bus (address 8 bit, data 8 bit) access sample using GPIO pins.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/nxp_ip/code/mini_board_PCU9669_demo/",
+        "https://os.mbed.com/users/nxp_ip/code/mini_board_PCU9669/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "VL53L0X",
-        "MQTT"
+        "Lora",
+        "Semtech",
+        "SX1272",
+        "SX1272Lib",
+        "SX1272MB1DxS",
+        "SX1276",
+        "SX1276Lib",
+        "SX1276MB1xAS",
+        "clock",
+        "KL25z",
+        "PLL"
     ],
     "name": "parallel_bus",
     "platforms": "*",

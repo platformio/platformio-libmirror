@@ -6,13 +6,15 @@
     "description": "A TextDisplay driver that supports graphical displays using on of the SED133x conrtrolers. Allows stdout and stderr output to be redirected to the display.",
     "frameworks": "mbed",
     "keywords": [
-        "CPU Serial number",
-        "Device ID",
-        "IOT",
-        "Serial Number",
         "SED1330",
         "SED1335",
-        "TextDisplay"
+        "TextDisplay",
+        "assembly",
+        "exception",
+        "fault",
+        "handler",
+        "hardfault",
+        "registerdump"
     ],
     "name": "TextDisplays",
     "platforms": "*",

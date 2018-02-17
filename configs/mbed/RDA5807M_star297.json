@@ -4,15 +4,18 @@
         "url": "https://os.mbed.com/users/star297/"
     },
     "description": "RDA5807M FM Radio library with RDS.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/star297/code/RDA5807M-FM-Radio/",
+        "https://os.mbed.com/users/star297/code/EFM32-RDA5807M-RDS-Radio/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "OLED",
-        "SSD1332",
         "fm",
         "Radio",
         "RDA5807M",
-        "RDS"
+        "RDS",
+        "infrared",
+        "Obstacle detection"
     ],
     "name": "RDA5807M",
     "platforms": "*",

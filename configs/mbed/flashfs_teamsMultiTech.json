@@ -4,19 +4,20 @@
         "url": "https://os.mbed.com/teams/MultiTech/"
     },
     "description": "Filesystem library designed for flash devices",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/MultiTech/code/flash-fs-example/",
+        "https://os.mbed.com/teams/MultiTech/code/Dragonfly_Filesystem_Example/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "crc8",
         "Flash-fs",
-        "adc",
-        "Color Sensor",
-        "Colour Sensor",
-        "High Speed ADC",
-        "irq",
-        "ldr",
-        "Light Dependent Resistor",
-        "RGB LED"
+        "dynamixel",
+        "MX-12W",
+        "MX12",
+        "MX12W",
+        "robotis",
+        "Servo",
+        "USBDevice"
     ],
     "name": "flash-fs",
     "platforms": "*",

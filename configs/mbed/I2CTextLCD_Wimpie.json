@@ -6,8 +6,11 @@
     "description": "I2CTextLCD",
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "Lidar"
+        "Servo",
+        "servo pulse",
+        "SERVOGEN",
+        "ServoOut",
+        "accelerometer"
     ],
     "name": "I2CTextLCD",
     "platforms": "*",

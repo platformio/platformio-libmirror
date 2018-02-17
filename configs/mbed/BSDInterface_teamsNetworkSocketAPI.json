@@ -4,9 +4,17 @@
         "url": "https://os.mbed.com/teams/NetworkSocketAPI/"
     },
     "description": "Wrapper of NetworkSocketAPI for BSD sockets on POSIX systems",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/NetworkSocketAPI/code/BSDInterfaceTests/",
+        "https://os.mbed.com/teams/NetworkSocketAPI/code/HelloBSDInterface/"
+    ],
     "frameworks": "mbed",
-    "keywords": "madgwick'salgorithm",
+    "keywords": [
+        "fischertechnik",
+        "ftlib",
+        "ftmsclib",
+        "madgwick'salgorithm"
+    ],
     "name": "BSDInterface",
     "platforms": "*",
     "repository": {

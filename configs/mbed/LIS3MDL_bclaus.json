@@ -4,15 +4,11 @@
         "url": "https://os.mbed.com/users/bclaus/"
     },
     "description": "Copied from STs implementation.",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "authorization",
-        "client",
-        "custom",
-        "headers",
-        "http"
+    "examples": [
+        "https://os.mbed.com/users/bclaus/code/teensyIMU/"
     ],
+    "frameworks": "mbed",
+    "keywords": "LIS3MDL",
     "name": "LIS3MDL",
     "platforms": "*",
     "repository": {

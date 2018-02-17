@@ -4,17 +4,11 @@
         "url": "https://os.mbed.com/teams/ublox/"
     },
     "description": "Connection Manager library for u-blox cellular modules. It manages the modem for keeping data connection always active.",
-    "examples": "https://os",
-    "frameworks": "mbed",
-    "keywords": [
-        "I2C",
-        "LPC800",
-        "LPC800-MAX",
-        "PCA9672",
-        "bitmap",
-        "Graphics",
-        "LCD"
+    "examples": [
+        "https://os.mbed.com/teams/ublox/code/C027_demo_ConnMan/"
     ],
+    "frameworks": "mbed",
+    "keywords": "LSM303D",
     "name": "CNManager",
     "platforms": "*",
     "repository": {

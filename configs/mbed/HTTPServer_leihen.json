@@ -4,9 +4,21 @@
         "url": "https://os.mbed.com/users/leihen/"
     },
     "description": "Single instance HTTP Server using new Ethernet Interface.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/leihen/code/EthHTTPServer/",
+        "https://os.mbed.com/users/smorioka/code/if201410_section5/",
+        "https://os.mbed.com/users/robt/code/_PE2E_12-04_EthernetInterfaceServer/",
+        "https://os.mbed.com/users/vipinranka/code/MGAS_GR_Peach/",
+        "https://os.mbed.com/users/Frostworks/code/12_6_rpc_variables/",
+        "https://os.mbed.com/users/ChesterLin/code/final/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "HCSR04",
+        "Nucleo",
+        "STM",
+        "stm32",
+        "ultrasonic",
         "alarm",
         "interrupt",
         "RTC",
@@ -18,6 +30,7 @@
         "HMC6352",
         "FreeRTOS",
         "rtos",
+        "STM32F103C8T6",
         "dns",
         "network",
         "TCP",

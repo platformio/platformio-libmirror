@@ -4,16 +4,22 @@
         "url": "https://os.mbed.com/users/kenjiArai/"
     },
     "description": "In TextLCD_I2C_N Class, added void setContrast(unsigned char c) function as temporary.",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/LPC1114_barometer_with_data_logging/",
+        "https://os.mbed.com/users/kenjiArai/code/LPC1114_data_logger/",
+        "https://os.mbed.com/users/kenjiArai/code/SD_Card_Control/",
+        "https://os.mbed.com/users/kenjiArai/code/RTC_w_COM/",
+        "https://os.mbed.com/users/kenjiArai/code/Frequency_Counter_w_GPS_1PPS/",
+        "https://os.mbed.com/users/kenjiArai/code/Frequency_Counter/",
+        "https://os.mbed.com/users/kenjiArai/code/Frequency_Cntr_1PPS_F746ZG/",
+        "https://os.mbed.com/users/kenjiArai/code/CW_Decoder_using_FFT_on_F446/",
+        "https://os.mbed.com/users/kenjiArai/code/Bosch_BNO055_Fusion_example/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "CPU Serial number",
-        "Device ID",
-        "IOT",
-        "Serial Number",
-        "SED1330",
-        "SED1335",
-        "TextDisplay"
+        "5110",
+        "Nokia",
+        "TextLCD"
     ],
     "name": "TextLCD",
     "platforms": "*",

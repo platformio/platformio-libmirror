@@ -6,17 +6,12 @@
     "description": "Library to control a QVGA TFT connected to SPI.",
     "frameworks": "mbed",
     "keywords": [
-        "led",
-        "led strip",
-        "Sensirion",
-        "SHT21",
-        "MPU-9250",
         "display",
         "graphic",
         "LCD",
         "QVGA",
         "TFT",
-        "touch"
+        "L3GD20"
     ],
     "name": "SPI_TFT_old",
     "platforms": "*",

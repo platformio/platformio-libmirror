@@ -4,9 +4,18 @@
         "url": "https://os.mbed.com/users/GeofferyOmlette/"
     },
     "description": "hello",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/GeofferyOmlette/code/sht31_II/",
+        "https://os.mbed.com/users/koyo_take/code/ina-hack-test/"
+    ],
     "frameworks": "mbed",
-    "keywords": "Sht31",
+    "keywords": [
+        "compass",
+        "DISCO_L476VG",
+        "LSM303",
+        "MAX3100",
+        "Serial"
+    ],
     "name": "Sht31",
     "platforms": "*",
     "repository": {

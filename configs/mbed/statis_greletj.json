@@ -4,7 +4,9 @@
         "url": "https://os.mbed.com/users/greletj/"
     },
     "description": "This library provides the ability to compute the median, circular median, mean and standard deviation of a dataset stored in a circular buffer",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/users/greletj/code/Ni-MH_V3/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "chip select",

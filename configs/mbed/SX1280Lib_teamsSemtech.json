@@ -4,19 +4,16 @@
         "url": "https://os.mbed.com/teams/Semtech/"
     },
     "description": "Driver for the SX1280 RF Transceiver",
-    "examples": "https://os",
+    "examples": [
+        "https://os.mbed.com/teams/Semtech/code/SX1280PingPong/",
+        "https://os.mbed.com/teams/Semtech/code/SX1280DevKit/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "DOG",
-        "LCD",
-        "ST7036",
-        "TextLCD",
-        "AT",
-        "C027",
-        "C030",
-        "CellularInterface",
-        "u-blox"
+        "colour",
+        "Grove",
+        "sensor",
+        "DS1631"
     ],
     "name": "SX1280Lib",
     "platforms": "*",

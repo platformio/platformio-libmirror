@@ -5,7 +5,22 @@
     },
     "description": ".",
     "frameworks": "mbed",
-    "keywords": "BMP180",
+    "keywords": [
+        "CommandProcessor",
+        "Embedded",
+        "interactive",
+        "menu",
+        "ds1302",
+        "RTC",
+        "Ranging",
+        "sensor",
+        "SRF02",
+        "ultrasonic",
+        "bt",
+        "UART",
+        "LCD",
+        "window"
+    ],
     "name": "mbed-os-example-fat-filesystem",
     "platforms": "*",
     "repository": {

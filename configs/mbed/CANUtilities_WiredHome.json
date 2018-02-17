@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "David Smart",
+        "url": "https://os.mbed.com/users/WiredHome/"
+    },
+    "description": "CAN Utilities, includes a queue mechanism, as well as a number of discrete message utilities.",
+    "examples": [
+        "https://os.mbed.com/users/WiredHome/code/A_CANAdapter/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FRDM",
+        "KL25z",
+        "MLK25Z128FRDM",
+        "CAN",
+        "format",
+        "parse",
+        "Queue",
+        "Utilities",
+        "AES",
+        "CBC",
+        "cipher",
+        "Crypto",
+        "CTS",
+        "ECB",
+        "interpreter",
+        "Serial"
+    ],
+    "name": "CANUtilities",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WiredHome/code/CANUtilities/"
+    }
+}
