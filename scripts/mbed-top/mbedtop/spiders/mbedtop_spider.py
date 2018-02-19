@@ -64,7 +64,8 @@ class MbedTopSpider(scrapy.Spider):
         l.add_value('frameworks', 'mbed')
         l.add_value('platforms', mbed_platforms())
         l.add_xpath('fork', './/*[@class="authortext"]/../a/text()')
-        l.add_xpath('commits', './/*[@id="container"]/div[2]/h2/text()')
+        # l.add_xpath('commits', './/*[@id="container"]/div[2]/h2/text()')
+        l.add_xpath('commits', './/*[@class="fa icon_commits"]//../text()')
         l.add_xpath('dependents',
                     './/*[@class="fa icon_repo_depens"]//../text()')
         l.add_xpath('components',
@@ -76,8 +77,8 @@ class MbedTopSpider(scrapy.Spider):
 
         if is_fork(item):
             return
-            
-        if get_commits_number(item['commits']) < 1:
+
+        if int(item['commits']) < 1:
             return
             
         with open('libs.csv', 'a', newline='') as csv_file:
