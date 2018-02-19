@@ -14,11 +14,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "debug",
+        "log",
+        "logger",
+        "test",
+        "display",
         "GPS",
-        "PCF8575",
-        "CAN",
-        "FRDM-KL25Z",
-        "Seeed Studios"
+        "DC",
+        "driver",
+        "full-bridge",
+        "H-bridge",
+        "motor"
     ],
     "name": "lib_gps",
     "platforms": "*",

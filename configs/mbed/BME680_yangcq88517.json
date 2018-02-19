@@ -10,7 +10,8 @@
         "Gas",
         "Humidity",
         "pressure",
-        "Temperature"
+        "Temperature",
+        "frequency"
     ],
     "name": "BME680",
     "platforms": "*",

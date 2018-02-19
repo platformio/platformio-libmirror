@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Andrew Boyson",
+        "url": "https://os.mbed.com/users/andrewboyson/"
+    },
+    "description": "Log",
+    "examples": [
+        "https://os.mbed.com/users/andrewboyson/code/ch/",
+        "https://os.mbed.com/users/andrewboyson/code/gps/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "color",
+        "colour",
+        "detection",
+        "detector",
+        "Grove",
+        "sensor"
+    ],
+    "name": "log",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/andrewboyson/code/log/"
+    }
+}

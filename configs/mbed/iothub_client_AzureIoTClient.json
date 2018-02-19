@@ -19,9 +19,15 @@
     "frameworks": "mbed",
     "keywords": [
         "v1.0",
-        "16 Bit A2D",
-        "Differential A2D",
-        "K64F"
+        "NET",
+        "network",
+        "stream",
+        "TCP",
+        "Agent",
+        "Net-SNMP",
+        "SNMP",
+        "malloc",
+        "memory"
     ],
     "name": "iothub_client",
     "platforms": "*",

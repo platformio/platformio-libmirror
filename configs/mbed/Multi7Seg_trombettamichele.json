@@ -12,9 +12,10 @@
         "7",
         "display",
         "segment",
-        "Humidity",
-        "Sensiron",
-        "Temperature"
+        "daisy-chain",
+        "L6470",
+        "SPI",
+        "Stepper"
     ],
     "name": "Multi7Seg",
     "platforms": "*",

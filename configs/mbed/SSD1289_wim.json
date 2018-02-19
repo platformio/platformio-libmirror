@@ -6,16 +6,9 @@
     "description": "Fork of SSD1289 lib for Landtiger board",
     "frameworks": "mbed",
     "keywords": [
+        "accelerometer",
         "LandTiger",
-        "SSD1289",
-        "Energy Meter",
-        "frequency",
-        "measurement",
-        "Servo",
-        "servo pulse",
-        "SERVOGEN",
-        "ServoOut",
-        "TTL74HC595"
+        "SSD1289"
     ],
     "name": "SSD1289",
     "platforms": "*",

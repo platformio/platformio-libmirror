@@ -15,7 +15,12 @@
         "hotboards",
         "MCP9808",
         "sesnor",
-        "Temp"
+        "Temp",
+        "BP3595",
+        "network",
+        "ROHM",
+        "WLAN",
+        "USBHOST"
     ],
     "name": "Hotboards_temp",
     "platforms": "*",

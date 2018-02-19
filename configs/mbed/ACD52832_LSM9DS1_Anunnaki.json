@@ -11,9 +11,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "IOT",
-        "sigfox",
-        "ultrasonico"
+        "adc",
+        "AnalogIn",
+        "burst",
+        "fast"
     ],
     "name": "ACD52832_LSM9DS1",
     "platforms": "*",

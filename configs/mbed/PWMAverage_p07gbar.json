@@ -13,14 +13,7 @@
         "duty cycle",
         "measurement",
         "pwm",
-        "timer2",
-        "color",
-        "led",
-        "nRF51822",
-        "rgb",
-        "WS2812B",
-        "DISCO_F469NI",
-        "LCD"
+        "timer2"
     ],
     "name": "PWMAverage",
     "platforms": "*",

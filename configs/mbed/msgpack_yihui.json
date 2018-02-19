@@ -9,10 +9,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GUI",
+        "control",
+        "led",
+        "LPC1768",
+        "mbed",
+        "Serial",
+        "Terminal",
+        "VT100",
+        "VT200",
+        "VT52",
         "JSON",
         "MessagePack",
-        "GPS"
+        "RX8025"
     ],
     "name": "msgpack",
     "platforms": "*",

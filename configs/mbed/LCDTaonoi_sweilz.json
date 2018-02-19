@@ -6,16 +6,12 @@
     "description": "LCD For I2C",
     "frameworks": "mbed",
     "keywords": [
-        "card",
-        "fatfilesystem",
-        "MMC",
-        "SD",
-        "SDHC",
-        "SDXC",
-        "Ciseco",
-        "SRF",
-        "wireless",
-        "XRF"
+        "display",
+        "led",
+        "numeric",
+        "Seven-Segment",
+        "D6F-PH",
+        "pressure"
     ],
     "name": "LCDTaonoi",
     "platforms": "*",

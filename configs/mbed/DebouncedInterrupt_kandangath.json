@@ -14,19 +14,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "debounce",
-        "interrupt",
+        "buffer",
+        "ring",
         "Nucleo",
         "stm32",
         "Wi-Fi",
         "X-NUCLEO-IDW01M1",
-        "38kHz",
-        "IR",
-        "remote",
-        "NeoPixel",
-        "nRF51822",
-        "RedBear",
-        "WS2812"
+        "debounce",
+        "interrupt"
     ],
     "name": "DebouncedInterrupt",
     "platforms": "*",

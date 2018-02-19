@@ -28,12 +28,12 @@
         "Nucleo",
         "SPI",
         "UIT",
-        "esc",
-        "pwm",
-        "RC",
         "accelerometer",
         "I2C",
-        "LIS3DH"
+        "LIS3DH",
+        "esc",
+        "pwm",
+        "RC"
     ],
     "name": "LIS3DH",
     "platforms": "*",

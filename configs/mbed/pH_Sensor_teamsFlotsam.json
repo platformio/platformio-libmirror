@@ -8,7 +8,14 @@
         "https://os.mbed.com/teams/Flotsam/code/Full-Project/"
     ],
     "frameworks": "mbed",
-    "keywords": "test",
+    "keywords": [
+        "mbed",
+        "ds1307",
+        "DS3231m",
+        "CyaSSL",
+        "https",
+        "SSL"
+    ],
     "name": "pH_Sensor",
     "platforms": "*",
     "repository": {

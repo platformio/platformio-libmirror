@@ -13,9 +13,7 @@
         "1-wire",
         "DS1820",
         "DS18B20",
-        "DS18S20",
-        "16x1",
-        "TextLCD"
+        "DS18S20"
     ],
     "name": "DS1820",
     "platforms": "*",

@@ -6,13 +6,14 @@
     "description": "XBee API operation library for mbed",
     "frameworks": "mbed",
     "keywords": [
+        "radiohead",
+        "TeraTerm",
+        "Terminal",
+        "USB",
+        "UVC",
         "api",
         "xbee",
         "zigbee",
-        "Register",
-        "shift",
-        "compass",
-        "HMC5883L",
         "L298",
         "motor",
         "Stepper"

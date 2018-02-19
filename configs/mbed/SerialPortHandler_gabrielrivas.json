@@ -11,7 +11,14 @@
     "keywords": [
         "real time",
         "serial port",
-        "serial protocols"
+        "serial protocols",
+        "MCP3425",
+        "binary",
+        "GPS",
+        "NMEA",
+        "protocol",
+        "sIRFstar3",
+        "sIRFstarIII"
     ],
     "name": "SerialPortHandler",
     "platforms": "*",

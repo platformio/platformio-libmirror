@@ -9,19 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HMC5843",
-        "sparkfun",
-        "dot",
-        "HT1632",
-        "led",
-        "matrix",
-        "sure",
         "OLED",
         "SPI",
-        "SSD1332",
-        "KL25z",
-        "light sensor",
-        "Wi-Go"
+        "SSD1332"
     ],
     "name": "SSD1332_OLED",
     "platforms": "*",

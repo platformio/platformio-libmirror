@@ -6,12 +6,19 @@
     "description": "Added circle and line support",
     "frameworks": "mbed",
     "keywords": [
+        "GraphicsDisplay",
+        "GUI",
+        "TextDisplay",
         "6610",
         "LCD",
         "Nokia",
+        "bar",
+        "Grove",
+        "led",
         "DS3231",
         "ethernet",
-        "K64F"
+        "K64F",
+        "VL53L0X"
     ],
     "name": "NokiaLCD",
     "platforms": "*",

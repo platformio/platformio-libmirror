@@ -9,11 +9,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "BMC050",
-        "Bosch",
-        "Field",
-        "magnetic"
+        "ethernet",
+        "socket",
+        "W5500",
+        "C027;",
+        "G350;",
+        "GPS;",
+        "SARA",
+        "can bus",
+        "Nucleo",
+        "NUCLEO-F103RB",
+        "ADF4360"
     ],
     "name": "MAX4466",
     "platforms": "*",

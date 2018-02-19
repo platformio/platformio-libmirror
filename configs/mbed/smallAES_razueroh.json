@@ -11,15 +11,15 @@
     "keywords": [
         "bmp085",
         "sparkfun",
+        "AES",
+        "cipher",
+        "encryption",
+        "security",
         "Maple Mini",
         "NUCLEO-F103RB",
         "STM32F103C8C6",
         "USB device",
-        "USBDevice",
-        "AES",
-        "cipher",
-        "encryption",
-        "security"
+        "USBDevice"
     ],
     "name": "smallAES",
     "platforms": "*",

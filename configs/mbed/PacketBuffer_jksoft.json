@@ -6,12 +6,16 @@
     "description": "パケットごとに出し入れするFIFOバッファ",
     "frameworks": "mbed",
     "keywords": [
-        "1wire",
-        "DS18B20",
-        "OneWire",
-        "debounce",
-        "debouncing",
-        "buffer"
+        "PAW",
+        "PAW Sensor",
+        "MCP4018",
+        "buffer",
+        "I2C",
+        "IMU",
+        "LEGO",
+        "mindstorms",
+        "DS3231",
+        "RTC"
     ],
     "name": "PacketBuffer",
     "platforms": "*",

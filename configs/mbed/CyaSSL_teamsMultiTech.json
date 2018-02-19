@@ -13,14 +13,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "CyaSSL",
-        "SSL",
-        "accelerometer",
-        "I2C",
-        "MMA7660",
         "muRata",
         "sn8200",
-        "wifi"
+        "wifi",
+        "CyaSSL",
+        "SSL"
     ],
     "name": "CyaSSL",
     "platforms": "*",

@@ -18,16 +18,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "camera",
-        "JPEG",
-        "OV528",
-        "uCAM TTL120",
-        "accelerometer",
-        "gyroscope",
-        "I2C",
-        "MPU-6050",
         "MPU6050",
-        "MPU60x0"
+        "MPU9250"
     ],
     "name": "Dynamixel",
     "platforms": "*",

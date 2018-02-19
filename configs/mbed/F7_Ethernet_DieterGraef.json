@@ -18,6 +18,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "adc",
+        "SPI",
         "discovery",
         "ethernet",
         "Nucleo",
@@ -25,7 +27,14 @@
         "STM32F746",
         "128x64",
         "OLED",
-        "SSD1306"
+        "SSD1306",
+        "AES",
+        "encryption",
+        "HMAC",
+        "RSA",
+        "security",
+        "SHA",
+        "SSL"
     ],
     "name": "F7_Ethernet",
     "platforms": "*",

@@ -6,12 +6,12 @@
     "description": "Combine accelerometer and gyroscope data to get a filtered output",
     "frameworks": "mbed",
     "keywords": [
-        "checksum",
         "Accel",
         "accelerometer",
         "gyro",
         "gyroscope",
-        "IMU"
+        "IMU",
+        "ITG3200"
     ],
     "name": "AngleFilter",
     "platforms": "*",

@@ -10,9 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "http",
+        "web server",
         "ILI9225",
         "LCD",
         "SPI",
+        "Graphics",
         "Felica",
         "RC-S620/S",
         "RFID",

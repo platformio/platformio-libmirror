@@ -9,7 +9,16 @@
         "https://os.mbed.com/users/ashleymills/code/CyaSSL_DTLS_Ethernet/"
     ],
     "frameworks": "mbed",
-    "keywords": "flash",
+    "keywords": [
+        "arduino",
+        "iot platform",
+        "sakura internet",
+        "DMP",
+        "I2Cdev",
+        "MPU6050",
+        "MPU9150",
+        "Nucelo"
+    ],
     "name": "cyassl-lib",
     "platforms": "*",
     "repository": {

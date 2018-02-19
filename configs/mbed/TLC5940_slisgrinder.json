@@ -5,13 +5,7 @@
     },
     "description": "init",
     "frameworks": "mbed",
-    "keywords": [
-        "devantech",
-        "ranger",
-        "SRF02",
-        "SRF08",
-        "ultrasonic"
-    ],
+    "keywords": "TLC5940",
     "name": "TLC5940",
     "platforms": "*",
     "repository": {

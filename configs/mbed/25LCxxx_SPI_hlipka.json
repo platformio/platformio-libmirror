@@ -9,6 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "http",
+        "https",
         "25lcxxx",
         "25xx",
         "EEPROM",
@@ -17,10 +19,8 @@
         "SPI",
         "16x4",
         "LCD",
-        "IEEE",
-        "mbed",
-        "micromouse",
-        "UCLA"
+        "blinking",
+        "led"
     ],
     "name": "25LCxxx_SPI",
     "platforms": "*",

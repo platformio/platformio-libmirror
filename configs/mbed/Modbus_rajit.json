@@ -5,13 +5,7 @@
     },
     "description": "Port of the FreeModbus Libary for mbed, copied from https://developer.mbed.org/users/cam/code/Modbus/ and upgraded to mbed 5",
     "frameworks": "mbed",
-    "keywords": [
-        "I2C",
-        "sensor",
-        "Temperature",
-        "gyro",
-        "iniparser"
-    ],
+    "keywords": "ad7124",
     "name": "Modbus",
     "platforms": "*",
     "repository": {

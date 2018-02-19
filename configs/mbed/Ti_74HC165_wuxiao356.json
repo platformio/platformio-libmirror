@@ -6,10 +6,11 @@
     "description": "Library for TI 74HC165, which is a parallel-in serial-out shift register.",
     "frameworks": "mbed",
     "keywords": [
-        "motor",
-        "Stepper",
-        "stepping",
-        "Uni-polar",
+        "dac",
+        "more pwm",
+        "pwm",
+        "pwm 48Mhz",
+        "pwmdac",
         "74HC165"
     ],
     "name": "Ti_74HC165",

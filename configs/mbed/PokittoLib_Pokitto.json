@@ -18,14 +18,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "Luminosity",
-        "Lux",
-        "sensor",
+        "http",
+        "NET",
+        "network",
+        "webservice",
+        "xml",
+        "FreeIMU",
+        "IMU",
+        "MPU6050",
         "Pokitto",
-        "display",
-        "hotboards",
-        "SPI"
+        "mbed"
     ],
     "name": "PokittoLib",
     "platforms": "*",

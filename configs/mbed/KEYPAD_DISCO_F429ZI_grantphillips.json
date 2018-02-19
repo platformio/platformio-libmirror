@@ -9,7 +9,14 @@
         "https://os.mbed.com/users/mozillain/code/WIRE-BANDING_copy/"
     ],
     "frameworks": "mbed",
-    "keywords": "m3pi",
+    "keywords": [
+        "display",
+        "HT1632",
+        "led",
+        "matrix",
+        "I2C multiplexer",
+        "PCA9547"
+    ],
     "name": "KEYPAD_DISCO_F429ZI",
     "platforms": "*",
     "repository": {

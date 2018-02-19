@@ -10,8 +10,10 @@
     "frameworks": "mbed",
     "keywords": [
         "LIN",
-        "SSL",
-        "TLS"
+        "baro",
+        "MS5611_01BA03",
+        "SPI",
+        "variometer"
     ],
     "name": "LIN",
     "platforms": "*",

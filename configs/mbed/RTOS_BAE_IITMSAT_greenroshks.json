@@ -5,7 +5,17 @@
     },
     "description": "Rtos code for BAE microcontroller, IITMSAT",
     "frameworks": "mbed",
-    "keywords": "Serializer",
+    "keywords": [
+        "display",
+        "output",
+        "ethernet",
+        "ip",
+        "mbed",
+        "128",
+        "ACE",
+        "bourns",
+        "Encoder"
+    ],
     "name": "RTOS_BAE_IITMSAT",
     "platforms": "*",
     "repository": {

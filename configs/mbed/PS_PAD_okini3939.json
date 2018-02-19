@@ -19,15 +19,18 @@
     "frameworks": "mbed",
     "keywords": [
         "ROS",
-        "HOPERF",
-        "RF22",
-        "RFM22",
         "game pad",
         "gamepad",
         "playstation",
         "playstation2",
         "PS2",
-        "SPI"
+        "SPI",
+        "display",
+        "driver",
+        "HEXIWEAR",
+        "OLED",
+        "SSD1351",
+        "GPGGA"
     ],
     "name": "PS_PAD",
     "platforms": "*",

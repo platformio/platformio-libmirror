@@ -6,14 +6,15 @@
     "description": "I2C discovery routine",
     "frameworks": "mbed",
     "keywords": [
-        "MQTT",
-        "MQTTClient",
-        "GR-PEACH",
-        "I2C",
         "digitalOut",
         "PwmOut",
         "RenBuggy",
-        "Renishaw"
+        "Renishaw",
+        "DISCO_F746NG",
+        "QSPI",
+        "I2C",
+        "led",
+        "TM1638"
     ],
     "name": "i2cDevices",
     "platforms": "*",

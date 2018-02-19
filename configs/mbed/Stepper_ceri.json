@@ -10,7 +10,8 @@
         "A4983 smart step 3d printing",
         "rap",
         "rep",
-        "Stepper"
+        "Stepper",
+        "nRF24L01"
     ],
     "name": "Stepper",
     "platforms": "*",

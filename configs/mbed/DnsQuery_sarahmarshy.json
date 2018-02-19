@@ -9,18 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "led",
-        "LED controller",
-        "led driver",
-        "PCA9622",
-        "PCA9624",
-        "PCA9626",
-        "PCA962x",
-        "pwm",
-        "FAT",
-        "file",
-        "SD",
-        "System"
+        "frequency",
+        "measurement",
+        "Pulsewidth",
+        "MQTT",
+        "MQTTClient"
     ],
     "name": "DnsQuery",
     "platforms": "*",

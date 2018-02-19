@@ -6,6 +6,7 @@
     "description": "K.I.T.T. Scanner (Knight Rider)",
     "frameworks": "mbed",
     "keywords": [
+        "uLCD-32PT(SGS)",
         "display",
         "MicroOLED",
         "OLED",
@@ -22,15 +23,7 @@
         "DHT11",
         "DHT22",
         "Humidity",
-        "Temperature",
-        "realtimeclock",
-        "1",
-        "1-wire",
-        "DS1820",
-        "Maxim",
-        "one",
-        "OneWire",
-        "Wire"
+        "Temperature"
     ],
     "name": "KITTScanner",
     "platforms": "*",

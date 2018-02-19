@@ -13,15 +13,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "cmsis",
-        "rtos",
-        "RTX",
-        "jsmn",
-        "JSON",
-        "C++",
-        "Encoder",
-        "hardware",
-        "QEI"
+        "Thermocouple",
+        "WS2812"
     ],
     "name": "USBDevice",
     "platforms": "*",

@@ -12,12 +12,7 @@
         "nRF24L01P",
         "Nucelo",
         "RF24",
-        "STM32F",
-        "sensor",
-        "Temperature",
-        "TMP175",
-        "GPS",
-        "mbed"
+        "STM32F"
     ],
     "name": "RF24",
     "platforms": "*",

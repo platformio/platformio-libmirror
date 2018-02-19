@@ -17,8 +17,7 @@
         "motor",
         "pwm",
         "Encoder",
-        "rotary",
-        "ROS"
+        "rotary"
     ],
     "name": "RotaryEncoder",
     "platforms": "*",

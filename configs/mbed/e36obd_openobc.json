@@ -8,7 +8,11 @@
         "https://os.mbed.com/users/openobc/code/obdtest/"
     ],
     "frameworks": "mbed",
-    "keywords": "e36obd",
+    "keywords": [
+        "adc",
+        "ads1015",
+        "ads1115"
+    ],
     "name": "e36obd",
     "platforms": "*",
     "repository": {

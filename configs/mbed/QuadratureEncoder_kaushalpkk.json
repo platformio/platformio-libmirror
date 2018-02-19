@@ -5,7 +5,15 @@
     },
     "description": "QuadratureEncoder",
     "frameworks": "mbed",
-    "keywords": "QuadratureEncoder",
+    "keywords": [
+        "6100",
+        "6610",
+        "mobileLCD",
+        "NokiaLCD",
+        "Olimex",
+        "PCF8833",
+        "sparkfun"
+    ],
     "name": "QuadratureEncoder",
     "platforms": "*",
     "repository": {

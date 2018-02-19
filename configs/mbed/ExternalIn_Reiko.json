@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Reiko Randoja",
+        "url": "https://os.mbed.com/users/Reiko/"
+    },
+    "description": "ExternalIn",
+    "examples": [
+        "https://os.mbed.com/users/Reiko/code/Telliskivi2_2014/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "a7105",
+        "flysky",
+        "RC",
+        "Receiver",
+        "TH9X"
+    ],
+    "name": "ExternalIn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Reiko/code/ExternalIn/"
+    }
+}

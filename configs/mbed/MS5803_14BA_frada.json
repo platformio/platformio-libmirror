@@ -11,10 +11,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "SSD1289",
-        "TFT",
-        "TFT320_QVT"
+        "I2C",
+        "MCB1700",
+        "STMPE811",
+        "Touchscreen",
+        "EPOS",
+        "epos2",
+        "maxon",
+        "motor",
+        "Nucleo",
+        "Serial",
+        "ST"
     ],
     "name": "MS5803_14BA",
     "platforms": "*",

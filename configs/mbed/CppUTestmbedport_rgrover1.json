@@ -10,7 +10,12 @@
         "TDD",
         "test",
         "testframework",
-        "unit-test"
+        "unit-test",
+        "interrupt",
+        "masking",
+        "FM25V02",
+        "FM25V10",
+        "FRAM"
     ],
     "name": "CppUTest-mbed-port",
     "platforms": "*",

@@ -11,17 +11,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "current",
-        "I2C",
-        "INA226",
-        "T.I.",
+        "motor",
+        "PCA9629",
+        "Stepper",
         "DC motor",
         "h bridge",
         "L293D",
         "l298n",
         "pwm",
-        "device",
-        "USB"
+        "SPI"
     ],
     "name": "motoresDC",
     "platforms": "*",

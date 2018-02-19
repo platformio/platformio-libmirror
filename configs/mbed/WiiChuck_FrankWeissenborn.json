@@ -8,7 +8,14 @@
         "https://os.mbed.com/users/k4zuki/code/WiiNunchuckTest/"
     ],
     "frameworks": "mbed",
-    "keywords": "WiiChuck",
+    "keywords": [
+        "optical",
+        "Si1145",
+        "Si1146",
+        "Si1147",
+        "Si114x",
+        "uV"
+    ],
     "name": "WiiChuck",
     "platforms": "*",
     "repository": {

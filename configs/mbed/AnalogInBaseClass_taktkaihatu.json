@@ -5,13 +5,7 @@
     },
     "description": "AnalogInBase",
     "frameworks": "mbed",
-    "keywords": [
-        "Humidity",
-        "I2C",
-        "sensor",
-        "led",
-        "matrix"
-    ],
+    "keywords": "AnalogInBaseClass",
     "name": "AnalogInBaseClass",
     "platforms": "*",
     "repository": {

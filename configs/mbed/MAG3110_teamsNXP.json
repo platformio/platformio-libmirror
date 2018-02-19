@@ -10,15 +10,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "loststone",
-        "Mouse",
-        "trackball",
         "2.4",
         "DSM",
         "DSM2",
         "GHz",
         "Serial",
-        "spektrum"
+        "spektrum",
+        "DISCO_F469NI",
+        "LCD",
+        "Touch Screen",
+        "fonts",
+        "TFT"
     ],
     "name": "MAG3110",
     "platforms": "*",

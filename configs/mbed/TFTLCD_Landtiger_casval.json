@@ -5,7 +5,10 @@
     },
     "description": "landtiger with ili9325 lcd controller based on the TFTLCD libary from Todor Todorov",
     "frameworks": "mbed",
-    "keywords": "TFTLCD_Landtiger",
+    "keywords": [
+        "limiter",
+        "rate"
+    ],
     "name": "TFTLCD_Landtiger",
     "platforms": "*",
     "repository": {

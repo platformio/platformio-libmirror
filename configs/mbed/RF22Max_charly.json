@@ -9,13 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "ILI9341",
-        "LCD",
         "RF22",
         "RFM22",
         "RFM22Max",
-        "wireless"
+        "wireless",
+        "Robotics",
+        "Servo",
+        "AD5270",
+        "Digipot"
     ],
     "name": "RF22Max",
     "platforms": "*",

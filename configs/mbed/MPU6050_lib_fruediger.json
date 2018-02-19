@@ -9,14 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DMP",
-        "IMU",
-        "invensense",
-        "MPU605-DMP",
-        "MPU6050",
-        "Quaternion",
-        "Tilty",
-        "TiltyIMU"
+        "gas sensor",
+        "mq2"
     ],
     "name": "MPU6050_lib",
     "platforms": "*",

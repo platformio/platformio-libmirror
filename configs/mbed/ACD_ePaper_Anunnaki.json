@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Filip Hormot",
+        "url": "https://os.mbed.com/users/Anunnaki/"
+    },
+    "description": "ePaper display for ACD52832 Dev board",
+    "examples": [
+        "https://os.mbed.com/users/jurica238814/code/acd52832_LSM9DS1/",
+        "https://os.mbed.com/teams/ENEL-500-Smart-Sports-Shirt-Team/code/BB/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ACD_ePaper",
+    "name": "ACD_ePaper",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Anunnaki/code/ACD_ePaper/"
+    }
+}

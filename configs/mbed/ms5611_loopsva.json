@@ -16,10 +16,7 @@
         "Altimeter",
         "barometer",
         "I2C",
-        "ms5611",
-        "display",
-        "Seeedstudio",
-        "TFT"
+        "ms5611"
     ],
     "name": "ms5611",
     "platforms": "*",

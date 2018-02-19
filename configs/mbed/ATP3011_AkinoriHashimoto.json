@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Akinori Hashimoto",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/"
+    },
+    "description": "ATP3011 is text speech LSI by AquesTalk pico.",
+    "frameworks": "mbed",
+    "keywords": [
+        "tcp/ip",
+        "WebSocket",
+        "accelerometer",
+        "fxos8700cq",
+        "I2C",
+        "magnetometer",
+        "AquesTalk pico",
+        "ATP3011"
+    ],
+    "name": "ATP3011",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/ATP3011/"
+    }
+}

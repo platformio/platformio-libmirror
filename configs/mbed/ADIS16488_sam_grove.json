@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Sam Grove",
+        "url": "https://os.mbed.com/users/sam_grove/"
+    },
+    "description": "Device driver",
+    "frameworks": "mbed",
+    "keywords": [
+        "ADJD-S311-CR99",
+        "Grove",
+        "ISD1820P",
+        "play",
+        "playback",
+        "record",
+        "recorder",
+        "sound"
+    ],
+    "name": "ADIS16488",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sam_grove/code/ADIS16488/"
+    }
+}

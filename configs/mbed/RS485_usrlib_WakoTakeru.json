@@ -6,10 +6,9 @@
     "description": "My useful library.",
     "frameworks": "mbed",
     "keywords": [
-        "control",
-        "PID",
-        "KL25z",
-        "Robotic"
+        "controller",
+        "motor",
+        "Serial"
     ],
     "name": "RS485_usrlib",
     "platforms": "*",

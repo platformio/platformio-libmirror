@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Miguel Angel Rodriguez Jodar",
+        "url": "https://os.mbed.com/users/rodriguj/"
+    },
+    "description": "A class for managing SSD1306 controlled LCD´s (cheap 128x64 models, 0.96'')",
+    "frameworks": "mbed",
+    "keywords": [
+        "LPC1114",
+        "LPC1114FN28",
+        "mbed-sdk",
+        "driver",
+        "ethernet",
+        "PicoTCP",
+        "128x64",
+        "I2C",
+        "OLED",
+        "SSD1306",
+        "event",
+        "event-driven",
+        "fully-preemptive",
+        "multithread",
+        "rtos",
+        "run-to-completion",
+        "schedulling",
+        "single-stack"
+    ],
+    "name": "ssd1306_library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rodriguj/code/ssd1306_library/"
+    }
+}

@@ -10,11 +10,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "compass",
-        "DISCO_L476VG",
-        "LSM303",
-        "MAX3100",
-        "Serial"
+        "SRF02",
+        "GPS",
+        "NMEA",
+        "Venus",
+        "16x2",
+        "20x2",
+        "20X4",
+        "40x2",
+        "HD4478",
+        "TextLCD"
     ],
     "name": "Sht31",
     "platforms": "*",

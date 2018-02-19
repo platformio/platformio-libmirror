@@ -16,17 +16,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "api",
-        "mode",
-        "xbee",
-        "zigbee",
         "email",
         "SMTP",
-        "ESP-01",
-        "ESP8266",
         "finder",
         "range",
-        "ultrasound"
+        "ultrasound",
+        "ESP-01",
+        "ESP8266"
     ],
     "name": "SimpleSMTPClient",
     "platforms": "*",

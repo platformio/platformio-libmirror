@@ -8,7 +8,18 @@
         "https://os.mbed.com/users/heinrich_kevin/code/BertlPingPong_UEbung3_EB/"
     ],
     "frameworks": "mbed",
-    "keywords": "MPU9250",
+    "keywords": [
+        "8025",
+        "EPSON",
+        "RTC",
+        "RX-8025NB",
+        "I2C",
+        "LM75B",
+        "MSS",
+        "MSU",
+        "sensor",
+        "Temperature"
+    ],
     "name": "bertl14",
     "platforms": "*",
     "repository": {

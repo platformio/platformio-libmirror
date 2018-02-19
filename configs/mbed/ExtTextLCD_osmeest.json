@@ -9,10 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "limiter",
-        "rate",
         "display",
-        "LCD"
+        "LCD",
+        "compass",
+        "DISCO_L476VG",
+        "LSM303"
     ],
     "name": "ExtTextLCD",
     "platforms": "*",

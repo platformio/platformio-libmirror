@@ -12,9 +12,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GPS",
-        "MKT3339",
-        "TinyGPS",
         "Humidity",
         "Sensirion",
         "SHT7x",
@@ -23,7 +20,9 @@
         "compatible",
         "due",
         "multitasking",
-        "Scheduler"
+        "Scheduler",
+        "FreeRTOS",
+        "rtos"
     ],
     "name": "Scheduler",
     "platforms": "*",

@@ -11,18 +11,7 @@
         "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalv3/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "HD44780",
-        "LCD",
-        "MT-16S2D",
-        "rus",
-        "Russian",
-        "text",
-        "TextLCD",
-        "TextLCD_Rus",
-        "printer",
-        "shield"
-    ],
+    "keywords": "HTTPClient_GPRS",
     "name": "HTTPClient_GPRS",
     "platforms": "*",
     "repository": {

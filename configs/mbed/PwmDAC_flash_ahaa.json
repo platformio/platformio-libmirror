@@ -14,7 +14,8 @@
         "more pwm",
         "pwm",
         "pwm 48Mhz",
-        "pwmdac"
+        "pwmdac",
+        "74HC165"
     ],
     "name": "PwmDAC",
     "platforms": "*",

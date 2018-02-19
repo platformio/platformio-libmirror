@@ -6,6 +6,9 @@
     "description": "LS020.h is a MobileLCD library for the LS020 display (used in GSM Siemens S65 family). Resolution 176x132",
     "frameworks": "mbed",
     "keywords": [
+        "accelerometer",
+        "I2C",
+        "MMA7660",
         "display",
         "grafical",
         "LCD",

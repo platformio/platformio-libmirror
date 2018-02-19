@@ -12,13 +12,7 @@
     "frameworks": "mbed",
     "keywords": [
         "Temperature",
-        "led",
-        "LED controller",
-        "led driver",
-        "PCA9955A",
-        "PCA9956A",
-        "PCA995xA",
-        "ADXL345"
+        "AM2315"
     ],
     "name": "TMP_nrf51",
     "platforms": "*",

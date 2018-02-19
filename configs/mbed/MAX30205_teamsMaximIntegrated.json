@@ -5,11 +5,7 @@
     },
     "description": "Human body temp sensor library",
     "frameworks": "mbed",
-    "keywords": [
-        "GPS",
-        "ublox",
-        "Vodafone"
-    ],
+    "keywords": "MAX30205",
     "name": "MAX30205",
     "platforms": "*",
     "repository": {

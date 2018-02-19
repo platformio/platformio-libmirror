@@ -12,8 +12,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MAPLE",
-        "mini",
         "counter",
         "led",
         "LPC1768",
@@ -21,9 +19,8 @@
         "Accessory",
         "ADK",
         "android",
-        "DISCO_F469NI",
-        "LCD",
-        "Touch Screen"
+        "MAPLE",
+        "mini"
     ],
     "name": "mbed-MapleMini",
     "platforms": "*",

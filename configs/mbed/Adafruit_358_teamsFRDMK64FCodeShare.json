@@ -6,16 +6,12 @@
     "description": "This library can be used to control a low-cost Adafruit 358 TFT display. It has basic functionality but is a starting point for others trying to control this type of display using the FRDM-K64F.",
     "frameworks": "mbed",
     "keywords": [
-        "HOPERF",
-        "RF22",
-        "RFM22",
-        "ATParser",
-        "sigfox",
+        "31865",
+        "max",
+        "max31865",
         "358",
         "Adafruit",
-        "TFT",
-        "id3",
-        "mp3"
+        "TFT"
     ],
     "name": "Adafruit_358",
     "platforms": "*",

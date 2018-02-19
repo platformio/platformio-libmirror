@@ -9,13 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "I2C",
-        "OLED",
-        "SPI",
-        "SSD1351",
         "javascript",
-        "scripting"
+        "scripting",
+        "at25sf041",
+        "flash",
+        "SPI"
     ],
     "name": "v7",
     "platforms": "*",

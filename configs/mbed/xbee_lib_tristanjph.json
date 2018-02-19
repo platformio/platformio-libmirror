@@ -18,8 +18,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Xbee-Pro",
-        "Seeed-XBee-Shield-V20"
+        "STM32F030F4",
+        "STM32F030F4P6",
+        "xbee",
+        "XBEE pro",
+        "zigbee",
+        "LCD",
+        "text"
     ],
     "name": "xbee_lib",
     "platforms": "*",

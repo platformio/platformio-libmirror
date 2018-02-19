@@ -5,7 +5,15 @@
     },
     "description": "Stack",
     "frameworks": "mbed",
-    "keywords": "Stack",
+    "keywords": [
+        "Gameduino",
+        "VGA",
+        "LIN",
+        "master",
+        "Melexis",
+        "MLX",
+        "USB"
+    ],
     "name": "Stack",
     "platforms": "*",
     "repository": {

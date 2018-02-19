@@ -5,7 +5,11 @@
     },
     "description": "Interface for driving a driver motor dc with control pwm.",
     "frameworks": "mbed",
-    "keywords": "motorDC",
+    "keywords": [
+        "motorDC",
+        "HD44780",
+        "TextLCD"
+    ],
     "name": "MotorDC",
     "platforms": "*",
     "repository": {

@@ -5,7 +5,11 @@
     },
     "description": ".",
     "frameworks": "mbed",
-    "keywords": "nanostack-border-router",
+    "keywords": [
+        "1wire",
+        "DS1820",
+        "DS2482"
+    ],
     "name": "nanostack-border-router",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Garren Boggs",
+        "url": "https://os.mbed.com/users/gboggs3/"
+    },
+    "description": "ECE 4180 final project. Used to connected with both Adafruit Huzzah WiFi and Adafruit Bluetooth LE UART.",
+    "examples": [
+        "https://os.mbed.com/users/gboggs3/code/WirelessInterface_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "optical",
+        "sensor",
+        "VMEL6040",
+        "VMEL6075",
+        "diferential mobile robot",
+        "L298",
+        "LCD",
+        "LCD 16x2",
+        "LPC11U68",
+        "ST7066U"
+    ],
+    "name": "WirelessInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gboggs3/code/WirelessInterface/"
+    }
+}

@@ -6,6 +6,9 @@
     "description": "TB6569 - Toshiba's DC motor driver",
     "frameworks": "mbed",
     "keywords": [
+        "Clock Generator",
+        "Si5351A",
+        "SiLabs",
         "driver",
         "motor"
     ],

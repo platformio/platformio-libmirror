@@ -6,11 +6,13 @@
     "description": "BLE Current Time Service",
     "frameworks": "mbed",
     "keywords": [
-        "OLED",
+        "servos",
+        "slow",
+        "Speed",
+        "GPIO",
+        "master",
         "Serial",
-        "9Dof-Stick",
-        "ADXL345",
-        "sparkfun"
+        "SPI"
     ],
     "name": "BLE_CurrentTimeService",
     "platforms": "*",

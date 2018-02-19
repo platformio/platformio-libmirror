@@ -20,8 +20,13 @@
         "N211",
         "N2xx",
         "u-blox",
-        "HD44780",
-        "TextLCD"
+        "C027",
+        "CellLocate",
+        "file",
+        "FTP",
+        "http",
+        "SMS",
+        "ussd"
     ],
     "name": "ublox-at-cellular-interface-n2xx",
     "platforms": "*",

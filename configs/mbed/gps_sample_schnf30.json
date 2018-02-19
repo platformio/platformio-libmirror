@@ -9,14 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "hotboards",
+        "MCP9808",
+        "sesnor",
+        "Temp",
         "BP3595",
         "network",
         "ROHM",
         "WLAN",
-        "api",
-        "Digi",
-        "xbee",
-        "zigbee"
+        "USBHOST"
     ],
     "name": "gps_sample",
     "platforms": "*",

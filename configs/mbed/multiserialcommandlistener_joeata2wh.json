@@ -11,13 +11,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MCP4726",
+        "clock",
+        "ds1307",
+        "real",
+        "RTC",
+        "time",
         "COMMAND PARSER",
         "serial command",
-        "uart interupt",
-        "gyro",
-        "ITG3200",
-        "MAX30101"
+        "uart interupt"
     ],
     "name": "multi-serial-command-listener",
     "platforms": "*",

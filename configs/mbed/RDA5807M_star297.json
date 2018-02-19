@@ -10,12 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "OLED",
+        "SSD1332",
         "fm",
         "Radio",
         "RDA5807M",
-        "RDS",
-        "infrared",
-        "Obstacle detection"
+        "RDS"
     ],
     "name": "RDA5807M",
     "platforms": "*",

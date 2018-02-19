@@ -6,18 +6,17 @@
     "description": "Interface to access to Avago ADNS-9500 laser mouse sensors.",
     "frameworks": "mbed",
     "keywords": [
-        "920MHz",
-        "IM920",
-        "Interplan",
-        "IOT",
-        "NFC",
         "adns9500",
         "avago",
         "laser",
         "motion",
         "Mouse",
         "navigation",
-        "sensor"
+        "sensor",
+        "controller",
+        "game",
+        "interrupt",
+        "joystick"
     ],
     "name": "ADNS9500",
     "platforms": "*",

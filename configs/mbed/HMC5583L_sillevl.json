@@ -13,12 +13,7 @@
         "driver",
         "HMC5583L",
         "I2C",
-        "sensor",
-        "EEPROM",
-        "MSD",
-        "SPI",
-        "USB",
-        "kalman"
+        "sensor"
     ],
     "name": "HMC5583L",
     "platforms": "*",

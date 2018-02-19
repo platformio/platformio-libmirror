@@ -9,7 +9,17 @@
         "https://os.mbed.com/users/DavidEGrayson/code/LineFollowing/"
     ],
     "frameworks": "mbed",
-    "keywords": "accelerometer",
+    "keywords": [
+        "assembly",
+        "exception",
+        "fault",
+        "handler",
+        "hardfault",
+        "registerdump",
+        "SED1330",
+        "SED1335",
+        "TextDisplay"
+    ],
     "name": "PololuEncoder",
     "platforms": "*",
     "repository": {

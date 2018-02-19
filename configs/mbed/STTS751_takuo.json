@@ -9,8 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "STTS751-Temperature-Sensor",
-        "ACM1602NI-FLW-FBW-M01"
+        "Data visualisation",
+        "Realtime debugger",
+        "Realtime monitor",
+        "I2C",
+        "sensor",
+        "Temperature"
     ],
     "name": "STTS751",
     "platforms": "*",

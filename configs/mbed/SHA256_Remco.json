@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Remco Bloemen",
+        "url": "https://os.mbed.com/users/Remco/"
+    },
+    "description": "A fine-tuned implementation of the SHA256 hashing algorithm.",
+    "examples": [
+        "https://os.mbed.com/users/Remco/code/EntropySource/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "motor",
+        "Stepper",
+        "display",
+        "OLED",
+        "text"
+    ],
+    "name": "SHA256",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Remco/code/SHA256/"
+    }
+}

@@ -6,10 +6,17 @@
     "description": "A quick adaptation of a library made for Arduino by Fabio Varesano",
     "frameworks": "mbed",
     "keywords": [
+        "brushless",
+        "control",
+        "LPC1768",
+        "mbed",
+        "motor",
+        "TB6612FNG",
         "HMC5843",
         "HMC5883L",
         "HMC58X3",
-        "magnetometer"
+        "magnetometer",
+        "wallbot"
     ],
     "name": "HMC58X3",
     "platforms": "*",

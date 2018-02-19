@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Colin Hogben",
+        "url": "https://os.mbed.com/users/infinnovation/"
+    },
+    "description": "Port of MicroPython to the mbed platform.",
+    "examples": [
+        "https://os.mbed.com/users/infinnovation/code/micropython-repl/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "I2C",
+        "nordig",
+        "2",
+        "bus",
+        "CAN",
+        "II",
+        "OBD",
+        "obd2",
+        "obdII",
+        "reader",
+        "micropython",
+        "python"
+    ],
+    "name": "micropython",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/infinnovation/code/micropython/"
+    }
+}

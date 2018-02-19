@@ -13,9 +13,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GPS",
-        "ublox",
-        "Vodafone"
+        "bluetooth",
+        "camera",
+        "JPEG",
+        "LinkSprite",
+        "LS-Y201",
+        "Serial",
+        "Ciseco",
+        "SRF",
+        "wireless",
+        "XRF"
     ],
     "name": "Radio",
     "platforms": "*",

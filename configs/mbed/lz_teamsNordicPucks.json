@@ -9,9 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DMA",
-        "large data transfer",
-        "LLI"
+        "arduino",
+        "iot platform",
+        "sakura internet",
+        "DMP",
+        "I2Cdev",
+        "MPU6050",
+        "MPU9150",
+        "Nucelo"
     ],
     "name": "lz",
     "platforms": "*",

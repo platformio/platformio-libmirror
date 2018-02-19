@@ -6,12 +6,10 @@
     "description": "DS3231",
     "frameworks": "mbed",
     "keywords": [
-        "6610",
-        "LCD",
-        "Nokia",
         "DS3231",
         "ethernet",
-        "K64F"
+        "K64F",
+        "VL53L0X"
     ],
     "name": "DS3231",
     "platforms": "*",

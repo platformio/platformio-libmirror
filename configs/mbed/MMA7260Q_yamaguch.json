@@ -6,11 +6,9 @@
     "description": "MMA7260Q Accelerometer",
     "frameworks": "mbed",
     "keywords": [
-        "Servo",
-        "servo pulse",
-        "SERVOGEN",
-        "ServoOut",
-        "accelerometer"
+        "accelerometer",
+        "LandTiger",
+        "SSD1289"
     ],
     "name": "MMA7260Q",
     "platforms": "*",

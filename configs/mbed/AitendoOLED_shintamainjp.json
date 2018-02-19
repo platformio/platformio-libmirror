@@ -9,12 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "IMU",
-        "LEGO",
-        "mindstorms",
         "AITENDO",
-        "OLED"
+        "OLED",
+        "Altimeter",
+        "barometer",
+        "I2C",
+        "ms5637"
     ],
     "name": "AitendoOLED",
     "platforms": "*",

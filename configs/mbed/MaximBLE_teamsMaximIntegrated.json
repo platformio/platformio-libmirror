@@ -10,8 +10,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "scp1000",
-        "SoftSPI"
+        "bmp085",
+        "I2C",
+        "display",
+        "Freedom",
+        "kl46z",
+        "LCD",
+        "segment"
     ],
     "name": "MaximBLE",
     "platforms": "*",

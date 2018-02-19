@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "philippe laurent",
+        "url": "https://os.mbed.com/users/superphil06/"
+    },
+    "description": "library ued to server dynamic web page by means of html_patch function",
+    "examples": [
+        "https://os.mbed.com/teams/ERS3-2015-2016/code/scooter_mbed_etudiant/",
+        "https://os.mbed.com/users/lebg/code/scooter_/",
+        "https://os.mbed.com/users/syasya/code/scooter_mbed_etudiant_fini_1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "html",
+    "name": "html",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/superphil06/code/html/"
+    }
+}

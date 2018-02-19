@@ -9,15 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ProcVis",
-        "FAT",
-        "file",
-        "SD",
-        "System",
         "ADT7410",
         "I2C",
         "Nucleo",
-        "UIT"
+        "UIT",
+        "FM24Vxx",
+        "RAMTRON"
     ],
     "name": "UIT_ADT7410",
     "platforms": "*",

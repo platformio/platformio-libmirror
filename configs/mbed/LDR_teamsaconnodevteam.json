@@ -6,13 +6,11 @@
     "description": "LDR library.",
     "frameworks": "mbed",
     "keywords": [
+        "ST7032i",
         "acd52832",
         "aconno",
         "Nordic",
-        "nrf52",
-        "f746ZG",
-        "Nucleo",
-        "unzen"
+        "nrf52"
     ],
     "name": "LDR",
     "platforms": "*",

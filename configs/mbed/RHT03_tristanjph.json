@@ -18,6 +18,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "ADT7410",
         "Humidity",
         "I2C",
         "sht11",
@@ -26,7 +27,11 @@
         "SHT75",
         "Temperature",
         "DHT22",
-        "RHT03"
+        "RHT03",
+        "Encoder",
+        "QEI",
+        "qudrature",
+        "rotary"
     ],
     "name": "RHT03",
     "platforms": "*",

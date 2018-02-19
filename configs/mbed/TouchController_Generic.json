@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Cornelius Bezuidenhout",
+        "url": "https://os.mbed.com/users/Generic/"
+    },
+    "description": "A controller for a 5 wire resistive touch screen",
+    "frameworks": "mbed",
+    "keywords": [
+        "5-wire",
+        "resistive",
+        "screen",
+        "touch"
+    ],
+    "name": "TouchController",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Generic/code/TouchController/"
+    }
+}

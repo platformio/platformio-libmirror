@@ -9,7 +9,11 @@
         "https://os.mbed.com/teams/MBSD_assignment/code/AEB/"
     ],
     "frameworks": "mbed",
-    "keywords": "Ultrasonic",
+    "keywords": [
+        "debounce",
+        "interrupt",
+        "masking"
+    ],
     "name": "Ultrasonic",
     "platforms": "*",
     "repository": {

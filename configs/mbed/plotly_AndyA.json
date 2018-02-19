@@ -9,9 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "mbed",
+        "planespotter",
+        "stm32",
+        "stm32f030k6",
         "chart",
         "graph",
-        "plot.ly"
+        "plot.ly",
+        "I2C",
+        "LIS302"
     ],
     "name": "plotly",
     "platforms": "*",

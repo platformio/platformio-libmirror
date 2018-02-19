@@ -11,7 +11,9 @@
     "keywords": [
         "LCD",
         "Sitronix",
-        "ST7565"
+        "ST7565",
+        "AT",
+        "parser"
     ],
     "name": "ST7565SPI",
     "platforms": "*",

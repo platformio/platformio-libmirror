@@ -5,7 +5,11 @@
     },
     "description": "Class library for a L298 H-Bridge to be used for motor control.",
     "frameworks": "mbed",
-    "keywords": "L298HBridge",
+    "keywords": [
+        "SCA61T",
+        "SCA61T-FA1H1G",
+        "SCA61T-FAHH1G"
+    ],
     "name": "L298HBridge",
     "platforms": "*",
     "repository": {

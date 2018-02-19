@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Norimasa Okamoto",
+        "url": "https://os.mbed.com/users/va009039/"
+    },
+    "description": "Graphic OLED 100x16 pixels interface",
+    "examples": [
+        "https://os.mbed.com/users/mia_0032/code/mbed_nicovideo_search_api/",
+        "https://os.mbed.com/users/mia_0032/code/mbed_recent_nicovideo_display_pub/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FAT",
+        "LPC1114",
+        "SDCard",
+        "accelerometer",
+        "compass",
+        "eCompass",
+        "magnetometer",
+        "sensor",
+        "debounce",
+        "DebounceIn",
+        "LCD",
+        "LCD 16x2",
+        "Parallel LCD",
+        "MISAKI",
+        "OLED",
+        "SEL10016Y",
+        "WS0010",
+        "DHT11"
+    ],
+    "name": "GraphicOLED",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/va009039/code/GraphicOLED/"
+    }
+}

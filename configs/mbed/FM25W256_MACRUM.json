@@ -10,12 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "dac",
-        "MCP4728",
         "cypress",
         "F-RAM",
-        "HD44780",
-        "TextLCD"
+        "dac",
+        "MCP4728",
+        "piezo",
+        "pwm"
     ],
     "name": "FM25W256",
     "platforms": "*",

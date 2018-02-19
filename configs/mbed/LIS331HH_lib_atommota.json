@@ -5,7 +5,20 @@
     },
     "description": "LIS331HH_lib",
     "frameworks": "mbed",
-    "keywords": "bluetooth",
+    "keywords": [
+        "ESP8266",
+        "milkcocoa",
+        "AD",
+        "da",
+        "MCP4921",
+        "MCP4922",
+        "Nucleo",
+        "SPI",
+        "UIT",
+        "GPS",
+        "MKT3339",
+        "TinyGPS"
+    ],
     "name": "LIS331HH_lib",
     "platforms": "*",
     "repository": {

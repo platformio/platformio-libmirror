@@ -10,18 +10,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "MPU9150",
+        "Quaternion",
+        "vector",
         "minutes",
         "seconds",
         "stopwatch",
         "timer",
         "watch",
-        "display",
-        "I2C",
-        "led",
         "L6470",
-        "MPU9150",
-        "Quaternion",
-        "vector"
+        "AQM1602"
     ],
     "name": "L6470",
     "platforms": "*",

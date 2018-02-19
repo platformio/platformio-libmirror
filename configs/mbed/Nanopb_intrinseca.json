@@ -10,11 +10,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "BMC050",
-        "Bosch",
-        "Field",
-        "magnetic"
+        "HMC5843",
+        "sparkfun",
+        "dot",
+        "HT1632",
+        "led",
+        "matrix",
+        "sure"
     ],
     "name": "Nanopb",
     "platforms": "*",

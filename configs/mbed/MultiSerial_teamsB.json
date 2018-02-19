@@ -16,13 +16,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Nucleo",
-        "debounce",
-        "DigitalIn",
-        "InterruptIn",
-        "FAT",
-        "file system",
-        "SD"
+        "motor",
+        "PCA9629",
+        "Stepper",
+        "DC motor",
+        "h bridge",
+        "L293D",
+        "l298n",
+        "pwm",
+        "SPI"
     ],
     "name": "MultiSerial",
     "platforms": "*",

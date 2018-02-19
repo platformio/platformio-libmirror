@@ -6,13 +6,8 @@
     "description": "SCP1000-D01 MEMS pressure sensor library",
     "frameworks": "mbed",
     "keywords": [
-        "audio",
-        "DISCO_F746NG",
-        "etti",
-        "TUIASI",
-        "Bulk",
-        "Traceport",
-        "USB"
+        "jsmn",
+        "JSON"
     ],
     "name": "scp1000-D01",
     "platforms": "*",

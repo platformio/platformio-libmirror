@@ -6,17 +6,15 @@
     "description": "IRremote",
     "frameworks": "mbed",
     "keywords": [
-        "buffer",
-        "ring",
+        "38kHz",
+        "IR",
+        "remote",
         "NeoPixel",
         "nRF51822",
         "RedBear",
         "WS2812",
         "quadcopter",
-        "Servo",
-        "38kHz",
-        "IR",
-        "remote"
+        "Servo"
     ],
     "name": "IRremote",
     "platforms": "*",

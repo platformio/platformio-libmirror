@@ -14,14 +14,7 @@
         "PM motor",
         "bluetooth",
         "bt",
-        "rtos",
-        "digital pot",
-        "digital potentiometer",
-        "MCP4131",
-        "MCP4132",
-        "MCP4241",
-        "MCP4XXX",
-        "SPI"
+        "rtos"
     ],
     "name": "MotCon",
     "platforms": "*",

@@ -27,9 +27,8 @@
         "PCA9555",
         "PCAL9554",
         "PCAL9555",
-        "LocalFileSystem",
-        "S25FL216K",
-        "USBFileSystem"
+        "7seg",
+        "LCD"
     ],
     "name": "PCAL955x",
     "platforms": "*",

@@ -11,7 +11,9 @@
     "keywords": [
         "Calibrate",
         "compass",
-        "Magneto"
+        "Magneto",
+        "MAX14661",
+        "mux"
     ],
     "name": "CalibrateMagneto",
     "platforms": "*",

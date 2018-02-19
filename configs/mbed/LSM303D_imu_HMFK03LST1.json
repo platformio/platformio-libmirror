@@ -6,16 +6,18 @@
     "description": "imu01c",
     "frameworks": "mbed",
     "keywords": [
-        "HIH-4030",
-        "Humidity",
-        "sensor",
+        "ESP8266",
+        "milkcocoa",
         "AD",
         "da",
         "MCP4921",
         "MCP4922",
         "Nucleo",
         "SPI",
-        "UIT"
+        "UIT",
+        "GPS",
+        "MKT3339",
+        "TinyGPS"
     ],
     "name": "LSM303D_imu",
     "platforms": "*",

@@ -5,12 +5,7 @@
     },
     "description": "Multitech xDot Utils",
     "frameworks": "mbed",
-    "keywords": [
-        "adc",
-        "I2C",
-        "Monito",
-        "System"
-    ],
+    "keywords": "mbed-xdot",
     "name": "mbed-xdot",
     "platforms": "*",
     "repository": {

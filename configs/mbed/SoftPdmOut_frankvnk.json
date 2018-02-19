@@ -9,22 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit",
-        "GFX",
-        "I2C",
-        "OLED",
-        "SPI",
-        "SSD1306",
-        "16x4",
-        "array",
-        "infrared",
-        "IR",
-        "Temperature",
         "PDM",
-        "Pulse Density Modulation",
-        "Analog Devices",
-        "drivers",
-        "mbed"
+        "Pulse Density Modulation"
     ],
     "name": "SoftPdmOut",
     "platforms": "*",

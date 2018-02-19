@@ -9,12 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ST7032i",
-        "accelerometer",
-        "BMI160",
-        "gyroscope",
-        "I2C",
-        "SPI"
+        "24LCxx",
+        "EEPROM"
     ],
     "name": "HCSR04",
     "platforms": "*",

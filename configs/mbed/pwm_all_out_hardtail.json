@@ -8,21 +8,7 @@
         "https://os.mbed.com/users/hardtail/code/servo_controller_1549/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "LPC1549",
-        "M2PI",
-        "paris",
-        "polytech",
-        "pour",
-        "sud",
-        "ELEC3880",
-        "gait",
-        "hexapod",
-        "Leeds",
-        "PCA9685",
-        "robot",
-        "Servo"
-    ],
+    "keywords": "LPC1549",
     "name": "pwm_all_out",
     "platforms": "*",
     "repository": {

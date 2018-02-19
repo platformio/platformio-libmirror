@@ -10,13 +10,10 @@
     "frameworks": "mbed",
     "keywords": [
         "keyboard",
-        "RTX",
         "AD-128160-UART",
         "AITENDO",
         "LCD",
-        "Serial",
-        "DISCO_F429ZI",
-        "gyroscope"
+        "Serial"
     ],
     "name": "AD128160",
     "platforms": "*",

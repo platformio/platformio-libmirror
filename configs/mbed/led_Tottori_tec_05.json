@@ -9,9 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "KL25z",
+        "light sensor",
+        "Wi-Go",
+        "tcp/ip",
+        "WiFly",
         "led",
-        "pwm",
-        "Ticker"
+        "F401RE",
+        "L3GD20",
+        "Nucleo"
     ],
     "name": "led",
     "platforms": "*",

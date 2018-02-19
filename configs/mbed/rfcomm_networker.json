@@ -14,11 +14,10 @@
         "mass",
         "storage",
         "USB",
-        "v3",
-        "buzzer",
-        "pwm",
-        "tone",
-        "tune"
+        "Adafruit",
+        "GPS",
+        "NEMA",
+        "v3"
     ],
     "name": "rfcomm",
     "platforms": "*",

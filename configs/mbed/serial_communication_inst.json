@@ -9,9 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "compass",
-        "HMC5883L",
-        "magnetometer"
+        "led",
+        "matrix",
+        "SDA5708"
     ],
     "name": "serial_communication",
     "platforms": "*",

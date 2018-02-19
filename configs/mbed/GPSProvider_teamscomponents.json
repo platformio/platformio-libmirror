@@ -10,16 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "interpreter",
-        "Pawn",
+        "display",
+        "led",
+        "TextLCD",
         "api",
         "CSR",
-        "GPS",
-        "Adafruit",
-        "LCD",
-        "S6D02A1",
-        "ST7735",
-        "TFT"
+        "GPS"
     ],
     "name": "GPSProvider",
     "platforms": "*",

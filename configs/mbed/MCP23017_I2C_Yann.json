@@ -9,11 +9,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "EEPROM",
-        "GPS",
-        "NMEA0183",
+        "AD-12864-SPI",
+        "AQM1248A",
+        "C12832",
+        "LCD",
+        "SPI",
+        "ST7565",
         "GPIO Exoender",
-        "MCP23017"
+        "MCP23017",
+        "AS3935",
+        "Lightning Sensor",
+        "Lightning strike",
+        "Thunder"
     ],
     "name": "MCP23017_I2C",
     "platforms": "*",

@@ -6,15 +6,9 @@
     "description": "The port of adafruit dotstar library for arduino https://github.com/adafruit/Adafruit_DotStar",
     "frameworks": "mbed",
     "keywords": [
-        "adc",
-        "DIFF",
-        "K64F",
         "H-bridge",
         "motor",
-        "TB6612FNG",
-        "eFLL",
-        "fuzzy",
-        "logic"
+        "TB6612FNG"
     ],
     "name": "DotStar",
     "platforms": "*",

@@ -6,19 +6,8 @@
     "description": "Command line interface for UART.",
     "frameworks": "mbed",
     "keywords": [
-        "PCF2127",
-        "PCF2129",
-        "real time clock",
-        "RTC",
-        "C027",
-        "C030",
-        "CellLocate",
-        "file",
-        "FTP",
-        "http",
-        "SMS",
-        "u-blox",
-        "ussd"
+        "BNO055",
+        "sensor"
     ],
     "name": "MjLineSerial",
     "platforms": "*",

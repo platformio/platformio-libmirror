@@ -5,12 +5,7 @@
     },
     "description": "Allegro A3930 BLDC driver",
     "frameworks": "mbed",
-    "keywords": [
-        "DS1337",
-        "I2C",
-        "piezo",
-        "pwm"
-    ],
+    "keywords": "A3930",
     "name": "A3930",
     "platforms": "*",
     "repository": {

@@ -6,12 +6,16 @@
     "description": "positive or negative pulse width counter",
     "frameworks": "mbed",
     "keywords": [
-        "output",
-        "pwm",
-        "Servo",
         "led",
         "counter",
-        "pulse"
+        "pulse",
+        "Celllular",
+        "lte",
+        "M14A2A",
+        "WNC",
+        "WNC M14A2A",
+        "ICRS",
+        "kalman"
     ],
     "name": "PulseWidthCounter",
     "platforms": "*",

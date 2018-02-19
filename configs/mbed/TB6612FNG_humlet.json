@@ -6,15 +6,9 @@
     "description": "Simple Interface for Toshiba's TB6612FNG H-Bridge Motor Driver",
     "frameworks": "mbed",
     "keywords": [
-        "adc",
-        "DIFF",
-        "K64F",
         "H-bridge",
         "motor",
-        "TB6612FNG",
-        "eFLL",
-        "fuzzy",
-        "logic"
+        "TB6612FNG"
     ],
     "name": "TB6612FNG",
     "platforms": "*",

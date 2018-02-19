@@ -10,8 +10,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "RTC",
-        "MPL115A2"
+        "HSI",
+        "pwm",
+        "rgb",
+        "RGBW",
+        "RTC"
     ],
     "name": "M41T62",
     "platforms": "*",

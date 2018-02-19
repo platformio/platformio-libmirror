@@ -9,11 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MAX30102",
         "ACM1602NI",
         "I2C",
         "LCD",
-        "Nucleo"
+        "Nucleo",
+        "MAX30102",
+        "C027",
+        "C030",
+        "CellularInterface",
+        "u-blox"
     ],
     "name": "ACM1602NI_NucleoF4",
     "platforms": "*",

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Chris Pepper",
+        "url": "https://os.mbed.com/users/p3p/"
+    },
+    "description": "Adds file transfer capability to SimpleSerialProtocol",
+    "examples": [
+        "https://os.mbed.com/users/p3p/code/SerialFileReceiver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "file",
+        "Serial",
+        "SimpleSerialProtocol",
+        "transfer"
+    ],
+    "name": "SerialFileTransfer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/p3p/code/SerialFileTransfer/"
+    }
+}

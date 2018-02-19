@@ -12,8 +12,15 @@
         "Humidity",
         "I2C",
         "sensor",
-        "led",
-        "matrix"
+        "NetServices",
+        "network",
+        "NTP",
+        "graphic",
+        "monochrome",
+        "VGA",
+        "median",
+        "sliding",
+        "window"
     ],
     "name": "hdc1080",
     "platforms": "*",

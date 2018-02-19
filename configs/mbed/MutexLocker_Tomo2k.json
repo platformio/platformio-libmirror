@@ -10,10 +10,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HY-1.8",
-        "ST7735",
+        "accelerometer",
+        "gyroscope",
+        "I2C",
+        "MPU-6050",
+        "MPU6050",
+        "MPU60x0",
         "mutex",
-        "rtos"
+        "rtos",
+        "DeepSleep",
+        "InterruptIn",
+        "LPC1114"
     ],
     "name": "MutexLocker",
     "platforms": "*",

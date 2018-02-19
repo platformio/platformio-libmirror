@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Qisi Wang",
+        "url": "https://os.mbed.com/users/CheeseW/"
+    },
+    "description": "A library for the Avago ADJD-S311-CR999 Color Light Sensor",
+    "examples": [
+        "https://os.mbed.com/users/CheeseW/code/ADJD-S311_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ADJD-S311-CR99",
+        "Grove",
+        "ISD1820P",
+        "play",
+        "playback",
+        "record",
+        "recorder",
+        "sound"
+    ],
+    "name": "ADJDs311",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/CheeseW/code/ADJDs311/"
+    }
+}

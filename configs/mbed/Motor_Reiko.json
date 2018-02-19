@@ -5,14 +5,7 @@
     },
     "description": "Motor",
     "frameworks": "mbed",
-    "keywords": [
-        "driver",
-        "L6208",
-        "microstep",
-        "motor",
-        "ST",
-        "Stepper"
-    ],
+    "keywords": "Motor",
     "name": "Motor",
     "platforms": "*",
     "repository": {

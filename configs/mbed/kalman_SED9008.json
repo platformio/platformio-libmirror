@@ -6,13 +6,11 @@
     "description": "http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/",
     "frameworks": "mbed",
     "keywords": [
-        "radiohead",
-        "TeraTerm",
-        "Terminal",
-        "compass",
-        "HMC5883L",
-        "USB",
-        "UVC"
+        "AnalogIn",
+        "filter",
+        "median",
+        "outlier",
+        "spikes"
     ],
     "name": "kalman",
     "platforms": "*",

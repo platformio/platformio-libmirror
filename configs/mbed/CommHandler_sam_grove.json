@@ -9,19 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Addressable",
-        "led",
-        "NeoPixel",
-        "rgb",
-        "WS2812",
+        "MX64",
         "ASCII Communication",
         "Comm",
         "FP",
         "LinkedList",
         "Serial",
-        "Terminal",
-        "GUI",
-        "menu"
+        "Terminal"
     ],
     "name": "CommHandler",
     "platforms": "*",

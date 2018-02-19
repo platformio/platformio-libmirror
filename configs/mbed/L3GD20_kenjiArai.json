@@ -10,16 +10,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LMiC",
-        "Lora",
-        "LoRaWAN",
         "gyroscope",
         "I2C",
         "l3g4200d",
         "L3GD20",
         "AnalogOut",
         "dac",
-        "SPI"
+        "SPI",
+        "LMiC",
+        "Lora",
+        "LoRaWAN",
+        "INA226"
     ],
     "name": "L3GD20",
     "platforms": "*",

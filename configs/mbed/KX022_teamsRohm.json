@@ -9,7 +9,11 @@
         "https://os.mbed.com/teams/Rohm/code/KX022_Hello/"
     ],
     "frameworks": "mbed",
-    "keywords": "LSM303D",
+    "keywords": [
+        "bitmap",
+        "Graphics",
+        "LCD"
+    ],
     "name": "KX022",
     "platforms": "*",
     "repository": {

@@ -6,22 +6,9 @@
     "description": "4-GPIO controlled EEPROM AT93C46",
     "frameworks": "mbed",
     "keywords": [
-        "game",
-        "inheritance",
-        "OOP",
-        "polymorphism",
-        "tutorial",
-        "NNN50",
-        "wifi",
-        "Serial",
-        "adc",
-        "Microchip",
         "AT93C46",
         "EEPROM",
-        "debug",
-        "debugger",
-        "debugging",
-        "logging"
+        "adc"
     ],
     "name": "EEPROM_AT93C46",
     "platforms": "*",

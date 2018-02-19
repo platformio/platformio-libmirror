@@ -14,12 +14,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "device",
-        "USB",
-        "Bertl14",
         "checksum",
-        "I2C",
-        "PCA9672"
+        "Bertl14"
     ],
     "name": "ExperimentServer",
     "platforms": "*",

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Diego Rivera",
+        "url": "https://os.mbed.com/users/DiegoRivera/"
+    },
+    "description": "Motor a pasos bipolar",
+    "examples": [
+        "https://os.mbed.com/users/DiegoRivera/code/RampaDiscapacitados/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "fischertechnik",
+        "IR",
+        "remote"
+    ],
+    "name": "MotorAPasos",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DiegoRivera/code/MotorAPasos/"
+    }
+}

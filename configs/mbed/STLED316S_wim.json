@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "LED Driver, 6 digits @ 8 segm, 8 LEDs, 16 Keys. SPI Interface",
+    "examples": [
+        "https://os.mbed.com/users/wim/code/mbed_STLED316S/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "SPI"
+    ],
+    "name": "STLED316S",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/STLED316S/"
+    }
+}

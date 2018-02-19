@@ -9,7 +9,9 @@
         "BLE",
         "BLE_API",
         "HID",
-        "HID-over-Gatt"
+        "HID-over-Gatt",
+        "ESP8266",
+        "NodeMCU"
     ],
     "name": "SensorsLib",
     "platforms": "*",

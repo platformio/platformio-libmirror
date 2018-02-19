@@ -9,11 +9,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "3pi",
+        "m3pi",
+        "robot",
+        "sensors",
         "DC Motor controller",
         "h bridge",
         "motor driver",
-        "DISCO_F429ZI",
-        "gyroscope"
+        "current",
+        "I2C",
+        "INA219",
+        "Power",
+        "voltage"
     ],
     "name": "DRV8833",
     "platforms": "*",

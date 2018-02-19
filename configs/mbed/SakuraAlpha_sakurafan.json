@@ -12,7 +12,12 @@
     "keywords": [
         "arduino",
         "iot platform",
-        "sakura internet"
+        "sakura internet",
+        "DMP",
+        "I2Cdev",
+        "MPU6050",
+        "MPU9150",
+        "Nucelo"
     ],
     "name": "SakuraAlpha",
     "platforms": "*",

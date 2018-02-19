@@ -13,10 +13,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "EM",
-        "nxp",
-        "RFID",
-        "UHF"
+        "motorDC",
+        "HD44780",
+        "TextLCD"
     ],
     "name": "MotorV2",
     "platforms": "*",

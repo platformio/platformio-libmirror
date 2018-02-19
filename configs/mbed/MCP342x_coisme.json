@@ -6,22 +6,10 @@
     "description": "Device driver for AD converters MCP3426, MCP3427, and MCP3428.",
     "frameworks": "mbed",
     "keywords": [
-        "game",
-        "inheritance",
-        "OOP",
-        "polymorphism",
-        "tutorial",
         "NNN50",
         "wifi",
-        "Serial",
         "adc",
-        "Microchip",
-        "AT93C46",
-        "EEPROM",
-        "debug",
-        "debugger",
-        "debugging",
-        "logging"
+        "Microchip"
     ],
     "name": "MCP342x",
     "platforms": "*",

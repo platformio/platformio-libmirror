@@ -11,17 +11,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "gpu",
-        "LCD",
-        "mbed",
-        "mini",
-        "minismartgpu",
-        "smart",
-        "SMARTGPU",
-        "vizic",
-        "VGA",
-        "video",
-        "JPEG"
+        "JPEG",
+        "adc",
+        "MCP",
+        "MCP3002",
+        "Creation"
     ],
     "name": "BaseJpegDecode",
     "platforms": "*",

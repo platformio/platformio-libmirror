@@ -6,15 +6,14 @@
     "description": "Serial 自動受信割り込み",
     "frameworks": "mbed",
     "keywords": [
+        "AX-12",
+        "ax12",
+        "IOT",
         "I2C",
         "MAX30101",
         "MSS",
         "MSU",
-        "api",
-        "blink",
-        "led",
-        "dynamixel",
-        "IOT"
+        "dynamixel"
     ],
     "name": "serial_attach",
     "platforms": "*",

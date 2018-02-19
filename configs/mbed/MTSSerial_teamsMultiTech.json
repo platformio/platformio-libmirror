@@ -18,12 +18,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "7",
-        "display",
-        "driver",
-        "led",
-        "PCA9635",
-        "segment"
+        "W5200",
+        "WIZ820IO"
     ],
     "name": "MTS-Serial",
     "platforms": "*",

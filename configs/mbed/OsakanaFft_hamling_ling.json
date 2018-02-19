@@ -8,21 +8,7 @@
         "https://os.mbed.com/users/hamling_ling/code/OsakanaFftSample/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "HMC5843",
-        "sparkfun",
-        "dot",
-        "HT1632",
-        "led",
-        "matrix",
-        "sure",
-        "OLED",
-        "SPI",
-        "SSD1332",
-        "KL25z",
-        "light sensor",
-        "Wi-Go"
-    ],
+    "keywords": "OsakanaFft",
     "name": "OsakanaFft",
     "platforms": "*",
     "repository": {

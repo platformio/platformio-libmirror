@@ -6,12 +6,14 @@
     "description": "SCA3000 triple axis digital interface accelerometer",
     "frameworks": "mbed",
     "keywords": [
-        "GEL2474",
-        "NTCThermistor",
-        "Temperature",
-        "thermistor",
+        "Nucleo",
+        "stm32",
+        "Wi-Fi",
+        "X-NUCLEO-IDW01M1",
         "accelerometer",
-        "SCA3000"
+        "SCA3000",
+        "TCP",
+        "UDP"
     ],
     "name": "SCA3000",
     "platforms": "*",

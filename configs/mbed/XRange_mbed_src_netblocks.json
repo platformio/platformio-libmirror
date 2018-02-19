@@ -10,7 +10,14 @@
         "https://os.mbed.com/users/trusch/code/lora-transceiver/"
     ],
     "frameworks": "mbed",
-    "keywords": "XRange_mbed_src",
+    "keywords": [
+        "GPS",
+        "jsmn",
+        "JSON",
+        "WS2811",
+        "WS2812",
+        "WS2812B"
+    ],
     "name": "XRange_mbed_src",
     "platforms": "*",
     "repository": {

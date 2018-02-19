@@ -8,13 +8,7 @@
         "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/code/LineSensors/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Carrier",
-        "driver",
-        "motor",
-        "Pololu1451",
-        "VNH5019"
-    ],
+    "keywords": "DigitalInOut2",
     "name": "DigitalInOut2",
     "platforms": "*",
     "repository": {

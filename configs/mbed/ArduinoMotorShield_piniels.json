@@ -12,11 +12,12 @@
         "L298",
         "motor",
         "Stepper",
-        "Communication",
-        "Serial",
-        "Terminal",
-        "VT100",
-        "VT200"
+        "7",
+        "display",
+        "driver",
+        "led",
+        "PCA9635",
+        "segment"
     ],
     "name": "ArduinoMotorShield",
     "platforms": "*",

@@ -5,10 +5,7 @@
     },
     "description": "Fork of original LPS331 library",
     "frameworks": "mbed",
-    "keywords": [
-        "GR-PEACH",
-        "NEON"
-    ],
+    "keywords": "LPS331_old",
     "name": "LPS331_old",
     "platforms": "*",
     "repository": {

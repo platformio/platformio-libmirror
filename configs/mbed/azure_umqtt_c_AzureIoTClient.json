@@ -14,11 +14,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Servo",
-        "servo pulse",
-        "SERVOGEN",
-        "ServoOut",
-        "accelerometer"
+        "accelerometer",
+        "LandTiger",
+        "SSD1289"
     ],
     "name": "azure_umqtt_c",
     "platforms": "*",

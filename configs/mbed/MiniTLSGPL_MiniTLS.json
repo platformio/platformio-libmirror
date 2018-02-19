@@ -9,9 +9,20 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LIN",
+        "audio",
+        "CODEC",
+        "Cortex-M7",
+        "DISCO-F746NG",
+        "Mikami",
+        "SD Card",
+        "skeleton",
         "SSL",
-        "TLS"
+        "TLS",
+        "96x96",
+        "OLED",
+        "Seeed",
+        "SeeedGrayOLED",
+        "ssd1327"
     ],
     "name": "MiniTLS-GPL",
     "platforms": "*",

@@ -12,11 +12,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "dc-motor",
+        "Freescale",
+        "hbridge",
+        "MC33926",
+        "motor",
         "GPS",
-        "sparkfun",
-        "debounce",
-        "interrupt",
-        "masking"
+        "sparkfun"
     ],
     "name": "GP-20U7",
     "platforms": "*",

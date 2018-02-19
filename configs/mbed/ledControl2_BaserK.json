@@ -22,8 +22,14 @@
         "led",
         "LPC1768",
         "mbed",
-        "adafruit printer",
-        "thermal printer"
+        "Serial",
+        "Terminal",
+        "VT100",
+        "VT200",
+        "VT52",
+        "JSON",
+        "MessagePack",
+        "RX8025"
     ],
     "name": "ledControl2",
     "platforms": "*",

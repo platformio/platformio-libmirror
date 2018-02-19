@@ -15,7 +15,9 @@
         "count",
         "external clock",
         "MHz",
-        "pulse"
+        "pulse",
+        "filter",
+        "kalman"
     ],
     "name": "LPS331_I2C",
     "platforms": "*",

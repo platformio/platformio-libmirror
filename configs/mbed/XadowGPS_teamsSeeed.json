@@ -9,7 +9,13 @@
         "https://os.mbed.com/users/HackTampa/code/Avnet_ATT_Cellular_IOT/"
     ],
     "frameworks": "mbed",
-    "keywords": "XadowGPS",
+    "keywords": [
+        "debug",
+        "debugger",
+        "debugging",
+        "logging",
+        "Serial"
+    ],
     "name": "XadowGPS",
     "platforms": "*",
     "repository": {

@@ -12,14 +12,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
         "Configuration",
         "file",
         "ini",
-        "interface",
-        "NetServices",
-        "network",
-        "NTP"
+        "interface"
     ],
     "name": "IniManager",
     "platforms": "*",

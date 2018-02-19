@@ -17,15 +17,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Lora",
-        "muRata",
-        "RFM95",
-        "SX1276",
-        "SX1276Generic",
         "HSI",
         "pwm",
         "rgb",
-        "RGBW"
+        "RGBW",
+        "RTC"
     ],
     "name": "HSI2RGBW_PWM",
     "platforms": "*",

@@ -11,13 +11,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "LPC4088",
-        "LPC4088DM",
-        "module",
         "ADS7843",
         "TouchPanel",
-        "XPT2046"
+        "XPT2046",
+        "ethernet",
+        "NTP",
+        "SNTP",
+        "W5500",
+        "Wiznet",
+        "C12832",
+        "C12832A1Z",
+        "MBED Application Board"
     ],
     "name": "MbedJSONRpc",
     "platforms": "*",

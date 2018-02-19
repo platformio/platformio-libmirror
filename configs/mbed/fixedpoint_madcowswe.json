@@ -6,10 +6,13 @@
     "description": "A fixed point library from Trenki http://www.trenki.net/content/view/17/1/ Slightly modified so that the fixed point data structure can automatically cast itself to float or int when used in an expression, and added the functionality to cast between precisions.",
     "frameworks": "mbed",
     "keywords": [
-        "InterruptIn",
         "arithmetic",
         "fixed",
-        "point"
+        "point",
+        "Color Sensor",
+        "I2C",
+        "dac",
+        "MCP4822"
     ],
     "name": "fixedpoint",
     "platforms": "*",

@@ -5,7 +5,19 @@
     },
     "description": "プレステ１コントローラ用ライブラリ",
     "frameworks": "mbed",
-    "keywords": "MPU9250",
+    "keywords": [
+        "Adafruit",
+        "I2C",
+        "led",
+        "nxp",
+        "PCA9685",
+        "pwm",
+        "Servo",
+        "StarBoardOrange",
+        "DA7212",
+        "I2S",
+        "TLV320"
+    ],
     "name": "pspad",
     "platforms": "*",
     "repository": {

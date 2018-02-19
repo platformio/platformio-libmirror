@@ -10,15 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "SED1330",
-        "SED1335",
-        "TextDisplay",
         "assembly",
         "exception",
         "fault",
         "handler",
         "hardfault",
-        "registerdump"
+        "registerdump",
+        "SED1330",
+        "SED1335",
+        "TextDisplay"
     ],
     "name": "M3GIM2",
     "platforms": "*",

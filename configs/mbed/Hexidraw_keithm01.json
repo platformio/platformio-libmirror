@@ -10,9 +10,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "CloudConnector",
-        "etherios",
-        "IOT"
+        "LCD",
+        "ST7565",
+        "TextLCD",
+        "test"
     ],
     "name": "Hexidraw",
     "platforms": "*",

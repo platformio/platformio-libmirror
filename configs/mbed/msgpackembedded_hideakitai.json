@@ -9,12 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "msgpack",
-        "ADT7410",
-        "Analog Devices",
-        "I2C",
-        "sensor",
-        "Temperature"
+        "FreeRTOS",
+        "rtos",
+        "msgpack"
     ],
     "name": "msgpack-embedded",
     "platforms": "*",

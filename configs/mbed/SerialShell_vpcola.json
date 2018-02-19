@@ -9,7 +9,11 @@
         "https://os.mbed.com/users/vpcola/code/lpc1768_blinky/"
     ],
     "frameworks": "mbed",
-    "keywords": "I2C",
+    "keywords": [
+        "aqm0802a",
+        "I2C",
+        "Nucleo"
+    ],
     "name": "SerialShell",
     "platforms": "*",
     "repository": {

@@ -12,8 +12,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "http",
-        "proxy",
         "Automation",
         "DT1",
         "elements",
@@ -22,7 +20,9 @@
         "Pi",
         "PT1",
         "PT2",
-        "PT2cc"
+        "PT2cc",
+        "adc",
+        "driver"
     ],
     "name": "AutomationElements",
     "platforms": "*",

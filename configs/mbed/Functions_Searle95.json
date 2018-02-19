@@ -10,12 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "driver",
-        "L6208",
-        "microstep",
+        "DC",
         "motor",
-        "ST",
-        "Stepper"
+        "PM motor",
+        "bluetooth",
+        "bt",
+        "rtos"
     ],
     "name": "Functions",
     "platforms": "*",

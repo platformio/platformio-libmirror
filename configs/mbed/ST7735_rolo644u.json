@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Roland Kamp",
+        "url": "https://os.mbed.com/users/rolo644u/"
+    },
+    "description": "Library for 1.8 inch 160*180 TFT Display. Nice fonts in different formats.",
+    "frameworks": "mbed",
+    "keywords": [
+        "LEDcontroller",
+        "TM1637"
+    ],
+    "name": "ST7735",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rolo644u/code/ST7735/"
+    }
+}

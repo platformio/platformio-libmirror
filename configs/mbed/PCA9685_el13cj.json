@@ -16,7 +16,11 @@
         "nxp",
         "PCA9685",
         "pwm",
-        "Servo"
+        "Servo",
+        "StarBoardOrange",
+        "DA7212",
+        "I2S",
+        "TLV320"
     ],
     "name": "PCA9685",
     "platforms": "*",

@@ -10,13 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LPS22HB",
-        "pressure",
-        "2017NOSHIRO",
-        "Hokuyo",
-        "Lidar",
-        "Range Finder",
-        "URG-04LX"
+        "Configuration",
+        "file",
+        "ini",
+        "mbed",
+        "System",
+        "windows"
     ],
     "name": "pca9685",
     "platforms": "*",

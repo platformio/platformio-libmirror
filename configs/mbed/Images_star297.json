@@ -8,7 +8,10 @@
         "https://os.mbed.com/users/star297/code/SharpMemoryLCD/"
     ],
     "frameworks": "mbed",
-    "keywords": "Images",
+    "keywords": [
+        "KL25z",
+        "Robotic"
+    ],
     "name": "Images",
     "platforms": "*",
     "repository": {

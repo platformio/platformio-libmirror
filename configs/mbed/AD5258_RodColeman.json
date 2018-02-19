@@ -6,12 +6,15 @@
     "description": "Interface to Analog devices AD5258 digital I2C potentiometer",
     "frameworks": "mbed",
     "keywords": [
+        "Temp",
+        "Temperature",
+        "TMP102",
         "I2C",
-        "real-time communication",
-        "Shiftbrite",
-        "Input",
-        "keyboard",
-        "PS/2"
+        "adc",
+        "driver",
+        "HX711",
+        "library",
+        "Weigh scales"
     ],
     "name": "AD5258",
     "platforms": "*",

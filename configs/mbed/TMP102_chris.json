@@ -24,13 +24,13 @@
         "powerdown",
         "Sleep",
         "wake-up",
+        "InterruptIn",
+        "PwmIn",
         "NeoPixel",
         "NeoPixels",
         "WS2811",
         "WS2812",
-        "WS2812B",
-        "InterruptIn",
-        "PwmIn"
+        "WS2812B"
     ],
     "name": "TMP102",
     "platforms": "*",

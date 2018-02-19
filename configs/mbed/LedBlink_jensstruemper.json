@@ -6,15 +6,9 @@
     "description": "LedBlink library makes it possible to change blink frequency of a given LED by calling the Blink function with a float parameter elsewhere in the code to visualise state changes in a program.",
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "MAX30101",
-        "MSS",
-        "MSU",
         "api",
         "blink",
-        "led",
-        "dynamixel",
-        "IOT"
+        "led"
     ],
     "name": "LedBlink",
     "platforms": "*",

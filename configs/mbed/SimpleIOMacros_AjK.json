@@ -10,12 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "H-bridge",
-        "library",
-        "motor",
-        "motor driver",
-        "solenoid",
-        "stepper motor",
+        "driver",
+        "Graphics",
+        "ILI9340",
+        "LCD",
+        "SPI",
+        "TFT",
         "PS2",
         "GPIO"
     ],

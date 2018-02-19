@@ -10,12 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "CANopen",
         "arduino",
         "millis",
         "Modbus",
         "MODSERIAL",
-        "rtu"
+        "rtu",
+        "debug",
+        "Error",
+        "flash",
+        "led"
     ],
     "name": "ModbusSlave232",
     "platforms": "*",

@@ -17,15 +17,7 @@
         "DMX",
         "DMX512",
         "ethernet",
-        "UDP",
-        "9-axis",
-        "acc",
-        "BNO055",
-        "Cortex-M0+",
-        "gyro",
-        "MAG",
-        "orientation",
-        "sensor"
+        "UDP"
     ],
     "name": "DmxArtNet",
     "platforms": "*",

@@ -12,11 +12,11 @@
     "frameworks": "mbed",
     "keywords": [
         "scp1000",
+        "f401",
+        "mbed",
         "max31855",
         "MAX6675",
-        "Thermocouple",
-        "f401",
-        "mbed"
+        "Thermocouple"
     ],
     "name": "SCP1000",
     "platforms": "*",

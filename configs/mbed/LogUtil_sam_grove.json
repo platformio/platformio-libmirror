@@ -9,14 +9,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "FRDM",
-        "KL25z",
-        "LCD",
-        "LCD4884",
-        "DISCO_F469NI",
         "debug",
         "log",
-        "logger"
+        "logger",
+        "test",
+        "display",
+        "GPS",
+        "DC",
+        "driver",
+        "full-bridge",
+        "H-bridge",
+        "motor"
     ],
     "name": "LogUtil",
     "platforms": "*",

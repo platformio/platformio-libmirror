@@ -10,7 +10,15 @@
     "frameworks": "mbed",
     "keywords": [
         "PAW",
-        "PAW Sensor"
+        "PAW Sensor",
+        "MCP4018",
+        "buffer",
+        "I2C",
+        "IMU",
+        "LEGO",
+        "mindstorms",
+        "DS3231",
+        "RTC"
     ],
     "name": "PAW_Sensor",
     "platforms": "*",

@@ -13,15 +13,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "api",
-        "network",
-        "NSAPI",
-        "socket",
         "AES",
         "MD2",
         "md5",
         "RC4",
         "SHA",
+        "ROS",
         "Callback",
         "FunctionPointer",
         "Functor"

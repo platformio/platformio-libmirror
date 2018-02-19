@@ -9,16 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "IMU",
-        "sensor",
-        "hang",
-        "I2C",
-        "KL25z",
-        "lockup",
         "ARM",
         "DAY",
         "heartbeat",
-        "RIT"
+        "RIT",
+        "HDC1000"
     ],
     "name": "HeartBeat",
     "platforms": "*",

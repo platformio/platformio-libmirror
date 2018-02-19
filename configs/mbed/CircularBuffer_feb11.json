@@ -9,11 +9,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "choroQ",
-        "3g",
-        "arduino",
-        "PHS",
-        "shield"
+        "real time",
+        "serial port",
+        "serial protocols",
+        "MCP3425",
+        "binary",
+        "GPS",
+        "NMEA",
+        "protocol",
+        "sIRFstar3",
+        "sIRFstarIII"
     ],
     "name": "CircularBuffer",
     "platforms": "*",

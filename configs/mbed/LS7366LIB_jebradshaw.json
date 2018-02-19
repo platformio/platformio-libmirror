@@ -10,12 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "distance",
-        "HC-SR04",
-        "HCSR04",
-        "ultrasonic",
-        "US-015",
-        "US015"
+        "infrared",
+        "MLX90614",
+        "sensor",
+        "Temperature",
+        "PCM",
+        "pulse",
+        "RC",
+        "Servo",
+        "ServoIn"
     ],
     "name": "LS7366LIB",
     "platforms": "*",

@@ -9,18 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F746NG",
-        "EEPROM",
-        "thermistor",
-        "DISCO_F429ZI",
-        "sdram",
-        "alarm",
-        "DS3231",
-        "RTC",
-        "FM24Vxx",
+        "ADT7410",
         "I2C",
-        "RAMTRON",
-        "MCP9808"
+        "Nucleo",
+        "UIT",
+        "FM24Vxx",
+        "RAMTRON"
     ],
     "name": "FM24Vxx_I2C",
     "platforms": "*",

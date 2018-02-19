@@ -8,15 +8,7 @@
         "https://os.mbed.com/users/oprospero/code/Sensorv2/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Encoder",
-        "QEI",
-        "quadrature",
-        "digital out",
-        "FRDMKL25Z",
-        "mbed",
-        "rpc"
-    ],
+    "keywords": "MCP4726",
     "name": "MotionDriverv512",
     "platforms": "*",
     "repository": {

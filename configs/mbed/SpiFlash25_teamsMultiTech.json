@@ -11,17 +11,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "flash",
+        "SPI",
         "bitmap",
         "BMP",
-        "image",
-        "maestro",
-        "Serial",
-        "Servo",
-        "I2C",
-        "PCF8583",
-        "RTC",
-        "flash",
-        "SPI"
+        "image"
     ],
     "name": "SpiFlash25",
     "platforms": "*",

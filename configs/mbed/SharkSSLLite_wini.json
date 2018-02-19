@@ -10,16 +10,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Encoder",
-        "incremental",
-        "mechanical",
-        "rotary",
-        "switch",
         "MQTT",
         "SharkSSL",
         "SSL",
         "TLS",
-        "WebSocket"
+        "WebSocket",
+        "DFU",
+        "STM32F103",
+        "USB"
     ],
     "name": "SharkSSL-Lite",
     "platforms": "*",

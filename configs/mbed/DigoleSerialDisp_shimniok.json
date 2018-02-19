@@ -14,7 +14,10 @@
         "SDCard",
         "Seeedstudio",
         "TFT",
-        "touch"
+        "touch",
+        "OneWire",
+        "protocols",
+        "sensors"
     ],
     "name": "DigoleSerialDisp",
     "platforms": "*",

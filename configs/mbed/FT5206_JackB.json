@@ -6,12 +6,14 @@
     "description": "FT5206 capacitive Touch Panel driver for 7 inch BuyDisplay LCD, with 5-point touch.",
     "frameworks": "mbed",
     "keywords": [
-        "\\",
-        "Controller\\",
-        "I2C",
-        "MD25",
-        "motor",
-        "robot"
+        "clock",
+        "ds1307",
+        "real",
+        "RTC",
+        "time",
+        "COMMAND PARSER",
+        "serial command",
+        "uart interupt"
     ],
     "name": "FT5206",
     "platforms": "*",

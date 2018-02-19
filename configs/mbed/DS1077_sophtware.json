@@ -9,7 +9,13 @@
         "divider",
         "ds1077",
         "Maxim",
-        "oscillator"
+        "oscillator",
+        "consumption",
+        "control",
+        "ethernet",
+        "Management",
+        "Power",
+        "PowerControl"
     ],
     "name": "DS1077",
     "platforms": "*",

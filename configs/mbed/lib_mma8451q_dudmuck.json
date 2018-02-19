@@ -13,10 +13,10 @@
     "keywords": [
         "EEPROM",
         "LPC11U24",
-        "SDFileSystem",
-        "STM32F746",
-        "DHT22",
-        "accelerometer"
+        "led",
+        "rgb",
+        "accelerometer",
+        "DHT22"
     ],
     "name": "lib_mma8451q",
     "platforms": "*",

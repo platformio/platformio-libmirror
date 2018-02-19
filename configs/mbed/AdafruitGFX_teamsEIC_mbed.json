@@ -16,11 +16,8 @@
         "DS2450",
         "multi-channel",
         "OneWire",
-        "arduino",
-        "H-bridge",
-        "L298",
-        "Robotic",
-        "shield"
+        "max31855",
+        "Thermocouple"
     ],
     "name": "Adafruit-GFX",
     "platforms": "*",

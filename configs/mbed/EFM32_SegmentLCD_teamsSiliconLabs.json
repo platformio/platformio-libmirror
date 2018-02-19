@@ -18,13 +18,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "buzzer",
+        "music",
+        "RTTTL",
+        "sound",
         "EFM32",
         "Gecko",
         "SegmentLCD",
         "SiLabs",
         "Silicon Labs",
-        "silicon_labs",
-        "BME280"
+        "silicon_labs"
     ],
     "name": "EFM32_SegmentLCD",
     "platforms": "*",

@@ -6,12 +6,8 @@
     "description": "Simple stepper motor control via driver.",
     "frameworks": "mbed",
     "keywords": [
-        "inair4",
-        "inair8",
-        "inair9",
-        "Lora",
-        "modtronix",
-        "SX1276"
+        "led",
+        "matrix"
     ],
     "name": "StepperController",
     "platforms": "*",

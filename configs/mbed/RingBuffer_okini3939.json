@@ -14,15 +14,12 @@
     "keywords": [
         "buffer",
         "ring",
-        "NeoPixel",
-        "nRF51822",
-        "RedBear",
-        "WS2812",
-        "quadcopter",
-        "Servo",
-        "38kHz",
-        "IR",
-        "remote"
+        "Nucleo",
+        "stm32",
+        "Wi-Fi",
+        "X-NUCLEO-IDW01M1",
+        "debounce",
+        "interrupt"
     ],
     "name": "RingBuffer",
     "platforms": "*",

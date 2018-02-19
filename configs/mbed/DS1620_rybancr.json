@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Ryan Bancroft",
+        "url": "https://os.mbed.com/users/rybancr/"
+    },
+    "description": "Library for the DS1620 Digital Thermometer",
+    "frameworks": "mbed",
+    "keywords": [
+        "DS1620",
+        "thermometer",
+        "thermostat"
+    ],
+    "name": "DS1620",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rybancr/code/DS1620/"
+    }
+}

@@ -6,19 +6,13 @@
     "description": "Library for Grove RFID scanner",
     "frameworks": "mbed",
     "keywords": [
-        "APDS",
-        "APDS9960",
-        "Gesture",
-        "sensor",
-        "Cellular",
         "Grove",
         "RFID",
         "SEN11425P",
         "Serial",
-        "accelerometer",
-        "gyroscope",
-        "IMU",
-        "STM32F0"
+        "PCA9629A",
+        "stepper motor",
+        "stepping motor"
     ],
     "name": "RFID_125KHz_Grove",
     "platforms": "*",

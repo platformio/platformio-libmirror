@@ -6,10 +6,8 @@
     "description": "LM74 temperature sensor Library on SPI I/F",
     "frameworks": "mbed",
     "keywords": [
-        "mbed",
-        "display",
-        "menu",
-        "push buttons"
+        "F411",
+        "Frequency Counter"
     ],
     "name": "TmpLM74",
     "platforms": "*",

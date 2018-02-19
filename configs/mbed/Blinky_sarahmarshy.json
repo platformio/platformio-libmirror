@@ -9,12 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "4x3",
-        "AE-KIT45-KEYPAD4X3",
-        "Akizuki",
-        "key",
-        "matrix",
-        "switch"
+        "GPS",
+        "NMEA0183",
+        "GP2Y0A21YK",
+        "Sharp"
     ],
     "name": "Blinky",
     "platforms": "*",

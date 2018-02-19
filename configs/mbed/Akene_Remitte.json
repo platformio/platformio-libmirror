@@ -7,11 +7,11 @@
     "frameworks": "mbed",
     "keywords": [
         "Akene",
-        "Humidity",
-        "sensor",
-        "Temperature",
-        "HD44780",
-        "TextLCD"
+        "acc",
+        "compass",
+        "LSM303",
+        "LSM303DLHC",
+        "MAG"
     ],
     "name": "Akene",
     "platforms": "*",

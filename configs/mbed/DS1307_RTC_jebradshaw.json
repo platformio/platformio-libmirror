@@ -6,11 +6,19 @@
     "description": "Class library for the Dallas Semiconductor DS1307 RTC",
     "frameworks": "mbed",
     "keywords": [
+        "xbee",
+        "ZB",
+        "zigbee",
+        "AK8975",
+        "compass",
+        "I2C",
+        "Magneto",
+        "magnetometer",
+        "jsmn",
+        "JSON",
         "ds1307",
         "RTC",
-        "WSE",
-        "jsmn",
-        "JSON"
+        "WSE"
     ],
     "name": "DS1307_RTC",
     "platforms": "*",

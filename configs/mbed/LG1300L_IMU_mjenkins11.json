@@ -10,12 +10,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "PAW",
+        "PAW Sensor",
+        "MCP4018",
+        "buffer",
         "I2C",
         "IMU",
         "LEGO",
         "mindstorms",
-        "AITENDO",
-        "OLED"
+        "DS3231",
+        "RTC"
     ],
     "name": "LG1300L_IMU",
     "platforms": "*",

@@ -17,11 +17,7 @@
         "H-bridge",
         "I2C",
         "MD25",
-        "motor",
-        "1D",
-        "2D",
-        "array",
-        "matrix"
+        "motor"
     ],
     "name": "MD25",
     "platforms": "*",

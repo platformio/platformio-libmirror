@@ -6,11 +6,13 @@
     "description": "I2C interface of Bosch BMP085 pressure/temperature sensor.",
     "frameworks": "mbed",
     "keywords": [
-        "9bit",
-        "RS-485",
-        "Serial",
         "bmp085",
-        "I2C"
+        "I2C",
+        "display",
+        "Freedom",
+        "kl46z",
+        "LCD",
+        "segment"
     ],
     "name": "bmp085",
     "platforms": "*",

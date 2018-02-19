@@ -9,13 +9,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "CAN",
-        "can bus",
-        "FIFO",
         "Host",
         "mbed",
         "PTP",
-        "USB"
+        "USB",
+        "HD44780",
+        "LCD",
+        "MT-16S2D",
+        "rus",
+        "Russian",
+        "text",
+        "TextLCD",
+        "TextLCD_Rus"
     ],
     "name": "USBHostPTP",
     "platforms": "*",

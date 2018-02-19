@@ -6,13 +6,11 @@
     "description": "Library for MAX30003",
     "frameworks": "mbed",
     "keywords": [
-        "ethernet",
-        "socket",
-        "W5500",
-        "locked antiphase",
-        "motor",
-        "ip",
-        "mbed"
+        "LCD",
+        "Sitronix",
+        "ST7565",
+        "AT",
+        "parser"
     ],
     "name": "MAX30003",
     "platforms": "*",

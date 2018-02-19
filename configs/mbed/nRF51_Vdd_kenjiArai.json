@@ -16,11 +16,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit 9DOF",
-        "L3GD20H",
         "BLE",
         "Nordic",
-        "nRF51822"
+        "nRF51822",
+        "digital pot",
+        "digital potentiometer",
+        "MCP4131",
+        "MCP4132",
+        "MCP4241",
+        "MCP4XXX",
+        "SPI",
+        "Bluetooth module",
+        "rn41",
+        "RN42"
     ],
     "name": "nRF51_Vdd",
     "platforms": "*",

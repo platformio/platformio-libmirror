@@ -21,7 +21,17 @@
         "int",
         "interrupt",
         "NVIC",
-        "priority"
+        "priority",
+        "buffer",
+        "I2C",
+        "gpu",
+        "Graphics",
+        "LCD",
+        "module",
+        "smart",
+        "SMARTGPU",
+        "TFT",
+        "touch"
     ],
     "name": "NVIC_set_all_priorities",
     "platforms": "*",

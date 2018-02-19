@@ -9,9 +9,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "frequency",
-        "measurement",
-        "Pulsewidth"
+        "actuators",
+        "commnunications",
+        "interfaces",
+        "sensors",
+        "led",
+        "LED controller",
+        "led driver",
+        "PCA9622",
+        "PCA9624",
+        "PCA9626",
+        "PCA962x",
+        "pwm"
     ],
     "name": "BMX055",
     "platforms": "*",

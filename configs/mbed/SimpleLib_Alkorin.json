@@ -20,7 +20,13 @@
         "Morse",
         "MorseOut",
         "Out",
-        "Radio"
+        "Radio",
+        "driver",
+        "L6208",
+        "microstep",
+        "motor",
+        "ST",
+        "Stepper"
     ],
     "name": "SimpleLib",
     "platforms": "*",

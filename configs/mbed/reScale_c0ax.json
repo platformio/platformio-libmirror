@@ -9,11 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "MCP23S17",
         "map",
         "rescale",
-        "LPC1768",
-        "sensor",
-        "Si7021",
         "F042K6",
         "F103RB",
         "L152RE",
@@ -21,7 +19,14 @@
         "STM32F1",
         "STM32L1",
         "USBDevice",
-        "MCP23S17"
+        "DC",
+        "driver",
+        "H-bridge",
+        "motor",
+        "ARCH",
+        "GPRS",
+        "Seeed",
+        "v2"
     ],
     "name": "reScale",
     "platforms": "*",

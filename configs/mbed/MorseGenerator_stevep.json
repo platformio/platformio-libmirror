@@ -5,14 +5,7 @@
     },
     "description": "Program for generating morse code via a callback.",
     "frameworks": "mbed",
-    "keywords": [
-        "Morse",
-        "LCD",
-        "Serial",
-        "TextDisplay",
-        "TextDisplays",
-        "TextLCD"
-    ],
+    "keywords": "Morse",
     "name": "MorseGenerator",
     "platforms": "*",
     "repository": {

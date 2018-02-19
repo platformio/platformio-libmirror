@@ -9,7 +9,9 @@
         "blink",
         "led",
         "LED control",
-        "SRF02"
+        "8x8",
+        "led matrix",
+        "PCA9622"
     ],
     "name": "LEDControl",
     "platforms": "*",

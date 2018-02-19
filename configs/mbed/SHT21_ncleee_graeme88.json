@@ -10,14 +10,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "1-wire",
-        "DS18B20",
-        "SuperTweet",
         "SHT21",
-        "adc",
-        "dac",
-        "I2C",
-        "PCF8591"
+        "Altimeter",
+        "MS5607",
+        "pressure",
+        "Temperature",
+        "rtos",
+        "Serial",
+        "UART"
     ],
     "name": "SHT21_ncleee",
     "platforms": "*",

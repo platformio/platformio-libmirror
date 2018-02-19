@@ -9,10 +9,7 @@
         "LCD",
         "ST7032",
         "TextLCD",
-        "Thermocouple",
-        "RX8025",
-        "MQTT",
-        "1.0.3"
+        "mbed"
     ],
     "name": "TextLCD_ST7032I2C",
     "platforms": "*",

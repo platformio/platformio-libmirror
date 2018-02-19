@@ -6,14 +6,10 @@
     "description": "64 bit Timer Class.",
     "frameworks": "mbed",
     "keywords": [
+        "DS1338",
+        "I2C",
         "64 bit",
-        "timer class",
-        "Data Logging",
-        "datalog",
-        "FRAM",
-        "log",
-        "Arduino mbed commands",
-        "HD44780 LCD text custom char 16X2"
+        "timer class"
     ],
     "name": "Timer64",
     "platforms": "*",

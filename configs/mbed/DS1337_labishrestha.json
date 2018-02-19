@@ -7,9 +7,7 @@
     "frameworks": "mbed",
     "keywords": [
         "DS1337",
-        "I2C",
-        "piezo",
-        "pwm"
+        "I2C"
     ],
     "name": "DS1337",
     "platforms": "*",

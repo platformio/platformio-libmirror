@@ -11,18 +11,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "digital out",
+        "FRDMKL25Z",
+        "mbed",
+        "rpc",
         "920MHz",
         "IM920",
         "Interplan",
         "IOT",
-        "NFC",
-        "adns9500",
-        "avago",
-        "laser",
-        "motion",
-        "Mouse",
-        "navigation",
-        "sensor"
+        "NFC"
     ],
     "name": "IM920",
     "platforms": "*",

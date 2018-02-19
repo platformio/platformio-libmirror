@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Paul Cercueil",
+        "url": "https://os.mbed.com/users/pcercuei/"
+    },
+    "description": "XML C parser available under the MIT license.",
+    "examples": [
+        "https://os.mbed.com/users/pcercuei/code/libiio/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DOGL",
+        "DOGL128",
+        "LCD",
+        "LCD 128x64",
+        "ST7565",
+        "ST7565R",
+        "COMMAND PARSER",
+        "Serial",
+        "shell",
+        "VT100"
+    ],
+    "name": "libxml2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pcercuei/code/libxml2/"
+    }
+}

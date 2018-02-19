@@ -18,9 +18,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "real time",
-        "serial port",
-        "serial protocols"
+        "LCD",
+        "crc8"
     ],
     "name": "BSP_DISCO_F769NI",
     "platforms": "*",

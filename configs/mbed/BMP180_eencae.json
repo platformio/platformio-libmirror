@@ -18,10 +18,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "NFC",
+        "p2p",
+        "PN532",
+        "led",
+        "rgb",
+        "ws2801",
         "BMP180",
-        "DTH11",
-        "DTH22",
-        "RHT03"
+        "Dieter Graef",
+        "DISCO-F746",
+        "SDFileSystem"
     ],
     "name": "BMP180",
     "platforms": "*",

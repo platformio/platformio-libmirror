@@ -18,14 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "async",
-        "LS013B7DH03",
-        "memory lcd",
-        "Sharp",
-        "sharp memory LCD",
-        "energy harvesting",
-        "mobile robot",
-        "MQTT",
         "arp",
         "broadcast",
         "DHCP",
@@ -40,7 +32,10 @@
         "TCP",
         "tcp/ip",
         "tcpip stack",
-        "UDP"
+        "UDP",
+        "7",
+        "display",
+        "segment"
     ],
     "name": "PicoTCP",
     "platforms": "*",

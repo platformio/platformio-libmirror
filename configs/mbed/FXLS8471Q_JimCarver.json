@@ -16,7 +16,20 @@
         "https://os.mbed.com/users/impeccabletanu/code/RC_QuadCopter/"
     ],
     "frameworks": "mbed",
-    "keywords": "FXLS8471Q",
+    "keywords": [
+        "Humidity",
+        "I2C",
+        "sensor",
+        "NetServices",
+        "network",
+        "NTP",
+        "graphic",
+        "monochrome",
+        "VGA",
+        "median",
+        "sliding",
+        "window"
+    ],
     "name": "FXLS8471Q",
     "platforms": "*",
     "repository": {

@@ -12,9 +12,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Communication",
-        "debugging",
-        "rpc"
+        "I2C",
+        "TCS3472",
+        "TCS34721",
+        "TCS34723",
+        "TCS34725",
+        "TCS34727"
     ],
     "name": "controlandadjust",
     "platforms": "*",

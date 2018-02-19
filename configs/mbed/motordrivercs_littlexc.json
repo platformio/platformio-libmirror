@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Christopher Hasler",
+        "url": "https://os.mbed.com/users/littlexc/"
+    },
+    "description": "motordrivercs",
+    "frameworks": "mbed",
+    "keywords": [
+        "Altimeter",
+        "Altitude",
+        "barometer",
+        "MPL3115A2",
+        "pressure",
+        "sensor"
+    ],
+    "name": "motordrivercs",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/littlexc/code/motordrivercs/"
+    }
+}

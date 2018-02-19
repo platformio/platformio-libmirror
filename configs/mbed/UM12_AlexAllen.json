@@ -9,12 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "bm1383",
-        "I2C",
-        "pressure",
-        "ROHM",
-        "DISCO_F469NI",
-        "EEPROM"
+        "decoder",
+        "Encoder",
+        "Morse"
     ],
     "name": "UM12",
     "platforms": "*",

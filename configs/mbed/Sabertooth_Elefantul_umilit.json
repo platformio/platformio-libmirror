@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Litan Virgil",
+        "url": "https://os.mbed.com/users/Elefantul_umilit/"
+    },
+    "description": "Library for Sabertooth motor driver ported from the oficial Arduino library. Packetized Serial Mode",
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "official",
+        "Sabertooth",
+        "SyRen",
+        "DISCO-STM32F746NG",
+        "flash",
+        "QSPI",
+        "ST",
+        "filter",
+        "median"
+    ],
+    "name": "Sabertooth",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Elefantul_umilit/code/Sabertooth/"
+    }
+}

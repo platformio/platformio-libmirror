@@ -18,6 +18,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "W5500",
+        "WIZ550IO",
+        "Wiznet",
         "card",
         "ChaNFS",
         "SD",
@@ -31,10 +34,7 @@
         "NeoPixel",
         "rgb",
         "Shiftbrite",
-        "EthernetNetIf",
-        "W5500",
-        "WIZ550IO",
-        "Wiznet"
+        "EthernetNetIf"
     ],
     "name": "NeoStrip",
     "platforms": "*",

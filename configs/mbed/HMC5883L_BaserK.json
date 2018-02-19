@@ -11,20 +11,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit",
-        "fona",
-        "GPRS",
-        "GSM",
-        "sim800l",
-        "sim808",
-        "thermistor",
         "compass",
         "Digital",
         "F411RE",
         "HMC5883L",
         "magnetometer",
         "mbed",
-        "Nucleo"
+        "Nucleo",
+        "acctuators"
     ],
     "name": "HMC5883L",
     "platforms": "*",

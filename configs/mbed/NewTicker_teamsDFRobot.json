@@ -8,7 +8,11 @@
         "https://os.mbed.com/teams/DFRobot/code/newTicker_demo/"
     ],
     "frameworks": "mbed",
-    "keywords": "NewTicker",
+    "keywords": [
+        "AT93C46",
+        "EEPROM",
+        "adc"
+    ],
     "name": "NewTicker",
     "platforms": "*",
     "repository": {

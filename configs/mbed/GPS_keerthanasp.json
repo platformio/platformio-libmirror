@@ -9,7 +9,27 @@
         "https://os.mbed.com/users/sathguru/code/6adcSerial/"
     ],
     "frameworks": "mbed",
-    "keywords": "GPS",
+    "keywords": [
+        "dac",
+        "MCP4922",
+        "comparator",
+        "KL25z",
+        "Dynamic",
+        "ethernet",
+        "http",
+        "pages",
+        "server",
+        "static",
+        "Web",
+        "WiFly",
+        "2",
+        "gpu",
+        "mbed",
+        "smart",
+        "SmartGPU2",
+        "technologies",
+        "vizic"
+    ],
     "name": "GPS",
     "platforms": "*",
     "repository": {

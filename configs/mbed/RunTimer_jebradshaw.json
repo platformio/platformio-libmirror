@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Joseph Bradshaw",
+        "url": "https://os.mbed.com/users/jebradshaw/"
+    },
+    "description": "Timer for accumulating 10 ms intervals that does not overflow after ~30 min",
+    "frameworks": "mbed",
+    "keywords": [
+        "RunTimer",
+        "timer"
+    ],
+    "name": "RunTimer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jebradshaw/code/RunTimer/"
+    }
+}

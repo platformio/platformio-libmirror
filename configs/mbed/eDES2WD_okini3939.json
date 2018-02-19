@@ -6,14 +6,14 @@
     "description": "DAISEN eDES",
     "frameworks": "mbed",
     "keywords": [
-        "led",
-        "pwm",
         "2wd",
         "car",
         "daisen",
         "edes",
         "I2C",
-        "robot"
+        "robot",
+        "MQTT",
+        "MQTTClient"
     ],
     "name": "eDES2WD",
     "platforms": "*",

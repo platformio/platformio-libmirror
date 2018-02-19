@@ -10,7 +10,12 @@
         "mdot",
         "multitech",
         "Temperature",
-        "thermistor"
+        "thermistor",
+        "Arducam",
+        "OV5642",
+        "printf",
+        "ringbuffer",
+        "Serial"
     ],
     "name": "Thermistor",
     "platforms": "*",

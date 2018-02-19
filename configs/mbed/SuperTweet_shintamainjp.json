@@ -11,13 +11,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "I2C",
+        "software",
         "1-wire",
         "DS18B20",
+        "RIT",
         "SuperTweet",
-        "SHT21",
         "adc",
         "dac",
-        "I2C",
         "PCF8591"
     ],
     "name": "SuperTweet",

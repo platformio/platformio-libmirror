@@ -12,17 +12,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Calibrate",
+        "compass",
+        "Magneto",
         "MAX14661",
-        "mux",
-        "4D Systems",
-        "LDC-43PCt",
-        "control",
-        "Kinematics",
-        "lauther",
-        "math",
-        "matrix",
-        "mobile",
-        "robot"
+        "mux"
     ],
     "name": "MAX14661",
     "platforms": "*",

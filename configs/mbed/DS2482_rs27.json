@@ -10,7 +10,13 @@
         "https://os.mbed.com/teams/Temp/code/11_PT1000/"
     ],
     "frameworks": "mbed",
-    "keywords": "mbed",
+    "keywords": [
+        "LFSR",
+        "Linear Feedback Shift Register",
+        "Number Generator",
+        "Pseudo",
+        "Random"
+    ],
     "name": "DS2482",
     "platforms": "*",
     "repository": {

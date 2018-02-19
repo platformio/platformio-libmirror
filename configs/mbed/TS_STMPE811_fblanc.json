@@ -12,7 +12,14 @@
         "I2C",
         "MCB1700",
         "STMPE811",
-        "Touchscreen"
+        "Touchscreen",
+        "EPOS",
+        "epos2",
+        "maxon",
+        "motor",
+        "Nucleo",
+        "Serial",
+        "ST"
     ],
     "name": "TS_STMPE811",
     "platforms": "*",

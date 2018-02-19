@@ -6,11 +6,8 @@
     "description": "test",
     "frameworks": "mbed",
     "keywords": [
-        "interrupt",
-        "masking",
-        "FM25V02",
-        "FM25V10",
-        "FRAM"
+        "PDM",
+        "Pulse Density Modulation"
     ],
     "name": "chan_fatfs",
     "platforms": "*",

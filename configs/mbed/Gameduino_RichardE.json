@@ -11,9 +11,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "StepperMotorUni",
         "Gameduino",
-        "VGA"
+        "VGA",
+        "LIN",
+        "master",
+        "Melexis",
+        "MLX",
+        "USB"
     ],
     "name": "Gameduino",
     "platforms": "*",

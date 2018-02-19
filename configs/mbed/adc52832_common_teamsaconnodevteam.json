@@ -20,7 +20,18 @@
     "keywords": [
         "aconno",
         "Nordic",
-        "nrf52"
+        "nrf52",
+        "controller",
+        "I2C",
+        "Wii",
+        "led",
+        "rgb",
+        "WS2812",
+        "WS2812B",
+        "2.4",
+        "LCD",
+        "MCUFRIEND",
+        "TFT"
     ],
     "name": "adc52832_common",
     "platforms": "*",

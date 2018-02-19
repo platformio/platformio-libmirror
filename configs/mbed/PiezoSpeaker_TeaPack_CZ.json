@@ -6,8 +6,10 @@
     "description": "Simple tool for PWM piezo speaker",
     "frameworks": "mbed",
     "keywords": [
-        "DS1337",
-        "I2C",
+        "cypress",
+        "F-RAM",
+        "dac",
+        "MCP4728",
         "piezo",
         "pwm"
     ],

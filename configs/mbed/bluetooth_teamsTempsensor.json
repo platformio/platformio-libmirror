@@ -5,7 +5,17 @@
     },
     "description": "v",
     "frameworks": "mbed",
-    "keywords": "RTC",
+    "keywords": [
+        "font",
+        "NeoPixel",
+        "WS2812",
+        "wx2811",
+        "RTC",
+        "kitt",
+        "Knight",
+        "led",
+        "rider"
+    ],
     "name": "bluetooth",
     "platforms": "*",
     "repository": {

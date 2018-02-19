@@ -11,11 +11,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "EEPROM",
-        "GPS",
-        "NMEA0183",
-        "GPIO Exoender",
-        "MCP23017"
+        "accelerometer",
+        "ADXL345",
+        "C++",
+        "mbed",
+        "EEPROM"
     ],
     "name": "EEPROM_DISCO_F429ZI",
     "platforms": "*",

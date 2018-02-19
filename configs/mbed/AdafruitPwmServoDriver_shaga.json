@@ -5,7 +5,11 @@
     },
     "description": "Adafruit PWM Servo Driver Library for mbed.",
     "frameworks": "mbed",
-    "keywords": "rfduino",
+    "keywords": [
+        "rfduino",
+        "AD7606",
+        "SPI"
+    ],
     "name": "AdafruitPwmServoDriver",
     "platforms": "*",
     "repository": {

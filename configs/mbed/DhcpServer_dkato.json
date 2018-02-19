@@ -10,16 +10,7 @@
     "frameworks": "mbed",
     "keywords": [
         "DHCP",
-        "EthernetInterface",
-        "actuators",
-        "commnunications",
-        "interfaces",
-        "sensors",
-        "ADT7310",
-        "Nucleo",
-        "SPI",
-        "UIT",
-        "JY901"
+        "EthernetInterface"
     ],
     "name": "DhcpServer",
     "platforms": "*",

@@ -10,14 +10,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "f401",
+        "F446",
+        "Nucleo",
+        "RGB LED",
+        "SPI",
+        "UIT",
+        "WS2812B",
         "camera",
         "MARMEX-VB",
-        "MARY",
-        "clock",
-        "ds1307",
-        "real",
-        "RTC",
-        "time"
+        "MARY"
     ],
     "name": "MARMEX_VB",
     "platforms": "*",

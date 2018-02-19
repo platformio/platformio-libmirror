@@ -8,7 +8,15 @@
     "keywords": [
         "DS130x",
         "Maxim",
-        "RTC"
+        "RTC",
+        "HMAC",
+        "hmac-md5",
+        "md5",
+        "eCompass",
+        "Wi-Go",
+        "WiGo",
+        "semihosting",
+        "SWD"
     ],
     "name": "DS130x_I2C",
     "platforms": "*",

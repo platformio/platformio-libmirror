@@ -6,12 +6,12 @@
     "description": "Utility functions for working with data streams",
     "frameworks": "mbed",
     "keywords": [
-        "checksum",
-        "Accel",
         "accelerometer",
-        "gyro",
-        "gyroscope",
-        "IMU"
+        "eCompass",
+        "fast",
+        "FRDM-KL46Z",
+        "magnetometer",
+        "checksum"
     ],
     "name": "checksum",
     "platforms": "*",

@@ -9,13 +9,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Cellular",
+        "BME280",
+        "Low_Power",
+        "LPC1114",
+        "LPC1114FN28",
         "brushless",
         "L293D",
         "LPC1768",
         "mbed",
-        "motor",
-        "device",
-        "USB"
+        "motor"
     ],
     "name": "brushlessController_L293D",
     "platforms": "*",

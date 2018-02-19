@@ -6,6 +6,7 @@
     "description": "Framework for reading and writing variables in real time on any MBED platform.",
     "frameworks": "mbed",
     "keywords": [
+        "InterruptIn",
         "Communication",
         "debugging",
         "rpc"

@@ -6,12 +6,14 @@
     "description": "Library for using the AMS TSL45315 Ambient Light Sensor",
     "frameworks": "mbed",
     "keywords": [
-        "GR-PEACH",
-        "LCD",
-        "touch",
         "ALS",
         "ambient light sensor",
-        "Lux"
+        "Lux",
+        "display",
+        "ILI9341",
+        "LCD",
+        "arduino",
+        "naza gps decoder"
     ],
     "name": "TSL45315",
     "platforms": "*",

@@ -9,12 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "LCD",
-        "PCF2119",
-        "PCF2119x",
-        "SCG002B",
-        "TextLCD"
+        "full-scale",
+        "ITG3200"
     ],
     "name": "game",
     "platforms": "*",

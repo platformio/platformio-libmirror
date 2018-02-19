@@ -5,7 +5,10 @@
     },
     "description": "Library for reading a Nunchuk controller",
     "frameworks": "mbed",
-    "keywords": "Nunchuk",
+    "keywords": [
+        "Nunchuk",
+        "AM2321"
+    ],
     "name": "Nunchuk",
     "platforms": "*",
     "repository": {

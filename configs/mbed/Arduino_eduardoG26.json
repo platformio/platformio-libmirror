@@ -9,12 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "motor",
-        "PCA9629",
-        "Stepper",
+        "debounce",
+        "DigitalIn",
+        "InterruptIn",
         "arduino",
         "micros",
-        "millis"
+        "millis",
+        "FAT",
+        "file system",
+        "SD"
     ],
     "name": "Arduino",
     "platforms": "*",

@@ -10,14 +10,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Flash-fs",
+        "USBDevice",
         "dynamixel",
         "MX-12W",
         "MX12",
         "MX12W",
         "robotis",
-        "Servo",
-        "USBDevice"
+        "Servo"
     ],
     "name": "MX12",
     "platforms": "*",

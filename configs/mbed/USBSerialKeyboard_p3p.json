@@ -9,17 +9,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Composite",
-        "USB",
-        "USBKeyboard",
-        "usbserial",
+        "ROS",
         "4",
         "buttons",
         "convert",
         "Slider",
         "to",
         "touch",
-        "ROS"
+        "Composite",
+        "USB",
+        "USBKeyboard",
+        "usbserial",
+        "helloworld"
     ],
     "name": "USBSerialKeyboard",
     "platforms": "*",

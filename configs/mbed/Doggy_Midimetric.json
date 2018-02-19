@@ -6,11 +6,18 @@
     "description": "Doggy",
     "frameworks": "mbed",
     "keywords": [
-        "A4982",
-        "A4983 smart step 3d printing",
-        "rap",
-        "rep",
-        "Stepper"
+        "Host",
+        "mbed",
+        "PTP",
+        "USB",
+        "HD44780",
+        "LCD",
+        "MT-16S2D",
+        "rus",
+        "Russian",
+        "text",
+        "TextLCD",
+        "TextLCD_Rus"
     ],
     "name": "Doggy",
     "platforms": "*",

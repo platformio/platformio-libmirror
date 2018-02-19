@@ -7,12 +7,12 @@
     "frameworks": "mbed",
     "keywords": [
         "Serial",
-        "dynamixel",
-        "MX28",
-        "RS485",
         "IOT",
         "lpwan",
-        "sigfox"
+        "sigfox",
+        "dynamixel",
+        "MX28",
+        "RS485"
     ],
     "name": "MX28",
     "platforms": "*",

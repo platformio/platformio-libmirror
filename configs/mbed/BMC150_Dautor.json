@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Karlo Milicevic",
+        "url": "https://os.mbed.com/users/Dautor/"
+    },
+    "description": "BMC150 magnetometer and accelerometer library.",
+    "examples": [
+        "https://os.mbed.com/users/jurica238814/code/acd52832_BMC150_example/",
+        "https://os.mbed.com/users/Dautor/code/acd52832_bmc150_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BMC150",
+    "name": "BMC150",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Dautor/code/BMC150/"
+    }
+}

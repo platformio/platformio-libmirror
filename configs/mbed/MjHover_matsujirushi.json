@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Takashi Matsuoka",
+        "url": "https://os.mbed.com/users/matsujirushi/"
+    },
+    "description": "Hover!( Microchip MGC3130 ) library.",
+    "examples": [
+        "https://os.mbed.com/users/matsujirushi/code/MjHover_Hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "printer",
+        "thermal"
+    ],
+    "name": "MjHover",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/matsujirushi/code/MjHover/"
+    }
+}

@@ -6,10 +6,15 @@
     "description": "Class library for a L298 H-Bridge",
     "frameworks": "mbed",
     "keywords": [
+        "FAT",
+        "file",
+        "SD",
+        "System",
+        "FRDM-KL25Z",
+        "LCD",
+        "Nokia",
         "Armand",
-        "Coetzer",
-        "I2C multiplexer",
-        "PCA9547"
+        "Coetzer"
     ],
     "name": "L298HBridge",
     "platforms": "*",

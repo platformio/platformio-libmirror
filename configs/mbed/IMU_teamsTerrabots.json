@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Terrabots",
+        "url": "https://os.mbed.com/teams/Terrabots/"
+    },
+    "description": "General IMU Library",
+    "frameworks": "mbed",
+    "keywords": [
+        "consumption",
+        "control",
+        "ethernet",
+        "Management",
+        "Power",
+        "PowerControl",
+        "conversion",
+        "Thermocouple"
+    ],
+    "name": "IMU",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Terrabots/code/IMU/"
+    }
+}

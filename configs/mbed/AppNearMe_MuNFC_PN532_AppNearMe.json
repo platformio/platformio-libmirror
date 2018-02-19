@@ -19,10 +19,9 @@
         "SPI",
         "AppNearMe",
         "NFC",
-        "DS1820",
-        "DS1822",
-        "DS18B20",
-        "DS18S20"
+        "fatfilesystem",
+        "LocalFileSystem",
+        "USBMSD"
     ],
     "name": "AppNearMe_MuNFC_PN532",
     "platforms": "*",

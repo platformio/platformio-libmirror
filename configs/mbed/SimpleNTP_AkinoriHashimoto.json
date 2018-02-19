@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Akinori Hashimoto",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/"
+    },
+    "description": "Simple Network Time Protocol Client.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Fake SPI",
+        "SPI",
+        "Virtual SPI",
+        "VSPI",
+        "20160515",
+        "client",
+        "SimpleNTP",
+        "SNTP",
+        "led"
+    ],
+    "name": "SimpleNTP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/SimpleNTP/"
+    }
+}

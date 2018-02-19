@@ -6,10 +6,9 @@
     "description": "Library for using Microchip's family of analog-to-digital converters MCP3422/3/4.",
     "frameworks": "mbed",
     "keywords": [
-        "adc",
-        "DISCO_L476VG",
-        "N25Q128A",
-        "QSPI"
+        "AT93C46",
+        "EEPROM",
+        "adc"
     ],
     "name": "MCP342x",
     "platforms": "*",

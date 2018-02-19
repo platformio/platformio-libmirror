@@ -9,11 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GPS",
         "PCF8575",
         "CAN",
         "FRDM-KL25Z",
-        "Seeed Studios"
+        "Seeed Studios",
+        "hash",
+        "md5"
     ],
     "name": "PCF8575",
     "platforms": "*",

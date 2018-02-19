@@ -18,8 +18,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Seeed-Studio-28-TFT-Touch-Shield-V20",
-        "22-QVGA-display-with-SD-card-socket"
+        "DHT11",
+        "DHT22",
+        "Grove",
+        "MPU6000",
+        "MPU6050",
+        "MPU60x0"
     ],
     "name": "SPI_TFT_ILI9341",
     "platforms": "*",

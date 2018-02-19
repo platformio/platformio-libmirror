@@ -9,7 +9,11 @@
         "https://os.mbed.com/users/YSB/code/EM_Mission/"
     ],
     "frameworks": "mbed",
-    "keywords": "xbee",
+    "keywords": [
+        "xbee",
+        "Battery Monitor",
+        "LTC2990"
+    ],
     "name": "myCAN_logger",
     "platforms": "*",
     "repository": {

@@ -6,14 +6,9 @@
     "description": "NokiaLCD",
     "frameworks": "mbed",
     "keywords": [
-        "basic",
-        "flash",
-        "Flasher",
-        "fun",
-        "led",
-        "rgb",
-        "dac",
-        "MCP4822"
+        "DISCO_L476VG",
+        "N25Q128A",
+        "QSPI"
     ],
     "name": "NokiaLCD",
     "platforms": "*",

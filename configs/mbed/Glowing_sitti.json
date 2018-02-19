@@ -6,6 +6,8 @@
     "description": "Continuously vary LED brightness between completely dark and fully lite.",
     "frameworks": "mbed",
     "keywords": [
+        "Adafruit 9DOF",
+        "L3GD20H",
         "dim",
         "led",
         "pattern"

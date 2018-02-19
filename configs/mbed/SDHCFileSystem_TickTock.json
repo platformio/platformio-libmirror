@@ -8,16 +8,7 @@
         "https://os.mbed.com/users/TickTock/code/CANcan/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Adafruit",
-        "GFX",
-        "LCD",
-        "TFT",
-        "driver",
-        "Haptics",
-        "motor",
-        "vibration"
-    ],
+    "keywords": "SDHCFileSystem",
     "name": "SDHCFileSystem",
     "platforms": "*",
     "repository": {

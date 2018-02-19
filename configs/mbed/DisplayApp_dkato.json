@@ -12,7 +12,10 @@
         "https://os.mbed.com/users/1050186/code/GR-LYCHEE_mbed-os-client-ZXingSample/"
     ],
     "frameworks": "mbed",
-    "keywords": "DisplayApp",
+    "keywords": [
+        "debounce",
+        "Input"
+    ],
     "name": "DisplayApp",
     "platforms": "*",
     "repository": {

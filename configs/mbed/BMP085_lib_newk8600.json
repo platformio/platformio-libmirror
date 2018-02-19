@@ -5,11 +5,7 @@
     },
     "description": "demo program of BMP085 pressure sensor",
     "frameworks": "mbed",
-    "keywords": [
-        "Serial",
-        "Terminal",
-        "VT100"
-    ],
+    "keywords": "BMP085_lib",
     "name": "BMP085_lib",
     "platforms": "*",
     "repository": {

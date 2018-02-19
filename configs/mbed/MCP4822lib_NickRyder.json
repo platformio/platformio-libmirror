@@ -8,18 +8,7 @@
         "https://os.mbed.com/users/janekm/code/ADC2DAC/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "23K256",
-        "23LC1024",
-        "DMA",
-        "FIFO",
-        "RAM",
-        "ring buffer",
-        "SPI",
-        "sram",
-        "dac",
-        "basicauth"
-    ],
+    "keywords": "dac",
     "name": "MCP4822lib",
     "platforms": "*",
     "repository": {

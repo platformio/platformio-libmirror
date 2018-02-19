@@ -5,7 +5,12 @@
     },
     "description": "Serializer",
     "frameworks": "mbed",
-    "keywords": "Serializer",
+    "keywords": [
+        "Serializer",
+        "control",
+        "PID",
+        "TJPS"
+    ],
     "name": "Serializer",
     "platforms": "*",
     "repository": {

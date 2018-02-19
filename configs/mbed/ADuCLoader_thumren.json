@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Jakub Stepien",
+        "url": "https://os.mbed.com/users/thumren/"
+    },
+    "description": "The library can be usesefull for ADuC70xx microprocesors family.",
+    "frameworks": "mbed",
+    "keywords": [
+        "ADuC",
+        "Analog",
+        "armwsd",
+        "armwsd.exe",
+        "devices",
+        "Download",
+        "protocol",
+        "Serial"
+    ],
+    "name": "ADuCLoader",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/thumren/code/ADuCLoader/"
+    }
+}

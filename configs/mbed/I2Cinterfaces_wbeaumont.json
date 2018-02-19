@@ -13,11 +13,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ax12",
-        "dynamixel",
-        "motor",
-        "Servo",
-        "RF22"
+        "InterruptIn",
+        "Communication",
+        "debugging",
+        "rpc"
     ],
     "name": "I2Cinterfaces",
     "platforms": "*",

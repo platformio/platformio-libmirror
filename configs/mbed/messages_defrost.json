@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Damien Frost",
+        "url": "https://os.mbed.com/users/defrost/"
+    },
+    "description": "Library to implement various levels of messages in cpp files",
+    "examples": [
+        "https://os.mbed.com/users/defrost/code/IoT_Ex/",
+        "https://os.mbed.com/users/defrost/code/BatteryModelTester/",
+        "https://os.mbed.com/users/fmferrari/code/BatteryModelTester/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Error",
+        "info",
+        "messages",
+        "Terminal",
+        "warning"
+    ],
+    "name": "messages",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/defrost/code/messages/"
+    }
+}

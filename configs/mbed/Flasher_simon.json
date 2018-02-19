@@ -6,6 +6,11 @@
     "description": "A very simple example of a library to flash a DigitalOut, used to demonstrate how to write a library",
     "frameworks": "mbed",
     "keywords": [
+        "AS5048",
+        "rotary sensor",
+        "SPI",
+        "SSG",
+        "YMZ294",
         "IR",
         "digitalOut"
     ],

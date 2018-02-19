@@ -10,13 +10,12 @@
     "frameworks": "mbed",
     "keywords": [
         "I2C",
-        "Configuration",
-        "file",
-        "ini",
-        "interface",
-        "NetServices",
-        "network",
-        "NTP"
+        "inair4",
+        "inair8",
+        "inair9",
+        "Lora",
+        "modtronix",
+        "SX1276"
     ],
     "name": "i2cmaster",
     "platforms": "*",

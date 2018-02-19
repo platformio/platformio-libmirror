@@ -9,11 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F746NG",
-        "QSPI",
-        "led",
-        "TM1638",
-        "TMP102"
+        "MQTT",
+        "SharkSSL",
+        "SSL",
+        "TLS",
+        "WebSocket",
+        "DFU",
+        "STM32F103",
+        "USB"
     ],
     "name": "BMI160",
     "platforms": "*",

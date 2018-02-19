@@ -6,12 +6,6 @@
     "description": "Inspired by Simon Ford's \"Terminal\" library, this is a clean-room reimplementation that supports a larger set of the ANSI escape sequences and includes a few handy drawing routines. Useful for making console UIs for your projects.",
     "frameworks": "mbed",
     "keywords": [
-        "AD7606",
-        "SPI",
-        "Communication",
-        "protocols",
-        "wireless",
-        "xbee",
         "ANSI",
         "Terminal",
         "controller",

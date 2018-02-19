@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Rangel Alvarado",
+        "url": "https://os.mbed.com/users/issaiass/"
+    },
+    "description": "4D Systems Sound Module Library",
+    "examples": [
+        "https://os.mbed.com/users/issaiass/code/STM32F030R8_SOMO-14D/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "4DSystems",
+        "audio",
+        "library",
+        "module",
+        "program",
+        "SOMO-14D",
+        "stm32"
+    ],
+    "name": "SOMO14D",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/issaiass/code/SOMO14D/"
+    }
+}

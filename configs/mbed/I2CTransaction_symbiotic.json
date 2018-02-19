@@ -6,12 +6,11 @@
     "description": "Class for representing and controlling entire I2C transactions (the master side). This class allows one to separate in code the configuration of I2C transactions from their use. This property simplifies the process of executing transactions in, for example, the body of a real-time control loop.",
     "frameworks": "mbed",
     "keywords": [
+        "F401RE",
+        "Nucleo",
+        "USBHOST",
         "I2C",
-        "real-time communication",
-        "Shiftbrite",
-        "Input",
-        "keyboard",
-        "PS/2"
+        "real-time communication"
     ],
     "name": "I2CTransaction",
     "platforms": "*",

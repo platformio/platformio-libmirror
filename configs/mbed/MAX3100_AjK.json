@@ -9,11 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "compass",
-        "DISCO_L476VG",
-        "LSM303",
         "MAX3100",
-        "Serial"
+        "Serial",
+        "Nucleo"
     ],
     "name": "MAX3100",
     "platforms": "*",

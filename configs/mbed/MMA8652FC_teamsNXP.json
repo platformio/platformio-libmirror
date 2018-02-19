@@ -9,13 +9,7 @@
         "https://os.mbed.com/users/koyo_take/code/ina-hack-2nd/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "accelerometer",
-        "bma180",
-        "aqm0802a",
-        "I2C",
-        "Nucleo"
-    ],
+    "keywords": "MMA8652FC",
     "name": "MMA8652FC",
     "platforms": "*",
     "repository": {

@@ -14,14 +14,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HX711",
-        "Altimeter",
-        "MS5607",
-        "pressure",
-        "Temperature",
-        "rtos",
-        "Serial",
-        "UART"
+        "blinking",
+        "led",
+        "16x2",
+        "freetronics",
+        "LCD",
+        "dynamixel",
+        "MX28",
+        "Servo",
+        "HX711"
     ],
     "name": "HX711",
     "platforms": "*",

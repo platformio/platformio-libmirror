@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "tom dunigan",
+        "url": "https://os.mbed.com/users/manitou/"
+    },
+    "description": "PPM library based on teensy 3 PulsePostion library. uses k64f FTM0 PWM pins.",
+    "examples": [
+        "https://os.mbed.com/users/manitou/code/k64f_ppmtst/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "K64F",
+    "name": "PulsePosition",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/manitou/code/PulsePosition/"
+    }
+}

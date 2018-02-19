@@ -5,7 +5,22 @@
     },
     "description": "lambdaController",
     "frameworks": "mbed",
-    "keywords": "2016_lambdaController",
+    "keywords": [
+        "helping",
+        "libraries",
+        "pololu",
+        "robot",
+        "Utilities",
+        "Zumo",
+        "C24LCXXX",
+        "EEPROM",
+        "I2C",
+        "Adafruit",
+        "display",
+        "LCD",
+        "memory",
+        "Sharp"
+    ],
     "name": "2016_lambdaController",
     "platforms": "*",
     "repository": {

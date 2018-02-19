@@ -18,17 +18,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HAM-radio",
-        "I2C",
-        "sdr",
-        "vcxo",
-        "vfo",
         "DISCO_F746NG",
         "STM32F746",
         "display",
         "RenBED",
         "segment",
-        "Seven"
+        "Seven",
+        "LPC4330"
     ],
     "name": "SevenSegmentDisplay",
     "platforms": "*",

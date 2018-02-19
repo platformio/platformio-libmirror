@@ -6,20 +6,10 @@
     "description": "Library for digital quadrature encoder",
     "frameworks": "mbed",
     "keywords": [
-        "FRDM-KL25Z",
-        "SPI",
         "Encoder",
         "InterruptIn",
         "motor",
-        "device",
-        "USB",
-        "74hc595",
-        "Adafruit",
-        "arduino",
-        "FRDM-KL46Z",
-        "L293D",
-        "motorshield",
-        "pwm"
+        "DS1631"
     ],
     "name": "Motor_Encoders",
     "platforms": "*",

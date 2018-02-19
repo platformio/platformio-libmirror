@@ -12,7 +12,14 @@
         "https://os.mbed.com/teams/MaximIntegrated/code/MAXWSNENV_demo/"
     ],
     "frameworks": "mbed",
-    "keywords": "AM2320",
+    "keywords": [
+        "infra",
+        "infrared",
+        "IR",
+        "mbed",
+        "red",
+        "AM2320"
+    ],
     "name": "Si7020",
     "platforms": "*",
     "repository": {

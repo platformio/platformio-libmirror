@@ -9,16 +9,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HIH-4030",
-        "Humidity",
-        "sensor",
+        "ESP8266",
+        "milkcocoa",
         "AD",
         "da",
         "MCP4921",
         "MCP4922",
         "Nucleo",
         "SPI",
-        "UIT"
+        "UIT",
+        "GPS",
+        "MKT3339",
+        "TinyGPS"
     ],
     "name": "UITDSP_ADDA2",
     "platforms": "*",

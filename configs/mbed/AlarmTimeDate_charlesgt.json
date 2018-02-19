@@ -5,14 +5,7 @@
     },
     "description": "Alarm library for use with mbed.",
     "frameworks": "mbed",
-    "keywords": [
-        "CANopen",
-        "arduino",
-        "millis",
-        "Modbus",
-        "MODSERIAL",
-        "rtu"
-    ],
+    "keywords": "AlarmTimeDate",
     "name": "AlarmTimeDate",
     "platforms": "*",
     "repository": {

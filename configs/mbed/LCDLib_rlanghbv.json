@@ -18,13 +18,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AnalogIn",
         "16x2",
         "4-bit",
         "4bit",
         "KS0066U",
         "LCD",
-        "LCD 16x2"
+        "LCD 16x2",
+        "Bluetooth module",
+        "hc-05",
+        "HC05"
     ],
     "name": "LCDLib",
     "platforms": "*",

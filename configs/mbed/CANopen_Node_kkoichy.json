@@ -9,14 +9,7 @@
         "https://os.mbed.com/users/kkoichy/code/SDC21XX_Motor/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "CANopen",
-        "arduino",
-        "millis",
-        "Modbus",
-        "MODSERIAL",
-        "rtu"
-    ],
+    "keywords": "CANopen",
     "name": "CANopen_Node",
     "platforms": "*",
     "repository": {

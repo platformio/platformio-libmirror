@@ -11,14 +11,9 @@
         "NeoPixel",
         "rgb",
         "WS2812",
-        "ASCII Communication",
-        "Comm",
-        "FP",
-        "LinkedList",
-        "Serial",
-        "Terminal",
-        "GUI",
-        "menu"
+        "GR-PEACH",
+        "MQTT",
+        "MQTTClient"
     ],
     "name": "LEDBus",
     "platforms": "*",

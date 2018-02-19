@@ -8,16 +8,9 @@
     "keywords": [
         "W5200",
         "WIZ820IO",
-        "led",
-        "LPD8803",
-        "LPD8806",
-        "LPD8809",
-        "SPI",
-        "OAuth",
-        "twitter",
-        "arbitrary precision",
-        "bigint",
-        "bignum"
+        "cmsis",
+        "rtos",
+        "RTX"
     ],
     "name": "WIZ820ioNetIf",
     "platforms": "*",

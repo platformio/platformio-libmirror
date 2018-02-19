@@ -12,13 +12,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "acc",
+        "gyro",
+        "IMU",
+        "iNEMO",
+        "MAG",
+        "STM",
         "flash",
         "S25FL216K",
-        "Serial",
-        "gmmp",
-        "IOT",
-        "SKTelecom",
-        "TCP"
+        "Serial"
     ],
     "name": "S25FL216K",
     "platforms": "*",

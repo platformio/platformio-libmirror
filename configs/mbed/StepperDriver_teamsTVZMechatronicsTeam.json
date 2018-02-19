@@ -9,15 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ar1020",
-        "Microchip",
-        "screen",
-        "touch",
+        "alphanumeric",
+        "display",
+        "HCMS2975",
+        "led",
+        "brightness",
+        "high",
         "driver",
         "motor",
-        "Stepper",
-        "javascript",
-        "scripting"
+        "Stepper"
     ],
     "name": "StepperDriver",
     "platforms": "*",

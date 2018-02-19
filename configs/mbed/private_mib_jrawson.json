@@ -5,7 +5,11 @@
     },
     "description": "A private_mib.h example to use if you want functional snmp for your mbed.",
     "frameworks": "mbed",
-    "keywords": "private_mib",
+    "keywords": [
+        "MPU6000",
+        "MPU6050",
+        "MPU60x0"
+    ],
     "name": "private_mib",
     "platforms": "*",
     "repository": {

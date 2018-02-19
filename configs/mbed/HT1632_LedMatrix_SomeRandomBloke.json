@@ -10,18 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "batron",
-        "cog",
-        "LCD",
-        "audio",
-        "CODEC",
-        "I2C",
-        "TLV320",
-        "Nunchuk",
         "display",
         "HT1632",
         "led",
-        "matrix"
+        "matrix",
+        "I2C multiplexer",
+        "PCA9547"
     ],
     "name": "HT1632_LedMatrix",
     "platforms": "*",

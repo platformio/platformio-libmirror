@@ -22,10 +22,9 @@
         "In-Application Programming",
         "internal EEPROM",
         "internal flash memory",
-        "arduino",
-        "maniacbug",
-        "nRF24L01+",
-        "nRF24L01P"
+        "NeoPixel",
+        "WS2812",
+        "WS2812B"
     ],
     "name": "IAP",
     "platforms": "*",

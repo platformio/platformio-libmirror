@@ -9,17 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "f401",
-        "F446",
-        "Nucleo",
-        "RGB LED",
-        "SPI",
-        "UIT",
-        "WS2812B",
-        "controller",
-        "game",
-        "interrupt",
-        "joystick"
+        "\\",
+        "Controller\\",
+        "I2C",
+        "MD25",
+        "motor",
+        "robot"
     ],
     "name": "sseg",
     "platforms": "*",

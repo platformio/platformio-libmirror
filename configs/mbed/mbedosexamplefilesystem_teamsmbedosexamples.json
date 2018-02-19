@@ -5,7 +5,21 @@
     },
     "description": ".",
     "frameworks": "mbed",
-    "keywords": "mbed-os-example-filesystem",
+    "keywords": [
+        "Adafruit",
+        "LCD",
+        "ST7735",
+        "TFT",
+        "adc",
+        "dac",
+        "interrupt",
+        "Nucleo F446",
+        "polling",
+        "STM32F446",
+        "FTP",
+        "ftpclient",
+        "MQTT"
+    ],
     "name": "mbed-os-example-filesystem",
     "platforms": "*",
     "repository": {

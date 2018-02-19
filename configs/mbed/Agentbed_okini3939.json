@@ -11,6 +11,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "v1.0",
         "NET",
         "network",
         "stream",
@@ -19,8 +20,7 @@
         "Net-SNMP",
         "SNMP",
         "malloc",
-        "memory",
-        "AQM1602"
+        "memory"
     ],
     "name": "Agentbed",
     "platforms": "*",

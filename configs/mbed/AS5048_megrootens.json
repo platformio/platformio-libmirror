@@ -6,21 +6,13 @@
     "description": "Library for SPI communication with the AMS AS5048 rotary sensor",
     "frameworks": "mbed",
     "keywords": [
-        "PCM",
-        "pulse",
-        "RC",
-        "Servo",
-        "ServoIn",
         "AS5048",
         "rotary sensor",
         "SPI",
         "SSG",
         "YMZ294",
-        "accelerometer",
-        "eCompass",
-        "fast",
-        "FRDM-KL46Z",
-        "magnetometer"
+        "IR",
+        "digitalOut"
     ],
     "name": "AS5048",
     "platforms": "*",

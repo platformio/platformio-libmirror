@@ -7,19 +7,7 @@
     "frameworks": "mbed",
     "keywords": [
         "FRDM-KL25Z",
-        "SPI",
-        "Encoder",
-        "InterruptIn",
-        "motor",
-        "device",
-        "USB",
-        "74hc595",
-        "Adafruit",
-        "arduino",
-        "FRDM-KL46Z",
-        "L293D",
-        "motorshield",
-        "pwm"
+        "SPI"
     ],
     "name": "SPISlave_Kinetis",
     "platforms": "*",

@@ -8,7 +8,14 @@
         "https://os.mbed.com/users/bant62/code/My7SEG_test/"
     ],
     "frameworks": "mbed",
-    "keywords": "I2C",
+    "keywords": [
+        "AM2303",
+        "DHT22",
+        "Humidity",
+        "Temperature",
+        "ultrasonico",
+        "I2C"
+    ],
     "name": "My7SEG",
     "platforms": "*",
     "repository": {

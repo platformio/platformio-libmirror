@@ -16,8 +16,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ADS1015",
-        "ADS1115"
+        "Humidity",
+        "sensor",
+        "Temperature",
+        "adc",
+        "ads1015",
+        "ads1115"
     ],
     "name": "ADS1015",
     "platforms": "*",

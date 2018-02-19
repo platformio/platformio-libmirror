@@ -6,18 +6,11 @@
     "description": "This library is an attempt to encapsulate the Pololu motor board MC33926 Motor Driver Carrier.",
     "frameworks": "mbed",
     "keywords": [
-        "emulation",
-        "I2C",
-        "SoftI2C",
-        "software",
         "Carrier",
         "driver",
         "dual",
         "MC33926",
-        "motor",
-        "GPS",
-        "K64F",
-        "Serial"
+        "motor"
     ],
     "name": "Dual MC33926 Motor Driver Carrier",
     "platforms": "*",

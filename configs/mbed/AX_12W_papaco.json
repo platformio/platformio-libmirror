@@ -9,6 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "WiFly",
         "AX-12",
         "AX-12W",
         "control",
@@ -17,17 +18,7 @@
         "nxp",
         "PAPACO",
         "Robotics",
-        "Servo",
-        "breakout",
-        "gainspan",
-        "GS1011MIC",
-        "GS1011MIP",
-        "sparkfun",
-        "Wi-Fi",
-        "wifi",
-        "WiFly",
-        "3DOF",
-        "inverse kinematics"
+        "Servo"
     ],
     "name": "AX_12W",
     "platforms": "*",

@@ -18,14 +18,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MQTT",
-        "MQTTClient",
+        "Addressable",
+        "led",
+        "NeoPixel",
+        "rgb",
+        "WS2812",
         "GR-PEACH",
-        "I2C",
-        "digitalOut",
-        "PwmOut",
-        "RenBuggy",
-        "Renishaw"
+        "MQTT",
+        "MQTTClient"
     ],
     "name": "GraphicsFramework",
     "platforms": "*",

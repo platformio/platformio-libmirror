@@ -9,12 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "arduino",
-        "H-bridge",
-        "L298",
-        "Robotic",
-        "shield",
-        "I2C"
+        "I2C",
+        "async",
+        "Ticker",
+        "timer"
     ],
     "name": "WebSocketServer",
     "platforms": "*",

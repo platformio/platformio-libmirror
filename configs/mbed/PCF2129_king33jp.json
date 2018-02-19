@@ -6,12 +6,10 @@
     "description": "RTC PCF2129 Library",
     "frameworks": "mbed",
     "keywords": [
-        "SDFileSystem",
-        "USBMSD",
-        "codificacion",
-        "UTF8",
         "PCF2129",
-        "RTC"
+        "RTC",
+        "AD7790",
+        "adc"
     ],
     "name": "PCF2129",
     "platforms": "*",

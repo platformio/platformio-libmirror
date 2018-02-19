@@ -6,8 +6,9 @@
     "description": "Evironmental Shield API",
     "frameworks": "mbed",
     "keywords": [
-        "motor",
-        "Servo"
+        "xbee",
+        "Battery Monitor",
+        "LTC2990"
     ],
     "name": "Envt_Shield_API",
     "platforms": "*",

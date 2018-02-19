@@ -6,12 +6,15 @@
     "description": "BLE Button example",
     "frameworks": "mbed",
     "keywords": [
+        "TMP102",
+        "Encoder",
+        "incremental",
+        "mechanical",
+        "rotary",
+        "switch",
         "BLE",
         "BLE Bluetooth Low Energy BLE",
-        "BUTTON",
-        "12BIT",
-        "adc",
-        "I2C"
+        "BUTTON"
     ],
     "name": "mbed-os-example-ble-Button",
     "platforms": "*",

@@ -6,10 +6,14 @@
     "description": "CAN Queue mechanism permitting creation and management of CAN messages through a queueing",
     "frameworks": "mbed",
     "keywords": [
-        "CAN",
-        "Queue",
+        "4D system",
+        "LCD",
+        "Picaso",
+        "HC05",
         "Freescale",
-        "mbed"
+        "mbed",
+        "CAN",
+        "Queue"
     ],
     "name": "CANQueue",
     "platforms": "*",

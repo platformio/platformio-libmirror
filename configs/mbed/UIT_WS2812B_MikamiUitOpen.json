@@ -16,10 +16,9 @@
         "SPI",
         "UIT",
         "WS2812B",
-        "controller",
-        "game",
-        "interrupt",
-        "joystick"
+        "camera",
+        "MARMEX-VB",
+        "MARY"
     ],
     "name": "UIT_WS2812B",
     "platforms": "*",

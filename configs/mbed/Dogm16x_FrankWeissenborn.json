@@ -6,6 +6,12 @@
     "description": "Library to drive DogM16x text displays",
     "frameworks": "mbed",
     "keywords": [
+        "Nordic",
+        "nRF",
+        "nRF51422",
+        "nRF51822",
+        "timer",
+        "watchdog",
         "display",
         "DOGM",
         "text"

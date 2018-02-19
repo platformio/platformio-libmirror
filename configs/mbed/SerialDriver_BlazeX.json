@@ -13,7 +13,13 @@
         "Buffered",
         "ROS",
         "Serial",
-        "UART"
+        "UART",
+        "LCD",
+        "SB1602B",
+        "SB1602E",
+        "ST7032",
+        "Text LCD",
+        "TextLCD_SB1602E"
     ],
     "name": "SerialDriver",
     "platforms": "*",

@@ -9,9 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "alphanumeric",
+        "display",
+        "HCMS2975",
+        "led",
         "brightness",
         "high",
-        "led"
+        "driver",
+        "motor",
+        "Stepper"
     ],
     "name": "HiBrightLED",
     "platforms": "*",

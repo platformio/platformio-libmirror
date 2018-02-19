@@ -14,10 +14,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Nucleo",
+        "PCA9685",
+        "pwm controller",
         "802.15.4",
         "wireless",
-        "xbee",
-        "rpc"
+        "xbee"
     ],
     "name": "QEI_pmw",
     "platforms": "*",

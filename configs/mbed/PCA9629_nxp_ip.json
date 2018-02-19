@@ -12,9 +12,12 @@
         "motor",
         "PCA9629",
         "Stepper",
-        "arduino",
-        "micros",
-        "millis"
+        "DC motor",
+        "h bridge",
+        "L293D",
+        "l298n",
+        "pwm",
+        "SPI"
     ],
     "name": "PCA9629",
     "platforms": "*",

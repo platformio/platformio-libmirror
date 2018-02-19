@@ -18,6 +18,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "bluetooth",
+        "SDP",
         "framework",
         "modeling",
         "multitasking",
@@ -25,11 +27,7 @@
         "qp",
         "rtos",
         "state-machine",
-        "uml",
-        "ChaNFS",
-        "mass",
-        "storage",
-        "USB"
+        "uml"
     ],
     "name": "Encoder",
     "platforms": "*",

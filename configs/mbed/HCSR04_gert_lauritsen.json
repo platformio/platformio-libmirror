@@ -16,10 +16,7 @@
         "Thermocouple",
         "distance",
         "HCSR04",
-        "sensor",
-        "LCD",
-        "Serial",
-        "sparkfun"
+        "sensor"
     ],
     "name": "HCSR04",
     "platforms": "*",

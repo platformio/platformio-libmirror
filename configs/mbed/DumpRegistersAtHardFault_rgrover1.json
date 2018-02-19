@@ -6,15 +6,15 @@
     "description": "A hardfault handler to dump useful registers to aid debugging of program exceptions. Often knowing the ProgramCounter (PC) at fault time is enough to find a useful location in source code.",
     "frameworks": "mbed",
     "keywords": [
-        "SED1330",
-        "SED1335",
-        "TextDisplay",
         "assembly",
         "exception",
         "fault",
         "handler",
         "hardfault",
-        "registerdump"
+        "registerdump",
+        "SED1330",
+        "SED1335",
+        "TextDisplay"
     ],
     "name": "DumpRegistersAtHardFault",
     "platforms": "*",

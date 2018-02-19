@@ -9,9 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "FRDM-KL25Z",
-        "rtos",
-        "thread"
+        "dc-motor",
+        "Freescale",
+        "hbridge",
+        "MC33926",
+        "motor",
+        "GPS",
+        "sparkfun"
     ],
     "name": "utility",
     "platforms": "*",

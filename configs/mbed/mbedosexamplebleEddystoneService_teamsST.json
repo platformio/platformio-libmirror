@@ -6,9 +6,19 @@
     "description": "BLE EddystoneService example",
     "frameworks": "mbed",
     "keywords": [
+        "Analog",
+        "dipsw",
+        "Input",
+        "SW",
+        "tactsw",
         "BLE",
         "BLE Bluetooth Low Energy BLE",
-        "Eddystone"
+        "Eddystone",
+        "graphic",
+        "Lascar",
+        "LCD",
+        "SP5-GFX1",
+        "SPI"
     ],
     "name": "mbed-os-example-ble-EddystoneService",
     "platforms": "*",

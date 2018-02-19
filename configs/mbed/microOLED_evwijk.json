@@ -6,6 +6,9 @@
     "description": "4D Systems serial microOLED driver",
     "frameworks": "mbed",
     "keywords": [
+        "adc",
+        "DIFF",
+        "K64F",
         "OLED",
         "Serial",
         "9Dof-Stick",

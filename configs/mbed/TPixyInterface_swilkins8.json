@@ -9,8 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "kl46z",
-        "MAG3110",
+        "ADS7843",
+        "TouchPanel",
+        "XPT2046",
+        "ethernet",
+        "NTP",
+        "SNTP",
+        "W5500",
+        "Wiznet",
         "C12832",
         "C12832A1Z",
         "MBED Application Board"

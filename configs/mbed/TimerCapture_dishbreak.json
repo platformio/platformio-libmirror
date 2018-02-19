@@ -9,10 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "JSON",
         "capture",
         "timer",
-        "timer2"
+        "timer2",
+        "device",
+        "USB"
     ],
     "name": "TimerCapture",
     "platforms": "*",

@@ -6,8 +6,21 @@
     "description": "This is a library for the PCA9685 ported from the Adafruit Ardiuno library.",
     "frameworks": "mbed",
     "keywords": [
+        "Analog",
+        "filter",
+        "Linear",
+        "mbed",
+        "median",
+        "samples",
+        "sensor",
+        "Temp",
+        "Temperature",
+        "voltage",
+        "pressure",
         "Adafruit",
-        "PCA9685"
+        "PCA9685",
+        "Watch Dog Timer",
+        "WDT"
     ],
     "name": "PCA9685Lib",
     "platforms": "*",

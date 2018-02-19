@@ -6,9 +6,15 @@
     "description": "A class to display a value as a bar on either the on-board LEDs, or using LEDs connected to the pwm pins.",
     "frameworks": "mbed",
     "keywords": [
-        "MCP4018",
         "display",
-        "output"
+        "output",
+        "ethernet",
+        "ip",
+        "mbed",
+        "128",
+        "ACE",
+        "bourns",
+        "Encoder"
     ],
     "name": "BarChart",
     "platforms": "*",

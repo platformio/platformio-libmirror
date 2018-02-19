@@ -12,15 +12,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ProcVis",
-        "FAT",
-        "file",
-        "SD",
-        "System",
-        "ADT7410",
-        "I2C",
-        "Nucleo",
-        "UIT"
+        "alarm",
+        "DS3231",
+        "RTC",
+        "device",
+        "USB"
     ],
     "name": "ArduinoSerial",
     "platforms": "*",

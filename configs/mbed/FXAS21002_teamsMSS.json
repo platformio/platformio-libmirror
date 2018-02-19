@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "MSS",
+        "url": "https://os.mbed.com/teams/MSS/"
+    },
+    "description": "3-Axis Digital Angular Rate Gyroscope",
+    "examples": [
+        "https://os.mbed.com/teams/MSS/code/test_FXAS21002/",
+        "https://os.mbed.com/teams/MSS/code/testSensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "fxas21002",
+        "gyroscope",
+        "I2C",
+        "MSS",
+        "MSU"
+    ],
+    "name": "FXAS21002",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MSS/code/FXAS21002/"
+    }
+}

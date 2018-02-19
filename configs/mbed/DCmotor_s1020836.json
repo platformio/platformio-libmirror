@@ -5,7 +5,15 @@
     },
     "description": "H-bridge DCmotor controller",
     "frameworks": "mbed",
-    "keywords": "DCmotor",
+    "keywords": [
+        "Grove",
+        "RFID",
+        "SEN11425P",
+        "Serial",
+        "PCA9629A",
+        "stepper motor",
+        "stepping motor"
+    ],
     "name": "DCmotor",
     "platforms": "*",
     "repository": {

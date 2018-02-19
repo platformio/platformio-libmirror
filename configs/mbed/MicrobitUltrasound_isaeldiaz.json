@@ -6,11 +6,11 @@
     "description": "Driver for HC-SR04 connected to a Microbit",
     "frameworks": "mbed",
     "keywords": [
-        "ICRS",
-        "rf12B",
         "HC-SR04",
         "Microbit",
-        "ultrasound"
+        "ultrasound",
+        "ICRS",
+        "rf12B"
     ],
     "name": "MicrobitUltrasound",
     "platforms": "*",

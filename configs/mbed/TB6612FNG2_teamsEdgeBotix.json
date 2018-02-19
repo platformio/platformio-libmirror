@@ -5,14 +5,7 @@
     },
     "description": "Initial Fork",
     "frameworks": "mbed",
-    "keywords": [
-        "bglib",
-        "BLE",
-        "ble112",
-        "bluegiga",
-        "bluetooth-low-energy",
-        "UART"
-    ],
+    "keywords": "TB6612FNG2",
     "name": "TB6612FNG2",
     "platforms": "*",
     "repository": {

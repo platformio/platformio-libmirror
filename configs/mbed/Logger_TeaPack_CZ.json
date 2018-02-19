@@ -6,15 +6,15 @@
     "description": "Logger using local flash memory and creating a new file every start.",
     "frameworks": "mbed",
     "keywords": [
-        "flash",
-        "logging",
         "keyboard",
         "USB",
         "6dof",
         "9DOF",
         "motion",
         "MPU6050",
-        "MPU9250"
+        "MPU9250",
+        "flash",
+        "logging"
     ],
     "name": "Logger",
     "platforms": "*",

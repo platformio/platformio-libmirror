@@ -9,18 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MAPLE",
-        "mini",
-        "counter",
-        "led",
-        "LPC1768",
-        "mbed",
-        "Accessory",
-        "ADK",
-        "android",
-        "DISCO_F469NI",
-        "LCD",
-        "Touch Screen"
+        "Callback",
+        "Function Pointer",
+        "handler"
     ],
     "name": "USBHOST",
     "platforms": "*",

@@ -11,7 +11,9 @@
     "keywords": [
         "frequency",
         "measurement",
-        "Pulsewidth"
+        "Pulsewidth",
+        "MQTT",
+        "MQTTClient"
     ],
     "name": "PulseWidthCapture",
     "platforms": "*",

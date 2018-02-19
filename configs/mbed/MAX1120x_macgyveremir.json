@@ -5,10 +5,7 @@
     },
     "description": "Simple driver for the 20-bit ADC MAX1120x from Maxim",
     "frameworks": "mbed",
-    "keywords": [
-        "DELTA DFCM-NNN50",
-        "HTTPClient"
-    ],
+    "keywords": "MAX1120x",
     "name": "MAX1120x",
     "platforms": "*",
     "repository": {

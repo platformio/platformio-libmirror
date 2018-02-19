@@ -8,11 +8,17 @@
     "keywords": [
         "audio",
         "DISCO_F746NG",
-        "etti",
-        "TUIASI",
+        "array",
+        "I2C",
+        "infrared",
+        "IR",
+        "KL25z",
+        "Temperature",
         "Bulk",
         "Traceport",
-        "USB"
+        "USB",
+        "etti",
+        "TUIASI"
     ],
     "name": "USBBulk",
     "platforms": "*",

@@ -9,8 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "CNMAT",
-        "osc"
+        "Capacitive",
+        "sensor",
+        "LPC4088QSB",
+        "MSD",
+        "USBHOST"
     ],
     "name": "AE_KXSD9",
     "platforms": "*",

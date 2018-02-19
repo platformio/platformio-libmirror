@@ -13,9 +13,9 @@
     "frameworks": "mbed",
     "keywords": [
         "InterruptIn",
-        "arithmetic",
-        "fixed",
-        "point"
+        "Communication",
+        "debugging",
+        "rpc"
     ],
     "name": "interruptin_mod",
     "platforms": "*",

@@ -18,8 +18,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Barometric-Pressure-Sensor-BMP085",
-        "Grove-Barometer-Sensor"
+        "accelerometer",
+        "Freescale",
+        "magnetometer",
+        "sensor",
+        "C027",
+        "u-blox",
+        "bmp085",
+        "BMP180",
+        "I2C",
+        "Segger",
+        "ST-LINK",
+        "swo",
+        "Viewer"
     ],
     "name": "BMP085",
     "platforms": "*",

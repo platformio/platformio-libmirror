@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Satoshi Togawa",
+        "url": "https://os.mbed.com/users/togayan/"
+    },
+    "description": "BlinkLed automatically. This library requires RTOS.",
+    "examples": [
+        "https://os.mbed.com/users/togayan/code/mpod_nhk_english/",
+        "https://os.mbed.com/users/togayan/code/mpod_picasa_photoframe/",
+        "https://os.mbed.com/users/togayan/code/mpod_nhk_english_spxml/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "http",
+        "https",
+        "25lcxxx",
+        "25xx",
+        "EEPROM",
+        "flash",
+        "memory",
+        "SPI",
+        "16x4",
+        "LCD",
+        "blinking",
+        "led"
+    ],
+    "name": "BlinkLed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/togayan/code/BlinkLed/"
+    }
+}

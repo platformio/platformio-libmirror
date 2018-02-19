@@ -6,6 +6,11 @@
     "description": "Knight Rider KITT-like LED-Display",
     "frameworks": "mbed",
     "keywords": [
+        "font",
+        "NeoPixel",
+        "WS2812",
+        "wx2811",
+        "RTC",
         "kitt",
         "Knight",
         "led",

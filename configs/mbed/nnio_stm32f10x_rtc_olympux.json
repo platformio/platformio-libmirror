@@ -5,13 +5,7 @@
     },
     "description": "RTC functions for STM32F103",
     "frameworks": "mbed",
-    "keywords": [
-        "display",
-        "LPC4088",
-        "LPC4088DM",
-        "module",
-        "debouncing"
-    ],
+    "keywords": "debouncing",
     "name": "nnio_stm32f10x_rtc",
     "platforms": "*",
     "repository": {

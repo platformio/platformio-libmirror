@@ -9,16 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "compass",
-        "driver",
-        "HMC5583L",
-        "I2C",
-        "sensor",
         "EEPROM",
         "MSD",
         "SPI",
         "USB",
-        "kalman"
+        "6100",
+        "Nokia LCD",
+        "LCD",
+        "Serial",
+        "sparkfun"
     ],
     "name": "USBSPIFileSystem",
     "platforms": "*",

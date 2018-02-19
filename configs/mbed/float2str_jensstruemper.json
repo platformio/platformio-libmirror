@@ -6,11 +6,10 @@
     "description": "float2str converts floating point numbers to a character array. Its purpose is to",
     "frameworks": "mbed",
     "keywords": [
-        "etti",
-        "TUIASI",
         "conversion",
         "float",
-        "string"
+        "string",
+        "steering"
     ],
     "name": "float2str",
     "platforms": "*",

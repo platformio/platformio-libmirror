@@ -15,17 +15,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Axeda",
-        "16",
-        "HT1621",
-        "LCD",
-        "segment",
         "C027",
         "C030",
         "file",
         "SMS",
         "u-blox",
-        "ussd"
+        "ussd",
+        "16",
+        "HT1621",
+        "LCD",
+        "segment"
     ],
     "name": "ublox-cellular-driver-gen",
     "platforms": "*",

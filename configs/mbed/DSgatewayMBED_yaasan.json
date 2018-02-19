@@ -9,7 +9,14 @@
         "https://os.mbed.com/users/tyamakun/code/DSGatewayMBED_Nucleo_Step128/"
     ],
     "frameworks": "mbed",
-    "keywords": "DSgatewayMBED",
+    "keywords": [
+        "ALS",
+        "driver",
+        "I2C",
+        "IR",
+        "proximity",
+        "rohm rpr0521"
+    ],
     "name": "DSgatewayMBED",
     "platforms": "*",
     "repository": {

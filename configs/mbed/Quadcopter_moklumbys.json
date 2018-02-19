@@ -9,9 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Bluetooth module",
-        "rn41",
-        "RN42"
+        "DC",
+        "motor",
+        "PM motor",
+        "bluetooth",
+        "bt",
+        "rtos"
     ],
     "name": "Quadcopter",
     "platforms": "*",

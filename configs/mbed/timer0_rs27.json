@@ -12,9 +12,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "files",
-        "filesystem",
-        "Terminal"
+        "I2C",
+        "led",
+        "SAA1064",
+        "Graphics",
+        "LCD"
     ],
     "name": "timer0",
     "platforms": "*",

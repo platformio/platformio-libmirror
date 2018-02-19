@@ -6,13 +6,12 @@
     "description": "MQTT client for mbed",
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "ST7032",
-        "TextLCD",
-        "Thermocouple",
-        "RX8025",
+        "MPU9250",
         "MQTT",
-        "1.0.3"
+        "1.0.3",
+        "NDEF",
+        "NFC",
+        "Type4"
     ],
     "name": "MQTT",
     "platforms": "*",

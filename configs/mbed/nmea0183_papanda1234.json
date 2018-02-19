@@ -6,11 +6,10 @@
     "description": "a stupid GPS's NMEA0183 format parser.",
     "frameworks": "mbed",
     "keywords": [
-        "EEPROM",
         "GPS",
         "NMEA0183",
-        "GPIO Exoender",
-        "MCP23017"
+        "GP2Y0A21YK",
+        "Sharp"
     ],
     "name": "nmea0183",
     "platforms": "*",

@@ -9,14 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DMP",
-        "IMU",
-        "invensense",
-        "MPU605-DMP",
-        "MPU6050",
-        "Quaternion",
-        "Tilty",
-        "TiltyIMU"
+        "motor",
+        "Stepper",
+        "stepping",
+        "Uni-polar"
     ],
     "name": "IR",
     "platforms": "*",

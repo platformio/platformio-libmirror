@@ -11,9 +11,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "RF22",
+        "RFM22",
+        "RFM22Max",
+        "wireless",
+        "Robotics",
+        "Servo",
         "AD5270",
-        "Digipot",
-        "2645"
+        "Digipot"
     ],
     "name": "AD5270",
     "platforms": "*",

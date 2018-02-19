@@ -5,13 +5,7 @@
     },
     "description": "Thermostat class implements basic functionality of a thermostat",
     "frameworks": "mbed",
-    "keywords": [
-        "BME680",
-        "Gas",
-        "Humidity",
-        "pressure",
-        "Temperature"
-    ],
+    "keywords": "thermostat",
     "name": "thermostat",
     "platforms": "*",
     "repository": {

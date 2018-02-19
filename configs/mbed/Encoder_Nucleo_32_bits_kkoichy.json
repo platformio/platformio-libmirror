@@ -13,10 +13,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "baro",
-        "MS5611_01BA03",
-        "SPI",
-        "variometer"
+        "DC",
+        "motor",
+        "PM motor",
+        "bluetooth",
+        "bt",
+        "rtos"
     ],
     "name": "Encoder_Nucleo_32_bits",
     "platforms": "*",

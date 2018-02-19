@@ -9,8 +9,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Serial",
-        "BNO055"
+        "keypad",
+        "RA8875",
+        "Touchscreen",
+        "BNO055",
+        "Elmicro",
+        "FM25W256",
+        "FRAM",
+        "RAMTRON",
+        "SPI",
+        "SSP1"
     ],
     "name": "BOARDC_BNO055",
     "platforms": "*",

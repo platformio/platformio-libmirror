@@ -6,17 +6,9 @@
     "description": "4D LABS PICASO-SGC Command Set",
     "frameworks": "mbed",
     "keywords": [
-        "MAX14661",
-        "mux",
         "4D Systems",
         "LDC-43PCt",
-        "control",
-        "Kinematics",
-        "lauther",
-        "math",
-        "matrix",
-        "mobile",
-        "robot"
+        "GUI"
     ],
     "name": "LCD43PTC",
     "platforms": "*",

@@ -14,14 +14,10 @@
         "Sub-Ghz RF",
         "X-NUCLEO-IDS01A4",
         "X-NUCLEO-IDS01A4celo",
-        "FAT",
-        "LPC1114",
-        "SDCard",
-        "accelerometer",
-        "compass",
-        "eCompass",
-        "magnetometer",
-        "sensor"
+        "daisy-chain",
+        "L6470",
+        "SPI",
+        "Stepper"
     ],
     "name": "stm-spirit1-rf-driver",
     "platforms": "*",

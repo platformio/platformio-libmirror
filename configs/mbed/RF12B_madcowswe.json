@@ -9,11 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ICRS",
-        "rf12B",
         "HC-SR04",
         "Microbit",
-        "ultrasound"
+        "ultrasound",
+        "ICRS",
+        "rf12B"
     ],
     "name": "RF12B",
     "platforms": "*",

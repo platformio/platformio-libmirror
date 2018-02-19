@@ -11,12 +11,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "GraphicsDisplay",
+        "GUI",
+        "TextDisplay",
+        "6610",
+        "LCD",
+        "Nokia",
         "bar",
         "Grove",
         "led",
-        "GraphicsDisplay",
-        "GUI",
-        "TextDisplay"
+        "DS3231",
+        "ethernet",
+        "K64F",
+        "VL53L0X"
     ],
     "name": "GraphicsDisplay",
     "platforms": "*",

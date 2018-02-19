@@ -14,7 +14,13 @@
         "https://os.mbed.com/users/wolpra98/code/rtc_class2/"
     ],
     "frameworks": "mbed",
-    "keywords": "mbed",
+    "keywords": [
+        "inverse kinematics",
+        "mearm",
+        "robotic arm",
+        "servo motor",
+        "kalman"
+    ],
     "name": "RTC8563",
     "platforms": "*",
     "repository": {

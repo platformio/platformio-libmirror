@@ -8,14 +8,7 @@
         "https://os.mbed.com/users/stretch/code/CNCAirbrushCode/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "cube",
-        "led",
-        "F746NG",
-        "RTC",
-        "Touchscreen",
-        "CNCAirbrush"
-    ],
+    "keywords": "CNCAirbrush",
     "name": "CNCAirbrush",
     "platforms": "*",
     "repository": {

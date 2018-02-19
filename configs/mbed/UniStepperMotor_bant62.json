@@ -5,7 +5,12 @@
     },
     "description": "Unipolar Stepper Motor Library",
     "frameworks": "mbed",
-    "keywords": "UniStepperMotor",
+    "keywords": [
+        "BME280",
+        "AHRS",
+        "navigation",
+        "sensors"
+    ],
     "name": "UniStepperMotor",
     "platforms": "*",
     "repository": {

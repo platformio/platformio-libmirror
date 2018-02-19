@@ -9,17 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DHCP",
-        "EthernetInterface",
-        "actuators",
-        "commnunications",
-        "interfaces",
-        "sensors",
         "ADT7310",
         "Nucleo",
         "SPI",
-        "UIT",
-        "JY901"
+        "UIT"
     ],
     "name": "UIT_ADT7310",
     "platforms": "*",

@@ -8,15 +8,7 @@
         "https://os.mbed.com/users/pyeh9/code/lcd_menu/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "accelerometer",
-        "gyroscope",
-        "I2C",
-        "MPU-6050",
-        "MPU6050",
-        "MPU60x0",
-        "MPU9150"
-    ],
+    "keywords": "MMA8452",
     "name": "Menu",
     "platforms": "*",
     "repository": {

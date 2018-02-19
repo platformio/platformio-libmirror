@@ -9,11 +9,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "distance",
-        "eco",
-        "range",
-        "sonic",
-        "Ultra",
         "asynchronous",
         "Buffered",
         "FIFO",
@@ -23,7 +18,12 @@
         "UART",
         "Beep",
         "merody",
-        "sound"
+        "sound",
+        "distance",
+        "eco",
+        "range",
+        "sonic",
+        "Ultra"
     ],
     "name": "Ultrasonic",
     "platforms": "*",

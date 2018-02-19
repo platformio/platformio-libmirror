@@ -9,15 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Serial Communication",
-        "test console",
-        "test program",
+        "led",
+        "tricolor",
         "example",
         "kitt",
         "knightrider",
-        "led",
         "LPC1768",
-        "mbed"
+        "mbed",
+        "K64F"
     ],
     "name": "led_KnightRider",
     "platforms": "*",

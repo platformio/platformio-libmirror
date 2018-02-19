@@ -5,10 +5,7 @@
     },
     "description": "This makes the blink delay for a bit longer and the button presses are delayed too.",
     "frameworks": "mbed",
-    "keywords": [
-        "controller",
-        "Design"
-    ],
+    "keywords": "blink_kl46z_button_LCD_delays",
     "name": "blink_kl46z_button_LCD_delays",
     "platforms": "*",
     "repository": {

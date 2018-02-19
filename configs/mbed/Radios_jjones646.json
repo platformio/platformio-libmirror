@@ -6,10 +6,15 @@
     "description": "Radio Structures in OOP",
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "ISL1208",
-        "real time clock",
-        "RTC"
+        "buffer",
+        "circular",
+        "ring",
+        "array",
+        "Dynamic",
+        "typeless",
+        "delay",
+        "information",
+        "NextTrain"
     ],
     "name": "Radios",
     "platforms": "*",

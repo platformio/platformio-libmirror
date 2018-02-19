@@ -13,7 +13,10 @@
         "SX1272MB1DxS",
         "SX1276",
         "SX1276Lib",
-        "SX1276MB1xAS"
+        "SX1276MB1xAS",
+        "clock",
+        "KL25z",
+        "PLL"
     ],
     "name": "LoRaWAN-lib-dev",
     "platforms": "*",

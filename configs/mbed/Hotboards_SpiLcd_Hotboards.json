@@ -18,14 +18,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "Luminosity",
-        "Lux",
-        "sensor",
-        "Pokitto",
         "display",
         "hotboards",
-        "SPI"
+        "SPI",
+        "Dieter Graef",
+        "DISCO-F746",
+        "SDFileSystem",
+        "led",
+        "rgb",
+        "ws2801"
     ],
     "name": "Hotboards_SpiLcd",
     "platforms": "*",

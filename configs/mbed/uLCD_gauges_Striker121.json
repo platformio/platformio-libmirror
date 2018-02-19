@@ -8,7 +8,20 @@
         "https://os.mbed.com/users/Striker121/code/uLCDgaugeTest/"
     ],
     "frameworks": "mbed",
-    "keywords": "uLCD_gauges",
+    "keywords": [
+        "FAT",
+        "file",
+        "SD",
+        "System",
+        "accelerometer",
+        "gyroscope",
+        "IMU",
+        "STM32F0",
+        "APDS",
+        "APDS9960",
+        "Gesture",
+        "sensor"
+    ],
     "name": "uLCD_gauges",
     "platforms": "*",
     "repository": {

@@ -9,11 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "rn41",
         "clock",
         "ds1307",
         "RTC",
-        "time",
-        "DS3231m"
+        "time"
     ],
     "name": "RTclock",
     "platforms": "*",

@@ -17,7 +17,14 @@
         "https://os.mbed.com/users/Dautor/code/acn52832_Battery_Beacon/"
     ],
     "frameworks": "mbed",
-    "keywords": "crc8",
+    "keywords": [
+        "2645",
+        "accelerometer",
+        "fxos8700cq",
+        "I2C",
+        "magnetometer",
+        "nxp"
+    ],
     "name": "aconno_bsp",
     "platforms": "*",
     "repository": {

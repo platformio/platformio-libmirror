@@ -6,13 +6,12 @@
     "description": "INA219 (Texas Instruments) High-Side Measurement,Bi-Directional CURRENT/POWER MONITOR with I2C Interface",
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "IO expander",
         "current",
+        "I2C",
         "INA219",
         "T.I.",
-        "6610",
-        "Nokia"
+        "motor",
+        "stepping"
     ],
     "name": "INA219",
     "platforms": "*",

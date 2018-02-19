@@ -12,15 +12,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "LCD",
+        "Serial",
+        "sparkfun",
         "4D",
         "96",
         "inch",
-        "LCD",
         "micro",
         "OLED",
-        "uOLED",
-        "motor",
-        "stepping"
+        "uOLED"
     ],
     "name": "uOLED",
     "platforms": "*",

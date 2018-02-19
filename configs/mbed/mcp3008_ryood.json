@@ -11,8 +11,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "CNMAT",
-        "osc"
+        "aqm0802",
+        "I2C",
+        "LCD"
     ],
     "name": "mcp3008",
     "platforms": "*",

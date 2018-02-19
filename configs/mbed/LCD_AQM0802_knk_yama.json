@@ -5,12 +5,7 @@
     },
     "description": "printf() on AQM0802",
     "frameworks": "mbed",
-    "keywords": [
-        "EthernetInterface",
-        "network",
-        "TFTP",
-        "UDP"
-    ],
+    "keywords": "LCD_AQM0802",
     "name": "LCD_AQM0802",
     "platforms": "*",
     "repository": {
