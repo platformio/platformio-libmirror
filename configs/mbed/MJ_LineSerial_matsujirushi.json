@@ -6,13 +6,10 @@
     "description": "Interactive functions for UART.",
     "frameworks": "mbed",
     "keywords": [
-        "Gameduino",
-        "VGA",
-        "LIN",
-        "master",
-        "Melexis",
-        "MLX",
-        "USB"
+        "16",
+        "HT1621",
+        "LCD",
+        "segment"
     ],
     "name": "MJ_LineSerial",
     "platforms": "*",

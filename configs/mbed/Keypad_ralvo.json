@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Ramon Calvo",
+        "url": "https://os.mbed.com/users/ralvo/"
+    },
+    "description": "A basic keypad library. It uses C++ STL. May contain some bugs. Use at your own risk.",
+    "examples": [
+        "https://os.mbed.com/users/ralvo/code/GraphingcalculatorMk2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Keypad",
+    "name": "Keypad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ralvo/code/Keypad/"
+    }
+}

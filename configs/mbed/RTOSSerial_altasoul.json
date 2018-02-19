@@ -16,10 +16,7 @@
         "LCD",
         "rtos",
         "Serial",
-        "UART",
-        "KL25z",
-        "MAG3110",
-        "Wi-Go"
+        "UART"
     ],
     "name": "RTOS-Serial",
     "platforms": "*",

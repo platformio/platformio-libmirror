@@ -11,7 +11,14 @@
         "ip",
         "MIT License",
         "networking",
-        "UDP"
+        "UDP",
+        "DISCO-STM32F746NG",
+        "flash",
+        "Micron",
+        "QSPI",
+        "Quad-SPI",
+        "ST",
+        "NZ32-SC151"
     ],
     "name": "snet",
     "platforms": "*",

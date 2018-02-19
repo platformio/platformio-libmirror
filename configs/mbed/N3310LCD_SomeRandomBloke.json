@@ -10,12 +10,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "3310",
-        "5110",
-        "Nokia",
+        "networking",
+        "socket",
+        "TCP",
+        "UDP",
         "Linked",
         "Linked List",
-        "List"
+        "List",
+        "3310",
+        "5110",
+        "Nokia"
     ],
     "name": "N3310LCD",
     "platforms": "*",

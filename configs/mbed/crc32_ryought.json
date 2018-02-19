@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Ryo Nakabayashi",
+        "url": "https://os.mbed.com/users/ryought/"
+    },
+    "description": "calc crc32 of char",
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE Bluetooth Low Energy BLE",
+        "Bluetooth 4.0 Low Energy 4.0 ble HM-11 Hm11 Ble",
+        "http",
+        "proxy"
+    ],
+    "name": "crc32",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ryought/code/crc32/"
+    }
+}

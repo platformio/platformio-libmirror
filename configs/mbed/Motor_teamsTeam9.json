@@ -6,13 +6,11 @@
     "description": "Motor control library - worjking for checkpoint.",
     "frameworks": "mbed",
     "keywords": [
-        "ELEC3880",
-        "gait",
-        "hexapod",
-        "Leeds",
-        "PCA9685",
-        "robot",
-        "Servo"
+        "Alps",
+        "EC11",
+        "Encoder",
+        "quadrature",
+        "switch"
     ],
     "name": "Motor",
     "platforms": "*",

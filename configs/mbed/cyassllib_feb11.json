@@ -9,7 +9,13 @@
         "https://os.mbed.com/users/glbast/code/TLS_cyassl/"
     ],
     "frameworks": "mbed",
-    "keywords": "cyassl-lib",
+    "keywords": [
+        "balls",
+        "elements",
+        "games",
+        "retro",
+        "things"
+    ],
     "name": "cyassl-lib",
     "platforms": "*",
     "repository": {

@@ -7,8 +7,10 @@
     "frameworks": "mbed",
     "keywords": [
         "accelerometer",
-        "LandTiger",
-        "SSD1289"
+        "TTL74HC595",
+        "Energy Meter",
+        "frequency",
+        "measurement"
     ],
     "name": "MMA7260Q",
     "platforms": "*",

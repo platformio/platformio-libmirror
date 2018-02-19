@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jackson Lv",
+        "url": "https://os.mbed.com/users/Jackson_lv/"
+    },
+    "description": "using PWM to control RGB LED for RedBear Demo",
+    "frameworks": "mbed",
+    "keywords": "PWM_RGB",
+    "name": "PWM_RGB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Jackson_lv/code/PWM_RGB/"
+    }
+}

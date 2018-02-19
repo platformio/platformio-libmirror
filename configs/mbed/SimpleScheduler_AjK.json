@@ -7,11 +7,12 @@
     "frameworks": "mbed",
     "keywords": [
         "Scheduler",
-        "brushDC",
-        "low power",
-        "motor",
-        "ST",
-        "STSPIN240"
+        "NTP",
+        "SNTP",
+        "SNTPClinet",
+        "GPS",
+        "interrupt",
+        "NMEA"
     ],
     "name": "SimpleScheduler",
     "platforms": "*",

@@ -9,12 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "mbed",
-        "ds1307",
-        "DS3231m",
-        "CyaSSL",
-        "https",
-        "SSL"
+        "LCD",
+        "ST7565",
+        "TextLCD",
+        "evrythng",
+        "4DGL"
     ],
     "name": "pH_Sensor",
     "platforms": "*",

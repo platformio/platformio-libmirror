@@ -6,11 +6,9 @@
     "description": "10bit ADC Microchip MCP3002 Library",
     "frameworks": "mbed",
     "keywords": [
-        "JPEG",
         "adc",
         "MCP",
-        "MCP3002",
-        "Creation"
+        "MCP3002"
     ],
     "name": "MCP3002",
     "platforms": "*",

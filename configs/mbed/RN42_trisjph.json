@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Tristan Hughes",
+        "url": "https://os.mbed.com/users/trisjph/"
+    },
+    "description": "test",
+    "examples": [
+        "https://os.mbed.com/users/trisjph/code/Super_Hans_BT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "bluepill",
+        "stm32f103c8",
+        "STM32F103C8T6",
+        "STM32F103CB",
+        "STM32F103CBT6",
+        "C12832",
+        "C12832A1Z",
+        "MBED Application Board"
+    ],
+    "name": "RN42",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/trisjph/code/RN42/"
+    }
+}

@@ -9,11 +9,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "16x4",
+        "array",
+        "I2C",
+        "infrared",
+        "IR",
+        "Temperature",
         "display",
         "LCD",
-        "compass",
-        "DISCO_L476VG",
-        "LSM303"
+        "current",
+        "INA226",
+        "T.I."
     ],
     "name": "ExtTextLCD",
     "platforms": "*",

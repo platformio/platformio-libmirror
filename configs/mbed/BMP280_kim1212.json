@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "yuki kimura",
+        "url": "https://os.mbed.com/users/kim1212/"
+    },
+    "description": "BMP280から気圧データを取得します。updateで更新動作、getpressで値を読み出します",
+    "examples": [
+        "https://os.mbed.com/users/kim1212/code/SensorManager/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BMP280",
+    "name": "BMP280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kim1212/code/BMP280/"
+    }
+}

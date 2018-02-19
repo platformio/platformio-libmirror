@@ -6,9 +6,14 @@
     "description": "provide trigonometric functions with LUT.",
     "frameworks": "mbed",
     "keywords": [
-        "cli",
-        "term",
-        "Terminal"
+        "aconno",
+        "I2C",
+        "consumption",
+        "control",
+        "ethernet",
+        "Management",
+        "Power",
+        "PowerControl"
     ],
     "name": "LUTTrigonometric",
     "platforms": "*",

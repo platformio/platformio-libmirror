@@ -5,11 +5,7 @@
     },
     "description": "私のspislaveクラスに対応したSPIマスタークラス",
     "frameworks": "mbed",
-    "keywords": [
-        "DS18B20",
-        "IEEE488",
-        "SCPI"
-    ],
+    "keywords": "spi",
     "name": "spi",
     "platforms": "*",
     "repository": {

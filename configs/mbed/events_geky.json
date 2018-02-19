@@ -9,12 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "em-406",
-        "GPS",
-        "MTK3339",
-        "NMEA",
-        "Serial",
-        "UART"
+        "NET",
+        "network",
+        "stream",
+        "TCP",
+        "v1.0",
+        "Agent",
+        "Net-SNMP",
+        "SNMP"
     ],
     "name": "events",
     "platforms": "*",

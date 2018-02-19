@@ -6,13 +6,13 @@
     "description": "123",
     "frameworks": "mbed",
     "keywords": [
-        "game",
-        "inheritance",
-        "OOP",
-        "polymorphism",
-        "tutorial",
-        "CNMAT",
-        "osc"
+        "accelerometer",
+        "I2C",
+        "MMA8452Q",
+        "buffer",
+        "BufferedSerial",
+        "BufferSerial",
+        "Serial"
     ],
     "name": "ELEC350",
     "platforms": "*",

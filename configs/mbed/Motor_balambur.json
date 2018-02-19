@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Farkas Felix Attila",
+        "url": "https://os.mbed.com/users/balambur/"
+    },
+    "description": "Motor",
+    "examples": [
+        "https://os.mbed.com/users/probst/code/ServoLab/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "parallax",
+        "PING",
+        "ping)))",
+        "sensor",
+        "ultrasonic",
+        "Servo",
+        "servo pulse",
+        "WSE",
+        "timer",
+        "Ton",
+        "wait"
+    ],
+    "name": "Motor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/balambur/code/Motor/"
+    }
+}

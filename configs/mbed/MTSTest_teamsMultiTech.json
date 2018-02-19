@@ -14,16 +14,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "parser",
-        "tinyxml",
-        "xml",
-        "ATP3011",
-        "I2C",
-        "cmsis",
-        "L152",
-        "Nucleo",
-        "rtos",
-        "RTX"
+        "tcp/ip",
+        "WebSocket"
     ],
     "name": "MTS-Test",
     "platforms": "*",

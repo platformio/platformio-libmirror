@@ -18,18 +18,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "ILI9341",
+        "TFT",
         "BLE",
         "nRF8001",
         "RedBearLab",
         "led",
         "led strip",
-        "MPU-9250",
         "FRDM",
         "KL46",
         "kl46z",
         "LCD",
         "SLCD",
-        "touch"
+        "MPU-9250"
     ],
     "name": "BLE_nRF8001",
     "platforms": "*",

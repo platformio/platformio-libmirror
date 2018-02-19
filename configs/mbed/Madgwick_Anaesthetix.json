@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Erik van de Coevering",
+        "url": "https://os.mbed.com/users/Anaesthetix/"
+    },
+    "description": "Library implementing Madgwick's IMU and AHRS algorithms",
+    "examples": [
+        "https://os.mbed.com/users/whatnick/code/Hexi_GPSIMU_Hotshoe/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "full-scale",
+        "ITG3200",
+        "AHRS",
+        "IMU",
+        "kalman",
+        "Madgwick"
+    ],
+    "name": "Madgwick",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Anaesthetix/code/Madgwick/"
+    }
+}

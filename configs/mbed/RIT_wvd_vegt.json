@@ -11,15 +11,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "software",
+        "dynamixel",
+        "MX28",
+        "Servo",
+        "RIT",
         "1-wire",
         "DS18B20",
-        "RIT",
-        "SuperTweet",
-        "adc",
-        "dac",
-        "PCF8591"
+        "SuperTweet"
     ],
     "name": "RIT",
     "platforms": "*",

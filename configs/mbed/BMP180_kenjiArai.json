@@ -10,7 +10,16 @@
         "https://os.mbed.com/users/Kemix/code/ProjectIOT/"
     ],
     "frameworks": "mbed",
-    "keywords": "BMP180",
+    "keywords": [
+        "HC05",
+        "4D system",
+        "LCD",
+        "Picaso",
+        "Freescale",
+        "mbed",
+        "CAN",
+        "Queue"
+    ],
     "name": "BMP180",
     "platforms": "*",
     "repository": {

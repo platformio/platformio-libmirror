@@ -13,7 +13,9 @@
         "GPS",
         "latitude",
         "longitude",
-        "navigation"
+        "navigation",
+        "LEDcontroller",
+        "TM1637"
     ],
     "name": "GeoPosition",
     "platforms": "*",

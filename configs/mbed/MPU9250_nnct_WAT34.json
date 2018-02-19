@@ -6,18 +6,19 @@
     "description": "This is a library of MPU-9250 9 axis sensor.",
     "frameworks": "mbed",
     "keywords": [
+        "ILI9341",
+        "TFT",
         "BLE",
         "nRF8001",
         "RedBearLab",
         "led",
         "led strip",
-        "MPU-9250",
         "FRDM",
         "KL46",
         "kl46z",
         "LCD",
         "SLCD",
-        "touch"
+        "MPU-9250"
     ],
     "name": "MPU-9250_nnct",
     "platforms": "*",

@@ -6,10 +6,11 @@
     "description": "Text console library for ST7032 text LCD controller over I2C interface.",
     "frameworks": "mbed",
     "keywords": [
+        "MPU9250",
+        "1.0.3",
         "LCD",
         "ST7032",
-        "TextLCD",
-        "mbed"
+        "TextLCD"
     ],
     "name": "TextLCD_ST7032I2C",
     "platforms": "*",

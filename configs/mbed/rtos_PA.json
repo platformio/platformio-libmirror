@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Pierre-Alexandre Geraert",
+        "url": "https://os.mbed.com/users/PA/"
+    },
+    "description": "rtos",
+    "frameworks": "mbed",
+    "keywords": [
+        "BME280",
+        "DHT22",
+        "RHT03",
+        "cpp",
+        "ethernet",
+        "network",
+        "TCP",
+        "UDP"
+    ],
+    "name": "rtos",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/PA/code/rtos/"
+    }
+}

@@ -10,12 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Arduino mbed commands",
-        "HD44780 LCD text custom char 16X2",
-        "I2C",
-        "led cube",
         "etti",
-        "TUIASI"
+        "TUIASI",
+        "hih6130",
+        "Humidity",
+        "I2C",
+        "sensor",
+        "Temperature",
+        "D6F-PH",
+        "pressure"
     ],
     "name": "ThreePhaseBridge",
     "platforms": "*",

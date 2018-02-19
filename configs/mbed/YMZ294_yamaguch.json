@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Hiroshi Yamaguchi",
+        "url": "https://os.mbed.com/users/yamaguch/"
+    },
+    "description": "YAMAHA Sound Generator LSI YMZ294 interface",
+    "examples": [
+        "https://os.mbed.com/users/yamaguch/code/Workshop_SSG/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "SSG",
+        "YMZ294",
+        "PCM",
+        "pulse",
+        "RC",
+        "Servo",
+        "ServoIn",
+        "accelerometer",
+        "eCompass",
+        "fast",
+        "FRDM-KL46Z",
+        "magnetometer"
+    ],
+    "name": "YMZ294",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yamaguch/code/YMZ294/"
+    }
+}

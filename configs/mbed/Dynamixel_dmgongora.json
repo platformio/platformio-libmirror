@@ -8,7 +8,14 @@
         "https://os.mbed.com/users/dmgongora/code/dynamixel_wheel_test/"
     ],
     "frameworks": "mbed",
-    "keywords": "dynamixel",
+    "keywords": [
+        "dynamixel",
+        "dac",
+        "more pwm",
+        "pwm",
+        "pwm 48Mhz",
+        "pwmdac"
+    ],
     "name": "Dynamixel",
     "platforms": "*",
     "repository": {

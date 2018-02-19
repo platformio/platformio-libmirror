@@ -6,12 +6,16 @@
     "description": "Display librairy",
     "frameworks": "mbed",
     "keywords": [
-        "display",
         "led",
-        "TextLCD",
-        "api",
-        "CSR",
-        "GPS"
+        "LED controller",
+        "led driver",
+        "PCA9622",
+        "PCA9624",
+        "PCA9626",
+        "PCA962x",
+        "pwm",
+        "display",
+        "TextLCD"
     ],
     "name": "Display",
     "platforms": "*",

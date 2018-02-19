@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Mike Moore",
+        "url": "https://os.mbed.com/users/gatedClock/"
+    },
+    "description": "watchdog timer. this is a derived work.",
+    "examples": [
+        "https://os.mbed.com/users/gatedClock/code/Embedded_RTOS_Project/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MPU9250",
+        "1.0.3",
+        "LCD",
+        "ST7032",
+        "TextLCD"
+    ],
+    "name": "watchdog",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gatedClock/code/watchdog/"
+    }
+}

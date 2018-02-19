@@ -7,10 +7,8 @@
     "frameworks": "mbed",
     "keywords": [
         "DigitalFilter",
-        "lifting",
-        "Transformada",
-        "unillanos",
-        "wavelet"
+        "controller",
+        "PID"
     ],
     "name": "DigitalFilter",
     "platforms": "*",

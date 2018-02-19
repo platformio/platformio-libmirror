@@ -18,11 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Art-Net",
-        "DMX",
-        "DMX512",
-        "ethernet",
-        "UDP",
         "9-axis",
         "acc",
         "BNO055",
@@ -30,7 +25,12 @@
         "gyro",
         "MAG",
         "orientation",
-        "sensor"
+        "sensor",
+        "Art-Net",
+        "DMX",
+        "DMX512",
+        "ethernet",
+        "UDP"
     ],
     "name": "BNO055_fusion",
     "platforms": "*",

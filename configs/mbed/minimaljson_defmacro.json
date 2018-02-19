@@ -8,7 +8,10 @@
         "https://os.mbed.com/teams/Avnet/code/WNCInterface_M2XMQTTdemo/"
     ],
     "frameworks": "mbed",
-    "keywords": "GPS",
+    "keywords": [
+        "WS2812",
+        "RX8025"
+    ],
     "name": "minimal-json",
     "platforms": "*",
     "repository": {

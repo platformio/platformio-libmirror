@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "frederic blanc",
+        "url": "https://os.mbed.com/users/fblanc/"
+    },
+    "description": "The AD8556 is a zero-drift, sensor signal amplifier with digitally programmable gain and output offset.",
+    "examples": [
+        "https://os.mbed.com/users/fblanc/code/AD8556_HelloWolrd/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AD8556",
+        "amplifier",
+        "sensor",
+        "signal"
+    ],
+    "name": "AD8556",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fblanc/code/AD8556/"
+    }
+}

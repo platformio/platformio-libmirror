@@ -8,7 +8,17 @@
         "https://os.mbed.com/users/syundo0730/code/Hobby_Humanoid_controlor/"
     ],
     "frameworks": "mbed",
-    "keywords": "RS300",
+    "keywords": [
+        "I2C",
+        "MAX30101",
+        "MSS",
+        "MSU",
+        "ICRS",
+        "rf12B",
+        "api",
+        "blink",
+        "led"
+    ],
     "name": "RS300",
     "platforms": "*",
     "repository": {

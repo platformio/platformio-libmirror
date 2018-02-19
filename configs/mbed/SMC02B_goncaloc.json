@@ -6,9 +6,15 @@
     "description": "Control the Pololu SMC02B",
     "frameworks": "mbed",
     "keywords": [
+        "ePaper",
+        "EPD",
+        "GDEP015",
+        "GDEP015OC1",
         "controller",
         "motor",
-        "Serial"
+        "Serial",
+        "debounce",
+        "Input"
     ],
     "name": "SMC02B",
     "platforms": "*",

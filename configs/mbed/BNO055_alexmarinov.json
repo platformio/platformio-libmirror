@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Alex Marinov",
+        "url": "https://os.mbed.com/users/alexmarinov/"
+    },
+    "description": "mbed library for the Bosh BNO055 9 axis sensor",
+    "frameworks": "mbed",
+    "keywords": [
+        "BNO055",
+        "sensor",
+        "accelerometer",
+        "gyroscope",
+        "I2C",
+        "MPU-6050",
+        "MPU6050",
+        "MPU60x0"
+    ],
+    "name": "BNO055",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/alexmarinov/code/BNO055/"
+    }
+}

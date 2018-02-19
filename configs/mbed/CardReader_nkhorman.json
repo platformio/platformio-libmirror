@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Neal Horman",
+        "url": "https://os.mbed.com/users/nkhorman/"
+    },
+    "description": "Wiegand card reader driver library",
+    "frameworks": "mbed",
+    "keywords": [
+        "card",
+        "reader",
+        "Wiegand"
+    ],
+    "name": "CardReader",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nkhorman/code/CardReader/"
+    }
+}

@@ -9,16 +9,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "16x4",
-        "LCD",
-        "Pulsewidth",
-        "wait",
         "agriculture",
         "Chirp",
         "driver",
         "I2C",
         "sensor",
-        "soil moisture"
+        "soil moisture",
+        "flash",
+        "IS25LQ032B",
+        "ISSI",
+        "SPI"
     ],
     "name": "Chirp",
     "platforms": "*",

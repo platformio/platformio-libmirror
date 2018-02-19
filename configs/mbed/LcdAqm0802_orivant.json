@@ -6,6 +6,8 @@
     "description": "LCDモジュール AQM0802 を制御するクラス",
     "frameworks": "mbed",
     "keywords": [
+        "AT93C46",
+        "EEPROM",
         "aqm0802",
         "I2C",
         "LCD"

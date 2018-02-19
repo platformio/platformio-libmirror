@@ -9,7 +9,10 @@
         "https://os.mbed.com/users/levkovigor/code/levkov_ov7670/"
     ],
     "frameworks": "mbed",
-    "keywords": "AppleRemote",
+    "keywords": [
+        "etti",
+        "TUIASI"
+    ],
     "name": "zbar_010",
     "platforms": "*",
     "repository": {

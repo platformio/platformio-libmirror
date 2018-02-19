@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Tatsuki Fukuda",
+        "url": "https://os.mbed.com/users/lelect/"
+    },
+    "description": "秋月販売のL3GD20使用8pinDIPジャイロセンサーモジュールのライブラリです。",
+    "frameworks": "mbed",
+    "keywords": [
+        "Sensirion",
+        "SHT21",
+        "touch",
+        "display",
+        "graphic",
+        "LCD",
+        "QVGA",
+        "TFT",
+        "L3GD20"
+    ],
+    "name": "L3GD20",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lelect/code/L3GD20/"
+    }
+}

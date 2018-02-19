@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "Have you tried to develop a key input feature on your small embedded platform with a serial input? It is not so easy to implement correctly because the input methodology is using a complicated protocol known as VT100. In my recent project \"Natural Tiny Shell (NT-Shell)\" provides VT100 compatible terminal control features for small embedded systems. However, the middleware is still large for small embedded processors such as 8-bit MCUs, 16-bit MCUs and also for small 32-bit MCUs like Cortex-M0. This \"MicroShell\" middleware provides a minimal terminal control for the platforms.",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/MicroShellExample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "COMMAND PARSER",
+        "Serial",
+        "shell",
+        "VT100"
+    ],
+    "name": "MicroShell",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/MicroShell/"
+    }
+}

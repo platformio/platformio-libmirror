@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Sonar Team",
+        "url": "https://os.mbed.com/users/EDS_Ltd/"
+    },
+    "description": "cmd_io library for use with WattBob v1",
+    "examples": [
+        "https://os.mbed.com/users/Nurbol/code/Test_IR_value_2sensors/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "3.5mm",
+        "music",
+        "sound",
+        "Beep",
+        "MML",
+        "play",
+        "pwm",
+        "MQTT",
+        "Lora",
+        "Semtech",
+        "SX1272",
+        "SX1272Lib",
+        "SX1272MB1DxS",
+        "SX1276",
+        "SX1276Lib",
+        "SX1276MB1xAS"
+    ],
+    "name": "cmd_io",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/EDS_Ltd/code/cmd_io/"
+    }
+}

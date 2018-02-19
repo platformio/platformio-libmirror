@@ -16,17 +16,9 @@
     "keywords": [
         "Lora",
         "senet",
-        "LCD",
-        "SSD1289",
-        "TFT",
-        "TFT320_QVT",
-        "6005BG00",
-        "buzzcard",
-        "HID",
-        "ProxCard",
-        "ProxPoint",
-        "RFID",
-        "Wiegand"
+        "library",
+        "motor",
+        "Stepper"
     ],
     "name": "Senet_Packet",
     "platforms": "*",

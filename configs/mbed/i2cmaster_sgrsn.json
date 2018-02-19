@@ -8,15 +8,7 @@
         "https://os.mbed.com/teams/robocon_2016/code/2016_mother_3/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "I2C",
-        "inair4",
-        "inair8",
-        "inair9",
-        "Lora",
-        "modtronix",
-        "SX1276"
-    ],
+    "keywords": "I2C",
     "name": "i2cmaster",
     "platforms": "*",
     "repository": {

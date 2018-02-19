@@ -18,9 +18,13 @@
     "frameworks": "mbed",
     "keywords": [
         "Lidar",
-        "clock",
-        "real time clock",
-        "RTC"
+        "bmp085",
+        "I2C",
+        "display",
+        "Freedom",
+        "kl46z",
+        "LCD",
+        "segment"
     ],
     "name": "LidarLitev2",
     "platforms": "*",

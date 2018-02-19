@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Jeroen Hilgers",
+        "url": "https://os.mbed.com/users/hilgo/"
+    },
+    "description": "Driver for a 128x64 pixels graphic LCD panel based on a KS0723 driver from Samsung.",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "KS0723",
+        "LCD",
+        "Samsung"
+    ],
+    "name": "LcdKs0723",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hilgo/code/LcdKs0723/"
+    }
+}

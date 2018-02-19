@@ -9,7 +9,14 @@
         "EA",
         "Graphics",
         "OLED",
-        "SPI"
+        "SPI",
+        "14A2A",
+        "ATT",
+        "avnet",
+        "Cellular",
+        "modem",
+        "WNC",
+        "WncController"
     ],
     "name": "EAQVGAOLED",
     "platforms": "*",

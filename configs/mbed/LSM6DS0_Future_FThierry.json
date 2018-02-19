@@ -8,13 +8,7 @@
         "https://os.mbed.com/users/Future_FThierry/code/Nucleo_test_accelero/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "compass",
-        "driver",
-        "HMC5583L",
-        "I2C",
-        "sensor"
-    ],
+    "keywords": "LSM6DS0",
     "name": "LSM6DS0",
     "platforms": "*",
     "repository": {

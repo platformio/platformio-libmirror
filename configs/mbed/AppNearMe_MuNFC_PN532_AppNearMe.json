@@ -13,12 +13,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "AppNearMe",
+        "NFC",
         "External SD",
         "file system",
         "SDHC",
         "SPI",
-        "AppNearMe",
-        "NFC",
         "fatfilesystem",
         "LocalFileSystem",
         "USBMSD"

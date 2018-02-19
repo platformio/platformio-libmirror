@@ -6,16 +6,11 @@
     "description": "ASK25 4Bit LCD Code",
     "frameworks": "mbed",
     "keywords": [
-        "Capacitive",
-        "Input",
-        "sensor",
-        "touch",
-        "GoogleChart",
-        "DMX-512",
         "edutech",
         "EPB",
         "EPB_TextLCD",
-        "LCD"
+        "LCD",
+        "DMX-512"
     ],
     "name": "EPB_TextLCD",
     "platforms": "*",

@@ -6,9 +6,6 @@
     "description": "A class to handle reading, scaling and filtering horizontal and vertical position, and rise/fall interrupts for the button.",
     "frameworks": "mbed",
     "keywords": [
-        "Beep",
-        "sound",
-        "tone",
         "Addressable",
         "led",
         "rgb",
@@ -17,9 +14,9 @@
         "ws2801",
         "IR",
         "Receiver",
-        "motor",
-        "Stepper",
-        "unipolar",
+        "Beep",
+        "sound",
+        "tone",
         "joystick",
         "SDFileSystem",
         "STM32F746"

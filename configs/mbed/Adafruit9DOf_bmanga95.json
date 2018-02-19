@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Bruno Manganelli",
+        "url": "https://os.mbed.com/users/bmanga95/"
+    },
+    "description": "Port of Adafruit Arduino code",
+    "frameworks": "mbed",
+    "keywords": [
+        "Analog Devices",
+        "drivers",
+        "mbed",
+        "Adafruit",
+        "GFX",
+        "I2C",
+        "OLED",
+        "SPI",
+        "SSD1306"
+    ],
+    "name": "Adafruit9-DOf",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bmanga95/code/Adafruit9-DOf/"
+    }
+}

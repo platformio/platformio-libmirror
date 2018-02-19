@@ -16,15 +16,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "motor",
-        "PCA9629",
-        "Stepper",
-        "DC motor",
-        "h bridge",
-        "L293D",
-        "l298n",
-        "pwm",
-        "SPI"
+        "limiter",
+        "rate"
     ],
     "name": "MultiSerial",
     "platforms": "*",

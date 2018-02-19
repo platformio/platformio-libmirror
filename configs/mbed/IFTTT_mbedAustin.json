@@ -18,10 +18,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "GPS",
         "if this then that",
         "IFTTT",
         "maker channel",
-        "maker.ifttt.com"
+        "maker.ifttt.com",
+        "WS2811",
+        "WS2812",
+        "WS2812B"
     ],
     "name": "IFTTT",
     "platforms": "*",

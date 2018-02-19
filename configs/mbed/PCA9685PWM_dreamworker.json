@@ -14,9 +14,9 @@
         "Nucleo",
         "PCA9685",
         "pwm controller",
-        "802.15.4",
-        "wireless",
-        "xbee"
+        "rpc",
+        "BSP",
+        "DISCO_L476VG"
     ],
     "name": "PCA9685PWM",
     "platforms": "*",

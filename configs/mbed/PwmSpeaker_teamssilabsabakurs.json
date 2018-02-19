@@ -8,7 +8,14 @@
         "https://os.mbed.com/teams/silabs-abakurs/code/PwmSpeaker-Example/"
     ],
     "frameworks": "mbed",
-    "keywords": "PwmSpeaker",
+    "keywords": [
+        "inAir",
+        "SX1276",
+        "SX1278",
+        "I2C",
+        "1621",
+        "ds1621"
+    ],
     "name": "PwmSpeaker",
     "platforms": "*",
     "repository": {

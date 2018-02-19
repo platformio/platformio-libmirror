@@ -1,0 +1,41 @@
+{
+    "authors": {
+        "name": "Nenad Milosevic",
+        "url": "https://os.mbed.com/users/synvox/"
+    },
+    "description": "Driver and Graphics library for MicroOLED 0.66'' (64 x 48 pixel) display with SSD1306 controller. Display can be obtained from Sparkfun or from diverse Chinese sellers (similar displays) via Aliexpress. Display is driven via SPI. The library can be very easily adapted to other OLED displays (up to 128 x 64 pixel) with SSD1306 controller by setting defines and changing controller init commands accordingly.",
+    "examples": [
+        "https://os.mbed.com/users/synvox/code/MicroOLED_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "uLCD-32PT(SGS)",
+        "distance",
+        "driver",
+        "sensor",
+        "VL6180x",
+        "display",
+        "MicroOLED",
+        "OLED",
+        "sparkfun",
+        "SPI",
+        "SSD1306",
+        "DHT11",
+        "DHT22",
+        "Humidity",
+        "Temperature",
+        "1",
+        "1-wire",
+        "DS1820",
+        "Maxim",
+        "one",
+        "OneWire",
+        "Wire"
+    ],
+    "name": "SFE_MicroOLED",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/synvox/code/SFE_MicroOLED/"
+    }
+}

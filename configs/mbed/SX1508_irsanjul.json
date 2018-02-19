@@ -6,14 +6,9 @@
     "description": "Prototype of SX1508's library",
     "frameworks": "mbed",
     "keywords": [
-        "dns",
-        "getHostByName",
-        "network",
         "1508",
         "LPC1768",
-        "sx1508",
-        "LCD2S",
-        "modtronix"
+        "sx1508"
     ],
     "name": "SX1508",
     "platforms": "*",

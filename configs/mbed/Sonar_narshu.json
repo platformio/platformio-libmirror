@@ -6,12 +6,17 @@
     "description": "Sonar",
     "frameworks": "mbed",
     "keywords": [
+        "motor",
+        "Stepper",
         "free",
         "malloc",
         "memory",
         "Oscilloscope",
         "RAM",
-        "scope"
+        "scope",
+        "Parallax X-Band",
+        "Radar",
+        "X-Band"
     ],
     "name": "Sonar",
     "platforms": "*",

@@ -11,9 +11,7 @@
         "count",
         "external clock",
         "MHz",
-        "pulse",
-        "filter",
-        "kalman"
+        "pulse"
     ],
     "name": "PulseCounter",
     "platforms": "*",

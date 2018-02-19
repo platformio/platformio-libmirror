@@ -8,7 +8,10 @@
         "https://os.mbed.com/users/morecat_lab/code/spi7seg_test/"
     ],
     "frameworks": "mbed",
-    "keywords": "spi7Seg",
+    "keywords": [
+        "migool",
+        "BLE"
+    ],
     "name": "spi7Seg",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Austin Ward",
+        "url": "https://os.mbed.com/users/ifwui/"
+    },
+    "description": "Library to interface mbed with ArduIMU",
+    "examples": [
+        "https://os.mbed.com/users/ifwui/code/ArduIMUHelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "F411",
+        "Frequency Counter",
+        "mbed",
+        "chip select",
+        "master",
+        "Serial",
+        "SPI",
+        "AX-12",
+        "ax12",
+        "IOT",
+        "dynamixel"
+    ],
+    "name": "ArduIMULib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ifwui/code/ArduIMULib/"
+    }
+}

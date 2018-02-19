@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Chris H",
+        "url": "https://os.mbed.com/users/ChrisselH/"
+    },
+    "description": "Libs for using Nucleo STM32F411 periphery",
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "F411RE",
+        "Nucleo",
+        "quadrature",
+        "SPI",
+        "stm32",
+        "timer"
+    ],
+    "name": "NUCLEO_F411_HW_LIB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ChrisselH/code/NUCLEO_F411_HW_LIB/"
+    }
+}

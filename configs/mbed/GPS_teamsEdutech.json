@@ -6,8 +6,8 @@
     "description": "GNSS library",
     "frameworks": "mbed",
     "keywords": [
-        "RFID",
-        "RFID-RC522"
+        "tcp/ip",
+        "WebSocket"
     ],
     "name": "GPS",
     "platforms": "*",

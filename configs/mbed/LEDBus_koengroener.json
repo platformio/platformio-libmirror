@@ -10,10 +10,7 @@
         "led",
         "NeoPixel",
         "rgb",
-        "WS2812",
-        "GR-PEACH",
-        "MQTT",
-        "MQTTClient"
+        "WS2812"
     ],
     "name": "LEDBus",
     "platforms": "*",

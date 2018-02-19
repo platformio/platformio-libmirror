@@ -10,16 +10,8 @@
     "frameworks": "mbed",
     "keywords": [
         "LCD",
-        "FRDM-KL25Z",
-        "I2C",
-        "MSS",
-        "MSU",
-        "VCNL4020",
-        "Vishay",
-        "Humidity",
-        "sensor",
-        "sure",
-        "Temperature"
+        "BMC150",
+        "PCA9635"
     ],
     "name": "jtlcd",
     "platforms": "*",

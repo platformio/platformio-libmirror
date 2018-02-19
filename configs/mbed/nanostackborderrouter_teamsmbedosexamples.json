@@ -6,9 +6,10 @@
     "description": ".",
     "frameworks": "mbed",
     "keywords": [
-        "1wire",
-        "DS1820",
-        "DS2482"
+        "BME280",
+        "Low_Power",
+        "LPC1114",
+        "LPC1114FN28"
     ],
     "name": "nanostack-border-router",
     "platforms": "*",

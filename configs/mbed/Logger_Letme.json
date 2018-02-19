@@ -6,6 +6,9 @@
     "description": "Logger library enables you to use unified interface to send out or receive data using one function with different parameters. You leave buffer overflows to this library as it handles it all.",
     "frameworks": "mbed",
     "keywords": [
+        "buzzer",
+        "song",
+        "sound",
         "buffer",
         "debug",
         "debugging",

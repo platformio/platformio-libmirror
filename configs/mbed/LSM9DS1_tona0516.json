@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Naoya Toyozumi",
+        "url": "https://os.mbed.com/users/tona0516/"
+    },
+    "description": "LSM9DS1",
+    "examples": [
+        "https://os.mbed.com/users/tona0516/code/Zumipen/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BME280",
+        "Low_Power",
+        "LPC1114",
+        "LPC1114FN28"
+    ],
+    "name": "LSM9DS1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tona0516/code/LSM9DS1/"
+    }
+}

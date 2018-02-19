@@ -15,8 +15,9 @@
         "Luminosity",
         "Lux",
         "sensor",
-        "USB",
-        "UVC"
+        "display",
+        "hotboards",
+        "SPI"
     ],
     "name": "LcdWindow",
     "platforms": "*",

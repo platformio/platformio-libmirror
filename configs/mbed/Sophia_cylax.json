@@ -7,7 +7,9 @@
     "frameworks": "mbed",
     "keywords": [
         "KL25z",
-        "Robotic"
+        "Robotic",
+        "24LCxx",
+        "EEPROM"
     ],
     "name": "Sophia",
     "platforms": "*",

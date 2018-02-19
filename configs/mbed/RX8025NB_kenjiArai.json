@@ -6,16 +6,12 @@
     "description": "RX-8025NB Real Time Clock Module by EPSON",
     "frameworks": "mbed",
     "keywords": [
+        "jsmn",
+        "JSON",
         "8025",
         "EPSON",
         "RTC",
-        "RX-8025NB",
-        "I2C",
-        "LM75B",
-        "MSS",
-        "MSU",
-        "sensor",
-        "Temperature"
+        "RX-8025NB"
     ],
     "name": "RX8025NB",
     "platforms": "*",

@@ -13,12 +13,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "infra",
-        "infrared",
-        "IR",
-        "mbed",
-        "red",
-        "AM2320"
+        "ESP8266",
+        "NetworkSocketAPI",
+        "AM2320",
+        "32.768",
+        "F401RE",
+        "F411RE",
+        "L152RE",
+        "RTC",
+        "Timeout",
+        "X2"
     ],
     "name": "AM2320",
     "platforms": "*",

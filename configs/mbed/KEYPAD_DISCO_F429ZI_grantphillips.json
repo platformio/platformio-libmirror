@@ -10,12 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "HT1632",
-        "led",
-        "matrix",
-        "I2C multiplexer",
-        "PCA9547"
+        "7seg",
+        "LCD",
+        "dac",
+        "DMA",
+        "function generator",
+        "MODDMA"
     ],
     "name": "KEYPAD_DISCO_F429ZI",
     "platforms": "*",

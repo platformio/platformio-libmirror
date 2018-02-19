@@ -11,14 +11,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Dynamic",
-        "led",
-        "tlc5940",
-        "I2C_EEPROM",
         "JSON",
-        "itoa",
-        "joystick",
-        "LCD"
+        "led",
+        "rgb"
     ],
     "name": "jsmn",
     "platforms": "*",

@@ -19,7 +19,10 @@
         "keyboard",
         "navigation",
         "repeat",
-        "switch"
+        "switch",
+        "http",
+        "SSL",
+        "TLS"
     ],
     "name": "pop3",
     "platforms": "*",

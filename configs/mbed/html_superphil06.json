@@ -10,7 +10,11 @@
         "https://os.mbed.com/users/syasya/code/scooter_mbed_etudiant_fini_1/"
     ],
     "frameworks": "mbed",
-    "keywords": "html",
+    "keywords": [
+        "HIH-4030",
+        "Humidity",
+        "sensor"
+    ],
     "name": "html",
     "platforms": "*",
     "repository": {

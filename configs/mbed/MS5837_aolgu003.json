@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Andrew Olguin",
+        "url": "https://os.mbed.com/users/aolgu003/"
+    },
+    "description": ".",
+    "examples": [
+        "https://os.mbed.com/users/srago001/code/sensor_library_test/",
+        "https://os.mbed.com/users/aolgu003/code/sensor_library_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MS5837",
+    "name": "MS5837",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aolgu003/code/MS5837/"
+    }
+}

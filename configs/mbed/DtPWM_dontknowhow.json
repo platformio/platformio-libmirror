@@ -5,7 +5,12 @@
     },
     "description": "Library for detailed control of PWM including dead times and interrupts.",
     "frameworks": "mbed",
-    "keywords": "DtPWM",
+    "keywords": [
+        "NTP",
+        "table",
+        "hotboards",
+        "rtcc"
+    ],
     "name": "DtPWM",
     "platforms": "*",
     "repository": {

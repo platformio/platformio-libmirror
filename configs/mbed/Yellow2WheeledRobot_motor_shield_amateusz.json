@@ -12,9 +12,10 @@
         "robot",
         "wheels",
         "yellow",
-        "DRV2665",
-        "Haptic",
-        "piezo"
+        "disco",
+        "discovery",
+        "LCD",
+        "STM32L152"
     ],
     "name": "Yellow2WheeledRobot_motor_shield",
     "platforms": "*",

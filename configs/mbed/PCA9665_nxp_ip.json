@@ -9,9 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "CAN",
-        "can bus",
-        "FIFO"
+        "median",
+        "sliding",
+        "window"
     ],
     "name": "PCA9665",
     "platforms": "*",

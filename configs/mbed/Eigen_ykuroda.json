@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Yoji KURODA",
+        "url": "https://os.mbed.com/users/ykuroda/"
+    },
+    "description": "Eigne Matrix Class Library",
+    "examples": [
+        "https://os.mbed.com/users/ykuroda/code/Eigen_test/",
+        "https://os.mbed.com/users/ykuroda/code/Odometry_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "max31855",
+        "Thermocouple",
+        "arduino",
+        "H-bridge",
+        "L298",
+        "Robotic",
+        "shield"
+    ],
+    "name": "Eigen",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ykuroda/code/Eigen/"
+    }
+}

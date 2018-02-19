@@ -17,12 +17,21 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "led",
+        "counter",
+        "pulse",
         "mbed5",
         "NetworkInterfaceAPI",
         "wifi",
         "wifiinterface",
         "wizfi310",
-        "wizfi310interface"
+        "wizfi310interface",
+        "MX64",
+        "Celllular",
+        "lte",
+        "M14A2A",
+        "WNC",
+        "WNC M14A2A"
     ],
     "name": "WizFi310Interface",
     "platforms": "*",

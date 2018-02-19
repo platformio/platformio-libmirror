@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Mark Bundgus",
+        "url": "https://os.mbed.com/users/bundgus/"
+    },
+    "description": "During Deep power-down mode, the contents of the SRAM and registers are not retained except for a small amount of data which can be stored in five 32-bit general purpose registers of the power management unit block. All functional pins are tri-stated in Deep power-down mode except for the WAKEUP pin.",
+    "examples": [
+        "https://os.mbed.com/users/bundgus/code/LPC1114_5110_PIR/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BME280",
+        "Low_Power",
+        "LPC1114",
+        "LPC1114FN28"
+    ],
+    "name": "LPC1114_Deep_Power_Down",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bundgus/code/LPC1114_Deep_Power_Down/"
+    }
+}

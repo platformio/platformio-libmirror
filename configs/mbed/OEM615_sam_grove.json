@@ -6,14 +6,15 @@
     "description": "Device driver for the Novatel OEM615 GPS receiver",
     "frameworks": "mbed",
     "keywords": [
+        "Altimeter",
+        "Altitude",
+        "barometer",
+        "MPL3115A2",
+        "pressure",
+        "sensor",
         "GPS",
         "Novatel",
-        "OEM615",
-        "arduino",
-        "LCD",
-        "module",
-        "screen",
-        "TFT"
+        "OEM615"
     ],
     "name": "OEM615",
     "platforms": "*",

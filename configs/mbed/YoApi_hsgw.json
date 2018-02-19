@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Takuya Urakawa",
+        "url": "https://os.mbed.com/users/hsgw/"
+    },
+    "description": "Send Yo from mbed. http://www.justyo.co/",
+    "examples": [
+        "https://os.mbed.com/users/hsgw/code/SendYoExample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "9Dof-Stick",
+        "heading",
+        "HMC5843",
+        "magnetic",
+        "sensor",
+        "yo"
+    ],
+    "name": "YoApi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hsgw/code/YoApi/"
+    }
+}

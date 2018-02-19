@@ -6,16 +6,8 @@
     "description": "I2C interface library for ATP3011",
     "frameworks": "mbed",
     "keywords": [
-        "parser",
-        "tinyxml",
-        "xml",
         "ATP3011",
-        "I2C",
-        "cmsis",
-        "L152",
-        "Nucleo",
-        "rtos",
-        "RTX"
+        "I2C"
     ],
     "name": "ATP3011",
     "platforms": "*",

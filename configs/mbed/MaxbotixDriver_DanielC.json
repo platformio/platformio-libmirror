@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Daniel Casner",
+        "url": "https://os.mbed.com/users/DanielC/"
+    },
+    "description": "A driver library for Maxbotix / Maxsonar sonar range finders that uses the pulse width output function to achieve better accuracy with less load on the mbed processor.",
+    "examples": [
+        "https://os.mbed.com/users/joe4465/code/QuadCopter/",
+        "https://os.mbed.com/teams/ASE/code/mbed-IBooth-ETH/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "sonar"
+    ],
+    "name": "MaxbotixDriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DanielC/code/MaxbotixDriver/"
+    }
+}

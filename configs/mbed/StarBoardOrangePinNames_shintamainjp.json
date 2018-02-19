@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "Pin names library for StarBoard Orange.",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/StarBoardOrangePinNames_TestProgram/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "L3GD20",
+        "StarBoardOrange",
+        "16x2 LCD",
+        "TextLCD"
+    ],
+    "name": "StarBoardOrangePinNames",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/StarBoardOrangePinNames/"
+    }
+}

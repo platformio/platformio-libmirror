@@ -10,7 +10,16 @@
     "frameworks": "mbed",
     "keywords": [
         "F411",
-        "Frequency Counter"
+        "Frequency Counter",
+        "mbed",
+        "chip select",
+        "master",
+        "Serial",
+        "SPI",
+        "AX-12",
+        "ax12",
+        "IOT",
+        "dynamixel"
     ],
     "name": "Frq_cuntr_full",
     "platforms": "*",

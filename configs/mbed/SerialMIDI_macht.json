@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "kazunori ogasawara",
+        "url": "https://os.mbed.com/users/macht/"
+    },
+    "description": "MIDI protocol using UART",
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "GFX",
+        "LCD",
+        "TFT"
+    ],
+    "name": "SerialMIDI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/macht/code/SerialMIDI/"
+    }
+}

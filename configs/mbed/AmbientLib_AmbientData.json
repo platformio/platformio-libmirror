@@ -12,7 +12,14 @@
         "https://os.mbed.com/users/AmbientData/code/AmbientExampleLPC1768/"
     ],
     "frameworks": "mbed",
-    "keywords": "IOT",
+    "keywords": [
+        "dc-motor",
+        "Freescale",
+        "hbridge",
+        "MC33926",
+        "motor",
+        "IOT"
+    ],
     "name": "AmbientLib",
     "platforms": "*",
     "repository": {

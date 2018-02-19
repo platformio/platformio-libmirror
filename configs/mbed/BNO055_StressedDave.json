@@ -15,10 +15,10 @@
     "frameworks": "mbed",
     "keywords": [
         "SerialHalfDuplex",
-        "BLE",
-        "MIDI",
         "ITG3200",
-        "sparkfun"
+        "sparkfun",
+        "BLE",
+        "MIDI"
     ],
     "name": "BNO055",
     "platforms": "*",

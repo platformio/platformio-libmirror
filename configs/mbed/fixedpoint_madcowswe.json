@@ -9,10 +9,12 @@
         "arithmetic",
         "fixed",
         "point",
-        "Color Sensor",
-        "I2C",
-        "dac",
-        "MCP4822"
+        "Encoder",
+        "adc",
+        "driver",
+        "HX711",
+        "library",
+        "Weigh scales"
     ],
     "name": "fixedpoint",
     "platforms": "*",

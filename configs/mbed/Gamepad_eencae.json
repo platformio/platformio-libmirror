@@ -24,8 +24,9 @@
         "Luminosity",
         "Lux",
         "sensor",
-        "USB",
-        "UVC"
+        "display",
+        "hotboards",
+        "SPI"
     ],
     "name": "Gamepad",
     "platforms": "*",

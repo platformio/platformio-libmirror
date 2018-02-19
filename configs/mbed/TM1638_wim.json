@@ -9,15 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "digitalOut",
-        "PwmOut",
-        "RenBuggy",
-        "Renishaw",
-        "DISCO_F746NG",
-        "QSPI",
-        "I2C",
         "led",
-        "TM1638"
+        "TM1638",
+        "GUI",
+        "menu",
+        "IOT",
+        "lpwan",
+        "sigfox"
     ],
     "name": "TM1638",
     "platforms": "*",

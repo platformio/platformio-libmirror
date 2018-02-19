@@ -9,11 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HC-SR04",
-        "Microbit",
-        "ultrasound",
+        "I2C",
+        "MAX30101",
+        "MSS",
+        "MSU",
         "ICRS",
-        "rf12B"
+        "rf12B",
+        "api",
+        "blink",
+        "led"
     ],
     "name": "RF12B",
     "platforms": "*",

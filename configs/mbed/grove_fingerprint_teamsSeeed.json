@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Seeed",
+        "url": "https://os.mbed.com/teams/Seeed/"
+    },
+    "description": "grove_fingerprint",
+    "frameworks": "mbed",
+    "keywords": [
+        "AES",
+        "Crypto",
+        "ecc",
+        "HMAC",
+        "NationZ",
+        "RSA",
+        "SHA",
+        "TCG",
+        "TPM",
+        "atan",
+        "atan2",
+        "fixed-point",
+        "trigonometry",
+        "IR",
+        "ROBOX"
+    ],
+    "name": "grove_fingerprint",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Seeed/code/grove_fingerprint/"
+    }
+}

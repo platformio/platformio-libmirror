@@ -16,7 +16,12 @@
         "12-bit",
         "dac",
         "MCP4822",
-        "SPI"
+        "SPI",
+        "LCD",
+        "Serial",
+        "TextDisplay",
+        "TextDisplays",
+        "TextLCD"
     ],
     "name": "Robot",
     "platforms": "*",

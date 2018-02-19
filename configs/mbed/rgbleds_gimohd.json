@@ -6,11 +6,8 @@
     "description": "Library for led",
     "frameworks": "mbed",
     "keywords": [
-        "cube",
-        "led",
-        "I2C",
-        "PCA9672",
         "mbed",
+        "led",
         "rgb"
     ],
     "name": "rgb-leds",

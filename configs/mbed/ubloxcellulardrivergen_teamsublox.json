@@ -15,16 +15,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "AppleRemote",
+        "CNMAT",
+        "osc",
         "C027",
         "C030",
         "file",
         "SMS",
         "u-blox",
         "ussd",
-        "16",
-        "HT1621",
-        "LCD",
-        "segment"
+        "Serial"
     ],
     "name": "ublox-cellular-driver-gen",
     "platforms": "*",

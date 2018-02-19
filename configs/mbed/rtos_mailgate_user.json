@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Stanislav Silnitskiy",
+        "url": "https://os.mbed.com/users/mailgate_user/"
+    },
+    "description": "rtos",
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F429ZI",
+        "LCD",
+        "Touch Screen"
+    ],
+    "name": "rtos",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mailgate_user/code/rtos/"
+    }
+}

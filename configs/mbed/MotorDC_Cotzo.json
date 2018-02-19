@@ -6,9 +6,11 @@
     "description": "Interface for driving a driver motor dc with control pwm.",
     "frameworks": "mbed",
     "keywords": [
+        "cypress",
+        "F-RAM",
         "motorDC",
-        "HD44780",
-        "TextLCD"
+        "piezo",
+        "pwm"
     ],
     "name": "MotorDC",
     "platforms": "*",

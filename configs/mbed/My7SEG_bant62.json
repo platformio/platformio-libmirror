@@ -9,12 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AM2303",
-        "DHT22",
-        "Humidity",
-        "Temperature",
-        "ultrasonico",
-        "I2C"
+        "I2C",
+        "2.4GHz",
+        "a7105",
+        "FSK",
+        "GFSK",
+        "transceiver",
+        "txrx"
     ],
     "name": "My7SEG",
     "platforms": "*",

@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Eduardo Avelar",
+        "url": "https://os.mbed.com/users/AVELARDEV/"
+    },
+    "description": "port oxullo library Arduino",
+    "examples": [
+        "https://os.mbed.com/users/AVELARDEV/code/MAX30100_oxullo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AppleRemote",
+        "CNMAT",
+        "osc",
+        "C027",
+        "C030",
+        "file",
+        "SMS",
+        "u-blox",
+        "ussd",
+        "Serial"
+    ],
+    "name": "MAX30100",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AVELARDEV/code/MAX30100/"
+    }
+}

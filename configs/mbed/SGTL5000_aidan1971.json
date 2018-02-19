@@ -6,6 +6,9 @@
     "description": "Library to control and transfer data from NXP SGTL5000. As used on the Teensy Audio Shield. It uses DMA to transfer I2S FIFO data.",
     "frameworks": "mbed",
     "keywords": [
+        "bonjour",
+        "DNS-SD",
+        "mdns",
         "audio",
         "SGTL5000"
     ],

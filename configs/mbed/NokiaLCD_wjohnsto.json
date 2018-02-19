@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "William Johnston",
+        "url": "https://os.mbed.com/users/wjohnsto/"
+    },
+    "description": "NokiaLCD Library",
+    "examples": [
+        "https://os.mbed.com/users/wjohnsto/code/Pong/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "Serial",
+        "sparkfun",
+        "4D",
+        "96",
+        "inch",
+        "micro",
+        "OLED",
+        "uOLED"
+    ],
+    "name": "NokiaLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wjohnsto/code/NokiaLCD/"
+    }
+}

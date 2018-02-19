@@ -10,10 +10,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "DMA",
+        "KL25z",
         "EEPROM",
         "LPC11U24",
-        "led",
-        "rgb",
         "accelerometer",
         "DHT22"
     ],

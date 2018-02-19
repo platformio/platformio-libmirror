@@ -9,20 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "aconno",
-        "Nordic",
-        "nrf52",
         "controller",
         "I2C",
         "Wii",
+        "menu",
+        "Touchscreen",
         "led",
         "rgb",
         "WS2812",
-        "WS2812B",
-        "2.4",
-        "LCD",
-        "MCUFRIEND",
-        "TFT"
+        "WS2812B"
     ],
     "name": "WS2812",
     "platforms": "*",

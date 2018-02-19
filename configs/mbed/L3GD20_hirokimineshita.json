@@ -12,12 +12,12 @@
         "KL25z",
         "light sensor",
         "Wi-Go",
-        "tcp/ip",
-        "WiFly",
-        "led",
         "F401RE",
         "L3GD20",
-        "Nucleo"
+        "Nucleo",
+        "tcp/ip",
+        "WiFly",
+        "led"
     ],
     "name": "L3GD20",
     "platforms": "*",

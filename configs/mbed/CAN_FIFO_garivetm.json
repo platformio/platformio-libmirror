@@ -8,7 +8,10 @@
     "keywords": [
         "CAN",
         "can bus",
-        "FIFO"
+        "FIFO",
+        "Humidity",
+        "I2C",
+        "sensor"
     ],
     "name": "CAN_FIFO",
     "platforms": "*",

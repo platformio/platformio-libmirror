@@ -10,7 +10,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ROS",
         "game pad",
         "gamepad",
         "playstation",
@@ -22,7 +21,9 @@
         "HEXIWEAR",
         "OLED",
         "SSD1351",
-        "GPGGA"
+        "DDS",
+        "generator",
+        "signal"
     ],
     "name": "ADT7410",
     "platforms": "*",

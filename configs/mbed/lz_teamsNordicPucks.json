@@ -9,14 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "arduino",
-        "iot platform",
-        "sakura internet",
-        "DMP",
-        "I2Cdev",
-        "MPU6050",
-        "MPU9150",
-        "Nucelo"
+        "actuators",
+        "control",
+        "industrial",
+        "Linear",
+        "Modbus",
+        "Over",
+        "mutex",
+        "preemptive",
+        "rtos"
     ],
     "name": "lz",
     "platforms": "*",

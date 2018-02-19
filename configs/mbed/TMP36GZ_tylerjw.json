@@ -14,17 +14,12 @@
     "keywords": [
         "DISCO_F746NG",
         "sdram",
-        "accelerometer",
-        "ADXL362",
+        "fonts",
+        "TFT",
         "sensor",
         "Temperature",
         "TMP",
-        "TMP36",
-        "4x4",
-        "4x4 Keypad",
-        "keyboard",
-        "keypad",
-        "pullup"
+        "TMP36"
     ],
     "name": "TMP36 GZ",
     "platforms": "*",

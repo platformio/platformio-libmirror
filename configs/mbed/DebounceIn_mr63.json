@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Mark Randall",
+        "url": "https://os.mbed.com/users/mr63/"
+    },
+    "description": "This is a debounced version of DigitalIn for Mechanical Switches. It is simplistic, and should be easy to use.",
+    "examples": [
+        "https://os.mbed.com/users/GermanD/code/PID_ENCODER/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MISAKI",
+        "OLED",
+        "SEL10016Y",
+        "WS0010",
+        "debounce",
+        "DebounceIn",
+        "DHT11",
+        "LCD",
+        "LCD 16x2",
+        "Parallel LCD"
+    ],
+    "name": "DebounceIn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mr63/code/DebounceIn/"
+    }
+}

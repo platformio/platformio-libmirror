@@ -17,7 +17,22 @@
         "https://os.mbed.com/teams/5ABELI1/code/ProcVisDemo/"
     ],
     "frameworks": "mbed",
-    "keywords": "ProcVis",
+    "keywords": [
+        "brushless",
+        "L293D",
+        "LPC1768",
+        "mbed",
+        "motor",
+        "accelerometer",
+        "gyroscope",
+        "IMU",
+        "STM32F0",
+        "DISCO_F429ZI",
+        "sdram",
+        "ProcVis",
+        "DISCO_F746NG",
+        "EEPROM"
+    ],
     "name": "Serial_HL",
     "platforms": "*",
     "repository": {

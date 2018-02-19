@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Arnaud Suire",
+        "url": "https://os.mbed.com/users/arnaudsuire/"
+    },
+    "description": "pid",
+    "examples": [
+        "https://os.mbed.com/users/arnaudsuire/code/Labo_TRSE_Drone/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "InterruptIn",
+        "motor",
+        "FRDM-KL25Z",
+        "SPI"
+    ],
+    "name": "PID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/arnaudsuire/code/PID/"
+    }
+}

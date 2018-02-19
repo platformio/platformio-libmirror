@@ -5,7 +5,13 @@
     },
     "description": "Library for manual Encoders as used in user interfaces.",
     "frameworks": "mbed",
-    "keywords": "UIEncoder",
+    "keywords": [
+        "Ascii",
+        "ASCIIGraph",
+        "graph",
+        "Serial",
+        "Terminal"
+    ],
     "name": "UIEncoder",
     "platforms": "*",
     "repository": {

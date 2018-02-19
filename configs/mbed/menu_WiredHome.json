@@ -10,11 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HIH-4030",
-        "Humidity",
-        "sensor",
+        "controller",
+        "I2C",
+        "Wii",
         "menu",
-        "Touchscreen"
+        "Touchscreen",
+        "led",
+        "rgb",
+        "WS2812",
+        "WS2812B"
     ],
     "name": "menu",
     "platforms": "*",

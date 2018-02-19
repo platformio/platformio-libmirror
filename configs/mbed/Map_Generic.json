@@ -9,11 +9,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "aconno",
-        "nrf52",
-        "UART",
         "map",
-        "range"
+        "range",
+        "average",
+        "Moving",
+        "Clock Generator",
+        "Si5351A",
+        "SiLabs",
+        "avnet",
+        "Freescale",
+        "KL25z",
+        "Wi-Go",
+        "WiGo",
+        "2017NOSHIRO"
     ],
     "name": "Map",
     "platforms": "*",

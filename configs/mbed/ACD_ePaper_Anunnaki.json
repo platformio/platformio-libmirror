@@ -9,7 +9,12 @@
         "https://os.mbed.com/teams/ENEL-500-Smart-Sports-Shirt-Team/code/BB/"
     ],
     "frameworks": "mbed",
-    "keywords": "ACD_ePaper",
+    "keywords": [
+        "BP3595",
+        "network",
+        "ROHM",
+        "WLAN"
+    ],
     "name": "ACD_ePaper",
     "platforms": "*",
     "repository": {

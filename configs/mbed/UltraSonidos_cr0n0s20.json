@@ -6,17 +6,13 @@
     "description": "Uso de Sensor de Ultrasonidos",
     "frameworks": "mbed",
     "keywords": [
-        "cm",
-        "sensor",
-        "ultrasonidos",
-        "FAT",
-        "file",
-        "SD",
-        "System",
+        "L298",
+        "motorDC",
         "GR-PEACH",
         "R_BSP",
-        "L298",
-        "motorDC"
+        "cm",
+        "sensor",
+        "ultrasonidos"
     ],
     "name": "UltraSonidos",
     "platforms": "*",

@@ -9,12 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "2017NOSHIRO",
-        "AT42QT1010",
-        "Altimeter",
-        "barometer",
-        "I2C",
-        "ms5637"
+        "control",
+        "PID",
+        "TJPS",
+        "MCP4018",
+        "AT42QT1010"
     ],
     "name": "AT42QT1010",
     "platforms": "*",

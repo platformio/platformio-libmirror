@@ -10,14 +10,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "accelerometer",
         "CPU Serial number",
         "Device ID",
         "IOT",
         "Serial Number",
-        "real-time clock",
-        "RTC",
-        "software",
-        "Ticker"
+        "358",
+        "Adafruit",
+        "TFT",
+        "5110",
+        "shower",
+        "SED1330",
+        "SED1335",
+        "TextDisplay"
     ],
     "name": "uniqueCPUID",
     "platforms": "*",

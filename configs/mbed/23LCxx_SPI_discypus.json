@@ -10,11 +10,7 @@
         "23LC512",
         "Microchip",
         "SPI",
-        "sram",
-        "Arch Max",
-        "sensor",
-        "STM32F4",
-        "Temperature"
+        "sram"
     ],
     "name": "23LCxx_SPI",
     "platforms": "*",

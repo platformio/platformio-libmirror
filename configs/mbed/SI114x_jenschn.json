@@ -6,8 +6,10 @@
     "description": "SI114x UV index, IR and Visible Light sensor",
     "frameworks": "mbed",
     "keywords": [
-        "TMP102",
-        "TMP112"
+        "EM406",
+        "GPS",
+        "library",
+        "Serial"
     ],
     "name": "SI114x",
     "platforms": "*",

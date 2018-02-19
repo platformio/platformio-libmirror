@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Paul Staron",
+        "url": "https://os.mbed.com/users/star297/"
+    },
+    "description": "Holtek HT1621 16 segment 9 digit LCD display library",
+    "frameworks": "mbed",
+    "keywords": [
+        "16",
+        "HT1621",
+        "LCD",
+        "segment"
+    ],
+    "name": "HT1621_16seg_LCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/star297/code/HT1621_16seg_LCD/"
+    }
+}

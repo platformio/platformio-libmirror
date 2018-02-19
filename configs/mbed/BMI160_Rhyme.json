@@ -10,17 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "EM",
+        "nxp",
+        "RFID",
+        "UHF",
         "accelerometer",
         "BMI160",
         "gyroscope",
         "I2C",
-        "SPI",
-        "arduino",
-        "EasyCAT",
-        "etherCAT",
-        "ethernet",
-        "fieldbus",
-        "shield"
+        "SPI"
     ],
     "name": "BMI160",
     "platforms": "*",

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Jorge Hernandez",
+        "url": "https://os.mbed.com/users/jhestolano/"
+    },
+    "description": "Simple buffer.",
+    "examples": [
+        "https://os.mbed.com/users/jhestolano/code/data_logger/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "gmmp",
+        "mbed",
+        "thingplug"
+    ],
+    "name": "Buffer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jhestolano/code/Buffer/"
+    }
+}

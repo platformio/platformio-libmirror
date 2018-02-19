@@ -11,11 +11,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AM2321",
-        "Humidity",
-        "I2C",
-        "sensor",
-        "Temperature",
         "DMA",
         "rtos",
         "SPI",
@@ -24,7 +19,12 @@
         "AT45DB321D",
         "EEPROM",
         "flash",
-        "memory"
+        "memory",
+        "AM2321",
+        "Humidity",
+        "I2C",
+        "sensor",
+        "Temperature"
     ],
     "name": "at45db161d",
     "platforms": "*",

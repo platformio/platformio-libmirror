@@ -11,16 +11,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "v1.0",
         "NET",
         "network",
         "stream",
         "TCP",
+        "v1.0",
         "Agent",
         "Net-SNMP",
-        "SNMP",
-        "malloc",
-        "memory"
+        "SNMP"
     ],
     "name": "Agentbed",
     "platforms": "*",

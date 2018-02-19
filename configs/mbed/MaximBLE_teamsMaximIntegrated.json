@@ -10,13 +10,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "clock",
+        "real time clock",
+        "RTC",
         "bmp085",
-        "I2C",
-        "display",
-        "Freedom",
-        "kl46z",
-        "LCD",
-        "segment"
+        "I2C"
     ],
     "name": "MaximBLE",
     "platforms": "*",

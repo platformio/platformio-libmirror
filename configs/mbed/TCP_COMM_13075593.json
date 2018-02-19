@@ -9,18 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "FAT",
-        "file",
-        "SD",
-        "System",
-        "accelerometer",
-        "gyroscope",
-        "IMU",
-        "STM32F0",
-        "APDS",
-        "APDS9960",
-        "Gesture",
-        "sensor"
+        "1wire",
+        "DS1820",
+        "DS2482",
+        "device",
+        "USB"
     ],
     "name": "TCP_COMM",
     "platforms": "*",

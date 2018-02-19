@@ -6,15 +6,10 @@
     "description": "A class to display a value as a bar on either the on-board LEDs, or using LEDs connected to the pwm pins.",
     "frameworks": "mbed",
     "keywords": [
+        "K64F",
+        "overclock",
         "display",
-        "output",
-        "ethernet",
-        "ip",
-        "mbed",
-        "128",
-        "ACE",
-        "bourns",
-        "Encoder"
+        "output"
     ],
     "name": "BarChart",
     "platforms": "*",

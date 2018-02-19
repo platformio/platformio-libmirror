@@ -12,10 +12,8 @@
         "7",
         "display",
         "segment",
-        "daisy-chain",
-        "L6470",
-        "SPI",
-        "Stepper"
+        "MAX485",
+        "RS485"
     ],
     "name": "Multi7Seg",
     "platforms": "*",

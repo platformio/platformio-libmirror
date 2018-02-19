@@ -12,10 +12,7 @@
         "adc",
         "I2C",
         "Monito",
-        "System",
-        "GPS",
-        "interrupt",
-        "NMEA"
+        "System"
     ],
     "name": "ADC128D818",
     "platforms": "*",

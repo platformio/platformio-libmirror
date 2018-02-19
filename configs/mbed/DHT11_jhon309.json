@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Jhon Plantikow",
+        "url": "https://os.mbed.com/users/jhon309/"
+    },
+    "description": "DHT11",
+    "frameworks": "mbed",
+    "keywords": [
+        "MISAKI",
+        "OLED",
+        "SEL10016Y",
+        "WS0010",
+        "debounce",
+        "DebounceIn",
+        "DHT11",
+        "LCD",
+        "LCD 16x2",
+        "Parallel LCD"
+    ],
+    "name": "DHT11",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jhon309/code/DHT11/"
+    }
+}

@@ -8,13 +8,7 @@
         "https://os.mbed.com/users/zoran93/code/FRDM_ApplicationShield_GroveSensors/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "command",
-        "execute",
-        "parse",
-        "string",
-        "UART"
-    ],
+    "keywords": "SI1145",
     "name": "SI1145",
     "platforms": "*",
     "repository": {

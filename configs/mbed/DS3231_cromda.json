@@ -18,16 +18,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "LCD",
+        "Scroll",
+        "TextLCD",
         "GR-PEACH",
         "HTU21D",
         "Humidity",
         "I2C",
         "K64F",
         "KL25z",
-        "Temperature",
-        "LCD",
-        "Scroll",
-        "TextLCD"
+        "Temperature"
     ],
     "name": "DS3231",
     "platforms": "*",

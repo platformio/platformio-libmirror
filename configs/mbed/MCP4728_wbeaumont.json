@@ -9,12 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "cypress",
-        "F-RAM",
         "dac",
         "MCP4728",
-        "piezo",
-        "pwm"
+        "DS1337",
+        "I2C"
     ],
     "name": "MCP4728",
     "platforms": "*",

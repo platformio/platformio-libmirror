@@ -6,8 +6,10 @@
     "description": "Minimal MQTT library",
     "frameworks": "mbed",
     "keywords": [
-        "Temperature",
-        "AM2315"
+        "HC-SR04",
+        "Microbit",
+        "ultrasound",
+        "Temperature"
     ],
     "name": "minimal-mqtt",
     "platforms": "*",

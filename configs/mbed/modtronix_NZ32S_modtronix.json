@@ -6,16 +6,8 @@
     "description": "Library for Modtronix NZ32 STM32 boards, like the NZ32-SC151, NZ32-SB072, NZ32-SE411 and others",
     "frameworks": "mbed",
     "keywords": [
-        "ds1302",
         "modtronix",
-        "NZ32 STM32",
-        "hotboards",
-        "rtcc",
-        "Adafruit",
-        "led",
-        "NeoPixel",
-        "rgb",
-        "Shiftbrite"
+        "NZ32 STM32"
     ],
     "name": "modtronix_NZ32S",
     "platforms": "*",

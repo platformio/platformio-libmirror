@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Christoph SUter",
+        "url": "https://os.mbed.com/users/stumpi/"
+    },
+    "description": "Simple library for getting temperature from MCP9808",
+    "frameworks": "mbed",
+    "keywords": "MCP9808",
+    "name": "MCP9808",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/stumpi/code/MCP9808/"
+    }
+}

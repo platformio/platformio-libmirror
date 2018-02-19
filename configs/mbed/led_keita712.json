@@ -5,14 +5,7 @@
     },
     "description": "HelloWorld.h",
     "frameworks": "mbed",
-    "keywords": [
-        "free",
-        "malloc",
-        "memory",
-        "Oscilloscope",
-        "RAM",
-        "scope"
-    ],
+    "keywords": "led",
     "name": "led",
     "platforms": "*",
     "repository": {

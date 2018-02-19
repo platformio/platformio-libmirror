@@ -9,9 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "mail",
-        "rtos",
-        "thread"
+        "ms5611",
+        "40x4",
+        "C-51849",
+        "character",
+        "LCD"
     ],
     "name": "BERGCloud",
     "platforms": "*",

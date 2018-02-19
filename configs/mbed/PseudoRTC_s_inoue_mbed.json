@@ -6,14 +6,12 @@
     "description": "Pseudo real-time clock using Ticker interruption",
     "frameworks": "mbed",
     "keywords": [
-        "CPU Serial number",
-        "Device ID",
-        "IOT",
-        "Serial Number",
         "real-time clock",
         "RTC",
         "software",
-        "Ticker"
+        "Ticker",
+        "dac",
+        "External DAC"
     ],
     "name": "PseudoRTC",
     "platforms": "*",

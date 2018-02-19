@@ -7,7 +7,9 @@
     "frameworks": "mbed",
     "keywords": [
         "controller",
-        "Servo"
+        "Servo",
+        "LcdWindow",
+        "TextLCD"
     ],
     "name": "ServoController",
     "platforms": "*",

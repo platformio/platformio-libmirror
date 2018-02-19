@@ -9,9 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "decoder",
-        "Encoder",
-        "Morse"
+        "bm1383",
+        "I2C",
+        "pressure",
+        "ROHM"
     ],
     "name": "UM12",
     "platforms": "*",

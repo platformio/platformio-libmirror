@@ -10,8 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "timer",
-        "watchdog"
+        "GPS",
+        "NMEA",
+        "Venus",
+        "16x2",
+        "20x2",
+        "20X4",
+        "40x2",
+        "HD4478",
+        "TextLCD"
     ],
     "name": "sharp_mlcd",
     "platforms": "*",

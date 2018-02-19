@@ -10,15 +10,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "infrared",
-        "MLX90614",
-        "sensor",
-        "Temperature",
-        "PCM",
-        "pulse",
-        "RC",
-        "Servo",
-        "ServoIn"
+        "GPS",
+        "K64F",
+        "Serial"
     ],
     "name": "LS7366LIB",
     "platforms": "*",

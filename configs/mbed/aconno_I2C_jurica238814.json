@@ -11,10 +11,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "RN-XV",
-        "WiFly",
         "aconno",
-        "I2C"
+        "I2C",
+        "consumption",
+        "control",
+        "ethernet",
+        "Management",
+        "Power",
+        "PowerControl"
     ],
     "name": "aconno_I2C",
     "platforms": "*",

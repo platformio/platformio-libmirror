@@ -9,6 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "FAT",
+        "file",
+        "SD",
+        "System",
         "AT",
         "AT command",
         "ATCommand",
@@ -17,7 +21,9 @@
         "SIM900",
         "SIMCOM",
         "UART",
-        "HTTPServer"
+        "CO657",
+        "MPU9250",
+        "nRF52832 custom boards"
     ],
     "name": "ATCommand",
     "platforms": "*",

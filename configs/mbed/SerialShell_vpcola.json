@@ -10,9 +10,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "aqm0802a",
+        "ds1621",
         "I2C",
-        "Nucleo"
+        "Temperature"
     ],
     "name": "SerialShell",
     "platforms": "*",

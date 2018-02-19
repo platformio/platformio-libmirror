@@ -11,7 +11,12 @@
         "https://os.mbed.com/users/jurica238814/code/acd52832_Car_battery_ch_2/"
     ],
     "frameworks": "mbed",
-    "keywords": "acn_nrf52_saadc",
+    "keywords": [
+        "K64F",
+        "overclock",
+        "display",
+        "output"
+    ],
     "name": "acn_nrf52_saadc",
     "platforms": "*",
     "repository": {

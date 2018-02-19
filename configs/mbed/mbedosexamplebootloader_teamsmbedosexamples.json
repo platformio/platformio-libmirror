@@ -6,14 +6,9 @@
     "description": ".",
     "frameworks": "mbed",
     "keywords": [
-        "current",
-        "I2C",
-        "INA219",
-        "Power",
-        "voltage",
-        "DC Motor controller",
-        "h bridge",
-        "motor driver"
+        "accelererometer",
+        "ADXL345",
+        "I2C"
     ],
     "name": "mbed-os-example-bootloader",
     "platforms": "*",

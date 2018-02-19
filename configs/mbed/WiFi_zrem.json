@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Jake Merz",
+        "url": "https://os.mbed.com/users/zrem/"
+    },
+    "description": "Wifi library for the ESP8266",
+    "frameworks": "mbed",
+    "keywords": [
+        "1-wire",
+        "1wire",
+        "DS18B20",
+        "DS18S20",
+        "OneWire",
+        "http",
+        "NET",
+        "network",
+        "webservice",
+        "xml",
+        "Pokitto",
+        "mbed"
+    ],
+    "name": "WiFi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/zrem/code/WiFi/"
+    }
+}

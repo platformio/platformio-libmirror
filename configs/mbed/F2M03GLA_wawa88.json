@@ -5,7 +5,16 @@
     },
     "description": "Free2move F2M03GLA Configure: Name ,baud 2400-921600,Class of device",
     "frameworks": "mbed",
-    "keywords": "bluetooth",
+    "keywords": [
+        "I2C",
+        "LIS302",
+        "BME680",
+        "Gas",
+        "Humidity",
+        "pressure",
+        "Temperature",
+        "bluetooth"
+    ],
     "name": "F2M03GLA",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "yasuyuki onodera",
+        "url": "https://os.mbed.com/users/yasuyuki/"
+    },
+    "description": "M24LC64 library",
+    "examples": [
+        "https://os.mbed.com/users/yasuyuki/code/mbed_DEMO/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "bluepill",
+        "stm32f103c8",
+        "STM32F103C8T6",
+        "STM32F103CB",
+        "STM32F103CBT6",
+        "C12832",
+        "C12832A1Z",
+        "MBED Application Board"
+    ],
+    "name": "M24LC64",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yasuyuki/code/M24LC64/"
+    }
+}

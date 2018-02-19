@@ -6,6 +6,10 @@
     "description": "An implementation of a circular array allowing direct write and read.",
     "frameworks": "mbed",
     "keywords": [
+        "HK10DOF",
+        "IMU10DOF",
+        "ITG3200",
+        "MEMS",
         "array",
         "circular",
         "Queue"

@@ -6,6 +6,10 @@
     "description": "Simple DS1621 temperature acquisition.",
     "frameworks": "mbed",
     "keywords": [
+        "numchuck",
+        "nunchuck",
+        "Nunchuk",
+        "Wii",
         "50%",
         "Digital",
         "digitalOut",
@@ -24,10 +28,10 @@
         "Toggle",
         "toggler",
         "wait",
-        "numchuck",
-        "nunchuck",
-        "Nunchuk",
-        "Wii"
+        "1D",
+        "2D",
+        "array",
+        "matrix"
     ],
     "name": "DS1621",
     "platforms": "*",

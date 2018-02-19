@@ -6,12 +6,8 @@
     "description": "Simple driver for the 12-bit DAC DAC7311 from TI",
     "frameworks": "mbed",
     "keywords": [
-        "2.4GHz",
-        "a7105",
-        "FSK",
-        "GFSK",
-        "transceiver",
-        "txrx"
+        "arduino",
+        "naza gps decoder"
     ],
     "name": "DAC7311",
     "platforms": "*",

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Pieter-Jan Tuytschaever",
+        "url": "https://os.mbed.com/users/ptuytsch/"
+    },
+    "description": "bike datalogging basic",
+    "examples": [
+        "https://os.mbed.com/users/ptuytsch/code/BLEPrototype/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO-STM32F746NG",
+        "flash",
+        "QSPI",
+        "ST",
+        "arduino",
+        "official",
+        "Sabertooth",
+        "SyRen"
+    ],
+    "name": "DataLogging",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ptuytsch/code/DataLogging/"
+    }
+}

@@ -13,7 +13,16 @@
     "frameworks": "mbed",
     "keywords": [
         "LCD",
-        "crc8"
+        "binary",
+        "GPS",
+        "NMEA",
+        "protocol",
+        "sIRFstar3",
+        "sIRFstarIII",
+        "I2C",
+        "NeoPixel",
+        "rhb",
+        "slave"
     ],
     "name": "AkiSpiLcd",
     "platforms": "*",

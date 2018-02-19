@@ -18,8 +18,9 @@
         "Luminosity",
         "Lux",
         "sensor",
-        "USB",
-        "UVC"
+        "display",
+        "hotboards",
+        "SPI"
     ],
     "name": "TSL2561",
     "platforms": "*",

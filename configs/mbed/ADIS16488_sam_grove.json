@@ -6,14 +6,9 @@
     "description": "Device driver",
     "frameworks": "mbed",
     "keywords": [
-        "ADJD-S311-CR99",
-        "Grove",
-        "ISD1820P",
-        "play",
-        "playback",
-        "record",
-        "recorder",
-        "sound"
+        "CV7",
+        "sensor",
+        "wind"
     ],
     "name": "ADIS16488",
     "platforms": "*",

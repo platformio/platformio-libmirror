@@ -6,7 +6,6 @@
     "description": "Remove Chip Select transitions. It affects other devices in the same bus.",
     "frameworks": "mbed",
     "keywords": [
-        "GR-PEACH",
         "accelererometer",
         "ADXL345",
         "I2C"

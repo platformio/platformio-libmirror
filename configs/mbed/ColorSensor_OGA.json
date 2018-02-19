@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Ryo Ogata",
+        "url": "https://os.mbed.com/users/OGA/"
+    },
+    "description": "pan",
+    "examples": [
+        "https://os.mbed.com/users/OGA/code/jumpROBO4_0/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ColorSensor",
+    "name": "ColorSensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/OGA/code/ColorSensor/"
+    }
+}

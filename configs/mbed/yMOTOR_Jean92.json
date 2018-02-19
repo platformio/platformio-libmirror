@@ -6,8 +6,17 @@
     "description": "Gestion pont-H pour moteur CC",
     "frameworks": "mbed",
     "keywords": [
+        "command",
+        "execute",
+        "parse",
+        "string",
+        "UART",
         "motor",
-        "pwm"
+        "pwm",
+        "HR-TFT",
+        "memory lcd",
+        "Monochrome LCD",
+        "Sharp"
     ],
     "name": "yMOTOR",
     "platforms": "*",

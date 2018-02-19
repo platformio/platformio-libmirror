@@ -5,7 +5,16 @@
     },
     "description": "AnalogInBase",
     "frameworks": "mbed",
-    "keywords": "AnalogInBaseClass",
+    "keywords": [
+        "NetServices",
+        "network",
+        "NTP",
+        "graphic",
+        "monochrome",
+        "VGA",
+        "ILI9341",
+        "SPI"
+    ],
     "name": "AnalogInBaseClass",
     "platforms": "*",
     "repository": {

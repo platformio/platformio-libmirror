@@ -18,14 +18,10 @@
         "S1D13781",
         "shield",
         "TFT",
-        "adc",
-        "F411RE",
-        "Nucleo",
-        "quadrature",
-        "SPI",
-        "stm32",
-        "timer",
-        "mbed"
+        "mbed",
+        "at25sf041",
+        "flash",
+        "SPI"
     ],
     "name": "S1D13781Shield_Gfx",
     "platforms": "*",

@@ -9,18 +9,7 @@
         "https://os.mbed.com/users/koyo_take/code/ina-hack-test/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "SRF02",
-        "GPS",
-        "NMEA",
-        "Venus",
-        "16x2",
-        "20x2",
-        "20X4",
-        "40x2",
-        "HD4478",
-        "TextLCD"
-    ],
+    "keywords": "Sht31",
     "name": "Sht31",
     "platforms": "*",
     "repository": {

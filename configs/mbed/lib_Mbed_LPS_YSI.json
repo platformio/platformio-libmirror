@@ -5,7 +5,12 @@
     },
     "description": "lib_Mbed_LPS",
     "frameworks": "mbed",
-    "keywords": "bluetooth",
+    "keywords": [
+        "ESP8266",
+        "bmp280",
+        "pressure",
+        "Temperature"
+    ],
     "name": "lib_Mbed_LPS",
     "platforms": "*",
     "repository": {

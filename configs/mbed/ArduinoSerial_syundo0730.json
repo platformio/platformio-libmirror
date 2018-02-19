@@ -11,13 +11,7 @@
         "https://os.mbed.com/users/sem40590/code/MPU6050/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "alarm",
-        "DS3231",
-        "RTC",
-        "device",
-        "USB"
-    ],
+    "keywords": "MCP9808",
     "name": "ArduinoSerial",
     "platforms": "*",
     "repository": {

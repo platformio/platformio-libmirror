@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "A dmaclean",
+        "url": "https://os.mbed.com/users/admaclean/"
+    },
+    "description": "PinDetect",
+    "frameworks": "mbed",
+    "keywords": [
+        "AHRS",
+        "dcm",
+        "navigation"
+    ],
+    "name": "PinDetect",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/admaclean/code/PinDetect/"
+    }
+}

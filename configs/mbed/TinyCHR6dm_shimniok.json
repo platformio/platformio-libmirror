@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Michael Shimniok",
+        "url": "https://os.mbed.com/users/shimniok/"
+    },
+    "description": "TinyCHR6dm is a simplified interface for the CH Robotics CHR-6dm AHRS",
+    "examples": [
+        "https://os.mbed.com/users/shimniok/code/AVC_20110423/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AHRS",
+        "navigation",
+        "sensors"
+    ],
+    "name": "TinyCHR6dm",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shimniok/code/TinyCHR6dm/"
+    }
+}

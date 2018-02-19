@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Andrew Noll",
+        "url": "https://os.mbed.com/users/AMNoll/"
+    },
+    "description": "library for spi slave",
+    "examples": [
+        "https://os.mbed.com/users/AMNoll/code/mDot_SPI_slave/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed",
+        "infrared",
+        "Obstacle detection"
+    ],
+    "name": "SLAVE_LIB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AMNoll/code/SLAVE_LIB/"
+    }
+}

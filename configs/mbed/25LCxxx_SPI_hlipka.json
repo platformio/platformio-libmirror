@@ -19,8 +19,10 @@
         "SPI",
         "16x4",
         "LCD",
-        "blinking",
-        "led"
+        "IEEE",
+        "mbed",
+        "micromouse",
+        "UCLA"
     ],
     "name": "25LCxxx_SPI",
     "platforms": "*",

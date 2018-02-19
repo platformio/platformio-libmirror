@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Volker Dörsing",
+        "url": "https://os.mbed.com/users/doersing/"
+    },
+    "description": "Ultrasonic distance sensor Fischer Technik",
+    "frameworks": "mbed",
+    "keywords": [
+        "distance",
+        "Fischer",
+        "sensor",
+        "Technik",
+        "ultrasonic"
+    ],
+    "name": "dist",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/doersing/code/dist/"
+    }
+}

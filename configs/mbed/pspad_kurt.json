@@ -6,17 +6,10 @@
     "description": "プレステ１コントローラ用ライブラリ",
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit",
-        "I2C",
-        "led",
-        "nxp",
-        "PCA9685",
-        "pwm",
-        "Servo",
+        "L3GD20",
         "StarBoardOrange",
-        "DA7212",
-        "I2S",
-        "TLV320"
+        "16x2 LCD",
+        "TextLCD"
     ],
     "name": "pspad",
     "platforms": "*",

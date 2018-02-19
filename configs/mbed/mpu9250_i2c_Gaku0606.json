@@ -6,10 +6,9 @@
     "description": "mpu9250のライブラリ、I2Cを利用。開発段階のため微妙",
     "frameworks": "mbed",
     "keywords": [
-        "filesystem",
-        "MiMic",
+        "H-bridge",
         "motor",
-        "Servo"
+        "TB6612FNG"
     ],
     "name": "mpu9250_i2c",
     "platforms": "*",

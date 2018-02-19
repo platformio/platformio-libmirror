@@ -10,11 +10,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "debug",
-        "debugger",
-        "debugging",
-        "logging",
-        "Serial"
+        "DMA",
+        "large data transfer",
+        "LLI"
     ],
     "name": "XadowGPS",
     "platforms": "*",

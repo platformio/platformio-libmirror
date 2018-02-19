@@ -10,16 +10,16 @@
     "frameworks": "mbed",
     "keywords": [
         "m3pi",
-        "IBMIoTF",
-        "IOT",
-        "iotf",
+        "I2C",
+        "Nunchuk",
         "audio",
         "CODEC",
-        "I2C",
         "TLV320",
         "batron",
         "cog",
-        "LCD"
+        "LCD",
+        "Armand",
+        "Coetzer"
     ],
     "name": "TLV320",
     "platforms": "*",

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Federico Luis Pinna Gonzalez",
+        "url": "https://os.mbed.com/users/Cotzo/"
+    },
+    "description": "Extracted functions of the library CMSIS-DSP.",
+    "examples": [
+        "https://os.mbed.com/users/Cotzo/code/FastECompass/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DMP",
+        "I2Cdev",
+        "MPU6050",
+        "MPU9150",
+        "Nucelo",
+        "DISCO_L476VG",
+        "N25Q128A",
+        "QSPI"
+    ],
+    "name": "FastMathFunctions",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Cotzo/code/FastMathFunctions/"
+    }
+}

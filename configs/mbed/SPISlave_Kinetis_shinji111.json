@@ -6,6 +6,9 @@
     "description": "SPISlave for FRDM-KL25Z",
     "frameworks": "mbed",
     "keywords": [
+        "Encoder",
+        "InterruptIn",
+        "motor",
         "FRDM-KL25Z",
         "SPI"
     ],

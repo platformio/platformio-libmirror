@@ -10,16 +10,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Serial",
         "keypad",
         "RA8875",
-        "Touchscreen",
-        "BNO055",
-        "Elmicro",
-        "FM25W256",
-        "FRAM",
-        "RAMTRON",
-        "SPI",
-        "SSP1"
+        "Touchscreen"
     ],
     "name": "Keypad",
     "platforms": "*",

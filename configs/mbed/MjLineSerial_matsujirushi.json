@@ -6,8 +6,10 @@
     "description": "Command line interface for UART.",
     "frameworks": "mbed",
     "keywords": [
-        "BNO055",
-        "sensor"
+        "decoder",
+        "decompression",
+        "JPEG",
+        "JPG"
     ],
     "name": "MjLineSerial",
     "platforms": "*",

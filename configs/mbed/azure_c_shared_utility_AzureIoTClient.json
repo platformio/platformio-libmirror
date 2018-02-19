@@ -18,9 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LPC1768",
-        "sensor",
-        "Si7021",
         "DC",
         "driver",
         "H-bridge",
@@ -35,8 +32,7 @@
         "ARCH",
         "GPRS",
         "Seeed",
-        "v2",
-        "MCP23S17"
+        "v2"
     ],
     "name": "azure_c_shared_utility",
     "platforms": "*",

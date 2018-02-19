@@ -6,6 +6,8 @@
     "description": "Extension for mbed rpc library. Default methods for RPC classes added. Write /function arguments list to call a function, /variable to read variable, /variable value to set it.",
     "frameworks": "mbed",
     "keywords": [
+        "CAN",
+        "MCP2515",
         "call",
         "Procedure",
         "remote",

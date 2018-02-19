@@ -5,12 +5,7 @@
     },
     "description": "Boe-bot library about servos, ping, and encoder",
     "frameworks": "mbed",
-    "keywords": [
-        "GR-PEACH",
-        "accelererometer",
-        "ADXL345",
-        "I2C"
-    ],
+    "keywords": "MARMEX_OB_oled",
     "name": "parallax",
     "platforms": "*",
     "repository": {

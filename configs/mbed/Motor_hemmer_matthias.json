@@ -5,7 +5,14 @@
     },
     "description": "for Bertl2014 HTL-Graz-Göoesting",
     "frameworks": "mbed",
-    "keywords": "Motor",
+    "keywords": [
+        "adc",
+        "dac",
+        "interrupt",
+        "Nucleo F446",
+        "polling",
+        "STM32F446"
+    ],
     "name": "Motor",
     "platforms": "*",
     "repository": {

@@ -18,7 +18,9 @@
         "C027",
         "C030",
         "CellularInterface",
-        "u-blox"
+        "u-blox",
+        "buzzer",
+        "piezo"
     ],
     "name": "ublox-at-cellular-interface",
     "platforms": "*",

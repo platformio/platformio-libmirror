@@ -10,13 +10,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "distance",
+        "HCSR04",
+        "sensor",
         "DS18B20",
         "DS2450",
         "MAX31850",
-        "Thermocouple",
-        "distance",
-        "HCSR04",
-        "sensor"
+        "Thermocouple"
     ],
     "name": "HCSR04",
     "platforms": "*",

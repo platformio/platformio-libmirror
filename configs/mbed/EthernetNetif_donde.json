@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Don DeGregori",
+        "url": "https://os.mbed.com/users/donde/"
+    },
+    "description": "EthernetNetif",
+    "frameworks": "mbed",
+    "keywords": [
+        "POSIX",
+        "rtos",
+        "ADK",
+        "android",
+        "USB",
+        "MPL115A2",
+        "xbee",
+        "xbee library",
+        "XBEE pro",
+        "xbee programming",
+        "xbeeapi",
+        "xbeelibrary"
+    ],
+    "name": "EthernetNetif",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donde/code/EthernetNetif/"
+    }
+}

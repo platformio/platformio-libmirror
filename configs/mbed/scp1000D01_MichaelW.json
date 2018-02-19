@@ -6,8 +6,16 @@
     "description": "SCP1000-D01 MEMS pressure sensor library",
     "frameworks": "mbed",
     "keywords": [
+        "ds1307",
+        "RTC",
+        "WSE",
         "jsmn",
-        "JSON"
+        "JSON",
+        "display",
+        "graphic",
+        "KS0107",
+        "KS0108",
+        "LCD"
     ],
     "name": "scp1000-D01",
     "platforms": "*",

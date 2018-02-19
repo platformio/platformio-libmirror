@@ -11,7 +11,16 @@
         "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalv3/"
     ],
     "frameworks": "mbed",
-    "keywords": "HTTPClient_GPRS",
+    "keywords": [
+        "NetServices",
+        "network",
+        "NTP",
+        "graphic",
+        "monochrome",
+        "VGA",
+        "ILI9341",
+        "SPI"
+    ],
     "name": "HTTPClient_GPRS",
     "platforms": "*",
     "repository": {

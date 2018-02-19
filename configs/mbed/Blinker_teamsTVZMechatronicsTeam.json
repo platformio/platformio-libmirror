@@ -22,7 +22,8 @@
         "dynamixel",
         "MX28",
         "Servo",
-        "HX711"
+        "I2C",
+        "software"
     ],
     "name": "Blinker",
     "platforms": "*",

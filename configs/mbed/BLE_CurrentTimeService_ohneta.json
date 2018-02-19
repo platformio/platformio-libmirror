@@ -9,10 +9,7 @@
         "servos",
         "slow",
         "Speed",
-        "GPIO",
-        "master",
-        "Serial",
-        "SPI"
+        "1WireLcd"
     ],
     "name": "BLE_CurrentTimeService",
     "platforms": "*",

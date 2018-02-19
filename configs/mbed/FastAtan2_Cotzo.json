@@ -21,7 +21,9 @@
         "atan",
         "atan2",
         "fixed-point",
-        "trigonometry"
+        "trigonometry",
+        "IR",
+        "ROBOX"
     ],
     "name": "FastAtan2",
     "platforms": "*",

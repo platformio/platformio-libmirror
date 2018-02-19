@@ -6,13 +6,12 @@
     "description": "Library for SPI communication with the AMS AS5048 rotary sensor",
     "frameworks": "mbed",
     "keywords": [
+        "arduino",
+        "Gameduino",
+        "mbeduino",
         "AS5048",
         "rotary sensor",
-        "SPI",
-        "SSG",
-        "YMZ294",
-        "IR",
-        "digitalOut"
+        "SPI"
     ],
     "name": "AS5048",
     "platforms": "*",

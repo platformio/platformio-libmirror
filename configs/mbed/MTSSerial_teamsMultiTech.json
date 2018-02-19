@@ -17,10 +17,7 @@
         "https://os.mbed.com/users/jreiss/code/MTDOT-BOX-EVB-Factory-Firmware-LIB-108/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "W5200",
-        "WIZ820IO"
-    ],
+    "keywords": "MTS-Serial",
     "name": "MTS-Serial",
     "platforms": "*",
     "repository": {

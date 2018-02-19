@@ -5,7 +5,14 @@
     },
     "description": "//TemperatureRecorder class",
     "frameworks": "mbed",
-    "keywords": "temperatureRecorder",
+    "keywords": [
+        "EFM32",
+        "SiLabs",
+        "Silicon Labs",
+        "silicon_labs",
+        "Slider",
+        "touch"
+    ],
     "name": "temperatureRecorder",
     "platforms": "*",
     "repository": {

@@ -9,8 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "Serial"
+        "MPU6000",
+        "MPU6050",
+        "MPU60x0",
+        "FIFO",
+        "lifo",
+        "ringbuffer",
+        "AT",
+        "parser"
     ],
     "name": "CThunk",
     "platforms": "*",

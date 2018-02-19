@@ -9,12 +9,20 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "alarm",
+        "DS3231",
+        "RTC",
+        "3axis",
+        "accelerometer",
+        "Digital",
+        "Grove",
+        "Seeed",
         "ADT7410",
         "I2C",
         "Nucleo",
         "UIT",
-        "FM24Vxx",
-        "RAMTRON"
+        "AirQuality",
+        "sensor"
     ],
     "name": "UIT_ADT7410",
     "platforms": "*",

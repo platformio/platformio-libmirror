@@ -6,12 +6,8 @@
     "description": "drive the analog devices AD57XX series of DACs using SPI",
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "led",
-        "TextLCD",
-        "api",
-        "CSR",
-        "GPS"
+        "DHCP",
+        "EthernetInterface"
     ],
     "name": "dac57xx",
     "platforms": "*",

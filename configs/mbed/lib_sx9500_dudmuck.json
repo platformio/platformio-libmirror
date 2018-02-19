@@ -11,14 +11,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "tcp/ip",
-        "WebSocket",
-        "accelerometer",
-        "fxos8700cq",
-        "I2C",
-        "magnetometer",
-        "AquesTalk pico",
-        "ATP3011"
+        "Zumo",
+        "Temperature;*C;MCP9808"
     ],
     "name": "lib_sx9500",
     "platforms": "*",

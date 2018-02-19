@@ -8,7 +8,11 @@
         "https://os.mbed.com/users/leysenkobe/code/TEST/"
     ],
     "frameworks": "mbed",
-    "keywords": "DAQ",
+    "keywords": [
+        "Mouse",
+        "optical",
+        "sensor"
+    ],
     "name": "DAQ",
     "platforms": "*",
     "repository": {

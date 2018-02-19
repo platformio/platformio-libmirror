@@ -10,7 +10,11 @@
         "nxp",
         "RFID",
         "UHF",
-        "bmp280"
+        "accelerometer",
+        "BMI160",
+        "gyroscope",
+        "I2C",
+        "SPI"
     ],
     "name": "EM4325",
     "platforms": "*",

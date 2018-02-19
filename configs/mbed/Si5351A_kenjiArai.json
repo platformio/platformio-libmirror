@@ -11,11 +11,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "map",
+        "range",
+        "average",
+        "Moving",
         "Clock Generator",
         "Si5351A",
         "SiLabs",
-        "driver",
-        "motor"
+        "avnet",
+        "Freescale",
+        "KL25z",
+        "Wi-Go",
+        "WiGo",
+        "2017NOSHIRO"
     ],
     "name": "Si5351A",
     "platforms": "*",

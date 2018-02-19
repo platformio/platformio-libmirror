@@ -6,6 +6,9 @@
     "description": "LoRaWAN MAC layer implementation (GitHub develop branch)",
     "frameworks": "mbed",
     "keywords": [
+        "clock",
+        "KL25z",
+        "PLL",
         "Lora",
         "Semtech",
         "SX1272",
@@ -13,10 +16,7 @@
         "SX1272MB1DxS",
         "SX1276",
         "SX1276Lib",
-        "SX1276MB1xAS",
-        "clock",
-        "KL25z",
-        "PLL"
+        "SX1276MB1xAS"
     ],
     "name": "LoRaWAN-lib-dev",
     "platforms": "*",

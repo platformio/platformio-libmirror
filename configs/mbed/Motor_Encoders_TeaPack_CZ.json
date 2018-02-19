@@ -9,7 +9,8 @@
         "Encoder",
         "InterruptIn",
         "motor",
-        "DS1631"
+        "FRDM-KL25Z",
+        "SPI"
     ],
     "name": "Motor_Encoders",
     "platforms": "*",

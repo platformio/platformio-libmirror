@@ -9,11 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "frequency",
-        "measurement",
-        "Pulsewidth",
-        "MQTT",
-        "MQTTClient"
+        "Nucleo",
+        "STM32F446",
+        "USBDevice"
     ],
     "name": "DnsQuery",
     "platforms": "*",

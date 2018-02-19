@@ -12,16 +12,7 @@
         "BLE",
         "I2C",
         "nordig",
-        "2",
-        "bus",
-        "CAN",
-        "II",
-        "OBD",
-        "obd2",
-        "obdII",
-        "reader",
-        "micropython",
-        "python"
+        "HC05"
     ],
     "name": "I2CX",
     "platforms": "*",

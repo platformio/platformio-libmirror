@@ -9,13 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Serial",
+        "led",
+        "TM1638",
+        "GUI",
+        "menu",
         "IOT",
         "lpwan",
-        "sigfox",
-        "dynamixel",
-        "MX28",
-        "RS485"
+        "sigfox"
     ],
     "name": "Sigfox_Com",
     "platforms": "*",

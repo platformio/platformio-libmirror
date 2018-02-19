@@ -8,7 +8,13 @@
         "https://os.mbed.com/users/mikewebkist/code/mBuinoBlinky/"
     ],
     "frameworks": "mbed",
-    "keywords": "Random",
+    "keywords": [
+        "Random",
+        "Nucleo",
+        "proximity sensor",
+        "stm32",
+        "X-NUCLEO-53L0A1"
+    ],
     "name": "RNG",
     "platforms": "*",
     "repository": {

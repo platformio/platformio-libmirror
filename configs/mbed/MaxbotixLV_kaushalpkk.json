@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Krishna Kaushal Panduru",
+        "url": "https://os.mbed.com/users/kaushalpkk/"
+    },
+    "description": "a library to read sonar values with the MaxbotixLV sonar range sensors..",
+    "frameworks": "mbed",
+    "keywords": "sensors",
+    "name": "MaxbotixLV",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kaushalpkk/code/MaxbotixLV/"
+    }
+}

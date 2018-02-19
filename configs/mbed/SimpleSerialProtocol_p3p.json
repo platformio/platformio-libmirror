@@ -10,14 +10,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "BME280",
+        "I2C sensor driver",
         "checksum",
         "packets",
         "protocol",
         "Serial",
-        "simple",
-        "HTTP server",
-        "httpd",
-        "websocket server"
+        "simple"
     ],
     "name": "SimpleSerialProtocol",
     "platforms": "*",

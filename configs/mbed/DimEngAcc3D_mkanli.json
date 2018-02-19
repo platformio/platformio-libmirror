@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Mustafa Kanli",
+        "url": "https://os.mbed.com/users/mkanli/"
+    },
+    "description": "Class to read acceleration measurements from Dimension Engineering Buffered +-3g Tri-axis Accelerometer device.",
+    "frameworks": "mbed",
+    "keywords": "accelerometer",
+    "name": "DimEngAcc3D",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mkanli/code/DimEngAcc3D/"
+    }
+}

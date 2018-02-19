@@ -6,11 +6,14 @@
     "description": "SO1602A Lib.",
     "frameworks": "mbed",
     "keywords": [
-        "NFC",
-        "PN532",
         "OLED",
         "Organic-LED",
-        "SO1602A"
+        "SO1602A",
+        "ALS",
+        "ambient light sensor",
+        "I2C",
+        "ISL29125",
+        "rgb"
     ],
     "name": "SO1602A",
     "platforms": "*",

@@ -6,9 +6,9 @@
     "description": "Evironmental Shield API",
     "frameworks": "mbed",
     "keywords": [
-        "xbee",
-        "Battery Monitor",
-        "LTC2990"
+        "adc",
+        "MCP",
+        "MCP3002"
     ],
     "name": "Envt_Shield_API",
     "platforms": "*",

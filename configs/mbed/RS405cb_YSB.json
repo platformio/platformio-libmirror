@@ -13,7 +13,17 @@
         "https://os.mbed.com/users/ohtake_i/code/FriedRice/"
     ],
     "frameworks": "mbed",
-    "keywords": "RS405cb",
+    "keywords": [
+        "AX-12",
+        "AX-12W",
+        "control",
+        "dynamixel",
+        "LPC1768",
+        "nxp",
+        "PAPACO",
+        "Robotics",
+        "Servo"
+    ],
     "name": "RS405cb",
     "platforms": "*",
     "repository": {

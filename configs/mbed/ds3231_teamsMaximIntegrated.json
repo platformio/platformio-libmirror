@@ -18,14 +18,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "gyro",
-        "pwm",
-        "PwmOut",
         "clock",
         "CPU",
         "Power",
         "power consumption",
-        "power control"
+        "power control",
+        "pwm",
+        "PwmOut"
     ],
     "name": "ds3231",
     "platforms": "*",

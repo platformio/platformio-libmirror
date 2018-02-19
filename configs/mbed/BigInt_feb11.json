@@ -5,7 +5,10 @@
     },
     "description": "This library provides a way to easily handle arbitrary large integers.",
     "frameworks": "mbed",
-    "keywords": "EDP2",
+    "keywords": [
+        "Zumo",
+        "Temperature;*C;MCP9808"
+    ],
     "name": "BigInt",
     "platforms": "*",
     "repository": {

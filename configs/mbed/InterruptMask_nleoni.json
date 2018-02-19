@@ -11,8 +11,12 @@
         "test",
         "testframework",
         "unit-test",
+        "DISCO_F746NG",
+        "QSPI",
+        "I2C",
         "interrupt",
         "masking",
+        "TMP102",
         "FM25V02",
         "FM25V10",
         "FRAM"

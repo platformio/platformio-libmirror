@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Krishna Kaushal Panduru",
+        "url": "https://os.mbed.com/users/kaushalpkk/"
+    },
+    "description": "TPA81",
+    "frameworks": "mbed",
+    "keywords": [
+        "FRDM-K22F",
+        "fxos8700cq",
+        "EPSON",
+        "RTC",
+        "TOYOCOM"
+    ],
+    "name": "TPA81",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kaushalpkk/code/TPA81/"
+    }
+}

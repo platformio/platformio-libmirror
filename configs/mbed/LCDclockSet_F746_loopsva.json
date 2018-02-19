@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Kevin Braun",
+        "url": "https://os.mbed.com/users/loopsva/"
+    },
+    "description": "Touchscreen support graphics for setting up the RTC on the F746NG-DISCO board.",
+    "examples": [
+        "https://os.mbed.com/users/loopsva/code/DISCO-F746NG-clockSet/",
+        "https://os.mbed.com/users/rickd25/code/DISCO-F746NG-clockSet-touch-demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "F746NG",
+        "RTC",
+        "Touchscreen"
+    ],
+    "name": "LCDclockSet_F746",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/loopsva/code/LCDclockSet_F746/"
+    }
+}

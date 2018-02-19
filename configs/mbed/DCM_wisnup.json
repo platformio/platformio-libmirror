@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "wisnu pamungkas",
+        "url": "https://os.mbed.com/users/wisnup/"
+    },
+    "description": "dcm",
+    "frameworks": "mbed",
+    "keywords": [
+        "cmsis",
+        "rtos",
+        "RTX",
+        "SDFileSystem",
+        "USBMSD",
+        "display",
+        "I2C",
+        "OLED",
+        "SPI",
+        "SSD1351",
+        "codificacion",
+        "UTF8"
+    ],
+    "name": "DCM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wisnup/code/DCM/"
+    }
+}

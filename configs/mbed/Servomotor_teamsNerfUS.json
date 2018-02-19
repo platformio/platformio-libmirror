@@ -10,11 +10,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Alps",
-        "EC11",
-        "Encoder",
-        "quadrature",
-        "switch"
+        "LPC4330",
+        "buffer",
+        "circular",
+        "ring",
+        "delay",
+        "information",
+        "NextTrain"
     ],
     "name": "Servomotor",
     "platforms": "*",

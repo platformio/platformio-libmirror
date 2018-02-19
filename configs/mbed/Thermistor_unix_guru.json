@@ -6,13 +6,8 @@
     "description": "Thermistor to Temperature library, using Steinhart-Hart algorithm",
     "frameworks": "mbed",
     "keywords": [
-        "Lora",
-        "mdot",
-        "multitech",
         "Temperature",
         "thermistor",
-        "Arducam",
-        "OV5642",
         "printf",
         "ringbuffer",
         "Serial"

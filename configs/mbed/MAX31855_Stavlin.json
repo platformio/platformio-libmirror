@@ -12,12 +12,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "scp1000",
-        "f401",
-        "mbed",
+        "energy harvesting",
+        "mobile robot",
         "max31855",
         "MAX6675",
-        "Thermocouple"
+        "Thermocouple",
+        "async",
+        "LS013B7DH03",
+        "memory lcd",
+        "Sharp",
+        "sharp memory LCD",
+        "MQTT"
     ],
     "name": "MAX31855",
     "platforms": "*",

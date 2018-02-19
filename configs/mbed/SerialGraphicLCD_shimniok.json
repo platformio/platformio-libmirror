@@ -8,14 +8,13 @@
     "keywords": [
         "http",
         "web server",
-        "ILI9225",
-        "LCD",
-        "SPI",
         "Graphics",
+        "LCD",
         "Felica",
         "RC-S620/S",
         "RFID",
-        "TB6612FNG"
+        "TB6612FNG",
+        "Servo"
     ],
     "name": "SerialGraphicLCD",
     "platforms": "*",

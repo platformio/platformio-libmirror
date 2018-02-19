@@ -8,14 +8,13 @@
     "keywords": [
         "BurstSPI",
         "F411RE",
-        "multithreading",
-        "rtos",
-        "thread",
-        "Encoder",
         "ADT7410",
         "Analog Devices",
         "I2C",
-        "temperature sensor"
+        "temperature sensor",
+        "I2CRTOS",
+        "non-blocking",
+        "rtos"
     ],
     "name": "ADT7410",
     "platforms": "*",

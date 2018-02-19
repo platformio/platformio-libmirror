@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Ingmar Hendriks",
+        "url": "https://os.mbed.com/users/IngmarHendriks/"
+    },
+    "description": "GEL2474 speed sensor",
+    "frameworks": "mbed",
+    "keywords": "GEL2474",
+    "name": "RPM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/IngmarHendriks/code/RPM/"
+    }
+}

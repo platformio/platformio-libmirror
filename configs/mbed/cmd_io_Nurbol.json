@@ -9,10 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ADT7310",
-        "Nucleo",
-        "SPI",
-        "UIT"
+        "GPS",
+        "ublox",
+        "Vodafone"
     ],
     "name": "cmd_io",
     "platforms": "*",

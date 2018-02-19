@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Hiroshi Yamaguchi",
+        "url": "https://os.mbed.com/users/yamaguch/"
+    },
+    "description": "Simple TCP & UDP socket library for EthernetInterface",
+    "examples": [
+        "https://os.mbed.com/users/yamaguch/code/SimpleSocketExamples/",
+        "https://os.mbed.com/users/numeral369/code/SimpleSocketExamples/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "Analog",
+        "calculate",
+        "convert",
+        "filter",
+        "Linear",
+        "LM335",
+        "median",
+        "multiplier",
+        "offset",
+        "sensor",
+        "Temperature",
+        "voltage",
+        "L152",
+        "Nucleo"
+    ],
+    "name": "SimpleSocket",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yamaguch/code/SimpleSocket/"
+    }
+}

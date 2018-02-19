@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Hendrik Lipka",
+        "url": "https://os.mbed.com/users/hlipka/"
+    },
+    "description": "A port of the irrlicht XML parser library.",
+    "frameworks": "mbed",
+    "keywords": "xml",
+    "name": "irrxml",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hlipka/code/irrxml/"
+    }
+}

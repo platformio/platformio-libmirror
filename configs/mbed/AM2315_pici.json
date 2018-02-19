@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Mike Pici",
+        "url": "https://os.mbed.com/users/pici/"
+    },
+    "description": "AM2315 I2C Temperature and Humidity Sensor.",
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "driver",
+        "AM2315",
+        "led",
+        "LED controller",
+        "led driver",
+        "PCA9955A",
+        "PCA9956A",
+        "PCA995xA"
+    ],
+    "name": "AM2315",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pici/code/AM2315/"
+    }
+}

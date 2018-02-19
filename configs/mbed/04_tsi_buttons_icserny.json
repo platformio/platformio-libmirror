@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Istvan Cserny",
+        "url": "https://os.mbed.com/users/icserny/"
+    },
+    "description": "// Simple button/swipe library for FRDM-KL25Z",
+    "frameworks": "mbed",
+    "keywords": [
+        "Arduino mbed commands",
+        "HD44780 LCD text custom char 16X2",
+        "brightness",
+        "high",
+        "led"
+    ],
+    "name": "04_tsi_buttons",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/icserny/code/04_tsi_buttons/"
+    }
+}

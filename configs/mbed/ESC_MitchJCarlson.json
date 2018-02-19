@@ -6,14 +6,18 @@
     "description": "Simplified pwm pinout to ESC control library for the KL25Z",
     "frameworks": "mbed",
     "keywords": [
-        "OLED",
-        "ssd1305",
         "esc",
         "KL25z",
         "pwm",
-        "3.5mm",
-        "music",
-        "sound"
+        "display",
+        "eINK",
+        "LCD",
+        "Sharp",
+        "3310",
+        "3390",
+        "Nokia",
+        "pcd8544",
+        "TextLCD"
     ],
     "name": "ESC",
     "platforms": "*",

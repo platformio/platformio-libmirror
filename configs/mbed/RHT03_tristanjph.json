@@ -27,11 +27,7 @@
         "SHT75",
         "Temperature",
         "DHT22",
-        "RHT03",
-        "Encoder",
-        "QEI",
-        "qudrature",
-        "rotary"
+        "RHT03"
     ],
     "name": "RHT03",
     "platforms": "*",

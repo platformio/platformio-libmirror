@@ -9,15 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "alphanumeric",
-        "display",
-        "HCMS2975",
-        "led",
-        "brightness",
-        "high",
+        "javascript",
+        "scripting",
         "driver",
         "motor",
-        "Stepper"
+        "Stepper",
+        "I2C",
+        "led cube"
     ],
     "name": "StepperDriver",
     "platforms": "*",

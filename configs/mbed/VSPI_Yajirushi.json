@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Ryota Yamamoto",
+        "url": "https://os.mbed.com/users/Yajirushi/"
+    },
+    "description": "Virtual SPI interface library.",
+    "examples": [
+        "https://os.mbed.com/users/Yajirushi/code/VirtualSPI/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ADE7758",
+        "Fake SPI",
+        "SPI",
+        "Virtual SPI",
+        "VSPI"
+    ],
+    "name": "VSPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Yajirushi/code/VSPI/"
+    }
+}

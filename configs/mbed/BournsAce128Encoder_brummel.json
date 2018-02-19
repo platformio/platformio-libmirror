@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "M. Weiss",
+        "url": "https://os.mbed.com/users/brummel/"
+    },
+    "description": "Mbed interface for Bourns Ace 128-Encoder",
+    "frameworks": "mbed",
+    "keywords": [
+        "128",
+        "ACE",
+        "bourns",
+        "Encoder"
+    ],
+    "name": "BournsAce128Encoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/brummel/code/BournsAce128Encoder/"
+    }
+}

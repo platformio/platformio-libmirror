@@ -6,9 +6,12 @@
     "description": "Fork of SSD1289 lib for Landtiger board",
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
         "LandTiger",
-        "SSD1289"
+        "SSD1289",
+        "Servo",
+        "servo pulse",
+        "SERVOGEN",
+        "ServoOut"
     ],
     "name": "SSD1289",
     "platforms": "*",

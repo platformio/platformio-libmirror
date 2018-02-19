@@ -6,15 +6,10 @@
     "description": "Driver for the Digole Serial universal LCD display adapter",
     "frameworks": "mbed",
     "keywords": [
+        "LCD",
         "accelerometer",
         "ADXL345",
         "senor",
-        "LCD",
-        "arduino",
-        "SDCard",
-        "Seeedstudio",
-        "TFT",
-        "touch",
         "OneWire",
         "protocols",
         "sensors"

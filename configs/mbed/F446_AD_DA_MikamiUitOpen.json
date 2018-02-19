@@ -12,19 +12,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit",
-        "LCD",
-        "ST7735",
-        "TFT",
+        "MQTT",
         "adc",
         "dac",
         "interrupt",
         "Nucleo F446",
         "polling",
-        "STM32F446",
-        "FTP",
-        "ftpclient",
-        "MQTT"
+        "STM32F446"
     ],
     "name": "F446_AD_DA",
     "platforms": "*",

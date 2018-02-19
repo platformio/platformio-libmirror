@@ -19,7 +19,11 @@
         "I2C",
         "quadrotor",
         "robotica",
-        "vuelo"
+        "vuelo",
+        "inverse kinematics",
+        "mearm",
+        "robotic arm",
+        "servo motor"
     ],
     "name": "accelerometer_i2c",
     "platforms": "*",

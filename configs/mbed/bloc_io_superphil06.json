@@ -12,9 +12,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "NeoPixel",
-        "WS2811",
-        "WS2812"
+        "arithmetic",
+        "Expression",
+        "Linear",
+        "matrix",
+        "Template",
+        "vector"
     ],
     "name": "bloc_io",
     "platforms": "*",

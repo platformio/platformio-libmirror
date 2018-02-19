@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Jackson Lv",
+        "url": "https://os.mbed.com/users/Jackson_lv/"
+    },
+    "description": "spi",
+    "examples": [
+        "https://os.mbed.com/users/Jackson_lv/code/MusicShield/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "H-bridge",
+        "motor",
+        "TB6612FNG"
+    ],
+    "name": "spi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Jackson_lv/code/spi/"
+    }
+}

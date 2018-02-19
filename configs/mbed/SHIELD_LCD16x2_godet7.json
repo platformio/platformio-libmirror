@@ -6,16 +6,11 @@
     "description": "Library for the OLIMEX_LTD SHIELD-LCD16x2 two-rows display (compatible with the shield layout of Arduino)",
     "frameworks": "mbed",
     "keywords": [
-        "command",
+        "DAP-III+",
+        "innomatix",
         "Olimex",
         "SHIELD-LCD",
-        "Elecret Microphone",
-        "MAX9814",
-        "sound",
-        "Volume Indicator",
-        "FRDM-KL25Z",
-        "rtos",
-        "thread"
+        "ESP8266"
     ],
     "name": "SHIELD_LCD16x2",
     "platforms": "*",

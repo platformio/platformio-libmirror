@@ -20,12 +20,12 @@
     "keywords": [
         "SBC",
         "WSE",
+        "buzzer",
+        "piezo",
         "pwm",
         "PwmOut",
         "SoftPWM",
-        "softwearPWM",
-        "buzzer",
-        "piezo"
+        "softwearPWM"
     ],
     "name": "beep",
     "platforms": "*",

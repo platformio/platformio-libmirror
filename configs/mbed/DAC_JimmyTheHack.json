@@ -11,14 +11,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "regex",
-        "slre",
-        "C1098-SS",
-        "camera",
-        "JPEG",
-        "UART",
         "dac",
-        "SPI"
+        "SPI",
+        "array",
+        "circular buffer",
+        "deque",
+        "memory",
+        "Template"
     ],
     "name": "DAC",
     "platforms": "*",

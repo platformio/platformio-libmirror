@@ -6,10 +6,17 @@
     "description": "CoilGun",
     "frameworks": "mbed",
     "keywords": [
-        "AD8556",
-        "amplifier",
-        "sensor",
-        "signal"
+        "consumption",
+        "control",
+        "ethernet",
+        "Management",
+        "Power",
+        "PowerControl",
+        "Error",
+        "info",
+        "messages",
+        "Terminal",
+        "warning"
     ],
     "name": "CoilGun",
     "platforms": "*",

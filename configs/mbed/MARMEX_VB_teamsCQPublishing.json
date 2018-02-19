@@ -10,16 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "f401",
-        "F446",
-        "Nucleo",
-        "RGB LED",
-        "SPI",
-        "UIT",
-        "WS2812B",
         "camera",
         "MARMEX-VB",
-        "MARY"
+        "MARY",
+        "\\",
+        "Controller\\",
+        "I2C",
+        "MD25",
+        "motor",
+        "robot"
     ],
     "name": "MARMEX_VB",
     "platforms": "*",

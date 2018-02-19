@@ -18,14 +18,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Addressable",
-        "led",
-        "NeoPixel",
-        "rgb",
-        "WS2812",
-        "GR-PEACH",
-        "MQTT",
-        "MQTTClient"
+        "ICRS",
+        "kalman",
+        "GR-PEACH"
     ],
     "name": "GraphicsFramework",
     "platforms": "*",

@@ -10,16 +10,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "bluetooth",
-        "camera",
-        "JPEG",
-        "LinkSprite",
-        "LS-Y201",
-        "Serial",
         "Ciseco",
         "SRF",
         "wireless",
-        "XRF"
+        "XRF",
+        "flash",
+        "M25P10",
+        "M25P40",
+        "MP25P20"
     ],
     "name": "LLAPSerial",
     "platforms": "*",

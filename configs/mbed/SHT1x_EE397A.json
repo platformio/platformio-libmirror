@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Sean Elward",
+        "url": "https://os.mbed.com/users/EE397A/"
+    },
+    "description": "SHT1x",
+    "frameworks": "mbed",
+    "keywords": [
+        "NFC",
+        "PN532",
+        "nRF2401A",
+        "GPS"
+    ],
+    "name": "SHT1x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/EE397A/code/SHT1x/"
+    }
+}

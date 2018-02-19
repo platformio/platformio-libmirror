@@ -11,13 +11,20 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F469NI",
-        "LCD",
         "color",
         "led",
         "nRF51822",
         "rgb",
-        "WS2812B"
+        "WS2812B",
+        "DISCO_F469NI",
+        "LCD",
+        "BUTTON",
+        "ButtonGroup",
+        "DISCO-F746",
+        "UIT",
+        "wifi",
+        "WiFi Shield",
+        "WizFi250"
     ],
     "name": "color_pixels",
     "platforms": "*",

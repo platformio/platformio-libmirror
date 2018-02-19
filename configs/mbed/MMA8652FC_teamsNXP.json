@@ -9,7 +9,17 @@
         "https://os.mbed.com/users/koyo_take/code/ina-hack-2nd/"
     ],
     "frameworks": "mbed",
-    "keywords": "MMA8652FC",
+    "keywords": [
+        "Electrical",
+        "Field",
+        "Gesture",
+        "MGC3130",
+        "LM75B",
+        "PCT2075",
+        "sensor",
+        "Temperature",
+        "temperature sensor"
+    ],
     "name": "MMA8652FC",
     "platforms": "*",
     "repository": {

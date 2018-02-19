@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Gabriel Garcia",
+        "url": "https://os.mbed.com/users/gagarcr/"
+    },
+    "description": "Output PWM on any pin.",
+    "frameworks": "mbed",
+    "keywords": [
+        "CloudConnector",
+        "etherios",
+        "IOT",
+        "pwm",
+        "SoftPWM",
+        "ds1307",
+        "DS3231m"
+    ],
+    "name": "SoftPwmOut",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gagarcr/code/SoftPwmOut/"
+    }
+}

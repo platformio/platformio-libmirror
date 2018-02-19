@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Warwick Racing",
+        "url": "https://os.mbed.com/users/WarwickRacing/"
+    },
+    "description": "PID library (not mine)",
+    "examples": [
+        "https://os.mbed.com/users/WarwickRacing/code/ElecPneuShifter_4/",
+        "https://os.mbed.com/users/networker/code/ipod/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "ethernet",
+        "PicoTCP",
+        "event",
+        "event-driven",
+        "fully-preemptive",
+        "multithread",
+        "rtos",
+        "run-to-completion",
+        "schedulling",
+        "single-stack",
+        "128x64",
+        "I2C",
+        "OLED",
+        "SSD1306",
+        "LPC1114",
+        "LPC1114FN28",
+        "mbed-sdk"
+    ],
+    "name": "PID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WarwickRacing/code/PID/"
+    }
+}

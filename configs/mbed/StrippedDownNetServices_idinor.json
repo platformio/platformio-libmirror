@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "idinor Launcher",
+        "url": "https://os.mbed.com/users/idinor/"
+    },
+    "description": "This library is stripped down version of NetServices library.",
+    "examples": [
+        "https://os.mbed.com/users/yahugh/code/imu-daq-eth/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "NetServices",
+        "network",
+        "NTP",
+        "graphic",
+        "monochrome",
+        "VGA",
+        "ILI9341",
+        "SPI"
+    ],
+    "name": "StrippedDownNetServices",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/idinor/code/StrippedDownNetServices/"
+    }
+}

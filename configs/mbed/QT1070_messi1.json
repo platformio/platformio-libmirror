@@ -5,7 +5,17 @@
     },
     "description": "Driver for the AT42QT1070",
     "frameworks": "mbed",
-    "keywords": "QT1070",
+    "keywords": [
+        "adc",
+        "dac",
+        "dual",
+        "MCP4922",
+        "Nucleo",
+        "single",
+        "Nucleo-F4xx",
+        "open-drain",
+        "UIT"
+    ],
     "name": "QT1070",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Ivan Yohuno",
+        "url": "https://os.mbed.com/users/ivanyohuno/"
+    },
+    "description": "A LIBRARY: use to interface neopixel lights with MBED",
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "I2C",
+        "Monito",
+        "System"
+    ],
+    "name": "neopixels_spi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ivanyohuno/code/neopixels_spi/"
+    }
+}

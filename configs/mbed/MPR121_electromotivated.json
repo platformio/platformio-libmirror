@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Bryce Williams",
+        "url": "https://os.mbed.com/users/electromotivated/"
+    },
+    "description": "Anthony Buckton's MPR121 Driver Library",
+    "examples": [
+        "https://os.mbed.com/users/electromotivated/code/DRV2605L_Haptic_Driver_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DHT22",
+        "cmsis",
+        "L152",
+        "Nucleo",
+        "rtos",
+        "RTX"
+    ],
+    "name": "MPR121",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/electromotivated/code/MPR121/"
+    }
+}

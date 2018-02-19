@@ -12,6 +12,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "driver",
+        "L6208",
+        "microstep",
+        "motor",
+        "ST",
+        "Stepper",
         "amateur",
         "code",
         "HAM",
@@ -20,13 +26,7 @@
         "Morse",
         "MorseOut",
         "Out",
-        "Radio",
-        "driver",
-        "L6208",
-        "microstep",
-        "motor",
-        "ST",
-        "Stepper"
+        "Radio"
     ],
     "name": "SimpleLib",
     "platforms": "*",

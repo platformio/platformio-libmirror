@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Yann Garcia",
+        "url": "https://os.mbed.com/users/Yann/"
+    },
+    "description": "This class provides simplified I2C access to a Microchip 24LCxx Serial EEPROM device:",
+    "frameworks": "mbed",
+    "keywords": [
+        "24LCxx",
+        "EEPROM",
+        "I2C",
+        "Microchip",
+        "Serial",
+        "STM32F030F4",
+        "STM32F030F4P6",
+        "xbee",
+        "XBEE pro",
+        "zigbee",
+        "LCD",
+        "text"
+    ],
+    "name": "24LCxx_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Yann/code/24LCxx_I2C/"
+    }
+}

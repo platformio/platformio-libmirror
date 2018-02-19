@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Ilsoe Peter",
+        "url": "https://os.mbed.com/users/piniels/"
+    },
+    "description": "Library for arduino step motor shield",
+    "examples": [
+        "https://os.mbed.com/users/piniels/code/HIDTympDeviceWithPIDController/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "NetServices",
+        "network",
+        "NTP",
+        "graphic",
+        "monochrome",
+        "VGA",
+        "ILI9341",
+        "SPI"
+    ],
+    "name": "Motor_shield_Arduino",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/piniels/code/Motor_shield_Arduino/"
+    }
+}

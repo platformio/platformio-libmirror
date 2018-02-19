@@ -6,11 +6,20 @@
     "description": "Serial RPC Interface using the MODSERIAL library. Does not hang when serial port misbehaves.",
     "frameworks": "mbed",
     "keywords": [
+        "flash",
+        "S25FL216K",
+        "Serial",
+        "74hc595",
+        "Adafruit",
+        "arduino",
+        "FRDM-KL46Z",
+        "L293D",
+        "motor",
+        "motorshield",
+        "pwm",
         "capture",
         "timer",
-        "timer2",
-        "device",
-        "USB"
+        "timer2"
     ],
     "name": "BufSerialRPC",
     "platforms": "*",

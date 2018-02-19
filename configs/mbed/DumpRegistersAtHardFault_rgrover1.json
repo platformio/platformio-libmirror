@@ -11,10 +11,7 @@
         "fault",
         "handler",
         "hardfault",
-        "registerdump",
-        "SED1330",
-        "SED1335",
-        "TextDisplay"
+        "registerdump"
     ],
     "name": "DumpRegistersAtHardFault",
     "platforms": "*",

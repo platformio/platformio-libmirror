@@ -6,11 +6,6 @@
     "description": "reading internal temperature sensor of arch max and storing data",
     "frameworks": "mbed",
     "keywords": [
-        "23LC1024",
-        "23LC512",
-        "Microchip",
-        "SPI",
-        "sram",
         "Arch Max",
         "sensor",
         "STM32F4",

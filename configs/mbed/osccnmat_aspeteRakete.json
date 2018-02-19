@@ -6,13 +6,16 @@
     "description": "(uncpomplete) port of the cnmat osc library for Arduino/Teensy. Upstream url:",
     "frameworks": "mbed",
     "keywords": [
-        "game",
-        "inheritance",
-        "OOP",
-        "polymorphism",
-        "tutorial",
+        "AppleRemote",
         "CNMAT",
-        "osc"
+        "osc",
+        "C027",
+        "C030",
+        "file",
+        "SMS",
+        "u-blox",
+        "ussd",
+        "Serial"
     ],
     "name": "osc-cnmat",
     "platforms": "*",

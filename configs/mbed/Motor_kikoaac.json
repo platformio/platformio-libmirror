@@ -12,7 +12,13 @@
         "https://os.mbed.com/users/kikoaac/code/FourSicleRobot/"
     ],
     "frameworks": "mbed",
-    "keywords": "Motor",
+    "keywords": [
+        "game",
+        "inheritance",
+        "OOP",
+        "polymorphism",
+        "tutorial"
+    ],
     "name": "Motor",
     "platforms": "*",
     "repository": {

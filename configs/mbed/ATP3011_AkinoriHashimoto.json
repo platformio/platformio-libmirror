@@ -6,12 +6,9 @@
     "description": "ATP3011 is text speech LSI by AquesTalk pico.",
     "frameworks": "mbed",
     "keywords": [
-        "tcp/ip",
-        "WebSocket",
-        "accelerometer",
-        "fxos8700cq",
-        "I2C",
-        "magnetometer",
+        "Bertl",
+        "HTTPClient",
+        "xively",
         "AquesTalk pico",
         "ATP3011"
     ],

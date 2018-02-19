@@ -6,17 +6,10 @@
     "description": "RF12B",
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit",
-        "I2C",
-        "led",
-        "nxp",
-        "PCA9685",
-        "pwm",
-        "Servo",
-        "StarBoardOrange",
-        "DA7212",
-        "I2S",
-        "TLV320"
+        "DISCO-F746",
+        "F746",
+        "Graphics",
+        "karpent"
     ],
     "name": "RF12B",
     "platforms": "*",

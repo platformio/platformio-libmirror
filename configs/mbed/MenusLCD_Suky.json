@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Ale C.-",
+        "url": "https://os.mbed.com/users/Suky/"
+    },
+    "description": "Menus LCD TFT",
+    "examples": [
+        "https://os.mbed.com/users/Suky/code/Example_Menu_LCD_TFT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HAM-radio",
+        "I2C",
+        "sdr",
+        "vcxo",
+        "vfo",
+        "LCD",
+        "Menus",
+        "TFT",
+        "Adafruit 9DOF",
+        "LSM303DLHC",
+        "APDS9960",
+        "avago",
+        "color",
+        "Gesture",
+        "proximity",
+        "sparkfun"
+    ],
+    "name": "MenusLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Suky/code/MenusLCD/"
+    }
+}

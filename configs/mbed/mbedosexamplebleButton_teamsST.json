@@ -6,7 +6,6 @@
     "description": "BLE Button example",
     "frameworks": "mbed",
     "keywords": [
-        "TMP102",
         "Encoder",
         "incremental",
         "mechanical",
@@ -14,7 +13,11 @@
         "switch",
         "BLE",
         "BLE Bluetooth Low Energy BLE",
-        "BUTTON"
+        "BUTTON",
+        "digitalOut",
+        "PwmOut",
+        "RenBuggy",
+        "Renishaw"
     ],
     "name": "mbed-os-example-ble-Button",
     "platforms": "*",

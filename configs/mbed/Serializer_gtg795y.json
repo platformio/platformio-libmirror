@@ -7,9 +7,10 @@
     "frameworks": "mbed",
     "keywords": [
         "Serializer",
-        "control",
-        "PID",
-        "TJPS"
+        "filesystem",
+        "MSD",
+        "SD",
+        "USB"
     ],
     "name": "Serializer",
     "platforms": "*",

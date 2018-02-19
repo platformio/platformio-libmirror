@@ -9,7 +9,11 @@
         "https://os.mbed.com/users/Dautor/code/acd52832_bmc150_test/"
     ],
     "frameworks": "mbed",
-    "keywords": "BMC150",
+    "keywords": [
+        "LCD",
+        "BMC150",
+        "PCA9635"
+    ],
     "name": "BMC150",
     "platforms": "*",
     "repository": {

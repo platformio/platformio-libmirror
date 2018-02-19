@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Anders Hörnfeldt",
+        "url": "https://os.mbed.com/users/hornfeldt/"
+    },
+    "description": "Determine input capacity on digital input using internal pull up/down.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Capacitive",
+        "sensor"
+    ],
+    "name": "libcap",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hornfeldt/code/libcap/"
+    }
+}

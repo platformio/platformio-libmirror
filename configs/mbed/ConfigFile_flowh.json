@@ -9,7 +9,12 @@
         "https://os.mbed.com/users/m0dts/code/Dawson_Controller/"
     ],
     "frameworks": "mbed",
-    "keywords": "MPL115A2",
+    "keywords": [
+        "servos",
+        "slow",
+        "Speed",
+        "1WireLcd"
+    ],
     "name": "ConfigFile",
     "platforms": "*",
     "repository": {

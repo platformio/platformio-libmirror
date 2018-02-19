@@ -9,15 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "hotboards",
-        "MCP9808",
-        "sesnor",
-        "Temp",
         "BP3595",
         "network",
         "ROHM",
         "WLAN",
-        "USBHOST"
+        "C24LCXXX",
+        "EEPROM",
+        "I2C"
     ],
     "name": "LWIPBP3595Interface",
     "platforms": "*",

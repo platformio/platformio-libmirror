@@ -10,14 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AX-12",
-        "ax12",
-        "IOT",
         "I2C",
         "MAX30101",
         "MSS",
         "MSU",
-        "dynamixel"
+        "ICRS",
+        "rf12B",
+        "api",
+        "blink",
+        "led"
     ],
     "name": "MAX30101",
     "platforms": "*",

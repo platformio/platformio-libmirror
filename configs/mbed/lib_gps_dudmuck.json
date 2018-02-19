@@ -19,12 +19,12 @@
         "logger",
         "test",
         "display",
-        "GPS",
         "DC",
         "driver",
         "full-bridge",
         "H-bridge",
-        "motor"
+        "motor",
+        "GPS"
     ],
     "name": "lib_gps",
     "platforms": "*",

@@ -13,12 +13,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "infra",
-        "infrared",
-        "IR",
-        "mbed",
-        "red",
-        "AM2320"
+        "driver",
+        "I2C",
+        "rtos"
     ],
     "name": "Si7020",
     "platforms": "*",

@@ -12,7 +12,14 @@
         "driver",
         "I2C",
         "led",
-        "TLC59116"
+        "TLC59116",
+        "9Dof-Stick",
+        "ADXL345",
+        "sparkfun",
+        "GPIO",
+        "master",
+        "Serial",
+        "SPI"
     ],
     "name": "TLC59116",
     "platforms": "*",

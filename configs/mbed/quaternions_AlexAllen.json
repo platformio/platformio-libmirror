@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Alex Allen",
+        "url": "https://os.mbed.com/users/AlexAllen/"
+    },
+    "description": "A class which implements some basic quaternion functions",
+    "frameworks": "mbed",
+    "keywords": "quaternions",
+    "name": "quaternions",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AlexAllen/code/quaternions/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Karl Rankla",
+        "url": "https://os.mbed.com/users/karlrank/"
+    },
+    "description": "Something something.",
+    "examples": [
+        "https://os.mbed.com/users/karlrank/code/IMU-MODULE/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "8x8",
+        "Adafruit",
+        "backpack",
+        "led"
+    ],
+    "name": "ut-imu",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/karlrank/code/ut-imu/"
+    }
+}

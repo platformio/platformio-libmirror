@@ -6,11 +6,11 @@
     "description": "WIZ820io（W5200) network interface、EthernetNetIf compatible.",
     "frameworks": "mbed",
     "keywords": [
-        "W5200",
-        "WIZ820IO",
         "cmsis",
         "rtos",
-        "RTX"
+        "RTX",
+        "W5200",
+        "WIZ820IO"
     ],
     "name": "WIZ820ioNetIf",
     "platforms": "*",

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Toby Harris",
+        "url": "https://os.mbed.com/users/tobyspark/"
+    },
+    "description": "http://ndevilla.free.fr/iniparser/",
+    "examples": [
+        "https://os.mbed.com/users/tobyspark/code/SPK-DVIMXR/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "gyro",
+        "iniparser",
+        "hydro",
+        "ROS",
+        "ros_serial"
+    ],
+    "name": "iniparser",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tobyspark/code/iniparser/"
+    }
+}

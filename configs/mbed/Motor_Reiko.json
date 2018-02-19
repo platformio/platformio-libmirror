@@ -5,7 +5,11 @@
     },
     "description": "Motor",
     "frameworks": "mbed",
-    "keywords": "Motor",
+    "keywords": [
+        "BLE",
+        "Nordic",
+        "nRF51822"
+    ],
     "name": "Motor",
     "platforms": "*",
     "repository": {

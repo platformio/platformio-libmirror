@@ -12,12 +12,7 @@
         "https://os.mbed.com/users/wbeaumont/code/MCP4728setaddrProg/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "InterruptIn",
-        "Communication",
-        "debugging",
-        "rpc"
-    ],
+    "keywords": "I2Cinterfaces",
     "name": "I2Cinterfaces",
     "platforms": "*",
     "repository": {

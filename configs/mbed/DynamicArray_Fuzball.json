@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Chris Yan",
+        "url": "https://os.mbed.com/users/Fuzball/"
+    },
+    "description": "An mbed-friendly version of dynamic arrays",
+    "frameworks": "mbed",
+    "keywords": [
+        "array",
+        "Dynamic",
+        "typeless",
+        "Altimeter",
+        "barometer",
+        "I2C",
+        "ms5637"
+    ],
+    "name": "DynamicArray",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Fuzball/code/DynamicArray/"
+    }
+}

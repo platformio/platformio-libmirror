@@ -6,9 +6,10 @@
     "description": "SPI-Master for CAN (Nucleo f401re)",
     "frameworks": "mbed",
     "keywords": [
-        "motorDC",
-        "HD44780",
-        "TextLCD"
+        "dac",
+        "MCP4728",
+        "DS1337",
+        "I2C"
     ],
     "name": "Nucleo_spi_master",
     "platforms": "*",

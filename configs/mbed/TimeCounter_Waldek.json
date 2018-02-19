@@ -6,9 +6,9 @@
     "description": "Time (seconds) counter based on TimerSubscriber",
     "frameworks": "mbed",
     "keywords": [
-        "driver",
-        "I2C",
-        "rtos"
+        "FM Radio",
+        "TEA5767",
+        "myTimer"
     ],
     "name": "TimeCounter",
     "platforms": "*",

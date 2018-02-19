@@ -5,13 +5,7 @@
     },
     "description": "Code to interface with the MCP7940 Real time clock. Supports getting and setting the time in 24 hour format",
     "frameworks": "mbed",
-    "keywords": [
-        "HSI",
-        "pwm",
-        "rgb",
-        "RGBW",
-        "RTC"
-    ],
+    "keywords": "RTC_MCP7940M",
     "name": "RTC_MCP7940M",
     "platforms": "*",
     "repository": {

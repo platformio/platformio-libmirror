@@ -17,6 +17,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "display",
+        "HT1632",
+        "led",
+        "matrix",
+        "I2C multiplexer",
+        "PCA9547",
         "GPIO",
         "GPIO expander",
         "I2C",
@@ -26,9 +32,7 @@
         "PCA9554",
         "PCA9555",
         "PCAL9554",
-        "PCAL9555",
-        "7seg",
-        "LCD"
+        "PCAL9555"
     ],
     "name": "PCAL955x",
     "platforms": "*",

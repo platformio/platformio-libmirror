@@ -5,7 +5,12 @@
     },
     "description": "printf() on AQM0802",
     "frameworks": "mbed",
-    "keywords": "LCD_AQM0802",
+    "keywords": [
+        "Gatech",
+        "https",
+        "mbedTLS",
+        "SSL"
+    ],
     "name": "LCD_AQM0802",
     "platforms": "*",
     "repository": {

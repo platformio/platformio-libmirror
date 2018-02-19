@@ -18,19 +18,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "7",
+        "display",
+        "segment",
         "ACM1602NI",
         "I2C",
         "LCD",
-        "Nucleo",
-        "ADXL345",
-        "sparkfun",
-        "display",
-        "led",
-        "numeric",
-        "Seven-Segment",
-        "Capactitve touch sensor",
-        "mpr121",
-        "SEN-10250"
+        "Nucleo"
     ],
     "name": "UIT_ACM1602NI",
     "platforms": "*",

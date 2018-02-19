@@ -6,6 +6,7 @@
     "description": "This library allows you to interface the mbed with a Nintendo 64 controller. You can easily check for button presses and the position of the analog stick.",
     "frameworks": "mbed",
     "keywords": [
+        "InterruptIn",
         "64",
         "controller",
         "n64",

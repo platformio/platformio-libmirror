@@ -12,7 +12,11 @@
         "FTP",
         "photo",
         "W7500",
-        "WIZwiki_W7500"
+        "WIZwiki_W7500",
+        "Nucleo",
+        "open-drain",
+        "push-pull",
+        "UIT"
     ],
     "name": "Creatron_RS485",
     "platforms": "*",

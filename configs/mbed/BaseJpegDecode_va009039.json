@@ -11,11 +11,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "JPEG",
-        "adc",
-        "MCP",
-        "MCP3002",
-        "Creation"
+        "filesystem",
+        "MiMic",
+        "VGA",
+        "video",
+        "JPEG"
     ],
     "name": "BaseJpegDecode",
     "platforms": "*",

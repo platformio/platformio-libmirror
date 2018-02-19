@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "darron nielsen",
+        "url": "https://os.mbed.com/users/microsat/"
+    },
+    "description": "m3pi",
+    "frameworks": "mbed",
+    "keywords": [
+        "m3pi",
+        "I2C",
+        "Nunchuk",
+        "audio",
+        "CODEC",
+        "TLV320",
+        "batron",
+        "cog",
+        "LCD",
+        "Armand",
+        "Coetzer"
+    ],
+    "name": "m3pi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/microsat/code/m3pi/"
+    }
+}

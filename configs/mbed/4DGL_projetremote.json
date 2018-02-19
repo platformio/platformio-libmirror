@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Sensovery Company",
+        "url": "https://os.mbed.com/users/projetremote/"
+    },
+    "description": "4DGL",
+    "examples": [
+        "https://os.mbed.com/users/projetremote/code/Telecommande_prologue/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "filesystem",
+        "MiMic",
+        "VGA",
+        "video",
+        "JPEG"
+    ],
+    "name": "4DGL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/projetremote/code/4DGL/"
+    }
+}

@@ -6,10 +6,12 @@
     "description": "64 bit Timer Class.",
     "frameworks": "mbed",
     "keywords": [
-        "DS1338",
-        "I2C",
         "64 bit",
-        "timer class"
+        "timer class",
+        "Data Logging",
+        "datalog",
+        "FRAM",
+        "log"
     ],
     "name": "Timer64",
     "platforms": "*",

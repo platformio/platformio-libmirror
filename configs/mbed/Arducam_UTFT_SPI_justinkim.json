@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "justin kim",
+        "url": "https://os.mbed.com/users/justinkim/"
+    },
+    "description": "Arducam_UTFT_SPI_Library",
+    "examples": [
+        "https://os.mbed.com/users/justinkim/code/DigitalCamera_OV5642_WIZwiki-W7500/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Arducam",
+        "UTFT",
+        "64F",
+        "FRDM",
+        "I2S"
+    ],
+    "name": "Arducam_UTFT_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/justinkim/code/Arducam_UTFT_SPI/"
+    }
+}

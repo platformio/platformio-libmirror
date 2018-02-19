@@ -6,18 +6,11 @@
     "description": "A library for the AMS AS5045 magnetic encoder using the SPI interface",
     "frameworks": "mbed",
     "keywords": [
+        "mbed",
         "AMS",
         "AS5045",
         "SPI",
-        "device",
-        "USB",
-        "debounce",
-        "interrupt",
-        "InterruptIn",
-        "stm32",
-        "STM32F746",
-        "STM32F746NG-DISCO",
-        "USBHOST"
+        "Bertl"
     ],
     "name": "AS5045Controller",
     "platforms": "*",

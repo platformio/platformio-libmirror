@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Jeremiah Mattison",
+        "url": "https://os.mbed.com/users/fwrawx/"
+    },
+    "description": "Library for interfacing with the RM3100 magnetometer from PNI Sensor Corporation",
+    "examples": [
+        "https://os.mbed.com/users/fwrawx/code/Hello_RM3100/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "magnetometer",
+        "PNI",
+        "rm3100",
+        "sensor"
+    ],
+    "name": "Rm3100",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fwrawx/code/Rm3100/"
+    }
+}

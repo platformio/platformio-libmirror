@@ -6,13 +6,20 @@
     "description": "Inspired by Simon Ford's \"Terminal\" library, this is a clean-room reimplementation that supports a larger set of the ANSI escape sequences and includes a few handy drawing routines. Useful for making console UIs for your projects.",
     "frameworks": "mbed",
     "keywords": [
+        "Communication",
+        "protocols",
+        "wireless",
+        "xbee",
+        "AD7606",
+        "SPI",
         "ANSI",
         "Terminal",
         "controller",
         "motor",
         "pololu",
         "Qik",
-        "VNH25P30"
+        "VNH25P30",
+        "LM61"
     ],
     "name": "ANSITerm",
     "platforms": "*",

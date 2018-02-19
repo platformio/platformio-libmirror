@@ -23,10 +23,10 @@
         "md5",
         "RC4",
         "SHA",
-        "ROS",
         "Callback",
         "FunctionPointer",
-        "Functor"
+        "Functor",
+        "ROS"
     ],
     "name": "FPointer",
     "platforms": "*",

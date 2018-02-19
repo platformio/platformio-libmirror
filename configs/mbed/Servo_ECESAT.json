@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "ADITYA RAJ",
+        "url": "https://os.mbed.com/users/ECESAT/"
+    },
+    "description": "Servo motor testing for CANSAT",
+    "frameworks": "mbed",
+    "keywords": [
+        "ACM1602NI",
+        "f401",
+        "I2C",
+        "LCD",
+        "Nucleo",
+        "UIT",
+        "1-wire",
+        "DALLAS",
+        "Maxim",
+        "OneWire",
+        "2.4GHz",
+        "920MHz",
+        "950MHz",
+        "NEC",
+        "NFC",
+        "hbridge",
+        "ICRS",
+        "motor"
+    ],
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ECESAT/code/Servo/"
+    }
+}

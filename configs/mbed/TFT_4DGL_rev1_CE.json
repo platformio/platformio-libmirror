@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Claes Ekengren",
+        "url": "https://os.mbed.com/users/CE/"
+    },
+    "description": "Slightly modified LIB from Stephane ROCHON",
+    "frameworks": "mbed",
+    "keywords": [
+        "uLCD-32PT(SGS)",
+        "distance",
+        "driver",
+        "sensor",
+        "VL6180x",
+        "display",
+        "MicroOLED",
+        "OLED",
+        "sparkfun",
+        "SPI",
+        "SSD1306",
+        "DHT11",
+        "DHT22",
+        "Humidity",
+        "Temperature",
+        "1",
+        "1-wire",
+        "DS1820",
+        "Maxim",
+        "one",
+        "OneWire",
+        "Wire"
+    ],
+    "name": "TFT_4DGL_rev1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/CE/code/TFT_4DGL_rev1/"
+    }
+}

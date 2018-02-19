@@ -6,6 +6,13 @@
     "description": "ADF4360 - See http://mbed.org/forum/helloworld/topic/1430",
     "frameworks": "mbed",
     "keywords": [
+        "Humidity",
+        "Sensirion",
+        "sensor",
+        "SHT71",
+        "SHT75",
+        "SHT7x",
+        "Temperature",
         "ethernet",
         "socket",
         "W5500",
@@ -13,9 +20,6 @@
         "G350;",
         "GPS;",
         "SARA",
-        "can bus",
-        "Nucleo",
-        "NUCLEO-F103RB",
         "ADF4360"
     ],
     "name": "MODADF4360",

@@ -10,13 +10,12 @@
         "arduino",
         "PHS",
         "shield",
-        "I2C",
-        "NeoPixel",
-        "rhb",
-        "slave",
         "logger",
         "syslog",
-        "syslogd"
+        "syslogd",
+        "real time",
+        "serial port",
+        "serial protocols"
     ],
     "name": "logger",
     "platforms": "*",

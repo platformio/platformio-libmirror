@@ -8,7 +8,14 @@
         "https://os.mbed.com/users/manitou/code/k64f_ppmtst/"
     ],
     "frameworks": "mbed",
-    "keywords": "K64F",
+    "keywords": [
+        "joystick",
+        "LCD_12832",
+        "LEDS",
+        "micro",
+        "MMA7660FC",
+        "K64F"
+    ],
     "name": "PulsePosition",
     "platforms": "*",
     "repository": {

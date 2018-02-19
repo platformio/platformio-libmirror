@@ -5,7 +5,14 @@
     },
     "description": "RTC functions for STM32F103",
     "frameworks": "mbed",
-    "keywords": "debouncing",
+    "keywords": [
+        "game",
+        "inheritance",
+        "OOP",
+        "polymorphism",
+        "tutorial",
+        "debouncing"
+    ],
     "name": "nnio_stm32f10x_rtc",
     "platforms": "*",
     "repository": {

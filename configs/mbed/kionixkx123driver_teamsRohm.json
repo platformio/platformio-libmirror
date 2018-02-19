@@ -11,10 +11,7 @@
     "keywords": [
         "accelerometer",
         "I2C",
-        "Kionix",
-        "GPIO",
-        "TCA9554A",
-        "TI"
+        "Kionix"
     ],
     "name": "kionix-kx123-driver",
     "platforms": "*",

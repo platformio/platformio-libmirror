@@ -12,13 +12,7 @@
         "16x4",
         "LCD",
         "Pulsewidth",
-        "wait",
-        "agriculture",
-        "Chirp",
-        "driver",
-        "I2C",
-        "sensor",
-        "soil moisture"
+        "wait"
     ],
     "name": "TextLCD_16x4_Wait",
     "platforms": "*",

@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Mike Panetta",
+        "url": "https://os.mbed.com/users/mpanetta/"
+    },
+    "description": "Modified MODSERIAL library",
+    "examples": [
+        "https://os.mbed.com/users/mpanetta/code/BeaconAvoid/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MAX7219",
+        "MAX7221",
+        "accelerometer",
+        "ADXL345",
+        "C++",
+        "mbed",
+        "EEPROM",
+        "MCP4921",
+        "SPI",
+        "GPIO Exoender",
+        "MCP23017"
+    ],
+    "name": "MODSERIAL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mpanetta/code/MODSERIAL/"
+    }
+}

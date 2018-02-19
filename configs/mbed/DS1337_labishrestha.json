@@ -6,6 +6,8 @@
     "description": "DS1337 RTC library",
     "frameworks": "mbed",
     "keywords": [
+        "dac",
+        "MCP4728",
         "DS1337",
         "I2C"
     ],

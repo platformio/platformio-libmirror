@@ -8,7 +8,22 @@
     "keywords": [
         "dac",
         "I2C",
-        "LTC"
+        "LTC",
+        "Host",
+        "hub",
+        "keyboard",
+        "mbed",
+        "Mouse",
+        "MSD",
+        "rtos",
+        "Serial",
+        "USB",
+        "card",
+        "fatfilesystem",
+        "MMC",
+        "SD",
+        "SDHC",
+        "SDXC"
     ],
     "name": "DacLtc2606",
     "platforms": "*",

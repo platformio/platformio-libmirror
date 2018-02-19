@@ -5,7 +5,15 @@
     },
     "description": "Uses the same fonts as the SPI_TFT_ILI9341 Library (I have many, and a html/php font editor for that)",
     "frameworks": "mbed",
-    "keywords": "SPI_TFT_ILI9225",
+    "keywords": [
+        "javascript",
+        "scripting",
+        "driver",
+        "motor",
+        "Stepper",
+        "I2C",
+        "led cube"
+    ],
     "name": "SPI_TFT_ILI9225",
     "platforms": "*",
     "repository": {

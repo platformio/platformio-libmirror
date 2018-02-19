@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Jacques Grelet",
+        "url": "https://os.mbed.com/users/us191/"
+    },
+    "description": "manage a led (put on/off, flash...)",
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "counter",
+        "pulse",
+        "mbed5",
+        "NetworkInterfaceAPI",
+        "wifi",
+        "wifiinterface",
+        "wizfi310",
+        "wizfi310interface",
+        "MX64",
+        "Celllular",
+        "lte",
+        "M14A2A",
+        "WNC",
+        "WNC M14A2A"
+    ],
+    "name": "Led",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/us191/code/Led/"
+    }
+}

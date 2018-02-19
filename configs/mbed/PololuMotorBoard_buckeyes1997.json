@@ -5,7 +5,14 @@
     },
     "description": "This library is an attempt to encapsulate the Pololu motor board.",
     "frameworks": "mbed",
-    "keywords": "NextTrainFileLib",
+    "keywords": [
+        "consumption",
+        "control",
+        "ethernet",
+        "Management",
+        "Power",
+        "PowerControl"
+    ],
     "name": "PololuMotorBoard",
     "platforms": "*",
     "repository": {

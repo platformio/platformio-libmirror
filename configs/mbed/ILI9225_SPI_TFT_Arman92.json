@@ -9,16 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "http",
-        "web server",
+        "output",
+        "pwm",
+        "Servo",
         "ILI9225",
         "LCD",
-        "SPI",
-        "Graphics",
-        "Felica",
-        "RC-S620/S",
-        "RFID",
-        "TB6612FNG"
+        "SPI"
     ],
     "name": "ILI9225_SPI_TFT",
     "platforms": "*",

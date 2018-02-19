@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "hiroshi matsumoto",
+        "url": "https://os.mbed.com/users/jh1cdv00/"
+    },
+    "description": "lpc1768",
+    "frameworks": "mbed",
+    "keywords": [
+        "modbus rtu",
+        "real time",
+        "rtos",
+        "serial protocol",
+        "Pachube",
+        "eeprom on flash",
+        "flash file system",
+        "accelerometer",
+        "MMA8451",
+        "MMA8452",
+        "MMA8453",
+        "MMA845x"
+    ],
+    "name": "EthernetNetIf",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jh1cdv00/code/EthernetNetIf/"
+    }
+}

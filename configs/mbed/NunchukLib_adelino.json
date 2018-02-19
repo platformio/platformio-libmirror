@@ -6,12 +6,17 @@
     "description": "Library to use the wii nunchuk distributed by Nintendo",
     "frameworks": "mbed",
     "keywords": [
+        "m3pi",
         "I2C",
         "Nunchuk",
-        "dac",
-        "DMA",
-        "function generator",
-        "MODDMA"
+        "audio",
+        "CODEC",
+        "TLV320",
+        "batron",
+        "cog",
+        "LCD",
+        "Armand",
+        "Coetzer"
     ],
     "name": "NunchukLib",
     "platforms": "*",

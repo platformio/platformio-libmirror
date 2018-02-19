@@ -9,11 +9,10 @@
         "CloudConnector",
         "etherios",
         "IOT",
-        "Ascii",
-        "ASCIIGraph",
-        "graph",
-        "Serial",
-        "Terminal"
+        "pwm",
+        "SoftPWM",
+        "ds1307",
+        "DS3231m"
     ],
     "name": "EtheriosCloudConnector",
     "platforms": "*",

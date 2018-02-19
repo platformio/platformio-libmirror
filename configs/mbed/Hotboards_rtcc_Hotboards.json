@@ -14,16 +14,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ds1302",
-        "modtronix",
-        "NZ32 STM32",
+        "NTP",
+        "table",
         "hotboards",
-        "rtcc",
-        "Adafruit",
-        "led",
-        "NeoPixel",
-        "rgb",
-        "Shiftbrite"
+        "rtcc"
     ],
     "name": "Hotboards_rtcc",
     "platforms": "*",

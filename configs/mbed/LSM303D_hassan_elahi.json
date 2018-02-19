@@ -8,7 +8,11 @@
         "https://os.mbed.com/users/hassan_elahi/code/LSM303D_SPI/"
     ],
     "frameworks": "mbed",
-    "keywords": "LSM303D",
+    "keywords": [
+        "DeepSleep",
+        "InterruptIn",
+        "LPC1114"
+    ],
     "name": "LSM303D",
     "platforms": "*",
     "repository": {

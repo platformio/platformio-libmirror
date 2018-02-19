@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Davy Van Belle",
+        "url": "https://os.mbed.com/users/gizmo69the2nd/"
+    },
+    "description": "Texas Instruments INA226",
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "current",
+        "INA226",
+        "Instruments",
+        "monitor",
+        "Power",
+        "Texas",
+        "voltage",
+        "interrupt",
+        "irq",
+        "KL25z",
+        "NVIC",
+        "priority"
+    ],
+    "name": "INA226",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gizmo69the2nd/code/INA226/"
+    }
+}

@@ -20,9 +20,7 @@
         "count",
         "external clock",
         "MHz",
-        "pulse",
-        "filter",
-        "kalman"
+        "pulse"
     ],
     "name": "I2SSlave",
     "platforms": "*",

@@ -10,10 +10,22 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "DC Motor controller",
+        "h bridge",
+        "motor driver",
         "duty cycle",
         "measurement",
         "pwm",
-        "timer2"
+        "timer2",
+        "3pi",
+        "m3pi",
+        "robot",
+        "sensors",
+        "current",
+        "I2C",
+        "INA219",
+        "Power",
+        "voltage"
     ],
     "name": "PWMAverage",
     "platforms": "*",

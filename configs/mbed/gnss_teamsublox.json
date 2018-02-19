@@ -16,7 +16,10 @@
         "C030",
         "GNSS",
         "GPS",
-        "u-blox"
+        "u-blox",
+        "xbee",
+        "ZB",
+        "zigbee"
     ],
     "name": "gnss",
     "platforms": "*",

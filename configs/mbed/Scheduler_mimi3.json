@@ -21,8 +21,11 @@
         "due",
         "multitasking",
         "Scheduler",
-        "FreeRTOS",
-        "rtos"
+        "Analog",
+        "dipsw",
+        "Input",
+        "SW",
+        "tactsw"
     ],
     "name": "Scheduler",
     "platforms": "*",

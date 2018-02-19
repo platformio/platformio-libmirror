@@ -10,12 +10,7 @@
         "https://os.mbed.com/users/gatedClock/code/RTOS_project_fork_02/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "bipolar",
-        "L293D",
-        "mbed",
-        "Stepper"
-    ],
+    "keywords": "RTC",
     "name": "watchdog_RTOS",
     "platforms": "*",
     "repository": {

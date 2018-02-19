@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Yoann Bonnard",
+        "url": "https://os.mbed.com/users/Bonnardy/"
+    },
+    "description": "Library to control an lcd panel",
+    "frameworks": "mbed",
+    "keywords": "TextLCD",
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Bonnardy/code/TextLCD/"
+    }
+}

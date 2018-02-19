@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Francois Girard",
+        "url": "https://os.mbed.com/users/fantasiiio/"
+    },
+    "description": "Library to parse commands and call function associated with this command",
+    "examples": [
+        "https://os.mbed.com/users/fantasiiio/code/CommandParser/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "command",
+        "execute",
+        "parse",
+        "string",
+        "UART",
+        "motor",
+        "pwm",
+        "HR-TFT",
+        "memory lcd",
+        "Monochrome LCD",
+        "Sharp"
+    ],
+    "name": "Libs",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fantasiiio/code/Libs/"
+    }
+}

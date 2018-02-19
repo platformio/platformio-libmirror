@@ -5,17 +5,7 @@
     },
     "description": "first release",
     "frameworks": "mbed",
-    "keywords": [
-        "ACM1602NI",
-        "I2C",
-        "LCD",
-        "Nucleo",
-        "MAX30102",
-        "C027",
-        "C030",
-        "CellularInterface",
-        "u-blox"
-    ],
+    "keywords": "mpu9250_i2c",
     "name": "mpu9250_i2c",
     "platforms": "*",
     "repository": {

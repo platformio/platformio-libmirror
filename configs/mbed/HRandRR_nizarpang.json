@@ -6,6 +6,9 @@
     "description": "HR and RR measurement",
     "frameworks": "mbed",
     "keywords": [
+        "bus switch",
+        "I2C",
+        "PCA9546A",
         "Gesture",
         "mtconnnect04s",
         "mtm",

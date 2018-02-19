@@ -18,17 +18,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "DOG",
-        "LCD",
-        "ST7036",
-        "TextLCD",
         "AT",
         "C027",
         "C030",
         "CellularInterface",
-        "u-blox",
-        "Bertl14"
+        "u-blox"
     ],
     "name": "ublox-cellular-base",
     "platforms": "*",

@@ -9,19 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "ethernet",
+        "ip",
         "mbed",
-        "driver",
-        "microstep",
-        "motor",
-        "ST",
-        "Stepper",
-        "STSPIN220",
-        "locked antiphase",
-        "timer",
-        "filesystem",
-        "MSD",
-        "SD",
-        "USB"
+        "timer"
     ],
     "name": "TimerExtended",
     "platforms": "*",

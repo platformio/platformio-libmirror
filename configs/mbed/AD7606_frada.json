@@ -9,9 +9,20 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "rfduino",
+        "Communication",
+        "protocols",
+        "wireless",
+        "xbee",
         "AD7606",
-        "SPI"
+        "SPI",
+        "ANSI",
+        "Terminal",
+        "controller",
+        "motor",
+        "pololu",
+        "Qik",
+        "VNH25P30",
+        "LM61"
     ],
     "name": "AD7606",
     "platforms": "*",

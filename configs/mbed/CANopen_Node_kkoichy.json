@@ -9,7 +9,12 @@
         "https://os.mbed.com/users/kkoichy/code/SDC21XX_Motor/"
     ],
     "frameworks": "mbed",
-    "keywords": "CANopen",
+    "keywords": [
+        "polling",
+        "scheduling",
+        "timing",
+        "CANopen"
+    ],
     "name": "CANopen_Node",
     "platforms": "*",
     "repository": {

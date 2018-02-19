@@ -8,7 +8,12 @@
         "https://os.mbed.com/users/programmer5/code/stm32f407/"
     ],
     "frameworks": "mbed",
-    "keywords": "debouncing",
+    "keywords": [
+        "display",
+        "KS0723",
+        "LCD",
+        "Samsung"
+    ],
     "name": "LIS3DSH",
     "platforms": "*",
     "repository": {

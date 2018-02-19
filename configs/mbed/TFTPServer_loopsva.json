@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Kevin Braun",
+        "url": "https://os.mbed.com/users/loopsva/"
+    },
+    "description": "TFTP Server for mbed using the new EthernetInterface",
+    "frameworks": "mbed",
+    "keywords": [
+        "EthernetInterface",
+        "network",
+        "TFTP",
+        "UDP",
+        "APIs",
+        "extension",
+        "generic"
+    ],
+    "name": "TFTPServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/loopsva/code/TFTPServer/"
+    }
+}

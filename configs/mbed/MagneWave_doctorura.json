@@ -6,14 +6,9 @@
     "description": "PCM Player for Magnetone",
     "frameworks": "mbed",
     "keywords": [
-        "Hokuyo",
-        "Lidar",
-        "Range Finder",
-        "URG-04LX",
-        "ADC converter",
-        "Linear",
-        "Linear Technology",
-        "LTC2460"
+        "cli",
+        "term",
+        "Terminal"
     ],
     "name": "MagneWave",
     "platforms": "*",

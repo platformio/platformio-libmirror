@@ -18,6 +18,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "finder",
+        "range",
+        "ultrasound",
         "adc",
         "SPI",
         "discovery",
@@ -27,14 +30,7 @@
         "STM32F746",
         "128x64",
         "OLED",
-        "SSD1306",
-        "AES",
-        "encryption",
-        "HMAC",
-        "RSA",
-        "security",
-        "SHA",
-        "SSL"
+        "SSD1306"
     ],
     "name": "F7_Ethernet",
     "platforms": "*",

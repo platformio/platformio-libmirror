@@ -5,11 +5,7 @@
     },
     "description": "The port of adafruit dotstar library for arduino https://github.com/adafruit/Adafruit_DotStar",
     "frameworks": "mbed",
-    "keywords": [
-        "H-bridge",
-        "motor",
-        "TB6612FNG"
-    ],
+    "keywords": "Graphics",
     "name": "DotStar",
     "platforms": "*",
     "repository": {

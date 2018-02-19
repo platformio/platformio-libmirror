@@ -5,7 +5,12 @@
     },
     "description": "program to blink two leds along with value of N",
     "frameworks": "mbed",
-    "keywords": "blink_LED",
+    "keywords": [
+        "led",
+        "LED controller",
+        "PCA9632",
+        "pwm"
+    ],
     "name": "blink_LED",
     "platforms": "*",
     "repository": {

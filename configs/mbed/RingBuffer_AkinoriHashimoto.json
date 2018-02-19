@@ -14,7 +14,12 @@
     "frameworks": "mbed",
     "keywords": [
         "buffer",
-        "ring"
+        "ring",
+        "Serial Communication",
+        "test console",
+        "test program",
+        "BUTTON",
+        "click"
     ],
     "name": "RingBuffer",
     "platforms": "*",

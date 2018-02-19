@@ -6,15 +6,9 @@
     "description": "v",
     "frameworks": "mbed",
     "keywords": [
-        "font",
-        "NeoPixel",
-        "WS2812",
-        "wx2811",
         "RTC",
-        "kitt",
-        "Knight",
-        "led",
-        "rider"
+        "Color Sensor",
+        "I2C"
     ],
     "name": "bluetooth",
     "platforms": "*",

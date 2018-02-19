@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Raphael Kwon",
+        "url": "https://os.mbed.com/users/xeon011/"
+    },
+    "description": "W5500 Driver",
+    "examples": [
+        "https://os.mbed.com/users/xeon011/code/Ethernet/",
+        "https://os.mbed.com/teams/WIZnet/code/Ethernet/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CFAH1602B",
+        "CFAH1602B-YYH-JT",
+        "ST7066U",
+        "AD7190",
+        "adc",
+        "driver",
+        "led",
+        "pwm",
+        "Ticker",
+        "ethernet",
+        "socket",
+        "W5500",
+        "digitalOut"
+    ],
+    "name": "W5500",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/xeon011/code/W5500/"
+    }
+}

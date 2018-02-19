@@ -10,7 +10,8 @@
     "frameworks": "mbed",
     "keywords": [
         "FM Radio",
-        "TEA5767"
+        "TEA5767",
+        "myTimer"
     ],
     "name": "TEA5767",
     "platforms": "*",

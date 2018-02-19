@@ -15,9 +15,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AHRS",
-        "dcm",
-        "navigation"
+        "OLED",
+        "Organic-LED",
+        "SO1602A",
+        "ALS",
+        "ambient light sensor",
+        "I2C",
+        "ISL29125",
+        "rgb"
     ],
     "name": "serializer",
     "platforms": "*",

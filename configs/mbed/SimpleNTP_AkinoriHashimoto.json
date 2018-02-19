@@ -6,14 +6,11 @@
     "description": "Simple Network Time Protocol Client.",
     "frameworks": "mbed",
     "keywords": [
-        "Fake SPI",
-        "SPI",
-        "Virtual SPI",
-        "VSPI",
-        "20160515",
+        "ds1302",
         "client",
         "SimpleNTP",
         "SNTP",
+        "rtos",
         "led"
     ],
     "name": "SimpleNTP",

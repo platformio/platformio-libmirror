@@ -9,15 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "FRDMK64",
-        "MPU6050",
-        "I2C",
-        "MCP23017",
-        "wattbob",
         "audio",
         "billy bass",
         "FRDM-KL25Z",
-        "K64F"
+        "EaPaper",
+        "EM027BS013"
     ],
     "name": "BillyBass",
     "platforms": "*",

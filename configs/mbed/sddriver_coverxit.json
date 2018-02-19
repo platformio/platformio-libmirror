@@ -11,8 +11,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Cayenne",
-        "MQTT",
+        "I2C",
+        "MPU6050",
+        "MPU9150",
         "BD6211F",
         "motor"
     ],

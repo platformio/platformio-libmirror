@@ -10,15 +10,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "average",
+        "math",
+        "Moving",
         "arduino",
         "millis",
         "Modbus",
         "MODSERIAL",
         "rtu",
-        "debug",
-        "Error",
-        "flash",
-        "led"
+        "ADT7410",
+        "Analog Devices",
+        "I2C",
+        "sensor",
+        "Temperature"
     ],
     "name": "ModbusSlave232",
     "platforms": "*",

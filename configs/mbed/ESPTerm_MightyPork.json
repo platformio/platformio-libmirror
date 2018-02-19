@@ -5,7 +5,13 @@
     },
     "description": "Support library for the ESP8266 Wireless Terminal.",
     "frameworks": "mbed",
-    "keywords": "Modbus",
+    "keywords": [
+        "arduino",
+        "LCD",
+        "module",
+        "screen",
+        "TFT"
+    ],
     "name": "ESPTerm",
     "platforms": "*",
     "repository": {

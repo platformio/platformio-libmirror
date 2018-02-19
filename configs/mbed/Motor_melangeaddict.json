@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Steven Swenson",
+        "url": "https://os.mbed.com/users/melangeaddict/"
+    },
+    "description": "Small class to control a stepper motor",
+    "examples": [
+        "https://os.mbed.com/users/melangeaddict/code/tuner/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Temp",
+        "Temperature",
+        "TMP102",
+        "motor",
+        "Stepper",
+        "devantech",
+        "ranger",
+        "SRF02",
+        "SRF08",
+        "ultrasonic",
+        "font",
+        "NeoPixel",
+        "WS2812",
+        "wx2811"
+    ],
+    "name": "Motor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/melangeaddict/code/Motor/"
+    }
+}

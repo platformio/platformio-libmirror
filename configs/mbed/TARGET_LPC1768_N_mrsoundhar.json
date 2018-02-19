@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Soundharrajan S",
+        "url": "https://os.mbed.com/users/mrsoundhar/"
+    },
+    "description": "LPC1768",
+    "frameworks": "mbed",
+    "keywords": [
+        "DS18B20",
+        "temperature sensor",
+        "audio",
+        "files",
+        "I2C",
+        "I2S",
+        "playing",
+        "RS labboard",
+        "TLV320",
+        "wav"
+    ],
+    "name": "TARGET_LPC1768_N",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mrsoundhar/code/TARGET_LPC1768_N/"
+    }
+}

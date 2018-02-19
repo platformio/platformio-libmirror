@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "George Edwards",
+        "url": "https://os.mbed.com/users/melmon/"
+    },
+    "description": "Library to support the 16:1 Multiplexer Chip, CD74HC4067from TI",
+    "frameworks": "mbed",
+    "keywords": "CD74HC4067",
+    "name": "CD74HC4067",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/melmon/code/CD74HC4067/"
+    }
+}

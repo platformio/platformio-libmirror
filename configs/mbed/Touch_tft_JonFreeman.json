@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Jon Freeman",
+        "url": "https://os.mbed.com/users/JonFreeman/"
+    },
+    "description": "Modified copy of Peter Dresche lib using fewer analogue pins for touch panel",
+    "frameworks": "mbed",
+    "keywords": [
+        "EA",
+        "Graphics",
+        "OLED",
+        "SPI",
+        "14A2A",
+        "ATT",
+        "avnet",
+        "Cellular",
+        "modem",
+        "WNC",
+        "WncController"
+    ],
+    "name": "Touch_tft",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JonFreeman/code/Touch_tft/"
+    }
+}

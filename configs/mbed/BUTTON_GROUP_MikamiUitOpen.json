@@ -23,10 +23,15 @@
         "nRF51822",
         "rgb",
         "WS2812B",
+        "DISCO_F469NI",
+        "LCD",
         "BUTTON",
         "ButtonGroup",
         "DISCO-F746",
-        "UIT"
+        "UIT",
+        "wifi",
+        "WiFi Shield",
+        "WizFi250"
     ],
     "name": "BUTTON_GROUP",
     "platforms": "*",

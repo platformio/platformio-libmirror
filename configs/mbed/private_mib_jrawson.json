@@ -8,7 +8,12 @@
     "keywords": [
         "MPU6000",
         "MPU6050",
-        "MPU60x0"
+        "MPU60x0",
+        "debug",
+        "ethernet",
+        "server",
+        "TCP",
+        "mbed"
     ],
     "name": "private_mib",
     "platforms": "*",

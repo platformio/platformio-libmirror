@@ -6,9 +6,14 @@
     "description": "Multi purpose buffer module.",
     "frameworks": "mbed",
     "keywords": [
+        "MPU6000",
+        "MPU6050",
+        "MPU60x0",
         "FIFO",
         "lifo",
-        "ringbuffer"
+        "ringbuffer",
+        "AT",
+        "parser"
     ],
     "name": "xIFO",
     "platforms": "*",

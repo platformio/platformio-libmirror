@@ -11,14 +11,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "RF22",
-        "RFM22",
-        "RFM22Max",
-        "wireless",
+        "BBC",
+        "Microbit",
+        "MLX90614",
+        "thermometer",
         "Robotics",
         "Servo",
         "AD5270",
-        "Digipot"
+        "Digipot",
+        "2645"
     ],
     "name": "AD5270",
     "platforms": "*",

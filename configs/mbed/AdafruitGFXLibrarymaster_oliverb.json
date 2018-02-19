@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Oliver Broad",
+        "url": "https://os.mbed.com/users/oliverb/"
+    },
+    "description": "MBED Import of ADAFRUIT graphics library, BSD License",
+    "examples": [
+        "https://os.mbed.com/users/oliverb/code/GP9002adafruit/",
+        "https://os.mbed.com/users/oliverb/code/GP9002af_gray/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Adafruit-GFX-Library-master",
+    "name": "Adafruit-GFX-Library-master",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/oliverb/code/Adafruit-GFX-Library-master/"
+    }
+}

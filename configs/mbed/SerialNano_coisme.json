@@ -4,8 +4,18 @@
         "url": "https://os.mbed.com/users/coisme/"
     },
     "description": "This is workaround to use I2C/SPI and serial together on BLE Nano.",
+    "examples": [
+        "https://os.mbed.com/users/coisme/code/SimpleSample/"
+    ],
     "frameworks": "mbed",
     "keywords": [
+        "filesystem",
+        "MSCFileSystem",
+        "SDFileSystem",
+        "I2C",
+        "AnalogOut",
+        "dac",
+        "MCP4725",
         "BLE Nano",
         "BLE_Nano",
         "BLEnano",

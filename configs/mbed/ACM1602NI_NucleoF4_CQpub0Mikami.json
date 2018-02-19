@@ -12,12 +12,7 @@
         "ACM1602NI",
         "I2C",
         "LCD",
-        "Nucleo",
-        "MAX30102",
-        "C027",
-        "C030",
-        "CellularInterface",
-        "u-blox"
+        "Nucleo"
     ],
     "name": "ACM1602NI_NucleoF4",
     "platforms": "*",

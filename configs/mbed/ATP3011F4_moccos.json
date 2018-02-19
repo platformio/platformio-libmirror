@@ -5,17 +5,7 @@
     },
     "description": "for testing ATP3011F4",
     "frameworks": "mbed",
-    "keywords": [
-        "Nucleo-F4xx",
-        "open-drain",
-        "UIT",
-        "consumption",
-        "control",
-        "ethernet",
-        "Management",
-        "Power",
-        "PowerControl"
-    ],
+    "keywords": "wallbot",
     "name": "ATP3011F4",
     "platforms": "*",
     "repository": {

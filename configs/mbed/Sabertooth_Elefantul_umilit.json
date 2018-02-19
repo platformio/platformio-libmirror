@@ -6,16 +6,14 @@
     "description": "Library for Sabertooth motor driver ported from the oficial Arduino library. Packetized Serial Mode",
     "frameworks": "mbed",
     "keywords": [
-        "arduino",
-        "official",
-        "Sabertooth",
-        "SyRen",
         "DISCO-STM32F746NG",
         "flash",
         "QSPI",
         "ST",
-        "filter",
-        "median"
+        "arduino",
+        "official",
+        "Sabertooth",
+        "SyRen"
     ],
     "name": "Sabertooth",
     "platforms": "*",

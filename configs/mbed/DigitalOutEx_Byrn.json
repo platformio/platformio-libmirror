@@ -6,9 +6,16 @@
     "description": "Provides an extended version of DigitalOut that adds a \"toggle()\" function, and uses the RTOS Thread API to provide a \"flash()\" function that toggles the pin in the background at a given interval.",
     "frameworks": "mbed",
     "keywords": [
+        "DA7212",
+        "I2S",
+        "TLV320",
         "digitalOut",
         "led",
-        "rtos"
+        "rtos",
+        "mbed5",
+        "NetworkInterfaceAPI",
+        "Wi-Fi",
+        "WizFi250"
     ],
     "name": "DigitalOutEx",
     "platforms": "*",

@@ -9,12 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "mbed",
+        "CloudConnector",
+        "etherios",
+        "IOT",
+        "pwm",
+        "SoftPWM",
         "ds1307",
-        "DS3231m",
-        "CyaSSL",
-        "https",
-        "SSL"
+        "DS3231m"
     ],
     "name": "RTC",
     "platforms": "*",

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Jaap Vermaas",
+        "url": "https://os.mbed.com/users/tuxic/"
+    },
+    "description": "This is a simple but complete TFTP server, It can receive and send files and listens on port 69. It is part of the LaOS (Laser Open Source) project: http://www.laoslaser.org/",
+    "examples": [
+        "https://os.mbed.com/users/tuxic/code/TFTPServerTest/",
+        "https://os.mbed.com/users/ED7418/code/RMFWeb/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TFTPServer",
+    "name": "TFTPServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tuxic/code/TFTPServer/"
+    }
+}

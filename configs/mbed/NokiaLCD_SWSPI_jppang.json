@@ -9,18 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "device",
-        "USB",
-        "QR",
         "6100",
         "6600",
         "KL25z",
         "kl46z",
         "NokiaLCD",
-        "I2C",
-        "LM77",
-        "sensor",
-        "Temperature"
+        "QR",
+        "ethernet",
+        "socket",
+        "W5500"
     ],
     "name": "NokiaLCD_SWSPI",
     "platforms": "*",

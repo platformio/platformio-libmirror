@@ -6,8 +6,9 @@
     "description": "Library for using Microchip's family of analog-to-digital converters MCP3422/3/4.",
     "frameworks": "mbed",
     "keywords": [
-        "AT93C46",
-        "EEPROM",
+        "arduino",
+        "iot platform",
+        "sakura internet",
         "adc"
     ],
     "name": "MCP342x",

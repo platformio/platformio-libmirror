@@ -11,12 +11,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GPS",
-        "jsmn",
-        "JSON",
-        "WS2811",
-        "WS2812",
-        "WS2812B"
+        "DS18B20",
+        "DS2450",
+        "MAX31850",
+        "OneWire"
     ],
     "name": "XRange_mbed_src",
     "platforms": "*",

@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "stephen smitherman",
+        "url": "https://os.mbed.com/users/srsmitherman/"
+    },
+    "description": "Pololu Quk Motor Controller Driver",
+    "examples": [
+        "https://os.mbed.com/users/jjcarr2/code/NavigationTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Communication",
+        "protocols",
+        "wireless",
+        "xbee",
+        "AD7606",
+        "SPI",
+        "ANSI",
+        "Terminal",
+        "controller",
+        "motor",
+        "pololu",
+        "Qik",
+        "VNH25P30",
+        "LM61"
+    ],
+    "name": "PololuQik2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/srsmitherman/code/PololuQik2/"
+    }
+}

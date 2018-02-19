@@ -10,7 +10,14 @@
         "https://os.mbed.com/users/wbeaumont/code/sscm/"
     ],
     "frameworks": "mbed",
-    "keywords": "sscm_comm",
+    "keywords": [
+        "9Dof-Stick",
+        "heading",
+        "HMC5843",
+        "magnetic",
+        "sensor",
+        "yo"
+    ],
     "name": "sscm_comm",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Nick Oliver",
+        "url": "https://os.mbed.com/users/NoLiver92/"
+    },
+    "description": "RN41 Bluetooth Module Library",
+    "frameworks": "mbed",
+    "keywords": [
+        "kalman",
+        "rn41"
+    ],
+    "name": "RN41",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/NoLiver92/code/RN41/"
+    }
+}

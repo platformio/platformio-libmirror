@@ -18,8 +18,20 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ROS",
-        "QEI ロータリーエンコーダ 角度 angle"
+        "game pad",
+        "gamepad",
+        "playstation",
+        "playstation2",
+        "PS2",
+        "SPI",
+        "display",
+        "driver",
+        "HEXIWEAR",
+        "OLED",
+        "SSD1351",
+        "DDS",
+        "generator",
+        "signal"
     ],
     "name": "DmTftLibrary",
     "platforms": "*",

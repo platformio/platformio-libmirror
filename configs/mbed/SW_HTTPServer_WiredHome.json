@@ -10,10 +10,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "dac",
-        "MCP4922",
-        "comparator",
-        "KL25z",
         "Dynamic",
         "ethernet",
         "http",
@@ -21,14 +17,7 @@
         "server",
         "static",
         "Web",
-        "WiFly",
-        "2",
-        "gpu",
-        "mbed",
-        "smart",
-        "SmartGPU2",
-        "technologies",
-        "vizic"
+        "WiFly"
     ],
     "name": "SW_HTTPServer",
     "platforms": "*",

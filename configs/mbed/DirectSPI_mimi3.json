@@ -8,12 +8,7 @@
         "https://os.mbed.com/users/mimi3/code/DirectSPI-test/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "bluepill",
-        "ExtOsc",
-        "MapleMini",
-        "STM32F103"
-    ],
+    "keywords": "DirectSPI",
     "name": "DirectSPI",
     "platforms": "*",
     "repository": {

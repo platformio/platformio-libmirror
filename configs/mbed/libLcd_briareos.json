@@ -6,10 +6,13 @@
     "description": "I2C LCD Library",
     "frameworks": "mbed",
     "keywords": [
-        "if this then that",
-        "IFTTT",
-        "maker channel",
-        "maker.ifttt.com"
+        "Grove",
+        "heartrate",
+        "sensor",
+        "control",
+        "Heater",
+        "Temperature",
+        "GPS"
     ],
     "name": "libLcd",
     "platforms": "*",

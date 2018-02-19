@@ -5,7 +5,14 @@
     },
     "description": "Cell Library",
     "frameworks": "mbed",
-    "keywords": "CELL",
+    "keywords": [
+        "DISCO_F469NI",
+        "QSPI",
+        "socket",
+        "wifi",
+        "WifiPlusClick",
+        "WLAN"
+    ],
     "name": "CELL",
     "platforms": "*",
     "repository": {

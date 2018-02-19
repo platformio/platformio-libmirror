@@ -9,7 +9,10 @@
         "https://os.mbed.com/users/hudakz/code/Manchester_Receiver/"
     ],
     "frameworks": "mbed",
-    "keywords": "manchester",
+    "keywords": [
+        "manchester",
+        "ultrasonico"
+    ],
     "name": "Manchester",
     "platforms": "*",
     "repository": {

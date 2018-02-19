@@ -15,7 +15,17 @@
         "led",
         "matrix",
         "I2C multiplexer",
-        "PCA9547"
+        "PCA9547",
+        "GPIO",
+        "GPIO expander",
+        "I2C",
+        "PCA9535",
+        "PCA9538",
+        "PCA9539",
+        "PCA9554",
+        "PCA9555",
+        "PCAL9554",
+        "PCAL9555"
     ],
     "name": "PCA9547",
     "platforms": "*",

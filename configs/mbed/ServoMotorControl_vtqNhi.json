@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Nhi vtq",
+        "url": "https://os.mbed.com/users/vtqNhi/"
+    },
+    "description": "Library is coded to control servo",
+    "frameworks": "mbed",
+    "keywords": [
+        "ADT7310",
+        "Analog",
+        "devices",
+        "sensor",
+        "Temperature",
+        "arduino",
+        "FRDM",
+        "Freescale",
+        "KL25z",
+        "L293D",
+        "motor",
+        "Servo",
+        "shield"
+    ],
+    "name": "ServoMotorControl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vtqNhi/code/ServoMotorControl/"
+    }
+}

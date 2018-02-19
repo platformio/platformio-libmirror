@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Sonar Team",
+        "url": "https://os.mbed.com/users/EDS_Ltd/"
+    },
+    "description": "globals library for use with WattBob v1",
+    "examples": [
+        "https://os.mbed.com/users/Nurbol/code/Test_IR_value_2sensors/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "low power",
+        "LPC11U24",
+        "lpc11uxx",
+        "mBuino",
+        "Sleep",
+        "filter",
+        "IMU",
+        "MARG"
+    ],
+    "name": "globals",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/EDS_Ltd/code/globals/"
+    }
+}

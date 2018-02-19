@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "TVZ Mechatronics Team",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/"
+    },
+    "description": "Simple heater library for controlling the temperature via analog temperature sensor and digital heater output.",
+    "examples": [
+        "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/MAB_Heater/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Grove",
+        "heartrate",
+        "sensor",
+        "control",
+        "Heater",
+        "Temperature",
+        "GPS"
+    ],
+    "name": "Heater",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/Heater/"
+    }
+}

@@ -18,14 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "gyroscope",
-        "I2C",
-        "MPU-6050",
-        "MPU6050",
-        "MPU60x0",
-        "mutex",
-        "rtos",
         "DeepSleep",
         "InterruptIn",
         "LPC1114"

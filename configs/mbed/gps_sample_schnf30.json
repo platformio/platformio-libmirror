@@ -8,17 +8,7 @@
         "https://os.mbed.com/users/schnf30/code/Test_gps_sample/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "hotboards",
-        "MCP9808",
-        "sesnor",
-        "Temp",
-        "BP3595",
-        "network",
-        "ROHM",
-        "WLAN",
-        "USBHOST"
-    ],
+    "keywords": "gps_sample",
     "name": "gps_sample",
     "platforms": "*",
     "repository": {

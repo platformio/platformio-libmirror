@@ -11,12 +11,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "network",
+        "TCPSocket",
+        "twitpic",
+        "twitter",
         "infra",
         "infrared",
         "IR",
         "mbed",
         "red",
-        "AM2320"
+        "ROS"
     ],
     "name": "IRSender",
     "platforms": "*",

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Pat Thoyts",
+        "url": "https://os.mbed.com/users/patthoyts/"
+    },
+    "description": "I2C controlled 4 digit 7 segment LED display library",
+    "frameworks": "mbed",
+    "keywords": [
+        "7-segment",
+        "I2C"
+    ],
+    "name": "DisplayI2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/patthoyts/code/DisplayI2C/"
+    }
+}

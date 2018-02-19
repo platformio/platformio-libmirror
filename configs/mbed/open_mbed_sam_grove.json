@@ -5,7 +5,16 @@
     },
     "description": "Tool that opens a comport for every mbed connected to your computer with one command - never look for the COM number again!",
     "frameworks": "mbed",
-    "keywords": "open_mbed",
+    "keywords": [
+        "helping",
+        "libraries",
+        "pololu",
+        "robot",
+        "Utilities",
+        "Zumo",
+        "I2C",
+        "real-time communication"
+    ],
     "name": "open_mbed",
     "platforms": "*",
     "repository": {

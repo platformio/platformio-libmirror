@@ -10,16 +10,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "I2C",
-        "OLED",
-        "SPI",
-        "SSD1306",
-        "piswarm",
-        "JRPROPO",
-        "robot",
-        "Servo",
-        "XBus"
+        "amplifier",
+        "Nucleo",
+        "Operational",
+        "TSU104",
+        "TSV734",
+        "TSZ124",
+        "X-NUCLEO-IKA01A1"
     ],
     "name": "ULTRASONICO",
     "platforms": "*",

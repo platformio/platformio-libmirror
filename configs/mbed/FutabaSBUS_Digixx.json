@@ -6,14 +6,10 @@
     "description": "Library decoding Futaba SBUS data and control SBUS Servos.",
     "frameworks": "mbed",
     "keywords": [
-        "LSM303DLH",
         "Futaba",
         "MODSERIAL",
         "SBUS",
-        "Serial",
-        "barometer",
-        "MPL115A1",
-        "SPI"
+        "Serial"
     ],
     "name": "FutabaSBUS",
     "platforms": "*",

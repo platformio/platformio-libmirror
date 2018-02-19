@@ -5,7 +5,11 @@
     },
     "description": "demo program of BMP085 pressure sensor",
     "frameworks": "mbed",
-    "keywords": "BMP085_lib",
+    "keywords": [
+        "MPU9150",
+        "Quaternion",
+        "vector"
+    ],
     "name": "BMP085_lib",
     "platforms": "*",
     "repository": {

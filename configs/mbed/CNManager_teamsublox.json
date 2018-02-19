@@ -8,7 +8,14 @@
         "https://os.mbed.com/teams/ublox/code/C027_demo_ConnMan/"
     ],
     "frameworks": "mbed",
-    "keywords": "LSM303D",
+    "keywords": [
+        "motor",
+        "LSM303D",
+        "I2C",
+        "LPC800",
+        "LPC800-MAX",
+        "PCA9672"
+    ],
     "name": "CNManager",
     "platforms": "*",
     "repository": {

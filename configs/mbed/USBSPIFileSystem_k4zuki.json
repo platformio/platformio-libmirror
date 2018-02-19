@@ -13,11 +13,9 @@
         "MSD",
         "SPI",
         "USB",
-        "6100",
-        "Nokia LCD",
-        "LCD",
-        "Serial",
-        "sparkfun"
+        "accelerometer",
+        "I2C",
+        "MMA7660"
     ],
     "name": "USBSPIFileSystem",
     "platforms": "*",

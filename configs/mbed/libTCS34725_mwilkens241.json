@@ -9,8 +9,7 @@
         "library",
         "rgb",
         "sensor",
-        "TCS34725",
-        "accelerometer"
+        "TCS34725"
     ],
     "name": "libTCS34725",
     "platforms": "*",

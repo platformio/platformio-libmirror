@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Jonathan Austin",
+        "url": "https://os.mbed.com/users/jaustin32/"
+    },
+    "description": "fhfhfh",
+    "frameworks": "mbed",
+    "keywords": [
+        "BME280",
+        "DHT22",
+        "RHT03",
+        "cpp",
+        "ethernet",
+        "network",
+        "TCP",
+        "UDP"
+    ],
+    "name": "4DGL-uLCD-SE",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jaustin32/code/4DGL-uLCD-SE/"
+    }
+}

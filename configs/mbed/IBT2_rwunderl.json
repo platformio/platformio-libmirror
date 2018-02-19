@@ -6,10 +6,16 @@
     "description": "Library for driving the IBT-2 H-bridge motor controller (with BTS 7960 or BTN 7971 half bridges).",
     "frameworks": "mbed",
     "keywords": [
-        "MPU9250",
+        "20160515",
+        "mbed OS2",
+        "wizfi310",
+        "wizfi310interface",
         "H-bridge",
         "motor",
-        "PwmOut"
+        "PwmOut",
+        "DRV2665",
+        "Haptic",
+        "piezo"
     ],
     "name": "IBT2",
     "platforms": "*",

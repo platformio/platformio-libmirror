@@ -8,7 +8,23 @@
         "https://os.mbed.com/users/co657_frmb/code/co657_lcdplay/"
     ],
     "frameworks": "mbed",
-    "keywords": "CO657",
+    "keywords": [
+        "FAT",
+        "file",
+        "SD",
+        "System",
+        "AT",
+        "AT command",
+        "ATCommand",
+        "Serial",
+        "SIM800",
+        "SIM900",
+        "SIMCOM",
+        "UART",
+        "CO657",
+        "MPU9250",
+        "nRF52832 custom boards"
+    ],
     "name": "gfx3d",
     "platforms": "*",
     "repository": {

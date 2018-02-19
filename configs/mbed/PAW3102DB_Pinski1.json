@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Robert K",
+        "url": "https://os.mbed.com/users/Pinski1/"
+    },
+    "description": "A library to interface to the PAW3102DB optical mouse sensor. It cannot write to the sensor as of yet.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Mouse",
+        "optical",
+        "sensor"
+    ],
+    "name": "PAW3102DB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Pinski1/code/PAW3102DB/"
+    }
+}

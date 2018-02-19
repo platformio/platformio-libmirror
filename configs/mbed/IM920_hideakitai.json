@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Hideaki Tai",
+        "url": "https://os.mbed.com/users/hideakitai/"
+    },
+    "description": "IM920 (920MHz wireless module) protocol parser",
+    "frameworks": "mbed",
+    "keywords": "IM920",
+    "name": "IM920",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hideakitai/code/IM920/"
+    }
+}

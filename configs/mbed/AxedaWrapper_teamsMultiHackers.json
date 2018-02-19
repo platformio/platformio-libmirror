@@ -10,15 +10,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "flash",
         "Axeda",
-        "M24LR",
-        "NDEF",
-        "NFC",
-        "NFC2",
-        "ST",
-        "URI",
-        "X-NUCLEO-NFC02A1",
-        "flash"
+        "LPC1114FN28",
+        "sound"
     ],
     "name": "AxedaWrapper",
     "platforms": "*",

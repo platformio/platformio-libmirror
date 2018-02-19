@@ -8,7 +8,11 @@
         "https://os.mbed.com/users/JimCarver/code/RGB2/"
     ],
     "frameworks": "mbed",
-    "keywords": "PCA9635",
+    "keywords": [
+        "LCD",
+        "BMC150",
+        "PCA9635"
+    ],
     "name": "PCA9635-6",
     "platforms": "*",
     "repository": {

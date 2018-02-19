@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Samir Bouaziz",
+        "url": "https://os.mbed.com/users/bouaziz/"
+    },
+    "description": "is just added to File System Lib used by our students",
+    "examples": [
+        "https://os.mbed.com/users/bouaziz/code/FileSystem_POPS/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MAX7219",
+        "MAX7221",
+        "accelerometer",
+        "ADXL345",
+        "C++",
+        "mbed",
+        "EEPROM",
+        "MCP4921",
+        "SPI",
+        "GPIO Exoender",
+        "MCP23017"
+    ],
+    "name": "USBHostLite",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bouaziz/code/USBHostLite/"
+    }
+}

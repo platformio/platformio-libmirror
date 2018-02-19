@@ -6,15 +6,11 @@
     "description": "Rtos code for BAE microcontroller, IITMSAT",
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "output",
-        "ethernet",
-        "ip",
-        "mbed",
-        "128",
-        "ACE",
-        "bourns",
-        "Encoder"
+        "bot",
+        "motor",
+        "sensors",
+        "shield",
+        "2017NOSHIRO"
     ],
     "name": "RTOS_BAE_IITMSAT",
     "platforms": "*",

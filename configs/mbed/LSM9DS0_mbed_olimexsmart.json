@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Luca Olivieri",
+        "url": "https://os.mbed.com/users/olimexsmart/"
+    },
+    "description": "This is a port from the library for Arduino provided by Sparkfun with their breakout board of the LSM9DS0.",
+    "frameworks": "mbed",
+    "keywords": [
+        "bglib",
+        "BLE",
+        "ble112",
+        "bluegiga",
+        "bluetooth-low-energy",
+        "UART",
+        "9DOF",
+        "AHRS",
+        "IMU",
+        "LSM9DS0",
+        "Madgwick",
+        "sparkfun"
+    ],
+    "name": "LSM9DS0_mbed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/olimexsmart/code/LSM9DS0_mbed/"
+    }
+}

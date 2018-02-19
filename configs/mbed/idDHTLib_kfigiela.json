@@ -1,0 +1,41 @@
+{
+    "authors": {
+        "name": "Kamil Figiela",
+        "url": "https://os.mbed.com/users/kfigiela/"
+    },
+    "description": "Interrupt driven DHT11/DHT22 library, port of Arduino idDHTLib (https://github.com/niesteszeck/idDHTLib)",
+    "examples": [
+        "https://os.mbed.com/users/Njbuch/code/NewDHT11Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "uLCD-32PT(SGS)",
+        "distance",
+        "driver",
+        "sensor",
+        "VL6180x",
+        "display",
+        "MicroOLED",
+        "OLED",
+        "sparkfun",
+        "SPI",
+        "SSD1306",
+        "DHT11",
+        "DHT22",
+        "Humidity",
+        "Temperature",
+        "1",
+        "1-wire",
+        "DS1820",
+        "Maxim",
+        "one",
+        "OneWire",
+        "Wire"
+    ],
+    "name": "idDHTLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kfigiela/code/idDHTLib/"
+    }
+}

@@ -6,14 +6,11 @@
     "description": "Small library for controll the TTL74HC595, who is a SerialIn-ParallelOut",
     "frameworks": "mbed",
     "keywords": [
+        "accelerometer",
+        "TTL74HC595",
         "Energy Meter",
         "frequency",
-        "measurement",
-        "Servo",
-        "servo pulse",
-        "SERVOGEN",
-        "ServoOut",
-        "TTL74HC595"
+        "measurement"
     ],
     "name": "ttl_74HC595",
     "platforms": "*",

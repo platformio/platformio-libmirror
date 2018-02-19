@@ -5,7 +5,10 @@
     },
     "description": "Function on LEDs",
     "frameworks": "mbed",
-    "keywords": "FonctionLED",
+    "keywords": [
+        "33926",
+        "pololu"
+    ],
     "name": "FonctionLED",
     "platforms": "*",
     "repository": {

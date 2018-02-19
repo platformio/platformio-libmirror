@@ -8,7 +8,16 @@
         "https://os.mbed.com/users/janekm/code/ADC2DAC/"
     ],
     "frameworks": "mbed",
-    "keywords": "dac",
+    "keywords": [
+        "dac",
+        "ethernet",
+        "socket",
+        "TCP",
+        "UDP",
+        "W5500",
+        "W7500",
+        "W7500P"
+    ],
     "name": "MCP4822lib",
     "platforms": "*",
     "repository": {

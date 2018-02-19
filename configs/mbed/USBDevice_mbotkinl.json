@@ -13,8 +13,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Thermocouple",
-        "WS2812"
+        "F401RE",
+        "mma7361",
+        "Nucleo"
     ],
     "name": "USBDevice",
     "platforms": "*",

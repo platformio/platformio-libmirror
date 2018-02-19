@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "François Berder",
+        "url": "https://os.mbed.com/users/feb11/"
+    },
+    "description": "Small wrapper of TLS_cyassl",
+    "examples": [
+        "https://os.mbed.com/users/feb11/code/HTTPSClientExample2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CyaSSL",
+        "https",
+        "SSL",
+        "TLS",
+        "Nordic",
+        "nRF",
+        "nRF51422",
+        "nRF51822",
+        "timer",
+        "watchdog",
+        "Switch Sience",
+        "TY51822r3",
+        "Freescale",
+        "FXAS21002CQ",
+        "Giroscope"
+    ],
+    "name": "HTTPSClient_cyassl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/feb11/code/HTTPSClient_cyassl/"
+    }
+}

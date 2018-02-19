@@ -10,17 +10,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "PCF2127",
+        "PCF2129",
+        "real time clock",
+        "RTC",
         "ambient",
         "light",
         "max",
         "MAX44009",
         "Maxim",
-        "sensor",
-        "PCF2127",
-        "PCF2129",
-        "real time clock",
-        "RTC",
-        "FeRAM"
+        "sensor"
     ],
     "name": "PCF2127",
     "platforms": "*",

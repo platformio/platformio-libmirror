@@ -5,7 +5,15 @@
     },
     "description": "Fork of original LPS331 library",
     "frameworks": "mbed",
-    "keywords": "LPS331_old",
+    "keywords": [
+        "ELEC3880",
+        "gait",
+        "hexapod",
+        "Leeds",
+        "PCA9685",
+        "robot",
+        "Servo"
+    ],
     "name": "LPS331_old",
     "platforms": "*",
     "repository": {

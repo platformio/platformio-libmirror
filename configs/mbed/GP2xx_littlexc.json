@@ -11,9 +11,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "90393",
+        "MLX",
+        "mlx90393",
         "arbitrary precision",
         "bigint",
-        "bignum"
+        "bignum",
+        "HY-1.8",
+        "ST7735"
     ],
     "name": "GP2xx",
     "platforms": "*",

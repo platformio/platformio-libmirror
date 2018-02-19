@@ -6,12 +6,20 @@
     "description": "Combine accelerometer and gyroscope data to get a filtered output",
     "frameworks": "mbed",
     "keywords": [
+        "control",
+        "led",
+        "LPC1768",
+        "mbed",
+        "920MHz",
+        "IM920",
+        "Interplan",
+        "IOT",
+        "NFC",
         "Accel",
         "accelerometer",
         "gyro",
         "gyroscope",
-        "IMU",
-        "ITG3200"
+        "IMU"
     ],
     "name": "AngleFilter",
     "platforms": "*",

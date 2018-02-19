@@ -18,10 +18,7 @@
         "irq",
         "KL25z",
         "NVIC",
-        "priority",
-        "Expander",
-        "I2C",
-        "PCA9538"
+        "priority"
     ],
     "name": "AD128160",
     "platforms": "*",

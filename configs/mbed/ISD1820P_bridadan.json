@@ -9,14 +9,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ADJD-S311-CR99",
         "Grove",
         "ISD1820P",
         "play",
         "playback",
         "record",
         "recorder",
-        "sound"
+        "sound",
+        "Altitude",
+        "atmospheric",
+        "HP03SA",
+        "I2C",
+        "pressure"
     ],
     "name": "ISD1820P",
     "platforms": "*",

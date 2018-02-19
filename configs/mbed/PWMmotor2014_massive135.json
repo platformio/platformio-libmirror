@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Isato Masayuki",
+        "url": "https://os.mbed.com/users/massive135/"
+    },
+    "description": "PWM制御",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "HT1632",
+        "led",
+        "matrix",
+        "I2C multiplexer",
+        "PCA9547",
+        "GPIO",
+        "GPIO expander",
+        "I2C",
+        "PCA9535",
+        "PCA9538",
+        "PCA9539",
+        "PCA9554",
+        "PCA9555",
+        "PCAL9554",
+        "PCAL9555"
+    ],
+    "name": "PWM-motor2014",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/massive135/code/PWM-motor2014/"
+    }
+}

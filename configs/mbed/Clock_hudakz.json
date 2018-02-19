@@ -9,10 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Lidar",
         "clock",
         "real time clock",
-        "RTC"
+        "RTC",
+        "bmp085",
+        "I2C"
     ],
     "name": "Clock",
     "platforms": "*",

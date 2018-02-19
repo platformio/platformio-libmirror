@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "High speed analog input class.",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/HighSpeedAnalogIn_TestProgram/",
+        "https://os.mbed.com/users/jksoft/code/WallbotR4_BTLE/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "AnalogIn",
+    "name": "HighSpeedAnalogIn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/HighSpeedAnalogIn/"
+    }
+}

@@ -17,9 +17,6 @@
         "LCD",
         "Nucleo",
         "UIT",
-        "hbridge",
-        "ICRS",
-        "motor",
         "1-wire",
         "DALLAS",
         "Maxim",
@@ -28,7 +25,10 @@
         "920MHz",
         "950MHz",
         "NEC",
-        "NFC"
+        "NFC",
+        "hbridge",
+        "ICRS",
+        "motor"
     ],
     "name": "NECnfc",
     "platforms": "*",

@@ -6,13 +6,9 @@
     "description": "SerialFlow allows to send and receive packaged arrays of integer values via serial port.",
     "frameworks": "mbed",
     "keywords": [
-        "Serial",
-        "IOT",
-        "lpwan",
-        "sigfox",
-        "dynamixel",
-        "MX28",
-        "RS485"
+        "MQTT",
+        "MQTTClient",
+        "Serial"
     ],
     "name": "SerialFlow",
     "platforms": "*",

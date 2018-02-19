@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Gabriele Di Simone",
+        "url": "https://os.mbed.com/users/GabDiSi/"
+    },
+    "description": "TouchScreen STM32F7DISCO",
+    "examples": [
+        "https://os.mbed.com/users/GabDiSi/code/DISCO-F746NG_ROPE_WIFI/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Remote SDCard Access",
+        "shell",
+        "Shell Emulation",
+        "unix",
+        "low current",
+        "low power",
+        "nrf51",
+        "nRF51822"
+    ],
+    "name": "TS_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/GabDiSi/code/TS_DISCO_F746NG/"
+    }
+}

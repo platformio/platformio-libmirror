@@ -6,10 +6,12 @@
     "description": "DS1338 RTC library",
     "frameworks": "mbed",
     "keywords": [
+        "Encoder",
+        "feedback",
+        "motor",
+        "sensor",
         "DS1338",
-        "I2C",
-        "64 bit",
-        "timer class"
+        "I2C"
     ],
     "name": "DS1338",
     "platforms": "*",

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Rio Harris",
+        "url": "https://os.mbed.com/users/b50559/"
+    },
+    "description": "library for 9dof using madgwick's algorithm",
+    "examples": [
+        "https://os.mbed.com/users/b50559/code/NerfGun_nRF24L01P_TX_9d0f/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "madgwick'salgorithm",
+    "name": "Madgwick_Algorithm",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/b50559/code/Madgwick_Algorithm/"
+    }
+}

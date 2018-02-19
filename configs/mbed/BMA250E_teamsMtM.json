@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "MtM+",
+        "url": "https://os.mbed.com/teams/MtM/"
+    },
+    "description": "Utilities for BORCH accelerometer BMA250E",
+    "examples": [
+        "https://os.mbed.com/teams/MtM/code/MtConnect04S_Bike_Proximity/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "bma250e",
+        "borch",
+        "mtm",
+        "mtmtech",
+        "mtsense03",
+        "mtsense03-BO"
+    ],
+    "name": "BMA250E",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MtM/code/BMA250E/"
+    }
+}

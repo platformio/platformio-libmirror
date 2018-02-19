@@ -9,11 +9,20 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "circular buffer",
+        "FIFO",
+        "Queue",
+        "ring buffer",
+        "stack",
+        "Template",
         "frequency",
         "measurement",
         "Pulsewidth",
-        "MQTT",
-        "MQTTClient"
+        "Adafruit",
+        "LCD",
+        "S6D02A1",
+        "ST7735",
+        "TFT"
     ],
     "name": "PulseWidthCapture",
     "platforms": "*",

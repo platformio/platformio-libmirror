@@ -9,8 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "KL25z",
-        "Robotic"
+        "adc",
+        "Analog",
+        "AnalogIn",
+        "asynchronous",
+        "DMA",
+        "K64F",
+        "PDB"
     ],
     "name": "Images",
     "platforms": "*",

@@ -6,16 +6,10 @@
     "description": "パケットごとに出し入れするFIFOバッファ",
     "frameworks": "mbed",
     "keywords": [
-        "PAW",
-        "PAW Sensor",
-        "MCP4018",
-        "buffer",
-        "I2C",
-        "IMU",
-        "LEGO",
-        "mindstorms",
-        "DS3231",
-        "RTC"
+        "1wire",
+        "DS18B20",
+        "OneWire",
+        "buffer"
     ],
     "name": "PacketBuffer",
     "platforms": "*",

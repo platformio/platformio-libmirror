@@ -6,12 +6,12 @@
     "description": "MQTT client for mbed",
     "frameworks": "mbed",
     "keywords": [
-        "MPU9250",
-        "MQTT",
-        "1.0.3",
-        "NDEF",
-        "NFC",
-        "Type4"
+        "Serial",
+        "Terminal",
+        "VT100",
+        "VT200",
+        "VT52",
+        "MQTT"
     ],
     "name": "MQTT",
     "platforms": "*",

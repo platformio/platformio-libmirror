@@ -1,0 +1,48 @@
+{
+    "authors": {
+        "name": "Thomas Lunzer",
+        "url": "https://os.mbed.com/users/tlunzer/"
+    },
+    "description": "TextLCD",
+    "examples": [
+        "https://os.mbed.com/users/tlunzer/code/revcounter/",
+        "https://os.mbed.com/users/marishi/code/SDFileSystem_Load/",
+        "https://os.mbed.com/users/GregMartin/code/TMP102HelloWorld/",
+        "https://os.mbed.com/users/bromand/code/KnightRiderOptimized/",
+        "https://os.mbed.com/users/bromand/code/ControlLED_Brightness/",
+        "https://os.mbed.com/users/bromand/code/Counter_with_LCD_Display/",
+        "https://os.mbed.com/users/kenbumono/code/mbed_TANK_PS3/",
+        "https://os.mbed.com/users/loopsva/code/TFTdisp-104/",
+        "https://os.mbed.com/users/srsmitherman/code/m3pi_BlueUSB_PS3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "16x1",
+        "TextLCD",
+        "file",
+        "player",
+        "wav",
+        "wave",
+        "Celsius",
+        "driver",
+        "I2C",
+        "LM75B",
+        "nxp",
+        "sensor",
+        "Temperature",
+        "GPS",
+        "BSP",
+        "DISCO_F746NG",
+        "accelerometer",
+        "gyroscope",
+        "MPU-6050",
+        "MPU6050",
+        "MPU60x0"
+    ],
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tlunzer/code/TextLCD/"
+    }
+}

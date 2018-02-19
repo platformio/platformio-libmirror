@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "xianlin zheng",
+        "url": "https://os.mbed.com/users/monkeyxep/"
+    },
+    "description": "at_command_terminal",
+    "frameworks": "mbed",
+    "keywords": [
+        "card",
+        "fatfilesystem",
+        "MMC",
+        "SD",
+        "SDHC",
+        "SDXC"
+    ],
+    "name": "AT_command_terminal",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/monkeyxep/code/AT_command_terminal/"
+    }
+}

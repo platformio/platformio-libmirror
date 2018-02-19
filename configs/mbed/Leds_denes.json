@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Dénes Berger",
+        "url": "https://os.mbed.com/users/denes/"
+    },
+    "description": "Simple class to turn on the RGB led by color",
+    "frameworks": "mbed",
+    "keywords": [
+        "multithreading",
+        "rtos",
+        "thread",
+        "example",
+        "kitt",
+        "knightrider",
+        "led",
+        "LPC1768",
+        "mbed",
+        "Adafruit",
+        "display",
+        "LCD",
+        "memory",
+        "Sharp",
+        "K64F"
+    ],
+    "name": "Leds",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/denes/code/Leds/"
+    }
+}

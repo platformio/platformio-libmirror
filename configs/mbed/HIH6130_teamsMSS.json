@@ -10,12 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "etti",
+        "TUIASI",
         "hih6130",
         "Humidity",
         "I2C",
         "sensor",
         "Temperature",
-        "VFD"
+        "D6F-PH",
+        "pressure"
     ],
     "name": "HIH6130",
     "platforms": "*",

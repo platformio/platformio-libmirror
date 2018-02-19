@@ -15,7 +15,12 @@
         "core2530(B)",
         "waveshare",
         "xbee",
-        "zbee"
+        "zbee",
+        "minutes",
+        "seconds",
+        "stopwatch",
+        "timer",
+        "watch"
     ],
     "name": "zbee_lib",
     "platforms": "*",

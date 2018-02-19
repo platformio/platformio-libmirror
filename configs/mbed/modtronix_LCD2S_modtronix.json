@@ -6,12 +6,9 @@
     "description": "Initial version for Modtronix LCD2S I2C and SPI serial LCD displays. For details, see http://modtronix.com/products-serial-lcd-board/",
     "frameworks": "mbed",
     "keywords": [
-        "dns",
-        "getHostByName",
-        "network",
-        "1508",
-        "LPC1768",
-        "sx1508",
+        "ethernet",
+        "ip",
+        "mbed",
         "LCD2S",
         "modtronix"
     ],

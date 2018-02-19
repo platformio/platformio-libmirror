@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Jack Berkhout",
+        "url": "https://os.mbed.com/users/JackB/"
+    },
+    "description": "Two hand-made fonts.",
+    "examples": [
+        "https://os.mbed.com/teams/DuckieTownHS_Perlatecnica/code/RGB_Matrix/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "locked antiphase",
+        "motor"
+    ],
+    "name": "TTF_fonts",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JackB/code/TTF_fonts/"
+    }
+}

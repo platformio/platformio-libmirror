@@ -14,9 +14,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "xbee",
-        "Battery Monitor",
-        "LTC2990"
+        "Lora",
+        "muRata",
+        "RFM95",
+        "SX1276",
+        "SX1276Generic",
+        "infrared",
+        "IR",
+        "Multiprotocol",
+        "NEC",
+        "RC5",
+        "RC6"
     ],
     "name": "WTV020SD_Sound_Breakout_Library",
     "platforms": "*",

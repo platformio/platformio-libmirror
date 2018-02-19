@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Katsushi Ogawa",
+        "url": "https://os.mbed.com/users/KatsushiOgawa/"
+    },
+    "description": "I2cLCD",
+    "examples": [
+        "https://os.mbed.com/users/mio/code/lpclcd/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "api",
+        "mode",
+        "xbee",
+        "zigbee",
+        "email",
+        "SMTP",
+        "ESP-01",
+        "ESP8266",
+        "finder",
+        "range",
+        "ultrasound"
+    ],
+    "name": "I2cLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/KatsushiOgawa/code/I2cLCD/"
+    }
+}

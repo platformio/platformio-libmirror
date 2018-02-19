@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Prosper Van",
+        "url": "https://os.mbed.com/users/oprospero/"
+    },
+    "description": "Embedded MotionDriver 6.1",
+    "frameworks": "mbed",
+    "keywords": [
+        "DMX",
+        "MAX7456",
+        "osd"
+    ],
+    "name": "MotionDriver_6_1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/oprospero/code/MotionDriver_6_1/"
+    }
+}

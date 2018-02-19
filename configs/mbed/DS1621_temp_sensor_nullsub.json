@@ -6,17 +6,12 @@
     "description": "A small library to read the tempature from ds1621(with little changes all those ds162x) devices over I2C.",
     "frameworks": "mbed",
     "keywords": [
-        "1621",
-        "ds1621",
+        "inAir",
+        "SX1276",
+        "SX1278",
         "I2C",
-        "control",
-        "dot",
-        "Dynamic",
-        "gray",
-        "led",
-        "lighting",
-        "matrix",
-        "scale"
+        "1621",
+        "ds1621"
     ],
     "name": "DS1621_temp_sensor",
     "platforms": "*",

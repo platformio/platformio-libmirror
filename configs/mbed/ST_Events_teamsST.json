@@ -13,11 +13,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "compass",
-        "eCompass",
-        "magnetometer",
-        "sensor"
+        "1D",
+        "2D",
+        "array",
+        "matrix"
     ],
     "name": "ST_Events",
     "platforms": "*",

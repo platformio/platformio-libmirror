@@ -11,15 +11,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "23LC1024",
-        "23LC512",
-        "Microchip",
-        "SPI",
-        "sram",
-        "Arch Max",
-        "sensor",
-        "STM32F4",
-        "Temperature"
+        "magnetometer",
+        "PNI",
+        "rm3100",
+        "sensor"
     ],
     "name": "HardwareInterface",
     "platforms": "*",

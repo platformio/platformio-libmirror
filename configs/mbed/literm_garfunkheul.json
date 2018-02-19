@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Vincent Donnefort",
+        "url": "https://os.mbed.com/users/garfunkheul/"
+    },
+    "description": "literm is a small terminal for the mbed",
+    "frameworks": "mbed",
+    "keywords": [
+        "cli",
+        "term",
+        "Terminal"
+    ],
+    "name": "literm",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/garfunkheul/code/literm/"
+    }
+}

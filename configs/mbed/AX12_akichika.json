@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Akichika Tanaka",
+        "url": "https://os.mbed.com/users/akichika/"
+    },
+    "description": "AX12",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "gyroscope",
+        "I2C",
+        "MPU-6050",
+        "MPU6050",
+        "MPU60x0",
+        "MPU9150",
+        "MMA8452",
+        "maxsonar",
+        "range",
+        "RangeFinder",
+        "sonar",
+        "W5200",
+        "WIZ820IO",
+        "ax12",
+        "dynamixel",
+        "motor",
+        "Servo"
+    ],
+    "name": "AX12",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/akichika/code/AX12/"
+    }
+}

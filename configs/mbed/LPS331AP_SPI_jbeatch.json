@@ -6,11 +6,18 @@
     "description": "Mbed Pololu LPS331 SPI library",
     "frameworks": "mbed",
     "keywords": [
-        "GUI",
-        "menu",
         "LPS331AP",
         "mbed",
-        "SPI"
+        "SPI",
+        "dynamixel",
+        "MX28",
+        "RS485",
+        "ASCII Communication",
+        "Comm",
+        "FP",
+        "LinkedList",
+        "Serial",
+        "Terminal"
     ],
     "name": "LPS331AP_SPI",
     "platforms": "*",

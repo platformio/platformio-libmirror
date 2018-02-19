@@ -9,14 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "accelerometer",
+        "TTL74HC595",
         "Energy Meter",
         "frequency",
-        "measurement",
-        "Servo",
-        "servo pulse",
-        "SERVOGEN",
-        "ServoOut",
-        "TTL74HC595"
+        "measurement"
     ],
     "name": "Pulses",
     "platforms": "*",

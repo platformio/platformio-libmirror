@@ -12,15 +12,12 @@
     "frameworks": "mbed",
     "keywords": [
         "thermistor",
+        "KL-25Z",
+        "Zumo",
         "copter",
         "PPM",
         "quad",
-        "4x3",
-        "AE-KIT45-KEYPAD4X3",
-        "Akizuki",
-        "key",
-        "matrix",
-        "switch"
+        "bma180"
     ],
     "name": "PPM",
     "platforms": "*",

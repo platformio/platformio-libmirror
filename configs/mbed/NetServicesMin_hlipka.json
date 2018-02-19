@@ -19,11 +19,6 @@
     "keywords": [
         "multiplexer",
         "Shift Register",
-        "ethernet",
-        "NetServices",
-        "network",
-        "TCP",
-        "UDP",
         "Altitude",
         "Freescale",
         "MPL3115A2",
@@ -34,6 +29,11 @@
         "LCD",
         "ST7735",
         "TFT",
+        "ethernet",
+        "NetServices",
+        "network",
+        "TCP",
+        "UDP",
         "nRF24L01"
     ],
     "name": "NetServicesMin",

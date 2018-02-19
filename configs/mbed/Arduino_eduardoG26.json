@@ -9,15 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "debounce",
-        "DigitalIn",
-        "InterruptIn",
         "arduino",
         "micros",
-        "millis",
-        "FAT",
-        "file system",
-        "SD"
+        "millis"
     ],
     "name": "Arduino",
     "platforms": "*",

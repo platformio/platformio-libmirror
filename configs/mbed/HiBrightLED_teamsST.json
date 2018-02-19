@@ -9,15 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "alphanumeric",
-        "display",
-        "HCMS2975",
-        "led",
+        "Arduino mbed commands",
+        "HD44780 LCD text custom char 16X2",
         "brightness",
         "high",
-        "driver",
-        "motor",
-        "Stepper"
+        "led"
     ],
     "name": "HiBrightLED",
     "platforms": "*",

@@ -9,18 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "CAN",
+        "can bus",
+        "FIFO",
         "Humidity",
         "I2C",
-        "sensor",
-        "NetServices",
-        "network",
-        "NTP",
-        "graphic",
-        "monochrome",
-        "VGA",
-        "median",
-        "sliding",
-        "window"
+        "sensor"
     ],
     "name": "hdc1080",
     "platforms": "*",

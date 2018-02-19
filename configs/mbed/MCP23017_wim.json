@@ -13,11 +13,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BLDC",
-        "driver",
-        "motor",
         "i2c expander",
-        "MCP23017"
+        "MCP23017",
+        "9-axis",
+        "acc",
+        "BNO055",
+        "Cortex-M0+",
+        "gyro",
+        "MAG",
+        "orientation",
+        "sensor"
     ],
     "name": "MCP23017",
     "platforms": "*",

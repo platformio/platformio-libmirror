@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Dave Van Wagner",
+        "url": "https://os.mbed.com/users/davervw/"
+    },
+    "description": "Shows SPI activity. Replace SPI with SPIDebug, and replace chip select's DigitalOutput with CSDebug. Outputs debug info on stdout.",
+    "examples": [
+        "https://os.mbed.com/users/davervw/code/SST25VF064C/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Lora",
+        "mdot",
+        "multitech",
+        "HD44780",
+        "TextLCD",
+        "debug",
+        "SPI",
+        "control",
+        "interrupt",
+        "motor",
+        "pwm",
+        "ramps"
+    ],
+    "name": "SPIDebug",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/davervw/code/SPIDebug/"
+    }
+}

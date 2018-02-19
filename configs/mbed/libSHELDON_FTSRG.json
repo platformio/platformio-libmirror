@@ -5,7 +5,18 @@
     },
     "description": "libSHELDON",
     "frameworks": "mbed",
-    "keywords": "libSHELDON",
+    "keywords": [
+        "F103RB",
+        "rpc",
+        "stm32",
+        "DISCO-F746",
+        "LCD",
+        "Tracing",
+        "AM2303",
+        "DHT22",
+        "Humidity",
+        "Temperature"
+    ],
     "name": "libSHELDON",
     "platforms": "*",
     "repository": {

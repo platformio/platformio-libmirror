@@ -9,7 +9,13 @@
         "https://os.mbed.com/users/andrewboyson/code/gps/"
     ],
     "frameworks": "mbed",
-    "keywords": "clock",
+    "keywords": [
+        "control",
+        "PID",
+        "TJPS",
+        "MCP4018",
+        "AT42QT1010"
+    ],
     "name": "clock",
     "platforms": "*",
     "repository": {

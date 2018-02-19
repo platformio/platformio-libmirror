@@ -12,8 +12,9 @@
         "edes",
         "I2C",
         "robot",
-        "MQTT",
-        "MQTTClient"
+        "CAN",
+        "can bus",
+        "CAN message"
     ],
     "name": "eDES2WD",
     "platforms": "*",

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Remco Bloemen",
+        "url": "https://os.mbed.com/users/Remco/"
+    },
+    "description": "Slightly modified MD5 lib. Allows access to raw binary instead of hexadecimal ascii.",
+    "frameworks": "mbed",
+    "keywords": "MD5",
+    "name": "MD5",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Remco/code/MD5/"
+    }
+}

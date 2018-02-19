@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "yasuyuki onodera",
+        "url": "https://os.mbed.com/users/yasuyuki/"
+    },
+    "description": "AQM0802 library",
+    "examples": [
+        "https://os.mbed.com/users/yasuyuki/code/mbed_EEPROM/",
+        "https://os.mbed.com/users/yasuyuki/code/mbed_UV/",
+        "https://os.mbed.com/users/yasuyuki/code/mbed_DEMO/",
+        "https://os.mbed.com/users/yasuyuki/code/mbed_LPS25H/",
+        "https://os.mbed.com/users/yasuyuki/code/mbed_MCP3425/",
+        "https://os.mbed.com/users/yasuyuki/code/mbed_MCP4726/",
+        "https://os.mbed.com/users/yasuyuki/code/mbed_MPL115/",
+        "https://os.mbed.com/users/yasuyuki/code/mbed_MCP4018/",
+        "https://os.mbed.com/users/yasuyuki/code/mbed_RX8025/",
+        "https://os.mbed.com/users/morinagatomoya/code/mbed_AM2321_copy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "AQM0802",
+    "name": "AQM0802",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yasuyuki/code/AQM0802/"
+    }
+}

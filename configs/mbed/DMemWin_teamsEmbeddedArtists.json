@@ -13,11 +13,11 @@
         "MCP3204",
         "MCP3208",
         "SPI",
+        "hotboards",
+        "keyboard",
         "Display Module",
         "emwin",
-        "LPC4088DM",
-        "hotboards",
-        "keyboard"
+        "LPC4088DM"
     ],
     "name": "DMemWin",
     "platforms": "*",

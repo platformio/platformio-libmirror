@@ -10,18 +10,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GPIO",
-        "GPIO expander",
-        "I2C",
-        "PCA9535",
-        "PCA9538",
-        "PCA9539",
-        "PCA9554",
-        "PCA9555",
-        "PCAL9554",
-        "PCAL9555",
-        "7seg",
-        "LCD"
+        "IBMIoTF",
+        "IOT",
+        "iotf"
     ],
     "name": "PCA9555",
     "platforms": "*",

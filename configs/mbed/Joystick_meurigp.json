@@ -10,8 +10,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "led",
-        "SPI"
+        "DISCO-STM32F746NG",
+        "flash",
+        "QSPI",
+        "ST",
+        "arduino",
+        "official",
+        "Sabertooth",
+        "SyRen"
     ],
     "name": "Joystick",
     "platforms": "*",

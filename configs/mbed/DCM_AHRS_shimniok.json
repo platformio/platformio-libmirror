@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Michael Shimniok",
+        "url": "https://os.mbed.com/users/shimniok/"
+    },
+    "description": "AHRS based on MatrixPilot DCM algorithm; ported from Pololu MinIMU-9 example code in turn based on ArduPilot 1.5",
+    "frameworks": "mbed",
+    "keywords": [
+        "AHRS",
+        "dcm",
+        "navigation"
+    ],
+    "name": "DCM_AHRS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shimniok/code/DCM_AHRS/"
+    }
+}

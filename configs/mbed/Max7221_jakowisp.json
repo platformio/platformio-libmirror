@@ -12,10 +12,7 @@
         "7-segment",
         "display",
         "MAX7221",
-        "nRF24L01P",
-        "Nucelo",
-        "RF24",
-        "STM32F"
+        "I2C"
     ],
     "name": "Max7221",
     "platforms": "*",

@@ -8,7 +8,12 @@
         "https://os.mbed.com/users/hotchpotch/code/Max7219_7segled_example/"
     ],
     "frameworks": "mbed",
-    "keywords": "max14690",
+    "keywords": [
+        "arduino",
+        "maniacbug",
+        "nRF24L01",
+        "nRF24L01P"
+    ],
     "name": "Max7219",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Adrian Cafa",
+        "url": "https://os.mbed.com/users/acafa/"
+    },
+    "description": "GPRS",
+    "frameworks": "mbed",
+    "keywords": "envio_tramas_gprs",
+    "name": "envio_tramas_gprs",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/acafa/code/envio_tramas_gprs/"
+    }
+}

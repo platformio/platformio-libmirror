@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Ian Kilburn",
+        "url": "https://os.mbed.com/users/highroads/"
+    },
+    "description": "Brought over the files from the Freescale site and modified for mbed.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Sensirion",
+        "SHT21",
+        "touch",
+        "display",
+        "graphic",
+        "LCD",
+        "QVGA",
+        "TFT",
+        "L3GD20"
+    ],
+    "name": "FRDM_KL46Z_LCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/highroads/code/FRDM_KL46Z_LCD/"
+    }
+}

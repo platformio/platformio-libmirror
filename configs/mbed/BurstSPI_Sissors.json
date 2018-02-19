@@ -24,12 +24,7 @@
         "time",
         "high",
         "Speed",
-        "SPI",
-        "1-wire",
-        "DS18B20",
-        "one",
-        "One Wire",
-        "OneWire"
+        "SPI"
     ],
     "name": "BurstSPI",
     "platforms": "*",

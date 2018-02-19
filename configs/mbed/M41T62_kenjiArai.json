@@ -9,13 +9,7 @@
         "https://os.mbed.com/users/kenjiArai/code/LPC1114_data_logger/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "HSI",
-        "pwm",
-        "rgb",
-        "RGBW",
-        "RTC"
-    ],
+    "keywords": "RTC",
     "name": "M41T62",
     "platforms": "*",
     "repository": {

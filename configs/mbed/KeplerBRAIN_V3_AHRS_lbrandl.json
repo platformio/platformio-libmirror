@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Leander Brandl",
+        "url": "https://os.mbed.com/users/lbrandl/"
+    },
+    "description": "KeplerBRAIN V3 AHRS",
+    "frameworks": "mbed",
+    "keywords": [
+        "distance",
+        "HC-SR04",
+        "HCSR04",
+        "ultrasonic",
+        "US-015",
+        "US015"
+    ],
+    "name": "KeplerBRAIN_V3_AHRS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lbrandl/code/KeplerBRAIN_V3_AHRS/"
+    }
+}

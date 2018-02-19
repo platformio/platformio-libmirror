@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "David Styles",
+        "url": "https://os.mbed.com/users/DaveStyles/"
+    },
+    "description": "A library for the MCP3221 12BIT I2C ADC. (2.7 - 5.0v)",
+    "examples": [
+        "https://os.mbed.com/users/DaveStyles/code/MCP3221_TEST/",
+        "https://os.mbed.com/users/janekm/code/ADC2DAC/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "12BIT",
+        "adc",
+        "I2C"
+    ],
+    "name": "MCP3221",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DaveStyles/code/MCP3221/"
+    }
+}

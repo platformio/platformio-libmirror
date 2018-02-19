@@ -6,9 +6,16 @@
     "description": "for thww WS2811 RGB",
     "frameworks": "mbed",
     "keywords": [
-        "C027",
-        "I2C",
-        "LCD"
+        "JY901",
+        "1",
+        "2",
+        "digimesh",
+        "Series",
+        "Wi-Fi",
+        "xbee",
+        "zigbee",
+        "fs",
+        "USB"
     ],
     "name": "WS2811",
     "platforms": "*",

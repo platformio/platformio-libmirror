@@ -14,11 +14,10 @@
     "frameworks": "mbed",
     "keywords": [
         "MPU9250",
-        "MQTT",
         "1.0.3",
-        "NDEF",
-        "NFC",
-        "Type4"
+        "LCD",
+        "ST7032",
+        "TextLCD"
     ],
     "name": "telemetry",
     "platforms": "*",

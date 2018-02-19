@@ -10,7 +10,10 @@
         "filter",
         "median",
         "outlier",
-        "spikes"
+        "spikes",
+        "QEI",
+        "Quadrature encoder interface",
+        "Rotary Encoder"
     ],
     "name": "kalman",
     "platforms": "*",

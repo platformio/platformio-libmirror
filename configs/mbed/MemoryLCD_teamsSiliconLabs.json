@@ -13,13 +13,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "energy harvesting",
+        "mobile robot",
+        "max31855",
+        "MAX6675",
+        "Thermocouple",
         "async",
         "LS013B7DH03",
         "memory lcd",
         "Sharp",
         "sharp memory LCD",
-        "energy harvesting",
-        "mobile robot",
         "MQTT"
     ],
     "name": "MemoryLCD",

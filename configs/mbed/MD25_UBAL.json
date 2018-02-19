@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Thomas Jørgensen",
+        "url": "https://os.mbed.com/users/UBAL/"
+    },
+    "description": "A library for the MD25 motor controller from www.robot-electronics.co.uk.",
+    "frameworks": "mbed",
+    "keywords": [
+        "camera",
+        "MARMEX-VB",
+        "MARY",
+        "\\",
+        "Controller\\",
+        "I2C",
+        "MD25",
+        "motor",
+        "robot"
+    ],
+    "name": "MD25",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/UBAL/code/MD25/"
+    }
+}

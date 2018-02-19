@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Mark Randall",
+        "url": "https://os.mbed.com/users/mr63/"
+    },
+    "description": "BMP085 Sparkfun class",
+    "frameworks": "mbed",
+    "keywords": [
+        "Maple Mini",
+        "NUCLEO-F103RB",
+        "STM32F103C8C6",
+        "USB device",
+        "USBDevice",
+        "bmp085",
+        "sparkfun",
+        "AES",
+        "cipher",
+        "encryption",
+        "security",
+        "ucam"
+    ],
+    "name": "Sparkfun_BMP085",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mr63/code/Sparkfun_BMP085/"
+    }
+}

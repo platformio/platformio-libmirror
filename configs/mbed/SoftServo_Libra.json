@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Wang Sun",
+        "url": "https://os.mbed.com/users/Libra/"
+    },
+    "description": "This Library is used to help the LPC1678 mbed to output PWM signals in order to control servo motors",
+    "frameworks": "mbed",
+    "keywords": "SoftServo",
+    "name": "SoftServo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Libra/code/SoftServo/"
+    }
+}

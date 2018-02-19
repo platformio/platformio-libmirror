@@ -6,6 +6,10 @@
     "description": "The library can flash an LED or DigitalOut pin at 50% duty using a Ticker interrupt triggered toggle function. This library does NOT use wait() so that it can flash a pin while more code is being executed. Instead, it relies on Ticker generated interrupts. There is only one parameter required, the on/off time of the pin in seconds (i.e. 0.5 means 0.5 seconds on and 0.5 seconds off).",
     "frameworks": "mbed",
     "keywords": [
+        "numchuck",
+        "nunchuck",
+        "Nunchuk",
+        "Wii",
         "50%",
         "Digital",
         "digitalOut",
@@ -24,10 +28,10 @@
         "Toggle",
         "toggler",
         "wait",
-        "numchuck",
-        "nunchuck",
-        "Nunchuk",
-        "Wii"
+        "1D",
+        "2D",
+        "array",
+        "matrix"
     ],
     "name": "ToggleFlash",
     "platforms": "*",

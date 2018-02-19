@@ -9,10 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ePaper",
-        "EPD",
-        "GDEP015",
-        "GDEP015OC1"
+        "driver",
+        "microstep",
+        "motor",
+        "ST",
+        "Stepper",
+        "STSPIN220"
     ],
     "name": "ServoRingBuffer",
     "platforms": "*",

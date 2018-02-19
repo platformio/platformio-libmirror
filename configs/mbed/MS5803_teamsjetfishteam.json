@@ -12,7 +12,10 @@
         "https://os.mbed.com/users/aolgu003/code/sensor_library_test/"
     ],
     "frameworks": "mbed",
-    "keywords": "MS5803",
+    "keywords": [
+        "accelerometer",
+        "SCA3000"
+    ],
     "name": "MS5803",
     "platforms": "*",
     "repository": {

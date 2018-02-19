@@ -5,7 +5,12 @@
     },
     "description": "Software based digital input debouncer",
     "frameworks": "mbed",
-    "keywords": "DigitalInDebounced",
+    "keywords": [
+        "display",
+        "LPC4088",
+        "LPC4088DM",
+        "module"
+    ],
     "name": "DigitalInDebounced",
     "platforms": "*",
     "repository": {

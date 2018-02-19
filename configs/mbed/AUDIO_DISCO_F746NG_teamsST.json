@@ -11,13 +11,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "25VF064",
-        "25VF064C",
-        "EEPROM",
-        "flash",
-        "SST",
         "audio",
-        "DISCO_F746NG"
+        "DISCO_F746NG",
+        "etti",
+        "TUIASI",
+        "Bulk",
+        "Traceport",
+        "USB"
     ],
     "name": "AUDIO_DISCO_F746NG",
     "platforms": "*",

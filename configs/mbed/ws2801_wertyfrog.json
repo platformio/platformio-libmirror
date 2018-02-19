@@ -9,9 +9,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Beep",
-        "sound",
-        "tone",
         "Addressable",
         "led",
         "rgb",
@@ -20,9 +17,9 @@
         "ws2801",
         "IR",
         "Receiver",
-        "motor",
-        "Stepper",
-        "unipolar",
+        "Beep",
+        "sound",
+        "tone",
         "joystick",
         "SDFileSystem",
         "STM32F746"

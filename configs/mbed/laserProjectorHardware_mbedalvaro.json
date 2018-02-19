@@ -6,10 +6,9 @@
     "description": "Hardware control: mirrors",
     "frameworks": "mbed",
     "keywords": [
-        "40x4",
-        "C-51849",
-        "character",
-        "LCD"
+        "CV7",
+        "sensor",
+        "wind"
     ],
     "name": "laserProjectorHardware",
     "platforms": "*",

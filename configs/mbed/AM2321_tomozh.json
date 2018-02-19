@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Y Tomohara",
+        "url": "https://os.mbed.com/users/tomozh/"
+    },
+    "description": "AM2321 Temperature and Humidity Sensor mbed library",
+    "examples": [
+        "https://os.mbed.com/users/tomozh/code/AM2321_Example/",
+        "https://os.mbed.com/users/mia_0032/code/mbed_vfd_thermometer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DMA",
+        "rtos",
+        "SPI",
+        "AT45DB081D",
+        "AT45DB161D",
+        "AT45DB321D",
+        "EEPROM",
+        "flash",
+        "memory",
+        "AM2321",
+        "Humidity",
+        "I2C",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "AM2321",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tomozh/code/AM2321/"
+    }
+}

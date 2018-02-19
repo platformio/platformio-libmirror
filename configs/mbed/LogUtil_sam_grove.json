@@ -14,12 +14,12 @@
         "logger",
         "test",
         "display",
-        "GPS",
         "DC",
         "driver",
         "full-bridge",
         "H-bridge",
-        "motor"
+        "motor",
+        "GPS"
     ],
     "name": "LogUtil",
     "platforms": "*",

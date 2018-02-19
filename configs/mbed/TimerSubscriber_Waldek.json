@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Waldemar Dworakowski",
+        "url": "https://os.mbed.com/users/Waldek/"
+    },
+    "description": "Timer dispather",
+    "frameworks": "mbed",
+    "keywords": [
+        "Apeiros",
+        "F401RE",
+        "Nucleo",
+        "robot"
+    ],
+    "name": "TimerSubscriber",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Waldek/code/TimerSubscriber/"
+    }
+}

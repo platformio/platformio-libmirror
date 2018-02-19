@@ -5,7 +5,11 @@
     },
     "description": "Takes user input, outputs pwm to current control filter.",
     "frameworks": "mbed",
-    "keywords": "Current Controller",
+    "keywords": [
+        "accelerometer",
+        "aconno",
+        "MMA8452"
+    ],
     "name": "Current Controller",
     "platforms": "*",
     "repository": {

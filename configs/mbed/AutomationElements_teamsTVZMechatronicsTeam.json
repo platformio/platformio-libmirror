@@ -21,8 +21,12 @@
         "PT1",
         "PT2",
         "PT2cc",
-        "adc",
-        "driver"
+        "AT",
+        "C030",
+        "CellularInterface",
+        "N211",
+        "N2xx",
+        "u-blox"
     ],
     "name": "AutomationElements",
     "platforms": "*",

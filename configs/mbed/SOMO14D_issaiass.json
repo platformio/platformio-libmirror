@@ -15,7 +15,13 @@
         "module",
         "program",
         "SOMO-14D",
-        "stm32"
+        "stm32",
+        "BUTTON",
+        "cancel",
+        "DIP",
+        "noise",
+        "push",
+        "SW"
     ],
     "name": "SOMO14D",
     "platforms": "*",

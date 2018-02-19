@@ -13,12 +13,8 @@
         "file",
         "SD",
         "System",
-        "IMU",
-        "sensor",
-        "ARM",
-        "DAY",
-        "heartbeat",
-        "RIT"
+        "I2S",
+        "library"
     ],
     "name": "KL25Z_RTC",
     "platforms": "*",

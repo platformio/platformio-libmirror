@@ -5,7 +5,13 @@
     },
     "description": "test",
     "frameworks": "mbed",
-    "keywords": "AWS-test",
+    "keywords": [
+        "AT",
+        "C027",
+        "C030",
+        "CellularInterface",
+        "u-blox"
+    ],
     "name": "AWS-test",
     "platforms": "*",
     "repository": {

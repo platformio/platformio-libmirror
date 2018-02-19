@@ -11,7 +11,8 @@
     "frameworks": "mbed",
     "keywords": [
         "SPI",
-        "XBEE pro"
+        "XBEE pro",
+        "StepperMotorUni"
     ],
     "name": "XBEE_900HP_SPI",
     "platforms": "*",

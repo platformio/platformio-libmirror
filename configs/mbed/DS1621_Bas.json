@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Bas van Drunen Littel",
+        "url": "https://os.mbed.com/users/Bas/"
+    },
+    "description": "Tested and working library for the DS1621 temperature sensor with I2C",
+    "frameworks": "mbed",
+    "keywords": [
+        "ds1621",
+        "I2C",
+        "Temperature"
+    ],
+    "name": "DS1621",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Bas/code/DS1621/"
+    }
+}

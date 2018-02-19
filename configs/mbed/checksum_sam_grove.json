@@ -6,11 +6,7 @@
     "description": "Utility functions for working with data streams",
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "eCompass",
-        "fast",
-        "FRDM-KL46Z",
-        "magnetometer",
+        "IR",
         "checksum"
     ],
     "name": "checksum",

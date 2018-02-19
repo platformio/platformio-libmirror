@@ -8,7 +8,9 @@
     "keywords": [
         "AT93C46",
         "EEPROM",
-        "adc"
+        "aqm0802",
+        "I2C",
+        "LCD"
     ],
     "name": "EEPROM_AT93C46",
     "platforms": "*",

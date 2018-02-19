@@ -13,15 +13,10 @@
     "frameworks": "mbed",
     "keywords": [
         "Cellular",
-        "BME280",
-        "Low_Power",
-        "LPC1114",
-        "LPC1114FN28",
-        "brushless",
-        "L293D",
-        "LPC1768",
-        "mbed",
-        "motor"
+        "Grove",
+        "RFID",
+        "SEN11425P",
+        "Serial"
     ],
     "name": "MTS-Cellular",
     "platforms": "*",

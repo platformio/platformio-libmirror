@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "William Johnston",
+        "url": "https://os.mbed.com/users/wjohnsto/"
+    },
+    "description": "PS2 Library",
+    "examples": [
+        "https://os.mbed.com/users/wjohnsto/code/Pong/",
+        "https://os.mbed.com/users/ipapp3/code/Brickbreaker/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "C027",
+        "C030",
+        "CellLocate",
+        "file",
+        "FTP",
+        "http",
+        "SMS",
+        "u-blox",
+        "ussd"
+    ],
+    "name": "PS2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wjohnsto/code/PS2/"
+    }
+}

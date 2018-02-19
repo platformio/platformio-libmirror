@@ -12,12 +12,8 @@
         "RTC",
         "time",
         "api",
-        "16x2",
-        "20x2",
-        "20X4",
-        "40x2",
-        "HD4478",
-        "TextLCD"
+        "command",
+        "Servo"
     ],
     "name": "KuAQM0802A",
     "platforms": "*",

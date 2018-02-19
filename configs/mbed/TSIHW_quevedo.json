@@ -6,9 +6,6 @@
     "description": "This is a VERY low-level library for controlling the TSI hardware module in a KL25 microcontroller. The programmer creates the TSI object passing basic parameters, and selects the active channels. Then, a scan on a given channel can be started, and the raw result can be read.",
     "frameworks": "mbed",
     "keywords": [
-        "KL25",
-        "touch",
-        "TSI",
         "watchdog",
         "audio input",
         "Audio output",
@@ -18,7 +15,10 @@
         "Mikami",
         "SAI",
         "SAI_IO",
-        "WM8994"
+        "WM8994",
+        "KL25",
+        "touch",
+        "TSI"
     ],
     "name": "TSIHW",
     "platforms": "*",

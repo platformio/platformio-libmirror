@@ -6,9 +6,6 @@
     "description": "LCDモジュール ACM1602NI（I2C接続） を制御するライブラリ",
     "frameworks": "mbed",
     "keywords": [
-        "GLCD",
-        "OLED",
-        "SSH1106",
         "ACM1602NI",
         "I2C",
         "LCD"

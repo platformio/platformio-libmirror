@@ -10,12 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "dynamixel",
         "dac",
         "more pwm",
         "pwm",
         "pwm 48Mhz",
-        "pwmdac",
-        "74HC165"
+        "pwmdac"
     ],
     "name": "PwmDAC",
     "platforms": "*",

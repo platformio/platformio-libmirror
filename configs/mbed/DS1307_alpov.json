@@ -15,10 +15,12 @@
         "RTC",
         "SSL",
         "TLS",
-        "buzzer",
-        "music",
-        "RTTTL",
-        "sound"
+        "EFM32",
+        "Gecko",
+        "SegmentLCD",
+        "SiLabs",
+        "Silicon Labs",
+        "silicon_labs"
     ],
     "name": "DS1307",
     "platforms": "*",

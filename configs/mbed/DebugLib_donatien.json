@@ -16,11 +16,11 @@
         "display",
         "HD44780",
         "LCD",
+        "ethernet",
+        "NTP",
         "Humidity",
         "sensor",
-        "Temperature",
-        "ethernet",
-        "NTP"
+        "Temperature"
     ],
     "name": "DebugLib",
     "platforms": "*",

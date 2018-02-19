@@ -12,14 +12,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "gyro",
-        "pwm",
-        "PwmOut",
         "clock",
         "CPU",
         "Power",
         "power consumption",
-        "power control"
+        "power control",
+        "pwm",
+        "PwmOut"
     ],
     "name": "ClockControl",
     "platforms": "*",

@@ -18,6 +18,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "int",
+        "interrupt",
+        "NVIC",
+        "priority",
+        "buffer",
+        "I2C",
         "gpu",
         "Graphics",
         "LCD",
@@ -25,11 +31,7 @@
         "smart",
         "SMARTGPU",
         "TFT",
-        "touch",
-        "ethernet",
-        "tcp/ip",
-        "WiFly",
-        "WiflyInterface"
+        "touch"
     ],
     "name": "SMARTGPU",
     "platforms": "*",

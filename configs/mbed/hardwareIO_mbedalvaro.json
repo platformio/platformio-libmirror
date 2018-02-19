@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Alvaro Cassinelli",
+        "url": "https://os.mbed.com/users/mbedalvaro/"
+    },
+    "description": "Hardware IO control: mirrors, lock in",
+    "frameworks": "mbed",
+    "keywords": [
+        "fm",
+        "Radio",
+        "RDA5807M",
+        "RDS",
+        "Configuration",
+        "file",
+        "ini",
+        "mbed",
+        "System",
+        "windows"
+    ],
+    "name": "hardwareIO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbedalvaro/code/hardwareIO/"
+    }
+}

@@ -16,14 +16,8 @@
         "robot",
         "Utilities",
         "Zumo",
-        "C24LCXXX",
-        "EEPROM",
         "I2C",
-        "Adafruit",
-        "display",
-        "LCD",
-        "memory",
-        "Sharp"
+        "real-time communication"
     ],
     "name": "ZumoRobotUtilities",
     "platforms": "*",

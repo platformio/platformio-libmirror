@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Greg Folker",
+        "url": "https://os.mbed.com/users/Gfolker/"
+    },
+    "description": "Bit maps of the images drawn to the screens for the Hexi Sensor Project",
+    "examples": [
+        "https://os.mbed.com/users/Gfolker/code/Hexi_Sensor_System/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "1508",
+        "LPC1768",
+        "sx1508"
+    ],
+    "name": "images",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Gfolker/code/images/"
+    }
+}

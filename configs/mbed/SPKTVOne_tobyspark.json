@@ -9,12 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "31865",
-        "max",
-        "max31865",
-        "358",
-        "Adafruit",
-        "TFT"
+        "ethernet",
+        "EthernetInterface",
+        "EthernetLibrary",
+        "W5500",
+        "WIZ550IO",
+        "Wiznet",
+        "5110",
+        "Nokia",
+        "TextLCD"
     ],
     "name": "SPK-TVOne",
     "platforms": "*",

@@ -16,8 +16,9 @@
         "edes",
         "I2C",
         "robot",
-        "MQTT",
-        "MQTTClient"
+        "CAN",
+        "can bus",
+        "CAN message"
     ],
     "name": "MyLCD",
     "platforms": "*",

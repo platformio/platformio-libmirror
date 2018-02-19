@@ -6,14 +6,14 @@
     "description": "PCD8544LCD",
     "frameworks": "mbed",
     "keywords": [
+        "COMMAND PARSER",
+        "serial command",
+        "uart interupt",
         "clock",
         "ds1307",
         "real",
         "RTC",
-        "time",
-        "COMMAND PARSER",
-        "serial command",
-        "uart interupt"
+        "time"
     ],
     "name": "PCD8544LCD",
     "platforms": "*",

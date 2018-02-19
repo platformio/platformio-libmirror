@@ -24,14 +24,8 @@
         "2D",
         "array",
         "matrix",
-        "LPC1768",
-        "sensor",
-        "Si7021",
-        "ethernet",
-        "NTP",
-        "SNTP",
-        "W5500",
-        "Wiznet"
+        "digital potentiometer",
+        "SPI"
     ],
     "name": "vt100",
     "platforms": "*",

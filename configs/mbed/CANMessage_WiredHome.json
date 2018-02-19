@@ -6,14 +6,14 @@
     "description": "CANMessage is the primitive CAN message object. It supports creation, parsing, formatting of messages. Can be easily integrated with CANPort and CANQueue libraries.",
     "frameworks": "mbed",
     "keywords": [
+        "CAN",
+        "message",
         "MPU-6050",
         "MPU6050",
         "MPU6050-DMP",
         "CNC",
         "motor",
-        "Stepper",
-        "CAN",
-        "message"
+        "Stepper"
     ],
     "name": "CANMessage",
     "platforms": "*",

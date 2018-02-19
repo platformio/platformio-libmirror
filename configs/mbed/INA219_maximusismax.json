@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Max Stenham",
+        "url": "https://os.mbed.com/users/maximusismax/"
+    },
+    "description": "Library for INA219 current sensor",
+    "frameworks": "mbed",
+    "keywords": [
+        "current sensor",
+        "INA219",
+        "debounce",
+        "interrupt",
+        "InterruptIn"
+    ],
+    "name": "INA219",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/maximusismax/code/INA219/"
+    }
+}

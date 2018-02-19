@@ -9,11 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "LCD",
+        "timer",
+        "watchdog",
         "compass",
         "DISCO_L476VG",
-        "LSM303"
+        "LSM303",
+        "8x8",
+        "led",
+        "led matrix",
+        "PCA9622"
     ],
     "name": "funcptr",
     "platforms": "*",

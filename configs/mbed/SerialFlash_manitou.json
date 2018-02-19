@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "tom dunigan",
+        "url": "https://os.mbed.com/users/manitou/"
+    },
+    "description": "port of teensy SerialFlash library for SPI serial flash like winbond",
+    "examples": [
+        "https://os.mbed.com/users/manitou/code/spiserialtst/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DA7212",
+        "I2S",
+        "TLV320",
+        "digitalOut",
+        "led",
+        "rtos",
+        "mbed5",
+        "NetworkInterfaceAPI",
+        "Wi-Fi",
+        "WizFi250"
+    ],
+    "name": "SerialFlash",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/manitou/code/SerialFlash/"
+    }
+}

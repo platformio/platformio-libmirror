@@ -6,9 +6,8 @@
     "description": "My useful library.",
     "frameworks": "mbed",
     "keywords": [
-        "controller",
-        "motor",
-        "Serial"
+        "control",
+        "PID"
     ],
     "name": "RS485_usrlib",
     "platforms": "*",

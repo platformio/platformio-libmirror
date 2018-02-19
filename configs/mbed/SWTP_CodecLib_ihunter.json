@@ -5,15 +5,7 @@
     },
     "description": "Codec for an NRF24L01 based protocol",
     "frameworks": "mbed",
-    "keywords": [
-        "accelerometer",
-        "mBuino",
-        "MMA8453",
-        "retro",
-        "mbed myoware",
-        "muscle sensor",
-        "myoware"
-    ],
+    "keywords": "SWTP_CodecLib",
     "name": "SWTP_CodecLib",
     "platforms": "*",
     "repository": {

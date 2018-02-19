@@ -7,7 +7,9 @@
     "frameworks": "mbed",
     "keywords": [
         "FRAM",
-        "log"
+        "log",
+        "TMP102",
+        "TMP112"
     ],
     "name": "FRAMLog",
     "platforms": "*",

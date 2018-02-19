@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Mathieu Malone",
+        "url": "https://os.mbed.com/users/MBM/"
+    },
+    "description": "Library used to initialize and to communicate with the CMUcam5 Pixy",
+    "examples": [
+        "https://os.mbed.com/users/MBM/code/PixyStereoCam/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "TTL74HC595",
+        "Energy Meter",
+        "frequency",
+        "measurement"
+    ],
+    "name": "PixyLibrary",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MBM/code/PixyLibrary/"
+    }
+}

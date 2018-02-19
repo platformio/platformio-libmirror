@@ -9,18 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "control",
-        "led",
-        "LPC1768",
-        "mbed",
-        "Serial",
-        "Terminal",
-        "VT100",
-        "VT200",
-        "VT52",
+        "MAX14661",
+        "mux",
+        "4D Systems",
+        "LDC-43PCt",
         "JSON",
         "MessagePack",
-        "RX8025"
+        "GUI"
     ],
     "name": "msgpack",
     "platforms": "*",

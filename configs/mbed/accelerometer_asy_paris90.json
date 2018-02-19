@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Aisyah Syahana",
+        "url": "https://os.mbed.com/users/asy_paris90/"
+    },
+    "description": "accelerometer",
+    "frameworks": "mbed",
+    "keywords": [
+        "3g",
+        "arduino",
+        "PHS",
+        "shield",
+        "logger",
+        "syslog",
+        "syslogd",
+        "real time",
+        "serial port",
+        "serial protocols"
+    ],
+    "name": "accelerometer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/asy_paris90/code/accelerometer/"
+    }
+}

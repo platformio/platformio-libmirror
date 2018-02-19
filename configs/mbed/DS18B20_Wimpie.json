@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Wim De Roeve",
+        "url": "https://os.mbed.com/users/Wimpie/"
+    },
+    "description": "OneWire Temperature library for interfacing DS18B20",
+    "examples": [
+        "https://os.mbed.com/teams/Aqueles-Que-Nao-Sabem-O-Que-Fazem/code/DallasTemperature/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DS18B20",
+        "one",
+        "Wire",
+        "library",
+        "MIDI",
+        "USB",
+        "USBMIDI",
+        "2x16",
+        "I2C",
+        "LCD",
+        "mbed",
+        "nRF51822",
+        "SD",
+        "SDFileSystem",
+        "sdhcfilesystem",
+        "FAT"
+    ],
+    "name": "DS18B20",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Wimpie/code/DS18B20/"
+    }
+}
