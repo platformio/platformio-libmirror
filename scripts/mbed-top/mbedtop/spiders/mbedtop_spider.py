@@ -1,4 +1,5 @@
 import scrapy
+import csv
 from mbedtop.items import MbedLibItem, MbedLibLoader
 
 from mbedtop.support import *
@@ -72,15 +73,40 @@ class MbedTopSpider(scrapy.Spider):
         l.add_value('keywords', response.request.meta['keywords'])
         item = l.load_item()
         # item['imports']  = get_import_number(item['imports'])
-        if int(item['imports']) < 10:
+
+        if is_fork(item):
             return
-        if is_fork(item) and int(item['dependents']) < 5:
-            return
+            
         if get_commits_number(item['commits']) < 1:
             return
+            
+        with open('libs.csv', 'a', newline='') as csv_file:
+            writer =csv.writer(csv_file, delimiter=';')
+            writer.writerow([
+                make_mbed_url(item['repository']),
+                is_fork(item),
+                int(item['imports']),
+                int(item['dependents'])
+                ])
+
+        # if is_fork(item) and int(item['dependents']) < 5:
+        #     with open("fork_dependents_less5.txt", "a") as myfile:
+        #         myfile.write("\nitem %s/%s/%s" % (item['owner'], item['name'],
+        #                                           item['repository']))
+        #     return
+        if int(item['imports']) < 5:
+            with open("imports_less10.txt", "a") as myfile:
+                myfile.write("\nitem %s/%s/%s" % (item['owner'], item['name'],
+                                                  item['repository']))
+            return
+
         if has_non_ascii_char(item['ownerurl']) or has_non_ascii_char(
                 item['repository']):
+            with open("non_ASCII.txt", "a") as myfile:
+                myfile.write("\nitem %s/%s/%s" % (item['owner'], item['name'],
+                                                  item['repository']))
             return
+
         if not ('description' in item):
             item['description'] = item['name']
         if not ('keywords' in item):

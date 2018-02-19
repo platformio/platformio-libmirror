@@ -69,10 +69,7 @@ class RepoPostProc(object):
             max_examples = 10
             if len(item['examples']) < 10:
                 max_examples = len(item['examples'])
-            print("*++*" * 30)
             for example in range(max_examples):
-                print("*++*" * 30)
-                print(example)
                 examples.append(make_mbed_url(item['examples'][example]))
             print(examples)
             item['examples'] = examples
@@ -104,9 +101,11 @@ class RepoPostProc(object):
                     keywords.append(
                         value.replace('/components/', '').replace('/', ''))
             #if len(authors): item['authors'] = authors
-            if len(keywords):
-                item['keywords'] = keywords
-            del item['components']
+            # if len(keywords):
+            #     item['keywords'] = keywords
+            # del item['components']
+        if 'keywords' not in item:
+            item['keywords'] = item['name']
 
         # todo: check components if contents need to go to authors or keywords
 

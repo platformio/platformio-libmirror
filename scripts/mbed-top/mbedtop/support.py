@@ -113,4 +113,4 @@ def is_fork(item):
 
 def get_import_number(import_string):
     print('Processing import')
-    return int(import_string.strip())
+    return int(import_string.strip())+1
