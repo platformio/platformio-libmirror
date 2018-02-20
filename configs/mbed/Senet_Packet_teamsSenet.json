@@ -14,11 +14,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "ANSI",
+        "Terminal",
         "Lora",
         "senet",
-        "library",
+        "controller",
         "motor",
-        "Stepper"
+        "pololu",
+        "Qik",
+        "VNH25P30"
     ],
     "name": "Senet_Packet",
     "platforms": "*",

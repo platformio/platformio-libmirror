@@ -11,14 +11,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DMP",
-        "IMU",
-        "invensense",
-        "MPU605-DMP",
-        "MPU6050",
-        "Quaternion",
-        "Tilty",
-        "TiltyIMU"
+        "MAX30102",
+        "ACM1602NI",
+        "I2C",
+        "LCD",
+        "Nucleo"
     ],
     "name": "VL6180x_lib",
     "platforms": "*",

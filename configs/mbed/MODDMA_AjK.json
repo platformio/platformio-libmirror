@@ -17,21 +17,7 @@
         "https://os.mbed.com/teams/EmbedEd/code/mbed_theremin/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "ethernet",
-        "power consumption",
-        "power control",
-        "power management",
-        "PowerControl",
-        "mbed",
-        "DMA",
-        "gpdma",
-        "MODDMA",
-        "adc",
-        "AnalogIn",
-        "burst",
-        "fast"
-    ],
+    "keywords": "MODDMA",
     "name": "MODDMA",
     "platforms": "*",
     "repository": {

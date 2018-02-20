@@ -10,15 +10,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AT45DBxx",
-        "USBMSD",
         "control",
         "Kinematics",
         "lauther",
         "math",
         "matrix",
         "mobile",
-        "robot"
+        "robot",
+        "I2C",
+        "LM75B",
+        "MSS",
+        "MSU",
+        "sensor",
+        "Temperature"
     ],
     "name": "TrackVector2D",
     "platforms": "*",

@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Avnet",
+        "url": "https://os.mbed.com/teams/Avnet/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Avnet"
+            ],
+            "frameworks": "mbed",
+            "name": "WncControllerK64F"
+        }
+    ],
+    "description": "Use this interface to connect to and interact with the WNC M14A2A LTE Cellular Data Module which is provided by Wistron NeWeb",
+    "examples": [
+        "https://os.mbed.com/users/JMF/code/easy-connect-wnc/",
+        "https://os.mbed.com/teams/Avnet/code/easy-connect-wnc/",
+        "https://os.mbed.com/users/JMF/code/easy-connect/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "WNC14A2AInterface",
+    "name": "WNC14A2AInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/teams/Avnet/code/WNC14A2AInterface/"
+    }
+}

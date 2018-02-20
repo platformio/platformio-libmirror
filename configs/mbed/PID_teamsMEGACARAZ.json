@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "MEGACARAZ",
+        "url": "https://os.mbed.com/teams/MEGACARAZ/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Nikolas Goldin"
+            ],
+            "frameworks": "mbed",
+            "name": "btbee"
+        }
+    ],
+    "description": "PIDs and fun",
+    "frameworks": "mbed",
+    "keywords": [
+        "ESP8266",
+        "milkcocoa",
+        "Serial",
+        "thermal printer",
+        "3DOF",
+        "inverse kinematics",
+        "Robotics"
+    ],
+    "name": "PID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MEGACARAZ/code/PID/"
+    }
+}

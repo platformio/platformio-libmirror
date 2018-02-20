@@ -9,20 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Temp",
-        "Temperature",
-        "TMP102",
         "motor",
         "Stepper",
-        "devantech",
-        "ranger",
-        "SRF02",
-        "SRF08",
-        "ultrasonic",
-        "font",
-        "NeoPixel",
-        "WS2812",
-        "wx2811"
+        "milkcocoa"
     ],
     "name": "Motor",
     "platforms": "*",

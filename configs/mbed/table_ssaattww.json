@@ -6,10 +6,11 @@
     "description": "三角関数のテーブル引きのプログラムです",
     "frameworks": "mbed",
     "keywords": [
-        "NTP",
         "table",
-        "hotboards",
-        "rtcc"
+        "file",
+        "Serial",
+        "SimpleSerialProtocol",
+        "transfer"
     ],
     "name": "table",
     "platforms": "*",

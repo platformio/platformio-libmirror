@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Jorge Hernandez",
+        "url": "https://os.mbed.com/users/jlrapter/"
+    },
+    "description": "Library to implement SCPI Commands on an application using NUCLEO 401RE.",
+    "frameworks": "mbed",
+    "keywords": [
+        "commands",
+        "SCPI"
+    ],
+    "name": "MySCPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jlrapter/code/MySCPI/"
+    }
+}

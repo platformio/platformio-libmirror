@@ -9,7 +9,9 @@
         "acd52832",
         "aconno",
         "Nordic",
-        "nrf52"
+        "nrf52",
+        "dac",
+        "MCP4728"
     ],
     "name": "LDR",
     "platforms": "*",

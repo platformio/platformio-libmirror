@@ -6,16 +6,13 @@
     "description": "Display librairy",
     "frameworks": "mbed",
     "keywords": [
-        "led",
-        "LED controller",
-        "led driver",
-        "PCA9622",
-        "PCA9624",
-        "PCA9626",
-        "PCA962x",
-        "pwm",
         "display",
-        "TextLCD"
+        "led",
+        "TextLCD",
+        "FAT",
+        "file",
+        "SD",
+        "System"
     ],
     "name": "Display",
     "platforms": "*",

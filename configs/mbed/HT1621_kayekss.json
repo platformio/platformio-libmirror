@@ -6,11 +6,11 @@
     "description": "A simple library for Holtek's HT1621 segment LCD driver",
     "frameworks": "mbed",
     "keywords": [
-        "aqm0802a",
-        "I2C",
-        "Nucleo",
         "HT1621",
-        "LCD"
+        "LCD",
+        "ds1621",
+        "I2C",
+        "Temperature"
     ],
     "name": "HT1621",
     "platforms": "*",

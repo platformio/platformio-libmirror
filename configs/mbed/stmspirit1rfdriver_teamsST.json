@@ -6,6 +6,8 @@
     "description": "Prototype RF driver for STM Sub-1 GHz RF expansion board based on the SPSGRF-868 module for STM32 Nucleo.",
     "frameworks": "mbed",
     "keywords": [
+        "shell",
+        "VT100",
         "6LowPan",
         "nanostack",
         "ST Nucleo",
@@ -14,10 +16,14 @@
         "Sub-Ghz RF",
         "X-NUCLEO-IDS01A4",
         "X-NUCLEO-IDS01A4celo",
-        "daisy-chain",
-        "L6470",
-        "SPI",
-        "Stepper"
+        "maniacbug",
+        "nRF24L01",
+        "nRF24L01P",
+        "RF24",
+        "RF24Network",
+        "meters",
+        "sparkfun",
+        "weather"
     ],
     "name": "stm-spirit1-rf-driver",
     "platforms": "*",

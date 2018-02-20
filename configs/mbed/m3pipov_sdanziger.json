@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Samson Danziger",
+        "url": "https://os.mbed.com/users/sdanziger/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Chris Styles"
+            ],
+            "frameworks": "mbed",
+            "name": "m3pi"
+        }
+    ],
+    "description": "Persistence of Vision (POV) made easy.",
+    "frameworks": "mbed",
+    "keywords": [
+        "dac",
+        "I2C",
+        "LTC",
+        "CANopen",
+        "Roboteq"
+    ],
+    "name": "m3pi-pov",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/sdanziger/code/m3pi-pov/"
+    }
+}

@@ -6,13 +6,8 @@
     "description": "Library of Navigator of menu systems",
     "frameworks": "mbed",
     "keywords": [
-        "hih6130",
-        "sensor",
-        "Temp",
-        "Temperature",
-        "EEPROM",
-        "read",
-        "stm32"
+        "DISCO_F469NI",
+        "sdram"
     ],
     "name": "Navigator",
     "platforms": "*",

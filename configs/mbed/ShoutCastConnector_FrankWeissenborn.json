@@ -6,8 +6,8 @@
     "description": "ShoutCastConnector",
     "frameworks": "mbed",
     "keywords": [
-        "LcdWindow",
-        "TextLCD"
+        "I2C",
+        "MCP4725"
     ],
     "name": "ShoutCastConnector",
     "platforms": "*",

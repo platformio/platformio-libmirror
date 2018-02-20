@@ -6,10 +6,9 @@
     "description": "lm3531",
     "frameworks": "mbed",
     "keywords": [
-        "conversion",
-        "float",
-        "string",
-        "BME280"
+        "AHRS",
+        "navigation",
+        "sensors"
     ],
     "name": "LM35_",
     "platforms": "*",

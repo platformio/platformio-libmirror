@@ -5,7 +5,17 @@
     },
     "description": "SPI_TFT_Sherckuith",
     "frameworks": "mbed",
-    "keywords": "SPI_TFT_Sherckuith",
+    "keywords": [
+        "flash",
+        "IS25LQ032B",
+        "ISSI",
+        "SPI",
+        "arduino",
+        "LCD",
+        "module",
+        "screen",
+        "TFT"
+    ],
     "name": "SPI_TFT_Sherckuith",
     "platforms": "*",
     "repository": {

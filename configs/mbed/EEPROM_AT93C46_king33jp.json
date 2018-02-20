@@ -8,9 +8,9 @@
     "keywords": [
         "AT93C46",
         "EEPROM",
-        "aqm0802",
-        "I2C",
-        "LCD"
+        "DMA",
+        "large data transfer",
+        "LLI"
     ],
     "name": "EEPROM_AT93C46",
     "platforms": "*",

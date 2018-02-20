@@ -8,12 +8,7 @@
         "https://os.mbed.com/teams/MtM/code/MtConnect04S_MtSense01/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Analog",
-        "CN0391",
-        "devices",
-        "Thermocouple"
-    ],
+    "keywords": "SHT2X",
     "name": "SHT2X",
     "platforms": "*",
     "repository": {

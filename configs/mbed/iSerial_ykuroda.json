@@ -1,0 +1,47 @@
+{
+    "authors": {
+        "name": "Yoji KURODA",
+        "url": "https://os.mbed.com/users/ykuroda/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Yoji KURODA"
+            ],
+            "frameworks": "mbed",
+            "name": "RingBuffer"
+        }
+    ],
+    "description": "Better Serial C++ class library with interrupt",
+    "examples": [
+        "https://os.mbed.com/teams/VOC/code/Dumb_box_rev2/",
+        "https://os.mbed.com/users/40125682/code/mbed_GPSproject/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "interrupt",
+        "Serial",
+        "ILI9320",
+        "ILI9325",
+        "ILI9328",
+        "ILI9341",
+        "ILI9481",
+        "ILI9486",
+        "IST3020",
+        "LCD",
+        "MIPI",
+        "parallel",
+        "SPI",
+        "SSD1306",
+        "ST7565",
+        "TFT",
+        "UC1608",
+        "UC1701"
+    ],
+    "name": "iSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/ykuroda/code/iSerial/"
+    }
+}

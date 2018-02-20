@@ -14,14 +14,7 @@
         "M25PE20",
         "memory",
         "SPI",
-        "ST",
-        "4094",
-        "7segm",
-        "display",
-        "led",
-        "segment",
-        "shift",
-        "sr"
+        "ST"
     ],
     "name": "SPI_M25PE20",
     "platforms": "*",

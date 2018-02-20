@@ -9,11 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Lora",
-        "senet",
         "library",
         "motor",
-        "Stepper"
+        "Stepper",
+        "display",
+        "display-initialisation",
+        "driver",
+        "setpixel",
+        "st7626"
     ],
     "name": "mMotor",
     "platforms": "*",

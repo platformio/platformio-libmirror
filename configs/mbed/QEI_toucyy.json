@@ -8,7 +8,10 @@
         "https://os.mbed.com/users/toucyy/code/QEI_X1_LCD_test3/"
     ],
     "frameworks": "mbed",
-    "keywords": "QEI",
+    "keywords": [
+        "FM Radio",
+        "TEA5767"
+    ],
     "name": "QEI",
     "platforms": "*",
     "repository": {

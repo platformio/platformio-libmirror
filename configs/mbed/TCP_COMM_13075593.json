@@ -9,11 +9,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "1wire",
-        "DS1820",
-        "DS2482",
         "device",
-        "USB"
+        "USB",
+        "ADT7410",
+        "I2C",
+        "Nucleo",
+        "UIT",
+        "4x3",
+        "AE-KIT45-KEYPAD4X3",
+        "Akizuki",
+        "key",
+        "matrix",
+        "switch"
     ],
     "name": "TCP_COMM",
     "platforms": "*",

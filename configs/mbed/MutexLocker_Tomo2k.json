@@ -10,16 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MPU6050",
-        "MPU9250",
         "mutex",
         "rtos",
+        "MPU6050",
+        "MPU9250",
         "HY-1.8",
-        "ST7735",
-        "camera",
-        "JPEG",
-        "OV528",
-        "uCAM TTL120"
+        "ST7735"
     ],
     "name": "MutexLocker",
     "platforms": "*",

@@ -5,18 +5,7 @@
     },
     "description": "Hardware IO control: mirrors, lock in",
     "frameworks": "mbed",
-    "keywords": [
-        "fm",
-        "Radio",
-        "RDA5807M",
-        "RDS",
-        "Configuration",
-        "file",
-        "ini",
-        "mbed",
-        "System",
-        "windows"
-    ],
+    "keywords": "AD9850",
     "name": "hardwareIO",
     "platforms": "*",
     "repository": {

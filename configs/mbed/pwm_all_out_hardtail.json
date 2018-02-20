@@ -8,7 +8,14 @@
         "https://os.mbed.com/users/hardtail/code/servo_controller_1549/"
     ],
     "frameworks": "mbed",
-    "keywords": "LPC1549",
+    "keywords": [
+        "Analyzer",
+        "logic",
+        "osc",
+        "Oscilloscope",
+        "scope",
+        "LPC1549"
+    ],
     "name": "pwm_all_out",
     "platforms": "*",
     "repository": {

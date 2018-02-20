@@ -14,6 +14,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "camera",
+        "radioshack",
+        "shield",
+        "VC0706",
         "audio input",
         "Audio output",
         "CODEC",
@@ -22,10 +26,7 @@
         "Mikami",
         "SAI",
         "SAI_IO",
-        "WM8994",
-        "KL25",
-        "touch",
-        "TSI"
+        "WM8994"
     ],
     "name": "MMA8652",
     "platforms": "*",

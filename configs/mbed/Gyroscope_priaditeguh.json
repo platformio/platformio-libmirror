@@ -6,11 +6,9 @@
     "description": "IMU",
     "frameworks": "mbed",
     "keywords": [
-        "game",
-        "inheritance",
-        "OOP",
-        "polymorphism",
-        "tutorial"
+        "accelerometer",
+        "I2C",
+        "MMA8452Q"
     ],
     "name": "Gyroscope",
     "platforms": "*",

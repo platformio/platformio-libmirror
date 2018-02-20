@@ -6,18 +6,13 @@
     "description": "Port of RadioHead version 1.48 to mbed. It is a little messy and only works for SPI at this time.",
     "frameworks": "mbed",
     "keywords": [
-        "USB",
-        "UVC",
+        "radiohead",
+        "compass",
+        "HMC5883L",
         "api",
         "xbee",
         "zigbee",
-        "ethernet",
-        "compass",
-        "HMC5883L",
-        "radiohead",
-        "L298",
-        "motor",
-        "Stepper"
+        "ethernet"
     ],
     "name": "RadioHead-148",
     "platforms": "*",

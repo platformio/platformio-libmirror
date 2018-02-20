@@ -5,7 +5,14 @@
     },
     "description": "Ported Arduino RF24Network library.",
     "frameworks": "mbed",
-    "keywords": "SPI",
+    "keywords": [
+        "axis",
+        "motion",
+        "PID",
+        "robot arm",
+        "trapezoid",
+        "trapezoidal profile"
+    ],
     "name": "RF24Network",
     "platforms": "*",
     "repository": {

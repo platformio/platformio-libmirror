@@ -6,14 +6,15 @@
     "description": "Basic Library to Flash LEDs =)",
     "frameworks": "mbed",
     "keywords": [
+        "DISCO_L476VG",
+        "N25Q128A",
+        "QSPI",
         "basic",
         "flash",
         "Flasher",
         "fun",
         "led",
-        "rgb",
-        "dac",
-        "MCP4822"
+        "rgb"
     ],
     "name": "Flasher",
     "platforms": "*",

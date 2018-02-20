@@ -6,8 +6,10 @@
     "description": "Sensirion SHT11 library",
     "frameworks": "mbed",
     "keywords": [
-        "Graphics",
-        "LCD"
+        "Adafruit",
+        "I2C",
+        "PCA9685",
+        "pwm"
     ],
     "name": "SHT11",
     "platforms": "*",

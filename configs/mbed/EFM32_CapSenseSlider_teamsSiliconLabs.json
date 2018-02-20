@@ -19,7 +19,12 @@
         "Silicon Labs",
         "silicon_labs",
         "Slider",
-        "touch"
+        "touch",
+        "PCF2127",
+        "PCF2129",
+        "real time clock",
+        "RTC",
+        "Temperature"
     ],
     "name": "EFM32_CapSenseSlider",
     "platforms": "*",

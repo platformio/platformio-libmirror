@@ -15,7 +15,13 @@
         "Configuration",
         "file",
         "ini",
-        "interface"
+        "interface",
+        "inair4",
+        "inair8",
+        "inair9",
+        "Lora",
+        "modtronix",
+        "SX1276"
     ],
     "name": "IniManager",
     "platforms": "*",

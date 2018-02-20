@@ -6,11 +6,9 @@
     "description": "Doggy",
     "frameworks": "mbed",
     "keywords": [
-        "A4982",
-        "A4983 smart step 3d printing",
-        "rap",
-        "rep",
-        "Stepper"
+        "Humidity",
+        "I2C",
+        "sensor"
     ],
     "name": "Doggy",
     "platforms": "*",

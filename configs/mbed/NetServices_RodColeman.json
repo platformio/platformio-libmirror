@@ -8,7 +8,9 @@
     "keywords": [
         "MPU9150",
         "Quaternion",
-        "vector"
+        "vector",
+        "AQM1602",
+        "L6470"
     ],
     "name": "NetServices",
     "platforms": "*",

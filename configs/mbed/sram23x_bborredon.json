@@ -6,10 +6,10 @@
     "description": "SPI SRAM 23X library",
     "frameworks": "mbed",
     "keywords": [
-        "JRPROPO",
-        "robot",
-        "Servo",
-        "XBus"
+        "accelerometer",
+        "mBuino",
+        "MMA8453",
+        "retro"
     ],
     "name": "sram23x",
     "platforms": "*",

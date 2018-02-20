@@ -6,9 +6,10 @@
     "description": "esb gcc program",
     "frameworks": "mbed",
     "keywords": [
-        "NTCThermistor",
-        "Temperature",
-        "thermistor"
+        "Nucleo",
+        "stm32",
+        "Wi-Fi",
+        "X-NUCLEO-IDW01M1"
     ],
     "name": "esb_gcc",
     "platforms": "*",

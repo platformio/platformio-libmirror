@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Angel David Yaguana Hernandez",
+        "url": "https://os.mbed.com/users/sherckuith/"
+    },
+    "description": "EthernetNetIf",
+    "examples": [
+        "https://os.mbed.com/users/ysuga/code/RTnoV3/",
+        "https://os.mbed.com/users/ysuga/code/RTnoV3_LED/",
+        "https://os.mbed.com/users/ysuga/code/RTnoV3_Template/",
+        "https://os.mbed.com/users/ysuga/code/RTnoV3_ADC/",
+        "https://os.mbed.com/users/ysuga/code/RTnoV3_Timer/",
+        "https://os.mbed.com/users/ysuga/code/RTnoV3_Ethernet/",
+        "https://os.mbed.com/users/SED9008/code/TCPspitterSED/",
+        "https://os.mbed.com/users/SED9008/code/TCPspittertobi/",
+        "https://os.mbed.com/users/Wahaj/code/OSCMODMA/",
+        "https://os.mbed.com/users/mctouch/code/MQTTTEST/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "EthernetNetIf",
+    "name": "EthernetNetIf",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sherckuith/code/EthernetNetIf/"
+    }
+}

@@ -6,10 +6,15 @@
     "description": "Fuzzy libray for embedded targets developed by zerokol.",
     "frameworks": "mbed",
     "keywords": [
+        "I2C",
+        "LCD",
         "eFLL",
         "fuzzy",
         "logic",
-        "C027"
+        "GPIO",
+        "master",
+        "Serial",
+        "SPI"
     ],
     "name": "eFLL",
     "platforms": "*",

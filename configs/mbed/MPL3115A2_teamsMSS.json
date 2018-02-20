@@ -14,12 +14,7 @@
         "I2C",
         "MPL3115A2",
         "pressure",
-        "sensor",
-        "DS18B20",
-        "mbed",
-        "Nucleo",
-        "stm32",
-        "stm32f091rc"
+        "sensor"
     ],
     "name": "MPL3115A2",
     "platforms": "*",

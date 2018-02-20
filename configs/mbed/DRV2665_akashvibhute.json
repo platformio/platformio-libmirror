@@ -6,16 +6,14 @@
     "description": "I2C Piezo Haptic Driver with Integrated Boost Converter and Digital Front End",
     "frameworks": "mbed",
     "keywords": [
-        "20160515",
-        "mbed OS2",
-        "wizfi310",
-        "wizfi310interface",
-        "H-bridge",
-        "motor",
-        "PwmOut",
+        "LCD",
+        "LCD 16x2",
+        "LPC11U68",
+        "ST7066U",
         "DRV2665",
         "Haptic",
-        "piezo"
+        "piezo",
+        "yo"
     ],
     "name": "DRV2665",
     "platforms": "*",

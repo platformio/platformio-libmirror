@@ -6,13 +6,12 @@
     "description": "123",
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "I2C",
-        "MMA8452Q",
-        "buffer",
-        "BufferedSerial",
-        "BufferSerial",
-        "Serial"
+        "BME680",
+        "Gas",
+        "Humidity",
+        "pressure",
+        "Temperature",
+        "AppleRemote"
     ],
     "name": "ELEC350",
     "platforms": "*",

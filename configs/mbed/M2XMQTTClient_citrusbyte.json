@@ -9,11 +9,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "flash",
+        "Adafruit",
+        "GFX",
+        "I2C",
+        "OLED",
         "SPI",
-        "bitmap",
-        "BMP",
-        "image"
+        "SSD1306",
+        "16x4",
+        "array",
+        "infrared",
+        "IR",
+        "Temperature"
     ],
     "name": "M2XMQTTClient",
     "platforms": "*",

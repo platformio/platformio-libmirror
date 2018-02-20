@@ -8,12 +8,7 @@
         "https://os.mbed.com/users/TBSliver/code/LEDSign_SimpleSD/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "ESP8266",
-        "bmp280",
-        "pressure",
-        "Temperature"
-    ],
+    "keywords": "FatFileSystem",
     "name": "FatFileSystem",
     "platforms": "*",
     "repository": {

@@ -6,9 +6,8 @@
     "description": "Mbed firmware to capture 4 mic inputs and provide data over ethernet.",
     "frameworks": "mbed",
     "keywords": [
-        "NTCThermistor",
-        "Temperature",
-        "thermistor"
+        "accelerometer",
+        "SCA3000"
     ],
     "name": "DMA_Ethernet_Mbed",
     "platforms": "*",

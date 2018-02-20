@@ -9,18 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "NeoPixel",
+        "rgb",
         "flysky",
         "PPM",
         "pwm",
         "RC",
         "Receiver",
-        "Servo",
-        "NeoPixel",
-        "rgb",
-        "24AA08",
-        "24LC08",
-        "EEPROM",
-        "memory"
+        "Servo"
     ],
     "name": "SERVO_PPM",
     "platforms": "*",

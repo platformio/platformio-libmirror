@@ -14,7 +14,10 @@
         "Linear",
         "matrix",
         "Template",
-        "vector"
+        "vector",
+        "NeoPixel",
+        "WS2811",
+        "WS2812"
     ],
     "name": "tvmet",
     "platforms": "*",

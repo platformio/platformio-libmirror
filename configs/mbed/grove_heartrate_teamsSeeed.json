@@ -6,8 +6,11 @@
     "description": "grove_heartrate",
     "frameworks": "mbed",
     "keywords": [
-        "include file",
-        "library"
+        "GPS",
+        "8563",
+        "LPC1768",
+        "PCF",
+        "PCF8563"
     ],
     "name": "grove_heartrate",
     "platforms": "*",

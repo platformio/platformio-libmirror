@@ -6,12 +6,12 @@
     "description": "Simple library and program for the SparkFun Ardumoto Shield https://www.sparkfun.com/products/9815",
     "frameworks": "mbed",
     "keywords": [
+        "I2C",
         "arduino",
         "H-bridge",
         "L298",
         "Robotic",
-        "shield",
-        "I2C"
+        "shield"
     ],
     "name": "ArduMotoShield",
     "platforms": "*",

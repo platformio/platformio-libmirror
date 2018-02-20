@@ -9,13 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LPC4330",
         "buffer",
         "circular",
         "ring",
         "delay",
         "information",
-        "NextTrain"
+        "NextTrain",
+        "array",
+        "Dynamic",
+        "typeless"
     ],
     "name": "TrainInfoLib",
     "platforms": "*",

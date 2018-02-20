@@ -10,8 +10,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "led",
-        "pwm"
+        "I2C",
+        "GR-PEACH",
+        "R_BSP"
     ],
     "name": "ppCANOpen",
     "platforms": "*",

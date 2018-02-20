@@ -5,7 +5,17 @@
     },
     "description": "mbedHelper is a small tool that simplifies downloading of compiled files from mbed.",
     "frameworks": "mbed",
-    "keywords": "mbedHelper",
+    "keywords": [
+        "I2C",
+        "led cube",
+        "4094",
+        "7segm",
+        "display",
+        "led",
+        "segment",
+        "shift",
+        "sr"
+    ],
     "name": "mbedHelper",
     "platforms": "*",
     "repository": {

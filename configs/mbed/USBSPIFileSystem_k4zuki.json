@@ -13,9 +13,8 @@
         "MSD",
         "SPI",
         "USB",
-        "accelerometer",
-        "I2C",
-        "MMA7660"
+        "7-segment",
+        "I2C"
     ],
     "name": "USBSPIFileSystem",
     "platforms": "*",

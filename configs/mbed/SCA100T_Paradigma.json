@@ -6,10 +6,10 @@
     "description": "Analog High Performance 2-axis Inclinometer",
     "frameworks": "mbed",
     "keywords": [
-        "128",
-        "ACE",
-        "bourns",
-        "Encoder"
+        "Altimeter",
+        "barometer",
+        "I2C",
+        "ms5637"
     ],
     "name": "SCA100T",
     "platforms": "*",

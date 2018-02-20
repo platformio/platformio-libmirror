@@ -5,7 +5,12 @@
     },
     "description": "Code for controlling servos using the TLC5940 pwm led driver.",
     "frameworks": "mbed",
-    "keywords": "TLC5940",
+    "keywords": [
+        "Conway's",
+        "game",
+        "Life",
+        "of"
+    ],
     "name": "TLC5940",
     "platforms": "*",
     "repository": {

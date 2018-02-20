@@ -17,26 +17,7 @@
         "https://os.mbed.com/users/pstephens18/code/Mini_Project_Day_13_Touchscreen/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "interrupt",
-        "Serial",
-        "ILI9320",
-        "ILI9325",
-        "ILI9328",
-        "ILI9341",
-        "ILI9481",
-        "ILI9486",
-        "IST3020",
-        "LCD",
-        "MIPI",
-        "parallel",
-        "SPI",
-        "SSD1306",
-        "ST7565",
-        "TFT",
-        "UC1608",
-        "UC1701"
-    ],
+    "keywords": "UniGraphic",
     "name": "UniGraphic",
     "platforms": "*",
     "repository": {

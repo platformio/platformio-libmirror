@@ -14,7 +14,9 @@
     "frameworks": "mbed",
     "keywords": [
         "limiter",
-        "rate"
+        "rate",
+        "display",
+        "LCD"
     ],
     "name": "RateLimiter",
     "platforms": "*",

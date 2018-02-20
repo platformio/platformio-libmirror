@@ -11,7 +11,11 @@
         "https://os.mbed.com/users/s1503189/code/Actief_stuurprogramma/"
     ],
     "frameworks": "mbed",
-    "keywords": "EMG",
+    "keywords": [
+        "FIFO",
+        "lifo",
+        "ringbuffer"
+    ],
     "name": "EMG",
     "platforms": "*",
     "repository": {

@@ -17,12 +17,12 @@
         "flash",
         "memory",
         "SPI",
-        "16x4",
-        "LCD",
         "IEEE",
         "mbed",
         "micromouse",
-        "UCLA"
+        "UCLA",
+        "16x4",
+        "LCD"
     ],
     "name": "TexLCDP",
     "platforms": "*",

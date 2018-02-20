@@ -10,9 +10,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "F401RE",
-        "mma7361",
-        "Nucleo"
+        "MQTT",
+        "1.0.3",
+        "cube",
+        "led"
     ],
     "name": "bc_ant",
     "platforms": "*",

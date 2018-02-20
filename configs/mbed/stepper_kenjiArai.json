@@ -12,7 +12,13 @@
         "motor",
         "Stepper",
         "stepping",
-        "Uni-polar"
+        "Uni-polar",
+        "2645",
+        "accelerometer",
+        "fxos8700cq",
+        "I2C",
+        "magnetometer",
+        "nxp"
     ],
     "name": "stepper",
     "platforms": "*",

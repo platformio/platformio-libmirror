@@ -8,7 +8,14 @@
         "https://os.mbed.com/users/DiegoRivera/code/RampaDiscapacitados/"
     ],
     "frameworks": "mbed",
-    "keywords": "MotorAPasos",
+    "keywords": [
+        "Freescale",
+        "sensing",
+        "touch",
+        "TSI",
+        "current sensor",
+        "INA219"
+    ],
     "name": "MotorAPasos",
     "platforms": "*",
     "repository": {

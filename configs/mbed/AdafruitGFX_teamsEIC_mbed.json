@@ -8,17 +8,7 @@
         "https://os.mbed.com/teams/EIC_mbed/code/RGB_matrix_Panel/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Adafruit",
-        "led",
-        "1-wire",
-        "ds18x20",
-        "DS2450",
-        "multi-channel",
-        "OneWire",
-        "max31855",
-        "Thermocouple"
-    ],
+    "keywords": "Adafruit-GFX",
     "name": "Adafruit-GFX",
     "platforms": "*",
     "repository": {

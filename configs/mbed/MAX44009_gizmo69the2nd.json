@@ -6,16 +6,14 @@
     "description": "Maxim MAX44009",
     "frameworks": "mbed",
     "keywords": [
-        "PCF2127",
-        "PCF2129",
-        "real time clock",
-        "RTC",
         "ambient",
         "light",
         "max",
         "MAX44009",
         "Maxim",
-        "sensor"
+        "sensor",
+        "FeRAM",
+        "AM2315"
     ],
     "name": "MAX44009",
     "platforms": "*",

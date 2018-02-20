@@ -5,7 +5,10 @@
     },
     "description": "a library to read sonar values with the MaxbotixLV sonar range sensors..",
     "frameworks": "mbed",
-    "keywords": "sensors",
+    "keywords": [
+        "YMZ294",
+        "sensors"
+    ],
     "name": "MaxbotixLV",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "wisnu pamungkas",
+        "url": "https://os.mbed.com/users/wisnup/"
+    },
+    "description": "mpu",
+    "frameworks": "mbed",
+    "keywords": [
+        "Buffered",
+        "MODSERIAL",
+        "Serial",
+        "csv"
+    ],
+    "name": "MPU6050",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wisnup/code/MPU6050/"
+    }
+}

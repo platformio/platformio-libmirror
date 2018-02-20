@@ -39,7 +39,8 @@
         "fatfilesystem",
         "Filenames",
         "Long",
-        "rtos"
+        "rtos",
+        "DHT11"
     ],
     "name": "cc3000_hostdriver_mbedsocket",
     "platforms": "*",

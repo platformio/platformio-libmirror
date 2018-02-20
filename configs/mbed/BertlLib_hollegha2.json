@@ -18,12 +18,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Bertl14",
-        "display",
-        "DOG",
-        "LCD",
-        "ST7036",
-        "TextLCD"
+        "AT",
+        "C027",
+        "C030",
+        "CellularInterface",
+        "u-blox",
+        "APIs",
+        "extension",
+        "generic",
+        "Bertl14"
     ],
     "name": "BertlLib",
     "platforms": "*",

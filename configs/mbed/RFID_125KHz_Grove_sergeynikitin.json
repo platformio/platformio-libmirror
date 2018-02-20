@@ -6,7 +6,10 @@
     "description": "Library for Grove RFID scanner",
     "frameworks": "mbed",
     "keywords": [
-        "Cellular",
+        "accelerometer",
+        "gyroscope",
+        "IMU",
+        "STM32F0",
         "Grove",
         "RFID",
         "SEN11425P",

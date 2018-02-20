@@ -6,9 +6,10 @@
     "description": "i2s tester",
     "frameworks": "mbed",
     "keywords": [
-        "file",
-        "Local",
-        "System"
+        "adc",
+        "AnalogIn",
+        "burst",
+        "fast"
     ],
     "name": "I2S_Test",
     "platforms": "*",

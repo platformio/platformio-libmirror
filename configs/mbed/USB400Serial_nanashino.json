@@ -11,12 +11,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Fibocom",
-        "GPS",
-        "GPS Module",
-        "GTS-4e-60",
-        "NMEA",
-        "NMEA Parser"
+        "keypad",
+        "RA8875",
+        "Touchscreen",
+        "Battery Monitor",
+        "LTC2990"
     ],
     "name": "USB400Serial",
     "platforms": "*",

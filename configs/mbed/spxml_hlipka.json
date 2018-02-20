@@ -18,11 +18,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "pressure",
+        "sensor",
         "xml",
-        "heading",
-        "HMC5843",
-        "magnetic",
-        "sensor"
+        "count",
+        "external clock",
+        "MHz",
+        "pulse"
     ],
     "name": "spxml",
     "platforms": "*",

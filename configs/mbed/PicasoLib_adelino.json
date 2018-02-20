@@ -6,14 +6,13 @@
     "description": "Library for 3.2'' uLcd Picaso Display4D system",
     "frameworks": "mbed",
     "keywords": [
-        "HC05",
         "4D system",
         "LCD",
         "Picaso",
-        "Freescale",
-        "mbed",
         "CAN",
-        "Queue"
+        "Queue",
+        "Freescale",
+        "mbed"
     ],
     "name": "PicasoLib",
     "platforms": "*",

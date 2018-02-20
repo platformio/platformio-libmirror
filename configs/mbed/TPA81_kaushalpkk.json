@@ -6,11 +6,12 @@
     "description": "TPA81",
     "frameworks": "mbed",
     "keywords": [
-        "FRDM-K22F",
-        "fxos8700cq",
-        "EPSON",
-        "RTC",
-        "TOYOCOM"
+        "GPS",
+        "device",
+        "USB",
+        "flash",
+        "S25FL216K",
+        "Serial"
     ],
     "name": "TPA81",
     "platforms": "*",

@@ -9,7 +9,14 @@
         "https://os.mbed.com/users/ashleymills/code/CyaSSL_DTLS_Ethernet/"
     ],
     "frameworks": "mbed",
-    "keywords": "cyassl-lib",
+    "keywords": [
+        "arduino",
+        "iot platform",
+        "sakura internet",
+        "etti",
+        "TUIASI",
+        "Serial"
+    ],
     "name": "cyassl-lib",
     "platforms": "*",
     "repository": {

@@ -15,7 +15,9 @@
     "frameworks": "mbed",
     "keywords": [
         "control",
-        "PID"
+        "PID",
+        "W5200",
+        "WIZ820IO"
     ],
     "name": "PID",
     "platforms": "*",

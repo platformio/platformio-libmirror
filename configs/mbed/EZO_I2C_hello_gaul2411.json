@@ -6,11 +6,16 @@
     "description": "Library for the EZO ph probe communicating with the I2C protocol.",
     "frameworks": "mbed",
     "keywords": [
+        "4D Dydtems",
+        "Color LCD",
+        "Goldelox",
+        "serial lcd",
         "EZO",
         "I2C",
         "PH sensor",
-        "bus",
-        "PCF8574"
+        "conversion",
+        "float",
+        "string"
     ],
     "name": "EZO_I2C_hello",
     "platforms": "*",

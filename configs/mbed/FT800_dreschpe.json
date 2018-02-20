@@ -10,17 +10,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "display",
+        "KS0107",
+        "KS0108",
         "128x64",
         "LCD",
         "ST7920",
-        "display",
-        "ST7565R",
-        "Nordic",
-        "nRF24L01P",
-        "rf",
         "graphic",
         "TFT",
-        "touch"
+        "touch",
+        "ST7565R"
     ],
     "name": "FT800",
     "platforms": "*",

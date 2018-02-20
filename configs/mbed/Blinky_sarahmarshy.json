@@ -8,7 +8,10 @@
         "https://os.mbed.com/users/sarahmarshy/code/Blinky_Tests/"
     ],
     "frameworks": "mbed",
-    "keywords": "Blinky",
+    "keywords": [
+        "GP2Y0A21YK",
+        "Sharp"
+    ],
     "name": "Blinky",
     "platforms": "*",
     "repository": {

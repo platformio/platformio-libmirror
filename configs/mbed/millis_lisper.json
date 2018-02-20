@@ -12,11 +12,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "1wire",
-        "DS1820",
-        "DS2482",
-        "device",
-        "USB"
+        "accelerometer",
+        "gyroscope",
+        "IMU",
+        "STM32F0",
+        "Grove",
+        "RFID",
+        "SEN11425P",
+        "Serial"
     ],
     "name": "millis",
     "platforms": "*",

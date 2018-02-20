@@ -17,16 +17,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "20160515",
-        "mbed OS2",
-        "wizfi310",
-        "wizfi310interface",
         "H-bridge",
         "motor",
         "PwmOut",
-        "DRV2665",
-        "Haptic",
-        "piezo"
+        "mbed OS2",
+        "wizfi310",
+        "wizfi310interface"
     ],
     "name": "WizFi310Interface_Legacy",
     "platforms": "*",

@@ -1,0 +1,70 @@
+{
+    "authors": {
+        "name": "mbed official",
+        "url": "https://os.mbed.com/users/mbed_official/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "mbed official"
+            ],
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "USBHost library.",
+    "examples": [
+        "https://os.mbed.com/users/va009039/code/BTstack/",
+        "https://os.mbed.com/users/jksoft/code/WallbotWii/",
+        "https://os.mbed.com/users/vinit/code/SD-to-Flash-Data-Transfer/",
+        "https://os.mbed.com/users/avnisha/code/USBHost-MSD_HelloWorld/",
+        "https://os.mbed.com/users/jakowisp/code/HW7_USBHostMSD/",
+        "https://os.mbed.com/users/nagarajbatta/code/USBHost-MSD_Sensors_1/",
+        "https://os.mbed.com/users/jakowisp/code/class_project_main/",
+        "https://os.mbed.com/users/screamer/code/VodafoneUSBModem/",
+        "https://os.mbed.com/users/4180_1/code/AppBoard_Waveplayer/",
+        "https://os.mbed.com/users/okini3939/code/USBHostXpad_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Host",
+        "hub",
+        "keyboard",
+        "mbed",
+        "Mouse",
+        "MSD",
+        "rtos",
+        "Serial",
+        "USB",
+        "FAT",
+        "file",
+        "Filenames",
+        "fixes",
+        "Long",
+        "System",
+        "5110",
+        "LCD",
+        "N5110",
+        "Nokia",
+        "pcd8544",
+        "I2C",
+        "LM75B",
+        "HD44780",
+        "PCF2116",
+        "ST7032",
+        "ST7036",
+        "text",
+        "TextLCD",
+        "WS0010",
+        "display",
+        "OLED",
+        "SPI",
+        "SSD1306"
+    ],
+    "name": "USBHost",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/mbed_official/code/USBHost/"
+    }
+}

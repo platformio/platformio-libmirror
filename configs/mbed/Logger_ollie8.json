@@ -6,14 +6,11 @@
     "description": "Library for serial logging via macros.",
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F469NI",
-        "sdram",
         "log",
         "logger",
         "logging",
-        "LPC4088QSB",
-        "MSD",
-        "USBHOST"
+        "TCG",
+        "TPM"
     ],
     "name": "Logger",
     "platforms": "*",

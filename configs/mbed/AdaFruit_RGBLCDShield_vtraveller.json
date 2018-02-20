@@ -9,17 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "eINK",
-        "LCD",
-        "Sharp",
-        "Adafruit",
-        "AdaFruit RGB LCD Shield",
         "3310",
         "3390",
+        "LCD",
         "Nokia",
         "pcd8544",
-        "TextLCD"
+        "TextLCD",
+        "Adafruit",
+        "AdaFruit RGB LCD Shield"
     ],
     "name": "AdaFruit_RGBLCDShield",
     "platforms": "*",

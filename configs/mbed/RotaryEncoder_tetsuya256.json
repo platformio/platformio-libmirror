@@ -6,6 +6,11 @@
     "description": "ロータリーエンコーダー (機械接点式インクリメンタル型) の信号をデコードするクラスです。",
     "frameworks": "mbed",
     "keywords": [
+        "cpputest",
+        "TDD",
+        "test",
+        "testframework",
+        "unit-test",
         "Encoder",
         "incremental",
         "mechanical",
@@ -14,10 +19,11 @@
         "BLE",
         "BLE Bluetooth Low Energy BLE",
         "BUTTON",
-        "digitalOut",
-        "PwmOut",
-        "RenBuggy",
-        "Renishaw"
+        "interrupt",
+        "masking",
+        "FM25V02",
+        "FM25V10",
+        "FRAM"
     ],
     "name": "RotaryEncoder",
     "platforms": "*",

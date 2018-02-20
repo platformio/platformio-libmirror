@@ -5,22 +5,7 @@
     },
     "description": "LM74 temperature sensor Library on SPI I/F",
     "frameworks": "mbed",
-    "keywords": [
-        "6005BG00",
-        "buzzcard",
-        "HID",
-        "ProxCard",
-        "ProxPoint",
-        "RFID",
-        "Wiegand",
-        "I2C",
-        "MCB1700",
-        "STMPE811",
-        "Touchscreen",
-        "Flash memory",
-        "HEXIWEAR",
-        "nor"
-    ],
+    "keywords": "TmpLM74",
     "name": "TmpLM74",
     "platforms": "*",
     "repository": {

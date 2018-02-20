@@ -6,10 +6,10 @@
     "description": "Code for PID and such",
     "frameworks": "mbed",
     "keywords": [
-        "DS1721",
-        "I2C",
-        "sensor",
-        "Temperature"
+        "adc",
+        "AnalogIn",
+        "burst",
+        "fast"
     ],
     "name": "Black_Pearl",
     "platforms": "*",

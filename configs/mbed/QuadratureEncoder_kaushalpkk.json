@@ -6,14 +6,8 @@
     "description": "QuadratureEncoder",
     "frameworks": "mbed",
     "keywords": [
-        "Creation",
-        "6100",
-        "6610",
-        "mobileLCD",
-        "NokiaLCD",
-        "Olimex",
-        "PCF8833",
-        "sparkfun"
+        "float",
+        "map"
     ],
     "name": "QuadratureEncoder",
     "platforms": "*",

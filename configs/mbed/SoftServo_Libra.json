@@ -5,7 +5,15 @@
     },
     "description": "This Library is used to help the LPC1678 mbed to output PWM signals in order to control servo motors",
     "frameworks": "mbed",
-    "keywords": "SoftServo",
+    "keywords": [
+        "bubble",
+        "display",
+        "driver",
+        "led",
+        "qdsp-6064",
+        "segment",
+        "Seven"
+    ],
     "name": "SoftServo",
     "platforms": "*",
     "repository": {

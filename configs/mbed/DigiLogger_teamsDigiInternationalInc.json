@@ -15,25 +15,7 @@
         "https://os.mbed.com/users/mikaelbro/code/XBeeLib/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "HD44780",
-        "MIDI",
-        "pwm",
-        "23K256",
-        "23LC1024",
-        "DMA",
-        "FIFO",
-        "RAM",
-        "ring buffer",
-        "SPI",
-        "sram",
-        "ITDB_02",
-        "TFTCLD",
-        "Touch Screen",
-        "Touchscreen",
-        "XPT2046",
-        "basicauth"
-    ],
+    "keywords": "DigiLogger",
     "name": "DigiLogger",
     "platforms": "*",
     "repository": {

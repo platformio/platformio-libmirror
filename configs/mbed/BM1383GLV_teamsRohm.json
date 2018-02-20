@@ -13,7 +13,9 @@
         "bm1383",
         "I2C",
         "pressure",
-        "ROHM"
+        "ROHM",
+        "DISCO_F469NI",
+        "EEPROM"
     ],
     "name": "BM1383GLV",
     "platforms": "*",

@@ -6,13 +6,11 @@
     "description": "Class for representing and controlling entire I2C transactions (the master side). This class allows one to separate in code the configuration of I2C transactions from their use. This property simplifies the process of executing transactions in, for example, the body of a real-time control loop.",
     "frameworks": "mbed",
     "keywords": [
-        "helping",
-        "libraries",
-        "pololu",
-        "robot",
-        "Utilities",
-        "Zumo",
         "I2C",
+        "I2CRTOS",
+        "non-blocking",
+        "rtos",
+        "RTC",
         "real-time communication"
     ],
     "name": "I2CTransaction",

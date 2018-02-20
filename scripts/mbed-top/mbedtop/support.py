@@ -21,6 +21,7 @@ def strip_mbed_url(resource):
 
 def make_mbed_url(resource):
     print("+=" * 20)
+    print(type(resource))
     print(resource)
     if isinstance(resource, str):
         # if isinstance(resource, types.StringTypes):
@@ -30,7 +31,8 @@ def make_mbed_url(resource):
         resource = "https://os.mbed.com" + resource['url']
     # elif type(resource)
     elif type(resource) is list:
-        resource = "https://os.mbed.com" + resource[0]
+        if not(type(resource[0]) is dict):
+            resource = "https://os.mbed.com" + resource[0]
         # for i, value in enumerate(resource):
         # resource[i]= make_mbed_url(value)
     return resource
@@ -113,4 +115,4 @@ def is_fork(item):
 
 def get_import_number(import_string):
     print('Processing import')
-    return int(import_string.strip())+1
+    return int(import_string.strip()) + 1

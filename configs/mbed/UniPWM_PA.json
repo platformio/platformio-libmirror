@@ -5,7 +5,10 @@
     },
     "description": "UniPWM",
     "frameworks": "mbed",
-    "keywords": "UniPWM",
+    "keywords": [
+        "display",
+        "output"
+    ],
     "name": "UniPWM",
     "platforms": "*",
     "repository": {

@@ -5,16 +5,7 @@
     },
     "description": "* PCA9547 library",
     "frameworks": "mbed",
-    "keywords": [
-        "PCA9547",
-        "FRDM-K64F",
-        "fxos8700cq",
-        "3pi",
-        "m3dpi",
-        "m3pi",
-        "pololu",
-        "robot"
-    ],
+    "keywords": "PCA9547",
     "name": "PCA9547",
     "platforms": "*",
     "repository": {

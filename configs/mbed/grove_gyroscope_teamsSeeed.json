@@ -5,7 +5,14 @@
     },
     "description": "grove_gyroscope",
     "frameworks": "mbed",
-    "keywords": "PID",
+    "keywords": [
+        "PID",
+        "minutes",
+        "seconds",
+        "stopwatch",
+        "timer",
+        "watch"
+    ],
     "name": "grove_gyroscope",
     "platforms": "*",
     "repository": {

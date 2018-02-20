@@ -11,17 +11,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "consumption",
-        "control",
-        "ethernet",
-        "Management",
-        "Power",
-        "PowerControl",
         "Error",
         "info",
         "messages",
         "Terminal",
-        "warning"
+        "warning",
+        "arduino",
+        "official",
+        "Sabertooth",
+        "SyRen"
     ],
     "name": "messages",
     "platforms": "*",

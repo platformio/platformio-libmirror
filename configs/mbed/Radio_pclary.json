@@ -12,7 +12,14 @@
         "https://os.mbed.com/users/alexandertyler/code/FzeroXcontroller/"
     ],
     "frameworks": "mbed",
-    "keywords": "Radio",
+    "keywords": [
+        "DS1338",
+        "I2C",
+        "Ciseco",
+        "SRF",
+        "wireless",
+        "XRF"
+    ],
     "name": "Radio",
     "platforms": "*",
     "repository": {

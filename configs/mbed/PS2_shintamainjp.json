@@ -24,8 +24,14 @@
         "LCD",
         "SPI",
         "TFT",
-        "PS2",
-        "GPIO"
+        "asynchronous",
+        "Buffered",
+        "FIFO",
+        "Non blocking",
+        "ring buffer",
+        "Serial",
+        "UART",
+        "PS2"
     ],
     "name": "PS2",
     "platforms": "*",

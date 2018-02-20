@@ -9,15 +9,7 @@
         "https://os.mbed.com/teams/1472953294/code/888LEDCUBE_RGB/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "EEPROM",
-        "flash",
-        "IAP",
-        "In-Application",
-        "internal",
-        "memory",
-        "programming"
-    ],
+    "keywords": "SPIShiftReg",
     "name": "SPIShiftReg",
     "platforms": "*",
     "repository": {

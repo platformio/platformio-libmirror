@@ -8,7 +8,12 @@
         "https://os.mbed.com/users/cbookman3/code/MicIO-Example/"
     ],
     "frameworks": "mbed",
-    "keywords": "watchdog",
+    "keywords": [
+        "16x4",
+        "LCD",
+        "Pulsewidth",
+        "wait"
+    ],
     "name": "MicIO",
     "platforms": "*",
     "repository": {

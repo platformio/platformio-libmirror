@@ -9,7 +9,15 @@
         "https://os.mbed.com/users/mzta/code/mirb_mbed/"
     ],
     "frameworks": "mbed",
-    "keywords": "mruby",
+    "keywords": [
+        "TMP102",
+        "TMP112",
+        "40x4",
+        "C-51849",
+        "character",
+        "LCD",
+        "mruby"
+    ],
     "name": "mruby-mbed",
     "platforms": "*",
     "repository": {

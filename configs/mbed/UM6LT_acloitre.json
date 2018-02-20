@@ -9,10 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "decoder",
-        "decompression",
-        "JPEG",
-        "JPG"
+        "accelerometer",
+        "gyroscope",
+        "I2C",
+        "MPU-6050",
+        "MPU6050",
+        "MPU60x0"
     ],
     "name": "UM6LT",
     "platforms": "*",

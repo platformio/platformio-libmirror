@@ -5,13 +5,7 @@
     },
     "description": "Ringbuffer class",
     "frameworks": "mbed",
-    "keywords": [
-        "ADE7758",
-        "Fake SPI",
-        "SPI",
-        "Virtual SPI",
-        "VSPI"
-    ],
+    "keywords": "RingBuffer",
     "name": "RingBuffer",
     "platforms": "*",
     "repository": {

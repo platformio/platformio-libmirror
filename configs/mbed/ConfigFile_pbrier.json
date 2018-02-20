@@ -6,9 +6,10 @@
     "description": "Configuration file library",
     "frameworks": "mbed",
     "keywords": [
-        "GraphicsDisplay",
-        "GUI",
-        "TextDisplay"
+        "C1098-SS",
+        "camera",
+        "JPEG",
+        "UART"
     ],
     "name": "ConfigFile",
     "platforms": "*",

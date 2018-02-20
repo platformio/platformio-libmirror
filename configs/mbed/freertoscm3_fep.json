@@ -9,14 +9,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "graphic",
-        "Lascar",
-        "LCD",
-        "SP5-GFX1",
-        "SPI",
+        "gyro",
+        "IDG655",
+        "invensense",
+        "IXZ650",
+        "motionplus",
+        "Wii",
         "FreeRTOS",
         "rtos",
-        "bluetooth"
+        "LPC4088",
+        "watchdog",
+        "WDT"
     ],
     "name": "freertos-cm3",
     "platforms": "*",

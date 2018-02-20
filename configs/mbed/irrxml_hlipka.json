@@ -5,7 +5,16 @@
     },
     "description": "A port of the irrlicht XML parser library.",
     "frameworks": "mbed",
-    "keywords": "xml",
+    "keywords": [
+        "AHRS",
+        "calculations",
+        "IMU",
+        "file",
+        "Serial",
+        "SimpleSerialProtocol",
+        "transfer",
+        "xml"
+    ],
     "name": "irrxml",
     "platforms": "*",
     "repository": {

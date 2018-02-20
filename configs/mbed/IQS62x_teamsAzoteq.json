@@ -13,7 +13,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "WoL",
         "Azoteq",
         "capacitive touch",
         "I2C",
@@ -24,7 +23,10 @@
         "mbed",
         "Nucleo",
         "ProxFusion",
-        "STM32;"
+        "STM32;",
+        "buzzer",
+        "song",
+        "sound"
     ],
     "name": "IQS62x",
     "platforms": "*",

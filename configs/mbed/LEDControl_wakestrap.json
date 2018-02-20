@@ -6,11 +6,13 @@
     "description": "Simple library for controlling LEDs. Turn them on & off, blink them at specified rates and toggle their output. Don't forget to add a timer for the LEDs to use. Documentation found in header file.",
     "frameworks": "mbed",
     "keywords": [
-        "MAX3100",
-        "Serial",
         "blink",
         "led",
-        "LED control"
+        "LED control",
+        "SRF02",
+        "GPS",
+        "NMEA",
+        "Venus"
     ],
     "name": "LEDControl",
     "platforms": "*",

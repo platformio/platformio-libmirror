@@ -9,7 +9,11 @@
         "https://os.mbed.com/users/aolgu003/code/sensor_library_test/"
     ],
     "frameworks": "mbed",
-    "keywords": "MS5837",
+    "keywords": [
+        "Bertl",
+        "AquesTalk pico",
+        "ATP3011"
+    ],
     "name": "MS5837",
     "platforms": "*",
     "repository": {

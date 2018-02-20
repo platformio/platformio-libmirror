@@ -9,13 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MAX14661",
-        "mux",
-        "4D Systems",
-        "LDC-43PCt",
+        "NDEF",
+        "NFC",
+        "Type4",
         "JSON",
-        "MessagePack",
-        "GUI"
+        "MessagePack"
     ],
     "name": "msgpack",
     "platforms": "*",

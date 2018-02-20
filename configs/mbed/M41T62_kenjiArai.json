@@ -9,7 +9,10 @@
         "https://os.mbed.com/users/kenjiArai/code/LPC1114_data_logger/"
     ],
     "frameworks": "mbed",
-    "keywords": "RTC",
+    "keywords": [
+        "RTC",
+        "Serial"
+    ],
     "name": "M41T62",
     "platforms": "*",
     "repository": {

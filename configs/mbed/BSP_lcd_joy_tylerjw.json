@@ -6,16 +6,16 @@
     "description": "Includes itoa implementation and functions for interacting with lcd display and joystick",
     "frameworks": "mbed",
     "keywords": [
+        "accelerometer",
+        "LSM303DLHC",
+        "magnetometer",
+        "Temperature",
         "Dynamic",
         "led",
         "tlc5940",
         "itoa",
         "joystick",
-        "LCD",
-        "accelerometer",
-        "LSM303DLHC",
-        "magnetometer",
-        "Temperature"
+        "LCD"
     ],
     "name": "BSP_lcd_joy",
     "platforms": "*",

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Zhe Cheng Lee",
+        "url": "https://os.mbed.com/users/zlee9/"
+    },
+    "description": "Space Invaders Library",
+    "examples": [
+        "https://os.mbed.com/users/zlee9/code/PORGFINAL/",
+        "https://os.mbed.com/users/zlee9/code/SpaceInvadersFINAL/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SIgame",
+    "name": "SIgame",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/zlee9/code/SIgame/"
+    }
+}

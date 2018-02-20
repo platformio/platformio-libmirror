@@ -5,7 +5,14 @@
     },
     "description": "Testing phase",
     "frameworks": "mbed",
-    "keywords": "GPSlib",
+    "keywords": [
+        "consumption",
+        "control",
+        "ethernet",
+        "Management",
+        "Power",
+        "PowerControl"
+    ],
     "name": "GPSlib",
     "platforms": "*",
     "repository": {

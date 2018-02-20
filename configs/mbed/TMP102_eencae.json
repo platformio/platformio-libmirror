@@ -30,7 +30,13 @@
         "Temperature",
         "voltage",
         "2645",
-        "TMP102"
+        "TMP102",
+        "bridge",
+        "I2C",
+        "SC16IS750",
+        "SC16IS752",
+        "SPI",
+        "UART"
     ],
     "name": "TMP102",
     "platforms": "*",

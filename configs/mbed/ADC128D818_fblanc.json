@@ -9,10 +9,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "brushDC",
+        "low power",
+        "motor",
+        "ST",
+        "STSPIN240",
         "adc",
         "I2C",
         "Monito",
-        "System"
+        "System",
+        "GPS",
+        "interrupt",
+        "NMEA"
     ],
     "name": "ADC128D818",
     "platforms": "*",

@@ -13,11 +13,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MPU9250",
+        "MQTT",
         "1.0.3",
-        "LCD",
-        "ST7032",
-        "TextLCD"
+        "cube",
+        "led"
     ],
     "name": "telemetry",
     "platforms": "*",

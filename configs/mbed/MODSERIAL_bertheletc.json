@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Christopher Berthelet",
+        "url": "https://os.mbed.com/users/bertheletc/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Raghid Mardini"
+            ],
+            "frameworks": "mbed",
+            "name": "MODSERIAL"
+        }
+    ],
+    "description": "dfgb",
+    "frameworks": "mbed",
+    "keywords": [
+        "delay_ms",
+        "delay_us",
+        "DWT",
+        "GPIO",
+        "HAL",
+        "I2C",
+        "I2C Master",
+        "Nucleo",
+        "software i2c",
+        "stm32",
+        "STM32F103",
+        "stm32f1xx",
+        "watchdog"
+    ],
+    "name": "MODSERIAL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/bertheletc/code/MODSERIAL/"
+    }
+}

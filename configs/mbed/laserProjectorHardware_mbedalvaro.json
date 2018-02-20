@@ -6,9 +6,10 @@
     "description": "Hardware control: mirrors",
     "frameworks": "mbed",
     "keywords": [
-        "CV7",
-        "sensor",
-        "wind"
+        "Host",
+        "Paradigma",
+        "Pelletti",
+        "USB"
     ],
     "name": "laserProjectorHardware",
     "platforms": "*",

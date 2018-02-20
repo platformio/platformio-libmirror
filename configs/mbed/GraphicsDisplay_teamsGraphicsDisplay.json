@@ -14,12 +14,8 @@
         "GraphicsDisplay",
         "GUI",
         "TextDisplay",
-        "6610",
-        "LCD",
-        "Nokia",
-        "DS3231",
-        "ethernet",
-        "K64F"
+        "I2C",
+        "LM75A"
     ],
     "name": "GraphicsDisplay",
     "platforms": "*",

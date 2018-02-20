@@ -9,8 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "3pi",
-        "m3pi"
+        "compass",
+        "driver",
+        "HMC5583L",
+        "I2C",
+        "sensor"
     ],
     "name": "board",
     "platforms": "*",

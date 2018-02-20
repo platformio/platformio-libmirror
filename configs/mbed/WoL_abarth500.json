@@ -6,18 +6,11 @@
     "description": "Wake On Lan",
     "frameworks": "mbed",
     "keywords": [
-        "WoL",
-        "Azoteq",
-        "capacitive touch",
-        "I2C",
-        "Inductive Proximity",
-        "IQS620",
-        "IQS624",
-        "LPC1768",
-        "mbed",
-        "Nucleo",
-        "ProxFusion",
-        "STM32;"
+        "AITENDO",
+        "ILI9341",
+        "SPI",
+        "TFT",
+        "WoL"
     ],
     "name": "WoL",
     "platforms": "*",

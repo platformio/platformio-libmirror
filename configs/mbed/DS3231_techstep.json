@@ -7,6 +7,8 @@
     "frameworks": "mbed",
     "keywords": [
         "DS3231",
+        "ethernet",
+        "K64F",
         "VL53L0X"
     ],
     "name": "DS3231",

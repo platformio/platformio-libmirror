@@ -6,10 +6,10 @@
     "description": "A LIBRARY: use to interface neopixel lights with MBED",
     "frameworks": "mbed",
     "keywords": [
-        "adc",
-        "I2C",
-        "Monito",
-        "System"
+        "Nucleo",
+        "stm32",
+        "Wi-Fi",
+        "X-NUCLEO-IDW01M1"
     ],
     "name": "neopixels_spi",
     "platforms": "*",

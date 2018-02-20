@@ -13,7 +13,10 @@
         "MPU6050-DMP",
         "CNC",
         "motor",
-        "Stepper"
+        "Stepper",
+        "clock",
+        "f401",
+        "Nucleo"
     ],
     "name": "CANMessage",
     "platforms": "*",

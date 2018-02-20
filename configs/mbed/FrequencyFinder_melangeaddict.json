@@ -8,7 +8,12 @@
         "https://os.mbed.com/users/melangeaddict/code/tuner/"
     ],
     "frameworks": "mbed",
-    "keywords": "frequency",
+    "keywords": [
+        "steering",
+        "etti",
+        "TUIASI",
+        "frequency"
+    ],
     "name": "FrequencyFinder",
     "platforms": "*",
     "repository": {

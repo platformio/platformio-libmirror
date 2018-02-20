@@ -6,11 +6,12 @@
     "description": "StepperMotor",
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "grafical",
+        "I2C",
         "LCD",
-        "LS020",
-        "S65",
+        "PCF2119",
+        "PCF2119x",
+        "SCG002B",
+        "TextLCD",
         "6100",
         "Nokia LCD"
     ],

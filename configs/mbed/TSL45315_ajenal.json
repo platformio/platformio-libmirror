@@ -6,6 +6,8 @@
     "description": "Library for using the AMS TSL45315 Ambient Light Sensor",
     "frameworks": "mbed",
     "keywords": [
+        "led",
+        "rgb",
         "ALS",
         "ambient light sensor",
         "Lux"

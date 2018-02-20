@@ -6,6 +6,11 @@
     "description": "Librairie nécessaire pour utiliser le Lcd de l'IOGS",
     "frameworks": "mbed",
     "keywords": [
+        "Altitude",
+        "atmospheric",
+        "HP03SA",
+        "I2C",
+        "pressure",
         "IOGS",
         "IOGS LCD"
     ],

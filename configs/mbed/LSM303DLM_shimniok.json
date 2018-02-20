@@ -12,15 +12,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "fingerprint",
-        "GT-511C3",
-        "GT-511C31",
-        "accelerometer",
-        "compass",
-        "magnetometer",
         "Buffered",
         "MODSERIAL",
-        "Serial"
+        "Serial",
+        "accelerometer",
+        "compass",
+        "magnetometer"
     ],
     "name": "LSM303DLM",
     "platforms": "*",

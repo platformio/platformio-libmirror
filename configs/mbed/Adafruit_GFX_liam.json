@@ -1,0 +1,42 @@
+{
+    "authors": {
+        "name": "Liam Lee",
+        "url": "https://os.mbed.com/users/liam/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Andrew Lindsay"
+            ],
+            "frameworks": "mbed",
+            "name": "Adafruit_GFX"
+        }
+    ],
+    "description": "i have modify this for test",
+    "frameworks": "mbed",
+    "keywords": [
+        "3pi",
+        "m3dpi",
+        "m3pi",
+        "pololu",
+        "robot",
+        "JRPROPO",
+        "Servo",
+        "XBus",
+        "converter",
+        "decoder",
+        "floating",
+        "point",
+        "precision",
+        "readable",
+        "single",
+        "RFID",
+        "RFID-RC522"
+    ],
+    "name": "Adafruit_GFX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/liam/code/Adafruit_GFX/"
+    }
+}

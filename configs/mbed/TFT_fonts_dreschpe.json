@@ -27,7 +27,10 @@
         "MQTTClient",
         "dal",
         "lancaster",
-        "Microbit"
+        "Microbit",
+        "cmsis",
+        "rtos",
+        "RTX"
     ],
     "name": "TFT_fonts",
     "platforms": "*",

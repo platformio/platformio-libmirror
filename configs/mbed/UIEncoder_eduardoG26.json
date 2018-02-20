@@ -10,7 +10,8 @@
         "ASCIIGraph",
         "graph",
         "Serial",
-        "Terminal"
+        "Terminal",
+        "mbed"
     ],
     "name": "UIEncoder",
     "platforms": "*",

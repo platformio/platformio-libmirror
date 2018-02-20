@@ -5,7 +5,17 @@
     },
     "description": "PURS ZI 008",
     "frameworks": "mbed",
-    "keywords": "Sviraj",
+    "keywords": [
+        "LCDC",
+        "S1D13781",
+        "shield",
+        "TFT",
+        "D6F-PH",
+        "pressure",
+        "Australia",
+        "Lora",
+        "LoRaWAN"
+    ],
     "name": "Sviraj",
     "platforms": "*",
     "repository": {

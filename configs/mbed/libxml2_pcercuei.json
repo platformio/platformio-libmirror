@@ -8,7 +8,11 @@
         "https://os.mbed.com/users/pcercuei/code/libiio/"
     ],
     "frameworks": "mbed",
-    "keywords": "libxml2",
+    "keywords": [
+        "DS1620",
+        "thermometer",
+        "thermostat"
+    ],
     "name": "libxml2",
     "platforms": "*",
     "repository": {

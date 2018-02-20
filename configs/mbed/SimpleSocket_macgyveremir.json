@@ -6,16 +6,16 @@
     "description": "A Simple TCP & UDP Socket Library. An update from that of Hiroshi Yamaguchi.",
     "frameworks": "mbed",
     "keywords": [
+        "HTTP server",
+        "httpd",
+        "websocket server",
+        "Kinematics",
+        "math",
+        "matrix",
         "networking",
         "socket",
         "TCP",
-        "UDP",
-        "Linked",
-        "Linked List",
-        "List",
-        "3310",
-        "5110",
-        "Nokia"
+        "UDP"
     ],
     "name": "SimpleSocket",
     "platforms": "*",

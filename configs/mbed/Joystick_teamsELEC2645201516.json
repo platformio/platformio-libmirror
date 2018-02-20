@@ -9,11 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "driver",
-        "h- bridge",
-        "motor",
-        "motor driver",
-        "motors",
+        "battery charger",
+        "BQ24295",
+        "C030",
+        "u-blox",
         "elec2645"
     ],
     "name": "Joystick",

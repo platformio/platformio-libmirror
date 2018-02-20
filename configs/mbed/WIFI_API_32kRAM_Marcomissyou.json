@@ -6,8 +6,12 @@
     "description": "For DFCM-NNN40-DT1R,32K RAM,",
     "frameworks": "mbed",
     "keywords": [
+        "mbed",
+        "LCD",
+        "ST7032",
+        "TextLCD",
         "GPS",
-        "Thermocouple"
+        "RX8025"
     ],
     "name": "WIFI_API_32kRAM",
     "platforms": "*",

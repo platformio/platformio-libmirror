@@ -5,12 +5,7 @@
     },
     "description": "Drivers for Pololu irs09a short range infra red sensor.",
     "frameworks": "mbed",
-    "keywords": [
-        "Arch Max",
-        "sensor",
-        "STM32F4",
-        "Temperature"
-    ],
+    "keywords": "ShortRangeSensor",
     "name": "ShortRangeSensor",
     "platforms": "*",
     "repository": {

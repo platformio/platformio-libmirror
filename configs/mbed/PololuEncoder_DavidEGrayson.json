@@ -11,7 +11,11 @@
     "frameworks": "mbed",
     "keywords": [
         "id3",
-        "mp3"
+        "mp3",
+        "C030",
+        "low power",
+        "STM32F437",
+        "u-blox"
     ],
     "name": "PololuEncoder",
     "platforms": "*",

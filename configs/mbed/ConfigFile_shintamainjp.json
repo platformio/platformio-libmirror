@@ -17,19 +17,7 @@
         "https://os.mbed.com/users/okini3939/code/WeatherPlatform/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "1",
-        "2",
-        "digimesh",
-        "Series",
-        "Wi-Fi",
-        "xbee",
-        "zigbee",
-        "debounce",
-        "DigitalIn",
-        "Config",
-        "file"
-    ],
+    "keywords": "ConfigFile",
     "name": "ConfigFile",
     "platforms": "*",
     "repository": {

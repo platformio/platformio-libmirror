@@ -5,20 +5,7 @@
     },
     "description": "Disables then re-enables interrupts based on variable scope.",
     "frameworks": "mbed",
-    "keywords": [
-        "Grove",
-        "ISD1820P",
-        "play",
-        "playback",
-        "record",
-        "recorder",
-        "sound",
-        "Altitude",
-        "atmospheric",
-        "HP03SA",
-        "I2C",
-        "pressure"
-    ],
+    "keywords": "IntDisabler",
     "name": "IntDisabler",
     "platforms": "*",
     "repository": {

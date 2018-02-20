@@ -8,13 +8,10 @@
     "keywords": [
         "timer",
         "watchdog",
-        "compass",
-        "DISCO_L476VG",
-        "LSM303",
-        "8x8",
-        "led",
-        "led matrix",
-        "PCA9622"
+        "current",
+        "I2C",
+        "INA226",
+        "T.I."
     ],
     "name": "WatchdogTimer",
     "platforms": "*",

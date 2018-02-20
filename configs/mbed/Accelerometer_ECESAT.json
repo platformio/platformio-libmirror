@@ -5,7 +5,17 @@
     },
     "description": "cansat",
     "frameworks": "mbed",
-    "keywords": "Accelerometer",
+    "keywords": [
+        "\\",
+        "manager\\",
+        "Scheduler",
+        "task",
+        "BUTTON",
+        "click",
+        "debounce",
+        "F411",
+        "Frequency Counter"
+    ],
     "name": "Accelerometer",
     "platforms": "*",
     "repository": {

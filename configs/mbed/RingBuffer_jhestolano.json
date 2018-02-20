@@ -6,7 +6,9 @@
     "description": "Simple ring buffer",
     "frameworks": "mbed",
     "keywords": [
-        "nRF24L01",
+        "median",
+        "sliding",
+        "window",
         "Host",
         "mbed",
         "PTP",

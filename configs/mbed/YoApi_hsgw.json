@@ -9,11 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "9Dof-Stick",
-        "heading",
-        "HMC5843",
-        "magnetic",
-        "sensor",
+        "LCD",
+        "LCD 16x2",
+        "LPC11U68",
+        "ST7066U",
+        "DRV2665",
+        "Haptic",
+        "piezo",
         "yo"
     ],
     "name": "YoApi",

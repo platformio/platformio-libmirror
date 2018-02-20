@@ -5,12 +5,7 @@
     },
     "description": "地磁気センサHMC5883Lライブラリ",
     "frameworks": "mbed",
-    "keywords": [
-        "VNH5019",
-        "HMC5883L",
-        "I2C",
-        "IO expander"
-    ],
+    "keywords": "HMC5883L",
     "name": "HMC5883L",
     "platforms": "*",
     "repository": {

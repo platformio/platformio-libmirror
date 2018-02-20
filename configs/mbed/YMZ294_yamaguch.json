@@ -9,18 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "AS5048",
+        "rotary sensor",
+        "SPI",
         "SSG",
-        "YMZ294",
-        "PCM",
-        "pulse",
-        "RC",
-        "Servo",
-        "ServoIn",
-        "accelerometer",
-        "eCompass",
-        "fast",
-        "FRDM-KL46Z",
-        "magnetometer"
+        "YMZ294"
     ],
     "name": "YMZ294",
     "platforms": "*",

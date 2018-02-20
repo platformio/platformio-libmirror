@@ -12,15 +12,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "window",
+        "AM2321",
+        "Humidity",
         "I2C",
-        "Luminosity",
-        "Lux",
         "sensor",
-        "display",
-        "hotboards",
-        "SPI"
+        "Temperature",
+        "Ranging",
+        "SRF02",
+        "ultrasonic",
+        "Luminosity",
+        "Lux"
     ],
     "name": "TSL2561",
     "platforms": "*",

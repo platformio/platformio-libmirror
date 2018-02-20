@@ -6,13 +6,11 @@
     "description": "Morse Encoder/Decoder Library.",
     "frameworks": "mbed",
     "keywords": [
+        "etti",
+        "TUIASI",
         "decoder",
         "Encoder",
-        "Morse",
-        "display",
-        "led",
-        "numeric",
-        "Seven-Segment"
+        "Morse"
     ],
     "name": "Morse",
     "platforms": "*",

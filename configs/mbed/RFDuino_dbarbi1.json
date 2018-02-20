@@ -8,7 +8,13 @@
         "https://os.mbed.com/users/dbarbi1/code/RFDuino_example/"
     ],
     "frameworks": "mbed",
-    "keywords": "rfduino",
+    "keywords": [
+        "dynamixel",
+        "IOT",
+        "rfduino",
+        "AX-12",
+        "ax12"
+    ],
     "name": "RFDuino",
     "platforms": "*",
     "repository": {

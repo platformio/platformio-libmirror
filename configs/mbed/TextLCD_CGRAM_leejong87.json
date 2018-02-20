@@ -6,13 +6,13 @@
     "description": "CGRAM code in TextLCD",
     "frameworks": "mbed",
     "keywords": [
-        "compass",
-        "HMC5883L",
-        "magnetometer",
         "CGRAM",
         "CLCD",
         "custom",
-        "TextLCD"
+        "TextLCD",
+        "compass",
+        "HMC5883L",
+        "magnetometer"
     ],
     "name": "TextLCD_CGRAM",
     "platforms": "*",

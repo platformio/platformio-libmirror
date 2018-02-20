@@ -10,15 +10,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "http",
-        "web server",
-        "Graphics",
+        "display",
+        "DOG",
         "LCD",
-        "Felica",
-        "RC-S620/S",
-        "RFID",
-        "TB6612FNG",
-        "Servo"
+        "ST7036",
+        "TextLCD",
+        "Gatech",
+        "TB6612FNG"
     ],
     "name": "TB6612FNG",
     "platforms": "*",

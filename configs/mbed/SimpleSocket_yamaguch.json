@@ -23,8 +23,14 @@
         "sensor",
         "Temperature",
         "voltage",
-        "L152",
-        "Nucleo"
+        "2645",
+        "TMP102",
+        "bridge",
+        "I2C",
+        "SC16IS750",
+        "SC16IS752",
+        "SPI",
+        "UART"
     ],
     "name": "SimpleSocket",
     "platforms": "*",

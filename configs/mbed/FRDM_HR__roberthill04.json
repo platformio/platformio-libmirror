@@ -5,11 +5,7 @@
     },
     "description": "This is the Heart Rate demo program, testing and verifying the functionality of the HR sensor.",
     "frameworks": "mbed",
-    "keywords": [
-        "f746ZG",
-        "Nucleo",
-        "unzen"
-    ],
+    "keywords": "FRDM_HR_",
     "name": "FRDM_HR_",
     "platforms": "*",
     "repository": {

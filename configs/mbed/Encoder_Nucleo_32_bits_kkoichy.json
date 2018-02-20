@@ -13,8 +13,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "SSL",
-        "TLS"
+        "LIN",
+        "baro",
+        "MS5611_01BA03",
+        "SPI",
+        "variometer"
     ],
     "name": "Encoder_Nucleo_32_bits",
     "platforms": "*",

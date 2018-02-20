@@ -10,10 +10,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "servos",
-        "slow",
-        "Speed",
-        "1WireLcd"
+        "keypad",
+        "RA8875",
+        "Touchscreen",
+        "Battery Monitor",
+        "LTC2990"
     ],
     "name": "ConfigFile",
     "platforms": "*",

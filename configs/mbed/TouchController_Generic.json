@@ -9,7 +9,8 @@
         "5-wire",
         "resistive",
         "screen",
-        "touch"
+        "touch",
+        "EasyVR3_LED_Library"
     ],
     "name": "TouchController",
     "platforms": "*",

@@ -9,12 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DigitalIn",
         "Analog",
         "AnalogIn",
         "gyro",
-        "sensor",
-        "LCD"
+        "sensor"
     ],
     "name": "Servo",
     "platforms": "*",

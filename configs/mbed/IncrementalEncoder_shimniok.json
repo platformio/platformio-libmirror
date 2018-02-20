@@ -12,7 +12,9 @@
     "keywords": [
         "GraphicsDisplay",
         "GUI",
-        "TextDisplay"
+        "TextDisplay",
+        "I2C",
+        "LM75A"
     ],
     "name": "IncrementalEncoder",
     "platforms": "*",

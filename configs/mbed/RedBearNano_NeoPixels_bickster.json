@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Chris Bick",
+        "url": "https://os.mbed.com/users/bickster/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Bluetooth Low Energy"
+            ],
+            "frameworks": "mbed",
+            "name": "BLE_API"
+        }
+    ],
+    "description": "API for driving Adafruit's NeoPixels using RedBear's BLE Nano or BLE nRF51822",
+    "examples": [
+        "https://os.mbed.com/users/bickster/code/RedBearNano_NeoPixels_Example/",
+        "https://os.mbed.com/users/kuehn/code/NeoTester/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "38kHz",
+        "IR",
+        "remote",
+        "quadcopter",
+        "Servo",
+        "NeoPixel",
+        "nRF51822",
+        "RedBear",
+        "WS2812"
+    ],
+    "name": "RedBearNano_NeoPixels",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/bickster/code/RedBearNano_NeoPixels/"
+    }
+}

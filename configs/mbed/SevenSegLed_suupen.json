@@ -12,15 +12,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ADXL345",
-        "sparkfun",
         "display",
         "led",
         "numeric",
         "Seven-Segment",
-        "Capactitve touch sensor",
-        "mpr121",
-        "SEN-10250"
+        "hbridge",
+        "motor",
+        "PwmOut",
+        "api",
+        "mode",
+        "xbee",
+        "zigbee"
     ],
     "name": "SevenSegLed",
     "platforms": "*",

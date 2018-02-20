@@ -10,13 +10,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "max31855",
-        "Thermocouple",
-        "arduino",
-        "H-bridge",
-        "L298",
-        "Robotic",
-        "shield"
+        "async",
+        "Ticker",
+        "timer"
     ],
     "name": "Eigen",
     "platforms": "*",

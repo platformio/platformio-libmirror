@@ -9,16 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "accelerometer",
         "CDC",
         "MSD",
-        "USB",
-        "Energy Meter",
-        "frequency",
-        "measurement",
-        "Servo",
-        "servo pulse",
-        "SERVOGEN",
-        "ServoOut"
+        "USB"
     ],
     "name": "USBCDCMSC",
     "platforms": "*",

@@ -8,14 +8,7 @@
         "https://os.mbed.com/users/labmrd/code/SpindleBot_1_5b/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "driver",
-        "microstep",
-        "motor",
-        "ST",
-        "Stepper",
-        "STSPIN220"
-    ],
+    "keywords": "ServoRingBuffer",
     "name": "ServoRingBuffer",
     "platforms": "*",
     "repository": {

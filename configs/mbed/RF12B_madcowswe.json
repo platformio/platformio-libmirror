@@ -9,15 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "MAX30101",
-        "MSS",
-        "MSU",
         "ICRS",
         "rf12B",
-        "api",
-        "blink",
-        "led"
+        "MPL115A1",
+        "pressure",
+        "sensor",
+        "sparkfun"
     ],
     "name": "RF12B",
     "platforms": "*",

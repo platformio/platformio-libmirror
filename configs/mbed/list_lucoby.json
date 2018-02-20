@@ -8,7 +8,10 @@
         "https://os.mbed.com/users/lucoby/code/snake/"
     ],
     "frameworks": "mbed",
-    "keywords": "wifiモジュール",
+    "keywords": [
+        "Gameduino",
+        "VGA"
+    ],
     "name": "list",
     "platforms": "*",
     "repository": {

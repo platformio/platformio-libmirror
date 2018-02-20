@@ -9,9 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit",
-        "OLED",
-        "SSD1306",
+        "DS18B20",
+        "client",
+        "SimpleNTP",
+        "SNTP",
         "IEEE488",
         "SCPI"
     ],

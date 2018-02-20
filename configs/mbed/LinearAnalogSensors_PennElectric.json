@@ -9,11 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "filter",
+        "counter",
+        "interrupt",
+        "time",
         "adc",
         "Analog",
         "calculate",
         "convert",
-        "filter",
         "Linear",
         "LM335",
         "median",
@@ -21,9 +24,7 @@
         "offset",
         "sensor",
         "Temperature",
-        "voltage",
-        "L152",
-        "Nucleo"
+        "voltage"
     ],
     "name": "LinearAnalogSensors",
     "platforms": "*",

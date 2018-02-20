@@ -8,7 +8,12 @@
     "keywords": [
         "BLE",
         "Nordic",
-        "nRF51822"
+        "nRF51822",
+        "dac",
+        "more pwm",
+        "pwm",
+        "pwm 48Mhz",
+        "pwmdac"
     ],
     "name": "Motor",
     "platforms": "*",

@@ -9,18 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "USB",
-        "UVC",
+        "radiohead",
+        "compass",
+        "HMC5883L",
         "api",
         "xbee",
         "zigbee",
-        "ethernet",
-        "compass",
-        "HMC5883L",
-        "radiohead",
-        "L298",
-        "motor",
-        "Stepper"
+        "ethernet"
     ],
     "name": "EthernetXpresso",
     "platforms": "*",

@@ -6,9 +6,17 @@
     "description": "BLE EddystoneService example",
     "frameworks": "mbed",
     "keywords": [
+        "bluetooth",
         "BLE",
         "BLE Bluetooth Low Energy BLE",
-        "Eddystone"
+        "Eddystone",
+        "constant",
+        "current",
+        "driver",
+        "led",
+        "nxp",
+        "PCA9952",
+        "PCA9955"
     ],
     "name": "mbed-os-example-ble-EddystoneService",
     "platforms": "*",

@@ -5,14 +5,7 @@
     },
     "description": "Xbee Bluetooth, una librería modificada para la configuracion y protocolo de comunicación",
     "frameworks": "mbed",
-    "keywords": [
-        "dynamixel",
-        "dac",
-        "more pwm",
-        "pwm",
-        "pwm 48Mhz",
-        "pwmdac"
-    ],
+    "keywords": "74HC165",
     "name": "BluetoothBee",
     "platforms": "*",
     "repository": {

@@ -9,7 +9,11 @@
         "https://os.mbed.com/users/def/code/ABBlind/"
     ],
     "frameworks": "mbed",
-    "keywords": "OneButton",
+    "keywords": [
+        "dim",
+        "led",
+        "pattern"
+    ],
     "name": "OneButton",
     "platforms": "*",
     "repository": {

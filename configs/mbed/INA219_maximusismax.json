@@ -6,11 +6,12 @@
     "description": "Library for INA219 current sensor",
     "frameworks": "mbed",
     "keywords": [
+        "Freescale",
+        "sensing",
+        "touch",
+        "TSI",
         "current sensor",
-        "INA219",
-        "debounce",
-        "interrupt",
-        "InterruptIn"
+        "INA219"
     ],
     "name": "INA219",
     "platforms": "*",

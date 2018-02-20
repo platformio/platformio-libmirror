@@ -13,7 +13,10 @@
         "https://os.mbed.com/users/mudassar0121/code/example-ublox-cellular-interface_r410M/"
     ],
     "frameworks": "mbed",
-    "keywords": "XTRINSIC-SENSOR-EVK",
+    "keywords": [
+        "AirIndoorQuality",
+        "MtSense02"
+    ],
     "name": "ublox-ppp-cellular-interface",
     "platforms": "*",
     "repository": {

@@ -9,10 +9,7 @@
         "EthernetInterface",
         "network",
         "TFTP",
-        "UDP",
-        "APIs",
-        "extension",
-        "generic"
+        "UDP"
     ],
     "name": "TFTPServer",
     "platforms": "*",

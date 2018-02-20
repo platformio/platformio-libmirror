@@ -6,8 +6,9 @@
     "description": "Library for reading a Nunchuk controller",
     "frameworks": "mbed",
     "keywords": [
-        "AM2321",
-        "Nunchuk"
+        "Nunchuk",
+        "BNO055",
+        "sensor"
     ],
     "name": "Nunchuk",
     "platforms": "*",

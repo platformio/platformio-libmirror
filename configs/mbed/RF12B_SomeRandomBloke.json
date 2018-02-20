@@ -9,13 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "display",
+        "I2C",
+        "led",
+        "MPU9150",
+        "Quaternion",
+        "vector",
         "RF12",
         "rfm12",
-        "RFM12B",
-        "filter",
-        "counter",
-        "interrupt",
-        "time"
+        "RFM12B"
     ],
     "name": "RF12B",
     "platforms": "*",

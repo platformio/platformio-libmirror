@@ -18,9 +18,7 @@
         "LCD",
         "dynamixel",
         "MX28",
-        "Servo",
-        "I2C",
-        "software"
+        "Servo"
     ],
     "name": "BlinkLed",
     "platforms": "*",

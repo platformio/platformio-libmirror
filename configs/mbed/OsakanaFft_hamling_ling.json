@@ -9,14 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BNO055",
-        "sensor",
-        "accelerometer",
-        "gyroscope",
-        "I2C",
-        "MPU-6050",
-        "MPU6050",
-        "MPU60x0"
+        "decoder",
+        "decompression",
+        "JPEG",
+        "JPG"
     ],
     "name": "OsakanaFft",
     "platforms": "*",

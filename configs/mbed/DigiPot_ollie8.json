@@ -6,9 +6,10 @@
     "description": "A simple library for controlling an MCP4241 digital potentiometer",
     "frameworks": "mbed",
     "keywords": [
-        "GPS",
-        "ublox",
-        "Vodafone"
+        "flash",
+        "M25P10",
+        "M25P40",
+        "MP25P20"
     ],
     "name": "DigiPot",
     "platforms": "*",

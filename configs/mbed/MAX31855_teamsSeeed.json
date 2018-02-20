@@ -7,7 +7,9 @@
     "frameworks": "mbed",
     "keywords": [
         "max31855",
-        "Thermocouple"
+        "Thermocouple",
+        "5110",
+        "LCD"
     ],
     "name": "MAX31855",
     "platforms": "*",

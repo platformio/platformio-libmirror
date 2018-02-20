@@ -6,11 +6,11 @@
     "description": "adds two numbers and outputs to binary on led. Use terminal serial connection (COM#) to input",
     "frameworks": "mbed",
     "keywords": [
-        "BMP",
-        "Image Conversion",
-        "PNG",
-        "application-board",
-        "K64F"
+        "Arch Max",
+        "sensor",
+        "STM32F4",
+        "Temperature",
+        "CO657"
     ],
     "name": "addition_calc",
     "platforms": "*",

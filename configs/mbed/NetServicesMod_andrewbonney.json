@@ -11,7 +11,9 @@
         "JPEG",
         "UART",
         "regex",
-        "slre"
+        "slre",
+        "AT",
+        "parser"
     ],
     "name": "NetServicesMod",
     "platforms": "*",

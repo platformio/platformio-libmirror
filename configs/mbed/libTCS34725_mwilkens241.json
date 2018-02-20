@@ -9,7 +9,10 @@
         "library",
         "rgb",
         "sensor",
-        "TCS34725"
+        "TCS34725",
+        "31865",
+        "max",
+        "max31865"
     ],
     "name": "libTCS34725",
     "platforms": "*",

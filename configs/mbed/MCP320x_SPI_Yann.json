@@ -15,9 +15,12 @@
         "SPI",
         "hotboards",
         "keyboard",
-        "Display Module",
-        "emwin",
-        "LPC4088DM"
+        "Kinematics",
+        "lauther",
+        "math",
+        "matrix",
+        "robot",
+        "Robotics"
     ],
     "name": "MCP320x_SPI",
     "platforms": "*",

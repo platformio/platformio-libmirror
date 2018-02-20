@@ -19,7 +19,10 @@
         "ring buffer",
         "SOMO-14D",
         "stm32",
-        "Encoder"
+        "ePaper",
+        "EPD",
+        "GDEP015",
+        "GDEP015OC1"
     ],
     "name": "MessageQueue",
     "platforms": "*",

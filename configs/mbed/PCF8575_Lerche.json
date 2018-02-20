@@ -9,12 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "PCF8575",
         "CAN",
         "FRDM-KL25Z",
         "Seeed Studios",
-        "PCF8575",
-        "hash",
-        "md5"
+        "BLE",
+        "buttons",
+        "HEXIWEAR",
+        "KW40Z"
     ],
     "name": "PCF8575",
     "platforms": "*",

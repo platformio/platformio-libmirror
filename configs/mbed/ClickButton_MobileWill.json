@@ -6,13 +6,13 @@
     "description": "Ported from Arduino Library - https://code.google.com/p/clickbutton/",
     "frameworks": "mbed",
     "keywords": [
+        "BUTTON",
+        "click",
         "buffer",
         "ring",
         "Serial Communication",
         "test console",
-        "test program",
-        "BUTTON",
-        "click"
+        "test program"
     ],
     "name": "ClickButton",
     "platforms": "*",

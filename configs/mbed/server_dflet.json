@@ -9,7 +9,10 @@
         "https://os.mbed.com/users/dflet/code/cc3100_Test_mqtt_CM3/"
     ],
     "frameworks": "mbed",
-    "keywords": "server",
+    "keywords": [
+        "hotboards",
+        "LEDS"
+    ],
     "name": "server",
     "platforms": "*",
     "repository": {

@@ -5,12 +5,7 @@
     },
     "description": "TMP102",
     "frameworks": "mbed",
-    "keywords": [
-        "1wire",
-        "DS18B20",
-        "OneWire",
-        "buffer"
-    ],
+    "keywords": "TMP102",
     "name": "TMP102",
     "platforms": "*",
     "repository": {

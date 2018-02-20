@@ -13,11 +13,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BSP",
-        "DISCO_L476VG",
-        "16 Bit A2D",
-        "Differential A2D",
-        "K64F"
+        "NET",
+        "network",
+        "stream",
+        "TCP",
+        "Agent",
+        "Net-SNMP",
+        "SNMP"
     ],
     "name": "EaEpaper",
     "platforms": "*",

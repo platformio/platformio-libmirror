@@ -6,16 +6,16 @@
     "description": "TLC5940(http://www.ti.com/lit/ds/symlink/tlc5940.pdf)のlibraryです",
     "frameworks": "mbed",
     "keywords": [
+        "accelerometer",
+        "LSM303DLHC",
+        "magnetometer",
+        "Temperature",
         "Dynamic",
         "led",
         "tlc5940",
         "itoa",
         "joystick",
-        "LCD",
-        "accelerometer",
-        "LSM303DLHC",
-        "magnetometer",
-        "Temperature"
+        "LCD"
     ],
     "name": "TLC5940",
     "platforms": "*",

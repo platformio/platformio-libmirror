@@ -10,13 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "interpreter",
-        "Serial",
-        "FRDM",
-        "KL25z",
-        "MLK25Z128FRDM",
-        "MPL3115A2",
-        "sparkfun"
+        "NDEF",
+        "NFC",
+        "PN532",
+        "KL25",
+        "touch",
+        "TSI"
     ],
     "name": "keypad",
     "platforms": "*",

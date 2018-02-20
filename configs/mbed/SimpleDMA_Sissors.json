@@ -17,14 +17,7 @@
         "https://os.mbed.com/users/pradeepvk2208/code/cdms_april2_2016/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "DMA",
-        "KL25z",
-        "EEPROM",
-        "LPC11U24",
-        "accelerometer",
-        "DHT22"
-    ],
+    "keywords": "SimpleDMA",
     "name": "SimpleDMA",
     "platforms": "*",
     "repository": {

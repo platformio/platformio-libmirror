@@ -6,17 +6,10 @@
     "description": "APDS9960 gesture sensor library for use with mbed. Ported from Justin Woodman's RPI APDS9960 library.",
     "frameworks": "mbed",
     "keywords": [
-        "FM24Vxx",
-        "I2C",
-        "RAMTRON",
         "APDS",
         "APDS9960",
         "Gesture",
-        "sensor",
-        "FAT",
-        "file",
-        "SD",
-        "System"
+        "sensor"
     ],
     "name": "APDS9960 GestureSensor",
     "platforms": "*",

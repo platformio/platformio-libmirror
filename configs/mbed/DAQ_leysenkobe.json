@@ -11,7 +11,11 @@
     "keywords": [
         "Mouse",
         "optical",
-        "sensor"
+        "sensor",
+        "buffer",
+        "BufferedSerial",
+        "BufferSerial",
+        "Serial"
     ],
     "name": "DAQ",
     "platforms": "*",

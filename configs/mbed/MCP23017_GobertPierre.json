@@ -5,7 +5,14 @@
     },
     "description": "MCP23017",
     "frameworks": "mbed",
-    "keywords": "MCP23017",
+    "keywords": [
+        "IOT",
+        "dc-motor",
+        "Freescale",
+        "hbridge",
+        "MC33926",
+        "motor"
+    ],
     "name": "MCP23017",
     "platforms": "*",
     "repository": {

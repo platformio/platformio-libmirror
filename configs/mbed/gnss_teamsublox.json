@@ -12,14 +12,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "display",
+        "graphic",
+        "KS0107",
+        "KS0108",
+        "LCD",
         "C027",
         "C030",
         "GNSS",
         "GPS",
-        "u-blox",
-        "xbee",
-        "ZB",
-        "zigbee"
+        "u-blox"
     ],
     "name": "gnss",
     "platforms": "*",

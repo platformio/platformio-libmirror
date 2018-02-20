@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Juan Carlos Gonzales",
+        "url": "https://os.mbed.com/users/metabi814/"
+    },
+    "description": "esp8266 websocket and socket",
+    "frameworks": "mbed",
+    "keywords": [
+        "APDS9960",
+        "avago",
+        "color",
+        "Gesture",
+        "I2C",
+        "proximity",
+        "sparkfun",
+        "AS5048",
+        "Encoder",
+        "magnetic sensors",
+        "sensor"
+    ],
+    "name": "ESP8266",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/metabi814/code/ESP8266/"
+    }
+}

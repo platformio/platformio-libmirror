@@ -9,11 +9,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "EZO",
-        "I2C",
-        "PH sensor",
         "bus",
-        "PCF8574"
+        "PCF8574",
+        "AK8963",
+        "AKM",
+        "magnetic sensor",
+        "magnetometer",
+        "api",
+        "Digi",
+        "xbee",
+        "zigbee"
     ],
     "name": "PCF8574_Bus",
     "platforms": "*",

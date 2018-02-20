@@ -6,11 +6,9 @@
     "description": "Base station firmware",
     "frameworks": "mbed",
     "keywords": [
-        "Addressable",
-        "led",
-        "NeoPixel",
-        "rgb",
-        "WS2812"
+        "dynamixel",
+        "MX28",
+        "RS485"
     ],
     "name": "USBDevice",
     "platforms": "*",

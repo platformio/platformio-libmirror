@@ -9,11 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ambient",
-        "distance",
-        "I2C",
-        "light",
-        "sensor"
+        "4x4",
+        "4x4 Keypad",
+        "keyboard",
+        "keypad",
+        "pullup",
+        "MAPLE",
+        "mini"
     ],
     "name": "Seed_Ultrasonic_Range",
     "platforms": "*",

@@ -6,19 +6,12 @@
     "description": "Library to use MAX7219 by SPI",
     "frameworks": "mbed",
     "keywords": [
-        "CFAH1602B",
-        "CFAH1602B-YYH-JT",
-        "ST7066U",
-        "AD7190",
-        "adc",
-        "driver",
-        "led",
-        "pwm",
-        "Ticker",
         "ethernet",
         "socket",
         "W5500",
-        "digitalOut"
+        "arduino",
+        "Gameduino",
+        "mbeduino"
     ],
     "name": "MAX7219_SPI",
     "platforms": "*",

@@ -9,11 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "control",
-        "PID",
-        "TJPS",
+        "buffer",
         "MCP4018",
-        "AT42QT1010"
+        "I2C",
+        "IMU",
+        "LEGO",
+        "mindstorms"
     ],
     "name": "MCP4018",
     "platforms": "*",

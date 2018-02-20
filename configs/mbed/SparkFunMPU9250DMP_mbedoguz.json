@@ -9,7 +9,10 @@
         "https://os.mbed.com/users/mbedoguz/code/MPU9250-dmp/"
     ],
     "frameworks": "mbed",
-    "keywords": "controller",
+    "keywords": [
+        "mbed",
+        "rpc"
+    ],
     "name": "SparkFunMPU9250-DMP",
     "platforms": "*",
     "repository": {

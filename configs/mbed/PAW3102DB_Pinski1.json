@@ -8,7 +8,11 @@
     "keywords": [
         "Mouse",
         "optical",
-        "sensor"
+        "sensor",
+        "buffer",
+        "BufferedSerial",
+        "BufferSerial",
+        "Serial"
     ],
     "name": "PAW3102DB",
     "platforms": "*",

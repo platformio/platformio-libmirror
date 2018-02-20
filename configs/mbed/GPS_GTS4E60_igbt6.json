@@ -6,6 +6,10 @@
     "description": "GPS Module GTS-4E-60 library , (NMEA protocol) , can be easily imported into other GPS modules after a few minor changes",
     "frameworks": "mbed",
     "keywords": [
+        "HSI",
+        "pwm",
+        "rgb",
+        "RGBW",
         "Fibocom",
         "GPS",
         "GPS Module",

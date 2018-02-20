@@ -6,16 +6,12 @@
     "description": "magnetometer",
     "frameworks": "mbed",
     "keywords": [
-        "MISAKI",
-        "OLED",
-        "SEL10016Y",
-        "WS0010",
-        "debounce",
-        "DebounceIn",
-        "DHT11",
         "LCD",
         "LCD 16x2",
-        "Parallel LCD"
+        "Parallel LCD",
+        "debounce",
+        "DebounceIn",
+        "DHT11"
     ],
     "name": "HMC5883",
     "platforms": "*",

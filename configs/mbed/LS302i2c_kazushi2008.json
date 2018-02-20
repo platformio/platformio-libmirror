@@ -7,13 +7,7 @@
     "frameworks": "mbed",
     "keywords": [
         "I2C",
-        "LIS302",
-        "BME680",
-        "Gas",
-        "Humidity",
-        "pressure",
-        "Temperature",
-        "bluetooth"
+        "LIS302"
     ],
     "name": "LS302i2c",
     "platforms": "*",

@@ -9,14 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "NET",
-        "network",
-        "stream",
-        "TCP",
-        "v1.0",
-        "Agent",
-        "Net-SNMP",
-        "SNMP"
+        "malloc",
+        "memory",
+        "AQM1602",
+        "SSL",
+        "TLS",
+        "clock",
+        "ds1307",
+        "RTC"
     ],
     "name": "events",
     "platforms": "*",

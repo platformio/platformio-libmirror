@@ -18,15 +18,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "fingerprint",
-        "GT-511C3",
-        "GT-511C31",
-        "accelerometer",
-        "compass",
-        "magnetometer",
-        "Buffered",
-        "MODSERIAL",
-        "Serial"
+        "csv",
+        "mbed",
+        "ethernet",
+        "ip"
     ],
     "name": "DebouncedIn",
     "platforms": "*",

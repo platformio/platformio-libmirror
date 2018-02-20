@@ -8,20 +8,7 @@
         "https://os.mbed.com/users/liam/code/Adafruit_GFX/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "JSON",
-        "Adafruit",
-        "GFX",
-        "LCD",
-        "TFT",
-        "I2C",
-        "MCP4725",
-        "AnalogIn",
-        "Capacitive",
-        "digitalOut",
-        "sensor",
-        "touch"
-    ],
+    "keywords": "Adafruit_GFX",
     "name": "Adafruit_GFX",
     "platforms": "*",
     "repository": {

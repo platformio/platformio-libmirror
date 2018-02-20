@@ -9,13 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "OLED",
-        "SSD1332",
-        "ADC converter",
-        "Linear",
-        "Linear Technology",
-        "LTC2460",
-        "DDNS"
+        "DDNS",
+        "aconno",
+        "I2C",
+        "BLE"
     ],
     "name": "DDNS_NoIP",
     "platforms": "*",

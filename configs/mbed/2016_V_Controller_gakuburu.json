@@ -6,9 +6,11 @@
     "description": "switch : 8",
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "MAG3110",
-        "magnetometer"
+        "a7105",
+        "flysky",
+        "RC",
+        "Receiver",
+        "TH9X"
     ],
     "name": "2016_V_Controller",
     "platforms": "*",

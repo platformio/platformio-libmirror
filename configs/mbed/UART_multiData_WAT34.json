@@ -6,10 +6,8 @@
     "description": "シリアル通信ようのライブラリです。charとfloatのデータを送受信できます。",
     "frameworks": "mbed",
     "keywords": [
-        "Serial",
-        "keypad",
-        "RA8875",
-        "Touchscreen"
+        "RTC",
+        "Serial"
     ],
     "name": "UART_multiData",
     "platforms": "*",

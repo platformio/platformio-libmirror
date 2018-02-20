@@ -12,14 +12,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "C027",
-        "C030",
-        "GNSS",
-        "GPS",
-        "u-blox",
+        "AK8975",
+        "compass",
+        "I2C",
+        "Magneto",
+        "magnetometer",
         "xbee",
         "ZB",
-        "zigbee"
+        "zigbee",
+        "jsmn",
+        "JSON"
     ],
     "name": "xbee",
     "platforms": "*",

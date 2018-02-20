@@ -9,7 +9,10 @@
         "https://os.mbed.com/users/shintamainjp/code/Drive2ChoroQ/"
     ],
     "frameworks": "mbed",
-    "keywords": "choroQ",
+    "keywords": [
+        "Flash-fs",
+        "choroQ"
+    ],
     "name": "ChoroQ",
     "platforms": "*",
     "repository": {

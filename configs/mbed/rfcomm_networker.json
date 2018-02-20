@@ -10,14 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ChaNFS",
-        "mass",
-        "storage",
-        "USB",
-        "Adafruit",
-        "GPS",
-        "NEMA",
-        "v3"
+        "buzzer",
+        "pwm",
+        "tone",
+        "tune",
+        "audio",
+        "I2S",
+        "library",
+        "tested",
+        "TLV320"
     ],
     "name": "rfcomm",
     "platforms": "*",

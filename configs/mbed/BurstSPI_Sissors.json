@@ -17,15 +17,7 @@
         "https://os.mbed.com/users/Starz/code/test_he10/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "DHT11",
-        "network",
-        "NTP",
-        "time",
-        "high",
-        "Speed",
-        "SPI"
-    ],
+    "keywords": "BurstSPI",
     "name": "BurstSPI",
     "platforms": "*",
     "repository": {

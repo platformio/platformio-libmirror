@@ -17,18 +17,7 @@
         "https://os.mbed.com/users/nbbhav/code/m3pi_RFIDReader/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "device",
-        "USB",
-        "PwmOut",
-        "Servo",
-        "3pi",
-        "m3pi",
-        "robot",
-        "application board",
-        "C12832",
-        "LCD"
-    ],
+    "keywords": "m3pi",
     "name": "m3pi",
     "platforms": "*",
     "repository": {

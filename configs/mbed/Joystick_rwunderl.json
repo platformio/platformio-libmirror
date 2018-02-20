@@ -6,17 +6,15 @@
     "description": "Handles reading and scaling the analog inputs from a simple 2-axis joystick with a pushbutton. Can also attach rise and fall interrupts to the button.",
     "frameworks": "mbed",
     "keywords": [
-        "adns9500",
-        "avago",
-        "laser",
-        "motion",
-        "Mouse",
-        "navigation",
-        "sensor",
         "controller",
         "game",
         "interrupt",
-        "joystick"
+        "joystick",
+        "920MHz",
+        "IM920",
+        "Interplan",
+        "IOT",
+        "NFC"
     ],
     "name": "Joystick",
     "platforms": "*",

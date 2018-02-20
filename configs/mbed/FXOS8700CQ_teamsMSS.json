@@ -10,16 +10,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "piswarm",
+        "ADJD-S311-CR99",
         "accelerometer",
         "fxos8700cq",
         "I2C",
-        "magnetometer",
-        "api",
-        "https",
-        "OAuth",
-        "salesforce.com",
-        "token"
+        "magnetometer"
     ],
     "name": "FXOS8700CQ",
     "platforms": "*",

@@ -9,7 +9,15 @@
         "https://os.mbed.com/users/tyamakun/code/DSGatewayMBED_Nucleo_Step128/"
     ],
     "frameworks": "mbed",
-    "keywords": "DSgatewayMBED",
+    "keywords": [
+        "24LCxx",
+        "EEPROM",
+        "display",
+        "monochrome",
+        "AT42QT2100",
+        "QT2100",
+        "QTouch"
+    ],
     "name": "DSgatewayMBED",
     "platforms": "*",
     "repository": {

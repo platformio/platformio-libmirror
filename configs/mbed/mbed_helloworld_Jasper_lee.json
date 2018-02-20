@@ -9,6 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "ROS",
         "Composite",
         "USB",
         "USBKeyboard",
@@ -19,7 +20,6 @@
         "Slider",
         "to",
         "touch",
-        "ROS",
         "helloworld"
     ],
     "name": "mbed_helloworld",

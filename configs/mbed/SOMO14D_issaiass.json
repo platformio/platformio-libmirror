@@ -9,19 +9,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "MCP4822",
+        "motor",
+        "pwm",
         "4DSystems",
         "audio",
         "library",
         "module",
         "program",
         "SOMO-14D",
-        "stm32",
-        "BUTTON",
-        "cancel",
-        "DIP",
-        "noise",
-        "push",
-        "SW"
+        "stm32"
     ],
     "name": "SOMO14D",
     "platforms": "*",

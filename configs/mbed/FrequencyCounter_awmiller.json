@@ -6,8 +6,16 @@
     "description": "counts digital frequency based on interrupt and timer, triggers on rising edge",
     "frameworks": "mbed",
     "keywords": [
-        "Battery Monitor",
-        "LTC2990"
+        "HSI",
+        "pwm",
+        "rgb",
+        "RGBW",
+        "Fibocom",
+        "GPS",
+        "GPS Module",
+        "GTS-4e-60",
+        "NMEA",
+        "NMEA Parser"
     ],
     "name": "FrequencyCounter",
     "platforms": "*",

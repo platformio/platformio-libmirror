@@ -6,11 +6,9 @@
     "description": "Simple tool for PWM piezo speaker",
     "frameworks": "mbed",
     "keywords": [
-        "cypress",
-        "F-RAM",
-        "motorDC",
         "piezo",
-        "pwm"
+        "pwm",
+        "m3pi"
     ],
     "name": "PiezoSpeaker",
     "platforms": "*",

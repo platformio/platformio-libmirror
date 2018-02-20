@@ -9,9 +9,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Lora",
+        "rn2483",
         "Humidity",
         "sensor",
-        "Temperature"
+        "Temperature",
+        "HD44780",
+        "TextLCD",
+        "assembly",
+        "exception",
+        "fault",
+        "handler",
+        "hardfault",
+        "registerdump"
     ],
     "name": "Si7005",
     "platforms": "*",

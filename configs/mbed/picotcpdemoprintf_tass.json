@@ -9,9 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GPS",
-        "K64F",
-        "Serial"
+        "tcp/ip",
+        "WiFly",
+        "Carrier",
+        "driver",
+        "dual",
+        "MC33926",
+        "motor"
     ],
     "name": "picotcp-demo-printf",
     "platforms": "*",

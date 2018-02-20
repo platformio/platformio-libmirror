@@ -13,12 +13,7 @@
     "keywords": [
         "COMMAND PARSER",
         "serial command",
-        "uart interupt",
-        "clock",
-        "ds1307",
-        "real",
-        "RTC",
-        "time"
+        "uart interupt"
     ],
     "name": "multi-serial-command-listener",
     "platforms": "*",

@@ -7,10 +7,9 @@
     "frameworks": "mbed",
     "keywords": [
         "accelerometer",
-        "TTL74HC595",
-        "Energy Meter",
-        "frequency",
-        "measurement"
+        "CDC",
+        "MSD",
+        "USB"
     ],
     "name": "MMA7260Q",
     "platforms": "*",

@@ -9,14 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DISCO-STM32F746NG",
-        "flash",
-        "QSPI",
-        "ST",
-        "arduino",
-        "official",
-        "Sabertooth",
-        "SyRen"
+        "xbee",
+        "HR-TFT",
+        "memory lcd",
+        "Monochrome LCD",
+        "Sharp"
     ],
     "name": "DataLogging",
     "platforms": "*",

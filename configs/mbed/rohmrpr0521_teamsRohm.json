@@ -15,9 +15,7 @@
         "I2C",
         "IR",
         "proximity",
-        "rohm rpr0521",
-        "HD44780",
-        "TextLCD"
+        "rohm rpr0521"
     ],
     "name": "rohm-rpr0521",
     "platforms": "*",

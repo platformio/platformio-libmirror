@@ -7,7 +7,12 @@
     "frameworks": "mbed",
     "keywords": [
         "device",
-        "USB"
+        "USB",
+        "Freescale",
+        "FXAS21002CQ",
+        "Giroscope",
+        "Adafruit",
+        "PCA9685"
     ],
     "name": "SPIHalfDuplex",
     "platforms": "*",

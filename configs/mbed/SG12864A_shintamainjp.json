@@ -9,12 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Graphics",
-        "LCD",
-        "Adafruit",
         "I2C",
+        "led",
+        "SAA1064",
+        "Adafruit",
         "PCA9685",
-        "pwm"
+        "pwm",
+        "Graphics",
+        "LCD"
     ],
     "name": "SG12864A",
     "platforms": "*",

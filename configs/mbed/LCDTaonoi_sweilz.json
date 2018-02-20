@@ -5,7 +5,10 @@
     },
     "description": "LCD For I2C",
     "frameworks": "mbed",
-    "keywords": "LCDTaonoi",
+    "keywords": [
+        "Arduino mbed commands",
+        "HD44780 LCD text custom char 16X2"
+    ],
     "name": "LCDTaonoi",
     "platforms": "*",
     "repository": {

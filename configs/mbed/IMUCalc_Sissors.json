@@ -8,7 +8,12 @@
     "keywords": [
         "AHRS",
         "calculations",
-        "IMU"
+        "IMU",
+        "file",
+        "Serial",
+        "SimpleSerialProtocol",
+        "transfer",
+        "xml"
     ],
     "name": "IMUCalc",
     "platforms": "*",

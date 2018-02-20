@@ -6,11 +6,10 @@
     "description": "Official support library for using mbed as a programmable coprocessor in the Innomatix DAP-III+ telematics platform",
     "frameworks": "mbed",
     "keywords": [
+        "command",
+        "ESP8266",
         "DAP-III+",
-        "innomatix",
-        "Olimex",
-        "SHIELD-LCD",
-        "ESP8266"
+        "innomatix"
     ],
     "name": "InnomatixSupport",
     "platforms": "*",

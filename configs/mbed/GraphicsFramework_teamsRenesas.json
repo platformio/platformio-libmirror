@@ -18,9 +18,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ICRS",
-        "kalman",
-        "GR-PEACH"
+        "LPS331AP",
+        "mbed",
+        "SPI",
+        "GR-PEACH",
+        "ASCII Communication",
+        "Comm",
+        "FP",
+        "LinkedList",
+        "Serial",
+        "Terminal"
     ],
     "name": "GraphicsFramework",
     "platforms": "*",

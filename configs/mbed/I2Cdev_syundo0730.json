@@ -14,8 +14,12 @@
         "I2C",
         "MPU6050",
         "MPU9150",
-        "BD6211F",
-        "motor"
+        "Kinematics",
+        "lauther",
+        "math",
+        "matrix",
+        "robot",
+        "Robotics"
     ],
     "name": "I2Cdev",
     "platforms": "*",

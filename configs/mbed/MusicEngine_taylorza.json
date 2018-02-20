@@ -11,7 +11,16 @@
         "https://os.mbed.com/users/kazu0o2/code/USBSec_mbed-os_dev/"
     ],
     "frameworks": "mbed",
-    "keywords": "ADXL345",
+    "keywords": [
+        "ambient",
+        "light",
+        "max",
+        "MAX44009",
+        "Maxim",
+        "sensor",
+        "FeRAM",
+        "AM2315"
+    ],
     "name": "MusicEngine",
     "platforms": "*",
     "repository": {

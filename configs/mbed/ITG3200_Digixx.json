@@ -19,10 +19,13 @@
     "frameworks": "mbed",
     "keywords": [
         "SerialHalfDuplex",
-        "ITG3200",
-        "sparkfun",
+        "motor",
+        "Stepper",
+        "unipolar",
         "BLE",
-        "MIDI"
+        "MIDI",
+        "ITG3200",
+        "sparkfun"
     ],
     "name": "ITG3200",
     "platforms": "*",

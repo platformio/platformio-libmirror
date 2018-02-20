@@ -9,7 +9,14 @@
         "https://os.mbed.com/teams/MBSD_assignment/code/AEB/"
     ],
     "frameworks": "mbed",
-    "keywords": "Ultrasonic",
+    "keywords": [
+        "IOT",
+        "dc-motor",
+        "Freescale",
+        "hbridge",
+        "MC33926",
+        "motor"
+    ],
     "name": "Ultrasonic",
     "platforms": "*",
     "repository": {

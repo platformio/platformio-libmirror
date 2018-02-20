@@ -12,14 +12,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "gyroscope",
-        "I2C",
-        "l3g4200d",
-        "L3GD20",
+        "LMiC",
+        "Lora",
+        "LoRaWAN",
+        "INA226",
         "AnalogOut",
         "dac",
-        "SPI",
-        "INA226"
+        "SPI"
     ],
     "name": "MCP4922",
     "platforms": "*",

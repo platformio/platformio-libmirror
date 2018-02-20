@@ -9,14 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "bridge",
-        "I2C",
-        "SC16IS750",
-        "SC16IS752",
-        "SPI",
-        "UART",
-        "L152",
-        "Nucleo"
+        "HD44780",
+        "TextLCD"
     ],
     "name": "DS1820",
     "platforms": "*",

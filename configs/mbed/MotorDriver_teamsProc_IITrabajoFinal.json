@@ -6,9 +6,6 @@
     "description": "Libreria para manejo de shield controlador de motores MotorShieldDriver",
     "frameworks": "mbed",
     "keywords": [
-        "flash",
-        "S25FL216K",
-        "Serial",
         "74hc595",
         "Adafruit",
         "arduino",
@@ -17,9 +14,8 @@
         "motor",
         "motorshield",
         "pwm",
-        "capture",
-        "timer",
-        "timer2"
+        "FRDM-KL25Z",
+        "SPI"
     ],
     "name": "MotorDriver",
     "platforms": "*",

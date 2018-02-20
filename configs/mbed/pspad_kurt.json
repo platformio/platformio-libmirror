@@ -5,12 +5,7 @@
     },
     "description": "プレステ１コントローラ用ライブラリ",
     "frameworks": "mbed",
-    "keywords": [
-        "L3GD20",
-        "StarBoardOrange",
-        "16x2 LCD",
-        "TextLCD"
-    ],
+    "keywords": "StarBoardOrange",
     "name": "pspad",
     "platforms": "*",
     "repository": {

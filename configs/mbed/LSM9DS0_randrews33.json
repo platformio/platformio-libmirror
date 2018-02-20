@@ -11,6 +11,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "1wire",
+        "DS18B20",
+        "OneWire",
         "Accel",
         "accelerometer",
         "compass",
@@ -19,10 +22,7 @@
         "IMU",
         "LSM9DS0",
         "magnet",
-        "magnetometer",
-        "1wire",
-        "DS18B20",
-        "OneWire"
+        "magnetometer"
     ],
     "name": "LSM9DS0",
     "platforms": "*",

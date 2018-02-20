@@ -6,10 +6,8 @@
     "description": "A library which implements vectors.",
     "frameworks": "mbed",
     "keywords": [
-        "motor",
-        "Stepper",
-        "stepping",
-        "Uni-polar"
+        "buzzer",
+        "piezo"
     ],
     "name": "vectr",
     "platforms": "*",

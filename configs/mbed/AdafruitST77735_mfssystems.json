@@ -5,7 +5,12 @@
     },
     "description": "tft controler",
     "frameworks": "mbed",
-    "keywords": "AdafruitST77735",
+    "keywords": [
+        "bot",
+        "motor",
+        "sensors",
+        "shield"
+    ],
     "name": "AdafruitST77735",
     "platforms": "*",
     "repository": {

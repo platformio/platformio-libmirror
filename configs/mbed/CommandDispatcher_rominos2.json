@@ -9,19 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GPS",
-        "sparkfun",
-        "Elecret Microphone",
-        "MAX9814",
-        "sound",
-        "Volume Indicator",
-        "optical",
-        "Si1145",
-        "Si1146",
-        "Si1147",
-        "Si114x",
-        "uV",
-        "command"
+        "command",
+        "ESP8266",
+        "DAP-III+",
+        "innomatix"
     ],
     "name": "CommandDispatcher",
     "platforms": "*",

@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Justin Howard",
+        "url": "https://os.mbed.com/users/vtraveller/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Justin Howard"
+            ],
+            "frameworks": "mbed",
+            "name": "SDFileSystem"
+        }
+    ],
+    "description": "Wrapped version of the ILI9341 graphics library with some MBED tweaks",
+    "frameworks": "mbed",
+    "keywords": [
+        "BSP",
+        "DISCO_L476VG",
+        "16 Bit A2D",
+        "Differential A2D",
+        "K64F",
+        "v1.0"
+    ],
+    "name": "ILI9341_Graphic_Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/vtraveller/code/ILI9341_Graphic_Library/"
+    }
+}

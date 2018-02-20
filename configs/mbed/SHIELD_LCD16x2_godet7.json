@@ -6,11 +6,8 @@
     "description": "Library for the OLIMEX_LTD SHIELD-LCD16x2 two-rows display (compatible with the shield layout of Arduino)",
     "frameworks": "mbed",
     "keywords": [
-        "DAP-III+",
-        "innomatix",
         "Olimex",
-        "SHIELD-LCD",
-        "ESP8266"
+        "SHIELD-LCD"
     ],
     "name": "SHIELD_LCD16x2",
     "platforms": "*",

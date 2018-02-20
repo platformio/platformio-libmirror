@@ -10,11 +10,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "FunctionPointer",
-        "newbi;debug;serial;",
         "ADS7843",
         "event",
-        "touch"
+        "touch",
+        "ATP3011",
+        "I2C"
     ],
     "name": "TouchScreen",
     "platforms": "*",

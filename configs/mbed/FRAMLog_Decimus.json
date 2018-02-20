@@ -6,10 +6,10 @@
     "description": "Log system based on external FRAM storage. Allow to collect float values in FRAM, and then store whole collection into file on flash.",
     "frameworks": "mbed",
     "keywords": [
+        "mbed",
         "FRAM",
         "log",
-        "TMP102",
-        "TMP112"
+        "PsiSwarm"
     ],
     "name": "FRAMLog",
     "platforms": "*",

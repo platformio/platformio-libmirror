@@ -9,20 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "filesystem",
-        "MSCFileSystem",
-        "SDFileSystem",
-        "I2C",
         "AnalogOut",
         "dac",
         "MCP4725",
-        "BLE Nano",
-        "BLE_Nano",
-        "BLEnano",
-        "nRF24L01P",
-        "Nucelo",
-        "RF24",
-        "STM32F"
+        "7-segment",
+        "display",
+        "MAX7221"
     ],
     "name": "MCP4725",
     "platforms": "*",

@@ -10,7 +10,8 @@
     "frameworks": "mbed",
     "keywords": [
         "gas sensor",
-        "mq2"
+        "mq2",
+        "dynamixel"
     ],
     "name": "MQ2",
     "platforms": "*",

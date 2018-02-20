@@ -9,11 +9,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HEJ",
-        "Freescale",
-        "sensing",
-        "touch",
-        "TSI"
+        "clock",
+        "DS3232",
+        "I2C",
+        "RTC",
+        "time",
+        "Humidity",
+        "sensor",
+        "sure",
+        "Temperature",
+        "HEJ"
     ],
     "name": "hack_motor",
     "platforms": "*",

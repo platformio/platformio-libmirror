@@ -6,11 +6,16 @@
     "description": "Rtos code for BAE microcontroller, IITMSAT",
     "frameworks": "mbed",
     "keywords": [
-        "bot",
+        "impulses",
+        "LPC1768",
         "motor",
-        "sensors",
-        "shield",
-        "2017NOSHIRO"
+        "n",
+        "number",
+        "of",
+        "programing",
+        "pwm",
+        "registry",
+        "Stepper"
     ],
     "name": "RTOS_BAE_IITMSAT",
     "platforms": "*",

@@ -10,19 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "buffer",
+        "MCP4018",
         "I2C",
-        "LM77",
-        "sensor",
-        "Temperature",
         "IMU",
         "LEGO",
-        "mindstorms",
-        "Dweet",
-        "https",
-        "IOT",
-        "secure",
-        "AITENDO",
-        "OLED"
+        "mindstorms"
     ],
     "name": "LG1300L_IMU",
     "platforms": "*",

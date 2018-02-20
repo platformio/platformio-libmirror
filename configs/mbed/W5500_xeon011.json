@@ -10,19 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "CFAH1602B",
-        "CFAH1602B-YYH-JT",
-        "ST7066U",
-        "AD7190",
-        "adc",
-        "driver",
-        "led",
-        "pwm",
-        "Ticker",
         "ethernet",
         "socket",
         "W5500",
-        "digitalOut"
+        "arduino",
+        "Gameduino",
+        "mbeduino"
     ],
     "name": "W5500",
     "platforms": "*",

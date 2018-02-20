@@ -9,7 +9,11 @@
         "https://os.mbed.com/teams/Maxim-Integrated/code/DeepCover-Embedded-Security-in-IoT/"
     ],
     "frameworks": "mbed",
-    "keywords": "MaximInterface",
+    "keywords": [
+        "Nucleo-F4xx",
+        "open-drain",
+        "UIT"
+    ],
     "name": "MaximInterface",
     "platforms": "*",
     "repository": {

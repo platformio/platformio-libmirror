@@ -9,10 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "arduino",
-        "maniacbug",
-        "nRF24L01",
-        "nRF24L01P"
+        "DS3231",
+        "RTC",
+        "debounce",
+        "debouncing",
+        "L9110S"
     ],
     "name": "Max7219",
     "platforms": "*",

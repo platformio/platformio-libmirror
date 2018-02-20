@@ -6,15 +6,12 @@
     "description": "Create a beeping alarm that starts and stops when you want it to.",
     "frameworks": "mbed",
     "keywords": [
-        "timer",
-        "watchdog",
-        "compass",
-        "DISCO_L476VG",
-        "LSM303",
-        "8x8",
-        "led",
-        "led matrix",
-        "PCA9622"
+        "16x2",
+        "20x2",
+        "20X4",
+        "40x2",
+        "HD4478",
+        "TextLCD"
     ],
     "name": "alarm",
     "platforms": "*",

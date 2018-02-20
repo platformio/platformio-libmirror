@@ -10,15 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GPS",
-        "NMEA",
-        "Venus",
-        "16x2",
-        "20x2",
-        "20X4",
-        "40x2",
-        "HD4478",
-        "TextLCD"
+        "timer",
+        "watchdog",
+        "current",
+        "I2C",
+        "INA226",
+        "T.I."
     ],
     "name": "sharp_mlcd",
     "platforms": "*",

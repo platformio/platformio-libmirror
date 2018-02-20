@@ -5,7 +5,12 @@
     },
     "description": "IMUfilter",
     "frameworks": "mbed",
-    "keywords": "IMUfilter",
+    "keywords": [
+        "APDS",
+        "APDS9960",
+        "Gesture",
+        "sensor"
+    ],
     "name": "IMUfilter",
     "platforms": "*",
     "repository": {

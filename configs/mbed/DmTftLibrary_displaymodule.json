@@ -24,14 +24,13 @@
         "playstation2",
         "PS2",
         "SPI",
+        "pwm",
+        "softwarePWM",
         "display",
         "driver",
         "HEXIWEAR",
         "OLED",
-        "SSD1351",
-        "DDS",
-        "generator",
-        "signal"
+        "SSD1351"
     ],
     "name": "DmTftLibrary",
     "platforms": "*",

@@ -10,9 +10,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Calibrate",
-        "compass",
-        "Magneto"
+        "NDEF",
+        "NFC",
+        "Type4",
+        "JSON",
+        "MessagePack"
     ],
     "name": "MxRadioRF2xx",
     "platforms": "*",

@@ -5,14 +5,7 @@
     },
     "description": "A highly optimized software switch debounce algorithm for general purpose input ports and shift registers such as 74HC165.",
     "frameworks": "mbed",
-    "keywords": [
-        "game",
-        "inheritance",
-        "OOP",
-        "polymorphism",
-        "tutorial",
-        "debouncing"
-    ],
+    "keywords": "debouncing",
     "name": "FastDebouncer",
     "platforms": "*",
     "repository": {

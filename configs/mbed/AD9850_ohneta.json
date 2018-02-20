@@ -5,10 +5,7 @@
     },
     "description": "bit-banging control for AD9850.",
     "frameworks": "mbed",
-    "keywords": [
-        "BLE",
-        "AD9850"
-    ],
+    "keywords": "AD9850",
     "name": "AD9850",
     "platforms": "*",
     "repository": {

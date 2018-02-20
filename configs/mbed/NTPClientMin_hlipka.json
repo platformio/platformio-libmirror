@@ -10,13 +10,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DHT11",
         "network",
         "NTP",
         "time",
         "high",
         "Speed",
-        "SPI"
+        "SPI",
+        "1-wire",
+        "DS18B20",
+        "one",
+        "One Wire",
+        "OneWire"
     ],
     "name": "NTPClientMin",
     "platforms": "*",

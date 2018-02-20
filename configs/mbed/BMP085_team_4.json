@@ -5,7 +5,12 @@
     },
     "description": "BMP085",
     "frameworks": "mbed",
-    "keywords": "BMP085",
+    "keywords": [
+        "APDS",
+        "APDS9960",
+        "Gesture",
+        "sensor"
+    ],
     "name": "BMP085",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "mbed official",
+        "url": "https://os.mbed.com/users/mbed_official/"
+    },
+    "description": "CMSIS DSP library",
+    "examples": [
+        "https://os.mbed.com/users/avbotz/code/performance_timer/",
+        "https://os.mbed.com/users/avbotz/code/Surfboard_/",
+        "https://os.mbed.com/users/adwiens/code/gps2rtty/",
+        "https://os.mbed.com/users/ryanyuyu/code/Capstone/",
+        "https://os.mbed.com/teams/The-Ultimate-EENG-3910-Team/code/test_armmath/",
+        "https://os.mbed.com/users/DominiqueC/code/Project5-Motorcontrol/",
+        "https://os.mbed.com/users/Hooglugt/code/BMT-M9_motorcontrol_groep3/",
+        "https://os.mbed.com/users/Hooglugt/code/BMT-M9_motorcontrol/",
+        "https://os.mbed.com/users/MarijkeAbma/code/motor1aansturing201014/",
+        "https://os.mbed.com/users/BasvanBuuren/code/motor_input/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "mbed-dsp",
+    "name": "mbed-dsp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbed_official/code/mbed-dsp/"
+    }
+}

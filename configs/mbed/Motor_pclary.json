@@ -9,20 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "circular buffer",
-        "FIFO",
-        "Queue",
-        "ring buffer",
-        "stack",
-        "Template",
-        "frequency",
-        "measurement",
-        "Pulsewidth",
-        "Adafruit",
-        "LCD",
-        "S6D02A1",
-        "ST7735",
-        "TFT"
+        "api",
+        "CSR",
+        "GPS"
     ],
     "name": "Motor",
     "platforms": "*",

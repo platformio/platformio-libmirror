@@ -9,7 +9,10 @@
         "https://os.mbed.com/users/Cornetin/code/IOT_Repository/"
     ],
     "frameworks": "mbed",
-    "keywords": "LPC1549",
+    "keywords": [
+        "display",
+        "output"
+    ],
     "name": "BMP085",
     "platforms": "*",
     "repository": {

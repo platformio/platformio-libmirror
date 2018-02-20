@@ -6,9 +6,19 @@
     "description": ".",
     "frameworks": "mbed",
     "keywords": [
-        "accelererometer",
-        "ADXL345",
-        "I2C"
+        "cmsis",
+        "rtos",
+        "RTX",
+        "led",
+        "LPD8803",
+        "LPD8806",
+        "LPD8809",
+        "SPI",
+        "OAuth",
+        "twitter",
+        "arbitrary precision",
+        "bigint",
+        "bignum"
     ],
     "name": "mbed-os-example-bootloader",
     "platforms": "*",

@@ -14,7 +14,9 @@
         "JPEG",
         "UART",
         "regex",
-        "slre"
+        "slre",
+        "AT",
+        "parser"
     ],
     "name": "regex",
     "platforms": "*",

@@ -9,12 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "max31855",
-        "Temperature",
-        "Thermocouple",
         "433MHz",
+        "etti",
+        "TUIASI",
         "EM027BS013",
-        "ePaper"
+        "ePaper",
+        "audio",
+        "DISCO_F746NG"
     ],
     "name": "RCSwitch",
     "platforms": "*",

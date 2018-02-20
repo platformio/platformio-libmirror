@@ -8,7 +8,10 @@
         "https://os.mbed.com/users/Sergunb/code/Nucleo/"
     ],
     "frameworks": "mbed",
-    "keywords": "mbed",
+    "keywords": [
+        "DS1337",
+        "I2C"
+    ],
     "name": "1",
     "platforms": "*",
     "repository": {

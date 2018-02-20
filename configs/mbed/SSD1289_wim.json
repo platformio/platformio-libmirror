@@ -6,12 +6,10 @@
     "description": "Fork of SSD1289 lib for Landtiger board",
     "frameworks": "mbed",
     "keywords": [
+        "FT6206",
+        "touch",
         "LandTiger",
-        "SSD1289",
-        "Servo",
-        "servo pulse",
-        "SERVOGEN",
-        "ServoOut"
+        "SSD1289"
     ],
     "name": "SSD1289",
     "platforms": "*",

@@ -30,7 +30,10 @@
         "NeoPixels",
         "WS2811",
         "WS2812",
-        "WS2812B"
+        "WS2812B",
+        "DHT11",
+        "Humidity",
+        "Temperature"
     ],
     "name": "TMP102",
     "platforms": "*",

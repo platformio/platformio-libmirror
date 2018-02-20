@@ -9,14 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Ciseco",
-        "SRF",
-        "wireless",
-        "XRF",
-        "flash",
-        "M25P10",
-        "M25P40",
-        "MP25P20"
+        "core2530(B)",
+        "waveshare",
+        "xbee",
+        "zbee"
     ],
     "name": "CAN",
     "platforms": "*",

@@ -10,10 +10,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "polling",
-        "scheduling",
-        "timing",
-        "CANopen"
+        "CANopen",
+        "MAX7219",
+        "MAX7221",
+        "arduino",
+        "millis",
+        "Modbus",
+        "MODSERIAL",
+        "rtu"
     ],
     "name": "CANopen_Node",
     "platforms": "*",

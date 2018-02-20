@@ -6,12 +6,8 @@
     "description": "pwmに使うやつ",
     "frameworks": "mbed",
     "keywords": [
-        "9Dof-Stick",
-        "heading",
-        "HMC5843",
-        "magnetic",
-        "sensor",
-        "yo"
+        "Flasher",
+        "flashing leds"
     ],
     "name": "pwm",
     "platforms": "*",

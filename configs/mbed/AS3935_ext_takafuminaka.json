@@ -8,10 +8,7 @@
         "https://os.mbed.com/users/takafuminaka/code/BLE_Lightning_sensor/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "DXL_SDK_For_F446RE",
-        "AS3935"
-    ],
+    "keywords": "AS3935",
     "name": "AS3935_ext",
     "platforms": "*",
     "repository": {

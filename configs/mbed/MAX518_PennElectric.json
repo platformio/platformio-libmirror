@@ -6,9 +6,8 @@
     "description": "This library interfaces the MAX518 2-Channel 8-bit DAC (Digital to Analog Converter) with the mbed using the I2C pins. It provides a simple, convenient API to rapidly begin implementing the device. Operates in both ACK bits expected (typical) and not expected modes to allow for opto-isolated or one-way buses.",
     "frameworks": "mbed",
     "keywords": [
-        "Communication",
-        "debugging",
-        "rpc",
+        "I2C",
+        "real-time communication",
         "8",
         "ack",
         "Analog",
@@ -19,7 +18,6 @@
         "dac",
         "Digital",
         "dual",
-        "I2C",
         "isolated",
         "MAX518",
         "no-ack"

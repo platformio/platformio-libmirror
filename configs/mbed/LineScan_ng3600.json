@@ -6,12 +6,11 @@
     "description": "Created LineScan library to interface with line scanner. Verified that it was able to store values form camera.",
     "frameworks": "mbed",
     "keywords": [
-        "BUTTON",
-        "click",
-        "debounce",
-        "display",
-        "menu",
-        "push buttons"
+        "dynamixel",
+        "IOT",
+        "rfduino",
+        "AX-12",
+        "ax12"
     ],
     "name": "LineScan",
     "platforms": "*",

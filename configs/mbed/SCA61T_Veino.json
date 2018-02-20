@@ -9,9 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "bmp280",
+        "pressure",
+        "Temperature",
         "SCA61T",
         "SCA61T-FA1H1G",
-        "SCA61T-FAHH1G"
+        "SCA61T-FAHH1G",
+        "CNCAirbrush"
     ],
     "name": "SCA61T",
     "platforms": "*",

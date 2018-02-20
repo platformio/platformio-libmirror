@@ -6,16 +6,8 @@
     "description": "TSL1401 is the line sensor camera.This library is used to read the raw data.",
     "frameworks": "mbed",
     "keywords": [
-        "LIN",
-        "96x96",
-        "OLED",
-        "Seeed",
-        "SeeedGrayOLED",
-        "ssd1327",
-        "baro",
-        "MS5611_01BA03",
-        "SPI",
-        "variometer"
+        "SSL",
+        "TLS"
     ],
     "name": "TSL1401",
     "platforms": "*",

@@ -9,11 +9,14 @@
         "OLED",
         "Organic-LED",
         "SO1602A",
-        "ALS",
-        "ambient light sensor",
         "I2C",
-        "ISL29125",
-        "rgb"
+        "sensor",
+        "Temperature",
+        "low current",
+        "low power",
+        "nrf51",
+        "nRF51822",
+        "gyro"
     ],
     "name": "SO1602A",
     "platforms": "*",

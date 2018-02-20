@@ -6,13 +6,18 @@
     "description": "Library for LTC2460 ADC converter",
     "frameworks": "mbed",
     "keywords": [
-        "OLED",
-        "SSD1332",
+        "infrared",
+        "Obstacle detection",
+        "adc",
+        "dac",
+        "dual",
+        "MCP4922",
+        "Nucleo",
+        "single",
         "ADC converter",
         "Linear",
         "Linear Technology",
-        "LTC2460",
-        "DDNS"
+        "LTC2460"
     ],
     "name": "LTC2460",
     "platforms": "*",

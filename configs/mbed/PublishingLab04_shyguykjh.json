@@ -5,7 +5,15 @@
     },
     "description": "ECE 4180 Lab 04 - Jung Hun Kim",
     "frameworks": "mbed",
-    "keywords": "accelerometer",
+    "keywords": [
+        "Altitude",
+        "atmospheric",
+        "HP03SA",
+        "I2C",
+        "pressure",
+        "IOGS",
+        "IOGS LCD"
+    ],
     "name": "PublishingLab04",
     "platforms": "*",
     "repository": {

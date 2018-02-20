@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Nathan Hopkins",
+        "url": "https://os.mbed.com/users/smartsystemdesign/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "mbed official "
+            ],
+            "frameworks": "mbed",
+            "name": "USBDevice"
+        }
+    ],
+    "description": "Testing 6DOF USB HID joystick device.",
+    "frameworks": "mbed",
+    "keywords": [
+        "MAX30101",
+        "\\",
+        "Controller\\",
+        "I2C",
+        "MD25",
+        "motor",
+        "robot"
+    ],
+    "name": "USBJoystick_Test",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/smartsystemdesign/code/USBJoystick_Test/"
+    }
+}

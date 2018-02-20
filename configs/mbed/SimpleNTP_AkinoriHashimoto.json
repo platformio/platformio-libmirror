@@ -6,12 +6,12 @@
     "description": "Simple Network Time Protocol Client.",
     "frameworks": "mbed",
     "keywords": [
-        "ds1302",
+        "DS18B20",
         "client",
         "SimpleNTP",
         "SNTP",
-        "rtos",
-        "led"
+        "IEEE488",
+        "SCPI"
     ],
     "name": "SimpleNTP",
     "platforms": "*",

@@ -5,14 +5,7 @@
     },
     "description": "Serial LED Blinking",
     "frameworks": "mbed",
-    "keywords": [
-        "ds1302",
-        "client",
-        "SimpleNTP",
-        "SNTP",
-        "rtos",
-        "led"
-    ],
+    "keywords": "led",
     "name": "BVBCET",
     "platforms": "*",
     "repository": {

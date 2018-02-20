@@ -17,21 +17,7 @@
         "https://os.mbed.com/users/socie123/code/thermostat_fan_demo-sensor_battery-1/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Lora",
-        "mdot",
-        "multitech",
-        "EM406",
-        "GPS",
-        "library",
-        "Serial",
-        "ethernet",
-        "tcp/ip",
-        "w5100",
-        "W5200",
-        "W5500",
-        "Wiznet"
-    ],
+    "keywords": "libmDot",
     "name": "libmDot",
     "platforms": "*",
     "repository": {

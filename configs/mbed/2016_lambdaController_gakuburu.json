@@ -6,9 +6,10 @@
     "description": "lambdaController",
     "frameworks": "mbed",
     "keywords": [
-        "cmsis",
-        "rtos",
-        "RTX"
+        "font",
+        "NeoPixel",
+        "WS2812",
+        "wx2811"
     ],
     "name": "2016_lambdaController",
     "platforms": "*",

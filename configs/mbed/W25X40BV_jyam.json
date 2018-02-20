@@ -12,7 +12,12 @@
         "SPI",
         "spiflash",
         "W25X40BV",
-        "winbond"
+        "winbond",
+        "display",
+        "hotboards",
+        "Dieter Graef",
+        "DISCO-F746",
+        "SDFileSystem"
     ],
     "name": "W25X40BV",
     "platforms": "*",

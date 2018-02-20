@@ -10,18 +10,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Encoder",
-        "incremental",
-        "mechanical",
-        "rotary",
-        "switch",
-        "BLE",
-        "BLE Bluetooth Low Energy BLE",
-        "BUTTON",
+        "DISCO_F746NG",
+        "QSPI",
         "digitalOut",
         "PwmOut",
         "RenBuggy",
-        "Renishaw"
+        "Renishaw",
+        "TMP102",
+        "I2C"
     ],
     "name": "RenBuggy_Timed",
     "platforms": "*",

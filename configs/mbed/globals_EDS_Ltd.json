@@ -9,14 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "low power",
-        "LPC11U24",
-        "lpc11uxx",
-        "mBuino",
-        "Sleep",
-        "filter",
-        "IMU",
-        "MARG"
+        "geo",
+        "GPS",
+        "latitude",
+        "longitude",
+        "navigation",
+        "LEDcontroller",
+        "TM1637"
     ],
     "name": "globals",
     "platforms": "*",

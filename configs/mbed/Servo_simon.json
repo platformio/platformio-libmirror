@@ -17,18 +17,7 @@
         "https://os.mbed.com/users/marcbax/code/EtonBreadboard1/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "device",
-        "USB",
-        "PwmOut",
-        "Servo",
-        "3pi",
-        "m3pi",
-        "robot",
-        "application board",
-        "C12832",
-        "LCD"
-    ],
+    "keywords": "Servo",
     "name": "Servo",
     "platforms": "*",
     "repository": {

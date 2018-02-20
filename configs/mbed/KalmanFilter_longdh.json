@@ -8,10 +8,7 @@
         "https://os.mbed.com/users/longdh/code/VNG_BLEBeaconPostion/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "kalman",
-        "rn41"
-    ],
+    "keywords": "kalman",
     "name": "KalmanFilter",
     "platforms": "*",
     "repository": {

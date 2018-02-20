@@ -17,12 +17,9 @@
         "RFID",
         "Wiegand",
         "I2C",
-        "MCB1700",
-        "STMPE811",
-        "Touchscreen",
-        "Flash memory",
-        "HEXIWEAR",
-        "nor"
+        "MAX30101",
+        "MSS",
+        "MSU"
     ],
     "name": "HID_Wiegand",
     "platforms": "*",

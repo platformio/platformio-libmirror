@@ -6,10 +6,13 @@
     "description": "This is a library for the PCA9685 ported from the Adafruit Ardiuno library.",
     "frameworks": "mbed",
     "keywords": [
+        "device",
+        "USB",
+        "Freescale",
+        "FXAS21002CQ",
+        "Giroscope",
         "Adafruit",
-        "PCA9685",
-        "Watch Dog Timer",
-        "WDT"
+        "PCA9685"
     ],
     "name": "PCA9685Lib",
     "platforms": "*",

@@ -5,11 +5,7 @@
     },
     "description": "A simple circular array queue with the following methods:",
     "frameworks": "mbed",
-    "keywords": [
-        "mbed",
-        "rpc",
-        "EDP2"
-    ],
+    "keywords": "EDP2",
     "name": "CircularArrayQueue",
     "platforms": "*",
     "repository": {

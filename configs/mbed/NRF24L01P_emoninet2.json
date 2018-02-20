@@ -6,11 +6,14 @@
     "description": "stable library for the Nordic NRF24L01+ radio transciever",
     "frameworks": "mbed",
     "keywords": [
-        "DFU",
-        "STM32F103",
-        "USB",
-        "PDM",
-        "Pulse Density Modulation"
+        "flash",
+        "SPI",
+        "Servo",
+        "servo pulse",
+        "WSE",
+        "bitmap",
+        "BMP",
+        "image"
     ],
     "name": "NRF24L01P",
     "platforms": "*",

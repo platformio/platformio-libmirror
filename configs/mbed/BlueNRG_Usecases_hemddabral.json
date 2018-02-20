@@ -6,16 +6,10 @@
     "description": "This library includes use cases which can be used for replicating BLE use caes.",
     "frameworks": "mbed",
     "keywords": [
-        "log",
-        "logging",
-        "NetServices",
-        "UDP",
-        "UDPLog",
-        "UDPLogging",
-        "Gesture",
-        "I2C",
-        "sensor",
-        "SI1143"
+        "Analog",
+        "AnalogIn",
+        "gyro",
+        "sensor"
     ],
     "name": "BlueNRG_Usecases",
     "platforms": "*",

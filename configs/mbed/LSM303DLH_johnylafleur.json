@@ -9,8 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "TCG",
-        "TPM"
+        "Celsius",
+        "driver",
+        "I2C",
+        "LM75B",
+        "nxp",
+        "sensor",
+        "Temperature"
     ],
     "name": "LSM303DLH",
     "platforms": "*",

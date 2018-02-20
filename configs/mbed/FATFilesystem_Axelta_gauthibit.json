@@ -8,13 +8,7 @@
         "https://os.mbed.com/users/gauthibit/code/SDFileSystem_Axelta/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "EZO",
-        "I2C",
-        "PH sensor",
-        "bus",
-        "PCF8574"
-    ],
+    "keywords": "FATFilesystem_Axelta",
     "name": "FATFilesystem_Axelta",
     "platforms": "*",
     "repository": {

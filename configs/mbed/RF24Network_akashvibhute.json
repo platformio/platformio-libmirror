@@ -11,19 +11,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "emwin",
-        "GUI",
-        "LPC4088",
-        "FOTA",
-        "LPC1768",
-        "SW Update",
-        "sound",
-        "DMX",
         "maniacbug",
         "nRF24L01",
         "nRF24L01P",
         "RF24",
-        "RF24Network"
+        "RF24Network",
+        "driver",
+        "motor",
+        "Stepper"
     ],
     "name": "RF24Network",
     "platforms": "*",

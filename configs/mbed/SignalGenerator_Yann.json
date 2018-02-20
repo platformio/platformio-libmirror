@@ -9,11 +9,6 @@
         "DDS",
         "generator",
         "signal",
-        "display",
-        "driver",
-        "HEXIWEAR",
-        "OLED",
-        "SSD1351",
         "MRF24J40",
         "tranceiver",
         "wireless",
@@ -26,8 +21,7 @@
         "Instances",
         "multiple",
         "rtos",
-        "threads",
-        "SRF02"
+        "threads"
     ],
     "name": "SignalGenerator",
     "platforms": "*",

@@ -6,17 +6,10 @@
     "description": "CLASS for automated serial 'chip select' implimentation utilizing mbed LPC1768 Timer2 hardware and it's inturrupt features.",
     "frameworks": "mbed",
     "keywords": [
-        "F411",
-        "Frequency Counter",
-        "mbed",
         "chip select",
         "master",
         "Serial",
-        "SPI",
-        "AX-12",
-        "ax12",
-        "IOT",
-        "dynamixel"
+        "SPI"
     ],
     "name": "SSEL_spi",
     "platforms": "*",

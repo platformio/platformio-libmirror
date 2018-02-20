@@ -24,8 +24,12 @@
         "RTC",
         "time",
         "api",
-        "command",
-        "Servo"
+        "16x2",
+        "20x2",
+        "20X4",
+        "40x2",
+        "HD4478",
+        "TextLCD"
     ],
     "name": "RTC-DS1307",
     "platforms": "*",

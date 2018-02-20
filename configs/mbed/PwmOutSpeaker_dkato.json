@@ -9,8 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "diferential mobile robot",
+        "L298",
         "audio",
-        "pwm"
+        "pwm",
+        "NaCrDe"
     ],
     "name": "PwmOutSpeaker",
     "platforms": "*",

@@ -11,19 +11,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "DMX",
         "emwin",
         "GUI",
         "LPC4088",
-        "FOTA",
-        "LPC1768",
-        "SW Update",
-        "sound",
-        "DMX",
         "maniacbug",
         "nRF24L01",
         "nRF24L01P",
         "RF24",
-        "RF24Network"
+        "RF24Network",
+        "MAX7456",
+        "osd"
     ],
     "name": "ewgui",
     "platforms": "*",

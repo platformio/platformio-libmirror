@@ -6,18 +6,9 @@
     "description": "Object for MX28 with rs485",
     "frameworks": "mbed",
     "keywords": [
-        "LPS331AP",
-        "mbed",
-        "SPI",
         "dynamixel",
         "MX28",
-        "RS485",
-        "ASCII Communication",
-        "Comm",
-        "FP",
-        "LinkedList",
-        "Serial",
-        "Terminal"
+        "RS485"
     ],
     "name": "MX28",
     "platforms": "*",

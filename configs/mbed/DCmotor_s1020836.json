@@ -5,13 +5,7 @@
     },
     "description": "H-bridge DCmotor controller",
     "frameworks": "mbed",
-    "keywords": [
-        "Cellular",
-        "Grove",
-        "RFID",
-        "SEN11425P",
-        "Serial"
-    ],
+    "keywords": "DCmotor",
     "name": "DCmotor",
     "platforms": "*",
     "repository": {

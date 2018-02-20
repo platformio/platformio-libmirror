@@ -6,18 +6,13 @@
     "description": "XBee API operation library for mbed",
     "frameworks": "mbed",
     "keywords": [
-        "USB",
-        "UVC",
         "api",
         "xbee",
         "zigbee",
-        "ethernet",
-        "compass",
-        "HMC5883L",
-        "radiohead",
-        "L298",
-        "motor",
-        "Stepper"
+        "TeraTerm",
+        "Terminal",
+        "USB",
+        "UVC"
     ],
     "name": "SmartLabXBeeAPI2",
     "platforms": "*",

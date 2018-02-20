@@ -6,13 +6,16 @@
     "description": "I2C EEPROM library for 1k to 512k chip",
     "frameworks": "mbed",
     "keywords": [
-        "BP3595",
-        "network",
-        "ROHM",
-        "WLAN",
         "C24LCXXX",
         "EEPROM",
-        "I2C"
+        "I2C",
+        "K64F",
+        "led",
+        "example",
+        "kitt",
+        "knightrider",
+        "LPC1768",
+        "mbed"
     ],
     "name": "EEPROM",
     "platforms": "*",

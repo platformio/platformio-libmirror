@@ -6,12 +6,10 @@
     "description": "Port of LSM303DLHC with modified registers to work with LSM303D",
     "frameworks": "mbed",
     "keywords": [
-        "motor",
         "LSM303D",
-        "I2C",
-        "LPC800",
-        "LPC800-MAX",
-        "PCA9672"
+        "bitmap",
+        "Graphics",
+        "LCD"
     ],
     "name": "LSM303D",
     "platforms": "*",

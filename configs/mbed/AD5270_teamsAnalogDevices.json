@@ -10,17 +10,7 @@
         "https://os.mbed.com/teams/AnalogDevices/code/CN0396/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "BBC",
-        "Microbit",
-        "MLX90614",
-        "thermometer",
-        "Robotics",
-        "Servo",
-        "AD5270",
-        "Digipot",
-        "2645"
-    ],
+    "keywords": "AD5270",
     "name": "AD5270",
     "platforms": "*",
     "repository": {

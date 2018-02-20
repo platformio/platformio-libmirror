@@ -6,13 +6,14 @@
     "description": "ZumoにFRDM KL-25Zを搭載した時のモーターコントロールライブラリです。",
     "frameworks": "mbed",
     "keywords": [
-        "thermistor",
+        "PCA9629A",
+        "stepper motor",
+        "stepping motor",
+        "Low_Power",
+        "LPC1114",
+        "LPC1114FN28",
         "KL-25Z",
-        "Zumo",
-        "copter",
-        "PPM",
-        "quad",
-        "bma180"
+        "Zumo"
     ],
     "name": "ZumoControl",
     "platforms": "*",

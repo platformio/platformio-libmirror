@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Favre Lucas",
+        "url": "https://os.mbed.com/users/lucas_favre/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Edoardo De Marchi"
+            ],
+            "frameworks": "mbed",
+            "name": "MMA7660FC"
+        }
+    ],
+    "description": "Librairie contenant les fonctions nécessaires pour pouvoir contrôler les différents composants de la carte d'extension MyLab",
+    "examples": [
+        "https://os.mbed.com/users/lucas_favre/code/Example_MyLab_lib/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "joystick",
+        "LCD_12832",
+        "LEDS",
+        "micro",
+        "MMA7660FC",
+        "Temperature;*C;MCP9808"
+    ],
+    "name": "MyLab_Lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/lucas_favre/code/MyLab_Lib/"
+    }
+}

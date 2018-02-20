@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Surasak Nasuriwong",
+        "url": "https://os.mbed.com/users/nsrwsurasak/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "mbed official "
+            ],
+            "frameworks": "mbed",
+            "name": "SDFileSystem"
+        }
+    ],
+    "description": "File manager",
+    "examples": [
+        "https://os.mbed.com/users/Lucyjungz/code/RwSDCard_Xml_GPS/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_L476VG",
+        "N25Q128A",
+        "QSPI",
+        "basic",
+        "flash",
+        "Flasher",
+        "fun",
+        "led",
+        "rgb"
+    ],
+    "name": "FileManager",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/nsrwsurasak/code/FileManager/"
+    }
+}

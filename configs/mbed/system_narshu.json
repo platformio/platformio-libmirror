@@ -5,17 +5,7 @@
     },
     "description": "Eurobot system lib",
     "frameworks": "mbed",
-    "keywords": [
-        "ethernet",
-        "EthernetInterface",
-        "EthernetLibrary",
-        "W5500",
-        "WIZ550IO",
-        "Wiznet",
-        "5110",
-        "Nokia",
-        "TextLCD"
-    ],
+    "keywords": "system",
     "name": "system",
     "platforms": "*",
     "repository": {

@@ -8,15 +8,7 @@
         "https://os.mbed.com/teams/Senet/code/Senet-NAMote/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "geo",
-        "GPS",
-        "latitude",
-        "longitude",
-        "navigation",
-        "LEDcontroller",
-        "TM1637"
-    ],
+    "keywords": "GeoPosition",
     "name": "GeoPosition",
     "platforms": "*",
     "repository": {

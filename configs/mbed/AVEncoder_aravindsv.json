@@ -9,15 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "arithmetic",
-        "fixed",
-        "point",
         "Encoder",
-        "adc",
-        "driver",
-        "HX711",
-        "library",
-        "Weigh scales"
+        "assert",
+        "debug",
+        "mbed",
+        "rgb",
+        "utility",
+        "led",
+        "tricolor"
     ],
     "name": "AVEncoder",
     "platforms": "*",

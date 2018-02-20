@@ -10,11 +10,7 @@
         "https://os.mbed.com/users/seanburford/code/xtrinsic_sensors/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "accelererometer",
-        "ADXL345",
-        "I2C"
-    ],
+    "keywords": "MARMEX_OB_oled",
     "name": "MMA8491Q",
     "platforms": "*",
     "repository": {

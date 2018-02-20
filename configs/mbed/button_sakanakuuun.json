@@ -5,7 +5,10 @@
     },
     "description": "aa",
     "frameworks": "mbed",
-    "keywords": "button",
+    "keywords": [
+        "LCD",
+        "MCP3204"
+    ],
     "name": "button",
     "platforms": "*",
     "repository": {

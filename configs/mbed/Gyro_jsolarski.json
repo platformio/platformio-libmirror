@@ -6,12 +6,10 @@
     "description": "Gyro Library for the Gyro Breakout Board - LISY300AL 300°/s from sparkfun",
     "frameworks": "mbed",
     "keywords": [
-        "DigitalIn",
         "Analog",
         "AnalogIn",
         "gyro",
-        "sensor",
-        "LCD"
+        "sensor"
     ],
     "name": "Gyro",
     "platforms": "*",

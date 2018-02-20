@@ -8,11 +8,7 @@
         "https://os.mbed.com/users/jimconner/code/mbed_oled/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "ds1621",
-        "I2C",
-        "Temperature"
-    ],
+    "keywords": "hx711",
     "name": "hx711",
     "platforms": "*",
     "repository": {

@@ -11,6 +11,7 @@
     "keywords": [
         "map",
         "rescale",
+        "MCP23S17",
         "DC",
         "driver",
         "H-bridge",
@@ -21,8 +22,7 @@
         "STM32F0",
         "STM32F1",
         "STM32L1",
-        "USBDevice",
-        "MCP23S17"
+        "USBDevice"
     ],
     "name": "reScale",
     "platforms": "*",

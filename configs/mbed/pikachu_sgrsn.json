@@ -5,7 +5,13 @@
     },
     "description": "pikachu!!pikapikka!!",
     "frameworks": "mbed",
-    "keywords": "pikachu",
+    "keywords": [
+        "pikachu",
+        "ds1302",
+        "Linear Time Code",
+        "LTC",
+        "SMPTE"
+    ],
     "name": "pikachu",
     "platforms": "*",
     "repository": {

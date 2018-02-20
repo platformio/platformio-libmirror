@@ -5,10 +5,7 @@
     },
     "description": "ver:init",
     "frameworks": "mbed",
-    "keywords": [
-        "migool",
-        "BLE"
-    ],
+    "keywords": "BLE",
     "name": "TARGET_ST_BLUENRG",
     "platforms": "*",
     "repository": {

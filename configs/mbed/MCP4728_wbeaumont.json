@@ -9,10 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "acd52832",
+        "aconno",
+        "Nordic",
+        "nrf52",
         "dac",
-        "MCP4728",
-        "DS1337",
-        "I2C"
+        "MCP4728"
     ],
     "name": "MCP4728",
     "platforms": "*",

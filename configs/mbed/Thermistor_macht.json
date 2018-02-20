@@ -9,13 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "thermistor",
-        "KL-25Z",
-        "Zumo",
-        "copter",
-        "PPM",
-        "quad",
-        "bma180"
+        "bma180",
+        "polling",
+        "scheduling",
+        "timing",
+        "thermistor"
     ],
     "name": "Thermistor",
     "platforms": "*",

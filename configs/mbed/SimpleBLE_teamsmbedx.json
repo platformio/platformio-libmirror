@@ -10,20 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "https",
-        "HTTPSClient",
-        "security",
-        "SSL",
-        "TLS",
         "BLE",
         "bluetooth",
         "simpleble",
         "Adafruit_GFX",
-        "NTP",
         "CAN",
         "control",
         "port",
-        "slope"
+        "slope",
+        "NTP"
     ],
     "name": "SimpleBLE",
     "platforms": "*",

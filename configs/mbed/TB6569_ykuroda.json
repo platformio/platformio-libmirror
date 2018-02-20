@@ -6,15 +6,15 @@
     "description": "TB6569 - Toshiba's DC motor driver",
     "frameworks": "mbed",
     "keywords": [
-        "hotboards",
-        "MCP9808",
-        "sesnor",
-        "Temp",
+        "BP3595",
+        "network",
+        "ROHM",
+        "WLAN",
+        "Communication",
+        "debugging",
+        "rpc",
         "driver",
-        "motor",
-        "LCD",
-        "Serial",
-        "sparkfun"
+        "motor"
     ],
     "name": "TB6569",
     "platforms": "*",

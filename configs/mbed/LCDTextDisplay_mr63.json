@@ -6,16 +6,12 @@
     "description": "4-Line LCD Text Display. This is a simple library that can be used to print a formatted string on a 2 or 4 line Hitachi parallel display. By calling a single Method.",
     "frameworks": "mbed",
     "keywords": [
-        "MISAKI",
-        "OLED",
-        "SEL10016Y",
-        "WS0010",
-        "debounce",
-        "DebounceIn",
-        "DHT11",
         "LCD",
         "LCD 16x2",
-        "Parallel LCD"
+        "Parallel LCD",
+        "debounce",
+        "DebounceIn",
+        "DHT11"
     ],
     "name": "LCD TextDisplay",
     "platforms": "*",

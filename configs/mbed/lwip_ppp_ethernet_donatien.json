@@ -9,17 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "clock",
-        "ds1307",
-        "RTC",
         "SSL",
         "TLS",
-        "EFM32",
-        "Gecko",
-        "SegmentLCD",
-        "SiLabs",
-        "Silicon Labs",
-        "silicon_labs"
+        "clock",
+        "ds1307",
+        "RTC"
     ],
     "name": "lwip_ppp_ethernet",
     "platforms": "*",

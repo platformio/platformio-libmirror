@@ -9,9 +9,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "mail",
-        "network",
-        "pop3",
         "bounce",
         "BUTTON",
         "contact",
@@ -19,9 +16,8 @@
         "navigation",
         "repeat",
         "switch",
-        "http",
-        "SSL",
-        "TLS"
+        "MIDI",
+        "pwm"
     ],
     "name": "RepeatButton",
     "platforms": "*",

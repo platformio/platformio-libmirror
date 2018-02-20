@@ -6,11 +6,10 @@
     "description": "BLE HearRate example",
     "frameworks": "mbed",
     "keywords": [
-        "LEDcontroller",
-        "TM1637",
         "BLE",
         "BLE Bluetooth Low Energy BLE",
-        "HearRate"
+        "HearRate",
+        "Lidar"
     ],
     "name": "mbed-os-example-ble-HeartRate",
     "platforms": "*",

@@ -6,10 +6,16 @@
     "description": "Library to read the DC-SS500 temp/humidity sensor from sure electronics",
     "frameworks": "mbed",
     "keywords": [
+        "clock",
+        "DS3232",
+        "I2C",
+        "RTC",
+        "time",
         "Humidity",
         "sensor",
         "sure",
-        "Temperature"
+        "Temperature",
+        "HEJ"
     ],
     "name": "dcss500",
     "platforms": "*",

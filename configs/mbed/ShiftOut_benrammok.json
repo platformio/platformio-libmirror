@@ -13,7 +13,10 @@
         "Register",
         "shift",
         "Shift Register",
-        "SN74HC595N"
+        "SN74HC595N",
+        "adc",
+        "DIFF",
+        "K64F"
     ],
     "name": "ShiftOut",
     "platforms": "*",

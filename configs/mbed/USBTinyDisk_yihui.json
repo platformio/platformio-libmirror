@@ -9,7 +9,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "JY901",
         "1",
         "2",
         "digimesh",
@@ -18,7 +17,8 @@
         "xbee",
         "zigbee",
         "fs",
-        "USB"
+        "USB",
+        "JY901"
     ],
     "name": "USBTinyDisk",
     "platforms": "*",

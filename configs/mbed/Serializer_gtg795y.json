@@ -6,11 +6,11 @@
     "description": "Serializer",
     "frameworks": "mbed",
     "keywords": [
+        "LCD",
+        "Serial",
         "Serializer",
-        "filesystem",
-        "MSD",
-        "SD",
-        "USB"
+        "AT",
+        "parser"
     ],
     "name": "Serializer",
     "platforms": "*",

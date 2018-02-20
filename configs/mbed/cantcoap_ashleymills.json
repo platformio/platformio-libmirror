@@ -10,13 +10,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "CoAP",
-        "IOT",
-        "buffer",
-        "ringbuffer",
-        "Template Buffer",
         "LCD",
-        "ST7565"
+        "ST7565",
+        "CoAP",
+        "IOT"
     ],
     "name": "cantcoap",
     "platforms": "*",

@@ -6,10 +6,13 @@
     "description": "Serial Monitor using a specific PC application: XMON",
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit",
-        "GFX",
-        "LCD",
-        "TFT"
+        "audio",
+        "CODEC",
+        "Cortex-M7",
+        "DISCO-F746NG",
+        "Mikami",
+        "SD Card",
+        "skeleton"
     ],
     "name": "XMONlib",
     "platforms": "*",

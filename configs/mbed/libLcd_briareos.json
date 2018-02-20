@@ -6,13 +6,13 @@
     "description": "I2C LCD Library",
     "frameworks": "mbed",
     "keywords": [
-        "Grove",
-        "heartrate",
+        "9Dof-Stick",
+        "gyro",
+        "ITG3200",
         "sensor",
-        "control",
-        "Heater",
-        "Temperature",
-        "GPS"
+        "DA7212",
+        "I2S",
+        "TLV320"
     ],
     "name": "libLcd",
     "platforms": "*",

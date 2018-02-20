@@ -5,15 +5,7 @@
     },
     "description": "Renvoi erreur",
     "frameworks": "mbed",
-    "keywords": [
-        "accelerometer",
-        "I2C",
-        "MMA8452Q",
-        "buffer",
-        "BufferedSerial",
-        "BufferSerial",
-        "Serial"
-    ],
+    "keywords": "Erreur",
     "name": "Erreur",
     "platforms": "*",
     "repository": {

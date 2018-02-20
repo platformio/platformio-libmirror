@@ -13,20 +13,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "development",
-        "SDK",
-        "sources",
-        "millis",
-        "display",
-        "KS0107",
-        "KS0108",
         "fatfilesystem",
         "MSD",
         "SD",
         "USB",
-        "ethernet",
-        "ip",
-        "mbed"
+        "millis"
     ],
     "name": "millis",
     "platforms": "*",

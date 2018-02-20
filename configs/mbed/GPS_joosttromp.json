@@ -9,12 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "arduino",
-        "Gameduino",
-        "mbeduino",
-        "AS5048",
-        "rotary sensor",
-        "SPI"
+        "led",
+        "pwm",
+        "Ticker"
     ],
     "name": "GPS",
     "platforms": "*",

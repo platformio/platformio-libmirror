@@ -6,8 +6,12 @@
     "description": "YGE25i",
     "frameworks": "mbed",
     "keywords": [
-        "debouncing",
-        "Interrupt Handling"
+        "dac",
+        "Host",
+        "Isochronous",
+        "USB",
+        "Kalmanfilter",
+        "L3GD20 ADXL345"
     ],
     "name": "YGE25i",
     "platforms": "*",

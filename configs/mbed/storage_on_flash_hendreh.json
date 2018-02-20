@@ -5,12 +5,7 @@
     },
     "description": "Stores data on the flash memory of stm32f4xx",
     "frameworks": "mbed",
-    "keywords": [
-        "flash",
-        "Axeda",
-        "LPC1114FN28",
-        "sound"
-    ],
+    "keywords": "flash",
     "name": "storage_on_flash",
     "platforms": "*",
     "repository": {

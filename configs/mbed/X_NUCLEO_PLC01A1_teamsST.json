@@ -8,16 +8,7 @@
         "https://os.mbed.com/teams/ST/code/HelloWorld_PLC01A1/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "broadcast",
-        "multicast",
-        "UDP",
-        "brushDC",
-        "driver",
-        "L6206",
-        "motor",
-        "ST"
-    ],
+    "keywords": "X_NUCLEO_PLC01A1",
     "name": "X_NUCLEO_PLC01A1",
     "platforms": "*",
     "repository": {

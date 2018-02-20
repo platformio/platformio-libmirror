@@ -6,10 +6,14 @@
     "description": "z",
     "frameworks": "mbed",
     "keywords": [
-        "H-bridge",
-        "I2C",
-        "MD25",
-        "motor"
+        "1D",
+        "2D",
+        "array",
+        "matrix",
+        "accelerometer",
+        "mma7361",
+        "kl46z",
+        "MAG3110"
     ],
     "name": "mbed_blinkylib",
     "platforms": "*",

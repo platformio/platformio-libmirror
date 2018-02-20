@@ -9,16 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "SSL",
+        "TLS",
         "buzzer",
         "music",
         "RTTTL",
-        "sound",
-        "EFM32",
-        "Gecko",
-        "SegmentLCD",
-        "SiLabs",
-        "Silicon Labs",
-        "silicon_labs"
+        "sound"
     ],
     "name": "BuzzerLib",
     "platforms": "*",

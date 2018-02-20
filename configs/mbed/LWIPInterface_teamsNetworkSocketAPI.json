@@ -12,11 +12,7 @@
         "https://os.mbed.com/teams/ROHM-Developers/code/HelloLWIPBP3595Interface/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Light Sensor Array",
-        "pololu",
-        "QTR"
-    ],
+    "keywords": "LWIPInterface",
     "name": "LWIPInterface",
     "platforms": "*",
     "repository": {

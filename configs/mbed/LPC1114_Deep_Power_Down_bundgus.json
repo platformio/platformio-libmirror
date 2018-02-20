@@ -9,10 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BME280",
+        "PCA9629A",
+        "stepper motor",
+        "stepping motor",
         "Low_Power",
         "LPC1114",
-        "LPC1114FN28"
+        "LPC1114FN28",
+        "KL-25Z",
+        "Zumo"
     ],
     "name": "LPC1114_Deep_Power_Down",
     "platforms": "*",

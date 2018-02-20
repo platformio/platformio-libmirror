@@ -6,10 +6,17 @@
     "description": "SI114x UV index, IR and Visible Light sensor",
     "frameworks": "mbed",
     "keywords": [
-        "EM406",
-        "GPS",
-        "library",
-        "Serial"
+        "Host",
+        "Paradigma",
+        "Pelletti",
+        "USB",
+        "EEPROM",
+        "flash",
+        "IAP",
+        "In-Application",
+        "internal",
+        "memory",
+        "programming"
     ],
     "name": "SI114x",
     "platforms": "*",

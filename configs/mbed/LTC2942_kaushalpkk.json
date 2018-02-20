@@ -5,11 +5,7 @@
     },
     "description": "LTC2942 interface with interrupt and battery register calculations",
     "frameworks": "mbed",
-    "keywords": [
-        "accelerometer",
-        "aconno",
-        "MMA8452"
-    ],
+    "keywords": "LTC2942",
     "name": "LTC2942",
     "platforms": "*",
     "repository": {

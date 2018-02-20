@@ -10,17 +10,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "parallax",
-        "PING",
-        "ping)))",
-        "sensor",
-        "ultrasonic",
+        "flash",
+        "SPI",
         "Servo",
         "servo pulse",
         "WSE",
-        "timer",
-        "Ton",
-        "wait"
+        "bitmap",
+        "BMP",
+        "image"
     ],
     "name": "SERVOGEN",
     "platforms": "*",

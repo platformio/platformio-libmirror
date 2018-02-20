@@ -9,12 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "\\",
+        "manager\\",
+        "Scheduler",
+        "task",
         "BUTTON",
         "click",
         "debounce",
-        "display",
-        "menu",
-        "push buttons"
+        "F411",
+        "Frequency Counter"
     ],
     "name": "MultiClick",
     "platforms": "*",

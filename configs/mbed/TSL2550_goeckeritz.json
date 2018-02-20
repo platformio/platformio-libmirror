@@ -6,8 +6,6 @@
     "description": "This library gets information from TSL2550 ambient light sensor through SMBus / I²C.",
     "frameworks": "mbed",
     "keywords": [
-        "cube",
-        "led",
         "ambient",
         "light",
         "TSL2550"

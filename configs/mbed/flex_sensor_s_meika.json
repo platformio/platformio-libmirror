@@ -10,8 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AM2321",
-        "Nunchuk"
+        "mutex",
+        "rtos",
+        "MPU6050",
+        "MPU9250",
+        "HY-1.8",
+        "ST7735"
     ],
     "name": "flex_sensor",
     "platforms": "*",

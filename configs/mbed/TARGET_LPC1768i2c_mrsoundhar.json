@@ -6,11 +6,15 @@
     "description": "myi2c test",
     "frameworks": "mbed",
     "keywords": [
-        "AES",
-        "MD2",
-        "md5",
-        "RC4",
-        "SHA"
+        "fm",
+        "Radio",
+        "RDA5807M",
+        "RDS",
+        "LFSR",
+        "Linear Feedback Shift Register",
+        "Number Generator",
+        "Pseudo",
+        "Random"
     ],
     "name": "TARGET_LPC1768i2c",
     "platforms": "*",

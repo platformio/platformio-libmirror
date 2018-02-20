@@ -6,9 +6,13 @@
     "description": "This makes the blink delay for a bit longer and the button presses are delayed too.",
     "frameworks": "mbed",
     "keywords": [
-        "file",
-        "Local",
-        "System"
+        "ultrasonico",
+        "I2C",
+        "game",
+        "inheritance",
+        "OOP",
+        "polymorphism",
+        "tutorial"
     ],
     "name": "blink_kl46z_button_LCD_delays",
     "platforms": "*",

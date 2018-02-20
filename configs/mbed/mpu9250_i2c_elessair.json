@@ -5,7 +5,12 @@
     },
     "description": "first release",
     "frameworks": "mbed",
-    "keywords": "mpu9250_i2c",
+    "keywords": [
+        "C027",
+        "C030",
+        "CellularInterface",
+        "u-blox"
+    ],
     "name": "mpu9250_i2c",
     "platforms": "*",
     "repository": {

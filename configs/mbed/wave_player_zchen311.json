@@ -16,11 +16,7 @@
         "Serial",
         "TextDisplay",
         "TextDisplays",
-        "TextLCD",
-        "distance",
-        "driver",
-        "sensor",
-        "VL6180x"
+        "TextLCD"
     ],
     "name": "wave_player",
     "platforms": "*",

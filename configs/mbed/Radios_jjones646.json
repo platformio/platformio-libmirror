@@ -5,7 +5,12 @@
     },
     "description": "Radio Structures in OOP",
     "frameworks": "mbed",
-    "keywords": "Radios",
+    "keywords": [
+        "filesystem",
+        "MSD",
+        "SD",
+        "USB"
+    ],
     "name": "Radios",
     "platforms": "*",
     "repository": {

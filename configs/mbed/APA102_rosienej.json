@@ -6,6 +6,8 @@
     "description": "Routines to drive a chain of APA102 Leds.",
     "frameworks": "mbed",
     "keywords": [
+        "AT45DBxx",
+        "USBMSD",
         "F401RE",
         "mma7361",
         "Nucleo"

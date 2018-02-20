@@ -9,15 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "KL25z",
-        "light sensor",
-        "Wi-Go",
         "F401RE",
         "L3GD20",
         "Nucleo",
-        "tcp/ip",
-        "WiFly",
-        "led"
+        "checksum"
     ],
     "name": "L3GD20",
     "platforms": "*",

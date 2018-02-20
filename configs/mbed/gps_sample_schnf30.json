@@ -8,7 +8,12 @@
         "https://os.mbed.com/users/schnf30/code/Test_gps_sample/"
     ],
     "frameworks": "mbed",
-    "keywords": "gps_sample",
+    "keywords": [
+        "api",
+        "Digi",
+        "xbee",
+        "zigbee"
+    ],
     "name": "gps_sample",
     "platforms": "*",
     "repository": {

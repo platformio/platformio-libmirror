@@ -6,14 +6,14 @@
     "description": "Library for 4D systems touchscreen",
     "frameworks": "mbed",
     "keywords": [
-        "COMMAND PARSER",
-        "serial command",
-        "uart interupt",
         "clock",
         "ds1307",
         "real",
         "RTC",
-        "time"
+        "time",
+        "Encoder",
+        "QEI",
+        "quadrature"
     ],
     "name": "TouchScreen",
     "platforms": "*",

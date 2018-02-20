@@ -9,7 +9,8 @@
         "Futaba",
         "MODSERIAL",
         "SBUS",
-        "Serial"
+        "Serial",
+        "LSM303DLH"
     ],
     "name": "FutabaSBUS",
     "platforms": "*",

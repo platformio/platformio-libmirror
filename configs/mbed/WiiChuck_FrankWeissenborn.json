@@ -8,7 +8,13 @@
         "https://os.mbed.com/users/k4zuki/code/WiiNunchuckTest/"
     ],
     "frameworks": "mbed",
-    "keywords": "WiiChuck",
+    "keywords": [
+        "compass",
+        "driver",
+        "HMC5583L",
+        "I2C",
+        "sensor"
+    ],
     "name": "WiiChuck",
     "platforms": "*",
     "repository": {

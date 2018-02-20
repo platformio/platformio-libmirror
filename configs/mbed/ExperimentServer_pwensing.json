@@ -14,9 +14,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "F746NG",
-        "RTC",
-        "Touchscreen"
+        "IOT",
+        "sigfox",
+        "AM2303",
+        "DHT22",
+        "Humidity",
+        "Temperature"
     ],
     "name": "ExperimentServer",
     "platforms": "*",

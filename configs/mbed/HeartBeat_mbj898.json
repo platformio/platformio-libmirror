@@ -13,7 +13,12 @@
         "DAY",
         "heartbeat",
         "RIT",
-        "HDC1000"
+        "hang",
+        "I2C",
+        "KL25z",
+        "lockup",
+        "ethernet",
+        "NTP"
     ],
     "name": "HeartBeat",
     "platforms": "*",

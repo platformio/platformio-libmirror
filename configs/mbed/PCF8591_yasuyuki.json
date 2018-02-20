@@ -9,19 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "adc",
-        "current",
-        "INA226",
-        "Instruments",
-        "monitor",
-        "Power",
-        "Texas",
-        "voltage",
-        "interrupt",
-        "irq",
-        "KL25z",
-        "NVIC",
-        "priority"
+        "I2C",
+        "ranger",
+        "SRF02",
+        "ultrasonic"
     ],
     "name": "PCF8591",
     "platforms": "*",

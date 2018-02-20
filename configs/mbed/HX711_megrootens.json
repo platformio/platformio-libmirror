@@ -9,6 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "adc",
+        "HX711",
+        "HC05",
         "AT",
         "commands",
         "control",
@@ -16,9 +19,11 @@
         "modem",
         "USB",
         "Vodafone",
-        "HC05",
-        "adc",
-        "HX711"
+        "4D system",
+        "LCD",
+        "Picaso",
+        "AquesTalk",
+        "ATP3011"
     ],
     "name": "HX711",
     "platforms": "*",

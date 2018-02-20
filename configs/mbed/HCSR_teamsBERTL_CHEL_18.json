@@ -18,19 +18,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "2015",
-        "Bertl",
-        "game pad",
-        "gamepad",
-        "USB Host",
-        "USBHOST",
-        "Xbox",
-        "xbox360",
-        "EEPROM",
-        "flash",
-        "stm32f10x",
-        "Radio",
-        "transceiver"
+        "accelerometer",
+        "Grove",
+        "I2C",
+        "MMA7660FC"
     ],
     "name": "HCSR",
     "platforms": "*",

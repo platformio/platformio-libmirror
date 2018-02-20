@@ -5,21 +5,7 @@
     },
     "description": "Infrared remote test functions (11/26/2010)",
     "frameworks": "mbed",
-    "keywords": [
-        "AD5933",
-        "AD5934",
-        "Capacitance",
-        "impedance",
-        "measure",
-        "Meter",
-        "resistance",
-        "RenBED",
-        "RenBuggy",
-        "Renishaw",
-        "can bus",
-        "Nucleo",
-        "NUCLEO-F103RB"
-    ],
+    "keywords": "Infrared",
     "name": "Infrared",
     "platforms": "*",
     "repository": {

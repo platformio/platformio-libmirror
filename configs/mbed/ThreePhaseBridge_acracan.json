@@ -12,13 +12,9 @@
     "keywords": [
         "etti",
         "TUIASI",
-        "hih6130",
-        "Humidity",
-        "I2C",
-        "sensor",
-        "Temperature",
-        "D6F-PH",
-        "pressure"
+        "decoder",
+        "Encoder",
+        "Morse"
     ],
     "name": "ThreePhaseBridge",
     "platforms": "*",

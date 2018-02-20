@@ -7,12 +7,16 @@
     "frameworks": "mbed",
     "keywords": [
         "LCD",
-        "accelerometer",
-        "ADXL345",
-        "senor",
         "OneWire",
         "protocols",
-        "sensors"
+        "sensors",
+        "arduino",
+        "SDCard",
+        "Seeedstudio",
+        "TFT",
+        "touch",
+        "MPL3115A2",
+        "sparkfun"
     ],
     "name": "DigoleSerialDisp",
     "platforms": "*",

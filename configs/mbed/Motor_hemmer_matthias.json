@@ -6,12 +6,11 @@
     "description": "for Bertl2014 HTL-Graz-Göoesting",
     "frameworks": "mbed",
     "keywords": [
-        "adc",
-        "dac",
-        "interrupt",
-        "Nucleo F446",
-        "polling",
-        "STM32F446"
+        "I2C",
+        "MAG3110",
+        "magnetometer",
+        "buffer",
+        "ring"
     ],
     "name": "Motor",
     "platforms": "*",

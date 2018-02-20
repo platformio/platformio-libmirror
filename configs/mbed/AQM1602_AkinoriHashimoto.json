@@ -12,13 +12,8 @@
         "MPU9150",
         "Quaternion",
         "vector",
-        "minutes",
-        "seconds",
-        "stopwatch",
-        "timer",
-        "watch",
-        "L6470",
-        "AQM1602"
+        "AQM1602",
+        "L6470"
     ],
     "name": "AQM1602",
     "platforms": "*",

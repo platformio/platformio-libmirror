@@ -9,9 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "ILI9163",
         "Nucleo",
         "STM32F446",
-        "USBDevice"
+        "USBDevice",
+        "actuators",
+        "commnunications",
+        "interfaces",
+        "sensors"
     ],
     "name": "DnsQuery",
     "platforms": "*",

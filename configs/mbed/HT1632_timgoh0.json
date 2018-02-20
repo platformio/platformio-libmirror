@@ -15,7 +15,12 @@
         "HT1632",
         "led",
         "matrix",
-        "sure"
+        "sure",
+        "accelerometer",
+        "BMC050",
+        "Bosch",
+        "Field",
+        "magnetic"
     ],
     "name": "HT1632",
     "platforms": "*",

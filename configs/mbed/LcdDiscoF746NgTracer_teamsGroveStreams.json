@@ -9,16 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "F103RB",
-        "rpc",
-        "stm32",
+        "LPS22HB",
+        "pressure",
         "DISCO-F746",
         "LCD",
         "Tracing",
-        "AM2303",
-        "DHT22",
-        "Humidity",
-        "Temperature"
+        "device",
+        "USB"
     ],
     "name": "LcdDiscoF746NgTracer",
     "platforms": "*",

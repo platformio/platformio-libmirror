@@ -5,7 +5,11 @@
     },
     "description": "init",
     "frameworks": "mbed",
-    "keywords": "TLC5940",
+    "keywords": [
+        "arduino",
+        "mbed",
+        "Serial"
+    ],
     "name": "TLC5940",
     "platforms": "*",
     "repository": {

@@ -13,12 +13,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "at25sf041",
+        "flash",
+        "SPI",
+        "AD7790",
+        "adc",
         "Encoder",
         "feedback",
         "motor",
-        "sensor",
-        "DS1338",
-        "I2C"
+        "sensor"
     ],
     "name": "HALLFX_ENCODER",
     "platforms": "*",

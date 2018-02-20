@@ -5,7 +5,14 @@
     },
     "description": "Calculate the temperature of NTC thermistor",
     "frameworks": "mbed",
-    "keywords": "rfduino",
+    "keywords": [
+        "api",
+        "blink",
+        "led",
+        "Flash memory",
+        "HEXIWEAR",
+        "nor"
+    ],
     "name": "NTC",
     "platforms": "*",
     "repository": {

@@ -6,8 +6,17 @@
     "description": "Adafruit PWM Servo Driver Library for mbed.",
     "frameworks": "mbed",
     "keywords": [
-        "AD7606",
-        "SPI"
+        "6005BG00",
+        "buzzcard",
+        "HID",
+        "ProxCard",
+        "ProxPoint",
+        "RFID",
+        "Wiegand",
+        "I2C",
+        "MAX30101",
+        "MSS",
+        "MSU"
     ],
     "name": "AdafruitPwmServoDriver",
     "platforms": "*",

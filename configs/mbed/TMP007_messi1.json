@@ -5,16 +5,7 @@
     },
     "description": "Drivber for Ti's TMP007 Infrared Thermopile Sensor with Integrated Math Engine",
     "frameworks": "mbed",
-    "keywords": [
-        "DMP",
-        "IMU",
-        "invensense",
-        "MPU605-DMP",
-        "MPU6050",
-        "Quaternion",
-        "Tilty",
-        "TiltyIMU"
-    ],
+    "keywords": "74HC165",
     "name": "TMP007",
     "platforms": "*",
     "repository": {

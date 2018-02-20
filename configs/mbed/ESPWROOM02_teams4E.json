@@ -5,7 +5,12 @@
     },
     "description": "モジュールとシリアル通信の設定（server,client）",
     "frameworks": "mbed",
-    "keywords": "wifiモジュール",
+    "keywords": [
+        "aqm0802",
+        "I2C",
+        "LCD",
+        "wifiモジュール"
+    ],
     "name": "ESPWROOM02",
     "platforms": "*",
     "repository": {

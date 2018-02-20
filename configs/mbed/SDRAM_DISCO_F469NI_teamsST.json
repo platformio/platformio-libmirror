@@ -10,13 +10,7 @@
     "frameworks": "mbed",
     "keywords": [
         "DISCO_F469NI",
-        "sdram",
-        "log",
-        "logger",
-        "logging",
-        "LPC4088QSB",
-        "MSD",
-        "USBHOST"
+        "sdram"
     ],
     "name": "SDRAM_DISCO_F469NI",
     "platforms": "*",

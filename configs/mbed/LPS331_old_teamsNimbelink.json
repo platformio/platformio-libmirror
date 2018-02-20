@@ -6,13 +6,9 @@
     "description": "Fork of original LPS331 library",
     "frameworks": "mbed",
     "keywords": [
-        "ELEC3880",
-        "gait",
-        "hexapod",
-        "Leeds",
-        "PCA9685",
-        "robot",
-        "Servo"
+        "FIFO",
+        "lifo",
+        "ringbuffer"
     ],
     "name": "LPS331_old",
     "platforms": "*",

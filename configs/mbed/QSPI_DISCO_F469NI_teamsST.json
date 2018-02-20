@@ -9,12 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "LPC4088QSB",
+        "MSD",
+        "USBHOST",
         "DISCO_F469NI",
-        "QSPI",
-        "socket",
-        "wifi",
-        "WifiPlusClick",
-        "WLAN"
+        "QSPI"
     ],
     "name": "QSPI_DISCO_F469NI",
     "platforms": "*",

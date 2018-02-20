@@ -10,13 +10,7 @@
         "https://os.mbed.com/users/arlindonm/code/ProjetoBB/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "AT93C46",
-        "EEPROM",
-        "aqm0802",
-        "I2C",
-        "LCD"
-    ],
+    "keywords": "flash",
     "name": "mcp3008",
     "platforms": "*",
     "repository": {

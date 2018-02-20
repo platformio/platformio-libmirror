@@ -12,7 +12,11 @@
         "https://os.mbed.com/teams/Terrabots/code/DUMP_TRUCK_SPR2017/"
     ],
     "frameworks": "mbed",
-    "keywords": "mbed",
+    "keywords": [
+        "piezo",
+        "pwm",
+        "m3pi"
+    ],
     "name": "MotorV2",
     "platforms": "*",
     "repository": {

@@ -9,7 +9,14 @@
         "https://os.mbed.com/teams/robocon_2016/code/2016_slave_MD_rorikon/"
     ],
     "frameworks": "mbed",
-    "keywords": "PID",
+    "keywords": [
+        "PID",
+        "minutes",
+        "seconds",
+        "stopwatch",
+        "timer",
+        "watch"
+    ],
     "name": "PID",
     "platforms": "*",
     "repository": {

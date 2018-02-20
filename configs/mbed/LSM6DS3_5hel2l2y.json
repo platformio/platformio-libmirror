@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Sherry Yang",
+        "url": "https://os.mbed.com/users/5hel2l2y/"
+    },
+    "description": "LSM6DS3 Library",
+    "examples": [
+        "https://os.mbed.com/users/5hel2l2y/code/LSM6DS3_Demo/",
+        "https://os.mbed.com/users/5hel2l2y/code/BLE_LoopbackUART_with_LSM6DS3/",
+        "https://os.mbed.com/users/oreo329/code/I2C_LSM6DS3/",
+        "https://os.mbed.com/users/rsmits/code/angle_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LSM6DS3",
+    "name": "LSM6DS3",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/5hel2l2y/code/LSM6DS3/"
+    }
+}

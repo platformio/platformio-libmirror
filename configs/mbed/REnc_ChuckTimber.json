@@ -9,7 +9,10 @@
         "https://os.mbed.com/users/ChuckTimber/code/Gemphet8/"
     ],
     "frameworks": "mbed",
-    "keywords": "REnc",
+    "keywords": [
+        "YMZ294",
+        "sensors"
+    ],
     "name": "REnc",
     "platforms": "*",
     "repository": {

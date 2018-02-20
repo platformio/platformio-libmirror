@@ -11,12 +11,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "802.15.4",
+        "wireless",
+        "xbee",
         "Nucleo",
         "PCA9685",
-        "pwm controller",
-        "rpc",
-        "BSP",
-        "DISCO_L476VG"
+        "pwm controller"
     ],
     "name": "PCA9685PWM",
     "platforms": "*",

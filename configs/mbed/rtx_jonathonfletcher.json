@@ -6,9 +6,12 @@
     "description": "in OS_TSK, rename run as tsk_run and new as tsk_new.",
     "frameworks": "mbed",
     "keywords": [
+        "RTX",
         "DISCO_L476VG",
         "LCD",
-        "RTX"
+        "AD-128160-UART",
+        "AITENDO",
+        "Serial"
     ],
     "name": "rtx",
     "platforms": "*",

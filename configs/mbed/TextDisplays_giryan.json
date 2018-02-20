@@ -8,17 +8,7 @@
         "https://os.mbed.com/users/giryan/code/TextLCD_Serial/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "AES",
-        "MD2",
-        "md5",
-        "RC4",
-        "SHA",
-        "Callback",
-        "FunctionPointer",
-        "Functor",
-        "ROS"
-    ],
+    "keywords": "TextDisplays",
     "name": "TextDisplays",
     "platforms": "*",
     "repository": {

@@ -6,9 +6,10 @@
     "description": "Kalman filter for Eurobot",
     "frameworks": "mbed",
     "keywords": [
+        "counter",
+        "pulse",
         "ICRS",
-        "kalman",
-        "GR-PEACH"
+        "kalman"
     ],
     "name": "Kalman",
     "platforms": "*",

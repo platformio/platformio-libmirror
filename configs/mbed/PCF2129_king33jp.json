@@ -6,20 +6,11 @@
     "description": "RTC PCF2129 Library",
     "frameworks": "mbed",
     "keywords": [
-        "alphanumeric",
-        "display",
-        "HCMS2975",
+        "brightness",
+        "high",
         "led",
         "PCF2129",
-        "RTC",
-        "MPU6000",
-        "MPU6050",
-        "MPU60x0",
-        "csv",
-        "cumulocity",
-        "Embedded",
-        "rest",
-        "smart"
+        "RTC"
     ],
     "name": "PCF2129",
     "platforms": "*",

@@ -12,12 +12,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "arithmetic",
-        "Expression",
-        "Linear",
-        "matrix",
-        "Template",
-        "vector"
+        "cmsis",
+        "rtos",
+        "RTX"
     ],
     "name": "bloc_io",
     "platforms": "*",

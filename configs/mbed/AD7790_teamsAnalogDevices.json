@@ -10,8 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "at25sf041",
+        "flash",
+        "SPI",
         "AD7790",
-        "adc"
+        "adc",
+        "Encoder",
+        "feedback",
+        "motor",
+        "sensor"
     ],
     "name": "AD7790",
     "platforms": "*",

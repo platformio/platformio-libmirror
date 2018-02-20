@@ -9,9 +9,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "H-bridge",
-        "motor",
-        "TB6612FNG"
+        "Digital",
+        "library",
+        "logic",
+        "Out",
+        "Register",
+        "shift",
+        "Shift Register",
+        "SN74HC595N",
+        "adc",
+        "DIFF",
+        "K64F"
     ],
     "name": "spi",
     "platforms": "*",

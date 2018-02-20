@@ -5,12 +5,7 @@
     },
     "description": "Minimal MQTT library",
     "frameworks": "mbed",
-    "keywords": [
-        "HC-SR04",
-        "Microbit",
-        "ultrasound",
-        "Temperature"
-    ],
+    "keywords": "minimal-mqtt",
     "name": "minimal-mqtt",
     "platforms": "*",
     "repository": {

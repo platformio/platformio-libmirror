@@ -17,8 +17,16 @@
         "Power",
         "power consumption",
         "power control",
-        "pwm",
-        "PwmOut"
+        "DS18B20",
+        "temperature sensor",
+        "audio",
+        "files",
+        "I2C",
+        "I2S",
+        "playing",
+        "RS labboard",
+        "TLV320",
+        "wav"
     ],
     "name": "ClockControl",
     "platforms": "*",

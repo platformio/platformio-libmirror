@@ -13,9 +13,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "display",
+        "led",
+        "numeric",
+        "Seven-Segment",
         "hbridge",
         "motor",
-        "PwmOut"
+        "PwmOut",
+        "api",
+        "mode",
+        "xbee",
+        "zigbee"
     ],
     "name": "Motordriver",
     "platforms": "*",

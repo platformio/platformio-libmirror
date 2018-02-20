@@ -10,10 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "digitalOut",
+        "led",
+        "rtos",
         "DISCO-F746",
         "F746",
         "Graphics",
-        "karpent"
+        "karpent",
+        "16x2 LCD",
+        "TextLCD"
     ],
     "name": "Graphics",
     "platforms": "*",

@@ -5,12 +5,7 @@
     },
     "description": "The IrcBot class can connect to a channel on an IRC network. Users on the same network can send messages to the bot that are parsed by message handlers. The included handlers read digital/analog inputs and write digital outputs or echo messages back to the command sender/channel. Users can write their own message handlers inheriting from the MessageHandler class to perform different actions.",
     "frameworks": "mbed",
-    "keywords": [
-        "GPS",
-        "Novatel",
-        "OEM615",
-        "IRC"
-    ],
+    "keywords": "IRC",
     "name": "IrcBot",
     "platforms": "*",
     "repository": {

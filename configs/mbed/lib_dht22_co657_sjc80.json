@@ -10,12 +10,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DMA",
-        "KL25z",
-        "EEPROM",
-        "LPC11U24",
-        "accelerometer",
-        "DHT22"
+        "DHT22",
+        "accelerometer"
     ],
     "name": "lib_dht22",
     "platforms": "*",

@@ -10,10 +10,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "control",
+        "FRDM-K64F",
+        "Heater",
+        "PID",
         "L3GD20",
-        "StarBoardOrange",
-        "16x2 LCD",
-        "TextLCD"
+        "cmsis",
+        "rtos",
+        "RTX"
     ],
     "name": "lib_SHT11",
     "platforms": "*",

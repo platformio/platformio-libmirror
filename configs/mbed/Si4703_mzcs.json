@@ -5,7 +5,10 @@
     },
     "description": "A mbed Port of 'Sparkfun Si4703 Arduino Library'.",
     "frameworks": "mbed",
-    "keywords": "Si4703",
+    "keywords": [
+        "Olimex",
+        "SHIELD-LCD"
+    ],
     "name": "Si4703",
     "platforms": "*",
     "repository": {

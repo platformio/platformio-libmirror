@@ -8,16 +8,7 @@
         "https://os.mbed.com/users/meriac/code/cthunk_example/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "MPU6000",
-        "MPU6050",
-        "MPU60x0",
-        "FIFO",
-        "lifo",
-        "ringbuffer",
-        "AT",
-        "parser"
-    ],
+    "keywords": "CThunk",
     "name": "CThunk",
     "platforms": "*",
     "repository": {

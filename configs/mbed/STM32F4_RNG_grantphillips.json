@@ -10,10 +10,10 @@
     "frameworks": "mbed",
     "keywords": [
         "MAX30102",
-        "C027",
-        "C030",
-        "CellularInterface",
-        "u-blox"
+        "ACM1602NI",
+        "I2C",
+        "LCD",
+        "Nucleo"
     ],
     "name": "STM32F4_RNG",
     "platforms": "*",

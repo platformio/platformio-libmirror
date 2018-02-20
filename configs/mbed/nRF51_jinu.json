@@ -5,15 +5,7 @@
     },
     "description": "NRF51 serialization libraries for mDot",
     "frameworks": "mbed",
-    "keywords": [
-        "decoder",
-        "Encoder",
-        "Morse",
-        "display",
-        "led",
-        "numeric",
-        "Seven-Segment"
-    ],
+    "keywords": "nRF51",
     "name": "nRF51",
     "platforms": "*",
     "repository": {

@@ -11,14 +11,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "DDNS",
         "aconno",
         "I2C",
-        "consumption",
-        "control",
-        "ethernet",
-        "Management",
-        "Power",
-        "PowerControl"
+        "BLE"
     ],
     "name": "aconno_I2C",
     "platforms": "*",

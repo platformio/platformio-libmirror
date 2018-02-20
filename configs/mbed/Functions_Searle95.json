@@ -10,12 +10,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DC",
-        "motor",
-        "PM motor",
-        "bluetooth",
-        "bt",
-        "rtos"
+        "BLE",
+        "Nordic",
+        "nRF51822",
+        "dac",
+        "more pwm",
+        "pwm",
+        "pwm 48Mhz",
+        "pwmdac"
     ],
     "name": "Functions",
     "platforms": "*",

@@ -5,18 +5,7 @@
     },
     "description": "HR and RR measurement",
     "frameworks": "mbed",
-    "keywords": [
-        "bus switch",
-        "I2C",
-        "PCA9546A",
-        "Gesture",
-        "mtconnnect04s",
-        "mtm",
-        "mtmtech",
-        "paj7620",
-        "paj7620u2",
-        "pixart"
-    ],
+    "keywords": "timer",
     "name": "HRandRR",
     "platforms": "*",
     "repository": {

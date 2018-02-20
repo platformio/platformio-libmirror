@@ -12,7 +12,9 @@
         "Gas",
         "MiCS-6814",
         "Multichannel",
-        "sensor"
+        "sensor",
+        "OLED",
+        "SSD1332"
     ],
     "name": "MiCS6814_GasSensor",
     "platforms": "*",

@@ -9,8 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "bmp280",
+        "pressure",
+        "Temperature",
         "Encoder",
-        "rotaional"
+        "rotaional",
+        "CNCAirbrush"
     ],
     "name": "RotationalEncoder",
     "platforms": "*",

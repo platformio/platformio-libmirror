@@ -5,7 +5,15 @@
     },
     "description": "Initial Fork",
     "frameworks": "mbed",
-    "keywords": "TB6612FNG2",
+    "keywords": [
+        "AD",
+        "da",
+        "MCP4921",
+        "MCP4922",
+        "Nucleo",
+        "SPI",
+        "UIT"
+    ],
     "name": "TB6612FNG2",
     "platforms": "*",
     "repository": {

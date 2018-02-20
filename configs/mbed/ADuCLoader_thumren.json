@@ -6,6 +6,8 @@
     "description": "The library can be usesefull for ADuC70xx microprocesors family.",
     "frameworks": "mbed",
     "keywords": [
+        "conversion",
+        "Thermocouple",
         "ADuC",
         "Analog",
         "armwsd",
@@ -13,7 +15,8 @@
         "devices",
         "Download",
         "protocol",
-        "Serial"
+        "Serial",
+        "SPI"
     ],
     "name": "ADuCLoader",
     "platforms": "*",

@@ -17,25 +17,7 @@
         "https://os.mbed.com/users/tylerjw/code/AHRS/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Encoder",
-        "QEI",
-        "quadrature",
-        "H-bridge",
-        "motor",
-        "PwmOut",
-        "fatfilesystem",
-        "MMC",
-        "SD",
-        "SD Card",
-        "SDHC",
-        "SDXC",
-        "buffer",
-        "Buffered",
-        "rs232",
-        "RS485",
-        "Serial"
-    ],
+    "keywords": "MODSERIAL",
     "name": "MODSERIAL",
     "platforms": "*",
     "repository": {

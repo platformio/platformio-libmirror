@@ -9,17 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "16x4",
-        "array",
-        "I2C",
-        "infrared",
-        "IR",
-        "Temperature",
+        "limiter",
+        "rate",
         "display",
-        "LCD",
-        "current",
-        "INA226",
-        "T.I."
+        "LCD"
     ],
     "name": "ExtTextLCD",
     "platforms": "*",

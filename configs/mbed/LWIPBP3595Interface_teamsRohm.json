@@ -13,9 +13,11 @@
         "network",
         "ROHM",
         "WLAN",
-        "C24LCXXX",
-        "EEPROM",
-        "I2C"
+        "Communication",
+        "debugging",
+        "rpc",
+        "driver",
+        "motor"
     ],
     "name": "LWIPBP3595Interface",
     "platforms": "*",

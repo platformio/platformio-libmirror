@@ -6,10 +6,19 @@
     "description": "Simple library to manage the WatchDog timer, tested on LPC1768",
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit",
-        "PCA9685",
+        "Nordic",
+        "nRF",
+        "nRF51422",
+        "nRF51822",
+        "timer",
+        "watchdog",
         "Watch Dog Timer",
-        "WDT"
+        "WDT",
+        "LCD",
+        "APA102",
+        "led",
+        "rgb",
+        "ws2801"
     ],
     "name": "WatchDogTimer",
     "platforms": "*",

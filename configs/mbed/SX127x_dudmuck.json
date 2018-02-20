@@ -17,21 +17,7 @@
         "https://os.mbed.com/users/dudmuck/code/hid_test/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "2015",
-        "Bertl",
-        "game pad",
-        "gamepad",
-        "USB Host",
-        "USBHOST",
-        "Xbox",
-        "xbox360",
-        "EEPROM",
-        "flash",
-        "stm32f10x",
-        "Radio",
-        "transceiver"
-    ],
+    "keywords": "SX127x",
     "name": "SX127x",
     "platforms": "*",
     "repository": {

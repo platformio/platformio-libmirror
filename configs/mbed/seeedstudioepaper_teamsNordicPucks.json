@@ -9,7 +9,12 @@
         "https://os.mbed.com/teams/Nordic-Pucks/code/display-puck/"
     ],
     "frameworks": "mbed",
-    "keywords": "seeedstudio-epaper",
+    "keywords": [
+        "servos",
+        "slow",
+        "Speed",
+        "Graphics"
+    ],
     "name": "seeedstudio-epaper",
     "platforms": "*",
     "repository": {

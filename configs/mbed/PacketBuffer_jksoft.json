@@ -6,10 +6,12 @@
     "description": "パケットごとに出し入れするFIFOバッファ",
     "frameworks": "mbed",
     "keywords": [
-        "1wire",
-        "DS18B20",
-        "OneWire",
-        "buffer"
+        "buffer",
+        "MCP4018",
+        "I2C",
+        "IMU",
+        "LEGO",
+        "mindstorms"
     ],
     "name": "PacketBuffer",
     "platforms": "*",

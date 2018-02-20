@@ -5,19 +5,7 @@
     },
     "description": "Library for MI0283QT-2 LCD",
     "frameworks": "mbed",
-    "keywords": [
-        "LCD",
-        "binary",
-        "GPS",
-        "NMEA",
-        "protocol",
-        "sIRFstar3",
-        "sIRFstarIII",
-        "I2C",
-        "NeoPixel",
-        "rhb",
-        "slave"
-    ],
+    "keywords": "MI0283QTlib",
     "name": "MI0283QTlib",
     "platforms": "*",
     "repository": {

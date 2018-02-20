@@ -5,7 +5,12 @@
     },
     "description": "Library for current regulation of BLDC motor.",
     "frameworks": "mbed",
-    "keywords": "HTTPServer",
+    "keywords": [
+        "FAT",
+        "file",
+        "SD",
+        "System"
+    ],
     "name": "CurrentRegulation",
     "platforms": "*",
     "repository": {

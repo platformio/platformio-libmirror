@@ -9,9 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DeepSleep",
-        "InterruptIn",
-        "LPC1114"
+        "accelerometer",
+        "gyroscope",
+        "I2C",
+        "MPU-6050",
+        "MPU6050",
+        "MPU60x0"
     ],
     "name": "LSM303D",
     "platforms": "*",

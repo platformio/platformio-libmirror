@@ -11,19 +11,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "average",
-        "math",
-        "Moving",
-        "arduino",
-        "millis",
-        "Modbus",
-        "MODSERIAL",
-        "rtu",
         "ADT7410",
         "Analog Devices",
         "I2C",
         "sensor",
-        "Temperature"
+        "Temperature",
+        "frequencies",
+        "guitar",
+        "tuner"
     ],
     "name": "ADT7410",
     "platforms": "*",

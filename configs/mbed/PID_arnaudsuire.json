@@ -8,13 +8,7 @@
         "https://os.mbed.com/users/arnaudsuire/code/Labo_TRSE_Drone/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Encoder",
-        "InterruptIn",
-        "motor",
-        "FRDM-KL25Z",
-        "SPI"
-    ],
+    "keywords": "JSON",
     "name": "PID",
     "platforms": "*",
     "repository": {

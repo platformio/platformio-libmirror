@@ -5,7 +5,16 @@
     },
     "description": "I2C_EEPROM",
     "frameworks": "mbed",
-    "keywords": "I2C_EEPROM",
+    "keywords": [
+        "I2C_EEPROM",
+        "ILI9225",
+        "LCD",
+        "SPI",
+        "led",
+        "https",
+        "mbedTLS",
+        "SSL"
+    ],
     "name": "I2C_EEPROM",
     "platforms": "*",
     "repository": {

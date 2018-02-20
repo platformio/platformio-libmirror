@@ -9,14 +9,7 @@
         "https://os.mbed.com/users/M_J/code/mbed_Wiznet_W7500/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "motor",
-        "stepping",
-        "current",
-        "I2C",
-        "INA219",
-        "T.I."
-    ],
+    "keywords": "HMC5883L",
     "name": "DHT",
     "platforms": "*",
     "repository": {

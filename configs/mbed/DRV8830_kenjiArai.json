@@ -12,10 +12,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DC",
-        "driver",
-        "H-bridge",
-        "motor",
+        "MCP23S17",
         "F042K6",
         "F103RB",
         "L152RE",
@@ -26,7 +23,11 @@
         "ARCH",
         "GPRS",
         "Seeed",
-        "v2"
+        "v2",
+        "DC",
+        "driver",
+        "H-bridge",
+        "motor"
     ],
     "name": "DRV8830",
     "platforms": "*",

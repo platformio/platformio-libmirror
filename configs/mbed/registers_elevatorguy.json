@@ -9,7 +9,13 @@
         "https://os.mbed.com/users/nyatla/code/RedWireBridge/"
     ],
     "frameworks": "mbed",
-    "keywords": "registers",
+    "keywords": [
+        "Adafruit",
+        "led",
+        "NeoPixel",
+        "rgb",
+        "Shiftbrite"
+    ],
     "name": "registers",
     "platforms": "*",
     "repository": {

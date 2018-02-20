@@ -9,7 +9,21 @@
         "https://os.mbed.com/users/oliverb/code/GP9002af_gray/"
     ],
     "frameworks": "mbed",
-    "keywords": "Adafruit-GFX-Library-master",
+    "keywords": [
+        "http",
+        "proxy",
+        "camera",
+        "JPEG",
+        "OV528",
+        "uCAM TTL120",
+        "debug",
+        "SPI",
+        "control",
+        "interrupt",
+        "motor",
+        "pwm",
+        "ramps"
+    ],
     "name": "Adafruit-GFX-Library-master",
     "platforms": "*",
     "repository": {

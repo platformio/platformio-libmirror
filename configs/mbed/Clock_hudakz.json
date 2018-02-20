@@ -9,11 +9,20 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Nucleo",
+        "open-drain",
+        "push-pull",
+        "UIT",
+        "DPF",
+        "FTP",
+        "photo",
+        "W7500",
+        "WIZwiki_W7500",
+        "bmp085",
+        "I2C",
         "clock",
         "real time clock",
-        "RTC",
-        "bmp085",
-        "I2C"
+        "RTC"
     ],
     "name": "Clock",
     "platforms": "*",

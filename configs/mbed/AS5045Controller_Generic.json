@@ -6,11 +6,9 @@
     "description": "A library for the AMS AS5045 magnetic encoder using the SPI interface",
     "frameworks": "mbed",
     "keywords": [
-        "mbed",
         "AMS",
         "AS5045",
-        "SPI",
-        "Bertl"
+        "SPI"
     ],
     "name": "AS5045Controller",
     "platforms": "*",

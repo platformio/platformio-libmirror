@@ -5,7 +5,13 @@
     },
     "description": "bertl",
     "frameworks": "mbed",
-    "keywords": "bertl",
+    "keywords": [
+        "5-wire",
+        "resistive",
+        "screen",
+        "touch",
+        "EasyVR3_LED_Library"
+    ],
     "name": "bertl",
     "platforms": "*",
     "repository": {

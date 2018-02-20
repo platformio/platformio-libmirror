@@ -18,10 +18,14 @@
         "md5",
         "RC4",
         "SHA",
+        "api",
+        "network",
+        "NSAPI",
+        "socket",
+        "ROS",
         "Callback",
         "FunctionPointer",
-        "Functor",
-        "ROS"
+        "Functor"
     ],
     "name": "Crypto",
     "platforms": "*",

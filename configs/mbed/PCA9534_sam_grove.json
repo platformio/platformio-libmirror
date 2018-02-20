@@ -6,11 +6,12 @@
     "description": "Driver for IO expander",
     "frameworks": "mbed",
     "keywords": [
+        "hih6130",
+        "sensor",
+        "Temp",
+        "Temperature",
         "IOExpander",
-        "PCA9534",
-        "aconno",
-        "nrf52",
-        "UART"
+        "PCA9534"
     ],
     "name": "PCA9534",
     "platforms": "*",

@@ -8,8 +8,13 @@
     "keywords": [
         "I2C",
         "LCD",
-        "OLED",
-        "Serial"
+        "eFLL",
+        "fuzzy",
+        "logic",
+        "GPIO",
+        "master",
+        "Serial",
+        "SPI"
     ],
     "name": "AQM1602XA",
     "platforms": "*",

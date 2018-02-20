@@ -6,14 +6,13 @@
     "description": "Asynchronous Serial Library with flow control and tag detection.",
     "frameworks": "mbed",
     "keywords": [
-        "10DOF",
-        "ADXL345",
-        "bmp085",
-        "HMC5883",
-        "ITG3200",
-        "MEMS",
-        "Nucleo",
-        "nucleo f401re"
+        "CGRAM",
+        "CLCD",
+        "custom",
+        "TextLCD",
+        "compass",
+        "HMC5883L",
+        "magnetometer"
     ],
     "name": "AsyncSerial",
     "platforms": "*",

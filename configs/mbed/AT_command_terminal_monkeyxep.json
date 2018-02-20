@@ -6,12 +6,10 @@
     "description": "at_command_terminal",
     "frameworks": "mbed",
     "keywords": [
-        "card",
-        "fatfilesystem",
-        "MMC",
-        "SD",
-        "SDHC",
-        "SDXC"
+        "flash",
+        "M25P10",
+        "M25P40",
+        "MP25P20"
     ],
     "name": "AT_command_terminal",
     "platforms": "*",

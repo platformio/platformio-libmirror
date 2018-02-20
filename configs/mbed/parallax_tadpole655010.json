@@ -5,7 +5,11 @@
     },
     "description": "Boe-bot library about servos, ping, and encoder",
     "frameworks": "mbed",
-    "keywords": "MARMEX_OB_oled",
+    "keywords": [
+        "accelererometer",
+        "ADXL345",
+        "I2C"
+    ],
     "name": "parallax",
     "platforms": "*",
     "repository": {

@@ -7,7 +7,11 @@
     "frameworks": "mbed",
     "keywords": [
         "cube",
-        "led"
+        "led",
+        "BBC",
+        "Microbit",
+        "MLX90614",
+        "thermometer"
     ],
     "name": "led_cube",
     "platforms": "*",

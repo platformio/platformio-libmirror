@@ -10,14 +10,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "aconno",
-        "I2C",
-        "consumption",
-        "control",
-        "ethernet",
-        "Management",
-        "Power",
-        "PowerControl"
+        "Nucleo-F4xx",
+        "open-drain",
+        "UIT"
     ],
     "name": "FCT_WEB",
     "platforms": "*",

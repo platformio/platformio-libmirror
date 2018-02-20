@@ -9,15 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "controller",
-        "I2C",
-        "Wii",
-        "menu",
-        "Touchscreen",
         "led",
         "rgb",
         "WS2812",
-        "WS2812B"
+        "WS2812B",
+        "TCP",
+        "UDP"
     ],
     "name": "WS2812",
     "platforms": "*",

@@ -10,10 +10,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Serial",
         "keypad",
         "RA8875",
-        "Touchscreen"
+        "Touchscreen",
+        "Battery Monitor",
+        "LTC2990"
     ],
     "name": "Keypad",
     "platforms": "*",

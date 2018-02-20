@@ -6,9 +6,11 @@
     "description": "Stack",
     "frameworks": "mbed",
     "keywords": [
-        "SPI",
-        "XBEE pro",
-        "StepperMotorUni"
+        "LIN",
+        "master",
+        "Melexis",
+        "MLX",
+        "USB"
     ],
     "name": "Stack",
     "platforms": "*",

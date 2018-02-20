@@ -22,7 +22,11 @@
         "C027",
         "C030",
         "CellularInterface",
-        "u-blox"
+        "u-blox",
+        "APIs",
+        "extension",
+        "generic",
+        "Bertl14"
     ],
     "name": "ublox-cellular-base",
     "platforms": "*",

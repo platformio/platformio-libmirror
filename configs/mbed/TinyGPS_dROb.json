@@ -9,8 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "mbed",
+        "LCD",
+        "ST7032",
+        "TextLCD",
         "GPS",
-        "Thermocouple"
+        "RX8025"
     ],
     "name": "TinyGPS",
     "platforms": "*",

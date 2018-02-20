@@ -12,7 +12,10 @@
         "debug",
         "Error",
         "flash",
-        "led"
+        "led",
+        "average",
+        "math",
+        "Moving"
     ],
     "name": "Flasher",
     "platforms": "*",

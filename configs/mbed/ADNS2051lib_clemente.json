@@ -6,10 +6,8 @@
     "description": "ADNS2051 Optical Sensor library",
     "frameworks": "mbed",
     "keywords": [
-        "AITENDO",
-        "ILI9341",
-        "SPI",
-        "TFT"
+        "mbed",
+        "rpc"
     ],
     "name": "ADNS2051lib",
     "platforms": "*",

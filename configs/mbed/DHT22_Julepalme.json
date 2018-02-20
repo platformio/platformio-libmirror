@@ -17,16 +17,7 @@
         "https://os.mbed.com/teams/znrobotics/code/Seeed_Arch_link_ServoWithTempAndHumidity/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "BME280",
-        "DHT22",
-        "RHT03",
-        "cpp",
-        "ethernet",
-        "network",
-        "TCP",
-        "UDP"
-    ],
+    "keywords": "DHT22",
     "name": "DHT22",
     "platforms": "*",
     "repository": {

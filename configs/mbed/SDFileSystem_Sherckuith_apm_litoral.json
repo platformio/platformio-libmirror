@@ -6,10 +6,14 @@
     "description": "SDFileSystem_Sherckuith",
     "frameworks": "mbed",
     "keywords": [
-        "control",
-        "FRDM-K64F",
-        "Heater",
-        "PID"
+        "NeoPixel",
+        "rgb",
+        "flysky",
+        "PPM",
+        "pwm",
+        "RC",
+        "Receiver",
+        "Servo"
     ],
     "name": "SDFileSystem_Sherckuith",
     "platforms": "*",

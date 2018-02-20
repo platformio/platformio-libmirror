@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Jimmy Hack",
+        "url": "https://os.mbed.com/users/JimmyTheHack/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Jimmy Hack"
+            ],
+            "frameworks": "mbed",
+            "name": "DAC"
+        }
+    ],
+    "description": "The MCP4922 is a 12 bit DAC. This library should provide easy access to its basic functionality.",
+    "frameworks": "mbed",
+    "keywords": [
+        "dac",
+        "MCP4922",
+        "comparator",
+        "KL25z",
+        "Dynamic",
+        "ethernet",
+        "http",
+        "pages",
+        "server",
+        "static",
+        "Web",
+        "WiFly"
+    ],
+    "name": "MCP4922",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/JimmyTheHack/code/MCP4922/"
+    }
+}

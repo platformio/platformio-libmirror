@@ -13,16 +13,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "i2c expander",
-        "MCP23017",
-        "9-axis",
         "acc",
-        "BNO055",
-        "Cortex-M0+",
         "gyro",
-        "MAG",
-        "orientation",
-        "sensor"
+        "MPU6050",
+        "i2c expander",
+        "MCP23017"
     ],
     "name": "MCP23017",
     "platforms": "*",

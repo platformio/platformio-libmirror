@@ -5,7 +5,10 @@
     },
     "description": "mbedのPIDライブラリを改良したものです",
     "frameworks": "mbed",
-    "keywords": "PID",
+    "keywords": [
+        "NFC",
+        "PN532"
+    ],
     "name": "PID",
     "platforms": "*",
     "repository": {

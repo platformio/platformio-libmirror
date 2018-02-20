@@ -9,11 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Encoder",
         "assert",
         "debug",
         "mbed",
         "rgb",
-        "utility"
+        "utility",
+        "led",
+        "tricolor"
     ],
     "name": "mbedBug",
     "platforms": "*",

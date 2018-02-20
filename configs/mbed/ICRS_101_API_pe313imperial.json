@@ -6,18 +6,8 @@
     "description": "API for ICRS 101 sessions to allow manual control of robots",
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit",
-        "LCD",
-        "ST7735",
-        "TFT",
-        "ax12",
-        "MI0283QT-9A",
-        "Panel",
-        "resistive",
-        "touch",
-        "Touchscreen",
-        "FTP",
-        "ftpclient"
+        "MQTT",
+        "ax12"
     ],
     "name": "ICRS_101_API",
     "platforms": "*",

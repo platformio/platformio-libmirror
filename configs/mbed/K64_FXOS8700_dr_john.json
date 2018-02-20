@@ -5,7 +5,13 @@
     },
     "description": "A class to fetch magnetometer and accelerometer data from the FXOS8700 on the K64F board",
     "frameworks": "mbed",
-    "keywords": "Morse",
+    "keywords": [
+        "LCD",
+        "Serial",
+        "TextDisplay",
+        "TextDisplays",
+        "TextLCD"
+    ],
     "name": "K64_FXOS8700",
     "platforms": "*",
     "repository": {

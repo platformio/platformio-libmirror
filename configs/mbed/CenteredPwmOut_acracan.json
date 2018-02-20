@@ -9,8 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "steering",
         "etti",
-        "TUIASI"
+        "TUIASI",
+        "frequency"
     ],
     "name": "CenteredPwmOut",
     "platforms": "*",

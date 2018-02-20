@@ -5,18 +5,7 @@
     },
     "description": "AppleRemote receive library.",
     "frameworks": "mbed",
-    "keywords": [
-        "AppleRemote",
-        "CNMAT",
-        "osc",
-        "C027",
-        "C030",
-        "file",
-        "SMS",
-        "u-blox",
-        "ussd",
-        "Serial"
-    ],
+    "keywords": "AppleRemote",
     "name": "AppleRemote",
     "platforms": "*",
     "repository": {

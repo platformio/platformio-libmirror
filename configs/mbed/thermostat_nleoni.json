@@ -5,11 +5,7 @@
     },
     "description": "Thermostat class implements basic functionality of a thermostat",
     "frameworks": "mbed",
-    "keywords": [
-        "AHRS",
-        "navigation",
-        "sensors"
-    ],
+    "keywords": "thermostat",
     "name": "thermostat",
     "platforms": "*",
     "repository": {

@@ -8,7 +8,17 @@
         "https://os.mbed.com/users/dflet/code/CC3000Test/"
     ],
     "frameworks": "mbed",
-    "keywords": "wallbot",
+    "keywords": [
+        "wallbot",
+        "pwm",
+        "SoftPWM",
+        "CyaSSL",
+        "https",
+        "SSL",
+        "LCD",
+        "ST7565",
+        "TextLCD"
+    ],
     "name": "CC3000HostDriver",
     "platforms": "*",
     "repository": {

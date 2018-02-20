@@ -7,9 +7,8 @@
     "frameworks": "mbed",
     "keywords": [
         "led",
-        "LED controller",
-        "PCA9632",
-        "pwm"
+        "matrix",
+        "SDA5708"
     ],
     "name": "blink_LED",
     "platforms": "*",

@@ -14,12 +14,11 @@
         "Radio",
         "RDA5807M",
         "RDS",
-        "Configuration",
-        "file",
-        "ini",
-        "mbed",
-        "System",
-        "windows"
+        "LFSR",
+        "Linear Feedback Shift Register",
+        "Number Generator",
+        "Pseudo",
+        "Random"
     ],
     "name": "RDA5807M",
     "platforms": "*",

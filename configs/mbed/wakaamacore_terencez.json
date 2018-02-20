@@ -6,17 +6,12 @@
     "description": "pick up wakaama files from https://github.com/eclipse/wakaama",
     "frameworks": "mbed",
     "keywords": [
-        "buzzer",
-        "song",
-        "sound",
-        "buffer",
-        "debug",
-        "debugging",
-        "informative",
-        "logger",
-        "logging",
-        "Save",
-        "stashing"
+        "agriculture",
+        "Chirp",
+        "driver",
+        "I2C",
+        "sensor",
+        "soil moisture"
     ],
     "name": "wakaama-core",
     "platforms": "*",

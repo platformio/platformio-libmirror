@@ -6,10 +6,9 @@
     "description": "Command line interface for UART.",
     "frameworks": "mbed",
     "keywords": [
-        "decoder",
-        "decompression",
-        "JPEG",
-        "JPG"
+        "DeepSleep",
+        "InterruptIn",
+        "LPC1114"
     ],
     "name": "MjLineSerial",
     "platforms": "*",

@@ -8,7 +8,13 @@
         "https://os.mbed.com/teams/Flotsam/code/Full-Project/"
     ],
     "frameworks": "mbed",
-    "keywords": "Storage_Library",
+    "keywords": [
+        "compass",
+        "driver",
+        "HMC5583L",
+        "I2C",
+        "sensor"
+    ],
     "name": "Storage_Library",
     "platforms": "*",
     "repository": {

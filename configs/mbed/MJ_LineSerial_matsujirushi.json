@@ -6,10 +6,15 @@
     "description": "Interactive functions for UART.",
     "frameworks": "mbed",
     "keywords": [
-        "16",
-        "HT1621",
-        "LCD",
-        "segment"
+        "actuators",
+        "control",
+        "industrial",
+        "Linear",
+        "Modbus",
+        "Over",
+        "mutex",
+        "preemptive",
+        "rtos"
     ],
     "name": "MJ_LineSerial",
     "platforms": "*",

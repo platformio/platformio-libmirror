@@ -6,9 +6,16 @@
     "description": "Ethernet part for lab 4",
     "frameworks": "mbed",
     "keywords": [
-        "bitmap",
-        "Graphics",
-        "LCD"
+        "RenBED",
+        "RenBuggy",
+        "Renishaw",
+        "Humidity",
+        "Sensirion",
+        "sensor",
+        "SHT71",
+        "SHT75",
+        "SHT7x",
+        "Temperature"
     ],
     "name": "Ethernet",
     "platforms": "*",

@@ -5,7 +5,11 @@
     },
     "description": "Minor maintenance updates",
     "frameworks": "mbed",
-    "keywords": "dot_util",
+    "keywords": [
+        "OLED",
+        "ssd1327",
+        "DHT22"
+    ],
     "name": "dot_util",
     "platforms": "*",
     "repository": {

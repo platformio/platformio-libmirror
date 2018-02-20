@@ -6,11 +6,14 @@
     "description": "Library for handling ILI9163 - based LCD displays.",
     "frameworks": "mbed",
     "keywords": [
-        "Conway's",
-        "game",
-        "Life",
-        "of",
-        "ILI9163"
+        "ILI9163",
+        "Nucleo",
+        "STM32F446",
+        "USBDevice",
+        "actuators",
+        "commnunications",
+        "interfaces",
+        "sensors"
     ],
     "name": "ILI9163LCD",
     "platforms": "*",

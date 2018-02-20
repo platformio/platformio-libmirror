@@ -6,9 +6,18 @@
     "description": "This library let you work with an infrared sensor",
     "frameworks": "mbed",
     "keywords": [
-        "mbed",
         "infrared",
-        "Obstacle detection"
+        "Obstacle detection",
+        "adc",
+        "dac",
+        "dual",
+        "MCP4922",
+        "Nucleo",
+        "single",
+        "ADC converter",
+        "Linear",
+        "Linear Technology",
+        "LTC2460"
     ],
     "name": "Infrarrojo",
     "platforms": "*",

@@ -8,7 +8,12 @@
         "https://os.mbed.com/users/gert_lauritsen/code/Brew_Keg/"
     ],
     "frameworks": "mbed",
-    "keywords": "Hx711",
+    "keywords": [
+        "C027",
+        "C030",
+        "CellularInterface",
+        "u-blox"
+    ],
     "name": "Hx711",
     "platforms": "*",
     "repository": {

@@ -6,17 +6,17 @@
     "description": "Interface to access to Avago ADNS-9500 laser mouse sensors.",
     "frameworks": "mbed",
     "keywords": [
+        "control",
+        "led",
+        "LPC1768",
+        "mbed",
         "adns9500",
         "avago",
         "laser",
         "motion",
         "Mouse",
         "navigation",
-        "sensor",
-        "controller",
-        "game",
-        "interrupt",
-        "joystick"
+        "sensor"
     ],
     "name": "ADNS9500",
     "platforms": "*",

@@ -5,14 +5,7 @@
     },
     "description": "Unit Testing framework based on http://cpputest.github.io/",
     "frameworks": "mbed",
-    "keywords": [
-        "inAir",
-        "SX1276",
-        "SX1278",
-        "I2C",
-        "1621",
-        "ds1621"
-    ],
+    "keywords": "I2C",
     "name": "cpputest",
     "platforms": "*",
     "repository": {

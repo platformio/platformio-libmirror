@@ -8,7 +8,11 @@
         "https://os.mbed.com/users/joosttromp/code/V2_GPSRTC/"
     ],
     "frameworks": "mbed",
-    "keywords": "SCP1000",
+    "keywords": [
+        "ds1307",
+        "DS3231m",
+        "rn41"
+    ],
     "name": "SCP1000",
     "platforms": "*",
     "repository": {

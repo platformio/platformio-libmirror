@@ -6,10 +6,12 @@
     "description": "4D Systems serial microOLED driver",
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "LCD",
         "OLED",
-        "Serial"
+        "Serial",
+        "C027",
+        "9Dof-Stick",
+        "ADXL345",
+        "sparkfun"
     ],
     "name": "microOLED",
     "platforms": "*",

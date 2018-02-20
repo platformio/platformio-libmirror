@@ -10,19 +10,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "finder",
-        "range",
-        "ultrasound",
         "adc",
         "SPI",
+        "128x64",
+        "OLED",
+        "SSD1306",
         "discovery",
         "ethernet",
         "Nucleo",
         "stm32",
-        "STM32F746",
-        "128x64",
-        "OLED",
-        "SSD1306"
+        "STM32F746"
     ],
     "name": "mcp3208",
     "platforms": "*",

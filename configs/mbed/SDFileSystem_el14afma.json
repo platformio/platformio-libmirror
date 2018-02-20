@@ -6,11 +6,13 @@
     "description": "SD library",
     "frameworks": "mbed",
     "keywords": [
-        "cmsis",
-        "rtos",
-        "RTX",
-        "W5200",
-        "WIZ820IO"
+        "led",
+        "LPD8803",
+        "LPD8806",
+        "LPD8809",
+        "SPI",
+        "OAuth",
+        "twitter"
     ],
     "name": "SDFileSystem",
     "platforms": "*",

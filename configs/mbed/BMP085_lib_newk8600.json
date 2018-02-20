@@ -6,9 +6,11 @@
     "description": "demo program of BMP085 pressure sensor",
     "frameworks": "mbed",
     "keywords": [
-        "MPU9150",
-        "Quaternion",
-        "vector"
+        "minutes",
+        "seconds",
+        "stopwatch",
+        "timer",
+        "watch"
     ],
     "name": "BMP085_lib",
     "platforms": "*",

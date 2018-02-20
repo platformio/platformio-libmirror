@@ -9,8 +9,13 @@
         "1wire",
         "DS1820",
         "DS2482",
-        "device",
-        "USB"
+        "3axis",
+        "accelerometer",
+        "Digital",
+        "Grove",
+        "Seeed",
+        "AirQuality",
+        "sensor"
     ],
     "name": "DS2482",
     "platforms": "*",

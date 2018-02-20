@@ -9,8 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Graphics",
-        "LCD"
+        "files",
+        "filesystem",
+        "Terminal",
+        "I2C",
+        "led",
+        "SAA1064"
     ],
     "name": "4DGL-uLCD-SE",
     "platforms": "*",

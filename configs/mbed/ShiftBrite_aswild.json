@@ -9,10 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BLE_API",
-        "Microbit",
-        "FRDMK64",
-        "MPU6050"
+        "Dynamic",
+        "led",
+        "tlc5940"
     ],
     "name": "ShiftBrite",
     "platforms": "*",

@@ -10,8 +10,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "WS2812",
-        "RX8025"
+        "ambient",
+        "light",
+        "TSL2550"
     ],
     "name": "Venus838",
     "platforms": "*",

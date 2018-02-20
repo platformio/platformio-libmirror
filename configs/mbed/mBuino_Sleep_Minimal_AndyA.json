@@ -5,7 +5,19 @@
     },
     "description": "Minimal version of mBuino Sleep",
     "frameworks": "mbed",
-    "keywords": "mBuino_Sleep_Minimal",
+    "keywords": [
+        "16",
+        "HT1621",
+        "LCD",
+        "segment",
+        "dac",
+        "MCP4822",
+        "game",
+        "inheritance",
+        "OOP",
+        "polymorphism",
+        "tutorial"
+    ],
     "name": "mBuino_Sleep_Minimal",
     "platforms": "*",
     "repository": {

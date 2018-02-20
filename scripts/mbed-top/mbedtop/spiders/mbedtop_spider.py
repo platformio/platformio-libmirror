@@ -12,7 +12,7 @@ class MbedTopSpider(scrapy.Spider):
     seen_urls = []
     lib_tags = {}  # will contain dict with "%NAME%" : [ %TAGS% ]
 
-    top_max = 4000
+    top_max = 6000
     top_cnt = 0
 
     def parse(self, response):
@@ -71,7 +71,8 @@ class MbedTopSpider(scrapy.Spider):
         l.add_xpath('components',
                     './/*[@class="three columns sidebar "]//div[4]/a/@href')
         l.add_xpath('imports', './/*[@class="fa icon_imports"]//../text()')
-        l.add_value('keywords', response.request.meta['keywords'])
+        if 'keywords' in  response.request.meta:
+            l.add_value('keywords', response.request.meta['keywords'])
         item = l.load_item()
         # item['imports']  = get_import_number(item['imports'])
 

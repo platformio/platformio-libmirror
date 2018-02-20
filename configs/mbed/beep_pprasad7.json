@@ -15,7 +15,10 @@
     "frameworks": "mbed",
     "keywords": [
         "watchdog timer",
-        "WDT"
+        "WDT",
+        "fingerprint",
+        "GT-511C3",
+        "GT-511C31"
     ],
     "name": "beep",
     "platforms": "*",

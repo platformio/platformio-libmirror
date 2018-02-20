@@ -8,7 +8,14 @@
         "https://os.mbed.com/users/Jackson_lv/code/MusicShield/"
     ],
     "frameworks": "mbed",
-    "keywords": "GEL2474",
+    "keywords": [
+        "led",
+        "rgb",
+        "WS2812",
+        "WS2812B",
+        "TCP",
+        "UDP"
+    ],
     "name": "SDCard",
     "platforms": "*",
     "repository": {

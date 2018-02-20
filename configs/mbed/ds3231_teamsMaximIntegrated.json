@@ -17,15 +17,7 @@
         "https://os.mbed.com/users/SolManB/code/saver-noenvio-1/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "clock",
-        "CPU",
-        "Power",
-        "power consumption",
-        "power control",
-        "pwm",
-        "PwmOut"
-    ],
+    "keywords": "ds3231",
     "name": "ds3231",
     "platforms": "*",
     "repository": {

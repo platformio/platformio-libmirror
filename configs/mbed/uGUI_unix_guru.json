@@ -9,13 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MAX14661",
-        "mux",
-        "4D Systems",
-        "LDC-43PCt",
-        "JSON",
-        "MessagePack",
-        "GUI"
+        "GUI",
+        "Thermocouple",
+        "WS2812",
+        "MPU9250"
     ],
     "name": "uGUI",
     "platforms": "*",

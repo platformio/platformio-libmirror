@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Paul Staron",
+        "url": "https://os.mbed.com/users/star297/"
+    },
+    "description": "GLCD type font files",
+    "examples": [
+        "https://os.mbed.com/users/star297/code/SharpMemoryLCD/",
+        "https://os.mbed.com/teams/pyrocommander/code/pyrocommander/",
+        "https://os.mbed.com/teams/sss_embed/code/TFT_fonts/",
+        "https://os.mbed.com/teams/DuckieTownHS_Perlatecnica/code/RGB_Matrix/",
+        "https://os.mbed.com/users/trevieze/code/Bicycl_Computer_NUCLEO-F411RE/",
+        "https://os.mbed.com/users/sergionatan/code/luva_tatil_repo/",
+        "https://os.mbed.com/users/madelectroneng/code/Hybrid_Supercapacitor_Car_Battery_Monito/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Fonts",
+    "name": "Fonts",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/star297/code/Fonts/"
+    }
+}

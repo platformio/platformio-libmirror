@@ -5,7 +5,14 @@
     },
     "description": "Library for New Haven NHD_0420DZW OLED",
     "frameworks": "mbed",
-    "keywords": "NHD_0420DZW_OLED",
+    "keywords": [
+        "BUTTON",
+        "cancel",
+        "DIP",
+        "noise",
+        "push",
+        "SW"
+    ],
     "name": "NHD_0420DZW_OLED",
     "platforms": "*",
     "repository": {

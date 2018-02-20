@@ -9,18 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "esc",
-        "KL25z",
-        "pwm",
-        "display",
-        "eINK",
-        "LCD",
-        "Sharp",
         "3310",
         "3390",
+        "LCD",
         "Nokia",
         "pcd8544",
-        "TextLCD"
+        "TextLCD",
+        "Adafruit",
+        "AdaFruit RGB LCD Shield"
     ],
     "name": "pcd8544_drv",
     "platforms": "*",

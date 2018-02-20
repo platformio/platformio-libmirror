@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Paul Staron",
+        "url": "https://os.mbed.com/users/star297/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Paul Staron"
+            ],
+            "frameworks": "mbed",
+            "name": "Fonts"
+        }
+    ],
+    "description": "Sharp Memory LCD library",
+    "frameworks": "mbed",
+    "keywords": [
+        "brightness",
+        "high",
+        "led",
+        "PCF2129",
+        "RTC"
+    ],
+    "name": "SharpMemoryLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/star297/code/SharpMemoryLCD/"
+    }
+}

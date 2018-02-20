@@ -12,7 +12,8 @@
         "Futaba",
         "MODSERIAL",
         "SBUS",
-        "Serial"
+        "Serial",
+        "LSM303DLH"
     ],
     "name": "neigbourhood",
     "platforms": "*",

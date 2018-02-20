@@ -8,7 +8,13 @@
         "https://os.mbed.com/users/CheeseW/code/ADJD-S311_HelloWorld/"
     ],
     "frameworks": "mbed",
-    "keywords": "ADJD-S311-CR99",
+    "keywords": [
+        "ADJD-S311-CR99",
+        "accelerometer",
+        "fxos8700cq",
+        "I2C",
+        "magnetometer"
+    ],
     "name": "ADJDs311",
     "platforms": "*",
     "repository": {

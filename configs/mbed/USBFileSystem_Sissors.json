@@ -1,0 +1,42 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "mbed official "
+            ],
+            "frameworks": "mbed",
+            "name": "USBDevice"
+        }
+    ],
+    "description": "Class that combined FATFileSystem with a USBMSD device, similar to LocalFileSystem",
+    "examples": [
+        "https://os.mbed.com/users/karelv/code/SD_USB_FS_HelloWorld/",
+        "https://os.mbed.com/users/Sissors/code/S25FL216K_USBFileSystem/",
+        "https://os.mbed.com/users/Sissors/code/USBFileSystem_RAMDISK_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "fatfilesystem",
+        "LocalFileSystem",
+        "USBMSD",
+        "DS1820",
+        "DS1822",
+        "DS18B20",
+        "DS18S20",
+        "DC",
+        "motor",
+        "pwm",
+        "Encoder",
+        "rotary"
+    ],
+    "name": "USBFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/Sissors/code/USBFileSystem/"
+    }
+}

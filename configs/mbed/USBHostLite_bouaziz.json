@@ -9,17 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MAX7219",
-        "MAX7221",
         "accelerometer",
         "ADXL345",
         "C++",
-        "mbed",
-        "EEPROM",
-        "MCP4921",
-        "SPI",
-        "GPIO Exoender",
-        "MCP23017"
+        "mbed"
     ],
     "name": "USBHostLite",
     "platforms": "*",

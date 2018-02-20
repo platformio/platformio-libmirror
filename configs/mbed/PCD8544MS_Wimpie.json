@@ -6,8 +6,13 @@
     "description": "PCD8544 multiscreen",
     "frameworks": "mbed",
     "keywords": [
+        "24LCxx",
+        "EEPROM",
         "display",
-        "monochrome"
+        "monochrome",
+        "AT42QT2100",
+        "QT2100",
+        "QTouch"
     ],
     "name": "PCD8544MS",
     "platforms": "*",

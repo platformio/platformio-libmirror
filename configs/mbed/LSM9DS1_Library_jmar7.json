@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Jason Mar",
+        "url": "https://os.mbed.com/users/jmar7/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Andy Kirkham"
+            ],
+            "frameworks": "mbed",
+            "name": "PinDetect"
+        }
+    ],
+    "description": "IMU LSM9DS1 Library",
+    "examples": [
+        "https://os.mbed.com/teams/Terrabots/code/IMU/",
+        "https://os.mbed.com/users/CRaslawski/code/4180Lab2Part1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LPC4088",
+        "Lora",
+        "Semtech",
+        "SX1276",
+        "SX1276Lib",
+        "SX1276MB1xAS"
+    ],
+    "name": "LSM9DS1_Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/jmar7/code/LSM9DS1_Library/"
+    }
+}

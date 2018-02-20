@@ -6,13 +6,12 @@
     "description": "stm32l053 eeprom",
     "frameworks": "mbed",
     "keywords": [
-        "hih6130",
-        "sensor",
-        "Temp",
-        "Temperature",
         "EEPROM",
         "read",
-        "stm32"
+        "stm32",
+        "Clock Generator",
+        "Si5351A",
+        "SiLabs"
     ],
     "name": "eeprom",
     "platforms": "*",

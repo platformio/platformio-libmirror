@@ -6,12 +6,10 @@
     "description": "MQTT client for mbed",
     "frameworks": "mbed",
     "keywords": [
-        "Serial",
-        "Terminal",
-        "VT100",
-        "VT200",
-        "VT52",
-        "MQTT"
+        "MQTT",
+        "1.0.3",
+        "cube",
+        "led"
     ],
     "name": "MQTT",
     "platforms": "*",

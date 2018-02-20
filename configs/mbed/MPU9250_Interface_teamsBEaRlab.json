@@ -9,11 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MPU9250",
-        "1.0.3",
-        "LCD",
-        "ST7032",
-        "TextLCD"
+        "GUI",
+        "Thermocouple",
+        "WS2812",
+        "MPU9250"
     ],
     "name": "MPU9250_Interface",
     "platforms": "*",

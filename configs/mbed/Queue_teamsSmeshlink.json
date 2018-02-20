@@ -8,7 +8,18 @@
         "https://os.mbed.com/teams/Smeshlink/code/MxSniffer/"
     ],
     "frameworks": "mbed",
-    "keywords": "Queue",
+    "keywords": [
+        "HSI",
+        "pwm",
+        "rgb",
+        "RGBW",
+        "Fibocom",
+        "GPS",
+        "GPS Module",
+        "GTS-4e-60",
+        "NMEA",
+        "NMEA Parser"
+    ],
     "name": "Queue",
     "platforms": "*",
     "repository": {

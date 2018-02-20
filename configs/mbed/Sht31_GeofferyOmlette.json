@@ -9,7 +9,11 @@
         "https://os.mbed.com/users/koyo_take/code/ina-hack-test/"
     ],
     "frameworks": "mbed",
-    "keywords": "Sht31",
+    "keywords": [
+        "compass",
+        "DISCO_L476VG",
+        "LSM303"
+    ],
     "name": "Sht31",
     "platforms": "*",
     "repository": {

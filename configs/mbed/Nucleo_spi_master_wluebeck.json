@@ -5,12 +5,7 @@
     },
     "description": "SPI-Master for CAN (Nucleo f401re)",
     "frameworks": "mbed",
-    "keywords": [
-        "dac",
-        "MCP4728",
-        "DS1337",
-        "I2C"
-    ],
+    "keywords": "Nucleo_spi_master",
     "name": "Nucleo_spi_master",
     "platforms": "*",
     "repository": {

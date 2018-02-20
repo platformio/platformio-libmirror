@@ -14,11 +14,11 @@
         "multiplexing",
         "pwm",
         "tlc5940",
-        "I2C",
-        "IO expander",
         "BH1750",
         "digital light sensor",
-        "gy-30"
+        "gy-30",
+        "I2C",
+        "IO expander"
     ],
     "name": "BH1750",
     "platforms": "*",

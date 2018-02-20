@@ -9,11 +9,7 @@
         "https://os.mbed.com/users/vpcola/code/lpc1768_blinky/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "ds1621",
-        "I2C",
-        "Temperature"
-    ],
+    "keywords": "SerialShell",
     "name": "SerialShell",
     "platforms": "*",
     "repository": {

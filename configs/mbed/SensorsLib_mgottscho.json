@@ -6,8 +6,14 @@
     "description": "A compilation of some hardware sensors and their shared programming interfaces.",
     "frameworks": "mbed",
     "keywords": [
-        "ESP8266",
-        "NodeMCU"
+        "compass",
+        "LSM303DLHC",
+        "magnetometer",
+        "sensors",
+        "maniacbug",
+        "nRF24L01",
+        "nRF24L01P",
+        "RF24"
     ],
     "name": "SensorsLib",
     "platforms": "*",

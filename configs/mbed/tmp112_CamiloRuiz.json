@@ -9,10 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "FRAM",
-        "log",
         "TMP102",
-        "TMP112"
+        "TMP112",
+        "40x4",
+        "C-51849",
+        "character",
+        "LCD",
+        "mruby"
     ],
     "name": "tmp112",
     "platforms": "*",

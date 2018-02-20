@@ -6,8 +6,8 @@
     "description": "DFPlayerMini Library porting from Arduino Library (www.github.com/dfrobot/DFPlayer_Mini_Mp3)",
     "frameworks": "mbed",
     "keywords": [
-        "ATParser",
-        "sigfox",
+        "id3",
+        "mp3",
         "C030",
         "low power",
         "STM32F437",

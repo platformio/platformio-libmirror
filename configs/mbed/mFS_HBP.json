@@ -6,6 +6,10 @@
     "description": "mFS file system library for EEPROM memory chips.",
     "frameworks": "mbed",
     "keywords": [
+        "inverse kinematics",
+        "mearm",
+        "robotic arm",
+        "servo motor",
         "EEPROM",
         "file",
         "mFS",
@@ -19,11 +23,7 @@
         "I2C",
         "quadrotor",
         "robotica",
-        "vuelo",
-        "inverse kinematics",
-        "mearm",
-        "robotic arm",
-        "servo motor"
+        "vuelo"
     ],
     "name": "mFS",
     "platforms": "*",

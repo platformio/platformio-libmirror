@@ -6,9 +6,8 @@
     "description": "grove_compass",
     "frameworks": "mbed",
     "keywords": [
-        "stm32",
-        "watchdog",
-        "WDT"
+        "rtos",
+        "STM32F030R8"
     ],
     "name": "grove_compass",
     "platforms": "*",

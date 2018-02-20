@@ -9,18 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "ultrasonico",
+        "I2C",
         "game",
         "inheritance",
         "OOP",
         "polymorphism",
-        "tutorial",
-        "USBHOST",
-        "api",
-        "Digi",
-        "xbee",
-        "zigbee",
-        "controller",
-        "Design"
+        "tutorial"
     ],
     "name": "enemy",
     "platforms": "*",

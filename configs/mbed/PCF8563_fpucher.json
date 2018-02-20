@@ -6,8 +6,15 @@
     "description": "Version 0.3",
     "frameworks": "mbed",
     "keywords": [
-        "adafruit printer",
-        "thermal printer"
+        "controller",
+        "game",
+        "interrupt",
+        "joystick",
+        "920MHz",
+        "IM920",
+        "Interplan",
+        "IOT",
+        "NFC"
     ],
     "name": "PCF8563",
     "platforms": "*",

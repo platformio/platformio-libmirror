@@ -6,12 +6,16 @@
     "description": "VT52 is an enhancement of class Serial and offers some Methods for Printing in VT52 Terminal Style:",
     "frameworks": "mbed",
     "keywords": [
+        "Accel",
+        "accelerometer",
+        "gyro",
+        "gyroscope",
+        "IMU",
         "Serial",
         "Terminal",
         "VT100",
         "VT200",
-        "VT52",
-        "MQTT"
+        "VT52"
     ],
     "name": "VT52",
     "platforms": "*",

@@ -13,14 +13,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AnalogIn",
-        "filter",
-        "median",
-        "outlier",
-        "spikes",
         "QEI",
         "Quadrature encoder interface",
-        "Rotary Encoder"
+        "Rotary Encoder",
+        "Freescale",
+        "mbed"
     ],
     "name": "STM32F3-Discovery",
     "platforms": "*",

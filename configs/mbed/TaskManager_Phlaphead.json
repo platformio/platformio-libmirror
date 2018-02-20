@@ -6,15 +6,15 @@
     "description": "Simple task manager which uses a Ticker",
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "display-initialisation",
-        "driver",
-        "setpixel",
-        "st7626",
         "\\",
         "manager\\",
         "Scheduler",
-        "task"
+        "task",
+        "BUTTON",
+        "click",
+        "debounce",
+        "F411",
+        "Frequency Counter"
     ],
     "name": "TaskManager",
     "platforms": "*",

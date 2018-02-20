@@ -9,7 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "RTC",
+        "Temp",
+        "Temperature",
+        "TMP102",
+        "InterruptIn",
         "Color Sensor",
         "I2C"
     ],

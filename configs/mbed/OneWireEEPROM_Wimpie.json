@@ -9,9 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LocalFileSystem",
-        "S25FL216K",
-        "USBFileSystem"
+        "mail",
+        "network",
+        "pop3"
     ],
     "name": "OneWireEEPROM",
     "platforms": "*",

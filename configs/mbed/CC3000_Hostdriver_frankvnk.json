@@ -1,0 +1,44 @@
+{
+    "authors": {
+        "name": "Frank Vannieuwkerke",
+        "url": "https://os.mbed.com/users/frankvnk/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Frank Vannieuwkerke"
+            ],
+            "frameworks": "mbed",
+            "name": "NVIC_set_all_priorities"
+        }
+    ],
+    "description": "Driver for CC3000 Wi-Fi module",
+    "examples": [
+        "https://os.mbed.com/users/frankvnk/code/CC3000_Simple_Socket/",
+        "https://os.mbed.com/users/frankvnk/code/Wi-Go_IOT_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HD44780",
+        "TextLCD",
+        "flash",
+        "Serial",
+        "SPI",
+        "CC3000",
+        "SimpleLink",
+        "Wi-Fi",
+        "fast",
+        "FastPWM",
+        "precision",
+        "pwm",
+        "resolution",
+        "Servo",
+        "Speed"
+    ],
+    "name": "CC3000_Hostdriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/frankvnk/code/CC3000_Hostdriver/"
+    }
+}

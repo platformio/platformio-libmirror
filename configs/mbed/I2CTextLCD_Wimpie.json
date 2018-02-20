@@ -6,12 +6,10 @@
     "description": "I2CTextLCD",
     "frameworks": "mbed",
     "keywords": [
-        "LandTiger",
-        "SSD1289",
-        "Servo",
-        "servo pulse",
-        "SERVOGEN",
-        "ServoOut"
+        "accelerometer",
+        "CDC",
+        "MSD",
+        "USB"
     ],
     "name": "I2CTextLCD",
     "platforms": "*",

@@ -9,17 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HD44780",
-        "LCD",
-        "MT-16S2D",
-        "rus",
-        "Russian",
-        "text",
-        "TextLCD",
-        "TextLCD_Rus",
         "PCA9629A",
         "stepper motor",
-        "stepping motor"
+        "stepping motor",
+        "Low_Power",
+        "LPC1114",
+        "LPC1114FN28",
+        "KL-25Z",
+        "Zumo"
     ],
     "name": "PCA9629A",
     "platforms": "*",

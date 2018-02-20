@@ -17,9 +17,7 @@
         "Beep",
         "sound",
         "tone",
-        "joystick",
-        "SDFileSystem",
-        "STM32F746"
+        "joystick"
     ],
     "name": "USBHostLite",
     "platforms": "*",

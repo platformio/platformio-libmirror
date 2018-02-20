@@ -11,13 +11,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Scheduler",
         "NTP",
         "SNTP",
         "SNTPClinet",
-        "GPS",
-        "interrupt",
-        "NMEA"
+        "menu",
+        "Touchscreen",
+        "GEL2474"
     ],
     "name": "SNTPClinet",
     "platforms": "*",

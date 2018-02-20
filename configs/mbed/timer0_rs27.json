@@ -12,8 +12,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Graphics",
-        "LCD"
+        "NDEF",
+        "NFC",
+        "PN532",
+        "KL25",
+        "touch",
+        "TSI"
     ],
     "name": "timer0",
     "platforms": "*",

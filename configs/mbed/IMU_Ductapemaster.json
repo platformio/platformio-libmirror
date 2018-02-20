@@ -6,6 +6,12 @@
     "description": "Interface library for the Atmel Inertial One IMU. Contains drivers for the ITG 3200 3 axis gyro, BMA-150 3 axis accelerometer, and AK8975 3 axis compass",
     "frameworks": "mbed",
     "keywords": [
+        "optical",
+        "Si1145",
+        "Si1146",
+        "Si1147",
+        "Si114x",
+        "uV",
         "accelerometer",
         "AK8975",
         "BMA-150",

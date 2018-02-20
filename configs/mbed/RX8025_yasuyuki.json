@@ -11,7 +11,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "WS2812",
+        "mbed",
+        "LCD",
+        "ST7032",
+        "TextLCD",
+        "GPS",
         "RX8025"
     ],
     "name": "RX8025",

@@ -9,11 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Arducam",
-        "UTFT",
         "64F",
         "FRDM",
-        "I2S"
+        "I2S",
+        "arduino",
+        "naza gps decoder",
+        "Arducam",
+        "UTFT"
     ],
     "name": "Arducam_UTFT_SPI",
     "platforms": "*",

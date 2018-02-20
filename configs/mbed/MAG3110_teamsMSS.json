@@ -12,7 +12,9 @@
     "keywords": [
         "I2C",
         "MAG3110",
-        "magnetometer"
+        "magnetometer",
+        "buffer",
+        "ring"
     ],
     "name": "MAG3110",
     "platforms": "*",

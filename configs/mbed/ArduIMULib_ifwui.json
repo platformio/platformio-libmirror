@@ -8,19 +8,7 @@
         "https://os.mbed.com/users/ifwui/code/ArduIMUHelloWorld/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "F411",
-        "Frequency Counter",
-        "mbed",
-        "chip select",
-        "master",
-        "Serial",
-        "SPI",
-        "AX-12",
-        "ax12",
-        "IOT",
-        "dynamixel"
-    ],
+    "keywords": "ArduIMULib",
     "name": "ArduIMULib",
     "platforms": "*",
     "repository": {

@@ -14,10 +14,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "LMiC",
+        "Lora",
+        "LoRaWAN",
         "INA226",
-        "EEPROM",
-        "flash",
-        "stm32"
+        "AnalogOut",
+        "dac",
+        "SPI"
     ],
     "name": "INA226",
     "platforms": "*",

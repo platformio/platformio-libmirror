@@ -8,7 +8,13 @@
         "https://os.mbed.com/users/ralvo/code/GraphingcalculatorMk2/"
     ],
     "frameworks": "mbed",
-    "keywords": "Keypad",
+    "keywords": [
+        "BME280",
+        "ax12",
+        "dynamixel",
+        "motor",
+        "Servo"
+    ],
     "name": "Keypad",
     "platforms": "*",
     "repository": {

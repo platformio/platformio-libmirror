@@ -5,14 +5,7 @@
     },
     "description": "circular_buffer",
     "frameworks": "mbed",
-    "keywords": [
-        "card",
-        "fatfilesystem",
-        "MMC",
-        "SD",
-        "SDHC",
-        "SDXC"
-    ],
+    "keywords": "circular_buffer",
     "name": "circular_buffer",
     "platforms": "*",
     "repository": {

@@ -8,7 +8,17 @@
         "https://os.mbed.com/teams/DFRobot/code/newTicker_demo/"
     ],
     "frameworks": "mbed",
-    "keywords": "NewTicker",
+    "keywords": [
+        "actuators",
+        "control",
+        "industrial",
+        "Linear",
+        "Modbus",
+        "Over",
+        "mutex",
+        "preemptive",
+        "rtos"
+    ],
     "name": "NewTicker",
     "platforms": "*",
     "repository": {

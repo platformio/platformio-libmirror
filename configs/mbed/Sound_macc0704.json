@@ -5,7 +5,13 @@
     },
     "description": "test",
     "frameworks": "mbed",
-    "keywords": "test",
+    "keywords": [
+        "bluetooth",
+        "test",
+        "BLE",
+        "BLE Bluetooth Low Energy BLE",
+        "Eddystone"
+    ],
     "name": "Sound",
     "platforms": "*",
     "repository": {

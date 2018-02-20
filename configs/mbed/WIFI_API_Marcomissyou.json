@@ -5,7 +5,13 @@
     },
     "description": "WIFI_API_20150524e",
     "frameworks": "mbed",
-    "keywords": "WIFI_API",
+    "keywords": [
+        "Arch Max",
+        "sensor",
+        "STM32F4",
+        "Temperature",
+        "CO657"
+    ],
     "name": "WIFI_API",
     "platforms": "*",
     "repository": {

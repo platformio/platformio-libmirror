@@ -10,19 +10,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "average",
-        "math",
-        "Moving",
+        "CANopen",
+        "MAX7219",
+        "MAX7221",
         "arduino",
         "millis",
         "Modbus",
         "MODSERIAL",
-        "rtu",
-        "ADT7410",
-        "Analog Devices",
-        "I2C",
-        "sensor",
-        "Temperature"
+        "rtu"
     ],
     "name": "ModbusSlave232",
     "platforms": "*",

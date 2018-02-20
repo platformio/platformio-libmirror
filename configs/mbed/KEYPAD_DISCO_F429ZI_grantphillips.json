@@ -10,12 +10,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "7seg",
-        "LCD",
-        "dac",
-        "DMA",
-        "function generator",
-        "MODDMA"
+        "LocalFileSystem",
+        "S25FL216K",
+        "USBFileSystem"
     ],
     "name": "KEYPAD_DISCO_F429ZI",
     "platforms": "*",

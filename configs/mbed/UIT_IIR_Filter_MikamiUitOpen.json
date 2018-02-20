@@ -11,7 +11,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BME280",
+        "I2C multiplexer",
+        "PCA9547",
+        "dac",
         "biduad",
         "cascade structure",
         "IIR filter",

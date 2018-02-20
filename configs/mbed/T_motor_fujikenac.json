@@ -9,10 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "acd52832",
-        "aconno",
-        "Nordic",
-        "nrf52"
+        "DS1337",
+        "I2C"
     ],
     "name": "T_motor",
     "platforms": "*",

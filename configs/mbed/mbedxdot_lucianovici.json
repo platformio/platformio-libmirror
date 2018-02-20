@@ -5,7 +5,14 @@
     },
     "description": "Multitech xDot Utils",
     "frameworks": "mbed",
-    "keywords": "mbed-xdot",
+    "keywords": [
+        "led",
+        "rgb",
+        "WS2812",
+        "WS2812B",
+        "TCP",
+        "UDP"
+    ],
     "name": "mbed-xdot",
     "platforms": "*",
     "repository": {

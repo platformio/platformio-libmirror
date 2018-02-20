@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Sakai Ritaro",
+        "url": "https://os.mbed.com/users/ritarosakai/"
+    },
+    "description": "MPU6050 simple library",
+    "examples": [
+        "https://os.mbed.com/users/ritarosakai/code/MPU6050_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "MPU6050",
+        "FAT",
+        "LPC1114",
+        "SDCard",
+        "Adafruit 2.8",
+        "FRDM-KL25Z",
+        "STMPE610",
+        "touchsensor",
+        "accelerometer",
+        "compass",
+        "eCompass",
+        "magnetometer",
+        "sensor",
+        "debounce",
+        "DebounceIn"
+    ],
+    "name": "MPU6050",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ritarosakai/code/MPU6050/"
+    }
+}

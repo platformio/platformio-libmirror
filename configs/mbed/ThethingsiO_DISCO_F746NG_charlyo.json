@@ -9,10 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "stm32",
-        "STM32F746",
-        "STM32F746NG-DISCO",
-        "USBHOST"
+        "arduino",
+        "FRDM",
+        "Freescale",
+        "KL25z",
+        "L293D",
+        "motor",
+        "Servo",
+        "shield",
+        "stm32"
     ],
     "name": "ThethingsiO_DISCO_F746NG",
     "platforms": "*",

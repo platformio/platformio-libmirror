@@ -9,11 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "control",
-        "PID",
-        "TJPS",
-        "MCP4018",
-        "AT42QT1010"
+        "debug",
+        "ethernet",
+        "server",
+        "TCP",
+        "AT42QT1010",
+        "PAW",
+        "PAW Sensor"
     ],
     "name": "AT42QT1010",
     "platforms": "*",

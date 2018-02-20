@@ -11,13 +11,13 @@
         "rtos",
         "serial protocol",
         "Pachube",
-        "eeprom on flash",
-        "flash file system",
         "accelerometer",
         "MMA8451",
         "MMA8452",
         "MMA8453",
-        "MMA845x"
+        "MMA845x",
+        "eeprom on flash",
+        "flash file system"
     ],
     "name": "EthernetNetIf",
     "platforms": "*",

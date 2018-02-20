@@ -13,8 +13,14 @@
         "Expander",
         "I2C",
         "PCA9538",
-        "C12832",
-        "LCD"
+        "control",
+        "dot",
+        "Dynamic",
+        "gray",
+        "led",
+        "lighting",
+        "matrix",
+        "scale"
     ],
     "name": "PCA9538_Expander",
     "platforms": "*",

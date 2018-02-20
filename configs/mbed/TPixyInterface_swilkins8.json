@@ -9,13 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "C12832",
+        "C12832A1Z",
+        "MBED Application Board",
         "ethernet",
         "NTP",
         "SNTP",
         "W5500",
-        "Wiznet",
-        "kl46z",
-        "MAG3110"
+        "Wiznet"
     ],
     "name": "TPixy-Interface",
     "platforms": "*",

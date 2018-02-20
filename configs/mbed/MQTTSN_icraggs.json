@@ -8,15 +8,7 @@
         "https://os.mbed.com/users/icraggs/code/HelloMQTTSN/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "MAX14661",
-        "mux",
-        "4D Systems",
-        "LDC-43PCt",
-        "JSON",
-        "MessagePack",
-        "GUI"
-    ],
+    "keywords": "GPS",
     "name": "MQTTSN",
     "platforms": "*",
     "repository": {

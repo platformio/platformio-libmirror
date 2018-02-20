@@ -9,10 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ethernet",
-        "ip",
-        "mbed",
-        "timer"
+        "I2C",
+        "LM77",
+        "sensor",
+        "Temperature"
     ],
     "name": "DebouncedIna",
     "platforms": "*",

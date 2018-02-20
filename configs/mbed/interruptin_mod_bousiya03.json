@@ -13,10 +13,9 @@
     "frameworks": "mbed",
     "keywords": [
         "InterruptIn",
-        "64",
-        "controller",
-        "n64",
-        "Nintendo"
+        "F401RE",
+        "Nucleo",
+        "USBHOST"
     ],
     "name": "interruptin_mod",
     "platforms": "*",

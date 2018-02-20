@@ -5,10 +5,7 @@
     },
     "description": "This is a Library I have created for a Project, the aim being to send the shutter release trigger signal to my Nikon D40x DSLR using an IR led.",
     "frameworks": "mbed",
-    "keywords": [
-        "device",
-        "USB"
-    ],
+    "keywords": "PulseLibrary",
     "name": "PulseLibrary",
     "platforms": "*",
     "repository": {

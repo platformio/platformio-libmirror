@@ -6,14 +6,11 @@
     "description": "Read data from accel, gyro, and mag of gy80",
     "frameworks": "mbed",
     "keywords": [
-        "Dynamic",
-        "ethernet",
-        "http",
-        "pages",
-        "server",
-        "static",
-        "Web",
-        "WiFly"
+        "minutes",
+        "seconds",
+        "stopwatch",
+        "timer",
+        "watch"
     ],
     "name": "GY80",
     "platforms": "*",

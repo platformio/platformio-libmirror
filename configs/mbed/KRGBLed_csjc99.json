@@ -5,12 +5,7 @@
     },
     "description": "simple wrapper for the K64F RGB Led",
     "frameworks": "mbed",
-    "keywords": [
-        "Blackberry",
-        "Brreakout",
-        "sparkfun",
-        "trackball"
-    ],
+    "keywords": "KRGBLed",
     "name": "KRGBLed",
     "platforms": "*",
     "repository": {

@@ -7,9 +7,10 @@
     "frameworks": "mbed",
     "keywords": [
         "VNH5019",
-        "HMC5883L",
         "I2C",
-        "IO expander"
+        "IO expander",
+        "6610",
+        "Nokia"
     ],
     "name": "PCF8575",
     "platforms": "*",

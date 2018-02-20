@@ -13,9 +13,12 @@
         "modem",
         "USB",
         "Vodafone",
+        "4D system",
+        "LCD",
+        "Picaso",
         "HC05",
-        "adc",
-        "HX711"
+        "AquesTalk",
+        "ATP3011"
     ],
     "name": "VodafoneK3770Lib",
     "platforms": "*",

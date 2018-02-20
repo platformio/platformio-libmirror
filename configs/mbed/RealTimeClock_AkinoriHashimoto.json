@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Akinori Hashimoto",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Akinori Hashimoto"
+            ],
+            "frameworks": "mbed",
+            "name": "StrLib"
+        }
+    ],
+    "description": "Real Time Clock.",
+    "frameworks": "mbed",
+    "keywords": [
+        "distance",
+        "driver",
+        "sensor",
+        "VL6180x",
+        "1",
+        "1-wire",
+        "DS1820",
+        "Maxim",
+        "one",
+        "OneWire",
+        "Wire",
+        "realtimeclock"
+    ],
+    "name": "RealTimeClock",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/AkinoriHashimoto/code/RealTimeClock/"
+    }
+}

@@ -12,14 +12,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Remote SDCard Access",
-        "shell",
-        "Shell Emulation",
-        "unix",
+        "OLED",
+        "Organic-LED",
+        "SO1602A",
+        "I2C",
+        "sensor",
+        "Temperature",
         "low current",
         "low power",
         "nrf51",
-        "nRF51822"
+        "nRF51822",
+        "gyro"
     ],
     "name": "nRF51_LowPwr",
     "platforms": "*",

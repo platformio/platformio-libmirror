@@ -14,8 +14,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "tcp/ip",
-        "WebSocket"
+        "TMP102",
+        "TMP112",
+        "ms5611",
+        "EEPROM",
+        "flash",
+        "IAP",
+        "In-Application",
+        "internal",
+        "memory",
+        "programming"
     ],
     "name": "MTS-Test",
     "platforms": "*",

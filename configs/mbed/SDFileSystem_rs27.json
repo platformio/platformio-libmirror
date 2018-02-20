@@ -6,9 +6,6 @@
     "description": "SDFileSystem",
     "frameworks": "mbed",
     "keywords": [
-        "cmsis",
-        "rtos",
-        "RTX",
         "DISCO_F746NG",
         "LCD",
         "Serial",
@@ -22,9 +19,7 @@
         "no",
         "Pin",
         "pwm",
-        "Servo",
-        "I2C",
-        "wattbob"
+        "Servo"
     ],
     "name": "SDFileSystem",
     "platforms": "*",

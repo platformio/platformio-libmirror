@@ -6,19 +6,16 @@
     "description": "Basic library for interfacing the AK8975 using I2C. It does not include more advanced functions. The datasheet does not include what the self-test should return for example, so this library does not include the self-test function.",
     "frameworks": "mbed",
     "keywords": [
-        "xbee",
-        "ZB",
-        "zigbee",
         "AK8975",
         "compass",
         "I2C",
         "Magneto",
         "magnetometer",
+        "xbee",
+        "ZB",
+        "zigbee",
         "jsmn",
-        "JSON",
-        "ds1307",
-        "RTC",
-        "WSE"
+        "JSON"
     ],
     "name": "AK8975",
     "platforms": "*",

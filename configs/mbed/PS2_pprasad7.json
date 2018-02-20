@@ -8,7 +8,14 @@
         "https://os.mbed.com/users/pprasad7/code/Hangman/"
     ],
     "frameworks": "mbed",
-    "keywords": "PS2",
+    "keywords": [
+        "ethernet",
+        "socket",
+        "W5500",
+        "arduino",
+        "Gameduino",
+        "mbeduino"
+    ],
     "name": "PS2",
     "platforms": "*",
     "repository": {

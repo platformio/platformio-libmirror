@@ -11,7 +11,18 @@
     "keywords": [
         "arduino",
         "micros",
-        "millis"
+        "millis",
+        "device",
+        "USB",
+        "DC motor",
+        "h bridge",
+        "L293D",
+        "l298n",
+        "pwm",
+        "SPI",
+        "motor",
+        "PCA9629",
+        "Stepper"
     ],
     "name": "Arduino",
     "platforms": "*",

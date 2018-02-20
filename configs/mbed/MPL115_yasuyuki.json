@@ -8,7 +8,12 @@
         "https://os.mbed.com/users/yasuyuki/code/mbed_MPL115/"
     ],
     "frameworks": "mbed",
-    "keywords": "MPL115A2",
+    "keywords": [
+        "MPL115A2",
+        "adc",
+        "DIFF",
+        "K64F"
+    ],
     "name": "MPL115",
     "platforms": "*",
     "repository": {

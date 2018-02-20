@@ -12,8 +12,12 @@
     "frameworks": "mbed",
     "keywords": [
         "JSON",
+        "Addressable",
         "led",
-        "rgb"
+        "NeoPixel",
+        "rgb",
+        "WS2812",
+        "Servo"
     ],
     "name": "jsmn",
     "platforms": "*",

@@ -6,11 +6,17 @@
     "description": "Currently a giant piece of crap, this library is just a quick way to get cheap inputs out of scrap parts. I will fix it up eventually so if you decide to use it now you do so at your own risk.",
     "frameworks": "mbed",
     "keywords": [
+        "accelerometer",
+        "Grove",
+        "Seeedstudio",
+        "socket",
+        "wifi",
+        "WifiPlusClick",
+        "WLAN",
         "Capacitive",
         "Input",
         "sensor",
-        "touch",
-        "GoogleChart"
+        "touch"
     ],
     "name": "theBadTouch",
     "platforms": "*",

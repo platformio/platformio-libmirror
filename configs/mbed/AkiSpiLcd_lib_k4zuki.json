@@ -5,7 +5,13 @@
     },
     "description": "Basic library for SHARP LCD LS027B4DH01",
     "frameworks": "mbed",
-    "keywords": "LCD",
+    "keywords": [
+        "LCD",
+        "led",
+        "LED control",
+        "Nucleo",
+        "ST"
+    ],
     "name": "AkiSpiLcd_lib",
     "platforms": "*",
     "repository": {

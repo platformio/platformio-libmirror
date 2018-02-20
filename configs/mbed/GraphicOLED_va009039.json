@@ -14,12 +14,10 @@
         "OLED",
         "SEL10016Y",
         "WS0010",
-        "debounce",
-        "DebounceIn",
-        "DHT11",
-        "LCD",
-        "LCD 16x2",
-        "Parallel LCD"
+        "NeoPixel",
+        "stm32",
+        "WS2812B",
+        "DHT11"
     ],
     "name": "GraphicOLED",
     "platforms": "*",

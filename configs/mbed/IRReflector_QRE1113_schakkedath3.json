@@ -6,10 +6,11 @@
     "description": "This library is for interfacing the IR Reflector QRE1113",
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "LPC4088",
-        "LPC4088DM",
-        "module"
+        "2.8",
+        "Adafruit",
+        "FRDM-KL25Z",
+        "TFT",
+        "FRDM-K20D50"
     ],
     "name": "IRReflector_QRE1113",
     "platforms": "*",

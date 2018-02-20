@@ -16,8 +16,10 @@
         "robot",
         "Utilities",
         "Zumo",
-        "I2C",
-        "real-time communication"
+        "LCD",
+        "Serial",
+        "sparkfun",
+        "RTC"
     ],
     "name": "ZumoRobotUtilities",
     "platforms": "*",

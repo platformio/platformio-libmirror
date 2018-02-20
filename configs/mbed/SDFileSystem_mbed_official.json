@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "mbed official",
+        "url": "https://os.mbed.com/users/mbed_official/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "mbed official"
+            ],
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "SDFileSystem",
+    "examples": [
+        "https://os.mbed.com/users/4180_1/code/WavePlayer_HelloWorld/",
+        "https://os.mbed.com/users/ym1784/code/CAN_LOG_SD/",
+        "https://os.mbed.com/users/Danton/code/SDCard/",
+        "https://os.mbed.com/users/mprinke/code/GPSLogger/",
+        "https://os.mbed.com/users/veskokaradzhov/code/AnalogSensorsLogging/",
+        "https://os.mbed.com/users/mprinke/code/GPSDevice/",
+        "https://os.mbed.com/users/rsartin3/code/Audio_Player/",
+        "https://os.mbed.com/users/rsartin3/code/Wav_player_RPG_menu/",
+        "https://os.mbed.com/users/zlee9/code/PORGFINAL/",
+        "https://os.mbed.com/users/zlee9/code/SpaceInvadersFINAL/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/mbed_official/code/SDFileSystem/"
+    }
+}

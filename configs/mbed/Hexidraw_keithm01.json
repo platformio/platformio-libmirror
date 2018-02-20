@@ -9,7 +9,11 @@
         "https://os.mbed.com/users/Mariya/code/Hexiwear-FinalProject_v2/"
     ],
     "frameworks": "mbed",
-    "keywords": "mbed",
+    "keywords": [
+        "CyaSSL",
+        "https",
+        "SSL"
+    ],
     "name": "Hexidraw",
     "platforms": "*",
     "repository": {

@@ -5,15 +5,7 @@
     },
     "description": "color_sensor",
     "frameworks": "mbed",
-    "keywords": [
-        "AD-12864-SPI",
-        "AQM1248A",
-        "C12832",
-        "LCD",
-        "SPI",
-        "ST7565",
-        "NUCLEO_L152RE"
-    ],
+    "keywords": "color_sensor",
     "name": "color_sensor",
     "platforms": "*",
     "repository": {

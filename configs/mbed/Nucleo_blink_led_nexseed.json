@@ -11,15 +11,7 @@
         "NVIC",
         "priority",
         "buffer",
-        "I2C",
-        "gpu",
-        "Graphics",
-        "LCD",
-        "module",
-        "smart",
-        "SMARTGPU",
-        "TFT",
-        "touch"
+        "I2C"
     ],
     "name": "Nucleo_blink_led",
     "platforms": "*",

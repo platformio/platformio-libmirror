@@ -14,11 +14,7 @@
         "driver",
         "I2C",
         "sensor",
-        "soil moisture",
-        "flash",
-        "IS25LQ032B",
-        "ISSI",
-        "SPI"
+        "soil moisture"
     ],
     "name": "Chirp",
     "platforms": "*",

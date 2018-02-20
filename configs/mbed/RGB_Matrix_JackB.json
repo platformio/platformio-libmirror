@@ -8,16 +8,7 @@
         "https://os.mbed.com/users/JackB/code/RGB_Matrix_Test/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "eCompass",
-        "Wi-Go",
-        "WiGo",
-        "semihosting",
-        "SWD",
-        "adc",
-        "DIFF",
-        "K64F"
-    ],
+    "keywords": "1WireLcd",
     "name": "RGB_Matrix",
     "platforms": "*",
     "repository": {

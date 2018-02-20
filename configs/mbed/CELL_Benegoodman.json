@@ -6,12 +6,12 @@
     "description": "Cell Library",
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F469NI",
-        "QSPI",
-        "socket",
-        "wifi",
-        "WifiPlusClick",
-        "WLAN"
+        "OLED",
+        "ssd1305",
+        "led",
+        "LED controller",
+        "PCA9632",
+        "pwm"
     ],
     "name": "CELL",
     "platforms": "*",

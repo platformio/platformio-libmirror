@@ -10,9 +10,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "7",
-        "display",
-        "segment",
+        "Humidity",
+        "Sensiron",
+        "Temperature",
+        "daisy-chain",
+        "L6470",
+        "SPI",
+        "Stepper",
         "MAX485",
         "RS485"
     ],

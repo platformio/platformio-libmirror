@@ -9,12 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "output",
-        "pwm",
-        "Servo",
+        "I2C_EEPROM",
         "ILI9225",
         "LCD",
-        "SPI"
+        "SPI",
+        "led",
+        "https",
+        "mbedTLS",
+        "SSL"
     ],
     "name": "ILI9225_SPI_TFT",
     "platforms": "*",

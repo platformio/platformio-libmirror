@@ -9,9 +9,7 @@
         "arithmetic",
         "fixed",
         "point",
-        "motor",
-        "PCA9629",
-        "Stepper"
+        "Nucleo"
     ],
     "name": "fixedpoint",
     "platforms": "*",

@@ -9,18 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Grove",
-        "ISD1820P",
-        "play",
-        "playback",
-        "record",
-        "recorder",
-        "sound",
         "Altitude",
         "atmospheric",
         "HP03SA",
         "I2C",
-        "pressure"
+        "pressure",
+        "IOGS",
+        "IOGS LCD"
     ],
     "name": "HP03SA",
     "platforms": "*",

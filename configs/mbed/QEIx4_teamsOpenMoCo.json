@@ -11,14 +11,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AnalogIn",
-        "filter",
-        "median",
-        "outlier",
-        "spikes",
         "QEI",
         "Quadrature encoder interface",
-        "Rotary Encoder"
+        "Rotary Encoder",
+        "Freescale",
+        "mbed"
     ],
     "name": "QEIx4",
     "platforms": "*",

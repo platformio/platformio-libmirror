@@ -6,10 +6,8 @@
     "description": "MIDI protocol using UART",
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit",
-        "GFX",
-        "LCD",
-        "TFT"
+        "SSL",
+        "TLS"
     ],
     "name": "SerialMIDI",
     "platforms": "*",

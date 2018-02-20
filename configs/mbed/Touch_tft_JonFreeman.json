@@ -6,17 +6,11 @@
     "description": "Modified copy of Peter Dresche lib using fewer analogue pins for touch panel",
     "frameworks": "mbed",
     "keywords": [
-        "EA",
-        "Graphics",
-        "OLED",
-        "SPI",
-        "14A2A",
-        "ATT",
-        "avnet",
-        "Cellular",
-        "modem",
-        "WNC",
-        "WncController"
+        "Dynamic",
+        "led",
+        "tlc5940",
+        "BLE_API",
+        "Microbit"
     ],
     "name": "Touch_tft",
     "platforms": "*",

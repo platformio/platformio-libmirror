@@ -10,14 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "DS1338",
+        "I2C",
         "Ciseco",
         "SRF",
         "wireless",
-        "XRF",
-        "flash",
-        "M25P10",
-        "M25P40",
-        "MP25P20"
+        "XRF"
     ],
     "name": "LLAPSerial",
     "platforms": "*",

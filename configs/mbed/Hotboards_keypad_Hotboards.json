@@ -24,9 +24,12 @@
         "SPI",
         "hotboards",
         "keyboard",
-        "Display Module",
-        "emwin",
-        "LPC4088DM"
+        "Kinematics",
+        "lauther",
+        "math",
+        "matrix",
+        "robot",
+        "Robotics"
     ],
     "name": "Hotboards_keypad",
     "platforms": "*",

@@ -5,7 +5,14 @@
     },
     "description": "pick up wakaama files from https://github.com/eclipse/wakaama",
     "frameworks": "mbed",
-    "keywords": "wakaama",
+    "keywords": [
+        "agriculture",
+        "Chirp",
+        "driver",
+        "I2C",
+        "sensor",
+        "soil moisture"
+    ],
     "name": "wakaama",
     "platforms": "*",
     "repository": {

@@ -8,10 +8,7 @@
         "https://os.mbed.com/users/fruediger/code/BLE_Nano_MPU6050Service/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "gas sensor",
-        "mq2"
-    ],
+    "keywords": "74HC165",
     "name": "MPU6050_lib",
     "platforms": "*",
     "repository": {

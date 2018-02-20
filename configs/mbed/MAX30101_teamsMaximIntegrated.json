@@ -6,14 +6,15 @@
     "description": "Library for MAX30101 SpO2 and heart rate sensor",
     "frameworks": "mbed",
     "keywords": [
-        "gmmp",
-        "IOT",
-        "SKTelecom",
-        "TCP",
-        "client",
-        "CoAP",
-        "protocol",
-        "server"
+        "audio",
+        "mp3",
+        "record",
+        "serial MP3",
+        "sound",
+        "vs1011",
+        "vs1011e",
+        "VS1053",
+        "wav"
     ],
     "name": "MAX30101",
     "platforms": "*",

@@ -10,10 +10,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "buzzer",
-        "pwm",
-        "tone",
-        "tune",
+        "Expander",
+        "I2C",
+        "PCA9538",
         "control",
         "dot",
         "Dynamic",

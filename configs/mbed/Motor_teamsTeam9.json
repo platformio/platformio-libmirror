@@ -5,13 +5,7 @@
     },
     "description": "Motor control library - worjking for checkpoint.",
     "frameworks": "mbed",
-    "keywords": [
-        "Alps",
-        "EC11",
-        "Encoder",
-        "quadrature",
-        "switch"
-    ],
+    "keywords": "Motor",
     "name": "Motor",
     "platforms": "*",
     "repository": {

@@ -5,7 +5,10 @@
     },
     "description": "Testing the GPS module for my Cansat",
     "frameworks": "mbed",
-    "keywords": "test",
+    "keywords": [
+        "pwm",
+        "SoftPWM"
+    ],
     "name": "Cansat_GPS",
     "platforms": "*",
     "repository": {

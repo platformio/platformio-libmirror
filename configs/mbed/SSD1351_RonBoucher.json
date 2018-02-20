@@ -6,9 +6,8 @@
     "description": "original copy - needs rev for nucleo",
     "frameworks": "mbed",
     "keywords": [
-        "AHRS",
-        "dcm",
-        "navigation"
+        "NFC",
+        "PN532"
     ],
     "name": "SSD1351",
     "platforms": "*",

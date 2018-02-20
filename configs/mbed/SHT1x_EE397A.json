@@ -6,10 +6,14 @@
     "description": "SHT1x",
     "frameworks": "mbed",
     "keywords": [
-        "NFC",
-        "PN532",
+        "FRDM-K22F",
+        "fxos8700cq",
         "nRF2401A",
-        "GPS"
+        "ALS",
+        "ambient light sensor",
+        "I2C",
+        "ISL29125",
+        "rgb"
     ],
     "name": "SHT1x",
     "platforms": "*",

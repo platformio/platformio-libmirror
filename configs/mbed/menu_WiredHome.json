@@ -10,15 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "controller",
-        "I2C",
-        "Wii",
+        "NTP",
+        "SNTP",
+        "SNTPClinet",
         "menu",
         "Touchscreen",
-        "led",
-        "rgb",
-        "WS2812",
-        "WS2812B"
+        "GEL2474"
     ],
     "name": "menu",
     "platforms": "*",

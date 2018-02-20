@@ -17,7 +17,16 @@
         "https://os.mbed.com/users/Dautor/code/acn52832_Battery_Beacon/"
     ],
     "frameworks": "mbed",
-    "keywords": "aconno_bsp",
+    "keywords": [
+        "adc",
+        "Color Sensor",
+        "Colour Sensor",
+        "High Speed ADC",
+        "irq",
+        "ldr",
+        "Light Dependent Resistor",
+        "RGB LED"
+    ],
     "name": "aconno_bsp",
     "platforms": "*",
     "repository": {

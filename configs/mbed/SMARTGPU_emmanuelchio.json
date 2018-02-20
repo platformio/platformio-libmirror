@@ -18,12 +18,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "int",
-        "interrupt",
-        "NVIC",
-        "priority",
         "buffer",
         "I2C",
+        "interrupt",
         "gpu",
         "Graphics",
         "LCD",

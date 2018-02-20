@@ -6,20 +6,15 @@
     "description": "MotorControl",
     "frameworks": "mbed",
     "keywords": [
-        "Communication",
-        "protocols",
-        "wireless",
-        "xbee",
-        "AD7606",
-        "SPI",
         "ANSI",
         "Terminal",
+        "Lora",
+        "senet",
         "controller",
         "motor",
         "pololu",
         "Qik",
-        "VNH25P30",
-        "LM61"
+        "VNH25P30"
     ],
     "name": "MotorControl",
     "platforms": "*",

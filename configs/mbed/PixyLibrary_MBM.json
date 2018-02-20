@@ -9,11 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
         "TTL74HC595",
         "Energy Meter",
         "frequency",
-        "measurement"
+        "measurement",
+        "Servo",
+        "servo pulse",
+        "SERVOGEN",
+        "ServoOut"
     ],
     "name": "PixyLibrary",
     "platforms": "*",

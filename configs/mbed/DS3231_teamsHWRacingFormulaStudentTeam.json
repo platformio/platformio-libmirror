@@ -6,9 +6,12 @@
     "description": "RTC Driver",
     "frameworks": "mbed",
     "keywords": [
+        "I2C",
+        "I2CRTOS",
+        "non-blocking",
+        "rtos",
         "RTC",
-        "Color Sensor",
-        "I2C"
+        "real-time communication"
     ],
     "name": "DS3231",
     "platforms": "*",

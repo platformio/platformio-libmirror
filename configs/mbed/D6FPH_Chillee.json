@@ -6,15 +6,15 @@
     "description": "reading diff-pressure form OMRON D6F-PH0505",
     "frameworks": "mbed",
     "keywords": [
-        "etti",
-        "TUIASI",
-        "hih6130",
-        "Humidity",
-        "I2C",
-        "sensor",
-        "Temperature",
+        "LCDC",
+        "S1D13781",
+        "shield",
+        "TFT",
         "D6F-PH",
-        "pressure"
+        "pressure",
+        "Australia",
+        "Lora",
+        "LoRaWAN"
     ],
     "name": "D6F-PH",
     "platforms": "*",

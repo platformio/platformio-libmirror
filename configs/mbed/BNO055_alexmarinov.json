@@ -6,14 +6,9 @@
     "description": "mbed library for the Bosh BNO055 9 axis sensor",
     "frameworks": "mbed",
     "keywords": [
+        "Nunchuk",
         "BNO055",
-        "sensor",
-        "accelerometer",
-        "gyroscope",
-        "I2C",
-        "MPU-6050",
-        "MPU6050",
-        "MPU60x0"
+        "sensor"
     ],
     "name": "BNO055",
     "platforms": "*",

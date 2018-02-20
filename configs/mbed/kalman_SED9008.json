@@ -11,9 +11,8 @@
         "median",
         "outlier",
         "spikes",
-        "QEI",
-        "Quadrature encoder interface",
-        "Rotary Encoder"
+        "compass",
+        "HMC5883L"
     ],
     "name": "kalman",
     "platforms": "*",

@@ -9,14 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "mma7361",
         "1D",
         "2D",
         "array",
         "matrix",
-        "digital potentiometer",
-        "SPI"
+        "accelerometer",
+        "mma7361",
+        "kl46z",
+        "MAG3110"
     ],
     "name": "MMA7361L",
     "platforms": "*",

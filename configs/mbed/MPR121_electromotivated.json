@@ -9,12 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DHT22",
-        "cmsis",
-        "L152",
-        "Nucleo",
-        "rtos",
-        "RTX"
+        "ADNS6010",
+        "MouseChip",
+        "DHT22"
     ],
     "name": "MPR121",
     "platforms": "*",

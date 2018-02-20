@@ -5,15 +5,7 @@
     },
     "description": "Very simple cooperative round-robin task scheduler. See examples.",
     "frameworks": "mbed",
-    "keywords": [
-        "Scheduler",
-        "NTP",
-        "SNTP",
-        "SNTPClinet",
-        "GPS",
-        "interrupt",
-        "NMEA"
-    ],
+    "keywords": "Scheduler",
     "name": "SimpleScheduler",
     "platforms": "*",
     "repository": {

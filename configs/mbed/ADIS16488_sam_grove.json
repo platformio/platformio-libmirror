@@ -5,11 +5,7 @@
     },
     "description": "Device driver",
     "frameworks": "mbed",
-    "keywords": [
-        "CV7",
-        "sensor",
-        "wind"
-    ],
+    "keywords": "piswarm",
     "name": "ADIS16488",
     "platforms": "*",
     "repository": {

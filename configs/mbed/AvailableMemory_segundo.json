@@ -14,14 +14,12 @@
     "keywords": [
         "malloc",
         "memory",
-        "em-406",
-        "GPS",
-        "MTK3339",
-        "NMEA",
-        "Serial",
-        "UART",
+        "AQM1602",
         "SSL",
-        "TLS"
+        "TLS",
+        "clock",
+        "ds1307",
+        "RTC"
     ],
     "name": "AvailableMemory",
     "platforms": "*",

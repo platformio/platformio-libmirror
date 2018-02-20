@@ -13,9 +13,7 @@
     "keywords": [
         "BLDC",
         "driver",
-        "motor",
-        "i2c expander",
-        "MCP23017"
+        "motor"
     ],
     "name": "BLDCmotorDriver",
     "platforms": "*",

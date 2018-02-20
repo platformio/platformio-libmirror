@@ -9,9 +9,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "OLED",
+        "Organic-LED",
+        "SO1602A",
         "I2C",
         "sensor",
-        "Temperature"
+        "Temperature",
+        "low current",
+        "low power",
+        "nrf51",
+        "nRF51822",
+        "gyro"
     ],
     "name": "STTS751",
     "platforms": "*",

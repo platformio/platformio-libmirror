@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "papanda panda",
+        "url": "https://os.mbed.com/users/papanda1234/"
+    },
+    "description": "WDT for LPC1114 used internal clock.",
+    "frameworks": "mbed",
+    "keywords": [
+        "LPC1114",
+        "WDT"
+    ],
+    "name": "wdt_lpc1114",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/papanda1234/code/wdt_lpc1114/"
+    }
+}

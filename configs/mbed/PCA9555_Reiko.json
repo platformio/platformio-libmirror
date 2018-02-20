@@ -10,9 +10,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "IBMIoTF",
-        "IOT",
-        "iotf"
+        "LocalFileSystem",
+        "S25FL216K",
+        "USBFileSystem"
     ],
     "name": "PCA9555",
     "platforms": "*",

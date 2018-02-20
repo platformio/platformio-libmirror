@@ -5,7 +5,12 @@
     },
     "description": "faf",
     "frameworks": "mbed",
-    "keywords": "MPL3115A2",
+    "keywords": [
+        "robot",
+        "Robotics",
+        "RT-component",
+        "RT-middleware"
+    ],
     "name": "can",
     "platforms": "*",
     "repository": {

@@ -21,8 +21,12 @@
         "SNTP",
         "W5500",
         "Wiznet",
-        "kl46z",
-        "MAG3110"
+        "ADS7843",
+        "TouchPanel",
+        "XPT2046",
+        "C12832",
+        "C12832A1Z",
+        "MBED Application Board"
     ],
     "name": "SNTPClient",
     "platforms": "*",

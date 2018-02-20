@@ -13,13 +13,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "audio",
-        "DISCO_F746NG",
-        "etti",
-        "TUIASI",
+        "25VF064",
+        "25VF064C",
+        "EEPROM",
+        "flash",
+        "SST",
+        "EM027BS013",
+        "ePaper",
         "Bulk",
         "Traceport",
-        "USB"
+        "USB",
+        "etti",
+        "TUIASI"
     ],
     "name": "pixy",
     "platforms": "*",

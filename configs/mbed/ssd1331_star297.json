@@ -10,15 +10,9 @@
     "frameworks": "mbed",
     "keywords": [
         "SSD1331",
-        "DPF",
-        "FTP",
-        "photo",
-        "W7500",
-        "WIZwiki_W7500",
-        "Nucleo",
-        "open-drain",
-        "push-pull",
-        "UIT"
+        "filter",
+        "IMU",
+        "MARG"
     ],
     "name": "ssd1331",
     "platforms": "*",

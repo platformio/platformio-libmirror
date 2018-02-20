@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Kaoru Shoji",
+        "url": "https://os.mbed.com/users/kshoji/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Bluetooth Low Energy"
+            ],
+            "frameworks": "mbed",
+            "name": "BLE_API"
+        }
+    ],
+    "description": "Utility class for MIDI over Bluetooth LE",
+    "frameworks": "mbed",
+    "keywords": [
+        "SerialHalfDuplex",
+        "motor",
+        "Stepper",
+        "unipolar",
+        "BLE",
+        "MIDI",
+        "ITG3200",
+        "sparkfun"
+    ],
+    "name": "BLE_MIDI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/kshoji/code/BLE_MIDI/"
+    }
+}

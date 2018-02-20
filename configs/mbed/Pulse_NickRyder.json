@@ -17,24 +17,7 @@
         "https://os.mbed.com/users/sago104/code/Lavadora/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "SSL",
-        "TLS",
-        "TLS1.3",
-        "wolfSSL",
-        "BLE",
-        "bluetooth",
-        "nRF51822",
-        "motor",
-        "Stepper",
-        "Digital",
-        "Input",
-        "output",
-        "pulse",
-        "SPG20-332",
-        "stepping",
-        "TA7774"
-    ],
+    "keywords": "Pulse",
     "name": "Pulse",
     "platforms": "*",
     "repository": {

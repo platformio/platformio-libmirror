@@ -7,11 +7,8 @@
     "frameworks": "mbed",
     "keywords": [
         "Akene",
-        "acc",
-        "compass",
-        "LSM303",
-        "LSM303DLHC",
-        "MAG"
+        "NJE-10X",
+        "Serial"
     ],
     "name": "Akene",
     "platforms": "*",

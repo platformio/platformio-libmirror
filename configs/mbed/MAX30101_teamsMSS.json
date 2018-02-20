@@ -10,15 +10,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "6005BG00",
+        "buzzcard",
+        "HID",
+        "ProxCard",
+        "ProxPoint",
+        "RFID",
+        "Wiegand",
         "I2C",
         "MAX30101",
         "MSS",
-        "MSU",
-        "ICRS",
-        "rf12B",
-        "api",
-        "blink",
-        "led"
+        "MSU"
     ],
     "name": "MAX30101",
     "platforms": "*",

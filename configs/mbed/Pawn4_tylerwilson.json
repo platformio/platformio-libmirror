@@ -9,6 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "L298",
+        "motorDC",
+        "2wd",
+        "car",
+        "daisen",
+        "edes",
+        "I2C",
+        "robot",
         "color",
         "F103RB",
         "led",
@@ -18,12 +26,7 @@
         "ST",
         "interpreter",
         "Pawn",
-        "GLCD",
-        "OLED",
-        "SSH1106",
-        "api",
-        "CSR",
-        "GPS"
+        "pwm"
     ],
     "name": "Pawn4",
     "platforms": "*",

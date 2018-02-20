@@ -11,7 +11,13 @@
         "https://os.mbed.com/users/peterknoben/code/Oudverslag/"
     ],
     "frameworks": "mbed",
-    "keywords": "controlandadjust",
+    "keywords": [
+        "Serial Communication",
+        "test console",
+        "test program",
+        "BurstSPI",
+        "F411RE"
+    ],
     "name": "controlandadjust",
     "platforms": "*",
     "repository": {

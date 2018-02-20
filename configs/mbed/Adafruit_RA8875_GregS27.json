@@ -7,7 +7,16 @@
     "frameworks": "mbed",
     "keywords": [
         "keyboard",
-        "USB"
+        "USB",
+        "LIDAR Lite",
+        "LidarLite",
+        "I2C",
+        "MCP23017",
+        "flash",
+        "logging",
+        "broadcast",
+        "multicast",
+        "UDP"
     ],
     "name": "Adafruit_RA8875",
     "platforms": "*",

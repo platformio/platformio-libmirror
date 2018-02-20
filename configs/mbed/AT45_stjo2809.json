@@ -16,12 +16,7 @@
         "12-bit",
         "dac",
         "MCP4822",
-        "SPI",
-        "LCD",
-        "Serial",
-        "TextDisplay",
-        "TextDisplays",
-        "TextLCD"
+        "SPI"
     ],
     "name": "AT45",
     "platforms": "*",

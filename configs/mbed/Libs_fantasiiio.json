@@ -13,13 +13,7 @@
         "execute",
         "parse",
         "string",
-        "UART",
-        "motor",
-        "pwm",
-        "HR-TFT",
-        "memory lcd",
-        "Monochrome LCD",
-        "Sharp"
+        "UART"
     ],
     "name": "Libs",
     "platforms": "*",

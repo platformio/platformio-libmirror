@@ -6,13 +6,15 @@
     "description": "8x8x8 Led Cube driven by 4x PCF8575 for the columns and 1x PCF8574 for the layers",
     "frameworks": "mbed",
     "keywords": [
-        "javascript",
-        "scripting",
-        "driver",
-        "motor",
-        "Stepper",
         "I2C",
-        "led cube"
+        "led cube",
+        "4094",
+        "7segm",
+        "display",
+        "led",
+        "segment",
+        "shift",
+        "sr"
     ],
     "name": "LED_CUBE",
     "platforms": "*",

@@ -11,13 +11,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "I2C",
+        "software",
         "dynamixel",
         "MX28",
         "Servo",
         "RIT",
         "1-wire",
         "DS18B20",
-        "SuperTweet"
+        "SuperTweet",
+        "adc",
+        "dac",
+        "PCF8591"
     ],
     "name": "SuperTweet",
     "platforms": "*",

@@ -9,8 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Analog",
-        "joystick"
+        "ethernet",
+        "http",
+        "interface",
+        "server",
+        "AD5270",
+        "Digipot"
     ],
     "name": "DigitalInOut2",
     "platforms": "*",

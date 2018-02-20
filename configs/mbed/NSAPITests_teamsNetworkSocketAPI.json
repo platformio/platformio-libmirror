@@ -13,11 +13,7 @@
         "https://os.mbed.com/teams/GNSS_DataLogger/code/DISCO-F746NG_master_wifi/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "RTC",
-        "Color Sensor",
-        "I2C"
-    ],
+    "keywords": "NSAPITests",
     "name": "NSAPITests",
     "platforms": "*",
     "repository": {

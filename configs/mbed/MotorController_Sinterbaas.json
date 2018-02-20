@@ -5,7 +5,12 @@
     },
     "description": "Utility class for controlling a servo system motor.",
     "frameworks": "mbed",
-    "keywords": "MotorController",
+    "keywords": [
+        "I2C",
+        "ISL1208",
+        "real time clock",
+        "RTC"
+    ],
     "name": "MotorController",
     "platforms": "*",
     "repository": {

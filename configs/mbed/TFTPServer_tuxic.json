@@ -9,7 +9,12 @@
         "https://os.mbed.com/users/ED7418/code/RMFWeb/"
     ],
     "frameworks": "mbed",
-    "keywords": "TFTPServer",
+    "keywords": [
+        "Adafruit",
+        "GFX",
+        "LCD",
+        "TFT"
+    ],
     "name": "TFTPServer",
     "platforms": "*",
     "repository": {

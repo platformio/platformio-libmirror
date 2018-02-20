@@ -9,14 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Remote SDCard Access",
-        "shell",
-        "Shell Emulation",
-        "unix",
-        "low current",
-        "low power",
-        "nrf51",
-        "nRF51822"
+        "hydro",
+        "ROS",
+        "ros_serial"
     ],
     "name": "TS_DISCO_F746NG",
     "platforms": "*",

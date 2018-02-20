@@ -10,15 +10,7 @@
         "https://os.mbed.com/users/JimmyTheHack/code/MCP4822/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "dac",
-        "SPI",
-        "array",
-        "circular buffer",
-        "deque",
-        "memory",
-        "Template"
-    ],
+    "keywords": "DAC",
     "name": "DAC",
     "platforms": "*",
     "repository": {

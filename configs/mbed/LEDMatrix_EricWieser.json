@@ -5,17 +5,7 @@
     },
     "description": "A library to manipulate 2D arrays, and output them to an LED Dot Matrix Display. The display must be wired up using a shift register combined with a nor latch.",
     "frameworks": "mbed",
-    "keywords": [
-        "2.4",
-        "DSM",
-        "DSM2",
-        "GHz",
-        "Serial",
-        "spektrum",
-        "DISCO_F469NI",
-        "LCD",
-        "Touch Screen"
-    ],
+    "keywords": "HMC5883L",
     "name": "LEDMatrix",
     "platforms": "*",
     "repository": {

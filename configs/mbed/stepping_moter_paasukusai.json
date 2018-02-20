@@ -7,11 +7,7 @@
     "frameworks": "mbed",
     "keywords": [
         "motor",
-        "stepping",
-        "current",
-        "I2C",
-        "INA219",
-        "T.I."
+        "stepping"
     ],
     "name": "stepping_moter",
     "platforms": "*",

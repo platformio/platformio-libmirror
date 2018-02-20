@@ -8,14 +8,7 @@
         "https://os.mbed.com/users/caroe/code/Sensor_test/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "CAN",
-        "can bus",
-        "FIFO",
-        "Humidity",
-        "I2C",
-        "sensor"
-    ],
+    "keywords": "I2C",
     "name": "BMA180",
     "platforms": "*",
     "repository": {

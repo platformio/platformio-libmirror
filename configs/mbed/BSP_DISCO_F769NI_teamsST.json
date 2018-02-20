@@ -17,7 +17,18 @@
         "https://os.mbed.com/users/joschaihl/code/DISCO-F769NI_TOUCHSCREEN_demo/"
     ],
     "frameworks": "mbed",
-    "keywords": "BSP_DISCO_F769NI",
+    "keywords": [
+        "motor",
+        "Stepper",
+        "stepping",
+        "Uni-polar",
+        "2645",
+        "accelerometer",
+        "fxos8700cq",
+        "I2C",
+        "magnetometer",
+        "nxp"
+    ],
     "name": "BSP_DISCO_F769NI",
     "platforms": "*",
     "repository": {

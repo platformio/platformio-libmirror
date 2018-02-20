@@ -16,7 +16,8 @@
         "Utilities",
         "FRDM",
         "KL25z",
-        "MLK25Z128FRDM"
+        "MLK25Z128FRDM",
+        "watchdog"
     ],
     "name": "CANUtilities",
     "platforms": "*",

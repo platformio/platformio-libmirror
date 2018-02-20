@@ -6,10 +6,10 @@
     "description": "Library for initializing, configuring, and acquiring data from the Atmel QT2100 device. The QT2100 is a capacitive touch controller with 10 configurable QTouch® channels, supporting up to seven buttons, and either one slider or one wheel.",
     "frameworks": "mbed",
     "keywords": [
-        "driver",
-        "full-bridge",
-        "motor",
-        "TA8428",
+        "24LCxx",
+        "EEPROM",
+        "display",
+        "monochrome",
         "AT42QT2100",
         "QT2100",
         "QTouch"

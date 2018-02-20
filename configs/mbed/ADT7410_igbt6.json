@@ -6,15 +6,10 @@
     "description": "library for ADT7410 temperature sensor first version",
     "frameworks": "mbed",
     "keywords": [
-        "BurstSPI",
-        "F411RE",
         "ADT7410",
         "Analog Devices",
         "I2C",
-        "temperature sensor",
-        "I2CRTOS",
-        "non-blocking",
-        "rtos"
+        "temperature sensor"
     ],
     "name": "ADT7410",
     "platforms": "*",

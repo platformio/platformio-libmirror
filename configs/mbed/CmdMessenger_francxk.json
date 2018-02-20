@@ -6,12 +6,12 @@
     "description": "CmdMessenger - library that provides command based messaging",
     "frameworks": "mbed",
     "keywords": [
+        "multithreading",
+        "rtos",
+        "thread",
         "arduino",
         "mbed",
-        "Serial",
-        "Input",
-        "keyboard",
-        "PS/2"
+        "Serial"
     ],
     "name": "CmdMessenger",
     "platforms": "*",

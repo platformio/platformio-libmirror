@@ -15,7 +15,11 @@
         "https://os.mbed.com/users/eencae/code/3pi_Lab1_Task3/"
     ],
     "frameworks": "mbed",
-    "keywords": "m3pi",
+    "keywords": [
+        "piezo",
+        "pwm",
+        "m3pi"
+    ],
     "name": "m3pi",
     "platforms": "*",
     "repository": {

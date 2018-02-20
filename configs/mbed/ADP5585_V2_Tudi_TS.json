@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Tudi Sumadi",
+        "url": "https://os.mbed.com/users/Tudi_TS/"
+    },
+    "description": "This sample library ADP5585 using I2C SC16IS752. ADP5585 v2 with more speed event scanning.",
+    "frameworks": "mbed",
+    "keywords": "ADP5585_V2",
+    "name": "ADP5585_V2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Tudi_TS/code/ADP5585_V2/"
+    }
+}

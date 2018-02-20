@@ -9,12 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "async",
-        "Ticker",
-        "timer",
-        "max31855",
-        "Temperature",
-        "Thermocouple"
+        "I2C",
+        "arduino",
+        "H-bridge",
+        "L298",
+        "Robotic",
+        "shield"
     ],
     "name": "WebSocketServer",
     "platforms": "*",

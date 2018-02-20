@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Georgios Karadimitris",
+        "url": "https://os.mbed.com/users/giorgos2405/"
+    },
+    "description": "Library to interface with 1-wire through the DS2480B",
+    "examples": [
+        "https://os.mbed.com/users/giorgos2405/code/DS2480B_1_Wire_Master/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DS2480B",
+    "name": "DS2480B",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/giorgos2405/code/DS2480B/"
+    }
+}

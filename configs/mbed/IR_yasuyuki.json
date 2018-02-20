@@ -8,7 +8,16 @@
         "https://os.mbed.com/users/yasuyuki/code/mbed_IR/"
     ],
     "frameworks": "mbed",
-    "keywords": "74HC165",
+    "keywords": [
+        "DMP",
+        "IMU",
+        "invensense",
+        "MPU605-DMP",
+        "MPU6050",
+        "Quaternion",
+        "Tilty",
+        "TiltyIMU"
+    ],
     "name": "IR",
     "platforms": "*",
     "repository": {

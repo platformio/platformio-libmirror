@@ -9,17 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "128x64",
-        "LCD",
-        "ST7920",
         "display",
         "ST7565R",
-        "Nordic",
-        "nRF24L01P",
-        "rf",
-        "graphic",
-        "TFT",
-        "touch"
+        "mbed"
     ],
     "name": "ST7565R",
     "platforms": "*",

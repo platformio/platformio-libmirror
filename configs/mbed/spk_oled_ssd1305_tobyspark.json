@@ -13,7 +13,10 @@
         "OLED",
         "ssd1305",
         "Adafruit",
-        "LEDMatrix"
+        "LEDMatrix",
+        "esc",
+        "KL25z",
+        "pwm"
     ],
     "name": "spk_oled_ssd1305",
     "platforms": "*",

@@ -9,7 +9,11 @@
         "https://os.mbed.com/users/resolutedreamer/code/eem202a_resolutedreamer_1/"
     ],
     "frameworks": "mbed",
-    "keywords": "test",
+    "keywords": [
+        "LCD",
+        "ST7565",
+        "TextLCD"
+    ],
     "name": "Convert",
     "platforms": "*",
     "repository": {

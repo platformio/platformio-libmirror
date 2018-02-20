@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "goutham dugyala",
+        "url": "https://os.mbed.com/users/gauthibit/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "goutham dugyala"
+            ],
+            "frameworks": "mbed",
+            "name": "FATFilesystem_Axelta"
+        }
+    ],
+    "description": "FATFileSystem_old",
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "BLE Bluetooth Low Energy BLE",
+        "BUTTON",
+        "GAP"
+    ],
+    "name": "SDFileSystem_Axelta",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/gauthibit/code/SDFileSystem_Axelta/"
+    }
+}

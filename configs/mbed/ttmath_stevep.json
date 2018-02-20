@@ -11,14 +11,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "90393",
-        "MLX",
-        "mlx90393",
+        "HY-1.8",
+        "ST7735",
         "arbitrary precision",
         "bigint",
-        "bignum",
-        "HY-1.8",
-        "ST7735"
+        "bignum"
     ],
     "name": "ttmath",
     "platforms": "*",

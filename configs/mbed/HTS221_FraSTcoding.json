@@ -5,7 +5,11 @@
     },
     "description": "Release 1.0",
     "frameworks": "mbed",
-    "keywords": "HTS221",
+    "keywords": [
+        "DS130x",
+        "Maxim",
+        "RTC"
+    ],
     "name": "HTS221",
     "platforms": "*",
     "repository": {

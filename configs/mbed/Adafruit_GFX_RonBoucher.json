@@ -5,7 +5,12 @@
     },
     "description": "gfx library for ssd1351",
     "frameworks": "mbed",
-    "keywords": "Adafruit_GFX",
+    "keywords": [
+        "C027",
+        "C030",
+        "CellularInterface",
+        "u-blox"
+    ],
     "name": "Adafruit_GFX",
     "platforms": "*",
     "repository": {

@@ -10,7 +10,11 @@
     "frameworks": "mbed",
     "keywords": [
         "locked antiphase",
-        "motor"
+        "motor",
+        "K64F",
+        "overclock",
+        "PAW",
+        "PAW Sensor"
     ],
     "name": "Motor_LockedAntiphase",
     "platforms": "*",

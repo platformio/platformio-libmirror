@@ -6,14 +6,10 @@
     "description": "Trigonomectric constants",
     "frameworks": "mbed",
     "keywords": [
-        "Creation",
-        "6100",
-        "6610",
-        "mobileLCD",
-        "NokiaLCD",
-        "Olimex",
-        "PCF8833",
-        "sparkfun"
+        "adc",
+        "MCP",
+        "MCP3002",
+        "Creation"
     ],
     "name": "Trigo",
     "platforms": "*",

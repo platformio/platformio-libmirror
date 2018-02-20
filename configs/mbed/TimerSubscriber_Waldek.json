@@ -6,10 +6,9 @@
     "description": "Timer dispather",
     "frameworks": "mbed",
     "keywords": [
-        "Apeiros",
-        "F401RE",
-        "Nucleo",
-        "robot"
+        "debounce",
+        "interrupt",
+        "masking"
     ],
     "name": "TimerSubscriber",
     "platforms": "*",

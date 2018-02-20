@@ -15,14 +15,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F746NG",
-        "sdram",
         "fonts",
         "TFT",
-        "sensor",
-        "Temperature",
-        "TMP",
-        "TMP36"
+        "Callback",
+        "Function Pointer",
+        "handler",
+        "DISCO_F746NG",
+        "sdram"
     ],
     "name": "SDRAM_DISCO_F746NG",
     "platforms": "*",

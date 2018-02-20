@@ -5,7 +5,14 @@
     },
     "description": "an error test",
     "frameworks": "mbed",
-    "keywords": "error_test",
+    "keywords": [
+        "Freescale",
+        "sensing",
+        "touch",
+        "TSI",
+        "current sensor",
+        "INA219"
+    ],
     "name": "error_test",
     "platforms": "*",
     "repository": {

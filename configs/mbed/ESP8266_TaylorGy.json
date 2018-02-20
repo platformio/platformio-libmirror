@@ -9,10 +9,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Gatech",
-        "https",
-        "mbedTLS",
-        "SSL"
+        "accelerometer",
+        "LSM303DLHC",
+        "magnetometer",
+        "Temperature",
+        "Dynamic",
+        "led",
+        "tlc5940",
+        "itoa",
+        "joystick",
+        "LCD"
     ],
     "name": "ESP8266",
     "platforms": "*",

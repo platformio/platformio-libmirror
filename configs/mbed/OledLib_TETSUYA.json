@@ -5,17 +5,7 @@
     },
     "description": "ALO-095BWNN-J9 aitendo OLED 96x64 SPI model Ver1.04",
     "frameworks": "mbed",
-    "keywords": [
-        "MCP3201",
-        "MCP3204",
-        "MCP3208",
-        "SPI",
-        "hotboards",
-        "keyboard",
-        "Display Module",
-        "emwin",
-        "LPC4088DM"
-    ],
+    "keywords": "OledLib",
     "name": "OledLib",
     "platforms": "*",
     "repository": {

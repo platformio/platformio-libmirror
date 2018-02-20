@@ -6,17 +6,11 @@
     "description": "Library to control the KL25z Clock Module.",
     "frameworks": "mbed",
     "keywords": [
+        "network",
+        "WNC",
         "clock",
         "KL25z",
-        "PLL",
-        "Lora",
-        "Semtech",
-        "SX1272",
-        "SX1272Lib",
-        "SX1272MB1DxS",
-        "SX1276",
-        "SX1276Lib",
-        "SX1276MB1xAS"
+        "PLL"
     ],
     "name": "KL25Z_ClockControl",
     "platforms": "*",

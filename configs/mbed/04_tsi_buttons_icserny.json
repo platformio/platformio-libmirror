@@ -5,13 +5,7 @@
     },
     "description": "// Simple button/swipe library for FRDM-KL25Z",
     "frameworks": "mbed",
-    "keywords": [
-        "Arduino mbed commands",
-        "HD44780 LCD text custom char 16X2",
-        "brightness",
-        "high",
-        "led"
-    ],
+    "keywords": "04_tsi_buttons",
     "name": "04_tsi_buttons",
     "platforms": "*",
     "repository": {

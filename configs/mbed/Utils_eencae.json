@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Craig Evans",
+        "url": "https://os.mbed.com/users/eencae/"
+    },
+    "description": "Just a header file containing structs and constants etc. that are used across my libraries. Prevents multiple declarations.",
+    "examples": [
+        "https://os.mbed.com/users/eencae/code/Leg/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Utils",
+    "name": "Utils",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eencae/code/Utils/"
+    }
+}

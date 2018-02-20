@@ -12,16 +12,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "display",
+        "I2C",
+        "led",
         "MPU9150",
         "Quaternion",
         "vector",
-        "cc1101",
-        "driver",
-        "library",
-        "L6470",
-        "display",
-        "I2C",
-        "led"
+        "RF12",
+        "rfm12",
+        "RFM12B"
     ],
     "name": "I2CLEDDisp",
     "platforms": "*",

@@ -5,7 +5,11 @@
     },
     "description": "AverageFilter",
     "frameworks": "mbed",
-    "keywords": "AverageFilter",
+    "keywords": [
+        "cmsis",
+        "rtos",
+        "RTX"
+    ],
     "name": "AverageFilter",
     "platforms": "*",
     "repository": {

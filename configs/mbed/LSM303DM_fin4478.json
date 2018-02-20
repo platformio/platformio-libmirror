@@ -6,11 +6,13 @@
     "description": "library for using LSM303DM chip",
     "frameworks": "mbed",
     "keywords": [
+        "character",
+        "display",
+        "HD44780",
+        "LCD",
         "Humidity",
         "sensor",
-        "Temperature",
-        "ethernet",
-        "NTP"
+        "Temperature"
     ],
     "name": "LSM303DM",
     "platforms": "*",

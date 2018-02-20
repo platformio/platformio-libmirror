@@ -10,10 +10,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "xbee",
         "aconno",
         "nrf52832",
-        "Si7006"
+        "Si7006",
+        "BMC150"
     ],
     "name": "Si7006A20",
     "platforms": "*",

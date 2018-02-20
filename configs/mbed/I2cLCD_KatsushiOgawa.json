@@ -13,13 +13,15 @@
         "mode",
         "xbee",
         "zigbee",
-        "email",
-        "SMTP",
         "ESP-01",
         "ESP8266",
+        "email",
+        "SMTP",
         "finder",
         "range",
-        "ultrasound"
+        "ultrasound",
+        "adc",
+        "SPI"
     ],
     "name": "I2cLCD",
     "platforms": "*",

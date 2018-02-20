@@ -8,7 +8,17 @@
         "https://os.mbed.com/users/jksoft/code/wallbot_test/"
     ],
     "frameworks": "mbed",
-    "keywords": "wallbot",
+    "keywords": [
+        "wallbot",
+        "pwm",
+        "SoftPWM",
+        "CyaSSL",
+        "https",
+        "SSL",
+        "LCD",
+        "ST7565",
+        "TextLCD"
+    ],
     "name": "wallbot",
     "platforms": "*",
     "repository": {

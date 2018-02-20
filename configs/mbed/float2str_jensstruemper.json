@@ -6,10 +6,16 @@
     "description": "float2str converts floating point numbers to a character array. Its purpose is to",
     "frameworks": "mbed",
     "keywords": [
+        "4D Dydtems",
+        "Color LCD",
+        "Goldelox",
+        "serial lcd",
+        "EZO",
+        "I2C",
+        "PH sensor",
         "conversion",
         "float",
-        "string",
-        "BME280"
+        "string"
     ],
     "name": "float2str",
     "platforms": "*",

@@ -10,11 +10,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "clock",
-        "real time clock",
-        "RTC",
-        "bmp085",
-        "I2C"
+        "Encoder",
+        "scp1000",
+        "SoftSPI"
     ],
     "name": "MaximBLE",
     "platforms": "*",

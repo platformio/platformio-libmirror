@@ -5,11 +5,7 @@
     },
     "description": "Unipolar Stepper Motor Library,",
     "frameworks": "mbed",
-    "keywords": [
-        "SPI",
-        "XBEE pro",
-        "StepperMotorUni"
-    ],
+    "keywords": "StepperMotorUni",
     "name": "StepperMotorUni",
     "platforms": "*",
     "repository": {

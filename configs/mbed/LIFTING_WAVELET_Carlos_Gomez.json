@@ -6,16 +6,13 @@
     "description": "Transformada lifting wavelet + filtro gaussiano",
     "frameworks": "mbed",
     "keywords": [
-        "bot",
-        "motor",
-        "sensors",
-        "shield",
-        "2018_IZU",
+        "array",
+        "circular",
+        "Queue",
         "lifting",
         "Transformada",
         "unillanos",
-        "wavelet",
-        "hi"
+        "wavelet"
     ],
     "name": "LIFTING_WAVELET",
     "platforms": "*",

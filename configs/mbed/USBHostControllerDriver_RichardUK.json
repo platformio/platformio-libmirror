@@ -5,7 +5,11 @@
     },
     "description": "USBHostControllerDriver",
     "frameworks": "mbed",
-    "keywords": "USBHostControllerDriver",
+    "keywords": [
+        "debounce",
+        "interrupt",
+        "masking"
+    ],
     "name": "USBHostControllerDriver",
     "platforms": "*",
     "repository": {

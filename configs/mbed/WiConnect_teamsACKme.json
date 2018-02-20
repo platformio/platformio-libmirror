@@ -18,11 +18,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "device",
-        "Nucleo",
-        "USB",
         "GSM",
         "SMS",
+        "SDFileSystem",
+        "STM32F746",
         "accelerometer",
         "LIS302",
         "SPI",
@@ -30,9 +29,8 @@
         "rgb",
         "AQM1602",
         "I2C",
-        "UIT",
-        "EEPROM",
-        "LPC11U24"
+        "Nucleo",
+        "UIT"
     ],
     "name": "WiConnect",
     "platforms": "*",

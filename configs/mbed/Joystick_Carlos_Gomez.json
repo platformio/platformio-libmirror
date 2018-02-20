@@ -5,7 +5,11 @@
     },
     "description": "Joystick tesis",
     "frameworks": "mbed",
-    "keywords": "Joystick",
+    "keywords": [
+        "DeepSleep",
+        "InterruptIn",
+        "LPC1114"
+    ],
     "name": "Joystick",
     "platforms": "*",
     "repository": {

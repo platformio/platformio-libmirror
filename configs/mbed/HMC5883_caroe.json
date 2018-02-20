@@ -9,7 +9,21 @@
         "https://os.mbed.com/users/arturocontreras/code/Algoritmo_Fuzzy/"
     ],
     "frameworks": "mbed",
-    "keywords": "HMC5883",
+    "keywords": [
+        "driver",
+        "L6208",
+        "microstep",
+        "motor",
+        "ST",
+        "Stepper",
+        "digital pot",
+        "digital potentiometer",
+        "MCP4131",
+        "MCP4132",
+        "MCP4241",
+        "MCP4XXX",
+        "SPI"
+    ],
     "name": "HMC5883",
     "platforms": "*",
     "repository": {

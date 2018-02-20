@@ -9,16 +9,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "audio",
+        "HQ",
+        "I2S",
+        "TLV320",
         "counter",
         "frequency",
         "LPC1114",
         "LPC1768",
         "stm32f401",
-        "STM32F411",
-        "audio",
-        "HQ",
-        "I2S",
-        "TLV320"
+        "STM32F411"
     ],
     "name": "freq_counter",
     "platforms": "*",

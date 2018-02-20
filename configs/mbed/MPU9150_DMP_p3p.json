@@ -15,10 +15,7 @@
         "DMP",
         "motion",
         "MPU9150",
-        "processor",
-        "mbed",
-        "CAN",
-        "message"
+        "processor"
     ],
     "name": "MPU9150_DMP",
     "platforms": "*",

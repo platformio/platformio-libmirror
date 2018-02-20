@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Vijayaraghavan Narayanan",
+        "url": "https://os.mbed.com/users/vijaynvr/"
+    },
+    "description": "vlx lib",
+    "frameworks": "mbed",
+    "keywords": [
+        "FT6206",
+        "touch",
+        "LandTiger",
+        "SSD1289"
+    ],
+    "name": "VLX6180X_API",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vijaynvr/code/VLX6180X_API/"
+    }
+}

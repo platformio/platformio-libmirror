@@ -5,7 +5,14 @@
     },
     "description": "servo",
     "frameworks": "mbed",
-    "keywords": "Servo",
+    "keywords": [
+        "ethernet",
+        "socket",
+        "W5500",
+        "arduino",
+        "Gameduino",
+        "mbeduino"
+    ],
     "name": "Servo",
     "platforms": "*",
     "repository": {

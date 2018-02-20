@@ -6,8 +6,13 @@
     "description": "GNSS library",
     "frameworks": "mbed",
     "keywords": [
-        "tcp/ip",
-        "WebSocket"
+        "TMP102",
+        "TMP112",
+        "40x4",
+        "C-51849",
+        "character",
+        "LCD",
+        "mruby"
     ],
     "name": "GPS",
     "platforms": "*",

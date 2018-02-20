@@ -5,7 +5,15 @@
     },
     "description": "This library contains all the functions necesary to perform an application using the SRF02 sensor.",
     "frameworks": "mbed",
-    "keywords": "SRF02",
+    "keywords": [
+        "blink",
+        "led",
+        "LED control",
+        "SRF02",
+        "GPS",
+        "NMEA",
+        "Venus"
+    ],
     "name": "SRF02",
     "platforms": "*",
     "repository": {

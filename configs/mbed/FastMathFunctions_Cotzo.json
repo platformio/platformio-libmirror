@@ -9,14 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DMP",
-        "I2Cdev",
-        "MPU6050",
-        "MPU9150",
-        "Nucelo",
-        "DISCO_L476VG",
-        "N25Q128A",
-        "QSPI"
+        "LPC1114FN28",
+        "sound",
+        "CNMAT",
+        "osc"
     ],
     "name": "FastMathFunctions",
     "platforms": "*",

@@ -6,11 +6,11 @@
     "description": "Port of the nRF24l01+ library of these dudes. Not GPLed, so yeah, you can use it.",
     "frameworks": "mbed",
     "keywords": [
-        "nRF24L01",
-        "Host",
-        "mbed",
-        "PTP",
-        "USB"
+        "ILI9341",
+        "SPI",
+        "printer",
+        "shield",
+        "nRF24L01"
     ],
     "name": "Enrf24",
     "platforms": "*",

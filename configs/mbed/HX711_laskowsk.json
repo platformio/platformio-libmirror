@@ -13,7 +13,9 @@
     "frameworks": "mbed",
     "keywords": [
         "max31855",
-        "Thermocouple"
+        "Thermocouple",
+        "5110",
+        "LCD"
     ],
     "name": "HX711",
     "platforms": "*",

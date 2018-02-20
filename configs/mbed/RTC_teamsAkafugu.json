@@ -9,13 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "CloudConnector",
-        "etherios",
-        "IOT",
-        "pwm",
-        "SoftPWM",
         "ds1307",
-        "DS3231m"
+        "DS3231m",
+        "rn41"
     ],
     "name": "RTC",
     "platforms": "*",

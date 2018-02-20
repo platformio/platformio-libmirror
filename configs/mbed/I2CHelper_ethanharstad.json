@@ -9,12 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "I2C",
         "arduino",
         "H-bridge",
         "L298",
         "Robotic",
-        "shield",
-        "I2C"
+        "shield"
     ],
     "name": "I2CHelper",
     "platforms": "*",

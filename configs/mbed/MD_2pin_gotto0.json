@@ -8,13 +8,7 @@
         "https://os.mbed.com/users/gotto0/code/minirobo_base/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "fxas21002",
-        "gyroscope",
-        "I2C",
-        "MSS",
-        "MSU"
-    ],
+    "keywords": "MD_2pin",
     "name": "MD_2pin",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,43 @@
+{
+    "authors": {
+        "name": "InetrfaceProducts NXP",
+        "url": "https://os.mbed.com/users/nxp_ip/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "InetrfaceProducts NXP"
+            ],
+            "frameworks": "mbed",
+            "name": "CompLedDvrCC"
+        }
+    ],
+    "description": "PCA9955A and PCA9956A class library.",
+    "examples": [
+        "https://os.mbed.com/users/nxp_ip/code/PCA9956A_Hello/",
+        "https://os.mbed.com/users/nxp_ip/code/PCA9955A_Hello/",
+        "https://os.mbed.com/users/nxp_ip/code/PCA9955A_Gradation_control/",
+        "https://os.mbed.com/users/okano/code/pca9956b_two_demoboards/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "binary",
+        "GPS",
+        "NMEA",
+        "protocol",
+        "sIRFstar3",
+        "sIRFstarIII",
+        "led",
+        "LED controller",
+        "led driver",
+        "PCA9955A",
+        "PCA9956A",
+        "PCA995xA"
+    ],
+    "name": "PCA995xA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/nxp_ip/code/PCA995xA/"
+    }
+}

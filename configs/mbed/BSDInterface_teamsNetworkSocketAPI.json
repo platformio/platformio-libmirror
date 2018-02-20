@@ -9,7 +9,11 @@
         "https://os.mbed.com/teams/NetworkSocketAPI/code/HelloBSDInterface/"
     ],
     "frameworks": "mbed",
-    "keywords": "BSDInterface",
+    "keywords": [
+        "fischertechnik",
+        "ftlib",
+        "ftmsclib"
+    ],
     "name": "BSDInterface",
     "platforms": "*",
     "repository": {

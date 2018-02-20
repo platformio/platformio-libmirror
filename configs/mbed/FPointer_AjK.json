@@ -17,17 +17,7 @@
         "https://os.mbed.com/users/caaruizze/code/Teclado_matricial/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "AES",
-        "MD2",
-        "md5",
-        "RC4",
-        "SHA",
-        "Callback",
-        "FunctionPointer",
-        "Functor",
-        "ROS"
-    ],
+    "keywords": "FPointer",
     "name": "FPointer",
     "platforms": "*",
     "repository": {

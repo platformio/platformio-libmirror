@@ -10,12 +10,20 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "arduino",
+        "micros",
+        "millis",
+        "device",
+        "USB",
         "DC motor",
         "h bridge",
         "L293D",
         "l298n",
         "pwm",
-        "SPI"
+        "SPI",
+        "motor",
+        "PCA9629",
+        "Stepper"
     ],
     "name": "SPI_MX25R",
     "platforms": "*",

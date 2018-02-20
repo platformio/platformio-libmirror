@@ -5,7 +5,12 @@
     },
     "description": "A tiny drawing library. include line draw and bitmap-font draw.bitmap-font is from linux-kernel-source.",
     "frameworks": "mbed",
-    "keywords": "Graphics",
+    "keywords": [
+        "servos",
+        "slow",
+        "Speed",
+        "Graphics"
+    ],
     "name": "tinydraw",
     "platforms": "*",
     "repository": {

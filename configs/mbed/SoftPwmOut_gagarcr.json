@@ -6,13 +6,8 @@
     "description": "Output PWM on any pin.",
     "frameworks": "mbed",
     "keywords": [
-        "CloudConnector",
-        "etherios",
-        "IOT",
         "pwm",
-        "SoftPWM",
-        "ds1307",
-        "DS3231m"
+        "SoftPWM"
     ],
     "name": "SoftPwmOut",
     "platforms": "*",

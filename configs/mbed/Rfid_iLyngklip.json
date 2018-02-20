@@ -9,7 +9,11 @@
         "https://os.mbed.com/users/iLyngklip/code/RoboticHackathonFINAL/"
     ],
     "frameworks": "mbed",
-    "keywords": "Rfid",
+    "keywords": [
+        "esc",
+        "KL25z",
+        "pwm"
+    ],
     "name": "Rfid",
     "platforms": "*",
     "repository": {

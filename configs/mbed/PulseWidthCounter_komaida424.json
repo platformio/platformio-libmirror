@@ -6,21 +6,10 @@
     "description": "positive or negative pulse width counter",
     "frameworks": "mbed",
     "keywords": [
-        "led",
         "counter",
         "pulse",
-        "mbed5",
-        "NetworkInterfaceAPI",
-        "wifi",
-        "wifiinterface",
-        "wizfi310",
-        "wizfi310interface",
-        "MX64",
-        "Celllular",
-        "lte",
-        "M14A2A",
-        "WNC",
-        "WNC M14A2A"
+        "ICRS",
+        "kalman"
     ],
     "name": "PulseWidthCounter",
     "platforms": "*",

@@ -9,7 +9,13 @@
         "https://os.mbed.com/users/tmnt/code/NUCLEO-F446RE_testDCMI/"
     ],
     "frameworks": "mbed",
-    "keywords": "OV7670_SCCB",
+    "keywords": [
+        "HT1621",
+        "LCD",
+        "ds1621",
+        "I2C",
+        "Temperature"
+    ],
     "name": "OV7670_SCCB",
     "platforms": "*",
     "repository": {

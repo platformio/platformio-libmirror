@@ -8,7 +8,12 @@
         "https://os.mbed.com/users/Reiko/code/Telliskivi2_2014/"
     ],
     "frameworks": "mbed",
-    "keywords": "ad7124",
+    "keywords": [
+        "Data visualisation",
+        "Realtime debugger",
+        "Realtime monitor",
+        "LM75B"
+    ],
     "name": "QED",
     "platforms": "*",
     "repository": {

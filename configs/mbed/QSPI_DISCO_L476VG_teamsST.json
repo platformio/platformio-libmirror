@@ -9,14 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DMP",
-        "I2Cdev",
-        "MPU6050",
-        "MPU9150",
-        "Nucelo",
         "DISCO_L476VG",
         "N25Q128A",
-        "QSPI"
+        "QSPI",
+        "basic",
+        "flash",
+        "Flasher",
+        "fun",
+        "led",
+        "rgb"
     ],
     "name": "QSPI_DISCO_L476VG",
     "platforms": "*",

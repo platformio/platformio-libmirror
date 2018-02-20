@@ -6,14 +6,15 @@
     "description": "Driver for AT25SF041 SPI Flash Memory, just basic operations",
     "frameworks": "mbed",
     "keywords": [
-        "LCDC",
-        "S1D13781",
-        "shield",
-        "TFT",
-        "mbed",
         "at25sf041",
         "flash",
-        "SPI"
+        "SPI",
+        "AD7790",
+        "adc",
+        "Encoder",
+        "feedback",
+        "motor",
+        "sensor"
     ],
     "name": "at25sf041",
     "platforms": "*",

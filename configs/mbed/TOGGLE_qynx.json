@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Rob Keij",
+        "url": "https://os.mbed.com/users/qynx/"
+    },
+    "description": "Easy for debugging hardware/software",
+    "frameworks": "mbed",
+    "keywords": [
+        "SPI",
+        "TC77",
+        "Temperature",
+        "Ticker",
+        "timer",
+        "debug",
+        "test"
+    ],
+    "name": "TOGGLE",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/qynx/code/TOGGLE/"
+    }
+}

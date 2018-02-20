@@ -13,10 +13,7 @@
         "rtos",
         "Serial",
         "UART0",
-        "FreeRTOS",
-        "frequencies",
-        "guitar",
-        "tuner"
+        "FreeRTOS"
     ],
     "name": "freertos",
     "platforms": "*",

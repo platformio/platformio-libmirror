@@ -6,6 +6,10 @@
     "description": "Implemets a 1-Wire library, currently without \"Search ROM\" support",
     "frameworks": "mbed",
     "keywords": [
+        "distance",
+        "driver",
+        "sensor",
+        "VL6180x",
         "1",
         "1-wire",
         "DS1820",
@@ -13,15 +17,7 @@
         "one",
         "OneWire",
         "Wire",
-        "distance",
-        "driver",
-        "sensor",
-        "VL6180x",
-        "low power",
-        "LPC11U24",
-        "lpc11uxx",
-        "mBuino",
-        "Sleep"
+        "realtimeclock"
     ],
     "name": "OneWire",
     "platforms": "*",

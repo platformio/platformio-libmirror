@@ -9,19 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "LM77",
-        "sensor",
-        "Temperature",
-        "IMU",
-        "LEGO",
-        "mindstorms",
-        "Dweet",
-        "https",
-        "IOT",
-        "secure",
         "AITENDO",
-        "OLED"
+        "OLED",
+        "LPC4330"
     ],
     "name": "AitendoOLED",
     "platforms": "*",

@@ -9,20 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Communication",
-        "protocols",
-        "wireless",
-        "xbee",
         "AD7606",
-        "SPI",
-        "ANSI",
-        "Terminal",
-        "controller",
-        "motor",
-        "pololu",
-        "Qik",
-        "VNH25P30",
-        "LM61"
+        "SPI"
     ],
     "name": "AD7606",
     "platforms": "*",

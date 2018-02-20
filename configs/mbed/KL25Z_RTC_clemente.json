@@ -13,8 +13,12 @@
         "file",
         "SD",
         "System",
-        "I2S",
-        "library"
+        "IMU",
+        "sensor",
+        "hang",
+        "I2C",
+        "KL25z",
+        "lockup"
     ],
     "name": "KL25Z_RTC",
     "platforms": "*",

@@ -8,15 +8,7 @@
         "https://os.mbed.com/users/rhourahane/code/Test_I2CEeprom/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "DISCO_F746NG",
-        "STM32F746",
-        "display",
-        "RenBED",
-        "segment",
-        "Seven",
-        "LPC4330"
-    ],
+    "keywords": "LPC4330",
     "name": "I2CEeprom",
     "platforms": "*",
     "repository": {

@@ -5,14 +5,7 @@
     },
     "description": "ethernet mac address from serial number",
     "frameworks": "mbed",
-    "keywords": [
-        "consumption",
-        "control",
-        "ethernet",
-        "Management",
-        "Power",
-        "PowerControl"
-    ],
+    "keywords": "DDKARM_ethmac",
     "name": "DDKARM_ethmac",
     "platforms": "*",
     "repository": {

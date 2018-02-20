@@ -5,13 +5,7 @@
     },
     "description": "Fault recovery library.",
     "frameworks": "mbed",
-    "keywords": [
-        "FaultRecovery",
-        "SPI",
-        "xbee",
-        "BSP_DISCO_F746NG",
-        "OV7670"
-    ],
+    "keywords": "FaultRecovery",
     "name": "FaultRecovery",
     "platforms": "*",
     "repository": {

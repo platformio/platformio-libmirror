@@ -10,15 +10,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "etti",
-        "TUIASI",
+        "card",
+        "fatfilesystem",
+        "MMC",
+        "SD",
+        "SDHC",
+        "SDXC",
         "hih6130",
         "Humidity",
         "I2C",
         "sensor",
-        "Temperature",
-        "D6F-PH",
-        "pressure"
+        "Temperature"
     ],
     "name": "HIH6130",
     "platforms": "*",

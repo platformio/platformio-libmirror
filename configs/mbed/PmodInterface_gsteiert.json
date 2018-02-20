@@ -10,11 +10,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "average",
-        "data",
         "mbd2pmd",
         "pmod",
-        "URI"
+        "URI",
+        "DISCO-STM32F746NG",
+        "flash",
+        "QSPI",
+        "ST"
     ],
     "name": "PmodInterface",
     "platforms": "*",

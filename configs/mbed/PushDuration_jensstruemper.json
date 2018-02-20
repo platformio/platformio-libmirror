@@ -6,6 +6,7 @@
     "description": "PushDuration maps n callback functions to the duration of a button press. E.g. foo() is called when a button is released after 1 second where bar() is called after 3 seconds.",
     "frameworks": "mbed",
     "keywords": [
+        "ILI9325",
         "BUTTON",
         "Callback",
         "duration",

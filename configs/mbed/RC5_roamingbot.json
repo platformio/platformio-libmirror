@@ -6,9 +6,12 @@
     "description": "Completed RC5 send and receive",
     "frameworks": "mbed",
     "keywords": [
-        "GraphicsDisplay",
-        "GUI",
-        "TextDisplay"
+        "6610",
+        "LCD",
+        "Nokia",
+        "ethernet",
+        "K64F",
+        "DS3231"
     ],
     "name": "RC5",
     "platforms": "*",

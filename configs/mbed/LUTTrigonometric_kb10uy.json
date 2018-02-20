@@ -5,16 +5,7 @@
     },
     "description": "provide trigonometric functions with LUT.",
     "frameworks": "mbed",
-    "keywords": [
-        "aconno",
-        "I2C",
-        "consumption",
-        "control",
-        "ethernet",
-        "Management",
-        "Power",
-        "PowerControl"
-    ],
+    "keywords": "LUTTrigonometric",
     "name": "LUTTrigonometric",
     "platforms": "*",
     "repository": {

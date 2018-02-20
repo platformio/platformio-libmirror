@@ -6,17 +6,18 @@
     "description": "An implementation of the Sirf Binary and NMEA Protocol for gps devices using the SiRFstarIII chipset",
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
         "binary",
         "GPS",
         "NMEA",
         "protocol",
         "sIRFstar3",
         "sIRFstarIII",
-        "I2C",
-        "NeoPixel",
-        "rhb",
-        "slave"
+        "led",
+        "LED controller",
+        "led driver",
+        "PCA9955A",
+        "PCA9956A",
+        "PCA995xA"
     ],
     "name": "sIRFstarIII",
     "platforms": "*",

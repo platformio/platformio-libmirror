@@ -5,13 +5,7 @@
     },
     "description": "Class designed to store and invoke function pointers and method pointers",
     "frameworks": "mbed",
-    "keywords": [
-        "FunctionPointer",
-        "newbi;debug;serial;",
-        "ADS7843",
-        "event",
-        "touch"
-    ],
+    "keywords": "FunctionPointer",
     "name": "GenericFunctionHandler",
     "platforms": "*",
     "repository": {

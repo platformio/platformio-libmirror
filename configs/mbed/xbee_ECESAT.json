@@ -6,9 +6,9 @@
     "description": "Xbee testing for cansat",
     "frameworks": "mbed",
     "keywords": [
-        "Calibrate",
-        "compass",
-        "Magneto"
+        "COMMAND PARSER",
+        "serial command",
+        "uart interupt"
     ],
     "name": "xbee",
     "platforms": "*",

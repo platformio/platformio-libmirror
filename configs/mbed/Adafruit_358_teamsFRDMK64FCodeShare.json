@@ -6,19 +6,13 @@
     "description": "This library can be used to control a low-cost Adafruit 358 TFT display. It has basic functionality but is a starting point for others trying to control this type of display using the FRDM-K64F.",
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "CPU Serial number",
-        "Device ID",
-        "IOT",
-        "Serial Number",
         "358",
         "Adafruit",
         "TFT",
-        "5110",
-        "shower",
-        "SED1330",
-        "SED1335",
-        "TextDisplay"
+        "DFRobot",
+        "etti",
+        "ultrasonic",
+        "urm37"
     ],
     "name": "Adafruit_358",
     "platforms": "*",

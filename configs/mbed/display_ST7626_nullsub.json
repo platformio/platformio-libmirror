@@ -6,15 +6,14 @@
     "description": "A lib for accessing ST7626 based lcds. It provides a set_pixel function.",
     "frameworks": "mbed",
     "keywords": [
+        "library",
+        "motor",
+        "Stepper",
         "display",
         "display-initialisation",
         "driver",
         "setpixel",
-        "st7626",
-        "\\",
-        "manager\\",
-        "Scheduler",
-        "task"
+        "st7626"
     ],
     "name": "display_ST7626",
     "platforms": "*",

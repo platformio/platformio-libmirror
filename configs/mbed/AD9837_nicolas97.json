@@ -6,8 +6,10 @@
     "description": "Library for interfacing with AD9837, generate Sine/Triangular/Square wave",
     "frameworks": "mbed",
     "keywords": [
-        "etti",
-        "TUIASI"
+        "LPC1114FN28",
+        "sound",
+        "CNMAT",
+        "osc"
     ],
     "name": "AD9837",
     "platforms": "*",

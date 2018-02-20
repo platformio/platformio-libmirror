@@ -5,15 +5,7 @@
     },
     "description": "A library for the Honeywell HIH-4030 humidity sensor.",
     "frameworks": "mbed",
-    "keywords": [
-        "by",
-        "controller",
-        "dual",
-        "micro",
-        "motor",
-        "pololu",
-        "Serial"
-    ],
+    "keywords": "HIH4030",
     "name": "HIH4030",
     "platforms": "*",
     "repository": {

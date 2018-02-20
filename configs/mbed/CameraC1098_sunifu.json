@@ -16,7 +16,9 @@
         "JPEG",
         "UART",
         "regex",
-        "slre"
+        "slre",
+        "AT",
+        "parser"
     ],
     "name": "CameraC1098",
     "platforms": "*",

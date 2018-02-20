@@ -9,13 +9,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "javascript",
-        "scripting",
         "driver",
         "motor",
         "Stepper",
-        "I2C",
-        "led cube"
+        "MPU6000",
+        "MPU6050",
+        "MPU60x0",
+        "csv",
+        "cumulocity",
+        "Embedded",
+        "rest",
+        "smart"
     ],
     "name": "StepperDriver",
     "platforms": "*",

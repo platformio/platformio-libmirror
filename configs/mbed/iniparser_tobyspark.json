@@ -9,11 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "gyro",
         "iniparser",
-        "hydro",
-        "ROS",
-        "ros_serial"
+        "driver",
+        "sonar",
+        "ad7124"
     ],
     "name": "iniparser",
     "platforms": "*",

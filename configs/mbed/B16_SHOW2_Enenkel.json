@@ -5,7 +5,11 @@
     },
     "description": "b16 Show2",
     "frameworks": "mbed",
-    "keywords": "B16_SHOW2",
+    "keywords": [
+        "H-bridge",
+        "motor",
+        "PwmOut"
+    ],
     "name": "B16_SHOW2",
     "platforms": "*",
     "repository": {

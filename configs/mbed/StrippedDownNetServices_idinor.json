@@ -14,9 +14,7 @@
         "NTP",
         "graphic",
         "monochrome",
-        "VGA",
-        "ILI9341",
-        "SPI"
+        "VGA"
     ],
     "name": "StrippedDownNetServices",
     "platforms": "*",

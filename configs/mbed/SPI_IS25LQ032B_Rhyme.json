@@ -9,16 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "agriculture",
-        "Chirp",
-        "driver",
-        "I2C",
-        "sensor",
-        "soil moisture",
         "flash",
         "IS25LQ032B",
         "ISSI",
-        "SPI"
+        "SPI",
+        "arduino",
+        "LCD",
+        "module",
+        "screen",
+        "TFT"
     ],
     "name": "SPI_IS25LQ032B",
     "platforms": "*",

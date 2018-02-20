@@ -5,12 +5,7 @@
     },
     "description": "General IMU Library",
     "frameworks": "mbed",
-    "keywords": [
-        "conversion",
-        "Thermocouple",
-        "pppoe",
-        "Wiznet"
-    ],
+    "keywords": "IMU",
     "name": "IMU",
     "platforms": "*",
     "repository": {

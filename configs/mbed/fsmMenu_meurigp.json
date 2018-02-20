@@ -9,7 +9,13 @@
         "https://os.mbed.com/teams/ELEC2645-201516/code/SnakeProjectRev1/"
     ],
     "frameworks": "mbed",
-    "keywords": "fsmMenu",
+    "keywords": [
+        "23LC1024",
+        "23LC512",
+        "Microchip",
+        "SPI",
+        "sram"
+    ],
     "name": "fsmMenu",
     "platforms": "*",
     "repository": {

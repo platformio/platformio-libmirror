@@ -1,0 +1,46 @@
+{
+    "authors": {
+        "name": "TVZ Mechatronics Team",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Tedd OKANO"
+            ],
+            "frameworks": "mbed",
+            "name": "IAP"
+        }
+    ],
+    "description": "This is library for storing data array in internal flash memory of MCU LPC1768. The flash data is empty every time we download program to MCU so it can be used in project where we don't have acces to file system like mbed development board uses.",
+    "examples": [
+        "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/Flash_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "controller",
+        "Servo",
+        "ILI9320",
+        "ILI9325",
+        "ILI9328",
+        "ILI9341",
+        "ILI9481",
+        "ILI9486",
+        "IST3020",
+        "LCD",
+        "MIPI",
+        "parallel",
+        "SPI",
+        "SSD1306",
+        "ST7565",
+        "TFT",
+        "UC1608",
+        "UC1701"
+    ],
+    "name": "Flash",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/teams/TVZ-Mechatronics-Team/code/Flash/"
+    }
+}

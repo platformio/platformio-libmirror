@@ -5,7 +5,18 @@
     },
     "description": "For CMPS11 Serial Mode",
     "frameworks": "mbed",
-    "keywords": "CMPS11_Serial",
+    "keywords": [
+        "AT",
+        "AT command",
+        "ATCommand",
+        "Serial",
+        "SIM800",
+        "SIM900",
+        "SIMCOM",
+        "UART",
+        "MPU9250",
+        "nRF52832 custom boards"
+    ],
     "name": "CMPS11_Serial",
     "platforms": "*",
     "repository": {

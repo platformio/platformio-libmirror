@@ -5,7 +5,10 @@
     },
     "description": "Simple Vector Library 1.5",
     "frameworks": "mbed",
-    "keywords": "led",
+    "keywords": [
+        "average",
+        "data"
+    ],
     "name": "SVL",
     "platforms": "*",
     "repository": {

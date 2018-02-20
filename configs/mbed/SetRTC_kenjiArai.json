@@ -10,6 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "DISCO_F469NI",
+        "LCD",
+        "BUTTON",
+        "ButtonGroup",
+        "DISCO-F746",
+        "UIT",
         "f334",
         "F401RE",
         "F411RE",
@@ -19,14 +25,7 @@
         "power on/off",
         "reset",
         "RTC",
-        "VBAT",
-        "color",
-        "led",
-        "nRF51822",
-        "rgb",
-        "WS2812B",
-        "DISCO_F469NI",
-        "LCD"
+        "VBAT"
     ],
     "name": "SetRTC",
     "platforms": "*",

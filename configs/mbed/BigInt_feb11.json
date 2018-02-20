@@ -6,8 +6,10 @@
     "description": "This library provides a way to easily handle arbitrary large integers.",
     "frameworks": "mbed",
     "keywords": [
-        "Zumo",
-        "Temperature;*C;MCP9808"
+        "CMT",
+        "K64F",
+        "output",
+        "PPM"
     ],
     "name": "BigInt",
     "platforms": "*",

@@ -13,7 +13,12 @@
         "DS3232",
         "I2C",
         "RTC",
-        "time"
+        "time",
+        "Humidity",
+        "sensor",
+        "sure",
+        "Temperature",
+        "HEJ"
     ],
     "name": "ds3232m",
     "platforms": "*",

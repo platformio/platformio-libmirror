@@ -15,22 +15,7 @@
         "https://os.mbed.com/users/tvlogman/code/locomotion_pid_action_refactor_EMG/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "NeoPixel",
-        "WS2812",
-        "WS2812B",
-        "Algebra.",
-        "matrix",
-        "vector",
-        "api",
-        "mode",
-        "xbee",
-        "zigbee",
-        "GPS",
-        "Serial",
-        "FAT",
-        "SD"
-    ],
+    "keywords": "Matrix",
     "name": "Matrix",
     "platforms": "*",
     "repository": {

@@ -9,13 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "led",
-        "LPD8803",
-        "LPD8806",
-        "LPD8809",
-        "SPI",
-        "OAuth",
-        "twitter"
+        "W5200",
+        "WIZ820IO"
     ],
     "name": "stm32_adafruit",
     "platforms": "*",

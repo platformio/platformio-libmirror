@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Jatin Sharma",
+        "url": "https://os.mbed.com/users/jatinsha/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Simon Ford"
+            ],
+            "frameworks": "mbed",
+            "name": "TextLCD"
+        }
+    ],
+    "description": "mBed + timer + keyboard + keypad",
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "matrix",
+        "SDA5708"
+    ],
+    "name": "CIS541-HW3-Keypad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/jatinsha/code/CIS541-HW3-Keypad/"
+    }
+}

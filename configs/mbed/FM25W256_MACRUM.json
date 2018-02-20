@@ -10,11 +10,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "cypress",
-        "F-RAM",
         "motorDC",
-        "piezo",
-        "pwm"
+        "cypress",
+        "F-RAM"
     ],
     "name": "FM25W256",
     "platforms": "*",

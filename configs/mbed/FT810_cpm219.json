@@ -9,16 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "cmsis",
-        "rtos",
-        "RTX",
-        "Adafruit",
-        "I2C",
-        "led",
-        "nxp",
-        "PCA9685",
-        "pwm",
-        "Servo"
+        "24AA08",
+        "24LC08",
+        "EEPROM",
+        "memory"
     ],
     "name": "FT810",
     "platforms": "*",

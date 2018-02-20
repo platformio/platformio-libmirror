@@ -17,22 +17,7 @@
         "https://os.mbed.com/users/Kojto/code/cc3000_udp_client_demo/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "int",
-        "interrupt",
-        "NVIC",
-        "priority",
-        "buffer",
-        "I2C",
-        "gpu",
-        "Graphics",
-        "LCD",
-        "module",
-        "smart",
-        "SMARTGPU",
-        "TFT",
-        "touch"
-    ],
+    "keywords": "NVIC_set_all_priorities",
     "name": "NVIC_set_all_priorities",
     "platforms": "*",
     "repository": {

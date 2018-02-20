@@ -13,7 +13,12 @@
         "Color LCD",
         "Goldelox",
         "serial lcd",
-        "log"
+        "EZO",
+        "I2C",
+        "PH sensor",
+        "conversion",
+        "float",
+        "string"
     ],
     "name": "Goldelox_SerialLCD",
     "platforms": "*",

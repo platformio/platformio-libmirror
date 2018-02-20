@@ -11,12 +11,7 @@
     "frameworks": "mbed",
     "keywords": [
         "MQTT",
-        "adc",
-        "dac",
-        "interrupt",
-        "Nucleo F446",
-        "polling",
-        "STM32F446"
+        "ax12"
     ],
     "name": "niMQTT",
     "platforms": "*",

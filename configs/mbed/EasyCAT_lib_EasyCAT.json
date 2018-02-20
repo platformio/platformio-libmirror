@@ -12,6 +12,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "accelerometer",
+        "BMI160",
+        "gyroscope",
+        "I2C",
+        "SPI",
         "arduino",
         "EasyCAT",
         "etherCAT",
