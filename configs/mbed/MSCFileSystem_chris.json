@@ -27,20 +27,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "m3pi",
+        "maze",
+        "music",
+        "sensors",
         "1-wire",
         "DS1820",
         "DS18B20",
-        "DS18S20",
-        "16x1",
-        "TextLCD"
+        "DS18S20"
     ],
     "name": "MSCFileSystem",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/chris/code/MSCFileSystem/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/chris/code/MSCFileSystem/"
     }
 }

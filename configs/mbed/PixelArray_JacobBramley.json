@@ -26,31 +26,11 @@
         "https://os.mbed.com/users/JCristobal/code/blip_dado/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "KL25z",
-        "LPC800-MAX",
-        "LPC812",
-        "powerdown",
-        "Sleep",
-        "wake-up",
-        "NeoPixel",
-        "NeoPixels",
-        "WS2811",
-        "WS2812",
-        "WS2812B",
-        "InterruptIn",
-        "PwmIn",
-        "cmsis",
-        "rtos",
-        "RTX"
-    ],
+    "keywords": "PixelArray",
     "name": "PixelArray",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/JacobBramley/code/PixelArray/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/JacobBramley/code/PixelArray/"
     }
 }

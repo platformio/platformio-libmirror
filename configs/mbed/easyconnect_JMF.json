@@ -19,16 +19,23 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GPS",
-        "MTK3339"
+        "arduino",
+        "SDCard",
+        "Seeedstudio",
+        "TFT",
+        "touch",
+        "LCD",
+        "accelerometer",
+        "ADXL345",
+        "senor",
+        "OneWire",
+        "protocols",
+        "sensors"
     ],
     "name": "easy-connect",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/JMF/code/easy-connect/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/JMF/code/easy-connect/"
     }
 }

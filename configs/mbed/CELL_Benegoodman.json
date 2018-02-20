@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Ben Goodman",
+        "url": "https://os.mbed.com/users/Benegoodman/"
+    },
+    "description": "Cell Library",
+    "frameworks": "mbed",
+    "keywords": [
+        "OLED",
+        "ssd1305",
+        "led",
+        "LED controller",
+        "PCA9632",
+        "pwm"
+    ],
+    "name": "CELL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Benegoodman/code/CELL/"
+    }
+}

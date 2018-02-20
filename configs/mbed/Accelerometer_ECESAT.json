@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "ADITYA RAJ",
+        "url": "https://os.mbed.com/users/ECESAT/"
+    },
+    "description": "cansat",
+    "frameworks": "mbed",
+    "keywords": [
+        "\\",
+        "manager\\",
+        "Scheduler",
+        "task",
+        "BUTTON",
+        "click",
+        "debounce",
+        "F411",
+        "Frequency Counter"
+    ],
+    "name": "Accelerometer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ECESAT/code/Accelerometer/"
+    }
+}

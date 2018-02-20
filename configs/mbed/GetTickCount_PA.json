@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Pierre-Alexandre Geraert",
+        "url": "https://os.mbed.com/users/PA/"
+    },
+    "description": "GetTickCount",
+    "frameworks": "mbed",
+    "keywords": [
+        "VL53L0X",
+        "station"
+    ],
+    "name": "GetTickCount",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/PA/code/GetTickCount/"
+    }
+}

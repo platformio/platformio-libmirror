@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Pierre-Alexandre Geraert",
+        "url": "https://os.mbed.com/users/PA/"
+    },
+    "description": "UniPWM",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "output"
+    ],
+    "name": "UniPWM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/PA/code/UniPWM/"
+    }
+}

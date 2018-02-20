@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Joseph Bradshaw",
+        "url": "https://os.mbed.com/users/jebradshaw/"
+    },
+    "description": "Preliminary mbed encoder interface IC class",
+    "examples": [
+        "https://os.mbed.com/users/jebradshaw/code/mbed_QUAD_ENCLIB_TEST/",
+        "https://os.mbed.com/users/jebradshaw/code/Axis/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LS7366LIB",
+    "name": "LS7366LIB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jebradshaw/code/LS7366LIB/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "modtronix H",
+        "url": "https://os.mbed.com/users/modtronix/"
+    },
+    "description": "Based on SX1276Lib. Simplified and targeted for Modtronix inAir modules. All pins can now be specified to use interrupts or general purpose I/O pins.",
+    "frameworks": "mbed",
+    "keywords": [
+        "inAir",
+        "SX1276",
+        "SX1278"
+    ],
+    "name": "modtronix_inAir",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/modtronix/code/modtronix_inAir/"
+    }
+}

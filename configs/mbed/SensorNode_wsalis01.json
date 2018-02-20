@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Will Salisbury",
+        "url": "https://os.mbed.com/users/wsalis01/"
+    },
+    "description": "Tufts Hybrid Racing Sensor Node",
+    "frameworks": "mbed",
+    "keywords": "CAN",
+    "name": "SensorNode",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wsalis01/code/SensorNode/"
+    }
+}

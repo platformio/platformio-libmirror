@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "智貴 田川",
+        "url": "https://os.mbed.com/users/v023vk/"
+    },
+    "description": "an error test",
+    "frameworks": "mbed",
+    "keywords": [
+        "Freescale",
+        "sensing",
+        "touch",
+        "TSI",
+        "current sensor",
+        "INA219"
+    ],
+    "name": "error_test",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/v023vk/code/error_test/"
+    }
+}

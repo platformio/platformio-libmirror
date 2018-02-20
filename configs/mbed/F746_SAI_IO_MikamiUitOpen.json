@@ -27,6 +27,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "camera",
+        "radioshack",
+        "shield",
+        "VC0706",
         "audio input",
         "Audio output",
         "CODEC",
@@ -41,9 +45,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/MikamiUitOpen/code/F746_SAI_IO/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/MikamiUitOpen/code/F746_SAI_IO/"
     }
 }

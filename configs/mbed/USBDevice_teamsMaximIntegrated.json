@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/"
+    },
+    "description": "USB device stack",
+    "examples": [
+        "https://os.mbed.com/users/switches/code/blinky_max32630fthr/",
+        "https://os.mbed.com/users/switches/code/FTHR_USB_serial/",
+        "https://os.mbed.com/users/switches/code/FTHR_OLED/",
+        "https://os.mbed.com/users/jbradshaw/code/HSP_RPC_GUI_3_0_1/",
+        "https://os.mbed.com/users/danjulio/code/Rocket/",
+        "https://os.mbed.com/users/smatthew/code/FTHR_SensorHub/",
+        "https://os.mbed.com/users/koziniec/code/serial_interrupt_max32630_testing/",
+        "https://os.mbed.com/users/leftofcenter/code/FTHR_USB_serial/",
+        "https://os.mbed.com/users/feilang/code/FTHR_OLED/",
+        "https://os.mbed.com/users/Rhyme/code/test_BMI160/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "device",
+        "USB"
+    ],
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/code/USBDevice/"
+    }
+}

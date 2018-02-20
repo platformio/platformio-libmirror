@@ -12,15 +12,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BSP",
-        "DISCO_L476VG",
         "malloc",
         "memory",
-        "Nucleo",
-        "PCA9685",
-        "pwm controller",
+        "AQM1602",
         "SSL",
-        "TLS"
+        "TLS",
+        "clock",
+        "ds1307",
+        "RTC"
     ],
     "name": "AvailableMemory",
     "platforms": "*",

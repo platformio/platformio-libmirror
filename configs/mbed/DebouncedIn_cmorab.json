@@ -18,20 +18,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "fingerprint",
-        "GT-511C3",
-        "GT-511C31",
-        "Buffered",
-        "MODSERIAL",
-        "Serial",
-        "Host",
-        "hub",
-        "keyboard",
+        "csv",
         "mbed",
-        "Mouse",
-        "MSD",
-        "rtos",
-        "USB"
+        "ethernet",
+        "ip"
     ],
     "name": "DebouncedIn",
     "platforms": "*",

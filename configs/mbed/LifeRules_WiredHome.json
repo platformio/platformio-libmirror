@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "David Smart",
+        "url": "https://os.mbed.com/users/WiredHome/"
+    },
+    "description": "Conway's game of life - derived from another project, turned into a c++ class, and scaled to support up to a 480x272 display, or a lower resolution color display.",
+    "examples": [
+        "https://os.mbed.com/users/WiredHome/code/GameOfLife/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Conway's",
+        "game",
+        "Life",
+        "of"
+    ],
+    "name": "LifeRules",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WiredHome/code/LifeRules/"
+    }
+}

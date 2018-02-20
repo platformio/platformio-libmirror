@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Montvydas Klumbys",
+        "url": "https://os.mbed.com/users/moklumbys/"
+    },
+    "description": "A library used for controlling a quadcopter. It provides an easy to use interface, which allows to mount, calibrate and run motors. It is also able to calibrate the actual speed according to calculated PID roll & pitch difference.",
+    "examples": [
+        "https://os.mbed.com/users/moklumbys/code/QuadcopterProgram/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "Nordic",
+        "nRF51822",
+        "dac",
+        "more pwm",
+        "pwm",
+        "pwm 48Mhz",
+        "pwmdac"
+    ],
+    "name": "Quadcopter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/moklumbys/code/Quadcopter/"
+    }
+}

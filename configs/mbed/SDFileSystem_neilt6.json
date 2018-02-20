@@ -33,25 +33,22 @@
         "H-bridge",
         "motor",
         "PwmOut",
-        "buffer",
-        "Buffered",
-        "rs232",
-        "RS485",
-        "Serial",
         "fatfilesystem",
         "MMC",
         "SD",
         "SD Card",
         "SDHC",
-        "SDXC"
+        "SDXC",
+        "buffer",
+        "Buffered",
+        "rs232",
+        "RS485",
+        "Serial"
     ],
     "name": "SDFileSystem",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/neilt6/code/SDFileSystem/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/neilt6/code/SDFileSystem/"
     }
 }

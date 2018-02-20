@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Lieven Hollevoet",
+        "url": "https://os.mbed.com/users/LievenHollevoet/"
+    },
+    "description": "Interface to a Silicon Labs Si7005 relative humidity sensor.",
+    "examples": [
+        "https://os.mbed.com/users/LievenHollevoet/code/Si7005_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Lora",
+        "rn2483",
+        "Humidity",
+        "sensor",
+        "Temperature",
+        "HD44780",
+        "TextLCD",
+        "assembly",
+        "exception",
+        "fault",
+        "handler",
+        "hardfault",
+        "registerdump"
+    ],
+    "name": "Si7005",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/LievenHollevoet/code/Si7005/"
+    }
+}

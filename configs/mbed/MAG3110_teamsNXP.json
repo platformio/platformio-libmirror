@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "NXP",
+        "url": "https://os.mbed.com/teams/NXP/"
+    },
+    "description": "MAG3110 magnetometer library",
+    "examples": [
+        "https://os.mbed.com/teams/NXP/code/FRDM-FXS-MULTI2-B_SensorShield_HelloWorl/",
+        "https://os.mbed.com/users/seanburford/code/xtrinsic_sensors/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "sensor",
+        "Temperature",
+        "TMP",
+        "TMP36",
+        "counter",
+        "led",
+        "LPC1768",
+        "mbed",
+        "Accessory",
+        "ADK",
+        "android",
+        "DISCO_F469NI",
+        "LCD",
+        "Touch Screen"
+    ],
+    "name": "MAG3110",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NXP/code/MAG3110/"
+    }
+}

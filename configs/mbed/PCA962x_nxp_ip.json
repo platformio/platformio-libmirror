@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "InetrfaceProducts NXP",
+        "url": "https://os.mbed.com/users/nxp_ip/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "InetrfaceProducts NXP"
+            ],
+            "frameworks": "mbed",
+            "name": "CompLedDvr"
+        }
+    ],
+    "description": "PCA9624, PCA9622 and PCA9626 class library.",
+    "examples": [
+        "https://os.mbed.com/users/nxp_ip/code/PCA9626_Hello/",
+        "https://os.mbed.com/users/nxp_ip/code/PCA9624_Hello/",
+        "https://os.mbed.com/users/nxp_ip/code/PCA9622_Hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "LED controller",
+        "led driver",
+        "PCA9622",
+        "PCA9624",
+        "PCA9626",
+        "PCA962x",
+        "pwm"
+    ],
+    "name": "PCA962x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/nxp_ip/code/PCA962x/"
+    }
+}

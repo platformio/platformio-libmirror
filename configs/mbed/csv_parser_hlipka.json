@@ -10,18 +10,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "csv",
-        "Host",
-        "hub",
-        "keyboard",
-        "mbed",
-        "Mouse",
-        "MSD",
-        "rtos",
-        "Serial",
-        "USB",
         "Buffered",
-        "MODSERIAL"
+        "MODSERIAL",
+        "Serial",
+        "csv",
+        "mbed"
     ],
     "name": "csv_parser",
     "platforms": "*",

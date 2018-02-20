@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Remi Beges",
+        "url": "https://os.mbed.com/users/Overdrivr/"
+    },
+    "description": "Framework for reading and writing variables in real time on any MBED platform.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Communication",
+        "debugging",
+        "rpc"
+    ],
+    "name": "DistantIO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Overdrivr/code/DistantIO/"
+    }
+}

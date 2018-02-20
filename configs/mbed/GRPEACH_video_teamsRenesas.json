@@ -19,7 +19,9 @@
     "frameworks": "mbed",
     "keywords": [
         "GR-PEACH",
-        "MARMEX_OB_oled"
+        "accelererometer",
+        "ADXL345",
+        "I2C"
     ],
     "name": "GR-PEACH_video",
     "platforms": "*",

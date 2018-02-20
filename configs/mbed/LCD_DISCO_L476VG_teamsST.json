@@ -12,16 +12,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "NFC",
-        "PN532",
-        "arbitrary precision",
-        "bigint",
-        "bignum",
         "DISCO_L476VG",
-        "LCD",
-        "AD-128160-UART",
-        "AITENDO",
-        "Serial"
+        "LCD"
     ],
     "name": "LCD_DISCO_L476VG",
     "platforms": "*",

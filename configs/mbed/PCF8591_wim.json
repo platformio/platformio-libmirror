@@ -10,11 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "SuperTweet",
         "I2C",
         "software",
-        "blinking",
-        "led",
+        "dynamixel",
+        "MX28",
+        "Servo",
+        "RIT",
+        "1-wire",
+        "DS18B20",
+        "SuperTweet",
         "adc",
         "dac",
         "PCF8591"

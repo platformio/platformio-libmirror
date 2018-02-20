@@ -13,7 +13,13 @@
         "https://os.mbed.com/users/NestorLDS/code/Parking-RadarSRF02/"
     ],
     "frameworks": "mbed",
-    "keywords": "beep",
+    "keywords": [
+        "watchdog timer",
+        "WDT",
+        "fingerprint",
+        "GT-511C3",
+        "GT-511C31"
+    ],
     "name": "beep",
     "platforms": "*",
     "repository": {

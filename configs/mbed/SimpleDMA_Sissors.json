@@ -17,17 +17,7 @@
         "https://os.mbed.com/users/pradeepvk2208/code/cdms_april2_2016/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "DMA",
-        "KL25z",
-        "AQM1602",
-        "I2C",
-        "Nucleo",
-        "UIT",
-        "accelerometer",
-        "SDFileSystem",
-        "STM32F746"
-    ],
+    "keywords": "SimpleDMA",
     "name": "SimpleDMA",
     "platforms": "*",
     "repository": {

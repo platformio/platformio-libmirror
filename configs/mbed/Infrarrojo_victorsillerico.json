@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Victor Hugo Sillerico Justo",
+        "url": "https://os.mbed.com/users/victorsillerico/"
+    },
+    "description": "This library let you work with an infrared sensor",
+    "frameworks": "mbed",
+    "keywords": [
+        "infrared",
+        "Obstacle detection",
+        "adc",
+        "dac",
+        "dual",
+        "MCP4922",
+        "Nucleo",
+        "single",
+        "ADC converter",
+        "Linear",
+        "Linear Technology",
+        "LTC2460"
+    ],
+    "name": "Infrarrojo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/victorsillerico/code/Infrarrojo/"
+    }
+}

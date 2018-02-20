@@ -17,18 +17,7 @@
         "https://os.mbed.com/users/bfoley13/code/Camera/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "JPEG",
-        "LS-Y201",
-        "DDS",
-        "generator",
-        "signal",
-        "SRF02",
-        "at&t",
-        "data store",
-        "m2x",
-        "time-series"
-    ],
+    "keywords": "JPEGCamera",
     "name": "JPEGCamera",
     "platforms": "*",
     "repository": {

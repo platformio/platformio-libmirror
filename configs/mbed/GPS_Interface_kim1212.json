@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "yuki kimura",
+        "url": "https://os.mbed.com/users/kim1212/"
+    },
+    "description": "Mbed library to get location informatiuon from GYSFDMAXB",
+    "frameworks": "mbed",
+    "keywords": [
+        "shell",
+        "VT100",
+        "6LowPan",
+        "nanostack",
+        "ST Nucleo",
+        "STM",
+        "stm32",
+        "Sub-Ghz RF",
+        "X-NUCLEO-IDS01A4",
+        "X-NUCLEO-IDS01A4celo",
+        "maniacbug",
+        "nRF24L01",
+        "nRF24L01P",
+        "RF24",
+        "RF24Network",
+        "meters",
+        "sparkfun",
+        "weather"
+    ],
+    "name": "GPS_Interface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kim1212/code/GPS_Interface/"
+    }
+}

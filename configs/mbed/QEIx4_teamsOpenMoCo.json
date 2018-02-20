@@ -6,6 +6,7 @@
     "description": "Quadrature Encoder Interface for motion control with resistance to jitter and chatter on AB signals and motor vibrations",
     "examples": [
         "https://os.mbed.com/teams/OpenMoCo/code/QEIx4_Example/",
+        "https://os.mbed.com/users/ChrisAydon/code/realtimeMM_V3/",
         "https://os.mbed.com/users/GTNicholson/code/realtimeMM_V3/"
     ],
     "frameworks": "mbed",
@@ -13,23 +14,8 @@
         "QEI",
         "Quadrature encoder interface",
         "Rotary Encoder",
-        "ethernet",
-        "HEJ",
-        "api",
-        "xbee",
-        "zigbee",
-        "44100",
-        "audio",
-        "FAT",
-        "khz",
-        "mbedaudio",
-        "micro",
-        "pwm",
-        "SD",
-        "SMARTWAV",
-        "sound",
-        "stereo",
-        "wav"
+        "Freescale",
+        "mbed"
     ],
     "name": "QEIx4",
     "platforms": "*",

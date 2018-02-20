@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "decarvalho adelino",
+        "url": "https://os.mbed.com/users/adelino/"
+    },
+    "description": "Library to use the wii nunchuk distributed by Nintendo",
+    "frameworks": "mbed",
+    "keywords": [
+        "Armand",
+        "Coetzer",
+        "I2C",
+        "Nunchuk",
+        "ethernet",
+        "socket",
+        "TCP",
+        "UDP",
+        "W5500",
+        "W7500",
+        "W7500P",
+        "GPIO",
+        "GPIO expander",
+        "PCA9535",
+        "PCA9538",
+        "PCA9539",
+        "PCA9554",
+        "PCA9555",
+        "PCAL9554",
+        "PCAL9555"
+    ],
+    "name": "NunchukLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/adelino/code/NunchukLib/"
+    }
+}

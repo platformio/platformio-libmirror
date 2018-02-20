@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "frederic blanc",
+        "url": "https://os.mbed.com/users/fblanc/"
+    },
+    "description": "Lascar Electronics SP 5-GFX1 DISPLAY, LCD GRAPHIC, 128 X 64 DOTS",
+    "frameworks": "mbed",
+    "keywords": [
+        "graphic",
+        "Lascar",
+        "LCD",
+        "SP5-GFX1",
+        "SPI"
+    ],
+    "name": "sp5fx1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fblanc/code/sp5fx1/"
+    }
+}

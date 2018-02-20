@@ -18,8 +18,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "EM406-GPS-Module",
-        "BR-355-GPS"
+        "Lora",
+        "mdot",
+        "multitech",
+        "EM406",
+        "GPS",
+        "library",
+        "Serial",
+        "ethernet",
+        "tcp/ip",
+        "w5100",
+        "W5200",
+        "W5500",
+        "Wiznet"
     ],
     "name": "GPS",
     "platforms": "*",

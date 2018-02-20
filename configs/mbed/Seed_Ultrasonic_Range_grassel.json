@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Guido Grassel",
+        "url": "https://os.mbed.com/users/grassel/"
+    },
+    "description": "Library for Seed Groove Ultrasonic range / distance meter.",
+    "examples": [
+        "https://os.mbed.com/users/grassel/code/Seed_Groove_Ultrasonic_Distance/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "4x4",
+        "4x4 Keypad",
+        "keyboard",
+        "keypad",
+        "pullup",
+        "MAPLE",
+        "mini"
+    ],
+    "name": "Seed_Ultrasonic_Range",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/grassel/code/Seed_Ultrasonic_Range/"
+    }
+}

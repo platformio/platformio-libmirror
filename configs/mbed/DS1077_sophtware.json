@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Michael Lange",
+        "url": "https://os.mbed.com/users/sophtware/"
+    },
+    "description": "Maxim DS1077 EconOscillator/Divider Library",
+    "frameworks": "mbed",
+    "keywords": [
+        "divider",
+        "ds1077",
+        "Maxim",
+        "oscillator"
+    ],
+    "name": "DS1077",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sophtware/code/DS1077/"
+    }
+}

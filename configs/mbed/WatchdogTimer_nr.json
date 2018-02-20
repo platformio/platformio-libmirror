@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "nr",
+        "url": "https://os.mbed.com/users/nr/"
+    },
+    "description": "Interface exposing basic LPC1768 watchdog timer functionality.",
+    "frameworks": "mbed",
+    "keywords": [
+        "timer",
+        "watchdog",
+        "current",
+        "I2C",
+        "INA226",
+        "T.I."
+    ],
+    "name": "WatchdogTimer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nr/code/WatchdogTimer/"
+    }
+}

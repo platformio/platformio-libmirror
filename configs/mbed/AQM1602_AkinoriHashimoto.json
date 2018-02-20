@@ -9,11 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "L6470",
+        "MPU9150",
+        "Quaternion",
+        "vector",
         "AQM1602",
-        "Serial",
-        "Terminal",
-        "VT100"
+        "L6470"
     ],
     "name": "AQM1602",
     "platforms": "*",

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Lancaster University",
+        "url": "https://os.mbed.com/teams/Lancaster-University/"
+    },
+    "description": "test",
+    "frameworks": "mbed",
+    "keywords": [
+        "LPC4088QSB",
+        "MSD",
+        "USBHOST",
+        "DISCO_F469NI",
+        "QSPI"
+    ],
+    "name": "mbed-lite-test",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Lancaster-University/code/mbed-lite-test/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Marcus Chang",
+        "url": "https://os.mbed.com/users/marcuschang/"
+    },
+    "description": "Asynchronous Serial Library with flow control and tag detection.",
+    "frameworks": "mbed",
+    "keywords": [
+        "CGRAM",
+        "CLCD",
+        "custom",
+        "TextLCD",
+        "compass",
+        "HMC5883L",
+        "magnetometer"
+    ],
+    "name": "AsyncSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/marcuschang/code/AsyncSerial/"
+    }
+}

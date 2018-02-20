@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "eisei taro",
+        "url": "https://os.mbed.com/users/sssrc_frsh2013/"
+    },
+    "description": "{baud, NMEA} setting functions for venus GPS chip",
+    "examples": [
+        "https://os.mbed.com/users/sssrc_frsh2013/code/GPS_setting_Venus_Helloworld/",
+        "https://os.mbed.com/users/ritvaldirandi/code/gps-fix/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "blink",
+        "led",
+        "LED control",
+        "SRF02",
+        "GPS",
+        "NMEA",
+        "Venus"
+    ],
+    "name": "gps_settings_venus",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sssrc_frsh2013/code/gps_settings_venus/"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Sille Van Landschoot",
+        "url": "https://os.mbed.com/users/sillevl/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Chris Styles"
+            ],
+            "frameworks": "mbed",
+            "name": "m3pi"
+        }
+    ],
+    "description": "library for m3Dpi robot, based on the Pololu 3pi and m3pi. m3Dpi has multiple distance sensors, gyroscope, compass and accelerometer sensor to be fully aware of its environment. With the addition of xbee or nrf24n01 module it has wireless communication capabilities.",
+    "examples": [
+        "https://os.mbed.com/users/sillevl/code/m3Dpi-helloworld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "3pi",
+        "library",
+        "m3dpi",
+        "m3pi",
+        "pololu",
+        "robot"
+    ],
+    "name": "m3Dpi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/sillevl/code/m3Dpi/"
+    }
+}

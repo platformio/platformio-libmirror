@@ -9,10 +9,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "PCF8575",
         "debug",
         "log",
-        "logger"
+        "logger",
+        "test",
+        "DC",
+        "driver",
+        "full-bridge",
+        "H-bridge",
+        "motor",
+        "display",
+        "GPS"
     ],
     "name": "LogUtil",
     "platforms": "*",

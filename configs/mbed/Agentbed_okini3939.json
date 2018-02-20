@@ -11,15 +11,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "NET",
+        "network",
+        "stream",
+        "TCP",
         "Agent",
         "Net-SNMP",
-        "SNMP",
-        "16 Bit A2D",
-        "Differential A2D",
-        "K64F",
-        "BSP",
-        "DISCO_L476VG",
-        "AQM1602"
+        "SNMP"
     ],
     "name": "Agentbed",
     "platforms": "*",

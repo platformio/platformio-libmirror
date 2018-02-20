@@ -14,9 +14,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DHT11",
-        "Humidity",
-        "Temperature",
+        "arduino",
+        "mbeduino",
         "HX8340",
         "ILI9325",
         "ILI9328",
@@ -25,14 +24,7 @@
         "SSD1289",
         "ST7735",
         "TFT",
-        "UTFT",
-        "arduino",
-        "mbeduino",
-        "PABLO",
-        "R",
-        "gyroscope",
-        "ITG-3200",
-        "ITG3200"
+        "UTFT"
     ],
     "name": "TFTLCD",
     "platforms": "*",

@@ -18,9 +18,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "3310",
-        "5110",
-        "Nokia"
+        "v1.0",
+        "16 Bit A2D",
+        "Differential A2D",
+        "K64F"
     ],
     "name": "Nucleo_Sensor_Shield",
     "platforms": "*",

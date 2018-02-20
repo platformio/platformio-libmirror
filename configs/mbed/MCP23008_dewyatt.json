@@ -6,13 +6,9 @@
     "description": "A library for the Microchip MCP23008 I2C 8-bit I/O expander.",
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "led",
-        "SAA1064",
-        "motor",
-        "pwm",
-        "sparkfun",
-        "TB6612FNG"
+        "WiFly",
+        "FTP",
+        "server"
     ],
     "name": "MCP23008",
     "platforms": "*",

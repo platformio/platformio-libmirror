@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Pedro Enrique Vidal Peñas",
+        "url": "https://os.mbed.com/users/cr0n0s20/"
+    },
+    "description": "Uso de Sensor de Ultrasonidos",
+    "frameworks": "mbed",
+    "keywords": [
+        "cm",
+        "sensor",
+        "ultrasonidos"
+    ],
+    "name": "UltraSonidos",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cr0n0s20/code/UltraSonidos/"
+    }
+}

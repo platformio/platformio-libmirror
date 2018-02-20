@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Benigno Gobbo",
+        "url": "https://os.mbed.com/users/bengo/"
+    },
+    "description": "Pololu Minimu-9 library",
+    "frameworks": "mbed",
+    "keywords": [
+        "barometer",
+        "MPL115A1",
+        "SPI",
+        "l3g4200d",
+        "lsm303dlm",
+        "minimu-9",
+        "3pi",
+        "m3pi",
+        "robot",
+        "xml"
+    ],
+    "name": "minimu9",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bengo/code/minimu9/"
+    }
+}

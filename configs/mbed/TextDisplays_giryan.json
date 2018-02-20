@@ -8,14 +8,7 @@
         "https://os.mbed.com/users/giryan/code/TextLCD_Serial/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Callback",
-        "FunctionPointer",
-        "Functor",
-        "esc",
-        "pwm",
-        "RC"
-    ],
+    "keywords": "TextDisplays",
     "name": "TextDisplays",
     "platforms": "*",
     "repository": {

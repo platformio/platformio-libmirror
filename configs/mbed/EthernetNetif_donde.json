@@ -3,16 +3,26 @@
         "name": "Don DeGregori",
         "url": "https://os.mbed.com/users/donde/"
     },
-    "description": "EthernetNetif",
+    "description": "EthernetNetIf-",
     "frameworks": "mbed",
     "keywords": [
-        "POSIX",
-        "rtos"
+        "dac",
+        "MCP4922",
+        "comparator",
+        "KL25z",
+        "Dynamic",
+        "ethernet",
+        "http",
+        "pages",
+        "server",
+        "static",
+        "Web",
+        "WiFly"
     ],
-    "name": "EthernetNetif",
+    "name": "EthernetNetIf-",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.com/users/donde/code/EthernetNetif/"
+        "url": "https://os.mbed.com/users/donde/code/EthernetNetIf-/"
     }
 }

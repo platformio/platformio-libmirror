@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Ian Craggs",
+        "url": "https://os.mbed.com/users/icraggs/"
+    },
+    "description": "Low level MQTTSN packet library, part of the Eclipse Paho project: http://eclipse.org/paho",
+    "examples": [
+        "https://os.mbed.com/users/icraggs/code/MQTTSN/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MPL115A2",
+        "adc",
+        "DIFF",
+        "K64F"
+    ],
+    "name": "MQTTSNPacket",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/icraggs/code/MQTTSNPacket/"
+    }
+}

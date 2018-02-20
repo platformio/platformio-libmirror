@@ -13,15 +13,16 @@
         "https://os.mbed.com/users/zef/code/STM32F746_LWM2M_Client/",
         "https://os.mbed.com/teams/GroveStreams/code/GroveStreams-Simple/",
         "https://os.mbed.com/teams/GroveStreams/code/GroveStreams-Temp/",
-        "https://os.mbed.com/users/shoaib_ahmed/code/uzairkhan/"
+        "https://os.mbed.com/users/shoaib_ahmed/code/uzairkhan/",
+        "https://os.mbed.com/users/arlindonm/code/ProjetoBB/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ChaNFS",
-        "mass",
-        "storage",
-        "USB",
-        "v3",
+        "adc",
+        "SPI",
+        "128x64",
+        "OLED",
+        "SSD1306",
         "discovery",
         "ethernet",
         "Nucleo",

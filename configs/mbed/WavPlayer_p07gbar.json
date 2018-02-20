@@ -12,6 +12,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "DS18B20",
+        "temperature sensor",
         "audio",
         "files",
         "I2C",
@@ -19,17 +21,7 @@
         "playing",
         "RS labboard",
         "TLV320",
-        "wav",
-        "heading",
-        "HMC5843",
-        "magnetic",
-        "sensor",
-        "count",
-        "external clock",
-        "MHz",
-        "pulse",
-        "ILI9341",
-        "TFT"
+        "wav"
     ],
     "name": "WavPlayer",
     "platforms": "*",

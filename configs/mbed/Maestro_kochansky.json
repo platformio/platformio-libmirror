@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Przemysław Kochański",
+        "url": "https://os.mbed.com/users/kochansky/"
+    },
+    "description": "Library for Pololu Maestro Servo Controller",
+    "frameworks": "mbed",
+    "keywords": [
+        "timer",
+        "Ton",
+        "wait",
+        "maestro",
+        "Serial",
+        "Servo",
+        "I2C",
+        "PCF8583",
+        "RTC",
+        "parallax",
+        "PING",
+        "ping)))",
+        "sensor",
+        "ultrasonic"
+    ],
+    "name": "Maestro",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kochansky/code/Maestro/"
+    }
+}

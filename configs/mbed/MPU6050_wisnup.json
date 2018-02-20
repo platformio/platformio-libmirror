@@ -5,7 +5,12 @@
     },
     "description": "mpu",
     "frameworks": "mbed",
-    "keywords": "MPU6050",
+    "keywords": [
+        "Buffered",
+        "MODSERIAL",
+        "Serial",
+        "csv"
+    ],
     "name": "MPU6050",
     "platforms": "*",
     "repository": {

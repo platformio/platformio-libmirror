@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Nordic Pucks",
+        "url": "https://os.mbed.com/teams/Nordic-Pucks/"
+    },
+    "description": "Lib for sending IR signals from mbed.",
+    "examples": [
+        "https://os.mbed.com/users/cristea/code/ir-puck/",
+        "https://os.mbed.com/users/cristea/code/ir-puck2/",
+        "https://os.mbed.com/teams/Nordic-Pucks/code/ir-puck/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "network",
+        "TCPSocket",
+        "twitpic",
+        "twitter",
+        "ESP8266",
+        "NetworkSocketAPI",
+        "32.768",
+        "F401RE",
+        "F411RE",
+        "L152RE",
+        "RTC",
+        "Timeout",
+        "X2",
+        "infra",
+        "infrared",
+        "IR",
+        "mbed",
+        "red"
+    ],
+    "name": "IRSender",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nordic-Pucks/code/IRSender/"
+    }
+}

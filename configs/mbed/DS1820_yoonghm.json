@@ -9,16 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BLE",
-        "buttons",
-        "HEXIWEAR",
-        "KW40Z",
-        "bridge",
-        "I2C",
-        "SC16IS750",
-        "SC16IS752",
-        "SPI",
-        "UART"
+        "HD44780",
+        "TextLCD"
     ],
     "name": "DS1820",
     "platforms": "*",

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Giovanni Bruno",
+        "url": "https://os.mbed.com/users/gbr1mbed/"
+    },
+    "description": "Accelerometer library (simple)",
+    "examples": [
+        "https://os.mbed.com/users/gbr1mbed/code/Shake_the_maze/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "mBuino",
+        "MMA8453",
+        "retro"
+    ],
+    "name": "MMA8453",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gbr1mbed/code/MMA8453/"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Raphael Kwon",
+        "url": "https://os.mbed.com/users/xeon011/"
+    },
+    "description": "The Library of SNTP Client for W5500",
+    "examples": [
+        "https://os.mbed.com/users/xeon011/code/SNTP_Ethernet_W5500/",
+        "https://os.mbed.com/teams/WIZnet/code/SNTP_Ethernet_W5500/",
+        "https://os.mbed.com/users/nanjsk/code/SNTP_SHT15_WIZwizki-W7500/",
+        "https://os.mbed.com/users/sjallouli/code/Nucleo_SNTP_Ethernet_W5500/",
+        "https://os.mbed.com/users/nanjsk/code/SNTP_7SEG_WIZwiki_W7500/",
+        "https://os.mbed.com/users/nanjsk/code/SNTP_7SEG_W7500ECO/",
+        "https://os.mbed.com/users/justinkim/code/PetfeederWebServer_v02/",
+        "https://os.mbed.com/teams/IOP/code/PetfeederWebServer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "NTP",
+        "SNTP",
+        "W5500",
+        "Wiznet",
+        "ADS7843",
+        "TouchPanel",
+        "XPT2046",
+        "C12832",
+        "C12832A1Z",
+        "MBED Application Board"
+    ],
+    "name": "SNTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/xeon011/code/SNTPClient/"
+    }
+}

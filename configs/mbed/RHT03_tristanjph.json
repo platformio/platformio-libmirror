@@ -18,8 +18,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "command",
-        "Servo",
+        "ADT7410",
         "Humidity",
         "I2C",
         "sht11",
@@ -27,8 +26,6 @@
         "SHT71",
         "SHT75",
         "Temperature",
-        "GPS",
-        "parse",
         "DHT22",
         "RHT03"
     ],

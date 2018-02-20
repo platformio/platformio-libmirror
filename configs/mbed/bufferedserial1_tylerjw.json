@@ -11,14 +11,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "SHT21",
+        "Altimeter",
+        "MS5607",
+        "pressure",
+        "Temperature",
         "rtos",
         "Serial",
-        "UART",
-        "IEEE",
-        "mbed",
-        "micromouse",
-        "UCLA",
-        "HX711"
+        "UART"
     ],
     "name": "buffered-serial1",
     "platforms": "*",

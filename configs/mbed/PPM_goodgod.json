@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "good god",
+        "url": "https://os.mbed.com/users/goodgod/"
+    },
+    "description": "Just a simple PPM out library",
+    "frameworks": "mbed",
+    "keywords": [
+        "output",
+        "PPM",
+        "PPMout",
+        "fault",
+        "injector",
+        "api",
+        "https",
+        "OAuth",
+        "salesforce.com",
+        "token",
+        "mbed myoware",
+        "muscle sensor",
+        "myoware"
+    ],
+    "name": "PPM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/goodgod/code/PPM/"
+    }
+}

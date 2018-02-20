@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Junichi Katsu",
+        "url": "https://os.mbed.com/users/mbed_Cookbook_SE/"
+    },
+    "description": "8x8ドットマトリクスLED用のドライバ",
+    "frameworks": "mbed",
+    "keywords": "LedMatrix8x8Driver",
+    "name": "LedMatrix8x8Driver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbed_Cookbook_SE/code/LedMatrix8x8Driver/"
+    }
+}

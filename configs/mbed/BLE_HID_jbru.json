@@ -14,7 +14,9 @@
         "BLE",
         "BLE_API",
         "HID",
-        "HID-over-Gatt"
+        "HID-over-Gatt",
+        "ESP8266",
+        "NodeMCU"
     ],
     "name": "BLE_HID",
     "platforms": "*",

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Aleksandr Koptevtsov",
+        "url": "https://os.mbed.com/users/tifo/"
+    },
+    "description": "reading internal temperature sensor of arch max and storing data",
+    "frameworks": "mbed",
+    "keywords": [
+        "Arch Max",
+        "sensor",
+        "STM32F4",
+        "Temperature"
+    ],
+    "name": "arch_temp_stack",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tifo/code/arch_temp_stack/"
+    }
+}

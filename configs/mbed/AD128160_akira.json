@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Gingax x",
+        "url": "https://os.mbed.com/users/akira/"
+    },
+    "description": "AD128160",
+    "frameworks": "mbed",
+    "keywords": [
+        "buzzer",
+        "pwm",
+        "tone",
+        "tune",
+        "adc",
+        "current",
+        "INA226",
+        "Instruments",
+        "monitor",
+        "Power",
+        "Texas",
+        "voltage",
+        "LM75B",
+        "PCT2075",
+        "sensor",
+        "Temperature",
+        "temperature sensor",
+        "interrupt",
+        "irq",
+        "KL25z",
+        "NVIC",
+        "priority"
+    ],
+    "name": "AD128160",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/akira/code/AD128160/"
+    }
+}

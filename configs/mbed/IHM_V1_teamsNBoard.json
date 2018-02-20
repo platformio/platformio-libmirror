@@ -1,0 +1,43 @@
+{
+    "authors": {
+        "name": "NBoard",
+        "url": "https://os.mbed.com/teams/NBoard/"
+    },
+    "description": "IHM NBoard",
+    "examples": [
+        "https://os.mbed.com/teams/NBoard/code/NBoard_IHM_V1/",
+        "https://os.mbed.com/teams/CRAC-Team/code/Nboard_test/",
+        "https://os.mbed.com/teams/NBoard/code/mbed-os-3-threads/",
+        "https://os.mbed.com/teams/NBoard/code/mbed-os-isr-semaphore/",
+        "https://os.mbed.com/teams/NBoard/code/mbed-os-q-32-bits-tx-rx/",
+        "https://os.mbed.com/teams/NBoard/code/mbed-os-mutex/",
+        "https://os.mbed.com/teams/NBoard/code/mbed-os-mail-5-Bytes-tx-rx/",
+        "https://os.mbed.com/teams/NBoard/code/mbed-os-signals/",
+        "https://os.mbed.com/teams/NBoard/code/mbed-os-periodic-task/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "JPEG",
+        "LS-Y201",
+        "display",
+        "graphic",
+        "LCD",
+        "QVGA",
+        "RA8875",
+        "TFT",
+        "Touch Screen",
+        "WQVGA",
+        "WVGA",
+        "JSON",
+        "algebra",
+        "Kinematics",
+        "Linear",
+        "matrix"
+    ],
+    "name": "IHM_V1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NBoard/code/IHM_V1/"
+    }
+}

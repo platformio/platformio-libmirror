@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Taijun Kozarashi",
+        "url": "https://os.mbed.com/users/stepJun/"
+    },
+    "description": "ok",
+    "frameworks": "mbed",
+    "keywords": [
+        "buffer",
+        "debug",
+        "debugging",
+        "informative",
+        "logger",
+        "logging",
+        "Save",
+        "stashing",
+        "accelerometer",
+        "I2C",
+        "Kionix",
+        "free",
+        "malloc",
+        "memory",
+        "Oscilloscope",
+        "RAM",
+        "scope"
+    ],
+    "name": "myBMP085",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/stepJun/code/myBMP085/"
+    }
+}

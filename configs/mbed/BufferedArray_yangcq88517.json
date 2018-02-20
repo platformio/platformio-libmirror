@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "CHENGQI YANG",
+        "url": "https://os.mbed.com/users/yangcq88517/"
+    },
+    "description": "unsigned char array",
+    "examples": [
+        "https://os.mbed.com/users/yangcq88517/code/MGC3130/",
+        "https://os.mbed.com/users/yangcq88517/code/SmartLabXBeeCore/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "array",
+        "Buffered",
+        "Char"
+    ],
+    "name": "BufferedArray",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yangcq88517/code/BufferedArray/"
+    }
+}

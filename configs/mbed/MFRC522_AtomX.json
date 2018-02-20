@@ -18,16 +18,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "OLED",
-        "SSD1308",
-        "xbee",
-        "XBEE pro",
-        "zigbee",
-        "24LCxx",
-        "EEPROM",
-        "Microchip",
-        "Serial"
+        "LPC4088",
+        "Lora",
+        "Semtech",
+        "SX1276",
+        "SX1276Lib",
+        "SX1276MB1xAS"
     ],
     "name": "MFRC522",
     "platforms": "*",

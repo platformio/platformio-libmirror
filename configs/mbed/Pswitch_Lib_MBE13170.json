@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Kero Sunutte",
+        "url": "https://os.mbed.com/users/MBE13170/"
+    },
+    "description": "This is a very tiny library which counts DigitalIn rising , using \"Ticker\" interrupts.",
+    "examples": [
+        "https://os.mbed.com/users/nanaju/code/mgnetswitch2-NaoKondo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DigitalIn",
+    "name": "Pswitch_Lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MBE13170/code/Pswitch_Lib/"
+    }
+}

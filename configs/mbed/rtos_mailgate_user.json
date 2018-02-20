@@ -6,18 +6,9 @@
     "description": "rtos",
     "frameworks": "mbed",
     "keywords": [
-        "gauge",
-        "rain",
-        "Speed",
-        "vane",
-        "wind",
-        "asynchronous",
-        "Buffered",
-        "FIFO",
-        "Non blocking",
-        "ring buffer",
-        "Serial",
-        "UART"
+        "DISCO_F429ZI",
+        "LCD",
+        "Touch Screen"
     ],
     "name": "rtos",
     "platforms": "*",

@@ -18,23 +18,30 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DMA",
-        "rtos",
-        "SPI",
+        "mbed",
         "CommandProcessor",
         "Embedded",
         "interactive",
         "menu",
-        "bt",
-        "UART"
+        "AM2321",
+        "Humidity",
+        "I2C",
+        "sensor",
+        "Temperature",
+        "DMA",
+        "rtos",
+        "SPI",
+        "AT45DB081D",
+        "AT45DB161D",
+        "AT45DB321D",
+        "EEPROM",
+        "flash",
+        "memory"
     ],
     "name": "RTOS_SPI",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/Sissors/code/RTOS_SPI/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/Sissors/code/RTOS_SPI/"
     }
 }

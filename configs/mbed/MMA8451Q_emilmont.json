@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Emilio Monti",
+        "url": "https://os.mbed.com/users/emilmont/"
+    },
+    "description": "samux MMA8451Q accelerometer library",
+    "examples": [
+        "https://os.mbed.com/users/User_4574/code/AirMouse/",
+        "https://os.mbed.com/users/COX/code/FRDM_LCD4884/",
+        "https://os.mbed.com/users/zenglingxuan/code/TextLCD_HelloWorld/",
+        "https://os.mbed.com/users/mfed1/code/FRDM_MMA8451Q/",
+        "https://os.mbed.com/users/codeman/code/ezLCDTest/",
+        "https://os.mbed.com/users/vsluiter/code/AccelerometerLedTsiDemo/",
+        "https://os.mbed.com/users/bclaus/code/tugboat/",
+        "https://os.mbed.com/users/bclaus/code/tugboat2/",
+        "https://os.mbed.com/users/trisjph/code/Game_hand_test/",
+        "https://os.mbed.com/users/lonczy/code/USBKeyboard_VolumeControl/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MMA8451Q",
+    "name": "MMA8451Q",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/emilmont/code/MMA8451Q/"
+    }
+}

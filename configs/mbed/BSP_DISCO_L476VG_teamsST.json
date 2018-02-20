@@ -18,15 +18,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Agent",
-        "Net-SNMP",
-        "SNMP",
+        "BSP",
+        "DISCO_L476VG",
         "16 Bit A2D",
         "Differential A2D",
         "K64F",
-        "BSP",
-        "DISCO_L476VG",
-        "AQM1602"
+        "v1.0"
     ],
     "name": "BSP_DISCO_L476VG",
     "platforms": "*",

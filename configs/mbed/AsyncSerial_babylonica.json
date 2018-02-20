@@ -18,26 +18,25 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "gauge",
-        "rain",
-        "Speed",
-        "vane",
-        "wind",
+        "driver",
+        "Graphics",
+        "ILI9340",
+        "LCD",
+        "SPI",
+        "TFT",
         "asynchronous",
         "Buffered",
         "FIFO",
         "Non blocking",
         "ring buffer",
         "Serial",
-        "UART"
+        "UART",
+        "PS2"
     ],
     "name": "AsyncSerial",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/babylonica/code/AsyncSerial/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/babylonica/code/AsyncSerial/"
     }
 }

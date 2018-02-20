@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Uwe Gartmann",
+        "url": "https://os.mbed.com/users/Digixx/"
+    },
+    "description": "HMC5843 Library as part of the 9DOF stick from Sparkfun.com",
+    "frameworks": "mbed",
+    "keywords": [
+        "HMC5843",
+        "sparkfun",
+        "dot",
+        "HT1632",
+        "led",
+        "matrix",
+        "sure",
+        "accelerometer",
+        "BMC050",
+        "Bosch",
+        "Field",
+        "magnetic"
+    ],
+    "name": "HMC5843",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Digixx/code/HMC5843/"
+    }
+}

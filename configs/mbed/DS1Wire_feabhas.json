@@ -6,16 +6,10 @@
     "description": "DS1Wire simple Library",
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "RenBED",
-        "segment",
-        "Seven",
         "ARM",
         "DAY",
         "heartbeat",
-        "RIT",
-        "IMU",
-        "sensor"
+        "RIT"
     ],
     "name": "DS1Wire",
     "platforms": "*",

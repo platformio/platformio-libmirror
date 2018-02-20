@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "seiichi horie",
+        "url": "https://os.mbed.com/users/shorie/"
+    },
+    "description": "First Publish. Works fine.",
+    "examples": [
+        "https://os.mbed.com/users/shorie/code/unzen_sample_nucleo_f746/",
+        "https://os.mbed.com/users/GSMCustomEffects/code/unzen_delay_sample_nucleo_f746/",
+        "https://os.mbed.com/users/shorie/code/skeleton_unzen_nucleo_f746/",
+        "https://os.mbed.com/users/shorie/code/ifmag_noise_canceller/",
+        "https://os.mbed.com/users/shorie/code/synthesizer_f746/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "f746ZG",
+        "Nucleo",
+        "unzen"
+    ],
+    "name": "unzen_nucleo_f746",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shorie/code/unzen_nucleo_f746/"
+    }
+}

@@ -10,16 +10,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "application board",
-        "C12832",
+        "display",
+        "KS0107",
+        "KS0108",
+        "128x64",
         "LCD",
-        "mbed",
+        "ST7920",
         "graphic",
         "TFT",
         "touch",
-        "display",
-        "KS0107",
-        "KS0108"
+        "ST7565R"
     ],
     "name": "FT800",
     "platforms": "*",

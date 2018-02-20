@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Patrick Engelbert",
+        "url": "https://os.mbed.com/users/pe313imperial/"
+    },
+    "description": "API for ICRS 101 sessions to allow manual control of robots",
+    "frameworks": "mbed",
+    "keywords": [
+        "MQTT",
+        "ax12"
+    ],
+    "name": "ICRS_101_API",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pe313imperial/code/ICRS_101_API/"
+    }
+}

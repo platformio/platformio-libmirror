@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "OhmBoyZ_Capstone",
+        "url": "https://os.mbed.com/teams/OhmBoyZ_Capstone/"
+    },
+    "description": "Takes user input, outputs pwm to current control filter.",
+    "frameworks": "mbed",
+    "keywords": [
+        "fm",
+        "Radio",
+        "RDA5807M",
+        "RDS",
+        "LFSR",
+        "Linear Feedback Shift Register",
+        "Number Generator",
+        "Pseudo",
+        "Random"
+    ],
+    "name": "Current Controller",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/OhmBoyZ_Capstone/code/Current-Controller/"
+    }
+}

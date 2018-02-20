@@ -11,15 +11,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "maniacbug",
-        "nRF24L01",
-        "nRF24L01P",
-        "RF24",
         "BLDC",
         "driver",
-        "motor",
-        "i2c expander",
-        "MCP23017"
+        "motor"
     ],
     "name": "BLDCmotorDriver",
     "platforms": "*",

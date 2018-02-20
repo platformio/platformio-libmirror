@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Yoji KURODA",
+        "url": "https://os.mbed.com/users/ykuroda/"
+    },
+    "description": "BCD and RTC utility",
+    "frameworks": "mbed",
+    "keywords": [
+        "tcp/ip",
+        "WebSocket"
+    ],
+    "name": "bcdutil",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ykuroda/code/bcdutil/"
+    }
+}

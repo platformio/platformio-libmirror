@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Raffaello Bonghi",
+        "url": "https://os.mbed.com/users/Raffaello/"
+    },
+    "description": "Sigfox library with integration of ATParser",
+    "frameworks": "mbed",
+    "keywords": [
+        "ATParser",
+        "sigfox",
+        "HTTPServer"
+    ],
+    "name": "Sigfox",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Raffaello/code/Sigfox/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Vincent Donnefort",
+        "url": "https://os.mbed.com/users/garfunkheul/"
+    },
+    "description": "MC33926 is a H-Bridge from freescale.",
+    "frameworks": "mbed",
+    "keywords": [
+        "IOT",
+        "dc-motor",
+        "Freescale",
+        "hbridge",
+        "MC33926",
+        "motor"
+    ],
+    "name": "mc33926",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/garfunkheul/code/mc33926/"
+    }
+}

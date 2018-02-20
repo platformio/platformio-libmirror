@@ -21,28 +21,29 @@
         "https://os.mbed.com/teams/Robocon_IPS/code/RosSerial_Encoder/",
         "https://os.mbed.com/users/Jaimelt/code/rosserial_mbed_blink_led_subscriber/",
         "https://os.mbed.com/teams/Robocon_IPS/code/RosSerial_Encoder_final/",
-        "https://os.mbed.com/teams/UVic-Assistive-Technology-Lab/code/DSLR_Camera_Gimbal/"
+        "https://os.mbed.com/teams/UVic-Assistive-Technology-Lab/code/DSLR_Camera_Gimbal/",
+        "https://os.mbed.com/users/TuxLeon/code/DISCO-F746NG_rtos_test/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "2x40",
-        "40x2",
-        "HD44780",
-        "LCD",
-        "ST7066U",
-        "range",
-        "sensor",
-        "SRF08",
-        "AnalogIn",
-        "ROS"
+        "AES",
+        "MD2",
+        "md5",
+        "RC4",
+        "SHA",
+        "api",
+        "network",
+        "NSAPI",
+        "socket",
+        "ROS",
+        "Callback",
+        "FunctionPointer",
+        "Functor"
     ],
     "name": "ros_lib_kinetic",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/garyservin/code/ros_lib_kinetic/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/garyservin/code/ros_lib_kinetic/"
     }
 }

@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Hochschule München",
+        "url": "https://os.mbed.com/users/HMFK03LST1/"
+    },
+    "description": "imu01c",
+    "frameworks": "mbed",
+    "keywords": [
+        "Humidity",
+        "Sensirion",
+        "SHT7x",
+        "Temperature",
+        "arduino",
+        "compatible",
+        "due",
+        "multitasking",
+        "Scheduler",
+        "Analog",
+        "dipsw",
+        "Input",
+        "SW",
+        "tactsw"
+    ],
+    "name": "LSM303D_imu",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/HMFK03LST1/code/LSM303D_imu/"
+    }
+}

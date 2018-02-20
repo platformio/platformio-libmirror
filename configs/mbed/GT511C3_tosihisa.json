@@ -13,20 +13,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "watchdog timer",
+        "WDT",
         "fingerprint",
         "GT-511C3",
-        "GT-511C31",
-        "Buffered",
-        "MODSERIAL",
-        "Serial",
-        "Host",
-        "hub",
-        "keyboard",
-        "mbed",
-        "Mouse",
-        "MSD",
-        "rtos",
-        "USB"
+        "GT-511C31"
     ],
     "name": "GT511C3",
     "platforms": "*",

@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "Enter Low Power mode not to use sd_power_system_off() subroutine",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/BLE_EddystoneBeacon_w_ACC_TY51822/",
+        "https://os.mbed.com/users/kenjiArai/code/BLE_LoopbackUART_low_pwr_w_RTC1/",
+        "https://os.mbed.com/users/kenjiArai/code/BLE_Paired_Server/",
+        "https://os.mbed.com/users/kenjiArai/code/BLE_Paired_Client/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "OLED",
+        "Organic-LED",
+        "SO1602A",
+        "I2C",
+        "sensor",
+        "Temperature",
+        "low current",
+        "low power",
+        "nrf51",
+        "nRF51822",
+        "gyro"
+    ],
+    "name": "nRF51_LowPwr",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/nRF51_LowPwr/"
+    }
+}

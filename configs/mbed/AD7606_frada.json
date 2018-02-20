@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Francesco Adamo",
+        "url": "https://os.mbed.com/users/frada/"
+    },
+    "description": "AD7606 Library for mbed",
+    "examples": [
+        "https://os.mbed.com/users/frada/code/AD7606_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AD7606",
+        "SPI"
+    ],
+    "name": "AD7606",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/frada/code/AD7606/"
+    }
+}

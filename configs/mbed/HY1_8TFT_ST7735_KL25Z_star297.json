@@ -7,7 +7,12 @@
     "frameworks": "mbed",
     "keywords": [
         "HY-1.8",
-        "ST7735"
+        "ST7735",
+        "Altimeter",
+        "barometer",
+        "Humitity",
+        "I2C",
+        "Temparature"
     ],
     "name": "HY-1_8TFT_ST7735_KL25Z",
     "platforms": "*",

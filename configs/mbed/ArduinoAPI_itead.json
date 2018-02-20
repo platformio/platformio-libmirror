@@ -9,14 +9,7 @@
         "https://os.mbed.com/teams/uClimate/code/ESP8266_moj/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "nRF51-DK",
-        "RTC",
-        "time",
-        "accelerometer",
-        "compass",
-        "magnetometer"
-    ],
+    "keywords": "ArduinoAPI",
     "name": "ArduinoAPI",
     "platforms": "*",
     "repository": {

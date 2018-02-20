@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Steen Jørgensen",
+        "url": "https://os.mbed.com/users/stjo2809/"
+    },
+    "description": "16-Bit I/O Expander with Serial Interface (SPI)",
+    "examples": [
+        "https://os.mbed.com/users/mn147147/code/relaekort_til_motorstyring/",
+        "https://os.mbed.com/users/ryood/code/Nucleo_MCP23S17_Test/",
+        "https://os.mbed.com/teams/Marine-Electricals/code/POT_V_1_0/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MCP23S17",
+        "F042K6",
+        "F103RB",
+        "L152RE",
+        "STM32F0",
+        "STM32F1",
+        "STM32L1",
+        "USBDevice",
+        "ARCH",
+        "GPRS",
+        "Seeed",
+        "v2",
+        "DC",
+        "driver",
+        "H-bridge",
+        "motor"
+    ],
+    "name": "MCP23S17",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/stjo2809/code/MCP23S17/"
+    }
+}

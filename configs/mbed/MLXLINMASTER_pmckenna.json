@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Philip McKenna",
+        "url": "https://os.mbed.com/users/pmckenna/"
+    },
+    "description": "Contains functions to create Lin Master object that creates Uart connection to Melexis USB Lin Master. Allows sending/receiving data to/from the Melexis USB Lin Master",
+    "examples": [
+        "https://os.mbed.com/users/pmckenna/code/LinMaster/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LIN",
+        "master",
+        "Melexis",
+        "MLX",
+        "USB"
+    ],
+    "name": "MLXLINMASTER",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pmckenna/code/MLXLINMASTER/"
+    }
+}

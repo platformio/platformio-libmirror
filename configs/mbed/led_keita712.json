@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "keita tamura",
+        "url": "https://os.mbed.com/users/keita712/"
+    },
+    "description": "HelloWorld.h",
+    "frameworks": "mbed",
+    "keywords": [
+        "device",
+        "USB",
+        "fxas21002",
+        "gyroscope",
+        "I2C",
+        "MSS",
+        "MSU"
+    ],
+    "name": "led",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/keita712/code/led/"
+    }
+}

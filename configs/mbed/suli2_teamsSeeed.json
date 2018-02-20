@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Seeed",
+        "url": "https://os.mbed.com/teams/Seeed/"
+    },
+    "description": "seeed unified library interface",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C_EEPROM",
+        "ILI9225",
+        "LCD",
+        "SPI",
+        "led",
+        "https",
+        "mbedTLS",
+        "SSL"
+    ],
+    "name": "suli2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Seeed/code/suli2/"
+    }
+}

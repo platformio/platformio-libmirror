@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "3mdeb",
+        "url": "https://os.mbed.com/teams/3mdeb/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "MultiTech"
+            ],
+            "frameworks": "mbed",
+            "name": "libmDot-dev-mbed5"
+        }
+    ],
+    "description": "mdot-examples triage",
+    "frameworks": "mbed",
+    "keywords": [
+        "Capacitive",
+        "Input",
+        "sensor",
+        "touch",
+        "robot",
+        "Robotics",
+        "RT-component",
+        "RT-middleware",
+        "GoogleChart"
+    ],
+    "name": "mdot-examples",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/teams/3mdeb/code/mdot-examples/"
+    }
+}

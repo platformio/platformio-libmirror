@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Andy Kirkham",
+        "url": "https://os.mbed.com/users/AjK/"
+    },
+    "description": "Very simple cooperative round-robin task scheduler. See examples.",
+    "frameworks": "mbed",
+    "keywords": "Scheduler",
+    "name": "SimpleScheduler",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AjK/code/SimpleScheduler/"
+    }
+}

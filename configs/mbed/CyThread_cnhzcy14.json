@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Ye Cheng",
+        "url": "https://os.mbed.com/users/cnhzcy14/"
+    },
+    "description": "Simple Thread Class",
+    "frameworks": "mbed",
+    "keywords": [
+        "gmmp",
+        "IOT",
+        "SKTelecom",
+        "TCP",
+        "client",
+        "CoAP",
+        "protocol",
+        "server"
+    ],
+    "name": "CyThread",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cnhzcy14/code/CyThread/"
+    }
+}

@@ -6,11 +6,6 @@
     "description": "_Very_ simple wrapper to a WiFly module connected via serial port.",
     "frameworks": "mbed",
     "keywords": [
-        "HDC1000",
-        "DMA",
-        "rtos",
-        "SD",
-        "SDFileSystem",
         "WiFly",
         "FTP",
         "server"

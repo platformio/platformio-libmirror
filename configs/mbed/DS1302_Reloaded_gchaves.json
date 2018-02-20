@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Fabricio Emder",
+        "url": "https://os.mbed.com/users/gchaves/"
+    },
+    "description": "una pequeña modificacion en la libreria original DS1302 que hagrega una funcion ttime que devuelve los valores de la RTC de el formato struct tm",
+    "frameworks": "mbed",
+    "keywords": "ds1302",
+    "name": "DS1302_Reloaded",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gchaves/code/DS1302_Reloaded/"
+    }
+}

@@ -10,11 +10,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "OAuth",
-        "twitter",
         "90393",
         "MLX",
-        "mlx90393"
+        "mlx90393",
+        "arbitrary precision",
+        "bigint",
+        "bignum",
+        "HY-1.8",
+        "ST7735"
     ],
     "name": "MLX90393",
     "platforms": "*",

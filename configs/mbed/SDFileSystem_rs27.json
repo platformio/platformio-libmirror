@@ -6,9 +6,6 @@
     "description": "SDFileSystem",
     "frameworks": "mbed",
     "keywords": [
-        "dal",
-        "lancaster",
-        "Microbit",
         "DISCO_F746NG",
         "LCD",
         "Serial",
@@ -22,14 +19,7 @@
         "no",
         "Pin",
         "pwm",
-        "Servo",
-        "I2C",
-        "wattbob",
-        "ethernet",
-        "power consumption",
-        "power control",
-        "power management",
-        "PowerControl"
+        "Servo"
     ],
     "name": "SDFileSystem",
     "platforms": "*",

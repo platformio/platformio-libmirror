@@ -14,11 +14,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "QEI",
-        "Quadrature encoder interface",
-        "Rotary Encoder",
-        "ethernet",
-        "HEJ",
+        "compass",
+        "HMC5883L",
         "api",
         "xbee",
         "zigbee",

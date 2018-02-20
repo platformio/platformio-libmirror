@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Wilfred LELIEVRE",
+        "url": "https://os.mbed.com/users/wilou94/"
+    },
+    "description": "4D System OLED display full library. (uOLED-96-G1)",
+    "frameworks": "mbed",
+    "keywords": "uOled96G1",
+    "name": "uOled96G1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wilou94/code/uOled96G1/"
+    }
+}

@@ -18,14 +18,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BLE",
-        "MIDI",
-        "ITG3200",
-        "sparkfun",
+        "SerialHalfDuplex",
         "motor",
         "Stepper",
         "unipolar",
-        "joystick"
+        "BLE",
+        "MIDI",
+        "ITG3200",
+        "sparkfun"
     ],
     "name": "ITG3200",
     "platforms": "*",

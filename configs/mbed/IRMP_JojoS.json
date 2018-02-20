@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Johannes Stratmann",
+        "url": "https://os.mbed.com/users/JojoS/"
+    },
+    "description": "First release of porting 'Infrared Multiprotocol' library from mikrocontroller.net",
+    "examples": [
+        "https://os.mbed.com/users/JojoS/code/IRMP_Receiver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "infrared",
+        "IR",
+        "Multiprotocol",
+        "NEC",
+        "RC5",
+        "RC6"
+    ],
+    "name": "IRMP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JojoS/code/IRMP/"
+    }
+}

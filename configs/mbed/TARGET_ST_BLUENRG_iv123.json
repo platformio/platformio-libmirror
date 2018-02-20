@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "iv123 lin",
+        "url": "https://os.mbed.com/users/iv123/"
+    },
+    "description": "ver:init",
+    "frameworks": "mbed",
+    "keywords": "BLE",
+    "name": "TARGET_ST_BLUENRG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/iv123/code/TARGET_ST_BLUENRG/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "steve daniels",
+        "url": "https://os.mbed.com/users/hex705/"
+    },
+    "description": "A simple library that I use for building mixed type messages between microcontrollers. Versions for processing and Arduino also exist -- but have not yet been tested with this library.",
+    "examples": [
+        "https://os.mbed.com/users/hex705/code/template_sd/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Glue",
+    "name": "Glue",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hex705/code/Glue/"
+    }
+}

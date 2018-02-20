@@ -8,19 +8,22 @@
         "https://os.mbed.com/users/mbed_tw_hoehoe/code/BLE_Wearable/",
         "https://os.mbed.com/users/mbed_tw_hoehoe/code/BLE_Pulse_HeartRate/",
         "https://os.mbed.com/users/vganti6/code/finalProject/",
-        "https://os.mbed.com/users/nprobably/code/PulseSense/"
+        "https://os.mbed.com/users/nprobably/code/PulseSense/",
+        "https://os.mbed.com/users/DuyLionTran/code/HealthCare_Graduation/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "clock",
-        "ds1302",
-        "real",
-        "RTC",
-        "time",
-        "compass",
-        "LSM303DLHC",
-        "magnetometer",
-        "sensors"
+        "buffer",
+        "I2C",
+        "interrupt",
+        "gpu",
+        "Graphics",
+        "LCD",
+        "module",
+        "smart",
+        "SMARTGPU",
+        "TFT",
+        "touch"
     ],
     "name": "PulseSensor",
     "platforms": "*",

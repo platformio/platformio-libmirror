@@ -16,11 +16,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "hbridge",
-        "motor",
-        "PwmOut",
+        "api",
+        "mode",
+        "xbee",
+        "zigbee",
+        "ESP-01",
+        "ESP8266",
         "email",
-        "SMTP"
+        "SMTP",
+        "finder",
+        "range",
+        "ultrasound",
+        "adc",
+        "SPI"
     ],
     "name": "SimpleSMTPClient",
     "platforms": "*",

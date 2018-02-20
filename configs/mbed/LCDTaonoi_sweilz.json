@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Liews Wuttipat",
+        "url": "https://os.mbed.com/users/sweilz/"
+    },
+    "description": "LCD For I2C",
+    "frameworks": "mbed",
+    "keywords": [
+        "Arduino mbed commands",
+        "HD44780 LCD text custom char 16X2"
+    ],
+    "name": "LCDTaonoi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sweilz/code/LCDTaonoi/"
+    }
+}

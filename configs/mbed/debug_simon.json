@@ -11,18 +11,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "buzzer",
-        "music",
-        "sound",
         "cloud",
         "firmware",
         "update",
-        "debug",
-        "1-wire",
-        "DALLAS",
-        "DS18B20",
-        "OneWire",
-        "thermometer"
+        "debug"
     ],
     "name": "debug",
     "platforms": "*",

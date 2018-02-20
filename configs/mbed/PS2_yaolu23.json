@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Yao Lu",
+        "url": "https://os.mbed.com/users/yaolu23/"
+    },
+    "description": "PS2 keyboard",
+    "examples": [
+        "https://os.mbed.com/users/yaolu23/code/uVGAII_WebBrowser/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "2.8",
+        "Adafruit",
+        "FRDM-KL25Z",
+        "TFT",
+        "FRDM-K20D50"
+    ],
+    "name": "PS2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yaolu23/code/PS2/"
+    }
+}

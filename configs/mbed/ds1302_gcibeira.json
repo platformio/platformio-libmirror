@@ -10,11 +10,7 @@
         "ds1302",
         "real",
         "RTC",
-        "time",
-        "compass",
-        "LSM303DLHC",
-        "magnetometer",
-        "sensors"
+        "time"
     ],
     "name": "ds1302",
     "platforms": "*",

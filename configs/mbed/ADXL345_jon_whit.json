@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Jonathan Whitaker",
+        "url": "https://os.mbed.com/users/jon_whit/"
+    },
+    "description": "A C++ mbed library for the ADXL345 accelerometer.",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "ADXL345",
+        "C++",
+        "mbed"
+    ],
+    "name": "ADXL345",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jon_whit/code/ADXL345/"
+    }
+}

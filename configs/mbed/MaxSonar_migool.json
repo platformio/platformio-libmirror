@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Miguel Rogel",
+        "url": "https://os.mbed.com/users/migool/"
+    },
+    "description": "Libreria para usar sensor MaxSonar EZ01 con PulseWidth",
+    "examples": [
+        "https://os.mbed.com/users/migool/code/sensorPulse/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "migool",
+    "name": "MaxSonar",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/migool/code/MaxSonar/"
+    }
+}

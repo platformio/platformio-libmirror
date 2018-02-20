@@ -9,14 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "128x64",
-        "I2C",
-        "OLED",
-        "SSD1306",
         "NET",
         "network",
         "stream",
-        "TCP"
+        "TCP",
+        "Agent",
+        "Net-SNMP",
+        "SNMP"
     ],
     "name": "TcpLineStream",
     "platforms": "*",

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "irsan julfikar",
+        "url": "https://os.mbed.com/users/irsanjul/"
+    },
+    "description": "Library for MPC3424, it's my prototype library. work good.",
+    "examples": [
+        "https://os.mbed.com/teams/SMART-KATODIK/code/04_PGN_TR_00000002/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LPC1768",
+        "MPC3424"
+    ],
+    "name": "MPC3424",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/irsanjul/code/MPC3424/"
+    }
+}

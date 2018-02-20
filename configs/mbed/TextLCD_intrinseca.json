@@ -18,7 +18,9 @@
         "OBD",
         "obd2",
         "obdII",
-        "reader"
+        "reader",
+        "adc",
+        "HX711"
     ],
     "name": "TextLCD",
     "platforms": "*",

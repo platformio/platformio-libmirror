@@ -11,8 +11,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "L3GD20",
-        "scp1000"
+        "scp1000",
+        "energy harvesting",
+        "mobile robot",
+        "max31855",
+        "MAX6675",
+        "Thermocouple"
     ],
     "name": "SCP1000",
     "platforms": "*",

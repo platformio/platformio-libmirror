@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Angel David Yaguana Hernandez",
+        "url": "https://os.mbed.com/users/sherckuith/"
+    },
+    "description": "library",
+    "examples": [
+        "https://os.mbed.com/users/sherckuith/code/USB_CDC_MSD_Hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "gmmp",
+        "IOT",
+        "SKTelecom",
+        "TCP",
+        "client",
+        "CoAP",
+        "protocol",
+        "server"
+    ],
+    "name": "USBDevice2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sherckuith/code/USBDevice2/"
+    }
+}

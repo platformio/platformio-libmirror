@@ -15,15 +15,7 @@
         "MPU-6050",
         "MPU6050",
         "MPU60x0",
-        "MPU9150",
-        "led",
-        "multiplexing",
-        "pwm",
-        "tlc5940",
-        "maxsonar",
-        "range",
-        "RangeFinder",
-        "sonar"
+        "MPU9150"
     ],
     "name": "Menu",
     "platforms": "*",

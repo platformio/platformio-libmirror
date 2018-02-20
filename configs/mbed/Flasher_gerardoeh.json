@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Gerardo Espinoza",
+        "url": "https://os.mbed.com/users/gerardoeh/"
+    },
+    "description": "Basic Library to Flash LEDs =)",
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_L476VG",
+        "N25Q128A",
+        "QSPI",
+        "basic",
+        "flash",
+        "Flasher",
+        "fun",
+        "led",
+        "rgb"
+    ],
+    "name": "Flasher",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gerardoeh/code/Flasher/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Akinori Hashimoto",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/"
+    },
+    "description": "Simple Network Time Protocol Client.",
+    "frameworks": "mbed",
+    "keywords": [
+        "DS18B20",
+        "client",
+        "SimpleNTP",
+        "SNTP",
+        "IEEE488",
+        "SCPI"
+    ],
+    "name": "SimpleNTP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/SimpleNTP/"
+    }
+}

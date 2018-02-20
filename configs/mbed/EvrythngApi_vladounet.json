@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Evry Thng",
+        "url": "https://os.mbed.com/users/vladounet/"
+    },
+    "description": "Api wrapper to communicate with EVRYTHNG's Engine.",
+    "examples": [
+        "https://os.mbed.com/users/vladounet/code/EvrythngApiExample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "evrythng",
+        "inverse kinematics",
+        "mearm",
+        "robotic arm",
+        "servo motor"
+    ],
+    "name": "EvrythngApi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vladounet/code/EvrythngApi/"
+    }
+}

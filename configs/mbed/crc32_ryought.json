@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Ryo Nakabayashi",
+        "url": "https://os.mbed.com/users/ryought/"
+    },
+    "description": "calc crc32 of char",
+    "frameworks": "mbed",
+    "keywords": [
+        "http",
+        "proxy",
+        "camera",
+        "JPEG",
+        "OV528",
+        "uCAM TTL120",
+        "debug",
+        "SPI",
+        "control",
+        "interrupt",
+        "motor",
+        "pwm",
+        "ramps"
+    ],
+    "name": "crc32",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ryought/code/crc32/"
+    }
+}

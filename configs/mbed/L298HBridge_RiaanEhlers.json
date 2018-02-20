@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Riaan Ehlers",
+        "url": "https://os.mbed.com/users/RiaanEhlers/"
+    },
+    "description": "Class library for a L298 H-Bridge to be used for motor control.",
+    "frameworks": "mbed",
+    "keywords": "L298HBridge",
+    "name": "L298HBridge",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RiaanEhlers/code/L298HBridge/"
+    }
+}

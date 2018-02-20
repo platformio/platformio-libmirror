@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "NEC Near Field Communication RF module library for mbed",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/NECnfc_sample/",
+        "https://os.mbed.com/users/okini3939/code/Drone_air/",
+        "https://os.mbed.com/users/okini3939/code/Drone_ground/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ACM1602NI",
+        "f401",
+        "I2C",
+        "LCD",
+        "Nucleo",
+        "UIT",
+        "2.4GHz",
+        "920MHz",
+        "950MHz",
+        "NEC",
+        "NFC",
+        "AM2320",
+        "1-wire",
+        "DALLAS",
+        "Maxim",
+        "OneWire"
+    ],
+    "name": "NECnfc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/NECnfc/"
+    }
+}

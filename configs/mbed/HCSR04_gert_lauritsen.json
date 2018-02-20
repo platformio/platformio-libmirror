@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Gert Lauritsen",
+        "url": "https://os.mbed.com/users/gert_lauritsen/"
+    },
+    "description": "A library for the HCSR04 sensor. work with interrupt",
+    "examples": [
+        "https://os.mbed.com/users/gert_lauritsen/code/AdrianLysShow/",
+        "https://os.mbed.com/users/arno3456/code/AdrianLysShow/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "distance",
+        "HCSR04",
+        "sensor",
+        "4D",
+        "96",
+        "inch",
+        "LCD",
+        "micro",
+        "OLED",
+        "uOLED",
+        "DS18B20",
+        "DS2450",
+        "MAX31850",
+        "Thermocouple",
+        "current",
+        "I2C",
+        "INA219",
+        "T.I."
+    ],
+    "name": "HCSR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gert_lauritsen/code/HCSR04/"
+    }
+}

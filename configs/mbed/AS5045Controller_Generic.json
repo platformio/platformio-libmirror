@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Cornelius Bezuidenhout",
+        "url": "https://os.mbed.com/users/Generic/"
+    },
+    "description": "A library for the AMS AS5045 magnetic encoder using the SPI interface",
+    "frameworks": "mbed",
+    "keywords": [
+        "AMS",
+        "AS5045",
+        "SPI"
+    ],
+    "name": "AS5045Controller",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Generic/code/AS5045Controller/"
+    }
+}

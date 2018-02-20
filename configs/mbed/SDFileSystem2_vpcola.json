@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Vergil Cola",
+        "url": "https://os.mbed.com/users/vpcola/"
+    },
+    "description": "A fork of the original SDFileSystem, added only stat() for getting file information.",
+    "examples": [
+        "https://os.mbed.com/users/vpcola/code/FRDM_K64F_IOT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FRDM-K22F",
+        "fxos8700cq",
+        "nRF2401A",
+        "ALS",
+        "ambient light sensor",
+        "I2C",
+        "ISL29125",
+        "rgb"
+    ],
+    "name": "SDFileSystem2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vpcola/code/SDFileSystem2/"
+    }
+}

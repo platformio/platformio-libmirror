@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Dwayne Dilbeck",
+        "url": "https://os.mbed.com/users/jakowisp/"
+    },
+    "description": "Library to allo USB PTP device to be hosted by the mbed platform",
+    "examples": [
+        "https://os.mbed.com/users/jakowisp/code/class_project_main/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "median",
+        "sliding",
+        "window",
+        "Host",
+        "mbed",
+        "PTP",
+        "USB"
+    ],
+    "name": "USBHostPTP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jakowisp/code/USBHostPTP/"
+    }
+}

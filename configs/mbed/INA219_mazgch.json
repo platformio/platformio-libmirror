@@ -11,8 +11,10 @@
         "INA219",
         "Power",
         "voltage",
-        "control",
-        "PID"
+        "duty cycle",
+        "measurement",
+        "pwm",
+        "timer2"
     ],
     "name": "INA219",
     "platforms": "*",

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "decarvalho adelino",
+        "url": "https://os.mbed.com/users/adelino/"
+    },
+    "description": "Library for 3.2'' uLcd Picaso Display4D system",
+    "frameworks": "mbed",
+    "keywords": [
+        "4D system",
+        "LCD",
+        "Picaso",
+        "CAN",
+        "Queue",
+        "Freescale",
+        "mbed"
+    ],
+    "name": "PicasoLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/adelino/code/PicasoLib/"
+    }
+}

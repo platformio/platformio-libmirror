@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "TVZ Mechatronics Team",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/"
+    },
+    "description": "PURS ZI 008",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCDC",
+        "S1D13781",
+        "shield",
+        "TFT",
+        "D6F-PH",
+        "pressure",
+        "Australia",
+        "Lora",
+        "LoRaWAN"
+    ],
+    "name": "Sviraj",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/Sviraj/"
+    }
+}

@@ -15,7 +15,10 @@
         "I2C",
         "K64F",
         "KL25z",
-        "Temperature"
+        "Temperature",
+        "LCD",
+        "Scroll",
+        "TextLCD"
     ],
     "name": "htu21d",
     "platforms": "*",

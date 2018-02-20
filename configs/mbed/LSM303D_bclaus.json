@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "brian claus",
+        "url": "https://os.mbed.com/users/bclaus/"
+    },
+    "description": "Port of LSM303DLHC with modified registers to work with LSM303D",
+    "frameworks": "mbed",
+    "keywords": [
+        "LSM303D",
+        "bitmap",
+        "Graphics",
+        "LCD"
+    ],
+    "name": "LSM303D",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bclaus/code/LSM303D/"
+    }
+}

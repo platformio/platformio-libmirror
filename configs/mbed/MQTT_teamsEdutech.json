@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Edutech IoT Team",
+        "url": "https://os.mbed.com/teams/Edutech/"
+    },
+    "description": "MQTT client for mbed",
+    "frameworks": "mbed",
+    "keywords": [
+        "MQTT",
+        "1.0.3",
+        "cube",
+        "led"
+    ],
+    "name": "MQTT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Edutech/code/MQTT/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Koen Groener",
+        "url": "https://os.mbed.com/users/koengroener/"
+    },
+    "description": "LED bus driver on any GPIO pin for addressable RGB LEDs (like NeoPixels or other WS2812 based LEDs)",
+    "frameworks": "mbed",
+    "keywords": [
+        "JSON",
+        "Addressable",
+        "led",
+        "NeoPixel",
+        "rgb",
+        "WS2812",
+        "Servo"
+    ],
+    "name": "LEDBus",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/koengroener/code/LEDBus/"
+    }
+}

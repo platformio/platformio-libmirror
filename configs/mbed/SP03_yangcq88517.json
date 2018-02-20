@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "CHENGQI YANG",
+        "url": "https://os.mbed.com/users/yangcq88517/"
+    },
+    "description": "SP03 Text to Speech Synthesizer",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "SP03",
+        "speech"
+    ],
+    "name": "SP03",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yangcq88517/code/SP03/"
+    }
+}

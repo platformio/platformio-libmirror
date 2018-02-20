@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Matt Clement",
+        "url": "https://os.mbed.com/users/buckeyes1997/"
+    },
+    "description": "This library is an attempt to encapsulate the Pololu motor board.",
+    "frameworks": "mbed",
+    "keywords": [
+        "consumption",
+        "control",
+        "ethernet",
+        "Management",
+        "Power",
+        "PowerControl"
+    ],
+    "name": "PololuMotorBoard",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/buckeyes1997/code/PololuMotorBoard/"
+    }
+}

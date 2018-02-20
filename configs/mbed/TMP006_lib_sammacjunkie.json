@@ -12,16 +12,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "hotboards",
-        "SPI",
-        "ds1302",
-        "RTC",
-        "TMP006",
-        "I2C",
-        "Luminosity",
-        "Lux",
-        "sensor"
+        "BMP180",
+        "DTH11",
+        "DTH22",
+        "RHT03",
+        "TMP006"
     ],
     "name": "TMP006_lib",
     "platforms": "*",

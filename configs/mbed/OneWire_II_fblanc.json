@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "frederic blanc",
+        "url": "https://os.mbed.com/users/fblanc/"
+    },
+    "description": "MAX31850, DS18B20, DS2450, thermocouple",
+    "frameworks": "mbed",
+    "keywords": [
+        "distance",
+        "HCSR04",
+        "sensor",
+        "4D",
+        "96",
+        "inch",
+        "LCD",
+        "micro",
+        "OLED",
+        "uOLED",
+        "DS18B20",
+        "DS2450",
+        "MAX31850",
+        "Thermocouple",
+        "current",
+        "I2C",
+        "INA219",
+        "T.I."
+    ],
+    "name": "OneWire_II",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fblanc/code/OneWire_II/"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Semtech",
+        "url": "https://os.mbed.com/teams/Semtech/"
+    },
+    "description": "Driver for the SX1280 RF Transceiver",
+    "examples": [
+        "https://os.mbed.com/teams/Semtech/code/SX1280PingPong/",
+        "https://os.mbed.com/teams/Semtech/code/SX1280DevKit/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "audio",
+        "mp3",
+        "record",
+        "serial MP3",
+        "sound",
+        "vs1011",
+        "vs1011e",
+        "VS1053",
+        "wav"
+    ],
+    "name": "SX1280Lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Semtech/code/SX1280Lib/"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Embedded Artists",
+        "url": "https://os.mbed.com/teams/Embedded-Artists/"
+    },
+    "description": "A basic graphics package for the LPC4088 Display Module.",
+    "examples": [
+        "https://os.mbed.com/teams/Embedded-Artists/code/lpc4088_displaymodule_ew2015/",
+        "https://os.mbed.com/teams/Embedded-Artists/code/lpc4088_displaymodule_benchmark/",
+        "https://os.mbed.com/teams/Embedded-Artists/code/lpc4088_displaymodule_everything/",
+        "https://os.mbed.com/teams/Embedded-Artists/code/lpc4088_displaymodule_empty_launcher/",
+        "https://os.mbed.com/teams/Embedded-Artists/code/lpc4088_displaymodule_hello_world/",
+        "https://os.mbed.com/teams/Embedded-Artists/code/lpc4088_displaymodule_shipped_demo/",
+        "https://os.mbed.com/users/tecnosys/code/lpc4088_displaymodule_demo_sphere/",
+        "https://os.mbed.com/users/redbird/code/sampleGUI/",
+        "https://os.mbed.com/users/redbird/code/sampleEmptyGUI/",
+        "https://os.mbed.com/teams/Embedded-Artists/code/lpc4088_displaymodule_fs_aid/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "LPC4088",
+        "LPC4088DM",
+        "module",
+        "debouncing"
+    ],
+    "name": "DMBasicGUI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Embedded-Artists/code/DMBasicGUI/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "steven niu",
+        "url": "https://os.mbed.com/users/steniu01/"
+    },
+    "description": "mDMA implements DMA APIs for mbed. It is inspired by modDMA and simpleDMA.",
+    "examples": [
+        "https://os.mbed.com/users/steniu01/code/test_mDMA/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AT93C46",
+        "EEPROM",
+        "DMA",
+        "large data transfer",
+        "LLI"
+    ],
+    "name": "mDMA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/steniu01/code/mDMA/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Stefan Goeckeritz",
+        "url": "https://os.mbed.com/users/goeckeritz/"
+    },
+    "description": "This library gets information from TSL2550 ambient light sensor through SMBus / I²C.",
+    "frameworks": "mbed",
+    "keywords": [
+        "ambient",
+        "light",
+        "TSL2550"
+    ],
+    "name": "TSL2550",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/goeckeritz/code/TSL2550/"
+    }
+}

@@ -21,8 +21,16 @@
         "display",
         "Seeedstudio",
         "TFT",
-        "ESP-01",
-        "ESP8266"
+        "bluetooth",
+        "SDP",
+        "framework",
+        "modeling",
+        "multitasking",
+        "QM",
+        "qp",
+        "rtos",
+        "state-machine",
+        "uml"
     ],
     "name": "Encoder",
     "platforms": "*",

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "François Berder",
+        "url": "https://os.mbed.com/users/feb11/"
+    },
+    "description": "Random number generator",
+    "examples": [
+        "https://os.mbed.com/users/mikewebkist/code/mBuinoBlinky/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Nucleo",
+        "proximity sensor",
+        "stm32",
+        "X-NUCLEO-53L0A1",
+        "Random"
+    ],
+    "name": "RNG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/feb11/code/RNG/"
+    }
+}

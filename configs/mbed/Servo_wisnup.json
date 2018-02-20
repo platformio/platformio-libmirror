@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "wisnu pamungkas",
+        "url": "https://os.mbed.com/users/wisnup/"
+    },
+    "description": "servo",
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "socket",
+        "W5500",
+        "arduino",
+        "Gameduino",
+        "mbeduino"
+    ],
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wisnup/code/Servo/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "irsan julfikar",
+        "url": "https://os.mbed.com/users/irsanjul/"
+    },
+    "description": "my prototype PCF8563's library",
+    "frameworks": "mbed",
+    "keywords": [
+        "8563",
+        "LPC1768",
+        "PCF",
+        "PCF8563"
+    ],
+    "name": "PCF8563",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/irsanjul/code/PCF8563/"
+    }
+}

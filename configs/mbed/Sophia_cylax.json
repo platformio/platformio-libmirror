@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Robson Cardoso dos Santos",
+        "url": "https://os.mbed.com/users/cylax/"
+    },
+    "description": "Sophia, an autonomous robot based on Tamiya kits",
+    "frameworks": "mbed",
+    "keywords": [
+        "KL25z",
+        "Robotic"
+    ],
+    "name": "Sophia",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cylax/code/Sophia/"
+    }
+}

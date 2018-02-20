@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Mark Randall",
+        "url": "https://os.mbed.com/users/mr63/"
+    },
+    "description": "Simple library to use the TI ADC0848 with the MBED Ports Library. This Library can be used either in polling or interrupt modes.",
+    "frameworks": "mbed",
+    "keywords": "TI-ADC0848",
+    "name": "TI-ADC0848",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mr63/code/TI-ADC0848/"
+    }
+}

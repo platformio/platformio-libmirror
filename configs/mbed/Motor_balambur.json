@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Farkas Felix Attila",
+        "url": "https://os.mbed.com/users/balambur/"
+    },
+    "description": "Motor",
+    "examples": [
+        "https://os.mbed.com/users/probst/code/ServoLab/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "timer",
+        "Ton",
+        "wait",
+        "maestro",
+        "Serial",
+        "Servo",
+        "I2C",
+        "PCF8583",
+        "RTC",
+        "parallax",
+        "PING",
+        "ping)))",
+        "sensor",
+        "ultrasonic"
+    ],
+    "name": "Motor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/balambur/code/Motor/"
+    }
+}

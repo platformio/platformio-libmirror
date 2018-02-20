@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Wolfgang Praschk",
+        "url": "https://os.mbed.com/users/wolpra98/"
+    },
+    "description": "LCD-Library",
+    "examples": [
+        "https://os.mbed.com/users/Hevi/code/Projekt_Wecker_LCD/",
+        "https://os.mbed.com/users/KagerJ/code/Projekt_Wecker_LCD/",
+        "https://os.mbed.com/users/wolpra98/code/Projekt_Wecker_LCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LCD",
+    "name": "LCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wolpra98/code/LCD/"
+    }
+}

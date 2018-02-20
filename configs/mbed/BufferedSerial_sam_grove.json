@@ -26,23 +26,11 @@
         "https://os.mbed.com/users/kb10uy/code/NuFM402/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "buffer",
-        "BufferedSerial",
-        "BufferSerial",
-        "Serial",
-        "accelerometer",
-        "I2C",
-        "MMA7660",
-        "ADXL345"
-    ],
+    "keywords": "BufferedSerial",
     "name": "BufferedSerial",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/sam_grove/code/BufferedSerial/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/sam_grove/code/BufferedSerial/"
     }
 }

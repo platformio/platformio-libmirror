@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Grant Phillips",
+        "url": "https://os.mbed.com/users/grantphillips/"
+    },
+    "description": "Class library for using the true Random Number Generator on STM32F4xxx devices.",
+    "examples": [
+        "https://os.mbed.com/users/JovanEps/code/MCU-Benchmark-Sute/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MAX30102",
+        "ACM1602NI",
+        "I2C",
+        "LCD",
+        "Nucleo"
+    ],
+    "name": "STM32F4_RNG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/grantphillips/code/STM32F4_RNG/"
+    }
+}

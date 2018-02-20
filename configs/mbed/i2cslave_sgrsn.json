@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "hidaka sato",
+        "url": "https://os.mbed.com/users/sgrsn/"
+    },
+    "description": "Plese use this class with my \"i2cmaster\" class.",
+    "examples": [
+        "https://os.mbed.com/teams/robocon_2016/code/2016_slave_rorikon_2/",
+        "https://os.mbed.com/teams/robocon_2016/code/2016_slave_cylinder/",
+        "https://os.mbed.com/teams/robocon_2016/code/2016_slave_MD/",
+        "https://os.mbed.com/users/sgrsn/code/2016_slave_MD_rorikon/",
+        "https://os.mbed.com/teams/robocon_2016/code/2016_slave_MD_rorikon/",
+        "https://os.mbed.com/teams/robocon_2016/code/2016_slave_servo/",
+        "https://os.mbed.com/teams/robocon_2016/code/2016_slave_touch_photo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "I2C",
+    "name": "i2cslave",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sgrsn/code/i2cslave/"
+    }
+}

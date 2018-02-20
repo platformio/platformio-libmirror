@@ -6,15 +6,13 @@
     "description": "m3pi library with fixes for left and right motor specific functions and additional functionality like play",
     "frameworks": "mbed",
     "keywords": [
-        "gyroscope",
-        "I2C",
-        "l3g4200d",
-        "L3GD20",
-        "edge",
-        "level",
-        "SW",
-        "tact",
-        "Toggle"
+        "LMiC",
+        "Lora",
+        "LoRaWAN",
+        "INA226",
+        "AnalogOut",
+        "dac",
+        "SPI"
     ],
     "name": "m3pi",
     "platforms": "*",

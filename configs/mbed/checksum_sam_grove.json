@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Sam Grove",
+        "url": "https://os.mbed.com/users/sam_grove/"
+    },
+    "description": "Utility functions for working with data streams",
+    "frameworks": "mbed",
+    "keywords": [
+        "F401RE",
+        "L3GD20",
+        "Nucleo",
+        "checksum"
+    ],
+    "name": "checksum",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sam_grove/code/checksum/"
+    }
+}

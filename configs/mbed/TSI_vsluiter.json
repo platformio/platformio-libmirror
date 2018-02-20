@@ -18,11 +18,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "dal",
-        "lancaster",
-        "Microbit",
         "DISCO_F746NG",
         "LCD",
+        "cmsis",
+        "rtos",
+        "RTX",
         "Serial",
         "SoftwareSerial",
         "UART",
@@ -36,12 +36,7 @@
         "pwm",
         "Servo",
         "I2C",
-        "wattbob",
-        "ethernet",
-        "power consumption",
-        "power control",
-        "power management",
-        "PowerControl"
+        "wattbob"
     ],
     "name": "TSI",
     "platforms": "*",

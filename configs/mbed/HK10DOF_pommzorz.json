@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Aloïs Wolff",
+        "url": "https://os.mbed.com/users/pommzorz/"
+    },
+    "description": "mbed implementation of the FreeIMU IMU for HobbyKing's 10DOF board",
+    "examples": [
+        "https://os.mbed.com/users/pommzorz/code/testHK10DOF/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "10DOF",
+        "ADXL345",
+        "AHRS",
+        "BMP",
+        "dcm",
+        "FreeIMU",
+        "HMC5883L",
+        "Hobbyking",
+        "IMU",
+        "l3g4200d",
+        "quaternions"
+    ],
+    "name": "HK10DOF",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pommzorz/code/HK10DOF/"
+    }
+}

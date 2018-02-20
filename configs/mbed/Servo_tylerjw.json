@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Tyler Weaver",
+        "url": "https://os.mbed.com/users/tylerjw/"
+    },
+    "description": "Added max and min calibration",
+    "examples": [
+        "https://os.mbed.com/users/tylerjw/code/HARP_simple/",
+        "https://os.mbed.com/users/tylerjw/code/HARP/",
+        "https://os.mbed.com/users/tylerjw/code/HARP_localFileSystemTest/",
+        "https://os.mbed.com/users/tylerjw/code/Servo_Calibration_Test/",
+        "https://os.mbed.com/users/tylerjw/code/battery_endurance_test/",
+        "https://os.mbed.com/users/tylerjw/code/HARP2/",
+        "https://os.mbed.com/users/tylerjw/code/HARP3/",
+        "https://os.mbed.com/users/dan_cuspi/code/OMNi-Robot_no_borrar/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "LSM303DLHC",
+        "magnetometer",
+        "Temperature",
+        "Servo"
+    ],
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tylerjw/code/Servo/"
+    }
+}

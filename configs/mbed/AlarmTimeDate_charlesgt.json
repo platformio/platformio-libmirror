@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Charles Garcia-Tobin",
+        "url": "https://os.mbed.com/users/charlesgt/"
+    },
+    "description": "Alarm library for use with mbed.",
+    "frameworks": "mbed",
+    "keywords": [
+        "ADT7410",
+        "Analog Devices",
+        "I2C",
+        "sensor",
+        "Temperature",
+        "frequencies",
+        "guitar",
+        "tuner"
+    ],
+    "name": "AlarmTimeDate",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/charlesgt/code/AlarmTimeDate/"
+    }
+}

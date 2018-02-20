@@ -9,9 +9,13 @@
         "infrared",
         "IR",
         "transmit",
-        "LCD",
-        "Menus",
-        "TFT"
+        "APDS9960",
+        "avago",
+        "color",
+        "Gesture",
+        "I2C",
+        "proximity",
+        "sparkfun"
     ],
     "name": "TxIR",
     "platforms": "*",

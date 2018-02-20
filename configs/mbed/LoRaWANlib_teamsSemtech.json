@@ -18,6 +18,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "clock",
+        "f401",
+        "Nucleo",
         "Lora",
         "Semtech",
         "SX1272",
@@ -26,10 +29,7 @@
         "SX1276",
         "SX1276Lib",
         "SX1276MB1xAS",
-        "FRDM-K64F",
-        "fxos8700cq",
-        "led",
-        "rgb"
+        "USBHOST"
     ],
     "name": "LoRaWAN-lib",
     "platforms": "*",

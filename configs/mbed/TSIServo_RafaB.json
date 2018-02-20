@@ -6,8 +6,15 @@
     "description": "Libreria para manejo de Touchpad",
     "frameworks": "mbed",
     "keywords": [
-        "MPU-9250",
-        "touch"
+        "Sensirion",
+        "SHT21",
+        "touch",
+        "display",
+        "graphic",
+        "LCD",
+        "QVGA",
+        "TFT",
+        "L3GD20"
     ],
     "name": "TSIServo",
     "platforms": "*",

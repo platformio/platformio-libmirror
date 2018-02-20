@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "CAN message container. Defines \"<<\" and \">>\" operators to simplify adding/getting data to/from a CAN message.",
+    "examples": [
+        "https://os.mbed.com/users/hudakz/code/CAN_Hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CAN",
+        "can bus",
+        "CAN message"
+    ],
+    "name": "CANMsg",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/CANMsg/"
+    }
+}

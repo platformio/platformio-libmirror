@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Chau Vo",
+        "url": "https://os.mbed.com/users/olympux/"
+    },
+    "description": "Maniacbug RF24 on Nucleo STM32",
+    "frameworks": "mbed",
+    "keywords": [
+        "nRF24L01P",
+        "Nucelo",
+        "RF24",
+        "STM32F",
+        "VCNL4000",
+        "VCNL4010",
+        "VCNL4020",
+        "herkulex",
+        "Servo"
+    ],
+    "name": "RF24",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/olympux/code/RF24/"
+    }
+}

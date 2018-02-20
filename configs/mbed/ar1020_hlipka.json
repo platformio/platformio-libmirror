@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Hendrik Lipka",
+        "url": "https://os.mbed.com/users/hlipka/"
+    },
+    "description": "touch screen handler for the microchip AR1020",
+    "frameworks": "mbed",
+    "keywords": [
+        "ar1020",
+        "Microchip",
+        "screen",
+        "touch"
+    ],
+    "name": "ar1020",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hlipka/code/ar1020/"
+    }
+}

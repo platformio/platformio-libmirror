@@ -17,12 +17,7 @@
         "https://os.mbed.com/users/caaruizze/code/tarea2-3/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "debounce",
-        "DigitalIn",
-        "interrupt",
-        "keypad"
-    ],
+    "keywords": "DebounceIn",
     "name": "DebounceIn",
     "platforms": "*",
     "repository": {

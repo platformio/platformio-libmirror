@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Daniel Fernando Olarte Lezcano",
+        "url": "https://os.mbed.com/users/DanielOlarte/"
+    },
+    "description": "ADC",
+    "examples": [
+        "https://os.mbed.com/users/Digitalesavanzados/code/GloboMetereologico/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "buffer",
+        "FIFO",
+        "ring buffer",
+        "Serial",
+        "card",
+        "fatfilesystem",
+        "MMC",
+        "SD",
+        "SDHC",
+        "SDXC"
+    ],
+    "name": "ADC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DanielOlarte/code/ADC/"
+    }
+}

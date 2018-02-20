@@ -10,14 +10,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "modbus rtu",
+        "real time",
+        "rtos",
+        "serial protocol",
+        "Pachube",
         "accelerometer",
         "MMA8451",
         "MMA8452",
         "MMA8453",
         "MMA845x",
-        "Bluetooth module",
-        "hc-05",
-        "HC05"
+        "eeprom on flash",
+        "flash file system"
     ],
     "name": "MMA845x",
     "platforms": "*",

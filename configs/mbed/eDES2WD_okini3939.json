@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "DAISEN eDES",
+    "frameworks": "mbed",
+    "keywords": [
+        "L298",
+        "motorDC",
+        "2wd",
+        "car",
+        "daisen",
+        "edes",
+        "I2C",
+        "robot",
+        "color",
+        "F103RB",
+        "led",
+        "mbed",
+        "Nucleo",
+        "shield",
+        "ST",
+        "interpreter",
+        "Pawn",
+        "pwm"
+    ],
+    "name": "eDES2WD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/eDES2WD/"
+    }
+}

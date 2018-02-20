@@ -23,16 +23,16 @@
         "INA219",
         "Power",
         "voltage",
-        "control",
-        "PID"
+        "DISCO_F429ZI",
+        "gyroscope",
+        "DC Motor controller",
+        "h bridge",
+        "motor driver"
     ],
     "name": "KS0108_PCF8574",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/GuiTwo/code/KS0108_PCF8574/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/GuiTwo/code/KS0108_PCF8574/"
     }
 }

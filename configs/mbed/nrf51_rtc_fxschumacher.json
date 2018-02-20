@@ -19,10 +19,7 @@
     "keywords": [
         "nRF51-DK",
         "RTC",
-        "time",
-        "accelerometer",
-        "compass",
-        "magnetometer"
+        "time"
     ],
     "name": "nrf51_rtc",
     "platforms": "*",

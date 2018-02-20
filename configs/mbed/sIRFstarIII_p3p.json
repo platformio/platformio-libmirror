@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Chris Pepper",
+        "url": "https://os.mbed.com/users/p3p/"
+    },
+    "description": "An implementation of the Sirf Binary and NMEA Protocol for gps devices using the SiRFstarIII chipset",
+    "frameworks": "mbed",
+    "keywords": [
+        "binary",
+        "GPS",
+        "NMEA",
+        "protocol",
+        "sIRFstar3",
+        "sIRFstarIII",
+        "led",
+        "LED controller",
+        "led driver",
+        "PCA9955A",
+        "PCA9956A",
+        "PCA995xA"
+    ],
+    "name": "sIRFstarIII",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/p3p/code/sIRFstarIII/"
+    }
+}

@@ -17,20 +17,7 @@
         "https://os.mbed.com/users/okini3939/code/WeatherPlatform/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "HCSR04",
-        "Ranging",
-        "ultrasonic",
-        "1",
-        "2",
-        "digimesh",
-        "Series",
-        "Wi-Fi",
-        "xbee",
-        "zigbee",
-        "Config",
-        "file"
-    ],
+    "keywords": "ConfigFile",
     "name": "ConfigFile",
     "platforms": "*",
     "repository": {

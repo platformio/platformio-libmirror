@@ -18,14 +18,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "uLCD144",
         "fonts",
         "TFT",
         "kl46z",
         "LCD",
         "SLCD",
         "MQTT",
-        "MQTTClient"
+        "MQTTClient",
+        "dal",
+        "lancaster",
+        "Microbit",
+        "cmsis",
+        "rtos",
+        "RTX"
     ],
     "name": "TFT_fonts",
     "platforms": "*",

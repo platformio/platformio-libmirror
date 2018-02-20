@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Fernando Machado",
+        "url": "https://os.mbed.com/users/fernandomachado/"
+    },
+    "description": "Learning how to use RPC.",
+    "frameworks": "mbed",
+    "keywords": [
+        "daisy-chain",
+        "L6470",
+        "SPI",
+        "Stepper",
+        "7",
+        "display",
+        "segment"
+    ],
+    "name": "RPCInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fernandomachado/code/RPCInterface/"
+    }
+}

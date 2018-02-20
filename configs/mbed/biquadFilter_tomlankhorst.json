@@ -18,11 +18,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "QEI ロータリーエンコーダ 角度 angle",
         "biquad",
         "DSP",
-        "filter",
-        "GPGGA"
+        "filter"
     ],
     "name": "biquadFilter",
     "platforms": "*",

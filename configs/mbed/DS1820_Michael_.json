@@ -6,12 +6,14 @@
     "description": "Dallas / Maxim DS1820 1-Wire library. For communication with multiple DS1820 on a single 1-Wire bus. Also supports DS18S20 and DS18B20.",
     "frameworks": "mbed",
     "keywords": [
+        "m3pi",
+        "maze",
+        "music",
+        "sensors",
         "1-wire",
         "DS1820",
         "DS18B20",
-        "DS18S20",
-        "16x1",
-        "TextLCD"
+        "DS18S20"
     ],
     "name": "DS1820",
     "platforms": "*",

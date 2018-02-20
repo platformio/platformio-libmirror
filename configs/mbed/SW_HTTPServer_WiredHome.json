@@ -10,8 +10,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "dac",
-        "MCP4922",
+        "comparator",
+        "KL25z",
         "Dynamic",
         "ethernet",
         "http",
@@ -19,11 +19,7 @@
         "server",
         "static",
         "Web",
-        "WiFly",
-        "api",
-        "Digi",
-        "xbee",
-        "zigbee"
+        "WiFly"
     ],
     "name": "SW_HTTPServer",
     "platforms": "*",

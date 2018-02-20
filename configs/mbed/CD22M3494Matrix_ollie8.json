@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Ollie Milton",
+        "url": "https://os.mbed.com/users/ollie8/"
+    },
+    "description": "Driver for a CD22M3494 cross point switcher",
+    "frameworks": "mbed",
+    "keywords": [
+        "CD22M3494",
+        "switch matrix",
+        "switcher"
+    ],
+    "name": "CD22M3494Matrix",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ollie8/code/CD22M3494Matrix/"
+    }
+}

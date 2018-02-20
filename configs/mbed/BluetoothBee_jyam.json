@@ -14,13 +14,7 @@
         "UART",
         "WLS125E1P",
         "I2C",
-        "IO expander",
-        "accelerometer",
-        "gyroscope",
-        "MPU-6050",
-        "MPU6050",
-        "MPU60x0",
-        "MPU9150"
+        "LCD"
     ],
     "name": "BluetoothBee",
     "platforms": "*",

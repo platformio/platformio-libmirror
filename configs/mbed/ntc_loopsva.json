@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Kevin Braun",
+        "url": "https://os.mbed.com/users/loopsva/"
+    },
+    "description": "NTC temperature sensor going to A:D input. Topology is: (Vref or 3.3V) -> Series_resistor -> A:D_input -> NTC -> GND. Easy modification of NTC parameters w/o recompile of library",
+    "examples": [
+        "https://os.mbed.com/users/loopsva/code/ntc_helloworld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "A:D",
+        "NTC",
+        "Temperature"
+    ],
+    "name": "ntc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/loopsva/code/ntc/"
+    }
+}

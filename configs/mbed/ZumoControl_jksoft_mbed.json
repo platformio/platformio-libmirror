@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "j k",
+        "url": "https://os.mbed.com/users/jksoft_mbed/"
+    },
+    "description": "ZumoにFRDM KL-25Zを搭載した時のモーターコントロールライブラリです。",
+    "frameworks": "mbed",
+    "keywords": [
+        "PCA9629A",
+        "stepper motor",
+        "stepping motor",
+        "Low_Power",
+        "LPC1114",
+        "LPC1114FN28",
+        "KL-25Z",
+        "Zumo"
+    ],
+    "name": "ZumoControl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jksoft_mbed/code/ZumoControl/"
+    }
+}

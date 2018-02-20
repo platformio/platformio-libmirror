@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Dmitry Gerasimenko",
+        "url": "https://os.mbed.com/users/dgeras/"
+    },
+    "description": "Some fun with LED and a button",
+    "frameworks": "mbed",
+    "keywords": [
+        "autoconf",
+        "bonjour",
+        "DHCP",
+        "ethernet",
+        "HTTP server",
+        "HTTPServer",
+        "mdns",
+        "MiMic",
+        "Networking Libraries",
+        "SSDP",
+        "UPnP",
+        "webserver",
+        "MQTT",
+        "Essex",
+        "2",
+        "bus",
+        "CAN",
+        "II",
+        "OBD",
+        "obd2",
+        "obdII",
+        "reader"
+    ],
+    "name": "LEDtest",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dgeras/code/LEDtest/"
+    }
+}

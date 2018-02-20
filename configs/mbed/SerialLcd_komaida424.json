@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "syouichi imamori",
+        "url": "https://os.mbed.com/users/komaida424/"
+    },
+    "description": "sparkfun Compatible Serial LCD",
+    "frameworks": "mbed",
+    "keywords": [
+        "helping",
+        "libraries",
+        "pololu",
+        "robot",
+        "Utilities",
+        "Zumo",
+        "LCD",
+        "Serial",
+        "sparkfun",
+        "RTC"
+    ],
+    "name": "SerialLcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/komaida424/code/SerialLcd/"
+    }
+}

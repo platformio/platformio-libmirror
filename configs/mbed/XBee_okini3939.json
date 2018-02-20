@@ -18,9 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HCSR04",
-        "Ranging",
-        "ultrasonic",
         "1",
         "2",
         "digimesh",
@@ -28,6 +25,8 @@
         "Wi-Fi",
         "xbee",
         "zigbee",
+        "debounce",
+        "DigitalIn",
         "Config",
         "file"
     ],

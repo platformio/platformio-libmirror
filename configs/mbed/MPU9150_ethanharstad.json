@@ -18,18 +18,24 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "DMA",
+        "FRDM-KL25Z",
+        "led",
+        "WS2811",
+        "WS2812",
         "IMU",
         "MPU9150",
-        "pwm",
-        "PwmOut"
+        "audio",
+        "bwf",
+        "file",
+        "wav",
+        "wave",
+        "gyro"
     ],
     "name": "MPU9150",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/ethanharstad/code/MPU9150/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/ethanharstad/code/MPU9150/"
     }
 }

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Daiki Kato",
+        "url": "https://os.mbed.com/users/dkato/"
+    },
+    "description": "DiplayApp library",
+    "examples": [
+        "https://os.mbed.com/users/HinoNaka/code/mbed-os_Watson-IoT_ZXing_sample/",
+        "https://os.mbed.com/teams/Renesas/code/mbed-os_Watson-IoT_ZXing_sample/",
+        "https://os.mbed.com/teams/Renesas/code/GR-PEACH_mbed-os-client-ZXingSample/",
+        "https://os.mbed.com/users/dkato/code/GR-Boads_Camera_DisplayApp/",
+        "https://os.mbed.com/users/1050186/code/GR-LYCHEE_mbed-os-client-ZXingSample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DisplayApp",
+    "name": "DisplayApp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dkato/code/DisplayApp/"
+    }
+}

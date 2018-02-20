@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Joseph Ellsworth",
+        "url": "https://os.mbed.com/users/joeata2wh/"
+    },
+    "description": "Calculate temperature based on resistance from thermistor with lookup chart",
+    "frameworks": "mbed",
+    "keywords": [
+        "BSP_DISCO_F746NG",
+        "OV7670"
+    ],
+    "name": "temp-thermisterfor-ERT-J0",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/joeata2wh/code/temp-thermisterfor-ERT-J0/"
+    }
+}

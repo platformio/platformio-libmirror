@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Aster SmarTec",
+        "url": "https://os.mbed.com/users/astaff15/"
+    },
+    "description": "Fuzzy libray for embedded targets developed by zerokol.",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LCD",
+        "eFLL",
+        "fuzzy",
+        "logic",
+        "GPIO",
+        "master",
+        "Serial",
+        "SPI"
+    ],
+    "name": "eFLL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/astaff15/code/eFLL/"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Aloïs Wolff",
+        "url": "https://os.mbed.com/users/pommzorz/"
+    },
+    "description": "A quick adaptation of a library made for Arduino by Fabio Varesano",
+    "frameworks": "mbed",
+    "keywords": [
+        "card",
+        "fatfilesystem",
+        "MMC",
+        "SD",
+        "SDHC",
+        "SDXC",
+        "9DOF",
+        "AHRS",
+        "IMU",
+        "LSM9DS0",
+        "Madgwick",
+        "sparkfun",
+        "bglib",
+        "BLE",
+        "ble112",
+        "bluegiga",
+        "bluetooth-low-energy",
+        "UART",
+        "HMC5843",
+        "HMC5883L",
+        "HMC58X3",
+        "magnetometer"
+    ],
+    "name": "HMC58X3",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pommzorz/code/HMC58X3/"
+    }
+}

@@ -6,13 +6,16 @@
     "description": "CAN Headers.",
     "frameworks": "mbed",
     "keywords": [
-        "mp3",
-        "VS1033",
-        "VS1053",
-        "CAN",
+        "http",
+        "NET",
+        "network",
+        "webservice",
+        "xml",
         "FreeIMU",
         "IMU",
-        "MPU6050"
+        "MPU6050",
+        "CAN",
+        "mbed"
     ],
     "name": "CANProtocol",
     "platforms": "*",

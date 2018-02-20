@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Hendrik Lipka",
+        "url": "https://os.mbed.com/users/hlipka/"
+    },
+    "description": "Small library for defining string translations. Basically it stores key-values-pairs, and allows their retrieval. Needs the csv_parser library.",
+    "frameworks": "mbed",
+    "keywords": [
+        "localization",
+        "translation"
+    ],
+    "name": "Localization",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hlipka/code/Localization/"
+    }
+}

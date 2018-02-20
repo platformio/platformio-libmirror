@@ -6,10 +6,11 @@
     "description": "Read data from accel, gyro, and mag of gy80",
     "frameworks": "mbed",
     "keywords": [
-        "api",
-        "Digi",
-        "xbee",
-        "zigbee"
+        "minutes",
+        "seconds",
+        "stopwatch",
+        "timer",
+        "watch"
     ],
     "name": "GY80",
     "platforms": "*",

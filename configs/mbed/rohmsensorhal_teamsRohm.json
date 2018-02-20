@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Rohm",
+        "url": "https://os.mbed.com/teams/Rohm/"
+    },
+    "description": "Platform HAL for rohm sensor drivers. Used for abstracting Arduino/mbed os/mbed classic.",
+    "examples": [
+        "https://os.mbed.com/teams/Rohm/code/rohm-bm1383-hello-mbedclassic/",
+        "https://os.mbed.com/teams/Rohm/code/rohm-bh1726-hello/",
+        "https://os.mbed.com/teams/Rohm/code/rohm-rpr0521-hello/",
+        "https://os.mbed.com/teams/Rohm/code/rohm-bh1745-hello/",
+        "https://os.mbed.com/teams/Rohm/code/rohm-tileshield-6sensor-demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed",
+        "LM61",
+        "bitmask",
+        "circular_buffer",
+        "dataset",
+        "filter",
+        "filtering",
+        "mean",
+        "median",
+        "standard_deviation",
+        "Template",
+        "HAL",
+        "I2C"
+    ],
+    "name": "rohm-sensor-hal",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Rohm/code/rohm-sensor-hal/"
+    }
+}

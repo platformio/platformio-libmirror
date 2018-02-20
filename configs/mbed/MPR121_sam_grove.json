@@ -15,8 +15,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MPR121",
-        "Grove-I2C-Touch-Sensor"
+        "ACM1602NI",
+        "I2C",
+        "LCD",
+        "Nucleo",
+        "ADXL345",
+        "sparkfun",
+        "display",
+        "led",
+        "numeric",
+        "Seven-Segment",
+        "Capactitve touch sensor",
+        "mpr121",
+        "SEN-10250"
     ],
     "name": "MPR121",
     "platforms": "*",

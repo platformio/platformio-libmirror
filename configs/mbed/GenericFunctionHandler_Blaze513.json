@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Thomas Hamilton",
+        "url": "https://os.mbed.com/users/Blaze513/"
+    },
+    "description": "Class designed to store and invoke function pointers and method pointers",
+    "frameworks": "mbed",
+    "keywords": "FunctionPointer",
+    "name": "GenericFunctionHandler",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Blaze513/code/GenericFunctionHandler/"
+    }
+}

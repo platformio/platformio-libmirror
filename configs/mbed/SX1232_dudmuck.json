@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "wayne roberts",
+        "url": "https://os.mbed.com/users/dudmuck/"
+    },
+    "description": "driver for SX1232 transceiver",
+    "examples": [
+        "https://os.mbed.com/users/dudmuck/code/chat_sx1232/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FSK",
+        "Radio",
+        "wireless"
+    ],
+    "name": "SX1232",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dudmuck/code/SX1232/"
+    }
+}

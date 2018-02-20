@@ -9,12 +9,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "keyboard",
+        "current",
+        "I2C",
+        "INA219",
+        "Power",
+        "voltage",
+        "DISCO_F429ZI",
+        "gyroscope",
         "DC Motor controller",
         "h bridge",
-        "motor driver",
-        "control",
-        "PID"
+        "motor driver"
     ],
     "name": "DRV8833",
     "platforms": "*",

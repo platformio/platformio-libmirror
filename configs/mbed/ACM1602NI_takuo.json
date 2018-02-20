@@ -17,22 +17,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "fatfilesystem",
         "I2C",
         "LCD",
-        "calibration",
-        "clock",
-        "real",
-        "RTC",
-        "time",
-        "timezone",
-        "GPIO",
-        "Speed",
-        "CC3000",
-        "socket",
-        "TCP",
-        "UDP",
-        "wifi"
+        "fatfilesystem"
     ],
     "name": "ACM1602NI",
     "platforms": "*",

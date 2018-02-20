@@ -11,13 +11,10 @@
     "frameworks": "mbed",
     "keywords": [
         "touch",
-        "EEPROM",
-        "flash",
-        "stm32f10x",
-        "Radio",
-        "transceiver",
-        "NTP",
-        "SerialHalfDuplex"
+        "accelerometer",
+        "Grove",
+        "I2C",
+        "MMA7660FC"
     ],
     "name": "TouchADS7843",
     "platforms": "*",

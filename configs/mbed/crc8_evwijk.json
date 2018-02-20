@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Erik van Wijk",
+        "url": "https://os.mbed.com/users/evwijk/"
+    },
+    "description": "crc8 Library - Original copyright: Colin O'Flynn - Copyright (c) 2002",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "29bit",
+        "bus",
+        "CAN",
+        "canbus",
+        "general",
+        "gm",
+        "gmlan",
+        "motors",
+        "Analog",
+        "filter",
+        "Linear",
+        "mbed",
+        "median",
+        "samples",
+        "sensor",
+        "Temp",
+        "Temperature",
+        "voltage",
+        "crc8"
+    ],
+    "name": "crc8",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/evwijk/code/crc8/"
+    }
+}

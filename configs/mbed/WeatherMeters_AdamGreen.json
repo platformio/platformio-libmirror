@@ -1,0 +1,41 @@
+{
+    "authors": {
+        "name": "Adam Green",
+        "url": "https://os.mbed.com/users/AdamGreen/"
+    },
+    "description": "Library for interfacing to Sparkfun Weather Meters.",
+    "examples": [
+        "https://os.mbed.com/users/AdamGreen/code/WeatherStation/",
+        "https://os.mbed.com/users/dcoban/code/Deneme/",
+        "https://os.mbed.com/users/agrosmart/code/testgeneral/",
+        "https://os.mbed.com/users/fileark/code/Pubnub_ATT_IOT_SK_WNC_AnalogIn_Issue/",
+        "https://os.mbed.com/users/fileark/code/ATT_PubNub_IoT_Hackster/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "shell",
+        "VT100",
+        "6LowPan",
+        "nanostack",
+        "ST Nucleo",
+        "STM",
+        "stm32",
+        "Sub-Ghz RF",
+        "X-NUCLEO-IDS01A4",
+        "X-NUCLEO-IDS01A4celo",
+        "maniacbug",
+        "nRF24L01",
+        "nRF24L01P",
+        "RF24",
+        "RF24Network",
+        "meters",
+        "sparkfun",
+        "weather"
+    ],
+    "name": "WeatherMeters",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AdamGreen/code/WeatherMeters/"
+    }
+}

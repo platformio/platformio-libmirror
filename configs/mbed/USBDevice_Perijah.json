@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Emiel Estiévenart",
+        "url": "https://os.mbed.com/users/Perijah/"
+    },
+    "description": "Base station firmware",
+    "frameworks": "mbed",
+    "keywords": [
+        "dynamixel",
+        "MX28",
+        "RS485"
+    ],
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Perijah/code/USBDevice/"
+    }
+}

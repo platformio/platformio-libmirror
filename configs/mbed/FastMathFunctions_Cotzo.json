@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Federico Luis Pinna Gonzalez",
+        "url": "https://os.mbed.com/users/Cotzo/"
+    },
+    "description": "Extracted functions of the library CMSIS-DSP.",
+    "examples": [
+        "https://os.mbed.com/users/Cotzo/code/FastECompass/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LPC1114FN28",
+        "sound",
+        "CNMAT",
+        "osc"
+    ],
+    "name": "FastMathFunctions",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Cotzo/code/FastMathFunctions/"
+    }
+}

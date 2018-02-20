@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Paul Staron",
+        "url": "https://os.mbed.com/users/star297/"
+    },
+    "description": "Si-Labs EFM32 back up domain and BUrtc library",
+    "examples": [
+        "https://os.mbed.com/users/star297/code/EFM32_BUrtc-Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "EFM32_BUrtc",
+    "name": "EFM32_BUrtc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/star297/code/EFM32_BUrtc/"
+    }
+}

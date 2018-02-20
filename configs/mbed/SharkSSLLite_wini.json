@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Real Time Logic LLC",
+        "url": "https://os.mbed.com/users/wini/"
+    },
+    "description": "This package includes the SharkSSL lite library and header files.",
+    "examples": [
+        "https://os.mbed.com/users/wini/code/WebSocket-Client-Example/",
+        "https://os.mbed.com/users/wini/code/SharkMQ-LED-Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MQTT",
+        "SharkSSL",
+        "SSL",
+        "TLS",
+        "WebSocket"
+    ],
+    "name": "SharkSSL-Lite",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wini/code/SharkSSL-Lite/"
+    }
+}

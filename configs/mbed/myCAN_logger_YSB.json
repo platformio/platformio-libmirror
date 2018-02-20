@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Abe Takumi",
+        "url": "https://os.mbed.com/users/YSB/"
+    },
+    "description": "for CAN communication between mbed",
+    "examples": [
+        "https://os.mbed.com/users/YSB/code/EM_Logger/",
+        "https://os.mbed.com/users/YSB/code/EM_Mission/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "keypad",
+        "RA8875",
+        "Touchscreen",
+        "Battery Monitor",
+        "LTC2990"
+    ],
+    "name": "myCAN_logger",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/YSB/code/myCAN_logger/"
+    }
+}

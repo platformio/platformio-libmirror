@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Wim De Roeve",
+        "url": "https://os.mbed.com/users/Wimpie/"
+    },
+    "description": "PCD8544 multiscreen",
+    "frameworks": "mbed",
+    "keywords": [
+        "24LCxx",
+        "EEPROM",
+        "display",
+        "monochrome",
+        "AT42QT2100",
+        "QT2100",
+        "QTouch"
+    ],
+    "name": "PCD8544MS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Wimpie/code/PCD8544MS/"
+    }
+}

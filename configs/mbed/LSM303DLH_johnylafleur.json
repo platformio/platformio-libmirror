@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Jonathan Goret",
+        "url": "https://os.mbed.com/users/johnylafleur/"
+    },
+    "description": "same",
+    "examples": [
+        "https://os.mbed.com/users/johnylafleur/code/Nucleo_gyro_magno/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Celsius",
+        "driver",
+        "I2C",
+        "LM75B",
+        "nxp",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "LSM303DLH",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/johnylafleur/code/LSM303DLH/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Hugo Perez",
+        "url": "https://os.mbed.com/users/perezalvarezhi/"
+    },
+    "description": "Winbond W25Q80BV SPI library",
+    "examples": [
+        "https://os.mbed.com/users/joeata2wh/code/data_log/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "W25Q80BV",
+    "name": "W25Q80BV",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/perezalvarezhi/code/W25Q80BV/"
+    }
+}

@@ -10,15 +10,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "character",
+        "display",
+        "HD44780",
+        "LCD",
         "Humidity",
         "sensor",
-        "Temperature",
-        "accelerometer",
-        "ADXL345",
-        "senor",
-        "OneWire",
-        "protocols",
-        "sensors"
+        "Temperature"
     ],
     "name": "HIH6130",
     "platforms": "*",

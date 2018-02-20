@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "ADITYA RAJ",
+        "url": "https://os.mbed.com/users/ECESAT/"
+    },
+    "description": "Testing phase",
+    "frameworks": "mbed",
+    "keywords": [
+        "consumption",
+        "control",
+        "ethernet",
+        "Management",
+        "Power",
+        "PowerControl"
+    ],
+    "name": "GPSlib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ECESAT/code/GPSlib/"
+    }
+}

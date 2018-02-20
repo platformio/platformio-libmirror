@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "ILinterpreter",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/WeatherStation/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "96x96",
+        "OLED",
+        "Seeed",
+        "SeeedGrayOLED",
+        "ssd1327",
+        "DC",
+        "motor",
+        "PM motor",
+        "bluetooth",
+        "bt",
+        "rtos"
+    ],
+    "name": "ILinterpreter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/ILinterpreter/"
+    }
+}

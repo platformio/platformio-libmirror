@@ -9,12 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MMA8452",
-        "ax12",
-        "dynamixel",
-        "motor",
-        "Servo",
-        "LSM303DLH"
+        "LSM303DLH",
+        "Futaba",
+        "MODSERIAL",
+        "SBUS",
+        "Serial"
     ],
     "name": "RPCInterface",
     "platforms": "*",

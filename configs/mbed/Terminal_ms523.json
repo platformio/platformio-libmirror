@@ -8,17 +8,7 @@
         "https://os.mbed.com/teams/Kuvee-Base-Micro-Firmware/code/TestConsoleLib/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "TeraTerm",
-        "Terminal",
-        "arduino",
-        "motor",
-        "shield",
-        "Communication",
-        "Serial",
-        "VT100",
-        "VT200"
-    ],
+    "keywords": "Terminal",
     "name": "Terminal",
     "platforms": "*",
     "repository": {

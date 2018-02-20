@@ -15,11 +15,9 @@
     "keywords": [
         "card",
         "SD",
-        "RIT",
-        "Altimeter",
-        "MS5607",
-        "pressure",
-        "Temperature"
+        "biquad",
+        "DSP",
+        "filter"
     ],
     "name": "SDFileSystem",
     "platforms": "*",

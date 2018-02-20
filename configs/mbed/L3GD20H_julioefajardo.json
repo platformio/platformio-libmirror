@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Julio Fajardo",
+        "url": "https://os.mbed.com/users/julioefajardo/"
+    },
+    "description": "Adafruit 9DOF - L3GD20H Driver",
+    "examples": [
+        "https://os.mbed.com/users/julioefajardo/code/Galileo_HoverBoardRider/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit 9DOF",
+        "L3GD20H"
+    ],
+    "name": "L3GD20H",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/julioefajardo/code/L3GD20H/"
+    }
+}

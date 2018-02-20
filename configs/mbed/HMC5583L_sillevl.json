@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Sille Van Landschoot",
+        "url": "https://os.mbed.com/users/sillevl/"
+    },
+    "description": "I2C driver for HMC5583L digital compass sensor",
+    "examples": [
+        "https://os.mbed.com/users/sillevl/code/m3Dpi/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "compass",
+        "driver",
+        "HMC5583L",
+        "I2C",
+        "sensor"
+    ],
+    "name": "HMC5583L",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sillevl/code/HMC5583L/"
+    }
+}

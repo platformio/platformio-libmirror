@@ -12,14 +12,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Serial",
-        "Terminal",
-        "VT100",
         "display",
         "I2C",
         "led",
-        "mbed",
-        "AQM1602"
+        "MPU9150",
+        "Quaternion",
+        "vector",
+        "RF12",
+        "rfm12",
+        "RFM12B"
     ],
     "name": "I2CLEDDisp",
     "platforms": "*",

@@ -27,19 +27,16 @@
     "keywords": [
         "GPS",
         "parse",
-        "ADT7410",
         "Encoder",
         "QEI",
         "qudrature",
-        "rotary"
+        "rotary",
+        "lps25h"
     ],
     "name": "mRotaryEncoder",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/charly/code/mRotaryEncoder/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/charly/code/mRotaryEncoder/"
     }
 }

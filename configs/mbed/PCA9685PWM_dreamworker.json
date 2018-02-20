@@ -11,15 +11,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BSP",
-        "DISCO_L476VG",
-        "malloc",
-        "memory",
+        "802.15.4",
+        "wireless",
+        "xbee",
         "Nucleo",
         "PCA9685",
-        "pwm controller",
-        "SSL",
-        "TLS"
+        "pwm controller"
     ],
     "name": "PCA9685PWM",
     "platforms": "*",

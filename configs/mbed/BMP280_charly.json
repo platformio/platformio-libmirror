@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Karl Zweimüller",
+        "url": "https://os.mbed.com/users/charly/"
+    },
+    "description": "Library for Bosch BMP280 temperature and pressure sensor",
+    "examples": [
+        "https://os.mbed.com/teams/University-of-Plymouth-Stage-2-and-3/code/Task690solution-mbed-os-FZ429ZI_/",
+        "https://os.mbed.com/teams/University-of-Plymouth-Stage-2-and-3/code/Task690-mbed-os-FZ429ZI/",
+        "https://os.mbed.com/teams/University-of-Plymouth-Stage-2-and-3/code/ELEC350-LCD-DEMO/",
+        "https://os.mbed.com/teams/University-of-Plymouth-Stage-2-and-3/code/ELEC350-CWTEMPLATE-2017/",
+        "https://os.mbed.com/users/thomasmorris/code/ELEC351_v1/",
+        "https://os.mbed.com/teams/ELEC350-CW-TEAM/code/ELEC350-CWTEMPLATE-2017/",
+        "https://os.mbed.com/teams/ELEC350-Team-Q/code/Sampling_Data_into_buffer/",
+        "https://os.mbed.com/teams/CMST/code/ELEC350-CWTEMPLATE-2017/",
+        "https://os.mbed.com/users/ckalintra/code/CW/",
+        "https://os.mbed.com/users/benparkes/code/Thread_Communication_V5/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "bmp280",
+        "pressure",
+        "Temperature",
+        "Encoder",
+        "rotaional"
+    ],
+    "name": "BMP280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/charly/code/BMP280/"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Cornelius Bezuidenhout",
+        "url": "https://os.mbed.com/users/Generic/"
+    },
+    "description": "A servo controller library",
+    "frameworks": "mbed",
+    "keywords": [
+        "controller",
+        "Servo",
+        "ILI9320",
+        "ILI9325",
+        "ILI9328",
+        "ILI9341",
+        "ILI9481",
+        "ILI9486",
+        "IST3020",
+        "LCD",
+        "MIPI",
+        "parallel",
+        "SPI",
+        "SSD1306",
+        "ST7565",
+        "TFT",
+        "UC1608",
+        "UC1701"
+    ],
+    "name": "ServoController",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Generic/code/ServoController/"
+    }
+}

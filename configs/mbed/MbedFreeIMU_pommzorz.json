@@ -15,21 +15,21 @@
     "description": "quick and probably buggy port from the FreeIMU 0.4 library adapted for MBED and MPU6050 only...",
     "frameworks": "mbed",
     "keywords": [
-        "mp3",
-        "VS1033",
-        "VS1053",
-        "CAN",
+        "http",
+        "NET",
+        "network",
+        "webservice",
+        "xml",
         "FreeIMU",
         "IMU",
-        "MPU6050"
+        "MPU6050",
+        "CAN",
+        "mbed"
     ],
     "name": "MbedFreeIMU",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/pommzorz/code/MbedFreeIMU/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/pommzorz/code/MbedFreeIMU/"
     }
 }

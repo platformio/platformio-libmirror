@@ -10,6 +10,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Melexis",
+        "MLX90614",
         "2x40",
         "40x2",
         "HD44780",
@@ -17,9 +19,7 @@
         "ST7066U",
         "range",
         "sensor",
-        "SRF08",
-        "AnalogIn",
-        "ROS"
+        "SRF08"
     ],
     "name": "SRF08",
     "platforms": "*",

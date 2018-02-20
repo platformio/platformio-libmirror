@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Patrick Thomas",
+        "url": "https://os.mbed.com/users/Padman/"
+    },
+    "description": "A PPM driver for the K64F that uses the CMT module",
+    "frameworks": "mbed",
+    "keywords": [
+        "CMT",
+        "K64F",
+        "output",
+        "PPM"
+    ],
+    "name": "PPMout",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Padman/code/PPMout/"
+    }
+}

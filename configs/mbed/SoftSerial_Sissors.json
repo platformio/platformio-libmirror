@@ -18,8 +18,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DHT11",
-        "DHT22"
+        "disco",
+        "FT5336",
+        "Touch Screen",
+        "OLED",
+        "SSD1306"
     ],
     "name": "SoftSerial",
     "platforms": "*",

@@ -18,13 +18,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "window",
+        "api",
+        "DIP",
+        "flash",
+        "SPI",
+        "spiflash",
+        "W25X40BV",
+        "winbond",
         "display",
         "hotboards",
-        "SPI",
-        "USB",
-        "UVC"
+        "Dieter Graef",
+        "DISCO-F746",
+        "SDFileSystem"
     ],
     "name": "Hotboards_SpiLcd",
     "platforms": "*",

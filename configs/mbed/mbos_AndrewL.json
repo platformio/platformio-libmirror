@@ -21,12 +21,10 @@
         "mass",
         "storage",
         "USB",
-        "v3",
-        "discovery",
-        "ethernet",
-        "Nucleo",
-        "stm32",
-        "STM32F746"
+        "Adafruit",
+        "GPS",
+        "NEMA",
+        "v3"
     ],
     "name": "mbos",
     "platforms": "*",

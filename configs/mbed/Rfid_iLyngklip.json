@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Mathias Lyngklip",
+        "url": "https://os.mbed.com/users/iLyngklip/"
+    },
+    "description": "RFID",
+    "examples": [
+        "https://os.mbed.com/users/iLyngklip/code/RoboticHackathon2/",
+        "https://os.mbed.com/users/iLyngklip/code/RoboticHackathonFINAL/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "esc",
+        "KL25z",
+        "pwm"
+    ],
+    "name": "Rfid",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/iLyngklip/code/Rfid/"
+    }
+}

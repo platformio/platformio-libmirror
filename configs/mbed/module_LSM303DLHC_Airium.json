@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "X SZ",
+        "url": "https://os.mbed.com/users/Airium/"
+    },
+    "description": "LSM303DLHC Full Driver:",
+    "frameworks": "mbed",
+    "keywords": [
+        "5110",
+        "Nokia",
+        "TextLCD",
+        "acc",
+        "compass",
+        "LSM303",
+        "LSM303DLHC",
+        "MAG"
+    ],
+    "name": "module_LSM303DLHC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Airium/code/module_LSM303DLHC/"
+    }
+}

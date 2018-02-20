@@ -10,13 +10,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "ChaNFS",
+        "mass",
+        "storage",
+        "USB",
         "Adafruit",
         "GPS",
         "NEMA",
-        "buzzer",
-        "pwm",
-        "tone",
-        "tune"
+        "v3"
     ],
     "name": "GPS",
     "platforms": "*",

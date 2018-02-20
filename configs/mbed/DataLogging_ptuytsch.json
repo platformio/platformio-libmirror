@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Pieter-Jan Tuytschaever",
+        "url": "https://os.mbed.com/users/ptuytsch/"
+    },
+    "description": "bike datalogging basic",
+    "examples": [
+        "https://os.mbed.com/users/ptuytsch/code/BLEPrototype/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "xbee",
+        "HR-TFT",
+        "memory lcd",
+        "Monochrome LCD",
+        "Sharp"
+    ],
+    "name": "DataLogging",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ptuytsch/code/DataLogging/"
+    }
+}

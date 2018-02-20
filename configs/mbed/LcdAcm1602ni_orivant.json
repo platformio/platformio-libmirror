@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "hiroyuki nagahama",
+        "url": "https://os.mbed.com/users/orivant/"
+    },
+    "description": "LCDモジュール ACM1602NI（I2C接続） を制御するライブラリ",
+    "frameworks": "mbed",
+    "keywords": [
+        "ACM1602NI",
+        "I2C",
+        "LCD"
+    ],
+    "name": "LcdAcm1602ni",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/orivant/code/LcdAcm1602ni/"
+    }
+}

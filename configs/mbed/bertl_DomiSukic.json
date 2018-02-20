@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Dominik Sukic",
+        "url": "https://os.mbed.com/users/DomiSukic/"
+    },
+    "description": "bertl",
+    "frameworks": "mbed",
+    "keywords": [
+        "5-wire",
+        "resistive",
+        "screen",
+        "touch",
+        "EasyVR3_LED_Library"
+    ],
+    "name": "bertl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DomiSukic/code/bertl/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Viorel Stefan Savinescu",
+        "url": "https://os.mbed.com/users/SavinescuStefan/"
+    },
+    "description": "Helper library for stepper motor control",
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "iot platform",
+        "sakura internet",
+        "etti",
+        "TUIASI",
+        "Serial"
+    ],
+    "name": "StepperController",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SavinescuStefan/code/StepperController/"
+    }
+}

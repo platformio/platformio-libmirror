@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Jas Strong",
+        "url": "https://os.mbed.com/users/heroic/"
+    },
+    "description": "DMA-enabled high data rate driver for Heroic Robotics LED strips.",
+    "examples": [
+        "https://os.mbed.com/users/heroic/code/FastPixelDemo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DMA",
+        "fast",
+        "led strip",
+        "LPD8806",
+        "SPI"
+    ],
+    "name": "FastPixelLPD8806",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/heroic/code/FastPixelLPD8806/"
+    }
+}

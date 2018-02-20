@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "suu pen",
+        "url": "https://os.mbed.com/users/suupen/"
+    },
+    "description": "このライブラリは8*8dotmatrixLedの輝度を階調制御します。",
+    "examples": [
+        "https://os.mbed.com/users/suupen/code/eightDotMatrixLedLibraryExample/",
+        "https://os.mbed.com/teams/ChristmassOrnamentWS/code/test10_rev2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Expander",
+        "I2C",
+        "PCA9538",
+        "control",
+        "dot",
+        "Dynamic",
+        "gray",
+        "led",
+        "lighting",
+        "matrix",
+        "scale"
+    ],
+    "name": "EightDotMatrixLed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/suupen/code/EightDotMatrixLed/"
+    }
+}

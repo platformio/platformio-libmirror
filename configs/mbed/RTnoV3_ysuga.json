@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Yuki Suga",
+        "url": "https://os.mbed.com/users/ysuga/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Angel David Yaguana Hernandez"
+            ],
+            "frameworks": "mbed",
+            "name": "EthernetNetIf"
+        }
+    ],
+    "description": "RTno is communicating library and framework which allows you to make your embedded device capable of communicating with RT-middleware world.",
+    "examples": [
+        "https://os.mbed.com/users/ysuga/code/RTnoV3_LED/",
+        "https://os.mbed.com/users/ysuga/code/RTnoV3_Template/",
+        "https://os.mbed.com/users/ysuga/code/RTnoV3_ADC/",
+        "https://os.mbed.com/users/ysuga/code/RTnoV3_Timer/",
+        "https://os.mbed.com/users/ysuga/code/RTnoV3_Ethernet/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed",
+        "robot",
+        "Robotics",
+        "RT-component",
+        "RT-middleware"
+    ],
+    "name": "RTnoV3",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/ysuga/code/RTnoV3/"
+    }
+}

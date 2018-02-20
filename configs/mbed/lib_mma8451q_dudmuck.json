@@ -11,15 +11,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DMA",
-        "KL25z",
-        "AQM1602",
-        "I2C",
-        "Nucleo",
-        "UIT",
-        "accelerometer",
-        "SDFileSystem",
-        "STM32F746"
+        "DHT22",
+        "accelerometer"
     ],
     "name": "lib_mma8451q",
     "platforms": "*",

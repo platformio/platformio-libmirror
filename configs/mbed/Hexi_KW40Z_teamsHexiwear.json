@@ -18,16 +18,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "PCF8575",
+        "CAN",
+        "FRDM-KL25Z",
+        "Seeed Studios",
         "BLE",
         "buttons",
         "HEXIWEAR",
-        "KW40Z",
-        "bridge",
-        "I2C",
-        "SC16IS750",
-        "SC16IS752",
-        "SPI",
-        "UART"
+        "KW40Z"
     ],
     "name": "Hexi_KW40Z",
     "platforms": "*",

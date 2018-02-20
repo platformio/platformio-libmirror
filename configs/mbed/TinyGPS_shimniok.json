@@ -12,15 +12,7 @@
         "https://os.mbed.com/users/zbraun6/code/GPS_20u7/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "GPS",
-        "parse",
-        "ADT7410",
-        "Encoder",
-        "QEI",
-        "qudrature",
-        "rotary"
-    ],
+    "keywords": "TinyGPS",
     "name": "TinyGPS",
     "platforms": "*",
     "repository": {

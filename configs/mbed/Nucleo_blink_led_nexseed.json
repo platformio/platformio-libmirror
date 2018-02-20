@@ -6,15 +6,12 @@
     "description": "led test",
     "frameworks": "mbed",
     "keywords": [
-        "clock",
-        "ds1302",
-        "real",
-        "RTC",
-        "time",
-        "compass",
-        "LSM303DLHC",
-        "magnetometer",
-        "sensors"
+        "int",
+        "interrupt",
+        "NVIC",
+        "priority",
+        "buffer",
+        "I2C"
     ],
     "name": "Nucleo_blink_led",
     "platforms": "*",

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Andrew Bonney",
+        "url": "https://os.mbed.com/users/andrewbonney/"
+    },
+    "description": "Copy of NetServicesMin with the HTTP Client library. Includes modification for HTTP servers which send the HTTP status line in its own packet.",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "bma180",
+        "Electrical",
+        "Field",
+        "Gesture",
+        "MGC3130"
+    ],
+    "name": "NetServicesMinHTTPMod",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/andrewbonney/code/NetServicesMinHTTPMod/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Wayne Lin",
+        "url": "https://os.mbed.com/users/wclin/"
+    },
+    "description": "nvt_rs485",
+    "examples": [
+        "https://os.mbed.com/users/wclin/code/modbus-over-rs485-sample/",
+        "https://os.mbed.com/users/rkuo2000/code/NTOUEE-mbed-modbus-RTU/",
+        "https://os.mbed.com/users/wclin/code/NuMaker-mbed-modbus-sample/",
+        "https://os.mbed.com/users/wclin/code/NuMaker_NuWicam_Lite/",
+        "https://os.mbed.com/teams/Nuvoton/code/NuMaker_NuWicam_Lite/",
+        "https://os.mbed.com/teams/Nuvoton/code/NuMaker-mbed-modbus-sample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "nvt_rs485",
+    "name": "nvt_rs485",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wclin/code/nvt_rs485/"
+    }
+}

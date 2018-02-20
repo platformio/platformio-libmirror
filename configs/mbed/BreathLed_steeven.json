@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "steeven lee",
+        "url": "https://os.mbed.com/users/steeven/"
+    },
+    "description": "Breath LED that turn on/off or loop the brightness smoothly.",
+    "examples": [
+        "https://os.mbed.com/users/steeven/code/BreathLed-demo/",
+        "https://os.mbed.com/users/steeven/code/EPD_GDE021A1_demo/",
+        "https://os.mbed.com/users/steeven/code/mbed_esp8266_demo/",
+        "https://os.mbed.com/users/steeven/code/NUCLEO_uart_flow_control/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "pwm",
+        "Ticker"
+    ],
+    "name": "BreathLed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/steeven/code/BreathLed/"
+    }
+}

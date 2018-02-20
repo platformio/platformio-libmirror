@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Dave Turner",
+        "url": "https://os.mbed.com/users/StressedDave/"
+    },
+    "description": "Modified AdaFruit GPS library",
+    "frameworks": "mbed",
+    "keywords": "GPS",
+    "name": "GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/StressedDave/code/GPS/"
+    }
+}

@@ -21,18 +21,27 @@
     "keywords": [
         "interrupt",
         "Serial",
-        "Adafruit",
-        "GPS",
-        "library",
-        "Ultimate"
+        "ILI9320",
+        "ILI9325",
+        "ILI9328",
+        "ILI9341",
+        "ILI9481",
+        "ILI9486",
+        "IST3020",
+        "LCD",
+        "MIPI",
+        "parallel",
+        "SPI",
+        "SSD1306",
+        "ST7565",
+        "TFT",
+        "UC1608",
+        "UC1701"
     ],
     "name": "iSerial",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/ykuroda/code/iSerial/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/ykuroda/code/iSerial/"
     }
 }

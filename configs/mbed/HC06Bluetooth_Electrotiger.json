@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Weimen Li",
+        "url": "https://os.mbed.com/users/Electrotiger/"
+    },
+    "description": "Driver for the JY-MCU v1.06 HC-06 Bluetooth module.",
+    "examples": [
+        "https://os.mbed.com/users/TuxLeon/code/DISCO-F746NG_rtos_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "shell",
+        "VT100",
+        "6LowPan",
+        "nanostack",
+        "ST Nucleo",
+        "STM",
+        "stm32",
+        "Sub-Ghz RF",
+        "X-NUCLEO-IDS01A4",
+        "X-NUCLEO-IDS01A4celo",
+        "maniacbug",
+        "nRF24L01",
+        "nRF24L01P",
+        "RF24",
+        "RF24Network",
+        "meters",
+        "sparkfun",
+        "weather"
+    ],
+    "name": "HC06Bluetooth",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Electrotiger/code/HC06Bluetooth/"
+    }
+}

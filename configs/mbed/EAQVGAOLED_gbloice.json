@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Graham Bloice",
+        "url": "https://os.mbed.com/users/gbloice/"
+    },
+    "description": "An mbed library for the Embedded Artists QVGA OLED 2.8 inch panel",
+    "frameworks": "mbed",
+    "keywords": [
+        "battery gauge",
+        "BQ27441",
+        "C030",
+        "u-blox",
+        "14A2A",
+        "ATT",
+        "avnet",
+        "Cellular",
+        "modem",
+        "WNC",
+        "WncController",
+        "GR-PEACH",
+        "LCD",
+        "EA",
+        "Graphics",
+        "OLED",
+        "SPI"
+    ],
+    "name": "EAQVGAOLED",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gbloice/code/EAQVGAOLED/"
+    }
+}

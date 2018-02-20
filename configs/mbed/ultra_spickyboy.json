@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Gerardo Corona",
+        "url": "https://os.mbed.com/users/spickyboy/"
+    },
+    "description": "Librería que un sensor ultrasónico te mida en centímetros",
+    "frameworks": "mbed",
+    "keywords": [
+        "ultrasonico",
+        "I2C",
+        "game",
+        "inheritance",
+        "OOP",
+        "polymorphism",
+        "tutorial"
+    ],
+    "name": "ultra",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/spickyboy/code/ultra/"
+    }
+}

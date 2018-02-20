@@ -13,21 +13,7 @@
         "https://os.mbed.com/users/mchoun95/code/Jerby_v2/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "3pi",
-        "m3pi",
-        "robot",
-        "barometer",
-        "MPL115A1",
-        "SPI",
-        "Analyzer",
-        "audio",
-        "FFT",
-        "Spectrum",
-        "802.15.4",
-        "wireless",
-        "xbee"
-    ],
+    "keywords": "QEI_pmw",
     "name": "QEI_pmw",
     "platforms": "*",
     "repository": {

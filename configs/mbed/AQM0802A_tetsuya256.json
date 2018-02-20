@@ -16,14 +16,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "pressure",
+        "scp1000",
+        "sensor",
+        "Temperature",
         "Akizuki",
         "character",
         "I2C",
-        "LCD",
-        "Digital",
-        "Input",
-        "output",
-        "pulse"
+        "LCD"
     ],
     "name": "AQM0802A",
     "platforms": "*",

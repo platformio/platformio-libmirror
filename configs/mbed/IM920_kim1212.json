@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "yuki kimura",
+        "url": "https://os.mbed.com/users/kim1212/"
+    },
+    "description": "インタープラン製無線モジュールIM920と通信を行うライブラリです",
+    "frameworks": "mbed",
+    "keywords": "IM920",
+    "name": "IM920",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kim1212/code/IM920/"
+    }
+}

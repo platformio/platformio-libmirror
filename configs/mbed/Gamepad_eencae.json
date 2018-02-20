@@ -5,7 +5,6 @@
     },
     "description": "Library for ELEC2645 Gamepad PCB.",
     "examples": [
-        "https://os.mbed.com/users/eencae/code/Pong/",
         "https://os.mbed.com/users/hongyunAHN/code/Project_MaZe1_copy/",
         "https://os.mbed.com/users/fy14ta/code/Labirint/",
         "https://os.mbed.com/users/Nathanj94/code/Game_Controller_Project/",
@@ -14,10 +13,20 @@
         "https://os.mbed.com/users/ll14c4p/code/GameProject_Prototype/",
         "https://os.mbed.com/users/el15ss/code/Stick_Runner/",
         "https://os.mbed.com/teams/ELEC2645-201617/code/Stick_Runner/",
-        "https://os.mbed.com/teams/ELEC2645-201617/code/Tetris_Su/"
+        "https://os.mbed.com/teams/ELEC2645-201617/code/Tetris_Su/",
+        "https://os.mbed.com/teams/ELEC2645-201617/code/2645_Game_Project_2/"
     ],
     "frameworks": "mbed",
-    "keywords": "Gamepad",
+    "keywords": [
+        "LCD",
+        "window",
+        "I2C",
+        "Luminosity",
+        "Lux",
+        "sensor",
+        "USB",
+        "UVC"
+    ],
     "name": "Gamepad",
     "platforms": "*",
     "repository": {

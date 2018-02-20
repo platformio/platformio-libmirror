@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Anjali jangalagi",
+        "url": "https://os.mbed.com/users/2bv14ei014/"
+    },
+    "description": "program to blink two leds along with value of N",
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "matrix",
+        "SDA5708"
+    ],
+    "name": "blink_LED",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/2bv14ei014/code/blink_LED/"
+    }
+}

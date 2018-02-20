@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Matt Arceri",
+        "url": "https://os.mbed.com/users/Striker121/"
+    },
+    "description": "Allows for a 90 frame animated gauge to be display on the uLCD",
+    "examples": [
+        "https://os.mbed.com/users/Striker121/code/uLCDgaugeTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F746NG",
+        "EEPROM",
+        "BME280",
+        "DISCO_F429ZI",
+        "sdram",
+        "brushless",
+        "L293D",
+        "LPC1768",
+        "mbed",
+        "motor"
+    ],
+    "name": "uLCD_gauges",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Striker121/code/uLCD_gauges/"
+    }
+}

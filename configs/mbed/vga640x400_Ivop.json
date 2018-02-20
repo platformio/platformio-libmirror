@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Ivo van Poorten",
+        "url": "https://os.mbed.com/users/Ivop/"
+    },
+    "description": "Three-pin 640x400 VGA Console Mode",
+    "frameworks": "mbed",
+    "keywords": [
+        "console",
+        "v7",
+        "VGA"
+    ],
+    "name": "vga640x400",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Ivop/code/vga640x400/"
+    }
+}

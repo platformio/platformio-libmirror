@@ -15,15 +15,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DS18B20",
-        "temperature sensor",
-        "clock",
-        "CPU",
-        "Power",
-        "power consumption",
-        "power control",
         "pressure",
-        "sensor"
+        "sensor",
+        "xml",
+        "count",
+        "external clock",
+        "MHz",
+        "pulse"
     ],
     "name": "I2SSlave",
     "platforms": "*",

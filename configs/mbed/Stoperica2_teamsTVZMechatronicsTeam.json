@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "TVZ Mechatronics Team",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Kevin Anderson"
+            ],
+            "frameworks": "mbed",
+            "name": "C12832"
+        }
+    ],
+    "description": "Learning classes...",
+    "examples": [
+        "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/PURS_ZI_002/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "I2CRTOS",
+        "non-blocking",
+        "rtos",
+        "RTC",
+        "real-time communication"
+    ],
+    "name": "Stoperica2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/teams/TVZ-Mechatronics-Team/code/Stoperica2/"
+    }
+}

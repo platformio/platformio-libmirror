@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Citrusbyte Team",
+        "url": "https://os.mbed.com/users/citrusbyte/"
+    },
+    "description": "M2X MQTT Client for ARM MBED",
+    "examples": [
+        "https://os.mbed.com/teams/Avnet/code/WNCInterface_M2XMQTTdemo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "GFX",
+        "I2C",
+        "OLED",
+        "SPI",
+        "SSD1306",
+        "16x4",
+        "array",
+        "infrared",
+        "IR",
+        "Temperature"
+    ],
+    "name": "M2XMQTTClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/citrusbyte/code/M2XMQTTClient/"
+    }
+}

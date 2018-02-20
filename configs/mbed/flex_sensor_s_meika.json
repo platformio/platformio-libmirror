@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Meika Sugimoto",
+        "url": "https://os.mbed.com/users/s_meika/"
+    },
+    "description": "This library operates flex sensor 4.5 made by sparkfun.",
+    "examples": [
+        "https://os.mbed.com/users/Ronjea/code/gloveSensorSend/",
+        "https://os.mbed.com/users/Ronjea/code/RoboticHand/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mutex",
+        "rtos",
+        "MPU6050",
+        "MPU9250",
+        "HY-1.8",
+        "ST7735"
+    ],
+    "name": "flex_sensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/s_meika/code/flex_sensor/"
+    }
+}

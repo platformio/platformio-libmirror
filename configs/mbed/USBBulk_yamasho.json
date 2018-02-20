@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Sho Yama",
+        "url": "https://os.mbed.com/users/yamasho/"
+    },
+    "description": "Usb Bulk Tranceport driver",
+    "frameworks": "mbed",
+    "keywords": [
+        "25VF064",
+        "25VF064C",
+        "EEPROM",
+        "flash",
+        "SST",
+        "EM027BS013",
+        "ePaper",
+        "Bulk",
+        "Traceport",
+        "USB",
+        "etti",
+        "TUIASI"
+    ],
+    "name": "USBBulk",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yamasho/code/USBBulk/"
+    }
+}

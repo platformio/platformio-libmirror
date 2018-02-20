@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Benigno Gobbo",
+        "url": "https://os.mbed.com/users/bengo/"
+    },
+    "description": "This lib allows control of VISHAY VCNL4000 distance/ambient light sensor via I2C bus.",
+    "examples": [
+        "https://os.mbed.com/users/Guillaume31/code/Major_dHome/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ambient",
+        "distance",
+        "I2C",
+        "light",
+        "sensor"
+    ],
+    "name": "VCNL4000",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bengo/code/VCNL4000/"
+    }
+}

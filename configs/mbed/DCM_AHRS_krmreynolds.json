@@ -6,8 +6,6 @@
     "description": "AHRS library for the Polulu minIMU-9",
     "frameworks": "mbed",
     "keywords": [
-        "AquesTalk",
-        "ATP3011",
         "AHRS",
         "minimu-9",
         "polulu",
@@ -17,7 +15,11 @@
         "door",
         "modem",
         "USB",
-        "Vodafone"
+        "Vodafone",
+        "HC05",
+        "4D system",
+        "LCD",
+        "Picaso"
     ],
     "name": "DCM_AHRS",
     "platforms": "*",

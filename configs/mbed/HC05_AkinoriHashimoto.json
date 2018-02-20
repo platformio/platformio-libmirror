@@ -18,11 +18,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "MMA8451",
-        "MMA8452",
-        "MMA8453",
-        "MMA845x",
+        "16x2",
+        "4-bit",
+        "4bit",
+        "KS0066U",
+        "LCD",
+        "LCD 16x2",
         "Bluetooth module",
         "hc-05",
         "HC05"
@@ -31,9 +32,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/AkinoriHashimoto/code/HC05/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/AkinoriHashimoto/code/HC05/"
     }
 }

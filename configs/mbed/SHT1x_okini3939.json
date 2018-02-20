@@ -6,8 +6,7 @@
     "description": "mbed library to use a SENSIRION SHT1x/SHT7x sensor humidity and temperature",
     "frameworks": "mbed",
     "keywords": [
-        "command",
-        "Servo",
+        "ADT7410",
         "Humidity",
         "I2C",
         "sht11",
@@ -15,8 +14,6 @@
         "SHT71",
         "SHT75",
         "Temperature",
-        "GPS",
-        "parse",
         "DHT22",
         "RHT03"
     ],

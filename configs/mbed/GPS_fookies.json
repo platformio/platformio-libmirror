@@ -8,14 +8,19 @@
         "https://os.mbed.com/users/narongdet/code/GPS_classroom/",
         "https://os.mbed.com/users/fookies/code/wifigpslcd/",
         "https://os.mbed.com/users/fookies/code/GPS_classroom/",
-        "https://os.mbed.com/users/tomece11/code/GPS_classroom2/"
+        "https://os.mbed.com/users/tomece11/code/GPS_classroom2/",
+        "https://os.mbed.com/users/LucasPrido/code/Send_GPS_Data_TS_SD/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "QEI ロータリーエンコーダ 角度 angle",
-        "biquad",
-        "DSP",
-        "filter",
+        "game pad",
+        "gamepad",
+        "playstation",
+        "playstation2",
+        "PS2",
+        "SPI",
+        "pwm",
+        "softwarePWM",
         "GPGGA"
     ],
     "name": "GPS",

@@ -6,14 +6,16 @@
     "description": "Simple driver for the ST7920 graphic LCD 128x64.",
     "frameworks": "mbed",
     "keywords": [
+        "display",
+        "KS0107",
+        "KS0108",
         "128x64",
         "LCD",
         "ST7920",
-        "check;",
-        "CRC",
-        "CRC16;",
-        "Cyclic",
-        "redundancy"
+        "graphic",
+        "TFT",
+        "touch",
+        "ST7565R"
     ],
     "name": "ST7920",
     "platforms": "*",

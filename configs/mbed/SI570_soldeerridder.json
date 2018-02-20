@@ -4,6 +4,9 @@
         "url": "https://os.mbed.com/users/soldeerridder/"
     },
     "description": "Library to control Silicon Labs SI570 10 MHZ TO 1.4 GHZ I2C PROGRAMMABLE XO/VCXO.",
+    "examples": [
+        "https://os.mbed.com/users/davcordova/code/t2d/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "HAM-radio",
@@ -11,14 +14,18 @@
         "sdr",
         "vcxo",
         "vfo",
-        "SSL",
-        "TLS",
+        "LCD",
+        "Menus",
+        "TFT",
+        "Adafruit 9DOF",
+        "LSM303DLHC",
         "APDS9960",
         "avago",
         "color",
         "Gesture",
         "proximity",
-        "sparkfun"
+        "sparkfun",
+        "LPC4330"
     ],
     "name": "SI570",
     "platforms": "*",

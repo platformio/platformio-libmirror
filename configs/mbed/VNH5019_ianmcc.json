@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Ian McCulloch",
+        "url": "https://os.mbed.com/users/ianmcc/"
+    },
+    "description": "Library for the VNH5019 Motor Driver, with a helper class for the Pololu Dual VNH5019 Dual Motor Driver Shield http://www.pololu.com/product/2502",
+    "frameworks": "mbed",
+    "keywords": [
+        "VNH5019",
+        "I2C",
+        "IO expander",
+        "6610",
+        "Nokia"
+    ],
+    "name": "VNH5019",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ianmcc/code/VNH5019/"
+    }
+}

@@ -17,6 +17,8 @@
     "keywords": [
         "dac",
         "MCP4922",
+        "comparator",
+        "KL25z",
         "Dynamic",
         "ethernet",
         "http",
@@ -24,19 +26,12 @@
         "server",
         "static",
         "Web",
-        "WiFly",
-        "api",
-        "Digi",
-        "xbee",
-        "zigbee"
+        "WiFly"
     ],
     "name": "MCP4922",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/JimmyTheHack/code/MCP4922/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/JimmyTheHack/code/MCP4922/"
     }
 }

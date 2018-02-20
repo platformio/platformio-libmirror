@@ -10,14 +10,7 @@
     "frameworks": "mbed",
     "keywords": [
         "LCD",
-        "ST7565",
-        "buffer",
-        "ringbuffer",
-        "Template Buffer",
-        "NeoPixel",
-        "nRF51822",
-        "RedBear",
-        "WS2812"
+        "ST7565"
     ],
     "name": "st7565LCD",
     "platforms": "*",

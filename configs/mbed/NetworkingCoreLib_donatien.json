@@ -17,24 +17,11 @@
         "https://os.mbed.com/users/donatien/code/EthernetNetworkLib/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "LCD",
-        "ST7565",
-        "buffer",
-        "ringbuffer",
-        "Template Buffer",
-        "NeoPixel",
-        "nRF51822",
-        "RedBear",
-        "WS2812"
-    ],
+    "keywords": "NetworkingCoreLib",
     "name": "NetworkingCoreLib",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/donatien/code/NetworkingCoreLib/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/donatien/code/NetworkingCoreLib/"
     }
 }

@@ -22,27 +22,21 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "pwm",
-        "softwarePWM",
+        "adc",
+        "SPI",
         "128x64",
         "OLED",
         "SSD1306",
-        "MRF24J40",
-        "tranceiver",
-        "wireless",
-        "audio",
-        "I2S",
-        "library",
-        "tested",
-        "TLV320"
+        "discovery",
+        "ethernet",
+        "Nucleo",
+        "stm32",
+        "STM32F746"
     ],
     "name": "SSD1306_128x64_I2C",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/jk1lot/code/SSD1306_128x64_I2C/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/jk1lot/code/SSD1306_128x64_I2C/"
     }
 }

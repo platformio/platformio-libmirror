@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "5ABELI",
+        "url": "https://os.mbed.com/teams/5ABELI1/"
+    },
+    "description": "SToppuhr",
+    "frameworks": "mbed",
+    "keywords": [
+        "HT1621",
+        "LCD",
+        "ds1621",
+        "I2C",
+        "Temperature"
+    ],
+    "name": "C12832_lcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/5ABELI1/code/C12832_lcd/"
+    }
+}

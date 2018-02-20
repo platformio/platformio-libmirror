@@ -8,27 +8,7 @@
         "https://os.mbed.com/users/liam/code/Adafruit_GFX/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Adafruit",
-        "GFX",
-        "LCD",
-        "TFT",
-        "display",
-        "driver",
-        "HEXIWEAR",
-        "OLED",
-        "SSD1351",
-        "I2C",
-        "MCP4725",
-        "AnalogIn",
-        "Capacitive",
-        "digitalOut",
-        "sensor",
-        "touch",
-        "biquad",
-        "DSP",
-        "filter"
-    ],
+    "keywords": "Adafruit_GFX",
     "name": "Adafruit_GFX",
     "platforms": "*",
     "repository": {

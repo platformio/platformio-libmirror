@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Tristan Hughes",
+        "url": "https://os.mbed.com/users/trisjph/"
+    },
+    "description": "test",
+    "examples": [
+        "https://os.mbed.com/users/trisjph/code/Super_Hans_BT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "kl46z",
+        "MAG3110",
+        "6000",
+        "6050",
+        "acc",
+        "accelerometer",
+        "gyro",
+        "gyroscope",
+        "IMU",
+        "invensense",
+        "MPU",
+        "MPU6000"
+    ],
+    "name": "RN42",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/trisjph/code/RN42/"
+    }
+}

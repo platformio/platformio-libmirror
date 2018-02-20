@@ -9,16 +9,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "RenBED",
-        "segment",
-        "Seven",
         "ARM",
         "DAY",
         "heartbeat",
         "RIT",
-        "IMU",
-        "sensor"
+        "hang",
+        "I2C",
+        "KL25z",
+        "lockup",
+        "ethernet",
+        "NTP"
     ],
     "name": "HeartBeat",
     "platforms": "*",

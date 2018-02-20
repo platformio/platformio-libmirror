@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Pavel Rybakov",
+        "url": "https://os.mbed.com/users/gtg795y/"
+    },
+    "description": "Serializer",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "Serial",
+        "Serializer",
+        "AT",
+        "parser"
+    ],
+    "name": "Serializer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gtg795y/code/Serializer/"
+    }
+}

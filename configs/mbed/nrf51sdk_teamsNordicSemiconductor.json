@@ -10,16 +10,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "tcp/ip",
-        "W5500",
-        "W5500 Ethernet shield",
-        "W7500",
-        "W7500P",
-        "Wiznet",
-        "WIZnetInterface",
-        "WIZwiki_W7500",
-        "WIZwiki_W7500ECO",
-        "WIZwiki_W7500P"
+        "time",
+        "timezone"
     ],
     "name": "nrf51-sdk",
     "platforms": "*",

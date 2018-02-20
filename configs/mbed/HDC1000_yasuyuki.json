@@ -12,14 +12,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HDC1000",
-        "DMA",
-        "rtos",
-        "SD",
-        "SDFileSystem",
-        "WiFly",
-        "FTP",
-        "server"
+        "ARM",
+        "DAY",
+        "heartbeat",
+        "RIT",
+        "HDC1000"
     ],
     "name": "HDC1000",
     "platforms": "*",

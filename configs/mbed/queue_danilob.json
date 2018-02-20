@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Danilo Bustamante",
+        "url": "https://os.mbed.com/users/danilob/"
+    },
+    "description": "a simple c queue",
+    "frameworks": "mbed",
+    "keywords": [
+        "frequency",
+        "measurement",
+        "Pulsewidth",
+        "GPS",
+        "ublox",
+        "Vodafone",
+        "ADT7310",
+        "Nucleo",
+        "SPI",
+        "UIT"
+    ],
+    "name": "queue",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/danilob/code/queue/"
+    }
+}

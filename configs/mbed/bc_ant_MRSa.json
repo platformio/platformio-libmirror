@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Ryoji Sakai",
+        "url": "https://os.mbed.com/users/MRSa/"
+    },
+    "description": "BC-ANT-SERIAL communication library.",
+    "examples": [
+        "https://os.mbed.com/users/MRSa/code/bc_ant-sample/",
+        "https://os.mbed.com/users/MRSa/code/bc_ant-receiver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MQTT",
+        "1.0.3",
+        "cube",
+        "led"
+    ],
+    "name": "bc_ant",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MRSa/code/bc_ant/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "silabs-abakurs",
+        "url": "https://os.mbed.com/teams/silabs-abakurs/"
+    },
+    "description": "Drive a speaker using PWM",
+    "examples": [
+        "https://os.mbed.com/teams/silabs-abakurs/code/PwmSpeaker-Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "inAir",
+        "SX1276",
+        "SX1278"
+    ],
+    "name": "PwmSpeaker",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/silabs-abakurs/code/PwmSpeaker/"
+    }
+}

@@ -12,9 +12,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "nRF51-DK",
-        "RTC",
-        "time",
+        "Buffered",
+        "MODSERIAL",
+        "Serial",
         "accelerometer",
         "compass",
         "magnetometer"

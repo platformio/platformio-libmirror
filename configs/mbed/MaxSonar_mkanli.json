@@ -16,6 +16,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "MMA8452",
         "accelerometer",
         "gyroscope",
         "I2C",
@@ -23,14 +24,12 @@
         "MPU6050",
         "MPU60x0",
         "MPU9150",
-        "led",
-        "multiplexing",
-        "pwm",
-        "tlc5940",
         "maxsonar",
         "range",
         "RangeFinder",
-        "sonar"
+        "sonar",
+        "W5200",
+        "WIZ820IO"
     ],
     "name": "MaxSonar",
     "platforms": "*",

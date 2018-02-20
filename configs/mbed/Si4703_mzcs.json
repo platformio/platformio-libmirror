@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Moran Z.",
+        "url": "https://os.mbed.com/users/mzcs/"
+    },
+    "description": "A mbed Port of 'Sparkfun Si4703 Arduino Library'.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Olimex",
+        "SHIELD-LCD"
+    ],
+    "name": "Si4703",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mzcs/code/Si4703/"
+    }
+}

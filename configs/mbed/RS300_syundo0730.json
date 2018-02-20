@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Shundo Kishi",
+        "url": "https://os.mbed.com/users/syundo0730/"
+    },
+    "description": "Class for Futaba Servo motor RS3xx series",
+    "examples": [
+        "https://os.mbed.com/users/syundo0730/code/Hobby_Humanoid_controlor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "MCB1700",
+        "STMPE811",
+        "Touchscreen"
+    ],
+    "name": "RS300",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/syundo0730/code/RS300/"
+    }
+}

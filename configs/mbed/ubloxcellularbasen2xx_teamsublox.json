@@ -1,0 +1,49 @@
+{
+    "authors": {
+        "name": "u-blox",
+        "url": "https://os.mbed.com/teams/ublox/"
+    },
+    "description": "Base class for the u-blox N2xx modems. Cannot be used standalone, only inherited by classes that do properly useful stuff. Or, to put it another way, if you are using any of the classes ending with 'n2xx', you will need this class also. Note: requires the N211 module firmware to be at least 06.57 A01.02.",
+    "examples": [
+        "https://os.mbed.com/users/fahimalavi/code/example-ublox-cellular-interface/",
+        "https://os.mbed.com/teams/ublox/code/HelloMQTT/",
+        "https://os.mbed.com/teams/ublox/code/example-ublox-cellular-interface/",
+        "https://os.mbed.com/teams/ublox/code/example-ublox-mbed-client/",
+        "https://os.mbed.com/users/mudassar0121/code/example-ublox-cellular-interface/",
+        "https://os.mbed.com/users/mudassar0121/code/example-ublox-cellular-interface_r410M/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "emulation",
+        "I2C",
+        "SoftI2C",
+        "software",
+        "24bit",
+        "adc",
+        "NTC",
+        "PT100",
+        "PT1000",
+        "PT500",
+        "RTD",
+        "Temperature",
+        "Thermocouple",
+        "Arducam",
+        "OV5642",
+        "printf",
+        "ringbuffer",
+        "Serial",
+        "motor",
+        "AT",
+        "C030",
+        "CellularInterface",
+        "N211",
+        "N2xx",
+        "u-blox"
+    ],
+    "name": "ublox-cellular-base-n2xx",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ublox/code/ublox-cellular-base-n2xx/"
+    }
+}

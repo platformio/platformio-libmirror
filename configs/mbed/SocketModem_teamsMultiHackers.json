@@ -18,13 +18,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "BME280",
+        "cloud",
+        "dashboard",
+        "IOT",
+        "iot platform",
+        "smartphone",
         "mp3",
         "VS1033",
         "VS1053",
-        "CAN",
-        "FreeIMU",
-        "IMU",
-        "MPU6050"
+        "accelerometer",
+        "ADXL345"
     ],
     "name": "SocketModem",
     "platforms": "*",

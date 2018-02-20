@@ -9,18 +9,27 @@
         "https://os.mbed.com/users/mbedo/code/TD1_exe1_suite/",
         "https://os.mbed.com/users/mbedo/code/TP3_exo1/",
         "https://os.mbed.com/users/mbedo/code/TP3_exo2/",
-        "https://os.mbed.com/users/YSI/code/lib_LCD_i2c_example/"
+        "https://os.mbed.com/users/YSI/code/lib_LCD_i2c_example/",
+        "https://os.mbed.com/users/YSI/code/libs_YSI_example/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "digitalOut",
-        "H-bridge",
+        "DS18B20",
+        "one",
+        "Wire",
         "library",
-        "motor",
-        "PwmOut",
+        "MIDI",
+        "USB",
+        "USBMIDI",
         "2x16",
         "I2C",
-        "LCD"
+        "LCD",
+        "mbed",
+        "nRF51822",
+        "SD",
+        "SDFileSystem",
+        "sdhcfilesystem",
+        "FAT"
     ],
     "name": "lib_LCD_i2c_SPTLYI",
     "platforms": "*",

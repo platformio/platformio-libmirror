@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "HAVRM mine",
+        "url": "https://os.mbed.com/users/hirokimineshita/"
+    },
+    "description": "this library helps you for using Local File System",
+    "frameworks": "mbed",
+    "keywords": [
+        "file",
+        "Local",
+        "System"
+    ],
+    "name": "LFS_useful",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hirokimineshita/code/LFS_useful/"
+    }
+}

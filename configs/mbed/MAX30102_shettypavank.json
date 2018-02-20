@@ -1,0 +1,41 @@
+{
+    "authors": {
+        "name": "Pavan Shetty",
+        "url": "https://os.mbed.com/users/shettypavank/"
+    },
+    "description": "Read data from MAX30102 sensor",
+    "examples": [
+        "https://os.mbed.com/users/shettypavank/code/sensomed/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "buzzer",
+        "pwm",
+        "tone",
+        "tune",
+        "adc",
+        "current",
+        "INA226",
+        "Instruments",
+        "monitor",
+        "Power",
+        "Texas",
+        "voltage",
+        "LM75B",
+        "PCT2075",
+        "sensor",
+        "Temperature",
+        "temperature sensor",
+        "interrupt",
+        "irq",
+        "KL25z",
+        "NVIC",
+        "priority"
+    ],
+    "name": "MAX30102",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shettypavank/code/MAX30102/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Azure IoT",
+        "url": "https://os.mbed.com/users/AzureIoTClient/"
+    },
+    "description": "Microsoft Azure IoTHub client AMQP transport",
+    "examples": [
+        "https://os.mbed.com/users/ppatierno/code/sht15_remote_monitoring/",
+        "https://os.mbed.com/teams/robot-arm-demo-team/code/RobotArmDemo/",
+        "https://os.mbed.com/users/markrad/code/iothub_client_sample_amqp/",
+        "https://os.mbed.com/users/AzureIoTClient/code/iothub_client_sample_amqp/",
+        "https://os.mbed.com/users/AzureIoTClient/code/remote_monitoring/",
+        "https://os.mbed.com/users/AzureIoTClient/code/simplesample_amqp/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "iothub_amqp_transport",
+    "name": "iothub_amqp_transport",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AzureIoTClient/code/iothub_amqp_transport/"
+    }
+}

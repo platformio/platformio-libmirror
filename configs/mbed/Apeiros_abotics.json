@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Abraham Howell",
+        "url": "https://os.mbed.com/users/abotics/"
+    },
+    "description": "This class library has been created for use with the Apeiros Robot by Abe Howell's Robotics.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Apeiros",
+        "F401RE",
+        "Nucleo",
+        "robot"
+    ],
+    "name": "Apeiros",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/abotics/code/Apeiros/"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Michael Ball",
+        "url": "https://os.mbed.com/users/unix_guru/"
+    },
+    "description": "LodePNG version 20160124",
+    "frameworks": "mbed",
+    "keywords": [
+        "modtronix",
+        "NZ32 STM32",
+        "BMP",
+        "Image Conversion",
+        "PNG",
+        "Linear",
+        "motor",
+        "motors",
+        "robot",
+        "wheels",
+        "yellow",
+        "application-board",
+        "K64F"
+    ],
+    "name": "lodePNG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/unix_guru/code/lodePNG/"
+    }
+}

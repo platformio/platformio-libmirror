@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Don DeGregori",
+        "url": "https://os.mbed.com/users/donde/"
+    },
+    "description": "NokiaLCD",
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_L476VG",
+        "N25Q128A",
+        "QSPI",
+        "basic",
+        "flash",
+        "Flasher",
+        "fun",
+        "led",
+        "rgb"
+    ],
+    "name": "NokiaLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donde/code/NokiaLCD/"
+    }
+}

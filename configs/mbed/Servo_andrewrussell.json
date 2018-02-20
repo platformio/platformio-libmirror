@@ -18,16 +18,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "4",
-        "buttons",
-        "convert",
-        "Slider",
-        "to",
-        "touch",
-        "fatfilesystem",
-        "LocalFileSystem",
-        "USBMSD",
-        "4DGL"
+        "adc",
+        "ads1015",
+        "ads1115"
     ],
     "name": "Servo",
     "platforms": "*",

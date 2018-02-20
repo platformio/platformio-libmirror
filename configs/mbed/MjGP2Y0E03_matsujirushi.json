@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Takashi Matsuoka",
+        "url": "https://os.mbed.com/users/matsujirushi/"
+    },
+    "description": "For Sharp GP2Y0E03(optical distance measurement sensor).",
+    "frameworks": "mbed",
+    "keywords": "GP2Y0E03",
+    "name": "MjGP2Y0E03",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/matsujirushi/code/MjGP2Y0E03/"
+    }
+}

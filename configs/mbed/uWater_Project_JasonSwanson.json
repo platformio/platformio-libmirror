@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Jason Swanson",
+        "url": "https://os.mbed.com/users/JasonSwanson/"
+    },
+    "description": "Internet of Things project for the uWater team.",
+    "frameworks": "mbed",
+    "keywords": [
+        "stm32",
+        "STM32F746",
+        "STM32F746NG-DISCO",
+        "USBHOST"
+    ],
+    "name": "uWater_Project",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JasonSwanson/code/uWater_Project/"
+    }
+}

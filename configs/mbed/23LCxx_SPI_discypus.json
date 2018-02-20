@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Chihiro H",
+        "url": "https://os.mbed.com/users/discypus/"
+    },
+    "description": "Microchip SPI SRAM (23LC1024, 23LC512) access library.",
+    "frameworks": "mbed",
+    "keywords": [
+        "23LC1024",
+        "23LC512",
+        "Microchip",
+        "SPI",
+        "sram"
+    ],
+    "name": "23LCxx_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/discypus/code/23LCxx_SPI/"
+    }
+}

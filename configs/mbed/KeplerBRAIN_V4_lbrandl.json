@@ -6,6 +6,8 @@
     "description": "Library for the KeplerBRAIN Robotik Education System",
     "frameworks": "mbed",
     "keywords": [
+        "TFT",
+        "Touchscreen",
         "BlinkLabel",
         "BUTTON",
         "DISCO-F746",
@@ -15,16 +17,7 @@
         "NumericLabel",
         "ResetButton",
         "SeekBar",
-        "SeekbarGroup",
-        "ethernet",
-        "NetServices",
-        "network",
-        "TCP",
-        "UDP",
-        "Adafruit",
-        "LCD",
-        "ST7735",
-        "TFT"
+        "SeekbarGroup"
     ],
     "name": "KeplerBRAIN_V4",
     "platforms": "*",

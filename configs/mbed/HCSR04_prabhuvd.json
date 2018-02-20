@@ -18,6 +18,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "interrupt",
+        "keypad",
+        "ANSI",
+        "Serial",
+        "Terminal",
         "Freescale",
         "sensing",
         "touch",
@@ -25,15 +30,9 @@
         "RangeFinder",
         "SRF05",
         "ultrasonic",
-        "ANSI",
-        "Serial",
-        "Terminal",
         "sensor",
         "Ultrasonic Ranging",
-        "Ultrasound Sensor",
-        "HD44780",
-        "PCF2116",
-        "TextLCD"
+        "Ultrasound Sensor"
     ],
     "name": "HCSR04",
     "platforms": "*",

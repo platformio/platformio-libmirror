@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Mederic Melard",
+        "url": "https://os.mbed.com/users/mederic/"
+    },
+    "description": "EEprom i2c 24AA08 & 24LC08 (no Address pin) library control",
+    "frameworks": "mbed",
+    "keywords": [
+        "24AA08",
+        "24LC08",
+        "EEPROM",
+        "memory"
+    ],
+    "name": "Ee24xx08",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mederic/code/Ee24xx08/"
+    }
+}

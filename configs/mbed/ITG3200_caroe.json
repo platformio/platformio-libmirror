@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Bo Carøe",
+        "url": "https://os.mbed.com/users/caroe/"
+    },
+    "description": "ITG3200 from BlazeX",
+    "examples": [
+        "https://os.mbed.com/users/caroe/code/Sensor_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ITG3200",
+    "name": "ITG3200",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/caroe/code/ITG3200/"
+    }
+}

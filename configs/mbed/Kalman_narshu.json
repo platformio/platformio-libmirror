@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Shuto Naruse",
+        "url": "https://os.mbed.com/users/narshu/"
+    },
+    "description": "Kalman",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "acelerometro",
+        "club",
+        "cuadricoptero",
+        "cuadrotor",
+        "fiuba",
+        "I2C",
+        "quadrotor",
+        "robotica",
+        "vuelo",
+        "CloudConnector",
+        "etherios",
+        "IOT"
+    ],
+    "name": "Kalman",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/narshu/code/Kalman/"
+    }
+}

@@ -15,7 +15,9 @@
         "filter",
         "median",
         "outlier",
-        "spikes"
+        "spikes",
+        "compass",
+        "HMC5883L"
     ],
     "name": "filter",
     "platforms": "*",

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Allen Wild",
+        "url": "https://os.mbed.com/users/aswild/"
+    },
+    "description": "Controls a single ShiftBrite LED",
+    "examples": [
+        "https://os.mbed.com/users/aswild/code/4180_L1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Dynamic",
+        "led",
+        "tlc5940"
+    ],
+    "name": "ShiftBrite",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aswild/code/ShiftBrite/"
+    }
+}

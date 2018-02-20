@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "nadjib sahouli",
+        "url": "https://os.mbed.com/users/nadjibotics/"
+    },
+    "description": "nrf905 trancsiever library",
+    "frameworks": "mbed",
+    "keywords": "nrf_905",
+    "name": "nrf_905",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nadjibotics/code/nrf_905/"
+    }
+}

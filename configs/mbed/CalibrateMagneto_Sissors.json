@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "Background calibration for magnetometers, both gain and offset errors are removed (hard/soft iron).",
+    "examples": [
+        "https://os.mbed.com/teams/Bremen-Team-B/code/SML2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Calibrate",
+        "compass",
+        "Magneto"
+    ],
+    "name": "CalibrateMagneto",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/CalibrateMagneto/"
+    }
+}

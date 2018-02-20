@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Mathieu Garivet",
+        "url": "https://os.mbed.com/users/garivetm/"
+    },
+    "description": "CAN library containing a CAN controller object handling a FIFO, and CAN peripherals attached to it.",
+    "frameworks": "mbed",
+    "keywords": [
+        "CAN",
+        "can bus",
+        "FIFO"
+    ],
+    "name": "CAN_FIFO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/garivetm/code/CAN_FIFO/"
+    }
+}

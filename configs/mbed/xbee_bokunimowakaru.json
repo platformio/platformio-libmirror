@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Wataru Kunino",
+        "url": "https://os.mbed.com/users/bokunimowakaru/"
+    },
+    "description": "ZB Coord API for XBee:",
+    "examples": [
+        "https://os.mbed.com/users/bokunimowakaru/code/sample02_sw/",
+        "https://os.mbed.com/users/bokunimowakaru/code/xbee_aging/",
+        "https://os.mbed.com/users/bokunimowakaru/code/sample01_led/",
+        "https://os.mbed.com/users/bokunimowakaru/code/sample04_sens/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AK8975",
+        "compass",
+        "I2C",
+        "Magneto",
+        "magnetometer",
+        "xbee",
+        "ZB",
+        "zigbee",
+        "jsmn",
+        "JSON"
+    ],
+    "name": "xbee",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bokunimowakaru/code/xbee/"
+    }
+}

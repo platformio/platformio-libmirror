@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Weiyu Liu",
+        "url": "https://os.mbed.com/users/wliu88/"
+    },
+    "description": "Mbed driver for adafruit trellis.",
+    "examples": [
+        "https://os.mbed.com/users/wliu88/code/Adafruit_Trellis_Hello_World/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "stm32",
+        "conversion",
+        "Thermocouple"
+    ],
+    "name": "Adafruit_Trellis",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wliu88/code/Adafruit_Trellis/"
+    }
+}

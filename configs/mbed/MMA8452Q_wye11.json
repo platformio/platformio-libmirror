@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "William Ye",
+        "url": "https://os.mbed.com/users/wye11/"
+    },
+    "description": "accelerator",
+    "frameworks": "mbed",
+    "keywords": [
+        "2.4",
+        "LCD",
+        "MCUFRIEND",
+        "TFT",
+        "aconno",
+        "Nordic",
+        "nrf52"
+    ],
+    "name": "MMA8452Q",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wye11/code/MMA8452Q/"
+    }
+}

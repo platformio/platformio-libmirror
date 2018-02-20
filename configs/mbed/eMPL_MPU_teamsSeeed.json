@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Seeed",
+        "url": "https://os.mbed.com/teams/Seeed/"
+    },
+    "description": "motion library for mpu6050, mpu9250 and etc, supports i2c and spi",
+    "frameworks": "mbed",
+    "keywords": [
+        "mutex",
+        "rtos",
+        "MPU6050",
+        "MPU9250",
+        "HY-1.8",
+        "ST7735"
+    ],
+    "name": "eMPL_MPU",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Seeed/code/eMPL_MPU/"
+    }
+}

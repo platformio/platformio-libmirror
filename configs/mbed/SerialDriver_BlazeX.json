@@ -10,14 +10,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Algebra.",
-        "matrix",
-        "vector",
-        "GPS",
-        "Serial",
         "Buffered",
         "ROS",
-        "UART"
+        "Serial",
+        "UART",
+        "SPI",
+        "C12832",
+        "LCD",
+        "rtos",
+        "KL25z",
+        "MAG3110",
+        "Wi-Go"
     ],
     "name": "SerialDriver",
     "platforms": "*",

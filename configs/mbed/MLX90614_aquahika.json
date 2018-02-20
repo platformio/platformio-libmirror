@@ -15,10 +15,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "TSL2560",
-        "TSL2561",
         "Melexis",
-        "MLX90614"
+        "MLX90614",
+        "2x40",
+        "40x2",
+        "HD44780",
+        "LCD",
+        "ST7066U",
+        "range",
+        "sensor",
+        "SRF08"
     ],
     "name": "MLX90614",
     "platforms": "*",

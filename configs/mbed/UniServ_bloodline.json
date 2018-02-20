@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Matt Parsons",
+        "url": "https://os.mbed.com/users/bloodline/"
+    },
+    "description": "A Servo control library that works on any output pin, not just the PWM pins",
+    "frameworks": "mbed",
+    "keywords": [
+        "output",
+        "pwm",
+        "Servo"
+    ],
+    "name": "UniServ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bloodline/code/UniServ/"
+    }
+}

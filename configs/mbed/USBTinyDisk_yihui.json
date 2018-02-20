@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Yihui Xiong",
+        "url": "https://os.mbed.com/users/yihui/"
+    },
+    "description": "USB tiny disk",
+    "examples": [
+        "https://os.mbed.com/users/yihui/code/USBTinyDisk_Arch/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "1",
+        "2",
+        "digimesh",
+        "Series",
+        "Wi-Fi",
+        "xbee",
+        "zigbee",
+        "fs",
+        "USB",
+        "JY901"
+    ],
+    "name": "USBTinyDisk",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yihui/code/USBTinyDisk/"
+    }
+}

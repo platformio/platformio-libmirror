@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Roberto D'Amico",
+        "url": "https://os.mbed.com/users/bobboteck/"
+    },
+    "description": "A Library to control I2C SRF02 sensor",
+    "examples": [
+        "https://os.mbed.com/users/BPPearson/code/LPC1768BagSensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AM2321",
+        "Humidity",
+        "I2C",
+        "sensor",
+        "Temperature",
+        "Ranging",
+        "SRF02",
+        "ultrasonic",
+        "Luminosity",
+        "Lux"
+    ],
+    "name": "SRF02",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bobboteck/code/SRF02/"
+    }
+}

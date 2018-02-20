@@ -17,16 +17,7 @@
         "https://os.mbed.com/users/dudmuck/code/hid_test/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "touch",
-        "EEPROM",
-        "flash",
-        "stm32f10x",
-        "Radio",
-        "transceiver",
-        "NTP",
-        "SerialHalfDuplex"
-    ],
+    "keywords": "SX127x",
     "name": "SX127x",
     "platforms": "*",
     "repository": {

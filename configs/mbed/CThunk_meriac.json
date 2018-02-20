@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Milosch Meriac",
+        "url": "https://os.mbed.com/users/meriac/"
+    },
+    "description": "General thunking class to allow C-style callbacks to C++ class members - including optional parameters.",
+    "examples": [
+        "https://os.mbed.com/users/meriac/code/cthunk_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "CThunk",
+    "name": "CThunk",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/meriac/code/CThunk/"
+    }
+}

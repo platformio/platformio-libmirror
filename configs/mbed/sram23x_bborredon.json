@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "bernard borredon",
+        "url": "https://os.mbed.com/users/bborredon/"
+    },
+    "description": "SPI SRAM 23X library",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "mBuino",
+        "MMA8453",
+        "retro"
+    ],
+    "name": "sram23x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bborredon/code/sram23x/"
+    }
+}

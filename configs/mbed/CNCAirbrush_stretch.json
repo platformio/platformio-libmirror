@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Adam Resnick",
+        "url": "https://os.mbed.com/users/stretch/"
+    },
+    "description": "Specifically for CNCAirbrush",
+    "examples": [
+        "https://os.mbed.com/users/stretch/code/CNCAirbrushCode/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "CNCAirbrush",
+    "name": "CNCAirbrush",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/stretch/code/CNCAirbrush/"
+    }
+}

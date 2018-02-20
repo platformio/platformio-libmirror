@@ -21,9 +21,12 @@
         "vector",
         "GPS",
         "Serial",
-        "Buffered",
-        "ROS",
-        "UART"
+        "api",
+        "mode",
+        "xbee",
+        "zigbee",
+        "FAT",
+        "SD"
     ],
     "name": "SerialGPS",
     "platforms": "*",

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Sean Elward",
+        "url": "https://os.mbed.com/users/EE397A/"
+    },
+    "description": "SHT1x",
+    "frameworks": "mbed",
+    "keywords": [
+        "FRDM-K22F",
+        "fxos8700cq",
+        "nRF2401A",
+        "ALS",
+        "ambient light sensor",
+        "I2C",
+        "ISL29125",
+        "rgb"
+    ],
+    "name": "SHT1x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/EE397A/code/SHT1x/"
+    }
+}

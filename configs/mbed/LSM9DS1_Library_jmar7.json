@@ -19,17 +19,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "filter",
-        "IMU",
-        "orientation"
+        "LPC4088",
+        "Lora",
+        "Semtech",
+        "SX1276",
+        "SX1276Lib",
+        "SX1276MB1xAS"
     ],
     "name": "LSM9DS1_Library",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/jmar7/code/LSM9DS1_Library/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/jmar7/code/LSM9DS1_Library/"
     }
 }

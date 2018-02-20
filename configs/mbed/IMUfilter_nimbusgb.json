@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Ian Molesworth",
+        "url": "https://os.mbed.com/users/nimbusgb/"
+    },
+    "description": "IMUfilter",
+    "frameworks": "mbed",
+    "keywords": [
+        "APDS",
+        "APDS9960",
+        "Gesture",
+        "sensor"
+    ],
+    "name": "IMUfilter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nimbusgb/code/IMUfilter/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Mike Panetta",
+        "url": "https://os.mbed.com/users/mpanetta/"
+    },
+    "description": "Modifid library for m3pi",
+    "examples": [
+        "https://os.mbed.com/users/mpanetta/code/BeaconAvoid/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GPS",
+        "8563",
+        "LPC1768",
+        "PCF",
+        "PCF8563"
+    ],
+    "name": "m3pi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mpanetta/code/m3pi/"
+    }
+}

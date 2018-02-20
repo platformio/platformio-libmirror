@@ -16,11 +16,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Art-Net",
-        "DMX",
-        "DMX512",
-        "ethernet",
-        "UDP"
+        "acc",
+        "gyro",
+        "MPU6050"
     ],
     "name": "NTPClient",
     "platforms": "*",

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "tarou yamada",
+        "url": "https://os.mbed.com/users/inst/"
+    },
+    "description": "PID",
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed",
+        "mcugear",
+        "I2C",
+        "LCD",
+        "mbd2pmd",
+        "pmod"
+    ],
+    "name": "PID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/inst/code/PID/"
+    }
+}

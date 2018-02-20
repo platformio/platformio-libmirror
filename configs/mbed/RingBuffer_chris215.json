@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "christian b",
+        "url": "https://os.mbed.com/users/chris215/"
+    },
+    "description": "Ringbuffer class",
+    "frameworks": "mbed",
+    "keywords": "RingBuffer",
+    "name": "RingBuffer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chris215/code/RingBuffer/"
+    }
+}

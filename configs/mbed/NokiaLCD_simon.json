@@ -18,6 +18,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Cup",
+        "Freescale",
         "6100",
         "6610",
         "mobileLCD",
@@ -29,11 +31,7 @@
         "MCP23017",
         "wattbob",
         "tcp/ip",
-        "WebSocket",
-        "m3pi",
-        "maze",
-        "music",
-        "sensors"
+        "WebSocket"
     ],
     "name": "NokiaLCD",
     "platforms": "*",

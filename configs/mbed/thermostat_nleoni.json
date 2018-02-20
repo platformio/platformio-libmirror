@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "napoleon leoni",
+        "url": "https://os.mbed.com/users/nleoni/"
+    },
+    "description": "Thermostat class implements basic functionality of a thermostat",
+    "frameworks": "mbed",
+    "keywords": "thermostat",
+    "name": "thermostat",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nleoni/code/thermostat/"
+    }
+}

@@ -14,14 +14,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "SuperTweet",
-        "I2C",
-        "software",
         "blinking",
         "led",
-        "adc",
-        "dac",
-        "PCF8591"
+        "16x2",
+        "freetronics",
+        "LCD",
+        "dynamixel",
+        "MX28",
+        "Servo"
     ],
     "name": "Blinker",
     "platforms": "*",

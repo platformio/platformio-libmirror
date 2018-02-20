@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "Library for Siemens SDA5708 8 digit LED matrix display. The control interface is SPI.",
+    "examples": [
+        "https://os.mbed.com/users/wim/code/mbed_SDA5708/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "matrix",
+        "SDA5708"
+    ],
+    "name": "SDA5708",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/SDA5708/"
+    }
+}

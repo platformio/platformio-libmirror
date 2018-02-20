@@ -27,25 +27,24 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "External SD",
-        "file system",
-        "SDHC",
-        "SPI",
+        "AES",
+        "MD2",
+        "md5",
+        "RC4",
+        "SHA",
         "api",
         "network",
         "NSAPI",
         "socket",
-        "DC",
-        "motor",
-        "pwm"
+        "ROS",
+        "Callback",
+        "FunctionPointer",
+        "Functor"
     ],
     "name": "NetworkSocketAPI",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/teams/NetworkSocketAPI/code/NetworkSocketAPI/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/teams/NetworkSocketAPI/code/NetworkSocketAPI/"
     }
 }

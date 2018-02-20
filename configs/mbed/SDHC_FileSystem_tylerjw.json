@@ -15,13 +15,11 @@
         "file system",
         "SDHC",
         "SPI",
-        "api",
-        "network",
-        "NSAPI",
-        "socket",
-        "DC",
-        "motor",
-        "pwm"
+        "AppNearMe",
+        "NFC",
+        "fatfilesystem",
+        "LocalFileSystem",
+        "USBMSD"
     ],
     "name": "SDHC_FileSystem",
     "platforms": "*",

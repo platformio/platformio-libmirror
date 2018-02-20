@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Matthew Sessions",
+        "url": "https://os.mbed.com/users/Dogcatfee/"
+    },
+    "description": "kl43z compatible",
+    "examples": [
+        "https://os.mbed.com/teams/ECE-111-at-Oregon-State-University/code/Lab2_kl43z/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "3pi",
+        "library",
+        "m3dpi",
+        "m3pi",
+        "pololu",
+        "robot"
+    ],
+    "name": "SLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Dogcatfee/code/SLCD/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Daiki Kato",
+        "url": "https://os.mbed.com/users/dkato/"
+    },
+    "description": "The PWM library using the \"Reset-Synchronized PWM mode\" of \"multi-function timer pulse unit 2 (MTU2)\".",
+    "examples": [
+        "https://os.mbed.com/users/dkato/code/Motor_Control_using_lib/",
+        "https://os.mbed.com/teams/Micon-Car-Rally-with-Renesas/code/Motor_Control_API/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GR-PEACH",
+        "pwm"
+    ],
+    "name": "PwmOutResetSync",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dkato/code/PwmOutResetSync/"
+    }
+}

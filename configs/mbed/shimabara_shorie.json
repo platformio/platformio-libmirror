@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "seiichi horie",
+        "url": "https://os.mbed.com/users/shorie/"
+    },
+    "description": "First publishment of Shimabara Audio Codec Controller library. Including code for ADAU1361 and UMB-ADAU1361A. Working pretty fine. Checked with LPCXpresso 4337 and Unzen_lpc4337",
+    "examples": [
+        "https://os.mbed.com/users/shorie/code/unzen_sample_LPC4088_quickstart/",
+        "https://os.mbed.com/users/shorie/code/unzen_sample_lpcxpresso_4337_callbacks/",
+        "https://os.mbed.com/users/shorie/code/unzen_sample_nucleo_f746/",
+        "https://os.mbed.com/users/GSMCustomEffects/code/unzen_delay_sample_nucleo_f746/",
+        "https://os.mbed.com/users/shorie/code/skeleton_unzen_nucleo_f746/",
+        "https://os.mbed.com/users/shorie/code/ifmag_noise_canceller/",
+        "https://os.mbed.com/users/shorie/code/synthesizer_f746/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "20160515",
+    "name": "shimabara",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shorie/code/shimabara/"
+    }
+}

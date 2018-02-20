@@ -6,15 +6,15 @@
     "description": "IRremote",
     "frameworks": "mbed",
     "keywords": [
-        "Nucleo",
-        "stm32",
-        "Wi-Fi",
-        "X-NUCLEO-IDW01M1",
         "38kHz",
         "IR",
         "remote",
-        "LCD",
-        "ST7565"
+        "quadcopter",
+        "Servo",
+        "NeoPixel",
+        "nRF51822",
+        "RedBear",
+        "WS2812"
     ],
     "name": "IRremote",
     "platforms": "*",

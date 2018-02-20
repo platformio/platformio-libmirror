@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Wim De Roeve",
+        "url": "https://os.mbed.com/users/Wimpie/"
+    },
+    "description": "PCD8544LCD",
+    "frameworks": "mbed",
+    "keywords": [
+        "clock",
+        "ds1307",
+        "real",
+        "RTC",
+        "time",
+        "Encoder",
+        "QEI",
+        "quadrature"
+    ],
+    "name": "PCD8544LCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Wimpie/code/PCD8544LCD/"
+    }
+}

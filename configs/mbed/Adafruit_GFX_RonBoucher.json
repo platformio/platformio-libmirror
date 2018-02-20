@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Ronald Boucher",
+        "url": "https://os.mbed.com/users/RonBoucher/"
+    },
+    "description": "gfx library for ssd1351",
+    "frameworks": "mbed",
+    "keywords": [
+        "C027",
+        "C030",
+        "CellularInterface",
+        "u-blox"
+    ],
+    "name": "Adafruit_GFX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RonBoucher/code/Adafruit_GFX/"
+    }
+}

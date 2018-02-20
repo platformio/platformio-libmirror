@@ -18,16 +18,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "demo",
-        "HX711",
-        "Nucleo",
+        "IR",
+        "remote",
         "AD",
         "da",
-        "SPI",
-        "DOG-M",
-        "DOGM",
-        "LCD",
-        "ST7036"
+        "Nucleo",
+        "SPI"
     ],
     "name": "UIT_ADDA",
     "platforms": "*",

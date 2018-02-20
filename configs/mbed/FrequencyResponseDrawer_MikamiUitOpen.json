@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "FrqRespDrawer class to draw frequency response for digital filter.",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_SD_WavPlayer/",
+        "https://os.mbed.com/users/edamame22/code/F746_SD_GraphicEqualizer_ren0620/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_FrequencyResponseDrawer_Demo/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_SD_VarableFilter/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_SD_GraphicEqualizer/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_MySoundMachine/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "dB",
+        "digital filter",
+        "DISCO-F746",
+        "frequency response",
+        "log scale",
+        "Mikami"
+    ],
+    "name": "FrequencyResponseDrawer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/FrequencyResponseDrawer/"
+    }
+}

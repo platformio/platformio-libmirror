@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Marijn Billiet",
+        "url": "https://os.mbed.com/users/dipi/"
+    },
+    "description": "Library to communicate with the AD5933 Impedance meter chip",
+    "frameworks": "mbed",
+    "keywords": [
+        "AD5933",
+        "AD5934",
+        "Capacitance",
+        "impedance",
+        "measure",
+        "Meter",
+        "resistance",
+        "ethernet",
+        "socket",
+        "W5500",
+        "ADF4360",
+        "C027;",
+        "G350;",
+        "GPS;",
+        "SARA",
+        "can bus",
+        "Nucleo",
+        "NUCLEO-F103RB"
+    ],
+    "name": "AD5933",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dipi/code/AD5933/"
+    }
+}

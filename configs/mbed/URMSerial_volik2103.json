@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Vladimir Taburceanu",
+        "url": "https://os.mbed.com/users/volik2103/"
+    },
+    "description": "urm37 spi arduino",
+    "examples": [
+        "https://os.mbed.com/users/volik2103/code/urm37/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "358",
+        "Adafruit",
+        "TFT",
+        "DFRobot",
+        "etti",
+        "ultrasonic",
+        "urm37"
+    ],
+    "name": "URMSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/volik2103/code/URMSerial/"
+    }
+}

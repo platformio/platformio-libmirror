@@ -6,8 +6,14 @@
     "description": "秋月販売のL3GD20使用8pinDIPジャイロセンサーモジュールのライブラリです。",
     "frameworks": "mbed",
     "keywords": [
-        "L3GD20",
-        "scp1000"
+        "Sensirion",
+        "SHT21",
+        "display",
+        "graphic",
+        "LCD",
+        "QVGA",
+        "TFT",
+        "L3GD20"
     ],
     "name": "L3GD20",
     "platforms": "*",

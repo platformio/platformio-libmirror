@@ -24,7 +24,11 @@
         "Serial",
         "UART",
         "velocity",
-        "helloworld"
+        "OLED",
+        "TextLCD",
+        "WEH000802",
+        "WEH001602",
+        "Winstar"
     ],
     "name": "MIDI",
     "platforms": "*",

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Robert Ellis",
+        "url": "https://os.mbed.com/users/Phlaphead/"
+    },
+    "description": "SparkFun SerLCD v2.5 controller",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "Serial",
+        "sparkfun"
+    ],
+    "name": "LCDSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Phlaphead/code/LCDSerial/"
+    }
+}

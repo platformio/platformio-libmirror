@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Mark Peter Vargha",
+        "url": "https://os.mbed.com/users/vargham/"
+    },
+    "description": "Button class with auto repeat function.",
+    "frameworks": "mbed",
+    "keywords": "Button",
+    "name": "Button",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vargham/code/Button/"
+    }
+}

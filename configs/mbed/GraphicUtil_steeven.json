@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "steeven lee",
+        "url": "https://os.mbed.com/users/steeven/"
+    },
+    "description": "General graphics tool",
+    "examples": [
+        "https://os.mbed.com/users/steeven/code/EPD_GDE021A1_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "canvas",
+        "graphic"
+    ],
+    "name": "GraphicUtil",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/steeven/code/GraphicUtil/"
+    }
+}

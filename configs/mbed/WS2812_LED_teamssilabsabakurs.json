@@ -1,0 +1,45 @@
+{
+    "authors": {
+        "name": "silabs-abakurs",
+        "url": "https://os.mbed.com/teams/silabs-abakurs/"
+    },
+    "description": "WS2812 LED driver",
+    "examples": [
+        "https://os.mbed.com/users/fastestoffer/code/WS2812-Example/",
+        "https://os.mbed.com/teams/silabs-abakurs/code/WS2812-Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "50%",
+        "Digital",
+        "digitalOut",
+        "duty",
+        "flash",
+        "Flasher",
+        "interrupt",
+        "led",
+        "Out",
+        "Pin",
+        "pulse",
+        "pulser",
+        "pwm",
+        "seconds",
+        "Ticker",
+        "Toggle",
+        "toggler",
+        "wait",
+        "HTTPServer",
+        "WiFly",
+        "accelerometer",
+        "compass",
+        "eCompass",
+        "magnetometer",
+        "sensor"
+    ],
+    "name": "WS2812_LED",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/silabs-abakurs/code/WS2812_LED/"
+    }
+}

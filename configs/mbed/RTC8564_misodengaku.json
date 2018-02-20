@@ -5,7 +5,17 @@
     },
     "description": "RTC8564",
     "frameworks": "mbed",
-    "keywords": "RTC8564",
+    "keywords": [
+        "current",
+        "I2C",
+        "INA219",
+        "Power",
+        "voltage",
+        "duty cycle",
+        "measurement",
+        "pwm",
+        "timer2"
+    ],
     "name": "RTC8564",
     "platforms": "*",
     "repository": {

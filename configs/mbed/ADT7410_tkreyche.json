@@ -12,13 +12,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GPS",
-        "parse",
         "ADT7410",
-        "Encoder",
-        "QEI",
-        "qudrature",
-        "rotary"
+        "Humidity",
+        "I2C",
+        "sht11",
+        "SHT15",
+        "SHT71",
+        "SHT75",
+        "Temperature",
+        "DHT22",
+        "RHT03"
     ],
     "name": "ADT7410",
     "platforms": "*",

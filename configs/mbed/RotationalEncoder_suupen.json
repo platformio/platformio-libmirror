@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "suu pen",
+        "url": "https://os.mbed.com/users/suupen/"
+    },
+    "description": "2 Phase different signals rotational encoder library",
+    "examples": [
+        "https://os.mbed.com/users/suupen/code/RotationalEncoder_Hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "bmp280",
+        "pressure",
+        "Temperature",
+        "Encoder",
+        "rotaional",
+        "CNCAirbrush"
+    ],
+    "name": "RotationalEncoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/suupen/code/RotationalEncoder/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "tetsuya Ogata",
+        "url": "https://os.mbed.com/users/ogata_lab/"
+    },
+    "description": "Toshiba TA8428 fullbridge motor driver IC driver for mbed.",
+    "examples": [
+        "https://os.mbed.com/users/ogata_lab/code/Enpra_practice06/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "full-bridge",
+        "motor",
+        "TA8428"
+    ],
+    "name": "TA8428",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ogata_lab/code/TA8428/"
+    }
+}

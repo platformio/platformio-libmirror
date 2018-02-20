@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Christopher Haster",
+        "url": "https://os.mbed.com/users/geky/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "NetworkSocketAPI"
+            ],
+            "frameworks": "mbed",
+            "name": "LWIPInterface"
+        }
+    ],
+    "description": "Simple HTTP example",
+    "frameworks": "mbed",
+    "keywords": [
+        "HC-SR04",
+        "Microbit",
+        "ultrasound"
+    ],
+    "name": "SimpleHTTPExample",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/geky/code/SimpleHTTPExample/"
+    }
+}

@@ -18,32 +18,23 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "MCP3201",
+        "MCP3204",
+        "MCP3208",
+        "SPI",
         "hotboards",
         "keyboard",
-        "debug",
-        "debugging",
-        "Serial",
-        "term",
-        "Terminal",
         "Kinematics",
         "lauther",
         "math",
         "matrix",
         "robot",
-        "Robotics",
-        "ShiftRegister",
-        "TextLCD",
-        "Display Module",
-        "emwin",
-        "LPC4088DM"
+        "Robotics"
     ],
     "name": "Kinematics",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/Yo_Robot/code/Kinematics/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/Yo_Robot/code/Kinematics/"
     }
 }

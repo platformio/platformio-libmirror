@@ -6,10 +6,6 @@
     "description": "Provides an API software interface to TIMER2 to control upto four stepper motors.",
     "frameworks": "mbed",
     "keywords": [
-        "pressure",
-        "scp1000",
-        "sensor",
-        "Temperature",
         "motor",
         "Stepper",
         "BLE",
@@ -18,7 +14,14 @@
         "SSL",
         "TLS",
         "TLS1.3",
-        "wolfSSL"
+        "wolfSSL",
+        "Digital",
+        "Input",
+        "output",
+        "pulse",
+        "SPG20-332",
+        "stepping",
+        "TA7774"
     ],
     "name": "SimpleSteppers",
     "platforms": "*",

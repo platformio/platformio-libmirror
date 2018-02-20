@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Samuel Mokrani",
+        "url": "https://os.mbed.com/users/samux/"
+    },
+    "description": "Remote Procedure Call (RPC) over Websockets (uses MbedJSONValue)",
+    "examples": [
+        "https://os.mbed.com/users/samux/code/RPC_mbed_client/",
+        "https://os.mbed.com/users/samux/code/RPC_Wifly_HelloWorld/",
+        "https://os.mbed.com/users/samux/code/RPC_Ethernet_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "NTP",
+        "SNTP",
+        "W5500",
+        "Wiznet",
+        "ADS7843",
+        "TouchPanel",
+        "XPT2046",
+        "C12832",
+        "C12832A1Z",
+        "MBED Application Board"
+    ],
+    "name": "MbedJSONRpc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/samux/code/MbedJSONRpc/"
+    }
+}

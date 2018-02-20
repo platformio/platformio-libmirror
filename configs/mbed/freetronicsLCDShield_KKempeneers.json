@@ -11,12 +11,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "H-bridge",
-        "library",
-        "motor",
-        "motor driver",
-        "solenoid",
-        "stepper motor"
+        "A/D",
+        "adc",
+        "SPI"
     ],
     "name": "freetronicsLCDShield",
     "platforms": "*",

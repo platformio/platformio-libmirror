@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Victor Hugo Sillerico Justo",
+        "url": "https://os.mbed.com/users/victorsillerico/"
+    },
+    "description": "This library let you manage a DC motor with the L298 module",
+    "frameworks": "mbed",
+    "keywords": [
+        "L298",
+        "motorDC",
+        "2wd",
+        "car",
+        "daisen",
+        "edes",
+        "I2C",
+        "robot",
+        "color",
+        "F103RB",
+        "led",
+        "mbed",
+        "Nucleo",
+        "shield",
+        "ST",
+        "interpreter",
+        "Pawn",
+        "pwm"
+    ],
+    "name": "Motordc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/victorsillerico/code/Motordc/"
+    }
+}

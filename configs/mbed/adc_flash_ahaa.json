@@ -12,12 +12,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Callback",
-        "FunctionPointer",
-        "Functor",
-        "esc",
-        "pwm",
-        "RC"
+        "External SD",
+        "file system",
+        "SDHC",
+        "SPI",
+        "AppNearMe",
+        "NFC",
+        "fatfilesystem",
+        "LocalFileSystem",
+        "USBMSD"
     ],
     "name": "adc",
     "platforms": "*",

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Geun Tae Kim",
+        "url": "https://os.mbed.com/users/lego/"
+    },
+    "description": "stepper motor unipolar",
+    "frameworks": "mbed",
+    "keywords": [
+        "Parallax X-Band",
+        "Radar",
+        "X-Band",
+        "DOGL",
+        "DOGL128",
+        "LCD",
+        "LCD 128x64",
+        "ST7565",
+        "ST7565R"
+    ],
+    "name": "STEPPER",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lego/code/STEPPER/"
+    }
+}

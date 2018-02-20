@@ -7,8 +7,11 @@
     "frameworks": "mbed",
     "keywords": [
         "RTX",
-        "NFC",
-        "PN532"
+        "DISCO_L476VG",
+        "LCD",
+        "AD-128160-UART",
+        "AITENDO",
+        "Serial"
     ],
     "name": "rtx",
     "platforms": "*",

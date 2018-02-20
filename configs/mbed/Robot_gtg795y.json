@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Pavel Rybakov",
+        "url": "https://os.mbed.com/users/gtg795y/"
+    },
+    "description": "Simple controller class for Stinger Robot without using Robotics Connection board.",
+    "frameworks": "mbed",
+    "keywords": [
+        "H-bridge",
+        "Moror",
+        "PID",
+        "QEI",
+        "Stinger",
+        "Ticker",
+        "at45",
+        "12-bit",
+        "dac",
+        "MCP4822",
+        "SPI"
+    ],
+    "name": "Robot",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gtg795y/code/Robot/"
+    }
+}

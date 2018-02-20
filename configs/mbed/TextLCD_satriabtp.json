@@ -9,13 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "card",
-        "SD",
-        "RIT",
+        "SHT21",
         "Altimeter",
         "MS5607",
         "pressure",
-        "Temperature"
+        "Temperature",
+        "rtos",
+        "Serial",
+        "UART"
     ],
     "name": "TextLCD",
     "platforms": "*",

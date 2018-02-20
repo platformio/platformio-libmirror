@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "GoogleChart.",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/GoogleChart_TestProgram/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GoogleChart",
+        "aconno",
+        "nrf52",
+        "UART"
+    ],
+    "name": "GoogleChart",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/GoogleChart/"
+    }
+}

@@ -9,10 +9,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "xml",
-        "802.15.4",
-        "wireless",
-        "xbee"
+        "barometer",
+        "MPL115A1",
+        "SPI",
+        "l3g4200d",
+        "lsm303dlm",
+        "minimu-9",
+        "3pi",
+        "m3pi",
+        "robot",
+        "xml"
     ],
     "name": "TINYXML",
     "platforms": "*",

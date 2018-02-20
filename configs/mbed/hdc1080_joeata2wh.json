@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Joseph Ellsworth",
+        "url": "https://os.mbed.com/users/joeata2wh/"
+    },
+    "description": "interface library to support TI hdc1080 humidity and temperature sensor",
+    "examples": [
+        "https://os.mbed.com/users/joeata2wh/code/xj-Nucleo-F303K8-hdc1080-test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Humidity",
+        "I2C",
+        "sensor"
+    ],
+    "name": "hdc1080",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/joeata2wh/code/hdc1080/"
+    }
+}

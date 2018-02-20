@@ -8,7 +8,13 @@
         "https://os.mbed.com/users/donatien/code/NetworkingCoreLib/"
     ],
     "frameworks": "mbed",
-    "keywords": "lwip_ppp_ethernet",
+    "keywords": [
+        "SSL",
+        "TLS",
+        "clock",
+        "ds1307",
+        "RTC"
+    ],
     "name": "lwip_ppp_ethernet",
     "platforms": "*",
     "repository": {

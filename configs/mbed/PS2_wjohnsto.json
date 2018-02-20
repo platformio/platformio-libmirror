@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "William Johnston",
+        "url": "https://os.mbed.com/users/wjohnsto/"
+    },
+    "description": "PS2 Library",
+    "examples": [
+        "https://os.mbed.com/users/wjohnsto/code/Pong/",
+        "https://os.mbed.com/users/ipapp3/code/Brickbreaker/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PS2",
+    "name": "PS2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wjohnsto/code/PS2/"
+    }
+}

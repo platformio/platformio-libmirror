@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Alex Liao",
+        "url": "https://os.mbed.com/users/alexliao1995/"
+    },
+    "description": "faf",
+    "frameworks": "mbed",
+    "keywords": [
+        "robot",
+        "Robotics",
+        "RT-component",
+        "RT-middleware"
+    ],
+    "name": "can",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/alexliao1995/code/can/"
+    }
+}

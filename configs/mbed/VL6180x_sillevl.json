@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Sille Van Landschoot",
+        "url": "https://os.mbed.com/users/sillevl/"
+    },
+    "description": "i2c driver for VL6180x distance sensor",
+    "examples": [
+        "https://os.mbed.com/users/sillevl/code/m3Dpi/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "uLCD-32PT(SGS)",
+        "distance",
+        "driver",
+        "sensor",
+        "VL6180x",
+        "kitt",
+        "led",
+        "scanner",
+        "DHT11",
+        "DHT22",
+        "Humidity",
+        "Temperature"
+    ],
+    "name": "VL6180x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sillevl/code/VL6180x/"
+    }
+}

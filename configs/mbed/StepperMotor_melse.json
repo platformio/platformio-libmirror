@@ -9,8 +9,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ADXL345",
-        "sparkfun"
+        "BLE",
+        "nRF8001",
+        "RedBearLab",
+        "ILI9341",
+        "TFT",
+        "MPU-9250",
+        "led",
+        "led strip",
+        "FRDM",
+        "KL46",
+        "kl46z",
+        "LCD",
+        "SLCD"
     ],
     "name": "StepperMotor",
     "platforms": "*",

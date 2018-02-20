@@ -9,19 +9,17 @@
         "https://os.mbed.com/users/alan1974/code/LoRAN_v2_dual_valve/",
         "https://os.mbed.com/users/pferland/code/XDOT-Devicewise/",
         "https://os.mbed.com/users/gorazdko/code/Dot-Examples-delujoc/",
-        "https://os.mbed.com/teams/WaterBit/code/loran_v3_i2cSlave/"
+        "https://os.mbed.com/teams/WaterBit/code/loran_v3_i2cSlave/",
+        "https://os.mbed.com/users/cakrueger2/code/Dot-Examples_receive/"
     ],
     "frameworks": "mbed",
     "keywords": [
+        "LPC4088",
         "Lora",
         "Semtech",
         "SX1276",
         "SX1276Lib",
-        "SX1276MB1xAS",
-        "STM32F030F4",
-        "STM32F030F4P6",
-        "LCD",
-        "text"
+        "SX1276MB1xAS"
     ],
     "name": "libxDot-mbed5",
     "platforms": "*",

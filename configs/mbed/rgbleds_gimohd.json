@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Kristof T'Jonck",
+        "url": "https://os.mbed.com/users/gimohd/"
+    },
+    "description": "Library for led",
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "rgb",
+        "ALS",
+        "ambient light sensor",
+        "Lux"
+    ],
+    "name": "rgb-leds",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gimohd/code/rgb-leds/"
+    }
+}

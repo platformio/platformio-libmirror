@@ -11,16 +11,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "NFC",
-        "PN532",
+        "HY-1.8",
+        "ST7735",
         "arbitrary precision",
         "bigint",
-        "bignum",
-        "DISCO_L476VG",
-        "LCD",
-        "AD-128160-UART",
-        "AITENDO",
-        "Serial"
+        "bignum"
     ],
     "name": "ttmath",
     "platforms": "*",

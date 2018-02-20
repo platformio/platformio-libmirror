@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Hiroaki Matsuda",
+        "url": "https://os.mbed.com/users/matsu/"
+    },
+    "description": "PAW_Sensor: This library control the PAW sensor.",
+    "examples": [
+        "https://os.mbed.com/users/matsu/code/PAW_Sensor_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "debug",
+        "ethernet",
+        "server",
+        "TCP",
+        "AT42QT1010",
+        "PAW",
+        "PAW Sensor"
+    ],
+    "name": "PAW_Sensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/matsu/code/PAW_Sensor/"
+    }
+}

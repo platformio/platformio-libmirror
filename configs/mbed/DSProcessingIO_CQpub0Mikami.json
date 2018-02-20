@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "CQpub0 Mikami",
+        "url": "https://os.mbed.com/users/CQpub0Mikami/"
+    },
+    "description": "Source lists for AD converter is explained on \"Interface\" No.10, CQ publishing Co.,Ltd, 2014.",
+    "examples": [
+        "https://os.mbed.com/users/CQpub0Mikami/code/FFT_Sampling/",
+        "https://os.mbed.com/users/CQpub0Mikami/code/FIR_LPF_Direct/",
+        "https://os.mbed.com/users/CQpub0Mikami/code/FIR_LPF_Symmetry/",
+        "https://os.mbed.com/users/CQpub0Mikami/code/IIR_LPF/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT_DemoSystem/",
+        "https://os.mbed.com/users/CQpub0Mikami/code/AD_DA/",
+        "https://os.mbed.com/users/CQpub0Mikami/code/Echo/",
+        "https://os.mbed.com/users/CQpub0Mikami/code/ADC_DAC_Hello/",
+        "https://os.mbed.com/users/CQpub0Mikami/code/FreqConv/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "dac",
+        "dual",
+        "MCP4922",
+        "Nucleo",
+        "single"
+    ],
+    "name": "DSProcessingIO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/CQpub0Mikami/code/DSProcessingIO/"
+    }
+}

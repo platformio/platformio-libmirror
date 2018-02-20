@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "modtronix H",
+        "url": "https://os.mbed.com/users/modtronix/"
+    },
+    "description": "Initial version for Modtronix LCD2S I2C and SPI serial LCD displays. For details, see http://modtronix.com/products-serial-lcd-board/",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD2S",
+        "modtronix"
+    ],
+    "name": "modtronix_LCD2S",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/modtronix/code/modtronix_LCD2S/"
+    }
+}

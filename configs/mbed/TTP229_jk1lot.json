@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Dai Yokota",
+        "url": "https://os.mbed.com/users/jk1lot/"
+    },
+    "description": "TTP229 16key touch keypad",
+    "examples": [
+        "https://os.mbed.com/users/jk1lot/code/TTP229_sample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "distance",
+        "Fischer",
+        "sensor",
+        "Technik",
+        "ultrasonic",
+        "driver",
+        "h- bridge",
+        "motor",
+        "motor driver",
+        "motors",
+        "touch keypad",
+        "TTP229"
+    ],
+    "name": "TTP229",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jk1lot/code/TTP229/"
+    }
+}

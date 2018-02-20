@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Toru OHTSUKA",
+        "url": "https://os.mbed.com/users/ohtsuka/"
+    },
+    "description": "You can use multiple clicks event with one button.",
+    "examples": [
+        "https://os.mbed.com/users/ohtsuka/code/multiclick_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "\\",
+        "manager\\",
+        "Scheduler",
+        "task",
+        "BUTTON",
+        "click",
+        "debounce",
+        "F411",
+        "Frequency Counter"
+    ],
+    "name": "MultiClick",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ohtsuka/code/MultiClick/"
+    }
+}

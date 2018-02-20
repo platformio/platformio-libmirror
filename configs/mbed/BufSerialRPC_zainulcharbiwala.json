@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Zainul Charbiwala",
+        "url": "https://os.mbed.com/users/zainulcharbiwala/"
+    },
+    "description": "Serial RPC Interface using the MODSERIAL library. Does not hang when serial port misbehaves.",
+    "frameworks": "mbed",
+    "keywords": [
+        "gmmp",
+        "IOT",
+        "SKTelecom",
+        "TCP",
+        "client",
+        "CoAP",
+        "protocol",
+        "server"
+    ],
+    "name": "BufSerialRPC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/zainulcharbiwala/code/BufSerialRPC/"
+    }
+}

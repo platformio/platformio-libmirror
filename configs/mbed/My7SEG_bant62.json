@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Hiroshi M",
+        "url": "https://os.mbed.com/users/bant62/"
+    },
+    "description": "Orignal AVR Tiny USI Based I2C slave Charlieplexing 7SEG LED Driver.",
+    "examples": [
+        "https://os.mbed.com/users/bant62/code/My7SEG_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ultrasonico",
+        "I2C",
+        "game",
+        "inheritance",
+        "OOP",
+        "polymorphism",
+        "tutorial"
+    ],
+    "name": "My7SEG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bant62/code/My7SEG/"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "frederic blanc",
+        "url": "https://os.mbed.com/users/fblanc/"
+    },
+    "description": "display control QVGA TFT MCB1700 KEIL",
+    "examples": [
+        "https://os.mbed.com/users/fblanc/code/Touch_Screen_MCB/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "color",
+        "led",
+        "rgb",
+        "Battery",
+        "c rate",
+        "driver",
+        "fuel gauge",
+        "li+",
+        "lithium",
+        "MAX17048",
+        "Maxim",
+        "sensor",
+        "soc",
+        "state of charge",
+        "vcell",
+        "keil",
+        "MCB1700",
+        "QVGA",
+        "TFT",
+        "ROS"
+    ],
+    "name": "GLCD_MCB1700",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fblanc/code/GLCD_MCB1700/"
+    }
+}

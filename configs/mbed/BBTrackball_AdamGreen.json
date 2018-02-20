@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Adam Green",
+        "url": "https://os.mbed.com/users/AdamGreen/"
+    },
+    "description": "Class to interface with Sparkfun's Blackberry Trackball Breakout Board.",
+    "examples": [
+        "https://os.mbed.com/users/AdamGreen/code/BBTrackball_Sample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "audio",
+        "billy bass",
+        "FRDM-KL25Z",
+        "Blackberry",
+        "Brreakout",
+        "sparkfun",
+        "trackball"
+    ],
+    "name": "BBTrackball",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AdamGreen/code/BBTrackball/"
+    }
+}

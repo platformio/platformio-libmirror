@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Waldemar Dworakowski",
+        "url": "https://os.mbed.com/users/Waldek/"
+    },
+    "description": "Software based digital input debouncer",
+    "frameworks": "mbed",
+    "keywords": [
+        "game",
+        "inheritance",
+        "OOP",
+        "polymorphism",
+        "tutorial"
+    ],
+    "name": "DigitalInDebounced",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Waldek/code/DigitalInDebounced/"
+    }
+}

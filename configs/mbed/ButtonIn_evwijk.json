@@ -6,9 +6,8 @@
     "description": "A debouncing InterruptIn wrapper",
     "frameworks": "mbed",
     "keywords": [
-        "CAN",
-        "FRDM-KL25Z",
-        "Seeed Studios"
+        "hash",
+        "md5"
     ],
     "name": "ButtonIn",
     "platforms": "*",

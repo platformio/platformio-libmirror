@@ -18,13 +18,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "1-wire",
+        "DS18B20",
         "SuperTweet",
-        "I2C",
-        "software",
-        "blinking",
-        "led",
+        "SHT21",
         "adc",
         "dac",
+        "I2C",
         "PCF8591"
     ],
     "name": "FRDM_MMA8451Q",

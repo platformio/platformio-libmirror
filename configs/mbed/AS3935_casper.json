@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "valentin spanu",
+        "url": "https://os.mbed.com/users/casper/"
+    },
+    "description": "Lightning detector AS3935 library from arduino ported to mbed.",
+    "examples": [
+        "https://os.mbed.com/users/takafuminaka/code/BLE_Lightning_sensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "IR",
+        "accelerometer",
+        "eCompass",
+        "fast",
+        "FRDM-KL46Z",
+        "magnetometer",
+        "digitalOut"
+    ],
+    "name": "AS3935",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/casper/code/AS3935/"
+    }
+}

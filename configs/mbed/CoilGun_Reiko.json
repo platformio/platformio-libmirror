@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Reiko Randoja",
+        "url": "https://os.mbed.com/users/Reiko/"
+    },
+    "description": "CoilGun",
+    "frameworks": "mbed",
+    "keywords": [
+        "4DSystems",
+        "audio",
+        "library",
+        "module",
+        "program",
+        "SOMO-14D",
+        "stm32",
+        "AD8556",
+        "amplifier",
+        "sensor",
+        "signal"
+    ],
+    "name": "CoilGun",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Reiko/code/CoilGun/"
+    }
+}

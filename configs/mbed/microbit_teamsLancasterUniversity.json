@@ -26,39 +26,11 @@
         "https://os.mbed.com/teams/microbit/code/microbit-hello-world/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "dal",
-        "lancaster",
-        "Microbit",
-        "DISCO_F746NG",
-        "LCD",
-        "Serial",
-        "SoftwareSerial",
-        "UART",
-        "FAT",
-        "file",
-        "SD",
-        "System",
-        "any",
-        "no",
-        "Pin",
-        "pwm",
-        "Servo",
-        "I2C",
-        "wattbob",
-        "ethernet",
-        "power consumption",
-        "power control",
-        "power management",
-        "PowerControl"
-    ],
+    "keywords": "microbit",
     "name": "microbit",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/teams/Lancaster-University/code/microbit/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/teams/Lancaster-University/code/microbit/"
     }
 }

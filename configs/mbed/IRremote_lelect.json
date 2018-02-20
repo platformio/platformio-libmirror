@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Tatsuki Fukuda",
+        "url": "https://os.mbed.com/users/lelect/"
+    },
+    "description": "First Commit",
+    "frameworks": "mbed",
+    "keywords": [
+        "IR",
+        "accelerometer",
+        "eCompass",
+        "fast",
+        "FRDM-KL46Z",
+        "magnetometer",
+        "digitalOut"
+    ],
+    "name": "IRremote",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lelect/code/IRremote/"
+    }
+}

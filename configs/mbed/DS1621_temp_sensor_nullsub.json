@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "loko u",
+        "url": "https://os.mbed.com/users/nullsub/"
+    },
+    "description": "A small library to read the tempature from ds1621(with little changes all those ds162x) devices over I2C.",
+    "frameworks": "mbed",
+    "keywords": [
+        "1621",
+        "ds1621",
+        "I2C"
+    ],
+    "name": "DS1621_temp_sensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nullsub/code/DS1621_temp_sensor/"
+    }
+}

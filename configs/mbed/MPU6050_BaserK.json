@@ -13,6 +13,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "DipCortex",
+        "USB device",
+        "FRDM-K64F",
+        "fxos8700cq",
         "accelerometer",
         "ANGLE",
         "complementary",
@@ -25,9 +29,7 @@
         "MPU6050",
         "Nucleo F411RE",
         "pitch",
-        "roll",
-        "time",
-        "timezone"
+        "roll"
     ],
     "name": "MPU6050",
     "platforms": "*",

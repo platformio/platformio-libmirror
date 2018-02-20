@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Oskar Weigl",
+        "url": "https://os.mbed.com/users/madcowswe/"
+    },
+    "description": "A fixed point library from Trenki http://www.trenki.net/content/view/17/1/ Slightly modified so that the fixed point data structure can automatically cast itself to float or int when used in an expression, and added the functionality to cast between precisions.",
+    "frameworks": "mbed",
+    "keywords": [
+        "BurstSPI",
+        "F411RE",
+        "arithmetic",
+        "fixed",
+        "point",
+        "ax12",
+        "dynamixel",
+        "motor",
+        "Servo"
+    ],
+    "name": "fixedpoint",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/madcowswe/code/fixedpoint/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Michael Shimniok",
+        "url": "https://os.mbed.com/users/shimniok/"
+    },
+    "description": "An interface for a simple, 1-track, incremental encoder.",
+    "examples": [
+        "https://os.mbed.com/users/shimniok/code/AVC_20110423/",
+        "https://os.mbed.com/users/rahulsharmak/code/incrementalencoder-pid-robot/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GraphicsDisplay",
+        "GUI",
+        "TextDisplay",
+        "I2C",
+        "LM75A"
+    ],
+    "name": "IncrementalEncoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shimniok/code/IncrementalEncoder/"
+    }
+}

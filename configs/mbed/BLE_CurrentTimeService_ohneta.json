@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Takehisa Oneta",
+        "url": "https://os.mbed.com/users/ohneta/"
+    },
+    "description": "BLE Current Time Service",
+    "frameworks": "mbed",
+    "keywords": [
+        "servos",
+        "slow",
+        "Speed",
+        "Graphics"
+    ],
+    "name": "BLE_CurrentTimeService",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ohneta/code/BLE_CurrentTimeService/"
+    }
+}

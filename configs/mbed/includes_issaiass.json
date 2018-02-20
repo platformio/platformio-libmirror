@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Rangel Alvarado",
+        "url": "https://os.mbed.com/users/issaiass/"
+    },
+    "description": "General include file. One file for all projects.",
+    "examples": [
+        "https://os.mbed.com/users/issaiass/code/STM32F030R8_SOMO-14D/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "include file",
+        "library"
+    ],
+    "name": "includes",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/issaiass/code/includes/"
+    }
+}

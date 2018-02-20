@@ -18,9 +18,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LPC1114",
-        "LPC1114FN28",
-        "mbed-sdk",
+        "I2C",
+        "LCD",
+        "Adafruit",
+        "ILI9340",
+        "stm32",
+        "driver",
+        "ethernet",
+        "PicoTCP",
+        "128x64",
+        "OLED",
+        "SSD1306",
         "event",
         "event-driven",
         "fully-preemptive",
@@ -28,21 +36,12 @@
         "rtos",
         "run-to-completion",
         "schedulling",
-        "single-stack",
-        "Adafruit",
-        "ILI9340",
-        "stm32",
-        "BH1750",
-        "digital light sensor",
-        "gy-30"
+        "single-stack"
     ],
     "name": "EthernetNetworkLib",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/donatien/code/EthernetNetworkLib/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/donatien/code/EthernetNetworkLib/"
     }
 }

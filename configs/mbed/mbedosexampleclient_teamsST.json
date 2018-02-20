@@ -5,7 +5,12 @@
     },
     "description": "Fork of https://developer.mbed.org/teams/mbed-os-examples/code/mbed-os-example-client/",
     "frameworks": "mbed",
-    "keywords": "mbed-os-example-client",
+    "keywords": [
+        "ethernet",
+        "tcp/ip",
+        "WiFly",
+        "WiflyInterface"
+    ],
     "name": "mbed-os-example-client",
     "platforms": "*",
     "repository": {

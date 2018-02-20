@@ -9,11 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "led",
+        "LPD8803",
+        "LPD8806",
+        "LPD8809",
+        "SPI",
         "OAuth",
-        "twitter",
-        "90393",
-        "MLX",
-        "mlx90393"
+        "twitter"
     ],
     "name": "OAuth4Tw",
     "platforms": "*",

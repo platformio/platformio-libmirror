@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Ryota Yamamoto",
+        "url": "https://os.mbed.com/users/Yajirushi/"
+    },
+    "description": "秋月電子などで販売されているSHARP製HR-TFTモノクロメモリ液晶を、直接駆動するためのライブラリです。",
+    "examples": [
+        "https://os.mbed.com/users/Yajirushi/code/SHARP_MEMORYLCD_WJ/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "xbee",
+        "HR-TFT",
+        "memory lcd",
+        "Monochrome LCD",
+        "Sharp"
+    ],
+    "name": "SH_MLCD_J",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Yajirushi/code/SH_MLCD_J/"
+    }
+}

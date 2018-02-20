@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Murat Kilivan",
+        "url": "https://os.mbed.com/users/mkilivan/"
+    },
+    "description": "An example HTTP Server library using new Ethernet Interface",
+    "examples": [
+        "https://os.mbed.com/users/mkilivan/code/HTMLServer_Sample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "filter",
+        "counter",
+        "interrupt",
+        "time",
+        "adc",
+        "Analog",
+        "calculate",
+        "convert",
+        "Linear",
+        "LM335",
+        "median",
+        "multiplier",
+        "offset",
+        "sensor",
+        "Temperature",
+        "voltage"
+    ],
+    "name": "HttpServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mkilivan/code/HttpServer/"
+    }
+}

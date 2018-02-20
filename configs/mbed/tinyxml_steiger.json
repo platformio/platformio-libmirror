@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Alexander Steiger",
+        "url": "https://os.mbed.com/users/steiger/"
+    },
+    "description": "a port of tinyxml lib",
+    "frameworks": "mbed",
+    "keywords": [
+        "cmsis",
+        "L152",
+        "Nucleo",
+        "rtos",
+        "RTX",
+        "parser",
+        "tinyxml",
+        "xml"
+    ],
+    "name": "tinyxml",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/steiger/code/tinyxml/"
+    }
+}

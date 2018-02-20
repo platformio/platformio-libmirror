@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "HO WING KIT",
+        "url": "https://os.mbed.com/users/hwkit/"
+    },
+    "description": "=DHT22 Temperature and Humidity Sensor=",
+    "frameworks": "mbed",
+    "keywords": [
+        "Humidity",
+        "sensor",
+        "Temperature",
+        "adc",
+        "ads1015",
+        "ads1115",
+        "4DGL"
+    ],
+    "name": "DHT22",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hwkit/code/DHT22/"
+    }
+}

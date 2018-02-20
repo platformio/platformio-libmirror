@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Janhavi Kulkarni",
+        "url": "https://os.mbed.com/users/janhavi/"
+    },
+    "description": "Wrapper library for ESP8266",
+    "examples": [
+        "https://os.mbed.com/users/janhavi/code/ESP8266_LOCALPHANT_KL25Z_UPDATED/",
+        "https://os.mbed.com/users/SIT2016/code/ESP8266_LocalPhant_KL25Z/",
+        "https://os.mbed.com/users/monish/code/LAB24_Coordinator/",
+        "https://os.mbed.com/users/eduvanceIoT/code/DataLoggingUsingESP8266/",
+        "https://os.mbed.com/users/eduvanceIoT/code/thingspeak/",
+        "https://os.mbed.com/users/rushabkarani/code/ESP8266_LocalPhant_KL25Z/",
+        "https://os.mbed.com/users/SIT2016/code/ESP8266_Node-Red_localPhant_KL25Z/",
+        "https://os.mbed.com/users/RITVIK_DAVE/code/IOT_LAB_WiFi_ldr_2Channels/",
+        "https://os.mbed.com/users/agaikwad/code/ESP8266_test/",
+        "https://os.mbed.com/users/SIT2016/code/thingspeak/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "10DOF",
+        "ADXL345",
+        "AHRS",
+        "BMP",
+        "dcm",
+        "FreeIMU",
+        "HMC5883L",
+        "Hobbyking",
+        "IMU",
+        "l3g4200d",
+        "quaternions"
+    ],
+    "name": "ESP8266",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/janhavi/code/ESP8266/"
+    }
+}

@@ -18,14 +18,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "uLCD144",
-        "fonts",
-        "TFT",
-        "kl46z",
+        "I2C",
         "LCD",
-        "SLCD",
-        "MQTT",
-        "MQTTClient"
+        "uLCD144",
+        "ESP8266"
     ],
     "name": "4DGL-uLCD-SE",
     "platforms": "*",

@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Wiljan Arias",
+        "url": "https://os.mbed.com/users/wyunreal/"
+    },
+    "description": "Simple library to manage the WatchDog timer, tested on LPC1768",
+    "frameworks": "mbed",
+    "keywords": [
+        "Nordic",
+        "nRF",
+        "nRF51422",
+        "nRF51822",
+        "timer",
+        "watchdog",
+        "Watch Dog Timer",
+        "WDT",
+        "LCD",
+        "APA102",
+        "led",
+        "rgb",
+        "ws2801"
+    ],
+    "name": "WatchDogTimer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wyunreal/code/WatchDogTimer/"
+    }
+}

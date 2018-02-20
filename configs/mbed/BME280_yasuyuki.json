@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "yasuyuki onodera",
+        "url": "https://os.mbed.com/users/yasuyuki/"
+    },
+    "description": "BME280 library",
+    "examples": [
+        "https://os.mbed.com/users/yasuyuki/code/mbed_BME280/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HD44780",
+        "http",
+        "SSL",
+        "TLS",
+        "BME280",
+        "23K256",
+        "23LC1024",
+        "DMA",
+        "FIFO",
+        "RAM",
+        "ring buffer",
+        "SPI",
+        "sram",
+        "basicauth"
+    ],
+    "name": "BME280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yasuyuki/code/BME280/"
+    }
+}

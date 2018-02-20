@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Krishna Kaushal Panduru",
+        "url": "https://os.mbed.com/users/kaushalpkk/"
+    },
+    "description": "TPA81",
+    "frameworks": "mbed",
+    "keywords": [
+        "GPS",
+        "device",
+        "USB",
+        "flash",
+        "S25FL216K",
+        "Serial"
+    ],
+    "name": "TPA81",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kaushalpkk/code/TPA81/"
+    }
+}

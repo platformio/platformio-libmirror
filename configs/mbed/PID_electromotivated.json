@@ -14,13 +14,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "current",
-        "I2C",
-        "INA219",
-        "Power",
-        "voltage",
         "control",
-        "PID"
+        "PID",
+        "W5200",
+        "WIZ820IO"
     ],
     "name": "PID",
     "platforms": "*",

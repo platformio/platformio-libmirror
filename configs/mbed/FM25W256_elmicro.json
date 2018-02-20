@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Elmicro Computer",
+        "url": "https://os.mbed.com/users/elmicro/"
+    },
+    "description": "Device Driver for RAMTRON FM25W256 SPI-driven FRAM",
+    "examples": [
+        "https://os.mbed.com/users/elmicro/code/RAMTRON_FM25W256/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BNO055",
+        "Elmicro",
+        "FM25W256",
+        "FRAM",
+        "RAMTRON",
+        "SPI",
+        "SSP1"
+    ],
+    "name": "FM25W256",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/elmicro/code/FM25W256/"
+    }
+}

@@ -9,13 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "card",
-        "SD",
-        "RIT",
-        "Altimeter",
-        "MS5607",
-        "pressure",
-        "Temperature"
+        "HTS221",
+        "LPS22HB",
+        "LSM303AGR",
+        "LSM6DSL",
+        "Nucleo",
+        "X-NUCLEO-IKS01A1",
+        "X-NUCLEO-IKS01A2"
     ],
     "name": "EthernetNetIf",
     "platforms": "*",

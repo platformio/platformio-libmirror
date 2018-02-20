@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "henning l",
+        "url": "https://os.mbed.com/users/hendreh/"
+    },
+    "description": "Stores data on the flash memory of stm32f4xx",
+    "frameworks": "mbed",
+    "keywords": "flash",
+    "name": "storage_on_flash",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hendreh/code/storage_on_flash/"
+    }
+}

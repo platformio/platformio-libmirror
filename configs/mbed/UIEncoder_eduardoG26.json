@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Eduardo de Mier",
+        "url": "https://os.mbed.com/users/eduardoG26/"
+    },
+    "description": "Library for manual Encoders as used in user interfaces.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Ascii",
+        "ASCIIGraph",
+        "graph",
+        "Serial",
+        "Terminal",
+        "mbed"
+    ],
+    "name": "UIEncoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eduardoG26/code/UIEncoder/"
+    }
+}

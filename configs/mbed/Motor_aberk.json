@@ -18,14 +18,20 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "clock",
+        "ds1307",
+        "I2C",
+        "RTC",
         "digitalOut",
         "H-bridge",
         "library",
         "motor",
         "PwmOut",
-        "2x16",
-        "I2C",
-        "LCD"
+        "BLE",
+        "Bluetooth Low Energy",
+        "ST",
+        "X-NUCLEO-IDB04A1",
+        "X-NUCLEO-IDB05A1"
     ],
     "name": "Motor",
     "platforms": "*",

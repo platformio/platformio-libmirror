@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "HAVRM mine",
+        "url": "https://os.mbed.com/users/hirokimineshita/"
+    },
+    "description": "このライブラリーはテストに作ったものです。近いうちに他の関数を加えた形でアップデートするつもりです。",
+    "examples": [
+        "https://os.mbed.com/users/hirokimineshita/code/Nucleo_L3GD20_MMA7361_Kalman/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "F401RE",
+        "L3GD20",
+        "Nucleo",
+        "checksum"
+    ],
+    "name": "L3GD20",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hirokimineshita/code/L3GD20/"
+    }
+}

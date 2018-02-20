@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Abe Takumi",
+        "url": "https://os.mbed.com/users/YSB/"
+    },
+    "description": "for CAN communication between two mbeds",
+    "frameworks": "mbed",
+    "keywords": [
+        "OLED",
+        "SPI",
+        "SSD1332",
+        "LCD",
+        "LCD-11062",
+        "PCF8833",
+        "sparkfun",
+        "KL25z",
+        "light sensor",
+        "Wi-Go",
+        "I2C",
+        "LPC800",
+        "LPC800-MAX",
+        "PCA9672"
+    ],
+    "name": "myCAN",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/YSB/code/myCAN/"
+    }
+}

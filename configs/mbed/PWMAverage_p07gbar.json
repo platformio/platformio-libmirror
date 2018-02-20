@@ -10,12 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "current",
+        "I2C",
+        "INA219",
+        "Power",
+        "voltage",
         "duty cycle",
         "measurement",
         "pwm",
-        "timer2",
-        "SSL",
-        "TLS"
+        "timer2"
     ],
     "name": "PWMAverage",
     "platforms": "*",

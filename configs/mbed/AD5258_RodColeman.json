@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Rod Coleman",
+        "url": "https://os.mbed.com/users/RodColeman/"
+    },
+    "description": "Interface to Analog devices AD5258 digital I2C potentiometer",
+    "frameworks": "mbed",
+    "keywords": "I2C",
+    "name": "AD5258",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RodColeman/code/AD5258/"
+    }
+}

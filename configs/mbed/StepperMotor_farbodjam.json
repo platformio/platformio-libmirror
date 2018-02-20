@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Farbod (ex-Rohollah) Jam(ex-Miri)",
+        "url": "https://os.mbed.com/users/farbodjam/"
+    },
+    "description": "StepperMotor",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LCD",
+        "PCF2119",
+        "PCF2119x",
+        "SCG002B",
+        "TextLCD",
+        "6100",
+        "Nokia LCD"
+    ],
+    "name": "StepperMotor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/farbodjam/code/StepperMotor/"
+    }
+}

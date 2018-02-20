@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Francesco Franzinelli",
+        "url": "https://os.mbed.com/users/franzle/"
+    },
+    "description": "LIS3DH through spi",
+    "frameworks": "mbed",
+    "keywords": "LIS3DH_spi",
+    "name": "LIS3DH_spi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/franzle/code/LIS3DH_spi/"
+    }
+}

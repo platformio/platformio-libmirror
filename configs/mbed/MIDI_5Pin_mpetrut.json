@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Marius Petrut",
+        "url": "https://os.mbed.com/users/mpetrut/"
+    },
+    "description": "A simple 5-pin MIDI helper library.",
+    "frameworks": "mbed",
+    "keywords": "MIDI_5Pin",
+    "name": "MIDI_5Pin",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mpetrut/code/MIDI_5Pin/"
+    }
+}

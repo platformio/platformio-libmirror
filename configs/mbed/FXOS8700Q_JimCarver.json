@@ -18,8 +18,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "FXOS8700Q",
-        "Freescale-Multi-Sensor-Shield"
+        "accelerometer",
+        "Freescale",
+        "magnetometer",
+        "sensor",
+        "bmp085",
+        "BMP180",
+        "I2C",
+        "C027",
+        "u-blox",
+        "Segger",
+        "ST-LINK",
+        "swo",
+        "Viewer"
     ],
     "name": "FXOS8700Q",
     "platforms": "*",

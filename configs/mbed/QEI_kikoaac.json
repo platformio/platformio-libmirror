@@ -7,10 +7,10 @@
     "frameworks": "mbed",
     "keywords": [
         "QEI ロータリーエンコーダ 角度 angle",
-        "biquad",
-        "DSP",
-        "filter",
-        "GPGGA"
+        "ROS",
+        "HOPERF",
+        "RF22",
+        "RFM22"
     ],
     "name": "QEI",
     "platforms": "*",

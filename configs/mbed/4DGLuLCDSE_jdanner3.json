@@ -18,26 +18,25 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Beep",
-        "merody",
-        "sound",
-        "audio",
-        "HQ",
-        "I2S",
-        "TLV320",
-        "memory",
-        "string",
-        "tokenize",
-        "trim",
-        "utility"
+        "driver",
+        "Graphics",
+        "ILI9340",
+        "LCD",
+        "SPI",
+        "TFT",
+        "asynchronous",
+        "Buffered",
+        "FIFO",
+        "Non blocking",
+        "ring buffer",
+        "Serial",
+        "UART",
+        "PS2"
     ],
     "name": "4DGL-uLCD-SE",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/jdanner3/code/4DGL-uLCD-SE/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/jdanner3/code/4DGL-uLCD-SE/"
     }
 }

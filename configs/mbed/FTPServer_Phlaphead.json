@@ -6,11 +6,6 @@
     "description": "Simple FTP Server built on top of the NetServices TCP/IP stack.",
     "frameworks": "mbed",
     "keywords": [
-        "HDC1000",
-        "DMA",
-        "rtos",
-        "SD",
-        "SDFileSystem",
         "WiFly",
         "FTP",
         "server"

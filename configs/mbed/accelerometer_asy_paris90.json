@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Aisyah Syahana",
+        "url": "https://os.mbed.com/users/asy_paris90/"
+    },
+    "description": "accelerometer",
+    "frameworks": "mbed",
+    "keywords": [
+        "binary",
+        "GPS",
+        "NMEA",
+        "protocol",
+        "sIRFstar3",
+        "sIRFstarIII",
+        "led",
+        "LED controller",
+        "led driver",
+        "PCA9955A",
+        "PCA9956A",
+        "PCA995xA"
+    ],
+    "name": "accelerometer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/asy_paris90/code/accelerometer/"
+    }
+}

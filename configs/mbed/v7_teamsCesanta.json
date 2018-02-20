@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Cesanta",
+        "url": "https://os.mbed.com/teams/Cesanta/"
+    },
+    "description": "Embedded JavaScript virtual machine",
+    "examples": [
+        "https://os.mbed.com/teams/Cesanta/code/DISCO-F469NI_javascript_blinker/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "SDFileSystem",
+        "USBMSD",
+        "display",
+        "I2C",
+        "OLED",
+        "SPI",
+        "SSD1351",
+        "bluetooth",
+        "camera",
+        "JPEG",
+        "LinkSprite",
+        "LS-Y201",
+        "Serial",
+        "javascript",
+        "scripting",
+        "codificacion",
+        "UTF8"
+    ],
+    "name": "v7",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Cesanta/code/v7/"
+    }
+}

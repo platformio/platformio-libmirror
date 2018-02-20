@@ -15,15 +15,7 @@
     "frameworks": "mbed",
     "keywords": [
         "DISCO_F746NG",
-        "SD",
-        "I2C",
-        "LCD",
-        "LPC1114",
-        "LPC1114FN28",
-        "mbed-sdk",
-        "driver",
-        "ethernet",
-        "PicoTCP"
+        "SD"
     ],
     "name": "SD_DISCO_F746NG",
     "platforms": "*",

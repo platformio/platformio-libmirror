@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "irsan julfikar",
+        "url": "https://os.mbed.com/users/irsanjul/"
+    },
+    "description": "Library of Temperature/Humidity Sensor from Silicon Labs for LPC1768",
+    "examples": [
+        "https://os.mbed.com/users/NilliM/code/F-CubeSatKit4/",
+        "https://os.mbed.com/teams/Smart-Miniature-House/code/Xbee-Smart-Home-Inside/",
+        "https://os.mbed.com/teams/SMART-KATODIK/code/04_PGN_TR_00000002/",
+        "https://os.mbed.com/teams/SiliconLabs/code/TBSense2_Sensor_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "numchuck",
+        "nunchuck",
+        "Nunchuk",
+        "Wii",
+        "1D",
+        "2D",
+        "array",
+        "matrix",
+        "LPC1768",
+        "sensor",
+        "Si7021"
+    ],
+    "name": "Si7021",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/irsanjul/code/Si7021/"
+    }
+}

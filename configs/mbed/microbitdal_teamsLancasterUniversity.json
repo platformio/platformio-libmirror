@@ -17,23 +17,11 @@
         "https://os.mbed.com/teams/Lancaster-University/code/microbit/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "128x64",
-        "LCD",
-        "ST7920",
-        "check;",
-        "CRC",
-        "CRC16;",
-        "Cyclic",
-        "redundancy"
-    ],
+    "keywords": "microbit-dal",
     "name": "microbit-dal",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/teams/Lancaster-University/code/microbit-dal/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/teams/Lancaster-University/code/microbit-dal/"
     }
 }

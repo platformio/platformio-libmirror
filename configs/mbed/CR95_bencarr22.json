@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Ben Carr",
+        "url": "https://os.mbed.com/users/bencarr22/"
+    },
+    "description": "CR95 Library",
+    "examples": [
+        "https://os.mbed.com/users/bencarr22/code/CR95HFRFIDClick/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "CR95",
+    "name": "CR95",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bencarr22/code/CR95/"
+    }
+}

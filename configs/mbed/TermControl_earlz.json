@@ -11,18 +11,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "MPU9150",
+        "Quaternion",
+        "vector",
         "Serial",
         "Terminal",
         "VT100",
-        "RF12",
-        "rfm12",
-        "RFM12B",
-        "barometer",
-        "I2C",
-        "MEMS",
-        "pressure",
-        "sensor",
-        "STMicro"
+        "AQM1602",
+        "L6470"
     ],
     "name": "TermControl",
     "platforms": "*",

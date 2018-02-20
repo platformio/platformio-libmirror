@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Daiki Kato",
+        "url": "https://os.mbed.com/users/dkato/"
+    },
+    "description": "LCD configurations for GR-PEACH LCD Shild.",
+    "examples": [
+        "https://os.mbed.com/users/dkato/code/LCD_shield_config/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "battery gauge",
+        "BQ27441",
+        "C030",
+        "u-blox",
+        "14A2A",
+        "ATT",
+        "avnet",
+        "Cellular",
+        "modem",
+        "WNC",
+        "WncController",
+        "GR-PEACH",
+        "LCD",
+        "EA",
+        "Graphics",
+        "OLED",
+        "SPI"
+    ],
+    "name": "LcdCfg_LCD_shield",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dkato/code/LcdCfg_LCD_shield/"
+    }
+}

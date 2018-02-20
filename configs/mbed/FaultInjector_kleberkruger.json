@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Kleber Kruger",
+        "url": "https://os.mbed.com/users/kleberkruger/"
+    },
+    "description": "Fault injector system.",
+    "frameworks": "mbed",
+    "keywords": [
+        "output",
+        "PPM",
+        "PPMout",
+        "fault",
+        "injector",
+        "api",
+        "https",
+        "OAuth",
+        "salesforce.com",
+        "token",
+        "mbed myoware",
+        "muscle sensor",
+        "myoware"
+    ],
+    "name": "FaultInjector",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kleberkruger/code/FaultInjector/"
+    }
+}

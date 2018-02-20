@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Hotboards MX",
+        "url": "https://os.mbed.com/users/Hotboards/"
+    },
+    "description": "Driver to read switches, one at a time or an entire dip-sw",
+    "examples": [
+        "https://os.mbed.com/users/PedroGonzalez/code/input/",
+        "https://os.mbed.com/users/RomanValenciaP/code/dip_switch/",
+        "https://os.mbed.com/users/RomanValenciaP/code/dipsw_change/",
+        "https://os.mbed.com/users/RomanValenciaP/code/input/",
+        "https://os.mbed.com/users/RomanValenciaP/code/input_change/",
+        "https://os.mbed.com/users/RomanValenciaP/code/inputs/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_Switches_complete_switch_readi/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_Switches_dipsw_change/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_Switches_Read_single/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_Switches_input_change/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "hotboards",
+        "switches"
+    ],
+    "name": "Hotboards_switches",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Hotboards/code/Hotboards_switches/"
+    }
+}

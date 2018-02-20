@@ -27,23 +27,23 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "POSIX",
+        "rtos",
         "xbee",
         "xbee library",
         "XBEE pro",
         "xbee programming",
         "xbeeapi",
         "xbeelibrary",
-        "pressure",
-        "sensor",
-        "Temperature"
+        "ADK",
+        "android",
+        "USB",
+        "MPL115A2"
     ],
     "name": "XBeeLib",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/teams/Digi-International-Inc/code/XBeeLib/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/teams/Digi-International-Inc/code/XBeeLib/"
     }
 }

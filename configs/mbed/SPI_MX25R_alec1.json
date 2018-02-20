@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "alec cohen",
+        "url": "https://os.mbed.com/users/alec1/"
+    },
+    "description": "Macronix Low Power Serial NOR Flash in SPI mode.",
+    "examples": [
+        "https://os.mbed.com/users/alec1/code/MX25Rxx35F_Serial_NOR_Flash_Testbench/",
+        "https://os.mbed.com/users/csmith048/code/MX25Rxx35F_Serial_NOR_Flash_Testbench/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "micros",
+        "millis",
+        "device",
+        "USB",
+        "DC motor",
+        "h bridge",
+        "L293D",
+        "l298n",
+        "pwm",
+        "SPI",
+        "motor",
+        "PCA9629",
+        "Stepper"
+    ],
+    "name": "SPI_MX25R",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/alec1/code/SPI_MX25R/"
+    }
+}

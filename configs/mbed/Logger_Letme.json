@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Crt Mori",
+        "url": "https://os.mbed.com/users/Letme/"
+    },
+    "description": "Logger library enables you to use unified interface to send out or receive data using one function with different parameters. You leave buffer overflows to this library as it handles it all.",
+    "frameworks": "mbed",
+    "keywords": [
+        "buffer",
+        "debug",
+        "debugging",
+        "informative",
+        "logger",
+        "logging",
+        "Save",
+        "stashing",
+        "accelerometer",
+        "I2C",
+        "Kionix",
+        "free",
+        "malloc",
+        "memory",
+        "Oscilloscope",
+        "RAM",
+        "scope"
+    ],
+    "name": "Logger",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Letme/code/Logger/"
+    }
+}

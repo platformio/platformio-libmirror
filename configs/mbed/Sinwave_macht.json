@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "kazunori ogasawara",
+        "url": "https://os.mbed.com/users/macht/"
+    },
+    "description": "Sin wave generation class using D/A converter(LPC1768)",
+    "examples": [
+        "https://os.mbed.com/users/macht/code/agic_touch_panel_v3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "F042K6",
+        "F103RB",
+        "L152RE",
+        "STM32F0",
+        "STM32F1",
+        "STM32L1",
+        "USBDevice",
+        "MCP23S17"
+    ],
+    "name": "Sinwave",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/macht/code/Sinwave/"
+    }
+}

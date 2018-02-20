@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Cameron Haegle",
+        "url": "https://os.mbed.com/users/chaegle/"
+    },
+    "description": "Library for the DS1721, 2-Wire Digital Thermometer and Thermostat from Dallas Semiconductor (Maxim Integrated)",
+    "frameworks": "mbed",
+    "keywords": [
+        "DS1721",
+        "I2C",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "DS1721",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chaegle/code/DS1721/"
+    }
+}

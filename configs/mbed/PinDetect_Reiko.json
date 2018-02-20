@@ -10,14 +10,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DC",
-        "driver",
-        "full-bridge",
-        "H-bridge",
-        "motor",
-        "CAN",
-        "FRDM-KL25Z",
-        "Seeed Studios"
+        "LMiC",
+        "Lora",
+        "LoRaWAN",
+        "INA226",
+        "AnalogOut",
+        "dac",
+        "SPI"
     ],
     "name": "PinDetect",
     "platforms": "*",

@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Naoya Toyozumi",
+        "url": "https://os.mbed.com/users/tona0516/"
+    },
+    "description": "LSM9DS1",
+    "examples": [
+        "https://os.mbed.com/users/tona0516/code/Zumipen/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F746NG",
+        "EEPROM",
+        "BME280",
+        "DISCO_F429ZI",
+        "sdram",
+        "brushless",
+        "L293D",
+        "LPC1768",
+        "mbed",
+        "motor"
+    ],
+    "name": "LSM9DS1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tona0516/code/LSM9DS1/"
+    }
+}

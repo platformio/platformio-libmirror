@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Randall Williford",
+        "url": "https://os.mbed.com/users/ramwilliford/"
+    },
+    "description": "A library for Silicon Sensing DMU02",
+    "examples": [
+        "https://os.mbed.com/users/ramwilliford/code/DMUTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SiliconSensingDMU",
+    "name": "SiliconSensingDMU",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ramwilliford/code/SiliconSensingDMU/"
+    }
+}

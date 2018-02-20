@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "NetworkSocketAPI",
+        "url": "https://os.mbed.com/teams/NetworkSocketAPI/"
+    },
+    "description": "Library to resolve text URLs to IP addresses (IPv4)",
+    "examples": [
+        "https://os.mbed.com/teams/NetworkSocketAPI/code/NetworkSocketAPI/",
+        "https://os.mbed.com/teams/pefect/code/NetworkSocketAPI/",
+        "https://os.mbed.com/teams/Klika-Tech/code/Nucleo-AWS-IoT-mbed/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "dns",
+        "getHostByName",
+        "network"
+    ],
+    "name": "DnsQuery",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NetworkSocketAPI/code/DnsQuery/"
+    }
+}

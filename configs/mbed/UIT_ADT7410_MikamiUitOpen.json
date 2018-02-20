@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "I2C 接続の温度センサ ADT7410 用のライブラリ．",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/Demo_ADT7410/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "device",
+        "USB",
+        "ADT7410",
+        "I2C",
+        "Nucleo",
+        "UIT",
+        "4x3",
+        "AE-KIT45-KEYPAD4X3",
+        "Akizuki",
+        "key",
+        "matrix",
+        "switch"
+    ],
+    "name": "UIT_ADT7410",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/UIT_ADT7410/"
+    }
+}

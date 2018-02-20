@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Ad van der Weiden",
+        "url": "https://os.mbed.com/users/networker/"
+    },
+    "description": "rfcomm",
+    "examples": [
+        "https://os.mbed.com/users/kenbumono/code/mbed_TANK_Kinect/",
+        "https://os.mbed.com/users/networker/code/ftusbClass/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "buzzer",
+        "pwm",
+        "tone",
+        "tune",
+        "audio",
+        "I2S",
+        "library",
+        "tested",
+        "TLV320"
+    ],
+    "name": "rfcomm",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/networker/code/rfcomm/"
+    }
+}

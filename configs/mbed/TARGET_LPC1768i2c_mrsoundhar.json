@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Soundharrajan S",
+        "url": "https://os.mbed.com/users/mrsoundhar/"
+    },
+    "description": "myi2c test",
+    "frameworks": "mbed",
+    "keywords": [
+        "fm",
+        "Radio",
+        "RDA5807M",
+        "RDS",
+        "LFSR",
+        "Linear Feedback Shift Register",
+        "Number Generator",
+        "Pseudo",
+        "Random"
+    ],
+    "name": "TARGET_LPC1768i2c",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mrsoundhar/code/TARGET_LPC1768i2c/"
+    }
+}

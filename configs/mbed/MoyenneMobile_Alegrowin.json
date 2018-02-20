@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Alexandre Proulx",
+        "url": "https://os.mbed.com/users/Alegrowin/"
+    },
+    "description": "The moving average purpose is to filter some data that comes from a source that may be unprecise. See more information about Moving Average here: http://en.wikipedia.org/wiki/Moving_average",
+    "frameworks": "mbed",
+    "keywords": [
+        "average",
+        "Moving",
+        "avnet",
+        "Freescale",
+        "KL25z",
+        "Wi-Go",
+        "WiGo",
+        "Servo",
+        "tlc5940"
+    ],
+    "name": "MoyenneMobile",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Alegrowin/code/MoyenneMobile/"
+    }
+}

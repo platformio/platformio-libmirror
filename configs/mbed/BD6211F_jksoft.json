@@ -13,10 +13,10 @@
         "I2C",
         "MPU6050",
         "MPU9150",
-        "BD6211F",
-        "motor",
         "Cayenne",
-        "MQTT"
+        "MQTT",
+        "BD6211F",
+        "motor"
     ],
     "name": "BD6211F",
     "platforms": "*",

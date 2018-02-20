@@ -8,14 +8,7 @@
         "https://os.mbed.com/users/osmeest/code/KeyboardTest/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "keyboard",
-        "DC Motor controller",
-        "h bridge",
-        "motor driver",
-        "control",
-        "PID"
-    ],
+    "keywords": "keyboard",
     "name": "KeyboardManager",
     "platforms": "*",
     "repository": {

@@ -17,9 +17,7 @@
         "Beep",
         "sound",
         "tone",
-        "accelerometer",
-        "LIS302",
-        "SPI"
+        "joystick"
     ],
     "name": "USBHostLite",
     "platforms": "*",

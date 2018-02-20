@@ -10,12 +10,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "lps25h",
-        "EEPROM",
-        "IAP",
-        "In-Application Programming",
-        "internal EEPROM",
-        "internal flash memory"
+        "GPS",
+        "parse",
+        "Encoder",
+        "QEI",
+        "qudrature",
+        "rotary",
+        "lps25h"
     ],
     "name": "LPS25H",
     "platforms": "*",

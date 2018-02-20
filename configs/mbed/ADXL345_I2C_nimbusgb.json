@@ -18,14 +18,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "network",
-        "NTP",
-        "time",
-        "1-wire",
-        "DS18B20",
-        "one",
-        "One Wire",
-        "OneWire"
+        "socket",
+        "TCP",
+        "UDP",
+        "WiFly",
+        "compass",
+        "LSM303DLH",
+        "magnetometer",
+        "sensors"
     ],
     "name": "ADXL345_I2C",
     "platforms": "*",

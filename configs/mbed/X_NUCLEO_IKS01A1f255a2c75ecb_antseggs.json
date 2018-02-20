@@ -17,26 +17,11 @@
         "https://os.mbed.com/users/nlsantos/code/trabalho/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "External SD",
-        "file system",
-        "SDHC",
-        "SPI",
-        "api",
-        "network",
-        "NSAPI",
-        "socket",
-        "DC",
-        "motor",
-        "pwm"
-    ],
+    "keywords": "X_NUCLEO_IKS01A1-f255a2c75ecb",
     "name": "X_NUCLEO_IKS01A1-f255a2c75ecb",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/antseggs/code/X_NUCLEO_IKS01A1-f255a2c75ecb/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/antseggs/code/X_NUCLEO_IKS01A1-f255a2c75ecb/"
     }
 }

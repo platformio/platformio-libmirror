@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "TVZ Mechatronics Team",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/"
+    },
+    "description": "A class for driving a stepper motor via driver with indexer.",
+    "examples": [
+        "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/StepperTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "motor",
+        "Stepper",
+        "MPU6000",
+        "MPU6050",
+        "MPU60x0",
+        "csv",
+        "cumulocity",
+        "Embedded",
+        "rest",
+        "smart"
+    ],
+    "name": "StepperDriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/StepperDriver/"
+    }
+}

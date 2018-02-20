@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Sitti Amarittapark",
+        "url": "https://os.mbed.com/users/sitti/"
+    },
+    "description": "Continuously vary LED brightness between completely dark and fully lite.",
+    "frameworks": "mbed",
+    "keywords": [
+        "dim",
+        "led",
+        "pattern"
+    ],
+    "name": "Glowing",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sitti/code/Glowing/"
+    }
+}

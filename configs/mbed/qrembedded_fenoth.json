@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "fenot hailemichael",
+        "url": "https://os.mbed.com/users/fenoth/"
+    },
+    "description": "new",
+    "examples": [
+        "https://os.mbed.com/users/fenoth/code/epaper_mbed_test_copy1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "bot",
+        "motor",
+        "sensors",
+        "shield"
+    ],
+    "name": "qrembedded",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fenoth/code/qrembedded/"
+    }
+}

@@ -16,12 +16,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "control",
-        "PID",
         "SDFileSystem",
-        "debounce",
-        "DigitalIn",
-        "InterruptIn"
+        "buffer",
+        "BufferedSerial",
+        "BufferSerial",
+        "Serial",
+        "accelerometer",
+        "I2C",
+        "MMA7660",
+        "ADXL345"
     ],
     "name": "SDFileSystem",
     "platforms": "*",

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Zainal Abidin",
+        "url": "https://os.mbed.com/users/zabak6559/"
+    },
+    "description": "Servo",
+    "examples": [
+        "https://os.mbed.com/users/robertgarncarek/code/servooo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Analog",
+        "AnalogIn",
+        "gyro",
+        "sensor"
+    ],
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/zabak6559/code/Servo/"
+    }
+}

@@ -18,13 +18,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit",
-        "GPS",
-        "NEMA",
         "buzzer",
         "pwm",
         "tone",
-        "tune"
+        "tune",
+        "audio",
+        "I2S",
+        "library",
+        "tested",
+        "TLV320"
     ],
     "name": "PWM_Tone_Library",
     "platforms": "*",

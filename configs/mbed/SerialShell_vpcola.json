@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Vergil Cola",
+        "url": "https://os.mbed.com/users/vpcola/"
+    },
+    "description": "A simple serial shell running on its own thread (stack is statically allocated).",
+    "examples": [
+        "https://os.mbed.com/users/vpcola/code/FRDM_K64F_IOT/",
+        "https://os.mbed.com/users/vpcola/code/lpc1768_blinky/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SerialShell",
+    "name": "SerialShell",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vpcola/code/SerialShell/"
+    }
+}

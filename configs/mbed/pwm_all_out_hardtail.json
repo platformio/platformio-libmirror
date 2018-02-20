@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "takaaki mastuzawa",
+        "url": "https://os.mbed.com/users/hardtail/"
+    },
+    "description": "MATSU-bed(LPC1549)でPWMを4つ以上出すプログラム",
+    "examples": [
+        "https://os.mbed.com/users/hardtail/code/servo_controller_1549/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Analyzer",
+        "logic",
+        "osc",
+        "Oscilloscope",
+        "scope",
+        "LPC1549"
+    ],
+    "name": "pwm_all_out",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hardtail/code/pwm_all_out/"
+    }
+}

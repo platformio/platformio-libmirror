@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Alvaro Cassinelli",
+        "url": "https://os.mbed.com/users/mbedalvaro/"
+    },
+    "description": "Hardware control: mirrors",
+    "frameworks": "mbed",
+    "keywords": [
+        "Host",
+        "Paradigma",
+        "Pelletti",
+        "USB"
+    ],
+    "name": "laserProjectorHardware",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbedalvaro/code/laserProjectorHardware/"
+    }
+}

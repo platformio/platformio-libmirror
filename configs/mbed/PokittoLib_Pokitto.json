@@ -1,0 +1,43 @@
+{
+    "authors": {
+        "name": "Jonne Valola",
+        "url": "https://os.mbed.com/users/Pokitto/"
+    },
+    "description": "PokittoLib is the library needed for programming the Pokitto DIY game console (www.pokitto.com)",
+    "examples": [
+        "https://os.mbed.com/users/HomineLudens/code/YATTT/",
+        "https://os.mbed.com/teams/Pokitto-Community-Team/code/Raytracing/",
+        "https://os.mbed.com/users/wuuff/code/sd_map_test/",
+        "https://os.mbed.com/users/trelemar/code/cPong/",
+        "https://os.mbed.com/teams/Pokitto-Community-Team/code/SnowDemo/",
+        "https://os.mbed.com/users/spinal/code/GB_Printer/",
+        "https://os.mbed.com/users/trelemar/code/PolarParcel/",
+        "https://os.mbed.com/teams/Pokitto-Community-Team/code/Mode13/",
+        "https://os.mbed.com/teams/Pokitto-Community-Team/code/HelloWorld/",
+        "https://os.mbed.com/users/RichardAmes/code/naval_battle/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "1-wire",
+        "1wire",
+        "DS18B20",
+        "DS18S20",
+        "OneWire",
+        "CAN",
+        "FreeIMU",
+        "IMU",
+        "MPU6050",
+        "Pokitto",
+        "http",
+        "NET",
+        "network",
+        "webservice",
+        "xml"
+    ],
+    "name": "PokittoLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Pokitto/code/PokittoLib/"
+    }
+}

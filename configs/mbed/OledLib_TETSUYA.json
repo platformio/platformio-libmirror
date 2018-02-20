@@ -5,10 +5,7 @@
     },
     "description": "ALO-095BWNN-J9 aitendo OLED 96x64 SPI model Ver1.04",
     "frameworks": "mbed",
-    "keywords": [
-        "GPS",
-        "MTK3339"
-    ],
+    "keywords": "OledLib",
     "name": "OledLib",
     "platforms": "*",
     "repository": {

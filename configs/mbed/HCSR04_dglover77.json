@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "David Glover",
+        "url": "https://os.mbed.com/users/dglover77/"
+    },
+    "description": "HCSR04",
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed",
+        "ethernet",
+        "ip",
+        "4D Dydtems",
+        "Visi-Genie",
+        "Radio",
+        "rf",
+        "rfm69"
+    ],
+    "name": "HCSR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dglover77/code/HCSR04/"
+    }
+}

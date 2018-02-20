@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Thomas Gill",
+        "url": "https://os.mbed.com/users/ThomasBGill/"
+    },
+    "description": "*power consumption control(phy , semihost) library written by Michael Wei",
+    "examples": [
+        "https://os.mbed.com/users/ThomasBGill/code/LabyrinthOfTheMinotaur/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "consumption",
+        "control",
+        "ethernet",
+        "Management",
+        "Power",
+        "PowerControl",
+        "3pi",
+        "II",
+        "m3pi",
+        "pololu",
+        "pops",
+        "PPS",
+        "robot",
+        "accelerometer",
+        "aconno",
+        "MMA8452"
+    ],
+    "name": "PowerControl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ThomasBGill/code/PowerControl/"
+    }
+}

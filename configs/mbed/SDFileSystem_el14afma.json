@@ -6,8 +6,13 @@
     "description": "SD library",
     "frameworks": "mbed",
     "keywords": [
-        "HY-1.8",
-        "ST7735"
+        "led",
+        "LPD8803",
+        "LPD8806",
+        "LPD8809",
+        "SPI",
+        "OAuth",
+        "twitter"
     ],
     "name": "SDFileSystem",
     "platforms": "*",

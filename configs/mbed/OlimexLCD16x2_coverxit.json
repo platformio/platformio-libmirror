@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Shindo Wu",
+        "url": "https://os.mbed.com/users/coverxit/"
+    },
+    "description": "Olimex-LCD16x2",
+    "frameworks": "mbed",
+    "keywords": [
+        "FRDM-KL25Z",
+        "I2C",
+        "MSS",
+        "MSU",
+        "VCNL4020",
+        "Vishay",
+        "music",
+        "piano",
+        "pwm",
+        "server",
+        "W7500",
+        "Web",
+        "Wiznet",
+        "WIZwiki-W7500"
+    ],
+    "name": "Olimex-LCD16x2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/coverxit/code/Olimex-LCD16x2/"
+    }
+}

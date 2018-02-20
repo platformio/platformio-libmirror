@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Osamu Koizumi",
+        "url": "https://os.mbed.com/users/coisme/"
+    },
+    "description": "Device driver for TCA9554A, which is I2C GPIO expander IC.",
+    "examples": [
+        "https://os.mbed.com/teams/AKM-Development-Platform/code/AKDP-RevD7_014/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GPIO",
+        "TCA9554A",
+        "TI"
+    ],
+    "name": "TCA9554A",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/coisme/code/TCA9554A/"
+    }
+}

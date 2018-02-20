@@ -11,24 +11,7 @@
         "https://os.mbed.com/users/e58136782000/code/watersenor_and_temp_code/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "1-wire",
-        "One Wire",
-        "one-wire",
-        "CPU",
-        "CPU_Usage",
-        "performance",
-        "resources",
-        "time",
-        "usage",
-        "Encoder",
-        "rotary",
-        "LCD",
-        "Register",
-        "Serial",
-        "shift",
-        "with"
-    ],
+    "keywords": "OneWire",
     "name": "OneWire",
     "platforms": "*",
     "repository": {

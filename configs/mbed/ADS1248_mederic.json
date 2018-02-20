@@ -1,0 +1,41 @@
+{
+    "authors": {
+        "name": "Mederic Melard",
+        "url": "https://os.mbed.com/users/mederic/"
+    },
+    "description": "ADS1246/7/8 24bit ADC converter for Temperature Sensors class",
+    "frameworks": "mbed",
+    "keywords": [
+        "emulation",
+        "I2C",
+        "SoftI2C",
+        "software",
+        "24bit",
+        "adc",
+        "NTC",
+        "PT100",
+        "PT1000",
+        "PT500",
+        "RTD",
+        "Temperature",
+        "Thermocouple",
+        "Arducam",
+        "OV5642",
+        "printf",
+        "ringbuffer",
+        "Serial",
+        "motor",
+        "AT",
+        "C030",
+        "CellularInterface",
+        "N211",
+        "N2xx",
+        "u-blox"
+    ],
+    "name": "ADS1248",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mederic/code/ADS1248/"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "yasuyuki onodera",
+        "url": "https://os.mbed.com/users/yasuyuki/"
+    },
+    "description": "AM2320 library",
+    "examples": [
+        "https://os.mbed.com/users/yasuyuki/code/mbed_AM2320/",
+        "https://os.mbed.com/teams/Emma-Watson/code/Fungi/",
+        "https://os.mbed.com/users/Paaranoja/code/Fungi/",
+        "https://os.mbed.com/users/dadangjia/code/LPC824_W5500_SD1306_AM2320_HTTP/",
+        "https://os.mbed.com/users/dadangjia/code/Nucleo_SSD1306_DS1302_ESP8266_AM2320_BME/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ACM1602NI",
+        "f401",
+        "I2C",
+        "LCD",
+        "Nucleo",
+        "UIT",
+        "2.4GHz",
+        "920MHz",
+        "950MHz",
+        "NEC",
+        "NFC",
+        "AM2320",
+        "1-wire",
+        "DALLAS",
+        "Maxim",
+        "OneWire"
+    ],
+    "name": "AM2320",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yasuyuki/code/AM2320/"
+    }
+}

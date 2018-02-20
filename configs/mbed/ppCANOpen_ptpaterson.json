@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Paul Paterson",
+        "url": "https://os.mbed.com/users/ptpaterson/"
+    },
+    "description": "library for C++ CANOpen implementation.",
+    "examples": [
+        "https://os.mbed.com/users/ptpaterson/code/ppCANOpen_Example/",
+        "https://os.mbed.com/users/TuxLeon/code/DISCO-F746NG_rtos_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "GR-PEACH",
+        "R_BSP"
+    ],
+    "name": "ppCANOpen",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ptpaterson/code/ppCANOpen/"
+    }
+}

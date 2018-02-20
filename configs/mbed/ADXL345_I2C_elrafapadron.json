@@ -8,9 +8,7 @@
     "keywords": [
         "accelererometer",
         "ADXL345",
-        "I2C",
-        "adc",
-        "HX711"
+        "I2C"
     ],
     "name": "ADXL345_I2C",
     "platforms": "*",

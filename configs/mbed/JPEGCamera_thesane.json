@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Ahmed Saber",
+        "url": "https://os.mbed.com/users/thesane/"
+    },
+    "description": "Bluetooth JPEG camera library with test program build over the the original library for LS-Y201 LinkSprite JPEG Camera",
+    "examples": [
+        "https://os.mbed.com/users/thesane/code/JPEGCameraTest/",
+        "https://os.mbed.com/users/tgw/code/JPEGCamera_SIM808_STM32F401RE/",
+        "https://os.mbed.com/users/tgw/code/JPEGCamera_SIM808_MPU9150_STM32F401RE/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "SDFileSystem",
+        "USBMSD",
+        "display",
+        "I2C",
+        "OLED",
+        "SPI",
+        "SSD1351",
+        "bluetooth",
+        "camera",
+        "JPEG",
+        "LinkSprite",
+        "LS-Y201",
+        "Serial",
+        "javascript",
+        "scripting",
+        "codificacion",
+        "UTF8"
+    ],
+    "name": "JPEGCamera",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/thesane/code/JPEGCamera/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Whitworth-EN173-Resources",
+        "url": "https://os.mbed.com/teams/Whitworth-EN173-Resources/"
+    },
+    "description": "Library for a timer that can go for days (but only ms resolution)",
+    "examples": [
+        "https://os.mbed.com/teams/Whitworth-EN173-Resources/code/ExtendedTimer_Example/",
+        "https://os.mbed.com/users/jabbott19/code/FindingTemp/",
+        "https://os.mbed.com/users/utsal/code/Final_NSR/",
+        "https://os.mbed.com/users/rrutherford20/code/NearSpaceOzoneSensor/",
+        "https://os.mbed.com/users/htompkins20/code/FindingTemp/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ExtendedTimer",
+    "name": "ExtendedTimer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Whitworth-EN173-Resources/code/ExtendedTimer/"
+    }
+}

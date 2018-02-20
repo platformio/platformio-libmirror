@@ -27,7 +27,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "xml",
+        "Analyzer",
+        "audio",
+        "FFT",
+        "Spectrum",
         "802.15.4",
         "wireless",
         "xbee"
@@ -36,9 +39,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/johnb/code/XBeeApi/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/johnb/code/XBeeApi/"
     }
 }

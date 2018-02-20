@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Drew Barbier",
+        "url": "https://os.mbed.com/users/dbarbi1/"
+    },
+    "description": "mbed library to connect to rfduino",
+    "examples": [
+        "https://os.mbed.com/users/dbarbi1/code/RFDuino_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "dynamixel",
+        "IOT",
+        "rfduino",
+        "AX-12",
+        "ax12"
+    ],
+    "name": "RFDuino",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dbarbi1/code/RFDuino/"
+    }
+}

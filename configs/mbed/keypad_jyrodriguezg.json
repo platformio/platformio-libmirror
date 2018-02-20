@@ -10,13 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "led",
-        "SAA1064",
-        "motor",
-        "pwm",
-        "sparkfun",
-        "TB6612FNG"
+        "NDEF",
+        "NFC",
+        "PN532",
+        "KL25",
+        "touch",
+        "TSI"
     ],
     "name": "keypad",
     "platforms": "*",

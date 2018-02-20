@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Jens Strümper",
+        "url": "https://os.mbed.com/users/jensstruemper/"
+    },
+    "description": "float2str converts floating point numbers to a character array. Its purpose is to",
+    "frameworks": "mbed",
+    "keywords": [
+        "4D Dydtems",
+        "Color LCD",
+        "Goldelox",
+        "serial lcd",
+        "EZO",
+        "I2C",
+        "PH sensor",
+        "conversion",
+        "float",
+        "string"
+    ],
+    "name": "float2str",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jensstruemper/code/float2str/"
+    }
+}

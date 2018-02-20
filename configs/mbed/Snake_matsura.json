@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Eldar Granulo",
+        "url": "https://os.mbed.com/users/matsura/"
+    },
+    "description": "Mala biblioteka snake Granulo Eldar",
+    "frameworks": "mbed",
+    "keywords": [
+        "HX8340",
+        "HX8352",
+        "ILI9325",
+        "ILI9328",
+        "LCD",
+        "RGB16",
+        "RGB18",
+        "RGB565",
+        "RGB666",
+        "SSD1289",
+        "SSD1963",
+        "ST7735",
+        "TFT",
+        "UTFT"
+    ],
+    "name": "Snake",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/matsura/code/Snake/"
+    }
+}

@@ -10,15 +10,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "INA226",
+        "AnalogOut",
+        "dac",
+        "SPI",
+        "LMiC",
+        "Lora",
+        "LoRaWAN",
         "gyroscope",
         "I2C",
         "l3g4200d",
-        "L3GD20",
-        "edge",
-        "level",
-        "SW",
-        "tact",
-        "Toggle"
+        "L3GD20"
     ],
     "name": "L3GD20",
     "platforms": "*",

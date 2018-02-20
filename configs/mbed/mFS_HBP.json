@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Olli Vanhoja",
+        "url": "https://os.mbed.com/users/HBP/"
+    },
+    "description": "mFS file system library for EEPROM memory chips.",
+    "frameworks": "mbed",
+    "keywords": [
+        "inverse kinematics",
+        "mearm",
+        "robotic arm",
+        "servo motor",
+        "EEPROM",
+        "file",
+        "mFS",
+        "System",
+        "accelerometer",
+        "acelerometro",
+        "club",
+        "cuadricoptero",
+        "cuadrotor",
+        "fiuba",
+        "I2C",
+        "quadrotor",
+        "robotica",
+        "vuelo"
+    ],
+    "name": "mFS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/HBP/code/mFS/"
+    }
+}

@@ -18,19 +18,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "checksum",
-        "packets",
-        "protocol",
-        "Serial",
-        "simple"
+        "IR",
+        "remote",
+        "AD",
+        "da",
+        "Nucleo",
+        "SPI"
     ],
     "name": "GSM",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/teams/Flotsam/code/GSM/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/teams/Flotsam/code/GSM/"
     }
 }

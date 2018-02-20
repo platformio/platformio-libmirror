@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Mike Pici",
+        "url": "https://os.mbed.com/users/pici/"
+    },
+    "description": "AM2315 I2C Temperature and Humidity Sensor.",
+    "frameworks": "mbed",
+    "keywords": [
+        "ambient",
+        "light",
+        "max",
+        "MAX44009",
+        "Maxim",
+        "sensor",
+        "FeRAM",
+        "AM2315"
+    ],
+    "name": "AM2315",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pici/code/AM2315/"
+    }
+}

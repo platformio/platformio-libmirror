@@ -9,15 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "fatfilesystem",
-        "MSD",
-        "SD",
-        "USB",
         "display",
         "ST7565R",
-        "Nordic",
-        "nRF24L01P",
-        "rf"
+        "mbed"
     ],
     "name": "ST7565R",
     "platforms": "*",

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Ian Hunter",
+        "url": "https://os.mbed.com/users/ihunter/"
+    },
+    "description": "Codec for an NRF24L01 based protocol",
+    "frameworks": "mbed",
+    "keywords": "SWTP_CodecLib",
+    "name": "SWTP_CodecLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ihunter/code/SWTP_CodecLib/"
+    }
+}

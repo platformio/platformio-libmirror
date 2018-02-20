@@ -18,30 +18,15 @@
         "3",
         "joystick",
         "playstation",
-        "motor",
-        "SPG20-332",
-        "Stepper",
-        "stepping",
-        "TA7774",
         "frequency",
         "LPC1768",
         "MHz",
-        "output",
-        "JSON",
-        "FAT",
-        "file",
-        "Filenames",
-        "fixes",
-        "Long",
-        "System"
+        "output"
     ],
     "name": "PwmOscillator",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/geotec/code/PwmOscillator/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/geotec/code/PwmOscillator/"
     }
 }

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Mihail Stoyanov",
+        "url": "https://os.mbed.com/users/screamer/"
+    },
+    "description": "fork of VodafoneUSBModem with updated USBHost library",
+    "examples": [
+        "https://os.mbed.com/users/screamer/code/VodafoneUSBModemSMSTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F746NG",
+        "STM32F746",
+        "display",
+        "RenBED",
+        "segment",
+        "Seven",
+        "LPC4330"
+    ],
+    "name": "VodafoneUSBModem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/screamer/code/VodafoneUSBModem/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Chau Vo",
+        "url": "https://os.mbed.com/users/olympux/"
+    },
+    "description": "RTC functions for STM32F103",
+    "frameworks": "mbed",
+    "keywords": [
+        "game",
+        "inheritance",
+        "OOP",
+        "polymorphism",
+        "tutorial"
+    ],
+    "name": "nnio_stm32f10x_rtc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/olympux/code/nnio_stm32f10x_rtc/"
+    }
+}

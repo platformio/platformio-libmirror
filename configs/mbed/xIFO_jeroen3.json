@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Jeroen Lodder",
+        "url": "https://os.mbed.com/users/jeroen3/"
+    },
+    "description": "Multi purpose buffer module.",
+    "frameworks": "mbed",
+    "keywords": [
+        "FIFO",
+        "lifo",
+        "ringbuffer"
+    ],
+    "name": "xIFO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jeroen3/code/xIFO/"
+    }
+}

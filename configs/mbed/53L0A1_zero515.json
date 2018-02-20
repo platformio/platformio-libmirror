@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "kazushiro tanimoto",
+        "url": "https://os.mbed.com/users/zero515/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "ST"
+            ],
+            "frameworks": "mbed",
+            "name": "ST_INTERFACES"
+        }
+    ],
+    "description": "test",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "Serial",
+        "sparkfun"
+    ],
+    "name": "53L0A1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/zero515/code/53L0A1/"
+    }
+}

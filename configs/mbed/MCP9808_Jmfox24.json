@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "J M",
+        "url": "https://os.mbed.com/users/Jmfox24/"
+    },
+    "description": "MCP9808 Digital temperature sensor",
+    "frameworks": "mbed",
+    "keywords": [
+        "MCP9808",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "MCP9808",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Jmfox24/code/MCP9808/"
+    }
+}

@@ -15,19 +15,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "check;",
-        "CRC",
-        "CRC16;",
-        "Cyclic",
-        "redundancy",
+        "HD44780",
         "authorization",
         "client",
         "custom",
         "headers",
         "http",
-        "HTTPClient",
-        "HD44780",
-        "millis"
+        "HTTPClient"
     ],
     "name": "LCD_ST7735",
     "platforms": "*",

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Richard Wunderlich",
+        "url": "https://os.mbed.com/users/rwunderl/"
+    },
+    "description": "Library for driving the IBT-2 H-bridge motor controller (with BTS 7960 or BTN 7971 half bridges).",
+    "frameworks": "mbed",
+    "keywords": [
+        "H-bridge",
+        "motor",
+        "PwmOut"
+    ],
+    "name": "IBT2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rwunderl/code/IBT2/"
+    }
+}

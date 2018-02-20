@@ -12,18 +12,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MPU-6050",
-        "MPU6050",
-        "MPU6050-DMP",
         "DMP",
         "motion",
         "MPU9150",
-        "processor",
-        "multiplexer",
-        "Shift Register",
-        "clock",
-        "f401",
-        "Nucleo"
+        "processor"
     ],
     "name": "MPU9150_DMP",
     "platforms": "*",

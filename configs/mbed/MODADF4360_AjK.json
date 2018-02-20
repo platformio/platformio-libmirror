@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Andy Kirkham",
+        "url": "https://os.mbed.com/users/AjK/"
+    },
+    "description": "ADF4360 - See http://mbed.org/forum/helloworld/topic/1430",
+    "frameworks": "mbed",
+    "keywords": [
+        "AD5933",
+        "AD5934",
+        "Capacitance",
+        "impedance",
+        "measure",
+        "Meter",
+        "resistance",
+        "ethernet",
+        "socket",
+        "W5500",
+        "ADF4360",
+        "C027;",
+        "G350;",
+        "GPS;",
+        "SARA",
+        "can bus",
+        "Nucleo",
+        "NUCLEO-F103RB"
+    ],
+    "name": "MODADF4360",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AjK/code/MODADF4360/"
+    }
+}

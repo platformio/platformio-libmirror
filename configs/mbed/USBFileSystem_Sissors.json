@@ -20,24 +20,23 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "4",
-        "buttons",
-        "convert",
-        "Slider",
-        "to",
-        "touch",
         "fatfilesystem",
         "LocalFileSystem",
         "USBMSD",
-        "4DGL"
+        "DS1820",
+        "DS1822",
+        "DS18B20",
+        "DS18S20",
+        "DC",
+        "motor",
+        "pwm",
+        "Encoder",
+        "rotary"
     ],
     "name": "USBFileSystem",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": {
-            "type": "hg",
-            "url": "https://os.mbed.com/users/Sissors/code/USBFileSystem/"
-        }
+        "url": "https://os.mbed.comhttps://os.mbed.com/users/Sissors/code/USBFileSystem/"
     }
 }

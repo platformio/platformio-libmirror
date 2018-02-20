@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Chris Charleson",
+        "url": "https://os.mbed.com/users/csjc99/"
+    },
+    "description": "simple wrapper for the K64F RGB Led",
+    "frameworks": "mbed",
+    "keywords": "KRGBLed",
+    "name": "KRGBLed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/csjc99/code/KRGBLed/"
+    }
+}

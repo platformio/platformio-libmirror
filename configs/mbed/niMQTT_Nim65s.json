@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Guilhem Saurel",
+        "url": "https://os.mbed.com/users/Nim65s/"
+    },
+    "description": "An MQTT Client for the new etherNet Interface.",
+    "examples": [
+        "https://os.mbed.com/users/Nim65s/code/AV_MQTT/",
+        "https://os.mbed.com/users/Nim65s/code/niMQTT_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MQTT",
+        "ax12"
+    ],
+    "name": "niMQTT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Nim65s/code/niMQTT/"
+    }
+}

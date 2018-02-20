@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Hiroshi Yamaguchi",
+        "url": "https://os.mbed.com/users/yamaguch/"
+    },
+    "description": "Station API",
+    "examples": [
+        "https://os.mbed.com/users/yamaguch/code/GMCStation/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "VL53L0X",
+        "station"
+    ],
+    "name": "Station",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yamaguch/code/Station/"
+    }
+}

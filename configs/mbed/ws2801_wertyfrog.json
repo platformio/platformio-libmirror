@@ -20,9 +20,7 @@
         "Beep",
         "sound",
         "tone",
-        "accelerometer",
-        "LIS302",
-        "SPI"
+        "joystick"
     ],
     "name": "ws2801",
     "platforms": "*",

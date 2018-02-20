@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "nivedita velagaleti",
+        "url": "https://os.mbed.com/users/niv17/"
+    },
+    "description": "ese 519 include files",
+    "examples": [
+        "https://os.mbed.com/users/niv17/code/PROJECT_3D_AUDIO/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AD5933",
+        "AD5934",
+        "Capacitance",
+        "impedance",
+        "measure",
+        "Meter",
+        "resistance",
+        "ethernet",
+        "socket",
+        "W5500",
+        "ADF4360",
+        "C027;",
+        "G350;",
+        "GPS;",
+        "SARA",
+        "can bus",
+        "Nucleo",
+        "NUCLEO-F103RB"
+    ],
+    "name": "include",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/niv17/code/include/"
+    }
+}

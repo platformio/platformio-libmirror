@@ -17,18 +17,7 @@
         "https://os.mbed.com/users/samux/code/USBHID_TestCase/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "device",
-        "USB",
-        "PwmOut",
-        "Servo",
-        "3pi",
-        "m3pi",
-        "robot",
-        "application board",
-        "C12832",
-        "LCD"
-    ],
+    "keywords": "USBDevice",
     "name": "USBDevice",
     "platforms": "*",
     "repository": {

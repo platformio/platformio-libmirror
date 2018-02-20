@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "wayne roberts",
+        "url": "https://os.mbed.com/users/dudmuck/"
+    },
+    "description": "https://github.com/j123b567/scpi-parser",
+    "examples": [
+        "https://os.mbed.com/teams/Semtech/code/scpi_sx127x/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DS18B20",
+        "client",
+        "SimpleNTP",
+        "SNTP",
+        "IEEE488",
+        "SCPI"
+    ],
+    "name": "libscpi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dudmuck/code/libscpi/"
+    }
+}

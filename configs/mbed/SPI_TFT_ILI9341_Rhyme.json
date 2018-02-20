@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Motoo Tanaka",
+        "url": "https://os.mbed.com/users/Rhyme/"
+    },
+    "description": "TFT driver for ILI9341. I imported this library from Seeed-Studio-28-TFT-Touch-Shield-V20.",
+    "examples": [
+        "https://os.mbed.com/users/dhivya12/code/TFT_sdcard/",
+        "https://os.mbed.com/users/Rhyme/code/TS_Eyes/",
+        "https://os.mbed.com/users/Rhyme/code/Tokei/",
+        "https://os.mbed.com/users/schnf30/code/AfficheurTFTAdafruit/",
+        "https://os.mbed.com/users/Rhyme/code/TFT_test_frdm-k64f/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "2.8",
+        "Adafruit",
+        "FRDM-KL25Z",
+        "TFT"
+    ],
+    "name": "SPI_TFT_ILI9341",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Rhyme/code/SPI_TFT_ILI9341/"
+    }
+}

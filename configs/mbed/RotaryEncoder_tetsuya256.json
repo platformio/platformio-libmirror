@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Tetsuya Hoshino",
+        "url": "https://os.mbed.com/users/tetsuya256/"
+    },
+    "description": "ロータリーエンコーダー (機械接点式インクリメンタル型) の信号をデコードするクラスです。",
+    "frameworks": "mbed",
+    "keywords": [
+        "cpputest",
+        "TDD",
+        "test",
+        "testframework",
+        "unit-test",
+        "Encoder",
+        "incremental",
+        "mechanical",
+        "rotary",
+        "switch",
+        "BLE",
+        "BLE Bluetooth Low Energy BLE",
+        "BUTTON",
+        "interrupt",
+        "masking",
+        "FM25V02",
+        "FM25V10",
+        "FRAM"
+    ],
+    "name": "RotaryEncoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tetsuya256/code/RotaryEncoder/"
+    }
+}

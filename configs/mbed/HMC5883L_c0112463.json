@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "光敏 増田",
+        "url": "https://os.mbed.com/users/c0112463/"
+    },
+    "description": "地磁気センサHMC5883Lライブラリ",
+    "frameworks": "mbed",
+    "keywords": "HMC5883L",
+    "name": "HMC5883L",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/c0112463/code/HMC5883L/"
+    }
+}

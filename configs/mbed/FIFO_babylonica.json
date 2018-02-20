@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Takuma Kawamura",
+        "url": "https://os.mbed.com/users/babylonica/"
+    },
+    "description": "This library provides variable length ring buffering with software FIFO(First-in, First-out).",
+    "examples": [
+        "https://os.mbed.com/users/babylonica/code/AsyncSerial/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "buffer",
+        "FIFO",
+        "ring buffer",
+        "Serial",
+        "card",
+        "fatfilesystem",
+        "MMC",
+        "SD",
+        "SDHC",
+        "SDXC"
+    ],
+    "name": "FIFO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/babylonica/code/FIFO/"
+    }
+}
