@@ -6,6 +6,9 @@
     "description": "Knight Rider KITT-like LED-Display",
     "frameworks": "mbed",
     "keywords": [
+        "C24LCXXX",
+        "EEPROM",
+        "I2C",
         "kitt",
         "Knight",
         "led",

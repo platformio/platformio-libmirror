@@ -10,7 +10,15 @@
         "ds1302",
         "real",
         "RTC",
-        "time"
+        "time",
+        "maniacbug",
+        "nRF24L01",
+        "nRF24L01P",
+        "RF24",
+        "compass",
+        "LSM303DLHC",
+        "magnetometer",
+        "sensors"
     ],
     "name": "ds1302",
     "platforms": "*",

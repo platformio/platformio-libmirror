@@ -9,11 +9,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "bma180",
-        "polling",
-        "scheduling",
-        "timing",
-        "thermistor"
+        "thermistor",
+        "3axis",
+        "accelerometer",
+        "Digital",
+        "Grove",
+        "Seeed",
+        "AirQuality",
+        "sensor",
+        "copter",
+        "PPM",
+        "quad"
     ],
     "name": "Thermistor",
     "platforms": "*",

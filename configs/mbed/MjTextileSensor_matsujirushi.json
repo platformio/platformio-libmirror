@@ -9,7 +9,10 @@
         "https://os.mbed.com/users/mbed_tw_hoehoe/code/BLE_TextileSensor/"
     ],
     "frameworks": "mbed",
-    "keywords": "MjTextileSensor",
+    "keywords": [
+        "Scheduler",
+        "task"
+    ],
     "name": "MjTextileSensor",
     "platforms": "*",
     "repository": {

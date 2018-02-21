@@ -8,7 +8,12 @@
         "https://os.mbed.com/users/giorgos2405/code/DS2480B_1_Wire_Master/"
     ],
     "frameworks": "mbed",
-    "keywords": "DS2480B",
+    "keywords": [
+        "LPC1114",
+        "WDT",
+        "Ticker",
+        "timer"
+    ],
     "name": "DS2480B",
     "platforms": "*",
     "repository": {

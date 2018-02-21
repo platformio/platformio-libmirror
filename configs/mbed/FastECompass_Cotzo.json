@@ -15,18 +15,19 @@
     "description": "Library for handling electronic compass. Calculate the three angles (pitch, roll, and yaw) using Tilt-Compensated algorithm.",
     "frameworks": "mbed",
     "keywords": [
+        "SSG",
+        "YMZ294",
         "IR",
         "accelerometer",
         "eCompass",
         "fast",
         "FRDM-KL46Z",
-        "magnetometer",
-        "digitalOut"
+        "magnetometer"
     ],
     "name": "FastECompass",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/Cotzo/code/FastECompass/"
+        "url": "https://os.mbed.com/users/Cotzo/code/FastECompass/"
     }
 }

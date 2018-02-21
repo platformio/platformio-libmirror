@@ -24,15 +24,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "31865",
+        "max",
+        "max31865",
+        "id3",
         "mp3",
-        "VS1053",
-        "W7500",
-        "WIZwiki"
+        "Lora",
+        "rn2483"
     ],
     "name": "LSM303AGR",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/ST/code/LSM303AGR/"
+        "url": "https://os.mbed.com/teams/ST/code/LSM303AGR/"
     }
 }

@@ -9,8 +9,15 @@
         "dac",
         "I2C",
         "LTC",
-        "CANopen",
-        "Roboteq"
+        "Host",
+        "hub",
+        "keyboard",
+        "mbed",
+        "Mouse",
+        "MSD",
+        "rtos",
+        "Serial",
+        "USB"
     ],
     "name": "DacLtc2606",
     "platforms": "*",

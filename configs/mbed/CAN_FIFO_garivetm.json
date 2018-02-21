@@ -8,7 +8,12 @@
     "keywords": [
         "CAN",
         "can bus",
-        "FIFO"
+        "FIFO",
+        "HT1621",
+        "LCD",
+        "ds1621",
+        "I2C",
+        "Temperature"
     ],
     "name": "CAN_FIFO",
     "platforms": "*",

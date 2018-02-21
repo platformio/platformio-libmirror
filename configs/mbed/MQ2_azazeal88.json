@@ -9,9 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "C027",
+        "C030",
+        "CellularInterface",
+        "u-blox",
         "gas sensor",
-        "mq2",
-        "dynamixel"
+        "mq2"
     ],
     "name": "MQ2",
     "platforms": "*",

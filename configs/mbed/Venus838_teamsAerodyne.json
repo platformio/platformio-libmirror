@@ -10,9 +10,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ambient",
-        "light",
-        "TSL2550"
+        "GPS",
+        "LCD",
+        "ST7032",
+        "TextLCD"
     ],
     "name": "Venus838",
     "platforms": "*",

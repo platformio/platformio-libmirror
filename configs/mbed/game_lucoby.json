@@ -8,7 +8,12 @@
         "https://os.mbed.com/users/lucoby/code/snake/"
     ],
     "frameworks": "mbed",
-    "keywords": "game",
+    "keywords": [
+        "EEPROM",
+        "MSD",
+        "SPI",
+        "USB"
+    ],
     "name": "game",
     "platforms": "*",
     "repository": {

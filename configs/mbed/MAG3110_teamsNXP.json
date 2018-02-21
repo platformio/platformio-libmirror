@@ -18,12 +18,12 @@
         "led",
         "LPC1768",
         "mbed",
-        "Accessory",
-        "ADK",
-        "android",
         "DISCO_F469NI",
         "LCD",
-        "Touch Screen"
+        "Touch Screen",
+        "Accessory",
+        "ADK",
+        "android"
     ],
     "name": "MAG3110",
     "platforms": "*",

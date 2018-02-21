@@ -11,11 +11,16 @@
     "keywords": [
         "bmp085",
         "sparkfun",
+        "Maple Mini",
+        "NUCLEO-F103RB",
+        "STM32F103C8C6",
+        "USB device",
+        "USBDevice",
+        "ucam",
         "AES",
         "cipher",
         "encryption",
-        "security",
-        "ucam"
+        "security"
     ],
     "name": "FATFileSystemv2",
     "platforms": "*",

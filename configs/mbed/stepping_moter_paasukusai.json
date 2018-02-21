@@ -6,8 +6,17 @@
     "description": "liblary for stepping_motor",
     "frameworks": "mbed",
     "keywords": [
+        "HMC5883L",
         "motor",
-        "stepping"
+        "stepping",
+        "distance",
+        "HCSR04",
+        "sensor",
+        "DS18B20",
+        "DS2450",
+        "MAX31850",
+        "Thermocouple",
+        "VNH5019"
     ],
     "name": "stepping_moter",
     "platforms": "*",

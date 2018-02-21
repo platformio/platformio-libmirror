@@ -9,16 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Accel",
-        "accelerometer",
-        "gyro",
-        "gyroscope",
-        "IMU",
-        "Serial",
-        "Terminal",
-        "VT100",
-        "VT200",
-        "VT52"
+        "f401",
+        "F446",
+        "Nucleo",
+        "RGB LED",
+        "SPI",
+        "UIT",
+        "WS2812B"
     ],
     "name": "sseg",
     "platforms": "*",

@@ -18,18 +18,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "2.8",
-        "Adafruit",
-        "FRDM-KL25Z",
-        "TFT",
-        "EaPaper",
-        "EM027BS013",
-        "FRDM-K20D50"
+        "I2C",
+        "MCP23017",
+        "wattbob",
+        "EA",
+        "Graphics",
+        "OLED",
+        "SPI"
     ],
     "name": "Mikrovalna",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/TVZ-Mechatronics-Team/code/Mikrovalna/"
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/Mikrovalna/"
     }
 }

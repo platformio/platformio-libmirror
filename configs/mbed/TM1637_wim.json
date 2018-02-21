@@ -10,7 +10,16 @@
     "frameworks": "mbed",
     "keywords": [
         "LEDcontroller",
-        "TM1637"
+        "TM1637",
+        "DPF",
+        "FTP",
+        "photo",
+        "W7500",
+        "WIZwiki_W7500",
+        "Nucleo",
+        "open-drain",
+        "push-pull",
+        "UIT"
     ],
     "name": "TM1637",
     "platforms": "*",

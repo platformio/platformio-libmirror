@@ -6,8 +6,11 @@
     "description": "Mbed firmware to capture 4 mic inputs and provide data over ethernet.",
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "SCA3000"
+        "menu",
+        "Touchscreen",
+        "GEL2474",
+        "TCP",
+        "UDP"
     ],
     "name": "DMA_Ethernet_Mbed",
     "platforms": "*",

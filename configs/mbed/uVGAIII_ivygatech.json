@@ -8,7 +8,14 @@
         "https://os.mbed.com/users/ivygatech/code/uVGAIII_demo/"
     ],
     "frameworks": "mbed",
-    "keywords": "2645",
+    "keywords": [
+        "controller",
+        "Design",
+        "ethernet",
+        "http",
+        "interface",
+        "server"
+    ],
     "name": "uVGAIII",
     "platforms": "*",
     "repository": {

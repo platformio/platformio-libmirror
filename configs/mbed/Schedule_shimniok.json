@@ -14,7 +14,10 @@
         "polling",
         "scheduling",
         "timing",
-        "thermistor"
+        "Grove",
+        "RFID",
+        "SEN11425P",
+        "Serial"
     ],
     "name": "Schedule",
     "platforms": "*",

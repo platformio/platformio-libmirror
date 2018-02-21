@@ -6,10 +6,19 @@
     "description": "This library creates the interface to operate the TLC5940. This device manages 16 PWM outputs.",
     "frameworks": "mbed",
     "keywords": [
-        "LM75B",
+        "card",
+        "reader",
+        "Wiegand",
         "led",
         "pwm",
-        "tlc5940"
+        "tlc5940",
+        "4G cellular",
+        "lte",
+        "sakura internet",
+        "Sakura IoT Platform",
+        "sakuraio",
+        "SCM-LTE-01",
+        "SCM-LTE-beta"
     ],
     "name": "tlc5940",
     "platforms": "*",

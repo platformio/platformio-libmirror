@@ -9,9 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Bertl14",
+        "robot",
         "Robotics",
-        "Servo"
+        "RT-component",
+        "RT-middleware",
+        "Servo",
+        "RF22",
+        "RFM22",
+        "RFM22Max",
+        "wireless"
     ],
     "name": "PolyServo",
     "platforms": "*",

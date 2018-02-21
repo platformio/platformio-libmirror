@@ -21,6 +21,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "APA102",
+        "led",
+        "rgb",
+        "ws2801",
+        "EFM32",
+        "SiLabs",
+        "Silicon Labs",
+        "silicon_labs",
+        "Slider",
+        "touch",
         "C027",
         "C030",
         "CellLocate",
@@ -29,27 +39,12 @@
         "http",
         "SMS",
         "u-blox",
-        "ussd",
-        "BLE Bluetooth Low Energy BLE",
-        "Bluetooth 4.0 Low Energy 4.0 ble HM-11 Hm11 Ble",
-        "Automation",
-        "DT1",
-        "elements",
-        "I",
-        "PDT1",
-        "Pi",
-        "PT1",
-        "PT2",
-        "PT2cc",
-        "AT",
-        "CellularInterface",
-        "N211",
-        "N2xx"
+        "ussd"
     ],
     "name": "ublox-at-cellular-interface-ext",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/ublox/code/ublox-at-cellular-interface-ext/"
+        "url": "https://os.mbed.com/teams/ublox/code/ublox-at-cellular-interface-ext/"
     }
 }

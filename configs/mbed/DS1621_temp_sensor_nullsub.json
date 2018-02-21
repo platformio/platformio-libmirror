@@ -6,9 +6,13 @@
     "description": "A small library to read the tempature from ds1621(with little changes all those ds162x) devices over I2C.",
     "frameworks": "mbed",
     "keywords": [
+        "aqm0802a",
+        "I2C",
+        "Nucleo",
+        "Humidity",
+        "sensor",
         "1621",
-        "ds1621",
-        "I2C"
+        "ds1621"
     ],
     "name": "DS1621_temp_sensor",
     "platforms": "*",

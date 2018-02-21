@@ -10,9 +10,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "compass",
-        "DISCO_L476VG",
-        "LSM303"
+        "8x8",
+        "led",
+        "led matrix",
+        "PCA9622"
     ],
     "name": "Sht31",
     "platforms": "*",

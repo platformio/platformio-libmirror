@@ -5,12 +5,7 @@
     },
     "description": "Sensirion SHT11 library",
     "frameworks": "mbed",
-    "keywords": [
-        "Adafruit",
-        "I2C",
-        "PCA9685",
-        "pwm"
-    ],
+    "keywords": "SHT11",
     "name": "SHT11",
     "platforms": "*",
     "repository": {

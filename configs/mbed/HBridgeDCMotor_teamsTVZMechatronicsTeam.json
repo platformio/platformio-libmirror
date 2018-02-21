@@ -19,22 +19,20 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "debug",
-        "log",
-        "logger",
-        "test",
+        "display",
         "DC",
         "driver",
         "full-bridge",
         "H-bridge",
         "motor",
-        "display",
-        "GPS"
+        "CAN",
+        "FRDM-KL25Z",
+        "Seeed Studios"
     ],
     "name": "HBridgeDCMotor",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/TVZ-Mechatronics-Team/code/HBridgeDCMotor/"
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/HBridgeDCMotor/"
     }
 }

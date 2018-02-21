@@ -9,10 +9,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MPL115A2",
-        "adc",
-        "DIFF",
-        "K64F"
+        "Philips",
+        "RC-6",
+        "RC6",
+        "remote",
+        "Graphics",
+        "Digital",
+        "library",
+        "logic",
+        "Out",
+        "Register",
+        "shift",
+        "Shift Register",
+        "SN74HC595N"
     ],
     "name": "MQTTSNPacket",
     "platforms": "*",

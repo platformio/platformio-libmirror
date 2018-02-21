@@ -6,10 +6,18 @@
     "description": "RTno is communicating library and framework which allows you to make your embedded device capable of communicating with RT-middleware world.",
     "frameworks": "mbed",
     "keywords": [
+        "game",
+        "inheritance",
+        "OOP",
+        "polymorphism",
+        "tutorial",
         "robot",
         "Robotics",
         "RT-component",
-        "RT-middleware"
+        "RT-middleware",
+        "Clock Generator",
+        "Si5351A",
+        "SiLabs"
     ],
     "name": "RTnoV4",
     "platforms": "*",

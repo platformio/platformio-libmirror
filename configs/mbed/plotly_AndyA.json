@@ -9,12 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "AHRS",
+        "navigation",
+        "sensors",
         "chart",
         "graph",
         "plot.ly",
-        "Armand",
-        "Coetzer",
-        "bluetooth"
+        "Adafruit",
+        "KL25z",
+        "NeoPixel"
     ],
     "name": "plotly",
     "platforms": "*",

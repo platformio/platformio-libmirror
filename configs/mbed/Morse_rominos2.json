@@ -6,11 +6,13 @@
     "description": "Morse Encoder/Decoder Library.",
     "frameworks": "mbed",
     "keywords": [
-        "etti",
-        "TUIASI",
+        "I2C",
+        "VFD",
         "decoder",
         "Encoder",
-        "Morse"
+        "Morse",
+        "atmospheric pressure",
+        "lps25h"
     ],
     "name": "Morse",
     "platforms": "*",

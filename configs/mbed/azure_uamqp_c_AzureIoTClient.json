@@ -11,14 +11,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ADT7410",
-        "Analog Devices",
-        "I2C",
-        "sensor",
-        "Temperature",
-        "frequencies",
-        "guitar",
-        "tuner"
+        "debug",
+        "Error",
+        "flash",
+        "led"
     ],
     "name": "azure_uamqp_c",
     "platforms": "*",

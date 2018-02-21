@@ -5,7 +5,11 @@
     },
     "description": "ver:init",
     "frameworks": "mbed",
-    "keywords": "BLE",
+    "keywords": [
+        "BLE",
+        "buttons",
+        "hotboards"
+    ],
     "name": "TARGET_ST_BLUENRG",
     "platforms": "*",
     "repository": {

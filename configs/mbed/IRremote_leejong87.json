@@ -10,11 +10,7 @@
         "IR",
         "remote",
         "quadcopter",
-        "Servo",
-        "NeoPixel",
-        "nRF51822",
-        "RedBear",
-        "WS2812"
+        "Servo"
     ],
     "name": "IRremote",
     "platforms": "*",

@@ -24,11 +24,11 @@
         "LinkSprite",
         "LS-Y201",
         "LPC4088",
-        "24LCxx",
-        "EEPROM",
-        "I2C",
-        "Microchip",
-        "Serial"
+        "Lora",
+        "Semtech",
+        "SX1276",
+        "SX1276Lib",
+        "SX1276MB1xAS"
     ],
     "name": "Camera_LS_Y201",
     "platforms": "*",

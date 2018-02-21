@@ -6,10 +6,14 @@
     "description": "Library for detailed control of PWM including dead times and interrupts.",
     "frameworks": "mbed",
     "keywords": [
-        "Fake SPI",
-        "SPI",
-        "Virtual SPI",
-        "VSPI"
+        "ds1302",
+        "accelerometer",
+        "bma250e",
+        "borch",
+        "mtm",
+        "mtmtech",
+        "mtsense03",
+        "mtsense03-BO"
     ],
     "name": "DtPWM",
     "platforms": "*",

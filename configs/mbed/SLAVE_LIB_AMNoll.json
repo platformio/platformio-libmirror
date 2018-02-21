@@ -8,20 +8,7 @@
         "https://os.mbed.com/users/AMNoll/code/mDot_SPI_slave/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "infrared",
-        "Obstacle detection",
-        "adc",
-        "dac",
-        "dual",
-        "MCP4922",
-        "Nucleo",
-        "single",
-        "ADC converter",
-        "Linear",
-        "Linear Technology",
-        "LTC2460"
-    ],
+    "keywords": "SLAVE_LIB",
     "name": "SLAVE_LIB",
     "platforms": "*",
     "repository": {

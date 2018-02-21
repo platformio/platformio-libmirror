@@ -6,9 +6,11 @@
     "description": "Command line interface for UART.",
     "frameworks": "mbed",
     "keywords": [
-        "DeepSleep",
-        "InterruptIn",
-        "LPC1114"
+        "Nunchuk",
+        "camera",
+        "JPEG",
+        "OV528",
+        "uCAM TTL120"
     ],
     "name": "MjLineSerial",
     "platforms": "*",

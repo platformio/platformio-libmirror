@@ -15,16 +15,15 @@
     "description": "Sharp Memory LCD library",
     "frameworks": "mbed",
     "keywords": [
-        "brightness",
-        "high",
-        "led",
-        "PCF2129",
-        "RTC"
+        "battery charger",
+        "BQ24295",
+        "C030",
+        "u-blox"
     ],
     "name": "SharpMemoryLCD",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/star297/code/SharpMemoryLCD/"
+        "url": "https://os.mbed.com/users/star297/code/SharpMemoryLCD/"
     }
 }

@@ -7,7 +7,12 @@
     "frameworks": "mbed",
     "keywords": [
         "LCD2S",
-        "modtronix"
+        "modtronix",
+        "hotboards",
+        "LEDS",
+        "dns",
+        "getHostByName",
+        "network"
     ],
     "name": "modtronix_LCD2S",
     "platforms": "*",

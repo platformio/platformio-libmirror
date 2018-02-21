@@ -9,15 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "LCD",
-        "eFLL",
-        "fuzzy",
-        "logic",
-        "GPIO",
-        "master",
-        "Serial",
-        "SPI"
+        "9Dof-Stick",
+        "ADXL345",
+        "sparkfun"
     ],
     "name": "expatlib",
     "platforms": "*",

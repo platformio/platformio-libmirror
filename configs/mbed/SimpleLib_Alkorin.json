@@ -12,9 +12,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "buzzer",
+        "piezo",
         "DISCO_L476VG",
         "gyroscope",
-        "L3GD20"
+        "L3GD20",
+        "MCP3425",
+        "DC",
+        "motor",
+        "PM motor",
+        "bluetooth",
+        "bt",
+        "rtos"
     ],
     "name": "SimpleLib",
     "platforms": "*",

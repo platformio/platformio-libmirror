@@ -22,16 +22,20 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "mbed",
         "robot",
         "Robotics",
         "RT-component",
-        "RT-middleware"
+        "RT-middleware",
+        "Servo",
+        "RF22",
+        "RFM22",
+        "RFM22Max",
+        "wireless"
     ],
     "name": "RTnoV3",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/ysuga/code/RTnoV3/"
+        "url": "https://os.mbed.com/users/ysuga/code/RTnoV3/"
     }
 }

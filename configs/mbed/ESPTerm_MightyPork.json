@@ -5,7 +5,13 @@
     },
     "description": "Support library for the ESP8266 Wireless Terminal.",
     "frameworks": "mbed",
-    "keywords": "ESPTerm",
+    "keywords": [
+        "fxas21002",
+        "gyroscope",
+        "I2C",
+        "MSS",
+        "MSU"
+    ],
     "name": "ESPTerm",
     "platforms": "*",
     "repository": {

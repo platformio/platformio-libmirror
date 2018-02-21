@@ -6,11 +6,13 @@
     "description": "Simple ring buffer",
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "MAG3110",
-        "magnetometer",
+        "controller",
+        "Servo",
         "buffer",
-        "ring"
+        "ring",
+        "1508",
+        "LPC1768",
+        "sx1508"
     ],
     "name": "nl_ring_buffer",
     "platforms": "*",

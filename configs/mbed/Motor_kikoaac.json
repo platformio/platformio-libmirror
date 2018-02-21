@@ -12,7 +12,14 @@
         "https://os.mbed.com/users/kikoaac/code/FourSicleRobot/"
     ],
     "frameworks": "mbed",
-    "keywords": "MPL3115A2",
+    "keywords": [
+        "Capacitive",
+        "Input",
+        "sensor",
+        "touch",
+        "GoogleChart",
+        "DMX-512"
+    ],
     "name": "Motor",
     "platforms": "*",
     "repository": {

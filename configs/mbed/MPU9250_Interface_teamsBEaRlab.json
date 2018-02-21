@@ -9,10 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GUI",
-        "Thermocouple",
-        "WS2812",
-        "MPU9250"
+        "MPU9250",
+        "MQTT",
+        "1.0.3",
+        "NDEF",
+        "NFC",
+        "Type4"
     ],
     "name": "MPU9250_Interface",
     "platforms": "*",

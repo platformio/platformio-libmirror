@@ -5,7 +5,11 @@
     },
     "description": "For Seiko M4024 (LCD 4x40)",
     "frameworks": "mbed",
-    "keywords": "TextLCD_4x40",
+    "keywords": [
+        "accelerometer",
+        "I2C",
+        "MMA7660"
+    ],
     "name": "TextLCD_4x40",
     "platforms": "*",
     "repository": {

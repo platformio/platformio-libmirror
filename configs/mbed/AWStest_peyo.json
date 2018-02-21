@@ -5,7 +5,19 @@
     },
     "description": "test",
     "frameworks": "mbed",
-    "keywords": "AWS-test",
+    "keywords": [
+        "AT",
+        "C027",
+        "C030",
+        "CellularInterface",
+        "u-blox",
+        "Bertl14",
+        "display",
+        "DOG",
+        "LCD",
+        "ST7036",
+        "TextLCD"
+    ],
     "name": "AWS-test",
     "platforms": "*",
     "repository": {

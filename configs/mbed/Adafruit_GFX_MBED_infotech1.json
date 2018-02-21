@@ -11,15 +11,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BLE",
-        "bluetooth",
-        "simpleble",
+        "https",
+        "HTTPSClient",
+        "security",
+        "SSL",
+        "TLS",
         "Adafruit_GFX",
+        "NTP",
         "CAN",
         "control",
         "port",
-        "slope",
-        "NTP"
+        "slope"
     ],
     "name": "Adafruit_GFX_MBED",
     "platforms": "*",

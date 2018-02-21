@@ -9,14 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "F402RE",
-        "Ghz2000",
-        "mbed",
-        "Nucleo",
-        "Seg14Display",
         "led",
         "PT6961",
-        "SPI"
+        "SPI",
+        "EasyVR3_LED_Library"
     ],
     "name": "PT6961",
     "platforms": "*",

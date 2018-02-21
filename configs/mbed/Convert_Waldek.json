@@ -10,9 +10,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "ST7565",
-        "TextLCD"
+        "EEPROM",
+        "file",
+        "mFS",
+        "System"
     ],
     "name": "Convert",
     "platforms": "*",

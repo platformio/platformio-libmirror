@@ -5,7 +5,13 @@
     },
     "description": "A simple circular array queue with the following methods:",
     "frameworks": "mbed",
-    "keywords": "EDP2",
+    "keywords": [
+        "EDP2",
+        "HTTPClient",
+        "xively",
+        "ADNS6010",
+        "MouseChip"
+    ],
     "name": "CircularArrayQueue",
     "platforms": "*",
     "repository": {

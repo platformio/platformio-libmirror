@@ -6,6 +6,11 @@
     "description": "AHRS based on MatrixPilot DCM algorithm; ported from Pololu MinIMU-9 example code in turn based on ArduPilot 1.5",
     "frameworks": "mbed",
     "keywords": [
+        "ALS",
+        "ambient light sensor",
+        "I2C",
+        "ISL29125",
+        "rgb",
         "AHRS",
         "dcm",
         "navigation"

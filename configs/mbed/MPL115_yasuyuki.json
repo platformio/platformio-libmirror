@@ -10,9 +10,10 @@
     "frameworks": "mbed",
     "keywords": [
         "MPL115A2",
-        "adc",
-        "DIFF",
-        "K64F"
+        "C027",
+        "HMAC",
+        "hmac-md5",
+        "md5"
     ],
     "name": "MPL115",
     "platforms": "*",

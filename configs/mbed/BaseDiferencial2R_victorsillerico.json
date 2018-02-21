@@ -6,11 +6,12 @@
     "description": "This library let you manage a diferential mobile robot with two wheels based in the L298 module",
     "frameworks": "mbed",
     "keywords": [
+        "AHRS",
+        "bmp085",
+        "FreeIMU",
+        "IMU",
         "diferential mobile robot",
-        "L298",
-        "audio",
-        "pwm",
-        "NaCrDe"
+        "L298"
     ],
     "name": "BaseDiferencial2R",
     "platforms": "*",

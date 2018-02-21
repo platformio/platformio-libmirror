@@ -6,11 +6,13 @@
     "description": "Class library for a Topway LM6029ACW graphics LCD.",
     "frameworks": "mbed",
     "keywords": [
+        "development",
+        "SDK",
+        "sources",
         "fatfilesystem",
         "MSD",
         "SD",
-        "USB",
-        "millis"
+        "USB"
     ],
     "name": "LM6029ACW",
     "platforms": "*",

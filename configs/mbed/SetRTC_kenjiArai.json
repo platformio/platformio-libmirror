@@ -12,10 +12,6 @@
     "keywords": [
         "DISCO_F469NI",
         "LCD",
-        "BUTTON",
-        "ButtonGroup",
-        "DISCO-F746",
-        "UIT",
         "f334",
         "F401RE",
         "F411RE",
@@ -25,7 +21,14 @@
         "power on/off",
         "reset",
         "RTC",
-        "VBAT"
+        "VBAT",
+        "color",
+        "led",
+        "nRF51822",
+        "rgb",
+        "WS2812B",
+        "Adafruit 9DOF",
+        "LSM303DLHC"
     ],
     "name": "SetRTC",
     "platforms": "*",

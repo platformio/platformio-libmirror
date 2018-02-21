@@ -9,15 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "wallbot",
-        "pwm",
-        "SoftPWM",
-        "CyaSSL",
-        "https",
-        "SSL",
-        "LCD",
-        "ST7565",
-        "TextLCD"
+        "EEPROM",
+        "hotboards",
+        "storage",
+        "wallbot"
     ],
     "name": "wallbot",
     "platforms": "*",

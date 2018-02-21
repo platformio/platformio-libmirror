@@ -6,9 +6,7 @@
     "description": "ZumoにFRDM KL-25Zを搭載した時のモーターコントロールライブラリです。",
     "frameworks": "mbed",
     "keywords": [
-        "PCA9629A",
-        "stepper motor",
-        "stepping motor",
+        "BME280",
         "Low_Power",
         "LPC1114",
         "LPC1114FN28",

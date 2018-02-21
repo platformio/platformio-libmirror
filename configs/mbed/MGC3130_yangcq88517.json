@@ -18,8 +18,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "bma180",
+        "interrupt",
+        "irq",
+        "KL25z",
+        "NVIC",
+        "priority",
+        "Expander",
+        "I2C",
+        "PCA9538",
         "Electrical",
         "Field",
         "Gesture",
@@ -29,6 +35,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/yangcq88517/code/MGC3130/"
+        "url": "https://os.mbed.com/users/yangcq88517/code/MGC3130/"
     }
 }

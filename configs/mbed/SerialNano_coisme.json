@@ -9,10 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "filesystem",
-        "MSCFileSystem",
-        "SDFileSystem",
         "I2C",
+        "nRF24L01P",
+        "Nucelo",
+        "RF24",
+        "STM32F",
         "BLE Nano",
         "BLE_Nano",
         "BLEnano"

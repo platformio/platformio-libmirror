@@ -21,10 +21,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "led",
-        "rgb",
-        "WS2812",
-        "WS2812B",
+        "menu",
+        "Touchscreen",
+        "GEL2474",
         "TCP",
         "UDP"
     ],
@@ -32,6 +31,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/MultiTech/code/MTS-Socket/"
+        "url": "https://os.mbed.com/teams/MultiTech/code/MTS-Socket/"
     }
 }

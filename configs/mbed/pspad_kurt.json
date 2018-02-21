@@ -5,7 +5,13 @@
     },
     "description": "プレステ１コントローラ用ライブラリ",
     "frameworks": "mbed",
-    "keywords": "StarBoardOrange",
+    "keywords": [
+        "8025",
+        "EPSON",
+        "RTC",
+        "RX-8025NB",
+        "StarBoardOrange"
+    ],
     "name": "pspad",
     "platforms": "*",
     "repository": {

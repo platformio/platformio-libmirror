@@ -5,7 +5,11 @@
     },
     "description": "yup",
     "frameworks": "mbed",
-    "keywords": "Adafruit_GFX",
+    "keywords": [
+        "cmsis",
+        "rtos",
+        "RTX"
+    ],
     "name": "Adafruit_GFX",
     "platforms": "*",
     "repository": {

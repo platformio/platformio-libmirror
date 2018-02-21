@@ -12,7 +12,15 @@
         "iniparser",
         "driver",
         "sonar",
-        "ad7124"
+        "HX8340",
+        "ILI9325",
+        "ILI9328",
+        "ITDB02",
+        "LCD",
+        "SSD1289",
+        "ST7735",
+        "TFT",
+        "UTFT"
     ],
     "name": "iniparser",
     "platforms": "*",

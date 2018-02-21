@@ -7,8 +7,10 @@
     "frameworks": "mbed",
     "keywords": [
         "accelerometer",
-        "2016年度IZU",
-        "PCF8591"
+        "CMT",
+        "K64F",
+        "output",
+        "PPM"
     ],
     "name": "DimEngAcc3D",
     "platforms": "*",

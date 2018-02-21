@@ -9,9 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit",
-        "OLED",
-        "SSD1306"
+        "MPU9250",
+        "20160515",
+        "Linear Time Code",
+        "LTC",
+        "SMPTE",
+        "pikachu"
     ],
     "name": "QW_NMEA",
     "platforms": "*",

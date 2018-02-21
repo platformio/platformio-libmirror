@@ -13,12 +13,12 @@
     "keywords": [
         "blinking",
         "led",
+        "I2C",
+        "software",
         "16x2",
         "freetronics",
         "LCD",
-        "dynamixel",
-        "MX28",
-        "Servo"
+        "HX711"
     ],
     "name": "BlinkLed",
     "platforms": "*",

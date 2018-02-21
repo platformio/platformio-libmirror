@@ -20,14 +20,11 @@
         "https://os.mbed.com/users/j3/code/Line_Following_Bot_Pololu/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "RN-XV",
-        "WiFly"
-    ],
+    "keywords": "BLE",
     "name": "MAX14871_Shield",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/Maxim-Integrated/code/MAX14871_Shield/"
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/code/MAX14871_Shield/"
     }
 }

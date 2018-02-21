@@ -8,7 +8,14 @@
         "https://os.mbed.com/users/nxp_ip/code/mini_board_PCU9669/"
     ],
     "frameworks": "mbed",
-    "keywords": "PCA9665",
+    "keywords": [
+        "inair4",
+        "inair8",
+        "inair9",
+        "Lora",
+        "modtronix",
+        "SX1276"
+    ],
     "name": "PCA9665",
     "platforms": "*",
     "repository": {

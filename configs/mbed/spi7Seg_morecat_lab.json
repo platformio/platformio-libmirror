@@ -9,8 +9,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GR-PEACH",
-        "pwm"
+        "dac",
+        "I2C",
+        "LTC",
+        "Host",
+        "hub",
+        "keyboard",
+        "mbed",
+        "Mouse",
+        "MSD",
+        "rtos",
+        "Serial",
+        "USB"
     ],
     "name": "spi7Seg",
     "platforms": "*",

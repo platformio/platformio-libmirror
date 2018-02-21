@@ -6,11 +6,15 @@
     "description": "library acel",
     "frameworks": "mbed",
     "keywords": [
-        "dynamixel",
-        "IOT",
-        "rfduino",
-        "AX-12",
-        "ax12"
+        "bitmask",
+        "circular_buffer",
+        "dataset",
+        "filter",
+        "filtering",
+        "mean",
+        "median",
+        "standard_deviation",
+        "Template"
     ],
     "name": "ADXL345_I2C",
     "platforms": "*",

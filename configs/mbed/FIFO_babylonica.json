@@ -12,13 +12,7 @@
         "buffer",
         "FIFO",
         "ring buffer",
-        "Serial",
-        "card",
-        "fatfilesystem",
-        "MMC",
-        "SD",
-        "SDHC",
-        "SDXC"
+        "Serial"
     ],
     "name": "FIFO",
     "platforms": "*",

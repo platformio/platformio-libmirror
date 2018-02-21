@@ -6,13 +6,8 @@
     "description": "accelerator",
     "frameworks": "mbed",
     "keywords": [
-        "2.4",
-        "LCD",
-        "MCUFRIEND",
-        "TFT",
-        "aconno",
-        "Nordic",
-        "nrf52"
+        "accelerometer",
+        "SCA3000"
     ],
     "name": "MMA8452Q",
     "platforms": "*",

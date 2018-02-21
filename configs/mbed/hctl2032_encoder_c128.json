@@ -14,11 +14,15 @@
     ],
     "description": "hctl 2032 encoder for stm32",
     "frameworks": "mbed",
-    "keywords": "Encoder",
+    "keywords": [
+        "Encoder",
+        "display",
+        "monochrome"
+    ],
     "name": "hctl2032_encoder",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/c128/code/hctl2032_encoder/"
+        "url": "https://os.mbed.com/users/c128/code/hctl2032_encoder/"
     }
 }

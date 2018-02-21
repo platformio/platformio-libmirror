@@ -9,10 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BLE",
-        "BLE Bluetooth Low Energy BLE",
-        "BUTTON",
-        "GAP"
+        "FAT",
+        "file",
+        "SD",
+        "System",
+        "interpreter",
+        "Pawn"
     ],
     "name": "Grove_temp_sensor",
     "platforms": "*",

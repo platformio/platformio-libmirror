@@ -15,7 +15,11 @@
     "frameworks": "mbed",
     "keywords": [
         "DISCO_F746NG",
-        "SD"
+        "SD",
+        "buffer",
+        "ring",
+        "debounce",
+        "interrupt"
     ],
     "name": "SD_DISCO_F746NG",
     "platforms": "*",

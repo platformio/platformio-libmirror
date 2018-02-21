@@ -5,7 +5,10 @@
     },
     "description": "bh",
     "frameworks": "mbed",
-    "keywords": "mecanum2017",
+    "keywords": [
+        "conversion",
+        "Thermocouple"
+    ],
     "name": "mecanum2017",
     "platforms": "*",
     "repository": {

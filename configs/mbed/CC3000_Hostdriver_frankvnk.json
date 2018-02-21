@@ -19,26 +19,27 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HD44780",
-        "TextLCD",
         "flash",
         "Serial",
         "SPI",
         "CC3000",
         "SimpleLink",
         "Wi-Fi",
+        "Essex",
         "fast",
         "FastPWM",
         "precision",
         "pwm",
         "resolution",
         "Servo",
-        "Speed"
+        "Speed",
+        "HD44780",
+        "TextLCD"
     ],
     "name": "CC3000_Hostdriver",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/frankvnk/code/CC3000_Hostdriver/"
+        "url": "https://os.mbed.com/users/frankvnk/code/CC3000_Hostdriver/"
     }
 }

@@ -21,24 +21,11 @@
         "https://os.mbed.com/users/MikamiUitOpen/code/SD_PlayerSkeleton/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "api",
-        "DIP",
-        "flash",
-        "SPI",
-        "spiflash",
-        "W25X40BV",
-        "winbond",
-        "display",
-        "hotboards",
-        "Dieter Graef",
-        "DISCO-F746",
-        "SDFileSystem"
-    ],
+    "keywords": "SDFileSystem_Warning_Fixed",
     "name": "SDFileSystem_Warning_Fixed",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/MikamiUitOpen/code/SDFileSystem_Warning_Fixed/"
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/SDFileSystem_Warning_Fixed/"
     }
 }

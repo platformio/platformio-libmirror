@@ -10,7 +10,10 @@
         "seconds",
         "stopwatch",
         "timer",
-        "watch"
+        "watch",
+        "MPU9150",
+        "Quaternion",
+        "vector"
     ],
     "name": "BMP085_lib",
     "platforms": "*",

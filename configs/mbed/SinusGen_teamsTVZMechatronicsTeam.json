@@ -17,11 +17,16 @@
         "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/PURS_ZI_006/"
     ],
     "frameworks": "mbed",
-    "keywords": "SinusGen",
+    "keywords": [
+        "adc",
+        "AnalogIn",
+        "burst",
+        "fast"
+    ],
     "name": "SinusGen",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/TVZ-Mechatronics-Team/code/SinusGen/"
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/SinusGen/"
     }
 }

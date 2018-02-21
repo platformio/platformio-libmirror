@@ -5,7 +5,10 @@
     },
     "description": "Motor control library - worjking for checkpoint.",
     "frameworks": "mbed",
-    "keywords": "Motor",
+    "keywords": [
+        "PAW",
+        "PAW Sensor"
+    ],
     "name": "Motor",
     "platforms": "*",
     "repository": {

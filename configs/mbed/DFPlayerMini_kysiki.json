@@ -6,12 +6,15 @@
     "description": "DFPlayerMini Library porting from Arduino Library (www.github.com/dfrobot/DFPlayer_Mini_Mp3)",
     "frameworks": "mbed",
     "keywords": [
-        "id3",
-        "mp3",
+        "HD44780",
+        "TextLCD",
         "C030",
         "low power",
         "STM32F437",
-        "u-blox"
+        "u-blox",
+        "358",
+        "Adafruit",
+        "TFT"
     ],
     "name": "DFPlayerMini",
     "platforms": "*",

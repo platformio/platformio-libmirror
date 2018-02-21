@@ -15,7 +15,12 @@
         "QSPI",
         "Quad-SPI",
         "ST",
-        "NZ32-SC151"
+        "EPOS",
+        "epos2",
+        "maxon",
+        "motor",
+        "Nucleo",
+        "Serial"
     ],
     "name": "QSPI_DISCO_F746NG",
     "platforms": "*",

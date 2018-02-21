@@ -6,16 +6,10 @@
     "description": "Mbed Pololu LPS331 SPI library",
     "frameworks": "mbed",
     "keywords": [
+        "GR-PEACH",
         "LPS331AP",
         "mbed",
-        "SPI",
-        "GR-PEACH",
-        "ASCII Communication",
-        "Comm",
-        "FP",
-        "LinkedList",
-        "Serial",
-        "Terminal"
+        "SPI"
     ],
     "name": "LPS331AP_SPI",
     "platforms": "*",

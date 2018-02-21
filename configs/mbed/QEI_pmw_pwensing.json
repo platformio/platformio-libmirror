@@ -13,7 +13,13 @@
         "https://os.mbed.com/users/mchoun95/code/Jerby_v2/"
     ],
     "frameworks": "mbed",
-    "keywords": "QEI_pmw",
+    "keywords": [
+        "Nucleo",
+        "PCA9685",
+        "pwm controller",
+        "BSP",
+        "DISCO_L476VG"
+    ],
     "name": "QEI_pmw",
     "platforms": "*",
     "repository": {

@@ -18,11 +18,11 @@
         "https://os.mbed.com/users/bjblazkowicz/code/rgb_sensor_detection/"
     ],
     "frameworks": "mbed",
-    "keywords": "rgb_sensor_buffer",
+    "keywords": "stm32f091rc",
     "name": "rgb_sensor_buffer",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/meriac/code/rgb_sensor_buffer/"
+        "url": "https://os.mbed.com/users/meriac/code/rgb_sensor_buffer/"
     }
 }

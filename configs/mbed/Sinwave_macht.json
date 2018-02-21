@@ -9,14 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "F042K6",
-        "F103RB",
-        "L152RE",
-        "STM32F0",
-        "STM32F1",
-        "STM32L1",
+        "Maple Mini",
+        "NUCLEO-F103RB",
+        "STM32F103C8C6",
+        "USB device",
         "USBDevice",
-        "MCP23S17"
+        "bmp085",
+        "sparkfun"
     ],
     "name": "Sinwave",
     "platforms": "*",

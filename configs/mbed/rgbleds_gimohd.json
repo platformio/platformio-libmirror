@@ -6,11 +6,10 @@
     "description": "Library for led",
     "frameworks": "mbed",
     "keywords": [
+        "buffer",
+        "ring",
         "led",
-        "rgb",
-        "ALS",
-        "ambient light sensor",
-        "Lux"
+        "rgb"
     ],
     "name": "rgb-leds",
     "platforms": "*",

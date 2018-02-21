@@ -19,11 +19,20 @@
         "https://os.mbed.com/teams/Dream-Team-ECE-4180/code/ece4180_roommate_tracker_final/"
     ],
     "frameworks": "mbed",
-    "keywords": "JSON",
+    "keywords": [
+        "74hc595",
+        "Adafruit",
+        "arduino",
+        "FRDM-KL46Z",
+        "L293D",
+        "motor",
+        "motorshield",
+        "pwm"
+    ],
     "name": "uLCD_4D_Picaso",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/admcrae/code/uLCD_4D_Picaso/"
+        "url": "https://os.mbed.com/users/admcrae/code/uLCD_4D_Picaso/"
     }
 }

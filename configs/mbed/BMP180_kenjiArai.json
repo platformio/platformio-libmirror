@@ -11,8 +11,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Freescale",
-        "mbed"
+        "AnalogIn",
+        "filter",
+        "median",
+        "outlier",
+        "spikes",
+        "QEI",
+        "Quadrature encoder interface",
+        "Rotary Encoder"
     ],
     "name": "BMP180",
     "platforms": "*",

@@ -6,9 +6,10 @@
     "description": "landtiger with ili9325 lcd controller based on the TFTLCD libary from Todor Todorov",
     "frameworks": "mbed",
     "keywords": [
-        "compass",
-        "DISCO_L476VG",
-        "LSM303"
+        "8x8",
+        "led",
+        "led matrix",
+        "PCA9622"
     ],
     "name": "TFTLCD_Landtiger",
     "platforms": "*",

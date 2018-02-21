@@ -6,8 +6,12 @@
     "description": "library for m3pi board. The \\\\\\\"motor\\\\\\\" function is now public.",
     "frameworks": "mbed",
     "keywords": [
+        "CloudConnector",
+        "etherios",
+        "IOT",
         "3pi",
-        "m3pi"
+        "m3pi",
+        "mbed"
     ],
     "name": "m3pi",
     "platforms": "*",

@@ -8,7 +8,13 @@
         "https://os.mbed.com/users/shintamainjp/code/StarBoardOrangePinNames_TestProgram/"
     ],
     "frameworks": "mbed",
-    "keywords": "StarBoardOrange",
+    "keywords": [
+        "8025",
+        "EPSON",
+        "RTC",
+        "RX-8025NB",
+        "StarBoardOrange"
+    ],
     "name": "StarBoardOrangePinNames",
     "platforms": "*",
     "repository": {

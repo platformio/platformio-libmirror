@@ -9,10 +9,20 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "BLE",
+        "BLE Bluetooth Low Energy BLE",
+        "BUTTON",
+        "GAP",
+        "dynamixel",
+        "IOT",
         "I2C",
         "MCB1700",
         "STMPE811",
-        "Touchscreen"
+        "Touchscreen",
+        "MPL115A1",
+        "pressure",
+        "sensor",
+        "sparkfun"
     ],
     "name": "TS_STMPE811",
     "platforms": "*",

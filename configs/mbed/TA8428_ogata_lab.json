@@ -12,7 +12,10 @@
         "driver",
         "full-bridge",
         "motor",
-        "TA8428"
+        "TA8428",
+        "MPU6000",
+        "MPU6050",
+        "MPU60x0"
     ],
     "name": "TA8428",
     "platforms": "*",

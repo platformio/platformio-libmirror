@@ -6,12 +6,9 @@
     "description": "RTC Driver",
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "I2CRTOS",
-        "non-blocking",
-        "rtos",
         "RTC",
-        "real-time communication"
+        "dac",
+        "MCP4822"
     ],
     "name": "DS3231",
     "platforms": "*",

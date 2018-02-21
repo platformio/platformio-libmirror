@@ -6,13 +6,18 @@
     "description": "This library is an attempt to encapsulate the Pololu motor board MC33926 Motor Driver Carrier.",
     "frameworks": "mbed",
     "keywords": [
-        "tcp/ip",
-        "WiFly",
         "Carrier",
         "driver",
         "dual",
         "MC33926",
-        "motor"
+        "motor",
+        "F401RE",
+        "L3GD20",
+        "Nucleo",
+        "infrared",
+        "MLX90614",
+        "sensor",
+        "Temperature"
     ],
     "name": "Dual MC33926 Motor Driver Carrier",
     "platforms": "*",

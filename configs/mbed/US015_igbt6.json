@@ -6,6 +6,10 @@
     "description": "Library for US-015 (or HC-SR04) Ultrasonic Module Distance Measuring Sensors",
     "frameworks": "mbed",
     "keywords": [
+        "can bus",
+        "Nucleo",
+        "NUCLEO-F103RB",
+        "led",
         "distance",
         "HC-SR04",
         "HCSR04",

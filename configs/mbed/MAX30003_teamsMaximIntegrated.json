@@ -5,7 +5,10 @@
     },
     "description": "Library for MAX30003",
     "frameworks": "mbed",
-    "keywords": "MAX30003",
+    "keywords": [
+        "LCD",
+        "Serial"
+    ],
     "name": "MAX30003",
     "platforms": "*",
     "repository": {

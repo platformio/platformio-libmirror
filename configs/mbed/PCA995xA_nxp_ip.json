@@ -21,12 +21,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "binary",
-        "GPS",
-        "NMEA",
-        "protocol",
-        "sIRFstar3",
-        "sIRFstarIII",
+        "crc8",
+        "I2C",
+        "NeoPixel",
+        "rhb",
+        "slave",
         "led",
         "LED controller",
         "led driver",
@@ -38,6 +37,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/nxp_ip/code/PCA995xA/"
+        "url": "https://os.mbed.com/users/nxp_ip/code/PCA995xA/"
     }
 }

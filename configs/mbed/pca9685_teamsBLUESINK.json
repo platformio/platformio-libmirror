@@ -9,7 +9,17 @@
         "https://os.mbed.com/users/TuxLeon/code/DISCO-F746NG_rtos_test/"
     ],
     "frameworks": "mbed",
-    "keywords": "mbed",
+    "keywords": [
+        "socket",
+        "TCP",
+        "UDP",
+        "Configuration",
+        "file",
+        "ini",
+        "mbed",
+        "System",
+        "windows"
+    ],
     "name": "pca9685",
     "platforms": "*",
     "repository": {

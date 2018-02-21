@@ -6,14 +6,15 @@
     "description": "I2C_EEPROM",
     "frameworks": "mbed",
     "keywords": [
+        "JSON",
+        "http",
+        "web server",
         "I2C_EEPROM",
-        "ILI9225",
+        "Graphics",
         "LCD",
-        "SPI",
-        "led",
-        "https",
-        "mbedTLS",
-        "SSL"
+        "Felica",
+        "RC-S620/S",
+        "RFID"
     ],
     "name": "I2C_EEPROM",
     "platforms": "*",

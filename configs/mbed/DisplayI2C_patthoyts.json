@@ -6,12 +6,10 @@
     "description": "I2C controlled 4 digit 7 segment LED display library",
     "frameworks": "mbed",
     "keywords": [
-        "EEPROM",
-        "MSD",
-        "SPI",
-        "USB",
         "7-segment",
-        "I2C"
+        "I2C",
+        "full-scale",
+        "ITG3200"
     ],
     "name": "DisplayI2C",
     "platforms": "*",

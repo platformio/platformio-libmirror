@@ -9,6 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "ALS",
+        "ambient light sensor",
+        "I2C",
+        "ISL29125",
+        "rgb",
         "AHRS",
         "dcm",
         "navigation"

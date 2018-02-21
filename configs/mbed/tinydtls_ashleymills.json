@@ -11,9 +11,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Bluetooth module",
-        "rn41",
-        "RN42"
+        "dac",
+        "more pwm",
+        "pwm",
+        "pwm 48Mhz",
+        "pwmdac"
     ],
     "name": "tinydtls",
     "platforms": "*",

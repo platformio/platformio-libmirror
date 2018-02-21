@@ -6,15 +6,16 @@
     "description": "Driver for Proximity / Ambient Light Sensor VCNL40xx from Vishay",
     "frameworks": "mbed",
     "keywords": [
-        "nRF24L01P",
-        "Nucelo",
-        "RF24",
-        "STM32F",
+        "herkulex",
+        "Servo",
         "VCNL4000",
         "VCNL4010",
         "VCNL4020",
-        "herkulex",
-        "Servo"
+        "BUTTON",
+        "debounce",
+        "DigitalIn",
+        "Ticker",
+        "trigger"
     ],
     "name": "VCNL40x0",
     "platforms": "*",

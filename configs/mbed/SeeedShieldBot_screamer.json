@@ -6,10 +6,17 @@
     "description": "Library for the Shield Bot by SeeedStudio",
     "frameworks": "mbed",
     "keywords": [
+        "audio",
+        "SGTL5000",
         "bot",
         "motor",
         "sensors",
-        "shield"
+        "shield",
+        "mbd2pmd",
+        "pmod",
+        "URI",
+        "led",
+        "SPI"
     ],
     "name": "SeeedShieldBot",
     "platforms": "*",

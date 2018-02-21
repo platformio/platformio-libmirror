@@ -14,12 +14,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "debug",
-        "library",
-        "8x8",
-        "Adafruit",
-        "backpack",
-        "led"
+        "api",
+        "command",
+        "Servo"
     ],
     "name": "HTU21D",
     "platforms": "*",

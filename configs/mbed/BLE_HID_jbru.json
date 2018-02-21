@@ -15,8 +15,9 @@
         "BLE_API",
         "HID",
         "HID-over-Gatt",
-        "ESP8266",
-        "NodeMCU"
+        "BLDC",
+        "driver",
+        "motor"
     ],
     "name": "BLE_HID",
     "platforms": "*",

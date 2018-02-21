@@ -7,11 +7,12 @@
     "frameworks": "mbed",
     "keywords": [
         "I2C",
-        "I2CRTOS",
-        "non-blocking",
-        "rtos",
-        "RTC",
-        "real-time communication"
+        "real-time communication",
+        "adc",
+        "driver",
+        "HX711",
+        "library",
+        "Weigh scales"
     ],
     "name": "I2CTransaction",
     "platforms": "*",

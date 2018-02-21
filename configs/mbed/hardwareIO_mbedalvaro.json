@@ -5,7 +5,11 @@
     },
     "description": "Hardware IO control: mirrors, lock in",
     "frameworks": "mbed",
-    "keywords": "AD9850",
+    "keywords": [
+        "accelerometer",
+        "aconno",
+        "MMA8452"
+    ],
     "name": "hardwareIO",
     "platforms": "*",
     "repository": {

@@ -17,15 +17,11 @@
         "https://os.mbed.com/users/tylerjw/code/AHRS_demo/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "CAN",
-        "can bus",
-        "FIFO"
-    ],
+    "keywords": "AHRS",
     "name": "AHRS",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/tylerjw/code/AHRS/"
+        "url": "https://os.mbed.com/users/tylerjw/code/AHRS/"
     }
 }

@@ -14,21 +14,11 @@
     ],
     "description": "DCmotor Rotation using select pin",
     "frameworks": "mbed",
-    "keywords": [
-        "Error",
-        "info",
-        "messages",
-        "Terminal",
-        "warning",
-        "arduino",
-        "official",
-        "Sabertooth",
-        "SyRen"
-    ],
+    "keywords": "dc_motor",
     "name": "dc_motor",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/2bv14ei014/code/dc_motor/"
+        "url": "https://os.mbed.com/users/2bv14ei014/code/dc_motor/"
     }
 }

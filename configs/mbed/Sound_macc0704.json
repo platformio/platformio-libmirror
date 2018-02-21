@@ -6,11 +6,18 @@
     "description": "test",
     "frameworks": "mbed",
     "keywords": [
-        "bluetooth",
+        "ethernet",
+        "ip",
+        "mbed",
+        "brushless",
+        "control",
+        "LPC1768",
+        "motor",
+        "TB6612FNG",
         "test",
-        "BLE",
-        "BLE Bluetooth Low Energy BLE",
-        "Eddystone"
+        "FRDM-KL25Z",
+        "rtos",
+        "thread"
     ],
     "name": "Sound",
     "platforms": "*",

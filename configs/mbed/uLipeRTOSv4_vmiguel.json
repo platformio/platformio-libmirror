@@ -6,10 +6,9 @@
     "description": "uLipeRTOS Version 4 is a simple, but powerful real time kernel, currently implemented for arm cortex M0,M3,M4 and M7 processors.",
     "frameworks": "mbed",
     "keywords": [
-        "AHRS",
-        "bmp085",
-        "FreeIMU",
-        "IMU",
+        "Adafruit",
+        "printer",
+        "thermal",
         "rtos"
     ],
     "name": "uLipeRTOSv4",

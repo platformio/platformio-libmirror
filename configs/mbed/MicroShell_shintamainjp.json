@@ -12,7 +12,13 @@
         "COMMAND PARSER",
         "Serial",
         "shell",
-        "VT100"
+        "VT100",
+        "agriculture",
+        "Chirp",
+        "driver",
+        "I2C",
+        "sensor",
+        "soil moisture"
     ],
     "name": "MicroShell",
     "platforms": "*",

@@ -6,14 +6,14 @@
     "description": "My (very) simple library for MPU9150/6050.",
     "frameworks": "mbed",
     "keywords": [
+        "MCP9808",
+        "1wire",
+        "DS1820",
+        "DS2482",
         "accelerometer",
         "gyroscope",
         "IMU",
-        "STM32F0",
-        "Grove",
-        "RFID",
-        "SEN11425P",
-        "Serial"
+        "STM32F0"
     ],
     "name": "MPU9150Lib",
     "platforms": "*",

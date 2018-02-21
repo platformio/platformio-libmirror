@@ -6,10 +6,13 @@
     "description": "Library for Matrix Orbital VFD2041 display. Also useable for LCD2041 modules.",
     "frameworks": "mbed",
     "keywords": [
-        "atmospheric pressure",
         "I2C",
-        "lps25h",
-        "VFD"
+        "VFD",
+        "decoder",
+        "Encoder",
+        "Morse",
+        "atmospheric pressure",
+        "lps25h"
     ],
     "name": "VFD",
     "platforms": "*",

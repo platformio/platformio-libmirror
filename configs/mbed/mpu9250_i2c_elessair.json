@@ -9,7 +9,9 @@
         "C027",
         "C030",
         "CellularInterface",
-        "u-blox"
+        "u-blox",
+        "gas sensor",
+        "mq2"
     ],
     "name": "mpu9250_i2c",
     "platforms": "*",

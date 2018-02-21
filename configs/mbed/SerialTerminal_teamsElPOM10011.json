@@ -9,7 +9,10 @@
         "https://os.mbed.com/users/madmonkeyman82/code/Fancy-Terminal/"
     ],
     "frameworks": "mbed",
-    "keywords": "SerialTerminal",
+    "keywords": [
+        "add layout example",
+        "pullup"
+    ],
     "name": "SerialTerminal",
     "platforms": "*",
     "repository": {

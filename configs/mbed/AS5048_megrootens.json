@@ -9,8 +9,9 @@
         "AS5048",
         "rotary sensor",
         "SPI",
-        "SSG",
-        "YMZ294"
+        "led",
+        "pwm",
+        "Ticker"
     ],
     "name": "AS5048",
     "platforms": "*",

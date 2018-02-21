@@ -9,7 +9,14 @@
         "https://os.mbed.com/teams/VOC/code/Dumb_box_rev2/"
     ],
     "frameworks": "mbed",
-    "keywords": "Nanopb",
+    "keywords": [
+        "LSM303D",
+        "accelerometer",
+        "BMC050",
+        "Bosch",
+        "Field",
+        "magnetic"
+    ],
     "name": "Nanopb",
     "platforms": "*",
     "repository": {

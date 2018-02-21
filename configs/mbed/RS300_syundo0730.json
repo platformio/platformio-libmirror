@@ -9,10 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "MCB1700",
-        "STMPE811",
-        "Touchscreen"
+        "HAL",
+        "I2C"
     ],
     "name": "RS300",
     "platforms": "*",

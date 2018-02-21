@@ -17,22 +17,7 @@
         "https://os.mbed.com/teams/fatboyslim/code/fatboyslim/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Cup",
-        "Freescale",
-        "6100",
-        "6610",
-        "mobileLCD",
-        "NokiaLCD",
-        "Olimex",
-        "PCF8833",
-        "sparkfun",
-        "I2C",
-        "MCP23017",
-        "wattbob",
-        "tcp/ip",
-        "WebSocket"
-    ],
+    "keywords": "FRDM-TFC",
     "name": "FRDM-TFC",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Adam Resnick",
+        "url": "https://os.mbed.com/users/stretch/"
+    },
+    "description": "Servo",
+    "examples": [
+        "https://os.mbed.com/users/stretch/code/CNCAirbrushCode/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "audio input",
+        "Audio output",
+        "CODEC",
+        "DISCO-F746NG",
+        "DMA",
+        "Mikami",
+        "SAI",
+        "SAI_IO",
+        "WM8994",
+        "NDEF",
+        "NFC",
+        "PN532",
+        "KL25",
+        "touch",
+        "TSI"
+    ],
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/stretch/code/Servo/"
+    }
+}

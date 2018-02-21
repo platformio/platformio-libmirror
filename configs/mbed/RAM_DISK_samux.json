@@ -9,9 +9,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Display Module",
-        "emwin",
-        "LPC4088DM"
+        "Cayenne",
+        "MQTT",
+        "I2C",
+        "MPU6050",
+        "MPU9150",
+        "Kinematics",
+        "lauther",
+        "math",
+        "matrix",
+        "robot",
+        "Robotics"
     ],
     "name": "RAM_DISK",
     "platforms": "*",

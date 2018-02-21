@@ -6,10 +6,10 @@
     "description": "MAX31855 Cold-Junction Compensated Thermocouple-to-Digital Converter",
     "frameworks": "mbed",
     "keywords": [
-        "GUI",
+        "JSON",
+        "MessagePack",
         "Thermocouple",
-        "WS2812",
-        "MPU9250"
+        "GUI"
     ],
     "name": "MAX31855",
     "platforms": "*",

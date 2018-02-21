@@ -10,7 +10,10 @@
         "https://os.mbed.com/teams/aconno-dev-team/code/acn52832_sensor_board/"
     ],
     "frameworks": "mbed",
-    "keywords": "manchester",
+    "keywords": [
+        "LPS22HB",
+        "pressure"
+    ],
     "name": "ACD52832_LSM9DS1",
     "platforms": "*",
     "repository": {

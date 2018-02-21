@@ -5,7 +5,11 @@
     },
     "description": "v",
     "frameworks": "mbed",
-    "keywords": "bluetooth",
+    "keywords": [
+        "RTC",
+        "dac",
+        "MCP4822"
+    ],
     "name": "bluetooth",
     "platforms": "*",
     "repository": {

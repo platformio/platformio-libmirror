@@ -8,7 +8,25 @@
         "https://os.mbed.com/users/migool/code/sensorPulse/"
     ],
     "frameworks": "mbed",
-    "keywords": "migool",
+    "keywords": [
+        "display",
+        "Host",
+        "hub",
+        "keyboard",
+        "LPC4088",
+        "LPC4088DM",
+        "mbed",
+        "module",
+        "Mouse",
+        "MSD",
+        "rtos",
+        "Serial",
+        "USB",
+        "migool",
+        "DS1620",
+        "thermometer",
+        "thermostat"
+    ],
     "name": "MaxSonar",
     "platforms": "*",
     "repository": {

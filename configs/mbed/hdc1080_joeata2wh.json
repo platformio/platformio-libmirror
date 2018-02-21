@@ -9,9 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Humidity",
+        "aqm0802a",
         "I2C",
-        "sensor"
+        "Nucleo",
+        "Humidity",
+        "sensor",
+        "1621",
+        "ds1621"
     ],
     "name": "hdc1080",
     "platforms": "*",

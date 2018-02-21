@@ -8,7 +8,13 @@
         "https://os.mbed.com/users/BramS23/code/DAQ_TEL_CTRL/"
     ],
     "frameworks": "mbed",
-    "keywords": "controller",
+    "keywords": [
+        "LPC4088QSB",
+        "MIDI",
+        "USB",
+        "commands",
+        "SCPI"
+    ],
     "name": "controller",
     "platforms": "*",
     "repository": {

@@ -9,16 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "buffer",
-        "FIFO",
-        "ring buffer",
-        "Serial",
-        "card",
-        "fatfilesystem",
-        "MMC",
-        "SD",
-        "SDHC",
-        "SDXC"
+        "GR-PEACH",
+        "pwm"
     ],
     "name": "ADC",
     "platforms": "*",

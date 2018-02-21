@@ -8,7 +8,14 @@
         "https://os.mbed.com/users/osmeest/code/KeyboardTest/"
     ],
     "frameworks": "mbed",
-    "keywords": "keyboard",
+    "keywords": [
+        "keyboard",
+        "DISCO_L476VG",
+        "LCD",
+        "DISCO_F429ZI",
+        "gyroscope",
+        "RTX"
+    ],
     "name": "KeyboardManager",
     "platforms": "*",
     "repository": {

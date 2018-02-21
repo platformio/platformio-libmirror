@@ -5,7 +5,12 @@
     },
     "description": "With a 595 shift register shifting one wire lcd.",
     "frameworks": "mbed",
-    "keywords": "1WireLcd",
+    "keywords": [
+        "DS130x",
+        "Maxim",
+        "RTC",
+        "1WireLcd"
+    ],
     "name": "1wire_lcd",
     "platforms": "*",
     "repository": {

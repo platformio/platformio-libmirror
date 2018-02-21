@@ -6,6 +6,7 @@
     "description": "simple reliable networking over ethernet. Provides IPv4 ARP, ICMP echo reply, and UDP unicast. Does NOT provide TCP, that's not simple :-).",
     "frameworks": "mbed",
     "keywords": [
+        "NZ32-SC151",
         "arp",
         "icmp",
         "ip",

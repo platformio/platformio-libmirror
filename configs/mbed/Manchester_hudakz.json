@@ -9,7 +9,12 @@
         "https://os.mbed.com/users/hudakz/code/Manchester_Receiver/"
     ],
     "frameworks": "mbed",
-    "keywords": "manchester",
+    "keywords": [
+        "manchester",
+        "file",
+        "Local",
+        "System"
+    ],
     "name": "Manchester",
     "platforms": "*",
     "repository": {

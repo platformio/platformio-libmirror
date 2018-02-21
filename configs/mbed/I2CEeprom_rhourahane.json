@@ -8,7 +8,13 @@
         "https://os.mbed.com/users/rhourahane/code/Test_I2CEeprom/"
     ],
     "frameworks": "mbed",
-    "keywords": "LPC4330",
+    "keywords": [
+        "display",
+        "RenBED",
+        "segment",
+        "Seven",
+        "LPC4330"
+    ],
     "name": "I2CEeprom",
     "platforms": "*",
     "repository": {

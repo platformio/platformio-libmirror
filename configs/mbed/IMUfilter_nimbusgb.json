@@ -6,10 +6,18 @@
     "description": "IMUfilter",
     "frameworks": "mbed",
     "keywords": [
-        "APDS",
-        "APDS9960",
-        "Gesture",
-        "sensor"
+        "DISCO_F746NG",
+        "EEPROM",
+        "alarm",
+        "DS3231",
+        "RTC",
+        "DISCO_F429ZI",
+        "sdram",
+        "brushless",
+        "L293D",
+        "LPC1768",
+        "mbed",
+        "motor"
     ],
     "name": "IMUfilter",
     "platforms": "*",

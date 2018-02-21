@@ -6,11 +6,9 @@
     "description": "Wake On Lan",
     "frameworks": "mbed",
     "keywords": [
-        "AITENDO",
-        "ILI9341",
-        "SPI",
-        "TFT",
-        "WoL"
+        "WoL",
+        "IR",
+        "ROBOX"
     ],
     "name": "WoL",
     "platforms": "*",

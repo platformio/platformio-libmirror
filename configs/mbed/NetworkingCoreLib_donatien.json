@@ -17,11 +17,16 @@
         "https://os.mbed.com/users/donatien/code/EthernetNetworkLib/"
     ],
     "frameworks": "mbed",
-    "keywords": "NetworkingCoreLib",
+    "keywords": [
+        "CoAP",
+        "IOT",
+        "LCD",
+        "ST7565"
+    ],
     "name": "NetworkingCoreLib",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/donatien/code/NetworkingCoreLib/"
+        "url": "https://os.mbed.com/users/donatien/code/NetworkingCoreLib/"
     }
 }

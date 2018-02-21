@@ -9,15 +9,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Altimeter",
+        "Altitude",
+        "barometer",
+        "MPL3115A2",
+        "pressure",
+        "sensor",
         "flash",
         "IS25LQ032B",
         "ISSI",
         "SPI",
-        "arduino",
-        "LCD",
-        "module",
-        "screen",
-        "TFT"
+        "33926",
+        "pololu"
     ],
     "name": "SPI_IS25LQ032B",
     "platforms": "*",

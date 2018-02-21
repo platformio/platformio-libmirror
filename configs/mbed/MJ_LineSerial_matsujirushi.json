@@ -5,17 +5,7 @@
     },
     "description": "Interactive functions for UART.",
     "frameworks": "mbed",
-    "keywords": [
-        "actuators",
-        "control",
-        "industrial",
-        "Linear",
-        "Modbus",
-        "Over",
-        "mutex",
-        "preemptive",
-        "rtos"
-    ],
+    "keywords": "MJ_LineSerial",
     "name": "MJ_LineSerial",
     "platforms": "*",
     "repository": {

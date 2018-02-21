@@ -13,10 +13,13 @@
         "2D",
         "array",
         "matrix",
+        "bluepill",
+        "stm32f103c8",
+        "STM32F103C8T6",
+        "STM32F103CB",
+        "STM32F103CBT6",
         "accelerometer",
-        "mma7361",
-        "kl46z",
-        "MAG3110"
+        "mma7361"
     ],
     "name": "MMA7361L",
     "platforms": "*",

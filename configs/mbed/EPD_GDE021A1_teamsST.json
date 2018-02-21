@@ -15,17 +15,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "eve",
-        "FT800",
-        "graphic",
-        "LCD",
-        "TFT",
-        "touch",
         "disco",
         "discovery",
         "ePaper",
         "EPD",
-        "ST"
+        "ST",
+        "BLE",
+        "BLE Bluetooth Low Energy BLE",
+        "led"
     ],
     "name": "EPD_GDE021A1",
     "platforms": "*",

@@ -8,7 +8,14 @@
         "https://os.mbed.com/users/miguelcordero191/code/JRO_DDSv2/"
     ],
     "frameworks": "mbed",
-    "keywords": "AD9854",
+    "keywords": [
+        "Capacitive",
+        "Input",
+        "sensor",
+        "touch",
+        "GoogleChart",
+        "DMX-512"
+    ],
     "name": "AD9854",
     "platforms": "*",
     "repository": {

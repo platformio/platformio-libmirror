@@ -6,10 +6,11 @@
     "description": "i2s tester",
     "frameworks": "mbed",
     "keywords": [
-        "adc",
-        "AnalogIn",
-        "burst",
-        "fast"
+        "LFSR",
+        "Linear Feedback Shift Register",
+        "Number Generator",
+        "Pseudo",
+        "Random"
     ],
     "name": "I2S_Test",
     "platforms": "*",

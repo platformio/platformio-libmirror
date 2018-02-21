@@ -13,13 +13,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BUTTON",
-        "click",
         "buffer",
         "ring",
-        "Serial Communication",
-        "test console",
-        "test program"
+        "led",
+        "rgb"
     ],
     "name": "RingBuffer",
     "platforms": "*",

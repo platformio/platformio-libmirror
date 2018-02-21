@@ -5,7 +5,12 @@
     },
     "description": "geometryfuncs for ICRS eurobot",
     "frameworks": "mbed",
-    "keywords": "geometryfuncs",
+    "keywords": [
+        "disco",
+        "discovery",
+        "LCD",
+        "STM32L152"
+    ],
     "name": "geometryfuncs",
     "platforms": "*",
     "repository": {

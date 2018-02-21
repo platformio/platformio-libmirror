@@ -9,15 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "BME680",
+        "Gas",
+        "Humidity",
+        "pressure",
+        "Temperature",
         "DISCO_L476VG",
         "N25Q128A",
-        "QSPI",
-        "basic",
-        "flash",
-        "Flasher",
-        "fun",
-        "led",
-        "rgb"
+        "QSPI"
     ],
     "name": "QSPI_DISCO_L476VG",
     "platforms": "*",

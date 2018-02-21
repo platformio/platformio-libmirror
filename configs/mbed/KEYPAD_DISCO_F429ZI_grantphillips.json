@@ -10,9 +10,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LocalFileSystem",
-        "S25FL216K",
-        "USBFileSystem"
+        "audio",
+        "CODEC",
+        "I2C",
+        "TLV320",
+        "display",
+        "HT1632",
+        "led",
+        "matrix"
     ],
     "name": "KEYPAD_DISCO_F429ZI",
     "platforms": "*",

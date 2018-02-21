@@ -5,7 +5,21 @@
     },
     "description": "nrf905 trancsiever library",
     "frameworks": "mbed",
-    "keywords": "nrf_905",
+    "keywords": [
+        "delay_ms",
+        "delay_us",
+        "DWT",
+        "GPIO",
+        "HAL",
+        "I2C",
+        "I2C Master",
+        "Nucleo",
+        "software i2c",
+        "stm32",
+        "STM32F103",
+        "stm32f1xx",
+        "watchdog"
+    ],
     "name": "nrf_905",
     "platforms": "*",
     "repository": {

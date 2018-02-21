@@ -22,15 +22,24 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "F411",
+        "Frequency Counter",
         "Communication",
         "protocols",
         "wireless",
-        "xbee"
+        "xbee",
+        "ANSI",
+        "Terminal",
+        "controller",
+        "motor",
+        "pololu",
+        "Qik",
+        "VNH25P30"
     ],
     "name": "ssWi",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/mariob/code/ssWi/"
+        "url": "https://os.mbed.com/users/mariob/code/ssWi/"
     }
 }

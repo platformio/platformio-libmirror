@@ -6,9 +6,9 @@
     "description": "Doggy",
     "frameworks": "mbed",
     "keywords": [
-        "Humidity",
-        "I2C",
-        "sensor"
+        "median",
+        "sliding",
+        "window"
     ],
     "name": "Doggy",
     "platforms": "*",

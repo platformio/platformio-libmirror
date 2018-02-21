@@ -8,7 +8,11 @@
         "https://os.mbed.com/users/Hevi/code/rtc_class2/"
     ],
     "frameworks": "mbed",
-    "keywords": "RTC",
+    "keywords": [
+        "interrupts",
+        "NVIC",
+        "RTC"
+    ],
     "name": "RTC8563",
     "platforms": "*",
     "repository": {

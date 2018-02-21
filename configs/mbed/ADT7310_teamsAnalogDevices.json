@@ -13,7 +13,13 @@
         "Analog",
         "devices",
         "sensor",
-        "Temperature"
+        "Temperature",
+        "BUTTON",
+        "cancel",
+        "DIP",
+        "noise",
+        "push",
+        "SW"
     ],
     "name": "ADT7310",
     "platforms": "*",

@@ -6,12 +6,19 @@
     "description": "jsmn (pronounced like 'jasmine') is a minimalistic JSON parser in C. It can be easily integrated into resource-limited or embedded projects. For more information visit http://zserge.bitbucket.org/jsmn.html",
     "frameworks": "mbed",
     "keywords": [
-        "jsmn",
-        "JSON",
+        "Grove",
+        "heartrate",
+        "sensor",
+        "DS18B20",
+        "DS2450",
+        "MAX31850",
+        "OneWire",
         "C++",
         "Encoder",
         "hardware",
-        "QEI"
+        "QEI",
+        "jsmn",
+        "JSON"
     ],
     "name": "jsmn",
     "platforms": "*",

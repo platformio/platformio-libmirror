@@ -15,16 +15,8 @@
         "Management",
         "Power",
         "PowerControl",
-        "3pi",
-        "II",
-        "m3pi",
-        "pololu",
-        "pops",
-        "PPS",
-        "robot",
-        "accelerometer",
-        "aconno",
-        "MMA8452"
+        "infrared",
+        "Obstacle detection"
     ],
     "name": "PowerControl",
     "platforms": "*",

@@ -10,11 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BME280",
         "ax12",
         "dynamixel",
         "motor",
-        "Servo"
+        "Servo",
+        "arduino",
+        "mbed",
+        "Serial",
+        "K64F",
+        "led"
     ],
     "name": "DipCortex-EEprom",
     "platforms": "*",

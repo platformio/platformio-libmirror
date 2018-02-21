@@ -18,8 +18,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "64 bit",
-        "timer class",
+        "madgwick'salgorithm",
         "Data Logging",
         "datalog",
         "FRAM",
@@ -29,6 +28,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/joeata2wh/code/data_log/"
+        "url": "https://os.mbed.com/users/joeata2wh/code/data_log/"
     }
 }

@@ -9,7 +9,9 @@
         "ARM",
         "DAY",
         "heartbeat",
-        "RIT"
+        "RIT",
+        "ethernet",
+        "NTP"
     ],
     "name": "DS1Wire",
     "platforms": "*",

@@ -9,13 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "audio",
-        "pwm",
         "16bit Timer",
         "LCD_Wait",
         "wait",
-        "NaCrDe",
-        "DS18B20"
+        "LCD",
+        "LCD 16x2",
+        "LPC11U68",
+        "ST7066U"
     ],
     "name": "LCD_Wait",
     "platforms": "*",

@@ -14,16 +14,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "log",
-        "logging",
-        "NetServices",
-        "UDP",
-        "UDPLog",
-        "UDPLogging",
         "Gesture",
         "I2C",
         "sensor",
-        "SI1143"
+        "SI1143",
+        "display",
+        "DOGM",
+        "text"
     ],
     "name": "SI1143",
     "platforms": "*",

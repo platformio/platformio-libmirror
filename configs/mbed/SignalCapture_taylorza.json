@@ -5,11 +5,7 @@
     },
     "description": "Provides a simple way to capture the wave form of a pin. For example it can be used to capture the digital state transitions of a pin connected to an IR receiver. These signals can later be played back using the Signal Generator library to control IR devices.",
     "frameworks": "mbed",
-    "keywords": [
-        "1621",
-        "ds1621",
-        "I2C"
-    ],
+    "keywords": "SignalCapture",
     "name": "SignalCapture",
     "platforms": "*",
     "repository": {

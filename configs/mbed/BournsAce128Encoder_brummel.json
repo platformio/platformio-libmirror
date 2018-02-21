@@ -6,12 +6,16 @@
     "description": "Mbed interface for Bourns Ace 128-Encoder",
     "frameworks": "mbed",
     "keywords": [
-        "GR-PEACH",
-        "NEON",
+        "LPC1549",
         "128",
         "ACE",
         "bourns",
-        "Encoder"
+        "Encoder",
+        "Analyzer",
+        "logic",
+        "osc",
+        "Oscilloscope",
+        "scope"
     ],
     "name": "BournsAce128Encoder",
     "platforms": "*",

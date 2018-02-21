@@ -7,8 +7,10 @@
     "frameworks": "mbed",
     "keywords": [
         "Nunchuk",
-        "BNO055",
-        "sensor"
+        "camera",
+        "JPEG",
+        "OV528",
+        "uCAM TTL120"
     ],
     "name": "Nunchuk",
     "platforms": "*",

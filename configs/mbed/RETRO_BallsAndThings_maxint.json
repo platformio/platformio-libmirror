@@ -15,11 +15,13 @@
         "games",
         "retro",
         "things",
-        "9Dof-Stick",
-        "heading",
-        "HMC5843",
-        "magnetic",
-        "sensor"
+        "Arch Max",
+        "sensor",
+        "STM32F4",
+        "Temperature",
+        "bluetooth",
+        "Serial",
+        "shield"
     ],
     "name": "RETRO_BallsAndThings",
     "platforms": "*",

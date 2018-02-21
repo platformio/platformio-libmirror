@@ -8,7 +8,14 @@
         "https://os.mbed.com/users/icraggs/code/HelloMQTTSN/"
     ],
     "frameworks": "mbed",
-    "keywords": "GPS",
+    "keywords": [
+        "AT45DBxx",
+        "USBMSD",
+        "F401RE",
+        "mma7361",
+        "Nucleo",
+        "WS2812"
+    ],
     "name": "MQTTSN",
     "platforms": "*",
     "repository": {

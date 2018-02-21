@@ -10,18 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ethernet",
-        "EthernetInterface",
-        "EthernetLibrary",
-        "W5500",
-        "WIZ550IO",
-        "Wiznet",
+        "5110",
+        "shower",
         "CPU Serial number",
         "Device ID",
         "IOT",
         "Serial Number",
-        "5110",
-        "shower"
+        "HOPERF",
+        "RF22",
+        "RFM22"
     ],
     "name": "uniqueCPUID",
     "platforms": "*",

@@ -8,7 +8,12 @@
         "https://os.mbed.com/users/hex705/code/template_sd/"
     ],
     "frameworks": "mbed",
-    "keywords": "Glue",
+    "keywords": [
+        "HR-TFT",
+        "memory lcd",
+        "Monochrome LCD",
+        "Sharp"
+    ],
     "name": "Glue",
     "platforms": "*",
     "repository": {

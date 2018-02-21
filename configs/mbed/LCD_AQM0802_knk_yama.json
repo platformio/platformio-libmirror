@@ -6,13 +6,10 @@
     "description": "printf() on AQM0802",
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "DOG",
-        "LCD",
-        "ST7036",
-        "TextLCD",
-        "Gatech",
-        "TB6612FNG"
+        "EthernetInterface",
+        "network",
+        "TFTP",
+        "UDP"
     ],
     "name": "LCD_AQM0802",
     "platforms": "*",

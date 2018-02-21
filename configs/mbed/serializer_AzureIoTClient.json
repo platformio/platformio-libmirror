@@ -15,9 +15,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AHRS",
-        "dcm",
-        "navigation"
+        "NFC",
+        "PN532",
+        "device",
+        "USB"
     ],
     "name": "serializer",
     "platforms": "*",

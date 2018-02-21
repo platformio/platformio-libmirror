@@ -12,8 +12,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DS18B20",
-        "temperature sensor",
         "audio",
         "files",
         "I2C",
@@ -21,7 +19,14 @@
         "playing",
         "RS labboard",
         "TLV320",
-        "wav"
+        "wav",
+        "clock",
+        "CPU",
+        "Power",
+        "power consumption",
+        "power control",
+        "DS18B20",
+        "temperature sensor"
     ],
     "name": "WavPlayer",
     "platforms": "*",

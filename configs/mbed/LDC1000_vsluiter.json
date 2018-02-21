@@ -18,13 +18,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LDC1000",
-        "K64F"
+        "joystick",
+        "LCD_12832",
+        "LEDS",
+        "micro",
+        "MMA7660FC",
+        "ATP3011",
+        "I2C",
+        "LDC1000"
     ],
     "name": "LDC1000",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/vsluiter/code/LDC1000/"
+        "url": "https://os.mbed.com/users/vsluiter/code/LDC1000/"
     }
 }

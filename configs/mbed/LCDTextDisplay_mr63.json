@@ -9,9 +9,10 @@
         "LCD",
         "LCD 16x2",
         "Parallel LCD",
-        "debounce",
-        "DebounceIn",
-        "DHT11"
+        "MISAKI",
+        "OLED",
+        "SEL10016Y",
+        "WS0010"
     ],
     "name": "LCD TextDisplay",
     "platforms": "*",

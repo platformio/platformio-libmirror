@@ -9,15 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "wallbot",
-        "pwm",
-        "SoftPWM",
-        "CyaSSL",
-        "https",
-        "SSL",
-        "LCD",
-        "ST7565",
-        "TextLCD"
+        "HMC5843",
+        "HMC5883L",
+        "HMC58X3",
+        "magnetometer"
     ],
     "name": "CC3000HostDriver",
     "platforms": "*",

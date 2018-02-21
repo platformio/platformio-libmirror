@@ -5,7 +5,16 @@
     },
     "description": "IM920 (920MHz wireless module) protocol parser",
     "frameworks": "mbed",
-    "keywords": "IM920",
+    "keywords": [
+        "consumption",
+        "control",
+        "ethernet",
+        "Management",
+        "Power",
+        "PowerControl",
+        "infrared",
+        "Obstacle detection"
+    ],
     "name": "IM920",
     "platforms": "*",
     "repository": {

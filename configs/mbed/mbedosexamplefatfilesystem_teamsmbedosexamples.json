@@ -6,16 +6,13 @@
     "description": ".",
     "frameworks": "mbed",
     "keywords": [
-        "AM2321",
-        "Humidity",
         "I2C",
+        "Luminosity",
+        "Lux",
         "sensor",
-        "Temperature",
         "Ranging",
         "SRF02",
-        "ultrasonic",
-        "Luminosity",
-        "Lux"
+        "ultrasonic"
     ],
     "name": "mbed-os-example-fat-filesystem",
     "platforms": "*",

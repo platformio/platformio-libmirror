@@ -15,6 +15,7 @@
         "DS18S20",
         "OneWire",
         "CAN",
+        "Pokitto",
         "I2C",
         "RHT",
         "sensor",
@@ -26,8 +27,7 @@
         "siliconlabs",
         "FreeIMU",
         "IMU",
-        "MPU6050",
-        "Pokitto"
+        "MPU6050"
     ],
     "name": "SILABS_RHT",
     "platforms": "*",

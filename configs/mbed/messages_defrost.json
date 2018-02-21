@@ -11,15 +11,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "current sensor",
+        "INA219",
+        "controller",
+        "PID",
         "Error",
         "info",
         "messages",
         "Terminal",
-        "warning",
-        "arduino",
-        "official",
-        "Sabertooth",
-        "SyRen"
+        "warning"
     ],
     "name": "messages",
     "platforms": "*",

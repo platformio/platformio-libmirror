@@ -13,14 +13,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "SerialHalfDuplex",
         "motor",
         "Stepper",
         "unipolar",
-        "BLE",
-        "MIDI",
-        "ITG3200",
-        "sparkfun"
+        "SerialHalfDuplex"
     ],
     "name": "StepperMotorUni",
     "platforms": "*",

@@ -18,6 +18,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "basic",
+        "flash",
+        "Flasher",
+        "fun",
+        "led",
+        "rgb",
         "16",
         "HT1621",
         "LCD",
@@ -34,6 +40,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/Nakor/code/life_entity/"
+        "url": "https://os.mbed.com/users/Nakor/code/life_entity/"
     }
 }

@@ -12,7 +12,10 @@
         "BlueRobotics",
         "esc",
         "I2C",
-        "SimonK"
+        "SimonK",
+        "STM32F100R6",
+        "STM32F100R6T6",
+        "STM32F100R6T6B"
     ],
     "name": "SimonK_I2C_ESC",
     "platforms": "*",

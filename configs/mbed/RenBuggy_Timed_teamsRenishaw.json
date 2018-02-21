@@ -10,14 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F746NG",
-        "QSPI",
+        "interrupt",
+        "masking",
+        "FM25V02",
+        "FM25V10",
+        "FRAM",
         "digitalOut",
         "PwmOut",
         "RenBuggy",
-        "Renishaw",
-        "TMP102",
-        "I2C"
+        "Renishaw"
     ],
     "name": "RenBuggy_Timed",
     "platforms": "*",

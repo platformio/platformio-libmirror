@@ -15,25 +15,26 @@
     "description": "Library for interfacing with the Parallax Ping))) sensor.",
     "frameworks": "mbed",
     "keywords": [
-        "timer",
-        "Ton",
-        "wait",
-        "maestro",
-        "Serial",
         "Servo",
-        "I2C",
-        "PCF8583",
-        "RTC",
+        "servo pulse",
+        "WSE",
         "parallax",
         "PING",
         "ping)))",
         "sensor",
-        "ultrasonic"
+        "ultrasonic",
+        "current",
+        "I2C",
+        "INA226",
+        "T.I.",
+        "bitmap",
+        "BMP",
+        "image"
     ],
     "name": "Ping",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/d34d/code/Ping/"
+        "url": "https://os.mbed.com/users/d34d/code/Ping/"
     }
 }

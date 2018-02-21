@@ -9,12 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "mbed",
+        "GPS",
         "LCD",
         "ST7032",
-        "TextLCD",
-        "GPS",
-        "RX8025"
+        "TextLCD"
     ],
     "name": "TinyGPS",
     "platforms": "*",

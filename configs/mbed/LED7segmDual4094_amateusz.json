@@ -6,8 +6,6 @@
     "description": "7-segment display with shift register. Common anode/cathode, any (eh, sort of) number of digits. Kind of framebuffer.",
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "led cube",
         "4094",
         "7segm",
         "display",

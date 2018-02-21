@@ -9,7 +9,13 @@
         "https://os.mbed.com/users/j3/code/MAXREFDES130_131_Demo/"
     ],
     "frameworks": "mbed",
-    "keywords": "AD9850",
+    "keywords": [
+        "mcp4261",
+        "SPI",
+        "Nucleo-F4xx",
+        "open-drain",
+        "UIT"
+    ],
     "name": "OWGridEye",
     "platforms": "*",
     "repository": {

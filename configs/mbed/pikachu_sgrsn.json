@@ -6,11 +6,12 @@
     "description": "pikachu!!pikapikka!!",
     "frameworks": "mbed",
     "keywords": [
-        "pikachu",
-        "ds1302",
+        "MPU9250",
+        "20160515",
         "Linear Time Code",
         "LTC",
-        "SMPTE"
+        "SMPTE",
+        "pikachu"
     ],
     "name": "pikachu",
     "platforms": "*",

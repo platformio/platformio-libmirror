@@ -14,16 +14,11 @@
     ],
     "description": "Simple transmit example for B-L072Z-LRWAN1 board, Murata TypeABZ",
     "frameworks": "mbed",
-    "keywords": [
-        "iniparser",
-        "driver",
-        "sonar",
-        "ad7124"
-    ],
+    "keywords": "LM75B",
     "name": "sx127x_simple_TX_MurataABZ",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/dudmuck/code/sx127x_simple_TX_MurataABZ/"
+        "url": "https://os.mbed.com/users/dudmuck/code/sx127x_simple_TX_MurataABZ/"
     }
 }

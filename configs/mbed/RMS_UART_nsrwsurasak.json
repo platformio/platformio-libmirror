@@ -5,7 +5,12 @@
     },
     "description": "1st release (without comment)",
     "frameworks": "mbed",
-    "keywords": "RMS_UART",
+    "keywords": [
+        "mbed",
+        "D6F-PH",
+        "pressure",
+        "elec2645"
+    ],
     "name": "RMS_UART",
     "platforms": "*",
     "repository": {

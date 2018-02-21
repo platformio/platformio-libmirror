@@ -12,7 +12,11 @@
         "quadrature",
         "SPI",
         "stm32",
-        "timer"
+        "timer",
+        "alphanumeric",
+        "display",
+        "HCMS2975",
+        "led"
     ],
     "name": "NUCLEO_F411_HW_LIB",
     "platforms": "*",

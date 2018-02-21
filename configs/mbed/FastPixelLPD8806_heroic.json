@@ -9,11 +9,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Communication",
+        "debugging",
+        "rpc",
         "DMA",
         "fast",
         "led strip",
         "LPD8806",
-        "SPI"
+        "SPI",
+        "ADT7410",
+        "Analog Devices",
+        "I2C",
+        "temperature sensor"
     ],
     "name": "FastPixelLPD8806",
     "platforms": "*",

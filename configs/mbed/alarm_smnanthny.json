@@ -11,7 +11,14 @@
         "20X4",
         "40x2",
         "HD4478",
-        "TextLCD"
+        "TextLCD",
+        "blink",
+        "led",
+        "LED control",
+        "limiter",
+        "rate",
+        "timer",
+        "watchdog"
     ],
     "name": "alarm",
     "platforms": "*",

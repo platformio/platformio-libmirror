@@ -9,7 +9,19 @@
         "https://os.mbed.com/teams/jetfishteam/code/robotic_fish_ver_4_9_pixy/"
     ],
     "frameworks": "mbed",
-    "keywords": "ADXL345_I2C",
+    "keywords": [
+        "AT",
+        "C027",
+        "C030",
+        "CellularInterface",
+        "u-blox",
+        "Bertl14",
+        "display",
+        "DOG",
+        "LCD",
+        "ST7036",
+        "TextLCD"
+    ],
     "name": "ADXL345_I2C",
     "platforms": "*",
     "repository": {

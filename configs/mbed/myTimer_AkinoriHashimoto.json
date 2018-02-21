@@ -10,9 +10,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GR-PEACH",
-        "R_BSP",
-        "myTimer"
+        "myTimer",
+        "FM Radio",
+        "TEA5767"
     ],
     "name": "myTimer",
     "platforms": "*",

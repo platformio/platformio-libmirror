@@ -6,9 +6,13 @@
     "description": "Base station firmware",
     "frameworks": "mbed",
     "keywords": [
+        "MX64",
         "dynamixel",
         "MX28",
-        "RS485"
+        "RS485",
+        "Serial",
+        "MQTT",
+        "MQTTClient"
     ],
     "name": "USBDevice",
     "platforms": "*",

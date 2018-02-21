@@ -15,28 +15,24 @@
     "description": "m3Dpi robot, based on the Pololu 3pi and m3pi. m3Dpi has multiple distance sensors, gyroscope, compass and accelerometer sensor to be fully aware of its environment. With the addition of xbee or nrf24n01 module it has wireless communication capabilities.",
     "frameworks": "mbed",
     "keywords": [
+        "DHT22",
+        "display",
+        "I2C",
+        "OLED",
+        "SPI",
+        "SSD1306",
         "3pi",
         "m3dpi",
         "m3pi",
         "pololu",
         "robot",
-        "JRPROPO",
-        "Servo",
-        "XBus",
-        "converter",
-        "decoder",
-        "floating",
-        "point",
-        "precision",
-        "readable",
-        "single",
-        "RFID",
-        "RFID-RC522"
+        "FRDM-K64F",
+        "fxos8700cq"
     ],
     "name": "m3Dpi-helloworld",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/sillevl/code/m3Dpi-helloworld/"
+        "url": "https://os.mbed.com/users/sillevl/code/m3Dpi-helloworld/"
     }
 }

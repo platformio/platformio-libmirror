@@ -6,9 +6,8 @@
     "description": "Library for HX711 device. 24-Bit Analog-to-Digital Converter (ADC) for Weigh Scales",
     "frameworks": "mbed",
     "keywords": [
-        "FSK",
-        "Radio",
-        "wireless",
+        "I2C",
+        "real-time communication",
         "adc",
         "driver",
         "HX711",

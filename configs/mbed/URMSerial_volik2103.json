@@ -9,13 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "358",
-        "Adafruit",
-        "TFT",
         "DFRobot",
         "etti",
         "ultrasonic",
-        "urm37"
+        "urm37",
+        "acc",
+        "compass",
+        "LSM303",
+        "LSM303DLHC",
+        "MAG"
     ],
     "name": "URMSerial",
     "platforms": "*",

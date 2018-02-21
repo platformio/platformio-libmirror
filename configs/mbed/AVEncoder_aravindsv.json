@@ -9,14 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Encoder",
         "assert",
         "debug",
         "mbed",
         "rgb",
         "utility",
-        "led",
-        "tricolor"
+        "Encoder",
+        "cmsis",
+        "rtos",
+        "RTX"
     ],
     "name": "AVEncoder",
     "platforms": "*",

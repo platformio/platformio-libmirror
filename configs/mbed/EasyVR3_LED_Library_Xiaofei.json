@@ -6,10 +6,9 @@
     "description": "EasyVR3_LED_Library",
     "frameworks": "mbed",
     "keywords": [
-        "5-wire",
-        "resistive",
-        "screen",
-        "touch",
+        "led",
+        "PT6961",
+        "SPI",
         "EasyVR3_LED_Library"
     ],
     "name": "EasyVR3_LED_Library",

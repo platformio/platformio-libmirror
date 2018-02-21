@@ -18,18 +18,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "TMP102",
-        "TMP112",
-        "40x4",
-        "C-51849",
-        "character",
-        "LCD",
-        "mruby"
+        "AquesTalk pico",
+        "ATP3011"
     ],
     "name": "TempSenzor",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/TVZ-Mechatronics-Team/code/TempSenzor/"
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/TempSenzor/"
     }
 }

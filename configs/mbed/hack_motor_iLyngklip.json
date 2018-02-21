@@ -9,16 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "clock",
-        "DS3232",
-        "I2C",
-        "RTC",
-        "time",
-        "Humidity",
-        "sensor",
-        "sure",
-        "Temperature",
-        "HEJ"
+        "HEJ",
+        "RenBuggy"
     ],
     "name": "hack_motor",
     "platforms": "*",

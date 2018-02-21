@@ -7,7 +7,10 @@
     "frameworks": "mbed",
     "keywords": [
         "Graphics",
-        "LCD"
+        "LCD",
+        "MCP9808",
+        "sensor",
+        "Temperature"
     ],
     "name": "GDIEZLCD4",
     "platforms": "*",

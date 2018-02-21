@@ -5,7 +5,11 @@
     },
     "description": "grove_digital_light",
     "frameworks": "mbed",
-    "keywords": "grove_digital_light",
+    "keywords": [
+        "ADS7843",
+        "event",
+        "touch"
+    ],
     "name": "grove_digital_light",
     "platforms": "*",
     "repository": {

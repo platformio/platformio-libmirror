@@ -6,6 +6,9 @@
     "description": "This class library has been created for use with the Apeiros Robot by Abe Howell's Robotics.",
     "frameworks": "mbed",
     "keywords": [
+        "debounce",
+        "interrupt",
+        "masking",
         "Apeiros",
         "F401RE",
         "Nucleo",

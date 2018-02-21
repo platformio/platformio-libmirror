@@ -5,7 +5,11 @@
     },
     "description": "Stores data on the flash memory of stm32f4xx",
     "frameworks": "mbed",
-    "keywords": "flash",
+    "keywords": [
+        "NNN50",
+        "wifi",
+        "flash"
+    ],
     "name": "storage_on_flash",
     "platforms": "*",
     "repository": {

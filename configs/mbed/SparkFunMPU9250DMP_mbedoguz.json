@@ -10,8 +10,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "mbed",
-        "rpc"
+        "tcp/ip",
+        "WebSocket"
     ],
     "name": "SparkFunMPU9250-DMP",
     "platforms": "*",

@@ -8,7 +8,17 @@
         "https://os.mbed.com/users/Yajirushi/code/BLDC1Axis_DRV8301CTRL/"
     ],
     "frameworks": "mbed",
-    "keywords": "DRV8301",
+    "keywords": [
+        "AT30TSE75x",
+        "I2C",
+        "Temperature",
+        "OLED",
+        "TextLCD",
+        "WEH000802",
+        "WEH001602",
+        "Winstar",
+        "DRV8301"
+    ],
     "name": "DRV8301CTRL",
     "platforms": "*",
     "repository": {

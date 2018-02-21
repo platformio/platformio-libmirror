@@ -18,17 +18,23 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Communication",
+        "debugging",
+        "rpc",
+        "DMA",
+        "fast",
+        "led strip",
+        "LPD8806",
+        "SPI",
+        "ADT7410",
+        "Analog Devices",
         "I2C",
-        "I2CRTOS",
-        "non-blocking",
-        "rtos",
-        "RTC",
-        "real-time communication"
+        "temperature sensor"
     ],
     "name": "Stoperica2",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/TVZ-Mechatronics-Team/code/Stoperica2/"
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/Stoperica2/"
     }
 }

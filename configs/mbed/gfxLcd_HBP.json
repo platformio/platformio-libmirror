@@ -9,10 +9,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LSM303D",
+        "AT",
+        "C030",
+        "CellularInterface",
+        "N211",
+        "N2xx",
+        "u-blox",
         "bitmap",
         "Graphics",
-        "LCD"
+        "LCD",
+        "GPS",
+        "K64F",
+        "Serial"
     ],
     "name": "gfxLcd",
     "platforms": "*",

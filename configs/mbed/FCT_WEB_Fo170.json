@@ -10,9 +10,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Nucleo-F4xx",
-        "open-drain",
-        "UIT"
+        "consumption",
+        "control",
+        "ethernet",
+        "Management",
+        "Power",
+        "PowerControl",
+        "infrared",
+        "Obstacle detection"
     ],
     "name": "FCT_WEB",
     "platforms": "*",

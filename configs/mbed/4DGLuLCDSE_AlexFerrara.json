@@ -9,12 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "files",
-        "filesystem",
-        "Terminal",
-        "I2C",
-        "led",
-        "SAA1064"
+        "motor",
+        "pwm",
+        "sparkfun",
+        "TB6612FNG"
     ],
     "name": "4DGL-uLCD-SE",
     "platforms": "*",

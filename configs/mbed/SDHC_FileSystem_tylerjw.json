@@ -16,10 +16,7 @@
         "SDHC",
         "SPI",
         "AppNearMe",
-        "NFC",
-        "fatfilesystem",
-        "LocalFileSystem",
-        "USBMSD"
+        "NFC"
     ],
     "name": "SDHC_FileSystem",
     "platforms": "*",

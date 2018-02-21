@@ -9,12 +9,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "LPC1549",
+        "128",
+        "ACE",
+        "bourns",
+        "Encoder",
         "Analyzer",
         "logic",
         "osc",
         "Oscilloscope",
-        "scope",
-        "LPC1549"
+        "scope"
     ],
     "name": "pwm_all_out",
     "platforms": "*",

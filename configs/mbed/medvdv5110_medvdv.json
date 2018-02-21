@@ -6,10 +6,12 @@
     "description": "light text library for 5110 nokia lcd",
     "frameworks": "mbed",
     "keywords": [
+        "5110",
+        "LCD",
         "max31855",
         "Thermocouple",
-        "5110",
-        "LCD"
+        "Adafruit",
+        "led"
     ],
     "name": "medvdv5110",
     "platforms": "*",

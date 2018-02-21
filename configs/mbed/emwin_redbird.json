@@ -9,8 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MX64",
-        "Serial"
+        "counter",
+        "pulse",
+        "ICRS",
+        "kalman"
     ],
     "name": "emwin",
     "platforms": "*",

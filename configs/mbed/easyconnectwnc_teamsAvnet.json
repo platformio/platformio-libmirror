@@ -14,15 +14,11 @@
     ],
     "description": "Added support for the WNC M14A2A Cellular LTE Data Module.",
     "frameworks": "mbed",
-    "keywords": [
-        "Calibrate",
-        "compass",
-        "Magneto"
-    ],
+    "keywords": "RX8025",
     "name": "easy-connect-wnc",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/Avnet/code/easy-connect-wnc/"
+        "url": "https://os.mbed.com/teams/Avnet/code/easy-connect-wnc/"
     }
 }

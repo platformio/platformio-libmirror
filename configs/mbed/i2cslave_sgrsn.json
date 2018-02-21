@@ -14,7 +14,13 @@
         "https://os.mbed.com/teams/robocon_2016/code/2016_slave_touch_photo/"
     ],
     "frameworks": "mbed",
-    "keywords": "I2C",
+    "keywords": [
+        "accelerometer",
+        "bma180",
+        "C12832",
+        "LCD",
+        "I2C"
+    ],
     "name": "i2cslave",
     "platforms": "*",
     "repository": {

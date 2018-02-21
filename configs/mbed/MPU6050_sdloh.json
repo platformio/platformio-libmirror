@@ -6,9 +6,13 @@
     "description": "MPU6050 library file for FRDMk64",
     "frameworks": "mbed",
     "keywords": [
+        "BLE_API",
+        "Microbit",
         "FRDMK64",
         "MPU6050",
-        "K64F"
+        "Dynamic",
+        "led",
+        "tlc5940"
     ],
     "name": "MPU6050",
     "platforms": "*",

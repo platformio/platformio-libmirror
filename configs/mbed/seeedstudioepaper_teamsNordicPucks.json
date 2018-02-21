@@ -10,10 +10,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "servos",
-        "slow",
-        "Speed",
-        "Graphics"
+        "semihosting",
+        "SWD",
+        "JY901"
     ],
     "name": "seeedstudio-epaper",
     "platforms": "*",

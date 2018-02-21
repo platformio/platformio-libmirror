@@ -9,8 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "W5200",
-        "WIZ820IO"
+        "arbitrary precision",
+        "bigint",
+        "bignum"
     ],
     "name": "stm32_adafruit",
     "platforms": "*",

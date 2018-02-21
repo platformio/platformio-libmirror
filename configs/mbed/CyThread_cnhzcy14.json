@@ -6,14 +6,14 @@
     "description": "Simple Thread Class",
     "frameworks": "mbed",
     "keywords": [
-        "gmmp",
-        "IOT",
-        "SKTelecom",
-        "TCP",
-        "client",
-        "CoAP",
-        "protocol",
-        "server"
+        "74hc595",
+        "Adafruit",
+        "arduino",
+        "FRDM-KL46Z",
+        "L293D",
+        "motor",
+        "motorshield",
+        "pwm"
     ],
     "name": "CyThread",
     "platforms": "*",

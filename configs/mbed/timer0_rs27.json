@@ -12,12 +12,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "NDEF",
-        "NFC",
-        "PN532",
-        "KL25",
-        "touch",
-        "TSI"
+        "motor",
+        "pwm",
+        "sparkfun",
+        "TB6612FNG"
     ],
     "name": "timer0",
     "platforms": "*",

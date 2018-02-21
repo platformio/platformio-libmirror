@@ -8,15 +8,7 @@
         "https://os.mbed.com/users/Yajirushi/code/BNO055_BME280_/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "BNO055",
-        "Elmicro",
-        "FM25W256",
-        "FRAM",
-        "RAMTRON",
-        "SPI",
-        "SSP1"
-    ],
+    "keywords": "BNO055",
     "name": "BOARDC_BNO055",
     "platforms": "*",
     "repository": {

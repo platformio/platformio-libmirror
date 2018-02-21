@@ -14,16 +14,11 @@
     ],
     "description": "Code to run the microcontrollers on the R5 competition bot",
     "frameworks": "mbed",
-    "keywords": [
-        "DS1721",
-        "I2C",
-        "sensor",
-        "Temperature"
-    ],
+    "keywords": "AD9850",
     "name": "R5",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/Texas-State-IEEE-Robotics/code/R5/"
+        "url": "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/code/R5/"
     }
 }

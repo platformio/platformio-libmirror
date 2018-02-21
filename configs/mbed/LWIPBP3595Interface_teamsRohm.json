@@ -9,15 +9,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Adafruit",
+        "display",
+        "LCD",
+        "memory",
+        "Sharp",
+        "milkcocoa",
         "BP3595",
         "network",
         "ROHM",
-        "WLAN",
-        "Communication",
-        "debugging",
-        "rpc",
-        "driver",
-        "motor"
+        "WLAN"
     ],
     "name": "LWIPBP3595Interface",
     "platforms": "*",

@@ -6,9 +6,7 @@
     "description": "Utility functions for working with data streams",
     "frameworks": "mbed",
     "keywords": [
-        "F401RE",
-        "L3GD20",
-        "Nucleo",
+        "digitalOut",
         "checksum"
     ],
     "name": "checksum",

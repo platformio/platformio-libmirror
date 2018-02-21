@@ -6,16 +6,12 @@
     "description": "AD7190 driver. Based on the implementation from Dan Nechita (Analog Devices)",
     "frameworks": "mbed",
     "keywords": [
-        "DC motor",
-        "Hall Sensor",
-        "RenBED",
-        "Renishaw",
-        "CFAH1602B",
-        "CFAH1602B-YYH-JT",
-        "ST7066U",
         "AD7190",
         "adc",
-        "driver"
+        "driver",
+        "ethernet",
+        "socket",
+        "W5500"
     ],
     "name": "ADC_AD7190",
     "platforms": "*",

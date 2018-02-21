@@ -9,12 +9,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "PCM",
-        "pulse",
-        "RC",
-        "Servo",
-        "ServoIn",
-        "led"
+        "can bus",
+        "Nucleo",
+        "NUCLEO-F103RB",
+        "led",
+        "distance",
+        "HC-SR04",
+        "HCSR04",
+        "ultrasonic",
+        "US-015",
+        "US015"
     ],
     "name": "led",
     "platforms": "*",

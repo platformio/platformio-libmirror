@@ -11,7 +11,20 @@
         "https://os.mbed.com/users/kayman2329/code/Nucleo_usbmouse/"
     ],
     "frameworks": "mbed",
-    "keywords": "AnalogIn",
+    "keywords": [
+        "TSL2560",
+        "TSL2561",
+        "Melexis",
+        "MLX90614",
+        "2x40",
+        "40x2",
+        "HD44780",
+        "LCD",
+        "ST7066U",
+        "range",
+        "sensor",
+        "SRF08"
+    ],
     "name": "USBDEVICE",
     "platforms": "*",
     "repository": {

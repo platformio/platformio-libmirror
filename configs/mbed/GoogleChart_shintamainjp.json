@@ -9,10 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Capacitive",
+        "Input",
+        "sensor",
+        "touch",
         "GoogleChart",
-        "aconno",
-        "nrf52",
-        "UART"
+        "DMX-512"
     ],
     "name": "GoogleChart",
     "platforms": "*",

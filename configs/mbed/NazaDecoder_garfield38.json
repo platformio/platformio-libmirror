@@ -6,13 +6,8 @@
     "description": "http://www.rcgroups.com/forums/showthread.php?t=1995704",
     "frameworks": "mbed",
     "keywords": [
-        "64F",
-        "FRDM",
-        "I2S",
         "arduino",
-        "naza gps decoder",
-        "Arducam",
-        "UTFT"
+        "naza gps decoder"
     ],
     "name": "NazaDecoder",
     "platforms": "*",

@@ -9,6 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "FIFO",
+        "lifo",
+        "ringbuffer",
         "LCD",
         "Sitronix",
         "ST7565"

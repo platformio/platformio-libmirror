@@ -6,8 +6,10 @@
     "description": "MIDI protocol using UART",
     "frameworks": "mbed",
     "keywords": [
-        "SSL",
-        "TLS"
+        "baro",
+        "MS5611_01BA03",
+        "SPI",
+        "variometer"
     ],
     "name": "SerialMIDI",
     "platforms": "*",

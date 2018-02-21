@@ -82,14 +82,14 @@ class MbedTopSpider(scrapy.Spider):
         if int(item['commits']) < 1:
             return
             
-        with open('libs.csv', 'a', newline='') as csv_file:
-            writer =csv.writer(csv_file, delimiter=';')
-            writer.writerow([
-                make_mbed_url(item['repository']),
-                is_fork(item),
-                int(item['imports']),
-                int(item['dependents'])
-                ])
+        # with open('libs.csv', 'a', newline='') as csv_file:
+        #     writer =csv.writer(csv_file, delimiter=';')
+        #     writer.writerow([
+        #         make_mbed_url(item['repository']),
+        #         is_fork(item),
+        #         int(item['imports']),
+        #         int(item['dependents'])
+        #         ])
 
         # if is_fork(item) and int(item['dependents']) < 5:
         #     with open("fork_dependents_less5.txt", "a") as myfile:
@@ -97,16 +97,16 @@ class MbedTopSpider(scrapy.Spider):
         #                                           item['repository']))
         #     return
         if int(item['imports']) < 5:
-            with open("imports_less10.txt", "a") as myfile:
-                myfile.write("\nitem %s/%s/%s" % (item['owner'], item['name'],
-                                                  item['repository']))
+            # with open("imports_less10.txt", "a") as myfile:
+            #     myfile.write("\nitem %s/%s/%s" % (item['owner'], item['name'],
+            #                                       item['repository']))
             return
 
         if has_non_ascii_char(item['ownerurl']) or has_non_ascii_char(
                 item['repository']):
-            with open("non_ASCII.txt", "a") as myfile:
-                myfile.write("\nitem %s/%s/%s" % (item['owner'], item['name'],
-                                                  item['repository']))
+            # with open("non_ASCII.txt", "a") as myfile:
+            #     myfile.write("\nitem %s/%s/%s" % (item['owner'], item['name'],
+            #                                       item['repository']))
             return
 
         if not ('description' in item):

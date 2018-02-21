@@ -27,6 +27,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "KL25z",
+        "MAG3110",
+        "Wi-Go",
+        "mbed",
         "TFT",
         "Touchscreen",
         "BlinkLabel",
@@ -38,12 +42,14 @@
         "NumericLabel",
         "ResetButton",
         "SeekBar",
-        "SeekbarGroup"
+        "SeekbarGroup",
+        "multiplexer",
+        "Shift Register"
     ],
     "name": "F746_GUI",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/MikamiUitOpen/code/F746_GUI/"
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/F746_GUI/"
     }
 }

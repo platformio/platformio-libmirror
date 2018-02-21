@@ -6,9 +6,12 @@
     "description": "program to blink two leds along with value of N",
     "frameworks": "mbed",
     "keywords": [
-        "led",
-        "matrix",
-        "SDA5708"
+        "aconno",
+        "nrf52",
+        "UART",
+        "AITENDO",
+        "KS0713",
+        "SPI"
     ],
     "name": "blink_LED",
     "platforms": "*",

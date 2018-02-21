@@ -6,10 +6,12 @@
     "description": "This is an I2S library to allow people to take advantage of the I2S peripheral on the LPC1768. Ideally it will be included in future releases of the mbed.h file.",
     "frameworks": "mbed",
     "keywords": [
+        "FAT",
+        "file",
+        "SD",
+        "System",
         "I2S",
-        "library",
-        "IMU",
-        "sensor"
+        "library"
     ],
     "name": "I2S",
     "platforms": "*",

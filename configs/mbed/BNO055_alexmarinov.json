@@ -6,9 +6,10 @@
     "description": "mbed library for the Bosh BNO055 9 axis sensor",
     "frameworks": "mbed",
     "keywords": [
-        "Nunchuk",
         "BNO055",
-        "sensor"
+        "sensor",
+        "HD44780",
+        "TextLCD"
     ],
     "name": "BNO055",
     "platforms": "*",

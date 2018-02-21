@@ -24,7 +24,8 @@
         "IMU",
         "LSM9DS0",
         "magnet",
-        "magnetometer"
+        "magnetometer",
+        "CMPS03"
     ],
     "name": "Keypad",
     "platforms": "*",

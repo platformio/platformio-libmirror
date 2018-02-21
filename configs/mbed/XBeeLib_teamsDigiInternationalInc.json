@@ -38,12 +38,15 @@
         "ADK",
         "android",
         "USB",
-        "MPL115A2"
+        "MPL115A2",
+        "buzzer",
+        "music",
+        "sound"
     ],
     "name": "XBeeLib",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/Digi-International-Inc/code/XBeeLib/"
+        "url": "https://os.mbed.com/teams/Digi-International-Inc/code/XBeeLib/"
     }
 }

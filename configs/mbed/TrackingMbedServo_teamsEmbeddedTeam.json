@@ -14,7 +14,12 @@
     ],
     "description": "Tracking Mbed Servo",
     "frameworks": "mbed",
-    "keywords": "Tracking Mbed Servo",
+    "keywords": [
+        "api",
+        "Digi",
+        "xbee",
+        "zigbee"
+    ],
     "name": "Tracking Mbed Servo",
     "platforms": "*",
     "repository": {

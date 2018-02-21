@@ -17,18 +17,11 @@
         "https://os.mbed.com/users/sillevl/code/m3Dpi-helloworld/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "3pi",
-        "library",
-        "m3dpi",
-        "m3pi",
-        "pololu",
-        "robot"
-    ],
+    "keywords": "m3Dpi",
     "name": "m3Dpi",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/sillevl/code/m3Dpi/"
+        "url": "https://os.mbed.com/users/sillevl/code/m3Dpi/"
     }
 }

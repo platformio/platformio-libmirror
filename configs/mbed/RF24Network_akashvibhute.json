@@ -11,14 +11,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "meters",
+        "sparkfun",
+        "weather",
         "maniacbug",
         "nRF24L01",
         "nRF24L01P",
         "RF24",
         "RF24Network",
-        "driver",
-        "motor",
-        "Stepper"
+        "FOTA",
+        "LPC1768",
+        "SW Update"
     ],
     "name": "RF24Network",
     "platforms": "*",

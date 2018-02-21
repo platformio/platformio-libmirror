@@ -9,8 +9,11 @@
         "MPU9150",
         "Quaternion",
         "vector",
+        "L6470",
         "AQM1602",
-        "L6470"
+        "display",
+        "I2C",
+        "led"
     ],
     "name": "NetServices",
     "platforms": "*",

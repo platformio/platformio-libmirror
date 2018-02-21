@@ -10,9 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "multithreading",
-        "rtos",
-        "thread"
+        "font",
+        "NeoPixel",
+        "WS2812",
+        "wx2811",
+        "BurstSPI",
+        "F411RE",
+        "Input",
+        "keyboard",
+        "PS/2"
     ],
     "name": "max14661",
     "platforms": "*",

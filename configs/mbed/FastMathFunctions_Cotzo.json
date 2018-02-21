@@ -9,10 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "FR-E700",
+        "inverter",
+        "mitsubishi",
+        "RS485",
         "LPC1114FN28",
-        "sound",
-        "CNMAT",
-        "osc"
+        "sound"
     ],
     "name": "FastMathFunctions",
     "platforms": "*",

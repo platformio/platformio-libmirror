@@ -5,7 +5,10 @@
     },
     "description": "Code to drive Team 1's robot for the 2016 R5 robotics competition.",
     "frameworks": "mbed",
-    "keywords": "R5 2016 Robotics Team 1",
+    "keywords": [
+        "modtronix",
+        "NZ32 STM32"
+    ],
     "name": "R5 2016 Robotics Team 1",
     "platforms": "*",
     "repository": {

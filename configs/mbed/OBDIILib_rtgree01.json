@@ -9,13 +9,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "nRF51822",
+        "Switch Sience",
+        "TY51822r3",
         "device",
         "USB",
+        "pressure",
+        "sensor",
+        "Temperature",
         "Freescale",
         "FXAS21002CQ",
-        "Giroscope",
-        "Adafruit",
-        "PCA9685"
+        "Giroscope"
     ],
     "name": "OBDIILib",
     "platforms": "*",

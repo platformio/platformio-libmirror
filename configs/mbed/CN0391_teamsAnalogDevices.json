@@ -18,7 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "controller",
         "Analog",
         "CN0391",
         "devices",
@@ -35,6 +34,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/AnalogDevices/code/CN0391/"
+        "url": "https://os.mbed.com/teams/AnalogDevices/code/CN0391/"
     }
 }

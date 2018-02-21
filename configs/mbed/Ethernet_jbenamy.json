@@ -6,16 +6,8 @@
     "description": "Ethernet part for lab 4",
     "frameworks": "mbed",
     "keywords": [
-        "RenBED",
-        "RenBuggy",
-        "Renishaw",
-        "Humidity",
-        "Sensirion",
-        "sensor",
-        "SHT71",
-        "SHT75",
-        "SHT7x",
-        "Temperature"
+        "HMC5843",
+        "sparkfun"
     ],
     "name": "Ethernet",
     "platforms": "*",

@@ -6,10 +6,9 @@
     "description": "BLE Current Time Service",
     "frameworks": "mbed",
     "keywords": [
-        "servos",
-        "slow",
-        "Speed",
-        "Graphics"
+        "9Dof-Stick",
+        "ADXL345",
+        "sparkfun"
     ],
     "name": "BLE_CurrentTimeService",
     "platforms": "*",

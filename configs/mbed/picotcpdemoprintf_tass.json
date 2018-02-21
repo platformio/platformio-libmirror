@@ -9,13 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "tcp/ip",
-        "WiFly",
-        "Carrier",
-        "driver",
-        "dual",
-        "MC33926",
-        "motor"
+        "device",
+        "USB"
     ],
     "name": "picotcp-demo-printf",
     "platforms": "*",

@@ -17,16 +17,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "RTC",
         "HSI",
         "pwm",
         "rgb",
-        "RGBW",
-        "Fibocom",
-        "GPS",
-        "GPS Module",
-        "GTS-4e-60",
-        "NMEA",
-        "NMEA Parser"
+        "RGBW"
     ],
     "name": "HSI2RGBW_PWM",
     "platforms": "*",

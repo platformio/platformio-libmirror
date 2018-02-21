@@ -17,7 +17,8 @@
         "TCP",
         "Agent",
         "Net-SNMP",
-        "SNMP"
+        "SNMP",
+        "AQM1602"
     ],
     "name": "Agentbed",
     "platforms": "*",

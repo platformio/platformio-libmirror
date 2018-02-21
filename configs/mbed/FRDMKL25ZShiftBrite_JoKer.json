@@ -5,7 +5,16 @@
     },
     "description": "A few classes to interface one or more ShiftBrite module to the FRDM KL25Z.",
     "frameworks": "mbed",
-    "keywords": "Shiftbrite",
+    "keywords": [
+        "devantech",
+        "ranger",
+        "SRF02",
+        "SRF08",
+        "ultrasonic",
+        "BME280",
+        "Shiftbrite",
+        "InterruptIn"
+    ],
     "name": "FRDMKL25Z-ShiftBrite",
     "platforms": "*",
     "repository": {

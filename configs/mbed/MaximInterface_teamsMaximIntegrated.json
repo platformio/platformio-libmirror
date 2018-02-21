@@ -10,9 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Nucleo-F4xx",
-        "open-drain",
-        "UIT"
+        "adc",
+        "dac",
+        "dual",
+        "MCP4922",
+        "Nucleo",
+        "single"
     ],
     "name": "MaximInterface",
     "platforms": "*",

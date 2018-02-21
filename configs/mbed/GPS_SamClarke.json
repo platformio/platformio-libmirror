@@ -10,14 +10,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ChaNFS",
-        "mass",
-        "storage",
-        "USB",
         "Adafruit",
         "GPS",
         "NEMA",
-        "v3"
+        "v3",
+        "ChaNFS",
+        "mass",
+        "storage",
+        "USB"
     ],
     "name": "GPS",
     "platforms": "*",

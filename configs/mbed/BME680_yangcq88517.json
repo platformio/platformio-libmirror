@@ -11,7 +11,9 @@
         "Humidity",
         "pressure",
         "Temperature",
-        "AppleRemote"
+        "DISCO_L476VG",
+        "N25Q128A",
+        "QSPI"
     ],
     "name": "BME680",
     "platforms": "*",

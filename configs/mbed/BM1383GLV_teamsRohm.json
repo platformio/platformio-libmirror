@@ -14,8 +14,12 @@
         "I2C",
         "pressure",
         "ROHM",
-        "DISCO_F469NI",
-        "EEPROM"
+        "card",
+        "fatfilesystem",
+        "MMC",
+        "SD",
+        "SDHC",
+        "SDXC"
     ],
     "name": "BM1383GLV",
     "platforms": "*",

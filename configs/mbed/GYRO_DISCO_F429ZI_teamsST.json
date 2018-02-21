@@ -13,16 +13,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "current",
-        "I2C",
-        "INA219",
-        "Power",
-        "voltage",
+        "RTX",
+        "DISCO_L476VG",
+        "LCD",
         "DISCO_F429ZI",
         "gyroscope",
-        "DC Motor controller",
-        "h bridge",
-        "motor driver"
+        "AD-128160-UART",
+        "AITENDO",
+        "Serial"
     ],
     "name": "GYRO_DISCO_F429ZI",
     "platforms": "*",

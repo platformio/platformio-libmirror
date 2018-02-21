@@ -10,17 +10,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "eve",
-        "FT800",
-        "graphic",
-        "LCD",
-        "TFT",
-        "touch",
-        "disco",
-        "discovery",
-        "ePaper",
-        "EPD",
-        "ST"
+        "BLE",
+        "BLE Bluetooth Low Energy BLE",
+        "led"
     ],
     "name": "ov7670s",
     "platforms": "*",

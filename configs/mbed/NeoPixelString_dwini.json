@@ -21,17 +21,22 @@
     "keywords": [
         "NeoPixel",
         "rgb",
-        "flysky",
-        "PPM",
+        "Adafruit",
+        "I2C",
+        "led",
+        "nxp",
+        "PCA9685",
         "pwm",
-        "RC",
-        "Receiver",
-        "Servo"
+        "Servo",
+        "mbed5",
+        "NetworkInterfaceAPI",
+        "Wi-Fi",
+        "WizFi250"
     ],
     "name": "NeoPixelString",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/dwini/code/NeoPixelString/"
+        "url": "https://os.mbed.com/users/dwini/code/NeoPixelString/"
     }
 }

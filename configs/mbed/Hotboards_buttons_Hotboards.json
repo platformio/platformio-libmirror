@@ -16,10 +16,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "BLE",
         "buttons",
-        "hotboards",
-        "33926",
-        "pololu"
+        "hotboards"
     ],
     "name": "Hotboards_buttons",
     "platforms": "*",

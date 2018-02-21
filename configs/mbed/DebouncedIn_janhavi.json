@@ -13,7 +13,9 @@
         "CN0216",
         "scale",
         "sensor",
-        "weigh"
+        "weigh",
+        "TMP102",
+        "TMP112"
     ],
     "name": "DebouncedIn",
     "platforms": "*",

@@ -6,12 +6,14 @@
     "description": "led test",
     "frameworks": "mbed",
     "keywords": [
-        "int",
-        "interrupt",
-        "NVIC",
-        "priority",
-        "buffer",
-        "I2C"
+        "gpu",
+        "Graphics",
+        "LCD",
+        "module",
+        "smart",
+        "SMARTGPU",
+        "TFT",
+        "touch"
     ],
     "name": "Nucleo_blink_led",
     "platforms": "*",

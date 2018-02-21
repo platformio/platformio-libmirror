@@ -18,20 +18,20 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "128x64",
+        "I2C",
+        "OLED",
+        "SSD1306",
         "led",
         "multiplexing",
         "pwm",
         "tlc5940",
-        "BH1750",
-        "digital light sensor",
-        "gy-30",
-        "I2C",
         "IO expander"
     ],
     "name": "TLC5940",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/Spencer/code/TLC5940/"
+        "url": "https://os.mbed.com/users/Spencer/code/TLC5940/"
     }
 }

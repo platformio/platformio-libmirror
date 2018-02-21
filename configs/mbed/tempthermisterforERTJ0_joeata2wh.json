@@ -5,10 +5,7 @@
     },
     "description": "Calculate temperature based on resistance from thermistor with lookup chart",
     "frameworks": "mbed",
-    "keywords": [
-        "BSP_DISCO_F746NG",
-        "OV7670"
-    ],
+    "keywords": "temp-thermisterfor-ERT-J0",
     "name": "temp-thermisterfor-ERT-J0",
     "platforms": "*",
     "repository": {

@@ -7,10 +7,11 @@
     "frameworks": "mbed",
     "keywords": [
         "table",
-        "file",
-        "Serial",
-        "SimpleSerialProtocol",
-        "transfer"
+        "Adafruit",
+        "led",
+        "NeoPixel",
+        "rgb",
+        "Shiftbrite"
     ],
     "name": "table",
     "platforms": "*",

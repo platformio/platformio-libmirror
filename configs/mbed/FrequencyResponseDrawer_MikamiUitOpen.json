@@ -14,6 +14,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "printf",
+        "ringbuffer",
+        "Serial",
         "dB",
         "digital filter",
         "DISCO-F746",

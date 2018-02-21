@@ -11,7 +11,10 @@
     "frameworks": "mbed",
     "keywords": [
         "RTC",
-        "Serial"
+        "HSI",
+        "pwm",
+        "rgb",
+        "RGBW"
     ],
     "name": "M41T62",
     "platforms": "*",

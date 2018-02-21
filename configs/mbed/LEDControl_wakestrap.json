@@ -6,13 +6,19 @@
     "description": "Simple library for controlling LEDs. Turn them on & off, blink them at specified rates and toggle their output. Don't forget to add a timer for the LEDs to use. Documentation found in header file.",
     "frameworks": "mbed",
     "keywords": [
+        "16x2",
+        "20x2",
+        "20X4",
+        "40x2",
+        "HD4478",
+        "TextLCD",
         "blink",
         "led",
         "LED control",
-        "SRF02",
-        "GPS",
-        "NMEA",
-        "Venus"
+        "limiter",
+        "rate",
+        "timer",
+        "watchdog"
     ],
     "name": "LEDControl",
     "platforms": "*",

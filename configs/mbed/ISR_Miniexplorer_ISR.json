@@ -3,6 +3,15 @@
         "name": "ISR UC",
         "url": "https://os.mbed.com/users/ISR/"
     },
+    "dependencies": [
+        {
+            "authors": [
+                "Akash Vibhute"
+            ],
+            "frameworks": "mbed",
+            "name": "RF24"
+        }
+    ],
     "description": "Energy harvesting mobile robot.",
     "examples": [
         "https://os.mbed.com/users/AurelienBernier/code/Mapping/",
@@ -13,29 +22,21 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "DMA",
+        "FRDM-KL25Z",
+        "led",
+        "WS2811",
+        "WS2812",
+        "IMU",
+        "MPU9150",
+        "audio",
+        "bwf",
+        "file",
+        "wav",
+        "wave",
         "energy harvesting",
         "mobile robot",
-        "async",
-        "LS013B7DH03",
-        "memory lcd",
-        "Sharp",
-        "sharp memory LCD",
-        "MQTT",
-        "arp",
-        "broadcast",
-        "DHCP",
-        "dns",
-        "ethernet",
-        "free",
-        "GPL",
-        "IGMP",
-        "ip",
-        "multicast",
-        "sockets",
-        "TCP",
-        "tcp/ip",
-        "tcpip stack",
-        "UDP"
+        "gyro"
     ],
     "name": "ISR_Mini-explorer",
     "platforms": "*",

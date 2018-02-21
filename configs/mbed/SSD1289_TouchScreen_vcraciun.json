@@ -6,8 +6,11 @@
     "description": "SSD128 TouchScreen Library based on Todor Todorov tftlcd library",
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F746NG",
-        "SD"
+        "quadcopter",
+        "Servo",
+        "38kHz",
+        "IR",
+        "remote"
     ],
     "name": "SSD1289_TouchScreen",
     "platforms": "*",

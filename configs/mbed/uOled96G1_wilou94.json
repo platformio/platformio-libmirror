@@ -5,7 +5,12 @@
     },
     "description": "4D System OLED display full library. (uOLED-96-G1)",
     "frameworks": "mbed",
-    "keywords": "uOled96G1",
+    "keywords": [
+        "AMS",
+        "AS5045",
+        "SPI",
+        "stm32"
+    ],
     "name": "uOled96G1",
     "platforms": "*",
     "repository": {

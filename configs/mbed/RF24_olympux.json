@@ -6,15 +6,14 @@
     "description": "Maniacbug RF24 on Nucleo STM32",
     "frameworks": "mbed",
     "keywords": [
+        "I2C",
         "nRF24L01P",
         "Nucelo",
         "RF24",
         "STM32F",
-        "VCNL4000",
-        "VCNL4010",
-        "VCNL4020",
-        "herkulex",
-        "Servo"
+        "BLE Nano",
+        "BLE_Nano",
+        "BLEnano"
     ],
     "name": "RF24",
     "platforms": "*",

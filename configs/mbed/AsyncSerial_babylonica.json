@@ -18,12 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "driver",
-        "Graphics",
-        "ILI9340",
-        "LCD",
-        "SPI",
-        "TFT",
         "asynchronous",
         "Buffered",
         "FIFO",
@@ -31,12 +25,18 @@
         "ring buffer",
         "Serial",
         "UART",
+        "driver",
+        "Graphics",
+        "ILI9340",
+        "LCD",
+        "SPI",
+        "TFT",
         "PS2"
     ],
     "name": "AsyncSerial",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/babylonica/code/AsyncSerial/"
+        "url": "https://os.mbed.com/users/babylonica/code/AsyncSerial/"
     }
 }

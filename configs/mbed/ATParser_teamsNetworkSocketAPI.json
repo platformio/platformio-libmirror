@@ -22,15 +22,25 @@
         "camera",
         "JPEG",
         "UART",
-        "regex",
-        "slre",
         "AT",
-        "parser"
+        "parser",
+        "dac",
+        "SPI",
+        "BUTTON",
+        "debounce",
+        "DigitalIn",
+        "Ticker",
+        "trigger",
+        "array",
+        "circular buffer",
+        "deque",
+        "memory",
+        "Template"
     ],
     "name": "ATParser",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/NetworkSocketAPI/code/ATParser/"
+        "url": "https://os.mbed.com/teams/NetworkSocketAPI/code/ATParser/"
     }
 }

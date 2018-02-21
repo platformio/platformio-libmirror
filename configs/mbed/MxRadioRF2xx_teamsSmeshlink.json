@@ -10,11 +10,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "NDEF",
-        "NFC",
-        "Type4",
-        "JSON",
-        "MessagePack"
+        "cube",
+        "led"
     ],
     "name": "MxRadioRF2xx",
     "platforms": "*",

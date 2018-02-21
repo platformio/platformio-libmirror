@@ -14,10 +14,9 @@
     "keywords": [
         "accelerometer",
         "bma180",
-        "Electrical",
-        "Field",
-        "Gesture",
-        "MGC3130"
+        "C12832",
+        "LCD",
+        "I2C"
     ],
     "name": "BMA180",
     "platforms": "*",

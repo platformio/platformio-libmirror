@@ -6,11 +6,10 @@
     "description": "RTC functions for STM32F103",
     "frameworks": "mbed",
     "keywords": [
-        "game",
-        "inheritance",
-        "OOP",
-        "polymorphism",
-        "tutorial"
+        "display",
+        "LPC4088",
+        "LPC4088DM",
+        "module"
     ],
     "name": "nnio_stm32f10x_rtc",
     "platforms": "*",

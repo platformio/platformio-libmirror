@@ -27,15 +27,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Cellular",
-        "Dragonfly",
-        "http",
-        "https",
-        "MTSAS",
-        "multitech",
-        "SMS",
-        "TCP",
-        "UDP",
         "breakout",
         "gainspan",
         "GS1011MIC",
@@ -46,15 +37,23 @@
         "FRDM-KL25Z",
         "FRDM-KL46Z",
         "USBHOST",
-        "HTTPSClient",
-        "security",
-        "SSL",
-        "TLS"
+        "Cellular",
+        "Dragonfly",
+        "http",
+        "https",
+        "MTSAS",
+        "multitech",
+        "SMS",
+        "TCP",
+        "UDP",
+        "BLE",
+        "bluetooth",
+        "simpleble"
     ],
     "name": "mtsas",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/MultiTech/code/mtsas/"
+        "url": "https://os.mbed.com/teams/MultiTech/code/mtsas/"
     }
 }

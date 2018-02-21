@@ -10,15 +10,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Humidity",
-        "Sensiron",
-        "Temperature",
-        "daisy-chain",
-        "L6470",
-        "SPI",
-        "Stepper",
         "MAX485",
-        "RS485"
+        "RS485",
+        "I2C",
+        "MPU6050"
     ],
     "name": "RF12B",
     "platforms": "*",

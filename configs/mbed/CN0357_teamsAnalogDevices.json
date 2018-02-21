@@ -18,6 +18,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "a7105",
+        "flysky",
+        "RC",
+        "Receiver",
+        "TH9X",
         "CN0357",
         "Gas",
         "sensor"
@@ -26,6 +31,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/AnalogDevices/code/CN0357/"
+        "url": "https://os.mbed.com/teams/AnalogDevices/code/CN0357/"
     }
 }

@@ -5,7 +5,12 @@
     },
     "description": "This is a simple wrapper class for the MPL3115A5 pressure and temperature sensor. It allows either single readings for continuous readings using polling or interrupts. It also contains a wrapper class for mbed-rpc.",
     "frameworks": "mbed",
-    "keywords": "MPL3115A2",
+    "keywords": [
+        "AITENDO",
+        "KS0713",
+        "SPI",
+        "MPL3115A2"
+    ],
     "name": "mpl3115a2",
     "platforms": "*",
     "repository": {

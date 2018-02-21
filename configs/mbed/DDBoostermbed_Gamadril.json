@@ -10,10 +10,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "EM",
-        "nxp",
-        "RFID",
-        "UHF"
+        "bmp280",
+        "ST7032i"
     ],
     "name": "DD-Booster-mbed",
     "platforms": "*",

@@ -6,9 +6,8 @@
     "description": "a version of 4DGL with a minor change for the uVGAII 640 by 480 res",
     "frameworks": "mbed",
     "keywords": [
-        "2017NOSHIRO",
-        "map",
-        "range"
+        "Servo",
+        "tlc5940"
     ],
     "name": "uVGAII_4DGL",
     "platforms": "*",

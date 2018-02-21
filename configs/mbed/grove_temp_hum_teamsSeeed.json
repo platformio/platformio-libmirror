@@ -6,10 +6,8 @@
     "description": "grove_temp_hum",
     "frameworks": "mbed",
     "keywords": [
-        "BLE",
-        "BLE Bluetooth Low Energy BLE",
-        "BUTTON",
-        "GAP"
+        "DHCP",
+        "EthernetInterface"
     ],
     "name": "grove_temp_hum",
     "platforms": "*",

@@ -6,10 +6,9 @@
     "description": "SCP1000-D01 MEMS pressure sensor library",
     "frameworks": "mbed",
     "keywords": [
-        "jsmn",
-        "JSON",
-        "FIFO",
-        "Queue"
+        "console",
+        "v7",
+        "VGA"
     ],
     "name": "scp1000-D01",
     "platforms": "*",

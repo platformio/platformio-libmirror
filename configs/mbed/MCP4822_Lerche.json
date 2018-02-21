@@ -9,17 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "H-bridge",
-        "Moror",
-        "PID",
-        "QEI",
-        "Stinger",
-        "Ticker",
-        "at45",
         "12-bit",
         "dac",
         "MCP4822",
-        "SPI"
+        "SPI",
+        "AnalogIn",
+        "DMA",
+        "4DGL",
+        "4DSystems",
+        "OLED"
     ],
     "name": "MCP4822",
     "platforms": "*",

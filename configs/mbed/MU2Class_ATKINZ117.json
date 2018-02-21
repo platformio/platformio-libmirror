@@ -11,7 +11,12 @@
         "https://os.mbed.com/users/pyonta2017/code/FM_integration/"
     ],
     "frameworks": "mbed",
-    "keywords": "MU2Class",
+    "keywords": [
+        "HR-TFT",
+        "memory lcd",
+        "Monochrome LCD",
+        "Sharp"
+    ],
     "name": "MU2Class",
     "platforms": "*",
     "repository": {

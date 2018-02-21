@@ -8,7 +8,11 @@
         "https://os.mbed.com/teams/robocon_2016/code/2016_mother_3/"
     ],
     "frameworks": "mbed",
-    "keywords": "I2C",
+    "keywords": [
+        "I2C",
+        "led",
+        "matrix"
+    ],
     "name": "i2cmaster",
     "platforms": "*",
     "repository": {

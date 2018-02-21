@@ -8,7 +8,20 @@
         "https://os.mbed.com/users/JackB/code/RGB_Matrix_Test/"
     ],
     "frameworks": "mbed",
-    "keywords": "1WireLcd",
+    "keywords": [
+        "adc",
+        "DIFF",
+        "K64F",
+        "1",
+        "2",
+        "digimesh",
+        "Series",
+        "Wi-Fi",
+        "xbee",
+        "zigbee",
+        "fs",
+        "USB"
+    ],
     "name": "RGB_Matrix",
     "platforms": "*",
     "repository": {

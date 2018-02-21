@@ -8,12 +8,7 @@
         "https://os.mbed.com/users/okini3939/code/PhonePlatform/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Analog",
-        "AnalogIn",
-        "gyro",
-        "sensor"
-    ],
+    "keywords": "DigitalIn",
     "name": "ulaw",
     "platforms": "*",
     "repository": {

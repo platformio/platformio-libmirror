@@ -8,7 +8,10 @@
         "https://os.mbed.com/users/GuiTwo/code/KS0108_PCF8574/"
     ],
     "frameworks": "mbed",
-    "keywords": "BusEnums",
+    "keywords": [
+        "debouncing",
+        "Interrupt Handling"
+    ],
     "name": "BusEnums",
     "platforms": "*",
     "repository": {

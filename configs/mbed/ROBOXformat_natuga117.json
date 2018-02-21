@@ -9,13 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "watchdog",
+        "WoL",
         "IR",
-        "ROBOX",
-        "atan",
-        "atan2",
-        "fixed-point",
-        "trigonometry"
+        "ROBOX"
     ],
     "name": "ROBOXformat",
     "platforms": "*",

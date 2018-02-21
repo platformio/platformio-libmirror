@@ -12,12 +12,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GPS",
-        "device",
-        "USB",
+        "gmmp",
+        "IOT",
+        "SKTelecom",
+        "TCP",
         "flash",
         "S25FL216K",
-        "Serial"
+        "Serial",
+        "client",
+        "CoAP",
+        "protocol",
+        "server"
     ],
     "name": "S25FL216K",
     "platforms": "*",

@@ -9,6 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "adc",
+        "DIFF",
+        "K64F",
         "1",
         "2",
         "digimesh",
@@ -17,8 +20,7 @@
         "xbee",
         "zigbee",
         "fs",
-        "USB",
-        "JY901"
+        "USB"
     ],
     "name": "USBTinyDisk",
     "platforms": "*",

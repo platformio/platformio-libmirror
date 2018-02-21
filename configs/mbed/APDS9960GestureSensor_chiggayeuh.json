@@ -9,7 +9,8 @@
         "APDS",
         "APDS9960",
         "Gesture",
-        "sensor"
+        "sensor",
+        "ProcVis"
     ],
     "name": "APDS9960 GestureSensor",
     "platforms": "*",

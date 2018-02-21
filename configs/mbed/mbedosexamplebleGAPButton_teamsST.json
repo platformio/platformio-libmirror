@@ -9,7 +9,17 @@
         "BLE",
         "BLE Bluetooth Low Energy BLE",
         "BUTTON",
-        "GAP"
+        "GAP",
+        "dynamixel",
+        "IOT",
+        "I2C",
+        "MCB1700",
+        "STMPE811",
+        "Touchscreen",
+        "MPL115A1",
+        "pressure",
+        "sensor",
+        "sparkfun"
     ],
     "name": "mbed-os-example-ble-GAPButton",
     "platforms": "*",

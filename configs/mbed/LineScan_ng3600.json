@@ -6,11 +6,9 @@
     "description": "Created LineScan library to interface with line scanner. Verified that it was able to store values form camera.",
     "frameworks": "mbed",
     "keywords": [
-        "dynamixel",
-        "IOT",
-        "rfduino",
-        "AX-12",
-        "ax12"
+        "Flash memory",
+        "HEXIWEAR",
+        "nor"
     ],
     "name": "LineScan",
     "platforms": "*",

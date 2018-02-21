@@ -12,16 +12,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AM2321",
-        "Humidity",
         "I2C",
+        "Luminosity",
+        "Lux",
         "sensor",
-        "Temperature",
         "Ranging",
         "SRF02",
-        "ultrasonic",
-        "Luminosity",
-        "Lux"
+        "ultrasonic"
     ],
     "name": "TSL2561",
     "platforms": "*",

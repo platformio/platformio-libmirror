@@ -6,11 +6,9 @@
     "description": "switch : 8",
     "frameworks": "mbed",
     "keywords": [
-        "a7105",
-        "flysky",
-        "RC",
-        "Receiver",
-        "TH9X"
+        "interrupts",
+        "NVIC",
+        "RTC"
     ],
     "name": "2016_V_Controller",
     "platforms": "*",

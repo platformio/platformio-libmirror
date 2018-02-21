@@ -11,14 +11,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "timer",
+        "Ton",
+        "wait",
+        "maestro",
+        "Serial",
+        "Servo",
         "flash",
         "SPI",
-        "Servo",
-        "servo pulse",
-        "WSE",
-        "bitmap",
-        "BMP",
-        "image"
+        "I2C",
+        "PCF8583",
+        "RTC"
     ],
     "name": "SpiFlash25",
     "platforms": "*",

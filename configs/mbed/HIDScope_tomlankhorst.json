@@ -35,16 +35,12 @@
         "Communication",
         "data",
         "Oscilloscope",
-        "prototype",
-        "control",
-        "RC",
-        "remote",
-        "Servo"
+        "prototype"
     ],
     "name": "HIDScope",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/tomlankhorst/code/HIDScope/"
+        "url": "https://os.mbed.com/users/tomlankhorst/code/HIDScope/"
     }
 }

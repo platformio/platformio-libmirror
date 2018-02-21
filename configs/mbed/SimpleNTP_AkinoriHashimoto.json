@@ -6,12 +6,10 @@
     "description": "Simple Network Time Protocol Client.",
     "frameworks": "mbed",
     "keywords": [
-        "DS18B20",
         "client",
         "SimpleNTP",
         "SNTP",
-        "IEEE488",
-        "SCPI"
+        "led"
     ],
     "name": "SimpleNTP",
     "platforms": "*",

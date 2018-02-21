@@ -9,7 +9,8 @@
         "FAT",
         "file",
         "SD",
-        "System"
+        "System",
+        "HTTPServer"
     ],
     "name": "CurrentRegulation",
     "platforms": "*",

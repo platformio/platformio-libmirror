@@ -13,7 +13,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MMA8452",
         "accelerometer",
         "gyroscope",
         "I2C",
@@ -21,12 +20,17 @@
         "MPU6050",
         "MPU60x0",
         "MPU9150",
+        "MMA8452",
         "maxsonar",
         "range",
         "RangeFinder",
         "sonar",
         "W5200",
-        "WIZ820IO"
+        "WIZ820IO",
+        "ax12",
+        "dynamixel",
+        "motor",
+        "Servo"
     ],
     "name": "MMA8452",
     "platforms": "*",

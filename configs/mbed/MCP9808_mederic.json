@@ -6,12 +6,14 @@
     "description": "Lib to read the MCP9808 over Initialized I2C bus",
     "frameworks": "mbed",
     "keywords": [
-        "joystick",
-        "LCD_12832",
-        "LEDS",
-        "micro",
-        "MMA7660FC",
-        "Temperature;*C;MCP9808"
+        "Temperature;*C;MCP9808",
+        "Grove",
+        "ISD1820P",
+        "play",
+        "playback",
+        "record",
+        "recorder",
+        "sound"
     ],
     "name": "MCP9808",
     "platforms": "*",

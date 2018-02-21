@@ -9,14 +9,7 @@
         "https://os.mbed.com/users/Ronjea/code/RoboticHand/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "mutex",
-        "rtos",
-        "MPU6050",
-        "MPU9250",
-        "HY-1.8",
-        "ST7735"
-    ],
+    "keywords": "flex_sensor",
     "name": "flex_sensor",
     "platforms": "*",
     "repository": {

@@ -6,6 +6,10 @@
     "description": "Library to drive DogM16x text displays",
     "frameworks": "mbed",
     "keywords": [
+        "Gesture",
+        "I2C",
+        "sensor",
+        "SI1143",
         "display",
         "DOGM",
         "text"

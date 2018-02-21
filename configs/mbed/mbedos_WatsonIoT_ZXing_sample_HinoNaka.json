@@ -14,21 +14,11 @@
     ],
     "description": "This is the sample program that can see the decode result of barcode data on Watson IoT.",
     "frameworks": "mbed",
-    "keywords": [
-        "ADS7843",
-        "event",
-        "touch",
-        "ATP3011",
-        "I2C",
-        "honeywell",
-        "hsc",
-        "pressure",
-        "SPI"
-    ],
+    "keywords": "mbed-os_Watson-IoT_ZXing_sample",
     "name": "mbed-os_Watson-IoT_ZXing_sample",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/HinoNaka/code/mbed-os_Watson-IoT_ZXing_sample/"
+        "url": "https://os.mbed.com/users/HinoNaka/code/mbed-os_Watson-IoT_ZXing_sample/"
     }
 }

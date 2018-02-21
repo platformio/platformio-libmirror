@@ -6,17 +6,12 @@
     "description": "I2C interface of Bosch BMP085 pressure/temperature sensor.",
     "frameworks": "mbed",
     "keywords": [
-        "Lidar",
-        "9bit",
-        "RS-485",
-        "Serial",
         "bmp085",
         "I2C",
-        "display",
-        "Freedom",
-        "kl46z",
-        "LCD",
-        "segment"
+        "Encoder",
+        "scp1000",
+        "SoftSPI",
+        "Lidar"
     ],
     "name": "bmp085",
     "platforms": "*",

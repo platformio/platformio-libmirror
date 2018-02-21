@@ -6,9 +6,11 @@
     "description": "Avago ADNS6010 mouse chip library This class referred to ADNS5020EN library http://mbed.org/users/IPAB/programs/ADNS5020EN/5zwdp",
     "frameworks": "mbed",
     "keywords": [
+        "EDP2",
+        "HTTPClient",
+        "xively",
         "ADNS6010",
-        "MouseChip",
-        "DHT22"
+        "MouseChip"
     ],
     "name": "ADNS6010",
     "platforms": "*",

@@ -9,14 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "test",
         "PCF8575",
-        "CAN",
-        "FRDM-KL25Z",
-        "Seeed Studios",
-        "BLE",
-        "buttons",
-        "HEXIWEAR",
-        "KW40Z"
+        "display"
     ],
     "name": "PCF8575",
     "platforms": "*",

@@ -6,12 +6,11 @@
     "description": "grove_gyroscope",
     "frameworks": "mbed",
     "keywords": [
-        "PID",
-        "minutes",
-        "seconds",
-        "stopwatch",
-        "timer",
-        "watch"
+        "madgwick'salgorithm",
+        "Data Logging",
+        "datalog",
+        "FRAM",
+        "log"
     ],
     "name": "grove_gyroscope",
     "platforms": "*",

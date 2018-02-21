@@ -9,12 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "brushless",
-        "control",
-        "LPC1768",
-        "mbed",
-        "motor",
-        "TB6612FNG",
+        "GPS",
+        "MKT3339",
+        "TinyGPS",
         "AD",
         "da",
         "MCP4921",
@@ -22,9 +19,9 @@
         "Nucleo",
         "SPI",
         "UIT",
-        "GPS",
-        "MKT3339",
-        "TinyGPS"
+        "3DOF",
+        "inverse kinematics",
+        "Robotics"
     ],
     "name": "TinyGPSPlus",
     "platforms": "*",

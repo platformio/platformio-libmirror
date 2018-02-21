@@ -6,11 +6,11 @@
     "description": "Arduino Serial + Serial base = less flash usage",
     "frameworks": "mbed",
     "keywords": [
-        "arduino",
-        "iot platform",
-        "sakura internet",
-        "etti",
-        "TUIASI",
+        "LIN",
+        "master",
+        "Melexis",
+        "MLX",
+        "USB",
         "Serial"
     ],
     "name": "ardSerial",

@@ -10,7 +10,10 @@
         "https://os.mbed.com/users/lfsantarelli/code/Sumo_v2_RG13/"
     ],
     "frameworks": "mbed",
-    "keywords": "RadioIn",
+    "keywords": [
+        "Encoder",
+        "fischertechnik"
+    ],
     "name": "RadioIn",
     "platforms": "*",
     "repository": {

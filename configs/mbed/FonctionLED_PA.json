@@ -6,9 +6,18 @@
     "description": "Function on LEDs",
     "frameworks": "mbed",
     "keywords": [
-        "gmmp",
-        "mbed",
-        "thingplug"
+        "buffer",
+        "debug",
+        "debugging",
+        "informative",
+        "logger",
+        "logging",
+        "Save",
+        "stashing",
+        "clock",
+        "mcp97410",
+        "RTC",
+        "time"
     ],
     "name": "FonctionLED",
     "platforms": "*",

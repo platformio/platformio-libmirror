@@ -6,8 +6,10 @@
     "description": "An interface to the Sparkfun Serial Graphic LCD, LCD-09351; and Graphic LCD Serial Backpack, LCD-09352. Derived class from Serial so that you can conveniently send text to the display with printf(), putc(), etc.",
     "frameworks": "mbed",
     "keywords": [
+        "JSON",
         "http",
         "web server",
+        "I2C_EEPROM",
         "Graphics",
         "LCD",
         "Felica",

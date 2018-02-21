@@ -6,10 +6,10 @@
     "description": "I2CTextLCD",
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
         "CDC",
         "MSD",
-        "USB"
+        "USB",
+        "accelerometer"
     ],
     "name": "I2CTextLCD",
     "platforms": "*",

@@ -9,12 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "controller",
+        "Design",
         "ethernet",
         "http",
         "interface",
-        "server",
-        "AD5270",
-        "Digipot"
+        "server"
     ],
     "name": "DigitalInOut2",
     "platforms": "*",

@@ -6,13 +6,14 @@
     "description": "Transformada lifting wavelet + filtro gaussiano",
     "frameworks": "mbed",
     "keywords": [
-        "array",
-        "circular",
-        "Queue",
         "lifting",
         "Transformada",
         "unillanos",
-        "wavelet"
+        "wavelet",
+        "HK10DOF",
+        "IMU10DOF",
+        "ITG3200",
+        "MEMS"
     ],
     "name": "LIFTING_WAVELET",
     "platforms": "*",

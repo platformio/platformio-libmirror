@@ -5,7 +5,11 @@
     },
     "description": "Serial 自動受信割り込み",
     "frameworks": "mbed",
-    "keywords": "serial_attach",
+    "keywords": [
+        "AX-12",
+        "ax12",
+        "IOT"
+    ],
     "name": "serial_attach",
     "platforms": "*",
     "repository": {

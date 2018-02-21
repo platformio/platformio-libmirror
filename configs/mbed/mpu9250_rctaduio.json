@@ -8,7 +8,18 @@
         "https://os.mbed.com/users/rctaduio/code/IMU_serial/"
     ],
     "frameworks": "mbed",
-    "keywords": "milkcocoa",
+    "keywords": [
+        "Adafruit",
+        "display",
+        "LCD",
+        "memory",
+        "Sharp",
+        "milkcocoa",
+        "BP3595",
+        "network",
+        "ROHM",
+        "WLAN"
+    ],
     "name": "mpu9250",
     "platforms": "*",
     "repository": {

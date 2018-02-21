@@ -13,7 +13,13 @@
         "https://os.mbed.com/users/jgensel3/code/FootModuleCode/"
     ],
     "frameworks": "mbed",
-    "keywords": "XBee",
+    "keywords": [
+        "9Dof-Stick",
+        "heading",
+        "HMC5843",
+        "magnetic",
+        "sensor"
+    ],
     "name": "XBee",
     "platforms": "*",
     "repository": {

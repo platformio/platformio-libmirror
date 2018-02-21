@@ -15,7 +15,23 @@
         "https://os.mbed.com/users/tvlogman/code/locomotion_pid_action_refactor_EMG/"
     ],
     "frameworks": "mbed",
-    "keywords": "Matrix",
+    "keywords": [
+        "arduino",
+        "maniacbug",
+        "nRF24L01+",
+        "nRF24L01P",
+        "Algebra.",
+        "matrix",
+        "vector",
+        "api",
+        "mode",
+        "xbee",
+        "zigbee",
+        "GPS",
+        "Serial",
+        "FAT",
+        "SD"
+    ],
     "name": "Matrix",
     "platforms": "*",
     "repository": {

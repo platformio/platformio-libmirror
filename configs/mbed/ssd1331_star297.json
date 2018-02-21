@@ -9,10 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "SSD1331",
         "filter",
         "IMU",
-        "MARG"
+        "MARG",
+        "SSD1331",
+        "realtimeclock"
     ],
     "name": "ssd1331",
     "platforms": "*",

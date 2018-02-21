@@ -10,17 +10,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "breakout",
-        "gainspan",
-        "GS1011MIC",
-        "GS1011MIP",
-        "sparkfun",
-        "Wi-Fi",
-        "wifi",
         "EEPROM",
         "hotboards",
         "storage",
-        "WiFly"
+        "wallbot"
     ],
     "name": "Hotboards_eeprom",
     "platforms": "*",

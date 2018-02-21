@@ -11,7 +11,12 @@
         "https://os.mbed.com/users/harish_i/code/RPC_HTTP_dac0808/"
     ],
     "frameworks": "mbed",
-    "keywords": "AnalogIn",
+    "keywords": [
+        "range",
+        "sensor",
+        "SRF08",
+        "AnalogIn"
+    ],
     "name": "TextLCD",
     "platforms": "*",
     "repository": {

@@ -18,16 +18,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "motor",
-        "Stepper",
-        "stepping",
-        "Uni-polar",
         "2645",
         "accelerometer",
         "fxos8700cq",
         "I2C",
         "magnetometer",
-        "nxp"
+        "nxp",
+        "ACM1602NI",
+        "LCD",
+        "Nucleo",
+        "MAX30102"
     ],
     "name": "BSP_DISCO_F769NI",
     "platforms": "*",

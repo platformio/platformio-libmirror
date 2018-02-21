@@ -10,12 +10,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "decoder",
+        "decompression",
+        "JPEG",
+        "JPG",
         "mutex",
         "rtos",
-        "MPU6050",
-        "MPU9250",
         "HY-1.8",
-        "ST7735"
+        "ST7735",
+        "Arducam",
+        "OV5642"
     ],
     "name": "MutexLocker",
     "platforms": "*",

@@ -15,10 +15,16 @@
     "description": "Library to control a 3DOF robotic leg. Specify an [x,y,z] co-ordinate and the library will solve the inverse kinematic equations to calculate the required servo pulse widths to position the foot at the target location.",
     "frameworks": "mbed",
     "keywords": [
-        "ESP8266",
-        "milkcocoa",
-        "Serial",
-        "thermal printer",
+        "GPS",
+        "MKT3339",
+        "TinyGPS",
+        "AD",
+        "da",
+        "MCP4921",
+        "MCP4922",
+        "Nucleo",
+        "SPI",
+        "UIT",
         "3DOF",
         "inverse kinematics",
         "Robotics"
@@ -27,6 +33,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/eencae/code/Leg/"
+        "url": "https://os.mbed.com/users/eencae/code/Leg/"
     }
 }

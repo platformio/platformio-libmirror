@@ -7,11 +7,9 @@
     "frameworks": "mbed",
     "keywords": [
         "led",
-        "xbee",
-        "buffer",
-        "BufferedSerial",
-        "BufferSerial",
-        "Serial"
+        "fischertechnik",
+        "IR",
+        "remote"
     ],
     "name": "LedGroup",
     "platforms": "*",

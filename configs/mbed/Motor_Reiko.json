@@ -6,14 +6,8 @@
     "description": "Motor",
     "frameworks": "mbed",
     "keywords": [
-        "BLE",
-        "Nordic",
-        "nRF51822",
-        "dac",
-        "more pwm",
-        "pwm",
-        "pwm 48Mhz",
-        "pwmdac"
+        "Adafruit 9DOF",
+        "L3GD20H"
     ],
     "name": "Motor",
     "platforms": "*",

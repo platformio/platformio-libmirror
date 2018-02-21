@@ -5,17 +5,7 @@
     },
     "description": "stepper motor unipolar",
     "frameworks": "mbed",
-    "keywords": [
-        "Parallax X-Band",
-        "Radar",
-        "X-Band",
-        "DOGL",
-        "DOGL128",
-        "LCD",
-        "LCD 128x64",
-        "ST7565",
-        "ST7565R"
-    ],
+    "keywords": "STEPPER",
     "name": "STEPPER",
     "platforms": "*",
     "repository": {

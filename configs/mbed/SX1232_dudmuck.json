@@ -11,7 +11,12 @@
     "keywords": [
         "FSK",
         "Radio",
-        "wireless"
+        "wireless",
+        "FATFS",
+        "NP8P128A13",
+        "Phase Change RAM",
+        "PRAM",
+        "SPI"
     ],
     "name": "SX1232",
     "platforms": "*",

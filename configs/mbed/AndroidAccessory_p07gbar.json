@@ -23,7 +23,10 @@
         "ADK",
         "android",
         "USB",
-        "MPL115A2"
+        "MPL115A2",
+        "buzzer",
+        "music",
+        "sound"
     ],
     "name": "AndroidAccessory",
     "platforms": "*",

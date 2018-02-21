@@ -6,9 +6,13 @@
     "description": "Release 1.0",
     "frameworks": "mbed",
     "keywords": [
-        "DS130x",
-        "Maxim",
-        "RTC"
+        "6005BG00",
+        "buzzcard",
+        "HID",
+        "ProxCard",
+        "ProxPoint",
+        "RFID",
+        "Wiegand"
     ],
     "name": "HTS221",
     "platforms": "*",

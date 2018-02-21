@@ -28,6 +28,8 @@ def make_mbed_url(resource):
         if resource[0] == '/':
             resource = "https://os.mbed.com" + resource
     elif type(resource) is dict:
+        if "http" in resource['url']:
+            return resource['url']
         resource = "https://os.mbed.com" + resource['url']
     # elif type(resource)
     elif type(resource) is list:

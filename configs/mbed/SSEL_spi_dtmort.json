@@ -6,6 +6,7 @@
     "description": "CLASS for automated serial 'chip select' implimentation utilizing mbed LPC1768 Timer2 hardware and it's inturrupt features.",
     "frameworks": "mbed",
     "keywords": [
+        "mbed",
         "chip select",
         "master",
         "Serial",

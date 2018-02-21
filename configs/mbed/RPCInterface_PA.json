@@ -5,7 +5,21 @@
     },
     "description": "RPCInterface",
     "frameworks": "mbed",
-    "keywords": "AM2321",
+    "keywords": [
+        "debug",
+        "SPI",
+        "control",
+        "interrupt",
+        "motor",
+        "pwm",
+        "ramps",
+        "accelerometer",
+        "gyroscope",
+        "I2C",
+        "MPU-6050",
+        "MPU6050",
+        "MPU60x0"
+    ],
     "name": "RPCInterface",
     "platforms": "*",
     "repository": {

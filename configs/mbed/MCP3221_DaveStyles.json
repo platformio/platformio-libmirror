@@ -15,10 +15,7 @@
         "I2C",
         "debounce",
         "DigitalIn",
-        "InterruptIn",
-        "FAT",
-        "file system",
-        "SD"
+        "InterruptIn"
     ],
     "name": "MCP3221",
     "platforms": "*",

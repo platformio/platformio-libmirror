@@ -15,14 +15,15 @@
     "description": "NNN40 change mode from AP to STA by HTTP server",
     "frameworks": "mbed",
     "keywords": [
-        "joystick",
-        "PS3",
-        "USB"
+        "Blackberry",
+        "Brreakout",
+        "sparkfun",
+        "trackball"
     ],
     "name": "NNN40_APmodeToSTAmodeByHTTPServer",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/Delta/code/NNN40_APmodeToSTAmodeByHTTPServer/"
+        "url": "https://os.mbed.com/teams/Delta/code/NNN40_APmodeToSTAmodeByHTTPServer/"
     }
 }

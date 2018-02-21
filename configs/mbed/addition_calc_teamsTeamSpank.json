@@ -6,11 +6,9 @@
     "description": "adds two numbers and outputs to binary on led. Use terminal serial connection (COM#) to input",
     "frameworks": "mbed",
     "keywords": [
-        "Arch Max",
-        "sensor",
-        "STM32F4",
-        "Temperature",
-        "CO657"
+        "H-bridge",
+        "motor",
+        "PwmOut"
     ],
     "name": "addition_calc",
     "platforms": "*",

@@ -6,6 +6,9 @@
     "description": "Library to implement SCPI Commands on an application using NUCLEO 401RE.",
     "frameworks": "mbed",
     "keywords": [
+        "LPC4088QSB",
+        "MIDI",
+        "USB",
         "commands",
         "SCPI"
     ],

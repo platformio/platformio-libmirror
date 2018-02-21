@@ -10,7 +10,9 @@
     "frameworks": "mbed",
     "keywords": [
         "adafruit printer",
-        "thermal printer"
+        "thermal printer",
+        "gyro",
+        "ITG3200"
     ],
     "name": "AdafruitThermalPrinter",
     "platforms": "*",

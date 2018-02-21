@@ -10,8 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "bluetooth",
-        "Evobots"
+        "aconno",
+        "nrf52",
+        "UART",
+        "AITENDO",
+        "KS0713",
+        "SPI"
     ],
     "name": "HCSR04",
     "platforms": "*",

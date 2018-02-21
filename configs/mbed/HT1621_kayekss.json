@@ -6,6 +6,9 @@
     "description": "A simple library for Holtek's HT1621 segment LCD driver",
     "frameworks": "mbed",
     "keywords": [
+        "CAN",
+        "can bus",
+        "FIFO",
         "HT1621",
         "LCD",
         "ds1621",

@@ -10,8 +10,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "comparator",
-        "KL25z",
         "Dynamic",
         "ethernet",
         "http",
@@ -19,7 +17,16 @@
         "server",
         "static",
         "Web",
-        "WiFly"
+        "WiFly",
+        "comparator",
+        "KL25z",
+        "2",
+        "gpu",
+        "mbed",
+        "smart",
+        "SmartGPU2",
+        "technologies",
+        "vizic"
     ],
     "name": "SW_HTTPServer",
     "platforms": "*",

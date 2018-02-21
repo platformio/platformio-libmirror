@@ -6,12 +6,12 @@
     "description": "Uses Timer 0 of the 11U24 to capture input pulsesl",
     "frameworks": "mbed",
     "keywords": [
-        "ethernet",
-        "ip",
-        "mbed",
-        "FRDM-KL25Z",
-        "rtos",
-        "thread"
+        "9DOF",
+        "AHRS",
+        "IMU",
+        "LSM9DS0",
+        "Madgwick",
+        "sparkfun"
     ],
     "name": "CaptureT0_11U24",
     "platforms": "*",

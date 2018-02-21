@@ -6,6 +6,10 @@
     "description": "Library for the KeplerBRAIN Robotik Education System",
     "frameworks": "mbed",
     "keywords": [
+        "KL25z",
+        "MAG3110",
+        "Wi-Go",
+        "mbed",
         "TFT",
         "Touchscreen",
         "BlinkLabel",
@@ -17,7 +21,9 @@
         "NumericLabel",
         "ResetButton",
         "SeekBar",
-        "SeekbarGroup"
+        "SeekbarGroup",
+        "multiplexer",
+        "Shift Register"
     ],
     "name": "KeplerBRAIN_V4",
     "platforms": "*",

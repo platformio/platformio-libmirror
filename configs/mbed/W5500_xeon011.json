@@ -10,12 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "AD7190",
+        "adc",
+        "driver",
         "ethernet",
         "socket",
-        "W5500",
-        "arduino",
-        "Gameduino",
-        "mbeduino"
+        "W5500"
     ],
     "name": "W5500",
     "platforms": "*",

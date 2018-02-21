@@ -9,9 +9,20 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "I2C",
+        "MAX30101",
+        "MSS",
+        "MSU",
         "display",
         "menu",
-        "push buttons"
+        "push buttons",
+        "api",
+        "blink",
+        "led",
+        "LCD",
+        "SSD1289",
+        "TFT",
+        "TFT320_QVT"
     ],
     "name": "Menu",
     "platforms": "*",

@@ -17,10 +17,7 @@
         "https://os.mbed.com/users/y_notsu/code/QVGA_TFT_test/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "HD44780",
-        "TextLCD"
-    ],
+    "keywords": "TextLCD",
     "name": "TextLCD",
     "platforms": "*",
     "repository": {

@@ -9,9 +9,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "2017NOSHIRO",
         "map",
-        "range"
+        "range",
+        "aqm0802",
+        "I2C",
+        "LCD",
+        "M24LR",
+        "NDEF",
+        "NFC",
+        "NFC2",
+        "ST",
+        "URI",
+        "X-NUCLEO-NFC02A1"
     ],
     "name": "Map",
     "platforms": "*",

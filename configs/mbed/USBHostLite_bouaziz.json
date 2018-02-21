@@ -9,10 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "ADXL345",
-        "C++",
-        "mbed"
+        "arduino",
+        "millis",
+        "Modbus",
+        "MODSERIAL",
+        "rtu",
+        "AS3935",
+        "Lightning Sensor",
+        "Lightning strike",
+        "Thunder"
     ],
     "name": "USBHostLite",
     "platforms": "*",

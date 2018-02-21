@@ -13,11 +13,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "millis",
+        "development",
+        "SDK",
+        "sources",
         "fatfilesystem",
         "MSD",
         "SD",
-        "USB",
-        "millis"
+        "USB"
     ],
     "name": "millis",
     "platforms": "*",

@@ -6,12 +6,12 @@
     "description": "SEPS114A Driver",
     "frameworks": "mbed",
     "keywords": [
+        "milkcocoa",
         "SEPS114A",
-        "5110",
-        "LCD",
-        "N5110",
-        "Nokia",
-        "pcd8544"
+        "CODEC",
+        "TI",
+        "TLV320AIC1110",
+        "voice band codec"
     ],
     "name": "Adafruit_GFX_SEPS114A",
     "platforms": "*",

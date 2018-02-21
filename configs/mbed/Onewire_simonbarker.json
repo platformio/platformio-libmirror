@@ -6,15 +6,14 @@
     "description": "Library to communicate with Maxim OneWire protocol devices",
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "OneWire",
-        "protocols",
-        "sensors",
         "arduino",
         "SDCard",
         "Seeedstudio",
         "TFT",
         "touch",
+        "OneWire",
+        "protocols",
+        "sensors",
         "MPL3115A2",
         "sparkfun"
     ],

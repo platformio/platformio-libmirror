@@ -6,14 +6,14 @@
     "description": "Interface library for the Devantech SRF02/SRF08 ultrasonic i2c rangers.",
     "frameworks": "mbed",
     "keywords": [
-        "cmsis",
-        "rtos",
-        "RTX",
         "devantech",
         "ranger",
         "SRF02",
         "SRF08",
-        "ultrasonic"
+        "ultrasonic",
+        "BME280",
+        "Shiftbrite",
+        "InterruptIn"
     ],
     "name": "Srf0208IF",
     "platforms": "*",

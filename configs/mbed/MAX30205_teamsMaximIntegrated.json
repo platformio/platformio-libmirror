@@ -6,10 +6,17 @@
     "description": "Human body temp sensor library",
     "frameworks": "mbed",
     "keywords": [
-        "flash",
-        "M25P10",
-        "M25P40",
-        "MP25P20"
+        "driver",
+        "motor",
+        "Stepper",
+        "GPS",
+        "ublox",
+        "Vodafone",
+        "display",
+        "I2C",
+        "OLED",
+        "SPI",
+        "SSD1351"
     ],
     "name": "MAX30205",
     "platforms": "*",

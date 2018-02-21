@@ -11,13 +11,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "433MHz",
-        "etti",
-        "TUIASI",
-        "EM027BS013",
-        "ePaper",
         "audio",
-        "DISCO_F746NG"
+        "DISCO_F746NG",
+        "I2C",
+        "arduino",
+        "H-bridge",
+        "L298",
+        "Robotic",
+        "shield"
     ],
     "name": "AUDIO_DISCO_F746NG",
     "platforms": "*",

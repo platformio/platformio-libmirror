@@ -9,13 +9,7 @@
         "Configuration",
         "file",
         "ini",
-        "interface",
-        "inair4",
-        "inair8",
-        "inair9",
-        "Lora",
-        "modtronix",
-        "SX1276"
+        "interface"
     ],
     "name": "StepperController",
     "platforms": "*",

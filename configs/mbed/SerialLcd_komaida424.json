@@ -6,16 +6,12 @@
     "description": "sparkfun Compatible Serial LCD",
     "frameworks": "mbed",
     "keywords": [
-        "helping",
-        "libraries",
-        "pololu",
-        "robot",
-        "Utilities",
-        "Zumo",
+        "Serial Communication",
+        "test console",
+        "test program",
         "LCD",
         "Serial",
-        "sparkfun",
-        "RTC"
+        "sparkfun"
     ],
     "name": "SerialLcd",
     "platforms": "*",

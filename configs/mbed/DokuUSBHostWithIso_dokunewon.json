@@ -18,13 +18,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ADE7758",
-        "NTP"
+        "hotboards",
+        "switches"
     ],
     "name": "DokuUSBHostWithIso",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/dokunewon/code/DokuUSBHostWithIso/"
+        "url": "https://os.mbed.com/users/dokunewon/code/DokuUSBHostWithIso/"
     }
 }

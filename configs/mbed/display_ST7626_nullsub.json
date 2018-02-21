@@ -13,7 +13,11 @@
         "display-initialisation",
         "driver",
         "setpixel",
-        "st7626"
+        "st7626",
+        "\\",
+        "manager\\",
+        "Scheduler",
+        "task"
     ],
     "name": "display_ST7626",
     "platforms": "*",

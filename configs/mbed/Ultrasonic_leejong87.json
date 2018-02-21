@@ -10,14 +10,14 @@
     "frameworks": "mbed",
     "keywords": [
         "GPIO",
-        "Beep",
-        "merody",
-        "sound",
         "distance",
         "eco",
         "range",
         "sonic",
-        "Ultra"
+        "Ultra",
+        "Beep",
+        "merody",
+        "sound"
     ],
     "name": "Ultrasonic",
     "platforms": "*",

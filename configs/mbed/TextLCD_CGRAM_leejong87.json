@@ -6,13 +6,17 @@
     "description": "CGRAM code in TextLCD",
     "frameworks": "mbed",
     "keywords": [
+        "average",
+        "Moving",
+        "avnet",
+        "Freescale",
+        "KL25z",
+        "Wi-Go",
+        "WiGo",
         "CGRAM",
         "CLCD",
         "custom",
-        "TextLCD",
-        "compass",
-        "HMC5883L",
-        "magnetometer"
+        "TextLCD"
     ],
     "name": "TextLCD_CGRAM",
     "platforms": "*",

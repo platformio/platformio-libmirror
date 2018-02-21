@@ -6,9 +6,13 @@
     "description": "Object for MX28 with rs485",
     "frameworks": "mbed",
     "keywords": [
+        "MX64",
         "dynamixel",
         "MX28",
-        "RS485"
+        "RS485",
+        "Serial",
+        "MQTT",
+        "MQTTClient"
     ],
     "name": "MX28",
     "platforms": "*",

@@ -14,21 +14,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit",
-        "fona",
-        "GPRS",
-        "GSM",
-        "sim800l",
-        "sim808",
-        "Serial",
-        "Akizuki",
-        "Humidity",
-        "I2C",
-        "MEMS",
-        "sensor",
-        "Temperature",
-        "TI",
-        "thermistor"
+        "thermistor",
+        "acctuators"
     ],
     "name": "ThermistorPack",
     "platforms": "*",

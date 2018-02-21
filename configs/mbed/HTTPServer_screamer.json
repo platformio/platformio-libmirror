@@ -10,10 +10,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
+        "fonts",
+        "TFT",
+        "kl46z",
         "LCD",
-        "uLCD144",
-        "ESP8266"
+        "SLCD",
+        "MQTT",
+        "MQTTClient",
+        "dal",
+        "lancaster",
+        "Microbit",
+        "cmsis",
+        "rtos",
+        "RTX"
     ],
     "name": "HTTPServer",
     "platforms": "*",

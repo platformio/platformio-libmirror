@@ -14,13 +14,7 @@
     "keywords": [
         "display",
         "I2C",
-        "led",
-        "MPU9150",
-        "Quaternion",
-        "vector",
-        "RF12",
-        "rfm12",
-        "RFM12B"
+        "led"
     ],
     "name": "I2CLEDDisp",
     "platforms": "*",

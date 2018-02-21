@@ -17,9 +17,7 @@
         "Adafruit 2.8",
         "FRDM-KL25Z",
         "STMPE610",
-        "touchsensor",
-        "debounce",
-        "DebounceIn"
+        "touchsensor"
     ],
     "name": "libpff",
     "platforms": "*",

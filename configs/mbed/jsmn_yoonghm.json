@@ -12,12 +12,14 @@
     "frameworks": "mbed",
     "keywords": [
         "JSON",
-        "Addressable",
-        "led",
-        "NeoPixel",
-        "rgb",
-        "WS2812",
-        "Servo"
+        "http",
+        "web server",
+        "I2C_EEPROM",
+        "Graphics",
+        "LCD",
+        "Felica",
+        "RC-S620/S",
+        "RFID"
     ],
     "name": "jsmn",
     "platforms": "*",

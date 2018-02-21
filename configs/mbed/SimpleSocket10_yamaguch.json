@@ -9,13 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Gas",
-        "MiCS-6814",
-        "Multichannel",
-        "sensor",
         "socket",
         "TCP",
-        "UDP"
+        "UDP",
+        "Configuration",
+        "file",
+        "ini",
+        "mbed",
+        "System",
+        "windows"
     ],
     "name": "SimpleSocket 1.0",
     "platforms": "*",

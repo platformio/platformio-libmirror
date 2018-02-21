@@ -6,8 +6,6 @@
     "description": "Library to tell DS18B20 temperature sensor to measure temperatures",
     "frameworks": "mbed",
     "keywords": [
-        "DS18B20",
-        "temperature sensor",
         "audio",
         "files",
         "I2C",
@@ -15,7 +13,14 @@
         "playing",
         "RS labboard",
         "TLV320",
-        "wav"
+        "wav",
+        "clock",
+        "CPU",
+        "Power",
+        "power consumption",
+        "power control",
+        "DS18B20",
+        "temperature sensor"
     ],
     "name": "DS18B20",
     "platforms": "*",

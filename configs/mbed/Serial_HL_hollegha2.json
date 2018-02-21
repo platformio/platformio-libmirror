@@ -18,14 +18,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ProcVis",
-        "FM24Vxx",
-        "I2C",
-        "RAMTRON",
-        "FAT",
-        "file",
-        "SD",
-        "System"
+        "APDS",
+        "APDS9960",
+        "Gesture",
+        "sensor",
+        "ProcVis"
     ],
     "name": "Serial_HL",
     "platforms": "*",

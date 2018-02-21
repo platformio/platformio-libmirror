@@ -10,9 +10,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Bertl",
-        "AquesTalk pico",
-        "ATP3011"
+        "EDP2",
+        "HTTPClient",
+        "xively",
+        "ADNS6010",
+        "MouseChip"
     ],
     "name": "MS5837",
     "platforms": "*",

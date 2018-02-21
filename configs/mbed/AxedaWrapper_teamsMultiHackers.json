@@ -9,7 +9,11 @@
         "https://os.mbed.com/teams/Multi-Hackers/code/MTS_Axeda_Example/"
     ],
     "frameworks": "mbed",
-    "keywords": "Axeda",
+    "keywords": [
+        "Axeda",
+        "adc",
+        "Microchip"
+    ],
     "name": "AxedaWrapper",
     "platforms": "*",
     "repository": {

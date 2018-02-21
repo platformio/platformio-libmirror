@@ -5,7 +5,20 @@
     },
     "description": "This is the Heart Rate demo program, testing and verifying the functionality of the HR sensor.",
     "frameworks": "mbed",
-    "keywords": "FRDM_HR_",
+    "keywords": [
+        "4DSystems",
+        "audio",
+        "buffer",
+        "FIFO",
+        "library",
+        "module",
+        "program",
+        "ring buffer",
+        "SOMO-14D",
+        "stm32",
+        "dac",
+        "MCP4728"
+    ],
     "name": "FRDM_HR_",
     "platforms": "*",
     "repository": {

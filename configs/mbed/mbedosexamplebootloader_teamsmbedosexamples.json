@@ -9,16 +9,8 @@
         "cmsis",
         "rtos",
         "RTX",
-        "led",
-        "LPD8803",
-        "LPD8806",
-        "LPD8809",
-        "SPI",
-        "OAuth",
-        "twitter",
-        "arbitrary precision",
-        "bigint",
-        "bignum"
+        "W5200",
+        "WIZ820IO"
     ],
     "name": "mbed-os-example-bootloader",
     "platforms": "*",

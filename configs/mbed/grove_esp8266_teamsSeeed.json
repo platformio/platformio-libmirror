@@ -6,9 +6,10 @@
     "description": "grove_esp8266",
     "frameworks": "mbed",
     "keywords": [
-        "DeepSleep",
-        "InterruptIn",
-        "LPC1114"
+        "BNO055",
+        "sensor",
+        "HD44780",
+        "TextLCD"
     ],
     "name": "grove_esp8266",
     "platforms": "*",

@@ -6,9 +6,8 @@
     "description": "Device driver for the Novatel OEM615 GPS receiver",
     "frameworks": "mbed",
     "keywords": [
-        "Cam Marshall",
-        "F446RE",
-        "Modbus",
+        "device",
+        "USB",
         "GPS",
         "Novatel",
         "OEM615"

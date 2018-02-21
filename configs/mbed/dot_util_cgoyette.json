@@ -6,9 +6,8 @@
     "description": "Minor maintenance updates",
     "frameworks": "mbed",
     "keywords": [
-        "OLED",
-        "ssd1327",
-        "DHT22"
+        "tcp/ip",
+        "WebSocket"
     ],
     "name": "dot_util",
     "platforms": "*",

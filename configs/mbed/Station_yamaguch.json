@@ -9,8 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "VL53L0X",
-        "station"
+        "station",
+        "3310",
+        "3390",
+        "LCD",
+        "Nokia",
+        "pcd8544",
+        "TextLCD"
     ],
     "name": "Station",
     "platforms": "*",

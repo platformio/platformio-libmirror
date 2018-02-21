@@ -13,7 +13,13 @@
         "Lascar",
         "LCD",
         "SP5-GFX1",
-        "SPI"
+        "SPI",
+        "card",
+        "fatfilesystem",
+        "MMC",
+        "SD",
+        "SDHC",
+        "SDXC"
     ],
     "name": "VS1002_controler",
     "platforms": "*",

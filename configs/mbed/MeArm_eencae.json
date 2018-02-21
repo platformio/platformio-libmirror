@@ -12,11 +12,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "evrythng",
+        "rn41",
         "inverse kinematics",
         "mearm",
         "robotic arm",
-        "servo motor"
+        "servo motor",
+        "ds1307",
+        "DS3231m"
     ],
     "name": "MeArm",
     "platforms": "*",

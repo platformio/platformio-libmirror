@@ -6,15 +6,10 @@
     "description": "reading diff-pressure form OMRON D6F-PH0505",
     "frameworks": "mbed",
     "keywords": [
-        "LCDC",
-        "S1D13781",
-        "shield",
-        "TFT",
+        "mbed",
         "D6F-PH",
         "pressure",
-        "Australia",
-        "Lora",
-        "LoRaWAN"
+        "elec2645"
     ],
     "name": "D6F-PH",
     "platforms": "*",

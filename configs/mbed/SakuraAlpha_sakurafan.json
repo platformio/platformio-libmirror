@@ -10,12 +10,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "AT93C46",
+        "EEPROM",
         "arduino",
         "iot platform",
-        "sakura internet",
-        "etti",
-        "TUIASI",
-        "Serial"
+        "sakura internet"
     ],
     "name": "SakuraAlpha",
     "platforms": "*",

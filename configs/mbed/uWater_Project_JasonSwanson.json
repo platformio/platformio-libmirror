@@ -5,12 +5,7 @@
     },
     "description": "Internet of Things project for the uWater team.",
     "frameworks": "mbed",
-    "keywords": [
-        "stm32",
-        "STM32F746",
-        "STM32F746NG-DISCO",
-        "USBHOST"
-    ],
+    "keywords": "PID",
     "name": "uWater_Project",
     "platforms": "*",
     "repository": {

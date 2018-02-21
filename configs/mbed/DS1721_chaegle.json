@@ -9,7 +9,11 @@
         "DS1721",
         "I2C",
         "sensor",
-        "Temperature"
+        "Temperature",
+        "8563",
+        "LPC1768",
+        "PCF",
+        "PCF8563"
     ],
     "name": "DS1721",
     "platforms": "*",

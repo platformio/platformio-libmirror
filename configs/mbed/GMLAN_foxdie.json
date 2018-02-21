@@ -6,7 +6,6 @@
     "description": "Libraries to support working with GMLAN - General Motors CAN BUS network in most of their vehicles between 2007-present day.",
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
         "29bit",
         "bus",
         "CAN",
@@ -24,8 +23,7 @@
         "sensor",
         "Temp",
         "Temperature",
-        "voltage",
-        "crc8"
+        "voltage"
     ],
     "name": "GMLAN",
     "platforms": "*",

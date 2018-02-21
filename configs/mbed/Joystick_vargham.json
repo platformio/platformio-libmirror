@@ -7,7 +7,12 @@
     "frameworks": "mbed",
     "keywords": [
         "Analog",
-        "joystick"
+        "joystick",
+        "Carrier",
+        "driver",
+        "motor",
+        "Pololu1451",
+        "VNH5019"
     ],
     "name": "Joystick",
     "platforms": "*",

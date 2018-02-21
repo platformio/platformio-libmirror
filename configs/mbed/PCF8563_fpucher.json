@@ -6,15 +6,12 @@
     "description": "Version 0.3",
     "frameworks": "mbed",
     "keywords": [
-        "controller",
-        "game",
-        "interrupt",
-        "joystick",
-        "920MHz",
-        "IM920",
-        "Interplan",
-        "IOT",
-        "NFC"
+        "\\",
+        "Controller\\",
+        "I2C",
+        "MD25",
+        "motor",
+        "robot"
     ],
     "name": "PCF8563",
     "platforms": "*",

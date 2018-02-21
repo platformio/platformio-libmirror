@@ -5,7 +5,12 @@
     },
     "description": "faster data display from previous driver",
     "frameworks": "mbed",
-    "keywords": "i2clcd",
+    "keywords": [
+        "numchuck",
+        "nunchuck",
+        "Nunchuk",
+        "Wii"
+    ],
     "name": "i2clcd",
     "platforms": "*",
     "repository": {

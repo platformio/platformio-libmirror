@@ -8,7 +8,17 @@
         "https://os.mbed.com/users/TBSliver/code/LEDSign_SimpleSD/"
     ],
     "frameworks": "mbed",
-    "keywords": "FatFileSystem",
+    "keywords": [
+        "BME280",
+        "AK8963",
+        "AKM",
+        "magnetic sensor",
+        "magnetometer",
+        "api",
+        "Digi",
+        "xbee",
+        "zigbee"
+    ],
     "name": "FatFileSystem",
     "platforms": "*",
     "repository": {

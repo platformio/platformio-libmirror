@@ -15,13 +15,13 @@
         "ILI9341",
         "TFT",
         "MPU-9250",
-        "led",
-        "led strip",
         "FRDM",
         "KL46",
         "kl46z",
         "LCD",
-        "SLCD"
+        "SLCD",
+        "led",
+        "led strip"
     ],
     "name": "Adafruit_ILI9341",
     "platforms": "*",

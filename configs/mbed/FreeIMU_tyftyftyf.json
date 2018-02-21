@@ -19,11 +19,14 @@
         "https://os.mbed.com/users/MatteoT/code/MTQuadControl/"
     ],
     "frameworks": "mbed",
-    "keywords": "FreeIMU",
+    "keywords": [
+        "i2c expander",
+        "MCP23017"
+    ],
     "name": "FreeIMU",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/tyftyftyf/code/FreeIMU/"
+        "url": "https://os.mbed.com/users/tyftyftyf/code/FreeIMU/"
     }
 }

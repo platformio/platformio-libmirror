@@ -6,18 +6,13 @@
     "description": "write values to LED-array",
     "frameworks": "mbed",
     "keywords": [
-        "distance",
-        "Fischer",
-        "sensor",
-        "Technik",
-        "ultrasonic",
+        "AD7791",
+        "adc",
         "driver",
         "h- bridge",
         "motor",
         "motor driver",
-        "motors",
-        "touch keypad",
-        "TTP229"
+        "motors"
     ],
     "name": "ledarray",
     "platforms": "*",

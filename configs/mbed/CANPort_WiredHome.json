@@ -6,15 +6,17 @@
     "description": "CANPort provides a higher level interface to a CAN communication channel, and provides timestamping, servicing additional hardware interfaces (optional activity LED, CAN transceiver slope control)",
     "frameworks": "mbed",
     "keywords": [
-        "BLE",
-        "bluetooth",
-        "simpleble",
+        "https",
+        "HTTPSClient",
+        "security",
+        "SSL",
+        "TLS",
         "Adafruit_GFX",
+        "NTP",
         "CAN",
         "control",
         "port",
-        "slope",
-        "NTP"
+        "slope"
     ],
     "name": "CANPort",
     "platforms": "*",

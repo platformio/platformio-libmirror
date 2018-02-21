@@ -8,7 +8,13 @@
         "https://os.mbed.com/users/ndiaz6/code/main/"
     ],
     "frameworks": "mbed",
-    "keywords": "xbee",
+    "keywords": [
+        "RTC",
+        "HSI",
+        "pwm",
+        "rgb",
+        "RGBW"
+    ],
     "name": "dig_out",
     "platforms": "*",
     "repository": {

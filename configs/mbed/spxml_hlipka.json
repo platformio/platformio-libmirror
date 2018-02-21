@@ -18,13 +18,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "pressure",
-        "sensor",
         "xml",
-        "count",
-        "external clock",
-        "MHz",
-        "pulse"
+        "filter",
+        "kalman",
+        "heading",
+        "HMC5843",
+        "magnetic",
+        "sensor"
     ],
     "name": "spxml",
     "platforms": "*",

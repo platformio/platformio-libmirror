@@ -6,15 +6,14 @@
     "description": "Handles reading and scaling the analog inputs from a simple 2-axis joystick with a pushbutton. Can also attach rise and fall interrupts to the button.",
     "frameworks": "mbed",
     "keywords": [
+        "camera",
+        "MARMEX-VB",
+        "MARY",
         "controller",
         "game",
         "interrupt",
         "joystick",
-        "920MHz",
-        "IM920",
-        "Interplan",
-        "IOT",
-        "NFC"
+        "MCP4726"
     ],
     "name": "Joystick",
     "platforms": "*",

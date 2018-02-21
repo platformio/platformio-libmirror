@@ -6,6 +6,9 @@
     "description": "Tested and working library for the DS1621 temperature sensor with I2C",
     "frameworks": "mbed",
     "keywords": [
+        "CAN",
+        "can bus",
+        "FIFO",
         "HT1621",
         "LCD",
         "ds1621",

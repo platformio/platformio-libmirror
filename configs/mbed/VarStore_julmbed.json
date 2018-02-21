@@ -5,11 +5,7 @@
     },
     "description": "library to modify and read program variable in runtime from a serial console. You can reset as well the mbed from the console without pushing buttons.",
     "frameworks": "mbed",
-    "keywords": [
-        "newbi;debug;serial;",
-        "tcp/ip",
-        "WebSocket"
-    ],
+    "keywords": "newbi;debug;serial;",
     "name": "VarStore",
     "platforms": "*",
     "repository": {

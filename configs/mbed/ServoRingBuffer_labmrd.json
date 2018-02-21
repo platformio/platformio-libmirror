@@ -8,7 +8,10 @@
         "https://os.mbed.com/users/labmrd/code/SpindleBot_1_5b/"
     ],
     "frameworks": "mbed",
-    "keywords": "ServoRingBuffer",
+    "keywords": [
+        "KL25z",
+        "Robotic"
+    ],
     "name": "ServoRingBuffer",
     "platforms": "*",
     "repository": {

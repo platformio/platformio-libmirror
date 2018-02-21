@@ -18,17 +18,11 @@
         "https://os.mbed.com/teams/ELEC2645-201516/code/el14m2l_Dungeon_Crawler_Game/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "AITENDO",
-        "ILI9341",
-        "SPI",
-        "TFT",
-        "WoL"
-    ],
+    "keywords": "K64F",
     "name": "drawings",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/Martyrtle/code/drawings/"
+        "url": "https://os.mbed.com/users/Martyrtle/code/drawings/"
     }
 }

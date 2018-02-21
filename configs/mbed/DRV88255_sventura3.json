@@ -11,14 +11,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "maniacbug",
-        "nRF24L01",
-        "nRF24L01P",
-        "RF24",
-        "RF24Network",
         "driver",
         "motor",
-        "Stepper"
+        "Stepper",
+        "FOTA",
+        "LPC1768",
+        "SW Update",
+        "command",
+        "prompt",
+        "shell",
+        "tinyshell"
     ],
     "name": "DRV88255",
     "platforms": "*",

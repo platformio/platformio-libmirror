@@ -13,7 +13,8 @@
         "USBMSD",
         "F401RE",
         "mma7361",
-        "Nucleo"
+        "Nucleo",
+        "WS2812"
     ],
     "name": "MMA7361",
     "platforms": "*",

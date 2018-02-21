@@ -6,14 +6,10 @@
     "description": "Decode Wav files",
     "frameworks": "mbed",
     "keywords": [
-        "arduino",
-        "FRDM",
-        "Freescale",
-        "KL25z",
-        "L293D",
-        "motor",
-        "Servo",
-        "shield"
+        "BSP_DISCO_F746NG",
+        "OV7670",
+        "Kalmanfilter",
+        "L3GD20 ADXL345"
     ],
     "name": "WAV_Reader",
     "platforms": "*",

@@ -10,16 +10,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "f401",
-        "F446",
-        "Nucleo",
-        "RGB LED",
-        "SPI",
-        "UIT",
-        "WS2812B",
         "camera",
         "MARMEX-VB",
-        "MARY"
+        "MARY",
+        "controller",
+        "game",
+        "interrupt",
+        "joystick",
+        "MCP4726"
     ],
     "name": "MARMEX_VB",
     "platforms": "*",

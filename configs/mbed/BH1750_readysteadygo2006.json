@@ -8,7 +8,11 @@
         "https://os.mbed.com/users/readysteadygo2006/code/gather_sensor_data/"
     ],
     "frameworks": "mbed",
-    "keywords": "BH1750",
+    "keywords": [
+        "LCD",
+        "menu",
+        "TextLCD"
+    ],
     "name": "BH1750",
     "platforms": "*",
     "repository": {

@@ -27,9 +27,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ethernet",
-        "socket",
-        "W5500",
         "arduino",
         "Gameduino",
         "mbeduino"
@@ -38,6 +35,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/TheChrisyd/code/Gameduino/"
+        "url": "https://os.mbed.com/users/TheChrisyd/code/Gameduino/"
     }
 }

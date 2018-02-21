@@ -5,7 +5,15 @@
     },
     "description": "grove_fingerprint",
     "frameworks": "mbed",
-    "keywords": "grove_fingerprint",
+    "keywords": [
+        "Cam Marshall",
+        "F446RE",
+        "Modbus",
+        "led",
+        "LED control",
+        "Nucleo",
+        "ST"
+    ],
     "name": "grove_fingerprint",
     "platforms": "*",
     "repository": {

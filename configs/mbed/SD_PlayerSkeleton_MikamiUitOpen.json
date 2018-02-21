@@ -21,18 +21,27 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "96x96",
+        "OLED",
+        "Seeed",
+        "SeeedGrayOLED",
+        "ssd1327",
         "audio",
         "CODEC",
         "Cortex-M7",
         "DISCO-F746NG",
         "Mikami",
         "SD Card",
-        "skeleton"
+        "skeleton",
+        "driver",
+        "Haptics",
+        "motor",
+        "vibration"
     ],
     "name": "SD_PlayerSkeleton",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/MikamiUitOpen/code/SD_PlayerSkeleton/"
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/SD_PlayerSkeleton/"
     }
 }

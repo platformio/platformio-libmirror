@@ -5,12 +5,7 @@
     },
     "description": "ARM mbed Nanostack RF driver for NXP KW41Z 802.15.4 wireless MCU",
     "frameworks": "mbed",
-    "keywords": [
-        "MAX14661",
-        "mux",
-        "4D Systems",
-        "LDC-43PCt"
-    ],
+    "keywords": "MAX30101",
     "name": "kw41z-rf-driver",
     "platforms": "*",
     "repository": {

@@ -6,8 +6,18 @@
     "description": "Flasher class is useful to flash a pin for a given #n of times",
     "frameworks": "mbed",
     "keywords": [
+        "AT",
+        "AT command",
+        "ATCommand",
+        "Serial",
+        "SIM800",
+        "SIM900",
+        "SIMCOM",
+        "UART",
         "Flasher",
-        "flashing leds"
+        "flashing leds",
+        "MPU9250",
+        "nRF52832 custom boards"
     ],
     "name": "Flasher",
     "platforms": "*",

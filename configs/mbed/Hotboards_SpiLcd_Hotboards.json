@@ -25,11 +25,10 @@
         "spiflash",
         "W25X40BV",
         "winbond",
+        "USB",
+        "UVC",
         "display",
-        "hotboards",
-        "Dieter Graef",
-        "DISCO-F746",
-        "SDFileSystem"
+        "hotboards"
     ],
     "name": "Hotboards_SpiLcd",
     "platforms": "*",

@@ -8,7 +8,11 @@
         "https://os.mbed.com/users/MACRUM/code/hello_message_pack/"
     ],
     "frameworks": "mbed",
-    "keywords": "msgpack",
+    "keywords": [
+        "msgpack",
+        "FreeRTOS",
+        "rtos"
+    ],
     "name": "msgpack-embedded",
     "platforms": "*",
     "repository": {

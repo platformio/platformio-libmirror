@@ -5,11 +5,7 @@
     },
     "description": "Successfully opens any file name given to it and pretends that all files have a certain number of bytes (set by application at time of mounting the file system.) Can be used to simulate large files sourced from an ultra fast file system to find and correct bugs in other areas of an application.",
     "frameworks": "mbed",
-    "keywords": [
-        "LCD",
-        "Sitronix",
-        "ST7565"
-    ],
+    "keywords": "FakeFileSystem",
     "name": "FakeFileSystem",
     "platforms": "*",
     "repository": {

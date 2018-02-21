@@ -6,6 +6,14 @@
     "description": "This library is a very low level interface to a transmit IR codes. Other libraries could be built on top of it to transmit different manufactures codes, or a specific code. I use the library to remotely trigger a Nikon DSLR camera the same way an ML3 Nikon remote does.",
     "frameworks": "mbed",
     "keywords": [
+        "AS5048",
+        "Encoder",
+        "magnetic sensors",
+        "sensor",
+        "Card reader",
+        "LPC1768",
+        "SPI TFT",
+        "SPI Touch",
         "infrared",
         "IR",
         "transmit",
@@ -15,7 +23,11 @@
         "Gesture",
         "I2C",
         "proximity",
-        "sparkfun"
+        "sparkfun",
+        "driver",
+        "OLED",
+        "SSD1306",
+        "stm32"
     ],
     "name": "TxIR",
     "platforms": "*",

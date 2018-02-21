@@ -12,7 +12,10 @@
         "16x4",
         "LCD",
         "Pulsewidth",
-        "wait"
+        "wait",
+        "Parallax X-Band",
+        "Radar",
+        "X-Band"
     ],
     "name": "TextLCD_16x4_Wait",
     "platforms": "*",

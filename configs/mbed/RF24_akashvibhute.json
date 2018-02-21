@@ -11,19 +11,11 @@
         "https://os.mbed.com/users/tabris2015/code/maple_chotobot_rf_motores/",
         "https://os.mbed.com/teams/BME-SmartLab/code/SmartCone/",
         "https://os.mbed.com/users/fabiofaria/code/nordic_maniac01/",
-        "https://os.mbed.com/teams/BME-SmartLab/code/_Smart_vacuum_0v2/"
+        "https://os.mbed.com/teams/BME-SmartLab/code/_Smart_vacuum_0v2/",
+        "https://os.mbed.com/users/ISR/code/ISR_Mini-explorer/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "compass",
-        "LSM303DLHC",
-        "magnetometer",
-        "sensors",
-        "maniacbug",
-        "nRF24L01",
-        "nRF24L01P",
-        "RF24"
-    ],
+    "keywords": "RF24",
     "name": "RF24",
     "platforms": "*",
     "repository": {

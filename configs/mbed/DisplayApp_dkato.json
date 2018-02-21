@@ -12,7 +12,14 @@
         "https://os.mbed.com/users/1050186/code/GR-LYCHEE_mbed-os-client-ZXingSample/"
     ],
     "frameworks": "mbed",
-    "keywords": "DisplayApp",
+    "keywords": [
+        "piezo",
+        "pwm",
+        "ePaper",
+        "EPD",
+        "GDEP015",
+        "GDEP015OC1"
+    ],
     "name": "DisplayApp",
     "platforms": "*",
     "repository": {

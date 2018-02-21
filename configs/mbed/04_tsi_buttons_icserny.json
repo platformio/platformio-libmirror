@@ -5,7 +5,12 @@
     },
     "description": "// Simple button/swipe library for FRDM-KL25Z",
     "frameworks": "mbed",
-    "keywords": "04_tsi_buttons",
+    "keywords": [
+        "battery charger",
+        "BQ24295",
+        "C030",
+        "u-blox"
+    ],
     "name": "04_tsi_buttons",
     "platforms": "*",
     "repository": {

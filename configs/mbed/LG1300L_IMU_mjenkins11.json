@@ -10,12 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "buffer",
-        "MCP4018",
         "I2C",
         "IMU",
         "LEGO",
-        "mindstorms"
+        "mindstorms",
+        "AITENDO",
+        "OLED"
     ],
     "name": "LG1300L_IMU",
     "platforms": "*",

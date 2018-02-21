@@ -10,17 +10,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "EFM32",
-        "SiLabs",
-        "Silicon Labs",
-        "silicon_labs",
-        "Slider",
-        "touch",
         "PCF2127",
         "PCF2129",
         "real time clock",
-        "RTC",
-        "Temperature"
+        "RTC"
     ],
     "name": "PCF2127",
     "platforms": "*",

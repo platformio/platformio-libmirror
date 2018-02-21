@@ -9,7 +9,12 @@
         "https://os.mbed.com/users/saranieves92/code/tiny-dtls/"
     ],
     "frameworks": "mbed",
-    "keywords": "lwip-mbed-2010",
+    "keywords": [
+        "8x8",
+        "led",
+        "led matrix",
+        "PCA9622"
+    ],
     "name": "lwip-mbed-2010",
     "platforms": "*",
     "repository": {

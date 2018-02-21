@@ -12,15 +12,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "FRDM-KL25Z",
-        "LCD",
-        "Nokia",
         "adc",
         "dac",
         "interrupt",
         "Nucleo F446",
         "polling",
-        "STM32F446"
+        "STM32F446",
+        "MQTT"
     ],
     "name": "F446_AD_DA",
     "platforms": "*",

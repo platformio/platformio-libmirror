@@ -6,12 +6,13 @@
     "description": "Library to use MAX7219 by SPI",
     "frameworks": "mbed",
     "keywords": [
-        "ethernet",
-        "socket",
-        "W5500",
-        "arduino",
-        "Gameduino",
-        "mbeduino"
+        "DC motor",
+        "Hall Sensor",
+        "RenBED",
+        "Renishaw",
+        "CFAH1602B",
+        "CFAH1602B-YYH-JT",
+        "ST7066U"
     ],
     "name": "MAX7219_SPI",
     "platforms": "*",

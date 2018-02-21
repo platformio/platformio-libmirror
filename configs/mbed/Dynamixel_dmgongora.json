@@ -9,9 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "gas sensor",
-        "mq2",
-        "dynamixel"
+        "dynamixel",
+        "motor",
+        "Stepper",
+        "stepping",
+        "Uni-polar"
     ],
     "name": "Dynamixel",
     "platforms": "*",

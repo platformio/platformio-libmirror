@@ -15,13 +15,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "fonts",
-        "TFT",
-        "Callback",
-        "Function Pointer",
-        "handler",
         "DISCO_F746NG",
-        "sdram"
+        "sdram",
+        "LCD",
+        "Serial",
+        "sparkfun"
     ],
     "name": "SDRAM_DISCO_F746NG",
     "platforms": "*",

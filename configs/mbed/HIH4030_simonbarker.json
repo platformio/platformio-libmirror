@@ -6,9 +6,16 @@
     "description": "Library for taking datasheet corrected relative humidity measurements with HIH-4030 humidity sensor",
     "frameworks": "mbed",
     "keywords": [
+        "mbed rtos",
+        "rtos",
+        "Serial",
+        "UART0",
         "HIH-4030",
         "Humidity",
-        "sensor"
+        "sensor",
+        "controller",
+        "I2C",
+        "Wii"
     ],
     "name": "HIH-4030",
     "platforms": "*",

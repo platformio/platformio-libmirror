@@ -6,9 +6,12 @@
     "description": "SCP1000 library with Software SPI interface",
     "frameworks": "mbed",
     "keywords": [
+        "bmp085",
+        "I2C",
         "Encoder",
         "scp1000",
-        "SoftSPI"
+        "SoftSPI",
+        "Lidar"
     ],
     "name": "SCP1000withSoftSPI",
     "platforms": "*",

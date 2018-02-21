@@ -12,7 +12,11 @@
         "clock",
         "ds1307",
         "RTC",
-        "time"
+        "time",
+        "4DGL",
+        "LCD",
+        "ST7565",
+        "TextLCD"
     ],
     "name": "RTclock",
     "platforms": "*",

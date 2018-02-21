@@ -6,13 +6,13 @@
     "description": "Library to control the 12 Bits Analog Digital Converter",
     "frameworks": "mbed",
     "keywords": [
-        "EEPROM",
         "MCP4921",
         "SPI",
-        "GPIO Exoender",
-        "MCP23017",
-        "GPS",
-        "NMEA0183"
+        "AD-12864-SPI",
+        "AQM1248A",
+        "C12832",
+        "LCD",
+        "ST7565"
     ],
     "name": "Mcp4921Lib",
     "platforms": "*",

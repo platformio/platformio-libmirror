@@ -6,8 +6,15 @@
     "description": "This is a PID Controller with controlling of quadcopter.",
     "frameworks": "mbed",
     "keywords": [
+        "current sensor",
+        "INA219",
         "controller",
-        "PID"
+        "PID",
+        "Error",
+        "info",
+        "messages",
+        "Terminal",
+        "warning"
     ],
     "name": "PID",
     "platforms": "*",

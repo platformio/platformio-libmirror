@@ -19,10 +19,8 @@
         "ring buffer",
         "SOMO-14D",
         "stm32",
-        "ePaper",
-        "EPD",
-        "GDEP015",
-        "GDEP015OC1"
+        "dac",
+        "MCP4728"
     ],
     "name": "MessageQueue",
     "platforms": "*",

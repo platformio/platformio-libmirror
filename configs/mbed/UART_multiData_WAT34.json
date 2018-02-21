@@ -6,8 +6,13 @@
     "description": "シリアル通信ようのライブラリです。charとfloatのデータを送受信できます。",
     "frameworks": "mbed",
     "keywords": [
-        "RTC",
-        "Serial"
+        "Serial",
+        "Elmicro",
+        "FM25W256",
+        "FRAM",
+        "RAMTRON",
+        "SPI",
+        "SSP1"
     ],
     "name": "UART_multiData",
     "platforms": "*",

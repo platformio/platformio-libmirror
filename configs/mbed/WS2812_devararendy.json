@@ -9,12 +9,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "BLE",
+        "BLE Bluetooth Low Energy BLE",
+        "Eddystone",
+        "Scheduler",
         "led",
         "rgb",
         "WS2812",
         "WS2812B",
-        "TCP",
-        "UDP"
+        "2.4",
+        "LCD",
+        "MCUFRIEND",
+        "TFT"
     ],
     "name": "WS2812",
     "platforms": "*",

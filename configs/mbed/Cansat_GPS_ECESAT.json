@@ -5,10 +5,7 @@
     },
     "description": "Testing the GPS module for my Cansat",
     "frameworks": "mbed",
-    "keywords": [
-        "pwm",
-        "SoftPWM"
-    ],
+    "keywords": "kalman",
     "name": "Cansat_GPS",
     "platforms": "*",
     "repository": {

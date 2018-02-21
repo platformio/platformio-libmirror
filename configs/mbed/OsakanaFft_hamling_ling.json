@@ -9,10 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "decoder",
-        "decompression",
-        "JPEG",
-        "JPG"
+        "AM2321",
+        "DeepSleep",
+        "InterruptIn",
+        "LPC1114",
+        "MPU6050",
+        "MPU9250"
     ],
     "name": "OsakanaFft",
     "platforms": "*",

@@ -19,8 +19,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "OLED",
-        "ssd1305",
         "led",
         "LED controller",
         "PCA9632",
@@ -30,6 +28,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/nxp_ip/code/PCA9632/"
+        "url": "https://os.mbed.com/users/nxp_ip/code/PCA9632/"
     }
 }

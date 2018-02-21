@@ -6,12 +6,8 @@
     "description": "Calculate the temperature of NTC thermistor",
     "frameworks": "mbed",
     "keywords": [
-        "api",
-        "blink",
-        "led",
-        "Flash memory",
-        "HEXIWEAR",
-        "nor"
+        "Lora",
+        "senet"
     ],
     "name": "NTC",
     "platforms": "*",

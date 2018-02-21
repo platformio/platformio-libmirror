@@ -5,7 +5,12 @@
     },
     "description": "test",
     "frameworks": "mbed",
-    "keywords": "chan_fatfs",
+    "keywords": [
+        "DISCO_F746NG",
+        "QSPI",
+        "TMP102",
+        "I2C"
+    ],
     "name": "chan_fatfs",
     "platforms": "*",
     "repository": {

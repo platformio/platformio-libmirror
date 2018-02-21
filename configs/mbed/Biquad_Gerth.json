@@ -14,8 +14,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "RTC",
-        "Serial"
+        "Serial",
+        "Elmicro",
+        "FM25W256",
+        "FRAM",
+        "RAMTRON",
+        "SPI",
+        "SSP1"
     ],
     "name": "Biquad",
     "platforms": "*",

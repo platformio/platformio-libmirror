@@ -18,8 +18,12 @@
         "PAPACO",
         "Robotics",
         "Servo",
-        "MicroNFCBoard",
-        "NFC"
+        "constant",
+        "current",
+        "driver",
+        "led",
+        "PCA9952",
+        "PCA9955"
     ],
     "name": "AX_12W",
     "platforms": "*",

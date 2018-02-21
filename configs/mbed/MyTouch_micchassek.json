@@ -9,17 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ethernet",
-        "NTP",
-        "SNTP",
-        "W5500",
-        "Wiznet",
+        "1D",
+        "2D",
+        "array",
+        "matrix",
         "ADS7843",
         "TouchPanel",
         "XPT2046",
-        "C12832",
-        "C12832A1Z",
-        "MBED Application Board"
+        "kl46z",
+        "MAG3110"
     ],
     "name": "MyTouch",
     "platforms": "*",

@@ -14,14 +14,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "SerialHalfDuplex",
-        "motor",
-        "Stepper",
-        "unipolar",
-        "BLE",
-        "MIDI",
-        "ITG3200",
-        "sparkfun"
+        "accelerometer",
+        "Grove",
+        "I2C",
+        "MMA7660FC"
     ],
     "name": "BNO055",
     "platforms": "*",

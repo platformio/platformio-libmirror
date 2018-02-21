@@ -24,11 +24,16 @@
         "https://os.mbed.com/users/jaafaryn/code/DISCO-IOT01_HomeEnv/"
     ],
     "frameworks": "mbed",
-    "keywords": "LSM6DSL",
+    "keywords": [
+        "accelerometer",
+        "ADXL345",
+        "C++",
+        "mbed"
+    ],
     "name": "LSM6DSL",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/ST/code/LSM6DSL/"
+        "url": "https://os.mbed.com/teams/ST/code/LSM6DSL/"
     }
 }

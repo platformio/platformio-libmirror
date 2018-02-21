@@ -13,14 +13,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Nucleo",
-        "stm32",
-        "Wi-Fi",
-        "X-NUCLEO-IDW01M1",
-        "buffer",
-        "ring",
-        "debounce",
-        "interrupt"
+        "38kHz",
+        "IR",
+        "remote",
+        "quadcopter",
+        "Servo"
     ],
     "name": "Adafruit-PWM-Servo-Driver",
     "platforms": "*",

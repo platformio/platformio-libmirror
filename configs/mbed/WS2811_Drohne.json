@@ -6,12 +6,11 @@
     "description": "for thww WS2811 RGB",
     "frameworks": "mbed",
     "keywords": [
-        "OLED",
-        "Serial",
+        "MPL115A2",
         "C027",
-        "9Dof-Stick",
-        "ADXL345",
-        "sparkfun"
+        "HMAC",
+        "hmac-md5",
+        "md5"
     ],
     "name": "WS2811",
     "platforms": "*",

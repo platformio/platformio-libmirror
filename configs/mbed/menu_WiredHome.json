@@ -10,12 +10,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "NTP",
-        "SNTP",
-        "SNTPClinet",
         "menu",
         "Touchscreen",
-        "GEL2474"
+        "GEL2474",
+        "TCP",
+        "UDP"
     ],
     "name": "menu",
     "platforms": "*",

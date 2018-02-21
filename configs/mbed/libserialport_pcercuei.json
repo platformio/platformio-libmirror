@@ -9,10 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "stm32",
-        "STM32F746",
-        "STM32F746NG-DISCO",
-        "USBHOST"
+        "TextLCD",
+        "ILI9325"
     ],
     "name": "libserialport",
     "platforms": "*",

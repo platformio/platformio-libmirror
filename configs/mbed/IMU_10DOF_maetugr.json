@@ -6,12 +6,6 @@
     "description": "An fully working IMU-Filter and Sensor drivers for the 10DOF-Board over I2C. All in one simple class. Include, calibrate sensors, call read, get angles. (3D Visualisation code for Python also included)",
     "frameworks": "mbed",
     "keywords": [
-        "arp",
-        "icmp",
-        "interrupts",
-        "stack",
-        "tcpip",
-        "UDP",
         "ADXL345",
         "AHRS",
         "ANGLE",
@@ -23,7 +17,11 @@
         "5110",
         "84x48",
         "display",
-        "Nokia"
+        "Nokia",
+        "call",
+        "Procedure",
+        "remote",
+        "rpc"
     ],
     "name": "IMU_10DOF",
     "platforms": "*",

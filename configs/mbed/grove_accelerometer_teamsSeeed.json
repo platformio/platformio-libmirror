@@ -5,7 +5,11 @@
     },
     "description": "grove_accelerometer",
     "frameworks": "mbed",
-    "keywords": "grove_accelerometer",
+    "keywords": [
+        "NTP",
+        "application-board",
+        "K64F"
+    ],
     "name": "grove_accelerometer",
     "platforms": "*",
     "repository": {

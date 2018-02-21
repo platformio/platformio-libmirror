@@ -6,12 +6,11 @@
     "description": "stm32l053 eeprom",
     "frameworks": "mbed",
     "keywords": [
+        "Servo",
+        "tlc5940",
         "EEPROM",
         "read",
-        "stm32",
-        "Clock Generator",
-        "Si5351A",
-        "SiLabs"
+        "stm32"
     ],
     "name": "eeprom",
     "platforms": "*",

@@ -5,7 +5,16 @@
     },
     "description": "Tufts Hybrid Racing Control Node",
     "frameworks": "mbed",
-    "keywords": "CAN",
+    "keywords": [
+        "CAN",
+        "4DSystems",
+        "audio",
+        "library",
+        "module",
+        "program",
+        "SOMO-14D",
+        "stm32"
+    ],
     "name": "ControlNode",
     "platforms": "*",
     "repository": {

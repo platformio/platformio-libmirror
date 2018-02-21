@@ -6,13 +6,14 @@
     "description": "the code need imporve later",
     "frameworks": "mbed",
     "keywords": [
-        "HD44780",
+        "mbed",
         "authorization",
         "client",
         "custom",
         "headers",
         "http",
-        "HTTPClient"
+        "HTTPClient",
+        "HD44780"
     ],
     "name": "HD44780",
     "platforms": "*",

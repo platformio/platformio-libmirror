@@ -14,11 +14,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "TeraTerm",
+        "Terminal",
+        "USB",
+        "UVC",
         "compass",
         "HMC5883L",
-        "api",
-        "xbee",
-        "zigbee",
         "44100",
         "audio",
         "FAT",
@@ -30,7 +31,10 @@
         "SMARTWAV",
         "sound",
         "stereo",
-        "wav"
+        "wav",
+        "api",
+        "xbee",
+        "zigbee"
     ],
     "name": "SMARTWAV",
     "platforms": "*",

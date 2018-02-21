@@ -10,12 +10,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "arduino",
-        "iot platform",
-        "sakura internet",
-        "etti",
-        "TUIASI",
-        "Serial"
+        "adc",
+        "DMA",
+        "large data transfer",
+        "LLI"
     ],
     "name": "cyassl-lib",
     "platforms": "*",

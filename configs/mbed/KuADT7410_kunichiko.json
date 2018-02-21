@@ -6,6 +6,11 @@
     "description": "A library for ADT7410 I2C connecting temperature sensor module.",
     "frameworks": "mbed",
     "keywords": [
+        "AnalogIn",
+        "Capacitive",
+        "digitalOut",
+        "sensor",
+        "touch",
         "biquad",
         "DSP",
         "filter"

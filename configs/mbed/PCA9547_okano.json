@@ -10,14 +10,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "accelerometer",
+        "ADXL362",
         "I2C multiplexer",
         "PCA9547",
-        "dac",
-        "biduad",
-        "cascade structure",
-        "IIR filter",
-        "Nucleo",
-        "UIT"
+        "dac"
     ],
     "name": "PCA9547",
     "platforms": "*",

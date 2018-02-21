@@ -18,6 +18,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "I2C",
+        "Nunchuk",
         "LocalFileSystem",
         "S25FL216K",
         "USBFileSystem"
@@ -26,6 +28,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/Sissors/code/S25FL216K_USBFileSystem/"
+        "url": "https://os.mbed.com/users/Sissors/code/S25FL216K_USBFileSystem/"
     }
 }

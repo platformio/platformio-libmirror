@@ -9,9 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "rn41",
+        "inverse kinematics",
+        "mearm",
+        "robotic arm",
+        "servo motor",
         "ds1307",
-        "DS3231m",
-        "rn41"
+        "DS3231m"
     ],
     "name": "RTC",
     "platforms": "*",

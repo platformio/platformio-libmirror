@@ -9,9 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DS1620",
-        "thermometer",
-        "thermostat"
+        "GPIO",
+        "TCA9554A",
+        "TI"
     ],
     "name": "libxml2",
     "platforms": "*",

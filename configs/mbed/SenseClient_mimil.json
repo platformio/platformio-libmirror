@@ -18,10 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "adc",
-        "AnalogIn",
-        "burst",
-        "fast",
         "Internet",
         "of",
         "Sen.se",
@@ -31,6 +27,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/mimil/code/SenseClient/"
+        "url": "https://os.mbed.com/users/mimil/code/SenseClient/"
     }
 }

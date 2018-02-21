@@ -6,13 +6,14 @@
     "description": "ECE 4180 Lab 04 - Jung Hun Kim",
     "frameworks": "mbed",
     "keywords": [
-        "Altitude",
-        "atmospheric",
-        "HP03SA",
-        "I2C",
-        "pressure",
-        "IOGS",
-        "IOGS LCD"
+        "Temperature;*C;MCP9808",
+        "Grove",
+        "ISD1820P",
+        "play",
+        "playback",
+        "record",
+        "recorder",
+        "sound"
     ],
     "name": "PublishingLab04",
     "platforms": "*",

@@ -8,7 +8,12 @@
         "https://os.mbed.com/teams/EIC_mbed/code/RGB_matrix_Panel/"
     ],
     "frameworks": "mbed",
-    "keywords": "Adafruit-GFX",
+    "keywords": [
+        "Adafruit",
+        "led",
+        "max31855",
+        "Thermocouple"
+    ],
     "name": "Adafruit-GFX",
     "platforms": "*",
     "repository": {

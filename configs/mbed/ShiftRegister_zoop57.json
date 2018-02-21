@@ -5,7 +5,15 @@
     },
     "description": "74595 Library",
     "frameworks": "mbed",
-    "keywords": "ShiftRegister",
+    "keywords": [
+        "16x4",
+        "LCD",
+        "Pulsewidth",
+        "wait",
+        "Parallax X-Band",
+        "Radar",
+        "X-Band"
+    ],
     "name": "ShiftRegister",
     "platforms": "*",
     "repository": {

@@ -23,12 +23,14 @@
         "LEDS",
         "micro",
         "MMA7660FC",
-        "Temperature;*C;MCP9808"
+        "ATP3011",
+        "I2C",
+        "LDC1000"
     ],
     "name": "MyLab_Lib",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/lucas_favre/code/MyLab_Lib/"
+        "url": "https://os.mbed.com/users/lucas_favre/code/MyLab_Lib/"
     }
 }

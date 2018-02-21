@@ -18,18 +18,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "camera",
+        "OV7670",
         "LCD",
         "SB1602B",
         "SB1602E",
         "ST7032",
         "Text LCD",
-        "TextLCD_SB1602E",
-        "Buffered",
-        "ROS",
-        "Serial",
-        "UART",
-        "camera",
-        "OV7670"
+        "TextLCD_SB1602E"
     ],
     "name": "SB1602E",
     "platforms": "*",

@@ -6,13 +6,12 @@
     "description": "Initial Fork",
     "frameworks": "mbed",
     "keywords": [
-        "AD",
-        "da",
-        "MCP4921",
-        "MCP4922",
-        "Nucleo",
-        "SPI",
-        "UIT"
+        "9DOF",
+        "AHRS",
+        "IMU",
+        "LSM9DS0",
+        "Madgwick",
+        "sparkfun"
     ],
     "name": "TB6612FNG2",
     "platforms": "*",

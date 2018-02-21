@@ -11,7 +11,10 @@
     "keywords": [
         "async",
         "Ticker",
-        "timer"
+        "timer",
+        "max31855",
+        "Temperature",
+        "Thermocouple"
     ],
     "name": "ASyncTicker",
     "platforms": "*",

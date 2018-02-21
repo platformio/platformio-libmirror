@@ -10,7 +10,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ADJD-S311-CR99",
+        "cmsis",
+        "L152",
+        "Nucleo",
+        "rtos",
+        "RTX",
         "accelerometer",
         "fxos8700cq",
         "I2C",

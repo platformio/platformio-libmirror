@@ -6,12 +6,13 @@
     "description": "Mp3tag is a library for reading the meta-data of mp3 audio files. Currently it supports only ID3v1.",
     "frameworks": "mbed",
     "keywords": [
+        "31865",
+        "max",
+        "max31865",
         "id3",
         "mp3",
-        "C030",
-        "low power",
-        "STM32F437",
-        "u-blox"
+        "Lora",
+        "rn2483"
     ],
     "name": "mp3tag",
     "platforms": "*",

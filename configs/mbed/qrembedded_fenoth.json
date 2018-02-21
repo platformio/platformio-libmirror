@@ -9,10 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "bot",
-        "motor",
-        "sensors",
-        "shield"
+        "BSP_DISCO_F746NG",
+        "OV7670",
+        "Kalmanfilter",
+        "L3GD20 ADXL345"
     ],
     "name": "qrembedded",
     "platforms": "*",

@@ -6,12 +6,9 @@
     "description": "Library for manual Encoders as used in user interfaces.",
     "frameworks": "mbed",
     "keywords": [
-        "Ascii",
-        "ASCIIGraph",
-        "graph",
-        "Serial",
-        "Terminal",
-        "mbed"
+        "CyaSSL",
+        "https",
+        "SSL"
     ],
     "name": "UIEncoder",
     "platforms": "*",

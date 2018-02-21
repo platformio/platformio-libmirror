@@ -6,14 +6,13 @@
     "description": "https://developer.mbed.org/users/ds4279/code/WiflySocket/",
     "frameworks": "mbed",
     "keywords": [
-        "LcdWindow",
-        "TextLCD",
         "adc",
         "dac",
         "interrupt",
         "Nucleo F446",
         "polling",
-        "STM32F446"
+        "STM32F446",
+        "JY-LKM1638"
     ],
     "name": "WiFly",
     "platforms": "*",

@@ -8,7 +8,21 @@
         "https://os.mbed.com/teams/HS-Ansbach/code/A_Good_LCD_Program/"
     ],
     "frameworks": "mbed",
-    "keywords": "Interruptpins",
+    "keywords": [
+        "DHT22",
+        "display",
+        "I2C",
+        "OLED",
+        "SPI",
+        "SSD1306",
+        "3pi",
+        "m3dpi",
+        "m3pi",
+        "pololu",
+        "robot",
+        "FRDM-K64F",
+        "fxos8700cq"
+    ],
     "name": "Interruptpins",
     "platforms": "*",
     "repository": {

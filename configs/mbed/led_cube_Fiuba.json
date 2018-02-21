@@ -6,12 +6,12 @@
     "description": "The led_cube library is a graphic library for led cubes.",
     "frameworks": "mbed",
     "keywords": [
+        "device",
+        "USB",
         "cube",
         "led",
-        "BBC",
-        "Microbit",
-        "MLX90614",
-        "thermometer"
+        "I2C",
+        "PCA9672"
     ],
     "name": "led_cube",
     "platforms": "*",

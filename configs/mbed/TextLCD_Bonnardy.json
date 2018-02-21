@@ -5,7 +5,11 @@
     },
     "description": "Library to control an lcd panel",
     "frameworks": "mbed",
-    "keywords": "timer",
+    "keywords": [
+        "AT",
+        "parser",
+        "buffer"
+    ],
     "name": "TextLCD",
     "platforms": "*",
     "repository": {

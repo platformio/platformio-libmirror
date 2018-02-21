@@ -15,7 +15,6 @@
     "description": "Class to drive a Hexapod Robot using two PCA9685 PWM Driver boards.",
     "frameworks": "mbed",
     "keywords": [
-        "QR",
         "ELEC3880",
         "gait",
         "hexapod",
@@ -23,21 +22,15 @@
         "PCA9685",
         "robot",
         "Servo",
-        "device",
-        "USB",
-        "6100",
-        "6600",
-        "KL25z",
-        "kl46z",
-        "NokiaLCD",
-        "ethernet",
-        "socket",
-        "W5500"
+        "arduino",
+        "maniacbug",
+        "nRF24L01",
+        "nRF24L01P"
     ],
     "name": "Hexapod_Library",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/el13cj/code/Hexapod_Library/"
+        "url": "https://os.mbed.com/users/el13cj/code/Hexapod_Library/"
     }
 }

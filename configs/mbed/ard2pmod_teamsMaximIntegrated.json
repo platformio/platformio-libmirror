@@ -20,6 +20,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "FRDM-KL25Z",
+        "SPI",
         "Encoder",
         "InterruptIn",
         "motor"
@@ -28,6 +30,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/Maxim-Integrated/code/ard2pmod/"
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/code/ard2pmod/"
     }
 }

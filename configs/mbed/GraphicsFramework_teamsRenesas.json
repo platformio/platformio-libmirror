@@ -18,16 +18,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "GR-PEACH",
         "LPS331AP",
         "mbed",
-        "SPI",
-        "GR-PEACH",
-        "ASCII Communication",
-        "Comm",
-        "FP",
-        "LinkedList",
-        "Serial",
-        "Terminal"
+        "SPI"
     ],
     "name": "GraphicsFramework",
     "platforms": "*",

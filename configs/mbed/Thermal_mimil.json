@@ -9,13 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ESP8266",
-        "milkcocoa",
         "Serial",
         "thermal printer",
-        "3DOF",
-        "inverse kinematics",
-        "Robotics"
+        "ERC1602"
     ],
     "name": "Thermal",
     "platforms": "*",

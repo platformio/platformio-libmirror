@@ -5,7 +5,10 @@
     },
     "description": "GPRS",
     "frameworks": "mbed",
-    "keywords": "madgwick'salgorithm",
+    "keywords": [
+        "64 bit",
+        "timer class"
+    ],
     "name": "envio_tramas_gprs",
     "platforms": "*",
     "repository": {

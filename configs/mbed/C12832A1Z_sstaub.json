@@ -27,6 +27,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "digital potentiometer",
+        "SPI",
         "C12832",
         "C12832A1Z",
         "MBED Application Board",
@@ -39,13 +41,12 @@
         "IMU",
         "invensense",
         "MPU",
-        "MPU6000",
-        "MCP23S17"
+        "MPU6000"
     ],
     "name": "C12832A1Z",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/sstaub/code/C12832A1Z/"
+        "url": "https://os.mbed.com/users/sstaub/code/C12832A1Z/"
     }
 }

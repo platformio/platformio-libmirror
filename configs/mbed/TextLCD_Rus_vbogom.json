@@ -17,8 +17,15 @@
         "text",
         "TextLCD",
         "TextLCD_Rus",
-        "Cellular",
-        "BME280"
+        "A4982",
+        "A4983 smart step 3d printing",
+        "rap",
+        "rep",
+        "Stepper",
+        "Host",
+        "mbed",
+        "PTP",
+        "USB"
     ],
     "name": "TextLCD_Rus",
     "platforms": "*",

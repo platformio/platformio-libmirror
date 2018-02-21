@@ -12,7 +12,12 @@
         "driver",
         "I2C",
         "led",
-        "TLC59116"
+        "TLC59116",
+        "authorization",
+        "client",
+        "custom",
+        "headers",
+        "http"
     ],
     "name": "TLC59116",
     "platforms": "*",

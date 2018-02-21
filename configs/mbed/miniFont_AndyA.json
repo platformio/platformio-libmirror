@@ -12,7 +12,12 @@
         "font",
         "NeoPixel",
         "WS2812",
-        "wx2811"
+        "wx2811",
+        "BurstSPI",
+        "F411RE",
+        "Input",
+        "keyboard",
+        "PS/2"
     ],
     "name": "miniFont",
     "platforms": "*",

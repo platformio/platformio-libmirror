@@ -14,6 +14,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "KL25z",
+        "MAG3110",
+        "Wi-Go",
+        "mbed",
         "TFT",
         "Touchscreen",
         "BlinkLabel",
@@ -25,7 +29,9 @@
         "NumericLabel",
         "ResetButton",
         "SeekBar",
-        "SeekbarGroup"
+        "SeekbarGroup",
+        "multiplexer",
+        "Shift Register"
     ],
     "name": "Touch_tft",
     "platforms": "*",

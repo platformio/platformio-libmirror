@@ -5,7 +5,11 @@
     },
     "description": "Ultrasonic",
     "frameworks": "mbed",
-    "keywords": "RTC",
+    "keywords": [
+        "optical encoder",
+        "Quadrature Encoder",
+        "two channel encoder"
+    ],
     "name": "Ultrasonic",
     "platforms": "*",
     "repository": {

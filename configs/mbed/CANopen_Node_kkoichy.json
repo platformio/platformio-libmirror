@@ -10,14 +10,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "GPIO Exoender",
+        "MCP23017",
         "CANopen",
-        "MAX7219",
-        "MAX7221",
-        "arduino",
-        "millis",
-        "Modbus",
-        "MODSERIAL",
-        "rtu"
+        "ADT7410",
+        "Analog Devices",
+        "I2C",
+        "sensor",
+        "Temperature"
     ],
     "name": "CANopen_Node",
     "platforms": "*",

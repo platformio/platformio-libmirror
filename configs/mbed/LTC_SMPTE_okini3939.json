@@ -9,11 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "pikachu",
-        "ds1302",
+        "MPU9250",
+        "20160515",
         "Linear Time Code",
         "LTC",
-        "SMPTE"
+        "SMPTE",
+        "pikachu"
     ],
     "name": "LTC_SMPTE",
     "platforms": "*",

@@ -8,7 +8,11 @@
         "https://os.mbed.com/users/okano/code/I2C_FmPlus_Hello/"
     ],
     "frameworks": "mbed",
-    "keywords": "I2C_FmPlus",
+    "keywords": [
+        "CD22M3494",
+        "switch matrix",
+        "switcher"
+    ],
     "name": "I2C_FmPlus",
     "platforms": "*",
     "repository": {

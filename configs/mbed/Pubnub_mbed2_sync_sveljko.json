@@ -20,14 +20,11 @@
         "https://os.mbed.com/users/ECE4180/code/pubnub_sync/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "DHCP",
-        "EthernetInterface"
-    ],
+    "keywords": "Pubnub_mbed2_sync",
     "name": "Pubnub_mbed2_sync",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/sveljko/code/Pubnub_mbed2_sync/"
+        "url": "https://os.mbed.com/users/sveljko/code/Pubnub_mbed2_sync/"
     }
 }

@@ -14,11 +14,16 @@
     ],
     "description": "Lab that has to do with basic IO on mbed.",
     "frameworks": "mbed",
-    "keywords": "Lab1_BasicIO",
+    "keywords": [
+        "buffer",
+        "FIFO",
+        "ring buffer",
+        "Serial"
+    ],
     "name": "Lab1_BasicIO",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/Dream-Team-ECE-4180/code/Lab1_BasicIO/"
+        "url": "https://os.mbed.com/teams/Dream-Team-ECE-4180/code/Lab1_BasicIO/"
     }
 }

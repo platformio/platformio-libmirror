@@ -9,8 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "led",
-        "matrix"
+        "inair4",
+        "inair8",
+        "inair9",
+        "Lora",
+        "modtronix",
+        "SX1276"
     ],
     "name": "Midi5Pin",
     "platforms": "*",

@@ -9,11 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "mbed",
-        "robot",
-        "Robotics",
-        "RT-component",
-        "RT-middleware"
+        "AM2303",
+        "DHT22",
+        "Humidity",
+        "Temperature"
     ],
     "name": "MyI2C",
     "platforms": "*",

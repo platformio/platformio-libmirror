@@ -14,16 +14,11 @@
     ],
     "description": "SSD1351 library for the STM32F401RE. Uses BurstSPI and a couple of tweaks to improve throughput.",
     "frameworks": "mbed",
-    "keywords": [
-        "BLE",
-        "BLE Bluetooth Low Energy BLE",
-        "BUTTON",
-        "GAP"
-    ],
+    "keywords": "SSD1351",
     "name": "SSD1351",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/kkado/code/SSD1351/"
+        "url": "https://os.mbed.com/users/kkado/code/SSD1351/"
     }
 }

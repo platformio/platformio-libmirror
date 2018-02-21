@@ -8,7 +8,26 @@
         "https://os.mbed.com/users/yasuyuki/code/mbed_EEPROM/"
     ],
     "frameworks": "mbed",
-    "keywords": "EEPROM",
+    "keywords": [
+        "C1098-SS",
+        "camera",
+        "JPEG",
+        "UART",
+        "AT",
+        "parser",
+        "dac",
+        "SPI",
+        "BUTTON",
+        "debounce",
+        "DigitalIn",
+        "Ticker",
+        "trigger",
+        "array",
+        "circular buffer",
+        "deque",
+        "memory",
+        "Template"
+    ],
     "name": "EEPROM",
     "platforms": "*",
     "repository": {

@@ -5,7 +5,11 @@
     },
     "description": "Simple driver for the 20-bit ADC MAX1120x from Maxim",
     "frameworks": "mbed",
-    "keywords": "MAX1120x",
+    "keywords": [
+        "K64F",
+        "overclock",
+        "max14690"
+    ],
     "name": "MAX1120x",
     "platforms": "*",
     "repository": {

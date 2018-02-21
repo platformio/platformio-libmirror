@@ -10,13 +10,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "audio",
+        "SGTL5000",
+        "bot",
+        "motor",
+        "sensors",
+        "shield",
         "mbd2pmd",
         "pmod",
         "URI",
-        "DISCO-STM32F746NG",
-        "flash",
-        "QSPI",
-        "ST"
+        "led",
+        "SPI"
     ],
     "name": "PmodInterface",
     "platforms": "*",

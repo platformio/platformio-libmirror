@@ -15,24 +15,22 @@
     "description": "I2c slave device to control NeoPixel strings",
     "frameworks": "mbed",
     "keywords": [
+        "crc8",
         "I2C",
         "NeoPixel",
         "rhb",
         "slave",
-        "logger",
-        "syslog",
-        "syslogd",
-        "dynamixel",
-        "MX-12W",
-        "MX12",
-        "MX12W",
-        "robotis",
-        "Servo"
+        "led",
+        "LED controller",
+        "led driver",
+        "PCA9955A",
+        "PCA9956A",
+        "PCA995xA"
     ],
     "name": "NeoPixelI2cSlave",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/dwini/code/NeoPixelI2cSlave/"
+        "url": "https://os.mbed.com/users/dwini/code/NeoPixelI2cSlave/"
     }
 }

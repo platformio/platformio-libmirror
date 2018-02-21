@@ -6,12 +6,12 @@
     "description": "motion library for mpu6050, mpu9250 and etc, supports i2c and spi",
     "frameworks": "mbed",
     "keywords": [
-        "mutex",
-        "rtos",
+        "AM2321",
+        "DeepSleep",
+        "InterruptIn",
+        "LPC1114",
         "MPU6050",
-        "MPU9250",
-        "HY-1.8",
-        "ST7735"
+        "MPU9250"
     ],
     "name": "eMPL_MPU",
     "platforms": "*",

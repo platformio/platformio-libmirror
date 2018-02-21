@@ -6,14 +6,18 @@
     "description": "Small library for controll the TTL74HC595, who is a SerialIn-ParallelOut",
     "frameworks": "mbed",
     "keywords": [
+        "FT6206",
+        "touch",
         "TTL74HC595",
-        "Energy Meter",
-        "frequency",
-        "measurement",
         "Servo",
         "servo pulse",
         "SERVOGEN",
-        "ServoOut"
+        "ServoOut",
+        "LandTiger",
+        "SSD1289",
+        "Energy Meter",
+        "frequency",
+        "measurement"
     ],
     "name": "ttl_74HC595",
     "platforms": "*",

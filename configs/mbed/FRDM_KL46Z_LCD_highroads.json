@@ -5,16 +5,7 @@
     },
     "description": "Brought over the files from the Freescale site and modified for mbed.",
     "frameworks": "mbed",
-    "keywords": [
-        "Sensirion",
-        "SHT21",
-        "display",
-        "graphic",
-        "LCD",
-        "QVGA",
-        "TFT",
-        "L3GD20"
-    ],
+    "keywords": "scp1000",
     "name": "FRDM_KL46Z_LCD",
     "platforms": "*",
     "repository": {

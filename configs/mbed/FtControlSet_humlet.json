@@ -15,6 +15,7 @@
     "description": "Receiver interface for the fischertechnik IR control set",
     "frameworks": "mbed",
     "keywords": [
+        "led",
         "fischertechnik",
         "IR",
         "remote"
@@ -23,6 +24,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/humlet/code/FtControlSet/"
+        "url": "https://os.mbed.com/users/humlet/code/FtControlSet/"
     }
 }

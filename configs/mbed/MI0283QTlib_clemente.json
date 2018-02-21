@@ -5,7 +5,17 @@
     },
     "description": "Library for MI0283QT-2 LCD",
     "frameworks": "mbed",
-    "keywords": "MI0283QTlib",
+    "keywords": [
+        "binary",
+        "GPS",
+        "NMEA",
+        "protocol",
+        "sIRFstar3",
+        "sIRFstarIII",
+        "logger",
+        "syslog",
+        "syslogd"
+    ],
     "name": "MI0283QTlib",
     "platforms": "*",
     "repository": {

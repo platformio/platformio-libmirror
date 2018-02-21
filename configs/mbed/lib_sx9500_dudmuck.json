@@ -10,7 +10,14 @@
         "https://os.mbed.com/teams/Semtech/code/scpi_sx127x/"
     ],
     "frameworks": "mbed",
-    "keywords": "lib_sx9500",
+    "keywords": [
+        "CN0216",
+        "scale",
+        "sensor",
+        "weigh",
+        "TMP102",
+        "TMP112"
+    ],
     "name": "lib_sx9500",
     "platforms": "*",
     "repository": {

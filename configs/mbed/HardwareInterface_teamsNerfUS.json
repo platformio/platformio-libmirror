@@ -11,10 +11,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "mbed",
-        "DC",
-        "motor",
-        "PM motor"
+        "magnetometer",
+        "PNI",
+        "rm3100",
+        "sensor"
     ],
     "name": "HardwareInterface",
     "platforms": "*",

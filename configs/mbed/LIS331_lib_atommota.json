@@ -6,6 +6,9 @@
     "description": "Library to communicate with a ST LIS331DLH",
     "frameworks": "mbed",
     "keywords": [
+        "QEI",
+        "Quadrature encoder interface",
+        "Rotary Encoder",
         "Freescale",
         "mbed"
     ],

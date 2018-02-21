@@ -7,7 +7,14 @@
     "frameworks": "mbed",
     "keywords": [
         "GP2Y0A21YK",
-        "Sharp"
+        "Sharp",
+        "EEPROM",
+        "bluetooth",
+        "frequencies",
+        "guitar",
+        "tuner",
+        "GPS",
+        "NMEA0183"
     ],
     "name": "sharpGP2Y0A21YK",
     "platforms": "*",

@@ -6,11 +6,15 @@
     "description": "Library with address set to hardware pins",
     "frameworks": "mbed",
     "keywords": [
-        "VNH5019",
+        "4D",
+        "96",
+        "inch",
+        "LCD",
+        "micro",
+        "OLED",
+        "uOLED",
         "I2C",
-        "IO expander",
-        "6610",
-        "Nokia"
+        "IO expander"
     ],
     "name": "PCF8575",
     "platforms": "*",

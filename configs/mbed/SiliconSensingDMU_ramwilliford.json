@@ -8,7 +8,15 @@
         "https://os.mbed.com/users/ramwilliford/code/DMUTest/"
     ],
     "frameworks": "mbed",
-    "keywords": "SiliconSensingDMU",
+    "keywords": [
+        "I2C",
+        "real-time communication",
+        "adc",
+        "driver",
+        "HX711",
+        "library",
+        "Weigh scales"
+    ],
     "name": "SiliconSensingDMU",
     "platforms": "*",
     "repository": {

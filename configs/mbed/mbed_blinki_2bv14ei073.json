@@ -5,7 +5,13 @@
     },
     "description": "blink",
     "frameworks": "mbed",
-    "keywords": "mbed_blinki",
+    "keywords": [
+        "Cyrillic",
+        "HD4478",
+        "LCD",
+        "Russian",
+        "WH1602"
+    ],
     "name": "mbed_blinki",
     "platforms": "*",
     "repository": {

@@ -9,11 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "mbed rtos",
-        "rtos",
-        "Serial",
-        "UART0",
-        "FreeRTOS"
+        "msgpack",
+        "FreeRTOS",
+        "rtos"
     ],
     "name": "freertos",
     "platforms": "*",

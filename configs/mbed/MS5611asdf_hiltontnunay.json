@@ -5,7 +5,10 @@
     },
     "description": "sdfghj",
     "frameworks": "mbed",
-    "keywords": "MS5611asdf",
+    "keywords": [
+        "24LCxx",
+        "EEPROM"
+    ],
     "name": "MS5611asdf",
     "platforms": "*",
     "repository": {

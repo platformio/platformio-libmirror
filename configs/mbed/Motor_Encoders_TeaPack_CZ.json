@@ -6,6 +6,8 @@
     "description": "Library for digital quadrature encoder",
     "frameworks": "mbed",
     "keywords": [
+        "FRDM-KL25Z",
+        "SPI",
         "Encoder",
         "InterruptIn",
         "motor"

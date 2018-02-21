@@ -17,11 +17,18 @@
         "https://os.mbed.com/teams/Akafugu/code/vfd_modular_clock_mbed/"
     ],
     "frameworks": "mbed",
-    "keywords": "flw",
+    "keywords": [
+        "Arial",
+        "Calilbri",
+        "Consolas",
+        "TFT Fonts",
+        "Verdana",
+        "flw"
+    ],
     "name": "flw",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/Akafugu/code/flw/"
+        "url": "https://os.mbed.com/teams/Akafugu/code/flw/"
     }
 }

@@ -20,6 +20,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Adafruit",
+        "LCD",
+        "ST7735",
+        "TFT",
+        "FTP",
+        "ftpclient",
+        "MI0283QT-9A",
+        "Panel",
+        "resistive",
+        "touch",
+        "Touchscreen",
         "IBMIoTF",
         "IOT",
         "iotf"
@@ -28,6 +39,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/IBM_IoT/code/IBMIoTF/"
+        "url": "https://os.mbed.com/teams/IBM_IoT/code/IBMIoTF/"
     }
 }

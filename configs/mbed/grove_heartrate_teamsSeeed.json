@@ -6,11 +6,12 @@
     "description": "grove_heartrate",
     "frameworks": "mbed",
     "keywords": [
-        "GPS",
-        "8563",
-        "LPC1768",
-        "PCF",
-        "PCF8563"
+        "KL25z",
+        "LPC800-MAX",
+        "LPC812",
+        "powerdown",
+        "Sleep",
+        "wake-up"
     ],
     "name": "grove_heartrate",
     "platforms": "*",

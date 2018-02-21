@@ -5,14 +5,7 @@
     },
     "description": "Hall Effect Demo Program, using a hall effect sensor to calculate pedal speed while riding a bike",
     "frameworks": "mbed",
-    "keywords": [
-        "DS1338",
-        "I2C",
-        "Ciseco",
-        "SRF",
-        "wireless",
-        "XRF"
-    ],
+    "keywords": "FRDM_HE_",
     "name": "FRDM_HE_",
     "platforms": "*",
     "repository": {

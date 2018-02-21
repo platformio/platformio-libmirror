@@ -23,12 +23,17 @@
         "display",
         "LCD",
         "memory",
-        "Sharp"
+        "Sharp",
+        "milkcocoa",
+        "BP3595",
+        "network",
+        "ROHM",
+        "WLAN"
     ],
     "name": "Adafruit_SHARP_Memory_Display",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/marcpl/code/Adafruit_SHARP_Memory_Display/"
+        "url": "https://os.mbed.com/users/marcpl/code/Adafruit_SHARP_Memory_Display/"
     }
 }

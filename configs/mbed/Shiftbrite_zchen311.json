@@ -6,11 +6,12 @@
     "description": "Shiftbrite class",
     "frameworks": "mbed",
     "keywords": [
+        "async",
+        "Ticker",
+        "timer",
         "max31855",
         "Temperature",
-        "Thermocouple",
-        "EM027BS013",
-        "ePaper"
+        "Thermocouple"
     ],
     "name": "Shiftbrite",
     "platforms": "*",

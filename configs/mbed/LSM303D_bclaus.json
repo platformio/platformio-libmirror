@@ -7,9 +7,11 @@
     "frameworks": "mbed",
     "keywords": [
         "LSM303D",
-        "bitmap",
-        "Graphics",
-        "LCD"
+        "accelerometer",
+        "BMC050",
+        "Bosch",
+        "Field",
+        "magnetic"
     ],
     "name": "LSM303D",
     "platforms": "*",

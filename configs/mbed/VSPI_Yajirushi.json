@@ -9,6 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "buffered serial",
+        "ring buffer",
+        "Serial",
         "Fake SPI",
         "SPI",
         "Virtual SPI",

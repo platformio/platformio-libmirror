@@ -24,12 +24,12 @@
         "flash",
         "memory",
         "SPI",
+        "16x4",
+        "LCD",
         "IEEE",
         "mbed",
         "micromouse",
-        "UCLA",
-        "16x4",
-        "LCD"
+        "UCLA"
     ],
     "name": "mbed-src-AV",
     "platforms": "*",

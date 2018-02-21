@@ -6,16 +6,14 @@
     "description": "Interface Driver for Maxim DS2482 1Wire-to-I2C bridge IC.",
     "frameworks": "mbed",
     "keywords": [
+        "MCP9808",
         "1wire",
         "DS1820",
         "DS2482",
-        "3axis",
         "accelerometer",
-        "Digital",
-        "Grove",
-        "Seeed",
-        "AirQuality",
-        "sensor"
+        "gyroscope",
+        "IMU",
+        "STM32F0"
     ],
     "name": "DS2482",
     "platforms": "*",

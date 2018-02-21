@@ -11,7 +11,12 @@
     "keywords": [
         "L298",
         "motor",
-        "Stepper"
+        "Stepper",
+        "Communication",
+        "Serial",
+        "Terminal",
+        "VT100",
+        "VT200"
     ],
     "name": "ArduinoMotorShield",
     "platforms": "*",

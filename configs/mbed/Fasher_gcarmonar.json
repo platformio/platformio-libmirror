@@ -6,8 +6,18 @@
     "description": "This is a Demo, first version.",
     "frameworks": "mbed",
     "keywords": [
+        "AT",
+        "AT command",
+        "ATCommand",
+        "Serial",
+        "SIM800",
+        "SIM900",
+        "SIMCOM",
+        "UART",
         "Flasher",
-        "flashing leds"
+        "flashing leds",
+        "MPU9250",
+        "nRF52832 custom boards"
     ],
     "name": "Fasher",
     "platforms": "*",

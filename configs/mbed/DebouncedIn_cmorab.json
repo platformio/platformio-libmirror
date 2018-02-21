@@ -18,10 +18,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "csv",
-        "mbed",
-        "ethernet",
-        "ip"
+        "Buffered",
+        "MODSERIAL",
+        "Serial"
     ],
     "name": "DebouncedIn",
     "platforms": "*",

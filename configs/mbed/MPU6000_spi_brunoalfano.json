@@ -6,6 +6,8 @@
     "description": "MPU6000 library to get accelerometer, gyroscope and temperature readings via SPI.",
     "frameworks": "mbed",
     "keywords": [
+        "digital potentiometer",
+        "SPI",
         "C12832",
         "C12832A1Z",
         "MBED Application Board",
@@ -18,8 +20,7 @@
         "IMU",
         "invensense",
         "MPU",
-        "MPU6000",
-        "MCP23S17"
+        "MPU6000"
     ],
     "name": "MPU6000_spi",
     "platforms": "*",

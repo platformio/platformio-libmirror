@@ -10,10 +10,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "ST7565",
         "CoAP",
-        "IOT"
+        "IOT",
+        "LCD",
+        "ST7565"
     ],
     "name": "cantcoap",
     "platforms": "*",

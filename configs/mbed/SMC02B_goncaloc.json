@@ -6,11 +6,11 @@
     "description": "Control the Pololu SMC02B",
     "frameworks": "mbed",
     "keywords": [
+        "mbed",
+        "WIZwiki-W7500",
         "controller",
         "motor",
-        "Serial",
-        "AD7791",
-        "adc"
+        "Serial"
     ],
     "name": "SMC02B",
     "platforms": "*",

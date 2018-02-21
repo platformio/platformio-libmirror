@@ -9,19 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Lora",
-        "rn2483",
+        "ATParser",
+        "sigfox",
         "Humidity",
         "sensor",
-        "Temperature",
-        "HD44780",
-        "TextLCD",
-        "assembly",
-        "exception",
-        "fault",
-        "handler",
-        "hardfault",
-        "registerdump"
+        "Temperature"
     ],
     "name": "Si7005",
     "platforms": "*",

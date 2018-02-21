@@ -14,21 +14,11 @@
     ],
     "description": "mdot-examples triage",
     "frameworks": "mbed",
-    "keywords": [
-        "Capacitive",
-        "Input",
-        "sensor",
-        "touch",
-        "robot",
-        "Robotics",
-        "RT-component",
-        "RT-middleware",
-        "GoogleChart"
-    ],
+    "keywords": "mdot-examples",
     "name": "mdot-examples",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/3mdeb/code/mdot-examples/"
+        "url": "https://os.mbed.com/teams/3mdeb/code/mdot-examples/"
     }
 }

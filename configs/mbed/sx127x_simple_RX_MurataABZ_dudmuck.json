@@ -15,14 +15,20 @@
     "description": "simple receiver demo for B-L072Z-LRWAN1",
     "frameworks": "mbed",
     "keywords": [
+        "led",
+        "pwm",
+        "GR-PEACH",
+        "LCD",
+        "GLCD",
+        "OLED",
+        "SSH1106",
         "ACM1602NI",
-        "I2C",
-        "LCD"
+        "I2C"
     ],
     "name": "sx127x_simple_RX_MurataABZ",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/dudmuck/code/sx127x_simple_RX_MurataABZ/"
+        "url": "https://os.mbed.com/users/dudmuck/code/sx127x_simple_RX_MurataABZ/"
     }
 }

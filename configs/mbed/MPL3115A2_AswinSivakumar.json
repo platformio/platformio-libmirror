@@ -8,7 +8,15 @@
         "https://os.mbed.com/teams/NXP/code/FRDM-FXS-MULTI2-B_SensorShield_HelloWorl/"
     ],
     "frameworks": "mbed",
-    "keywords": "MPL3115A2",
+    "keywords": [
+        "EEPROM",
+        "flash",
+        "IAP",
+        "In-Application",
+        "internal",
+        "memory",
+        "programming"
+    ],
     "name": "MPL3115A2",
     "platforms": "*",
     "repository": {

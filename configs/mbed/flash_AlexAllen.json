@@ -6,15 +6,11 @@
     "description": "A collection of light flashing functions",
     "frameworks": "mbed",
     "keywords": [
-        "ANSI",
-        "Terminal",
-        "Lora",
-        "senet",
-        "controller",
-        "motor",
-        "pololu",
-        "Qik",
-        "VNH25P30"
+        "mbed",
+        "chip select",
+        "master",
+        "Serial",
+        "SPI"
     ],
     "name": "flash",
     "platforms": "*",

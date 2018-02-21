@@ -15,14 +15,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "malloc",
-        "memory",
-        "AQM1602",
         "SSL",
         "TLS",
-        "clock",
-        "ds1307",
-        "RTC"
+        "buzzer",
+        "music",
+        "RTTTL",
+        "sound"
     ],
     "name": "CyaSSL",
     "platforms": "*",

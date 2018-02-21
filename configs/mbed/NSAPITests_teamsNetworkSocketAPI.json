@@ -13,7 +13,11 @@
         "https://os.mbed.com/teams/GNSS_DataLogger/code/DISCO-F746NG_master_wifi/"
     ],
     "frameworks": "mbed",
-    "keywords": "NSAPITests",
+    "keywords": [
+        "RTC",
+        "dac",
+        "MCP4822"
+    ],
     "name": "NSAPITests",
     "platforms": "*",
     "repository": {

@@ -15,14 +15,11 @@
         "maestro",
         "Serial",
         "Servo",
+        "flash",
+        "SPI",
         "I2C",
         "PCF8583",
-        "RTC",
-        "parallax",
-        "PING",
-        "ping)))",
-        "sensor",
-        "ultrasonic"
+        "RTC"
     ],
     "name": "Ton",
     "platforms": "*",

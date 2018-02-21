@@ -6,9 +6,13 @@
     "description": "bertl14",
     "frameworks": "mbed",
     "keywords": [
+        "F746NG",
+        "RTC",
+        "Touchscreen",
         "Bertl14",
-        "Robotics",
-        "Servo"
+        "checksum",
+        "IOT",
+        "sigfox"
     ],
     "name": "distance",
     "platforms": "*",

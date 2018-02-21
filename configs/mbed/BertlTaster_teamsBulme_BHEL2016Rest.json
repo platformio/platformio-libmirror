@@ -5,11 +5,7 @@
     },
     "description": "Bertl Programm für den Motor, reagiert auf die Taster. (Falsche Richtung)",
     "frameworks": "mbed",
-    "keywords": [
-        "Bertl",
-        "AquesTalk pico",
-        "ATP3011"
-    ],
+    "keywords": "Bertl",
     "name": "BertlTaster",
     "platforms": "*",
     "repository": {

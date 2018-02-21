@@ -8,7 +8,14 @@
         "https://os.mbed.com/users/star297/code/EFM32_BUrtc-Demo/"
     ],
     "frameworks": "mbed",
-    "keywords": "EFM32_BUrtc",
+    "keywords": [
+        "CN0216",
+        "scale",
+        "sensor",
+        "weigh",
+        "TMP102",
+        "TMP112"
+    ],
     "name": "EFM32_BUrtc",
     "platforms": "*",
     "repository": {

@@ -6,9 +6,17 @@
     "description": "This library gets information from TSL2550 ambient light sensor through SMBus / I²C.",
     "frameworks": "mbed",
     "keywords": [
+        "I2C",
+        "LM75B",
+        "MSS",
+        "MSU",
+        "sensor",
+        "Temperature",
         "ambient",
         "light",
-        "TSL2550"
+        "TSL2550",
+        "16x2 LCD",
+        "TextLCD"
     ],
     "name": "TSL2550",
     "platforms": "*",

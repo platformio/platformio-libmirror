@@ -13,10 +13,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "daisy-chain",
-        "L6470",
-        "SPI",
-        "Stepper"
+        "emwin",
+        "GUI",
+        "LPC4088",
+        "DMX",
+        "FOTA",
+        "LPC1768",
+        "SW Update",
+        "MAX7456",
+        "osd"
     ],
     "name": "PWMOut",
     "platforms": "*",

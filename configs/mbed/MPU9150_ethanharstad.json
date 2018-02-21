@@ -30,12 +30,14 @@
         "file",
         "wav",
         "wave",
+        "energy harvesting",
+        "mobile robot",
         "gyro"
     ],
     "name": "MPU9150",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/ethanharstad/code/MPU9150/"
+        "url": "https://os.mbed.com/users/ethanharstad/code/MPU9150/"
     }
 }

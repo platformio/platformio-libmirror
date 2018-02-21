@@ -19,17 +19,26 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LPC4088",
-        "Lora",
-        "Semtech",
-        "SX1276",
-        "SX1276Lib",
-        "SX1276MB1xAS"
+        "arduino",
+        "ExpansionBoard",
+        "HTS221",
+        "LIS3MDL",
+        "lps25h",
+        "LSM6DS0",
+        "LSM6DS3",
+        "Nucleo",
+        "X-NUCLEO-IKS01A1",
+        "4DGL-uLCD-SE",
+        "I2C",
+        "OLED",
+        "SSD1308",
+        "application board",
+        "LCD"
     ],
     "name": "LSM9DS1_Library",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/jmar7/code/LSM9DS1_Library/"
+        "url": "https://os.mbed.com/users/jmar7/code/LSM9DS1_Library/"
     }
 }

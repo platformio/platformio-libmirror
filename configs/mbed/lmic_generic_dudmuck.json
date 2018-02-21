@@ -8,13 +8,7 @@
         "https://os.mbed.com/users/dudmuck/code/lmic_transmit_generic/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "LIN",
-        "baro",
-        "MS5611_01BA03",
-        "SPI",
-        "variometer"
-    ],
+    "keywords": "LIN",
     "name": "lmic_generic",
     "platforms": "*",
     "repository": {

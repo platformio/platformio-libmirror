@@ -6,10 +6,18 @@
     "description": "LCDモジュール AQM0802 を制御するクラス",
     "frameworks": "mbed",
     "keywords": [
+        "map",
+        "range",
         "aqm0802",
         "I2C",
         "LCD",
-        "wifiモジュール"
+        "M24LR",
+        "NDEF",
+        "NFC",
+        "NFC2",
+        "ST",
+        "URI",
+        "X-NUCLEO-NFC02A1"
     ],
     "name": "LcdAqm0802",
     "platforms": "*",

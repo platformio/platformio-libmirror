@@ -12,12 +12,9 @@
         "protocol",
         "sIRFstar3",
         "sIRFstarIII",
-        "led",
-        "LED controller",
-        "led driver",
-        "PCA9955A",
-        "PCA9956A",
-        "PCA995xA"
+        "logger",
+        "syslog",
+        "syslogd"
     ],
     "name": "accelerometer",
     "platforms": "*",

@@ -9,11 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "NDEF",
-        "NFC",
-        "Type4",
         "JSON",
-        "MessagePack"
+        "MessagePack",
+        "Thermocouple",
+        "GUI"
     ],
     "name": "msgpack",
     "platforms": "*",

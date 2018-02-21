@@ -8,12 +8,17 @@
     "keywords": [
         "NeoPixel",
         "rgb",
-        "flysky",
-        "PPM",
+        "Adafruit",
+        "I2C",
+        "led",
+        "nxp",
+        "PCA9685",
         "pwm",
-        "RC",
-        "Receiver",
-        "Servo"
+        "Servo",
+        "mbed5",
+        "NetworkInterfaceAPI",
+        "Wi-Fi",
+        "WizFi250"
     ],
     "name": "SDFileSystem_Sherckuith",
     "platforms": "*",

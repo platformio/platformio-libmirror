@@ -12,7 +12,8 @@
         "AHRS",
         "IMU",
         "kalman",
-        "Madgwick"
+        "Madgwick",
+        "XTRINSIC-SENSOR-EVK"
     ],
     "name": "Madgwick",
     "platforms": "*",

@@ -10,17 +10,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "6dof",
+        "9DOF",
+        "motion",
+        "MPU6050",
+        "MPU9250",
         "keyboard",
         "USB",
         "LIDAR Lite",
         "LidarLite",
         "I2C",
-        "MCP23017",
-        "flash",
-        "logging",
-        "broadcast",
-        "multicast",
-        "UDP"
+        "MCP23017"
     ],
     "name": "LidarLite",
     "platforms": "*",

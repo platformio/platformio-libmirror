@@ -13,9 +13,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "adc",
+        "Analog",
+        "AnalogIn",
+        "asynchronous",
+        "DMA",
+        "K64F",
+        "PDB",
         "f746ZG",
         "Nucleo",
-        "unzen"
+        "unzen",
+        "cypress",
+        "F-RAM"
     ],
     "name": "unzen_nucleo_f746",
     "platforms": "*",

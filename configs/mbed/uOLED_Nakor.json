@@ -12,9 +12,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "distance",
-        "HCSR04",
-        "sensor",
         "4D",
         "96",
         "inch",
@@ -22,14 +19,8 @@
         "micro",
         "OLED",
         "uOLED",
-        "DS18B20",
-        "DS2450",
-        "MAX31850",
-        "Thermocouple",
-        "current",
         "I2C",
-        "INA219",
-        "T.I."
+        "IO expander"
     ],
     "name": "uOLED",
     "platforms": "*",

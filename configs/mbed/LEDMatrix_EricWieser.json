@@ -5,7 +5,13 @@
     },
     "description": "A library to manipulate 2D arrays, and output them to an LED Dot Matrix Display. The display must be wired up using a shift register combined with a nor latch.",
     "frameworks": "mbed",
-    "keywords": "HMC5883L",
+    "keywords": [
+        "TFT",
+        "current",
+        "I2C",
+        "INA219",
+        "T.I."
+    ],
     "name": "LEDMatrix",
     "platforms": "*",
     "repository": {

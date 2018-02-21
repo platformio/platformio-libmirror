@@ -11,7 +11,18 @@
         "https://os.mbed.com/users/jksoft/code/MilkcocoaOsSample_Eth_DigitalIn/"
     ],
     "frameworks": "mbed",
-    "keywords": "milkcocoa",
+    "keywords": [
+        "Adafruit",
+        "display",
+        "LCD",
+        "memory",
+        "Sharp",
+        "milkcocoa",
+        "BP3595",
+        "network",
+        "ROHM",
+        "WLAN"
+    ],
     "name": "Milkcocoa-os",
     "platforms": "*",
     "repository": {

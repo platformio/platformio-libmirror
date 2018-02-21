@@ -9,10 +9,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Adafruit",
+        "PCA9685",
         "Analog",
         "AnalogIn",
         "gyro",
-        "sensor"
+        "sensor",
+        "Nordic",
+        "nRF",
+        "nRF51422",
+        "nRF51822",
+        "timer",
+        "watchdog",
+        "LCD"
     ],
     "name": "Servo",
     "platforms": "*",

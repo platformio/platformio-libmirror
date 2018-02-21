@@ -5,11 +5,7 @@
     },
     "description": "Fork of original LPS331 library",
     "frameworks": "mbed",
-    "keywords": [
-        "FIFO",
-        "lifo",
-        "ringbuffer"
-    ],
+    "keywords": "LPS331_old",
     "name": "LPS331_old",
     "platforms": "*",
     "repository": {

@@ -13,14 +13,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "malloc",
-        "memory",
-        "AQM1602",
-        "SSL",
-        "TLS",
-        "clock",
-        "ds1307",
-        "RTC"
+        "NET",
+        "network",
+        "stream",
+        "TCP",
+        "Agent",
+        "Net-SNMP",
+        "SNMP",
+        "AQM1602"
     ],
     "name": "AQM1602",
     "platforms": "*",

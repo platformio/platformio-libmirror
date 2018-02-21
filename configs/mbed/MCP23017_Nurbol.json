@@ -10,10 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AD-128160-UART",
-        "AITENDO",
-        "LCD",
-        "Serial"
+        "3pi",
+        "m3pi",
+        "robot",
+        "sensors",
+        "current",
+        "I2C",
+        "INA219",
+        "Power",
+        "voltage"
     ],
     "name": "MCP23017",
     "platforms": "*",

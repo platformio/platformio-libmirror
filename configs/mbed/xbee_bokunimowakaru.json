@@ -12,16 +12,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "xbee",
+        "ZB",
+        "zigbee",
         "AK8975",
         "compass",
         "I2C",
         "Magneto",
         "magnetometer",
-        "xbee",
-        "ZB",
-        "zigbee",
         "jsmn",
-        "JSON"
+        "JSON",
+        "ds1307",
+        "RTC",
+        "WSE"
     ],
     "name": "xbee",
     "platforms": "*",

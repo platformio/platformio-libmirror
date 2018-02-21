@@ -6,6 +6,9 @@
     "description": "The file is divided on different sections in which are stored the key containing data.",
     "frameworks": "mbed",
     "keywords": [
+        "socket",
+        "TCP",
+        "UDP",
         "Configuration",
         "file",
         "ini",

@@ -9,9 +9,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "color",
-        "led",
-        "rgb",
         "Battery",
         "c rate",
         "driver",
@@ -27,8 +24,7 @@
         "keil",
         "MCB1700",
         "QVGA",
-        "TFT",
-        "ROS"
+        "TFT"
     ],
     "name": "GLCD_MCB1700",
     "platforms": "*",

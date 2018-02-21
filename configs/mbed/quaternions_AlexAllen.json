@@ -5,7 +5,14 @@
     },
     "description": "A class which implements some basic quaternion functions",
     "frameworks": "mbed",
-    "keywords": "quaternions",
+    "keywords": [
+        "9DOF",
+        "AHRS",
+        "IMU",
+        "LSM9DS0",
+        "Madgwick",
+        "sparkfun"
+    ],
     "name": "quaternions",
     "platforms": "*",
     "repository": {

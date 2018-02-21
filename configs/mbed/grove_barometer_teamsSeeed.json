@@ -5,7 +5,19 @@
     },
     "description": "grove_barometer",
     "frameworks": "mbed",
-    "keywords": "grove_barometer",
+    "keywords": [
+        "accelerometer",
+        "BMI160",
+        "gyroscope",
+        "I2C",
+        "SPI",
+        "arduino",
+        "EasyCAT",
+        "etherCAT",
+        "ethernet",
+        "fieldbus",
+        "shield"
+    ],
     "name": "grove_barometer",
     "platforms": "*",
     "repository": {

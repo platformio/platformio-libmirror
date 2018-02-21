@@ -9,16 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ARM",
-        "DAY",
-        "heartbeat",
-        "RIT",
+        "IMU",
+        "sensor",
         "hang",
         "I2C",
         "KL25z",
-        "lockup",
-        "ethernet",
-        "NTP"
+        "lockup"
     ],
     "name": "KL25Z_I2C_busreset",
     "platforms": "*",

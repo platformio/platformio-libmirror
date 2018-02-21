@@ -5,7 +5,10 @@
     },
     "description": "KS0713",
     "frameworks": "mbed",
-    "keywords": "KS0713",
+    "keywords": [
+        "I2C",
+        "LCD"
+    ],
     "name": "KS0713",
     "platforms": "*",
     "repository": {

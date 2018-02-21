@@ -18,26 +18,11 @@
         "https://os.mbed.com/users/miaotwilio/code/MTS-Socket/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "http",
-        "https",
-        "25lcxxx",
-        "25xx",
-        "EEPROM",
-        "flash",
-        "memory",
-        "SPI",
-        "IEEE",
-        "mbed",
-        "micromouse",
-        "UCLA",
-        "16x4",
-        "LCD"
-    ],
+    "keywords": "HTTPClient-SSL",
     "name": "HTTPClient-SSL",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/MultiTech/code/HTTPClient-SSL/"
+        "url": "https://os.mbed.com/teams/MultiTech/code/HTTPClient-SSL/"
     }
 }

@@ -5,7 +5,12 @@
     },
     "description": "SPI-Master for CAN (Nucleo f401re)",
     "frameworks": "mbed",
-    "keywords": "Nucleo_spi_master",
+    "keywords": [
+        "ar1020",
+        "Microchip",
+        "screen",
+        "touch"
+    ],
     "name": "Nucleo_spi_master",
     "platforms": "*",
     "repository": {

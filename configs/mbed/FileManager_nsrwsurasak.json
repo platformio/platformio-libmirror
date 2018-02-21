@@ -18,20 +18,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_L476VG",
-        "N25Q128A",
-        "QSPI",
-        "basic",
-        "flash",
-        "Flasher",
-        "fun",
-        "led",
-        "rgb"
+        "LIN",
+        "master",
+        "Melexis",
+        "MLX",
+        "USB",
+        "Serial"
     ],
     "name": "FileManager",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/nsrwsurasak/code/FileManager/"
+        "url": "https://os.mbed.com/users/nsrwsurasak/code/FileManager/"
     }
 }

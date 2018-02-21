@@ -9,11 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AT45DBxx",
-        "USBMSD",
-        "F401RE",
-        "mma7361",
-        "Nucleo"
+        "\\",
+        "Controller\\",
+        "I2C",
+        "MD25",
+        "motor",
+        "robot"
     ],
     "name": "watchdog",
     "platforms": "*",

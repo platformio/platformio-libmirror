@@ -8,7 +8,18 @@
         "https://os.mbed.com/users/AlexAllen/code/Balloon/"
     ],
     "frameworks": "mbed",
-    "keywords": "UM12",
+    "keywords": [
+        "bluetooth",
+        "camera",
+        "JPEG",
+        "LinkSprite",
+        "LS-Y201",
+        "Serial",
+        "Ciseco",
+        "SRF",
+        "wireless",
+        "XRF"
+    ],
     "name": "UM12",
     "platforms": "*",
     "repository": {

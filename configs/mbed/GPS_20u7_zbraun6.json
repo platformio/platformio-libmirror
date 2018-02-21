@@ -14,11 +14,18 @@
     ],
     "description": "Library to operate GPS 20u7 with Mbed",
     "frameworks": "mbed",
-    "keywords": "GPS_20u7",
+    "keywords": [
+        "C027",
+        "C030",
+        "file",
+        "SMS",
+        "u-blox",
+        "ussd"
+    ],
     "name": "GPS_20u7",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/zbraun6/code/GPS_20u7/"
+        "url": "https://os.mbed.com/users/zbraun6/code/GPS_20u7/"
     }
 }

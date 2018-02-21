@@ -6,10 +6,18 @@
     "description": "reading internal temperature sensor of arch max and storing data",
     "frameworks": "mbed",
     "keywords": [
+        "balls",
+        "elements",
+        "games",
+        "retro",
+        "things",
         "Arch Max",
         "sensor",
         "STM32F4",
-        "Temperature"
+        "Temperature",
+        "bluetooth",
+        "Serial",
+        "shield"
     ],
     "name": "arch_temp_stack",
     "platforms": "*",

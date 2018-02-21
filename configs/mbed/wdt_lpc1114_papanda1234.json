@@ -7,7 +7,9 @@
     "frameworks": "mbed",
     "keywords": [
         "LPC1114",
-        "WDT"
+        "WDT",
+        "Ticker",
+        "timer"
     ],
     "name": "wdt_lpc1114",
     "platforms": "*",

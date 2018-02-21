@@ -5,12 +5,7 @@
     },
     "description": "A simple library for controlling an MCP4241 digital potentiometer",
     "frameworks": "mbed",
-    "keywords": [
-        "flash",
-        "M25P10",
-        "M25P40",
-        "MP25P20"
-    ],
+    "keywords": "DigiPot",
     "name": "DigiPot",
     "platforms": "*",
     "repository": {

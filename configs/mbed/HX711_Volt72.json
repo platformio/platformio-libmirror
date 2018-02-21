@@ -14,15 +14,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "blinking",
-        "led",
-        "16x2",
-        "freetronics",
-        "LCD",
-        "HX711",
+        "RIT",
+        "1-wire",
+        "DS18B20",
         "dynamixel",
         "MX28",
-        "Servo"
+        "Servo",
+        "HX711",
+        "SuperTweet"
     ],
     "name": "HX711",
     "platforms": "*",

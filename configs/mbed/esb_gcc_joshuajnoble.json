@@ -6,10 +6,16 @@
     "description": "esb gcc program",
     "frameworks": "mbed",
     "keywords": [
+        "GPS",
+        "interrupt",
+        "NMEA",
         "Nucleo",
         "stm32",
         "Wi-Fi",
-        "X-NUCLEO-IDW01M1"
+        "X-NUCLEO-IDW01M1",
+        "NTP",
+        "SNTP",
+        "SNTPClinet"
     ],
     "name": "esb_gcc",
     "platforms": "*",

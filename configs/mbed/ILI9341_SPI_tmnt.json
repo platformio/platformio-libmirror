@@ -19,19 +19,18 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "station",
         "3310",
         "3390",
         "LCD",
         "Nokia",
         "pcd8544",
-        "TextLCD",
-        "Adafruit",
-        "AdaFruit RGB LCD Shield"
+        "TextLCD"
     ],
     "name": "ILI9341_SPI",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/tmnt/code/ILI9341_SPI/"
+        "url": "https://os.mbed.com/users/tmnt/code/ILI9341_SPI/"
     }
 }

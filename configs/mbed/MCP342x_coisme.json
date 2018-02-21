@@ -6,10 +6,9 @@
     "description": "Device driver for AD converters MCP3426, MCP3427, and MCP3428.",
     "frameworks": "mbed",
     "keywords": [
+        "Axeda",
         "adc",
-        "Microchip",
-        "NNN50",
-        "wifi"
+        "Microchip"
     ],
     "name": "MCP342x",
     "platforms": "*",

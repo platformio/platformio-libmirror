@@ -25,13 +25,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "fatfilesystem",
-        "LocalFileSystem",
-        "USBMSD",
         "DS1820",
         "DS1822",
         "DS18B20",
         "DS18S20",
+        "fatfilesystem",
+        "LocalFileSystem",
+        "USBMSD",
         "DC",
         "motor",
         "pwm",
@@ -42,6 +42,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/hudakz/code/DS1820/"
+        "url": "https://os.mbed.com/users/hudakz/code/DS1820/"
     }
 }

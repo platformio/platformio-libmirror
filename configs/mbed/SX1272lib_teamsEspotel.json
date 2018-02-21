@@ -13,7 +13,10 @@
         "https://os.mbed.com/teams/Espotel/code/LoRaWAN_Semtech_stack_v41/"
     ],
     "frameworks": "mbed",
-    "keywords": "station",
+    "keywords": [
+        "DS3231",
+        "VL53L0X"
+    ],
     "name": "SX1272lib",
     "platforms": "*",
     "repository": {

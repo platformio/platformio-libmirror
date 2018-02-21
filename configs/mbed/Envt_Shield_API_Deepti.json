@@ -5,7 +5,17 @@
     },
     "description": "Evironmental Shield API",
     "frameworks": "mbed",
-    "keywords": "xbee",
+    "keywords": [
+        "6100",
+        "6610",
+        "mobileLCD",
+        "NokiaLCD",
+        "Olimex",
+        "PCF8833",
+        "sparkfun",
+        "filesystem",
+        "MiMic"
+    ],
     "name": "Envt_Shield_API",
     "platforms": "*",
     "repository": {

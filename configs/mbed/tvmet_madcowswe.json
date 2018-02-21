@@ -9,15 +9,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "infra",
+        "infrared",
+        "IR",
+        "mbed",
+        "red",
         "arithmetic",
         "Expression",
         "Linear",
         "matrix",
         "Template",
-        "vector",
-        "NeoPixel",
-        "WS2811",
-        "WS2812"
+        "vector"
     ],
     "name": "tvmet",
     "platforms": "*",

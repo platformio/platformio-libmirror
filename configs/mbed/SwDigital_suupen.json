@@ -10,7 +10,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BMP180",
+        "TMP006",
         "led",
         "rgb",
         "ws2801",
@@ -19,9 +19,6 @@
         "SW",
         "tact",
         "Toggle",
-        "demo",
-        "HX711",
-        "Nucleo",
         "Dieter Graef",
         "DISCO-F746",
         "SDFileSystem"

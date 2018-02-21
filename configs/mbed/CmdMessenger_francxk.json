@@ -6,12 +6,15 @@
     "description": "CmdMessenger - library that provides command based messaging",
     "frameworks": "mbed",
     "keywords": [
-        "multithreading",
-        "rtos",
-        "thread",
+        "ax12",
+        "dynamixel",
+        "motor",
+        "Servo",
         "arduino",
         "mbed",
-        "Serial"
+        "Serial",
+        "K64F",
+        "led"
     ],
     "name": "CmdMessenger",
     "platforms": "*",

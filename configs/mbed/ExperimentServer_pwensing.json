@@ -14,12 +14,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "IOT",
-        "sigfox",
-        "AM2303",
-        "DHT22",
-        "Humidity",
-        "Temperature"
+        "AD5270",
+        "Digipot",
+        "64F",
+        "FRDM",
+        "I2S"
     ],
     "name": "ExperimentServer",
     "platforms": "*",

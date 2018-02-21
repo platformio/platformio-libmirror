@@ -12,7 +12,19 @@
         "https://os.mbed.com/users/hyungyu8066/code/MTi-1_example/"
     ],
     "frameworks": "mbed",
-    "keywords": "Xbus",
+    "keywords": [
+        "thermistor",
+        "3axis",
+        "accelerometer",
+        "Digital",
+        "Grove",
+        "Seeed",
+        "AirQuality",
+        "sensor",
+        "copter",
+        "PPM",
+        "quad"
+    ],
     "name": "Xbus",
     "platforms": "*",
     "repository": {

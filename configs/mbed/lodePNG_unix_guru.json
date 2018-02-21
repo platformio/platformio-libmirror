@@ -6,19 +6,12 @@
     "description": "LodePNG version 20160124",
     "frameworks": "mbed",
     "keywords": [
-        "modtronix",
-        "NZ32 STM32",
         "BMP",
         "Image Conversion",
         "PNG",
-        "Linear",
-        "motor",
-        "motors",
-        "robot",
-        "wheels",
-        "yellow",
-        "application-board",
-        "K64F"
+        "DRV2665",
+        "Haptic",
+        "piezo"
     ],
     "name": "lodePNG",
     "platforms": "*",

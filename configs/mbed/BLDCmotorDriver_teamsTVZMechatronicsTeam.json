@@ -11,6 +11,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "BLE",
+        "BLE_API",
+        "HID",
+        "HID-over-Gatt",
         "BLDC",
         "driver",
         "motor"

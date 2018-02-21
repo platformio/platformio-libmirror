@@ -8,7 +8,14 @@
         "https://os.mbed.com/teams/MtM/code/MtConnect04S_MtSense01/"
     ],
     "frameworks": "mbed",
-    "keywords": "SHT2X",
+    "keywords": [
+        "I2C",
+        "IMU",
+        "LEGO",
+        "mindstorms",
+        "AITENDO",
+        "OLED"
+    ],
     "name": "SHT2X",
     "platforms": "*",
     "repository": {

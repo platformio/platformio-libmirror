@@ -6,13 +6,14 @@
     "description": "First Commit",
     "frameworks": "mbed",
     "keywords": [
+        "SSG",
+        "YMZ294",
         "IR",
         "accelerometer",
         "eCompass",
         "fast",
         "FRDM-KL46Z",
-        "magnetometer",
-        "digitalOut"
+        "magnetometer"
     ],
     "name": "IRremote",
     "platforms": "*",

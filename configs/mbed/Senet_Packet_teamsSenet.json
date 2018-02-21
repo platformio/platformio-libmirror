@@ -14,15 +14,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ANSI",
-        "Terminal",
         "Lora",
-        "senet",
-        "controller",
-        "motor",
-        "pololu",
-        "Qik",
-        "VNH25P30"
+        "senet"
     ],
     "name": "Senet_Packet",
     "platforms": "*",

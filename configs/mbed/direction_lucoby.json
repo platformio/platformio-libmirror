@@ -9,9 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "can bus",
-        "Nucleo",
-        "NUCLEO-F103RB"
+        "printf",
+        "ringbuffer",
+        "Serial",
+        "dB",
+        "digital filter",
+        "DISCO-F746",
+        "frequency response",
+        "log scale",
+        "Mikami"
     ],
     "name": "direction",
     "platforms": "*",

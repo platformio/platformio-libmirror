@@ -15,27 +15,15 @@
     "description": "Adafruit-RGB_matrix_Panel(32*16)",
     "frameworks": "mbed",
     "keywords": [
+        "OLED",
+        "ssd1305",
         "Adafruit",
-        "LEDMatrix",
-        "esc",
-        "KL25z",
-        "pwm",
-        "3.5mm",
-        "music",
-        "sound",
-        "Lora",
-        "Semtech",
-        "SX1272",
-        "SX1272Lib",
-        "SX1272MB1DxS",
-        "SX1276",
-        "SX1276Lib",
-        "SX1276MB1xAS"
+        "LEDMatrix"
     ],
     "name": "RGB_matrix_Panel",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/EIC_mbed/code/RGB_matrix_Panel/"
+        "url": "https://os.mbed.com/teams/EIC_mbed/code/RGB_matrix_Panel/"
     }
 }

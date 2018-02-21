@@ -17,11 +17,14 @@
         "https://os.mbed.com/users/Nim65s/code/AV_MQTT_example/"
     ],
     "frameworks": "mbed",
-    "keywords": "AV_MQTT",
+    "keywords": [
+        "pppoe",
+        "Wiznet"
+    ],
     "name": "AV_MQTT",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/Nim65s/code/AV_MQTT/"
+        "url": "https://os.mbed.com/users/Nim65s/code/AV_MQTT/"
     }
 }

@@ -6,10 +6,16 @@
     "description": "A LIBRARY: use to interface neopixel lights with MBED",
     "frameworks": "mbed",
     "keywords": [
+        "GPS",
+        "interrupt",
+        "NMEA",
         "Nucleo",
         "stm32",
         "Wi-Fi",
-        "X-NUCLEO-IDW01M1"
+        "X-NUCLEO-IDW01M1",
+        "NTP",
+        "SNTP",
+        "SNTPClinet"
     ],
     "name": "neopixels_spi",
     "platforms": "*",

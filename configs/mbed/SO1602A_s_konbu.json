@@ -5,7 +5,14 @@
     },
     "description": "16x2 OLED Character Display SO1602A Series",
     "frameworks": "mbed",
-    "keywords": "kalman",
+    "keywords": [
+        "CloudConnector",
+        "etherios",
+        "IOT",
+        "3pi",
+        "m3pi",
+        "mbed"
+    ],
     "name": "SO1602A",
     "platforms": "*",
     "repository": {

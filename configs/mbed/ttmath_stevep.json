@@ -11,11 +11,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HY-1.8",
-        "ST7735",
         "arbitrary precision",
         "bigint",
-        "bignum"
+        "bignum",
+        "Altimeter",
+        "barometer",
+        "Humitity",
+        "I2C",
+        "Temparature",
+        "HY-1.8",
+        "ST7735"
     ],
     "name": "ttmath",
     "platforms": "*",

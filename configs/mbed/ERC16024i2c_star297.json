@@ -6,11 +6,8 @@
     "description": "ERC1602-4 i2c Text LCD library for East Rising COG display in i2c mode using the ST7032i controller IC.",
     "frameworks": "mbed",
     "keywords": [
-        "João",
-        "Martins;",
-        "MCP23S17;",
-        "MEEE",
-        "UALG;",
+        "Serial",
+        "thermal printer",
         "ERC1602"
     ],
     "name": "ERC1602-4-i2c",

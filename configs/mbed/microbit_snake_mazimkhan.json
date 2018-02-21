@@ -15,25 +15,24 @@
     "description": "A simple two button snake.",
     "frameworks": "mbed",
     "keywords": [
-        "Humidity",
-        "Sensirion",
-        "SHT7x",
-        "Temperature",
-        "arduino",
-        "compatible",
-        "due",
-        "multitasking",
-        "Scheduler",
-        "Analog",
-        "dipsw",
-        "Input",
-        "SW",
-        "tactsw"
+        "GPS",
+        "MKT3339",
+        "TinyGPS",
+        "AD",
+        "da",
+        "MCP4921",
+        "MCP4922",
+        "Nucleo",
+        "SPI",
+        "UIT",
+        "3DOF",
+        "inverse kinematics",
+        "Robotics"
     ],
     "name": "microbit_snake",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/mazimkhan/code/microbit_snake/"
+        "url": "https://os.mbed.com/users/mazimkhan/code/microbit_snake/"
     }
 }

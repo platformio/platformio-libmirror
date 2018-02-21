@@ -7,12 +7,9 @@
     "frameworks": "mbed",
     "keywords": [
         "radiohead",
-        "compass",
-        "HMC5883L",
-        "api",
-        "xbee",
-        "zigbee",
-        "ethernet"
+        "L298",
+        "motor",
+        "Stepper"
     ],
     "name": "RadioHead-148",
     "platforms": "*",

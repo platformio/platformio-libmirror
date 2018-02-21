@@ -13,10 +13,19 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "16x2",
+        "20x2",
+        "20X4",
+        "40x2",
+        "HD4478",
+        "TextLCD",
+        "blink",
+        "led",
+        "LED control",
         "limiter",
         "rate",
-        "display",
-        "LCD"
+        "timer",
+        "watchdog"
     ],
     "name": "RateLimiter",
     "platforms": "*",

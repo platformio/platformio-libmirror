@@ -5,7 +5,13 @@
     },
     "description": "FSLP_Controls_RGB_LEDs",
     "frameworks": "mbed",
-    "keywords": "FSLP_Controls_RGB_LEDs",
+    "keywords": [
+        "SPI",
+        "TC77",
+        "Temperature",
+        "debug",
+        "test"
+    ],
     "name": "FSLP_Controls_RGB_LEDs",
     "platforms": "*",
     "repository": {

@@ -6,6 +6,7 @@
     "description": "This is a driver library for the popular QDSP-6064 bubble display. These miniature displays can be leveraged for small breadboard projects in order to display debug information or even in larger projects where LCD displays are unpractical.",
     "frameworks": "mbed",
     "keywords": [
+        "mbed",
         "bubble",
         "display",
         "driver",

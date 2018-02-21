@@ -10,7 +10,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
+        "MQTT",
+        "MQTTClient",
+        "CAN",
+        "can bus",
+        "CAN message",
         "GR-PEACH",
         "R_BSP"
     ],

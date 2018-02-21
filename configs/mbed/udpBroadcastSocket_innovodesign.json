@@ -6,12 +6,6 @@
     "description": "Modified wrapper for UDP socket allowing broadcast packets using the new network stack.",
     "frameworks": "mbed",
     "keywords": [
-        "keyboard",
-        "USB",
-        "LIDAR Lite",
-        "LidarLite",
-        "I2C",
-        "MCP23017",
         "flash",
         "logging",
         "broadcast",

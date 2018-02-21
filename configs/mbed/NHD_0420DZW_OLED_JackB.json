@@ -6,12 +6,15 @@
     "description": "Library for New Haven NHD_0420DZW OLED",
     "frameworks": "mbed",
     "keywords": [
-        "BUTTON",
-        "cancel",
-        "DIP",
-        "noise",
-        "push",
-        "SW"
+        "current sensor",
+        "INA219",
+        "controller",
+        "PID",
+        "Error",
+        "info",
+        "messages",
+        "Terminal",
+        "warning"
     ],
     "name": "NHD_0420DZW_OLED",
     "platforms": "*",

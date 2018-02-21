@@ -10,7 +10,10 @@
         "https://os.mbed.com/teams/Temp/code/11_PT1000/"
     ],
     "frameworks": "mbed",
-    "keywords": "DS2482",
+    "keywords": [
+        "localization",
+        "translation"
+    ],
     "name": "DS2482",
     "platforms": "*",
     "repository": {

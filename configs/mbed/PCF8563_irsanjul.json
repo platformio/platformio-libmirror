@@ -6,6 +6,10 @@
     "description": "my prototype PCF8563's library",
     "frameworks": "mbed",
     "keywords": [
+        "DS1721",
+        "I2C",
+        "sensor",
+        "Temperature",
         "8563",
         "LPC1768",
         "PCF",

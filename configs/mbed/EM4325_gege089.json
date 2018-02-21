@@ -6,6 +6,8 @@
     "description": "EM4325 is a UHF RFID ASIC that is compliant with ISO/IEC 18000-6 Type C and Type D (TOTAL) as well as EPCTM Class-3 Generation-2 (Gen2). TOTAL is a protocol used for many applications and is an enhanced version of the defacto standard used in apparel item level tagging.",
     "frameworks": "mbed",
     "keywords": [
+        "DS1337",
+        "I2C",
         "EM",
         "nxp",
         "RFID",

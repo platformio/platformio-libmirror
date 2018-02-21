@@ -11,7 +11,11 @@
     "keywords": [
         "aqm0802a",
         "I2C",
-        "Nucleo"
+        "Nucleo",
+        "Humidity",
+        "sensor",
+        "1621",
+        "ds1621"
     ],
     "name": "UIT_AQM0802_I2C",
     "platforms": "*",

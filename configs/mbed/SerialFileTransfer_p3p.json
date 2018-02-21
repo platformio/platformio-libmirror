@@ -9,14 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AHRS",
-        "calculations",
-        "IMU",
+        "pwm",
         "file",
         "Serial",
         "SimpleSerialProtocol",
-        "transfer",
-        "xml"
+        "transfer"
     ],
     "name": "SerialFileTransfer",
     "platforms": "*",

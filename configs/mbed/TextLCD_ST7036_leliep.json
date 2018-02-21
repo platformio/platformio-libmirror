@@ -6,13 +6,17 @@
     "description": "Modified TextLCD library to support DOG series displays with ST7036 controller.",
     "frameworks": "mbed",
     "keywords": [
+        "AT",
+        "C027",
+        "C030",
+        "CellularInterface",
+        "u-blox",
+        "Bertl14",
         "display",
         "DOG",
         "LCD",
         "ST7036",
-        "TextLCD",
-        "Gatech",
-        "TB6612FNG"
+        "TextLCD"
     ],
     "name": "TextLCD_ST7036",
     "platforms": "*",

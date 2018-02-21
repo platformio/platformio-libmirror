@@ -13,6 +13,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "AD",
+        "da",
+        "MCP4921",
+        "MCP4922",
+        "Nucleo",
+        "SPI",
+        "UIT",
+        "ROS",
         "AES",
         "MD2",
         "md5",
@@ -22,7 +30,6 @@
         "network",
         "NSAPI",
         "socket",
-        "ROS",
         "Callback",
         "FunctionPointer",
         "Functor"

@@ -9,10 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LPC4088QSB",
-        "MIDI",
-        "USB",
-        "AudioHL"
+        "AudioHL",
+        "AX-12A",
+        "dynamixel",
+        "robotis"
     ],
     "name": "TLV320HL",
     "platforms": "*",

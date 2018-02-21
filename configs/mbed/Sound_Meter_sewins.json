@@ -14,11 +14,20 @@
     ],
     "description": "Published.",
     "frameworks": "mbed",
-    "keywords": "Sound_Meter",
+    "keywords": [
+        "lifting",
+        "Transformada",
+        "unillanos",
+        "wavelet",
+        "HK10DOF",
+        "IMU10DOF",
+        "ITG3200",
+        "MEMS"
+    ],
     "name": "Sound_Meter",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/sewins/code/Sound_Meter/"
+        "url": "https://os.mbed.com/users/sewins/code/Sound_Meter/"
     }
 }

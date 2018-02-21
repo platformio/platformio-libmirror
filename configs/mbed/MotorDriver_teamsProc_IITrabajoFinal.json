@@ -13,9 +13,7 @@
         "L293D",
         "motor",
         "motorshield",
-        "pwm",
-        "FRDM-KL25Z",
-        "SPI"
+        "pwm"
     ],
     "name": "MotorDriver",
     "platforms": "*",

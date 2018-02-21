@@ -16,8 +16,9 @@
         "median",
         "outlier",
         "spikes",
-        "compass",
-        "HMC5883L"
+        "QEI",
+        "Quadrature encoder interface",
+        "Rotary Encoder"
     ],
     "name": "filter",
     "platforms": "*",

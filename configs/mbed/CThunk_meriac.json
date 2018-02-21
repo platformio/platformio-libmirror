@@ -8,7 +8,15 @@
         "https://os.mbed.com/users/meriac/code/cthunk_example/"
     ],
     "frameworks": "mbed",
-    "keywords": "CThunk",
+    "keywords": [
+        "driver",
+        "full-bridge",
+        "motor",
+        "TA8428",
+        "MPU6000",
+        "MPU6050",
+        "MPU60x0"
+    ],
     "name": "CThunk",
     "platforms": "*",
     "repository": {

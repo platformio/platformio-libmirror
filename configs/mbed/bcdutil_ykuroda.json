@@ -6,8 +6,12 @@
     "description": "BCD and RTC utility",
     "frameworks": "mbed",
     "keywords": [
-        "tcp/ip",
-        "WebSocket"
+        "FAT",
+        "file",
+        "SD",
+        "System",
+        "interpreter",
+        "Pawn"
     ],
     "name": "bcdutil",
     "platforms": "*",

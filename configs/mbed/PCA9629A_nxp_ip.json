@@ -12,11 +12,13 @@
         "PCA9629A",
         "stepper motor",
         "stepping motor",
-        "Low_Power",
-        "LPC1114",
-        "LPC1114FN28",
-        "KL-25Z",
-        "Zumo"
+        "FM24Vxx",
+        "I2C",
+        "RAMTRON",
+        "FAT",
+        "file",
+        "SD",
+        "System"
     ],
     "name": "PCA9629A",
     "platforms": "*",

@@ -18,14 +18,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "window",
         "I2C",
         "Luminosity",
         "Lux",
         "sensor",
-        "USB",
-        "UVC"
+        "LCD",
+        "window",
+        "bt",
+        "UART"
     ],
     "name": "Gamepad",
     "platforms": "*",

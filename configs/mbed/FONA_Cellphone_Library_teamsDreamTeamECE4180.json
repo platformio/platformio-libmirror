@@ -5,7 +5,13 @@
     },
     "description": "Library for Adafruit FONA breakout board",
     "frameworks": "mbed",
-    "keywords": "I2C",
+    "keywords": [
+        "accelerometer",
+        "bma180",
+        "C12832",
+        "LCD",
+        "I2C"
+    ],
     "name": "FONA_Cellphone_Library",
     "platforms": "*",
     "repository": {

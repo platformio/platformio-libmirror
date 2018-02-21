@@ -10,14 +10,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "LCD",
+        "LCD 16x2",
+        "Parallel LCD",
         "MISAKI",
         "OLED",
         "SEL10016Y",
-        "WS0010",
-        "NeoPixel",
-        "stm32",
-        "WS2812B",
-        "DHT11"
+        "WS0010"
     ],
     "name": "GraphicOLED",
     "platforms": "*",

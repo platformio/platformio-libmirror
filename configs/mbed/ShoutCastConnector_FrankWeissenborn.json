@@ -6,8 +6,13 @@
     "description": "ShoutCastConnector",
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "MCP4725"
+        "adc",
+        "dac",
+        "interrupt",
+        "Nucleo F446",
+        "polling",
+        "STM32F446",
+        "JY-LKM1638"
     ],
     "name": "ShoutCastConnector",
     "platforms": "*",

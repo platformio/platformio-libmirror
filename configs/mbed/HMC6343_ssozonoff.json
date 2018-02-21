@@ -6,12 +6,9 @@
     "description": "HMC6343",
     "frameworks": "mbed",
     "keywords": [
-        "timer",
-        "watchdog",
-        "current",
-        "I2C",
-        "INA226",
-        "T.I."
+        "compass",
+        "DISCO_L476VG",
+        "LSM303"
     ],
     "name": "HMC6343",
     "platforms": "*",

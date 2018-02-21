@@ -10,11 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "ethernet",
+        "ip",
+        "mbed",
         "I2C",
         "MAG3110",
-        "magnetometer",
-        "buffer",
-        "ring"
+        "magnetometer"
     ],
     "name": "MAG3110",
     "platforms": "*",

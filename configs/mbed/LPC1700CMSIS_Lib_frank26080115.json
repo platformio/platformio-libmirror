@@ -6,18 +6,9 @@
     "description": "Date: March 20, 2011",
     "frameworks": "mbed",
     "keywords": [
-        "clock",
-        "ds1307",
-        "real",
-        "RTC",
-        "time",
         "api",
-        "16x2",
-        "20x2",
-        "20X4",
-        "40x2",
-        "HD4478",
-        "TextLCD"
+        "command",
+        "Servo"
     ],
     "name": "LPC1700CMSIS_Lib",
     "platforms": "*",

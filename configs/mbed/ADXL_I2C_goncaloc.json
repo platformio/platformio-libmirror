@@ -6,8 +6,13 @@
     "description": "teste",
     "frameworks": "mbed",
     "keywords": [
-        "Encoder",
-        "fischertechnik"
+        "16x4",
+        "LCD",
+        "Pulsewidth",
+        "wait",
+        "Parallax X-Band",
+        "Radar",
+        "X-Band"
     ],
     "name": "ADXL_I2C",
     "platforms": "*",

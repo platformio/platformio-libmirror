@@ -5,7 +5,10 @@
     },
     "description": "Robot",
     "frameworks": "mbed",
-    "keywords": "Robot",
+    "keywords": [
+        "I2C",
+        "LCD"
+    ],
     "name": "Robot",
     "platforms": "*",
     "repository": {

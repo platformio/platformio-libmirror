@@ -9,7 +9,13 @@
         "https://os.mbed.com/users/M_J/code/mbed_Wiznet_W7500/"
     ],
     "frameworks": "mbed",
-    "keywords": "HMC5883L",
+    "keywords": [
+        "DISCO_F746NG",
+        "sdram",
+        "LCD",
+        "Serial",
+        "sparkfun"
+    ],
     "name": "DHT",
     "platforms": "*",
     "repository": {

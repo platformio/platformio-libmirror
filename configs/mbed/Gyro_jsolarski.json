@@ -6,10 +6,19 @@
     "description": "Gyro Library for the Gyro Breakout Board - LISY300AL 300°/s from sparkfun",
     "frameworks": "mbed",
     "keywords": [
+        "Adafruit",
+        "PCA9685",
         "Analog",
         "AnalogIn",
         "gyro",
-        "sensor"
+        "sensor",
+        "Nordic",
+        "nRF",
+        "nRF51422",
+        "nRF51822",
+        "timer",
+        "watchdog",
+        "LCD"
     ],
     "name": "Gyro",
     "platforms": "*",

@@ -6,8 +6,12 @@
     "description": "Pinned to some recent date",
     "frameworks": "mbed",
     "keywords": [
-        "driver",
-        "motor"
+        "16x2",
+        "20x2",
+        "20X4",
+        "40x2",
+        "HD4478",
+        "TextLCD"
     ],
     "name": "mbed-os",
     "platforms": "*",

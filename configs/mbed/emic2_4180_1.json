@@ -17,7 +17,10 @@
         "https://os.mbed.com/teams/BAT/code/BAT_senior_design_Testnew/"
     ],
     "frameworks": "mbed",
-    "keywords": "BME280",
+    "keywords": [
+        "bus",
+        "PCF8574"
+    ],
     "name": "emic2",
     "platforms": "*",
     "repository": {

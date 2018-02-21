@@ -5,7 +5,20 @@
     },
     "description": "MCP4812 library",
     "frameworks": "mbed",
-    "keywords": "MCP4812",
+    "keywords": [
+        "buffer",
+        "debug",
+        "debugging",
+        "informative",
+        "logger",
+        "logging",
+        "Save",
+        "stashing",
+        "clock",
+        "mcp97410",
+        "RTC",
+        "time"
+    ],
     "name": "MCP4812",
     "platforms": "*",
     "repository": {

@@ -9,15 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "FAT",
+        "file",
+        "SD",
+        "System",
         "FRDM-KL25Z",
         "LCD",
-        "Nokia",
-        "adc",
-        "dac",
-        "interrupt",
-        "Nucleo F446",
-        "polling",
-        "STM32F446"
+        "Nokia"
     ],
     "name": "ColorLCDShield",
     "platforms": "*",

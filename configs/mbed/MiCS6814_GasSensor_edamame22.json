@@ -9,12 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "OLED",
+        "SSD1332",
         "Gas",
         "MiCS-6814",
         "Multichannel",
         "sensor",
-        "OLED",
-        "SSD1332"
+        "RN-XV",
+        "WiFly"
     ],
     "name": "MiCS6814_GasSensor",
     "platforms": "*",

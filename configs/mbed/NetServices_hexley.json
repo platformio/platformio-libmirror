@@ -6,11 +6,11 @@
     "description": "NetTribute library with debug turned on in FShandler",
     "frameworks": "mbed",
     "keywords": [
-        "AT",
-        "C027",
-        "C030",
-        "CellularInterface",
-        "u-blox"
+        "dynamixel",
+        "motor",
+        "Stepper",
+        "stepping",
+        "Uni-polar"
     ],
     "name": "NetServices",
     "platforms": "*",

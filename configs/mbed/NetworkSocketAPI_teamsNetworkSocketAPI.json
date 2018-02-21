@@ -27,6 +27,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "AD",
+        "da",
+        "MCP4921",
+        "MCP4922",
+        "Nucleo",
+        "SPI",
+        "UIT",
+        "ROS",
         "AES",
         "MD2",
         "md5",
@@ -36,7 +44,6 @@
         "network",
         "NSAPI",
         "socket",
-        "ROS",
         "Callback",
         "FunctionPointer",
         "Functor"
@@ -45,6 +52,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/NetworkSocketAPI/code/NetworkSocketAPI/"
+        "url": "https://os.mbed.com/teams/NetworkSocketAPI/code/NetworkSocketAPI/"
     }
 }

@@ -6,16 +6,18 @@
     "description": "Used to communicate with the Maxon EPOS 24/2 motor controller using the ST Nucleo micro controller. Can be easily modified to work with other micro controllers as well. Only limited functionality (velocity mode and current reading).",
     "frameworks": "mbed",
     "keywords": [
-        "api",
-        "blink",
-        "led",
+        "DISCO-STM32F746NG",
+        "flash",
+        "Micron",
+        "QSPI",
+        "Quad-SPI",
+        "ST",
         "EPOS",
         "epos2",
         "maxon",
         "motor",
         "Nucleo",
-        "Serial",
-        "ST"
+        "Serial"
     ],
     "name": "maxonEPOS2",
     "platforms": "*",

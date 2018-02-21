@@ -9,10 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
         "CDC",
         "MSD",
-        "USB"
+        "USB",
+        "accelerometer"
     ],
     "name": "USBCDCMSC",
     "platforms": "*",

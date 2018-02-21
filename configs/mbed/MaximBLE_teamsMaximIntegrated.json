@@ -10,9 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Encoder",
-        "scp1000",
-        "SoftSPI"
+        "Lidar",
+        "9bit",
+        "RS-485",
+        "Serial",
+        "display",
+        "Freedom",
+        "kl46z",
+        "LCD",
+        "segment"
     ],
     "name": "MaximBLE",
     "platforms": "*",

@@ -15,7 +15,20 @@
         "https://os.mbed.com/teams/2014/code/CatPot_Main_T/"
     ],
     "frameworks": "mbed",
-    "keywords": "xbee",
+    "keywords": [
+        "DC motor",
+        "h bridge",
+        "L293D",
+        "l298n",
+        "pwm",
+        "Nucleo",
+        "arduino",
+        "micros",
+        "millis",
+        "arithmetic",
+        "fixed",
+        "point"
+    ],
     "name": "MultiSerial",
     "platforms": "*",
     "repository": {

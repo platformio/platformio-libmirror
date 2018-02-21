@@ -6,9 +6,8 @@
     "description": "AverageFilter",
     "frameworks": "mbed",
     "keywords": [
-        "cmsis",
-        "rtos",
-        "RTX"
+        "HD44780",
+        "TextLCD"
     ],
     "name": "AverageFilter",
     "platforms": "*",

@@ -15,19 +15,22 @@
     "description": "Serial Communication/ Analog Read/ FFT compute / LCD Text / Write on SD Card / read and write RTC application. K64F app developed for Electrical Engineering undergraduate final project at Ulbra university.",
     "frameworks": "mbed",
     "keywords": [
+        "dynamixel",
+        "MX-12W",
+        "MX12",
+        "MX12W",
+        "robotis",
+        "Servo",
+        "choroQ",
         "3g",
         "arduino",
         "PHS",
-        "shield",
-        "USBDevice",
-        "real time",
-        "serial port",
-        "serial protocols"
+        "shield"
     ],
     "name": "TCC_MCSA",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/flencina/code/TCC_MCSA/"
+        "url": "https://os.mbed.com/users/flencina/code/TCC_MCSA/"
     }
 }

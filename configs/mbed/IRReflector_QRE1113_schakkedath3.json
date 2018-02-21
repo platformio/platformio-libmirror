@@ -5,13 +5,7 @@
     },
     "description": "This library is for interfacing the IR Reflector QRE1113",
     "frameworks": "mbed",
-    "keywords": [
-        "2.8",
-        "Adafruit",
-        "FRDM-KL25Z",
-        "TFT",
-        "FRDM-K20D50"
-    ],
+    "keywords": "TCA9548A",
     "name": "IRReflector_QRE1113",
     "platforms": "*",
     "repository": {

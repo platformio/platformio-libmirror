@@ -16,15 +16,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "I2C",
-        "led",
+        "minutes",
+        "seconds",
+        "stopwatch",
+        "timer",
+        "watch",
         "MPU9150",
         "Quaternion",
-        "vector",
-        "RF12",
-        "rfm12",
-        "RFM12B"
+        "vector"
     ],
     "name": "QuaternionMath",
     "platforms": "*",

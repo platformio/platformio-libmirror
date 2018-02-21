@@ -15,15 +15,13 @@
     "description": "Easily add all supported connectivity methods to your mbed OS project",
     "frameworks": "mbed",
     "keywords": [
-        "bot",
-        "motor",
-        "sensors",
-        "shield"
+        "DELTA DFCM-NNN50",
+        "HTTPClient"
     ],
     "name": "easy-connect-type-yd",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/MACRUM/code/easy-connect-type-yd/"
+        "url": "https://os.mbed.com/users/MACRUM/code/easy-connect-type-yd/"
     }
 }

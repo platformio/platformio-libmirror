@@ -6,6 +6,10 @@
     "description": "A simple class which can be used to control a motor through a HBridge (such as the L293).",
     "frameworks": "mbed",
     "keywords": [
+        "color",
+        "led",
+        "rgb",
+        "AM2320",
         "hbridge",
         "ICRS",
         "motor"

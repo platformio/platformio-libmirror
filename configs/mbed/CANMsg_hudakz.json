@@ -9,9 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "MQTT",
+        "MQTTClient",
         "CAN",
         "can bus",
-        "CAN message"
+        "CAN message",
+        "GR-PEACH",
+        "R_BSP"
     ],
     "name": "CANMsg",
     "platforms": "*",

@@ -15,7 +15,11 @@
         "programing",
         "pwm",
         "registry",
-        "Stepper"
+        "Stepper",
+        "control",
+        "PID",
+        "TJPS",
+        "AT42QT1010"
     ],
     "name": "TruePWM",
     "platforms": "*",

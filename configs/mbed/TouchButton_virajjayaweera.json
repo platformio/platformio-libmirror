@@ -23,18 +23,18 @@
         "USB",
         "USBKeyboard",
         "usbserial",
-        "ROS",
         "4",
         "buttons",
         "convert",
         "Slider",
         "to",
-        "touch"
+        "touch",
+        "ROS"
     ],
     "name": "TouchButton",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/virajjayaweera/code/TouchButton/"
+        "url": "https://os.mbed.com/users/virajjayaweera/code/TouchButton/"
     }
 }

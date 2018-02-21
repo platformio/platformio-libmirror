@@ -6,14 +6,14 @@
     "description": "Lib to change the clock speed of the ST Nucleo L152RE board to 32 MHz.",
     "frameworks": "mbed",
     "keywords": [
+        "2645",
+        "TMP102",
         "bridge",
         "I2C",
         "SC16IS750",
         "SC16IS752",
         "SPI",
         "UART",
-        "2645",
-        "TMP102",
         "L152",
         "Nucleo"
     ],

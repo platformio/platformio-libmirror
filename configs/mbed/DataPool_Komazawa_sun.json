@@ -20,11 +20,14 @@
         "https://os.mbed.com/users/hirotayamato/code/GAMMA_A/"
     ],
     "frameworks": "mbed",
-    "keywords": "DataPool",
+    "keywords": [
+        "aconno",
+        "I2C"
+    ],
     "name": "DataPool",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/Komazawa_sun/code/DataPool/"
+        "url": "https://os.mbed.com/users/Komazawa_sun/code/DataPool/"
     }
 }

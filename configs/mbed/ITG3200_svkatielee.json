@@ -6,7 +6,10 @@
     "description": "Ported to have same calls as L3G4200D lib so it can be substituted in HK10dof library ( which is being modified to use this and renamed IMU10DOF) platform NUCLEO-F401",
     "frameworks": "mbed",
     "keywords": [
-        "ILI9325",
+        "lifting",
+        "Transformada",
+        "unillanos",
+        "wavelet",
         "HK10DOF",
         "IMU10DOF",
         "ITG3200",

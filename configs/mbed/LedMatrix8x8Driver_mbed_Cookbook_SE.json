@@ -5,7 +5,10 @@
     },
     "description": "8x8ドットマトリクスLED用のドライバ",
     "frameworks": "mbed",
-    "keywords": "LedMatrix8x8Driver",
+    "keywords": [
+        "pppoe",
+        "Wiznet"
+    ],
     "name": "LedMatrix8x8Driver",
     "platforms": "*",
     "repository": {

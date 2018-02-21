@@ -5,7 +5,11 @@
     },
     "description": "menu für die LCD Anzeige",
     "frameworks": "mbed",
-    "keywords": "menu",
+    "keywords": [
+        "msgpack",
+        "FreeRTOS",
+        "rtos"
+    ],
     "name": "menu",
     "platforms": "*",
     "repository": {

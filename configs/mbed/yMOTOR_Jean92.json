@@ -6,16 +6,8 @@
     "description": "Gestion pont-H pour moteur CC",
     "frameworks": "mbed",
     "keywords": [
-        "MCP4822",
         "motor",
-        "pwm",
-        "4DSystems",
-        "audio",
-        "library",
-        "module",
-        "program",
-        "SOMO-14D",
-        "stm32"
+        "pwm"
     ],
     "name": "yMOTOR",
     "platforms": "*",

@@ -15,13 +15,17 @@
     "description": "TI's mqtt.",
     "frameworks": "mbed",
     "keywords": [
-        "RN-XV",
-        "WiFly"
+        "wallbot",
+        "AES",
+        "MD2",
+        "md5",
+        "RC4",
+        "SHA"
     ],
     "name": "mqtt_V1",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/dflet/code/mqtt_V1/"
+        "url": "https://os.mbed.com/users/dflet/code/mqtt_V1/"
     }
 }

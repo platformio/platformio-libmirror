@@ -13,7 +13,10 @@
     "keywords": [
         "VGA",
         "video",
-        "JPEG"
+        "JPEG",
+        "adc",
+        "MCP",
+        "MCP3002"
     ],
     "name": "BaseJpegDecode",
     "platforms": "*",

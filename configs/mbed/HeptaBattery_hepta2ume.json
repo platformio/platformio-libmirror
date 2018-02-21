@@ -21,16 +21,11 @@
         "https://os.mbed.com/users/umeume/code/HEPTA/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "ar1020",
-        "Microchip",
-        "screen",
-        "touch"
-    ],
+    "keywords": "HeptaBattery",
     "name": "HeptaBattery",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/hepta2ume/code/HeptaBattery/"
+        "url": "https://os.mbed.com/users/hepta2ume/code/HeptaBattery/"
     }
 }

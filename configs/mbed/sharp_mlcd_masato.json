@@ -10,12 +10,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "timer",
-        "watchdog",
-        "current",
-        "I2C",
-        "INA226",
-        "T.I."
+        "display",
+        "LCD"
     ],
     "name": "sharp_mlcd",
     "platforms": "*",

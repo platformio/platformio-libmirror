@@ -17,11 +17,19 @@
         "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/PURS_ZI_003/"
     ],
     "frameworks": "mbed",
-    "keywords": "Bomba",
+    "keywords": [
+        "I2C",
+        "MCP23017",
+        "wattbob",
+        "EA",
+        "Graphics",
+        "OLED",
+        "SPI"
+    ],
     "name": "Bomba",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/TVZ-Mechatronics-Team/code/Bomba/"
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/Bomba/"
     }
 }

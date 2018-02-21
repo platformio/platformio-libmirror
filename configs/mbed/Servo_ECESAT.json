@@ -6,6 +6,10 @@
     "description": "Servo motor testing for CANSAT",
     "frameworks": "mbed",
     "keywords": [
+        "color",
+        "led",
+        "rgb",
+        "AM2320",
         "hbridge",
         "ICRS",
         "motor"

@@ -9,11 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "LcdWindow",
+        "TextLCD",
         "type traits",
         "typeid",
         "variable type name",
-        "FIAP",
-        "IEEE1888"
+        "HD44780"
     ],
     "name": "GetTypeName",
     "platforms": "*",

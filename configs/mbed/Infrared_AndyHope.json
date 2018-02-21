@@ -5,7 +5,11 @@
     },
     "description": "Infrared remote test functions (11/26/2010)",
     "frameworks": "mbed",
-    "keywords": "Infrared",
+    "keywords": [
+        "OLED",
+        "SPI",
+        "SSD1332"
+    ],
     "name": "Infrared",
     "platforms": "*",
     "repository": {

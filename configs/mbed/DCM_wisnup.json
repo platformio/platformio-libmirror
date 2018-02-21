@@ -6,17 +6,11 @@
     "description": "dcm",
     "frameworks": "mbed",
     "keywords": [
-        "card",
-        "fatfilesystem",
-        "MMC",
-        "SD",
-        "SDHC",
-        "SDXC",
-        "hih6130",
-        "Humidity",
-        "I2C",
-        "sensor",
-        "Temperature"
+        "SDFileSystem",
+        "USBMSD",
+        "codificacion",
+        "UTF8",
+        "PID QEI Motor コントロール 角度 ロータリーエンコーダ"
     ],
     "name": "DCM",
     "platforms": "*",

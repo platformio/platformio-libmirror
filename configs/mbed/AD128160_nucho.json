@@ -9,9 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "RTX",
+        "DISCO_L476VG",
+        "LCD",
+        "DISCO_F429ZI",
+        "gyroscope",
         "AD-128160-UART",
         "AITENDO",
-        "LCD",
         "Serial"
     ],
     "name": "AD128160",

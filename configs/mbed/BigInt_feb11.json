@@ -6,10 +6,11 @@
     "description": "This library provides a way to easily handle arbitrary large integers.",
     "frameworks": "mbed",
     "keywords": [
-        "CMT",
-        "K64F",
+        "fault",
+        "injector",
         "output",
-        "PPM"
+        "PPM",
+        "PPMout"
     ],
     "name": "BigInt",
     "platforms": "*",

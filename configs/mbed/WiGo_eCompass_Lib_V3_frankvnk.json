@@ -11,16 +11,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "authorization",
-        "client",
-        "custom",
-        "headers",
-        "http",
         "eCompass",
         "Wi-Go",
-        "WiGo",
-        "semihosting",
-        "SWD"
+        "WiGo"
     ],
     "name": "Wi-Go_eCompass_Lib_V3",
     "platforms": "*",

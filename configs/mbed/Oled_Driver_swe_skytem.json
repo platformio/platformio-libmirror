@@ -6,9 +6,6 @@
     "description": "Oled Display Driver, tested to work with EA W082-XLG SPI (HD44780) and WEH001602CRPP5N00001-WSR (WS0010). It can work with other SPI Oled Displays. It should work with 20x4 aswell but has not been tested.",
     "frameworks": "mbed",
     "keywords": [
-        "AT30TSE75x",
-        "I2C",
-        "Temperature",
         "16x2",
         "20X4",
         "8x2",
@@ -18,7 +15,12 @@
         "OLED",
         "SPI",
         "W082-XLG",
-        "WS0010"
+        "WS0010",
+        "F402RE",
+        "Ghz2000",
+        "mbed",
+        "Nucleo",
+        "Seg14Display"
     ],
     "name": "Oled_Driver",
     "platforms": "*",

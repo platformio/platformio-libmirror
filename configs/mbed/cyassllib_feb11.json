@@ -9,7 +9,15 @@
         "https://os.mbed.com/users/glbast/code/TLS_cyassl/"
     ],
     "frameworks": "mbed",
-    "keywords": "cyassl-lib",
+    "keywords": [
+        "buffered serial",
+        "ring buffer",
+        "Serial",
+        "Fake SPI",
+        "SPI",
+        "Virtual SPI",
+        "VSPI"
+    ],
     "name": "cyassl-lib",
     "platforms": "*",
     "repository": {

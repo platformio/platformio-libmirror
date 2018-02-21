@@ -8,7 +8,17 @@
         "https://os.mbed.com/users/Faridzaher/code/Sonic/"
     ],
     "frameworks": "mbed",
-    "keywords": "SonicD",
+    "keywords": [
+        "cmsis",
+        "L152",
+        "Nucleo",
+        "rtos",
+        "RTX",
+        "accelerometer",
+        "fxos8700cq",
+        "I2C",
+        "magnetometer"
+    ],
     "name": "SonicD",
     "platforms": "*",
     "repository": {

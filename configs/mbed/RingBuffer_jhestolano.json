@@ -6,13 +6,9 @@
     "description": "Simple ring buffer",
     "frameworks": "mbed",
     "keywords": [
-        "median",
-        "sliding",
-        "window",
-        "Host",
-        "mbed",
-        "PTP",
-        "USB"
+        "ILI9341",
+        "SPI",
+        "nRF24L01"
     ],
     "name": "RingBuffer",
     "platforms": "*",

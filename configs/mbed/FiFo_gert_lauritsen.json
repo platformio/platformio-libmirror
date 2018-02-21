@@ -6,10 +6,19 @@
     "description": "A simple fifo for data",
     "frameworks": "mbed",
     "keywords": [
-        "jsmn",
-        "JSON",
         "FIFO",
-        "Queue"
+        "Queue",
+        "array",
+        "I2C",
+        "infrared",
+        "IR",
+        "KL25z",
+        "Temperature",
+        "Bulk",
+        "Traceport",
+        "USB",
+        "etti",
+        "TUIASI"
     ],
     "name": "FiFo",
     "platforms": "*",

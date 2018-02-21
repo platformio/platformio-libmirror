@@ -8,7 +8,10 @@
         "https://os.mbed.com/users/morimoriYNCT/code/gps_com/"
     ],
     "frameworks": "mbed",
-    "keywords": "timer",
+    "keywords": [
+        "LPC4330",
+        "timer"
+    ],
     "name": "TimerExtended",
     "platforms": "*",
     "repository": {

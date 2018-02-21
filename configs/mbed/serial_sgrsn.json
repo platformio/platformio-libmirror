@@ -5,7 +5,15 @@
     },
     "description": "serial",
     "frameworks": "mbed",
-    "keywords": "serial",
+    "keywords": [
+        "controller",
+        "Servo",
+        "buffer",
+        "ring",
+        "1508",
+        "LPC1768",
+        "sx1508"
+    ],
     "name": "serial",
     "platforms": "*",
     "repository": {

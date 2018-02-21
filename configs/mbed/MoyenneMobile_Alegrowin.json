@@ -13,8 +13,10 @@
         "KL25z",
         "Wi-Go",
         "WiGo",
-        "Servo",
-        "tlc5940"
+        "CGRAM",
+        "CLCD",
+        "custom",
+        "TextLCD"
     ],
     "name": "MoyenneMobile",
     "platforms": "*",

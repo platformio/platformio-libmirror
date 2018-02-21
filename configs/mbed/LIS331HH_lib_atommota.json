@@ -6,17 +6,10 @@
     "description": "LIS331HH_lib",
     "frameworks": "mbed",
     "keywords": [
-        "AX-12",
-        "AX-12W",
-        "control",
-        "dynamixel",
-        "LPC1768",
-        "nxp",
-        "PAPACO",
-        "Robotics",
-        "Servo",
-        "MicroNFCBoard",
-        "NFC"
+        "HMC5843",
+        "HMC5883L",
+        "HMC58X3",
+        "magnetometer"
     ],
     "name": "LIS331HH_lib",
     "platforms": "*",

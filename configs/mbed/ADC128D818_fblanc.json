@@ -9,18 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "brushDC",
-        "low power",
-        "motor",
-        "ST",
-        "STSPIN240",
+        "NTCThermistor",
+        "Temperature",
+        "thermistor",
         "adc",
         "I2C",
         "Monito",
-        "System",
-        "GPS",
-        "interrupt",
-        "NMEA"
+        "System"
     ],
     "name": "ADC128D818",
     "platforms": "*",

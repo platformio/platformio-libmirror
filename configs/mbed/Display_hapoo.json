@@ -6,16 +6,13 @@
     "description": "Software to control a 128x64 graphic LCD with KS0107B and KS0108B controller. Slight modification to Anders Hörnfeldts Code which increases framerate by up to 300%.",
     "frameworks": "mbed",
     "keywords": [
+        "etti",
+        "TUIASI",
         "display",
         "graphic",
         "KS0107",
         "KS0108",
-        "LCD",
-        "C027",
-        "C030",
-        "GNSS",
-        "GPS",
-        "u-blox"
+        "LCD"
     ],
     "name": "Display",
     "platforms": "*",

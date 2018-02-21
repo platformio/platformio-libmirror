@@ -9,13 +9,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "daisy-chain",
-        "L6470",
-        "SPI",
-        "Stepper",
         "7",
         "display",
-        "segment"
+        "segment",
+        "Humidity",
+        "Sensiron",
+        "Temperature",
+        "MAX485",
+        "RS485"
     ],
     "name": "Multi7Seg",
     "platforms": "*",

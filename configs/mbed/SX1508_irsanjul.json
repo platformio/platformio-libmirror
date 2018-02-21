@@ -6,6 +6,10 @@
     "description": "Prototype of SX1508's library",
     "frameworks": "mbed",
     "keywords": [
+        "controller",
+        "Servo",
+        "buffer",
+        "ring",
         "1508",
         "LPC1768",
         "sx1508"

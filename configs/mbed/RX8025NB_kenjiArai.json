@@ -6,21 +6,11 @@
     "description": "RX-8025NB Real Time Clock Module by EPSON",
     "frameworks": "mbed",
     "keywords": [
-        "control",
-        "Heater",
-        "Temperature",
         "8025",
         "EPSON",
         "RTC",
         "RX-8025NB",
-        "74hc595",
-        "Adafruit",
-        "arduino",
-        "FRDM-KL46Z",
-        "L293D",
-        "motor",
-        "motorshield",
-        "pwm"
+        "StarBoardOrange"
     ],
     "name": "RX8025NB",
     "platforms": "*",

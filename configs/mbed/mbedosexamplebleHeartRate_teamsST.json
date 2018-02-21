@@ -6,10 +6,13 @@
     "description": "BLE HearRate example",
     "frameworks": "mbed",
     "keywords": [
+        "JSON",
         "BLE",
         "BLE Bluetooth Low Energy BLE",
         "HearRate",
-        "Lidar"
+        "LPC11U24",
+        "LPC1768",
+        "WDT"
     ],
     "name": "mbed-os-example-ble-HeartRate",
     "platforms": "*",

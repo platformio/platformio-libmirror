@@ -24,11 +24,18 @@
         "https://os.mbed.com/users/cristianobarbosa/code/microbit-dal2/"
     ],
     "frameworks": "mbed",
-    "keywords": "I2C",
+    "keywords": [
+        "inair4",
+        "inair8",
+        "inair9",
+        "Lora",
+        "modtronix",
+        "SX1276"
+    ],
     "name": "nRF51822",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/Lancaster-University/code/nRF51822/"
+        "url": "https://os.mbed.com/teams/Lancaster-University/code/nRF51822/"
     }
 }

@@ -9,10 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "atmospheric pressure",
         "I2C",
-        "lps25h",
-        "VFD"
+        "VFD",
+        "decoder",
+        "Encoder",
+        "Morse",
+        "atmospheric pressure",
+        "lps25h"
     ],
     "name": "UIT_LPS25H_I2C",
     "platforms": "*",

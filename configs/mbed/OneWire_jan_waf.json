@@ -6,10 +6,6 @@
     "description": "Implemets a 1-Wire library, currently without \"Search ROM\" support",
     "frameworks": "mbed",
     "keywords": [
-        "distance",
-        "driver",
-        "sensor",
-        "VL6180x",
         "1",
         "1-wire",
         "DS1820",
@@ -17,7 +13,12 @@
         "one",
         "OneWire",
         "Wire",
-        "realtimeclock"
+        "DHT11",
+        "DHT22",
+        "Humidity",
+        "sensor",
+        "Temperature",
+        "SSD1331"
     ],
     "name": "OneWire",
     "platforms": "*",

@@ -14,28 +14,11 @@
     ],
     "description": "Driver to control the EM027BS013 board from Embedded Artists",
     "frameworks": "mbed",
-    "keywords": [
-        "consumption",
-        "control",
-        "ethernet",
-        "Management",
-        "Power",
-        "PowerControl",
-        "3pi",
-        "II",
-        "m3pi",
-        "pololu",
-        "pops",
-        "PPS",
-        "robot",
-        "accelerometer",
-        "aconno",
-        "MMA8452"
-    ],
+    "keywords": "EaEpaper_EM027BS013",
     "name": "EaEpaper_EM027BS013",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/Leigh_LbR/code/EaEpaper_EM027BS013/"
+        "url": "https://os.mbed.com/users/Leigh_LbR/code/EaEpaper_EM027BS013/"
     }
 }

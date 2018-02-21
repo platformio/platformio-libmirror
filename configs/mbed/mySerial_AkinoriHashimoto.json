@@ -15,36 +15,20 @@
     "description": "Serial Communicate Control Class.",
     "frameworks": "mbed",
     "keywords": [
-        "emulation",
-        "I2C",
-        "SoftI2C",
-        "software",
-        "24bit",
-        "adc",
-        "NTC",
-        "PT100",
-        "PT1000",
-        "PT500",
-        "RTD",
-        "Temperature",
-        "Thermocouple",
-        "Arducam",
-        "OV5642",
         "printf",
         "ringbuffer",
         "Serial",
-        "motor",
-        "AT",
-        "C030",
-        "CellularInterface",
-        "N211",
-        "N2xx",
-        "u-blox"
+        "dB",
+        "digital filter",
+        "DISCO-F746",
+        "frequency response",
+        "log scale",
+        "Mikami"
     ],
     "name": "mySerial",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/AkinoriHashimoto/code/mySerial/"
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/mySerial/"
     }
 }

@@ -15,23 +15,16 @@
     "description": "Real Time Clock.",
     "frameworks": "mbed",
     "keywords": [
-        "distance",
-        "driver",
-        "sensor",
-        "VL6180x",
-        "1",
-        "1-wire",
-        "DS1820",
-        "Maxim",
-        "one",
-        "OneWire",
-        "Wire",
+        "filter",
+        "IMU",
+        "MARG",
+        "SSD1331",
         "realtimeclock"
     ],
     "name": "RealTimeClock",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/AkinoriHashimoto/code/RealTimeClock/"
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/RealTimeClock/"
     }
 }

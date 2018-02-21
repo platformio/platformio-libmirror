@@ -14,7 +14,15 @@
     ],
     "description": "new format",
     "frameworks": "mbed",
-    "keywords": "fatboyslim",
+    "keywords": [
+        "16bit Timer",
+        "LCD_Wait",
+        "wait",
+        "LCD",
+        "LCD 16x2",
+        "LPC11U68",
+        "ST7066U"
+    ],
     "name": "fatboyslim",
     "platforms": "*",
     "repository": {

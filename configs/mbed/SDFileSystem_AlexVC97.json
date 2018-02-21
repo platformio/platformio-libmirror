@@ -13,11 +13,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "algebra",
+        "Kinematics",
+        "Linear",
+        "matrix",
+        "JSON",
+        "I2C",
+        "MCP4725",
         "card",
-        "SD",
-        "biquad",
-        "DSP",
-        "filter"
+        "SD"
     ],
     "name": "SDFileSystem",
     "platforms": "*",

@@ -12,10 +12,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "InterruptIn",
-        "F401RE",
-        "Nucleo",
-        "USBHOST"
+        "devantech",
+        "ranger",
+        "SRF02",
+        "SRF08",
+        "ultrasonic",
+        "BME280",
+        "Shiftbrite",
+        "InterruptIn"
     ],
     "name": "interruptin_mod",
     "platforms": "*",

@@ -6,10 +6,14 @@
     "description": "gfx library for ssd1351",
     "frameworks": "mbed",
     "keywords": [
-        "C027",
-        "C030",
-        "CellularInterface",
-        "u-blox"
+        "DMP",
+        "IMU",
+        "invensense",
+        "MPU605-DMP",
+        "MPU6050",
+        "Quaternion",
+        "Tilty",
+        "TiltyIMU"
     ],
     "name": "Adafruit_GFX",
     "platforms": "*",

@@ -11,15 +11,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "38kHz",
-        "IR",
-        "remote",
         "quadcopter",
         "Servo",
-        "NeoPixel",
-        "nRF51822",
-        "RedBear",
-        "WS2812"
+        "38kHz",
+        "IR",
+        "remote"
     ],
     "name": "Servo",
     "platforms": "*",

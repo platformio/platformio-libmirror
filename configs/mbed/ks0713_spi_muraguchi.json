@@ -6,10 +6,10 @@
     "description": "ks0713 SPI library.",
     "frameworks": "mbed",
     "keywords": [
-        "DMX-512",
         "AITENDO",
         "KS0713",
-        "SPI"
+        "SPI",
+        "MPL3115A2"
     ],
     "name": "ks0713_spi",
     "platforms": "*",

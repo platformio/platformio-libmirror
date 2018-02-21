@@ -10,7 +10,13 @@
         "Lascar",
         "LCD",
         "SP5-GFX1",
-        "SPI"
+        "SPI",
+        "card",
+        "fatfilesystem",
+        "MMC",
+        "SD",
+        "SDHC",
+        "SDXC"
     ],
     "name": "sp5fx1",
     "platforms": "*",

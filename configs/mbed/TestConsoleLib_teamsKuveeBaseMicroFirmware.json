@@ -18,8 +18,9 @@
         "Serial Communication",
         "test console",
         "test program",
-        "BurstSPI",
-        "F411RE"
+        "LCD",
+        "Serial",
+        "sparkfun"
     ],
     "name": "TestConsoleLib",
     "platforms": "*",

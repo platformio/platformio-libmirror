@@ -6,9 +6,10 @@
     "description": "Xbee testing for cansat",
     "frameworks": "mbed",
     "keywords": [
-        "COMMAND PARSER",
-        "serial command",
-        "uart interupt"
+        "digital out",
+        "FRDMKL25Z",
+        "mbed",
+        "rpc"
     ],
     "name": "xbee",
     "platforms": "*",

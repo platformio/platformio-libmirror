@@ -5,7 +5,12 @@
     },
     "description": "LIS3DH through spi",
     "frameworks": "mbed",
-    "keywords": "LIS3DH_spi",
+    "keywords": [
+        "HMC5843",
+        "HMC5883L",
+        "HMC58X3",
+        "magnetometer"
+    ],
     "name": "LIS3DH_spi",
     "platforms": "*",
     "repository": {

@@ -6,8 +6,17 @@
     "description": "Librería para utilizar Teclado 4x4.Para mas información y Ayuda ingresa a la agina http://www.ideastechnology.com",
     "frameworks": "mbed",
     "keywords": [
-        "SPI",
-        "xbee"
+        "ADT7310",
+        "Analog",
+        "devices",
+        "sensor",
+        "Temperature",
+        "BUTTON",
+        "cancel",
+        "DIP",
+        "noise",
+        "push",
+        "SW"
     ],
     "name": "TECLADOIDETEC",
     "platforms": "*",

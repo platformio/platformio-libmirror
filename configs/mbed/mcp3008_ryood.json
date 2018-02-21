@@ -10,7 +10,20 @@
         "https://os.mbed.com/users/arlindonm/code/ProjetoBB/"
     ],
     "frameworks": "mbed",
-    "keywords": "flash",
+    "keywords": [
+        "map",
+        "range",
+        "aqm0802",
+        "I2C",
+        "LCD",
+        "M24LR",
+        "NDEF",
+        "NFC",
+        "NFC2",
+        "ST",
+        "URI",
+        "X-NUCLEO-NFC02A1"
+    ],
     "name": "mcp3008",
     "platforms": "*",
     "repository": {

@@ -5,7 +5,20 @@
     },
     "description": "Very simple cooperative round-robin task scheduler. See examples.",
     "frameworks": "mbed",
-    "keywords": "Scheduler",
+    "keywords": [
+        "BLE",
+        "BLE Bluetooth Low Energy BLE",
+        "Eddystone",
+        "Scheduler",
+        "led",
+        "rgb",
+        "WS2812",
+        "WS2812B",
+        "2.4",
+        "LCD",
+        "MCUFRIEND",
+        "TFT"
+    ],
     "name": "SimpleScheduler",
     "platforms": "*",
     "repository": {

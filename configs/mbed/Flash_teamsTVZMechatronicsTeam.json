@@ -18,29 +18,20 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "controller",
-        "Servo",
-        "ILI9320",
-        "ILI9325",
-        "ILI9328",
-        "ILI9341",
-        "ILI9481",
-        "ILI9486",
-        "IST3020",
-        "LCD",
-        "MIPI",
-        "parallel",
-        "SPI",
-        "SSD1306",
-        "ST7565",
-        "TFT",
-        "UC1608",
-        "UC1701"
+        "AT30TSE75x",
+        "I2C",
+        "Temperature",
+        "OLED",
+        "TextLCD",
+        "WEH000802",
+        "WEH001602",
+        "Winstar",
+        "DRV8301"
     ],
     "name": "Flash",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/TVZ-Mechatronics-Team/code/Flash/"
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/Flash/"
     }
 }

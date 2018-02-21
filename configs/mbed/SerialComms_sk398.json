@@ -6,10 +6,8 @@
     "description": "UART Driver to receive asynchronous Serial Comms from a Raspberry Pi and parse the results.",
     "frameworks": "mbed",
     "keywords": [
-        "LSM303D",
-        "bitmap",
-        "Graphics",
-        "LCD"
+        "HMC5843",
+        "sparkfun"
     ],
     "name": "SerialComms",
     "platforms": "*",

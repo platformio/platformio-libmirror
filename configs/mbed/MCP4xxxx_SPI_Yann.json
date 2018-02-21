@@ -11,6 +11,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "digital potentiometer",
+        "SPI",
+        "C12832",
+        "C12832A1Z",
+        "MBED Application Board",
         "6000",
         "6050",
         "acc",
@@ -20,11 +25,7 @@
         "IMU",
         "invensense",
         "MPU",
-        "MPU6000",
-        "digital potentiometer",
-        "SPI",
-        "map",
-        "rescale"
+        "MPU6000"
     ],
     "name": "MCP4xxxx_SPI",
     "platforms": "*",

@@ -18,12 +18,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BSP",
-        "DISCO_L476VG",
-        "16 Bit A2D",
-        "Differential A2D",
-        "K64F",
-        "v1.0"
+        "NET",
+        "network",
+        "stream",
+        "TCP",
+        "Agent",
+        "Net-SNMP",
+        "SNMP",
+        "AQM1602"
     ],
     "name": "iothub_client",
     "platforms": "*",

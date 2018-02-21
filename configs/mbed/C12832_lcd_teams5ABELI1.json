@@ -6,11 +6,17 @@
     "description": "SToppuhr",
     "frameworks": "mbed",
     "keywords": [
-        "HT1621",
-        "LCD",
-        "ds1621",
-        "I2C",
-        "Temperature"
+        "cmsis",
+        "rtos",
+        "RTX",
+        "adc",
+        "current",
+        "INA226",
+        "Instruments",
+        "monitor",
+        "Power",
+        "Texas",
+        "voltage"
     ],
     "name": "C12832_lcd",
     "platforms": "*",

@@ -14,7 +14,14 @@
         "https://os.mbed.com/users/shorie/code/synthesizer_f746/"
     ],
     "frameworks": "mbed",
-    "keywords": "20160515",
+    "keywords": [
+        "MPU9250",
+        "20160515",
+        "Linear Time Code",
+        "LTC",
+        "SMPTE",
+        "pikachu"
+    ],
     "name": "shimabara",
     "platforms": "*",
     "repository": {

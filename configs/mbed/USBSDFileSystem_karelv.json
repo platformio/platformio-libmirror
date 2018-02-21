@@ -15,13 +15,7 @@
         "fatfilesystem",
         "MSD",
         "SD",
-        "USB",
-        "display",
-        "KS0107",
-        "KS0108",
-        "ethernet",
-        "ip",
-        "mbed"
+        "USB"
     ],
     "name": "USBSDFileSystem",
     "platforms": "*",

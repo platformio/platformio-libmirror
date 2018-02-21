@@ -8,7 +8,12 @@
         "https://os.mbed.com/users/takafuminaka/code/BLE_Lightning_sensor/"
     ],
     "frameworks": "mbed",
-    "keywords": "AS3935",
+    "keywords": [
+        "adc",
+        "ads1015",
+        "ads1115",
+        "AS3935"
+    ],
     "name": "AS3935_ext",
     "platforms": "*",
     "repository": {

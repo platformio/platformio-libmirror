@@ -11,8 +11,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "YMZ294",
-        "sensors"
+        "display",
+        "KS0723",
+        "LCD",
+        "Samsung"
     ],
     "name": "MMA8452",
     "platforms": "*",

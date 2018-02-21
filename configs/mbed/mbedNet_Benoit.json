@@ -12,6 +12,8 @@
         "stack",
         "tcpip",
         "UDP",
+        "CAN",
+        "MCP2515",
         "ADXL345",
         "AHRS",
         "ANGLE",
@@ -19,11 +21,7 @@
         "HMC5883",
         "IMU",
         "l3g4200d",
-        "sensor",
-        "5110",
-        "84x48",
-        "display",
-        "Nokia"
+        "sensor"
     ],
     "name": "mbedNet",
     "platforms": "*",

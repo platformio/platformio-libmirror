@@ -9,7 +9,11 @@
         "https://os.mbed.com/teams/The-A-Team/code/Test_Mouse/"
     ],
     "frameworks": "mbed",
-    "keywords": "Mouse",
+    "keywords": [
+        "ADS7843",
+        "event",
+        "touch"
+    ],
     "name": "Mouse",
     "platforms": "*",
     "repository": {

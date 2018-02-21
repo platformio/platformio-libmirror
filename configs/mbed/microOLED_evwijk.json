@@ -6,12 +6,11 @@
     "description": "4D Systems serial microOLED driver",
     "frameworks": "mbed",
     "keywords": [
+        "servos",
+        "slow",
+        "Speed",
         "OLED",
-        "Serial",
-        "C027",
-        "9Dof-Stick",
-        "ADXL345",
-        "sparkfun"
+        "Serial"
     ],
     "name": "microOLED",
     "platforms": "*",

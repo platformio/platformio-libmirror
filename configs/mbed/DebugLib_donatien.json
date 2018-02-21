@@ -11,7 +11,17 @@
         "https://os.mbed.com/users/pnysten/code/lwip/"
     ],
     "frameworks": "mbed",
-    "keywords": "DebugLib",
+    "keywords": [
+        "character",
+        "display",
+        "HD44780",
+        "LCD",
+        "ethernet",
+        "NTP",
+        "Humidity",
+        "sensor",
+        "Temperature"
+    ],
     "name": "DebugLib",
     "platforms": "*",
     "repository": {

@@ -8,7 +8,12 @@
         "https://os.mbed.com/users/jimconner/code/mbed_oled/"
     ],
     "frameworks": "mbed",
-    "keywords": "hx711",
+    "keywords": [
+        "I2C",
+        "ranger",
+        "SRF02",
+        "ultrasonic"
+    ],
     "name": "hx711",
     "platforms": "*",
     "repository": {

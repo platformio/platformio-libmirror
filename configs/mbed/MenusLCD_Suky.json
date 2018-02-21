@@ -17,15 +17,12 @@
         "LCD",
         "Menus",
         "TFT",
-        "Adafruit 9DOF",
-        "LSM303DLHC",
         "APDS9960",
         "avago",
         "color",
         "Gesture",
         "proximity",
-        "sparkfun",
-        "LPC4330"
+        "sparkfun"
     ],
     "name": "MenusLCD",
     "platforms": "*",

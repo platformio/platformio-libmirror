@@ -10,6 +10,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "I2C",
+        "Nunchuk",
         "LocalFileSystem",
         "S25FL216K",
         "USBFileSystem"

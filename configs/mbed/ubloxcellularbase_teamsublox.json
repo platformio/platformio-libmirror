@@ -23,10 +23,12 @@
         "C030",
         "CellularInterface",
         "u-blox",
-        "APIs",
-        "extension",
-        "generic",
-        "Bertl14"
+        "Bertl14",
+        "display",
+        "DOG",
+        "LCD",
+        "ST7036",
+        "TextLCD"
     ],
     "name": "ublox-cellular-base",
     "platforms": "*",

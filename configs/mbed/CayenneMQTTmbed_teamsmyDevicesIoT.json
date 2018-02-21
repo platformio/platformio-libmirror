@@ -18,13 +18,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "Cayenne",
+        "MQTT",
         "I2C",
         "MPU6050",
         "MPU9150",
-        "Cayenne",
-        "MQTT",
-        "BD6211F",
-        "motor"
+        "Kinematics",
+        "lauther",
+        "math",
+        "matrix",
+        "robot",
+        "Robotics"
     ],
     "name": "Cayenne-MQTT-mbed",
     "platforms": "*",

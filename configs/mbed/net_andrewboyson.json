@@ -9,7 +9,14 @@
         "https://os.mbed.com/users/andrewboyson/code/gps/"
     ],
     "frameworks": "mbed",
-    "keywords": "net",
+    "keywords": [
+        "consumption",
+        "control",
+        "ethernet",
+        "Management",
+        "Power",
+        "PowerControl"
+    ],
     "name": "net",
     "platforms": "*",
     "repository": {

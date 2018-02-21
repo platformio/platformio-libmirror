@@ -5,7 +5,14 @@
     },
     "description": "v",
     "frameworks": "mbed",
-    "keywords": "pins",
+    "keywords": [
+        "milkcocoa",
+        "SEPS114A",
+        "CODEC",
+        "TI",
+        "TLV320AIC1110",
+        "voice band codec"
+    ],
     "name": "pins",
     "platforms": "*",
     "repository": {

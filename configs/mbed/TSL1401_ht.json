@@ -6,8 +6,10 @@
     "description": "TSL1401 is the line sensor camera.This library is used to read the raw data.",
     "frameworks": "mbed",
     "keywords": [
-        "SSL",
-        "TLS"
+        "Adafruit",
+        "GFX",
+        "LCD",
+        "TFT"
     ],
     "name": "TSL1401",
     "platforms": "*",

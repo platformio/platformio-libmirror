@@ -13,8 +13,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "SCA3000"
+        "NTCThermistor",
+        "Temperature",
+        "thermistor",
+        "adc",
+        "I2C",
+        "Monito",
+        "System"
     ],
     "name": "MS5803",
     "platforms": "*",

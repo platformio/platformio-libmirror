@@ -6,16 +6,11 @@
     "description": "SPISlave for FRDM-KL25Z",
     "frameworks": "mbed",
     "keywords": [
-        "74hc595",
-        "Adafruit",
-        "arduino",
-        "FRDM-KL46Z",
-        "L293D",
-        "motor",
-        "motorshield",
-        "pwm",
         "FRDM-KL25Z",
-        "SPI"
+        "SPI",
+        "Encoder",
+        "InterruptIn",
+        "motor"
     ],
     "name": "SPISlave_Kinetis",
     "platforms": "*",

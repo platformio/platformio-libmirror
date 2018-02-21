@@ -5,7 +5,12 @@
     },
     "description": "..",
     "frameworks": "mbed",
-    "keywords": "mbed",
+    "keywords": [
+        "fm",
+        "Radio",
+        "RDA5807M",
+        "RDS"
+    ],
     "name": "touchpad",
     "platforms": "*",
     "repository": {

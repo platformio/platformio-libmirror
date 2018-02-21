@@ -6,21 +6,8 @@
     "description": "Port of Adafruit Arduino code",
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit",
-        "GFX",
-        "I2C",
-        "OLED",
-        "SPI",
-        "SSD1306",
-        "Dimmer",
-        "DMX",
-        "DMX512",
-        "lighting",
-        "STM",
-        "stm32",
-        "Analog Devices",
-        "drivers",
-        "mbed"
+        "display",
+        "LCD"
     ],
     "name": "Adafruit9-DOf",
     "platforms": "*",

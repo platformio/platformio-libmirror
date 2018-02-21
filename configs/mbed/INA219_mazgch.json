@@ -14,7 +14,10 @@
         "duty cycle",
         "measurement",
         "pwm",
-        "timer2"
+        "timer2",
+        "DC Motor controller",
+        "h bridge",
+        "motor driver"
     ],
     "name": "INA219",
     "platforms": "*",

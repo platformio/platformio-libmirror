@@ -6,15 +6,10 @@
     "description": "PURS ZI 008",
     "frameworks": "mbed",
     "keywords": [
-        "LCDC",
-        "S1D13781",
-        "shield",
-        "TFT",
-        "D6F-PH",
-        "pressure",
-        "Australia",
-        "Lora",
-        "LoRaWAN"
+        "core2530(B)",
+        "waveshare",
+        "xbee",
+        "zbee"
     ],
     "name": "Sviraj",
     "platforms": "*",

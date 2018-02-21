@@ -12,7 +12,17 @@
         "accelerometer",
         "mBuino",
         "MMA8453",
-        "retro"
+        "retro",
+        "converter",
+        "decoder",
+        "floating",
+        "point",
+        "precision",
+        "readable",
+        "single",
+        "CV7",
+        "sensor",
+        "wind"
     ],
     "name": "MMA8453",
     "platforms": "*",

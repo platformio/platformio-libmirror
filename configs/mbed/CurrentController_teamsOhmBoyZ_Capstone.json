@@ -6,15 +6,10 @@
     "description": "Takes user input, outputs pwm to current control filter.",
     "frameworks": "mbed",
     "keywords": [
-        "fm",
-        "Radio",
-        "RDA5807M",
-        "RDS",
-        "LFSR",
-        "Linear Feedback Shift Register",
-        "Number Generator",
-        "Pseudo",
-        "Random"
+        "adc",
+        "AnalogIn",
+        "burst",
+        "fast"
     ],
     "name": "Current Controller",
     "platforms": "*",

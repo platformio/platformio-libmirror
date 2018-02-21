@@ -27,10 +27,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "camera",
-        "radioshack",
-        "shield",
-        "VC0706",
         "audio input",
         "Audio output",
         "CODEC",
@@ -39,12 +35,18 @@
         "Mikami",
         "SAI",
         "SAI_IO",
-        "WM8994"
+        "WM8994",
+        "NDEF",
+        "NFC",
+        "PN532",
+        "KL25",
+        "touch",
+        "TSI"
     ],
     "name": "F746_SAI_IO",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/MikamiUitOpen/code/F746_SAI_IO/"
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/F746_SAI_IO/"
     }
 }

@@ -6,14 +6,14 @@
     "description": "Library with address set to hardware pins",
     "frameworks": "mbed",
     "keywords": [
+        "128x64",
+        "I2C",
+        "OLED",
+        "SSD1306",
         "led",
         "multiplexing",
         "pwm",
         "tlc5940",
-        "BH1750",
-        "digital light sensor",
-        "gy-30",
-        "I2C",
         "IO expander"
     ],
     "name": "PCF8574",

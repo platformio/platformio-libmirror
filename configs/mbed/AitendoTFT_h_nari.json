@@ -8,7 +8,13 @@
         "https://os.mbed.com/users/h_nari/code/Nucleo_Pic_Viewer/"
     ],
     "frameworks": "mbed",
-    "keywords": "TFT",
+    "keywords": [
+        "TFT",
+        "current",
+        "I2C",
+        "INA219",
+        "T.I."
+    ],
     "name": "AitendoTFT",
     "platforms": "*",
     "repository": {

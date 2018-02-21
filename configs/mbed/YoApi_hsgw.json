@@ -8,16 +8,7 @@
         "https://os.mbed.com/users/hsgw/code/SendYoExample/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "LCD",
-        "LCD 16x2",
-        "LPC11U68",
-        "ST7066U",
-        "DRV2665",
-        "Haptic",
-        "piezo",
-        "yo"
-    ],
+    "keywords": "yo",
     "name": "YoApi",
     "platforms": "*",
     "repository": {

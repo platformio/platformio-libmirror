@@ -5,7 +5,14 @@
     },
     "description": "Digital Joystick",
     "frameworks": "mbed",
-    "keywords": "kalman",
+    "keywords": [
+        "CloudConnector",
+        "etherios",
+        "IOT",
+        "3pi",
+        "m3pi",
+        "mbed"
+    ],
     "name": "Digital-Joystick",
     "platforms": "*",
     "repository": {

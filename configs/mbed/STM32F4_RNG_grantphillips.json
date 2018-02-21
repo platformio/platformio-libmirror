@@ -9,11 +9,16 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MAX30102",
-        "ACM1602NI",
+        "2645",
+        "accelerometer",
+        "fxos8700cq",
         "I2C",
+        "magnetometer",
+        "nxp",
+        "ACM1602NI",
         "LCD",
-        "Nucleo"
+        "Nucleo",
+        "MAX30102"
     ],
     "name": "STM32F4_RNG",
     "platforms": "*",

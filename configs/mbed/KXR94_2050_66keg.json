@@ -5,7 +5,12 @@
     },
     "description": "Library for accelerometer KXR94-2050",
     "frameworks": "mbed",
-    "keywords": "KXR94_2050",
+    "keywords": [
+        "EEPROM",
+        "MSD",
+        "SPI",
+        "USB"
+    ],
     "name": "KXR94_2050",
     "platforms": "*",
     "repository": {

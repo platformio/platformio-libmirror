@@ -9,14 +9,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "led",
+        "pwm",
+        "GR-PEACH",
+        "LCD",
         "GLCD",
         "OLED",
         "SSH1106",
-        "Adafruit",
-        "LCD",
-        "S6D02A1",
-        "ST7735",
-        "TFT"
+        "ACM1602NI",
+        "I2C"
     ],
     "name": "SSH1106",
     "platforms": "*",

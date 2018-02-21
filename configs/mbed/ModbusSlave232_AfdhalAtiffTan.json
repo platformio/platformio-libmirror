@@ -10,14 +10,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "CANopen",
-        "MAX7219",
-        "MAX7221",
         "arduino",
         "millis",
         "Modbus",
         "MODSERIAL",
-        "rtu"
+        "rtu",
+        "AS3935",
+        "Lightning Sensor",
+        "Lightning strike",
+        "Thunder"
     ],
     "name": "ModbusSlave232",
     "platforms": "*",

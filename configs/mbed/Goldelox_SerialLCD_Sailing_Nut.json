@@ -9,16 +9,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "conversion",
+        "float",
+        "string",
         "4D Dydtems",
         "Color LCD",
         "Goldelox",
-        "serial lcd",
-        "EZO",
-        "I2C",
-        "PH sensor",
-        "conversion",
-        "float",
-        "string"
+        "serial lcd"
     ],
     "name": "Goldelox_SerialLCD",
     "platforms": "*",

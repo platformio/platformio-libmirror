@@ -6,11 +6,20 @@
     "description": "CV7 ultrasonic wind sensor",
     "frameworks": "mbed",
     "keywords": [
+        "accelerometer",
+        "mBuino",
+        "MMA8453",
+        "retro",
+        "converter",
+        "decoder",
+        "floating",
+        "point",
+        "precision",
+        "readable",
+        "single",
         "CV7",
         "sensor",
-        "wind",
-        "OLED",
-        "ssd1327"
+        "wind"
     ],
     "name": "wind",
     "platforms": "*",

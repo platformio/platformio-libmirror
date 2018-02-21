@@ -75,13 +75,16 @@ class RepoPostProc(object):
             item['examples'] = examples
 
         if 'repository' in item:
-            print('++__==__'*20)
+            print('++__==__' * 20)
             print(item['repository'])
-            repo = {"type": "hg", "url": make_mbed_url(item['repository'])}
+            repo = {
+                "type": "hg",
+                "url": make_mbed_url(item['repository'])
+            }
             item['repository'] = repo
 
-        if 'dependencies' in item:
-            item['dependencies'] = make_mbed_url(item['dependencies'])
+        # if 'dependencies' in item:
+        #     item['dependencies'] = make_mbed_url(item['dependencies'])
 
         if ('ownerurl' in item) and ('owner' in item):
             item['authors'] = {

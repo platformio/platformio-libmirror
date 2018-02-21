@@ -6,11 +6,14 @@
     "description": "I2C interface library for ATP3011",
     "frameworks": "mbed",
     "keywords": [
-        "ADS7843",
-        "event",
-        "touch",
+        "joystick",
+        "LCD_12832",
+        "LEDS",
+        "micro",
+        "MMA7660FC",
         "ATP3011",
-        "I2C"
+        "I2C",
+        "LDC1000"
     ],
     "name": "ATP3011",
     "platforms": "*",

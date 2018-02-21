@@ -8,7 +8,14 @@
         "https://os.mbed.com/users/openobc/code/obdtest/"
     ],
     "frameworks": "mbed",
-    "keywords": "e36obd",
+    "keywords": [
+        "consumption",
+        "control",
+        "ethernet",
+        "Management",
+        "Power",
+        "PowerControl"
+    ],
     "name": "e36obd",
     "platforms": "*",
     "repository": {

@@ -6,12 +6,11 @@
     "description": "MCP23017",
     "frameworks": "mbed",
     "keywords": [
-        "IOT",
-        "dc-motor",
-        "Freescale",
-        "hbridge",
-        "MC33926",
-        "motor"
+        "compass",
+        "driver",
+        "HMC5583L",
+        "I2C",
+        "sensor"
     ],
     "name": "MCP23017",
     "platforms": "*",

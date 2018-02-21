@@ -18,25 +18,21 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "driver",
-        "Graphics",
-        "ILI9340",
         "LCD",
-        "SPI",
-        "TFT",
-        "asynchronous",
-        "Buffered",
-        "FIFO",
-        "Non blocking",
-        "ring buffer",
-        "Serial",
-        "UART",
-        "PS2"
+        "Scroll",
+        "TextLCD",
+        "GR-PEACH",
+        "HTU21D",
+        "Humidity",
+        "I2C",
+        "K64F",
+        "KL25z",
+        "Temperature"
     ],
     "name": "4DGL-uLCD-SE",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/jdanner3/code/4DGL-uLCD-SE/"
+        "url": "https://os.mbed.com/users/jdanner3/code/4DGL-uLCD-SE/"
     }
 }

@@ -18,17 +18,20 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "id3",
-        "mp3",
+        "HD44780",
+        "TextLCD",
         "C030",
         "low power",
         "STM32F437",
-        "u-blox"
+        "u-blox",
+        "358",
+        "Adafruit",
+        "TFT"
     ],
     "name": "low-power-sleep",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/teams/ublox/code/low-power-sleep/"
+        "url": "https://os.mbed.com/teams/ublox/code/low-power-sleep/"
     }
 }

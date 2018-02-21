@@ -8,14 +8,7 @@
         "https://os.mbed.com/users/acloitre/code/UM6LT_v1/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "accelerometer",
-        "gyroscope",
-        "I2C",
-        "MPU-6050",
-        "MPU6050",
-        "MPU60x0"
-    ],
+    "keywords": "UM6LT",
     "name": "UM6LT",
     "platforms": "*",
     "repository": {

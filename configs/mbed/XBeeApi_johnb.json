@@ -27,6 +27,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "3pi",
+        "m3pi",
+        "robot",
         "Analyzer",
         "audio",
         "FFT",
@@ -39,6 +42,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/johnb/code/XBeeApi/"
+        "url": "https://os.mbed.com/users/johnb/code/XBeeApi/"
     }
 }

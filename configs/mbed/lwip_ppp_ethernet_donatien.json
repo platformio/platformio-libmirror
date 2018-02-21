@@ -11,9 +11,10 @@
     "keywords": [
         "SSL",
         "TLS",
-        "clock",
-        "ds1307",
-        "RTC"
+        "buzzer",
+        "music",
+        "RTTTL",
+        "sound"
     ],
     "name": "lwip_ppp_ethernet",
     "platforms": "*",

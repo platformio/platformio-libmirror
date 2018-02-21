@@ -6,9 +6,9 @@
     "description": "mpu9250のライブラリ、I2Cを利用。開発段階のため微妙",
     "frameworks": "mbed",
     "keywords": [
-        "H-bridge",
         "motor",
-        "TB6612FNG"
+        "Servo",
+        "JY901"
     ],
     "name": "mpu9250_i2c",
     "platforms": "*",

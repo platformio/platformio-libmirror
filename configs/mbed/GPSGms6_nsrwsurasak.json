@@ -8,7 +8,14 @@
         "https://os.mbed.com/users/Lucyjungz/code/RwSDCard_Xml_GPS/"
     ],
     "frameworks": "mbed",
-    "keywords": "migool",
+    "keywords": [
+        "card",
+        "fatfilesystem",
+        "MMC",
+        "SD",
+        "SDHC",
+        "SDXC"
+    ],
     "name": "GPSGms6",
     "platforms": "*",
     "repository": {

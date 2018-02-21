@@ -6,15 +6,17 @@
     "description": "ADXL362 accelerometer library",
     "examples": [
         "https://os.mbed.com/teams/AnalogDevices/code/ADXL362-helloworld/",
-        "https://os.mbed.com/teams/AnalogDevices/code/EVAL_ADXL362_ARDZ/"
+        "https://os.mbed.com/teams/AnalogDevices/code/EVAL_ADXL362_ARDZ/",
+        "https://os.mbed.com/teams/CPS-Lab1234/code/lab6/",
+        "https://os.mbed.com/teams/CPS-Lab11/code/Lab6/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "driver",
-        "I2C",
-        "rtos",
         "accelerometer",
-        "ADXL362"
+        "ADXL362",
+        "I2C multiplexer",
+        "PCA9547",
+        "dac"
     ],
     "name": "ADXL362",
     "platforms": "*",

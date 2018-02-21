@@ -22,7 +22,8 @@
         "IMU",
         "LSM9DS0",
         "magnet",
-        "magnetometer"
+        "magnetometer",
+        "CMPS03"
     ],
     "name": "LSM9DS0",
     "platforms": "*",

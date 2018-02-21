@@ -6,10 +6,18 @@
     "description": "A fixed point library from Trenki http://www.trenki.net/content/view/17/1/",
     "frameworks": "mbed",
     "keywords": [
+        "DC motor",
+        "h bridge",
+        "L293D",
+        "l298n",
+        "pwm",
+        "Nucleo",
+        "arduino",
+        "micros",
+        "millis",
         "arithmetic",
         "fixed",
-        "point",
-        "Nucleo"
+        "point"
     ],
     "name": "fixedpoint",
     "platforms": "*",

@@ -24,7 +24,16 @@
         "Instances",
         "multiple",
         "rtos",
-        "threads"
+        "threads",
+        "display",
+        "graphic",
+        "LCD",
+        "QVGA",
+        "RA8875",
+        "TFT",
+        "Touch Screen",
+        "WQVGA",
+        "WVGA"
     ],
     "name": "MRF24J40",
     "platforms": "*",

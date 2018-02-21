@@ -20,7 +20,8 @@
         "IMU",
         "LSM9DS0",
         "magnet",
-        "magnetometer"
+        "magnetometer",
+        "CMPS03"
     ],
     "name": "DS18B20Sensor",
     "platforms": "*",

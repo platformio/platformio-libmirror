@@ -12,14 +12,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "dynamixel",
+        "MX-12W",
+        "MX12",
+        "MX12W",
+        "robotis",
+        "Servo",
+        "choroQ",
         "3g",
         "arduino",
         "PHS",
-        "shield",
-        "USBDevice",
-        "real time",
-        "serial port",
-        "serial protocols"
+        "shield"
     ],
     "name": "a3gs",
     "platforms": "*",

@@ -9,7 +9,11 @@
         "https://os.mbed.com/users/andrewboyson/code/gps/"
     ],
     "frameworks": "mbed",
-    "keywords": "2017NOSHIRO",
+    "keywords": [
+        "DS3231",
+        "RTC",
+        "2017NOSHIRO"
+    ],
     "name": "clock",
     "platforms": "*",
     "repository": {

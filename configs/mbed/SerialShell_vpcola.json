@@ -9,7 +9,19 @@
         "https://os.mbed.com/users/vpcola/code/lpc1768_blinky/"
     ],
     "frameworks": "mbed",
-    "keywords": "SerialShell",
+    "keywords": [
+        "cmsis",
+        "rtos",
+        "RTX",
+        "adc",
+        "current",
+        "INA226",
+        "Instruments",
+        "monitor",
+        "Power",
+        "Texas",
+        "voltage"
+    ],
     "name": "SerialShell",
     "platforms": "*",
     "repository": {

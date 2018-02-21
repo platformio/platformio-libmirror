@@ -15,6 +15,8 @@
     "description": "class library to access fischertechnik interfaces via USB",
     "frameworks": "mbed",
     "keywords": [
+        "DS1338",
+        "I2C",
         "fischertechnik",
         "ftlib",
         "ftmsclib"
@@ -23,6 +25,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/networker/code/ftusbClass/"
+        "url": "https://os.mbed.com/users/networker/code/ftusbClass/"
     }
 }

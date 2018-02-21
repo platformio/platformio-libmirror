@@ -10,12 +10,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GPS",
-        "parse",
         "Encoder",
         "QEI",
         "qudrature",
         "rotary",
+        "GPS",
+        "parse",
         "lps25h"
     ],
     "name": "LPS25H",

@@ -9,16 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
+        "hash",
+        "md5",
         "Australia",
         "Lora",
-        "LoRaWAN",
-        "3pi;",
-        "bluetooth;",
-        "m3pi;",
-        "robot;",
-        "xbee",
-        "hash",
-        "md5"
+        "LoRaWAN"
     ],
     "name": "MD5",
     "platforms": "*",

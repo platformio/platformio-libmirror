@@ -10,8 +10,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GP2Y0A21YK",
-        "Sharp"
+        "MCP4921",
+        "SPI",
+        "AD-12864-SPI",
+        "AQM1248A",
+        "C12832",
+        "LCD",
+        "ST7565"
     ],
     "name": "MbedSmartRest",
     "platforms": "*",

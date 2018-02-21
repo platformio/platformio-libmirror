@@ -6,13 +6,11 @@
     "description": "IMU",
     "frameworks": "mbed",
     "keywords": [
-        "BNO055",
-        "Elmicro",
-        "FM25W256",
-        "FRAM",
-        "RAMTRON",
-        "SPI",
-        "SSP1"
+        "education",
+        "mechatronics",
+        "TVZ",
+        "float",
+        "map"
     ],
     "name": "KalmanFilter",
     "platforms": "*",

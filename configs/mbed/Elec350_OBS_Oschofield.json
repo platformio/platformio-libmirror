@@ -5,7 +5,11 @@
     },
     "description": "Library for ELEC350 Work",
     "frameworks": "mbed",
-    "keywords": "Elec350_OBS",
+    "keywords": [
+        "BLE",
+        "buttons",
+        "hotboards"
+    ],
     "name": "Elec350_OBS",
     "platforms": "*",
     "repository": {

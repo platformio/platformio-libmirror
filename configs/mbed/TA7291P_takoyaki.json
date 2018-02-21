@@ -11,19 +11,7 @@
         "https://os.mbed.com/users/tomoya123/code/avoidance_program/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "OLED",
-        "Organic-LED",
-        "SO1602A",
-        "I2C",
-        "sensor",
-        "Temperature",
-        "low current",
-        "low power",
-        "nrf51",
-        "nRF51822",
-        "gyro"
-    ],
+    "keywords": "ad7124",
     "name": "TA7291P",
     "platforms": "*",
     "repository": {
