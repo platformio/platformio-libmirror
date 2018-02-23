@@ -3,18 +3,12 @@
         "name": "Jonathan Gaul",
         "url": "https://os.mbed.com/users/Byrn/"
     },
-    "description": "Provides an extended version of DigitalOut that adds a \"toggle()\" function, and uses the RTOS Thread API to provide a \"flash()\" function that toggles the pin in the background at a given interval.",
+    "description": "Provides an extended version of DigitalOut that adds a \"toggle()\" function, and uses the RTOS Thread API to provide a \"flash()\" function that toggles the pin in the background at ...",
     "frameworks": "mbed",
     "keywords": [
         "digitalOut",
         "led",
-        "rtos",
-        "DISCO-F746",
-        "F746",
-        "Graphics",
-        "karpent",
-        "16x2 LCD",
-        "TextLCD"
+        "rtos"
     ],
     "name": "DigitalOutEx",
     "platforms": "*",

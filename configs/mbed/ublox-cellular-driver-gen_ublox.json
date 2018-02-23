@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "u-blox",
+        "url": "https://os.mbed.com/teams/ublox/"
+    },
+    "description": "This class provides SMS, USSD and modem file system support for u-blox modules on the C027 and C030 boards (excepting the C030 N2xx flavour) from mbed 5.5 onwards.",
+    "examples": [
+        "https://os.mbed.com/teams/vdb-IOT-team/code/example-ublox-at-cellular-interface-ext/",
+        "https://os.mbed.com/teams/ublox/code/example-ublox-cellular-driver-gen/",
+        "https://os.mbed.com/teams/ublox/code/example-ublox-at-cellular-interface-ext/",
+        "https://os.mbed.com/teams/ublox/code/HelloMQTT/",
+        "https://os.mbed.com/users/michaelVisimid/code/ublox_new_driver_test/",
+        "https://os.mbed.com/teams/ublox/code/example-reading-imei-imsi/",
+        "https://os.mbed.com/users/mudassar0121/code/example-C030-out-of-box-demo/",
+        "https://os.mbed.com/teams/ublox/code/example-C030-out-of-box-demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "C027",
+        "C030",
+        "file",
+        "SMS",
+        "u-blox",
+        "ussd"
+    ],
+    "name": "ublox-cellular-driver-gen",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ublox/code/ublox-cellular-driver-gen/"
+    }
+}

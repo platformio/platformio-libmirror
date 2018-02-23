@@ -5,7 +5,9 @@
     },
     "description": "For Seiko M4024 (LCD 4x40)",
     "frameworks": "mbed",
-    "keywords": "TextLCD_4x40",
+    "keywords": [
+        "TextLCD_4x40"
+    ],
     "name": "TextLCD_4x40",
     "platforms": "*",
     "repository": {

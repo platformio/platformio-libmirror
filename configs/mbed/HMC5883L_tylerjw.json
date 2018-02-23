@@ -18,21 +18,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HCSR04",
-        "CAN",
-        "can bus",
-        "CAN Nucleo",
-        "canbus",
-        "CANbus Nucleo",
-        "Controller Area Network",
-        "Nucleo",
         "9-DOF",
         "compass",
         "HMC5883L",
         "magnetometer",
-        "sparkfun",
-        "MMA7361L",
-        "TextLCD"
+        "sparkfun"
     ],
     "name": "HMC5883L",
     "platforms": "*",

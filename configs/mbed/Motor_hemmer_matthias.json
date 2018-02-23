@@ -3,14 +3,10 @@
         "name": "Matthias Hemmer",
         "url": "https://os.mbed.com/users/hemmer_matthias/"
     },
-    "description": "for Bertl2014 HTL-Graz-Göoesting",
+    "description": "for Bertl2014 HTL-Graz-GĂśoesting",
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "MAG3110",
-        "magnetometer",
-        "buffer",
-        "ring"
+        "Motor"
     ],
     "name": "Motor",
     "platforms": "*",

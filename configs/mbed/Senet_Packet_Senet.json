@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Senet",
+        "url": "https://os.mbed.com/teams/Senet/"
+    },
+    "description": "Senet Packet API",
+    "examples": [
+        "https://os.mbed.com/users/shaunkrnelson/code/MTDOT-UDKDemo_Senet/",
+        "https://os.mbed.com/teams/Senet/code/Senet-NAMote/",
+        "https://os.mbed.com/users/mfiore/code/mDot-IKS01A1/",
+        "https://os.mbed.com/users/mfiore/code/unh-hackathon-example/",
+        "https://os.mbed.com/users/mfiore/code/unh-hackathon-example-raw/",
+        "https://os.mbed.com/teams/Senet/code/MTDOT-UDKDemo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Lora",
+        "senet"
+    ],
+    "name": "Senet_Packet",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Senet/code/Senet_Packet/"
+    }
+}

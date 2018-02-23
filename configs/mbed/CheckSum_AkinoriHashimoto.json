@@ -8,30 +8,19 @@
             "authors": [
                 "Akinori Hashimoto"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "StrLib"
         }
     ],
-    "description": "Calculate checksum(hex) of string with ASCII(unsigned int).",
+    "description": "Calculate checksum(hex) of string with ASCII(unsigned int). Use to detected communication error.",
     "frameworks": "mbed",
     "keywords": [
-        "checksum",
-        "2.4GHz",
-        "a7105",
-        "FSK",
-        "GFSK",
-        "transceiver",
-        "txrx",
-        "I2C",
-        "PCA9672",
-        "F746NG",
-        "RTC",
-        "Touchscreen"
+        "checksum"
     ],
     "name": "CheckSum",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/AkinoriHashimoto/code/CheckSum/"
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/CheckSum/"
     }
 }

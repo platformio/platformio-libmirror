@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/piniels/code/HIDTympDeviceWithPIDController/"
     ],
     "frameworks": "mbed",
-    "keywords": "Motor_shield_Arduino",
+    "keywords": [
+        "Motor_shield_Arduino"
+    ],
     "name": "Motor_shield_Arduino",
     "platforms": "*",
     "repository": {

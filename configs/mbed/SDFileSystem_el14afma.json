@@ -6,13 +6,7 @@
     "description": "SD library",
     "frameworks": "mbed",
     "keywords": [
-        "led",
-        "LPD8803",
-        "LPD8806",
-        "LPD8809",
-        "SPI",
-        "OAuth",
-        "twitter"
+        "SDFileSystem"
     ],
     "name": "SDFileSystem",
     "platforms": "*",

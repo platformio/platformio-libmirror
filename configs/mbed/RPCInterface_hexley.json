@@ -9,11 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LSM303DLH",
-        "Futaba",
-        "MODSERIAL",
-        "SBUS",
-        "Serial"
+        "RPCInterface"
     ],
     "name": "RPCInterface",
     "platforms": "*",

@@ -3,16 +3,9 @@
         "name": "Mike Pici",
         "url": "https://os.mbed.com/users/pici/"
     },
-    "description": "AM2315 I2C Temperature and Humidity Sensor.",
+    "description": "AM2315 I2C Temperature and Humidity Sensor. Tested on Nucleo STM32 F103RB with 3.3V supply and no pullup resistors and I2C level converter with 5V supply and pullup resistors as well.",
     "frameworks": "mbed",
     "keywords": [
-        "ambient",
-        "light",
-        "max",
-        "MAX44009",
-        "Maxim",
-        "sensor",
-        "FeRAM",
         "AM2315"
     ],
     "name": "AM2315",

@@ -6,9 +6,7 @@
     "description": "Xbee testing for cansat",
     "frameworks": "mbed",
     "keywords": [
-        "COMMAND PARSER",
-        "serial command",
-        "uart interupt"
+        "xbee"
     ],
     "name": "xbee",
     "platforms": "*",

@@ -3,10 +3,9 @@
         "name": "Takanobu Muraguchi",
         "url": "https://os.mbed.com/users/muraguchi/"
     },
-    "description": "ks0713 SPI library.",
+    "description": "ks0713 SPI library. This library includes a small 5x5 ascii font and line function.",
     "frameworks": "mbed",
     "keywords": [
-        "DMX-512",
         "AITENDO",
         "KS0713",
         "SPI"

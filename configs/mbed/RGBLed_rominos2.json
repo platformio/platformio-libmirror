@@ -11,19 +11,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GSM",
-        "SMS",
-        "SDFileSystem",
-        "STM32F746",
-        "accelerometer",
-        "LIS302",
-        "SPI",
         "led",
-        "rgb",
-        "AQM1602",
-        "I2C",
-        "Nucleo",
-        "UIT"
+        "rgb"
     ],
     "name": "RGBLed",
     "platforms": "*",

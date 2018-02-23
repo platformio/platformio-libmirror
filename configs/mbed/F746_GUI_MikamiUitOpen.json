@@ -8,11 +8,32 @@
             "authors": [
                 "不韋 呂"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "Array_Matrix"
+        },
+        {
+            "authors": [
+                " "
+            ],
+            "framework": "mbed",
+            "name": "BSP_DISCO_F746NG"
+        },
+        {
+            "authors": [
+                " "
+            ],
+            "framework": "mbed",
+            "name": "LCD_DISCO_F746NG"
+        },
+        {
+            "authors": [
+                " "
+            ],
+            "framework": "mbed",
+            "name": "TS_DISCO_F746NG"
         }
     ],
-    "description": "GUI parts for DISCO-F746NG.",
+    "description": "GUI parts for DISCO-F746NG. GuiBase, Button, ButtonGroup, ResetButton, Label, BlinkLabel, NumericLabel, SeekBar, SeekbarGroup",
     "examples": [
         "https://os.mbed.com/users/MikamiUitOpen/code/F746_AudioOutQSPI/",
         "https://os.mbed.com/users/MikamiUitOpen/code/F746_AudioPlayerSD/",
@@ -27,8 +48,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "TFT",
-        "Touchscreen",
         "BlinkLabel",
         "BUTTON",
         "DISCO-F746",
@@ -44,6 +63,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/MikamiUitOpen/code/F746_GUI/"
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/F746_GUI/"
     }
 }

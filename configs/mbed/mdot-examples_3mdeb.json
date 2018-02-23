@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "3mdeb",
+        "url": "https://os.mbed.com/teams/3mdeb/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                " "
+            ],
+            "framework": "mbed",
+            "name": "libmDot-dev-mbed5"
+        },
+        {
+            "authors": [
+                " "
+            ],
+            "framework": "mbed",
+            "name": "ISL29011"
+        }
+    ],
+    "description": "mdot-examples triage",
+    "frameworks": "mbed",
+    "keywords": [
+        "mdot-examples"
+    ],
+    "name": "mdot-examples",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/3mdeb/code/mdot-examples/"
+    }
+}

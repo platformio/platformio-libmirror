@@ -11,7 +11,11 @@
         "https://os.mbed.com/users/e58136782000/code/watersenor_and_temp_code/"
     ],
     "frameworks": "mbed",
-    "keywords": "OneWire",
+    "keywords": [
+        "1-wire",
+        "One Wire",
+        "one-wire"
+    ],
     "name": "OneWire",
     "platforms": "*",
     "repository": {

@@ -3,7 +3,7 @@
         "name": "Takehiko Shimojima",
         "url": "https://os.mbed.com/users/AmbientData/"
     },
-    "description": "Ambient library. It provides \"set\" function to set data to a packet and \"send\" function",
+    "description": "Ambient library. It provides \"set\" function to set data to a packet and \"send\" function to send the packet to the Ambient server. It also provides \"bulk_send\" function to send ...",
     "examples": [
         "https://os.mbed.com/users/AmbientData/code/AmbientExampleSITB/",
         "https://os.mbed.com/users/AmbientData/code/AmbientHeartRateMonitor/",
@@ -13,12 +13,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "IOT",
-        "dc-motor",
-        "Freescale",
-        "hbridge",
-        "MC33926",
-        "motor"
+        "IOT"
     ],
     "name": "AmbientLib",
     "platforms": "*",

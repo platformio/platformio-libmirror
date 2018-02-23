@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/TBSliver/code/LEDSign_SimpleSD/"
     ],
     "frameworks": "mbed",
-    "keywords": "FatFileSystem",
+    "keywords": [
+        "FatFileSystem"
+    ],
     "name": "FatFileSystem",
     "platforms": "*",
     "repository": {

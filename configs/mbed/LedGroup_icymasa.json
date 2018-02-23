@@ -6,12 +6,7 @@
     "description": "If you use this module, you can substitute int number to a group of LEDs.",
     "frameworks": "mbed",
     "keywords": [
-        "led",
-        "xbee",
-        "buffer",
-        "BufferedSerial",
-        "BufferSerial",
-        "Serial"
+        "led"
     ],
     "name": "LedGroup",
     "platforms": "*",

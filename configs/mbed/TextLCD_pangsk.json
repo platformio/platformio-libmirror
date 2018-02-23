@@ -11,14 +11,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "pressure",
-        "scp1000",
-        "sensor",
-        "Temperature",
-        "Akizuki",
-        "character",
-        "I2C",
-        "LCD"
+        "TextLCD"
     ],
     "name": "TextLCD",
     "platforms": "*",

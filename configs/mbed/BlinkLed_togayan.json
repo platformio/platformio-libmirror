@@ -11,14 +11,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "blinking",
-        "led",
-        "16x2",
-        "freetronics",
-        "LCD",
-        "dynamixel",
-        "MX28",
-        "Servo"
+        "BlinkLed"
     ],
     "name": "BlinkLed",
     "platforms": "*",

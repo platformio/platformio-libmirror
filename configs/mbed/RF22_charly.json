@@ -3,7 +3,7 @@
         "name": "Karl Zweimüller",
         "url": "https://os.mbed.com/users/charly/"
     },
-    "description": "Library for HopeRF RFM22 / RFM22B transceiver module ported to mbed.",
+    "description": "Library for HopeRF RFM22 / RFM22B transceiver module ported to mbed. Original Software from Mike McCauley (mikem@open.com.au) . See http://www.open.com.au/mikem/arduino/RF22/",
     "examples": [
         "https://os.mbed.com/users/charly/code/RF22_MAX_test_Send/",
         "https://os.mbed.com/users/13beeuishfaq/code/Geofence_receiver/",
@@ -15,8 +15,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "QEI ロータリーエンコーダ 角度 angle",
-        "ROS",
         "HOPERF",
         "RF22",
         "RFM22"

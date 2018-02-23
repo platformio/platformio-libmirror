@@ -6,10 +6,7 @@
     "description": "mpu",
     "frameworks": "mbed",
     "keywords": [
-        "Buffered",
-        "MODSERIAL",
-        "Serial",
-        "csv"
+        "MPU6050"
     ],
     "name": "MPU6050",
     "platforms": "*",

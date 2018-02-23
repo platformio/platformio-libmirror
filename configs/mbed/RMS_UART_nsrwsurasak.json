@@ -5,7 +5,9 @@
     },
     "description": "1st release (without comment)",
     "frameworks": "mbed",
-    "keywords": "RMS_UART",
+    "keywords": [
+        "RMS_UART"
+    ],
     "name": "RMS_UART",
     "platforms": "*",
     "repository": {

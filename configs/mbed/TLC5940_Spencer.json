@@ -8,7 +8,7 @@
             "authors": [
                 "Erik Olieman"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "FastPWM"
         }
     ],
@@ -21,17 +21,12 @@
         "led",
         "multiplexing",
         "pwm",
-        "tlc5940",
-        "BH1750",
-        "digital light sensor",
-        "gy-30",
-        "I2C",
-        "IO expander"
+        "tlc5940"
     ],
     "name": "TLC5940",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/Spencer/code/TLC5940/"
+        "url": "https://os.mbed.com/users/Spencer/code/TLC5940/"
     }
 }

@@ -6,10 +6,6 @@
     "description": "Library for using Microchip's family of analog-to-digital converters MCP3422/3/4.",
     "frameworks": "mbed",
     "keywords": [
-        "FR-E700",
-        "inverter",
-        "mitsubishi",
-        "RS485",
         "adc"
     ],
     "name": "MCP342x",

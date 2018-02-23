@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "Bo Carøe",
+        "name": "Bo CarĂ¸e",
         "url": "https://os.mbed.com/users/caroe/"
     },
     "description": "HMC5882 from BlazeX",
@@ -10,19 +10,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "driver",
-        "L6208",
-        "microstep",
-        "motor",
-        "ST",
-        "Stepper",
-        "digital pot",
-        "digital potentiometer",
-        "MCP4131",
-        "MCP4132",
-        "MCP4241",
-        "MCP4XXX",
-        "SPI"
+        "HMC5883"
     ],
     "name": "HMC5883",
     "platforms": "*",

@@ -8,7 +8,7 @@
             "authors": [
                 "Andy Kirkham"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "MODDMA"
         }
     ],
@@ -19,35 +19,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "C027",
-        "C030",
-        "CellLocate",
-        "file",
-        "FTP",
-        "http",
-        "SMS",
-        "u-blox",
-        "ussd",
-        "BLE Bluetooth Low Energy BLE",
-        "Bluetooth 4.0 Low Energy 4.0 ble HM-11 Hm11 Ble",
-        "Automation",
-        "DT1",
-        "elements",
-        "I",
-        "PDT1",
-        "Pi",
-        "PT1",
-        "PT2",
-        "PT2cc",
-        "AT",
-        "CellularInterface",
-        "N211",
-        "N2xx"
+        "wave_player_dma"
     ],
     "name": "wave_player_dma",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/ebradley6/code/wave_player_dma/"
+        "url": "https://os.mbed.com/users/ebradley6/code/wave_player_dma/"
     }
 }

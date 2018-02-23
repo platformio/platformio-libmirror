@@ -6,13 +6,6 @@
     "description": "A port of the irrlicht XML parser library.",
     "frameworks": "mbed",
     "keywords": [
-        "AHRS",
-        "calculations",
-        "IMU",
-        "file",
-        "Serial",
-        "SimpleSerialProtocol",
-        "transfer",
         "xml"
     ],
     "name": "irrxml",

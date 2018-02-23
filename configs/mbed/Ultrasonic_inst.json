@@ -5,7 +5,9 @@
     },
     "description": "Ultrasonic",
     "frameworks": "mbed",
-    "keywords": "RTC",
+    "keywords": [
+        "Ultrasonic"
+    ],
     "name": "Ultrasonic",
     "platforms": "*",
     "repository": {

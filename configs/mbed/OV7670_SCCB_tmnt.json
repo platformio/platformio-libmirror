@@ -10,11 +10,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HT1621",
-        "LCD",
-        "ds1621",
-        "I2C",
-        "Temperature"
+        "OV7670_SCCB"
     ],
     "name": "OV7670_SCCB",
     "platforms": "*",

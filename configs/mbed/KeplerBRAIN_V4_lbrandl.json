@@ -6,18 +6,7 @@
     "description": "Library for the KeplerBRAIN Robotik Education System",
     "frameworks": "mbed",
     "keywords": [
-        "TFT",
-        "Touchscreen",
-        "BlinkLabel",
-        "BUTTON",
-        "DISCO-F746",
-        "GUI",
-        "Label",
-        "Mikami",
-        "NumericLabel",
-        "ResetButton",
-        "SeekBar",
-        "SeekbarGroup"
+        "KeplerBRAIN_V4"
     ],
     "name": "KeplerBRAIN_V4",
     "platforms": "*",

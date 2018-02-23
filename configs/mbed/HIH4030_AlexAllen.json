@@ -5,7 +5,9 @@
     },
     "description": "A library for the Honeywell HIH-4030 humidity sensor.",
     "frameworks": "mbed",
-    "keywords": "HIH4030",
+    "keywords": [
+        "HIH4030"
+    ],
     "name": "HIH4030",
     "platforms": "*",
     "repository": {

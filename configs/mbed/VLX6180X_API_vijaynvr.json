@@ -6,10 +6,7 @@
     "description": "vlx lib",
     "frameworks": "mbed",
     "keywords": [
-        "FT6206",
-        "touch",
-        "LandTiger",
-        "SSD1289"
+        "VLX6180X_API"
     ],
     "name": "VLX6180X_API",
     "platforms": "*",

@@ -5,7 +5,9 @@
     },
     "description": "Serial LED Blinking",
     "frameworks": "mbed",
-    "keywords": "led",
+    "keywords": [
+        "led"
+    ],
     "name": "BVBCET",
     "platforms": "*",
     "repository": {

@@ -19,10 +19,7 @@
     "frameworks": "mbed",
     "keywords": [
         "control",
-        "PID",
-        "debounce",
-        "DigitalIn",
-        "InterruptIn"
+        "PID"
     ],
     "name": "PID",
     "platforms": "*",

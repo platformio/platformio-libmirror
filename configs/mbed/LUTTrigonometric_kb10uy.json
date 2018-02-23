@@ -5,7 +5,9 @@
     },
     "description": "provide trigonometric functions with LUT.",
     "frameworks": "mbed",
-    "keywords": "LUTTrigonometric",
+    "keywords": [
+        "LUTTrigonometric"
+    ],
     "name": "LUTTrigonometric",
     "platforms": "*",
     "repository": {

@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/Yajirushi/code/BNO055_BME280_/"
     ],
     "frameworks": "mbed",
-    "keywords": "BME280",
+    "keywords": [
+        "BME280"
+    ],
     "name": "BOARDC_BME280",
     "platforms": "*",
     "repository": {

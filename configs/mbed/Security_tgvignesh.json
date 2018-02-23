@@ -6,12 +6,7 @@
     "description": "This file describes MBED RTOS for MPS2 platform.",
     "frameworks": "mbed",
     "keywords": [
-        "STM32F100R6",
-        "STM32F100R6T6",
-        "STM32F100R6T6B",
-        "ethernet",
-        "ip",
-        "mbed"
+        "Security"
     ],
     "name": "Security",
     "platforms": "*",

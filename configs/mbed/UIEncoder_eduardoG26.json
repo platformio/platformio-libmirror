@@ -3,15 +3,10 @@
         "name": "Eduardo de Mier",
         "url": "https://os.mbed.com/users/eduardoG26/"
     },
-    "description": "Library for manual Encoders as used in user interfaces.",
+    "description": "Library for manual Encoders as used in user interfaces. Very simple, reduced and rock solid encoder library. Counts full pulses only. Inherent debouncing through state machine. Running on a regular ...",
     "frameworks": "mbed",
     "keywords": [
-        "Ascii",
-        "ASCIIGraph",
-        "graph",
-        "Serial",
-        "Terminal",
-        "mbed"
+        "UIEncoder"
     ],
     "name": "UIEncoder",
     "platforms": "*",

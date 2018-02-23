@@ -6,17 +6,7 @@
     "description": "SI114x UV index, IR and Visible Light sensor",
     "frameworks": "mbed",
     "keywords": [
-        "Host",
-        "Paradigma",
-        "Pelletti",
-        "USB",
-        "EEPROM",
-        "flash",
-        "IAP",
-        "In-Application",
-        "internal",
-        "memory",
-        "programming"
+        "SI114x"
     ],
     "name": "SI114x",
     "platforms": "*",

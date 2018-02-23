@@ -9,11 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "SSL",
-        "TLS",
-        "clock",
-        "ds1307",
-        "RTC"
+        "lwip_ppp_ethernet"
     ],
     "name": "lwip_ppp_ethernet",
     "platforms": "*",

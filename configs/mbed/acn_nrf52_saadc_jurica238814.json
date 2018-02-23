@@ -11,7 +11,9 @@
         "https://os.mbed.com/users/jurica238814/code/acd52832_Car_battery_ch_2/"
     ],
     "frameworks": "mbed",
-    "keywords": "max14690",
+    "keywords": [
+        "acn_nrf52_saadc"
+    ],
     "name": "acn_nrf52_saadc",
     "platforms": "*",
     "repository": {

@@ -5,7 +5,9 @@
     },
     "description": "A simple interface library for KS0070B lcd driver. Special characters included. 4-bit data bus.",
     "frameworks": "mbed",
-    "keywords": "mbed",
+    "keywords": [
+        "KS0070B_driver_library"
+    ],
     "name": "KS0070B_driver_library",
     "platforms": "*",
     "repository": {

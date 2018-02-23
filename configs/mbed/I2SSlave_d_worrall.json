@@ -15,13 +15,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "pressure",
-        "sensor",
-        "xml",
-        "count",
-        "external clock",
-        "MHz",
-        "pulse"
+        "I2SSlave"
     ],
     "name": "I2SSlave",
     "platforms": "*",

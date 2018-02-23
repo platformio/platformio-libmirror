@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "MSS",
+        "url": "https://os.mbed.com/teams/MSS/"
+    },
+    "description": "LM75B Digital temperature sensor and thermal watchdog",
+    "examples": [
+        "https://os.mbed.com/teams/MSS/code/testLM75B/",
+        "https://os.mbed.com/teams/MSS/code/testSensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LM75B",
+        "MSS",
+        "MSU",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "LM75B",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MSS/code/LM75B/"
+    }
+}

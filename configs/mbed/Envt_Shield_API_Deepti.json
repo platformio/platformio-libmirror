@@ -5,7 +5,9 @@
     },
     "description": "Evironmental Shield API",
     "frameworks": "mbed",
-    "keywords": "xbee",
+    "keywords": [
+        "Envt_Shield_API"
+    ],
     "name": "Envt_Shield_API",
     "platforms": "*",
     "repository": {

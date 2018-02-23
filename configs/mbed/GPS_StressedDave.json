@@ -5,7 +5,9 @@
     },
     "description": "Modified AdaFruit GPS library",
     "frameworks": "mbed",
-    "keywords": "GPS",
+    "keywords": [
+        "GPS"
+    ],
     "name": "GPS",
     "platforms": "*",
     "repository": {

@@ -6,13 +6,7 @@
     "description": "Simple ring buffer",
     "frameworks": "mbed",
     "keywords": [
-        "median",
-        "sliding",
-        "window",
-        "Host",
-        "mbed",
-        "PTP",
-        "USB"
+        "RingBuffer"
     ],
     "name": "RingBuffer",
     "platforms": "*",

@@ -9,11 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "compass",
-        "driver",
-        "HMC5583L",
-        "I2C",
-        "sensor"
+        "board"
     ],
     "name": "board",
     "platforms": "*",

@@ -6,19 +6,7 @@
     "description": "calc crc32 of char",
     "frameworks": "mbed",
     "keywords": [
-        "http",
-        "proxy",
-        "camera",
-        "JPEG",
-        "OV528",
-        "uCAM TTL120",
-        "debug",
-        "SPI",
-        "control",
-        "interrupt",
-        "motor",
-        "pwm",
-        "ramps"
+        "crc32"
     ],
     "name": "crc32",
     "platforms": "*",

@@ -1,11 +1,13 @@
 {
     "authors": {
-        "name": "TAKT 平林",
+        "name": "TAKT ĺšłć",
         "url": "https://os.mbed.com/users/taktkaihatu/"
     },
     "description": "AnalogInBase",
     "frameworks": "mbed",
-    "keywords": "AnalogInBaseClass",
+    "keywords": [
+        "AnalogInBaseClass"
+    ],
     "name": "AnalogInBaseClass",
     "platforms": "*",
     "repository": {

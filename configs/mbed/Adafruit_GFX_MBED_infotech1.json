@@ -3,7 +3,7 @@
         "name": "James Kidd",
         "url": "https://os.mbed.com/users/infotech1/"
     },
-    "description": "Port of the Adafruit_GFX library for use in MBED.",
+    "description": "Port of the Adafruit_GFX library for use in MBED. This is the core graphics library for all Adafruit's displays, providing a common set of graphics primitives (points, lines, circles, strings,bitmaps. ...",
     "examples": [
         "https://os.mbed.com/users/infotech1/code/ili9341_test/",
         "https://os.mbed.com/users/bdk9/code/ece495_firmware/",
@@ -11,15 +11,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BLE",
-        "bluetooth",
-        "simpleble",
-        "Adafruit_GFX",
-        "CAN",
-        "control",
-        "port",
-        "slope",
-        "NTP"
+        "Adafruit_GFX"
     ],
     "name": "Adafruit_GFX_MBED",
     "platforms": "*",

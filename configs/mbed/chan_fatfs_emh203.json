@@ -5,7 +5,9 @@
     },
     "description": "test",
     "frameworks": "mbed",
-    "keywords": "chan_fatfs",
+    "keywords": [
+        "chan_fatfs"
+    ],
     "name": "chan_fatfs",
     "platforms": "*",
     "repository": {

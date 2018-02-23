@@ -18,11 +18,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Nucleo",
-        "proximity sensor",
-        "stm32",
-        "X-NUCLEO-53L0A1",
-        "Random"
+        "BMP180"
     ],
     "name": "BMP180",
     "platforms": "*",

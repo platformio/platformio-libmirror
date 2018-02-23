@@ -18,19 +18,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Lora",
-        "mdot",
-        "multitech",
         "EM406",
         "GPS",
         "library",
-        "Serial",
-        "ethernet",
-        "tcp/ip",
-        "w5100",
-        "W5200",
-        "W5500",
-        "Wiznet"
+        "Serial"
     ],
     "name": "GPS",
     "platforms": "*",

@@ -3,12 +3,9 @@
         "name": "loko u",
         "url": "https://os.mbed.com/users/nullsub/"
     },
-    "description": "A lib for accessing ST7626 based lcds. It provides a set_pixel function.",
+    "description": "A lib for accessing ST7626 based lcds. It provides a set_pixel function. It is only tested with one display.",
     "frameworks": "mbed",
     "keywords": [
-        "library",
-        "motor",
-        "Stepper",
         "display",
         "display-initialisation",
         "driver",

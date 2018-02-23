@@ -12,14 +12,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "gyroscope",
-        "IMU",
-        "STM32F0",
-        "Grove",
-        "RFID",
-        "SEN11425P",
-        "Serial"
+        "millis"
     ],
     "name": "millis",
     "platforms": "*",

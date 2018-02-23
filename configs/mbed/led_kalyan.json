@@ -9,12 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "EFM32",
-        "Gecko",
-        "SegmentLCD",
-        "SiLabs",
-        "Silicon Labs",
-        "silicon_labs"
+        "led"
     ],
     "name": "led",
     "platforms": "*",

@@ -18,14 +18,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "1D",
-        "2D",
-        "array",
-        "matrix",
-        "H-bridge",
-        "I2C",
-        "MD25",
-        "motor"
+        "FXAS21002"
     ],
     "name": "FXAS21002",
     "platforms": "*",

@@ -3,7 +3,7 @@
         "name": "Jurica Resetar",
         "url": "https://os.mbed.com/users/jurica238814/"
     },
-    "description": "aconno board support file for acd52832 device.",
+    "description": "aconno board support file for acd52832 device. Ver1.0",
     "examples": [
         "https://os.mbed.com/users/jurica238814/code/acd52832_TempRead/",
         "https://os.mbed.com/users/jurica238814/code/acd52832_LSM9DS1/",
@@ -18,14 +18,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "adc",
-        "Color Sensor",
-        "Colour Sensor",
-        "High Speed ADC",
-        "irq",
-        "ldr",
-        "Light Dependent Resistor",
-        "RGB LED"
+        "aconno_bsp"
     ],
     "name": "aconno_bsp",
     "platforms": "*",

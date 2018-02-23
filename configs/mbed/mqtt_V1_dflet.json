@@ -8,20 +8,26 @@
             "authors": [
                 "David Fletcher"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "client"
+        },
+        {
+            "authors": [
+                "David Fletcher"
+            ],
+            "framework": "mbed",
+            "name": "server"
         }
     ],
     "description": "TI's mqtt.",
     "frameworks": "mbed",
     "keywords": [
-        "RN-XV",
-        "WiFly"
+        "mqtt_V1"
     ],
     "name": "mqtt_V1",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/dflet/code/mqtt_V1/"
+        "url": "https://os.mbed.com/users/dflet/code/mqtt_V1/"
     }
 }

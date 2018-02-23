@@ -11,11 +11,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Art-Net",
-        "DMX",
-        "DMX512",
-        "ethernet",
-        "UDP"
+        "HMC5883L"
     ],
     "name": "HMC5883L",
     "platforms": "*",

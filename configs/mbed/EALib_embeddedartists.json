@@ -3,15 +3,6 @@
         "name": "EmbeddedArtists AB",
         "url": "https://os.mbed.com/users/embeddedartists/"
     },
-    "dependencies": [
-        {
-            "authors": [
-                "mbed official "
-            ],
-            "frameworks": "mbed",
-            "name": "FATFileSystem"
-        }
-    ],
     "description": "A library with drivers for different peripherals on the LPC4088 QuickStart Board or related add-on boards.",
     "examples": [
         "https://os.mbed.com/users/mio/code/LPC4088test/",
@@ -27,17 +18,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LPC4088",
-        "Lora",
-        "Semtech",
-        "SX1276",
-        "SX1276Lib",
-        "SX1276MB1xAS"
+        "LPC4088"
     ],
     "name": "EALib",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/embeddedartists/code/EALib/"
+        "url": "https://os.mbed.com/users/embeddedartists/code/EALib/"
     }
 }

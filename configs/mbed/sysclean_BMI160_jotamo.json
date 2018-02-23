@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/dalmago/code/sysClean/"
     ],
     "frameworks": "mbed",
-    "keywords": "sysclean_BMI160",
+    "keywords": [
+        "sysclean_BMI160"
+    ],
     "name": "sysclean_BMI160",
     "platforms": "*",
     "repository": {

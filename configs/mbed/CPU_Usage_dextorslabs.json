@@ -3,7 +3,7 @@
         "name": "Ian Weston",
         "url": "https://os.mbed.com/users/dextorslabs/"
     },
-    "description": "CPU_Usage is a very lightweight library that can be easily incorporated into your application for testing performance. The reading is given as a percentage of CPU time which can be output however you like (serial, tft.. etc).",
+    "description": "CPU_Usage is a very lightweight library that can be easily incorporated into your application for testing performance. The reading is given as a percentage of CPU time which can be ...",
     "frameworks": "mbed",
     "keywords": [
         "CPU",
@@ -11,23 +11,7 @@
         "performance",
         "resources",
         "time",
-        "usage",
-        "barometer",
-        "I2C",
-        "MEMS",
-        "pressure",
-        "sensor",
-        "STMicro",
-        "Encoder",
-        "rotary",
-        "Radio",
-        "rf",
-        "rfm69",
-        "LCD",
-        "Register",
-        "Serial",
-        "shift",
-        "with"
+        "usage"
     ],
     "name": "CPU_Usage",
     "platforms": "*",

@@ -8,7 +8,7 @@
             "authors": [
                 "TMNTmaker !"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "fonts"
         }
     ],
@@ -19,19 +19,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "3310",
-        "3390",
-        "LCD",
-        "Nokia",
-        "pcd8544",
-        "TextLCD",
-        "Adafruit",
-        "AdaFruit RGB LCD Shield"
+        "ILI9341_SPI"
     ],
     "name": "ILI9341_SPI",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/tmnt/code/ILI9341_SPI/"
+        "url": "https://os.mbed.com/users/tmnt/code/ILI9341_SPI/"
     }
 }

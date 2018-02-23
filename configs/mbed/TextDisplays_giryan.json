@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/giryan/code/TextLCD_Serial/"
     ],
     "frameworks": "mbed",
-    "keywords": "TextDisplays",
+    "keywords": [
+        "TextDisplays"
+    ],
     "name": "TextDisplays",
     "platforms": "*",
     "repository": {

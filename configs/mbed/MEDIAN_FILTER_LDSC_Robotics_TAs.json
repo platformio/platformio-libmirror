@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "LDSC_Robotics_TAs",
+        "url": "https://os.mbed.com/teams/LDSC_Robotics_TAs/"
+    },
+    "description": "spacial median filter rejecting abnormal signals.",
+    "examples": [
+        "https://os.mbed.com/teams/LDSC_Robotics_TAs/code/medianFilterTest/",
+        "https://os.mbed.com/teams/Developers-of-anti-slip-compensator/code/WIPV/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "filter",
+        "median"
+    ],
+    "name": "MEDIAN_FILTER",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/LDSC_Robotics_TAs/code/MEDIAN_FILTER/"
+    }
+}

@@ -6,18 +6,7 @@
     "description": "lpc1768",
     "frameworks": "mbed",
     "keywords": [
-        "modbus rtu",
-        "real time",
-        "rtos",
-        "serial protocol",
-        "Pachube",
-        "accelerometer",
-        "MMA8451",
-        "MMA8452",
-        "MMA8453",
-        "MMA845x",
-        "eeprom on flash",
-        "flash file system"
+        "EthernetNetIf"
     ],
     "name": "EthernetNetIf",
     "platforms": "*",

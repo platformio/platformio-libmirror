@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/jimconner/code/mbed_oled/"
     ],
     "frameworks": "mbed",
-    "keywords": "hx711",
+    "keywords": [
+        "hx711"
+    ],
     "name": "hx711",
     "platforms": "*",
     "repository": {

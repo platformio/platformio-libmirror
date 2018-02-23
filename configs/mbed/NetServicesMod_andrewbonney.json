@@ -3,17 +3,10 @@
         "name": "Andrew Bonney",
         "url": "https://os.mbed.com/users/andrewbonney/"
     },
-    "description": "Modified version of NetServices. Fixes an issue where connections failed should the HTTP response status line be received in a packet on its own prior to any further headers. Changes are made to the HTTPClient.cpp file's readHeaders method.",
+    "description": "Modified version of NetServices. Fixes an issue where connections failed should the HTTP response status line be received in a packet on its own prior to any further headers. Changes ...",
     "frameworks": "mbed",
     "keywords": [
-        "C1098-SS",
-        "camera",
-        "JPEG",
-        "UART",
-        "regex",
-        "slre",
-        "AT",
-        "parser"
+        "NetServicesMod"
     ],
     "name": "NetServicesMod",
     "platforms": "*",

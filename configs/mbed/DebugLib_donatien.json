@@ -11,7 +11,9 @@
         "https://os.mbed.com/users/pnysten/code/lwip/"
     ],
     "frameworks": "mbed",
-    "keywords": "DebugLib",
+    "keywords": [
+        "DebugLib"
+    ],
     "name": "DebugLib",
     "platforms": "*",
     "repository": {

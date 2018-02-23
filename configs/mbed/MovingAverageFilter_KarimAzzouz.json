@@ -9,10 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "control",
-        "PID",
-        "W5200",
-        "WIZ820IO"
+        "MovingAverageFilter"
     ],
     "name": "MovingAverageFilter",
     "platforms": "*",

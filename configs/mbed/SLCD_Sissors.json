@@ -18,19 +18,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "fonts",
-        "TFT",
         "kl46z",
         "LCD",
-        "SLCD",
-        "MQTT",
-        "MQTTClient",
-        "dal",
-        "lancaster",
-        "Microbit",
-        "cmsis",
-        "rtos",
-        "RTX"
+        "SLCD"
     ],
     "name": "SLCD",
     "platforms": "*",

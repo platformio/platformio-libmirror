@@ -3,22 +3,17 @@
         "name": "Thomas Olsson",
         "url": "https://os.mbed.com/users/wertyfrog/"
     },
-    "description": "library for driving character LCD in 4-bit mode",
+    "description": "library for driving character LCD in 4-bit mode (HD44780, ST7066U & compatible) supports 16x2, 20x2, 20x4 & 40x2 uses R/W pin for timing rather than delays",
     "examples": [
         "https://os.mbed.com/users/DavidMeza/code/Ultrasonic/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Melexis",
-        "MLX90614",
         "2x40",
         "40x2",
         "HD44780",
         "LCD",
-        "ST7066U",
-        "range",
-        "sensor",
-        "SRF08"
+        "ST7066U"
     ],
     "name": "LCD40x2",
     "platforms": "*",

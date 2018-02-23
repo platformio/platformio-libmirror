@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "u-blox",
+        "url": "https://os.mbed.com/teams/ublox/"
+    },
+    "description": "This class provides an API to communicate with a u-blox GNSS chip. The files here were originally part of the C027_Support library (https://developer.mbed.org/teams/ublox/code/C027_Support/ at revision 138:dafbbf31bf76) but have been separated ...",
+    "examples": [
+        "https://os.mbed.com/teams/vdb-IOT-team/code/example-ublox-at-cellular-interface-ext/",
+        "https://os.mbed.com/teams/ublox/code/example-gnss/",
+        "https://os.mbed.com/teams/ublox/code/example-low-power-sleep/",
+        "https://os.mbed.com/teams/ublox/code/example-ublox-at-cellular-interface-ext/",
+        "https://os.mbed.com/users/mudassar0121/code/example-C030-out-of-box-demo/",
+        "https://os.mbed.com/teams/ublox/code/example-C030-out-of-box-demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "C027",
+        "C030",
+        "GNSS",
+        "GPS",
+        "u-blox"
+    ],
+    "name": "gnss",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ublox/code/gnss/"
+    }
+}

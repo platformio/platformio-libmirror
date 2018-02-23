@@ -11,14 +11,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "FRDM-K22F",
-        "fxos8700cq",
-        "nRF2401A",
-        "ALS",
-        "ambient light sensor",
-        "I2C",
-        "ISL29125",
-        "rgb"
+        "nRF2401A"
     ],
     "name": "nRF2401A",
     "platforms": "*",

@@ -5,7 +5,9 @@
     },
     "description": "LTC2942 interface with interrupt and battery register calculations",
     "frameworks": "mbed",
-    "keywords": "LTC2942",
+    "keywords": [
+        "LTC2942"
+    ],
     "name": "LTC2942",
     "platforms": "*",
     "repository": {

@@ -5,7 +5,9 @@
     },
     "description": "FSLP Window USB Serial Output",
     "frameworks": "mbed",
-    "keywords": "FSLP_Serial_Outputx",
+    "keywords": [
+        "FSLP_Serial_Outputx"
+    ],
     "name": "FSLP_Serial_Outputx",
     "platforms": "*",
     "repository": {

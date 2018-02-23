@@ -6,12 +6,7 @@
     "description": "Biblioteca com implementação de filtro IIR passa baixa usando IQ12",
     "frameworks": "mbed",
     "keywords": [
-        "hih6130",
-        "sensor",
-        "Temp",
-        "Temperature",
-        "IOExpander",
-        "PCA9534"
+        "FiltroIIR"
     ],
     "name": "FiltroIIR",
     "platforms": "*",

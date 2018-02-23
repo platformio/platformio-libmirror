@@ -11,7 +11,9 @@
         "https://os.mbed.com/users/Nurbol/code/state_machine_modes_1_12_11_11h/"
     ],
     "frameworks": "mbed",
-    "keywords": "globals",
+    "keywords": [
+        "globals"
+    ],
     "name": "globals",
     "platforms": "*",
     "repository": {

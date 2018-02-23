@@ -19,20 +19,7 @@
     "frameworks": "mbed",
     "keywords": [
         "interrupt",
-        "keypad",
-        "ANSI",
-        "Serial",
-        "Terminal",
-        "Freescale",
-        "sensing",
-        "touch",
-        "TSI",
-        "RangeFinder",
-        "SRF05",
-        "ultrasonic",
-        "sensor",
-        "Ultrasonic Ranging",
-        "Ultrasound Sensor"
+        "keypad"
     ],
     "name": "keypad",
     "platforms": "*",

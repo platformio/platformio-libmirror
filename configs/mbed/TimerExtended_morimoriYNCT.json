@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/morimoriYNCT/code/gps_com/"
     ],
     "frameworks": "mbed",
-    "keywords": "timer",
+    "keywords": [
+        "timer"
+    ],
     "name": "TimerExtended",
     "platforms": "*",
     "repository": {

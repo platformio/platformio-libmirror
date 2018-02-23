@@ -3,15 +3,6 @@
         "name": "Neil Thiessen",
         "url": "https://os.mbed.com/users/neilt6/"
     },
-    "dependencies": [
-        {
-            "authors": [
-                "mbed official"
-            ],
-            "frameworks": "mbed",
-            "name": "FATFileSystem"
-        }
-    ],
     "description": "A re-written SDFileSystem library with improved compatibility, CRC support, and card removal/replacement support.",
     "examples": [
         "https://os.mbed.com/users/whatnick/code/xadow_m0_SD_Hello/",
@@ -27,28 +18,17 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Encoder",
-        "QEI",
-        "quadrature",
-        "H-bridge",
-        "motor",
-        "PwmOut",
         "fatfilesystem",
         "MMC",
         "SD",
         "SD Card",
         "SDHC",
-        "SDXC",
-        "buffer",
-        "Buffered",
-        "rs232",
-        "RS485",
-        "Serial"
+        "SDXC"
     ],
     "name": "SDFileSystem",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/neilt6/code/SDFileSystem/"
+        "url": "https://os.mbed.com/users/neilt6/code/SDFileSystem/"
     }
 }

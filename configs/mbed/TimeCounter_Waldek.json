@@ -6,11 +6,7 @@
     "description": "Time (seconds) counter based on TimerSubscriber",
     "frameworks": "mbed",
     "keywords": [
-        "driver",
-        "I2C",
-        "rtos",
-        "accelerometer",
-        "ADXL362"
+        "TimeCounter"
     ],
     "name": "TimeCounter",
     "platforms": "*",

@@ -3,16 +3,19 @@
         "name": "Mark Turner",
         "url": "https://os.mbed.com/users/mturner5/"
     },
+    "dependencies": [
+        {
+            "authors": [
+                "Mark Turner"
+            ],
+            "framework": "mbed",
+            "name": "MarksMbed"
+        }
+    ],
     "description": "This makes the blink delay for a bit longer and the button presses are delayed too.",
     "frameworks": "mbed",
     "keywords": [
-        "ultrasonico",
-        "I2C",
-        "game",
-        "inheritance",
-        "OOP",
-        "polymorphism",
-        "tutorial"
+        "blink_kl46z_button_LCD_delays"
     ],
     "name": "blink_kl46z_button_LCD_delays",
     "platforms": "*",

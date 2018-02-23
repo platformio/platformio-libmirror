@@ -8,8 +8,15 @@
             "authors": [
                 "Nico De Witte"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "NeoPixelString"
+        },
+        {
+            "authors": [
+                "Nico De Witte"
+            ],
+            "framework": "mbed",
+            "name": "SimplyLog"
         }
     ],
     "description": "I2c slave device to control NeoPixel strings",
@@ -18,21 +25,12 @@
         "I2C",
         "NeoPixel",
         "rhb",
-        "slave",
-        "logger",
-        "syslog",
-        "syslogd",
-        "dynamixel",
-        "MX-12W",
-        "MX12",
-        "MX12W",
-        "robotis",
-        "Servo"
+        "slave"
     ],
     "name": "NeoPixelI2cSlave",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/dwini/code/NeoPixelI2cSlave/"
+        "url": "https://os.mbed.com/users/dwini/code/NeoPixelI2cSlave/"
     }
 }

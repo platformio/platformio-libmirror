@@ -12,15 +12,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "External SD",
-        "file system",
-        "SDHC",
-        "SPI",
-        "AppNearMe",
-        "NFC",
-        "fatfilesystem",
-        "LocalFileSystem",
-        "USBMSD"
+        "adc"
     ],
     "name": "adc",
     "platforms": "*",

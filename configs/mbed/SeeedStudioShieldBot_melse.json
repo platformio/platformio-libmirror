@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/melse/code/ShieldBotExample/"
     ],
     "frameworks": "mbed",
-    "keywords": "mbed",
+    "keywords": [
+        "SeeedStudioShieldBot"
+    ],
     "name": "SeeedStudioShieldBot",
     "platforms": "*",
     "repository": {

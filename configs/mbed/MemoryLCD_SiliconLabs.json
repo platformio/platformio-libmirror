@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Silicon Labs",
+        "url": "https://os.mbed.com/teams/SiliconLabs/"
+    },
+    "description": "Display driver for Sharp's range of SPI-driven memory LCD's, leveraging the power of asynchronous transfers. Currently supports LS013B7DH03, but easily extendable to other models as well.",
+    "examples": [
+        "https://os.mbed.com/users/vijaydew/code/memLCD-Demo/",
+        "https://os.mbed.com/users/happymofo/code/memLCD-Demo/",
+        "https://os.mbed.com/teams/SiliconLabs/code/memLCD-Demo/",
+        "https://os.mbed.com/teams/SiliconLabs/code/MemLCD-Temperature-Humidity-Demo/",
+        "https://os.mbed.com/teams/SiliconLabs/code/Hungry_gecko/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "async",
+        "LS013B7DH03",
+        "memory lcd",
+        "Sharp",
+        "sharp memory LCD"
+    ],
+    "name": "MemoryLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/SiliconLabs/code/MemoryLCD/"
+    }
+}

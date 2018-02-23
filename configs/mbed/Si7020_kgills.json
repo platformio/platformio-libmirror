@@ -13,22 +13,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ACM1602NI",
-        "f401",
-        "I2C",
-        "LCD",
-        "Nucleo",
-        "UIT",
-        "2.4GHz",
-        "920MHz",
-        "950MHz",
-        "NEC",
-        "NFC",
-        "AM2320",
-        "1-wire",
-        "DALLAS",
-        "Maxim",
-        "OneWire"
+        "Si7020"
     ],
     "name": "Si7020",
     "platforms": "*",

@@ -6,28 +6,29 @@
     "dependencies": [
         {
             "authors": [
-                "Bluetooth Low Energy"
+                " "
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "BLE_API"
+        },
+        {
+            "authors": [
+                " "
+            ],
+            "framework": "mbed",
+            "name": "nRF51822"
         }
     ],
     "description": "Utility class for MIDI over Bluetooth LE",
     "frameworks": "mbed",
     "keywords": [
-        "SerialHalfDuplex",
-        "motor",
-        "Stepper",
-        "unipolar",
         "BLE",
-        "MIDI",
-        "ITG3200",
-        "sparkfun"
+        "MIDI"
     ],
     "name": "BLE_MIDI",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/kshoji/code/BLE_MIDI/"
+        "url": "https://os.mbed.com/users/kshoji/code/BLE_MIDI/"
     }
 }

@@ -6,10 +6,7 @@
     "description": "Port of LSM303DLHC with modified registers to work with LSM303D",
     "frameworks": "mbed",
     "keywords": [
-        "LSM303D",
-        "bitmap",
-        "Graphics",
-        "LCD"
+        "LSM303D"
     ],
     "name": "LSM303D",
     "platforms": "*",

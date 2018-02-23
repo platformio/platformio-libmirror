@@ -11,7 +11,9 @@
         "https://os.mbed.com/users/coverxit/code/RealTimeClock/"
     ],
     "frameworks": "mbed",
-    "keywords": "StrLib",
+    "keywords": [
+        "StrLib"
+    ],
     "name": "StrLib",
     "platforms": "*",
     "repository": {

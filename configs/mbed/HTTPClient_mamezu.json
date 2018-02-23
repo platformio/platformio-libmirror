@@ -18,9 +18,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Buffered",
-        "MODSERIAL",
-        "Serial"
+        "HTTPClient"
     ],
     "name": "HTTPClient",
     "platforms": "*",

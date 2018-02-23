@@ -6,19 +6,7 @@
     "description": "Serial Half-Duplex",
     "frameworks": "mbed",
     "keywords": [
-        "DMA",
-        "FRDM-KL25Z",
-        "led",
-        "WS2811",
-        "WS2812",
-        "IMU",
-        "MPU9150",
-        "audio",
-        "bwf",
-        "file",
-        "wav",
-        "wave",
-        "gyro"
+        "SerialHalfDuplex"
     ],
     "name": "SerialHalfDuplex",
     "platforms": "*",

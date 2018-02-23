@@ -10,20 +10,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "acctuators",
-        "EthernetInterface",
-        "gainspan",
-        "GS1011",
-        "GS1011M",
-        "Wi-Fi",
-        "wifi",
-        "3-axis",
-        "accelerometer",
-        "axis",
-        "I2C",
-        "mbed",
-        "MMA8452",
-        "Vodafone"
+        "GPS"
     ],
     "name": "GPS",
     "platforms": "*",

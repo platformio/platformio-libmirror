@@ -5,7 +5,9 @@
     },
     "description": "KS0713",
     "frameworks": "mbed",
-    "keywords": "KS0713",
+    "keywords": [
+        "KS0713"
+    ],
     "name": "KS0713",
     "platforms": "*",
     "repository": {

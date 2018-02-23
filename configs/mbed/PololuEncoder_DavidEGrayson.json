@@ -3,19 +3,14 @@
         "name": "David Grayson",
         "url": "https://os.mbed.com/users/DavidEGrayson/"
     },
-    "description": "Library for decoding quadrature encoders. Uses a ring buffer so you can be sure to process every tick in the order that it happened. This library is not really intended for public use yet and does not have much documentation.",
+    "description": "Library for decoding quadrature encoders. Uses a ring buffer so you can be sure to process every tick in the order that it happened. This library is not really intended ...",
     "examples": [
         "https://os.mbed.com/users/DavidEGrayson/code/DeadReckoning/",
         "https://os.mbed.com/users/DavidEGrayson/code/LineFollowing/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "id3",
-        "mp3",
-        "C030",
-        "low power",
-        "STM32F437",
-        "u-blox"
+        "PololuEncoder"
     ],
     "name": "PololuEncoder",
     "platforms": "*",

@@ -17,7 +17,9 @@
         "https://os.mbed.com/users/dminear/code/Sprinkler_Controller/"
     ],
     "frameworks": "mbed",
-    "keywords": "rpc",
+    "keywords": [
+        "EthernetNetIf"
+    ],
     "name": "EthernetNetIf",
     "platforms": "*",
     "repository": {

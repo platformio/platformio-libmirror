@@ -14,19 +14,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "camera",
-        "radioshack",
-        "shield",
-        "VC0706",
-        "audio input",
-        "Audio output",
-        "CODEC",
-        "DISCO-F746NG",
-        "DMA",
-        "Mikami",
-        "SAI",
-        "SAI_IO",
-        "WM8994"
+        "MMA8652"
     ],
     "name": "MMA8652",
     "platforms": "*",

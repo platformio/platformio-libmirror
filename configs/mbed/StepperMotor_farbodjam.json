@@ -6,14 +6,7 @@
     "description": "StepperMotor",
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "LCD",
-        "PCF2119",
-        "PCF2119x",
-        "SCG002B",
-        "TextLCD",
-        "6100",
-        "Nokia LCD"
+        "StepperMotor"
     ],
     "name": "StepperMotor",
     "platforms": "*",

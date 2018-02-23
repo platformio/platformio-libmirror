@@ -9,10 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "ADXL345",
-        "C++",
-        "mbed"
+        "USBHostLite"
     ],
     "name": "USBHostLite",
     "platforms": "*",

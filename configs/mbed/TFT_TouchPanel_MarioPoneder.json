@@ -10,13 +10,7 @@
         "Panel",
         "resistive",
         "touch",
-        "Touchscreen",
-        "Adafruit",
-        "LCD",
-        "ST7735",
-        "TFT",
-        "FTP",
-        "ftpclient"
+        "Touchscreen"
     ],
     "name": "TFT_TouchPanel",
     "platforms": "*",

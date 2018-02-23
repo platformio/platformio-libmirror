@@ -5,7 +5,9 @@
     },
     "description": "color_sensor",
     "frameworks": "mbed",
-    "keywords": "color_sensor",
+    "keywords": [
+        "color_sensor"
+    ],
     "name": "color_sensor",
     "platforms": "*",
     "repository": {

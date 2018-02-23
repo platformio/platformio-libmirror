@@ -6,15 +6,7 @@
     "description": "myi2c test",
     "frameworks": "mbed",
     "keywords": [
-        "fm",
-        "Radio",
-        "RDA5807M",
-        "RDS",
-        "LFSR",
-        "Linear Feedback Shift Register",
-        "Number Generator",
-        "Pseudo",
-        "Random"
+        "TARGET_LPC1768i2c"
     ],
     "name": "TARGET_LPC1768i2c",
     "platforms": "*",

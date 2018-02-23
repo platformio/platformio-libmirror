@@ -8,16 +8,13 @@
             "authors": [
                 "Erik Olieman"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "FastPWM"
         }
     ],
     "description": "Creates square-wave frequency output on pin p22. Custom frequency between 1Hz and 48 MHz. (LPC 1768)",
     "frameworks": "mbed",
     "keywords": [
-        "3",
-        "joystick",
-        "playstation",
         "frequency",
         "LPC1768",
         "MHz",
@@ -27,6 +24,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/geotec/code/PwmOscillator/"
+        "url": "https://os.mbed.com/users/geotec/code/PwmOscillator/"
     }
 }

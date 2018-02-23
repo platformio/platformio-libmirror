@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/GuiTwo/code/KS0108_PCF8574/"
     ],
     "frameworks": "mbed",
-    "keywords": "BusEnums",
+    "keywords": [
+        "BusEnums"
+    ],
     "name": "BusEnums",
     "platforms": "*",
     "repository": {

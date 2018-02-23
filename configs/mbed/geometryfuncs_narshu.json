@@ -5,7 +5,9 @@
     },
     "description": "geometryfuncs for ICRS eurobot",
     "frameworks": "mbed",
-    "keywords": "geometryfuncs",
+    "keywords": [
+        "geometryfuncs"
+    ],
     "name": "geometryfuncs",
     "platforms": "*",
     "repository": {

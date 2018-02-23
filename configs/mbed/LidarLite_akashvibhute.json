@@ -10,17 +10,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "keyboard",
-        "USB",
         "LIDAR Lite",
-        "LidarLite",
-        "I2C",
-        "MCP23017",
-        "flash",
-        "logging",
-        "broadcast",
-        "multicast",
-        "UDP"
+        "LidarLite"
     ],
     "name": "LidarLite",
     "platforms": "*",

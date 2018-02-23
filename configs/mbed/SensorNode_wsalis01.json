@@ -5,7 +5,9 @@
     },
     "description": "Tufts Hybrid Racing Sensor Node",
     "frameworks": "mbed",
-    "keywords": "CAN",
+    "keywords": [
+        "CAN"
+    ],
     "name": "SensorNode",
     "platforms": "*",
     "repository": {

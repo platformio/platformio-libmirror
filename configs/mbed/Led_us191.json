@@ -6,14 +6,7 @@
     "description": "manage a led (put on/off, flash...)",
     "frameworks": "mbed",
     "keywords": [
-        "I2C_EEPROM",
-        "ILI9225",
-        "LCD",
-        "SPI",
-        "led",
-        "https",
-        "mbedTLS",
-        "SSL"
+        "led"
     ],
     "name": "Led",
     "platforms": "*",

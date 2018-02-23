@@ -5,7 +5,9 @@
     },
     "description": ".",
     "frameworks": "mbed",
-    "keywords": "PsiSwarm",
+    "keywords": [
+        "mp3"
+    ],
     "name": "mp3",
     "platforms": "*",
     "repository": {

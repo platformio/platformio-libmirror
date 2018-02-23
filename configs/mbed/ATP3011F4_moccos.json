@@ -5,7 +5,9 @@
     },
     "description": "for testing ATP3011F4",
     "frameworks": "mbed",
-    "keywords": "wallbot",
+    "keywords": [
+        "ATP3011F4"
+    ],
     "name": "ATP3011F4",
     "platforms": "*",
     "repository": {

@@ -6,11 +6,7 @@
     "description": "Modified copy of Peter Dresche lib using fewer analogue pins for touch panel",
     "frameworks": "mbed",
     "keywords": [
-        "Dynamic",
-        "led",
-        "tlc5940",
-        "BLE_API",
-        "Microbit"
+        "Touch_tft"
     ],
     "name": "Touch_tft",
     "platforms": "*",

@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/programmer5/code/stm32f407/"
     ],
     "frameworks": "mbed",
-    "keywords": "LIS3DSH",
+    "keywords": [
+        "LIS3DSH"
+    ],
     "name": "LIS3DSH",
     "platforms": "*",
     "repository": {

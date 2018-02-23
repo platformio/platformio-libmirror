@@ -8,7 +8,7 @@
             "authors": [
                 "Jacob Bramley"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "PixelArray"
         }
     ],
@@ -18,18 +18,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "IR",
-        "accelerometer",
-        "eCompass",
-        "fast",
-        "FRDM-KL46Z",
-        "magnetometer",
-        "digitalOut"
+        "easyNeo"
     ],
     "name": "easyNeo",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/dannellyz/code/easyNeo/"
+        "url": "https://os.mbed.com/users/dannellyz/code/easyNeo/"
     }
 }

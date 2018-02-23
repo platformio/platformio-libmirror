@@ -3,7 +3,7 @@
         "name": "Wataru Kunino",
         "url": "https://os.mbed.com/users/bokunimowakaru/"
     },
-    "description": "ZB Coord API for XBee:",
+    "description": "ZB Coord API for XBee: This XBee library drives Digi XBee ZB Modules in API Operation mode. Most commands include remote communication's are supported by the functions of this library. ...",
     "examples": [
         "https://os.mbed.com/users/bokunimowakaru/code/sample02_sw/",
         "https://os.mbed.com/users/bokunimowakaru/code/xbee_aging/",
@@ -12,16 +12,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AK8975",
-        "compass",
-        "I2C",
-        "Magneto",
-        "magnetometer",
         "xbee",
         "ZB",
-        "zigbee",
-        "jsmn",
-        "JSON"
+        "zigbee"
     ],
     "name": "xbee",
     "platforms": "*",

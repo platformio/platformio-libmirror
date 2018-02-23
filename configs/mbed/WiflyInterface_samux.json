@@ -15,11 +15,7 @@
         "socket",
         "TCP",
         "UDP",
-        "WiFly",
-        "compass",
-        "LSM303DLH",
-        "magnetometer",
-        "sensors"
+        "WiFly"
     ],
     "name": "WiflyInterface",
     "platforms": "*",

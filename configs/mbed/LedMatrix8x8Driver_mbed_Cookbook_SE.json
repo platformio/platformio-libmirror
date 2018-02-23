@@ -5,7 +5,9 @@
     },
     "description": "8x8ドットマトリクスLED用のドライバ",
     "frameworks": "mbed",
-    "keywords": "LedMatrix8x8Driver",
+    "keywords": [
+        "LedMatrix8x8Driver"
+    ],
     "name": "LedMatrix8x8Driver",
     "platforms": "*",
     "repository": {

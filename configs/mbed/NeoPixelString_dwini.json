@@ -8,7 +8,7 @@
             "authors": [
                 "Jacob Bramley"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "PixelArray"
         }
     ],
@@ -20,18 +20,12 @@
     "frameworks": "mbed",
     "keywords": [
         "NeoPixel",
-        "rgb",
-        "flysky",
-        "PPM",
-        "pwm",
-        "RC",
-        "Receiver",
-        "Servo"
+        "rgb"
     ],
     "name": "NeoPixelString",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/dwini/code/NeoPixelString/"
+        "url": "https://os.mbed.com/users/dwini/code/NeoPixelString/"
     }
 }

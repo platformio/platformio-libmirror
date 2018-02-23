@@ -5,7 +5,9 @@
     },
     "description": "Driver for the AT42QT1070",
     "frameworks": "mbed",
-    "keywords": "QT1070",
+    "keywords": [
+        "QT1070"
+    ],
     "name": "QT1070",
     "platforms": "*",
     "repository": {

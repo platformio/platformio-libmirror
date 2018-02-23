@@ -3,7 +3,7 @@
         "name": "Adrien CORVASIER",
         "url": "https://os.mbed.com/users/Volt72/"
     },
-    "description": "Librairie pouvant être utilisée avec le module HX711.",
+    "description": "Librairie pouvant ĂŞtre utilisĂŠe avec le module HX711. Library which can be used with the HX711 component.",
     "examples": [
         "https://os.mbed.com/teams/FRA221_2015/code/11B_DOGFEEDER/",
         "https://os.mbed.com/teams/FRA221_2015/code/10B_Project_strian_guage_final/",
@@ -14,15 +14,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "blinking",
-        "led",
-        "16x2",
-        "freetronics",
-        "LCD",
-        "HX711",
-        "dynamixel",
-        "MX28",
-        "Servo"
+        "HX711"
     ],
     "name": "HX711",
     "platforms": "*",

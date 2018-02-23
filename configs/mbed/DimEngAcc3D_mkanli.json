@@ -6,9 +6,7 @@
     "description": "Class to read acceleration measurements from Dimension Engineering Buffered +-3g Tri-axis Accelerometer device.",
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "2016年度IZU",
-        "PCF8591"
+        "accelerometer"
     ],
     "name": "DimEngAcc3D",
     "platforms": "*",

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "description": "A library for setting up Secure Socket Layer (SSL) connections and verifying remote hosts using certificates. Contains only the source files for mbed platform implementation of the library.",
+    "examples": [
+        "https://os.mbed.com/teams/MultiTech/code/HTTPClient-SSL/",
+        "https://os.mbed.com/users/ksekimoto/code/HTTPClient-SSL/",
+        "https://os.mbed.com/users/kruenhec/code/HTTPClient-SSL/",
+        "https://os.mbed.com/users/JonB/code/HTTPClient-SSL/",
+        "https://os.mbed.com/users/iii/code/HTTPClient/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CyaSSL",
+        "SSL"
+    ],
+    "name": "CyaSSL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/CyaSSL/"
+    }
+}

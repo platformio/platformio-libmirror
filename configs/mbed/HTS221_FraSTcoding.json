@@ -3,12 +3,10 @@
         "name": "Francesco Ferilli",
         "url": "https://os.mbed.com/users/FraSTcoding/"
     },
-    "description": "Release 1.0",
+    "description": "Release 1.0 only I2C avalable not tested yet",
     "frameworks": "mbed",
     "keywords": [
-        "DS130x",
-        "Maxim",
-        "RTC"
+        "HTS221"
     ],
     "name": "HTS221",
     "platforms": "*",

@@ -9,7 +9,9 @@
         "https://os.mbed.com/teams/uClimate/code/ESP8266_moj/"
     ],
     "frameworks": "mbed",
-    "keywords": "ArduinoAPI",
+    "keywords": [
+        "ArduinoAPI"
+    ],
     "name": "ArduinoAPI",
     "platforms": "*",
     "repository": {

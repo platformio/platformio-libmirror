@@ -8,11 +8,11 @@
             "authors": [
                 "Sam Grove"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "Buffer"
         }
     ],
-    "description": "Inherit from Serial and use software buffers for TX and RX. This allows the UART peripherals to operate in a IRQ driven mode. Overrides most (but not all) stdio functions as Serial did",
+    "description": "Inherit from Serial and use software buffers for TX and RX. This allows the UART peripherals to operate in a IRQ driven mode. Overrides most (but not all) stdio functions ...",
     "examples": [
         "https://os.mbed.com/users/jurgis/code/buffered_serial_test/",
         "https://os.mbed.com/teams/MBED_DEMOS/code/BLE_Police_HRM/",
@@ -26,11 +26,16 @@
         "https://os.mbed.com/users/kb10uy/code/NuFM402/"
     ],
     "frameworks": "mbed",
-    "keywords": "BufferedSerial",
+    "keywords": [
+        "buffer",
+        "BufferedSerial",
+        "BufferSerial",
+        "Serial"
+    ],
     "name": "BufferedSerial",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/sam_grove/code/BufferedSerial/"
+        "url": "https://os.mbed.com/users/sam_grove/code/BufferedSerial/"
     }
 }

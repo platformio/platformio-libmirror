@@ -9,10 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "ranger",
-        "SRF02",
-        "ultrasonic"
+        "PCF8591"
     ],
     "name": "PCF8591",
     "platforms": "*",

@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/sillevl/code/m3Dpi/"
     ],
     "frameworks": "mbed",
-    "keywords": "xbee",
+    "keywords": [
+        "xbee"
+    ],
     "name": "xbee",
     "platforms": "*",
     "repository": {

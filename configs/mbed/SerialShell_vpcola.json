@@ -9,7 +9,9 @@
         "https://os.mbed.com/users/vpcola/code/lpc1768_blinky/"
     ],
     "frameworks": "mbed",
-    "keywords": "SerialShell",
+    "keywords": [
+        "SerialShell"
+    ],
     "name": "SerialShell",
     "platforms": "*",
     "repository": {

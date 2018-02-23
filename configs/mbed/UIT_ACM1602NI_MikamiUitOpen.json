@@ -3,7 +3,7 @@
         "name": "不韋 呂",
         "url": "https://os.mbed.com/users/MikamiUitOpen/"
     },
-    "description": "Class library for LCD character display ACM1602NI using I2C on Nucleo.",
+    "description": "Class library for LCD character display ACM1602NI using I2C on Nucleo. Nucleo 用 I2C 接続の LCD キャラクタ･ディスプレー ACM1602Ni 用のクラス･ライブラリ．",
     "examples": [
         "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VariableFIR_LPFHPF/",
         "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VariableFIR_LPF/",
@@ -21,16 +21,7 @@
         "ACM1602NI",
         "I2C",
         "LCD",
-        "Nucleo",
-        "ADXL345",
-        "sparkfun",
-        "display",
-        "led",
-        "numeric",
-        "Seven-Segment",
-        "Capactitve touch sensor",
-        "mpr121",
-        "SEN-10250"
+        "Nucleo"
     ],
     "name": "UIT_ACM1602NI",
     "platforms": "*",

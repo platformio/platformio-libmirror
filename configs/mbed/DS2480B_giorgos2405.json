@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/giorgos2405/code/DS2480B_1_Wire_Master/"
     ],
     "frameworks": "mbed",
-    "keywords": "DS2480B",
+    "keywords": [
+        "DS2480B"
+    ],
     "name": "DS2480B",
     "platforms": "*",
     "repository": {

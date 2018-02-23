@@ -5,7 +5,9 @@
     },
     "description": "地磁気センサHMC5883Lライブラリ",
     "frameworks": "mbed",
-    "keywords": "HMC5883L",
+    "keywords": [
+        "HMC5883L"
+    ],
     "name": "HMC5883L",
     "platforms": "*",
     "repository": {

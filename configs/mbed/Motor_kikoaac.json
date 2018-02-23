@@ -12,7 +12,9 @@
         "https://os.mbed.com/users/kikoaac/code/FourSicleRobot/"
     ],
     "frameworks": "mbed",
-    "keywords": "MPL3115A2",
+    "keywords": [
+        "Motor"
+    ],
     "name": "Motor",
     "platforms": "*",
     "repository": {

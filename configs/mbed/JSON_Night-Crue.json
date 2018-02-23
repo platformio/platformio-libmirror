@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Night Crue",
+        "url": "https://os.mbed.com/teams/Night-Crue/"
+    },
+    "description": "JSON library based on JSMN lib",
+    "examples": [
+        "https://os.mbed.com/teams/Renesas/code/GR-PEACH_Happy_Dweeting/",
+        "https://os.mbed.com/teams/ATT-IoT/code/ATT_WNCInterface_Info/",
+        "https://os.mbed.com/teams/Avnet/code/WNCInterface_HTTP_example/",
+        "https://os.mbed.com/teams/NerfUS/code/NerfUS-Coord/",
+        "https://os.mbed.com/users/DuyLionTran/code/iot_water_monitor_v2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "jsmn",
+        "JSON"
+    ],
+    "name": "JSON",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Night-Crue/code/JSON/"
+    }
+}

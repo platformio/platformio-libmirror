@@ -6,9 +6,7 @@
     "description": "IMU",
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "I2C",
-        "MMA8452Q"
+        "Gyroscope"
     ],
     "name": "Gyroscope",
     "platforms": "*",

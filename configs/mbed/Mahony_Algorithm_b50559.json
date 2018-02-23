@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/b50559/code/NerfGun_nRF24L01P_TX_9d0f/"
     ],
     "frameworks": "mbed",
-    "keywords": "Mahony_Algorithm",
+    "keywords": [
+        "Mahony_Algorithm"
+    ],
     "name": "Mahony_Algorithm",
     "platforms": "*",
     "repository": {

@@ -5,7 +5,9 @@
     },
     "description": "ver.beta0",
     "frameworks": "mbed",
-    "keywords": "DigitalFilter",
+    "keywords": [
+        "DigitalFilter"
+    ],
     "name": "DigitalFilter",
     "platforms": "*",
     "repository": {

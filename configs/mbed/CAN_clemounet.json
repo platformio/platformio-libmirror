@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "Clément BENOIT",
+        "name": "ClĂŠment BENOIT",
         "url": "https://os.mbed.com/users/clemounet/"
     },
     "description": "CanInterface Dispatcher, it depends on MyThread (MyThings lib)",
@@ -9,10 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "core2530(B)",
-        "waveshare",
-        "xbee",
-        "zbee"
+        "CAN"
     ],
     "name": "CAN",
     "platforms": "*",

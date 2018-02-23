@@ -5,7 +5,9 @@
     },
     "description": "Robot",
     "frameworks": "mbed",
-    "keywords": "Robot",
+    "keywords": [
+        "Robot"
+    ],
     "name": "Robot",
     "platforms": "*",
     "repository": {

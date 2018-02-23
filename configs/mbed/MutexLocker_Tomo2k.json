@@ -3,7 +3,7 @@
         "name": "Richard Thompson",
         "url": "https://os.mbed.com/users/Tomo2k/"
     },
-    "description": "Mutex Locker utility class to lock/unlock mbed RTOS mutexes.",
+    "description": "Mutex Locker utility class to lock/unlock mbed RTOS mutexes. Create and pass a mutex, it locks the mutex then unlocks it when destroyed.",
     "examples": [
         "https://os.mbed.com/users/cabledev/code/SmartLight/",
         "https://os.mbed.com/users/rproctor6/code/HelloThreadsYo/"
@@ -11,11 +11,7 @@
     "frameworks": "mbed",
     "keywords": [
         "mutex",
-        "rtos",
-        "MPU6050",
-        "MPU9250",
-        "HY-1.8",
-        "ST7735"
+        "rtos"
     ],
     "name": "MutexLocker",
     "platforms": "*",

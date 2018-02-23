@@ -8,8 +8,22 @@
             "authors": [
                 "taiyou komazawa"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "Gamma"
+        },
+        {
+            "authors": [
+                "taiyou komazawa"
+            ],
+            "framework": "mbed",
+            "name": "Beta"
+        },
+        {
+            "authors": [
+                "taiyou komazawa"
+            ],
+            "framework": "mbed",
+            "name": "Alpha"
         }
     ],
     "description": "for_gamma",
@@ -20,11 +34,13 @@
         "https://os.mbed.com/users/hirotayamato/code/GAMMA_A/"
     ],
     "frameworks": "mbed",
-    "keywords": "DataPool",
+    "keywords": [
+        "DataPool"
+    ],
     "name": "DataPool",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/Komazawa_sun/code/DataPool/"
+        "url": "https://os.mbed.com/users/Komazawa_sun/code/DataPool/"
     }
 }

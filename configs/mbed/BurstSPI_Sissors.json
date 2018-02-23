@@ -17,7 +17,11 @@
         "https://os.mbed.com/users/Starz/code/test_he10/"
     ],
     "frameworks": "mbed",
-    "keywords": "BurstSPI",
+    "keywords": [
+        "high",
+        "Speed",
+        "SPI"
+    ],
     "name": "BurstSPI",
     "platforms": "*",
     "repository": {

@@ -5,7 +5,9 @@
     },
     "description": "Library to support the 16:1 Multiplexer Chip, CD74HC4067from TI",
     "frameworks": "mbed",
-    "keywords": "flash",
+    "keywords": [
+        "CD74HC4067"
+    ],
     "name": "CD74HC4067",
     "platforms": "*",
     "repository": {

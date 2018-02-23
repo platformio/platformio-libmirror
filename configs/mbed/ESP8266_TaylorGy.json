@@ -9,16 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "LSM303DLHC",
-        "magnetometer",
-        "Temperature",
-        "Dynamic",
-        "led",
-        "tlc5940",
-        "itoa",
-        "joystick",
-        "LCD"
+        "ESP8266"
     ],
     "name": "ESP8266",
     "platforms": "*",

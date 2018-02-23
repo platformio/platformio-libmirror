@@ -5,7 +5,9 @@
     },
     "description": "This is a class for using the BQ32000 Real Time Clock chip from TI.",
     "frameworks": "mbed",
-    "keywords": "RTC_BQ32000",
+    "keywords": [
+        "RTC_BQ32000"
+    ],
     "name": "RTC_BQ32000",
     "platforms": "*",
     "repository": {

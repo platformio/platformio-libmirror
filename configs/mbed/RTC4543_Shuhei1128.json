@@ -5,7 +5,9 @@
     },
     "description": "Hayato0oさんのプログラムをライブラリ化http://d.hatena.ne.jp/rinie/20120224/1330021332",
     "frameworks": "mbed",
-    "keywords": "RTC4543",
+    "keywords": [
+        "RTC4543"
+    ],
     "name": "RTC4543",
     "platforms": "*",
     "repository": {

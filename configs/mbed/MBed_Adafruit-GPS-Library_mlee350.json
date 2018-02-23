@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Myron Lee",
+        "url": "https://os.mbed.com/users/mlee350/"
+    },
+    "description": "Adafruit Ultimate GPS Arduino library adapted for mBed use. Original found at https://github.com/adafruit/Adafruit-GPS-Library.",
+    "examples": [
+        "https://os.mbed.com/users/whatnick/code/xadow_m0_ada_gps/",
+        "https://os.mbed.com/users/ncfronk/code/discretesample_QAM/",
+        "https://os.mbed.com/users/mburns1/code/SDWriteTestShellEco/",
+        "https://os.mbed.com/users/mburns1/code/SDWriteTest/",
+        "https://os.mbed.com/teams/DCS_TEAM/code/GPR_PUSHING_BOX/",
+        "https://os.mbed.com/teams/DCS_TEAM/code/GPR_STATE_MACHINE_PUSHING_BOX/",
+        "https://os.mbed.com/teams/ESE-519123/code/GPSLogging/",
+        "https://os.mbed.com/teams/DCS_TEAM/code/DCS_FINAL_CODE/",
+        "https://os.mbed.com/teams/41801/code/class_finder/",
+        "https://os.mbed.com/teams/ATT-GATT/code/adafruit-gps-complete/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "GPS",
+        "library",
+        "Ultimate"
+    ],
+    "name": "MBed_Adafruit-GPS-Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mlee350/code/MBed_Adafruit-GPS-Library/"
+    }
+}

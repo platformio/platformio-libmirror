@@ -5,7 +5,9 @@
     },
     "description": "Unit Testing framework based on http://cpputest.github.io/",
     "frameworks": "mbed",
-    "keywords": "I2C",
+    "keywords": [
+        "cpputest"
+    ],
     "name": "cpputest",
     "platforms": "*",
     "repository": {

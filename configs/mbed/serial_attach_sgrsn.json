@@ -5,7 +5,9 @@
     },
     "description": "Serial 自動受信割り込み",
     "frameworks": "mbed",
-    "keywords": "serial_attach",
+    "keywords": [
+        "serial_attach"
+    ],
     "name": "serial_attach",
     "platforms": "*",
     "repository": {

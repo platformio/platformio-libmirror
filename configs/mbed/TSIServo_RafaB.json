@@ -6,15 +6,7 @@
     "description": "Libreria para manejo de Touchpad",
     "frameworks": "mbed",
     "keywords": [
-        "Sensirion",
-        "SHT21",
-        "touch",
-        "display",
-        "graphic",
-        "LCD",
-        "QVGA",
-        "TFT",
-        "L3GD20"
+        "touch"
     ],
     "name": "TSIServo",
     "platforms": "*",

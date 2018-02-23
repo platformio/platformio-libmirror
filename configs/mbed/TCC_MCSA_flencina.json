@@ -8,26 +8,26 @@
             "authors": [
                 "mbed official "
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "SDFileSystem"
+        },
+        {
+            "authors": [
+                "Flavio Lencina"
+            ],
+            "framework": "mbed",
+            "name": "TextLCD"
         }
     ],
-    "description": "Serial Communication/ Analog Read/ FFT compute / LCD Text / Write on SD Card / read and write RTC application. K64F app developed for Electrical Engineering undergraduate final project at Ulbra university.",
+    "description": "Serial Communication/ Analog Read/ FFT compute / LCD Text / Write on SD Card / read and write RTC application. K64F app developed for Electrical Engineering undergraduate final project at ...",
     "frameworks": "mbed",
     "keywords": [
-        "3g",
-        "arduino",
-        "PHS",
-        "shield",
-        "USBDevice",
-        "real time",
-        "serial port",
-        "serial protocols"
+        "TCC_MCSA"
     ],
     "name": "TCC_MCSA",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/flencina/code/TCC_MCSA/"
+        "url": "https://os.mbed.com/users/flencina/code/TCC_MCSA/"
     }
 }

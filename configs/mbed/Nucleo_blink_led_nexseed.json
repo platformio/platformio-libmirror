@@ -6,12 +6,7 @@
     "description": "led test",
     "frameworks": "mbed",
     "keywords": [
-        "int",
-        "interrupt",
-        "NVIC",
-        "priority",
-        "buffer",
-        "I2C"
+        "Nucleo_blink_led"
     ],
     "name": "Nucleo_blink_led",
     "platforms": "*",

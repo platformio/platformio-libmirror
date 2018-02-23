@@ -13,10 +13,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "daisy-chain",
-        "L6470",
-        "SPI",
-        "Stepper"
+        "PWMOut"
     ],
     "name": "PWMOut",
     "platforms": "*",

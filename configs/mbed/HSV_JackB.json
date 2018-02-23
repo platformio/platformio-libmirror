@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/JackB/code/RGB_Matrix_Test/"
     ],
     "frameworks": "mbed",
-    "keywords": "HSV",
+    "keywords": [
+        "HSV"
+    ],
     "name": "HSV",
     "platforms": "*",
     "repository": {

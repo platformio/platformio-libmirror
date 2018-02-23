@@ -6,14 +6,7 @@
     "description": "Serial RPC Interface using the MODSERIAL library. Does not hang when serial port misbehaves.",
     "frameworks": "mbed",
     "keywords": [
-        "gmmp",
-        "IOT",
-        "SKTelecom",
-        "TCP",
-        "client",
-        "CoAP",
-        "protocol",
-        "server"
+        "BufSerialRPC"
     ],
     "name": "BufSerialRPC",
     "platforms": "*",

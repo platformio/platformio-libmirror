@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "Grove I2C Colour Sensor http://www.seeedstudio.com/depot/Grove-I2C-Color-Sensor-p-854.html?cPath=25_27",
+    "frameworks": "mbed",
+    "keywords": [
+        "colour",
+        "Grove",
+        "sensor"
+    ],
+    "name": "GroveColourSensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/GroveColourSensor/"
+    }
+}

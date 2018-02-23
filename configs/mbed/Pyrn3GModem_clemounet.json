@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "Clément BENOIT",
+        "name": "ClĂŠment BENOIT",
         "url": "https://os.mbed.com/users/clemounet/"
     },
     "description": "Implementation of 3G USB Modem Huawei E372",
@@ -9,13 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BNO055",
-        "Elmicro",
-        "FM25W256",
-        "FRAM",
-        "RAMTRON",
-        "SPI",
-        "SSP1"
+        "Pyrn3GModem"
     ],
     "name": "Pyrn3GModem",
     "platforms": "*",

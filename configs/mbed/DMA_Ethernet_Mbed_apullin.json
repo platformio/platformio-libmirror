@@ -3,11 +3,19 @@
         "name": "Andrew p",
         "url": "https://os.mbed.com/users/apullin/"
     },
+    "dependencies": [
+        {
+            "authors": [
+                "Andy Kirkham"
+            ],
+            "framework": "mbed",
+            "name": "MODDMA"
+        }
+    ],
     "description": "Mbed firmware to capture 4 mic inputs and provide data over ethernet.",
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "SCA3000"
+        "DMA_Ethernet_Mbed"
     ],
     "name": "DMA_Ethernet_Mbed",
     "platforms": "*",

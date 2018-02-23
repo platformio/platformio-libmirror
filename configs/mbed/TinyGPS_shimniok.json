@@ -12,7 +12,10 @@
         "https://os.mbed.com/users/zbraun6/code/GPS_20u7/"
     ],
     "frameworks": "mbed",
-    "keywords": "TinyGPS",
+    "keywords": [
+        "GPS",
+        "parse"
+    ],
     "name": "TinyGPS",
     "platforms": "*",
     "repository": {

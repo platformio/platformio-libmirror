@@ -3,7 +3,7 @@
         "name": "Pablo Paniagua",
         "url": "https://os.mbed.com/users/papaco/"
     },
-    "description": "Program made to control Dynamixel servos type AX-12W.",
+    "description": "Program made to control Dynamixel servos type AX-12W. Works perfectly in the lpc1768",
     "examples": [
         "https://os.mbed.com/users/papaco/code/UNIBOT/"
     ],
@@ -17,9 +17,7 @@
         "nxp",
         "PAPACO",
         "Robotics",
-        "Servo",
-        "MicroNFCBoard",
-        "NFC"
+        "Servo"
     ],
     "name": "AX_12W",
     "platforms": "*",

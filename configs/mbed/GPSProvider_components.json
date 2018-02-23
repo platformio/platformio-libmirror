@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "A controller-neutral API for working with GPS devices.",
+    "examples": [
+        "https://os.mbed.com/teams/components/code/CsrLocationDemo/",
+        "https://os.mbed.com/teams/CSR/code/CsrLocationDemo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "api",
+        "CSR",
+        "GPS"
+    ],
+    "name": "GPSProvider",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/GPSProvider/"
+    }
+}

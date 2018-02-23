@@ -9,13 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "EEPROM",
-        "MCP4921",
-        "SPI",
         "GPIO Exoender",
-        "MCP23017",
-        "GPS",
-        "NMEA0183"
+        "MCP23017"
     ],
     "name": "MCP23017_I2C",
     "platforms": "*",

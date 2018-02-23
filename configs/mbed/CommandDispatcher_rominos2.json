@@ -4,15 +4,9 @@
         "url": "https://os.mbed.com/users/rominos2/"
     },
     "description": "A light Command Dispatcher Library with commands linked to your functions.",
-    "examples": [
-        "https://os.mbed.com/users/danjulio/code/Rocket/"
-    ],
     "frameworks": "mbed",
     "keywords": [
-        "command",
-        "ESP8266",
-        "DAP-III+",
-        "innomatix"
+        "command"
     ],
     "name": "CommandDispatcher",
     "platforms": "*",

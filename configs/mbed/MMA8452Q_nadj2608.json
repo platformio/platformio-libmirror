@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/nadj2608/code/mbed_I2C_with_library/"
     ],
     "frameworks": "mbed",
-    "keywords": "MMA8452Q",
+    "keywords": [
+        "MMA8452Q"
+    ],
     "name": "MMA8452Q",
     "platforms": "*",
     "repository": {

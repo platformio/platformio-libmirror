@@ -17,7 +17,9 @@
         "https://os.mbed.com/users/morinagatomoya/code/mbed_AM2321_copy/"
     ],
     "frameworks": "mbed",
-    "keywords": "AQM0802",
+    "keywords": [
+        "AQM0802"
+    ],
     "name": "AQM0802",
     "platforms": "*",
     "repository": {

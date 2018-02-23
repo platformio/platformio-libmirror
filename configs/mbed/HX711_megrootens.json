@@ -3,27 +3,14 @@
         "name": "Martijn Grootens",
         "url": "https://os.mbed.com/users/megrootens/"
     },
-    "description": "Library to read out HX711 24-Bit Analog-to-Digital Converter (ADC) for Weigh Scales by AVIA Semiconductor.",
+    "description": "Library to read out HX711 24-Bit Analog-to-Digital Converter (ADC) for Weigh Scales by AVIA Semiconductor. Tested with K22F with SCK pint at D13 and DT pin at D12",
     "examples": [
         "https://os.mbed.com/users/jmiller322/code/SmartCrutches/"
     ],
     "frameworks": "mbed",
     "keywords": [
         "adc",
-        "HX711",
-        "HC05",
-        "AT",
-        "commands",
-        "control",
-        "door",
-        "modem",
-        "USB",
-        "Vodafone",
-        "4D system",
-        "LCD",
-        "Picaso",
-        "AquesTalk",
-        "ATP3011"
+        "HX711"
     ],
     "name": "HX711",
     "platforms": "*",

@@ -6,14 +6,7 @@
     "description": "Library for 4D systems touchscreen",
     "frameworks": "mbed",
     "keywords": [
-        "clock",
-        "ds1307",
-        "real",
-        "RTC",
-        "time",
-        "Encoder",
-        "QEI",
-        "quadrature"
+        "TouchScreen"
     ],
     "name": "TouchScreen",
     "platforms": "*",

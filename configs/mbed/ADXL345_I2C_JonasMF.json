@@ -6,11 +6,7 @@
     "description": "library acel",
     "frameworks": "mbed",
     "keywords": [
-        "dynamixel",
-        "IOT",
-        "rfduino",
-        "AX-12",
-        "ax12"
+        "ADXL345_I2C"
     ],
     "name": "ADXL345_I2C",
     "platforms": "*",

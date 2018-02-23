@@ -5,7 +5,9 @@
     },
     "description": "Class designed to store and invoke function pointers and method pointers",
     "frameworks": "mbed",
-    "keywords": "FunctionPointer",
+    "keywords": [
+        "FunctionPointer"
+    ],
     "name": "GenericFunctionHandler",
     "platforms": "*",
     "repository": {

@@ -8,22 +8,13 @@
             "authors": [
                 "Andy Kirkham"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "FPointer"
         }
     ],
     "description": "Library for interfacing with the Parallax Ping))) sensor.",
     "frameworks": "mbed",
     "keywords": [
-        "timer",
-        "Ton",
-        "wait",
-        "maestro",
-        "Serial",
-        "Servo",
-        "I2C",
-        "PCF8583",
-        "RTC",
         "parallax",
         "PING",
         "ping)))",
@@ -34,6 +25,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/d34d/code/Ping/"
+        "url": "https://os.mbed.com/users/d34d/code/Ping/"
     }
 }

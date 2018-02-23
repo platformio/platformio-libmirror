@@ -9,15 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "wallbot",
-        "pwm",
-        "SoftPWM",
-        "CyaSSL",
-        "https",
-        "SSL",
-        "LCD",
-        "ST7565",
-        "TextLCD"
+        "CC3000HostDriver"
     ],
     "name": "CC3000HostDriver",
     "platforms": "*",

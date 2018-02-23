@@ -3,15 +3,14 @@
         "name": "steeven lee",
         "url": "https://os.mbed.com/users/steeven/"
     },
-    "description": "A simple Oscilloscope that log each pin's data change",
+    "description": "A simple Oscilloscope that log each pin's data change Please dump log and analyze using Excel x-y chart type!",
     "frameworks": "mbed",
     "keywords": [
         "Analyzer",
         "logic",
         "osc",
         "Oscilloscope",
-        "scope",
-        "LPC1549"
+        "scope"
     ],
     "name": "Scope",
     "platforms": "*",

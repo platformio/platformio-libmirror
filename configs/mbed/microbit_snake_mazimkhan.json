@@ -6,34 +6,21 @@
     "dependencies": [
         {
             "authors": [
-                "Lancaster University"
+                " "
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "microbit"
         }
     ],
     "description": "A simple two button snake.",
     "frameworks": "mbed",
     "keywords": [
-        "Humidity",
-        "Sensirion",
-        "SHT7x",
-        "Temperature",
-        "arduino",
-        "compatible",
-        "due",
-        "multitasking",
-        "Scheduler",
-        "Analog",
-        "dipsw",
-        "Input",
-        "SW",
-        "tactsw"
+        "microbit_snake"
     ],
     "name": "microbit_snake",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/mazimkhan/code/microbit_snake/"
+        "url": "https://os.mbed.com/users/mazimkhan/code/microbit_snake/"
     }
 }

@@ -9,7 +9,9 @@
         "https://os.mbed.com/users/yasuyuki/code/mbed_AM2321/"
     ],
     "frameworks": "mbed",
-    "keywords": "AM2321",
+    "keywords": [
+        "AM2321"
+    ],
     "name": "AM2321",
     "platforms": "*",
     "repository": {

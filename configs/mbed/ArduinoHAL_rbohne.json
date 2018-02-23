@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "René Bohne",
+        "name": "RenĂŠ Bohne",
         "url": "https://os.mbed.com/users/rbohne/"
     },
     "description": "This will become a hardware abstraction layer for my mbed projects. It will make it easier to port sketches from Arduino to mbed",
@@ -9,29 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "arduino",
-        "GPIO",
-        "Speed",
-        "calibration",
-        "clock",
-        "real",
-        "RTC",
-        "time",
-        "timezone",
-        "CC3000",
-        "socket",
-        "TCP",
-        "UDP",
-        "wifi",
-        "CHaN",
-        "FAT",
-        "Fat16",
-        "Fat32",
-        "fatfilesystem",
-        "Filenames",
-        "Long",
-        "rtos",
-        "DHT11"
+        "arduino"
     ],
     "name": "ArduinoHAL",
     "platforms": "*",

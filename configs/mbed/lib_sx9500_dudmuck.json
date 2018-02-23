@@ -10,7 +10,9 @@
         "https://os.mbed.com/teams/Semtech/code/scpi_sx127x/"
     ],
     "frameworks": "mbed",
-    "keywords": "lib_sx9500",
+    "keywords": [
+        "lib_sx9500"
+    ],
     "name": "lib_sx9500",
     "platforms": "*",
     "repository": {

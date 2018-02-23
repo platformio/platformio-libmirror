@@ -14,9 +14,7 @@
         "LCD",
         "Nokia",
         "pcd8544",
-        "TextLCD",
-        "Adafruit",
-        "AdaFruit RGB LCD Shield"
+        "TextLCD"
     ],
     "name": "pcd8544_drv",
     "platforms": "*",

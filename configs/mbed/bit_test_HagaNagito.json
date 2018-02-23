@@ -5,7 +5,9 @@
     },
     "description": "bit_test_class",
     "frameworks": "mbed",
-    "keywords": "bit_test",
+    "keywords": [
+        "bit_test"
+    ],
     "name": "bit_test",
     "platforms": "*",
     "repository": {

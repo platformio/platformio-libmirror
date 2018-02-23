@@ -5,11 +5,13 @@
     },
     "description": "Log",
     "examples": [
-        "https://os.mbed.com/users/andrewboyson/code/ch/",
-        "https://os.mbed.com/users/andrewboyson/code/gps/"
+        "https://os.mbed.com/users/andrewboyson/code/gps/",
+        "https://os.mbed.com/users/andrewboyson/code/ch/"
     ],
     "frameworks": "mbed",
-    "keywords": "log",
+    "keywords": [
+        "log"
+    ],
     "name": "log",
     "platforms": "*",
     "repository": {

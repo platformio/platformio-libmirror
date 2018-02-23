@@ -5,7 +5,9 @@
     },
     "description": "TEST ONLY!",
     "frameworks": "mbed",
-    "keywords": "NextTrainFileLib",
+    "keywords": [
+        "LLDP"
+    ],
     "name": "LLDP",
     "platforms": "*",
     "repository": {

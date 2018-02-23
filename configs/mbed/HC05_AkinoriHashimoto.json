@@ -8,22 +8,16 @@
             "authors": [
                 "Akinori Hashimoto"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "RingBuffer"
         }
     ],
-    "description": "Bluetooth module HC-05 Lib.",
+    "description": "Bluetooth module HC-05 Lib. suppotrs printf(); support IrqAttach, with using RTOS. include feature as background rxIrq attach. the lib store rx buf of serial, therefore can have over 16 bytes ...",
     "examples": [
         "https://os.mbed.com/teams/Team-del-Semaforo-CADC/code/semaforinoprova/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "16x2",
-        "4-bit",
-        "4bit",
-        "KS0066U",
-        "LCD",
-        "LCD 16x2",
         "Bluetooth module",
         "hc-05",
         "HC05"
@@ -32,6 +26,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/AkinoriHashimoto/code/HC05/"
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/HC05/"
     }
 }

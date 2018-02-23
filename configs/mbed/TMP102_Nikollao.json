@@ -5,7 +5,9 @@
     },
     "description": "TMP102",
     "frameworks": "mbed",
-    "keywords": "TMP102",
+    "keywords": [
+        "TMP102"
+    ],
     "name": "TMP102",
     "platforms": "*",
     "repository": {

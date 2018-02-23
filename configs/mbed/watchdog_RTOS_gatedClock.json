@@ -11,10 +11,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "bipolar",
-        "L293D",
-        "mbed",
-        "Stepper"
+        "watchdog_RTOS"
     ],
     "name": "watchdog_RTOS",
     "platforms": "*",

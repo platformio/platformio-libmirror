@@ -10,7 +10,9 @@
         "https://os.mbed.com/teams/IBS/code/LAB18_StreetLight/"
     ],
     "frameworks": "mbed",
-    "keywords": "StrLib",
+    "keywords": [
+        "HysteresisIn"
+    ],
     "name": "HysteresisIn",
     "platforms": "*",
     "repository": {

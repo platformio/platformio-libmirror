@@ -17,7 +17,11 @@
         "https://os.mbed.com/users/caaruizze/code/Teclado_matricial/"
     ],
     "frameworks": "mbed",
-    "keywords": "FPointer",
+    "keywords": [
+        "Callback",
+        "FunctionPointer",
+        "Functor"
+    ],
     "name": "FPointer",
     "platforms": "*",
     "repository": {

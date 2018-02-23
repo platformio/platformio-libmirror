@@ -15,11 +15,7 @@
         "ProxCard",
         "ProxPoint",
         "RFID",
-        "Wiegand",
-        "I2C",
-        "MAX30101",
-        "MSS",
-        "MSU"
+        "Wiegand"
     ],
     "name": "HID_Wiegand",
     "platforms": "*",

@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "Pedro Enrique Vidal Peñas",
+        "name": "Pedro Enrique Vidal PeĂąas",
         "url": "https://os.mbed.com/users/cr0n0s20/"
     },
     "description": "SERVO PARA QUADCOPTER",
@@ -11,15 +11,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "38kHz",
-        "IR",
-        "remote",
         "quadcopter",
-        "Servo",
-        "NeoPixel",
-        "nRF51822",
-        "RedBear",
-        "WS2812"
+        "Servo"
     ],
     "name": "Servo",
     "platforms": "*",

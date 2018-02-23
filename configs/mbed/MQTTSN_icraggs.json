@@ -3,12 +3,30 @@
         "name": "Ian Craggs",
         "url": "https://os.mbed.com/users/icraggs/"
     },
+    "dependencies": [
+        {
+            "authors": [
+                "Sam Grove"
+            ],
+            "framework": "mbed",
+            "name": "FP"
+        },
+        {
+            "authors": [
+                "Ian Craggs"
+            ],
+            "framework": "mbed",
+            "name": "MQTTSNPacket"
+        }
+    ],
     "description": "High level MQTT-SN C++ library",
     "examples": [
         "https://os.mbed.com/users/icraggs/code/HelloMQTTSN/"
     ],
     "frameworks": "mbed",
-    "keywords": "GPS",
+    "keywords": [
+        "MQTTSN"
+    ],
     "name": "MQTTSN",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Analog Devices",
+        "url": "https://os.mbed.com/teams/AnalogDevices/"
+    },
+    "description": "ADXL362 accelerometer library",
+    "examples": [
+        "https://os.mbed.com/teams/AnalogDevices/code/ADXL362-helloworld/",
+        "https://os.mbed.com/teams/AnalogDevices/code/EVAL_ADXL362_ARDZ/",
+        "https://os.mbed.com/teams/CPS-Lab11/code/Lab6/",
+        "https://os.mbed.com/teams/CPS-Lab12345678/code/Lab6/",
+        "https://os.mbed.com/teams/CPS-Lab1234/code/lab6/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "ADXL362"
+    ],
+    "name": "ADXL362",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/AnalogDevices/code/ADXL362/"
+    }
+}

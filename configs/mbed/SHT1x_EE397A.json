@@ -6,14 +6,7 @@
     "description": "SHT1x",
     "frameworks": "mbed",
     "keywords": [
-        "FRDM-K22F",
-        "fxos8700cq",
-        "nRF2401A",
-        "ALS",
-        "ambient light sensor",
-        "I2C",
-        "ISL29125",
-        "rgb"
+        "SHT1x"
     ],
     "name": "SHT1x",
     "platforms": "*",

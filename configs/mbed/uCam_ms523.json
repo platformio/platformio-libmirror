@@ -6,18 +6,7 @@
     "description": "A Simple library to capture pictures from the uCam by 4D Systems",
     "frameworks": "mbed",
     "keywords": [
-        "Maple Mini",
-        "NUCLEO-F103RB",
-        "STM32F103C8C6",
-        "USB device",
-        "USBDevice",
-        "bmp085",
-        "sparkfun",
-        "ucam",
-        "AES",
-        "cipher",
-        "encryption",
-        "security"
+        "ucam"
     ],
     "name": "uCam",
     "platforms": "*",

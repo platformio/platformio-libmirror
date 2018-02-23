@@ -3,7 +3,7 @@
         "name": "Hendrik Lipka",
         "url": "https://os.mbed.com/users/hlipka/"
     },
-    "description": "Stripped down version of Segundos NetService library (http://mbed.org/users/segundo/libraries/NetServices ). I have removed all NetServices, and all functions which had been disabled. Use this version when you need only pure TCP or UDP functions - this library compiles faster.",
+    "description": "Stripped down version of Segundos NetService library (http://mbed.org/users/segundo/libraries/NetServices ). I have removed all NetServices, and all functions which had been disabled. Use this version when you need only pure TCP ...",
     "examples": [
         "https://os.mbed.com/users/alpsayin/code/christmasLights/",
         "https://os.mbed.com/users/recotana/code/device_server/",
@@ -17,25 +17,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "multiplexer",
-        "Shift Register",
-        "Altitude",
-        "Freescale",
-        "MPL3115A2",
-        "pressure",
-        "sensor",
-        "Temperature",
-        "mbed",
         "ethernet",
         "NetServices",
         "network",
         "TCP",
-        "UDP",
-        "Adafruit",
-        "LCD",
-        "ST7735",
-        "TFT",
-        "nRF24L01"
+        "UDP"
     ],
     "name": "NetServicesMin",
     "platforms": "*",

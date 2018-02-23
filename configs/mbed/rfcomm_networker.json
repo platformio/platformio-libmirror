@@ -10,15 +10,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "buzzer",
-        "pwm",
-        "tone",
-        "tune",
-        "audio",
-        "I2S",
-        "library",
-        "tested",
-        "TLV320"
+        "rfcomm"
     ],
     "name": "rfcomm",
     "platforms": "*",

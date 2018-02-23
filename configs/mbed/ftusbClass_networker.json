@@ -8,8 +8,36 @@
             "authors": [
                 "mbed unsupported"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "FatFileSystem"
+        },
+        {
+            "authors": [
+                "Ad  van der Weiden"
+            ],
+            "framework": "mbed",
+            "name": "myBlueUSB"
+        },
+        {
+            "authors": [
+                "Ad  van der Weiden"
+            ],
+            "framework": "mbed",
+            "name": "neigbourhood"
+        },
+        {
+            "authors": [
+                "Ad  van der Weiden"
+            ],
+            "framework": "mbed",
+            "name": "rfcomm"
+        },
+        {
+            "authors": [
+                "Ad  van der Weiden"
+            ],
+            "framework": "mbed",
+            "name": "sdp"
         }
     ],
     "description": "class library to access fischertechnik interfaces via USB",
@@ -23,6 +51,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/networker/code/ftusbClass/"
+        "url": "https://os.mbed.com/users/networker/code/ftusbClass/"
     }
 }

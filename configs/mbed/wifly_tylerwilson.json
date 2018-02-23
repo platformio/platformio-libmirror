@@ -6,9 +6,7 @@
     "description": "_Very_ simple wrapper to a WiFly module connected via serial port.",
     "frameworks": "mbed",
     "keywords": [
-        "WiFly",
-        "FTP",
-        "server"
+        "WiFly"
     ],
     "name": "wifly",
     "platforms": "*",

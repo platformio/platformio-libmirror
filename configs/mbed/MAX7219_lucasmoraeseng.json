@@ -6,12 +6,7 @@
     "description": "Library to use MAX7219",
     "frameworks": "mbed",
     "keywords": [
-        "hih6130",
-        "sensor",
-        "Temp",
-        "Temperature",
-        "IOExpander",
-        "PCA9534"
+        "MAX7219"
     ],
     "name": "MAX7219",
     "platforms": "*",

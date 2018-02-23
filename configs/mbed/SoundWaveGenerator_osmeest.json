@@ -10,15 +10,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "command",
-        "prompt",
-        "shell",
-        "tinyshell",
-        "FOTA",
-        "LPC1768",
-        "SW Update",
-        "sound",
-        "DMX"
+        "sound"
     ],
     "name": "SoundWaveGenerator",
     "platforms": "*",

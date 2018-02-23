@@ -5,7 +5,9 @@
     },
     "description": "LEDFunctions",
     "frameworks": "mbed",
-    "keywords": "LEDFunctions",
+    "keywords": [
+        "LEDFunctions"
+    ],
     "name": "LEDFunctions",
     "platforms": "*",
     "repository": {

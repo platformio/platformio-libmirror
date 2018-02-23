@@ -1,22 +1,12 @@
 {
     "authors": {
-        "name": "Steen Jørgensen",
+        "name": "Steen JĂ¸rgensen",
         "url": "https://os.mbed.com/users/stjo2809/"
     },
     "description": "Interface to the Atmel AT45 series Dataflash with Serial Interface (SPI)",
     "frameworks": "mbed",
     "keywords": [
-        "H-bridge",
-        "Moror",
-        "PID",
-        "QEI",
-        "Stinger",
-        "Ticker",
-        "at45",
-        "12-bit",
-        "dac",
-        "MCP4822",
-        "SPI"
+        "at45"
     ],
     "name": "AT45",
     "platforms": "*",

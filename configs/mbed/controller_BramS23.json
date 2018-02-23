@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/BramS23/code/DAQ_TEL_CTRL/"
     ],
     "frameworks": "mbed",
-    "keywords": "controller",
+    "keywords": [
+        "controller"
+    ],
     "name": "controller",
     "platforms": "*",
     "repository": {

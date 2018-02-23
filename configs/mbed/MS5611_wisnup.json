@@ -5,7 +5,9 @@
     },
     "description": "ms",
     "frameworks": "mbed",
-    "keywords": "MS5611",
+    "keywords": [
+        "MS5611"
+    ],
     "name": "MS5611",
     "platforms": "*",
     "repository": {

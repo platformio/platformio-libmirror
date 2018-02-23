@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "Bo Carøe",
+        "name": "Bo CarĂ¸e",
         "url": "https://os.mbed.com/users/caroe/"
     },
     "description": "BMA180 adr. 0x41 from BlazeX",
@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/caroe/code/Sensor_test/"
     ],
     "frameworks": "mbed",
-    "keywords": "I2C",
+    "keywords": [
+        "BMA180"
+    ],
     "name": "BMA180",
     "platforms": "*",
     "repository": {

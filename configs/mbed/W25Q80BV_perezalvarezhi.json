@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/joeata2wh/code/data_log/"
     ],
     "frameworks": "mbed",
-    "keywords": "W25Q80BV",
+    "keywords": [
+        "W25Q80BV"
+    ],
     "name": "W25Q80BV",
     "platforms": "*",
     "repository": {

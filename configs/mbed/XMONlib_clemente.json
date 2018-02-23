@@ -6,13 +6,7 @@
     "description": "Serial Monitor using a specific PC application: XMON",
     "frameworks": "mbed",
     "keywords": [
-        "audio",
-        "CODEC",
-        "Cortex-M7",
-        "DISCO-F746NG",
-        "Mikami",
-        "SD Card",
-        "skeleton"
+        "XMONlib"
     ],
     "name": "XMONlib",
     "platforms": "*",

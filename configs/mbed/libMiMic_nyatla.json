@@ -3,7 +3,7 @@
         "name": "Ryo Iizuka",
         "url": "https://os.mbed.com/users/nyatla/"
     },
-    "description": "This is Webservice SDK for mbed.",
+    "description": "This is Webservice SDK for mbed. LPCXpresso1769/LPC1768/FRDM-K64F/LPC4088",
     "examples": [
         "https://os.mbed.com/users/mio/code/MbedFileServer_1768MiniDK2/",
         "https://os.mbed.com/users/nyatla/code/RedWireBridge/",
@@ -18,7 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MQTT",
         "autoconf",
         "bonjour",
         "DHCP",
@@ -30,20 +29,7 @@
         "Networking Libraries",
         "SSDP",
         "UPnP",
-        "webserver",
-        "BLE",
-        "I2C",
-        "nordig",
-        "2",
-        "bus",
-        "CAN",
-        "II",
-        "OBD",
-        "obd2",
-        "obdII",
-        "reader",
-        "micropython",
-        "python"
+        "webserver"
     ],
     "name": "libMiMic",
     "platforms": "*",

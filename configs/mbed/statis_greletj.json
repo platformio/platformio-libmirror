@@ -9,8 +9,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "mbed",
-        "LM61",
         "bitmask",
         "circular_buffer",
         "dataset",
@@ -19,9 +17,7 @@
         "mean",
         "median",
         "standard_deviation",
-        "Template",
-        "HAL",
-        "I2C"
+        "Template"
     ],
     "name": "statis",
     "platforms": "*",

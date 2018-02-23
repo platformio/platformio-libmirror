@@ -3,20 +3,10 @@
         "name": "Greg S",
         "url": "https://os.mbed.com/users/GregS27/"
     },
-    "description": "Draft of Adafruit RA8875 library with touch screen calibration.",
+    "description": "Draft of Adafruit RA8875 library with touch screen calibration. From https://github.com/adafruit/Adafruit_RA8875",
     "frameworks": "mbed",
     "keywords": [
-        "keyboard",
-        "USB",
-        "LIDAR Lite",
-        "LidarLite",
-        "I2C",
-        "MCP23017",
-        "flash",
-        "logging",
-        "broadcast",
-        "multicast",
-        "UDP"
+        "Adafruit_RA8875"
     ],
     "name": "Adafruit_RA8875",
     "platforms": "*",

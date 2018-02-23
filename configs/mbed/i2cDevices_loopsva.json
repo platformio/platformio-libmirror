@@ -6,13 +6,6 @@
     "description": "I2C discovery routine",
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F746NG",
-        "QSPI",
-        "digitalOut",
-        "PwmOut",
-        "RenBuggy",
-        "Renishaw",
-        "TMP102",
         "I2C"
     ],
     "name": "i2cDevices",

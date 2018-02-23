@@ -8,31 +8,19 @@
             "authors": [
                 "Anthony Agnone"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "PulseManager"
         }
     ],
     "description": "Provides interface for reading distance measurements from the HCSR04 ultrasonic distance sensor.",
     "frameworks": "mbed",
     "keywords": [
-        "MQTT",
-        "MQTTClient",
-        "Celllular",
-        "lte",
-        "M14A2A",
-        "WNC",
-        "WNC M14A2A",
-        "mbed5",
-        "NetworkInterfaceAPI",
-        "wifi",
-        "wifiinterface",
-        "wizfi310",
-        "wizfi310interface"
+        "HCSR04"
     ],
     "name": "HCSR04",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/aagnone3/code/HCSR04/"
+        "url": "https://os.mbed.com/users/aagnone3/code/HCSR04/"
     }
 }

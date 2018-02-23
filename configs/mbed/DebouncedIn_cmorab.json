@@ -1,9 +1,9 @@
 {
     "authors": {
-        "name": "Andrés Mora Bedoya",
+        "name": "AndrĂŠs Mora Bedoya",
         "url": "https://os.mbed.com/users/cmorab/"
     },
-    "description": "Librería para un control PID simple",
+    "description": "LibrerĂ­a para un control PID simple",
     "examples": [
         "https://os.mbed.com/users/cmorab/code/BackupPIDSimple/",
         "https://os.mbed.com/users/javiernegrette/code/Tarea_PID/",
@@ -18,10 +18,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "csv",
-        "mbed",
-        "ethernet",
-        "ip"
+        "DebouncedIn"
     ],
     "name": "DebouncedIn",
     "platforms": "*",

@@ -3,14 +3,10 @@
         "name": "Kiko Ishimoto",
         "url": "https://os.mbed.com/users/kikoaac/"
     },
-    "description": "ロータリーエンコーダーのライブラリです。",
+    "description": "ロータリーエンコーダーのライブラリです。 角速度 、 角度 、 RPMなどがだせます。",
     "frameworks": "mbed",
     "keywords": [
-        "QEI ロータリーエンコーダ 角度 angle",
-        "ROS",
-        "HOPERF",
-        "RF22",
-        "RFM22"
+        "QEI　ロータリーエンコーダ　角度　angle"
     ],
     "name": "QEI",
     "platforms": "*",

@@ -6,18 +6,13 @@
     "description": "Implemets a 1-Wire library, currently without \"Search ROM\" support",
     "frameworks": "mbed",
     "keywords": [
-        "distance",
-        "driver",
-        "sensor",
-        "VL6180x",
         "1",
         "1-wire",
         "DS1820",
         "Maxim",
         "one",
         "OneWire",
-        "Wire",
-        "realtimeclock"
+        "Wire"
     ],
     "name": "OneWire",
     "platforms": "*",

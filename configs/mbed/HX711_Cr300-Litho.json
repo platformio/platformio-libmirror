@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Cr300-Litho",
+        "url": "https://os.mbed.com/teams/Cr300-Litho/"
+    },
+    "description": "Librairie HX711 fonctionnel sur Nucleo L152RE",
+    "examples": [
+        "https://os.mbed.com/teams/Cr300-Litho/code/Nucleo_HX711_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "demo",
+        "HX711",
+        "Nucleo"
+    ],
+    "name": "HX711",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Cr300-Litho/code/HX711/"
+    }
+}

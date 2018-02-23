@@ -8,7 +8,7 @@
             "authors": [
                 "Sam Grove"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "BufferedSerial"
         }
     ],
@@ -18,31 +18,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "color",
-        "led",
-        "rgb",
-        "Battery",
-        "c rate",
-        "driver",
-        "fuel gauge",
-        "li+",
-        "lithium",
-        "MAX17048",
-        "Maxim",
-        "sensor",
-        "soc",
-        "state of charge",
-        "vcell",
-        "keil",
-        "MCB1700",
-        "QVGA",
-        "TFT",
         "ROS"
     ],
     "name": "ros_lib_jade",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/garyservin/code/ros_lib_jade/"
+        "url": "https://os.mbed.com/users/garyservin/code/ros_lib_jade/"
     }
 }

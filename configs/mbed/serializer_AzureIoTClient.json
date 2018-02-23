@@ -15,9 +15,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AHRS",
-        "dcm",
-        "navigation"
+        "serializer"
     ],
     "name": "serializer",
     "platforms": "*",

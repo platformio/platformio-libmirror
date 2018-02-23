@@ -3,9 +3,11 @@
         "name": "Akinori Hashimoto",
         "url": "https://os.mbed.com/users/AkinoriHashimoto/"
     },
-    "description": "* PCA9547 library",
+    "description": "* PCA9547 library * +++++ Based on; https://developer.mbed.org/users/okano/code/PCA9547/ +++++ * * PCA9547: an I2C bus multiplexer control library * * PCA9547 is an I2C multiplexer which enables to select 1:8 ...",
     "frameworks": "mbed",
-    "keywords": "PCA9547",
+    "keywords": [
+        "PCA9547"
+    ],
     "name": "PCA9547",
     "platforms": "*",
     "repository": {

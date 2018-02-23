@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Delta",
+        "url": "https://os.mbed.com/teams/Delta/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                " "
+            ],
+            "framework": "mbed",
+            "name": "WIFI_API_32kRAM"
+        },
+        {
+            "authors": [
+                " "
+            ],
+            "framework": "mbed",
+            "name": ""
+        }
+    ],
+    "description": "NNN40 change mode from AP to STA by HTTP server",
+    "frameworks": "mbed",
+    "keywords": [
+        "NNN40_APmodeToSTAmodeByHTTPServer"
+    ],
+    "name": "NNN40_APmodeToSTAmodeByHTTPServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Delta/code/NNN40_APmodeToSTAmodeByHTTPServer/"
+    }
+}

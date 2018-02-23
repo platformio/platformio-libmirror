@@ -5,7 +5,9 @@
     },
     "description": "qq",
     "frameworks": "mbed",
-    "keywords": "aaa",
+    "keywords": [
+        "aaa"
+    ],
     "name": "aaa",
     "platforms": "*",
     "repository": {

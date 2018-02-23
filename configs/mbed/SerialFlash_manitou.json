@@ -3,27 +3,13 @@
         "name": "tom dunigan",
         "url": "https://os.mbed.com/users/manitou/"
     },
-    "description": "port of teensy SerialFlash library for SPI serial flash like winbond",
+    "description": "port of teensy SerialFlash library for SPI serial flash like winbond from https://github.com/PaulStoffregen/SerialFlash",
     "examples": [
         "https://os.mbed.com/users/manitou/code/spiserialtst/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DS18B20",
-        "DS2450",
-        "MAX31850",
-        "OneWire",
-        "Adafruit",
-        "I2C",
-        "led",
-        "nxp",
-        "PCA9685",
-        "pwm",
-        "Servo",
-        "mbed5",
-        "NetworkInterfaceAPI",
-        "Wi-Fi",
-        "WizFi250"
+        "SerialFlash"
     ],
     "name": "SerialFlash",
     "platforms": "*",

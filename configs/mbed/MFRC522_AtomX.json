@@ -18,12 +18,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LPC4088",
-        "Lora",
-        "Semtech",
-        "SX1276",
-        "SX1276Lib",
-        "SX1276MB1xAS"
+        "MFRC522"
     ],
     "name": "MFRC522",
     "platforms": "*",

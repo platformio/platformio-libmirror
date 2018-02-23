@@ -6,8 +6,7 @@
     "description": "pwmに使うやつ",
     "frameworks": "mbed",
     "keywords": [
-        "Flasher",
-        "flashing leds"
+        "pwm"
     ],
     "name": "pwm",
     "platforms": "*",

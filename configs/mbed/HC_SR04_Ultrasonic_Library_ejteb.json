@@ -18,10 +18,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "LCD",
-        "uLCD144",
-        "ESP8266"
+        "HC_SR04_Ultrasonic_Library"
     ],
     "name": "HC_SR04_Ultrasonic_Library",
     "platforms": "*",

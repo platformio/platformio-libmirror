@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "MSS",
+        "url": "https://os.mbed.com/teams/MSS/"
+    },
+    "description": "FXOS8700CQ, 6-Axis Sensor with Integrated Linear Accelerometer and Magnetometer",
+    "examples": [
+        "https://os.mbed.com/teams/MSS/code/test_FXOS8700CQ/",
+        "https://os.mbed.com/teams/MSS/code/testSensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "fxos8700cq",
+        "I2C",
+        "magnetometer"
+    ],
+    "name": "FXOS8700CQ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MSS/code/FXOS8700CQ/"
+    }
+}

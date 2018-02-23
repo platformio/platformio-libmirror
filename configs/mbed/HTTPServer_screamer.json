@@ -10,10 +10,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "LCD",
-        "uLCD144",
-        "ESP8266"
+        "HTTPServer"
     ],
     "name": "HTTPServer",
     "platforms": "*",

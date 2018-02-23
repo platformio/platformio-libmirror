@@ -8,24 +8,19 @@
             "authors": [
                 "Jackson Lv"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "utility"
         }
     ],
     "description": "SD",
     "frameworks": "mbed",
     "keywords": [
-        "16x2",
-        "20x2",
-        "20X4",
-        "40x2",
-        "HD4478",
-        "TextLCD"
+        "SD"
     ],
     "name": "SD",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/Jackson_lv/code/SD/"
+        "url": "https://os.mbed.com/users/Jackson_lv/code/SD/"
     }
 }

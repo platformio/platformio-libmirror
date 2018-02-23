@@ -8,20 +8,16 @@
             "authors": [
                 "mimil owns"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "NetServicesProxy"
         }
     ],
-    "description": "SenseClient is an API to interact with Sen.se platform.",
+    "description": "SenseClient is an API to interact with Sen.se platform. Sen.se is the place where Humans, Machines, Objects, Environments, Information, Physical and Virtual spaces mix up, talk, intertwine, interact, enrich and ...",
     "examples": [
         "https://os.mbed.com/users/mimil/code/SenseClientSample/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "adc",
-        "AnalogIn",
-        "burst",
-        "fast",
         "Internet",
         "of",
         "Sen.se",
@@ -31,6 +27,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/mimil/code/SenseClient/"
+        "url": "https://os.mbed.com/users/mimil/code/SenseClient/"
     }
 }

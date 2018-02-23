@@ -9,17 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Adafruit",
-        "GFX",
-        "I2C",
-        "OLED",
-        "SPI",
-        "SSD1306",
-        "16x4",
-        "array",
-        "infrared",
-        "IR",
-        "Temperature"
+        "M2XMQTTClient"
     ],
     "name": "M2XMQTTClient",
     "platforms": "*",

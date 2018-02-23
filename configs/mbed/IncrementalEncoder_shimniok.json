@@ -10,11 +10,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GraphicsDisplay",
-        "GUI",
-        "TextDisplay",
-        "I2C",
-        "LM75A"
+        "IncrementalEncoder"
     ],
     "name": "IncrementalEncoder",
     "platforms": "*",

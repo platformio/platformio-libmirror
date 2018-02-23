@@ -8,7 +8,7 @@
             "authors": [
                 "Nick Ryder"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "Pulse"
         }
     ],
@@ -27,24 +27,14 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "api",
-        "mode",
-        "xbee",
-        "zigbee",
-        "ESP-01",
-        "ESP8266",
-        "email",
-        "SMTP",
         "finder",
         "range",
-        "ultrasound",
-        "adc",
-        "SPI"
+        "ultrasound"
     ],
     "name": "RangeFinder",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/NickRyder/code/RangeFinder/"
+        "url": "https://os.mbed.com/users/NickRyder/code/RangeFinder/"
     }
 }

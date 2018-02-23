@@ -5,7 +5,9 @@
     },
     "description": "SPI-Master for CAN (Nucleo f401re)",
     "frameworks": "mbed",
-    "keywords": "Nucleo_spi_master",
+    "keywords": [
+        "Nucleo_spi_master"
+    ],
     "name": "Nucleo_spi_master",
     "platforms": "*",
     "repository": {

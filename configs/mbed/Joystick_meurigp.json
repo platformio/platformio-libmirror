@@ -9,7 +9,9 @@
         "https://os.mbed.com/teams/ELEC2645-201516/code/SnakeProjectRev1/"
     ],
     "frameworks": "mbed",
-    "keywords": "Joystick",
+    "keywords": [
+        "Joystick"
+    ],
     "name": "Joystick",
     "platforms": "*",
     "repository": {

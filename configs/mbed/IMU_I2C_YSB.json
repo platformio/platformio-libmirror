@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/YSB/code/EM_Logger/"
     ],
     "frameworks": "mbed",
-    "keywords": "IMU_I2C",
+    "keywords": [
+        "IMU_I2C"
+    ],
     "name": "IMU_I2C",
     "platforms": "*",
     "repository": {

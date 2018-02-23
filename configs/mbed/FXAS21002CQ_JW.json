@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "J&W",
+        "url": "https://os.mbed.com/teams/JW/"
+    },
+    "description": "Library to access multiple giro - with ability to setup them when starting",
+    "frameworks": "mbed",
+    "keywords": [
+        "Freescale",
+        "FXAS21002CQ",
+        "Giroscope"
+    ],
+    "name": "FXAS21002CQ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/JW/code/FXAS21002CQ/"
+    }
+}

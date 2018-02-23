@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Donatien Garnier",
+        "url": "https://os.mbed.com/users/MiniTLS/"
+    },
+    "description": "HTTPS Client for MiniTLS-GPL",
+    "examples": [
+        "https://os.mbed.com/users/MiniTLS/code/MiniTLS-HTTPS-Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "http",
+        "SSL",
+        "TLS"
+    ],
+    "name": "MiniTLS-HTTPSClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MiniTLS/code/MiniTLS-HTTPSClient/"
+    }
+}

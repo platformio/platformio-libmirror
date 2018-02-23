@@ -5,7 +5,9 @@
     },
     "description": "TCA9548A 8 channel I2C switch with reset",
     "frameworks": "mbed",
-    "keywords": "TCA9548A",
+    "keywords": [
+        "TCA9548A"
+    ],
     "name": "TCA9548A",
     "platforms": "*",
     "repository": {

@@ -9,11 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ADJD-S311-CR99",
-        "accelerometer",
-        "fxos8700cq",
-        "I2C",
-        "magnetometer"
+        "ADJD-S311-CR99"
     ],
     "name": "ADJDs311",
     "platforms": "*",

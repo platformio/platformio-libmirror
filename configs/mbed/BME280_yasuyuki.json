@@ -9,20 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HD44780",
-        "http",
-        "SSL",
-        "TLS",
-        "BME280",
-        "23K256",
-        "23LC1024",
-        "DMA",
-        "FIFO",
-        "RAM",
-        "ring buffer",
-        "SPI",
-        "sram",
-        "basicauth"
+        "BME280"
     ],
     "name": "BME280",
     "platforms": "*",

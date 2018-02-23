@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/nanaju/code/mgnetswitch2-NaoKondo/"
     ],
     "frameworks": "mbed",
-    "keywords": "DigitalIn",
+    "keywords": [
+        "DigitalIn"
+    ],
     "name": "Pswitch_Lib",
     "platforms": "*",
     "repository": {

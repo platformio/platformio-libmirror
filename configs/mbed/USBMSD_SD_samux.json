@@ -13,7 +13,9 @@
         "https://os.mbed.com/teams/Megtestesules-Plebania-hobbielektronika-/code/14_USBMSD_SD/"
     ],
     "frameworks": "mbed",
-    "keywords": "USBMSD_SD",
+    "keywords": [
+        "USBMSD_SD"
+    ],
     "name": "USBMSD_SD",
     "platforms": "*",
     "repository": {

@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/yasuyuki/code/mbed_EEPROM/"
     ],
     "frameworks": "mbed",
-    "keywords": "EEPROM",
+    "keywords": [
+        "EEPROM"
+    ],
     "name": "EEPROM",
     "platforms": "*",
     "repository": {

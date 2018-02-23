@@ -5,7 +5,9 @@
     },
     "description": "libreria chida",
     "frameworks": "mbed",
-    "keywords": "MCP9808",
+    "keywords": [
+        "LM35"
+    ],
     "name": "LM35",
     "platforms": "*",
     "repository": {

@@ -9,14 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "led",
-        "LED controller",
-        "led driver",
-        "PCA9622",
-        "PCA9624",
-        "PCA9626",
-        "PCA962x",
-        "pwm"
+        "cmd_io"
     ],
     "name": "cmd_io",
     "platforms": "*",

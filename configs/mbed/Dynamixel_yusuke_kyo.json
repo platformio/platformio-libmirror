@@ -17,7 +17,9 @@
         "https://os.mbed.com/users/yusuke_kyo/code/YOZAKURA_ARM_USB_Keyboard_0818/"
     ],
     "frameworks": "mbed",
-    "keywords": "AM2321",
+    "keywords": [
+        "Dynamixel"
+    ],
     "name": "Dynamixel",
     "platforms": "*",
     "repository": {

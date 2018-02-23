@@ -8,8 +8,15 @@
             "authors": [
                 "Daiki Kato"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "LcdCfg_LCD_shield"
+        },
+        {
+            "authors": [
+                "Daiki Kato"
+            ],
+            "framework": "mbed",
+            "name": "TouchKey_LCD_shield"
         }
     ],
     "description": "GR-PEACH LCD Shield config",
@@ -26,11 +33,13 @@
         "https://os.mbed.com/teams/Renesas/code/GR-PEACH_mbed-os-client-ZXingSample/"
     ],
     "frameworks": "mbed",
-    "keywords": "LCD_shield_config",
+    "keywords": [
+        "LCD_shield_config"
+    ],
     "name": "LCD_shield_config",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/dkato/code/LCD_shield_config/"
+        "url": "https://os.mbed.com/users/dkato/code/LCD_shield_config/"
     }
 }

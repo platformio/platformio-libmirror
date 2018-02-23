@@ -4,13 +4,9 @@
         "url": "https://os.mbed.com/users/redbird/"
     },
     "description": "Headers for emWin lib",
-    "examples": [
-        "https://os.mbed.com/users/TuxLeon/code/DISCO-F746NG_rtos_test/"
-    ],
     "frameworks": "mbed",
     "keywords": [
-        "MX64",
-        "Serial"
+        "emwin"
     ],
     "name": "emwin",
     "platforms": "*",

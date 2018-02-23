@@ -3,7 +3,7 @@
         "name": "Allen Wild",
         "url": "https://os.mbed.com/users/aswild/"
     },
-    "description": "Library for controlling a strip of Adafruit NeoPixels with WS2812 drivers.",
+    "description": "Library for controlling a strip of Adafruit NeoPixels with WS2812 drivers. Because of the strict timing requirements of the self-clocking data signal, the critical parts of code are written in ...",
     "examples": [
         "https://os.mbed.com/users/aswild/code/NeoPixels/",
         "https://os.mbed.com/teams/ece4180final/code/ECE4180_Werable_LCD_DEMO/",
@@ -18,23 +18,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "card",
-        "ChaNFS",
-        "SD",
-        "Dimmer",
-        "DMX",
-        "DMX512",
-        "lighting",
-        "RDM",
-        "W5500",
-        "WIZ550IO",
-        "Wiznet",
         "Adafruit",
         "led",
         "NeoPixel",
         "rgb",
-        "Shiftbrite",
-        "EthernetNetIf"
+        "Shiftbrite"
     ],
     "name": "NeoStrip",
     "platforms": "*",

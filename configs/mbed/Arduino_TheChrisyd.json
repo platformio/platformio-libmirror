@@ -9,7 +9,10 @@
         "https://os.mbed.com/teams/Gas-Sense/code/Factory_monitor_0v1/"
     ],
     "frameworks": "mbed",
-    "keywords": "Arduino",
+    "keywords": [
+        "arduino",
+        "mbeduino"
+    ],
     "name": "Arduino",
     "platforms": "*",
     "repository": {

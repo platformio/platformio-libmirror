@@ -6,18 +6,7 @@
     "description": "Moving Average Analog In",
     "frameworks": "mbed",
     "keywords": [
-        "2.8",
-        "Adafruit",
-        "FRDM-KL25Z",
-        "TFT",
-        "FRDM-K20D50",
-        "14A2A",
-        "ATT",
-        "avnet",
-        "Cellular",
-        "modem",
-        "WNC",
-        "WncController"
+        "AverageAnalogIn"
     ],
     "name": "AverageAnalogIn",
     "platforms": "*",

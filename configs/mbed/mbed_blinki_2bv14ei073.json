@@ -5,7 +5,9 @@
     },
     "description": "blink",
     "frameworks": "mbed",
-    "keywords": "mbed_blinki",
+    "keywords": [
+        "mbed_blinki"
+    ],
     "name": "mbed_blinki",
     "platforms": "*",
     "repository": {

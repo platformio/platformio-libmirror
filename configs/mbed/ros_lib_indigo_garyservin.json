@@ -8,7 +8,7 @@
             "authors": [
                 "Sam Grove"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "BufferedSerial"
         }
     ],
@@ -27,22 +27,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Composite",
-        "USB",
-        "USBKeyboard",
-        "usbserial",
-        "ROS",
-        "4",
-        "buttons",
-        "convert",
-        "Slider",
-        "to",
-        "touch"
+        "ROS"
     ],
     "name": "ros_lib_indigo",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/garyservin/code/ros_lib_indigo/"
+        "url": "https://os.mbed.com/users/garyservin/code/ros_lib_indigo/"
     }
 }

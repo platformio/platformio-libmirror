@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/caroe/code/Sensor_test/"
     ],
     "frameworks": "mbed",
-    "keywords": "ITG3200",
+    "keywords": [
+        "ITG3200"
+    ],
     "name": "ITG3200",
     "platforms": "*",
     "repository": {

@@ -13,20 +13,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "OLED",
-        "SPI",
-        "SSD1332",
-        "LCD",
-        "LCD-11062",
-        "PCF8833",
-        "sparkfun",
         "KL25z",
         "light sensor",
-        "Wi-Go",
-        "I2C",
-        "LPC800",
-        "LPC800-MAX",
-        "PCA9672"
+        "Wi-Go"
     ],
     "name": "TEMT6200",
     "platforms": "*",

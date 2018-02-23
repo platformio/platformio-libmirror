@@ -3,7 +3,7 @@
         "name": "Greg Brush",
         "url": "https://os.mbed.com/users/gbrush/"
     },
-    "description": "Connect to a Wii Motion Plus (compatible) unit with no pass through or other controllers connected. The Motion Plus is a 3-axis gyroscope add-on w/Invensense IDG655 & IXZ650 MEMS gyros communicating via I2C @ 100KHz clock (some may do 400KHz)",
+    "description": "Connect to a Wii Motion Plus (compatible) unit with no pass through or other controllers connected. The Motion Plus is a 3-axis gyroscope add-on w/Invensense IDG655 & IXZ650 MEMS gyros ...",
     "frameworks": "mbed",
     "keywords": [
         "gyro",
@@ -11,12 +11,7 @@
         "invensense",
         "IXZ650",
         "motionplus",
-        "Wii",
-        "FreeRTOS",
-        "rtos",
-        "LPC4088",
-        "watchdog",
-        "WDT"
+        "Wii"
     ],
     "name": "WiiMP",
     "platforms": "*",

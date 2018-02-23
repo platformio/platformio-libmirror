@@ -8,7 +8,7 @@
             "authors": [
                 "Erik Olieman"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "FastPWM"
         }
     ],
@@ -18,13 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "average",
-        "Moving",
-        "avnet",
-        "Freescale",
-        "KL25z",
-        "Wi-Go",
-        "WiGo",
         "Servo",
         "tlc5940"
     ],
@@ -32,6 +25,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/dudanian/code/TLC5940Servo/"
+        "url": "https://os.mbed.com/users/dudanian/code/TLC5940Servo/"
     }
 }

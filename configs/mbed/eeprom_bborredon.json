@@ -13,14 +13,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "socket",
-        "TCP",
-        "UDP",
-        "WiFly",
-        "compass",
-        "LSM303DLH",
-        "magnetometer",
-        "sensors"
+        "eeprom"
     ],
     "name": "eeprom",
     "platforms": "*",

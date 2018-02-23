@@ -13,19 +13,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DMA",
-        "FRDM-KL25Z",
-        "led",
-        "WS2811",
-        "WS2812",
-        "IMU",
-        "MPU9150",
         "audio",
         "bwf",
         "file",
         "wav",
-        "wave",
-        "gyro"
+        "wave"
     ],
     "name": "wavfile",
     "platforms": "*",

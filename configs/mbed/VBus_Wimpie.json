@@ -5,7 +5,9 @@
     },
     "description": "VBus",
     "frameworks": "mbed",
-    "keywords": "VBus",
+    "keywords": [
+        "VBus"
+    ],
     "name": "VBus",
     "platforms": "*",
     "repository": {

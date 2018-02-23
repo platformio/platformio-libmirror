@@ -23,17 +23,7 @@
         "TCS34721",
         "TCS34723",
         "TCS34725",
-        "TCS34727",
-        "20X4",
-        "ELCD",
-        "LCD",
-        "OEM",
-        "Serial",
-        "cmsis",
-        "DSP",
-        "4x4",
-        "keypad",
-        "polling"
+        "TCS34727"
     ],
     "name": "TCS3472_I2C",
     "platforms": "*",

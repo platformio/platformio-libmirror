@@ -6,9 +6,7 @@
     "description": "adding additional features",
     "frameworks": "mbed",
     "keywords": [
-        "Buffered",
-        "MODSERIAL",
-        "Serial"
+        "USBSerial"
     ],
     "name": "USBSerial",
     "platforms": "*",

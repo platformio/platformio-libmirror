@@ -11,11 +11,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "keypad",
-        "RA8875",
-        "Touchscreen",
-        "Battery Monitor",
-        "LTC2990"
+        "USB400Serial"
     ],
     "name": "USB400Serial",
     "platforms": "*",

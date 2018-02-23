@@ -14,11 +14,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ILI9320",
-        "LCD",
+        "1.8",
         "SPI",
-        "TFT",
-        "1.8"
+        "TFT"
     ],
     "name": "ST7735_TFT",
     "platforms": "*",

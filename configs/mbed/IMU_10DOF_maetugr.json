@@ -3,15 +3,9 @@
         "name": "Matthias Grob",
         "url": "https://os.mbed.com/users/maetugr/"
     },
-    "description": "An fully working IMU-Filter and Sensor drivers for the 10DOF-Board over I2C. All in one simple class. Include, calibrate sensors, call read, get angles. (3D Visualisation code for Python also included)",
+    "description": "An fully working IMU-Filter and Sensor drivers for the 10DOF-Board over I2C. All in one simple class. Include, calibrate sensors, call read, get angles. (3D Visualisation code for Python also ...",
     "frameworks": "mbed",
     "keywords": [
-        "arp",
-        "icmp",
-        "interrupts",
-        "stack",
-        "tcpip",
-        "UDP",
         "ADXL345",
         "AHRS",
         "ANGLE",
@@ -19,11 +13,7 @@
         "HMC5883",
         "IMU",
         "l3g4200d",
-        "sensor",
-        "5110",
-        "84x48",
-        "display",
-        "Nokia"
+        "sensor"
     ],
     "name": "IMU_10DOF",
     "platforms": "*",

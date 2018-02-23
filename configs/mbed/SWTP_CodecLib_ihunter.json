@@ -5,7 +5,9 @@
     },
     "description": "Codec for an NRF24L01 based protocol",
     "frameworks": "mbed",
-    "keywords": "SWTP_CodecLib",
+    "keywords": [
+        "SWTP_CodecLib"
+    ],
     "name": "SWTP_CodecLib",
     "platforms": "*",
     "repository": {

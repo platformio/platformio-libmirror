@@ -5,7 +5,9 @@
     },
     "description": "A simple 5-pin MIDI helper library.",
     "frameworks": "mbed",
-    "keywords": "MIDI_5Pin",
+    "keywords": [
+        "MIDI_5Pin"
+    ],
     "name": "MIDI_5Pin",
     "platforms": "*",
     "repository": {

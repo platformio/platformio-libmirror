@@ -3,26 +3,15 @@
         "name": "chag",
         "url": "https://os.mbed.com/users/chag/"
     },
-    "description": "ALPHA WORK IN PROGRESS. DO NOT USE IN PRODUCTION CODE.",
+    "description": "ALPHA WORK IN PROGRESS. DO NOT USE IN PRODUCTION CODE. based on:\\\\ IAR Application Note G - 001 Generic Software UART\\\\ mbed/trunk/Serial.h\\\\ the venerable Andy Kirkham's MAX3100\\\\",
     "examples": [
         "https://os.mbed.com/users/chag/code/SoftwareUART/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F746NG",
-        "LCD",
         "Serial",
         "SoftwareSerial",
-        "UART",
-        "FAT",
-        "file",
-        "SD",
-        "System",
-        "any",
-        "no",
-        "Pin",
-        "pwm",
-        "Servo"
+        "UART"
     ],
     "name": "SoftwareSerial",
     "platforms": "*",

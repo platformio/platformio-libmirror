@@ -6,11 +6,6 @@
     "description": "a stupid GPS's NMEA0183 format parser.",
     "frameworks": "mbed",
     "keywords": [
-        "EEPROM",
-        "MCP4921",
-        "SPI",
-        "GPIO Exoender",
-        "MCP23017",
         "GPS",
         "NMEA0183"
     ],

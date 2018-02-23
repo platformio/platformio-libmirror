@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "GroveStreams",
+        "url": "https://os.mbed.com/teams/GroveStreams/"
+    },
+    "description": "Used for verbose tracing via printf(..) to the STM32F746 LCD.",
+    "examples": [
+        "https://os.mbed.com/teams/GroveStreams/code/GroveStreams-Temp/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO-F746",
+        "LCD",
+        "Tracing"
+    ],
+    "name": "LcdDiscoF746NgTracer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/GroveStreams/code/LcdDiscoF746NgTracer/"
+    }
+}

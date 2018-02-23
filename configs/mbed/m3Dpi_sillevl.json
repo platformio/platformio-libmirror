@@ -8,11 +8,67 @@
             "authors": [
                 "Chris Styles"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "m3pi"
+        },
+        {
+            "authors": [
+                "Sille Van Landschoot"
+            ],
+            "framework": "mbed",
+            "name": "ADXL345_I2C"
+        },
+        {
+            "authors": [
+                "Sille Van Landschoot"
+            ],
+            "framework": "mbed",
+            "name": "HMC5583L"
+        },
+        {
+            "authors": [
+                "Sille Van Landschoot"
+            ],
+            "framework": "mbed",
+            "name": "ITG3200"
+        },
+        {
+            "authors": [
+                "Tedd OKANO"
+            ],
+            "framework": "mbed",
+            "name": "PCA9547"
+        },
+        {
+            "authors": [
+                "Sille Van Landschoot"
+            ],
+            "framework": "mbed",
+            "name": "TLC59116"
+        },
+        {
+            "authors": [
+                "Sille Van Landschoot"
+            ],
+            "framework": "mbed",
+            "name": "VL6180x"
+        },
+        {
+            "authors": [
+                "Sille Van Landschoot"
+            ],
+            "framework": "mbed",
+            "name": "RGB-fun"
+        },
+        {
+            "authors": [
+                "Sille Van Landschoot"
+            ],
+            "framework": "mbed",
+            "name": "xbee"
         }
     ],
-    "description": "library for m3Dpi robot, based on the Pololu 3pi and m3pi. m3Dpi has multiple distance sensors, gyroscope, compass and accelerometer sensor to be fully aware of its environment. With the addition of xbee or nrf24n01 module it has wireless communication capabilities.",
+    "description": "library for m3Dpi robot, based on the Pololu 3pi and m3pi. m3Dpi has multiple distance sensors, gyroscope, compass and accelerometer sensor to be fully aware of its environment. With the ...",
     "examples": [
         "https://os.mbed.com/users/sillevl/code/m3Dpi-helloworld/"
     ],
@@ -29,6 +85,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/sillevl/code/m3Dpi/"
+        "url": "https://os.mbed.com/users/sillevl/code/m3Dpi/"
     }
 }

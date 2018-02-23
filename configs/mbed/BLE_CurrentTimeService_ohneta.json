@@ -6,10 +6,7 @@
     "description": "BLE Current Time Service",
     "frameworks": "mbed",
     "keywords": [
-        "servos",
-        "slow",
-        "Speed",
-        "Graphics"
+        "BLE_CurrentTimeService"
     ],
     "name": "BLE_CurrentTimeService",
     "platforms": "*",

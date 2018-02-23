@@ -3,19 +3,12 @@
         "name": "Takuya Urakawa",
         "url": "https://os.mbed.com/users/hsgw/"
     },
-    "description": "Send Yo from mbed. http://www.justyo.co/",
+    "description": "Send Yo from mbed. http://www.justyo.co/ Dependents: EthernetInterface, HTTPClient, mbed-rtos Example is http://mbed.org/users/hsgw/code/SendYoExample/",
     "examples": [
         "https://os.mbed.com/users/hsgw/code/SendYoExample/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "LCD 16x2",
-        "LPC11U68",
-        "ST7066U",
-        "DRV2665",
-        "Haptic",
-        "piezo",
         "yo"
     ],
     "name": "YoApi",

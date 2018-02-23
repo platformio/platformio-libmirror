@@ -4,21 +4,12 @@
         "url": "https://os.mbed.com/users/coisme/"
     },
     "description": "This is a device driver of AK8963, which is 3-axis magnetometer manufactured by AKM.",
-    "examples": [
-        "https://os.mbed.com/users/coisme/code/SimpleSample/"
-    ],
     "frameworks": "mbed",
     "keywords": [
-        "bus",
-        "PCF8574",
         "AK8963",
         "AKM",
         "magnetic sensor",
-        "magnetometer",
-        "api",
-        "Digi",
-        "xbee",
-        "zigbee"
+        "magnetometer"
     ],
     "name": "AK8963",
     "platforms": "*",

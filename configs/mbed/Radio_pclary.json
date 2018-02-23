@@ -13,12 +13,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DS1338",
-        "I2C",
-        "Ciseco",
-        "SRF",
-        "wireless",
-        "XRF"
+        "Radio"
     ],
     "name": "Radio",
     "platforms": "*",

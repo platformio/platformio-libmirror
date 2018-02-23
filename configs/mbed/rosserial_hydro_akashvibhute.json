@@ -8,11 +8,11 @@
             "authors": [
                 "Andy Kirkham"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "MODSERIAL"
         }
     ],
-    "description": "rosserial library for mbed",
+    "description": "rosserial library for mbed Inspired by nucho's rosserial library This library is still under development",
     "examples": [
         "https://os.mbed.com/users/akashvibhute/code/mbed_roshydro_test/"
     ],
@@ -26,6 +26,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/akashvibhute/code/rosserial_hydro/"
+        "url": "https://os.mbed.com/users/akashvibhute/code/rosserial_hydro/"
     }
 }

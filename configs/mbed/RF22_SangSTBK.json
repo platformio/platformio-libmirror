@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/SangSTBK/code/New/"
     ],
     "frameworks": "mbed",
-    "keywords": "RF22",
+    "keywords": [
+        "RF22"
+    ],
     "name": "RF22",
     "platforms": "*",
     "repository": {

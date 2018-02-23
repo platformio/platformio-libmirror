@@ -12,16 +12,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "FAT",
-        "file",
-        "SD",
-        "System",
-        "IMU",
-        "sensor",
-        "hang",
-        "I2C",
-        "KL25z",
-        "lockup"
+        "Display1602"
     ],
     "name": "Display1602",
     "platforms": "*",

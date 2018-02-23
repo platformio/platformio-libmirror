@@ -18,19 +18,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "game pad",
-        "gamepad",
-        "playstation",
-        "playstation2",
-        "PS2",
-        "SPI",
-        "pwm",
-        "softwarePWM",
-        "display",
-        "driver",
-        "HEXIWEAR",
-        "OLED",
-        "SSD1351"
+        "DmTftLibrary"
     ],
     "name": "DmTftLibrary",
     "platforms": "*",

@@ -6,9 +6,7 @@
     "description": "Timer dispather",
     "frameworks": "mbed",
     "keywords": [
-        "debounce",
-        "interrupt",
-        "masking"
+        "TimerSubscriber"
     ],
     "name": "TimerSubscriber",
     "platforms": "*",

@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/alpesh/code/EquatorStrutDigitalMonitor/"
     ],
     "frameworks": "mbed",
-    "keywords": "EquatorStrutController",
+    "keywords": [
+        "EquatorStrutController"
+    ],
     "name": "EquatorStrutController",
     "platforms": "*",
     "repository": {

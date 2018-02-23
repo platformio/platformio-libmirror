@@ -10,9 +10,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LocalFileSystem",
-        "S25FL216K",
-        "USBFileSystem"
+        "PCA9555"
     ],
     "name": "PCA9555",
     "platforms": "*",

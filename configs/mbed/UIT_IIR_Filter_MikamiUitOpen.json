@@ -3,7 +3,7 @@
         "name": "不韋 呂",
         "url": "https://os.mbed.com/users/MikamiUitOpen/"
     },
-    "description": "縦続形 IIR フィルタ用ライブラリ．",
+    "description": "縦続形 IIR フィルタ用ライブラリ． Library for cascade structure IIR filter.",
     "examples": [
         "https://os.mbed.com/users/MikamiUitOpen/code/Demo_IIR_Filter/",
         "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VariableIIR_LPF/",
@@ -11,9 +11,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C multiplexer",
-        "PCA9547",
-        "dac",
         "biduad",
         "cascade structure",
         "IIR filter",

@@ -3,10 +3,9 @@
         "name": "Robert Ellis",
         "url": "https://os.mbed.com/users/Phlaphead/"
     },
-    "description": "Simple FTP Server built on top of the NetServices TCP/IP stack.",
+    "description": "Simple FTP Server built on top of the NetServices TCP/IP stack. Not all functions are implemented yet: * Only connection and directory listing commands are working at the moment. * ...",
     "frameworks": "mbed",
     "keywords": [
-        "WiFly",
         "FTP",
         "server"
     ],

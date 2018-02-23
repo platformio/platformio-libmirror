@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Jatin Sharma",
+        "url": "https://os.mbed.com/users/jatinsha/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Simon Ford"
+            ],
+            "framework": "mbed",
+            "name": "TextLCD"
+        },
+        {
+            "authors": [
+                "HM Yoong"
+            ],
+            "framework": "mbed",
+            "name": "keypad"
+        }
+    ],
+    "description": "mBed + timer + keyboard + keypad",
+    "frameworks": "mbed",
+    "keywords": [
+        "CIS541-HW3-Keypad"
+    ],
+    "name": "CIS541-HW3-Keypad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jatinsha/code/CIS541-HW3-Keypad/"
+    }
+}

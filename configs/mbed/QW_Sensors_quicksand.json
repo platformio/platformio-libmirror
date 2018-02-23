@@ -10,7 +10,9 @@
         "https://os.mbed.com/users/quicksand/code/QW-Closet-detection/"
     ],
     "frameworks": "mbed",
-    "keywords": "QW_Sensors",
+    "keywords": [
+        "QW_Sensors"
+    ],
     "name": "QW_Sensors",
     "platforms": "*",
     "repository": {

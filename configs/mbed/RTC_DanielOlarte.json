@@ -9,7 +9,9 @@
         "https://os.mbed.com/users/Digitalesavanzados/code/GloboMetereologico/"
     ],
     "frameworks": "mbed",
-    "keywords": "RTC",
+    "keywords": [
+        "RTC"
+    ],
     "name": "RTC",
     "platforms": "*",
     "repository": {

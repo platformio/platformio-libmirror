@@ -20,21 +20,7 @@
     "keywords": [
         "Encoder",
         "QEI",
-        "quadrature",
-        "H-bridge",
-        "motor",
-        "PwmOut",
-        "fatfilesystem",
-        "MMC",
-        "SD",
-        "SD Card",
-        "SDHC",
-        "SDXC",
-        "buffer",
-        "Buffered",
-        "rs232",
-        "RS485",
-        "Serial"
+        "quadrature"
     ],
     "name": "QEI",
     "platforms": "*",

@@ -5,7 +5,9 @@
     },
     "description": "saved",
     "frameworks": "mbed",
-    "keywords": "mavlink_test_full",
+    "keywords": [
+        "mavlink_test_full"
+    ],
     "name": "mavlink_test_full",
     "platforms": "*",
     "repository": {

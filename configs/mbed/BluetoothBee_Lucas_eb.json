@@ -5,7 +5,9 @@
     },
     "description": "Xbee Bluetooth, una librería modificada para la configuracion y protocolo de comunicación",
     "frameworks": "mbed",
-    "keywords": "74HC165",
+    "keywords": [
+        "BluetoothBee"
+    ],
     "name": "BluetoothBee",
     "platforms": "*",
     "repository": {

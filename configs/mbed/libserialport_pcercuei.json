@@ -3,16 +3,13 @@
         "name": "Paul Cercueil",
         "url": "https://os.mbed.com/users/pcercuei/"
     },
-    "description": "libserialport is a minimal, cross-platform shared library written in C that is intended to take care of the OS-specific details when writing software that uses serial ports.",
+    "description": "libserialport is a minimal, cross-platform shared library written in C that is intended to take care of the OS-specific details when writing software that uses serial ports. Licensed under the ...",
     "examples": [
         "https://os.mbed.com/users/pcercuei/code/libiio/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "stm32",
-        "STM32F746",
-        "STM32F746NG-DISCO",
-        "USBHOST"
+        "libserialport"
     ],
     "name": "libserialport",
     "platforms": "*",

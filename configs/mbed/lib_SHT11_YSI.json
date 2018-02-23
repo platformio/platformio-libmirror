@@ -10,14 +10,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "control",
-        "FRDM-K64F",
-        "Heater",
-        "PID",
-        "L3GD20",
-        "cmsis",
-        "rtos",
-        "RTX"
+        "lib_SHT11"
     ],
     "name": "lib_SHT11",
     "platforms": "*",

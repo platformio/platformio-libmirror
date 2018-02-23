@@ -6,10 +6,17 @@
     "dependencies": [
         {
             "authors": [
-                "Bluetooth Low Energy"
+                " "
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "BLE_API"
+        },
+        {
+            "authors": [
+                " "
+            ],
+            "framework": "mbed",
+            "name": "nRF51822"
         }
     ],
     "description": "API for driving Adafruit's NeoPixels using RedBear's BLE Nano or BLE nRF51822",
@@ -19,11 +26,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "38kHz",
-        "IR",
-        "remote",
-        "quadcopter",
-        "Servo",
         "NeoPixel",
         "nRF51822",
         "RedBear",
@@ -33,6 +35,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/bickster/code/RedBearNano_NeoPixels/"
+        "url": "https://os.mbed.com/users/bickster/code/RedBearNano_NeoPixels/"
     }
 }

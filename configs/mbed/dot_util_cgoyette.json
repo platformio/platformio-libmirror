@@ -6,9 +6,7 @@
     "description": "Minor maintenance updates",
     "frameworks": "mbed",
     "keywords": [
-        "OLED",
-        "ssd1327",
-        "DHT22"
+        "dot_util"
     ],
     "name": "dot_util",
     "platforms": "*",

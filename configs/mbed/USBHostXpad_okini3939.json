@@ -3,25 +3,13 @@
         "name": "Suga koubou",
         "url": "https://os.mbed.com/users/okini3939/"
     },
-    "description": "Xbox 360 Wireless Controller for Windows library.",
+    "description": "Xbox 360 Wireless Controller for Windows library. sample: http://mbed.org/users/okini3939/code/USBHostXpad_HelloWorld/",
     "examples": [
         "https://os.mbed.com/users/okini3939/code/USBHostXpad_HelloWorld/",
         "https://os.mbed.com/users/JakBlackburn/code/USBHostXpad_HelloWorld/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "3x4",
-        "4x3",
-        "kepad",
-        "keyboard",
-        "polling",
-        "pull",
-        "up",
-        "EEPROM",
-        "flash",
-        "stm32f10x",
-        "Radio",
-        "transceiver",
         "game pad",
         "gamepad",
         "USB Host",

@@ -9,11 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MAX30102",
-        "ACM1602NI",
-        "I2C",
-        "LCD",
-        "Nucleo"
+        "STM32F4_RNG"
     ],
     "name": "STM32F4_RNG",
     "platforms": "*",

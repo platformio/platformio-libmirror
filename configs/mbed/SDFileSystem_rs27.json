@@ -6,20 +6,10 @@
     "description": "SDFileSystem",
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F746NG",
-        "LCD",
-        "Serial",
-        "SoftwareSerial",
-        "UART",
         "FAT",
         "file",
         "SD",
-        "System",
-        "any",
-        "no",
-        "Pin",
-        "pwm",
-        "Servo"
+        "System"
     ],
     "name": "SDFileSystem",
     "platforms": "*",

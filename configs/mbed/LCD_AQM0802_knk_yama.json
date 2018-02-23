@@ -6,13 +6,7 @@
     "description": "printf() on AQM0802",
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "DOG",
-        "LCD",
-        "ST7036",
-        "TextLCD",
-        "Gatech",
-        "TB6612FNG"
+        "LCD_AQM0802"
     ],
     "name": "LCD_AQM0802",
     "platforms": "*",

@@ -3,19 +3,13 @@
         "name": "kobe leysen",
         "url": "https://os.mbed.com/users/leysenkobe/"
     },
-    "description": "Library of a DAQ system with the following IC's:",
+    "description": "Library of a DAQ system with the following IC's: -Multiplexer: ADG725 -PGA: AD8253 -ADC: AD7612",
     "examples": [
         "https://os.mbed.com/users/leysenkobe/code/TEST/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Mouse",
-        "optical",
-        "sensor",
-        "buffer",
-        "BufferedSerial",
-        "BufferSerial",
-        "Serial"
+        "DAQ"
     ],
     "name": "DAQ",
     "platforms": "*",

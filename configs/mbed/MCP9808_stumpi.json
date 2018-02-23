@@ -5,7 +5,9 @@
     },
     "description": "Simple library for getting temperature from MCP9808",
     "frameworks": "mbed",
-    "keywords": "MCP9808",
+    "keywords": [
+        "MCP9808"
+    ],
     "name": "MCP9808",
     "platforms": "*",
     "repository": {

@@ -10,7 +10,9 @@
         "https://os.mbed.com/teams/IDD-Fall-2015/code/IDD_FALL15_HW2_JMARQUIS_Keypadentry/"
     ],
     "frameworks": "mbed",
-    "keywords": "DebouncedEdgeIn",
+    "keywords": [
+        "DebouncedEdgeIn"
+    ],
     "name": "DebouncedEdgeIn",
     "platforms": "*",
     "repository": {

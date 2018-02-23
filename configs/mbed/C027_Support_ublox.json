@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "u-blox",
+        "url": "https://os.mbed.com/teams/ublox/"
+    },
+    "description": "support library for C027 helper functions for Buffer Pipes, Buffered Serial Port (rtos capable) and GPS parsing. It includes modem APIs for USSD, SMS and Sockets.",
+    "examples": [
+        "https://os.mbed.com/teams/ublox/code/HTTPClient_Cellular_HelloWorld/",
+        "https://os.mbed.com/teams/ublox/code/Cellular_HelloMQTT/",
+        "https://os.mbed.com/users/vwochnik/code/MbedSmartRestMain/",
+        "https://os.mbed.com/users/kwchang2/code/Car_Bon_car_module/",
+        "https://os.mbed.com/users/mazgch/code/Cellular_m2x-demo-all/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/mbed_mqtt_endpoint_ublox_cellular/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/mbed_nsp_endpoint_ublox_cellular/",
+        "https://os.mbed.com/teams/ublox/code/Cellular_PubNubDemo/",
+        "https://os.mbed.com/teams/ublox/code/MbedSmartRestMain/",
+        "https://os.mbed.com/users/embeddedartists/code/lpc4088_ebb_ublox_Cellular_PubNubDemo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "C027",
+        "u-blox"
+    ],
+    "name": "C027_Support",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ublox/code/C027_Support/"
+    }
+}

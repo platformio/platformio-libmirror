@@ -9,13 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Celsius",
-        "driver",
-        "I2C",
-        "LM75B",
-        "nxp",
-        "sensor",
-        "Temperature"
+        "LSM303DLH"
     ],
     "name": "LSM303DLH",
     "platforms": "*",

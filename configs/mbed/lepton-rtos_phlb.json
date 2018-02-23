@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "philippe le boulanger",
+        "url": "https://os.mbed.com/users/phlb/"
+    },
+    "description": "- POSIX embedded realtime operating system. - Platform supported ARM7/ARM9, Cortex M4/M3/M0/M0+, Linux/win32 simulation. - Unix \"philosophy\". Everything is file. Everything is a stream of bytes. - POSIX functions and ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "POSIX",
+        "rtos"
+    ],
+    "name": "lepton-rtos",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/phlb/code/lepton-rtos/"
+    }
+}

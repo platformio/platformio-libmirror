@@ -3,21 +3,10 @@
         "name": "Frank 26080115",
         "url": "https://os.mbed.com/users/frank26080115/"
     },
-    "description": "Date: March 20, 2011",
+    "description": "Date: March 20, 2011 This library is created from \"LPC17xx CMSIS-Compliant Standard Peripheral Firmware Driver Library (GNU, Keil, IAR) (Jan 28, 2011)\", available from NXP's website, under \"All microcontrollers support ...",
     "frameworks": "mbed",
     "keywords": [
-        "clock",
-        "ds1307",
-        "real",
-        "RTC",
-        "time",
-        "api",
-        "16x2",
-        "20x2",
-        "20X4",
-        "40x2",
-        "HD4478",
-        "TextLCD"
+        "api"
     ],
     "name": "LPC1700CMSIS_Lib",
     "platforms": "*",

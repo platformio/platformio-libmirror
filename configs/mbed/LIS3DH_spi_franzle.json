@@ -5,7 +5,9 @@
     },
     "description": "LIS3DH through spi",
     "frameworks": "mbed",
-    "keywords": "LIS3DH_spi",
+    "keywords": [
+        "LIS3DH_spi"
+    ],
     "name": "LIS3DH_spi",
     "platforms": "*",
     "repository": {

@@ -6,9 +6,7 @@
     "description": "Command line interface for UART.",
     "frameworks": "mbed",
     "keywords": [
-        "DeepSleep",
-        "InterruptIn",
-        "LPC1114"
+        "MjLineSerial"
     ],
     "name": "MjLineSerial",
     "platforms": "*",

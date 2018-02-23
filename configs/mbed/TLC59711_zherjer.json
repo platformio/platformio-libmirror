@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "Julio Ernesto Zaldívar Herrera",
+        "name": "Julio Ernesto ZaldĂ­var Herrera",
         "url": "https://os.mbed.com/users/zherjer/"
     },
     "description": "TLC59711 shift register",
@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/zherjer/code/matriz_32x36_pixel_copy/"
     ],
     "frameworks": "mbed",
-    "keywords": "TLC59711",
+    "keywords": [
+        "TLC59711"
+    ],
     "name": "TLC59711",
     "platforms": "*",
     "repository": {

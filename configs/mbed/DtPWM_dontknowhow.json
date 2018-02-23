@@ -6,10 +6,7 @@
     "description": "Library for detailed control of PWM including dead times and interrupts.",
     "frameworks": "mbed",
     "keywords": [
-        "Fake SPI",
-        "SPI",
-        "Virtual SPI",
-        "VSPI"
+        "DtPWM"
     ],
     "name": "DtPWM",
     "platforms": "*",

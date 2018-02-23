@@ -10,15 +10,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "buzzer",
-        "pwm",
-        "tone",
-        "tune",
-        "audio",
-        "I2S",
-        "library",
-        "tested",
-        "TLV320"
+        "PCF8574"
     ],
     "name": "PCF8574",
     "platforms": "*",

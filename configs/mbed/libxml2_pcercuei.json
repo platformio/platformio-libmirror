@@ -3,15 +3,13 @@
         "name": "Paul Cercueil",
         "url": "https://os.mbed.com/users/pcercuei/"
     },
-    "description": "XML C parser available under the MIT license.",
+    "description": "XML C parser available under the MIT license. http://xmlsoft.org/",
     "examples": [
         "https://os.mbed.com/users/pcercuei/code/libiio/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DS1620",
-        "thermometer",
-        "thermostat"
+        "libxml2"
     ],
     "name": "libxml2",
     "platforms": "*",

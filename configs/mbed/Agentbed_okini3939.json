@@ -3,7 +3,7 @@
         "name": "Suga koubou",
         "url": "https://os.mbed.com/users/okini3939/"
     },
-    "description": "SNMP Agent",
+    "description": "SNMP Agent http://mbed.org/users/okini3939/notebook/agentbed-library/",
     "examples": [
         "https://os.mbed.com/users/okini3939/code/WeatherPlatform_20110408/",
         "https://os.mbed.com/users/okini3939/code/WeatherPlatform/",
@@ -11,10 +11,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "NET",
-        "network",
-        "stream",
-        "TCP",
         "Agent",
         "Net-SNMP",
         "SNMP"

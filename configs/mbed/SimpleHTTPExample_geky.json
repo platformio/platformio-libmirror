@@ -6,23 +6,42 @@
     "dependencies": [
         {
             "authors": [
-                "NetworkSocketAPI"
+                " "
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "LWIPInterface"
+        },
+        {
+            "authors": [
+                " "
+            ],
+            "framework": "mbed",
+            "name": "NetworkSocketAPI"
+        },
+        {
+            "authors": [
+                "Christopher Haster"
+            ],
+            "framework": "mbed",
+            "name": "events"
+        },
+        {
+            "authors": [
+                "Christopher Haster"
+            ],
+            "framework": "mbed",
+            "name": "funcptr"
         }
     ],
     "description": "Simple HTTP example",
     "frameworks": "mbed",
     "keywords": [
-        "HC-SR04",
-        "Microbit",
-        "ultrasound"
+        "SimpleHTTPExample"
     ],
     "name": "SimpleHTTPExample",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/geky/code/SimpleHTTPExample/"
+        "url": "https://os.mbed.com/users/geky/code/SimpleHTTPExample/"
     }
 }

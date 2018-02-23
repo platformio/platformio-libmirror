@@ -8,7 +8,10 @@
         "https://os.mbed.com/users/mimil/code/SenseClient/"
     ],
     "frameworks": "mbed",
-    "keywords": "NetServicesProxy",
+    "keywords": [
+        "http",
+        "proxy"
+    ],
     "name": "NetServicesProxy",
     "platforms": "*",
     "repository": {

@@ -6,12 +6,7 @@
     "description": "servo",
     "frameworks": "mbed",
     "keywords": [
-        "ethernet",
-        "socket",
-        "W5500",
-        "arduino",
-        "Gameduino",
-        "mbeduino"
+        "Servo"
     ],
     "name": "Servo",
     "platforms": "*",

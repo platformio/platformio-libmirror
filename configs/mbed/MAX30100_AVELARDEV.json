@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/AVELARDEV/code/MAX30100_oxullo/"
     ],
     "frameworks": "mbed",
-    "keywords": "Axeda",
+    "keywords": [
+        "MAX30100"
+    ],
     "name": "MAX30100",
     "platforms": "*",
     "repository": {

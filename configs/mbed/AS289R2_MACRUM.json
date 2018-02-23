@@ -13,11 +13,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ILI9341",
-        "SPI",
         "printer",
-        "shield",
-        "nRF24L01"
+        "shield"
     ],
     "name": "AS289R2",
     "platforms": "*",

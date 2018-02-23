@@ -10,7 +10,9 @@
         "https://os.mbed.com/users/wolpra98/code/Projekt_Wecker_LCD/"
     ],
     "frameworks": "mbed",
-    "keywords": "LCD",
+    "keywords": [
+        "LCD"
+    ],
     "name": "LCD",
     "platforms": "*",
     "repository": {

@@ -9,7 +9,9 @@
         "https://os.mbed.com/users/jebradshaw/code/Axis/"
     ],
     "frameworks": "mbed",
-    "keywords": "LS7366LIB",
+    "keywords": [
+        "LS7366LIB"
+    ],
     "name": "LS7366LIB",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Sille Van Landschoot",
+        "url": "https://os.mbed.com/users/sillevl/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                "Sille Van Landschoot"
+            ],
+            "framework": "mbed",
+            "name": "m3Dpi"
+        },
+        {
+            "authors": [
+                "Samuel Mokrani"
+            ],
+            "framework": "mbed",
+            "name": "MbedJSONValue"
+        }
+    ],
+    "description": "m3Dpi robot, based on the Pololu 3pi and m3pi. m3Dpi has multiple distance sensors, gyroscope, compass and accelerometer sensor to be fully aware of its environment. With the addition of ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "3pi",
+        "m3dpi",
+        "m3pi",
+        "pololu",
+        "robot"
+    ],
+    "name": "m3Dpi-helloworld",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sillevl/code/m3Dpi-helloworld/"
+    }
+}

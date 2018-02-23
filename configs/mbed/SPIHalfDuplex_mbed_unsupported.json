@@ -6,13 +6,7 @@
     "description": "SPI Half-Duplex",
     "frameworks": "mbed",
     "keywords": [
-        "device",
-        "USB",
-        "Freescale",
-        "FXAS21002CQ",
-        "Giroscope",
-        "Adafruit",
-        "PCA9685"
+        "SPIHalfDuplex"
     ],
     "name": "SPIHalfDuplex",
     "platforms": "*",

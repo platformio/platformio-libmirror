@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/okano/code/I2C_FmPlus_Hello/"
     ],
     "frameworks": "mbed",
-    "keywords": "I2C_FmPlus",
+    "keywords": [
+        "I2C_FmPlus"
+    ],
     "name": "I2C_FmPlus",
     "platforms": "*",
     "repository": {

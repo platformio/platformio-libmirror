@@ -6,9 +6,7 @@
     "description": "Boe-bot library about servos, ping, and encoder",
     "frameworks": "mbed",
     "keywords": [
-        "accelererometer",
-        "ADXL345",
-        "I2C"
+        "parallax"
     ],
     "name": "parallax",
     "platforms": "*",

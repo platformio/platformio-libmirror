@@ -6,11 +6,7 @@
     "description": "Netservices modded to read fragmented HTTP respsonse/payload from special purpose server - 180 bytes only",
     "frameworks": "mbed",
     "keywords": [
-        "MPU9150",
-        "Quaternion",
-        "vector",
-        "AQM1602",
-        "L6470"
+        "NetServices"
     ],
     "name": "NetServices",
     "platforms": "*",

@@ -6,16 +6,7 @@
     "description": "a simple c queue",
     "frameworks": "mbed",
     "keywords": [
-        "frequency",
-        "measurement",
-        "Pulsewidth",
-        "GPS",
-        "ublox",
-        "Vodafone",
-        "ADT7310",
-        "Nucleo",
-        "SPI",
-        "UIT"
+        "queue"
     ],
     "name": "queue",
     "platforms": "*",

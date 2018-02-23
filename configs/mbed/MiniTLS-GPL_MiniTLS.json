@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Donatien Garnier",
+        "url": "https://os.mbed.com/users/MiniTLS/"
+    },
+    "description": "A super trimmed down TLS stack, GPL licensed",
+    "examples": [
+        "https://os.mbed.com/users/MiniTLS/code/MiniTLS-HTTPS-Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "SSL",
+        "TLS"
+    ],
+    "name": "MiniTLS-GPL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MiniTLS/code/MiniTLS-GPL/"
+    }
+}

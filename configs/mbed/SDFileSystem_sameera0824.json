@@ -3,25 +3,15 @@
         "name": "Sameera Nawarathne",
         "url": "https://os.mbed.com/users/sameera0824/"
     },
-    "dependencies": [
-        {
-            "authors": [
-                "mbed official"
-            ],
-            "frameworks": "mbed",
-            "name": "FATFileSystem"
-        }
-    ],
     "description": "SDFileSystem library for FAT compatible",
     "frameworks": "mbed",
     "keywords": [
-        "HD44780",
-        "TextLCD"
+        "SDFileSystem"
     ],
     "name": "SDFileSystem",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/sameera0824/code/SDFileSystem/"
+        "url": "https://os.mbed.com/users/sameera0824/code/SDFileSystem/"
     }
 }

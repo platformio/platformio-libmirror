@@ -8,7 +8,7 @@
             "authors": [
                 "Daiki Kato"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "sd-driver-hs"
         }
     ],
@@ -20,11 +20,13 @@
         "https://os.mbed.com/users/tuthai/code/GR-PEACH-mbed-os-storage-access/"
     ],
     "frameworks": "mbed",
-    "keywords": "SDBlockDevice_GR_PEACH",
+    "keywords": [
+        "SDBlockDevice_GR_PEACH"
+    ],
     "name": "SDBlockDevice_GR_PEACH",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/dkato/code/SDBlockDevice_GR_PEACH/"
+        "url": "https://os.mbed.com/users/dkato/code/SDBlockDevice_GR_PEACH/"
     }
 }

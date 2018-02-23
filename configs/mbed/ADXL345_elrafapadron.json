@@ -6,18 +6,9 @@
     "description": "Add functions to read Ax, Ay and Az individually",
     "frameworks": "mbed",
     "keywords": [
-        "arduino",
-        "SDCard",
-        "Seeedstudio",
-        "TFT",
-        "touch",
-        "LCD",
         "accelerometer",
         "ADXL345",
-        "senor",
-        "OneWire",
-        "protocols",
-        "sensors"
+        "senor"
     ],
     "name": "ADXL345",
     "platforms": "*",

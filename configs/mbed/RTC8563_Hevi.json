@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/Hevi/code/rtc_class2/"
     ],
     "frameworks": "mbed",
-    "keywords": "RTC",
+    "keywords": [
+        "RTC"
+    ],
     "name": "RTC8563",
     "platforms": "*",
     "repository": {

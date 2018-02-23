@@ -13,15 +13,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "External SD",
-        "file system",
-        "SDHC",
-        "SPI",
-        "AppNearMe",
-        "NFC",
-        "fatfilesystem",
-        "LocalFileSystem",
-        "USBMSD"
+        "NTPClient"
     ],
     "name": "NTPClient",
     "platforms": "*",

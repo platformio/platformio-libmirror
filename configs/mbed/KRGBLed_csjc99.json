@@ -5,7 +5,9 @@
     },
     "description": "simple wrapper for the K64F RGB Led",
     "frameworks": "mbed",
-    "keywords": "KRGBLed",
+    "keywords": [
+        "KRGBLed"
+    ],
     "name": "KRGBLed",
     "platforms": "*",
     "repository": {

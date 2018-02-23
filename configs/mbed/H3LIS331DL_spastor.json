@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "Sebastián Pastor",
+        "name": "Sebastiรกn Pastor",
         "url": "https://os.mbed.com/users/spastor/"
     },
     "description": "Library to interface H3LIS331DL accelerometer.",
@@ -12,15 +12,7 @@
     "keywords": [
         "accelerometer",
         "Grove",
-        "Seeedstudio",
-        "socket",
-        "wifi",
-        "WifiPlusClick",
-        "WLAN",
-        "Capacitive",
-        "Input",
-        "sensor",
-        "touch"
+        "Seeedstudio"
     ],
     "name": "H3LIS331DL",
     "platforms": "*",

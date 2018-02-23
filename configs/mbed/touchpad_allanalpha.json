@@ -5,7 +5,9 @@
     },
     "description": "..",
     "frameworks": "mbed",
-    "keywords": "mbed",
+    "keywords": [
+        "touchpad"
+    ],
     "name": "touchpad",
     "platforms": "*",
     "repository": {

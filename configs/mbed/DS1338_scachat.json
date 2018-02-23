@@ -1,17 +1,13 @@
 {
     "authors": {
-        "name": "Stéphane Cachat",
+        "name": "StĂŠphane Cachat",
         "url": "https://os.mbed.com/users/scachat/"
     },
-    "description": "DS1338 RTC library",
+    "description": "DS1338 RTC library RTC + 55 bytes nvram",
     "frameworks": "mbed",
     "keywords": [
         "DS1338",
-        "I2C",
-        "Ciseco",
-        "SRF",
-        "wireless",
-        "XRF"
+        "I2C"
     ],
     "name": "DS1338",
     "platforms": "*",

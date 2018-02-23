@@ -9,18 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "device",
-        "USB",
-        "ADT7410",
-        "I2C",
-        "Nucleo",
-        "UIT",
-        "4x3",
-        "AE-KIT45-KEYPAD4X3",
-        "Akizuki",
-        "key",
-        "matrix",
-        "switch"
+        "TCP_COMM"
     ],
     "name": "TCP_COMM",
     "platforms": "*",

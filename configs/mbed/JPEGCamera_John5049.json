@@ -8,20 +8,19 @@
             "authors": [
                 "Hiroshi Yamaguchi"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "JPEGCamera"
         }
     ],
     "description": "camera testing",
     "frameworks": "mbed",
     "keywords": [
-        "SPI",
-        "XBEE pro"
+        "JPEGCamera"
     ],
     "name": "JPEGCamera",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/John5049/code/JPEGCamera/"
+        "url": "https://os.mbed.com/users/John5049/code/JPEGCamera/"
     }
 }

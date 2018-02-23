@@ -3,7 +3,7 @@
         "name": "Citrusbyte Team",
         "url": "https://os.mbed.com/users/citrusbyte/"
     },
-    "description": "JSON parsing library by Andrii Mamchur",
+    "description": "JSON parsing library by Andrii Mamchur https://github.com/amamchur/jsonlite",
     "examples": [
         "https://os.mbed.com/users/mfiore/code/M2X_dev/",
         "https://os.mbed.com/users/k4r7h1k/code/MTS_M2x_Example1/",
@@ -18,20 +18,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "SRF02",
-        "cmsis",
-        "function",
-        "Instances",
-        "multiple",
-        "rtos",
-        "threads",
-        "JPEG",
-        "LS-Y201",
-        "JSON",
-        "algebra",
-        "Kinematics",
-        "Linear",
-        "matrix"
+        "JSON"
     ],
     "name": "jsonlite",
     "platforms": "*",

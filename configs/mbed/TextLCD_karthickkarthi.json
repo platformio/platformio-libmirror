@@ -5,7 +5,9 @@
     },
     "description": "hai_lcd",
     "frameworks": "mbed",
-    "keywords": "TextLCD",
+    "keywords": [
+        "TextLCD"
+    ],
     "name": "TextLCD",
     "platforms": "*",
     "repository": {

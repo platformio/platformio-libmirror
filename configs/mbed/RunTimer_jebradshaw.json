@@ -6,8 +6,6 @@
     "description": "Timer for accumulating 10 ms intervals that does not overflow after ~30 min",
     "frameworks": "mbed",
     "keywords": [
-        "HAL",
-        "I2C",
         "RunTimer",
         "timer"
     ],

@@ -5,7 +5,9 @@
     },
     "description": "bh",
     "frameworks": "mbed",
-    "keywords": "mecanum2017",
+    "keywords": [
+        "mecanum2017"
+    ],
     "name": "mecanum2017",
     "platforms": "*",
     "repository": {

@@ -6,17 +6,7 @@
     "description": "first versione of ThingSpeak IOT library (not tested)",
     "frameworks": "mbed",
     "keywords": [
-        "keyboard",
-        "USB",
-        "LIDAR Lite",
-        "LidarLite",
-        "I2C",
-        "MCP23017",
-        "flash",
-        "logging",
-        "broadcast",
-        "multicast",
-        "UDP"
+        "ThingSpeak"
     ],
     "name": "ThingSpeak",
     "platforms": "*",

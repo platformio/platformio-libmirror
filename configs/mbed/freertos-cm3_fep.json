@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Francisco Paez",
+        "url": "https://os.mbed.com/users/fep/"
+    },
+    "description": "FreeRTOS v9.0.0 for ARM Cortex-M3 based boards.",
+    "examples": [
+        "https://os.mbed.com/users/fep/code/mbed_lpc1768_freertos_lib/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FreeRTOS",
+        "rtos"
+    ],
+    "name": "freertos-cm3",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fep/code/freertos-cm3/"
+    }
+}

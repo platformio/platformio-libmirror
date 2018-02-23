@@ -6,13 +6,7 @@
     "description": "Si4735 Library with RDS/RBDS control functions",
     "frameworks": "mbed",
     "keywords": [
-        "JSON",
-        "Addressable",
-        "led",
-        "NeoPixel",
-        "rgb",
-        "WS2812",
-        "Servo"
+        "Si4735_lib"
     ],
     "name": "Si4735_lib",
     "platforms": "*",

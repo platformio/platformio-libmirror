@@ -3,14 +3,10 @@
         "name": "Hexley Ball",
         "url": "https://os.mbed.com/users/hexley/"
     },
-    "description": "NetTribute library with debug turned on in FShandler",
+    "description": "NetTribute library with debug turned on in FShandler Donatien Garner -> Segundo Equipo -> this version",
     "frameworks": "mbed",
     "keywords": [
-        "AT",
-        "C027",
-        "C030",
-        "CellularInterface",
-        "u-blox"
+        "NetServices"
     ],
     "name": "NetServices",
     "platforms": "*",

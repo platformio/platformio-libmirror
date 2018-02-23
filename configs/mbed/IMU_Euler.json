@@ -6,13 +6,7 @@
     "description": "Library for setting and reading the Pololu minIMU 9 v2 sensor",
     "frameworks": "mbed",
     "keywords": [
-        "http",
-        "web server",
-        "Graphics",
-        "LCD",
-        "Felica",
-        "RC-S620/S",
-        "RFID"
+        "IMU"
     ],
     "name": "IMU",
     "platforms": "*",

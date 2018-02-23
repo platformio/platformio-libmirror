@@ -3,7 +3,7 @@
         "name": "phs fan",
         "url": "https://os.mbed.com/users/phsfan/"
     },
-    "description": "3G Shield library, port for mbed.",
+    "description": "3G Shield library, port for mbed. (from http://3gsa.org/ ) see: https://developer.mbed.org/users/phsfan/notebook/phsshield/",
     "examples": [
         "https://os.mbed.com/users/phsfan/code/PHSShield_test/",
         "https://os.mbed.com/users/phsfan/code/PHSShield_connectTCP/",
@@ -15,11 +15,7 @@
         "3g",
         "arduino",
         "PHS",
-        "shield",
-        "USBDevice",
-        "real time",
-        "serial port",
-        "serial protocols"
+        "shield"
     ],
     "name": "a3gs",
     "platforms": "*",

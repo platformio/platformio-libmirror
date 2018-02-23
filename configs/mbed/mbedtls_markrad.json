@@ -10,12 +10,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "SerialHalfDuplex",
-        "motor",
-        "Stepper",
-        "unipolar",
-        "BLE",
-        "MIDI"
+        "mbedtls"
     ],
     "name": "mbedtls",
     "platforms": "*",

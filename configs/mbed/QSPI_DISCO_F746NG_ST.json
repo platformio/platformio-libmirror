@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "Class to drive the QSPI external memory (N25Q128A device) present on DISCO_F746NG board.",
+    "examples": [
+        "https://os.mbed.com/users/kawaberi12891/code/F746_Fourier_series_of_square_wave_01/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_AudioOutQSPI/",
+        "https://os.mbed.com/users/jmambroi/code/DISCO-F746-Dessiccateur-V1/",
+        "https://os.mbed.com/teams/ST/code/DISCO-F746NG_QSPI/",
+        "https://os.mbed.com/users/DouglasK/code/DISCO-F746NG_Monttory_Base/",
+        "https://os.mbed.com/teams/Monttori/code/DISCO-F746NG_Monttory_Base/",
+        "https://os.mbed.com/users/yefremovv/code/skav2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F746NG",
+        "QSPI"
+    ],
+    "name": "QSPI_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/QSPI_DISCO_F746NG/"
+    }
+}

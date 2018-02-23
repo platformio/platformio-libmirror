@@ -9,10 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "LM77",
-        "sensor",
-        "Temperature"
+        "DebouncedIna"
     ],
     "name": "DebouncedIna",
     "platforms": "*",

@@ -5,7 +5,9 @@
     },
     "description": "おぼぼぼぼぼぼぼぼぼぼぼぼぼぼぼ",
     "frameworks": "mbed",
-    "keywords": "mecanum2017_2",
+    "keywords": [
+        "mecanum2017_2"
+    ],
     "name": "mecanum2017_2",
     "platforms": "*",
     "repository": {

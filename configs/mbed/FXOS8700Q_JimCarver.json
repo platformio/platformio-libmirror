@@ -3,6 +3,15 @@
         "name": "Jim Carver",
         "url": "https://os.mbed.com/users/JimCarver/"
     },
+    "dependencies": [
+        {
+            "authors": [
+                " "
+            ],
+            "framework": "mbed",
+            "name": "MotionSensor"
+        }
+    ],
     "description": "A basic library for the FXOS8700Q combination accelerometer / magnetometer",
     "examples": [
         "https://os.mbed.com/users/JimCarver/code/K64F_eCompass_LCD/",
@@ -21,16 +30,7 @@
         "accelerometer",
         "Freescale",
         "magnetometer",
-        "sensor",
-        "bmp085",
-        "BMP180",
-        "I2C",
-        "C027",
-        "u-blox",
-        "Segger",
-        "ST-LINK",
-        "swo",
-        "Viewer"
+        "sensor"
     ],
     "name": "FXOS8700Q",
     "platforms": "*",

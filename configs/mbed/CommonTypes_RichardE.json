@@ -11,7 +11,9 @@
         "https://os.mbed.com/users/RichardE/code/WiiClassicControllerTest/"
     ],
     "frameworks": "mbed",
-    "keywords": "CommonTypes",
+    "keywords": [
+        "CommonTypes"
+    ],
     "name": "CommonTypes",
     "platforms": "*",
     "repository": {

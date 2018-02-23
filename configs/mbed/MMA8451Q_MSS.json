@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "MSS",
+        "url": "https://os.mbed.com/teams/MSS/"
+    },
+    "description": "Xtrinsic MMA8451Q 3-Axis, 14-bit/8-bit Digital Accelerometer",
+    "examples": [
+        "https://os.mbed.com/teams/MSS/code/test_MMA8451Q/",
+        "https://os.mbed.com/teams/Orefatoi/code/afero_node_suntory_171018/",
+        "https://os.mbed.com/teams/MSS/code/testSensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "14bit",
+        "3-axis",
+        "8bit",
+        "accelerometer",
+        "I2C",
+        "MMA8451Q"
+    ],
+    "name": "MMA8451Q",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MSS/code/MMA8451Q/"
+    }
+}

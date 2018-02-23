@@ -9,10 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MPL115A2",
-        "adc",
-        "DIFF",
-        "K64F"
+        "MQTTSNPacket"
     ],
     "name": "MQTTSNPacket",
     "platforms": "*",

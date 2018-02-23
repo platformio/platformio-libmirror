@@ -17,15 +17,7 @@
         "MD2",
         "md5",
         "RC4",
-        "SHA",
-        "api",
-        "network",
-        "NSAPI",
-        "socket",
-        "ROS",
-        "Callback",
-        "FunctionPointer",
-        "Functor"
+        "SHA"
     ],
     "name": "Crypto",
     "platforms": "*",

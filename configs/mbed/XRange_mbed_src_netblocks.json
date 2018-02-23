@@ -10,7 +10,9 @@
         "https://os.mbed.com/users/trusch/code/lora-transceiver/"
     ],
     "frameworks": "mbed",
-    "keywords": "StarBoardOrange",
+    "keywords": [
+        "XRange_mbed_src"
+    ],
     "name": "XRange_mbed_src",
     "platforms": "*",
     "repository": {

@@ -3,16 +3,11 @@
         "name": "Michael Shimniok",
         "url": "https://os.mbed.com/users/shimniok/"
     },
-    "description": "An interface to the Sparkfun Serial Graphic LCD, LCD-09351; and Graphic LCD Serial Backpack, LCD-09352. Derived class from Serial so that you can conveniently send text to the display with printf(), putc(), etc.",
+    "description": "An interface to the Sparkfun Serial Graphic LCD, LCD-09351; and Graphic LCD Serial Backpack, LCD-09352. Derived class from Serial so that you can conveniently send text to the display with ...",
     "frameworks": "mbed",
     "keywords": [
-        "http",
-        "web server",
         "Graphics",
-        "LCD",
-        "Felica",
-        "RC-S620/S",
-        "RFID"
+        "LCD"
     ],
     "name": "SerialGraphicLCD",
     "platforms": "*",

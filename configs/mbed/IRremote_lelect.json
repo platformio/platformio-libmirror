@@ -3,16 +3,10 @@
         "name": "Tatsuki Fukuda",
         "url": "https://os.mbed.com/users/lelect/"
     },
-    "description": "First Commit",
+    "description": "First Commit IR remote class This class constructer needs (PwmOutPin,DigitalInPin,data array pointer,data array length,Serial instance pointer)",
     "frameworks": "mbed",
     "keywords": [
-        "IR",
-        "accelerometer",
-        "eCompass",
-        "fast",
-        "FRDM-KL46Z",
-        "magnetometer",
-        "digitalOut"
+        "IR"
     ],
     "name": "IRremote",
     "platforms": "*",

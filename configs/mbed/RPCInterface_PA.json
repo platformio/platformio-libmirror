@@ -5,7 +5,9 @@
     },
     "description": "RPCInterface",
     "frameworks": "mbed",
-    "keywords": "AM2321",
+    "keywords": [
+        "RPCInterface"
+    ],
     "name": "RPCInterface",
     "platforms": "*",
     "repository": {

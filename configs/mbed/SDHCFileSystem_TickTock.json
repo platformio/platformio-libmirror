@@ -9,10 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "driver",
-        "Haptics",
-        "motor",
-        "vibration"
+        "SDHCFileSystem"
     ],
     "name": "SDHCFileSystem",
     "platforms": "*",

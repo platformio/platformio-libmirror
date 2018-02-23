@@ -6,18 +6,7 @@
     "description": "Slightly modified LIB from Stephane ROCHON",
     "frameworks": "mbed",
     "keywords": [
-        "uLCD-32PT(SGS)",
-        "distance",
-        "driver",
-        "sensor",
-        "VL6180x",
-        "kitt",
-        "led",
-        "scanner",
-        "DHT11",
-        "DHT22",
-        "Humidity",
-        "Temperature"
+        "uLCD-32PT(SGS)"
     ],
     "name": "TFT_4DGL_rev1",
     "platforms": "*",

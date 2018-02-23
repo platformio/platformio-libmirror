@@ -5,7 +5,9 @@
     },
     "description": "プレステ１コントローラ用ライブラリ",
     "frameworks": "mbed",
-    "keywords": "StarBoardOrange",
+    "keywords": [
+        "pspad"
+    ],
     "name": "pspad",
     "platforms": "*",
     "repository": {

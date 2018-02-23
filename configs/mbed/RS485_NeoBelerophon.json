@@ -6,13 +6,6 @@
     "description": "Allows RS485 communication using MAX485 chip",
     "frameworks": "mbed",
     "keywords": [
-        "Humidity",
-        "Sensiron",
-        "Temperature",
-        "daisy-chain",
-        "L6470",
-        "SPI",
-        "Stepper",
         "MAX485",
         "RS485"
     ],

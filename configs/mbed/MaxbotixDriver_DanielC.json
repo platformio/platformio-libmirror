@@ -10,10 +10,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "iniparser",
         "driver",
-        "sonar",
-        "ad7124"
+        "sonar"
     ],
     "name": "MaxbotixDriver",
     "platforms": "*",

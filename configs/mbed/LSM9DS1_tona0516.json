@@ -9,16 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F746NG",
-        "EEPROM",
-        "BME280",
-        "DISCO_F429ZI",
-        "sdram",
-        "brushless",
-        "L293D",
-        "LPC1768",
-        "mbed",
-        "motor"
+        "LSM9DS1"
     ],
     "name": "LSM9DS1",
     "platforms": "*",

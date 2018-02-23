@@ -5,7 +5,9 @@
     },
     "description": "for DigitalOut toggling, Class \"ticker\" used.",
     "frameworks": "mbed",
-    "keywords": "digitalOut",
+    "keywords": [
+        "digitalOut"
+    ],
     "name": "ToggleDigitalOut",
     "platforms": "*",
     "repository": {

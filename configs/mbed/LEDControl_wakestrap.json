@@ -3,16 +3,12 @@
         "name": "Andrew Edwards",
         "url": "https://os.mbed.com/users/wakestrap/"
     },
-    "description": "Simple library for controlling LEDs. Turn them on & off, blink them at specified rates and toggle their output. Don't forget to add a timer for the LEDs to use. Documentation found in header file.",
+    "description": "Simple library for controlling LEDs. Turn them on & off, blink them at specified rates and toggle their output. Don't forget to add a timer for the LEDs to use. ...",
     "frameworks": "mbed",
     "keywords": [
         "blink",
         "led",
-        "LED control",
-        "SRF02",
-        "GPS",
-        "NMEA",
-        "Venus"
+        "LED control"
     ],
     "name": "LEDControl",
     "platforms": "*",

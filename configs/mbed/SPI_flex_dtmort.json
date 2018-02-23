@@ -6,11 +6,6 @@
     "description": "CLASS for software SPI master class instantiated on any general IO pin. Slow but flexible.",
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "LCD",
-        "eFLL",
-        "fuzzy",
-        "logic",
         "GPIO",
         "master",
         "Serial",

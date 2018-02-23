@@ -5,7 +5,9 @@
     },
     "description": "インタープラン製無線モジュールIM920と通信を行うライブラリです",
     "frameworks": "mbed",
-    "keywords": "IM920",
+    "keywords": [
+        "IM920"
+    ],
     "name": "IM920",
     "platforms": "*",
     "repository": {

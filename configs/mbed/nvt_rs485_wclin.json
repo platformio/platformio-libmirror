@@ -13,7 +13,9 @@
         "https://os.mbed.com/teams/Nuvoton/code/NuMaker-mbed-modbus-sample/"
     ],
     "frameworks": "mbed",
-    "keywords": "nvt_rs485",
+    "keywords": [
+        "nvt_rs485"
+    ],
     "name": "nvt_rs485",
     "platforms": "*",
     "repository": {

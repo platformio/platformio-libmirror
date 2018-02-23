@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/arnaudsuire/code/Labo_TRSE_Drone/"
     ],
     "frameworks": "mbed",
-    "keywords": "JSON",
+    "keywords": [
+        "PID"
+    ],
     "name": "PID",
     "platforms": "*",
     "repository": {

@@ -3,7 +3,7 @@
         "name": "JST 2011",
         "url": "https://os.mbed.com/users/JST2011/"
     },
-    "description": "*power consumption control(phy , semihost) library written by Michael Wei",
+    "description": "*power consumption control(phy , semihost) library written by Michael Wei (some compile errors with mbed lib (20131011) were fixed) *for Mbed LPC1768 *for clock control , see \"ClockControl\"",
     "examples": [
         "https://os.mbed.com/users/yamaguch/code/GPSReceiver-EthernetDisabled/",
         "https://os.mbed.com/users/udomsak/code/GPS_1590R-A/",
@@ -18,22 +18,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "LCD",
-        "wattbob",
-        "mbed",
         "ethernet",
         "power consumption",
         "power control",
         "power management",
-        "PowerControl",
-        "DMA",
-        "gpdma",
-        "MODDMA",
-        "adc",
-        "AnalogIn",
-        "burst",
-        "fast"
+        "PowerControl"
     ],
     "name": "PowerControl",
     "platforms": "*",

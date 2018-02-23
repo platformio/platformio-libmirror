@@ -5,7 +5,9 @@
     },
     "description": "Infrared remote test functions (11/26/2010)",
     "frameworks": "mbed",
-    "keywords": "Infrared",
+    "keywords": [
+        "Infrared"
+    ],
     "name": "Infrared",
     "platforms": "*",
     "repository": {

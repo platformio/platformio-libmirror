@@ -1,19 +1,14 @@
 {
     "authors": {
-        "name": "Ondřej Hruška",
+        "name": "OndĹej HruĹĄka",
         "url": "https://os.mbed.com/users/MightyPork/"
     },
-    "description": "Simple neopixel (WS2812) library, tuned for stm32 (L432) at 80 MHz",
+    "description": "Simple neopixel (WS2812) library, tuned for stm32 (L432) at 80 MHz Should be compatible with any stm32, different clock speed may require timing adjustments in neopixel.c",
     "frameworks": "mbed",
     "keywords": [
-        "MISAKI",
-        "OLED",
-        "SEL10016Y",
-        "WS0010",
         "NeoPixel",
         "stm32",
-        "WS2812B",
-        "DHT11"
+        "WS2812B"
     ],
     "name": "NeoPixel",
     "platforms": "*",

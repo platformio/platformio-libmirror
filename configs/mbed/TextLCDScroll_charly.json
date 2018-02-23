@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "Karl Zweimüller",
+        "name": "Karl ZweimĂźller",
         "url": "https://os.mbed.com/users/charly/"
     },
     "description": "Extendes Version of TextLCD which scrolls oversized lines.",
@@ -9,13 +9,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GR-PEACH",
-        "HTU21D",
-        "Humidity",
-        "I2C",
-        "K64F",
-        "KL25z",
-        "Temperature",
         "LCD",
         "Scroll",
         "TextLCD"

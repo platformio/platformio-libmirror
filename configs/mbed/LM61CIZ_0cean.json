@@ -6,17 +6,7 @@
     "description": "温度センサのテスト",
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "BMI160",
-        "gyroscope",
-        "I2C",
-        "SPI",
-        "arduino",
-        "EasyCAT",
-        "etherCAT",
-        "ethernet",
-        "fieldbus",
-        "shield"
+        "LM61CIZ"
     ],
     "name": "LM61CIZ",
     "platforms": "*",

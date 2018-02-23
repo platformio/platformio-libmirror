@@ -6,10 +6,7 @@
     "description": "esb gcc program",
     "frameworks": "mbed",
     "keywords": [
-        "Nucleo",
-        "stm32",
-        "Wi-Fi",
-        "X-NUCLEO-IDW01M1"
+        "esb_gcc"
     ],
     "name": "esb_gcc",
     "platforms": "*",

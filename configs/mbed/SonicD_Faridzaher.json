@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/Faridzaher/code/Sonic/"
     ],
     "frameworks": "mbed",
-    "keywords": "SonicD",
+    "keywords": [
+        "SonicD"
+    ],
     "name": "SonicD",
     "platforms": "*",
     "repository": {

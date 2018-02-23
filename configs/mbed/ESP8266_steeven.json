@@ -9,19 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "api",
-        "mode",
-        "xbee",
-        "zigbee",
         "ESP-01",
-        "ESP8266",
-        "email",
-        "SMTP",
-        "finder",
-        "range",
-        "ultrasound",
-        "adc",
-        "SPI"
+        "ESP8266"
     ],
     "name": "ESP8266",
     "platforms": "*",

@@ -9,14 +9,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "FRDM-K22F",
-        "fxos8700cq",
-        "nRF2401A",
-        "ALS",
-        "ambient light sensor",
-        "I2C",
-        "ISL29125",
-        "rgb"
+        "SDFileSystem2"
     ],
     "name": "SDFileSystem2",
     "platforms": "*",

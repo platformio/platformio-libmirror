@@ -8,7 +8,9 @@
         "https://os.mbed.com/users/bclaus/code/teensyIMU/"
     ],
     "frameworks": "mbed",
-    "keywords": "LIS3MDL",
+    "keywords": [
+        "LIS3MDL"
+    ],
     "name": "LIS3MDL",
     "platforms": "*",
     "repository": {

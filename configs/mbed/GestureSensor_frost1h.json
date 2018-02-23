@@ -6,10 +6,7 @@
     "description": "Parallax Gesture Sensor",
     "frameworks": "mbed",
     "keywords": [
-        "EM",
-        "nxp",
-        "RFID",
-        "UHF"
+        "GestureSensor"
     ],
     "name": "GestureSensor",
     "platforms": "*",

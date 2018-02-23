@@ -8,23 +8,19 @@
             "authors": [
                 "Stefan Nielsen"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "DHT22"
         }
     ],
     "description": "DHT_TEST2",
     "frameworks": "mbed",
     "keywords": [
-        "NDEF",
-        "NFC",
-        "Type4",
-        "JSON",
-        "MessagePack"
+        "DHT_TEST2"
     ],
     "name": "DHT_TEST2",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/mohamedgamal/code/DHT_TEST2/"
+        "url": "https://os.mbed.com/users/mohamedgamal/code/DHT_TEST2/"
     }
 }

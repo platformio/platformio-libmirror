@@ -5,7 +5,9 @@
     },
     "description": "74595 Library",
     "frameworks": "mbed",
-    "keywords": "ShiftRegister",
+    "keywords": [
+        "ShiftRegister"
+    ],
     "name": "ShiftRegister",
     "platforms": "*",
     "repository": {

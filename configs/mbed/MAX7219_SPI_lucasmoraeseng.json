@@ -6,12 +6,7 @@
     "description": "Library to use MAX7219 by SPI",
     "frameworks": "mbed",
     "keywords": [
-        "ethernet",
-        "socket",
-        "W5500",
-        "arduino",
-        "Gameduino",
-        "mbeduino"
+        "MAX7219_SPI"
     ],
     "name": "MAX7219_SPI",
     "platforms": "*",

@@ -6,15 +6,7 @@
     "description": "Websocket client. You can only use this class with a Wifly module. If you want to use websockets over ethernet, take a look at the Websocket class.",
     "frameworks": "mbed",
     "keywords": [
-        "display",
-        "I2C",
-        "led",
-        "MPU9150",
-        "Quaternion",
-        "vector",
-        "RF12",
-        "rfm12",
-        "RFM12B"
+        "Websocket_Wifly"
     ],
     "name": "Websocket_Wifly",
     "platforms": "*",

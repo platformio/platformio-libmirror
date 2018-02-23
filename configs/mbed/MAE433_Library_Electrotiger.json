@@ -8,7 +8,7 @@
             "authors": [
                 "mbed official "
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "mbed-dsp"
         }
     ],
@@ -18,11 +18,13 @@
         "https://os.mbed.com/users/Electrotiger/code/RobotBalancerv2/"
     ],
     "frameworks": "mbed",
-    "keywords": "MAE433_Library",
+    "keywords": [
+        "MAE433_Library"
+    ],
     "name": "MAE433_Library",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/Electrotiger/code/MAE433_Library/"
+        "url": "https://os.mbed.com/users/Electrotiger/code/MAE433_Library/"
     }
 }

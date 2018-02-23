@@ -3,22 +3,10 @@
         "name": "Carlos Gomez",
         "url": "https://os.mbed.com/users/Carlos_Gomez/"
     },
-    "description": "Librería LCD Nokia 1100,1108",
+    "description": "LibrerĂ­a LCD Nokia 1100,1108",
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "NeoPixel",
-        "rhb",
-        "slave",
-        "logger",
-        "syslog",
-        "syslogd",
-        "dynamixel",
-        "MX-12W",
-        "MX12",
-        "MX12W",
-        "robotis",
-        "Servo"
+        "lcd1100"
     ],
     "name": "lcd1100",
     "platforms": "*",

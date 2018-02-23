@@ -3,14 +3,10 @@
         "name": "Nicholas Gan",
         "url": "https://os.mbed.com/users/ng3600/"
     },
-    "description": "Created LineScan library to interface with line scanner. Verified that it was able to store values form camera.",
+    "description": "Created LineScan library to interface with line scanner. Verified that it was able to store values form camera. Needs a means to detect the line (rising/falling edge detection) and actuate ...",
     "frameworks": "mbed",
     "keywords": [
-        "dynamixel",
-        "IOT",
-        "rfduino",
-        "AX-12",
-        "ax12"
+        "LineScan"
     ],
     "name": "LineScan",
     "platforms": "*",

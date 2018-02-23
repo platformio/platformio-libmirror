@@ -18,22 +18,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "KL25z",
-        "LPC800-MAX",
-        "LPC812",
-        "powerdown",
-        "Sleep",
-        "wake-up",
-        "InterruptIn",
-        "PwmIn",
-        "NeoPixel",
-        "NeoPixels",
-        "WS2811",
-        "WS2812",
-        "WS2812B",
-        "DHT11",
-        "Humidity",
-        "Temperature"
+        "TMP102"
     ],
     "name": "TMP102",
     "platforms": "*",
