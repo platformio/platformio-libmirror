@@ -5,17 +5,13 @@
     },
     "dependencies": [
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "ds3231"
         },
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "max14661"
         }
     ],
@@ -26,9 +22,7 @@
         "https://os.mbed.com/users/gsteiert/code/ALS_Proximity_Demo/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "ard2pmod"
-    ],
+    "keywords": "ard2pmod",
     "name": "ard2pmod",
     "platforms": "*",
     "repository": {

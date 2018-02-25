@@ -8,9 +8,7 @@
         "https://os.mbed.com/users/SomeRandomBloke/code/IoTGateway_Basic/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "MQTT"
-    ],
+    "keywords": "MQTT",
     "name": "MQTTClient",
     "platforms": "*",
     "repository": {

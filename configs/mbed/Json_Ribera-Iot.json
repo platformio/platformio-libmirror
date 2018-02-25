@@ -5,9 +5,7 @@
     },
     "description": "Contains json parsing code which can parse members as well as sub members.",
     "frameworks": "mbed",
-    "keywords": [
-        "Json"
-    ],
+    "keywords": "Json",
     "name": "Json",
     "platforms": "*",
     "repository": {

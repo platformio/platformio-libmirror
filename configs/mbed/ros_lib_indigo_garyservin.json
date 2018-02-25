@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Sam Grove"
-            ],
-            "framework": "mbed",
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
             "name": "BufferedSerial"
         }
     ],
@@ -26,9 +24,7 @@
         "https://os.mbed.com/teams/Robotics-___/code/Lab5/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "ROS"
-    ],
+    "keywords": "ROS",
     "name": "ros_lib_indigo",
     "platforms": "*",
     "repository": {

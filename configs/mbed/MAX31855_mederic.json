@@ -5,9 +5,7 @@
     },
     "description": "MAX31855 Cold-Junction Compensated Thermocouple-to-Digital Converter",
     "frameworks": "mbed",
-    "keywords": [
-        "Thermocouple"
-    ],
+    "keywords": "Thermocouple",
     "name": "MAX31855",
     "platforms": "*",
     "repository": {

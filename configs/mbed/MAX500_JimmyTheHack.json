@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Jimmy Hack"
-            ],
-            "framework": "mbed",
+            "authors": "Jimmy Hack",
+            "frameworks": "mbed",
             "name": "DAC"
         }
     ],

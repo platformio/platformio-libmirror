@@ -5,18 +5,19 @@
     },
     "dependencies": [
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "FXOS8700Q"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
         }
     ],
     "description": "This program tests and verifies the funcitonality of the Accelerometer as a means of calculating incline angle.",
     "frameworks": "mbed",
-    "keywords": [
-        "FRDM_AS_"
-    ],
+    "keywords": "FRDM_AS_",
     "name": "FRDM_AS_",
     "platforms": "*",
     "repository": {

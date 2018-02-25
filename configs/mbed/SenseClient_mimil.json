@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "mimil owns"
-            ],
-            "framework": "mbed",
+            "authors": "mimil owns",
+            "frameworks": "mbed",
             "name": "NetServicesProxy"
         }
     ],

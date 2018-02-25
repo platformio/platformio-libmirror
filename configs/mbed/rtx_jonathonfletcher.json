@@ -5,9 +5,7 @@
     },
     "description": "in OS_TSK, rename run as tsk_run and new as tsk_new.",
     "frameworks": "mbed",
-    "keywords": [
-        "RTX"
-    ],
+    "keywords": "RTX",
     "name": "rtx",
     "platforms": "*",
     "repository": {

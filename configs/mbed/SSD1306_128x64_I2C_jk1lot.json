@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Wim Huiskamp"
-            ],
-            "framework": "mbed",
+            "authors": "Wim Huiskamp",
+            "frameworks": "mbed",
             "name": "SSD1308_128x64_I2C"
         }
     ],

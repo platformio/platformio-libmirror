@@ -5,9 +5,7 @@
     },
     "description": "Modified copy of Peter Dresche lib using fewer analogue pins for touch panel",
     "frameworks": "mbed",
-    "keywords": [
-        "Touch_tft"
-    ],
+    "keywords": "Touch_tft",
     "name": "Touch_tft",
     "platforms": "*",
     "repository": {

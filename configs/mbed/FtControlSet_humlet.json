@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Helmut SchmĂźcker"
-            ],
-            "framework": "mbed",
+            "authors": "Helmut Schmücker",
+            "frameworks": "mbed",
             "name": "NeedfulThings"
         }
     ],

@@ -5,9 +5,7 @@
     },
     "description": "LEDをtoggleします。TEST用",
     "frameworks": "mbed",
-    "keywords": [
-        "LED_TOGGLE"
-    ],
+    "keywords": "LED_TOGGLE",
     "name": "LED_TOGGLE",
     "platforms": "*",
     "repository": {

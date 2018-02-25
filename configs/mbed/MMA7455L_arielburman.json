@@ -3,12 +3,16 @@
         "name": "Ariel Burman",
         "url": "https://os.mbed.com/users/arielburman/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "Library for the MMA7455L acelerometer",
     "frameworks": "mbed",
-    "keywords": [
-        "HD44780",
-        "TextLCD"
-    ],
+    "keywords": "MMA7455L",
     "name": "MMA7455L",
     "platforms": "*",
     "repository": {

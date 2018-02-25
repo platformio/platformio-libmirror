@@ -1,13 +1,11 @@
 {
     "authors": {
-        "name": "Gustavo Gonzรกlez",
+        "name": "Gustavo González",
         "url": "https://os.mbed.com/users/gugani/"
     },
     "description": "SimpleModbusSlave allows you to communicate to any slave using the Modbus RTU protocol. The crc calculation is based on https://os.mbed.com/users/jpelletier/code/CRC/ The functions implemented are functions 3 and 16. read holding ...",
     "frameworks": "mbed",
-    "keywords": [
-        "Modbus"
-    ],
+    "keywords": "Modbus",
     "name": "SimpleModbusSlave",
     "platforms": "*",
     "repository": {

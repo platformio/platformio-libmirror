@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Anes Belkacem",
+        "url": "https://os.mbed.com/users/anes/"
+    },
+    "description": "PWM Steurung",
+    "frameworks": "mbed",
+    "keywords": "PWM Command",
+    "name": "PWM Command",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/anes/code/PWM-Command/"
+    }
+}

@@ -5,25 +5,24 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Simon Ford"
-            ],
-            "framework": "mbed",
+            "authors": "Simon Ford",
+            "frameworks": "mbed",
             "name": "TextLCD"
         },
         {
-            "authors": [
-                "HM Yoong"
-            ],
-            "framework": "mbed",
+            "authors": "HM Yoong",
+            "frameworks": "mbed",
             "name": "keypad"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
         }
     ],
     "description": "mBed + timer + keyboard + keypad",
     "frameworks": "mbed",
-    "keywords": [
-        "CIS541-HW3-Keypad"
-    ],
+    "keywords": "CIS541-HW3-Keypad",
     "name": "CIS541-HW3-Keypad",
     "platforms": "*",
     "repository": {

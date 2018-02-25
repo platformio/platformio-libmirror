@@ -5,9 +5,7 @@
     },
     "description": "Tufts Hybrid Racing Control Node",
     "frameworks": "mbed",
-    "keywords": [
-        "CAN"
-    ],
+    "keywords": "CAN",
     "name": "ControlNode",
     "platforms": "*",
     "repository": {

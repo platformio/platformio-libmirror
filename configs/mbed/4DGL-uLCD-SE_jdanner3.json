@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "mbed official "
-            ],
-            "framework": "mbed",
+            "authors": "mbed official",
+            "frameworks": "mbed",
             "name": "SDFileSystem"
         }
     ],
@@ -17,9 +15,7 @@
         "https://os.mbed.com/users/jdanner3/code/uLCD_screensaver/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "4DGL-uLCD-SE"
-    ],
+    "keywords": "4DGL-uLCD-SE",
     "name": "4DGL-uLCD-SE",
     "platforms": "*",
     "repository": {

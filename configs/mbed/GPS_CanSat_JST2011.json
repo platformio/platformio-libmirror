@@ -5,9 +5,7 @@
     },
     "description": "Serial RX interrupt driving GPS(NMEA) library",
     "frameworks": "mbed",
-    "keywords": [
-        "GPS_CanSat"
-    ],
+    "keywords": "GPS_CanSat",
     "name": "GPS_CanSat",
     "platforms": "*",
     "repository": {

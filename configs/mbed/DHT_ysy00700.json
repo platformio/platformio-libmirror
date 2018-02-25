@@ -3,13 +3,20 @@
         "name": "Seo-young Yoon",
         "url": "https://os.mbed.com/users/ysy00700/"
     },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "DHT"
+        }
+    ],
     "description": "Tempurature & Humanity Sensor_Library",
     "examples": [
         "https://os.mbed.com/users/ysy00700/code/mbed_Wiznet_W7500/",
         "https://os.mbed.com/users/M_J/code/mbed_Wiznet_W7500/"
     ],
     "frameworks": "mbed",
-    "keywords": "HMC5883L",
+    "keywords": "DHT",
     "name": "DHT",
     "platforms": "*",
     "repository": {

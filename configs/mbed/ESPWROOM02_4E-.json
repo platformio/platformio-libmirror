@@ -5,9 +5,7 @@
     },
     "description": "モジュールとシリアル通信の設定（server,client）",
     "frameworks": "mbed",
-    "keywords": [
-        "wifiモジュール"
-    ],
+    "keywords": "wifiモジュール",
     "name": "ESPWROOM02",
     "platforms": "*",
     "repository": {

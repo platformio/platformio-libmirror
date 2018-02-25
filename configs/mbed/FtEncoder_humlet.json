@@ -1,14 +1,12 @@
 {
     "authors": {
-        "name": "Helmut SchmĂźcker",
+        "name": "Helmut Schmücker",
         "url": "https://os.mbed.com/users/humlet/"
     },
     "dependencies": [
         {
-            "authors": [
-                "Helmut SchmĂźcker"
-            ],
-            "framework": "mbed",
+            "authors": "Helmut Schmücker",
+            "frameworks": "mbed",
             "name": "NeedfulThings"
         }
     ],

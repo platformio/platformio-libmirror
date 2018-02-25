@@ -5,9 +5,7 @@
     },
     "description": "pick up wakaama files from https://github.com/eclipse/wakaama",
     "frameworks": "mbed",
-    "keywords": [
-        "wakaama"
-    ],
+    "keywords": "wakaama",
     "name": "wakaama",
     "platforms": "*",
     "repository": {

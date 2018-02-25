@@ -5,18 +5,19 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "jim hamblen"
-            ],
-            "framework": "mbed",
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "jim hamblen",
+            "frameworks": "mbed",
             "name": "LSM9DS1_Library_cal"
         }
     ],
     "description": "This is lab2 of 4180 dealing with the extra parts kit.",
     "frameworks": "mbed",
-    "keywords": [
-        "Lab2_EverythingIO"
-    ],
+    "keywords": "Lab2_EverythingIO",
     "name": "Lab2_EverythingIO",
     "platforms": "*",
     "repository": {

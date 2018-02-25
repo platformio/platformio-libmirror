@@ -4,10 +4,11 @@
         "url": "https://os.mbed.com/users/etherealflaim/"
     },
     "description": "Alphanumeric display for iHvZ",
-    "frameworks": "mbed",
-    "keywords": [
-        "HvZ"
+    "examples": [
+        "https://os.mbed.com/users/etherealflaim/code/HvZ/"
     ],
+    "frameworks": "mbed",
+    "keywords": "HvZ",
     "name": "HvZAlphaNumLib",
     "platforms": "*",
     "repository": {

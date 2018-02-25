@@ -3,18 +3,16 @@
         "name": "Shane Vallely",
         "url": "https://os.mbed.com/users/shanev/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "z",
     "frameworks": "mbed",
-    "keywords": [
-        "1D",
-        "2D",
-        "array",
-        "matrix",
-        "accelerometer",
-        "mma7361",
-        "kl46z",
-        "MAG3110"
-    ],
+    "keywords": "mbed_blinkylib",
     "name": "mbed_blinkylib",
     "platforms": "*",
     "repository": {

@@ -5,9 +5,7 @@
     },
     "description": "Hardware IO control: mirrors, lock in",
     "frameworks": "mbed",
-    "keywords": [
-        "hardwareIO"
-    ],
+    "keywords": "hardwareIO",
     "name": "hardwareIO",
     "platforms": "*",
     "repository": {

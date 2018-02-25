@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Guillaume Fricker"
-            ],
-            "framework": "mbed",
+            "authors": "Guillaume Fricker",
+            "frameworks": "mbed",
             "name": "BusEnums"
         }
     ],
@@ -17,9 +15,7 @@
         "https://os.mbed.com/users/GuiTwo/code/Menu/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "KS0108_PCF8574"
-    ],
+    "keywords": "KS0108_PCF8574",
     "name": "KS0108_PCF8574",
     "platforms": "*",
     "repository": {

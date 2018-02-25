@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Akinori Hashimoto"
-            ],
-            "framework": "mbed",
+            "authors": "Akinori Hashimoto",
+            "frameworks": "mbed",
             "name": "RingBuffer"
         }
     ],

@@ -5,18 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Jackson Lv"
-            ],
-            "framework": "mbed",
+            "authors": "Jackson Lv",
+            "frameworks": "mbed",
             "name": "utility"
         }
     ],
     "description": "SD",
     "frameworks": "mbed",
-    "keywords": [
-        "SD"
-    ],
+    "keywords": "SD",
     "name": "SD",
     "platforms": "*",
     "repository": {

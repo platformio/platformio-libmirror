@@ -5,9 +5,7 @@
     },
     "description": "Library for using Microchip's family of analog-to-digital converters MCP3422/3/4.",
     "frameworks": "mbed",
-    "keywords": [
-        "adc"
-    ],
+    "keywords": "adc",
     "name": "MCP342x",
     "platforms": "*",
     "repository": {

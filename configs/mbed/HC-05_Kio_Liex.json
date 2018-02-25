@@ -5,9 +5,7 @@
     },
     "description": "BlueTooth HC-05 module running on a ST-Nucleo-F303K8",
     "frameworks": "mbed",
-    "keywords": [
-        "HC05"
-    ],
+    "keywords": "HC05",
     "name": "HC-05",
     "platforms": "*",
     "repository": {

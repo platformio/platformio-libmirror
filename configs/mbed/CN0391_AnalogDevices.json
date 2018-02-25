@@ -5,17 +5,13 @@
     },
     "dependencies": [
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "AD7124"
         },
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "Thermocouple"
         }
     ],

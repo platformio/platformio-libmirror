@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Edutech IoT Team",
+        "url": "https://os.mbed.com/teams/Edutech/"
+    },
+    "description": "MPU9250",
+    "examples": [
+        "https://os.mbed.com/users/vladb/code/pdiot-ble-notify-array/",
+        "https://os.mbed.com/users/EdsonAlcala/code/StepTracking/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MPU9250",
+    "name": "MPU9250",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Edutech/code/MPU9250/"
+    }
+}

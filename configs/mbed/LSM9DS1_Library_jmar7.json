@@ -5,11 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Andy Kirkham"
-            ],
-            "framework": "mbed",
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
             "name": "PinDetect"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
         }
     ],
     "description": "IMU LSM9DS1 Library",
@@ -18,9 +21,7 @@
         "https://os.mbed.com/users/CRaslawski/code/4180Lab2Part1/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "LSM9DS1_Library"
-    ],
+    "keywords": "LSM9DS1_Library",
     "name": "LSM9DS1_Library",
     "platforms": "*",
     "repository": {

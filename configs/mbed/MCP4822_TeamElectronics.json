@@ -5,9 +5,7 @@
     },
     "description": "12-Bit DAC with internal Vref and SPI interface",
     "frameworks": "mbed",
-    "keywords": [
-        "MCP4822"
-    ],
+    "keywords": "MCP4822",
     "name": "MCP4822",
     "platforms": "*",
     "repository": {

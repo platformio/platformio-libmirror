@@ -3,6 +3,13 @@
         "name": "Steve Spence",
         "url": "https://os.mbed.com/users/jsteve/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "Simple cpp wrapper of a ds18b20, onewire 'c' library. Supports multiple sensors.",
     "examples": [
         "https://os.mbed.com/users/umairaftab/code/DS18B20Sensor/"

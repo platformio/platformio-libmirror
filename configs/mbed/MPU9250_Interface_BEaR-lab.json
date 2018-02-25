@@ -8,9 +8,7 @@
         "https://os.mbed.com/teams/BEaR-lab/code/AHRS_fillter/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "MPU9250"
-    ],
+    "keywords": "MPU9250",
     "name": "MPU9250_Interface",
     "platforms": "*",
     "repository": {

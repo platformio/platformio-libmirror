@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "Franรงois Berder",
+        "name": "François Berder",
         "url": "https://os.mbed.com/users/feb11/"
     },
     "description": "Random number generator",
@@ -8,9 +8,7 @@
         "https://os.mbed.com/users/mikewebkist/code/mBuinoBlinky/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Random"
-    ],
+    "keywords": "Random",
     "name": "RNG",
     "platforms": "*",
     "repository": {

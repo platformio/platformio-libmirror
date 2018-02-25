@@ -4,10 +4,11 @@
         "url": "https://os.mbed.com/users/rominos2/"
     },
     "description": "A light Command Dispatcher Library with commands linked to your functions.",
-    "frameworks": "mbed",
-    "keywords": [
-        "command"
+    "examples": [
+        "https://os.mbed.com/users/danjulio/code/Rocket/"
     ],
+    "frameworks": "mbed",
+    "keywords": "command",
     "name": "CommandDispatcher",
     "platforms": "*",
     "repository": {

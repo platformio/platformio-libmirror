@@ -5,9 +5,7 @@
     },
     "description": "counts digital frequency based on interrupt and timer, triggers on rising edge",
     "frameworks": "mbed",
-    "keywords": [
-        "FrequencyCounter"
-    ],
+    "keywords": "FrequencyCounter",
     "name": "FrequencyCounter",
     "platforms": "*",
     "repository": {

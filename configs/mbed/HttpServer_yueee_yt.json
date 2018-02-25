@@ -11,9 +11,7 @@
         "https://os.mbed.com/teams/smdiotkit2ch/code/RPCHTTPServer/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "HTTPServer"
-    ],
+    "keywords": "HTTPServer",
     "name": "HttpServer",
     "platforms": "*",
     "repository": {

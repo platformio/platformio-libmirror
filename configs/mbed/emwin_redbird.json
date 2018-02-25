@@ -4,10 +4,11 @@
         "url": "https://os.mbed.com/users/redbird/"
     },
     "description": "Headers for emWin lib",
-    "frameworks": "mbed",
-    "keywords": [
-        "emwin"
+    "examples": [
+        "https://os.mbed.com/users/TuxLeon/code/DISCO-F746NG_rtos_test/"
     ],
+    "frameworks": "mbed",
+    "keywords": "emwin",
     "name": "emwin",
     "platforms": "*",
     "repository": {

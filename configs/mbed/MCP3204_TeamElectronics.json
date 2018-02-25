@@ -3,11 +3,9 @@
         "name": "TeamElectronics",
         "url": "https://os.mbed.com/teams/TeamElectronics/"
     },
-    "description": "2.7V 4-Channel 12-Bit A/D Converters with SPIâ˘ Serial Interface",
+    "description": "2.7V 4-Channel 12-Bit A/D Converters with SPI™ Serial Interface",
     "frameworks": "mbed",
-    "keywords": [
-        "MCP3204"
-    ],
+    "keywords": "MCP3204",
     "name": "MCP3204",
     "platforms": "*",
     "repository": {

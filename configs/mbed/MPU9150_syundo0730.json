@@ -5,17 +5,13 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Shundo Kishi"
-            ],
-            "framework": "mbed",
+            "authors": "Shundo Kishi",
+            "frameworks": "mbed",
             "name": "ArduinoSerial"
         },
         {
-            "authors": [
-                "Shundo Kishi"
-            ],
-            "framework": "mbed",
+            "authors": "Shundo Kishi",
+            "frameworks": "mbed",
             "name": "I2Cdev"
         }
     ],
@@ -24,9 +20,7 @@
         "https://os.mbed.com/users/syundo0730/code/MPU9150_Example/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "MPU9150"
-    ],
+    "keywords": "MPU9150",
     "name": "MPU9150",
     "platforms": "*",
     "repository": {

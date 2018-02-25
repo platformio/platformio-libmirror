@@ -5,9 +5,7 @@
     },
     "description": "_Very_ simple wrapper to a WiFly module connected via serial port.",
     "frameworks": "mbed",
-    "keywords": [
-        "WiFly"
-    ],
+    "keywords": "WiFly",
     "name": "wifly",
     "platforms": "*",
     "repository": {

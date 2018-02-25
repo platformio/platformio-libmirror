@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "lasCuadra",
+        "url": "https://os.mbed.com/teams/lasCuadra/"
+    },
+    "description": "Starting from the example for the HeartRate, the code for the reading of humidity and temperature is written.",
+    "frameworks": "mbed",
+    "keywords": "BLE_TempHumi_GATT",
+    "name": "BLE_TempHumi_GATT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/lasCuadra/code/BLE_TempHumi_GATT/"
+    }
+}

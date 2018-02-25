@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Donatien Garnier"
-            ],
+            "authors": "Donatien Garnier",
             "frameworks": "mbed",
             "name": "NetworkingCoreLib"
         }
@@ -17,31 +15,11 @@
         "https://os.mbed.com/users/donatien/code/EthernetHTTPClientTest/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "I2C",
-        "LCD",
-        "Adafruit",
-        "ILI9340",
-        "stm32",
-        "driver",
-        "ethernet",
-        "PicoTCP",
-        "128x64",
-        "OLED",
-        "SSD1306",
-        "event",
-        "event-driven",
-        "fully-preemptive",
-        "multithread",
-        "rtos",
-        "run-to-completion",
-        "schedulling",
-        "single-stack"
-    ],
+    "keywords": "EthernetNetworkLib",
     "name": "EthernetNetworkLib",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/donatien/code/EthernetNetworkLib/"
+        "url": "https://os.mbed.com/users/donatien/code/EthernetNetworkLib/"
     }
 }

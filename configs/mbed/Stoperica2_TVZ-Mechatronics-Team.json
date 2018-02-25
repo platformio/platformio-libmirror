@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Kevin Anderson"
-            ],
-            "framework": "mbed",
+            "authors": "Kevin Anderson",
+            "frameworks": "mbed",
             "name": "C12832"
         }
     ],
@@ -17,9 +15,7 @@
         "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/PURS_ZI_002/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Stoperica2"
-    ],
+    "keywords": "Stoperica2",
     "name": "Stoperica2",
     "platforms": "*",
     "repository": {

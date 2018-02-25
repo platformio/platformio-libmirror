@@ -3,11 +3,16 @@
         "name": "Isato Masayuki",
         "url": "https://os.mbed.com/users/massive135/"
     },
-    "description": "PWMĺśĺžĄ",
-    "frameworks": "mbed",
-    "keywords": [
-        "PWM-motor2014"
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
     ],
+    "description": "PWM制御",
+    "frameworks": "mbed",
+    "keywords": "PWM-motor2014",
     "name": "PWM-motor2014",
     "platforms": "*",
     "repository": {

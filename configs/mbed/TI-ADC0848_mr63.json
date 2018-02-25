@@ -5,9 +5,7 @@
     },
     "description": "Simple library to use the TI ADC0848 with the MBED Ports Library. This Library can be used either in polling or interrupt modes.",
     "frameworks": "mbed",
-    "keywords": [
-        "TI-ADC0848"
-    ],
+    "keywords": "TI-ADC0848",
     "name": "TI-ADC0848",
     "platforms": "*",
     "repository": {

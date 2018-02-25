@@ -5,9 +5,7 @@
     },
     "description": "SerialFlow allows to send and receive packaged arrays of integer values via serial port.",
     "frameworks": "mbed",
-    "keywords": [
-        "Serial"
-    ],
+    "keywords": "Serial",
     "name": "SerialFlow",
     "platforms": "*",
     "repository": {

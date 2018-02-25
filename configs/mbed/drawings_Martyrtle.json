@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Marty Laverick"
-            ],
-            "framework": "mbed",
+            "authors": "Marty Laverick",
+            "frameworks": "mbed",
             "name": "N5110_fordrawings"
         }
     ],
@@ -18,9 +16,7 @@
         "https://os.mbed.com/teams/ELEC2645-201516/code/el14m2l_Dungeon_Crawler_Game/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "drawings"
-    ],
+    "keywords": "drawings",
     "name": "drawings",
     "platforms": "*",
     "repository": {

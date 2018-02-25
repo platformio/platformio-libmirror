@@ -5,9 +5,7 @@
     },
     "description": "The port of Art-Net protocol parser natcl/Artnet to openFrameworks and mbed. https://github.com/hideakitai/ofxArtnetProtocol",
     "frameworks": "mbed",
-    "keywords": [
-        "Artnet"
-    ],
+    "keywords": "Artnet",
     "name": "Artnet",
     "platforms": "*",
     "repository": {

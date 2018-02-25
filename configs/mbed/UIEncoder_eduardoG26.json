@@ -5,9 +5,7 @@
     },
     "description": "Library for manual Encoders as used in user interfaces. Very simple, reduced and rock solid encoder library. Counts full pulses only. Inherent debouncing through state machine. Running on a regular ...",
     "frameworks": "mbed",
-    "keywords": [
-        "UIEncoder"
-    ],
+    "keywords": "UIEncoder",
     "name": "UIEncoder",
     "platforms": "*",
     "repository": {

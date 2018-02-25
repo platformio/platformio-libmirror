@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Line Health",
+        "url": "https://os.mbed.com/teams/Line-Health/"
+    },
+    "description": "laser library",
+    "frameworks": "mbed",
+    "keywords": "VL6180",
+    "name": "VL6180",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Line-Health/code/VL6180/"
+    }
+}

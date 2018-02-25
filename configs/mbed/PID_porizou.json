@@ -5,9 +5,7 @@
     },
     "description": "mbedのPIDライブラリを改良したものです 主な変更 ・PIDゲインを独立に調整可能 ・実行中に入力値と出力値の範囲を変更する機能の削除 ・微分制御に不完全微分を追加 ・PIDゲインを設定する機能を追加 ・各種ゲッターを削除",
     "frameworks": "mbed",
-    "keywords": [
-        "PID"
-    ],
+    "keywords": "PID",
     "name": "PID",
     "platforms": "*",
     "repository": {

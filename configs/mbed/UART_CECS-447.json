@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "CECS 447",
+        "url": "https://os.mbed.com/teams/CECS-447/"
+    },
+    "description": "Project 2",
+    "frameworks": "mbed",
+    "keywords": "UART",
+    "name": "UART",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/CECS-447/code/UART/"
+    }
+}

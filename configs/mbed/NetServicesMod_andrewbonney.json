@@ -5,9 +5,7 @@
     },
     "description": "Modified version of NetServices. Fixes an issue where connections failed should the HTTP response status line be received in a packet on its own prior to any further headers. Changes ...",
     "frameworks": "mbed",
-    "keywords": [
-        "NetServicesMod"
-    ],
+    "keywords": "NetServicesMod",
     "name": "NetServicesMod",
     "platforms": "*",
     "repository": {

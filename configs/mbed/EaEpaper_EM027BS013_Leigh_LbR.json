@@ -5,18 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "EmbeddedArtists AB"
-            ],
-            "framework": "mbed",
+            "authors": "EmbeddedArtists AB",
+            "frameworks": "mbed",
             "name": "EM027BS013"
         }
     ],
     "description": "Driver to control the EM027BS013 board from Embedded Artists",
     "frameworks": "mbed",
-    "keywords": [
-        "EaEpaper_EM027BS013"
-    ],
+    "keywords": "EaEpaper_EM027BS013",
     "name": "EaEpaper_EM027BS013",
     "platforms": "*",
     "repository": {

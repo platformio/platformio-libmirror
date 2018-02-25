@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "InetrfaceProducts NXP"
-            ],
-            "framework": "mbed",
+            "authors": "InetrfaceProducts NXP",
+            "frameworks": "mbed",
             "name": "CompLedDvrCC"
         }
     ],

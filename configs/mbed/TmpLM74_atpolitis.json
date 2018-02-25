@@ -5,9 +5,7 @@
     },
     "description": "LM74 temperature sensor Library on SPI I/F",
     "frameworks": "mbed",
-    "keywords": [
-        "TmpLM74"
-    ],
+    "keywords": "TmpLM74",
     "name": "TmpLM74",
     "platforms": "*",
     "repository": {

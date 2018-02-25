@@ -5,9 +5,7 @@
     },
     "description": "TMP102 is I2C based Temperature Sensor",
     "frameworks": "mbed",
-    "keywords": [
-        "TMP102"
-    ],
+    "keywords": "TMP102",
     "name": "TMP102",
     "platforms": "*",
     "repository": {

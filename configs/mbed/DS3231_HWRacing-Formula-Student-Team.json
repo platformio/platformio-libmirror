@@ -5,9 +5,7 @@
     },
     "description": "RTC Driver",
     "frameworks": "mbed",
-    "keywords": [
-        "RTC"
-    ],
+    "keywords": "RTC",
     "name": "DS3231",
     "platforms": "*",
     "repository": {

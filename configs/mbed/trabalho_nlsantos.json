@@ -5,19 +5,25 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Ant Robinson"
-            ],
-            "framework": "mbed",
+            "authors": "Ant Robinson",
+            "frameworks": "mbed",
             "name": "X_NUCLEO_IKS01A1-f255a2c75ecb"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
         }
     ],
     "description": "trabalho final",
     "frameworks": "mbed",
-    "keywords": [
-        "trabalho "
-    ],
-    "name": "trabalho ",
+    "keywords": "trabalho",
+    "name": "trabalho",
     "platforms": "*",
     "repository": {
         "type": "hg",

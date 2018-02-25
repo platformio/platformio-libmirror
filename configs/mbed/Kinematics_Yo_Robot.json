@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Ernesto Palacios"
-            ],
+            "authors": "Ernesto Palacios",
             "frameworks": "mbed",
             "name": "TrackVector2D"
         }
@@ -18,12 +16,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MCP3201",
-        "MCP3204",
-        "MCP3208",
-        "SPI",
-        "hotboards",
-        "keyboard",
         "Kinematics",
         "lauther",
         "math",
@@ -35,6 +27,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/Yo_Robot/code/Kinematics/"
+        "url": "https://os.mbed.com/users/Yo_Robot/code/Kinematics/"
     }
 }

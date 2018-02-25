@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Shinichiro Nakamura"
-            ],
-            "framework": "mbed",
+            "authors": "Shinichiro Nakamura",
+            "frameworks": "mbed",
             "name": "ConfigFile"
         }
     ],
@@ -17,9 +15,7 @@
         "https://os.mbed.com/users/13075593/code/Ethernet/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "ConfigurationFile"
-    ],
+    "keywords": "ConfigurationFile",
     "name": "ConfigurationFile",
     "platforms": "*",
     "repository": {

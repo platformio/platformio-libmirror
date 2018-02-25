@@ -5,25 +5,24 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Nikolas Goldin"
-            ],
-            "framework": "mbed",
+            "authors": "Nikolas Goldin",
+            "frameworks": "mbed",
             "name": "btbee"
         },
         {
-            "authors": [
-                "Thomas Glatzel"
-            ],
-            "framework": "mbed",
+            "authors": "Thomas Glatzel",
+            "frameworks": "mbed",
             "name": "m3pi_ng"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
         }
     ],
     "description": "A code with functions for turning right and left.",
     "frameworks": "mbed",
-    "keywords": [
-        "Turning"
-    ],
+    "keywords": "Turning",
     "name": "Turning",
     "platforms": "*",
     "repository": {

@@ -5,17 +5,13 @@
     },
     "dependencies": [
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "ST_INTERFACES"
         },
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "X_NUCLEO_COMMON"
         }
     ],
@@ -30,9 +26,7 @@
         "https://os.mbed.com/users/jaafaryn/code/DISCO-IOT01_HomeEnv/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "LPS22HB"
-    ],
+    "keywords": "LPS22HB",
     "name": "LPS22HB",
     "platforms": "*",
     "repository": {

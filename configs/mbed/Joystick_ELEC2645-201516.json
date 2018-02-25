@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "ELEC2645 (201516)",
+        "name": "ELEC2645 (2015/16)",
         "url": "https://os.mbed.com/teams/ELEC2645-201516/"
     },
     "description": "Gets potentiometer and button reading from a joystick (https://proto-pic.co.uk/thumb-joystick-analogue/)",
@@ -8,9 +8,7 @@
         "https://os.mbed.com/teams/ELEC2645-201516/code/L2_SpaceInvaders/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "elec2645"
-    ],
+    "keywords": "elec2645",
     "name": "Joystick",
     "platforms": "*",
     "repository": {

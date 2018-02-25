@@ -5,25 +5,24 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "mbed official "
-            ],
-            "framework": "mbed",
+            "authors": "mbed official",
+            "frameworks": "mbed",
             "name": "USBDevice"
         },
         {
-            "authors": [
-                "Nathan Hopkins"
-            ],
-            "framework": "mbed",
+            "authors": "Nathan Hopkins",
+            "frameworks": "mbed",
             "name": "USBJoystick"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
         }
     ],
     "description": "Testing 6DOF USB HID joystick device.",
     "frameworks": "mbed",
-    "keywords": [
-        "USBJoystick_Test"
-    ],
+    "keywords": "USBJoystick_Test",
     "name": "USBJoystick_Test",
     "platforms": "*",
     "repository": {

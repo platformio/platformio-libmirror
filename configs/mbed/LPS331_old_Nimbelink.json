@@ -5,9 +5,7 @@
     },
     "description": "Fork of original LPS331 library Changed the I2C address to 0xBA",
     "frameworks": "mbed",
-    "keywords": [
-        "LPS331_old"
-    ],
+    "keywords": "LPS331_old",
     "name": "LPS331_old",
     "platforms": "*",
     "repository": {

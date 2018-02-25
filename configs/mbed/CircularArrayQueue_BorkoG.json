@@ -5,9 +5,7 @@
     },
     "description": "A simple circular array queue with the following methods: -size() -isEmpty() -front() -enqueue() -dequeue()",
     "frameworks": "mbed",
-    "keywords": [
-        "EDP2"
-    ],
+    "keywords": "EDP2",
     "name": "CircularArrayQueue",
     "platforms": "*",
     "repository": {

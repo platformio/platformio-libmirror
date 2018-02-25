@@ -3,6 +3,18 @@
         "name": "mbed official",
         "url": "https://os.mbed.com/users/mbed_official/"
     },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        }
+    ],
     "description": "USBHost library. NOTE: This library is only officially supported on the LPC1768 platform. For more information, please see the handbook page.",
     "examples": [
         "https://os.mbed.com/users/va009039/code/BTstack/",

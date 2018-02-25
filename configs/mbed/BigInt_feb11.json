@@ -5,9 +5,7 @@
     },
     "description": "This library provides a way to easily handle arbitrary large integers.",
     "frameworks": "mbed",
-    "keywords": [
-        "BigInt"
-    ],
+    "keywords": "BigInt",
     "name": "BigInt",
     "platforms": "*",
     "repository": {

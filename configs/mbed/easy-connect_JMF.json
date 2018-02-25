@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "WNC14A2AInterface"
         }
     ],
@@ -18,9 +16,7 @@
         "https://os.mbed.com/users/tdMBED/code/http-example-wnc-modified/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "easy-connect"
-    ],
+    "keywords": "easy-connect",
     "name": "easy-connect",
     "platforms": "*",
     "repository": {

@@ -5,18 +5,24 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Chris Styles"
-            ],
-            "framework": "mbed",
+            "authors": "Chris Styles",
+            "frameworks": "mbed",
             "name": "m3pi"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
         }
     ],
     "description": "Persistence of Vision (POV) made easy.",
     "frameworks": "mbed",
-    "keywords": [
-        "m3pi-pov"
-    ],
+    "keywords": "m3pi-pov",
     "name": "m3pi-pov",
     "platforms": "*",
     "repository": {

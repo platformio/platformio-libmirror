@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "tarou onsen",
+        "url": "https://os.mbed.com/users/gdc03177/"
+    },
+    "description": "#include \"mbed.h\" #include \"TextLCD.h\" #include \"SDFileSystem.h\" int main(){ TextLCD l(P0_25,P0_28,P0_29,P0_30,P0_0,P0_7); SDFileSystem s(P0_12,P0_13,P0_15,P0_14,\"sdhc\"); FILE *f; int r=-1; l.cls(); l.locate(0,0); l.printf(\".1 \"); if((f=fopen(\"/sdhc/s2.txt\",\"w\"))==NULL){ r=1; goto stop; } l.printf(\".2 \"); if(fprintf(f,\"%s %.3f %.3f\\r\\n\",\"1234\",1.23,0.4567)<0){ ...",
+    "frameworks": "mbed",
+    "keywords": "ＳＤカード記録",
+    "name": "ＳＤカード記録",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gdc03177/code/SD/"
+    }
+}

@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "Bo CarĂ¸e",
+        "name": "Bo Carøe",
         "url": "https://os.mbed.com/users/caroe/"
     },
     "description": "HMC5882 from BlazeX",
@@ -9,9 +9,7 @@
         "https://os.mbed.com/users/arturocontreras/code/Algoritmo_Fuzzy/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "HMC5883"
-    ],
+    "keywords": "HMC5883",
     "name": "HMC5883",
     "platforms": "*",
     "repository": {

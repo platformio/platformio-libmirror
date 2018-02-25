@@ -5,9 +5,7 @@
     },
     "description": "A Simple library to capture pictures from the uCam by 4D Systems",
     "frameworks": "mbed",
-    "keywords": [
-        "ucam"
-    ],
+    "keywords": "ucam",
     "name": "uCam",
     "platforms": "*",
     "repository": {

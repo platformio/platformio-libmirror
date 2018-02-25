@@ -5,18 +5,19 @@
     },
     "dependencies": [
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "LineSensors"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
         }
     ],
     "description": "Code to run the microcontrollers on the R5 competition bot",
     "frameworks": "mbed",
-    "keywords": [
-        "R5"
-    ],
+    "keywords": "R5",
     "name": "R5",
     "platforms": "*",
     "repository": {

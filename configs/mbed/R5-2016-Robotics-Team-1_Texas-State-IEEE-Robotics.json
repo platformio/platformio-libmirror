@@ -5,60 +5,49 @@
     },
     "dependencies": [
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
             "name": "navigation"
         },
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "R5_StepperDrive"
         },
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "LongRangeSensor"
         },
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "DistanceSensor"
         },
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "scanner"
         },
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "Gripper"
         },
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "ColorSensor"
         }
     ],
     "description": "Code to drive Team 1's robot for the 2016 R5 robotics competition.",
     "frameworks": "mbed",
-    "keywords": [
-        "R5 2016 Robotics Team 1"
-    ],
+    "keywords": "R5 2016 Robotics Team 1",
     "name": "R5 2016 Robotics Team 1",
     "platforms": "*",
     "repository": {

@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Martin Smith"
-            ],
-            "framework": "mbed",
+            "authors": "Martin Smith",
+            "frameworks": "mbed",
             "name": "Terminal"
         }
     ],

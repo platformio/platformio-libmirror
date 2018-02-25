@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "iccome iccome",
+        "url": "https://os.mbed.com/users/iccome/"
+    },
+    "description": "for nucleo stm32f 103 board test",
+    "frameworks": "mbed",
+    "keywords": "nucleo_stm32f103",
+    "name": "nucleo_stm32f103",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/iccome/code/nucleo_stm32f103/"
+    }
+}

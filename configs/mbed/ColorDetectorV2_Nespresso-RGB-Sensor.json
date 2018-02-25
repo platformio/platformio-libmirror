@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "GroveColourSensor"
         }
     ],
@@ -19,9 +17,7 @@
         "https://os.mbed.com/teams/Nespresso-RGB-Sensor/code/EnvoyNespressoEndpointColorDetectorV2/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "ColorDetectorV2"
-    ],
+    "keywords": "ColorDetectorV2",
     "name": "ColorDetectorV2",
     "platforms": "*",
     "repository": {

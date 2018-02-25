@@ -5,31 +5,23 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Federico Luis Pinna Gonzalez"
-            ],
-            "framework": "mbed",
+            "authors": "Federico Luis Pinna Gonzalez",
+            "frameworks": "mbed",
             "name": "CommonTables"
         },
         {
-            "authors": [
-                "Federico Luis Pinna Gonzalez"
-            ],
-            "framework": "mbed",
+            "authors": "Federico Luis Pinna Gonzalez",
+            "frameworks": "mbed",
             "name": "FastAtan2"
         },
         {
-            "authors": [
-                "Federico Luis Pinna Gonzalez"
-            ],
-            "framework": "mbed",
+            "authors": "Federico Luis Pinna Gonzalez",
+            "frameworks": "mbed",
             "name": "FastMathFunctions"
         },
         {
-            "authors": [
-                "Federico Luis Pinna Gonzalez"
-            ],
-            "framework": "mbed",
+            "authors": "Federico Luis Pinna Gonzalez",
+            "frameworks": "mbed",
             "name": "Magnetic"
         }
     ],

@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Junichi Katsu"
-            ],
-            "framework": "mbed",
+            "authors": "Junichi Katsu",
+            "frameworks": "mbed",
             "name": "MQTT"
         }
     ],

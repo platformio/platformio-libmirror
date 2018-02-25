@@ -5,9 +5,7 @@
     },
     "description": "Port of libqrencode for mbed",
     "frameworks": "mbed",
-    "keywords": [
-        "QR"
-    ],
+    "keywords": "QR",
     "name": "libqrencode",
     "platforms": "*",
     "repository": {

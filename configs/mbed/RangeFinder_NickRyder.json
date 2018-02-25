@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Nick Ryder"
-            ],
-            "framework": "mbed",
+            "authors": "Nick Ryder",
+            "frameworks": "mbed",
             "name": "Pulse"
         }
     ],

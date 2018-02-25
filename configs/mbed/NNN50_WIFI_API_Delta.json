@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Delta",
+        "url": "https://os.mbed.com/teams/Delta/"
+    },
+    "description": "NNN50 WIFI_API library",
+    "examples": [
+        "https://os.mbed.com/users/janshiue/code/NNN50_CE_Test_UDP/",
+        "https://os.mbed.com/users/janshiue/code/NNN50_linux_firmware/",
+        "https://os.mbed.com/teams/Delta/code/NNN50_SoftAP_HelloWorld/",
+        "https://os.mbed.com/users/tsungta/code/NNN50_BLEWIFISensor/",
+        "https://os.mbed.com/users/tsungta/code/mbed_SPIS_multiByte_example_SOG/",
+        "https://os.mbed.com/teams/Delta/code/NNN50_WiFi_HelloWorld/",
+        "https://os.mbed.com/teams/Delta/code/NNN50_SSL_SocketClient/",
+        "https://os.mbed.com/teams/Delta/code/NNN50_CLI/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "NNN50",
+        "wifi"
+    ],
+    "name": "NNN50_WIFI_API",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Delta/code/NNN50_WIFI_API/"
+    }
+}

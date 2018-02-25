@@ -5,9 +5,7 @@
     },
     "description": "Netservices modded to read fragmented HTTP respsonse/payload from special purpose server - 180 bytes only",
     "frameworks": "mbed",
-    "keywords": [
-        "NetServices"
-    ],
+    "keywords": "NetServices",
     "name": "NetServices",
     "platforms": "*",
     "repository": {

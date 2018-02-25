@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Sam Grove"
-            ],
-            "framework": "mbed",
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
             "name": "BufferedSerial"
         }
     ],
@@ -17,9 +15,7 @@
         "https://os.mbed.com/users/garyservin/code/rosserial_mbed_hello_world_publisher_jad/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "ROS"
-    ],
+    "keywords": "ROS",
     "name": "ros_lib_jade",
     "platforms": "*",
     "repository": {

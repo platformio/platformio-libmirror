@@ -5,31 +5,23 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Doug Anson"
-            ],
-            "framework": "mbed",
+            "authors": "Doug Anson",
+            "frameworks": "mbed",
             "name": "ID12RFID"
         },
         {
-            "authors": [
-                "Doug Anson"
-            ],
-            "framework": "mbed",
+            "authors": "Doug Anson",
+            "frameworks": "mbed",
             "name": "ReportDB"
         },
         {
-            "authors": [
-                "Doug Anson"
-            ],
-            "framework": "mbed",
+            "authors": "Doug Anson",
+            "frameworks": "mbed",
             "name": "SalesforceCaseGenerator"
         },
         {
-            "authors": [
-                "Doug Anson"
-            ],
-            "framework": "mbed",
+            "authors": "Doug Anson",
+            "frameworks": "mbed",
             "name": "SalesforceInterface"
         }
     ],
@@ -44,9 +36,7 @@
         "https://os.mbed.com/teams/MBED_DEMOS/code/mbed_mqtt_endpoint_nxp/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "StatusReporter"
-    ],
+    "keywords": "StatusReporter",
     "name": "StatusReporter",
     "platforms": "*",
     "repository": {

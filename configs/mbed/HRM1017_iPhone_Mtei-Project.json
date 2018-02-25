@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Mtei Project",
+        "url": "https://os.mbed.com/teams/Mtei-Project/"
+    },
+    "description": "Mtei",
+    "frameworks": "mbed",
+    "keywords": "HRM1017_iPhone",
+    "name": "HRM1017_iPhone",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Mtei-Project/code/HRM1017_iPhone/"
+    }
+}

@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Takuma Kawamura"
-            ],
-            "framework": "mbed",
+            "authors": "Takuma Kawamura",
+            "frameworks": "mbed",
             "name": "FIFO"
         }
     ],

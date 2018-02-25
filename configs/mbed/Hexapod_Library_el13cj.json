@@ -5,31 +5,23 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Calum Johnston"
-            ],
-            "framework": "mbed",
+            "authors": "Calum Johnston",
+            "frameworks": "mbed",
             "name": "Gait"
         },
         {
-            "authors": [
-                "Calum Johnston"
-            ],
-            "framework": "mbed",
+            "authors": "Calum Johnston",
+            "frameworks": "mbed",
             "name": "Hexapod_Leg"
         },
         {
-            "authors": [
-                "Calum Johnston"
-            ],
-            "framework": "mbed",
+            "authors": "Calum Johnston",
+            "frameworks": "mbed",
             "name": "PCA9685"
         },
         {
-            "authors": [
-                "Calum Johnston"
-            ],
-            "framework": "mbed",
+            "authors": "Calum Johnston",
+            "frameworks": "mbed",
             "name": "Tripod"
         }
     ],

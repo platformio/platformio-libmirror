@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "不韋 呂"
-            ],
-            "framework": "mbed",
+            "authors": "不韋 呂",
+            "frameworks": "mbed",
             "name": "SDFileSystem_Warning_Fixed"
         }
     ],

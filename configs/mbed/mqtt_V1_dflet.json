@@ -5,25 +5,19 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "David Fletcher"
-            ],
-            "framework": "mbed",
+            "authors": "David Fletcher",
+            "frameworks": "mbed",
             "name": "client"
         },
         {
-            "authors": [
-                "David Fletcher"
-            ],
-            "framework": "mbed",
+            "authors": "David Fletcher",
+            "frameworks": "mbed",
             "name": "server"
         }
     ],
     "description": "TI's mqtt.",
     "frameworks": "mbed",
-    "keywords": [
-        "mqtt_V1"
-    ],
+    "keywords": "mqtt_V1",
     "name": "mqtt_V1",
     "platforms": "*",
     "repository": {

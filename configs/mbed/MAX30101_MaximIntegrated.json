@@ -5,9 +5,7 @@
     },
     "description": "Library for MAX30101 SpO2 and heart rate sensor",
     "frameworks": "mbed",
-    "keywords": [
-        "MAX30101"
-    ],
+    "keywords": "MAX30101",
     "name": "MAX30101",
     "platforms": "*",
     "repository": {

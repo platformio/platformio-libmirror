@@ -5,18 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "wayne roberts"
-            ],
-            "framework": "mbed",
+            "authors": "wayne roberts",
+            "frameworks": "mbed",
             "name": "SX127x"
         }
     ],
     "description": "Simple transmit example for B-L072Z-LRWAN1 board, Murata TypeABZ",
     "frameworks": "mbed",
-    "keywords": [
-        "sx127x_simple_TX_MurataABZ"
-    ],
+    "keywords": "sx127x_simple_TX_MurataABZ",
     "name": "sx127x_simple_TX_MurataABZ",
     "platforms": "*",
     "repository": {

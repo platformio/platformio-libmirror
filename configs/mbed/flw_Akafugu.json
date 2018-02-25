@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "_24LCXXX"
         }
     ],
@@ -17,9 +15,7 @@
         "https://os.mbed.com/teams/Akafugu/code/vfd_modular_clock_mbed/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "flw"
-    ],
+    "keywords": "flw",
     "name": "flw",
     "platforms": "*",
     "repository": {

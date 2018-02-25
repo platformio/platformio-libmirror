@@ -5,9 +5,7 @@
     },
     "description": "A simple library for controlling an MCP4241 digital potentiometer",
     "frameworks": "mbed",
-    "keywords": [
-        "DigiPot"
-    ],
+    "keywords": "DigiPot",
     "name": "DigiPot",
     "platforms": "*",
     "repository": {

@@ -5,24 +5,18 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "taiyou komazawa"
-            ],
-            "framework": "mbed",
+            "authors": "taiyou komazawa",
+            "frameworks": "mbed",
             "name": "Gamma"
         },
         {
-            "authors": [
-                "taiyou komazawa"
-            ],
-            "framework": "mbed",
+            "authors": "taiyou komazawa",
+            "frameworks": "mbed",
             "name": "Beta"
         },
         {
-            "authors": [
-                "taiyou komazawa"
-            ],
-            "framework": "mbed",
+            "authors": "taiyou komazawa",
+            "frameworks": "mbed",
             "name": "Alpha"
         }
     ],
@@ -34,9 +28,7 @@
         "https://os.mbed.com/users/hirotayamato/code/GAMMA_A/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "DataPool"
-    ],
+    "keywords": "DataPool",
     "name": "DataPool",
     "platforms": "*",
     "repository": {

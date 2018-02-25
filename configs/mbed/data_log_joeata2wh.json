@@ -5,17 +5,13 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Hugo Perez"
-            ],
-            "framework": "mbed",
+            "authors": "Hugo Perez",
+            "frameworks": "mbed",
             "name": "W25Q80BV"
         },
         {
-            "authors": [
-                "Joseph Ellsworth"
-            ],
-            "framework": "mbed",
+            "authors": "Joseph Ellsworth",
+            "frameworks": "mbed",
             "name": "multi-serial-command-listener"
         }
     ],

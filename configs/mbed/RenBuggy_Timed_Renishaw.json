@@ -3,6 +3,13 @@
         "name": "Renishaw",
         "url": "https://os.mbed.com/teams/Renishaw/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "Library for use with the RenBuggy with 2 wheels that travels for an amount of time specified by the user.",
     "examples": [
         "https://os.mbed.com/teams/Renishaw/code/RenBuggy_Timed_Programme/",

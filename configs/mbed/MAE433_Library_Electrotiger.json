@@ -5,11 +5,19 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "mbed official "
-            ],
-            "framework": "mbed",
+            "authors": "mbed official",
+            "frameworks": "mbed",
             "name": "mbed-dsp"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
         }
     ],
     "description": "Drivers for the mini robot designed for Princeton's MAE 433 course.",
@@ -18,9 +26,7 @@
         "https://os.mbed.com/users/Electrotiger/code/RobotBalancerv2/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "MAE433_Library"
-    ],
+    "keywords": "MAE433_Library",
     "name": "MAE433_Library",
     "platforms": "*",
     "repository": {

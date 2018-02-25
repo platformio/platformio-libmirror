@@ -1,14 +1,12 @@
 {
     "authors": {
-        "name": "Karl ZweimĂźller",
+        "name": "Karl Zweimüller",
         "url": "https://os.mbed.com/users/charly/"
     },
     "dependencies": [
         {
-            "authors": [
-                "Andy Kirkham"
-            ],
-            "framework": "mbed",
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
             "name": "PinDetect"
         }
     ],

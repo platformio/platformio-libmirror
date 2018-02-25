@@ -5,9 +5,7 @@
     },
     "description": "Command line interface for UART.",
     "frameworks": "mbed",
-    "keywords": [
-        "MjLineSerial"
-    ],
+    "keywords": "MjLineSerial",
     "name": "MjLineSerial",
     "platforms": "*",
     "repository": {

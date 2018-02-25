@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "BLE HearRate example",
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "BLE Bluetooth Low Energy BLE",
+        "HearRate"
+    ],
+    "name": "mbed-os-example-ble-HeartRate",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/mbed-os-example-ble-HeartRate/"
+    }
+}

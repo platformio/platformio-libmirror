@@ -5,9 +5,7 @@
     },
     "description": "Simple ring buffer",
     "frameworks": "mbed",
-    "keywords": [
-        "RingBuffer"
-    ],
+    "keywords": "RingBuffer",
     "name": "RingBuffer",
     "platforms": "*",
     "repository": {

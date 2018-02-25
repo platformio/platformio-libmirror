@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Sam Grove"
-            ],
-            "framework": "mbed",
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
             "name": "BufferedSerial"
         }
     ],
@@ -25,9 +23,7 @@
         "https://os.mbed.com/users/TuxLeon/code/DISCO-F746NG_rtos_test/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "ROS"
-    ],
+    "keywords": "ROS",
     "name": "ros_lib_kinetic",
     "platforms": "*",
     "repository": {

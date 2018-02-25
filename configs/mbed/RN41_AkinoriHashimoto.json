@@ -5,24 +5,18 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Akinori Hashimoto"
-            ],
-            "framework": "mbed",
+            "authors": "Akinori Hashimoto",
+            "frameworks": "mbed",
             "name": "StrLib"
         },
         {
-            "authors": [
-                "Akinori Hashimoto"
-            ],
-            "framework": "mbed",
+            "authors": "Akinori Hashimoto",
+            "frameworks": "mbed",
             "name": "myTimer"
         },
         {
-            "authors": [
-                "Akinori Hashimoto"
-            ],
-            "framework": "mbed",
+            "authors": "Akinori Hashimoto",
+            "frameworks": "mbed",
             "name": "RingBuffer"
         }
     ],

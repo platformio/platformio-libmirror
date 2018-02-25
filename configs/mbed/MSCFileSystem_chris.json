@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "mbed unsupported"
-            ],
-            "framework": "mbed",
+            "authors": "mbed unsupported",
+            "frameworks": "mbed",
             "name": "FatFileSystem"
         }
     ],
@@ -26,9 +24,7 @@
         "https://os.mbed.com/users/darkghost/code/FileDownloader/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "MSCFileSystem"
-    ],
+    "keywords": "MSCFileSystem",
     "name": "MSCFileSystem",
     "platforms": "*",
     "repository": {

@@ -5,9 +5,7 @@
     },
     "description": "DigitalPotentiometer code for MCP4131.",
     "frameworks": "mbed",
-    "keywords": [
-        "SPI"
-    ],
+    "keywords": "SPI",
     "name": "DigitalPotentiometer",
     "platforms": "*",
     "repository": {

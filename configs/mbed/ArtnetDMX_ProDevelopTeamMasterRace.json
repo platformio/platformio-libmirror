@@ -5,25 +5,29 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Ayrton Leyssens"
-            ],
-            "framework": "mbed",
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Ayrton Leyssens",
+            "frameworks": "mbed",
             "name": "DMX"
         },
         {
-            "authors": [
-                "Simon Ford"
-            ],
-            "framework": "mbed",
+            "authors": "Simon Ford",
+            "frameworks": "mbed",
             "name": "TextLCD"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
         }
     ],
     "description": "Artnet to DMX",
     "frameworks": "mbed",
-    "keywords": [
-        "ArtnetDMX"
-    ],
+    "keywords": "ArtnetDMX",
     "name": "ArtnetDMX",
     "platforms": "*",
     "repository": {

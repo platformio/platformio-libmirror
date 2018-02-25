@@ -5,39 +5,39 @@
     },
     "dependencies": [
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "LWIPInterface"
         },
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "NetworkSocketAPI"
         },
         {
-            "authors": [
-                "Christopher Haster"
-            ],
-            "framework": "mbed",
+            "authors": "Christopher Haster",
+            "frameworks": "mbed",
             "name": "events"
         },
         {
-            "authors": [
-                "Christopher Haster"
-            ],
-            "framework": "mbed",
+            "authors": "Christopher Haster",
+            "frameworks": "mbed",
             "name": "funcptr"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
         }
     ],
     "description": "Simple HTTP example",
     "frameworks": "mbed",
-    "keywords": [
-        "SimpleHTTPExample"
-    ],
+    "keywords": "SimpleHTTPExample",
     "name": "SimpleHTTPExample",
     "platforms": "*",
     "repository": {

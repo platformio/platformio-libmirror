@@ -8,12 +8,7 @@
         "https://os.mbed.com/users/kim1212/code/SensorManager/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "control",
-        "PID",
-        "W5200",
-        "WIZ820IO"
-    ],
+    "keywords": "BMP280",
     "name": "BMP280",
     "platforms": "*",
     "repository": {

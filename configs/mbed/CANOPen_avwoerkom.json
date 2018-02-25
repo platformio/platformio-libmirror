@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Allard van Woerkom",
+        "url": "https://os.mbed.com/users/avwoerkom/"
+    },
+    "description": "CANOPEN voor IROM",
+    "frameworks": "mbed",
+    "keywords": "CANOPen",
+    "name": "CANOPen",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/avwoerkom/code/CANOPen/"
+    }
+}

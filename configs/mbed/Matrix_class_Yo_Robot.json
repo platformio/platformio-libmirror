@@ -5,31 +5,28 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Ernesto Palacios"
-            ],
-            "framework": "mbed",
+            "authors": "Ernesto Palacios",
+            "frameworks": "mbed",
             "name": "Matrix"
         },
         {
-            "authors": [
-                "Ernesto Palacios"
-            ],
-            "framework": "mbed",
+            "authors": "Ernesto Palacios",
+            "frameworks": "mbed",
             "name": "Kinematics"
         },
         {
-            "authors": [
-                "Ernesto Palacios"
-            ],
-            "framework": "mbed",
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Ernesto Palacios",
+            "frameworks": "mbed",
             "name": "TrackVector2D"
         },
         {
-            "authors": [
-                "Ernesto Palacios"
-            ],
-            "framework": "mbed",
+            "authors": "Ernesto Palacios",
+            "frameworks": "mbed",
             "name": "MatrixMath"
         }
     ],

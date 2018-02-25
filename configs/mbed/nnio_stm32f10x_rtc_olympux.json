@@ -5,9 +5,7 @@
     },
     "description": "RTC functions for STM32F103",
     "frameworks": "mbed",
-    "keywords": [
-        "nnio_stm32f10x_rtc"
-    ],
+    "keywords": "nnio_stm32f10x_rtc",
     "name": "nnio_stm32f10x_rtc",
     "platforms": "*",
     "repository": {

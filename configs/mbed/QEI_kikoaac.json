@@ -5,9 +5,7 @@
     },
     "description": "ロータリーエンコーダーのライブラリです。 角速度 、 角度 、 RPMなどがだせます。",
     "frameworks": "mbed",
-    "keywords": [
-        "QEI　ロータリーエンコーダ　角度　angle"
-    ],
+    "keywords": "QEI ロータリーエンコーダ 角度 angle",
     "name": "QEI",
     "platforms": "*",
     "repository": {

@@ -5,66 +5,48 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Chris Styles"
-            ],
-            "framework": "mbed",
+            "authors": "Chris Styles",
+            "frameworks": "mbed",
             "name": "m3pi"
         },
         {
-            "authors": [
-                "Sille Van Landschoot"
-            ],
-            "framework": "mbed",
+            "authors": "Sille Van Landschoot",
+            "frameworks": "mbed",
             "name": "ADXL345_I2C"
         },
         {
-            "authors": [
-                "Sille Van Landschoot"
-            ],
-            "framework": "mbed",
+            "authors": "Sille Van Landschoot",
+            "frameworks": "mbed",
             "name": "HMC5583L"
         },
         {
-            "authors": [
-                "Sille Van Landschoot"
-            ],
-            "framework": "mbed",
+            "authors": "Sille Van Landschoot",
+            "frameworks": "mbed",
             "name": "ITG3200"
         },
         {
-            "authors": [
-                "Tedd OKANO"
-            ],
-            "framework": "mbed",
+            "authors": "Tedd OKANO",
+            "frameworks": "mbed",
             "name": "PCA9547"
         },
         {
-            "authors": [
-                "Sille Van Landschoot"
-            ],
-            "framework": "mbed",
+            "authors": "Sille Van Landschoot",
+            "frameworks": "mbed",
             "name": "TLC59116"
         },
         {
-            "authors": [
-                "Sille Van Landschoot"
-            ],
-            "framework": "mbed",
+            "authors": "Sille Van Landschoot",
+            "frameworks": "mbed",
             "name": "VL6180x"
         },
         {
-            "authors": [
-                "Sille Van Landschoot"
-            ],
-            "framework": "mbed",
+            "authors": "Sille Van Landschoot",
+            "frameworks": "mbed",
             "name": "RGB-fun"
         },
         {
-            "authors": [
-                "Sille Van Landschoot"
-            ],
-            "framework": "mbed",
+            "authors": "Sille Van Landschoot",
+            "frameworks": "mbed",
             "name": "xbee"
         }
     ],

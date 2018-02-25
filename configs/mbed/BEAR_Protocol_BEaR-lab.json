@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "Fork_Boss_Communication_Robot"
         }
     ],
@@ -21,9 +19,7 @@
         "https://os.mbed.com/teams/Betago/code/CleaningMachine_Betago/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "BEAR_Protocol"
-    ],
+    "keywords": "BEAR_Protocol",
     "name": "BEAR_Protocol",
     "platforms": "*",
     "repository": {

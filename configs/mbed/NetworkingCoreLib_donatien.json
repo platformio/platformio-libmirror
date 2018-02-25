@@ -5,17 +5,13 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Donatien Garnier"
-            ],
-            "framework": "mbed",
+            "authors": "Donatien Garnier",
+            "frameworks": "mbed",
             "name": "DebugLib"
         },
         {
-            "authors": [
-                "Donatien Garnier"
-            ],
-            "framework": "mbed",
+            "authors": "Donatien Garnier",
+            "frameworks": "mbed",
             "name": "lwip_ppp_ethernet"
         }
     ],
@@ -24,9 +20,7 @@
         "https://os.mbed.com/users/donatien/code/EthernetNetworkLib/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "NetworkingCoreLib"
-    ],
+    "keywords": "NetworkingCoreLib",
     "name": "NetworkingCoreLib",
     "platforms": "*",
     "repository": {

@@ -5,9 +5,7 @@
     },
     "description": "stable library for the Nordic NRF24L01+ radio transciever",
     "frameworks": "mbed",
-    "keywords": [
-        "NRF24L01P"
-    ],
+    "keywords": "NRF24L01P",
     "name": "NRF24L01P",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Oxford CWM Team",
+        "url": "https://os.mbed.com/teams/Oxford-CWM-Team/"
+    },
+    "description": "Various codes for using the ESP8266 wifi dongles",
+    "frameworks": "mbed",
+    "keywords": "ESP8266 codes",
+    "name": "ESP8266 codes",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Oxford-CWM-Team/code/ESP8266-codes/"
+    }
+}

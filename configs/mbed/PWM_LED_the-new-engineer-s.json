@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "the new engineerÂ´s",
+        "name": "the new engineer´s",
         "url": "https://os.mbed.com/teams/the-new-engineer-s/"
     },
     "description": "LED",
@@ -8,9 +8,7 @@
         "https://os.mbed.com/teams/the-new-engineer-s/code/LED_PWM_ansteuerung/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "PWM_LED"
-    ],
+    "keywords": "PWM_LED",
     "name": "PWM_LED",
     "platforms": "*",
     "repository": {

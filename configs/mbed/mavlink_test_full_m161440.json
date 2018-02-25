@@ -3,11 +3,16 @@
         "name": "John Davis",
         "url": "https://os.mbed.com/users/m161440/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "saved",
     "frameworks": "mbed",
-    "keywords": [
-        "mavlink_test_full"
-    ],
+    "keywords": "mavlink_test_full",
     "name": "mavlink_test_full",
     "platforms": "*",
     "repository": {

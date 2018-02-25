@@ -5,9 +5,7 @@
     },
     "description": "Successfully opens any file name given to it and pretends that all files have a certain number of bytes (set by application at time of mounting the file system.) Can ...",
     "frameworks": "mbed",
-    "keywords": [
-        "FakeFileSystem"
-    ],
+    "keywords": "FakeFileSystem",
     "name": "FakeFileSystem",
     "platforms": "*",
     "repository": {

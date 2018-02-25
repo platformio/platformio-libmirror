@@ -5,9 +5,7 @@
     },
     "description": "H-bridge DCmotor controller (TOSHIBA TA7267BP)",
     "frameworks": "mbed",
-    "keywords": [
-        "DCmotor"
-    ],
+    "keywords": "DCmotor",
     "name": "DCmotor",
     "platforms": "*",
     "repository": {

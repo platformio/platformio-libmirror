@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "masa haru"
-            ],
-            "framework": "mbed",
+            "authors": "masa haru",
+            "frameworks": "mbed",
             "name": "EthernetNetIf"
         }
     ],
@@ -17,9 +15,7 @@
         "https://os.mbed.com/users/rtgree01/code/DodgeRadioEmulatorv30/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "EthernetWrapperLib"
-    ],
+    "keywords": "EthernetWrapperLib",
     "name": "EthernetWrapperLib",
     "platforms": "*",
     "repository": {

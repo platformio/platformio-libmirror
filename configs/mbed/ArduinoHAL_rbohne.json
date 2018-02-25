@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "RenĂŠ Bohne",
+        "name": "René Bohne",
         "url": "https://os.mbed.com/users/rbohne/"
     },
     "description": "This will become a hardware abstraction layer for my mbed projects. It will make it easier to port sketches from Arduino to mbed",
@@ -8,9 +8,7 @@
         "https://os.mbed.com/users/siridjen/code/Potentiometer/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "arduino"
-    ],
+    "keywords": "arduino",
     "name": "ArduinoHAL",
     "platforms": "*",
     "repository": {

@@ -5,18 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "paolo della vedova"
-            ],
-            "framework": "mbed",
+            "authors": "paolo della vedova",
+            "frameworks": "mbed",
             "name": "FastIO"
         }
     ],
     "description": "hctl 2032 encoder for stm32",
     "frameworks": "mbed",
-    "keywords": [
-        "Encoder"
-    ],
+    "keywords": "Encoder",
     "name": "hctl2032_encoder",
     "platforms": "*",
     "repository": {

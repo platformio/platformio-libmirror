@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Mike Archbold",
+        "url": "https://os.mbed.com/users/archbolm/"
+    },
+    "description": "Test setup for STM32 dev kit.",
+    "frameworks": "mbed",
+    "keywords": "STM32_devKit",
+    "name": "STM32_devKit",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/archbolm/code/STM32_devKit/"
+    }
+}

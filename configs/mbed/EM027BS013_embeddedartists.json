@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Neil Thiessen"
-            ],
-            "framework": "mbed",
+            "authors": "Neil Thiessen",
+            "frameworks": "mbed",
             "name": "LM75B"
         }
     ],

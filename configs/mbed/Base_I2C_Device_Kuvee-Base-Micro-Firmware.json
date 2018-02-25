@@ -1,13 +1,11 @@
 {
     "authors": {
-        "name": "KuvĂŠe",
+        "name": "Kuvée",
         "url": "https://os.mbed.com/teams/Kuvee-Base-Micro-Firmware/"
     },
     "description": "Base class for handling I2C devices",
     "frameworks": "mbed",
-    "keywords": [
-        "Base_I2C_Device"
-    ],
+    "keywords": "Base_I2C_Device",
     "name": "Base_I2C_Device",
     "platforms": "*",
     "repository": {

@@ -5,9 +5,7 @@
     },
     "description": "myi2c test",
     "frameworks": "mbed",
-    "keywords": [
-        "TARGET_LPC1768i2c"
-    ],
+    "keywords": "TARGET_LPC1768i2c",
     "name": "TARGET_LPC1768i2c",
     "platforms": "*",
     "repository": {

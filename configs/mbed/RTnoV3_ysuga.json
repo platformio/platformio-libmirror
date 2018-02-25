@@ -5,14 +5,12 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Angel David Yaguana Hernandez"
-            ],
+            "authors": "Angel David Yaguana Hernandez",
             "frameworks": "mbed",
             "name": "EthernetNetIf"
         }
     ],
-    "description": "RTno is communicating library and framework which allows you to make your embedded device capable of communicating with RT-middleware world.",
+    "description": "RTno is communicating library and framework which allows you to make your embedded device capable of communicating with RT-middleware world. RT-middleware is a platform software to realize Robotic system. In ...",
     "examples": [
         "https://os.mbed.com/users/ysuga/code/RTnoV3_LED/",
         "https://os.mbed.com/users/ysuga/code/RTnoV3_Template/",
@@ -22,7 +20,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "mbed",
         "robot",
         "Robotics",
         "RT-component",
@@ -32,6 +29,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/ysuga/code/RTnoV3/"
+        "url": "https://os.mbed.com/users/ysuga/code/RTnoV3/"
     }
 }

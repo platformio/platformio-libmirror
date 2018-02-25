@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Jacob Bramley"
-            ],
-            "framework": "mbed",
+            "authors": "Jacob Bramley",
+            "frameworks": "mbed",
             "name": "PixelArray"
         }
     ],
@@ -17,9 +15,7 @@
         "https://os.mbed.com/users/dannellyz/code/NeoPixelEasy/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "easyNeo"
-    ],
+    "keywords": "easyNeo",
     "name": "easyNeo",
     "platforms": "*",
     "repository": {

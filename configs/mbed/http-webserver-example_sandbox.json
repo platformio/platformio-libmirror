@@ -5,18 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "mbed-http"
         }
     ],
     "description": "Webserver example for mbed OS 5 - HTTP 1.1 and multi-threaded",
     "frameworks": "mbed",
-    "keywords": [
-        "http-webserver-example"
-    ],
+    "keywords": "http-webserver-example",
     "name": "http-webserver-example",
     "platforms": "*",
     "repository": {

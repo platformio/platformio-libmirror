@@ -5,9 +5,7 @@
     },
     "description": "write values to LED-array",
     "frameworks": "mbed",
-    "keywords": [
-        "ledarray"
-    ],
+    "keywords": "ledarray",
     "name": "ledarray",
     "platforms": "*",
     "repository": {

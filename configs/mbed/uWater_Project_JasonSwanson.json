@@ -5,25 +5,24 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Doug Anson"
-            ],
-            "framework": "mbed",
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Doug Anson",
+            "frameworks": "mbed",
             "name": "mbedConnectorInterface"
         },
         {
-            "authors": [
-                "Doug Anson"
-            ],
-            "framework": "mbed",
+            "authors": "Doug Anson",
+            "frameworks": "mbed",
             "name": "mbedEndpointNetwork"
         }
     ],
     "description": "Internet of Things project for the uWater team.",
     "frameworks": "mbed",
-    "keywords": [
-        "uWater_Project"
-    ],
+    "keywords": "uWater_Project",
     "name": "uWater_Project",
     "platforms": "*",
     "repository": {

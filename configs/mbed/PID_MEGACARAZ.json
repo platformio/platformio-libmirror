@@ -5,32 +5,29 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Nikolas Goldin"
-            ],
-            "framework": "mbed",
+            "authors": "Nikolas Goldin",
+            "frameworks": "mbed",
             "name": "btbee"
         },
         {
-            "authors": [
-                "Thomas Glatzel"
-            ],
-            "framework": "mbed",
+            "authors": "Thomas Glatzel",
+            "frameworks": "mbed",
             "name": "m3pi_ng"
         },
         {
-            "authors": [
-                "Igor Skochinsky"
-            ],
-            "framework": "mbed",
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Igor Skochinsky",
+            "frameworks": "mbed",
             "name": "FatFileSystemCpp"
         }
     ],
     "description": "PIDs and fun",
     "frameworks": "mbed",
-    "keywords": [
-        "PID"
-    ],
+    "keywords": "PID",
     "name": "PID",
     "platforms": "*",
     "repository": {

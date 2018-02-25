@@ -5,11 +5,24 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "mbed official "
-            ],
-            "framework": "mbed",
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "Socket"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
             "name": "USBHost"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "lwip-sys"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "lwip"
         }
     ],
     "description": "fork of VodafoneUSBModem with updated USBHost library",
@@ -17,9 +30,7 @@
         "https://os.mbed.com/users/screamer/code/VodafoneUSBModemSMSTest/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "VodafoneUSBModem"
-    ],
+    "keywords": "VodafoneUSBModem",
     "name": "VodafoneUSBModem",
     "platforms": "*",
     "repository": {

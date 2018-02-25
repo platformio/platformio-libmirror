@@ -5,18 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Hiroshi Yamaguchi"
-            ],
-            "framework": "mbed",
+            "authors": "Hiroshi Yamaguchi",
+            "frameworks": "mbed",
             "name": "JPEGCamera"
         }
     ],
     "description": "camera testing",
     "frameworks": "mbed",
-    "keywords": [
-        "JPEGCamera"
-    ],
+    "keywords": "JPEGCamera",
     "name": "JPEGCamera",
     "platforms": "*",
     "repository": {

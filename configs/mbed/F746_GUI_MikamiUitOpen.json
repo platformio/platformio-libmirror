@@ -5,31 +5,23 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "不韋 呂"
-            ],
-            "framework": "mbed",
+            "authors": "不韋 呂",
+            "frameworks": "mbed",
             "name": "Array_Matrix"
         },
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "BSP_DISCO_F746NG"
         },
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "LCD_DISCO_F746NG"
         },
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "TS_DISCO_F746NG"
         }
     ],

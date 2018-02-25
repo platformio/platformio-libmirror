@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Erik Olieman"
-            ],
-            "framework": "mbed",
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
             "name": "BurstSPI"
         }
     ],
@@ -17,9 +15,7 @@
         "https://os.mbed.com/users/xkozima/code/colorsExample/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "WS2812"
-    ],
+    "keywords": "WS2812",
     "name": "colors",
     "platforms": "*",
     "repository": {

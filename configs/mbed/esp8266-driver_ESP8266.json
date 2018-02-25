@@ -5,9 +5,7 @@
     },
     "description": "The driver for the ESP8266 WiFi module",
     "frameworks": "mbed",
-    "keywords": [
-        "esp8266-driver"
-    ],
+    "keywords": "esp8266-driver",
     "name": "esp8266-driver",
     "platforms": "*",
     "repository": {

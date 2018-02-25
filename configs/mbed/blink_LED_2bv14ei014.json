@@ -5,9 +5,7 @@
     },
     "description": "program to blink two leds along with value of N",
     "frameworks": "mbed",
-    "keywords": [
-        "blink_LED"
-    ],
+    "keywords": "blink_LED",
     "name": "blink_LED",
     "platforms": "*",
     "repository": {

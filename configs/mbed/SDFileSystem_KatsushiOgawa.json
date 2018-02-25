@@ -5,18 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "mbed unsupported"
-            ],
-            "framework": "mbed",
+            "authors": "mbed unsupported",
+            "frameworks": "mbed",
             "name": "FatFileSystem"
         }
     ],
     "description": "SDFileSystem",
     "frameworks": "mbed",
-    "keywords": [
-        "SDFileSystem"
-    ],
+    "keywords": "SDFileSystem",
     "name": "SDFileSystem",
     "platforms": "*",
     "repository": {

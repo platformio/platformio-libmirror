@@ -5,18 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Eli Hughes"
-            ],
-            "framework": "mbed",
+            "authors": "Eli Hughes",
+            "frameworks": "mbed",
             "name": "FRDM-TFC"
         }
     ],
     "description": "new format",
     "frameworks": "mbed",
-    "keywords": [
-        "fatboyslim"
-    ],
+    "keywords": "fatboyslim",
     "name": "fatboyslim",
     "platforms": "*",
     "repository": {

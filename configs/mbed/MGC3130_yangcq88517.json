@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "CHENGQI YANG"
-            ],
-            "framework": "mbed",
+            "authors": "CHENGQI YANG",
+            "frameworks": "mbed",
             "name": "BufferedArray"
         }
     ],

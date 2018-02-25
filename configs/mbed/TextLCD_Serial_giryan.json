@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Matthew Waddilove"
-            ],
-            "framework": "mbed",
+            "authors": "Matthew Waddilove",
+            "frameworks": "mbed",
             "name": "TextDisplays"
         }
     ],

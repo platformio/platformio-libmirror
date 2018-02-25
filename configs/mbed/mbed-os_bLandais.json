@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Baudouin LANDAIS",
+        "url": "https://os.mbed.com/users/bLandais/"
+    },
+    "description": "initial",
+    "examples": [
+        "https://os.mbed.com/users/devararendy/code/STM32FC_RGB_WS2812/",
+        "https://os.mbed.com/users/HTD/code/mbed-os_GAP_LineBeacon_nRF52/",
+        "https://os.mbed.com/users/chasefarmer2808/code/GliderFuncTest1/",
+        "https://os.mbed.com/users/chasefarmer2808/code/DropTest/",
+        "https://os.mbed.com/users/jrhodes5150/code/RFVS/",
+        "https://os.mbed.com/users/EdsonAlcala/code/StepTracking/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "mbed-os",
+    "name": "mbed-os",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bLandais/code/mbed-os/"
+    }
+}

@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Fred Kellerman"
-            ],
-            "framework": "mbed",
+            "authors": "Fred Kellerman",
+            "frameworks": "mbed",
             "name": "WncControllerK64F"
         }
     ],

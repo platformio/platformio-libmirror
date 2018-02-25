@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Terrabots",
+        "url": "https://os.mbed.com/teams/Terrabots/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "cleaned up motor class with separate header and .cpp files",
+    "examples": [
+        "https://os.mbed.com/users/simplyellow/code/TerraBot_Drive_2D/",
+        "https://os.mbed.com/teams/Terrabots/code/TerraBot_Drive_2D/",
+        "https://os.mbed.com/teams/Terrabots/code/TerraBot_Drive_2D_FINAL/",
+        "https://os.mbed.com/teams/Terrabots/code/DUMP_TRUCK_Test/",
+        "https://os.mbed.com/teams/Terrabots/code/DUMP_TRUCK_SPR2017/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MotorV2",
+    "name": "MotorV2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Terrabots/code/MotorV2/"
+    }
+}

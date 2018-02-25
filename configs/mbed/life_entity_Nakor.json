@@ -5,24 +5,18 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Aaron Goselin"
-            ],
-            "framework": "mbed",
+            "authors": "Aaron Goselin",
+            "frameworks": "mbed",
             "name": "armoured_vehicle"
         },
         {
-            "authors": [
-                "Aaron Goselin"
-            ],
-            "framework": "mbed",
+            "authors": "Aaron Goselin",
+            "frameworks": "mbed",
             "name": "enemy"
         },
         {
-            "authors": [
-                "Aaron Goselin"
-            ],
-            "framework": "mbed",
+            "authors": "Aaron Goselin",
+            "frameworks": "mbed",
             "name": "player"
         }
     ],

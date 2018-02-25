@@ -5,9 +5,7 @@
     },
     "description": "Driver for the Digole Serial universal LCD display adapter",
     "frameworks": "mbed",
-    "keywords": [
-        "LCD"
-    ],
+    "keywords": "LCD",
     "name": "DigoleSerialDisp",
     "platforms": "*",
     "repository": {

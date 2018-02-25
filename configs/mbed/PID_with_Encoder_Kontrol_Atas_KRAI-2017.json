@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "KRAI 2017",
+        "url": "https://os.mbed.com/teams/KRAI-2017/"
+    },
+    "description": "library pid dengan encoder untuk kontrol atas",
+    "frameworks": "mbed",
+    "keywords": "PID_with_Encoder_Kontrol_Atas",
+    "name": "PID_with_Encoder_Kontrol_Atas",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/KRAI-2017/code/PID_with_Encoder_Kontrol_Atas/"
+    }
+}

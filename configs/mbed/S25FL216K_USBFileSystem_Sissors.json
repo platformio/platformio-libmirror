@@ -5,17 +5,13 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Erik Olieman"
-            ],
-            "framework": "mbed",
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
             "name": "S25FL216K"
         },
         {
-            "authors": [
-                "Erik Olieman"
-            ],
-            "framework": "mbed",
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
             "name": "USBFileSystem"
         }
     ],

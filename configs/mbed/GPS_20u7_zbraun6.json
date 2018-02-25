@@ -5,18 +5,19 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Michael Shimniok"
-            ],
-            "framework": "mbed",
+            "authors": "Michael Shimniok",
+            "frameworks": "mbed",
             "name": "TinyGPS"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
         }
     ],
     "description": "Library to operate GPS 20u7 with Mbed",
     "frameworks": "mbed",
-    "keywords": [
-        "GPS_20u7"
-    ],
+    "keywords": "GPS_20u7",
     "name": "GPS_20u7",
     "platforms": "*",
     "repository": {

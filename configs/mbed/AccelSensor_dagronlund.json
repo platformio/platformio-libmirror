@@ -5,9 +5,7 @@
     },
     "description": "A library to read data from the Triple Axis Accelerometer Breakout - MMA8452Q from Sparkfun.",
     "frameworks": "mbed",
-    "keywords": [
-        "AccelSensor"
-    ],
+    "keywords": "AccelSensor",
     "name": "AccelSensor",
     "platforms": "*",
     "repository": {

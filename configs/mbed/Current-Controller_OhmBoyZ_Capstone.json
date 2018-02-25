@@ -3,11 +3,16 @@
         "name": "OhmBoyZ_Capstone",
         "url": "https://os.mbed.com/teams/OhmBoyZ_Capstone/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "Takes user input, outputs pwm to current control filter.",
     "frameworks": "mbed",
-    "keywords": [
-        "Current Controller"
-    ],
+    "keywords": "Current Controller",
     "name": "Current Controller",
     "platforms": "*",
     "repository": {

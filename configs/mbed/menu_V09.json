@@ -3,11 +3,9 @@
         "name": "V09",
         "url": "https://os.mbed.com/teams/V09/"
     },
-    "description": "menu fĂźr die LCD Anzeige",
+    "description": "menu für die LCD Anzeige",
     "frameworks": "mbed",
-    "keywords": [
-        "menu"
-    ],
+    "keywords": "menu",
     "name": "menu",
     "platforms": "*",
     "repository": {

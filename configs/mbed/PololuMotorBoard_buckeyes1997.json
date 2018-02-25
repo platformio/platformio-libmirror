@@ -5,9 +5,7 @@
     },
     "description": "This library is an attempt to encapsulate the Pololu motor board.",
     "frameworks": "mbed",
-    "keywords": [
-        "PololuMotorBoard"
-    ],
+    "keywords": "PololuMotorBoard",
     "name": "PololuMotorBoard",
     "platforms": "*",
     "repository": {

@@ -5,17 +5,18 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Sam Grove"
-            ],
-            "framework": "mbed",
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "EthernetInterface"
+        },
+        {
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
             "name": "FP"
         },
         {
-            "authors": [
-                "Ian Craggs"
-            ],
-            "framework": "mbed",
+            "authors": "Ian Craggs",
+            "frameworks": "mbed",
             "name": "MQTTSNPacket"
         }
     ],
@@ -24,9 +25,7 @@
         "https://os.mbed.com/users/icraggs/code/HelloMQTTSN/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "MQTTSN"
-    ],
+    "keywords": "MQTTSN",
     "name": "MQTTSN",
     "platforms": "*",
     "repository": {

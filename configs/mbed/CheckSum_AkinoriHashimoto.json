@@ -5,18 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Akinori Hashimoto"
-            ],
-            "framework": "mbed",
+            "authors": "Akinori Hashimoto",
+            "frameworks": "mbed",
             "name": "StrLib"
         }
     ],
     "description": "Calculate checksum(hex) of string with ASCII(unsigned int). Use to detected communication error.",
     "frameworks": "mbed",
-    "keywords": [
-        "checksum"
-    ],
+    "keywords": "checksum",
     "name": "CheckSum",
     "platforms": "*",
     "repository": {

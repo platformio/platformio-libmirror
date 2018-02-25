@@ -5,31 +5,23 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Yifei Teng"
-            ],
-            "framework": "mbed",
+            "authors": "Yifei Teng",
+            "frameworks": "mbed",
             "name": "HMC58X3"
         },
         {
-            "authors": [
-                "Yifei Teng"
-            ],
-            "framework": "mbed",
+            "authors": "Yifei Teng",
+            "frameworks": "mbed",
             "name": "MPU6050"
         },
         {
-            "authors": [
-                "Yifei Teng"
-            ],
-            "framework": "mbed",
+            "authors": "Yifei Teng",
+            "frameworks": "mbed",
             "name": "MS561101BA"
         },
         {
-            "authors": [
-                "Yifei Teng"
-            ],
-            "framework": "mbed",
+            "authors": "Yifei Teng",
+            "frameworks": "mbed",
             "name": "MODI2C"
         }
     ],
@@ -40,9 +32,7 @@
         "https://os.mbed.com/users/MatteoT/code/MTQuadControl/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "FreeIMU"
-    ],
+    "keywords": "FreeIMU",
     "name": "FreeIMU",
     "platforms": "*",
     "repository": {

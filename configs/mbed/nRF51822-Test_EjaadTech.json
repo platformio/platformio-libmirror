@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "EjaadTech",
+        "url": "https://os.mbed.com/teams/EjaadTech/"
+    },
+    "description": "Nordic Ble Initial Setup",
+    "frameworks": "mbed",
+    "keywords": "nRF51822 Test",
+    "name": "nRF51822 Test",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/EjaadTech/code/nRF51822-Test/"
+    }
+}

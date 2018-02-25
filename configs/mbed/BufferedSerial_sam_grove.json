@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Sam Grove"
-            ],
-            "framework": "mbed",
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
             "name": "Buffer"
         }
     ],

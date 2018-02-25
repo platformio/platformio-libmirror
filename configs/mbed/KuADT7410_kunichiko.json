@@ -5,9 +5,7 @@
     },
     "description": "A library for ADT7410 I2C connecting temperature sensor module.",
     "frameworks": "mbed",
-    "keywords": [
-        "KuADT7410"
-    ],
+    "keywords": "KuADT7410",
     "name": "KuADT7410",
     "platforms": "*",
     "repository": {

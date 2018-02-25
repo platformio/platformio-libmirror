@@ -3,14 +3,12 @@
         "name": "the bani crew",
         "url": "https://os.mbed.com/teams/the-bani-crew/"
     },
-    "description": "Geht beim Ă¤ndern von calcOP wird value2 angezeigt",
+    "description": "Geht beim ändern von calcOP wird value2 angezeigt",
     "examples": [
         "https://os.mbed.com/teams/the-bani-crew/code/Test_calculator_template/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "C12832_lcd"
-    ],
+    "keywords": "C12832_lcd",
     "name": "C12832_lcd",
     "platforms": "*",
     "repository": {

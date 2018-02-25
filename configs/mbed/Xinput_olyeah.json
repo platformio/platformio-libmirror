@@ -5,18 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "mbed official "
-            ],
-            "framework": "mbed",
+            "authors": "mbed official",
+            "frameworks": "mbed",
             "name": "USBDevice"
         }
     ],
     "description": "A usb interface emulating an Xbox 360 controller",
     "frameworks": "mbed",
-    "keywords": [
-        "Xinput"
-    ],
+    "keywords": "Xinput",
     "name": "Xinput",
     "platforms": "*",
     "repository": {

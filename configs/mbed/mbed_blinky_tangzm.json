@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "tang zm",
+        "url": "https://os.mbed.com/users/tangzm/"
+    },
+    "description": "the first one code about mbed CLI",
+    "frameworks": "mbed",
+    "keywords": "mbed_blinky",
+    "name": "mbed_blinky",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tangzm/code/mbed_blinky/"
+    }
+}

@@ -5,9 +5,7 @@
     },
     "description": "Patched version of the PowerControl library that handles (re)starting clocks such that (ETH) power can be brought up and down repeatedly without stalling the mbed.",
     "frameworks": "mbed",
-    "keywords": [
-        "PowerControlClkPatch"
-    ],
+    "keywords": "PowerControlClkPatch",
     "name": "PowerControlClkPatch",
     "platforms": "*",
     "repository": {

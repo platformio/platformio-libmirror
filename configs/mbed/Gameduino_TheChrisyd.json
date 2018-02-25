@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Chris Dick"
-            ],
-            "framework": "mbed",
+            "authors": "Chris Dick",
+            "frameworks": "mbed",
             "name": "Arduino"
         }
     ],

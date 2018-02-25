@@ -5,24 +5,18 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Joseph Bradshaw"
-            ],
-            "framework": "mbed",
+            "authors": "Joseph Bradshaw",
+            "frameworks": "mbed",
             "name": "LS7366LIB"
         },
         {
-            "authors": [
-                "Joseph Bradshaw"
-            ],
-            "framework": "mbed",
+            "authors": "Joseph Bradshaw",
+            "frameworks": "mbed",
             "name": "MotCon"
         },
         {
-            "authors": [
-                "Aaron Berk"
-            ],
-            "framework": "mbed",
+            "authors": "Aaron Berk",
+            "frameworks": "mbed",
             "name": "PID"
         }
     ],

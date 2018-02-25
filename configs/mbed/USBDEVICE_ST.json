@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "USBDevice for STM support",
+    "examples": [
+        "https://os.mbed.com/users/julgonmej/code/Nucleo_Usb_JoyMouse/",
+        "https://os.mbed.com/teams/ST/code/Nucleo_usbmouse/",
+        "https://os.mbed.com/teams/ST/code/X_NUCLEO_CCA02M1/",
+        "https://os.mbed.com/users/kayman2329/code/Nucleo_usbmouse/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "USBDEVICE",
+    "name": "USBDEVICE",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/USBDEVICE/"
+    }
+}

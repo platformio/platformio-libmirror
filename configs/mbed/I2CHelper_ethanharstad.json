@@ -8,9 +8,7 @@
         "https://os.mbed.com/users/ethanharstad/code/MPU9150/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "I2C"
-    ],
+    "keywords": "I2C",
     "name": "I2CHelper",
     "platforms": "*",
     "repository": {

@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Craig Evans"
-            ],
-            "framework": "mbed",
+            "authors": "Craig Evans",
+            "frameworks": "mbed",
             "name": "Utils"
         }
     ],

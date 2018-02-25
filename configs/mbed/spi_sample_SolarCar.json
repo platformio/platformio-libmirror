@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "UC SolarCar",
+        "url": "https://os.mbed.com/teams/SolarCar/"
+    },
+    "description": "first draft",
+    "frameworks": "mbed",
+    "keywords": "spi_sample",
+    "name": "spi_sample",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/SolarCar/code/spi_sample/"
+    }
+}

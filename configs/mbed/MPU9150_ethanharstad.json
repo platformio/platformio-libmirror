@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Ethan Harstad"
-            ],
-            "framework": "mbed",
+            "authors": "Ethan Harstad",
+            "frameworks": "mbed",
             "name": "I2CHelper"
         }
     ],

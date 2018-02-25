@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Erik Olieman"
-            ],
-            "framework": "mbed",
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
             "name": "FastPWM"
         }
     ],
@@ -17,9 +15,7 @@
         "https://os.mbed.com/users/vsluiter/code/LDC1000_test/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "LDC1000"
-    ],
+    "keywords": "LDC1000",
     "name": "LDC1000",
     "platforms": "*",
     "repository": {

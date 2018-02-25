@@ -5,11 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Sang Vu Van"
-            ],
-            "framework": "mbed",
+            "authors": "Sang Vu Van",
+            "frameworks": "mbed",
             "name": "RF22"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
         }
     ],
     "description": "mesh phone",

@@ -3,6 +3,13 @@
         "name": "Dirck Sowada",
         "url": "https://os.mbed.com/users/kokisan2000/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "Driver for Proximity / Ambient Light Sensor VCNL40xx from Vishay",
     "frameworks": "mbed",
     "keywords": [

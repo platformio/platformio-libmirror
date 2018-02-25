@@ -5,17 +5,13 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Sam Grove"
-            ],
-            "framework": "mbed",
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
             "name": "FP"
         },
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "MQTTPacket"
         }
     ],

@@ -5,9 +5,7 @@
     },
     "description": "Simple DS1621 temperature acquisition.",
     "frameworks": "mbed",
-    "keywords": [
-        "DS1621"
-    ],
+    "keywords": "DS1621",
     "name": "DS1621",
     "platforms": "*",
     "repository": {

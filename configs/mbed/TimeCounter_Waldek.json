@@ -5,9 +5,7 @@
     },
     "description": "Time (seconds) counter based on TimerSubscriber",
     "frameworks": "mbed",
-    "keywords": [
-        "TimeCounter"
-    ],
+    "keywords": "TimeCounter",
     "name": "TimeCounter",
     "platforms": "*",
     "repository": {

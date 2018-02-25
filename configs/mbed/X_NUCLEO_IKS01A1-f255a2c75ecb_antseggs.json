@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "X_NUCLEO_COMMON"
         }
     ],
@@ -17,9 +15,7 @@
         "https://os.mbed.com/users/nlsantos/code/trabalho/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "X_NUCLEO_IKS01A1-f255a2c75ecb"
-    ],
+    "keywords": "X_NUCLEO_IKS01A1-f255a2c75ecb",
     "name": "X_NUCLEO_IKS01A1-f255a2c75ecb",
     "platforms": "*",
     "repository": {

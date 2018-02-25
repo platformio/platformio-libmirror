@@ -5,18 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "wayne roberts"
-            ],
-            "framework": "mbed",
+            "authors": "wayne roberts",
+            "frameworks": "mbed",
             "name": "SX127x"
         }
     ],
     "description": "simple receiver demo for B-L072Z-LRWAN1",
     "frameworks": "mbed",
-    "keywords": [
-        "sx127x_simple_RX_MurataABZ"
-    ],
+    "keywords": "sx127x_simple_RX_MurataABZ",
     "name": "sx127x_simple_RX_MurataABZ",
     "platforms": "*",
     "repository": {

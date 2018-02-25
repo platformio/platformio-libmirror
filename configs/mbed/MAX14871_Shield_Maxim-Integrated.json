@@ -5,17 +5,13 @@
     },
     "dependencies": [
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "MAX5387"
         },
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "MAX7300"
         }
     ],
@@ -27,9 +23,7 @@
         "https://os.mbed.com/users/j3/code/Line_Following_Bot_Pololu/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "MAX14871_Shield"
-    ],
+    "keywords": "MAX14871_Shield",
     "name": "MAX14871_Shield",
     "platforms": "*",
     "repository": {

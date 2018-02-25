@@ -5,9 +5,7 @@
     },
     "description": "サーボのライブラリ. サーボのID, ポジションを指定してシリアル通信でサーボを動かす.",
     "frameworks": "mbed",
-    "keywords": [
-        "ICSbus"
-    ],
+    "keywords": "ICSbus",
     "name": "ICSbus",
     "platforms": "*",
     "repository": {

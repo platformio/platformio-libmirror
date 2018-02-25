@@ -5,11 +5,19 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Emilio Monti"
-            ],
-            "framework": "mbed",
+            "authors": "Emilio Monti",
+            "frameworks": "mbed",
             "name": "MMA8451Q"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
         }
     ],
     "description": "RTOS application with 3 threads of different priorities: play music, measure temperature (and print results via stdio) and plays with the MMA8451Q sensor and the RGB LEDs",

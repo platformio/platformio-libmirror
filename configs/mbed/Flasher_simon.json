@@ -5,9 +5,7 @@
     },
     "description": "A very simple example of a library to flash a DigitalOut, used to demonstrate how to write a library",
     "frameworks": "mbed",
-    "keywords": [
-        "digitalOut"
-    ],
+    "keywords": "digitalOut",
     "name": "Flasher",
     "platforms": "*",
     "repository": {

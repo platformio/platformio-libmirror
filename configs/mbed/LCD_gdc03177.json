@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "tarou onsen",
+        "url": "https://os.mbed.com/users/gdc03177/"
+    },
+    "description": "#include \"mbed.h\" #include \"TextLCD.h\" TextLCD l(P0_25,P0_28,P0_29,P0_30,P0_0,P0_7); int main(){ l.cls(); l.locate(0,0); l.printf(\"Hello World!\"); int i=0; while(1){ l.locate(0,1); l.printf(\"%d\",i++); wait(1.0); } }",
+    "frameworks": "mbed",
+    "keywords": "LCD表示",
+    "name": "LCD表示",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gdc03177/code/LCD/"
+    }
+}

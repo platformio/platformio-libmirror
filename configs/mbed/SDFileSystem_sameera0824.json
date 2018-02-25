@@ -3,11 +3,16 @@
         "name": "Sameera Nawarathne",
         "url": "https://os.mbed.com/users/sameera0824/"
     },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
     "description": "SDFileSystem library for FAT compatible",
     "frameworks": "mbed",
-    "keywords": [
-        "SDFileSystem"
-    ],
+    "keywords": "SDFileSystem",
     "name": "SDFileSystem",
     "platforms": "*",
     "repository": {

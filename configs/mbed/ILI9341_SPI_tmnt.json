@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "TMNTmaker !"
-            ],
-            "framework": "mbed",
+            "authors": "TMNTmaker !",
+            "frameworks": "mbed",
             "name": "fonts"
         }
     ],
@@ -18,9 +16,7 @@
         "https://os.mbed.com/users/tmnt/code/NUCLEO-F446RE_testDCMI/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "ILI9341_SPI"
-    ],
+    "keywords": "ILI9341_SPI",
     "name": "ILI9341_SPI",
     "platforms": "*",
     "repository": {

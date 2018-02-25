@@ -5,38 +5,33 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "mbed unsupported"
-            ],
-            "framework": "mbed",
+            "authors": "mbed unsupported",
+            "frameworks": "mbed",
             "name": "FatFileSystem"
         },
         {
-            "authors": [
-                "Ad  van der Weiden"
-            ],
-            "framework": "mbed",
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Ad  van der Weiden",
+            "frameworks": "mbed",
             "name": "myBlueUSB"
         },
         {
-            "authors": [
-                "Ad  van der Weiden"
-            ],
-            "framework": "mbed",
+            "authors": "Ad  van der Weiden",
+            "frameworks": "mbed",
             "name": "neigbourhood"
         },
         {
-            "authors": [
-                "Ad  van der Weiden"
-            ],
-            "framework": "mbed",
+            "authors": "Ad  van der Weiden",
+            "frameworks": "mbed",
             "name": "rfcomm"
         },
         {
-            "authors": [
-                "Ad  van der Weiden"
-            ],
-            "framework": "mbed",
+            "authors": "Ad  van der Weiden",
+            "frameworks": "mbed",
             "name": "sdp"
         }
     ],

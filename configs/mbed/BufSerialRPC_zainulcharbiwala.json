@@ -5,9 +5,7 @@
     },
     "description": "Serial RPC Interface using the MODSERIAL library. Does not hang when serial port misbehaves.",
     "frameworks": "mbed",
-    "keywords": [
-        "BufSerialRPC"
-    ],
+    "keywords": "BufSerialRPC",
     "name": "BufSerialRPC",
     "platforms": "*",
     "repository": {

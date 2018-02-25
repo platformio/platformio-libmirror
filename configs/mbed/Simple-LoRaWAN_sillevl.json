@@ -5,17 +5,13 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Sille Van Landschoot"
-            ],
-            "framework": "mbed",
+            "authors": "Sille Van Landschoot",
+            "frameworks": "mbed",
             "name": "LMiC"
         },
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "SX1276Lib"
         }
     ],

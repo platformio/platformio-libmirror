@@ -5,9 +5,7 @@
     },
     "description": "Device driver",
     "frameworks": "mbed",
-    "keywords": [
-        "ADIS16488"
-    ],
+    "keywords": "ADIS16488",
     "name": "ADIS16488",
     "platforms": "*",
     "repository": {

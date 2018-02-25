@@ -5,9 +5,7 @@
     },
     "description": "Biblioteca com implementação de filtro IIR passa baixa usando IQ12",
     "frameworks": "mbed",
-    "keywords": [
-        "FiltroIIR"
-    ],
+    "keywords": "FiltroIIR",
     "name": "FiltroIIR",
     "platforms": "*",
     "repository": {

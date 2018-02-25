@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Andy Kirkham"
-            ],
-            "framework": "mbed",
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
             "name": "MODSERIAL"
         }
     ],
@@ -17,9 +15,7 @@
         "https://os.mbed.com/users/tylerjw/code/AHRS_demo/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "AHRS"
-    ],
+    "keywords": "AHRS",
     "name": "AHRS",
     "platforms": "*",
     "repository": {

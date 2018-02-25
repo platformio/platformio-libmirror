@@ -5,18 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Simon Ford"
-            ],
-            "framework": "mbed",
+            "authors": "Simon Ford",
+            "frameworks": "mbed",
             "name": "HelloWorld"
         }
     ],
     "description": "DCmotor Rotation using select pin",
     "frameworks": "mbed",
-    "keywords": [
-        "dc_motor"
-    ],
+    "keywords": "dc_motor",
     "name": "dc_motor",
     "platforms": "*",
     "repository": {

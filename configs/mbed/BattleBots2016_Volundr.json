@@ -3,11 +3,16 @@
         "name": "Volundr",
         "url": "https://os.mbed.com/teams/Volundr/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-src"
+        }
+    ],
     "description": "Battle bots",
     "frameworks": "mbed",
-    "keywords": [
-        "BattleBots2016"
-    ],
+    "keywords": "BattleBots2016",
     "name": "BattleBots2016",
     "platforms": "*",
     "repository": {

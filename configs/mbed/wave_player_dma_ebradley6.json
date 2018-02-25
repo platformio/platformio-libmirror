@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Andy Kirkham"
-            ],
-            "framework": "mbed",
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
             "name": "MODDMA"
         }
     ],
@@ -18,9 +16,7 @@
         "https://os.mbed.com/users/somavarapun/code/wave_player_DMA_mbed/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "wave_player_dma"
-    ],
+    "keywords": "wave_player_dma",
     "name": "wave_player_dma",
     "platforms": "*",
     "repository": {

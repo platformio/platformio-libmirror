@@ -5,25 +5,24 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Simon Ford"
-            ],
-            "framework": "mbed",
+            "authors": "Simon Ford",
+            "frameworks": "mbed",
             "name": "Servo"
         },
         {
-            "authors": [
-                "Tristan Hughes"
-            ],
-            "framework": "mbed",
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Tristan Hughes",
+            "frameworks": "mbed",
             "name": "xbee_lib"
         }
     ],
     "description": "Xbee Comm Test",
     "frameworks": "mbed",
-    "keywords": [
-        "WirelessCommTest"
-    ],
+    "keywords": "WirelessCommTest",
     "name": "WirelessCommTest",
     "platforms": "*",
     "repository": {

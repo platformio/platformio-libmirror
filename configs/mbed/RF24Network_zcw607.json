@@ -5,9 +5,7 @@
     },
     "description": "Ported Arduino RF24Network library.",
     "frameworks": "mbed",
-    "keywords": [
-        "RF24Network"
-    ],
+    "keywords": "RF24Network",
     "name": "RF24Network",
     "platforms": "*",
     "repository": {

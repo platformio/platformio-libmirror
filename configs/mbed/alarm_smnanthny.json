@@ -5,9 +5,7 @@
     },
     "description": "Create a beeping alarm that starts and stops when you want it to. Created for OspreyQuad project and intended for use with a piezo buzzer.",
     "frameworks": "mbed",
-    "keywords": [
-        "alarm"
-    ],
+    "keywords": "alarm",
     "name": "alarm",
     "platforms": "*",
     "repository": {

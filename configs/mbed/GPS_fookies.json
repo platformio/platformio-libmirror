@@ -12,9 +12,7 @@
         "https://os.mbed.com/users/LucasPrido/code/Send_GPS_Data_TS_SD/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "GPGGA"
-    ],
+    "keywords": "GPGGA",
     "name": "GPS",
     "platforms": "*",
     "repository": {

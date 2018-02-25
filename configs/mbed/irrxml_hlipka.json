@@ -5,9 +5,7 @@
     },
     "description": "A port of the irrlicht XML parser library.",
     "frameworks": "mbed",
-    "keywords": [
-        "xml"
-    ],
+    "keywords": "xml",
     "name": "irrxml",
     "platforms": "*",
     "repository": {

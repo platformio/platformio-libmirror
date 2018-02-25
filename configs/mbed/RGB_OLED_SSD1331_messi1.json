@@ -5,9 +5,7 @@
     },
     "description": "Driver for the Seeedstudio RGB OLED module for the xadow M0",
     "frameworks": "mbed",
-    "keywords": [
-        "RGB_OLED_SSD1331"
-    ],
+    "keywords": "RGB_OLED_SSD1331",
     "name": "RGB_OLED_SSD1331",
     "platforms": "*",
     "repository": {

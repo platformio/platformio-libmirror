@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "Felix RĂźdiger",
+        "name": "Felix Rüdiger",
         "url": "https://os.mbed.com/users/fruediger/"
     },
     "description": "An abstraction layer for the I2C communication with a MPU6050 accelerometer/gyroscope",
@@ -8,9 +8,7 @@
         "https://os.mbed.com/users/fruediger/code/BLE_Nano_MPU6050Service/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "MPU6050_lib"
-    ],
+    "keywords": "MPU6050_lib",
     "name": "MPU6050_lib",
     "platforms": "*",
     "repository": {

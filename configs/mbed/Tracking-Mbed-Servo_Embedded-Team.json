@@ -5,25 +5,29 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Chris Styles"
-            ],
-            "framework": "mbed",
+            "authors": "Chris Styles",
+            "frameworks": "mbed",
             "name": "C12832"
         },
         {
-            "authors": [
-                "Simon Ford"
-            ],
-            "framework": "mbed",
+            "authors": "Simon Ford",
+            "frameworks": "mbed",
             "name": "Servo"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
         }
     ],
     "description": "Tracking Mbed Servo",
     "frameworks": "mbed",
-    "keywords": [
-        "Tracking Mbed Servo"
-    ],
+    "keywords": "Tracking Mbed Servo",
     "name": "Tracking Mbed Servo",
     "platforms": "*",
     "repository": {

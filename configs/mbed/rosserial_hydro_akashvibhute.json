@@ -5,11 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Andy Kirkham"
-            ],
-            "framework": "mbed",
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
             "name": "MODSERIAL"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
         }
     ],
     "description": "rosserial library for mbed Inspired by nucho's rosserial library This library is still under development",

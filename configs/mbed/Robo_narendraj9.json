@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Narendra Joshi"
-            ],
-            "framework": "mbed",
+            "authors": "Narendra Joshi",
+            "frameworks": "mbed",
             "name": "TextLCD"
         }
     ],
@@ -17,9 +15,7 @@
         "https://os.mbed.com/users/narendraj9/code/robots/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Robo"
-    ],
+    "keywords": "Robo",
     "name": "Robo",
     "platforms": "*",
     "repository": {

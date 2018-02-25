@@ -5,9 +5,7 @@
     },
     "description": "Provides a simple way to generate complex square wave signals on any available pin. In addition the SignalGenerator can generate a carrier wave which is useful when generating IR signals ...",
     "frameworks": "mbed",
-    "keywords": [
-        "SignalGenerator"
-    ],
+    "keywords": "SignalGenerator",
     "name": "SignalGenerator",
     "platforms": "*",
     "repository": {

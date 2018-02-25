@@ -5,9 +5,7 @@
     },
     "description": "Arduino Serial + Serial base = less flash usage",
     "frameworks": "mbed",
-    "keywords": [
-        "Serial"
-    ],
+    "keywords": "Serial",
     "name": "ardSerial",
     "platforms": "*",
     "repository": {

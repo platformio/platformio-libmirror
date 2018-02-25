@@ -5,9 +5,7 @@
     },
     "description": "Port of the nRF24l01+ library of these dudes. Not GPLed, so yeah, you can use it. Copyright (c) 2007 Stefan Engelke <mbox@stefanengelke.de> Some parts copyright (c) 2012 Eric Brundick <spirilis ...",
     "frameworks": "mbed",
-    "keywords": [
-        "nRF24L01"
-    ],
+    "keywords": "nRF24L01",
     "name": "Enrf24",
     "platforms": "*",
     "repository": {

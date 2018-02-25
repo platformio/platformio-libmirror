@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Mariya Ali",
+        "url": "https://os.mbed.com/users/Mariya/"
+    },
+    "description": "The system employs the FRDM-K64F board along with the on board accelerometer, and the board is connected to a GSM/GPS module. The two of these combined would allow the board ...",
+    "frameworks": "mbed",
+    "keywords": "Automobile Crash Detection",
+    "name": "Automobile Crash Detection",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Mariya/code/Automobile-Crash-Detection/"
+    }
+}

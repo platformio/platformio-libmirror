@@ -5,9 +5,7 @@
     },
     "description": "drive the analog devices AD57XX series of DACs using SPI",
     "frameworks": "mbed",
-    "keywords": [
-        "dac57xx"
-    ],
+    "keywords": "dac57xx",
     "name": "dac57xx",
     "platforms": "*",
     "repository": {

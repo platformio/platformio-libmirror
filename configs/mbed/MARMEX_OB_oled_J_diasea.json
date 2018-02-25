@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Simon Ford"
-            ],
-            "framework": "mbed",
+            "authors": "Simon Ford",
+            "frameworks": "mbed",
             "name": "NokiaLCD"
         }
     ],
@@ -17,9 +15,7 @@
         "https://os.mbed.com/users/diasea/code/MARMEX_OB_oled_J_Helloworld/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "MARMEX_OB_oled"
-    ],
+    "keywords": "MARMEX_OB_oled",
     "name": "MARMEX_OB_oled_J",
     "platforms": "*",
     "repository": {

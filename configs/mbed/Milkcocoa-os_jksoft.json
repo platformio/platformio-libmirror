@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Junichi Katsu",
+        "url": "https://os.mbed.com/users/jksoft/"
+    },
+    "description": "【mbed OS5対応バージョン】データの保存、更新、取得ができるWebサービス「milkcocoa」に接続し、データのプッシュ、送信、取得ができるライブラリです。 https://mlkcca.com/",
+    "examples": [
+        "https://os.mbed.com/users/Okoshi/code/mbed-os-example-wifi-milkcocoa/",
+        "https://os.mbed.com/users/jksoft/code/MilkcocoaOsSample_Eth/",
+        "https://os.mbed.com/users/jksoft/code/MilkcocoaOsSample_ESP8266/",
+        "https://os.mbed.com/users/jksoft/code/MilkcocoaOsSample_Eth_DigitalIn/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "milkcocoa",
+    "name": "Milkcocoa-os",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jksoft/code/Milkcocoa-os/"
+    }
+}

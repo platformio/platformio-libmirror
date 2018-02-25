@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "ITEAD STUDIO"
-            ],
-            "framework": "mbed",
+            "authors": "ITEAD STUDIO",
+            "frameworks": "mbed",
             "name": "ArduinoAPI"
         }
     ],
@@ -21,9 +19,7 @@
         "https://os.mbed.com/users/itead/code/WeeESP8266_UDPClientSingle/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "v1.0"
-    ],
+    "keywords": "v1.0",
     "name": "WeeESP8266",
     "platforms": "*",
     "repository": {

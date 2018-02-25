@@ -5,9 +5,7 @@
     },
     "description": "Simple stepper motor control via driver.",
     "frameworks": "mbed",
-    "keywords": [
-        "StepperController"
-    ],
+    "keywords": "StepperController",
     "name": "StepperController",
     "platforms": "*",
     "repository": {

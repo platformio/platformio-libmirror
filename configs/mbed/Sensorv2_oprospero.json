@@ -5,18 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Prosper Van"
-            ],
-            "framework": "mbed",
+            "authors": "Prosper Van",
+            "frameworks": "mbed",
             "name": "MotionDriverv512"
         }
     ],
     "description": "Sensor library for quadcopter",
     "frameworks": "mbed",
-    "keywords": [
-        "Sensorv2"
-    ],
+    "keywords": "Sensorv2",
     "name": "Sensorv2",
     "platforms": "*",
     "repository": {

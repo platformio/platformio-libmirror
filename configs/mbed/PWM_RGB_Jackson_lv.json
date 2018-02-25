@@ -5,9 +5,7 @@
     },
     "description": "using PWM to control RGB LED for RedBear Demo",
     "frameworks": "mbed",
-    "keywords": [
-        "PWM_RGB"
-    ],
+    "keywords": "PWM_RGB",
     "name": "PWM_RGB",
     "platforms": "*",
     "repository": {

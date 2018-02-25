@@ -5,17 +5,13 @@
     },
     "dependencies": [
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "L2Frame"
         },
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "crc"
         }
     ],
@@ -25,9 +21,7 @@
         "https://os.mbed.com/teams/ENEL400/code/LoRaTerminal/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "AlohaTransceiver"
-    ],
+    "keywords": "AlohaTransceiver",
     "name": "AlohaTransceiver",
     "platforms": "*",
     "repository": {

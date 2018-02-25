@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Jacob Bramley"
-            ],
-            "framework": "mbed",
+            "authors": "Jacob Bramley",
+            "frameworks": "mbed",
             "name": "PixelArray"
         }
     ],

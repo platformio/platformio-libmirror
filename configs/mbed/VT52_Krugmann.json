@@ -3,14 +3,9 @@
         "name": "Rainer Krugmann",
         "url": "https://os.mbed.com/users/Krugmann/"
     },
-    "description": "VT52 is an enhancement of class Serial and offers some Methods for Printing in VT52 Terminal Style:",
+    "description": "VT52 is an enhancement of class Serial and offers some Methods for Printing in VT52 Terminal Style: clearScreen() - to clear the whole Terminal Screen clearLine() - to clear the ...",
     "frameworks": "mbed",
     "keywords": [
-        "Accel",
-        "accelerometer",
-        "gyro",
-        "gyroscope",
-        "IMU",
         "Serial",
         "Terminal",
         "VT100",

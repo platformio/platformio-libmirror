@@ -5,17 +5,13 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Nico De Witte"
-            ],
-            "framework": "mbed",
+            "authors": "Nico De Witte",
+            "frameworks": "mbed",
             "name": "NeoPixelString"
         },
         {
-            "authors": [
-                "Nico De Witte"
-            ],
-            "framework": "mbed",
+            "authors": "Nico De Witte",
+            "frameworks": "mbed",
             "name": "SimplyLog"
         }
     ],

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Anagha Bakare",
+        "url": "https://os.mbed.com/users/anaghabakare/"
+    },
+    "description": "A temperature data logger having different functionality using interrupts, tickers etc",
+    "frameworks": "mbed",
+    "keywords": "Temperature Data Logger",
+    "name": "Temperature Data Logger",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/anaghabakare/code/Temperature-Data-Logger/"
+    }
+}

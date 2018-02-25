@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Erik Olieman"
-            ],
-            "framework": "mbed",
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
             "name": "FastPWM"
         }
     ],

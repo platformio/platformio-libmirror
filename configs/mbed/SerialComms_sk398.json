@@ -5,9 +5,7 @@
     },
     "description": "UART Driver to receive asynchronous Serial Comms from a Raspberry Pi and parse the results.",
     "frameworks": "mbed",
-    "keywords": [
-        "SerialComms"
-    ],
+    "keywords": "SerialComms",
     "name": "SerialComms",
     "platforms": "*",
     "repository": {

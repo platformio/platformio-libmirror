@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "ClĂŠment BENOIT",
+        "name": "Clément BENOIT",
         "url": "https://os.mbed.com/users/clemounet/"
     },
     "description": "CanInterface Dispatcher, it depends on MyThread (MyThings lib)",
@@ -8,9 +8,7 @@
         "https://os.mbed.com/users/clemounet/code/PYRN/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "CAN"
-    ],
+    "keywords": "CAN",
     "name": "CAN",
     "platforms": "*",
     "repository": {

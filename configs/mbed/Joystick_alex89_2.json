@@ -5,9 +5,7 @@
     },
     "description": "A class to handle reading, scaling and filtering horizontal and vertical position, and rise/fall interrupts for the button.",
     "frameworks": "mbed",
-    "keywords": [
-        "joystick"
-    ],
+    "keywords": "joystick",
     "name": "Joystick",
     "platforms": "*",
     "repository": {

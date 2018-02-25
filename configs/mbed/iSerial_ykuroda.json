@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Yoji KURODA"
-            ],
-            "framework": "mbed",
+            "authors": "Yoji KURODA",
+            "frameworks": "mbed",
             "name": "RingBuffer"
         }
     ],

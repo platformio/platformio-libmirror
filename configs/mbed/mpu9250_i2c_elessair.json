@@ -5,9 +5,7 @@
     },
     "description": "first release fork of MPU9250AHRS from Kris Winer",
     "frameworks": "mbed",
-    "keywords": [
-        "mpu9250_i2c"
-    ],
+    "keywords": "mpu9250_i2c",
     "name": "mpu9250_i2c",
     "platforms": "*",
     "repository": {

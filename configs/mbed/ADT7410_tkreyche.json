@@ -8,12 +8,11 @@
         "https://os.mbed.com/users/micono/code/BLE_ADT7410_TMP102_Sample/",
         "https://os.mbed.com/users/nobukuma/code/BLE_HTM_HRM1017/",
         "https://os.mbed.com/users/Jun_adi/code/BLENano_SimpleTemplate_temp_170802/",
-        "https://os.mbed.com/users/Jun_adi/code/BLENano_SimpleTemplate_temp_170813/"
+        "https://os.mbed.com/users/Jun_adi/code/BLENano_SimpleTemplate_temp_170813/",
+        "https://os.mbed.com/users/respon/code/Airio-Base_ADT7410/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "ADT7410"
-    ],
+    "keywords": "ADT7410",
     "name": "ADT7410",
     "platforms": "*",
     "repository": {

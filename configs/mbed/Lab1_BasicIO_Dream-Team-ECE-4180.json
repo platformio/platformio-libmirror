@@ -5,25 +5,24 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Andy Kirkham"
-            ],
-            "framework": "mbed",
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
             "name": "DebounceIn"
         },
         {
-            "authors": [
-                "Andy Kirkham"
-            ],
-            "framework": "mbed",
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
             "name": "PinDetect"
         }
     ],
     "description": "Lab that has to do with basic IO on mbed.",
     "frameworks": "mbed",
-    "keywords": [
-        "Lab1_BasicIO"
-    ],
+    "keywords": "Lab1_BasicIO",
     "name": "Lab1_BasicIO",
     "platforms": "*",
     "repository": {

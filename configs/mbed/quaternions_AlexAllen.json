@@ -5,9 +5,7 @@
     },
     "description": "A class which implements some basic quaternion functions",
     "frameworks": "mbed",
-    "keywords": [
-        "quaternions"
-    ],
+    "keywords": "quaternions",
     "name": "quaternions",
     "platforms": "*",
     "repository": {

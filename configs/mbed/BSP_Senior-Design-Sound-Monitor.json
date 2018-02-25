@@ -5,24 +5,18 @@
     },
     "dependencies": [
         {
-            "authors": [
-                " "
-            ],
-            "framework": "mbed",
+            "authors": "",
+            "frameworks": "mbed",
             "name": "CMSIS_STM32L4xx"
         },
         {
-            "authors": [
-                "Eli Hughes"
-            ],
-            "framework": "mbed",
+            "authors": "Eli Hughes",
+            "frameworks": "mbed",
             "name": "CMSIS_DSP_401"
         },
         {
-            "authors": [
-                "Eric Lewiston"
-            ],
-            "framework": "mbed",
+            "authors": "Eric Lewiston",
+            "frameworks": "mbed",
             "name": "STM32L4xx_HAL_Driver"
         }
     ],
@@ -31,9 +25,7 @@
         "https://os.mbed.com/teams/Senior-Design-Sound-Monitor/code/DiscoAudioRecord/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "BSP"
-    ],
+    "keywords": "BSP",
     "name": "BSP",
     "platforms": "*",
     "repository": {

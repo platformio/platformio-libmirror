@@ -5,9 +5,7 @@
     },
     "description": "Software based digital input debouncer",
     "frameworks": "mbed",
-    "keywords": [
-        "DigitalInDebounced"
-    ],
+    "keywords": "DigitalInDebounced",
     "name": "DigitalInDebounced",
     "platforms": "*",
     "repository": {

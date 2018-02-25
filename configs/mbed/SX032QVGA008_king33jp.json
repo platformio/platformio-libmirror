@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Imayan chan"
-            ],
-            "framework": "mbed",
+            "authors": "Imayan chan",
+            "frameworks": "mbed",
             "name": "SPI_TFT_ILI9341ext"
         }
     ],

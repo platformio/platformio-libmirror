@@ -5,31 +5,27 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Aloïs Wolff"
-            ],
+            "authors": "Aloïs Wolff",
             "frameworks": "mbed",
             "name": "MPU6050_tmp"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
         }
     ],
     "description": "quick and probably buggy port from the FreeIMU 0.4 library adapted for MBED and MPU6050 only...",
     "frameworks": "mbed",
     "keywords": [
-        "http",
-        "NET",
-        "network",
-        "webservice",
-        "xml",
         "FreeIMU",
         "IMU",
-        "MPU6050",
-        "CAN",
-        "mbed"
+        "MPU6050"
     ],
     "name": "MbedFreeIMU",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/pommzorz/code/MbedFreeIMU/"
+        "url": "https://os.mbed.com/users/pommzorz/code/MbedFreeIMU/"
     }
 }

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "François Berder",
+        "url": "https://os.mbed.com/users/feb11/"
+    },
+    "description": "This is a fork of the mbed port of axTLS",
+    "examples": [
+        "https://os.mbed.com/users/feb11/code/TLS_axTLS-Example/",
+        "https://os.mbed.com/users/feb11/code/HTTPSClientExample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "SSL",
+        "TLS"
+    ],
+    "name": "TLS_axTLS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/feb11/code/TLS_axTLS/"
+    }
+}

@@ -5,9 +5,7 @@
     },
     "description": "Asynchronous Serial Library with flow control and tag detection.",
     "frameworks": "mbed",
-    "keywords": [
-        "AsyncSerial"
-    ],
+    "keywords": "AsyncSerial",
     "name": "AsyncSerial",
     "platforms": "*",
     "repository": {

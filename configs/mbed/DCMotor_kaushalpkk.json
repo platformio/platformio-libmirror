@@ -5,9 +5,7 @@
     },
     "description": "software to control a DC motor, preferably interfacing with a motor driver.",
     "frameworks": "mbed",
-    "keywords": [
-        "acctuators"
-    ],
+    "keywords": "acctuators",
     "name": "DCMotor",
     "platforms": "*",
     "repository": {

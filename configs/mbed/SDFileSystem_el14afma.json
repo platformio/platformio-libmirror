@@ -5,9 +5,7 @@
     },
     "description": "SD library",
     "frameworks": "mbed",
-    "keywords": [
-        "SDFileSystem"
-    ],
+    "keywords": "SDFileSystem",
     "name": "SDFileSystem",
     "platforms": "*",
     "repository": {

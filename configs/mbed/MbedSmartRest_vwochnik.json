@@ -5,17 +5,13 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Vincent Wochnik"
-            ],
-            "framework": "mbed",
+            "authors": "Vincent Wochnik",
+            "frameworks": "mbed",
             "name": "HTTPClient"
         },
         {
-            "authors": [
-                "Vincent Wochnik"
-            ],
-            "framework": "mbed",
+            "authors": "Vincent Wochnik",
+            "frameworks": "mbed",
             "name": "SmartRest"
         }
     ],

@@ -5,9 +5,7 @@
     },
     "description": "パケットごとに出し入れするFIFOバッファ",
     "frameworks": "mbed",
-    "keywords": [
-        "buffer"
-    ],
+    "keywords": "buffer",
     "name": "PacketBuffer",
     "platforms": "*",
     "repository": {

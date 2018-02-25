@@ -5,18 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Akinori Hashimoto"
-            ],
-            "framework": "mbed",
+            "authors": "Akinori Hashimoto",
+            "frameworks": "mbed",
             "name": "StrLib"
         }
     ],
     "description": "Real Time Clock. get time-str, set time.",
     "frameworks": "mbed",
-    "keywords": [
-        "realtimeclock"
-    ],
+    "keywords": "realtimeclock",
     "name": "RealTimeClock",
     "platforms": "*",
     "repository": {

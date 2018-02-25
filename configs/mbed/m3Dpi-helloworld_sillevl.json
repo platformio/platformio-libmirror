@@ -5,17 +5,23 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Sille Van Landschoot"
-            ],
-            "framework": "mbed",
+            "authors": "Sille Van Landschoot",
+            "frameworks": "mbed",
             "name": "m3Dpi"
         },
         {
-            "authors": [
-                "Samuel Mokrani"
-            ],
-            "framework": "mbed",
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Samuel Mokrani",
+            "frameworks": "mbed",
             "name": "MbedJSONValue"
         }
     ],

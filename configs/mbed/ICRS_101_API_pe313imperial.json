@@ -3,11 +3,16 @@
         "name": "Patrick Engelbert",
         "url": "https://os.mbed.com/users/pe313imperial/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "API for ICRS 101 sessions to allow manual control of robots",
     "frameworks": "mbed",
-    "keywords": [
-        "ICRS_101_API"
-    ],
+    "keywords": "ICRS_101_API",
     "name": "ICRS_101_API",
     "platforms": "*",
     "repository": {

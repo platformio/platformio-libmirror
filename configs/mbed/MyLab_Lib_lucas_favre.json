@@ -5,17 +5,13 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Edoardo De Marchi"
-            ],
-            "framework": "mbed",
+            "authors": "Edoardo De Marchi",
+            "frameworks": "mbed",
             "name": "MMA7660FC"
         },
         {
-            "authors": [
-                "Favre Lucas"
-            ],
-            "framework": "mbed",
+            "authors": "Favre Lucas",
+            "frameworks": "mbed",
             "name": "LCD_lib"
         }
     ],

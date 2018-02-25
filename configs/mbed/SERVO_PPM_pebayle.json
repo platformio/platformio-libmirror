@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "Thierry PĂŠbayle",
+        "name": "Thierry Pébayle",
         "url": "https://os.mbed.com/users/pebayle/"
     },
     "description": "servo PWM and PPM output library. Uses timeout timers to provide servo PWM and PPM signals on any digital out pin. (does not use internal PWM generators). Flysky RC receiver ...",

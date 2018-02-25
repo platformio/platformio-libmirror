@@ -5,31 +5,23 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Kevin Anderson"
-            ],
-            "framework": "mbed",
+            "authors": "Kevin Anderson",
+            "frameworks": "mbed",
             "name": "C12832"
         },
         {
-            "authors": [
-                "Jim Carver"
-            ],
-            "framework": "mbed",
+            "authors": "Jim Carver",
+            "frameworks": "mbed",
             "name": "FXOS8700Q"
         },
         {
-            "authors": [
-                "Chris Styles"
-            ],
-            "framework": "mbed",
+            "authors": "Chris Styles",
+            "frameworks": "mbed",
             "name": "LM75B"
         },
         {
-            "authors": [
-                "Erik Olieman"
-            ],
-            "framework": "mbed",
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
             "name": "MMA7660"
         }
     ],

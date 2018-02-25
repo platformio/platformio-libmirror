@@ -5,10 +5,8 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "SE HUI PARK"
-            ],
-            "framework": "mbed",
+            "authors": "SE HUI PARK",
+            "frameworks": "mbed",
             "name": "arduino"
         }
     ],
@@ -17,9 +15,7 @@
         "https://os.mbed.com/users/jont/code/aa_gd_jw/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Gameduino2"
-    ],
+    "keywords": "Gameduino2",
     "name": "Gameduino2",
     "platforms": "*",
     "repository": {
