@@ -25,7 +25,7 @@ class MbedParserPipeline(object):
         path = os.path.dirname(os.path.realpath(__file__))
         repo_tokens = json_item['repository']['url'].split('/')
         with codecs.open(
-                path + '/configs/' + repo_tokens[6] + "_" + repo_tokens[4] +
+                path + '../../..//configs/' + repo_tokens[6] + "_" + repo_tokens[4] +
                 ".json",
                 "w",
                 encoding='utf-8') as f:

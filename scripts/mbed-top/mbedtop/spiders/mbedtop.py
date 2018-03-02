@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import logging
 import scrapy
-from mbed_parser.items import MbedParserItem, MbedParserLoader
+from mbedtop.items import MbedParserItem, MbedParserLoader
 
 logging.basicConfig()
 logger = logging.getLogger('mbed-terrier')
