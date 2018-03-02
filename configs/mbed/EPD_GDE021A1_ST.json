@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "ePaperDisplay (ePD) gde021a1 driver. This ePD is present on the STMicroelectronics Discovery L053 board (STM32L0538-DISCO).",
+    "examples": [
+        "https://os.mbed.com/users/cristimih/code/DISCO-L053C8_ePD_demo/",
+        "https://os.mbed.com/users/lamyaezerrouki/code/DISCO-L053C8_ePD_demo/",
+        "https://os.mbed.com/teams/RucheCo1/code/Ruche_V1/",
+        "https://os.mbed.com/users/flawless/code/DISCO-L053C8_ePD_demo/",
+        "https://os.mbed.com/users/meta1/code/DISCO-L053C8_ePD_demo/",
+        "https://os.mbed.com/users/flawless/code/DISCO-L053C8_ePD_demo1/",
+        "https://os.mbed.com/teams/ST/code/DISCO-L053C8_ePD_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "disco",
+        "discovery",
+        "ePaper",
+        "EPD",
+        "ST"
+    ],
+    "name": "EPD_GDE021A1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/EPD_GDE021A1/"
+    }
+}

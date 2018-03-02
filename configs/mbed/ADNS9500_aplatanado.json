@@ -3,13 +3,16 @@
         "name": "Jesús Torres",
         "url": "https://os.mbed.com/users/aplatanado/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "Interface to access to Avago ADNS-9500 laser mouse sensors.",
     "frameworks": "mbed",
     "keywords": [
-        "control",
-        "led",
-        "LPC1768",
-        "mbed",
         "adns9500",
         "avago",
         "laser",

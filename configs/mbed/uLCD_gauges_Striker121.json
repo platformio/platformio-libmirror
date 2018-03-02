@@ -8,18 +8,7 @@
         "https://os.mbed.com/users/Striker121/code/uLCDgaugeTest/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "DISCO_F746NG",
-        "EEPROM",
-        "BME280",
-        "DISCO_F429ZI",
-        "sdram",
-        "brushless",
-        "L293D",
-        "LPC1768",
-        "mbed",
-        "motor"
-    ],
+    "keywords": "uLCD_gauges",
     "name": "uLCD_gauges",
     "platforms": "*",
     "repository": {

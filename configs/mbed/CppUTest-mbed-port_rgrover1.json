@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Rohit Grover",
+        "url": "https://os.mbed.com/users/rgrover1/"
+    },
+    "description": "CppUTest is a C /C++ based unit xUnit test framework for unit testing and for test-driving your code.",
+    "frameworks": "mbed",
+    "keywords": [
+        "cpputest",
+        "TDD",
+        "test",
+        "testframework",
+        "unit-test"
+    ],
+    "name": "CppUTest-mbed-port",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rgrover1/code/CppUTest-mbed-port/"
+    }
+}

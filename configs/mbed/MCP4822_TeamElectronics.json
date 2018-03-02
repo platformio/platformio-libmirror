@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "TeamElectronics",
+        "url": "https://os.mbed.com/teams/TeamElectronics/"
+    },
+    "description": "12-Bit DAC with internal Vref and SPI interface",
+    "frameworks": "mbed",
+    "keywords": "MCP4822",
+    "name": "MCP4822",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/TeamElectronics/code/MCP4822/"
+    }
+}

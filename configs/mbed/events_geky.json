@@ -8,16 +8,7 @@
         "https://os.mbed.com/users/geky/code/SimpleHTTPExample/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "malloc",
-        "memory",
-        "AQM1602",
-        "SSL",
-        "TLS",
-        "clock",
-        "ds1307",
-        "RTC"
-    ],
+    "keywords": "events",
     "name": "events",
     "platforms": "*",
     "repository": {

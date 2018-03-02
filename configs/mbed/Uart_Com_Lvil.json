@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Adrien Chambellan",
+        "url": "https://os.mbed.com/users/Lvil/"
+    },
+    "description": "nordic nRF51 ---> Nucleo L053",
+    "frameworks": "mbed",
+    "keywords": "Uart_Com",
+    "name": "Uart_Com",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Lvil/code/Uart_Com/"
+    }
+}

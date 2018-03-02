@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Rod Coleman",
+        "url": "https://os.mbed.com/users/RodColeman/"
+    },
+    "description": "Port of LwIP performed by Ralf in 2010. Not recommended for use with recent mbed libraries, but good demos of raw LwIP possible",
+    "examples": [
+        "https://os.mbed.com/users/RodColeman/code/LwIP_raw_API_serverExample/",
+        "https://os.mbed.com/users/saranieves92/code/tiny-dtls/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "lwip-mbed-2010",
+    "name": "lwip-mbed-2010",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RodColeman/code/lwip-mbed-2010/"
+    }
+}

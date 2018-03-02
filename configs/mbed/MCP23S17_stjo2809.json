@@ -10,24 +10,7 @@
         "https://os.mbed.com/teams/Marine-Electricals/code/POT_V_1_0/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "MCP23S17",
-        "F042K6",
-        "F103RB",
-        "L152RE",
-        "STM32F0",
-        "STM32F1",
-        "STM32L1",
-        "USBDevice",
-        "ARCH",
-        "GPRS",
-        "Seeed",
-        "v2",
-        "DC",
-        "driver",
-        "H-bridge",
-        "motor"
-    ],
+    "keywords": "MCP23S17",
     "name": "MCP23S17",
     "platforms": "*",
     "repository": {

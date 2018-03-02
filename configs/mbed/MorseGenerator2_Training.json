@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Training",
+        "url": "https://os.mbed.com/teams/Training/"
+    },
+    "description": "A MorseGenerator library that uses LED to blink morse code",
+    "examples": [
+        "https://os.mbed.com/teams/Training/code/MorseGenerator_Example2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MorseGenerator2",
+    "name": "MorseGenerator2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Training/code/MorseGenerator2/"
+    }
+}

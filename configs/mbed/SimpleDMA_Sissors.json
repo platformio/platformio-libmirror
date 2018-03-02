@@ -17,7 +17,10 @@
         "https://os.mbed.com/users/pradeepvk2208/code/cdms_april2_2016/"
     ],
     "frameworks": "mbed",
-    "keywords": "SimpleDMA",
+    "keywords": [
+        "DMA",
+        "KL25z"
+    ],
     "name": "SimpleDMA",
     "platforms": "*",
     "repository": {

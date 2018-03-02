@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Yihui Xiong",
+        "url": "https://os.mbed.com/users/yihui/"
+    },
+    "description": "customized mbed library sources for nrf51822",
+    "examples": [
+        "https://os.mbed.com/teams/Seeed/code/Grove_Node/",
+        "https://os.mbed.com/users/siridjen/code/Potentiometer/",
+        "https://os.mbed.com/users/james4jobs/code/BLE_Beacon/",
+        "https://os.mbed.com/users/Cannonball2134/code/I2C_Scanner/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed",
+        "nRF51822"
+    ],
+    "name": "mbed-src-nrf51822",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yihui/code/mbed-src-nrf51822/"
+    }
+}

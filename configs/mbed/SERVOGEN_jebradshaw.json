@@ -10,14 +10,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "flash",
-        "SPI",
         "Servo",
         "servo pulse",
-        "WSE",
-        "bitmap",
-        "BMP",
-        "image"
+        "WSE"
     ],
     "name": "SERVOGEN",
     "platforms": "*",

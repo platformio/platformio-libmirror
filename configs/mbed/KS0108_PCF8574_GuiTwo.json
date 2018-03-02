@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Guillaume Fricker"
-            ],
+            "authors": "Guillaume Fricker",
             "frameworks": "mbed",
             "name": "BusEnums"
         }
@@ -17,22 +15,11 @@
         "https://os.mbed.com/users/GuiTwo/code/Menu/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "current",
-        "I2C",
-        "INA219",
-        "Power",
-        "voltage",
-        "DISCO_F429ZI",
-        "gyroscope",
-        "DC Motor controller",
-        "h bridge",
-        "motor driver"
-    ],
+    "keywords": "KS0108_PCF8574",
     "name": "KS0108_PCF8574",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/GuiTwo/code/KS0108_PCF8574/"
+        "url": "https://os.mbed.com/users/GuiTwo/code/KS0108_PCF8574/"
     }
 }

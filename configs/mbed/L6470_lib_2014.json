@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "CatPot 2015-2016",
+        "url": "https://os.mbed.com/teams/2014/"
+    },
+    "description": "L6470 use library",
+    "examples": [
+        "https://os.mbed.com/teams/2014/code/CatPot_Main_ver1/",
+        "https://os.mbed.com/teams/2014/code/CatPot_Main_F/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "L6470_lib",
+    "name": "L6470_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/2014/code/L6470_lib/"
+    }
+}

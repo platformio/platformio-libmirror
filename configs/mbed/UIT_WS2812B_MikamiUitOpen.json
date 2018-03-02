@@ -3,7 +3,7 @@
         "name": "不韋 呂",
         "url": "https://os.mbed.com/users/MikamiUitOpen/"
     },
-    "description": "Class library for WS2812B. Board: Nucleo-F401RE and Nucleo-F446RE using SPI.",
+    "description": "Class library for WS2812B. Board: Nucleo-F401RE and Nucleo-F446RE using SPI. WS2812B 用クラスライブラリ．SPI を使用．",
     "examples": [
         "https://os.mbed.com/users/MikamiUitOpen/code/Demo_WS2812B_SPI/"
     ],
@@ -15,10 +15,7 @@
         "RGB LED",
         "SPI",
         "UIT",
-        "WS2812B",
-        "camera",
-        "MARMEX-VB",
-        "MARY"
+        "WS2812B"
     ],
     "name": "UIT_WS2812B",
     "platforms": "*",

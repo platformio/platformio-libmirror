@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Wesley Schon",
+        "url": "https://os.mbed.com/users/wschon/"
+    },
+    "description": "Driver for Sparkfun GP-20U7 GPS module",
+    "examples": [
+        "https://os.mbed.com/users/wschon/code/GP20U7_HelloWorld/",
+        "https://os.mbed.com/users/alex7095/code/gpsmpu60500/",
+        "https://os.mbed.com/users/mmittal8/code/BaseStation/",
+        "https://os.mbed.com/users/dnergui3/code/healt_monitor_ECE4180/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GPS",
+        "sparkfun"
+    ],
+    "name": "GP-20U7",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wschon/code/GP-20U7/"
+    }
+}

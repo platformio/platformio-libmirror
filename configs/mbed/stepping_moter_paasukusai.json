@@ -3,7 +3,7 @@
         "name": "hiro ng",
         "url": "https://os.mbed.com/users/paasukusai/"
     },
-    "description": "liblary for stepping_motor",
+    "description": "liblary for stepping_motor stepping_moter name(pin,pin,pin,pin);φ1,φ2,~φ1,~φ2 name.step_moter(act step,wait time per step)",
     "frameworks": "mbed",
     "keywords": [
         "motor",

@@ -3,16 +3,12 @@
         "name": "Ad van der Weiden",
         "url": "https://os.mbed.com/users/networker/"
     },
-    "description": "At each sample the oldest value in the window is replaced with the new value and it is checked if the new value affects the median, if so a new value for the median is selected.",
+    "description": "At each sample the oldest value in the window is replaced with the new value and it is checked if the new value affects the median, if so a new ...",
     "frameworks": "mbed",
     "keywords": [
         "median",
         "sliding",
-        "window",
-        "Host",
-        "mbed",
-        "PTP",
-        "USB"
+        "window"
     ],
     "name": "medianfilter",
     "platforms": "*",

@@ -8,7 +8,12 @@
         "https://os.mbed.com/users/liam/code/Adafruit_GFX/"
     ],
     "frameworks": "mbed",
-    "keywords": "Adafruit_GFX",
+    "keywords": [
+        "Adafruit",
+        "GFX",
+        "LCD",
+        "TFT"
+    ],
     "name": "Adafruit_GFX",
     "platforms": "*",
     "repository": {

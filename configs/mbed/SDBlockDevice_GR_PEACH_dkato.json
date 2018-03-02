@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Daiki Kato"
-            ],
+            "authors": "Daiki Kato",
             "frameworks": "mbed",
             "name": "sd-driver-hs"
         }
@@ -25,6 +23,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/dkato/code/SDBlockDevice_GR_PEACH/"
+        "url": "https://os.mbed.com/users/dkato/code/SDBlockDevice_GR_PEACH/"
     }
 }

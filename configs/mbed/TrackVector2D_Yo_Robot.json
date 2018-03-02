@@ -16,13 +16,7 @@
         "math",
         "matrix",
         "mobile",
-        "robot",
-        "I2C",
-        "LM75B",
-        "MSS",
-        "MSU",
-        "sensor",
-        "Temperature"
+        "robot"
     ],
     "name": "TrackVector2D",
     "platforms": "*",

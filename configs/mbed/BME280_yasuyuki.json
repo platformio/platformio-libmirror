@@ -8,22 +8,7 @@
         "https://os.mbed.com/users/yasuyuki/code/mbed_BME280/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "HD44780",
-        "http",
-        "SSL",
-        "TLS",
-        "BME280",
-        "23K256",
-        "23LC1024",
-        "DMA",
-        "FIFO",
-        "RAM",
-        "ring buffer",
-        "SPI",
-        "sram",
-        "basicauth"
-    ],
+    "keywords": "BME280",
     "name": "BME280",
     "platforms": "*",
     "repository": {

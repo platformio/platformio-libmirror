@@ -8,10 +8,7 @@
         "https://os.mbed.com/users/DasSidG/code/BMS_BMUCore_Max_DummyData/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "HD44780",
-        "TextLCD"
-    ],
+    "keywords": "DS1820",
     "name": "DS1820",
     "platforms": "*",
     "repository": {

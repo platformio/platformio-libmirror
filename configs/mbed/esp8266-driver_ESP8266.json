@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "ESP8266",
+        "url": "https://os.mbed.com/teams/ESP8266/"
+    },
+    "description": "The driver for the ESP8266 WiFi module",
+    "frameworks": "mbed",
+    "keywords": "esp8266-driver",
+    "name": "esp8266-driver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ESP8266/code/esp8266-driver/"
+    }
+}

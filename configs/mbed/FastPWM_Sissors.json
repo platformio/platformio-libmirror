@@ -17,7 +17,11 @@
         "https://os.mbed.com/users/Clemo/code/kinetisizer/"
     ],
     "frameworks": "mbed",
-    "keywords": "FastPWM",
+    "keywords": [
+        "pwm",
+        "resolution",
+        "Speed"
+    ],
     "name": "FastPWM",
     "platforms": "*",
     "repository": {

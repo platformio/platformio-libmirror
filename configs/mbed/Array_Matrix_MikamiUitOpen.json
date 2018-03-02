@@ -17,7 +17,12 @@
         "https://os.mbed.com/users/MikamiUitOpen/code/CQ_DigitalFilterLab/"
     ],
     "frameworks": "mbed",
-    "keywords": "Array_Matrix",
+    "keywords": [
+        "1D",
+        "2D",
+        "array",
+        "matrix"
+    ],
     "name": "Array_Matrix",
     "platforms": "*",
     "repository": {

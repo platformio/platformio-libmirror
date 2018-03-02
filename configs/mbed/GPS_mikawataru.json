@@ -8,13 +8,7 @@
         "https://os.mbed.com/teams/CORE/code/Sample_GPSlib/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "GPS",
-        "8563",
-        "LPC1768",
-        "PCF",
-        "PCF8563"
-    ],
+    "keywords": "GPS",
     "name": "GPS",
     "platforms": "*",
     "repository": {

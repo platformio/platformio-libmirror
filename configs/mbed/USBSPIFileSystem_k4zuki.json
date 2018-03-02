@@ -12,9 +12,7 @@
         "EEPROM",
         "MSD",
         "SPI",
-        "USB",
-        "7-segment",
-        "I2C"
+        "USB"
     ],
     "name": "USBSPIFileSystem",
     "platforms": "*",

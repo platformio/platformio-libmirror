@@ -6,13 +6,8 @@
     "description": "Tickerなどのタイマー要素を使わずにmain()内のwhile(1)内で定期実行するためのクラスです。",
     "frameworks": "mbed",
     "keywords": [
-        "SPI",
-        "TC77",
-        "Temperature",
         "Ticker",
-        "timer",
-        "debug",
-        "test"
+        "timer"
     ],
     "name": "pInterval",
     "platforms": "*",

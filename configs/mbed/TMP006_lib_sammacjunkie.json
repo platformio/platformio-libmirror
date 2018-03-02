@@ -11,13 +11,7 @@
         "https://os.mbed.com/teams/BTSSN-Projet-Drone-Imagerie-et-Telemetri/code/TMP006IR_HelloWorld/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "BMP180",
-        "DTH11",
-        "DTH22",
-        "RHT03",
-        "TMP006"
-    ],
+    "keywords": "TMP006",
     "name": "TMP006_lib",
     "platforms": "*",
     "repository": {

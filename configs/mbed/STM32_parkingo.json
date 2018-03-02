@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "parkingo",
+        "url": "https://os.mbed.com/teams/parkingo/"
+    },
+    "description": "microcontrolleur",
+    "frameworks": "mbed",
+    "keywords": "STM32",
+    "name": "STM32",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/parkingo/code/STM32/"
+    }
+}

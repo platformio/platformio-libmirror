@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Dominic Ottaviano",
+        "url": "https://os.mbed.com/users/ottaviano3/"
+    },
+    "description": "Library for setting up the Parallax X-Band Motion Detector.",
+    "examples": [
+        "https://os.mbed.com/users/ottaviano3/code/Parallax_XBAND_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Parallax X-Band",
+        "Radar",
+        "X-Band"
+    ],
+    "name": "Parallax_X-Band",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ottaviano3/code/Parallax_X-Band/"
+    }
+}

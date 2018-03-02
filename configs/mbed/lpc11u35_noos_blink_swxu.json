@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Siwei Xu",
+        "url": "https://os.mbed.com/users/swxu/"
+    },
+    "description": "LPC11U35 blink example without mbed-os",
+    "frameworks": "mbed",
+    "keywords": "lpc11u35_noos_blink",
+    "name": "lpc11u35_noos_blink",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/swxu/code/lpc11u35_noos_blink/"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Lancaster University",
+        "url": "https://os.mbed.com/teams/Lancaster-University/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "nrf51-sdk"
+        }
+    ],
+    "description": "Clone of the nRF51822 repository from github The correct home is https://github.com/lancaster-university/nRF51822",
+    "examples": [
+        "https://os.mbed.com/teams/Lancaster-University/code/microbit-dal/",
+        "https://os.mbed.com/users/fbeaufort/code/microbit-ble-open/",
+        "https://os.mbed.com/users/bluetooth_mdw/code/microbit-dal-eddystone/",
+        "https://os.mbed.com/users/bluetooth_mdw/code/microbit-dal-ble-accelerometer-example/",
+        "https://os.mbed.com/users/bluetooth_mdw/code/microbit-dal-x/",
+        "https://os.mbed.com/users/jaafreitas/code/microbit-dal/",
+        "https://os.mbed.com/users/cristianobarbosa/code/microbit-dal/",
+        "https://os.mbed.com/users/cristianobarbosa/code/microbit-dal2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "nRF51822",
+    "name": "nRF51822",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Lancaster-University/code/nRF51822/"
+    }
+}

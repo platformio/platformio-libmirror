@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Lancaster University",
+        "url": "https://os.mbed.com/teams/Lancaster-University/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "microbit-dal"
+        }
+    ],
+    "description": "developer.mbed.org branch of Lancaster University's microbit library. The real home for this is https://github.com/lancaster-university/microbit",
+    "examples": [
+        "https://os.mbed.com/teams/BBC/code/microbit-samples/",
+        "https://os.mbed.com/users/mazimkhan/code/microbit_snake/",
+        "https://os.mbed.com/teams/microbit/code/microbit_snake/",
+        "https://os.mbed.com/teams/microbit/code/microbit-letter-game/",
+        "https://os.mbed.com/teams/microbit/code/microbit-component-display/",
+        "https://os.mbed.com/users/elijah_ubit/code/MicroBitBuggy/",
+        "https://os.mbed.com/teams/microbit/code/microbit-accelerometer/",
+        "https://os.mbed.com/teams/microbit/code/microbit-button-events/",
+        "https://os.mbed.com/teams/microbit/code/microbit-greyscale/",
+        "https://os.mbed.com/teams/microbit/code/microbit-hello-world/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "dal",
+        "lancaster",
+        "Microbit"
+    ],
+    "name": "microbit",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Lancaster-University/code/microbit/"
+    }
+}

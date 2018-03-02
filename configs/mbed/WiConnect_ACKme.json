@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "ACKme",
+        "url": "https://os.mbed.com/teams/ACKme/"
+    },
+    "description": "Host library for controlling a WiConnect enabled Wi-Fi module.",
+    "examples": [
+        "https://os.mbed.com/teams/ACKme/code/wiconnect-ota_example/",
+        "https://os.mbed.com/teams/ACKme/code/wiconnect-web_setup_example/",
+        "https://os.mbed.com/teams/ACKme/code/wiconnect-test-console/",
+        "https://os.mbed.com/teams/ACKme/code/wiconnect-tcp_server_example/",
+        "https://os.mbed.com/teams/ACKme/code/wiconnect-mbed-udp_echo_client/",
+        "https://os.mbed.com/teams/ACKme/code/wiconnect-mbed-tcp_echo_client/",
+        "https://os.mbed.com/teams/ACKme/code/wiconnect-join_example/",
+        "https://os.mbed.com/teams/ACKme/code/wiconnect-http_get_example/",
+        "https://os.mbed.com/teams/ST-Americas-mbed-Team/code/m2x-MEMS_ACKme_Wifi_demo/",
+        "https://os.mbed.com/teams/ACKme/code/wiconnect-websocket/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "WiConnect",
+    "name": "WiConnect",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ACKme/code/WiConnect/"
+    }
+}

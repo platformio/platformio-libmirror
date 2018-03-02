@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "ITEAD STUDIO"
-            ],
+            "authors": "ITEAD STUDIO",
             "frameworks": "mbed",
             "name": "ArduinoAPI"
         }
@@ -21,18 +19,11 @@
         "https://os.mbed.com/users/itead/code/WeeESP8266_UDPClientSingle/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "BSP",
-        "DISCO_L476VG",
-        "16 Bit A2D",
-        "Differential A2D",
-        "K64F",
-        "v1.0"
-    ],
+    "keywords": "v1.0",
     "name": "WeeESP8266",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/itead/code/WeeESP8266/"
+        "url": "https://os.mbed.com/users/itead/code/WeeESP8266/"
     }
 }

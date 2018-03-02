@@ -8,15 +8,7 @@
         "https://os.mbed.com/users/marin8703/code/XBee_WiFi_EA_LPC4088/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "HTS221",
-        "LPS22HB",
-        "LSM303AGR",
-        "LSM6DSL",
-        "Nucleo",
-        "X-NUCLEO-IKS01A1",
-        "X-NUCLEO-IKS01A2"
-    ],
+    "keywords": "EthernetNetIf",
     "name": "EthernetNetIf",
     "platforms": "*",
     "repository": {

@@ -18,13 +18,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F746NG",
-        "STM32F746",
         "display",
         "RenBED",
         "segment",
-        "Seven",
-        "LPC4330"
+        "Seven"
     ],
     "name": "SevenSegmentDisplay",
     "platforms": "*",

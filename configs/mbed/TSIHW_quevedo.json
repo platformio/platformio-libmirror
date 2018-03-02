@@ -3,12 +3,9 @@
         "name": "Antonio Quevedo",
         "url": "https://os.mbed.com/users/quevedo/"
     },
-    "description": "This is a VERY low-level library for controlling the TSI hardware module in a KL25 microcontroller. The programmer creates the TSI object passing basic parameters, and selects the active channels. Then, a scan on a given channel can be started, and the raw result can be read.",
+    "description": "This is a VERY low-level library for controlling the TSI hardware module in a KL25 microcontroller. The programmer creates the TSI object passing basic parameters, and selects the active channels. ...",
     "frameworks": "mbed",
     "keywords": [
-        "NDEF",
-        "NFC",
-        "PN532",
         "KL25",
         "touch",
         "TSI"

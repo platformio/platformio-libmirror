@@ -17,23 +17,7 @@
         "https://os.mbed.com/users/fvelasquezv/code/SalidaA/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "1-wire",
-        "1wire",
-        "DS18B20",
-        "DS18S20",
-        "OneWire",
-        "CAN",
-        "FreeIMU",
-        "IMU",
-        "MPU6050",
-        "Pokitto",
-        "http",
-        "NET",
-        "network",
-        "webservice",
-        "xml"
-    ],
+    "keywords": "Debounced",
     "name": "Debounced",
     "platforms": "*",
     "repository": {

@@ -5,14 +5,7 @@
     },
     "description": "Ported Arduino RF24Network library.",
     "frameworks": "mbed",
-    "keywords": [
-        "axis",
-        "motion",
-        "PID",
-        "robot arm",
-        "trapezoid",
-        "trapezoidal profile"
-    ],
+    "keywords": "RF24Network",
     "name": "RF24Network",
     "platforms": "*",
     "repository": {

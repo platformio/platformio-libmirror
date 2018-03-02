@@ -9,12 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BSP",
-        "DISCO_L476VG",
         "16 Bit A2D",
         "Differential A2D",
-        "K64F",
-        "v1.0"
+        "K64F"
     ],
     "name": "AnalogIn_Diff",
     "platforms": "*",

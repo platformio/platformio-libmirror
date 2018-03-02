@@ -3,7 +3,7 @@
         "name": "Tyler Weaver",
         "url": "https://os.mbed.com/users/tylerjw/"
     },
-    "description": "SDHCFileSystem in a library.",
+    "description": "SDHCFileSystem in a library. Requires FatFileSystem",
     "examples": [
         "https://os.mbed.com/users/okini3939/code/sdhc_speed_test/",
         "https://os.mbed.com/users/9SQ/code/ZY_FGD1442701V1_BusOut_SDHC/",
@@ -14,12 +14,7 @@
         "External SD",
         "file system",
         "SDHC",
-        "SPI",
-        "AppNearMe",
-        "NFC",
-        "fatfilesystem",
-        "LocalFileSystem",
-        "USBMSD"
+        "SPI"
     ],
     "name": "SDHC_FileSystem",
     "platforms": "*",

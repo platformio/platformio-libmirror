@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Semtech",
+        "url": "https://os.mbed.com/teams/Semtech/"
+    },
+    "description": "Driver for the SX1272 RF Transceiver",
+    "examples": [
+        "https://os.mbed.com/users/emcu/code/LORA-SX1272MB2xAS-PP/",
+        "https://os.mbed.com/teams/Campbell-Scientific-Australia/code/mDot_Semtech_LoRaWAN_Stack/",
+        "https://os.mbed.com/users/dudmuck/code/LoRaWAN-demo-72_mdotIKS01A1/",
+        "https://os.mbed.com/teams/projet-lievres/code/lora-project/",
+        "https://os.mbed.com/users/SvenKbach/code/LoRaWAN-demo-72/",
+        "https://os.mbed.com/users/nagarajkmurthy/code/LoRaWAN-NAMote72-Application-Demo_IoTium/",
+        "https://os.mbed.com/users/jerem28/code/SX1272Receiver/",
+        "https://os.mbed.com/users/abouillot/code/LoRaWAN-demo-72-bootcamp/",
+        "https://os.mbed.com/users/franc_unina/code/SX1272PingPong/",
+        "https://os.mbed.com/users/cenzino91/code/SX1272PingPong/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SX1272Lib",
+    "name": "SX1272Lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Semtech/code/SX1272Lib/"
+    }
+}

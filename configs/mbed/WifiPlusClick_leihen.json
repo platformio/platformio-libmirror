@@ -9,17 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "Grove",
-        "Seeedstudio",
         "socket",
         "wifi",
         "WifiPlusClick",
-        "WLAN",
-        "Capacitive",
-        "Input",
-        "sensor",
-        "touch"
+        "WLAN"
     ],
     "name": "WifiPlusClick",
     "platforms": "*",

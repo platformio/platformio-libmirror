@@ -10,19 +10,7 @@
     "frameworks": "mbed",
     "keywords": [
         "map",
-        "rescale",
-        "MCP23S17",
-        "DC",
-        "driver",
-        "H-bridge",
-        "motor",
-        "F042K6",
-        "F103RB",
-        "L152RE",
-        "STM32F0",
-        "STM32F1",
-        "STM32L1",
-        "USBDevice"
+        "rescale"
     ],
     "name": "reScale",
     "platforms": "*",

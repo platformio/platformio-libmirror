@@ -3,7 +3,7 @@
         "name": "Aaron Berk",
         "url": "https://os.mbed.com/users/aberk/"
     },
-    "description": "Control a DC motor via a standard H-bridge using a PwmOut pin to control speed and two DigitalOut pins to control direction. Can change pwm period on the PwmOut pin, and also brake high or low.",
+    "description": "Control a DC motor via a standard H-bridge using a PwmOut pin to control speed and two DigitalOut pins to control direction. Can change pwm period on the PwmOut pin, ...",
     "examples": [
         "https://os.mbed.com/users/aberk/code/SimpleRover/",
         "https://os.mbed.com/users/aberk/code/PIDRover/",
@@ -18,20 +18,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "clock",
-        "ds1307",
-        "I2C",
-        "RTC",
         "digitalOut",
         "H-bridge",
         "library",
         "motor",
-        "PwmOut",
-        "BLE",
-        "Bluetooth Low Energy",
-        "ST",
-        "X-NUCLEO-IDB04A1",
-        "X-NUCLEO-IDB05A1"
+        "PwmOut"
     ],
     "name": "Motor",
     "platforms": "*",

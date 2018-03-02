@@ -3,7 +3,7 @@
         "name": "Sam Grove",
         "url": "https://os.mbed.com/users/sam_grove/"
     },
-    "description": "A device driver for the Freescale MPR121 capactive touch IC. Not optimized for any particular system, just a starting point to get the chip up in running in no time. Changes to registers init() method will tailor the library for end system use.",
+    "description": "A device driver for the Freescale MPR121 capactive touch IC. Not optimized for any particular system, just a starting point to get the chip up in running in no time. ...",
     "examples": [
         "https://os.mbed.com/teams/Seeed/code/Seeed_Grove_I2C_Touch_Example/",
         "https://os.mbed.com/users/sam_grove/code/MPR121_HelloWorld/",
@@ -15,19 +15,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ACM1602NI",
-        "I2C",
-        "LCD",
-        "Nucleo",
-        "ADXL345",
-        "sparkfun",
-        "display",
-        "led",
-        "numeric",
-        "Seven-Segment",
         "Capactitve touch sensor",
         "mpr121",
-        "SEN-10250"
+        "SEN-10250",
+        "sparkfun"
     ],
     "name": "MPR121",
     "platforms": "*",

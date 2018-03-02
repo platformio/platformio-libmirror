@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "EE192 Team 4",
+        "url": "https://os.mbed.com/teams/EE192-Team-4/"
+    },
+    "description": "telemetry",
+    "examples": [
+        "https://os.mbed.com/teams/EE192-Team-4/code/Everything/",
+        "https://os.mbed.com/teams/EE192-Team-4/code/Sequential_Timing/",
+        "https://os.mbed.com/teams/EE192-Team-4/code/FixedPWM/",
+        "https://os.mbed.com/teams/EE192-Team-4/code/FixedPWMWill/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "telemetry",
+    "name": "telemetry",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/EE192-Team-4/code/telemetry/"
+    }
+}

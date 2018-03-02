@@ -3,10 +3,9 @@
         "name": "Thomas Jørgensen",
         "url": "https://os.mbed.com/users/UBAL/"
     },
-    "description": "A library for the MD25 motor controller from www.robot-electronics.co.uk.",
+    "description": "A library for the MD25 motor controller from www.robot-electronics.co.uk. The MD25 supports both I2C and UART, but this library is designed for use with I2C only.",
     "frameworks": "mbed",
     "keywords": [
-        "MAX30101",
         "\\",
         "Controller\\",
         "I2C",

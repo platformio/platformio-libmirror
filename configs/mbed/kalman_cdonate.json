@@ -19,11 +19,7 @@
     "frameworks": "mbed",
     "keywords": [
         "filter",
-        "kalman",
-        "heading",
-        "HMC5843",
-        "magnetic",
-        "sensor"
+        "kalman"
     ],
     "name": "kalman",
     "platforms": "*",

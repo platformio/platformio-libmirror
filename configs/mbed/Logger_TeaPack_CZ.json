@@ -6,17 +6,8 @@
     "description": "Logger using local flash memory and creating a new file every start.",
     "frameworks": "mbed",
     "keywords": [
-        "keyboard",
-        "USB",
-        "LIDAR Lite",
-        "LidarLite",
-        "I2C",
-        "MCP23017",
         "flash",
-        "logging",
-        "broadcast",
-        "multicast",
-        "UDP"
+        "logging"
     ],
     "name": "Logger",
     "platforms": "*",

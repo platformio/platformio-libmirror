@@ -5,19 +5,7 @@
     },
     "description": "Uses the same fonts as the SPI_TFT_ILI9341 Library (I have many, and a html/php font editor for that)",
     "frameworks": "mbed",
-    "keywords": [
-        "driver",
-        "motor",
-        "Stepper",
-        "MPU6000",
-        "MPU6050",
-        "MPU60x0",
-        "csv",
-        "cumulocity",
-        "Embedded",
-        "rest",
-        "smart"
-    ],
+    "keywords": "SPI_TFT_ILI9225",
     "name": "SPI_TFT_ILI9225",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Karlo Milicevic",
+        "url": "https://os.mbed.com/users/Dautor/"
+    },
+    "description": "Encryption library for nrf52. Uses mbedtls for backend.",
+    "frameworks": "mbed",
+    "keywords": [
+        "aconno",
+        "crypt",
+        "encryption",
+        "nrf52"
+    ],
+    "name": "aconno_nrf52_crypt",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Dautor/code/aconno_nrf52_crypt/"
+    }
+}

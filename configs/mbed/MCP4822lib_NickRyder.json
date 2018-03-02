@@ -8,16 +8,7 @@
         "https://os.mbed.com/users/janekm/code/ADC2DAC/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "I2C multiplexer",
-        "PCA9547",
-        "dac",
-        "biduad",
-        "cascade structure",
-        "IIR filter",
-        "Nucleo",
-        "UIT"
-    ],
+    "keywords": "dac",
     "name": "MCP4822lib",
     "platforms": "*",
     "repository": {

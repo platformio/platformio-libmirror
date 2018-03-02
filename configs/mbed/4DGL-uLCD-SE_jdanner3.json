@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Jay Danner",
+        "url": "https://os.mbed.com/users/jdanner3/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "SDFileSystem"
+        }
+    ],
+    "description": "Extended library to include a screensaver",
+    "examples": [
+        "https://os.mbed.com/users/jdanner3/code/uLCD_screensaver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "4DGL-uLCD-SE",
+    "name": "4DGL-uLCD-SE",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jdanner3/code/4DGL-uLCD-SE/"
+    }
+}

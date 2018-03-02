@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Nordic Semiconductor",
+        "url": "https://os.mbed.com/teams/Nordic-Semiconductor/"
+    },
+    "description": "Nordic stack and drivers for the mbed BLE API",
+    "examples": [
+        "https://os.mbed.com/users/devsar/code/BLE_ANCS_SDAPI/",
+        "https://os.mbed.com/users/youyou/code/BLE_temperature/",
+        "https://os.mbed.com/users/skarphedinnos/code/BLE_HeartRate/",
+        "https://os.mbed.com/users/stiaje/code/writable_gatt/",
+        "https://os.mbed.com/users/aleksanb/code/writable_gatt/",
+        "https://os.mbed.com/users/aleksanb/code/IMU/",
+        "https://os.mbed.com/users/cristea/code/Puck/",
+        "https://os.mbed.com/users/aleksanb/code/Puck/",
+        "https://os.mbed.com/users/thegecko/code/BLE_HeartRate/",
+        "https://os.mbed.com/users/clemberto/code/Keewi_v1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "nRF51822",
+    "name": "nRF51822",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nordic-Semiconductor/code/nRF51822/"
+    }
+}

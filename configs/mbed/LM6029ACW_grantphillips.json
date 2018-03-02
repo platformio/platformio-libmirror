@@ -5,13 +5,7 @@
     },
     "description": "Class library for a Topway LM6029ACW graphics LCD.",
     "frameworks": "mbed",
-    "keywords": [
-        "fatfilesystem",
-        "MSD",
-        "SD",
-        "USB",
-        "millis"
-    ],
+    "keywords": "LM6029ACW",
     "name": "LM6029ACW",
     "platforms": "*",
     "repository": {

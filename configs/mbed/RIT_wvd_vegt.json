@@ -10,20 +10,7 @@
         "https://os.mbed.com/users/wjsgur12/code/ORTP-L_V01/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "I2C",
-        "software",
-        "dynamixel",
-        "MX28",
-        "Servo",
-        "RIT",
-        "1-wire",
-        "DS18B20",
-        "SuperTweet",
-        "adc",
-        "dac",
-        "PCF8591"
-    ],
+    "keywords": "RIT",
     "name": "RIT",
     "platforms": "*",
     "repository": {

@@ -3,19 +3,12 @@
         "name": "不韋 呂",
         "url": "https://os.mbed.com/users/MikamiUitOpen/"
     },
-    "description": "出力ポートを，オープンドレインまたはプッシュプルに設定するグローバル関数.",
+    "description": "出力ポートを，オープンドレインまたはプッシュプルに設定するグローバル関数. Global functions for setting the output port bit open-drain or push-pull.",
     "examples": [
         "https://os.mbed.com/users/MikamiUitOpen/code/Demo_SetOutputPortType/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "LEDcontroller",
-        "TM1637",
-        "DPF",
-        "FTP",
-        "photo",
-        "W7500",
-        "WIZwiki_W7500",
         "Nucleo",
         "open-drain",
         "push-pull",

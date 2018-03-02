@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "masa haru"
-            ],
+            "authors": "masa haru",
             "frameworks": "mbed",
             "name": "EthernetNetIf"
         }
@@ -17,11 +15,11 @@
         "https://os.mbed.com/users/rtgree01/code/DodgeRadioEmulatorv30/"
     ],
     "frameworks": "mbed",
-    "keywords": "PCA9635",
+    "keywords": "EthernetWrapperLib",
     "name": "EthernetWrapperLib",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/rtgree01/code/EthernetWrapperLib/"
+        "url": "https://os.mbed.com/users/rtgree01/code/EthernetWrapperLib/"
     }
 }

@@ -3,7 +3,7 @@
         "name": "Peter Drescher",
         "url": "https://os.mbed.com/users/dreschpe/"
     },
-    "description": "Library to control a QVGA TFT connected to SPI.",
+    "description": "Library to control a QVGA TFT connected to SPI. You can use printf to print text The lib can handle different fonts, draw lines, circles, rect and bmp",
     "examples": [
         "https://os.mbed.com/users/dreschpe/code/TFT_Test1/",
         "https://os.mbed.com/users/pholzleitner/code/SourceCodePro31-SB/",

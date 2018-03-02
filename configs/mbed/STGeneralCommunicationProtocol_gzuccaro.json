@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "G Z",
+        "url": "https://os.mbed.com/users/gzuccaro/"
+    },
+    "description": "Target of this repository is to contain general protocol communication source code like I2C,SPI,CAN for STM32 Nucleo 103",
+    "frameworks": "mbed",
+    "keywords": "STGeneralCommunicationProtocol",
+    "name": "STGeneralCommunicationProtocol",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gzuccaro/code/STGeneralCommunicationProtocol/"
+    }
+}

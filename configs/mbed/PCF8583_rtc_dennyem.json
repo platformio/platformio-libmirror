@@ -3,26 +3,15 @@
         "name": "Dennis Smith",
         "url": "https://os.mbed.com/users/dennyem/"
     },
-    "description": "A library to read/write the various registers of the PCF8583 Real Time Clock/Calendar including the 240 bytes of non-volatile ram.",
+    "description": "A library to read/write the various registers of the PCF8583 Real Time Clock/Calendar including the 240 bytes of non-volatile ram. Includes a printf like date/time formatting routine.",
     "examples": [
         "https://os.mbed.com/users/dennyem/code/NixieClock800Max/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "timer",
-        "Ton",
-        "wait",
-        "maestro",
-        "Serial",
-        "Servo",
         "I2C",
         "PCF8583",
-        "RTC",
-        "parallax",
-        "PING",
-        "ping)))",
-        "sensor",
-        "ultrasonic"
+        "RTC"
     ],
     "name": "PCF8583_rtc",
     "platforms": "*",

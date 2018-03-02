@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Bluetooth Low Energy",
+        "url": "https://os.mbed.com/teams/Bluetooth-Low-Energy/"
+    },
+    "description": "High level Bluetooth Low Energy API and radio abstraction layer",
+    "examples": [
+        "https://os.mbed.com/users/devsar/code/BLE_ANCS_SDAPI/",
+        "https://os.mbed.com/users/youyou/code/BLE_temperature/",
+        "https://os.mbed.com/users/skarphedinnos/code/BLE_HeartRate/",
+        "https://os.mbed.com/users/ytsuboi/code/BLE_ANCS_SDAPI_IRC/",
+        "https://os.mbed.com/users/stiaje/code/writable_gatt/",
+        "https://os.mbed.com/users/aleksanb/code/writable_gatt/",
+        "https://os.mbed.com/users/aleksanb/code/IMU/",
+        "https://os.mbed.com/users/cristea/code/Puck/",
+        "https://os.mbed.com/users/aleksanb/code/Puck/",
+        "https://os.mbed.com/users/thegecko/code/BLE_HeartRate/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BLE_API",
+    "name": "BLE_API",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Bluetooth-Low-Energy/code/BLE_API/"
+    }
+}

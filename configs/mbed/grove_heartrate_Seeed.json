@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Seeed",
+        "url": "https://os.mbed.com/teams/Seeed/"
+    },
+    "description": "grove_heartrate",
+    "frameworks": "mbed",
+    "keywords": "grove_heartrate",
+    "name": "grove_heartrate",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Seeed/code/grove_heartrate/"
+    }
+}

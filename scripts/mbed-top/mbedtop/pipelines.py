@@ -3,112 +3,66 @@
 # Define your item pipelines here
 #
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
-# See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
-
-import types
-
+# See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
+import logging
 import json
+import codecs
+import os
+logging.basicConfig()
+logger = logging.getLogger('mbed-pipeline-terrier')
+logger.setLevel(20)
 
-# from support.py import *
-from mbedtop.support import make_mbed_url, is_mbed_core_library, pio_required_fields, strip_mbed_url
+class MbedParserPipeline(object):
+    def print_item(self, lib_info):
+        print(json.dumps(
+            lib_info,
+            indent=4,
+            sort_keys=True,
+            separators=(',', ': '),
+            ensure_ascii=False))
 
-
-class JsonWriterPipeline(object):
-
-    copykeys = [
-        'name', 'description', 'keywords', 'authors', 'repository',
-        'dependencies', 'examples', 'frameworks', 'platforms'
-    ]
-
-    def process_item(self, item, spider):
-        filename = item['name'] + '_' + item['ownerurl'].replace(
-            "/users/", "")  #item['owner']
-        filename.replace(' ', '_')
-        filename = "".join(x for x in filename if x.isalnum() or x == '_')
-
-        path = "../../configs/mbed/"
-        if is_mbed_core_library(name=item['name'], owner=item['owner']):
-            path = "../../configs/mbed-core/"
-
-            #TODO: Read existing file and add overwrite parsed fields only
-            # so that moderated files do not lose information
-
-        dirty = 0
-        for key in pio_required_fields():
-            if key not in item:
-                dirty = 1
-        if dirty:
-            path = path + "moderation/"
-
-        with open(path + filename + ".json", "w") as f:
-            print("####################  >>>  ", filename)
-            expo = self.copy_selected(item, self.copykeys)
+    def write_to_json_file(self, json_item):
+        path = os.path.dirname(os.path.realpath(__file__))
+        repo_tokens = json_item['repository']['url'].split('/')
+        with codecs.open(
+                path + '/configs/' + repo_tokens[6] + "_" + repo_tokens[4] +
+                ".json",
+                "w",
+                encoding='utf-8') as f:
+            logger.info("Save to %s_%s.json  "%(repo_tokens[6],repo_tokens[4]))
             json.dump(
-                dict(expo),
+                dict(json_item),
                 f,
                 indent=4,
                 sort_keys=True,
                 separators=(',', ': '),
                 ensure_ascii=False)
 
-        return item
-
-    def copy_selected(self, item, keys):
-        result = {}
-        for key in keys:
-            if key in item:
-                result[key] = item[key]
-        return result
-
-
-class RepoPostProc(object):
     def process_item(self, item, spider):
-        # prettify examples:
-        if 'examples' in item:
-            examples = []
-            max_examples = 10
-            if len(item['examples']) < 10:
-                max_examples = len(item['examples'])
-            for example in range(max_examples):
-                examples.append(make_mbed_url(item['examples'][example]))
-            print(examples)
-            item['examples'] = examples
-
-        if 'repository' in item:
-            print('++__==__'*20)
-            print(item['repository'])
-            repo = {"type": "hg", "url": make_mbed_url(item['repository'])}
-            item['repository'] = repo
-
-        if 'dependencies' in item:
-            item['dependencies'] = make_mbed_url(item['dependencies'])
-
-        if ('ownerurl' in item) and ('owner' in item):
-            item['authors'] = {
-                "name": item['owner'],
-                "url": make_mbed_url(item['ownerurl'])
+        json_item = {
+            'authors': {
+                'name': item['author_name'],
+                'url': "https://os.mbed.com" + item['author_url']
+            },
+            'frameworks': 'mbed',
+            'name': item['name'],
+            'platforms': '*',
+            'repository': {
+                'type': 'hg',
+                'url': "https://os.mbed.com" + item['repo_url']
             }
-
-        if 'components' in item:
-            authors = []
-            keywords = []
-            components = strip_mbed_url(item['components'])
-            #if not type(components) is list: components = [ components ]
-            for value in components:
-                if '/teams/' in value:
-                    authors.append(value)
-                if '/users/' in value:
-                    authors.append(value)
-                if '/components/' in value:
-                    keywords.append(
-                        value.replace('/components/', '').replace('/', ''))
-            #if len(authors): item['authors'] = authors
-            # if len(keywords):
-            #     item['keywords'] = keywords
-            # del item['components']
-        if 'keywords' not in item:
-            item['keywords'] = item['name']
-
-        # todo: check components if contents need to go to authors or keywords
-
-        return item
+        }
+        if item['dependencies']:
+            json_item['dependencies'] = item['dependencies']
+        if item['examples']:
+            json_item['examples'] = item['examples']
+        if 'description' in item:
+            json_item['description'] = item['description']
+        else:
+            json_item['description'] = item['name']
+        if 'keywords' in item:
+            json_item['keywords'] = item['keywords']
+        else:
+            json_item['keywords'] = json_item['name']
+        self.print_item(json_item)
+        self.write_to_json_file(json_item)

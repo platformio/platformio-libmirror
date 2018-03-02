@@ -5,26 +5,28 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Paul Staron"
-            ],
+            "authors": "Paul Staron",
             "frameworks": "mbed",
             "name": "Fonts"
+        },
+        {
+            "authors": "Paul Staron",
+            "frameworks": "mbed",
+            "name": "Images"
+        },
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "BurstSPI"
         }
     ],
     "description": "Sharp Memory LCD library",
     "frameworks": "mbed",
-    "keywords": [
-        "brightness",
-        "high",
-        "led",
-        "PCF2129",
-        "RTC"
-    ],
+    "keywords": "SharpMemoryLCD",
     "name": "SharpMemoryLCD",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/star297/code/SharpMemoryLCD/"
+        "url": "https://os.mbed.com/users/star297/code/SharpMemoryLCD/"
     }
 }

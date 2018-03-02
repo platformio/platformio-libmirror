@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Lorenzo Arrigoni",
+        "url": "https://os.mbed.com/users/loarri/"
+    },
+    "description": "This is my repository where I put my projects done with STMicroelectronics Nucleo boards. Now I work with Nucleo STM32F411RE",
+    "frameworks": "mbed",
+    "keywords": "Nucleo Projects",
+    "name": "Nucleo Projects",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/loarri/code/Nucleo-Projects/"
+    }
+}

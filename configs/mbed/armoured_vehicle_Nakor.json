@@ -8,7 +8,13 @@
         "https://os.mbed.com/users/Nakor/code/life_entity/"
     ],
     "frameworks": "mbed",
-    "keywords": "armoured_vehicle",
+    "keywords": [
+        "game",
+        "inheritance",
+        "OOP",
+        "polymorphism",
+        "tutorial"
+    ],
     "name": "armoured_vehicle",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "BingRong Liu",
+        "url": "https://os.mbed.com/users/brliu/"
+    },
+    "description": "A simple, limited key/value database. Use MCU's internal flash (usually via IAP) to store data.",
+    "frameworks": "mbed",
+    "keywords": "kvdb",
+    "name": "kvdb",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/brliu/code/kvdb/"
+    }
+}

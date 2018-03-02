@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "NXP",
+        "url": "https://os.mbed.com/teams/NXP/"
+    },
+    "description": "I2C Accelerometer library",
+    "examples": [
+        "https://os.mbed.com/teams/NXP/code/FRDMSTBC-A8491_SensorShield/",
+        "https://os.mbed.com/users/seanburford/code/xtrinsic_sensors/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MMA8491",
+    "name": "MMA8491",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NXP/code/MMA8491/"
+    }
+}

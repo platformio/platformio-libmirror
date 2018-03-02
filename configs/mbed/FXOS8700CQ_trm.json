@@ -3,7 +3,7 @@
         "name": "Thomas Murphy",
         "url": "https://os.mbed.com/users/trm/"
     },
-    "description": "An in-development library to provide effective access to all features of the FXOS8700CQ on the FRDM-K64F mbed-enabled development board. As of 28 May 2014 1325EDT, the code should be generally usable and modifiable.",
+    "description": "An in-development library to provide effective access to all features of the FXOS8700CQ on the FRDM-K64F mbed-enabled development board. As of 28 May 2014 1325EDT, the code should be generally ...",
     "examples": [
         "https://os.mbed.com/users/trm/code/fxos8700cq_example/",
         "https://os.mbed.com/users/trm/code/frdm_fxos8700_logger/",
@@ -18,23 +18,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DipCortex",
-        "USB device",
         "FRDM-K64F",
-        "fxos8700cq",
-        "accelerometer",
-        "ANGLE",
-        "complementary",
-        "filter",
-        "gyro",
-        "gyroscope",
-        "I2C",
-        "LPC1768",
-        "mbed",
-        "MPU6050",
-        "Nucleo F411RE",
-        "pitch",
-        "roll"
+        "fxos8700cq"
     ],
     "name": "FXOS8700CQ",
     "platforms": "*",

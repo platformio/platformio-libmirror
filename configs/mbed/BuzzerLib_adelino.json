@@ -3,14 +3,12 @@
         "name": "decarvalho adelino",
         "url": "https://os.mbed.com/users/adelino/"
     },
-    "description": "A simple sound library for mbed. I use the",
+    "description": "A simple sound library for mbed. I use the Ring Tone Text Transfer Language (RTTTL) to play song with mbed.",
     "examples": [
         "https://os.mbed.com/users/jurica238814/code/acd52832_buzzer/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "SSL",
-        "TLS",
         "buzzer",
         "music",
         "RTTTL",

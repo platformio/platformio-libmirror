@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Whitworth-EN173-2016",
+        "url": "https://os.mbed.com/teams/Whitworth-EN173/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "UniGraphic"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "This is Ben and I's final project for Embedded Systems. Our goal was to create a car diagnostic system that interfaces with the CAN bus in all US sold cars ...",
+    "frameworks": "mbed",
+    "keywords": "CAN Diagnostics",
+    "name": "CAN Diagnostics",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Whitworth-EN173/code/CAN-Diagnostics/"
+    }
+}

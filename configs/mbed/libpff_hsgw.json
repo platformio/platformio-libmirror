@@ -3,23 +3,12 @@
         "name": "Takuya Urakawa",
         "url": "https://os.mbed.com/users/hsgw/"
     },
-    "description": "Lightweight SD card FAT file system.",
+    "description": "Lightweight SD card FAT file system. Originaled by chan http://elm-chan.org/fsw/ff/00index_p.html",
     "frameworks": "mbed",
     "keywords": [
         "FAT",
         "LPC1114",
-        "SDCard",
-        "accelerometer",
-        "compass",
-        "eCompass",
-        "magnetometer",
-        "sensor",
-        "Adafruit 2.8",
-        "FRDM-KL25Z",
-        "STMPE610",
-        "touchsensor",
-        "debounce",
-        "DebounceIn"
+        "SDCard"
     ],
     "name": "libpff",
     "platforms": "*",

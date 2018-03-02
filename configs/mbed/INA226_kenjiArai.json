@@ -6,8 +6,6 @@
     "description": "INA226 (Texas Instruments) High-or Low-Side Measurement,Bi-Directional CURRENT/POWER MONITOR with I2C Interface",
     "frameworks": "mbed",
     "keywords": [
-        "timer",
-        "watchdog",
         "current",
         "I2C",
         "INA226",

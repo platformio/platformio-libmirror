@@ -9,10 +9,7 @@
         "https://os.mbed.com/teams/Team-Bengtsson/code/robot_sm/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "VL53L0X",
-        "station"
-    ],
+    "keywords": "VL53L0X",
     "name": "vl53l0x_api",
     "platforms": "*",
     "repository": {

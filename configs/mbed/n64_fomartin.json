@@ -3,14 +3,16 @@
         "name": "Francisco Martin",
         "url": "https://os.mbed.com/users/fomartin/"
     },
-    "description": "The Nintendo 64 Controller Interface is an mbed library that allows one or more Nintendo 64 controllers to be used as input devices for the mbed. With this library, one will be able to control games created for an mbed using a Nintendo 64 controller. In addition, the library can easily be used to forward N64 inputs to a computer. Using the N64 Controller executable, one can communicate with multiple controllers.",
-    "frameworks": "mbed",
-    "keywords": [
-        "arduino",
-        "official",
-        "Sabertooth",
-        "SyRen"
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
     ],
+    "description": "The Nintendo 64 Controller Interface is an mbed library that allows one or more Nintendo 64 controllers to be used as input devices for the mbed. With this library, one ...",
+    "frameworks": "mbed",
+    "keywords": "n64",
     "name": "n64",
     "platforms": "*",
     "repository": {

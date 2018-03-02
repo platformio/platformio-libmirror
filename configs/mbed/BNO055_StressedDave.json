@@ -13,16 +13,7 @@
         "https://os.mbed.com/users/bwang/code/SerialBlockReceiver/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "SerialHalfDuplex",
-        "motor",
-        "Stepper",
-        "unipolar",
-        "BLE",
-        "MIDI",
-        "ITG3200",
-        "sparkfun"
-    ],
+    "keywords": "BNO055",
     "name": "BNO055",
     "platforms": "*",
     "repository": {

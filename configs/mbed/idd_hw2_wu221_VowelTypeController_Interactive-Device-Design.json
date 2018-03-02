@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Interactive Device Design",
+        "url": "https://os.mbed.com/teams/Interactive-Device-Design/"
+    },
+    "description": "Code for Zhiwei's Text Entry Device",
+    "frameworks": "mbed",
+    "keywords": "idd_hw2_wu221_VowelTypeController",
+    "name": "idd_hw2_wu221_VowelTypeController",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Interactive-Device-Design/code/idd_hw2_wu221_VowelTypeController/"
+    }
+}

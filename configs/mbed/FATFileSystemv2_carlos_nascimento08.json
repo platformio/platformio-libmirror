@@ -8,15 +8,7 @@
         "https://os.mbed.com/users/lolpcc/code/BlueUSB-new/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "bmp085",
-        "sparkfun",
-        "AES",
-        "cipher",
-        "encryption",
-        "security",
-        "ucam"
-    ],
+    "keywords": "FATFileSystemv2",
     "name": "FATFileSystemv2",
     "platforms": "*",
     "repository": {

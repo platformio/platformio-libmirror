@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Semtech",
+        "url": "https://os.mbed.com/teams/Semtech/"
+    },
+    "description": "LMIC for MOTE_L152RC",
+    "examples": [
+        "https://os.mbed.com/teams/Semtech/code/lmic_transmit/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "lmic_MOTE_L152RC",
+    "name": "lmic_MOTE_L152RC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Semtech/code/lmic_MOTE_L152RC/"
+    }
+}

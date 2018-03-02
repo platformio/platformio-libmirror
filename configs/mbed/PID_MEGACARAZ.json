@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "MEGACARAZ",
+        "url": "https://os.mbed.com/teams/MEGACARAZ/"
+    },
+    "dependencies": [
+        {
+            "authors": "Nikolas Goldin",
+            "frameworks": "mbed",
+            "name": "btbee"
+        },
+        {
+            "authors": "Thomas Glatzel",
+            "frameworks": "mbed",
+            "name": "m3pi_ng"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Igor Skochinsky",
+            "frameworks": "mbed",
+            "name": "FatFileSystemCpp"
+        }
+    ],
+    "description": "PIDs and fun",
+    "frameworks": "mbed",
+    "keywords": "PID",
+    "name": "PID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MEGACARAZ/code/PID/"
+    }
+}

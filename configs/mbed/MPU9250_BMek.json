@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "BMek",
+        "url": "https://os.mbed.com/teams/BMek/"
+    },
+    "description": "I2C pin numbers are changed in this library according to our custom design.",
+    "examples": [
+        "https://os.mbed.com/teams/BMek/code/nRF52832_MPU9250/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MPU9250",
+        "nRF52832 custom boards"
+    ],
+    "name": "MPU9250",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/BMek/code/MPU9250/"
+    }
+}

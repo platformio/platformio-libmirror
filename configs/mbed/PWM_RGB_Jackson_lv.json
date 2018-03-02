@@ -5,18 +5,7 @@
     },
     "description": "using PWM to control RGB LED for RedBear Demo",
     "frameworks": "mbed",
-    "keywords": [
-        "Host",
-        "hub",
-        "Isochronous",
-        "keyboard",
-        "mbed",
-        "Mouse",
-        "MSD",
-        "rtos",
-        "Serial",
-        "USB"
-    ],
+    "keywords": "PWM_RGB",
     "name": "PWM_RGB",
     "platforms": "*",
     "repository": {

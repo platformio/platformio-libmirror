@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Franz Pucher",
+        "url": "https://os.mbed.com/users/fpucher/"
+    },
+    "description": "FSST - Hardwarenahe Programmierung",
+    "frameworks": "mbed",
+    "keywords": "HIM0Board",
+    "name": "HIM0Board",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fpucher/code/HIM0Board/"
+    }
+}

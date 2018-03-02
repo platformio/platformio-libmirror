@@ -5,15 +5,7 @@
     },
     "description": "LPC1768",
     "frameworks": "mbed",
-    "keywords": [
-        "pressure",
-        "sensor",
-        "xml",
-        "count",
-        "external clock",
-        "MHz",
-        "pulse"
-    ],
+    "keywords": "TARGET_LPC1768_N",
     "name": "TARGET_LPC1768_N",
     "platforms": "*",
     "repository": {

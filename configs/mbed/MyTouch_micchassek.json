@@ -9,17 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ethernet",
-        "NTP",
-        "SNTP",
-        "W5500",
-        "Wiznet",
         "ADS7843",
         "TouchPanel",
-        "XPT2046",
-        "C12832",
-        "C12832A1Z",
-        "MBED Application Board"
+        "XPT2046"
     ],
     "name": "MyTouch",
     "platforms": "*",

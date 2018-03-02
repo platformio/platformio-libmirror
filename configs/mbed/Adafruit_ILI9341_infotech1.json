@@ -3,25 +3,14 @@
         "name": "James Kidd",
         "url": "https://os.mbed.com/users/infotech1/"
     },
-    "description": "Port of the Adafruit_ILI9341 library for MBED. Depends on BurstSPI.",
+    "description": "Port of the Adafruit_ILI9341 library for MBED. Depends on BurstSPI. fillRect, drawFastVLine, drawFastHLine are optimized to use BurstSPI fastwrites and perform a clearRX afterwards. MIT license Due to 600 character ...",
     "examples": [
         "https://os.mbed.com/users/infotech1/code/ili9341_test/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BLE",
-        "nRF8001",
-        "RedBearLab",
         "ILI9341",
-        "TFT",
-        "MPU-9250",
-        "led",
-        "led strip",
-        "FRDM",
-        "KL46",
-        "kl46z",
-        "LCD",
-        "SLCD"
+        "TFT"
     ],
     "name": "Adafruit_ILI9341",
     "platforms": "*",

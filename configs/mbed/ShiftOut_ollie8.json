@@ -6,16 +6,8 @@
     "description": "Simple library for controlling a shift register using only three pins on the mbed. Defaults to controlling an 8 bit shift register.",
     "frameworks": "mbed",
     "keywords": [
-        "api",
-        "xbee",
-        "zigbee",
         "Register",
-        "shift",
-        "compass",
-        "HMC5883L",
-        "L298",
-        "motor",
-        "Stepper"
+        "shift"
     ],
     "name": "ShiftOut",
     "platforms": "*",

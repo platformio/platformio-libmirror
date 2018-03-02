@@ -5,11 +5,19 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Aaron Goselin"
-            ],
+            "authors": "Aaron Goselin",
             "frameworks": "mbed",
             "name": "armoured_vehicle"
+        },
+        {
+            "authors": "Aaron Goselin",
+            "frameworks": "mbed",
+            "name": "enemy"
+        },
+        {
+            "authors": "Aaron Goselin",
+            "frameworks": "mbed",
+            "name": "player"
         }
     ],
     "description": "Life entity (base class). Written for OOP Review.",
@@ -18,12 +26,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "16",
-        "HT1621",
-        "LCD",
-        "segment",
-        "dac",
-        "MCP4822",
         "game",
         "inheritance",
         "OOP",
@@ -34,6 +36,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/Nakor/code/life_entity/"
+        "url": "https://os.mbed.com/users/Nakor/code/life_entity/"
     }
 }

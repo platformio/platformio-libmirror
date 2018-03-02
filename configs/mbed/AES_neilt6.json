@@ -14,22 +14,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "OneWire",
-        "protocols",
-        "sensors",
         "AES",
         "CBC",
         "cipher",
         "Crypto",
         "CTS",
-        "ECB",
-        "arduino",
-        "SDCard",
-        "Seeedstudio",
-        "TFT",
-        "touch",
-        "MPL3115A2",
-        "sparkfun"
+        "ECB"
     ],
     "name": "AES",
     "platforms": "*",

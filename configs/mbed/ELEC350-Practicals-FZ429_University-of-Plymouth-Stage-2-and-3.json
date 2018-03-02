@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "University of Plymouth - Stage 2 and 3",
+        "url": "https://os.mbed.com/teams/University-of-Plymouth-Stage-2-and-3/"
+    },
+    "description": "Library of hardware declarations and utility functions for the ELEC350/1 Practicals and Coursework",
+    "examples": [
+        "https://os.mbed.com/teams/University-of-Plymouth-Stage-2-and-3/code/Task618-mbedos-F429ZI/",
+        "https://os.mbed.com/teams/University-of-Plymouth-Stage-2-and-3/code/Task621-mbedos_FZ429ZI/",
+        "https://os.mbed.com/teams/University-of-Plymouth-Stage-2-and-3/code/Task622-mbedos-FZ429ZI/",
+        "https://os.mbed.com/teams/University-of-Plymouth-Stage-2-and-3/code/Task631-mbedos-FZ429/",
+        "https://os.mbed.com/teams/University-of-Plymouth-Stage-2-and-3/code/Task632-mbedos-FZ429/",
+        "https://os.mbed.com/teams/University-of-Plymouth-Stage-2-and-3/code/Task633Solution-mbedos-FZ429/",
+        "https://os.mbed.com/teams/University-of-Plymouth-Stage-2-and-3/code/Task633-mbedos-FZ429/",
+        "https://os.mbed.com/teams/University-of-Plymouth-Stage-2-and-3/code/Task650-mbedos-FZ429ZI-eventloop/",
+        "https://os.mbed.com/teams/University-of-Plymouth-Stage-2-and-3/code/Task690solution-mbed-os-FZ429ZI_/",
+        "https://os.mbed.com/teams/University-of-Plymouth-Stage-2-and-3/code/Task633-mbedos-FZ429_solution/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ELEC350-Practicals-FZ429",
+    "name": "ELEC350-Practicals-FZ429",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/University-of-Plymouth-Stage-2-and-3/code/ELEC350-Practicals-FZ429/"
+    }
+}

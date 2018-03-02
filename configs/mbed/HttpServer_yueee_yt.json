@@ -3,7 +3,7 @@
         "name": "Yasushi TAUCHI",
         "url": "https://os.mbed.com/users/yueee_yt/"
     },
-    "description": "New EthernetInterface Version HTTPServer Library",
+    "description": "New EthernetInterface Version HTTPServer Library only SimpleHandler Test",
     "examples": [
         "https://os.mbed.com/users/yueee_yt/code/HttpServerSample/",
         "https://os.mbed.com/users/yueee_yt/code/giken9_HTMLServer_Sample/",
@@ -11,19 +11,7 @@
         "https://os.mbed.com/teams/smdiotkit2ch/code/RPCHTTPServer/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "tcp/ip",
-        "W5500",
-        "W5500 Ethernet shield",
-        "W7500",
-        "W7500P",
-        "Wiznet",
-        "WIZnetInterface",
-        "WIZwiki_W7500",
-        "WIZwiki_W7500ECO",
-        "WIZwiki_W7500P",
-        "HTTPServer"
-    ],
+    "keywords": "HTTPServer",
     "name": "HttpServer",
     "platforms": "*",
     "repository": {

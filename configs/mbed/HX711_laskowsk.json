@@ -11,12 +11,7 @@
         "https://os.mbed.com/users/franni/code/loadcell_hx711/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "max31855",
-        "Thermocouple",
-        "5110",
-        "LCD"
-    ],
+    "keywords": "HX711",
     "name": "HX711",
     "platforms": "*",
     "repository": {

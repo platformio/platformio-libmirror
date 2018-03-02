@@ -9,18 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "uLCD-32PT(SGS)",
         "distance",
         "driver",
         "sensor",
-        "VL6180x",
-        "kitt",
-        "led",
-        "scanner",
-        "DHT11",
-        "DHT22",
-        "Humidity",
-        "Temperature"
+        "VL6180x"
     ],
     "name": "VL6180x",
     "platforms": "*",

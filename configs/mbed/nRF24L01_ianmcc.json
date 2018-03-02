@@ -9,27 +9,7 @@
         "https://os.mbed.com/teams/Flying-Monkeys/code/wireless/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "multiplexer",
-        "Shift Register",
-        "Altitude",
-        "Freescale",
-        "MPL3115A2",
-        "pressure",
-        "sensor",
-        "Temperature",
-        "mbed",
-        "ethernet",
-        "NetServices",
-        "network",
-        "TCP",
-        "UDP",
-        "Adafruit",
-        "LCD",
-        "ST7735",
-        "TFT",
-        "nRF24L01"
-    ],
+    "keywords": "nRF24L01",
     "name": "nRF24L01",
     "platforms": "*",
     "repository": {

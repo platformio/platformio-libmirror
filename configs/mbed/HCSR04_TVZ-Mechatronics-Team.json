@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "TVZ Mechatronics Team",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/"
+    },
+    "description": "A distance measurement class using ultrasonic sensor HC-SR04.",
+    "examples": [
+        "https://os.mbed.com/teams/DFFLab/code/Esercitazione4_4/",
+        "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/HC-SR04/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HC-SR04",
+        "HCSR04",
+        "ultrasonic"
+    ],
+    "name": "HCSR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/HCSR04/"
+    }
+}

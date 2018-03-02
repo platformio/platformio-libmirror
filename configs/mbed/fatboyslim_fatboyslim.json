@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "fatboyslim",
+        "url": "https://os.mbed.com/teams/fatboyslim/"
+    },
+    "dependencies": [
+        {
+            "authors": "Eli Hughes",
+            "frameworks": "mbed",
+            "name": "FRDM-TFC"
+        }
+    ],
+    "description": "new format",
+    "frameworks": "mbed",
+    "keywords": "fatboyslim",
+    "name": "fatboyslim",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/fatboyslim/code/fatboyslim/"
+    }
+}

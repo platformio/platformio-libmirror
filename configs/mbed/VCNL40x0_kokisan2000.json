@@ -3,18 +3,19 @@
         "name": "Dirck Sowada",
         "url": "https://os.mbed.com/users/kokisan2000/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "Driver for Proximity / Ambient Light Sensor VCNL40xx from Vishay",
     "frameworks": "mbed",
     "keywords": [
-        "nRF24L01P",
-        "Nucelo",
-        "RF24",
-        "STM32F",
         "VCNL4000",
         "VCNL4010",
-        "VCNL4020",
-        "herkulex",
-        "Servo"
+        "VCNL4020"
     ],
     "name": "VCNL40x0",
     "platforms": "*",

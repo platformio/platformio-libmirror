@@ -13,13 +13,7 @@
         "accelerometer",
         "LSM303DLHC",
         "magnetometer",
-        "Temperature",
-        "Dynamic",
-        "led",
-        "tlc5940",
-        "itoa",
-        "joystick",
-        "LCD"
+        "Temperature"
     ],
     "name": "LSM303DLHC",
     "platforms": "*",

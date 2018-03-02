@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Grant Phillips",
+        "url": "https://os.mbed.com/users/grantphillips/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "BSP_DISCO_F469NI"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "LCD_DISCO_F469NI"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "TS_DISCO_F469NI"
+        }
+    ],
+    "description": "A wrapper Class library for using the touch LCD on the DISCO-F469NI Development board. The class uses the existing BSP class created by Team ST.",
+    "frameworks": "mbed",
+    "keywords": "DISCOF469LCD",
+    "name": "DISCOF469LCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/grantphillips/code/DISCOF469LCD/"
+    }
+}

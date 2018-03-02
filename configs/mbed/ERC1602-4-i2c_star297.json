@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Paul Staron",
+        "url": "https://os.mbed.com/users/star297/"
+    },
+    "description": "ERC1602-4 i2c Text LCD library for East Rising COG display in i2c mode using the ST7032i controller IC.",
+    "frameworks": "mbed",
+    "keywords": "ERC1602",
+    "name": "ERC1602-4-i2c",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/star297/code/ERC1602-4-i2c/"
+    }
+}

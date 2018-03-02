@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Stepper Motor",
+        "url": "https://os.mbed.com/teams/ECE-4180/"
+    },
+    "description": "The API for a Stepper Motor providing position and speed control for an Automotive Gauge Stepper Motor.",
+    "examples": [
+        "https://os.mbed.com/teams/ECE-4180/code/ECE_4180_Lab_4/",
+        "https://os.mbed.com/teams/ECE-4180-Labs/code/4180_Lab2_Stepper/",
+        "https://os.mbed.com/teams/asd1/code/4180lab02_stepper/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Stepper_Motor_X27168",
+    "name": "Stepper_Motor_X27168",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ECE-4180/code/Stepper_Motor_X27168/"
+    }
+}

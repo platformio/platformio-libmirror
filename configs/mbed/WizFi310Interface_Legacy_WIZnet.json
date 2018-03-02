@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "WIZnet",
+        "url": "https://os.mbed.com/teams/WIZnet/"
+    },
+    "description": "WizFi310Interface for mbed OS2 ( Legacy version )",
+    "examples": [
+        "https://os.mbed.com/teams/WIZnet/code/WizFi310_Legacy_HelloWorld/",
+        "https://os.mbed.com/teams/WIZnet/code/WizFi310_Legacy_AP_HelloWorld/",
+        "https://os.mbed.com/teams/WIZnet/code/WizFi310_Legacy_OpenWeatherMap/",
+        "https://os.mbed.com/teams/WIZnet/code/WizFi310_Legacy_Geolocation_NTP/",
+        "https://os.mbed.com/teams/WIZnet/code/WizFi310_Legacy_DNS_TCP_HelloWorld/",
+        "https://os.mbed.com/teams/WIZnet/code/WizFi310_Legacy_Ubidots/",
+        "https://os.mbed.com/users/ajeet3004/code/WizFi310_Legacy_HelloWorld2/",
+        "https://os.mbed.com/users/ajeet3004/code/WizFi310_Legacy_APv2/",
+        "https://os.mbed.com/users/ajeet3004/code/WizFi310_Legacy_APv23/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed OS2",
+        "wizfi310",
+        "wizfi310interface"
+    ],
+    "name": "WizFi310Interface_Legacy",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/WIZnet/code/WizFi310Interface_Legacy/"
+    }
+}

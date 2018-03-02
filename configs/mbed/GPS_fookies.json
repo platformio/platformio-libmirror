@@ -12,17 +12,7 @@
         "https://os.mbed.com/users/LucasPrido/code/Send_GPS_Data_TS_SD/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "game pad",
-        "gamepad",
-        "playstation",
-        "playstation2",
-        "PS2",
-        "SPI",
-        "pwm",
-        "softwarePWM",
-        "GPGGA"
-    ],
+    "keywords": "GPGGA",
     "name": "GPS",
     "platforms": "*",
     "repository": {

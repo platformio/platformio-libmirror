@@ -8,7 +8,10 @@
         "https://os.mbed.com/teams/Kuvee-Base-Micro-Firmware/code/TestConsoleLib/"
     ],
     "frameworks": "mbed",
-    "keywords": "Terminal",
+    "keywords": [
+        "TeraTerm",
+        "Terminal"
+    ],
     "name": "Terminal",
     "platforms": "*",
     "repository": {

@@ -3,17 +3,12 @@
         "name": "Hiroaki Matsuda",
         "url": "https://os.mbed.com/users/matsu/"
     },
-    "description": "PAW_Sensor: This library control the PAW sensor.",
+    "description": "PAW_Sensor: This library control the PAW sensor. This library get sensor values from the PAW sensor, and send these values to PC through serial-communication. And you need to convert these ...",
     "examples": [
         "https://os.mbed.com/users/matsu/code/PAW_Sensor_HelloWorld/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "debug",
-        "ethernet",
-        "server",
-        "TCP",
-        "AT42QT1010",
         "PAW",
         "PAW Sensor"
     ],

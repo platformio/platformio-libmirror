@@ -11,15 +11,7 @@
     "frameworks": "mbed",
     "keywords": [
         "adc",
-        "SPI",
-        "128x64",
-        "OLED",
-        "SSD1306",
-        "discovery",
-        "ethernet",
-        "Nucleo",
-        "stm32",
-        "STM32F746"
+        "SPI"
     ],
     "name": "mcp3208",
     "platforms": "*",

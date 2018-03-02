@@ -8,18 +8,7 @@
         "https://os.mbed.com/users/TaylorGy/code/8-0_OneNet_IoT_demo/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "accelerometer",
-        "LSM303DLHC",
-        "magnetometer",
-        "Temperature",
-        "Dynamic",
-        "led",
-        "tlc5940",
-        "itoa",
-        "joystick",
-        "LCD"
-    ],
+    "keywords": "ESP8266",
     "name": "ESP8266",
     "platforms": "*",
     "repository": {

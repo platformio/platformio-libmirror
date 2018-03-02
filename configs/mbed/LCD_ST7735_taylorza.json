@@ -14,15 +14,7 @@
         "https://os.mbed.com/users/loop/code/1bitcraze/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "HD44780",
-        "authorization",
-        "client",
-        "custom",
-        "headers",
-        "http",
-        "HTTPClient"
-    ],
+    "keywords": "LCD_ST7735",
     "name": "LCD_ST7735",
     "platforms": "*",
     "repository": {

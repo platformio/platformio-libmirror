@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Rohm",
+        "url": "https://os.mbed.com/teams/Rohm/"
+    },
+    "description": "This is GR_PEACH_WlanBP3595 class library. The base library is EthernetInterface.",
+    "examples": [
+        "https://os.mbed.com/teams/ROHM-Developers/code/GR-PEACH_WlanBP3595AP/",
+        "https://os.mbed.com/teams/ROHM-Developers/code/GR-PEACH_WlanBP3595STA/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BP3595",
+        "network",
+        "ROHM",
+        "WLAN"
+    ],
+    "name": "GR-PEACH_WlanBP3595",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Rohm/code/GR-PEACH_WlanBP3595/"
+    }
+}

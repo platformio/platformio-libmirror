@@ -17,7 +17,11 @@
         "https://os.mbed.com/users/igbt6/code/BufferedSerialFromSamGroove/"
     ],
     "frameworks": "mbed",
-    "keywords": "Buffer",
+    "keywords": [
+        "buffer",
+        "ringbuffer",
+        "Template Buffer"
+    ],
     "name": "Buffer",
     "platforms": "*",
     "repository": {

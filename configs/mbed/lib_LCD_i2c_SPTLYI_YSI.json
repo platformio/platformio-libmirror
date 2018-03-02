@@ -3,7 +3,7 @@
         "name": "Y SI",
         "url": "https://os.mbed.com/users/YSI/"
     },
-    "description": "lib_LCD_i2c_SPTLYI",
+    "description": "lib_LCD_i2c_SPTLYI http://fr.farnell.com/midas/mccog21605b6w-sptlyi/lcd-cog-2x16-stn-vert-b-l-i2c/dp/2063208 YSI",
     "examples": [
         "https://os.mbed.com/users/mbedo/code/TD1_exo1/",
         "https://os.mbed.com/users/mbedo/code/TD1_exe1_suite/",
@@ -14,22 +14,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DS18B20",
-        "one",
-        "Wire",
-        "library",
-        "MIDI",
-        "USB",
-        "USBMIDI",
         "2x16",
         "I2C",
-        "LCD",
-        "mbed",
-        "nRF51822",
-        "SD",
-        "SDFileSystem",
-        "sdhcfilesystem",
-        "FAT"
+        "LCD"
     ],
     "name": "lib_LCD_i2c_SPTLYI",
     "platforms": "*",

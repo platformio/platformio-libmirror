@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "EEPROM component demo",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/DISCO-F429ZI_EEPROM_demo/",
+        "https://os.mbed.com/users/mozillain/code/WIRE-BANDING_FT810/",
+        "https://os.mbed.com/users/mozillain/code/WIRE-BANDING_copy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "EEPROM",
+    "name": "EEPROM_DISCO_F429ZI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/EEPROM_DISCO_F429ZI/"
+    }
+}

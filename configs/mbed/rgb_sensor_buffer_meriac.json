@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Milosch Meriac"
-            ],
+            "authors": "Milosch Meriac",
             "frameworks": "mbed",
             "name": "rgb_sensor"
         }
@@ -23,6 +21,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/meriac/code/rgb_sensor_buffer/"
+        "url": "https://os.mbed.com/users/meriac/code/rgb_sensor_buffer/"
     }
 }

@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Samson Danziger",
+        "url": "https://os.mbed.com/users/sdanziger/"
+    },
+    "dependencies": [
+        {
+            "authors": "Chris Styles",
+            "frameworks": "mbed",
+            "name": "m3pi"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Persistence of Vision (POV) made easy.",
+    "frameworks": "mbed",
+    "keywords": "m3pi-pov",
+    "name": "m3pi-pov",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sdanziger/code/m3pi-pov/"
+    }
+}

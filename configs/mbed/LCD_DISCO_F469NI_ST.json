@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "This class drives the LCD display present on the DISCO_F469NI board.",
+    "examples": [
+        "https://os.mbed.com/users/inkiiin/code/DISCO-F469NI_LCDTS_GUI_demo/",
+        "https://os.mbed.com/teams/CRAC-Team/code/DISCO-F469NI_LCD_demo/",
+        "https://os.mbed.com/teams/Configurable-Robots/code/Configurable_Robots/",
+        "https://os.mbed.com/teams/ST/code/DISCO-F469NI_LCD_demo/",
+        "https://os.mbed.com/teams/ST/code/DISCO-F469NI_LCDTS_demo/",
+        "https://os.mbed.com/users/wupinxian/code/DISCO-F469NI_LCDTS_demo/",
+        "https://os.mbed.com/users/jeonbc/code/stm32-disco-example/",
+        "https://os.mbed.com/users/Toby_Chen/code/TrayPlusWIFItest/",
+        "https://os.mbed.com/users/formulas/code/PrintGear/",
+        "https://os.mbed.com/users/formulas/code/PrintGearUSpesno/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F469NI",
+        "LCD"
+    ],
+    "name": "LCD_DISCO_F469NI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/LCD_DISCO_F469NI/"
+    }
+}

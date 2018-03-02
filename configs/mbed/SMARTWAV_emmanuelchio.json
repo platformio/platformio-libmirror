@@ -3,7 +3,7 @@
         "name": "Emmanuel Chio",
         "url": "https://os.mbed.com/users/emmanuelchio/"
     },
-    "description": "SMARTWAV mbed Library for use with the SMARTWAV audio processor,",
+    "description": "SMARTWAV mbed Library for use with the SMARTWAV audio processor, http://vizictechnologies.com/#/smart-wav/4559021187 www.vizictechnologies.com",
     "examples": [
         "https://os.mbed.com/users/emmanuelchio/code/SWAVandPCserial/",
         "https://os.mbed.com/users/emmanuelchio/code/MediaPlayerSWav/",
@@ -14,11 +14,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "compass",
-        "HMC5883L",
-        "api",
-        "xbee",
-        "zigbee",
         "44100",
         "audio",
         "FAT",

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Cortex Challenge Team",
+        "url": "https://os.mbed.com/teams/Cortex-challenge-team/"
+    },
+    "description": "Simple bluetooth low energy service, featuring three characteristics - two sliders and one button",
+    "examples": [
+        "https://os.mbed.com/teams/Cortex-challenge-team/code/Nucleo_BLE_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Nucleo_BLE_DemoApp",
+    "name": "Nucleo_BLE_DemoApp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Cortex-challenge-team/code/Nucleo_BLE_DemoApp/"
+    }
+}

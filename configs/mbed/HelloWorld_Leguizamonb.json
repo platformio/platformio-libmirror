@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "SERGIO JAVIER LEGUIZAMON BALLEN",
+        "url": "https://os.mbed.com/users/Leguizamonb/"
+    },
+    "description": "This is a frist proyect with my new board (mbed LPC 1768)",
+    "frameworks": "mbed",
+    "keywords": "HelloWorld",
+    "name": "HelloWorld",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Leguizamonb/code/HelloWorld/"
+    }
+}

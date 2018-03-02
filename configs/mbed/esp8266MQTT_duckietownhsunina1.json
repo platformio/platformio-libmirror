@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "duckietownhsunina",
+        "url": "https://os.mbed.com/teams/duckietownhsunina1/"
+    },
+    "description": "mqtt per esp caricabile fa IDE di arduino",
+    "frameworks": "mbed",
+    "keywords": "esp8266MQTT",
+    "name": "esp8266MQTT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/duckietownhsunina1/code/esp8266MQTT/"
+    }
+}

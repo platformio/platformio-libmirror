@@ -11,18 +11,7 @@
         "https://os.mbed.com/teams/TVZ-Electrical-engeneering-team/code/tempivolt/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "FAT",
-        "file",
-        "SD",
-        "System",
-        "IMU",
-        "sensor",
-        "hang",
-        "I2C",
-        "KL25z",
-        "lockup"
-    ],
+    "keywords": "Display1602",
     "name": "Display1602",
     "platforms": "*",
     "repository": {

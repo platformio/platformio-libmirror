@@ -18,15 +18,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "SDFileSystem",
-        "buffer",
-        "BufferedSerial",
-        "BufferSerial",
-        "Serial",
         "accelerometer",
         "I2C",
-        "MMA7660",
-        "ADXL345"
+        "MMA7660"
     ],
     "name": "MMA7660",
     "platforms": "*",

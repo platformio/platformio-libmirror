@@ -10,7 +10,10 @@
         "https://os.mbed.com/users/JimmyTheHack/code/MCP4822/"
     ],
     "frameworks": "mbed",
-    "keywords": "DAC",
+    "keywords": [
+        "dac",
+        "SPI"
+    ],
     "name": "DAC",
     "platforms": "*",
     "repository": {

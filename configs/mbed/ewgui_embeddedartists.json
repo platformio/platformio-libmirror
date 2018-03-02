@@ -11,17 +11,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DMX",
         "emwin",
         "GUI",
-        "LPC4088",
-        "maniacbug",
-        "nRF24L01",
-        "nRF24L01P",
-        "RF24",
-        "RF24Network",
-        "MAX7456",
-        "osd"
+        "LPC4088"
     ],
     "name": "ewgui",
     "platforms": "*",

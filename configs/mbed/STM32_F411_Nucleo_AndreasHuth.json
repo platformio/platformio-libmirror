@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Andreas Huth",
+        "url": "https://os.mbed.com/users/AndreasHuth/"
+    },
+    "description": "Ablage der Daten",
+    "frameworks": "mbed",
+    "keywords": "STM32_F411_Nucleo",
+    "name": "STM32_F411_Nucleo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AndreasHuth/code/STM32_F411_Nucleo/"
+    }
+}

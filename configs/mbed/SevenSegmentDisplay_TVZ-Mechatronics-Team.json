@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "TVZ Mechatronics Team",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/"
+    },
+    "description": "Library containing a simple class for 7-segment display, intended for learning purposes.",
+    "frameworks": "mbed",
+    "keywords": [
+        "education",
+        "mechatronics",
+        "TVZ"
+    ],
+    "name": "SevenSegmentDisplay",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/SevenSegmentDisplay/"
+    }
+}

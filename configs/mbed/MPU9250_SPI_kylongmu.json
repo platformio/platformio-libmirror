@@ -16,26 +16,7 @@
         "https://os.mbed.com/users/Amber77/code/testSSWMR_TrajectoryTracking_OK/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "JSON",
-        "buffer",
-        "BufferedSerial",
-        "BufferSerial",
-        "Serial",
-        "SoftSerial",
-        "software",
-        "f401",
-        "internal",
-        "mbed",
-        "Nucleo",
-        "Temperature",
-        "FAT",
-        "file",
-        "Filenames",
-        "fixes",
-        "Long",
-        "System"
-    ],
+    "keywords": "MPU9250_SPI",
     "name": "MPU9250_SPI",
     "platforms": "*",
     "repository": {

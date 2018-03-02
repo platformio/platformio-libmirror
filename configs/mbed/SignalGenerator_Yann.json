@@ -3,25 +3,12 @@
         "name": "Yann Garcia",
         "url": "https://os.mbed.com/users/Yann/"
     },
-    "description": "This library provides a class to generate differents signale wave form. Note that the maximum update rate of 1 MHz, so Fmax = 1MHz / _num_pixels (see UM10360 - Chapter 30: LPC17xx Digital-to-Analog Converter (DAC).",
+    "description": "This library provides a class to generate differents signale wave form. Note that the maximum update rate of 1 MHz, so Fmax = 1MHz / _num_pixels (see UM10360 - Chapter ...",
     "frameworks": "mbed",
     "keywords": [
         "DDS",
         "generator",
-        "signal",
-        "MRF24J40",
-        "tranceiver",
-        "wireless",
-        "at&t",
-        "data store",
-        "m2x",
-        "time-series",
-        "cmsis",
-        "function",
-        "Instances",
-        "multiple",
-        "rtos",
-        "threads"
+        "signal"
     ],
     "name": "SignalGenerator",
     "platforms": "*",

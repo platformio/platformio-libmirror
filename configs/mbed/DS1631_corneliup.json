@@ -5,21 +5,7 @@
     },
     "description": "Library for the Maxim DS1631 I2C temperature sensor",
     "frameworks": "mbed",
-    "keywords": [
-        "acc",
-        "gyro",
-        "IMU",
-        "iNEMO",
-        "MAG",
-        "STM",
-        "colour",
-        "Grove",
-        "sensor",
-        "DS1631",
-        "capture",
-        "timer",
-        "timer2"
-    ],
+    "keywords": "DS1631",
     "name": "DS1631",
     "platforms": "*",
     "repository": {

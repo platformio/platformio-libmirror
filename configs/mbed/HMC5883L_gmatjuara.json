@@ -10,13 +10,7 @@
         "https://os.mbed.com/users/sedid/code/Test_Boussole_moteur/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Art-Net",
-        "DMX",
-        "DMX512",
-        "ethernet",
-        "UDP"
-    ],
+    "keywords": "HMC5883L",
     "name": "HMC5883L",
     "platforms": "*",
     "repository": {

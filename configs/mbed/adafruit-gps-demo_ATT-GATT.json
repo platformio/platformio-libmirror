@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "ATT-GATT",
+        "url": "https://os.mbed.com/teams/ATT-GATT/"
+    },
+    "description": "adafruit gps-demo",
+    "frameworks": "mbed",
+    "keywords": "adafruit gps-demo",
+    "name": "adafruit gps-demo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ATT-GATT/code/adafruit-gps-demo/"
+    }
+}

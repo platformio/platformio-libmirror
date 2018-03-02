@@ -3,19 +3,12 @@
         "name": "Stefan Guenther",
         "url": "https://os.mbed.com/users/stefangun/"
     },
-    "description": "Interface Driver for Maxim DS2482 1Wire-to-I2C bridge IC.",
+    "description": "Interface Driver for Maxim DS2482 1Wire-to-I2C bridge IC. Includes access functions for DS1820 temperature sensors. Can easily be ported to other hardware by using hardware abstraction layer.",
     "frameworks": "mbed",
     "keywords": [
         "1wire",
         "DS1820",
-        "DS2482",
-        "3axis",
-        "accelerometer",
-        "Digital",
-        "Grove",
-        "Seeed",
-        "AirQuality",
-        "sensor"
+        "DS2482"
     ],
     "name": "DS2482",
     "platforms": "*",

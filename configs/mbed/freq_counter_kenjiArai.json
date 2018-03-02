@@ -3,16 +3,12 @@
         "name": "Kenji Arai",
         "url": "https://os.mbed.com/users/kenjiArai/"
     },
-    "description": "Frequency Counter Library. Only for mbed LPC1768, mbed LPC1114FN28, Nucleo-F401 and Nucleo-F411.",
+    "description": "Frequency Counter Library. Only for mbed LPC1768, mbed LPC1114FN28, Nucleo-F401 and Nucleo-F411. No way to change pin assign.",
     "examples": [
         "https://os.mbed.com/users/kenjiArai/code/Frequency_Counter/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "audio",
-        "HQ",
-        "I2S",
-        "TLV320",
         "counter",
         "frequency",
         "LPC1114",

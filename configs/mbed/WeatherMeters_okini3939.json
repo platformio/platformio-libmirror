@@ -3,23 +3,13 @@
         "name": "Suga koubou",
         "url": "https://os.mbed.com/users/okini3939/"
     },
-    "description": "Weather Meters (Sparkfun)",
+    "description": "Weather Meters (Sparkfun) http://mbed.org/users/okini3939/notebook/weather-platform/",
     "examples": [
         "https://os.mbed.com/users/okini3939/code/WeatherStation/",
         "https://os.mbed.com/users/candyshop/code/Wetterstation/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BMP180",
-        "pressure",
-        "sensor",
-        "ax12",
-        "Servo",
-        "C328",
-        "camera",
-        "JPEG",
-        "Serial",
-        "sparkfun",
         "gauge",
         "rain",
         "Speed",

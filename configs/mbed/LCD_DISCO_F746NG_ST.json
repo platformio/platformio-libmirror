@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "This class drives the LCD display (RK043FN48H-CT672B 4,3\" 480x272 pixels device) present on DISCO_F746NG board.",
+    "examples": [
+        "https://os.mbed.com/users/JackB/code/DISCO-F746NG_LCDTS_CC3000_NTP/",
+        "https://os.mbed.com/users/capsavon/code/DISCO-F746NG_QSPI/",
+        "https://os.mbed.com/users/GabDiSi/code/DISCO-F746NG_ROPE_WIFI/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_SpectralAnalysis_Example/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_SpectralAnalysis_NoPhoto/",
+        "https://os.mbed.com/users/habiburrahman/code/ecte433/",
+        "https://os.mbed.com/users/pryd/code/DISCO-F746NG_lepton/",
+        "https://os.mbed.com/users/kai86/code/DISCO-F746NG_LCD_demo/",
+        "https://os.mbed.com/users/YashwantMane/code/DISCO-F746NG_LCD_demo/",
+        "https://os.mbed.com/users/nanase/code/DISCO-F746NG_Sweep/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F746NG",
+        "LCD"
+    ],
+    "name": "LCD_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/LCD_DISCO_F746NG/"
+    }
+}

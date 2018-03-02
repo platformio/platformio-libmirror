@@ -3,18 +3,9 @@
         "name": "Penn Electric",
         "url": "https://os.mbed.com/users/PennElectric/"
     },
-    "description": "This library is designed to work with devices like the LM335 temperature sensor. There are only two requirements for compatibility: 1) The device must be a sensor device that has an analog voltage output. 2) The physical quantity measured must vary linearly with the analog voltage. It uses a median filter to remove unwanted noise from ADC readings. The number of samples in the filter can be specified as an argument, as well as calibration points or a linear multiplier and coefficient.",
+    "description": "This library is designed to work with devices like the LM335 temperature sensor. There are only two requirements for compatibility: 1) The device must be a sensor device that has ...",
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "29bit",
-        "bus",
-        "CAN",
-        "canbus",
-        "general",
-        "gm",
-        "gmlan",
-        "motors",
         "Analog",
         "filter",
         "Linear",
@@ -24,8 +15,7 @@
         "sensor",
         "Temp",
         "Temperature",
-        "voltage",
-        "crc8"
+        "voltage"
     ],
     "name": "LinearAnalogSensor",
     "platforms": "*",

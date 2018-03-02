@@ -6,18 +6,8 @@
     "description": "Just simple PCA9672 support library. Put I2C handle, address and mode as parameters, and now you can read or write! Simple as that.",
     "frameworks": "mbed",
     "keywords": [
-        "checksum",
-        "2.4GHz",
-        "a7105",
-        "FSK",
-        "GFSK",
-        "transceiver",
-        "txrx",
         "I2C",
-        "PCA9672",
-        "F746NG",
-        "RTC",
-        "Touchscreen"
+        "PCA9672"
     ],
     "name": "PCA9672",
     "platforms": "*",

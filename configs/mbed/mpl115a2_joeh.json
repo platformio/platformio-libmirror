@@ -8,24 +8,7 @@
         "https://os.mbed.com/users/kanpapa/code/HTTPClient_SuperTweet_MPL115A2/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "arp",
-        "icmp",
-        "interrupts",
-        "stack",
-        "tcpip",
-        "UDP",
-        "MPL115A2",
-        "CAN",
-        "MCP2515",
-        "I2C",
-        "interrupt",
-        "slave",
-        "5110",
-        "84x48",
-        "display",
-        "Nokia"
-    ],
+    "keywords": "MPL115A2",
     "name": "mpl115a2",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Jim Flynn",
+        "url": "https://os.mbed.com/users/JMF/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "WNC14A2AInterface"
+        }
+    ],
+    "description": "Added support for the WNC M14A2A Cellular LTE Data Module.",
+    "frameworks": "mbed",
+    "keywords": "easy-connect-wnc",
+    "name": "easy-connect-wnc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JMF/code/easy-connect-wnc/"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "MAX5387"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "MAX7300"
+        }
+    ],
+    "description": "Library for MAX14871 Shield, MAXREFDES89#",
+    "examples": [
+        "https://os.mbed.com/teams/Maxim-Integrated/code/MAXREFDES89_MAX14871_Shield_Demo/",
+        "https://os.mbed.com/teams/Maxim-Integrated/code/MAXREFDES89_Test_Program/",
+        "https://os.mbed.com/users/j3/code/Line_Following_Bot/",
+        "https://os.mbed.com/users/j3/code/Line_Following_Bot_Pololu/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MAX14871_Shield",
+    "name": "MAX14871_Shield",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/code/MAX14871_Shield/"
+    }
+}

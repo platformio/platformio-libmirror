@@ -15,10 +15,7 @@
         "nRF24L01",
         "nRF24L01P",
         "RF24",
-        "RF24Network",
-        "driver",
-        "motor",
-        "Stepper"
+        "RF24Network"
     ],
     "name": "RF24Network",
     "platforms": "*",

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "LSE2-2014",
+        "url": "https://os.mbed.com/teams/LSE2-2014/"
+    },
+    "description": "Repository for the quads information.",
+    "frameworks": "mbed",
+    "keywords": "Quadcopters",
+    "name": "Quadcopters",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/LSE2-2014/code/Quadcopters/"
+    }
+}

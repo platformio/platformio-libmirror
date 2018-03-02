@@ -5,11 +5,7 @@
     },
     "description": "Library for reading a Nunchuk controller",
     "frameworks": "mbed",
-    "keywords": [
-        "Nunchuk",
-        "BNO055",
-        "sensor"
-    ],
+    "keywords": "Nunchuk",
     "name": "Nunchuk",
     "platforms": "*",
     "repository": {

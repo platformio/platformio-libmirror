@@ -17,7 +17,12 @@
         "https://os.mbed.com/users/sago104/code/Lavadora/"
     ],
     "frameworks": "mbed",
-    "keywords": "Pulse",
+    "keywords": [
+        "Digital",
+        "Input",
+        "output",
+        "pulse"
+    ],
     "name": "Pulse",
     "platforms": "*",
     "repository": {

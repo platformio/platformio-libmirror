@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Néstor Martínez",
+        "url": "https://os.mbed.com/users/nestoram/"
+    },
+    "description": "Ejemplo de e-paper",
+    "frameworks": "mbed",
+    "keywords": "E-paper",
+    "name": "E-paper",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nestoram/code/E-paper/"
+    }
+}

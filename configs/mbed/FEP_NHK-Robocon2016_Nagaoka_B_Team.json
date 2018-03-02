@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "NagaokaRoboticsClub_mbedTeam",
+        "url": "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/"
+    },
+    "description": "920MHz wireless module 'FEP' Library",
+    "examples": [
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/CompactController_2017/",
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/quadOmni_yanagi/",
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/NHK2017_octopus/",
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/NHK2017_octopus2/",
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/NHK2017_octopus2_drive/",
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/NHK2017_octopus2_arms/",
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/Controller/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FEP",
+    "name": "FEP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/FEP/"
+    }
+}

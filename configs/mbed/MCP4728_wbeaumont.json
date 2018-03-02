@@ -3,16 +3,12 @@
         "name": "wimbeaumont Project",
         "url": "https://os.mbed.com/users/wbeaumont/"
     },
-    "description": "General usable MCP4728 quad DAC implementation only limited function",
+    "description": "General usable MCP4728 quad DAC implementation only limited function has to be used together with the DevInterface lib",
     "examples": [
         "https://os.mbed.com/users/wbeaumont/code/MCP4728test/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "acd52832",
-        "aconno",
-        "Nordic",
-        "nrf52",
         "dac",
         "MCP4728"
     ],

@@ -11,20 +11,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "arduino",
-        "micros",
-        "millis",
-        "device",
-        "USB",
         "DC motor",
         "h bridge",
         "L293D",
         "l298n",
-        "pwm",
-        "SPI",
-        "motor",
-        "PCA9629",
-        "Stepper"
+        "pwm"
     ],
     "name": "motoresDC",
     "platforms": "*",

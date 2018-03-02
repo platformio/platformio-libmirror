@@ -5,10 +5,7 @@
     },
     "description": "Allegro A3930 BLDC driver",
     "frameworks": "mbed",
-    "keywords": [
-        "HD44780",
-        "TextLCD"
-    ],
+    "keywords": "A3930",
     "name": "A3930",
     "platforms": "*",
     "repository": {

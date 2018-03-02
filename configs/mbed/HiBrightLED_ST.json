@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "Library for driving the High Brightness LED present on the Discovery F334C8 board.",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/DISCO-F334C8_HiBrightLED_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "brightness",
+        "high",
+        "led"
+    ],
+    "name": "HiBrightLED",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/HiBrightLED/"
+    }
+}

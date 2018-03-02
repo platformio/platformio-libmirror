@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "SD card use for DISCO_F469NI basic example",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/DISCO-F469NI_SD_demo/",
+        "https://os.mbed.com/users/formulas/code/StoreBitmaps/",
+        "https://os.mbed.com/users/formulas/code/IntegrationPotentiometer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F469NI",
+        "SD"
+    ],
+    "name": "SD_DISCO_F469NI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/SD_DISCO_F469NI/"
+    }
+}

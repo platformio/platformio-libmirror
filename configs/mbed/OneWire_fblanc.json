@@ -13,12 +13,7 @@
         "ds18x20",
         "DS2450",
         "multi-channel",
-        "OneWire",
-        "arduino",
-        "H-bridge",
-        "L298",
-        "Robotic",
-        "shield"
+        "OneWire"
     ],
     "name": "OneWire",
     "platforms": "*",

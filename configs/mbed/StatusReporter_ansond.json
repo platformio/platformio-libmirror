@@ -5,11 +5,24 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Doug Anson"
-            ],
+            "authors": "Doug Anson",
             "frameworks": "mbed",
             "name": "ID12RFID"
+        },
+        {
+            "authors": "Doug Anson",
+            "frameworks": "mbed",
+            "name": "ReportDB"
+        },
+        {
+            "authors": "Doug Anson",
+            "frameworks": "mbed",
+            "name": "SalesforceCaseGenerator"
+        },
+        {
+            "authors": "Doug Anson",
+            "frameworks": "mbed",
+            "name": "SalesforceInterface"
         }
     ],
     "description": "Dreamforce 2014 Demo of RFID-based Salesforce Case generation for status reporting.",
@@ -23,19 +36,11 @@
         "https://os.mbed.com/teams/MBED_DEMOS/code/mbed_mqtt_endpoint_nxp/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "tcp/ip",
-        "WebSocket",
-        "display",
-        "I2C",
-        "OLED",
-        "SPI",
-        "SSD1306"
-    ],
+    "keywords": "StatusReporter",
     "name": "StatusReporter",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/ansond/code/StatusReporter/"
+        "url": "https://os.mbed.com/users/ansond/code/StatusReporter/"
     }
 }

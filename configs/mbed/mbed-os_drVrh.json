@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Grega Močnik",
+        "url": "https://os.mbed.com/users/drVrh/"
+    },
+    "description": "MBED OS",
+    "frameworks": "mbed",
+    "keywords": "mbed-os",
+    "name": "mbed-os",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/drVrh/code/mbed-os/"
+    }
+}

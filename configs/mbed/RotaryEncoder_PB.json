@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "PB",
+        "url": "https://os.mbed.com/teams/PB/"
+    },
+    "description": "Rotary encoder handler.",
+    "frameworks": "mbed",
+    "keywords": "RotaryEncoder",
+    "name": "RotaryEncoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PB/code/RotaryEncoder/"
+    }
+}

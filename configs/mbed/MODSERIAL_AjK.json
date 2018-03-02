@@ -17,7 +17,13 @@
         "https://os.mbed.com/users/tylerjw/code/AHRS/"
     ],
     "frameworks": "mbed",
-    "keywords": "MODSERIAL",
+    "keywords": [
+        "buffer",
+        "Buffered",
+        "rs232",
+        "RS485",
+        "Serial"
+    ],
     "name": "MODSERIAL",
     "platforms": "*",
     "repository": {

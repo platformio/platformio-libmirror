@@ -3,23 +3,16 @@
         "name": "Pete Isley",
         "url": "https://os.mbed.com/users/Fenwiz/"
     },
-    "description": "This library is designed to make it easy for anyone to get the Nokia 5110 84x48 display 3.3V module up and running without delay",
+    "description": "This library is designed to make it easy for anyone to get the Nokia 5110 84x48 display 3.3V module up and running without delay It provides a convenient interface for ...",
     "examples": [
         "https://os.mbed.com/users/Fenwiz/code/5110_Display/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "interrupt",
-        "slave",
         "5110",
         "84x48",
         "display",
-        "Nokia",
-        "call",
-        "Procedure",
-        "remote",
-        "rpc"
+        "Nokia"
     ],
     "name": "N_5110_Display",
     "platforms": "*",

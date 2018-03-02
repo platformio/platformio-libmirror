@@ -5,10 +5,7 @@
     },
     "description": "Block access only to a SD Flash card conected via SPI. Based on SDFileSystem, but without any file system support.",
     "frameworks": "mbed",
-    "keywords": [
-        "VL53L0X",
-        "station"
-    ],
+    "keywords": "SDFlashDisk",
     "name": "SDFlashDisk",
     "platforms": "*",
     "repository": {

@@ -17,7 +17,15 @@
         "https://os.mbed.com/users/icraggs/code/IoTStarterKit/"
     ],
     "frameworks": "mbed",
-    "keywords": "LM75B",
+    "keywords": [
+        "Celsius",
+        "driver",
+        "I2C",
+        "LM75B",
+        "nxp",
+        "sensor",
+        "Temperature"
+    ],
     "name": "LM75B",
     "platforms": "*",
     "repository": {

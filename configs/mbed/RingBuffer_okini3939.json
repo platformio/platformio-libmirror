@@ -12,14 +12,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Nucleo",
-        "stm32",
-        "Wi-Fi",
-        "X-NUCLEO-IDW01M1",
         "buffer",
-        "ring",
-        "debounce",
-        "interrupt"
+        "ring"
     ],
     "name": "RingBuffer",
     "platforms": "*",

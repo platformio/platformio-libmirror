@@ -10,14 +10,7 @@
         "https://os.mbed.com/users/esklawitter/code/Seven_Segment_Serial_UART_Demo/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "SEPS114A",
-        "5110",
-        "LCD",
-        "N5110",
-        "Nokia",
-        "pcd8544"
-    ],
+    "keywords": "SevenSegmentSerial",
     "name": "SevenSegmentSerial",
     "platforms": "*",
     "repository": {

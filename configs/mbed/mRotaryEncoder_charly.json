@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Andy Kirkham"
-            ],
+            "authors": "Andy Kirkham",
             "frameworks": "mbed",
             "name": "PinDetect"
         }
@@ -25,18 +23,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "GPS",
-        "parse",
         "Encoder",
         "QEI",
         "qudrature",
-        "rotary",
-        "lps25h"
+        "rotary"
     ],
     "name": "mRotaryEncoder",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/charly/code/mRotaryEncoder/"
+        "url": "https://os.mbed.com/users/charly/code/mRotaryEncoder/"
     }
 }

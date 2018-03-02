@@ -8,22 +8,7 @@
         "https://os.mbed.com/users/k4zuki/code/mbed_3pinLCD/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "HD44780",
-        "http",
-        "SSL",
-        "TLS",
-        "BME280",
-        "23K256",
-        "23LC1024",
-        "DMA",
-        "FIFO",
-        "RAM",
-        "ring buffer",
-        "SPI",
-        "sram",
-        "basicauth"
-    ],
+    "keywords": "HD44780",
     "name": "TriPinLcd",
     "platforms": "*",
     "repository": {

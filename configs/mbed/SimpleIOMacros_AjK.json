@@ -9,17 +9,7 @@
         "https://os.mbed.com/users/daapp/code/FastStepDriver/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "GPIO",
-        "Beep",
-        "merody",
-        "sound",
-        "distance",
-        "eco",
-        "range",
-        "sonic",
-        "Ultra"
-    ],
+    "keywords": "GPIO",
     "name": "SimpleIOMacros",
     "platforms": "*",
     "repository": {

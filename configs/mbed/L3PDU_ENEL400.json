@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "ENEL400",
+        "url": "https://os.mbed.com/teams/ENEL400/"
+    },
+    "description": "Layer 3 PDU packet constructor class",
+    "examples": [
+        "https://os.mbed.com/teams/ENEL400/code/LoRaBaseStation/",
+        "https://os.mbed.com/teams/ENEL400/code/LoRaTerminal/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "L3PDU",
+    "name": "L3PDU",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ENEL400/code/L3PDU/"
+    }
+}

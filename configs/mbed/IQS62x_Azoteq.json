@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Azoteq",
+        "url": "https://os.mbed.com/teams/Azoteq/"
+    },
+    "description": "Library to read and write Azoteq IQS6xx device registers via I2C.",
+    "examples": [
+        "https://os.mbed.com/teams/Azoteq/code/IQS620_HelloWorld/",
+        "https://os.mbed.com/teams/Azoteq/code/IQS622_HelloWorld/",
+        "https://os.mbed.com/teams/Azoteq/code/IQS624_HelloWorld/",
+        "https://os.mbed.com/teams/Azoteq/code/IQS621_HelloWorld/",
+        "https://os.mbed.com/teams/Thinkbed/code/Nucleo_ACM1602_I2C_DC_Angle/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Azoteq",
+        "capacitive touch",
+        "I2C",
+        "Inductive Proximity",
+        "IQS620",
+        "IQS624",
+        "LPC1768",
+        "mbed",
+        "Nucleo",
+        "ProxFusion",
+        "STM32;"
+    ],
+    "name": "IQS62x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Azoteq/code/IQS62x/"
+    }
+}

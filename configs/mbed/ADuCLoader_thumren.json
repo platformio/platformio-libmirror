@@ -3,11 +3,9 @@
         "name": "Jakub Stepien",
         "url": "https://os.mbed.com/users/thumren/"
     },
-    "description": "The library can be usesefull for ADuC70xx microprocesors family.",
+    "description": "The library can be usesefull for ADuC70xx microprocesors family. It implements classes and functions for Serial Download Protocol. Program your ADuC70xx microprocesor using mbed.",
     "frameworks": "mbed",
     "keywords": [
-        "conversion",
-        "Thermocouple",
         "ADuC",
         "Analog",
         "armwsd",
@@ -15,8 +13,7 @@
         "devices",
         "Download",
         "protocol",
-        "Serial",
-        "SPI"
+        "Serial"
     ],
     "name": "ADuCLoader",
     "platforms": "*",

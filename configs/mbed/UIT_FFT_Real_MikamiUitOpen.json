@@ -3,7 +3,7 @@
         "name": "不韋 呂",
         "url": "https://os.mbed.com/users/MikamiUitOpen/"
     },
-    "description": "FFT for real data using decimation-in-frequency algorithm.",
+    "description": "FFT for real data using decimation-in-frequency algorithm. 実データに対するFFT．周波数間引きアルゴリズムを使用．",
     "examples": [
         "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_SpectrumAnalyzer/",
         "https://os.mbed.com/users/MikamiUitOpen/code/Demo_FFT_IFFT/",
@@ -23,18 +23,7 @@
         "IFFT",
         "Nucleo",
         "real data",
-        "UIT",
-        "Altitude",
-        "bmp085",
-        "pressure",
-        "Temperature",
-        "3x4",
-        "4x3",
-        "kepad",
-        "keyboard",
-        "polling",
-        "pull",
-        "up"
+        "UIT"
     ],
     "name": "UIT_FFT_Real",
     "platforms": "*",

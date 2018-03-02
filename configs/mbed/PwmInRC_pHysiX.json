@@ -3,23 +3,17 @@
         "name": "Ian Hua",
         "url": "https://os.mbed.com/users/pHysiX/"
     },
-    "description": "Code to read a PPM/PWM pulse, interrupt driven. Most useful for RC receivers.",
+    "description": "Code to read a PPM/PWM pulse, interrupt driven. Most useful for RC receivers. Code is non-blocking, and a poll of the stall timer can detect if a signal has been ...",
     "examples": [
         "https://os.mbed.com/users/IonSystems/code/triforce-control/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BME280",
         "interrupt",
         "PPM",
         "pwm",
         "RC",
-        "Receiver",
-        "mp3",
-        "VS1033",
-        "VS1053",
-        "accelerometer",
-        "ADXL345"
+        "Receiver"
     ],
     "name": "PwmInRC",
     "platforms": "*",

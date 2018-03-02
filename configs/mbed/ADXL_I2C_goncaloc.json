@@ -5,10 +5,7 @@
     },
     "description": "teste",
     "frameworks": "mbed",
-    "keywords": [
-        "Encoder",
-        "fischertechnik"
-    ],
+    "keywords": "ADXL_I2C",
     "name": "ADXL_I2C",
     "platforms": "*",
     "repository": {

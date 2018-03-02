@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "WIZnet",
+        "url": "https://os.mbed.com/teams/WIZnet/"
+    },
+    "description": "This is a WizFi310 library. It supports new mbed5 features including NetworkInterfaceAPI.",
+    "examples": [
+        "https://os.mbed.com/users/jehoon/code/KT_IoTMakers_WizFi310_Example/",
+        "https://os.mbed.com/teams/WIZnet/code/WizFi310_STATION_HelloWorld/",
+        "https://os.mbed.com/teams/WIZnet/code/WizFi310_DNS_TCP_HelloWorld/",
+        "https://os.mbed.com/teams/WIZnet/code/WizFi310_Ubidots/",
+        "https://os.mbed.com/teams/WIZnet/code/WizFi310_TCP_Echo_Server_Example/",
+        "https://os.mbed.com/users/stkim92/code/WizFi310_STATION_HelloWorld_OWN/",
+        "https://os.mbed.com/users/jehoon/code/WizFi310_exam_RTOS/",
+        "https://os.mbed.com/teams/WIZnet/code/WizFi310_OpenWeatherMap/",
+        "https://os.mbed.com/users/cliff1/code/WizFi310_Sensor_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed5",
+        "NetworkInterfaceAPI",
+        "wifi",
+        "wifiinterface",
+        "wizfi310",
+        "wizfi310interface"
+    ],
+    "name": "WizFi310Interface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/WIZnet/code/WizFi310Interface/"
+    }
+}

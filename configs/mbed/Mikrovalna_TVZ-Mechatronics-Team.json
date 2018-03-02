@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "TVZ Mechatronics Team",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/"
+    },
+    "dependencies": [
+        {
+            "authors": "Kevin Anderson",
+            "frameworks": "mbed",
+            "name": "C12832"
+        }
+    ],
+    "description": "Learning classes.",
+    "examples": [
+        "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/PURS_ZI_004/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Mikrovalna",
+    "name": "Mikrovalna",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/Mikrovalna/"
+    }
+}

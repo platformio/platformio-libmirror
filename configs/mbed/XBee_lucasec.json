@@ -3,6 +3,13 @@
         "name": "Lucas Christian",
         "url": "https://os.mbed.com/users/lucasec/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "XBee Library in API mode. Based on xbee-arduino.",
     "examples": [
         "https://os.mbed.com/users/lucasec/code/XBee_API_Demo/",

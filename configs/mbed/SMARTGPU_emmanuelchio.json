@@ -3,7 +3,7 @@
         "name": "Emmanuel Chio",
         "url": "https://os.mbed.com/users/emmanuelchio/"
     },
-    "description": "SMARTGPU intelligent embedded graphics processor, this library helps to communicate mBed with SMARTGPU dev board 2.4\\\" touch, excellent serial board that only require TX,RX, and Reset pin to mbed.",
+    "description": "SMARTGPU intelligent embedded graphics processor, this library helps to communicate mBed with SMARTGPU dev board 2.4\\\" touch, excellent serial board that only require TX,RX, and Reset pin to mbed. Powerfull ...",
     "examples": [
         "https://os.mbed.com/users/emmanuelchio/code/VariousSG/",
         "https://os.mbed.com/users/emmanuelchio/code/BouncingBalls/",
@@ -18,9 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "buffer",
-        "I2C",
-        "interrupt",
         "gpu",
         "Graphics",
         "LCD",

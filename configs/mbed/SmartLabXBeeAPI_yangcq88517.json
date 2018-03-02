@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "CHENGQI YANG",
+        "url": "https://os.mbed.com/users/yangcq88517/"
+    },
+    "description": "XBee ZigBee API",
+    "frameworks": "mbed",
+    "keywords": [
+        "api",
+        "xbee",
+        "zigbee"
+    ],
+    "name": "SmartLabXBeeAPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yangcq88517/code/SmartLabXBeeAPI/"
+    }
+}

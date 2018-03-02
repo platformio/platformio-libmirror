@@ -3,7 +3,7 @@
         "name": "idinor Launcher",
         "url": "https://os.mbed.com/users/idinor/"
     },
-    "description": "This library is stripped down version of NetServices library.",
+    "description": "This library is stripped down version of NetServices library. HTTP server and client function is NOT supported.",
     "examples": [
         "https://os.mbed.com/users/yahugh/code/imu-daq-eth/"
     ],
@@ -11,10 +11,7 @@
     "keywords": [
         "NetServices",
         "network",
-        "NTP",
-        "graphic",
-        "monochrome",
-        "VGA"
+        "NTP"
     ],
     "name": "StrippedDownNetServices",
     "platforms": "*",

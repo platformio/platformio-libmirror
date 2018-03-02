@@ -3,7 +3,7 @@
         "name": "Yann Garcia",
         "url": "https://os.mbed.com/users/Yann/"
     },
-    "description": "Simplified access to the Microchip 1//8-Channels 12-Bit A/D Converters",
+    "description": "Simplified access to the Microchip 1//8-Channels 12-Bit A/D Converters with SPI Serial Interface",
     "examples": [
         "https://os.mbed.com/users/Yann/code/MCP320xApp/"
     ],
@@ -12,15 +12,7 @@
         "MCP3201",
         "MCP3204",
         "MCP3208",
-        "SPI",
-        "hotboards",
-        "keyboard",
-        "Kinematics",
-        "lauther",
-        "math",
-        "matrix",
-        "robot",
-        "Robotics"
+        "SPI"
     ],
     "name": "MCP320x_SPI",
     "platforms": "*",

@@ -5,12 +5,7 @@
     },
     "description": "Hardware control: mirrors",
     "frameworks": "mbed",
-    "keywords": [
-        "Host",
-        "Paradigma",
-        "Pelletti",
-        "USB"
-    ],
+    "keywords": "laserProjectorHardware",
     "name": "laserProjectorHardware",
     "platforms": "*",
     "repository": {

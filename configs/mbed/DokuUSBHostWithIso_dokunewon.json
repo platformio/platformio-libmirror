@@ -5,11 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "mbed official "
-            ],
+            "authors": "mbed official",
             "frameworks": "mbed",
             "name": "FATFileSystem"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
         }
     ],
     "description": "increase ITD queue count.",
@@ -17,14 +20,11 @@
         "https://os.mbed.com/users/dokunewon/code/Peach_AudioChannelDividerAndCompensator/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "ADE7758",
-        "NTP"
-    ],
+    "keywords": "DokuUSBHostWithIso",
     "name": "DokuUSBHostWithIso",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/dokunewon/code/DokuUSBHostWithIso/"
+        "url": "https://os.mbed.com/users/dokunewon/code/DokuUSBHostWithIso/"
     }
 }

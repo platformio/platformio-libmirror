@@ -13,15 +13,7 @@
         "https://os.mbed.com/teams/EIC_mbed/code/INA226_monitoring/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "LMiC",
-        "Lora",
-        "LoRaWAN",
-        "INA226",
-        "AnalogOut",
-        "dac",
-        "SPI"
-    ],
+    "keywords": "INA226",
     "name": "INA226",
     "platforms": "*",
     "repository": {

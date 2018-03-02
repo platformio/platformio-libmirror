@@ -5,13 +5,7 @@
     },
     "description": "Class library for a 4x4 keypad connected to a MCP23008 I2C IO Expander.",
     "frameworks": "mbed",
-    "keywords": [
-        "network",
-        "WNC",
-        "clock",
-        "KL25z",
-        "PLL"
-    ],
+    "keywords": "MCP23008_Keypad",
     "name": "MCP23008_Keypad",
     "platforms": "*",
     "repository": {

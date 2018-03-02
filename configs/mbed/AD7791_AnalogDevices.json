@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Analog Devices",
+        "url": "https://os.mbed.com/teams/AnalogDevices/"
+    },
+    "description": "Driver for the AD7791 24bit ADC",
+    "examples": [
+        "https://os.mbed.com/teams/AnalogDevices/code/ad7791-helloworld/",
+        "https://os.mbed.com/teams/AnalogDevices/code/CN0216/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AD7791",
+        "adc"
+    ],
+    "name": "AD7791",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/AnalogDevices/code/AD7791/"
+    }
+}

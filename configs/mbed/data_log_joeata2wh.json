@@ -5,11 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Hugo Perez"
-            ],
+            "authors": "Hugo Perez",
             "frameworks": "mbed",
             "name": "W25Q80BV"
+        },
+        {
+            "authors": "Joseph Ellsworth",
+            "frameworks": "mbed",
+            "name": "multi-serial-command-listener"
         }
     ],
     "description": "Proivdes data log data structure for FRAM, EPROM chip with functions to read chip and send back on serial data string.",
@@ -18,8 +21,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "64 bit",
-        "timer class",
         "Data Logging",
         "datalog",
         "FRAM",
@@ -29,6 +30,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/joeata2wh/code/data_log/"
+        "url": "https://os.mbed.com/users/joeata2wh/code/data_log/"
     }
 }

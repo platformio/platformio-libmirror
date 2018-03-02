@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Norimasa Okamoto"
-            ],
+            "authors": "Norimasa Okamoto",
             "frameworks": "mbed",
             "name": "USBDevice"
         }
@@ -18,26 +16,11 @@
         "https://os.mbed.com/users/va009039/code/lpcterm2/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "C12832",
-        "C12832A1Z",
-        "MBED Application Board",
-        "6000",
-        "6050",
-        "acc",
-        "accelerometer",
-        "gyro",
-        "gyroscope",
-        "IMU",
-        "invensense",
-        "MPU",
-        "MPU6000",
-        "MCP23S17"
-    ],
+    "keywords": "USBLocalFileSystem",
     "name": "USBLocalFileSystem",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/va009039/code/USBLocalFileSystem/"
+        "url": "https://os.mbed.com/users/va009039/code/USBLocalFileSystem/"
     }
 }

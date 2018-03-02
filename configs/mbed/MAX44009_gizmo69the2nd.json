@@ -3,7 +3,7 @@
         "name": "Davy Van Belle",
         "url": "https://os.mbed.com/users/gizmo69the2nd/"
     },
-    "description": "Maxim MAX44009",
+    "description": "Maxim MAX44009 Industry's Lowest-Power. Ambient Light Sensor with ADC. http://www.maximintegrated.com/datasheet/index.mvp/id/7175",
     "frameworks": "mbed",
     "keywords": [
         "ambient",
@@ -11,9 +11,7 @@
         "max",
         "MAX44009",
         "Maxim",
-        "sensor",
-        "FeRAM",
-        "AM2315"
+        "sensor"
     ],
     "name": "MAX44009",
     "platforms": "*",

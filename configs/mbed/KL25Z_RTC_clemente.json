@@ -8,18 +8,7 @@
         "https://os.mbed.com/users/clemente/code/FRDM_RTC/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "FAT",
-        "file",
-        "SD",
-        "System",
-        "IMU",
-        "sensor",
-        "hang",
-        "I2C",
-        "KL25z",
-        "lockup"
-    ],
+    "keywords": "KL25Z_RTC",
     "name": "KL25Z_RTC",
     "platforms": "*",
     "repository": {

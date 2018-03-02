@@ -1,0 +1,64 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "MTS-Cellular"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "MTS-Serial"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "MTS-Socket"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "MTS-Test"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "MTS-Utils"
+        }
+    ],
+    "description": "Complete library supporting MultiConnect Dragonfly and SocketModem Arduino Shield devices.",
+    "examples": [
+        "https://os.mbed.com/teams/MultiTech/code/MTSAS_Cellular_HTTP_Example/",
+        "https://os.mbed.com/teams/MultiTech/code/MTSAS_Cellular_Connect_Example/",
+        "https://os.mbed.com/teams/MultiTech/code/MTSAS_Cellular_SMS_Example/",
+        "https://os.mbed.com/teams/Multi-Hackers/code/MultiTech_Dragonfly_2015_ATT_Gov_Solutio/",
+        "https://os.mbed.com/teams/Multi-Hackers/code/MultiTech_Dragonfly_2015_ATT_Simple_Gov_/",
+        "https://os.mbed.com/users/BlueShadow/code/YYY_Dragonfly_ST_MEMS_2015-10/",
+        "https://os.mbed.com/users/BlueShadow/code/YYY_Dragonfly_MoistureMeter_Phone_2015-1/",
+        "https://os.mbed.com/users/BlueShadow/code/YYY_Dragonfly_Moisture_2015-10/",
+        "https://os.mbed.com/teams/MultiTech/code/Dragonfly_Cellular_HTTP_Example/",
+        "https://os.mbed.com/teams/MultiTech/code/Dragonfly_Cellular_HTTPS_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Cellular",
+        "Dragonfly",
+        "http",
+        "https",
+        "MTSAS",
+        "multitech",
+        "SMS",
+        "TCP",
+        "UDP"
+    ],
+    "name": "mtsas",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/mtsas/"
+    }
+}

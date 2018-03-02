@@ -5,14 +5,7 @@
     },
     "description": "HMC6343",
     "frameworks": "mbed",
-    "keywords": [
-        "timer",
-        "watchdog",
-        "current",
-        "I2C",
-        "INA226",
-        "T.I."
-    ],
+    "keywords": "HMC6343",
     "name": "HMC6343",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "useedtech",
+        "url": "https://os.mbed.com/teams/useedtech/"
+    },
+    "description": "rc test",
+    "frameworks": "mbed",
+    "keywords": "rc moter",
+    "name": "rc moter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/useedtech/code/rc-moter/"
+    }
+}

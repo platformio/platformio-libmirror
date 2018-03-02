@@ -5,12 +5,7 @@
     },
     "description": "Library for H-Bridge Motor Driver Using Bipolar Transistors",
     "frameworks": "mbed",
-    "keywords": [
-        "norm",
-        "pdf",
-        "Random",
-        "stats"
-    ],
+    "keywords": "motorlib",
     "name": "motorlib",
     "platforms": "*",
     "repository": {

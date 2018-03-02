@@ -5,14 +5,7 @@
     },
     "description": "Slightly modified MD5 lib. Allows access to raw binary instead of hexadecimal ascii.",
     "frameworks": "mbed",
-    "keywords": [
-        "ICRS",
-        "rf12B",
-        "MPL115A1",
-        "pressure",
-        "sensor",
-        "sparkfun"
-    ],
+    "keywords": "MD5",
     "name": "MD5",
     "platforms": "*",
     "repository": {

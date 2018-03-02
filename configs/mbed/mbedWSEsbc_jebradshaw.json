@@ -19,13 +19,7 @@
     "frameworks": "mbed",
     "keywords": [
         "SBC",
-        "WSE",
-        "pwm",
-        "PwmOut",
-        "SoftPWM",
-        "softwearPWM",
-        "buzzer",
-        "piezo"
+        "WSE"
     ],
     "name": "mbedWSEsbc",
     "platforms": "*",

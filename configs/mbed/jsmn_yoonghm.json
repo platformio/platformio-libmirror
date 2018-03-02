@@ -10,15 +10,7 @@
         "https://os.mbed.com/users/wiznetw7500/code/_library_jsmn/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "JSON",
-        "Addressable",
-        "led",
-        "NeoPixel",
-        "rgb",
-        "WS2812",
-        "Servo"
-    ],
+    "keywords": "JSON",
     "name": "jsmn",
     "platforms": "*",
     "repository": {

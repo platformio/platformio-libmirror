@@ -1,0 +1,57 @@
+{
+    "authors": {
+        "name": "Texas State IEEE",
+        "url": "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "navigation"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "R5_StepperDrive"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "LongRangeSensor"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "DistanceSensor"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "scanner"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "Gripper"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ColorSensor"
+        }
+    ],
+    "description": "Code to drive Team 1's robot for the 2016 R5 robotics competition.",
+    "frameworks": "mbed",
+    "keywords": "R5 2016 Robotics Team 1",
+    "name": "R5 2016 Robotics Team 1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/code/R5-2016-Robotics-Team-1/"
+    }
+}

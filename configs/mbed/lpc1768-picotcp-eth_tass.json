@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "TASS Belgium",
+        "url": "https://os.mbed.com/users/tass/"
+    },
+    "description": "A PicoTCP driver for the lpc1768 mbed board",
+    "examples": [
+        "https://os.mbed.com/users/tass/code/lpc1768-picotcp-demo/",
+        "https://os.mbed.com/users/daniele/code/TCPSocket_HelloWorld_PicoTCP/",
+        "https://os.mbed.com/users/tass/code/Pico_TCP_UDP_Test/",
+        "https://os.mbed.com/users/mbed714/code/TCPSocket_HelloWorld_PicoTCP/",
+        "https://os.mbed.com/users/mbed714/code/TCPSocket_HelloWorldTest_PicoTCP/",
+        "https://os.mbed.com/users/tass/code/Pico_SendRecv_Forever/",
+        "https://os.mbed.com/users/daniele/code/Pico_Robustness_Test/",
+        "https://os.mbed.com/users/tass/code/PicoTCP_Official_TCP_Tx_Benchmark/",
+        "https://os.mbed.com/users/tass/code/PicoTCP_Official_TCP_Rx_Benchmark/",
+        "https://os.mbed.com/users/tass/code/UDP_Send_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "ethernet",
+        "PicoTCP"
+    ],
+    "name": "lpc1768-picotcp-eth",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tass/code/lpc1768-picotcp-eth/"
+    }
+}

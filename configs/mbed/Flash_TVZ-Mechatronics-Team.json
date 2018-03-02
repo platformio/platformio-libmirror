@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "TVZ Mechatronics Team",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/"
+    },
+    "dependencies": [
+        {
+            "authors": "Tedd OKANO",
+            "frameworks": "mbed",
+            "name": "IAP"
+        }
+    ],
+    "description": "This is library for storing data array in internal flash memory of MCU LPC1768. The flash data is empty every time we download program to MCU so it can be ...",
+    "examples": [
+        "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/Flash_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Flash",
+    "name": "Flash",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/Flash/"
+    }
+}

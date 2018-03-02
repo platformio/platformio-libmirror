@@ -8,21 +8,7 @@
         "https://os.mbed.com/teams/Vockens-Group-Sensors/code/CEAMS_Sun_Tracker/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "BLE",
-        "nRF8001",
-        "RedBearLab",
-        "ILI9341",
-        "TFT",
-        "MPU-9250",
-        "led",
-        "led strip",
-        "FRDM",
-        "KL46",
-        "kl46z",
-        "LCD",
-        "SLCD"
-    ],
+    "keywords": "StepperMotor",
     "name": "StepperMotor",
     "platforms": "*",
     "repository": {

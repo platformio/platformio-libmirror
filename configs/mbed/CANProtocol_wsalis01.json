@@ -5,18 +5,7 @@
     },
     "description": "CAN Headers.",
     "frameworks": "mbed",
-    "keywords": [
-        "http",
-        "NET",
-        "network",
-        "webservice",
-        "xml",
-        "FreeIMU",
-        "IMU",
-        "MPU6050",
-        "CAN",
-        "mbed"
-    ],
+    "keywords": "CAN",
     "name": "CANProtocol",
     "platforms": "*",
     "repository": {

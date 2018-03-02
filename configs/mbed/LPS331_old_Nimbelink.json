@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "NimbeLink",
+        "url": "https://os.mbed.com/teams/Nimbelink/"
+    },
+    "description": "Fork of original LPS331 library Changed the I2C address to 0xBA",
+    "frameworks": "mbed",
+    "keywords": "LPS331_old",
+    "name": "LPS331_old",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nimbelink/code/LPS331_old/"
+    }
+}

@@ -5,12 +5,7 @@
     },
     "description": "My first publish of MMA7361L accelerometer library",
     "frameworks": "mbed",
-    "keywords": [
-        "accelerometer",
-        "SED1330",
-        "SED1335",
-        "TextDisplay"
-    ],
+    "keywords": "accelerometer",
     "name": "MMA7361L",
     "platforms": "*",
     "repository": {

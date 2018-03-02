@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "UCL IoT",
+        "url": "https://os.mbed.com/teams/UCL-IoT/"
+    },
+    "description": "I have added the accelerometer objects in java necessary to control the robot using the accelerometer.",
+    "frameworks": "mbed",
+    "keywords": "nRF_Robot_Code_with_Accelerometer",
+    "name": "nRF_Robot_Code_with_Accelerometer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/UCL-IoT/code/nRF_Robot_Code_with_Accelerometer/"
+    }
+}

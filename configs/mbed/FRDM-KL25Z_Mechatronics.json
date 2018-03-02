@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Mechatronics",
+        "url": "https://os.mbed.com/teams/Mechatronics/"
+    },
+    "description": "Containes code for programming KL25 MCU built on ARM Cortex-M0+",
+    "frameworks": "mbed",
+    "keywords": "FRDM-KL25Z",
+    "name": "FRDM-KL25Z",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Mechatronics/code/FRDM-KL25Z/"
+    }
+}

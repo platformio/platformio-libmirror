@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "mbed official "
-            ],
+            "authors": "mbed official",
             "frameworks": "mbed",
             "name": "FATFileSystem"
         }
@@ -26,6 +24,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/mbotkinl/code/SDFileSystem/"
+        "url": "https://os.mbed.com/users/mbotkinl/code/SDFileSystem/"
     }
 }

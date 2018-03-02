@@ -16,19 +16,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BLE",
-        "nRF8001",
-        "RedBearLab",
-        "ILI9341",
-        "TFT",
-        "MPU-9250",
         "led",
-        "led strip",
-        "FRDM",
-        "KL46",
-        "kl46z",
-        "LCD",
-        "SLCD"
+        "led strip"
     ],
     "name": "PololuLedStrip",
     "platforms": "*",

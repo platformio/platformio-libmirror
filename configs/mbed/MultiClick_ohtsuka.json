@@ -3,21 +3,15 @@
         "name": "Toru OHTSUKA",
         "url": "https://os.mbed.com/users/ohtsuka/"
     },
-    "description": "You can use multiple clicks event with one button.",
+    "description": "You can use multiple clicks event with one button. This library supports follow events, Single click, Double click, over 3 times click, Long press.",
     "examples": [
         "https://os.mbed.com/users/ohtsuka/code/multiclick_test/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "\\",
-        "manager\\",
-        "Scheduler",
-        "task",
         "BUTTON",
         "click",
-        "debounce",
-        "F411",
-        "Frequency Counter"
+        "debounce"
     ],
     "name": "MultiClick",
     "platforms": "*",

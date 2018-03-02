@@ -3,6 +3,13 @@
         "name": "Eric Fossum",
         "url": "https://os.mbed.com/users/fossum_13/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "A minimal library for the DHT11.",
     "examples": [
         "https://os.mbed.com/users/rx5/code/EXP10_DHT11_LCD/",
@@ -12,31 +19,7 @@
         "https://os.mbed.com/teams/capstone490/code/sensor_test1/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "arduino",
-        "GPIO",
-        "Speed",
-        "calibration",
-        "clock",
-        "real",
-        "RTC",
-        "time",
-        "timezone",
-        "CC3000",
-        "socket",
-        "TCP",
-        "UDP",
-        "wifi",
-        "CHaN",
-        "FAT",
-        "Fat16",
-        "Fat32",
-        "fatfilesystem",
-        "Filenames",
-        "Long",
-        "rtos",
-        "DHT11"
-    ],
+    "keywords": "DHT11",
     "name": "DHT11",
     "platforms": "*",
     "repository": {

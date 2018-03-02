@@ -3,23 +3,12 @@
         "name": "Przemysław Kochański",
         "url": "https://os.mbed.com/users/kochansky/"
     },
-    "description": "Library for Pololu Maestro Servo Controller",
+    "description": "Library for Pololu Maestro Servo Controller http://www.pololu.com/docs/0J40",
     "frameworks": "mbed",
     "keywords": [
-        "timer",
-        "Ton",
-        "wait",
         "maestro",
         "Serial",
-        "Servo",
-        "I2C",
-        "PCF8583",
-        "RTC",
-        "parallax",
-        "PING",
-        "ping)))",
-        "sensor",
-        "ultrasonic"
+        "Servo"
     ],
     "name": "Maestro",
     "platforms": "*",

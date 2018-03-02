@@ -3,13 +3,9 @@
         "name": "Prosper Van",
         "url": "https://os.mbed.com/users/oprospero/"
     },
-    "description": "Embedded MotionDriver 6.1",
+    "description": "Embedded MotionDriver 6.1 Sourced from InvenSense",
     "frameworks": "mbed",
-    "keywords": [
-        "DMX",
-        "MAX7456",
-        "osd"
-    ],
+    "keywords": "MotionDriver_6_1",
     "name": "MotionDriver_6_1",
     "platforms": "*",
     "repository": {

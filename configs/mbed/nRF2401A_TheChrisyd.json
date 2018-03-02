@@ -10,16 +10,7 @@
         "https://os.mbed.com/users/TheChrisyd/code/nRF2401A_Gameduino_Invaders/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "FRDM-K22F",
-        "fxos8700cq",
-        "nRF2401A",
-        "ALS",
-        "ambient light sensor",
-        "I2C",
-        "ISL29125",
-        "rgb"
-    ],
+    "keywords": "nRF2401A",
     "name": "nRF2401A",
     "platforms": "*",
     "repository": {

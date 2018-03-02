@@ -17,7 +17,10 @@
         "https://os.mbed.com/users/dudmuck/code/hid_test/"
     ],
     "frameworks": "mbed",
-    "keywords": "SX127x",
+    "keywords": [
+        "Radio",
+        "transceiver"
+    ],
     "name": "SX127x",
     "platforms": "*",
     "repository": {

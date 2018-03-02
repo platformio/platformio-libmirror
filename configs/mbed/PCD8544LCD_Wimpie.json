@@ -5,16 +5,7 @@
     },
     "description": "PCD8544LCD",
     "frameworks": "mbed",
-    "keywords": [
-        "clock",
-        "ds1307",
-        "real",
-        "RTC",
-        "time",
-        "Encoder",
-        "QEI",
-        "quadrature"
-    ],
+    "keywords": "PCD8544LCD",
     "name": "PCD8544LCD",
     "platforms": "*",
     "repository": {

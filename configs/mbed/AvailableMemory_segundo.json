@@ -13,13 +13,7 @@
     "frameworks": "mbed",
     "keywords": [
         "malloc",
-        "memory",
-        "AQM1602",
-        "SSL",
-        "TLS",
-        "clock",
-        "ds1307",
-        "RTC"
+        "memory"
     ],
     "name": "AvailableMemory",
     "platforms": "*",

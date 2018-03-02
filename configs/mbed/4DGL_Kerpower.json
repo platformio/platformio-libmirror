@@ -11,21 +11,7 @@
         "https://os.mbed.com/users/fengspot/code/uVGA_4180/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "4DGL",
-        "channel",
-        "MIDI",
-        "Note",
-        "pitch",
-        "Serial",
-        "UART",
-        "velocity",
-        "OLED",
-        "TextLCD",
-        "WEH000802",
-        "WEH001602",
-        "Winstar"
-    ],
+    "keywords": "4DGL",
     "name": "4DGL",
     "platforms": "*",
     "repository": {

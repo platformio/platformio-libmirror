@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/"
+    },
+    "description": "Maxim Integrated Bluetooth LE Library",
+    "examples": [
+        "https://os.mbed.com/teams/MaximIntegrated/code/BLE_Thermometer/",
+        "https://os.mbed.com/teams/MaximIntegrated/code/MAXWSNENV_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MaximBLE",
+    "name": "MaximBLE",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/code/MaximBLE/"
+    }
+}

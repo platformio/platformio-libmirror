@@ -3,7 +3,7 @@
         "name": "AppNearMe Official",
         "url": "https://os.mbed.com/users/AppNearMe/"
     },
-    "description": "AppNearMe µNFC stack for the NXP PN532 chip",
+    "description": "AppNearMe µNFC stack for the NXP PN532 chip License: You can use the stack free of charge to prototype with mbed; if you want to use the stack with your ...",
     "examples": [
         "https://os.mbed.com/users/tristanjph/code/IOT_sensor_nfc/",
         "https://os.mbed.com/users/AppNearMe/code/AppNearMe_MuNFC_PN532_Test/",
@@ -13,15 +13,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "External SD",
-        "file system",
-        "SDHC",
-        "SPI",
         "AppNearMe",
-        "NFC",
-        "fatfilesystem",
-        "LocalFileSystem",
-        "USBMSD"
+        "NFC"
     ],
     "name": "AppNearMe_MuNFC_PN532",
     "platforms": "*",

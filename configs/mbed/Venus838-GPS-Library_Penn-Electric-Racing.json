@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Penn Electric Racing",
+        "url": "https://os.mbed.com/teams/Penn-Electric-Racing/"
+    },
+    "description": "Final version of GPS library. Still may require some debugging regarding integer formatting, but it will be easiest to do this from an external program that is grabbing the values ...",
+    "frameworks": "mbed",
+    "keywords": "Venus838-GPS-Library",
+    "name": "Venus838-GPS-Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Penn-Electric-Racing/code/Venus838-GPS-Library/"
+    }
+}

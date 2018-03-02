@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "STM32Cube BSP FW for STM32F769I-Discovery",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/DISCO-F769NI_AUDIO_demo/",
+        "https://os.mbed.com/users/joschaihl/code/mbed-os-example-blinky-5/",
+        "https://os.mbed.com/teams/ST/code/DISCO-F769NI_LCD_demo/",
+        "https://os.mbed.com/teams/ST/code/DISCO-F769NI_QSPI_demo/",
+        "https://os.mbed.com/teams/ST/code/DISCO-F769NI_SD_demo/",
+        "https://os.mbed.com/teams/ST/code/DISCO-F769NI_SDRAM_demo/",
+        "https://os.mbed.com/teams/ST/code/DISCO-F769NI_TOUCHSCREEN_demo/",
+        "https://os.mbed.com/users/yawstick/code/DISCO-F769NI_TOUCHSCREEN_demo_custom_1/",
+        "https://os.mbed.com/users/joschaihl/code/Datarecorder2/",
+        "https://os.mbed.com/users/joschaihl/code/DISCO-F769NI_TOUCHSCREEN_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BSP_DISCO_F769NI",
+    "name": "BSP_DISCO_F769NI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/BSP_DISCO_F769NI/"
+    }
+}

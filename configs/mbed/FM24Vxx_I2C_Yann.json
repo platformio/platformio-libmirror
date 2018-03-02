@@ -9,14 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ProcVis",
         "FM24Vxx",
         "I2C",
-        "RAMTRON",
-        "FAT",
-        "file",
-        "SD",
-        "System"
+        "RAMTRON"
     ],
     "name": "FM24Vxx_I2C",
     "platforms": "*",

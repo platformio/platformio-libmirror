@@ -18,22 +18,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F429ZI",
-        "LCD",
-        "BSP",
-        "esc",
-        "pwm",
-        "RC",
         "accelerometer",
         "I2C",
-        "LIS3DH",
-        "AD",
-        "da",
-        "MCP4921",
-        "MCP4922",
-        "Nucleo",
-        "SPI",
-        "UIT"
+        "LIS3DH"
     ],
     "name": "LIS3DH",
     "platforms": "*",

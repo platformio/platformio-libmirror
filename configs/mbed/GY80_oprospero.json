@@ -5,13 +5,7 @@
     },
     "description": "Read data from accel, gyro, and mag of gy80",
     "frameworks": "mbed",
-    "keywords": [
-        "minutes",
-        "seconds",
-        "stopwatch",
-        "timer",
-        "watch"
-    ],
+    "keywords": "GY80",
     "name": "GY80",
     "platforms": "*",
     "repository": {

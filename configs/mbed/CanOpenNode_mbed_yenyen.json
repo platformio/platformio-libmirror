@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Angel Merino",
+        "url": "https://os.mbed.com/users/yenyen/"
+    },
+    "description": "Driver for mbed devices. CanOpenNode changes for compiling with c++ (mbed required). Use example.",
+    "frameworks": "mbed",
+    "keywords": "CanOpenNode_mbed",
+    "name": "CanOpenNode_mbed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yenyen/code/CanOpenNode_mbed/"
+    }
+}

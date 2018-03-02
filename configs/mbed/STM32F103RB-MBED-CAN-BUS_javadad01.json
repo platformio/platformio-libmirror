@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Sam White",
+        "url": "https://os.mbed.com/users/javadad01/"
+    },
+    "description": "My humble attempt to get the can bus working on the NUCLEO-STM32F103",
+    "frameworks": "mbed",
+    "keywords": [
+        "can bus",
+        "Nucleo",
+        "NUCLEO-F103RB"
+    ],
+    "name": "STM32F103RB MBED CAN BUS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/javadad01/code/STM32F103RB-MBED-CAN-BUS/"
+    }
+}

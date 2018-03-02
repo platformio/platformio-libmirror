@@ -3,13 +3,16 @@
         "name": "Gottfried Enenkel",
         "url": "https://os.mbed.com/users/Enenkel/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "b16 Show2",
     "frameworks": "mbed",
-    "keywords": [
-        "H-bridge",
-        "motor",
-        "PwmOut"
-    ],
+    "keywords": "B16_SHOW2",
     "name": "B16_SHOW2",
     "platforms": "*",
     "repository": {

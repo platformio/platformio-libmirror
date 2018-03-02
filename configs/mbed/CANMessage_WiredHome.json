@@ -7,16 +7,7 @@
     "frameworks": "mbed",
     "keywords": [
         "CAN",
-        "message",
-        "MPU-6050",
-        "MPU6050",
-        "MPU6050-DMP",
-        "CNC",
-        "motor",
-        "Stepper",
-        "clock",
-        "f401",
-        "Nucleo"
+        "message"
     ],
     "name": "CANMessage",
     "platforms": "*",

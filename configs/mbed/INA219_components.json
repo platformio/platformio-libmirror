@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "A library for the INA219 current sensing breakout from adafruit.",
+    "examples": [
+        "https://os.mbed.com/teams/components/code/INA219-HelloWorld/",
+        "https://os.mbed.com/users/MLev/code/INA_219/",
+        "https://os.mbed.com/users/biwa1400/code/Light/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "INA219",
+    "name": "INA219",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/INA219/"
+    }
+}

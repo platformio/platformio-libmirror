@@ -13,18 +13,7 @@
         "https://os.mbed.com/users/ohtake_i/code/FriedRice/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Host",
-        "hub",
-        "Isochronous",
-        "keyboard",
-        "mbed",
-        "Mouse",
-        "MSD",
-        "rtos",
-        "Serial",
-        "USB"
-    ],
+    "keywords": "RS405cb",
     "name": "RS405cb",
     "platforms": "*",
     "repository": {

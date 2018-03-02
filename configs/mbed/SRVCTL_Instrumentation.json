@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Instrumentation",
+        "url": "https://os.mbed.com/teams/Instrumentation/"
+    },
+    "description": "SRVCTL - Sets period required to handle a servo motor, - Provides a APIs to move the servo motor in order to change car direction.",
+    "examples": [
+        "https://os.mbed.com/teams/Instrumentation/code/frdm_MasterVehicle/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SRVCTL",
+    "name": "SRVCTL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Instrumentation/code/SRVCTL/"
+    }
+}

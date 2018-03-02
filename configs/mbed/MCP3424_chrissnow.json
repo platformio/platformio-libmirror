@@ -5,16 +5,7 @@
     },
     "description": "ADC Library",
     "frameworks": "mbed",
-    "keywords": [
-        "ADT7410",
-        "Analog Devices",
-        "I2C",
-        "sensor",
-        "Temperature",
-        "frequencies",
-        "guitar",
-        "tuner"
-    ],
+    "keywords": "MCP3424",
     "name": "MCP3424",
     "platforms": "*",
     "repository": {

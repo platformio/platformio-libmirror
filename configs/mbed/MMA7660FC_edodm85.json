@@ -16,7 +16,12 @@
         "https://os.mbed.com/users/lucas_favre/code/MyLab_Lib/"
     ],
     "frameworks": "mbed",
-    "keywords": "MMA7660FC",
+    "keywords": [
+        "accelerometer",
+        "Grove",
+        "I2C",
+        "MMA7660FC"
+    ],
     "name": "MMA7660FC",
     "platforms": "*",
     "repository": {

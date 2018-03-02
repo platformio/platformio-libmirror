@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Mohan gandhi Vinnakota",
+        "url": "https://os.mbed.com/users/mgvdatalogger/"
+    },
+    "description": "dat logger with S25FL128P",
+    "frameworks": "mbed",
+    "keywords": "data logger",
+    "name": "data logger",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mgvdatalogger/code/data-logger/"
+    }
+}

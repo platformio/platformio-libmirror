@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Hexiwear",
+        "url": "https://os.mbed.com/teams/Hexiwear/"
+    },
+    "description": "Hexiwear library for communicating with the on-board KW40Z BLE device. KW40Z handles also the touch buttons.",
+    "examples": [
+        "https://os.mbed.com/teams/Hexiwear/code/Hexi_Buttons_Example/",
+        "https://os.mbed.com/teams/Hexiwear/code/Hexi_Click_Relay-v2_Example/",
+        "https://os.mbed.com/teams/Hexiwear/code/Hexi_Click_Relay-v3_Example/",
+        "https://os.mbed.com/teams/Hexiwear/code/Hexi_Catch-the-dot_Game/",
+        "https://os.mbed.com/teams/Hexiwear/code/Hexi_BLE_Example/",
+        "https://os.mbed.com/users/daveyclk/code/iBreathe_Breathalyzer/",
+        "https://os.mbed.com/users/v_anand_786/code/Racket_VibrAnalyzer/",
+        "https://os.mbed.com/users/khuang/code/HexiComm/",
+        "https://os.mbed.com/teams/Hexiwear/code/Hexi_Click_Buzzer-v2_Example/",
+        "https://os.mbed.com/users/fyaocn/code/Hexi_swimit/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "buttons",
+        "HEXIWEAR",
+        "KW40Z"
+    ],
+    "name": "Hexi_KW40Z",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Hexiwear/code/Hexi_KW40Z/"
+    }
+}

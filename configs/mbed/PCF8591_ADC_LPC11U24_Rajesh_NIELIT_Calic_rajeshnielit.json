@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "RAJESH M",
+        "url": "https://os.mbed.com/users/rajeshnielit/"
+    },
+    "description": "PCF8591 I2C _ADC read library for LPC11U24",
+    "examples": [
+        "https://os.mbed.com/users/rajeshnielit/code/mbed_PCF8591_LPC11U24_ADC_RAJESH_NIELIT_/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "NIELIT Calicut",
+        "Rajesh"
+    ],
+    "name": "PCF8591_ADC_LPC11U24_Rajesh_NIELIT_Calicut",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rajeshnielit/code/PCF8591_ADC_LPC11U24_Rajesh_NIELIT_Calic/"
+    }
+}

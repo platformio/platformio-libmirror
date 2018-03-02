@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Dream Team",
+        "url": "https://os.mbed.com/teams/Dream-Team-ECE-4180/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "jim hamblen",
+            "frameworks": "mbed",
+            "name": "LSM9DS1_Library_cal"
+        }
+    ],
+    "description": "This is lab2 of 4180 dealing with the extra parts kit.",
+    "frameworks": "mbed",
+    "keywords": "Lab2_EverythingIO",
+    "name": "Lab2_EverythingIO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Dream-Team-ECE-4180/code/Lab2_EverythingIO/"
+    }
+}

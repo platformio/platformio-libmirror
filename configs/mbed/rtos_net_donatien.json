@@ -8,15 +8,7 @@
         "https://os.mbed.com/users/donatien/code/EthernetHTTPClientTest/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "3",
-        "joystick",
-        "playstation",
-        "frequency",
-        "LPC1768",
-        "MHz",
-        "output"
-    ],
+    "keywords": "rtos_net",
     "name": "rtos_net",
     "platforms": "*",
     "repository": {

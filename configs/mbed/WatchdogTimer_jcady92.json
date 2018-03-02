@@ -15,14 +15,7 @@
         "nRF51422",
         "nRF51822",
         "timer",
-        "watchdog",
-        "Watch Dog Timer",
-        "WDT",
-        "LCD",
-        "APA102",
-        "led",
-        "rgb",
-        "ws2801"
+        "watchdog"
     ],
     "name": "WatchdogTimer",
     "platforms": "*",

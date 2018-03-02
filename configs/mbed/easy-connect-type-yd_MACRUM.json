@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Toyomasa Watarai",
+        "url": "https://os.mbed.com/users/MACRUM/"
+    },
+    "dependencies": [
+        {
+            "authors": "Toyomasa Watarai",
+            "frameworks": "mbed",
+            "name": "type-yd-driver"
+        }
+    ],
+    "description": "Easily add all supported connectivity methods to your mbed OS project",
+    "frameworks": "mbed",
+    "keywords": "easy-connect-type-yd",
+    "name": "easy-connect-type-yd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MACRUM/code/easy-connect-type-yd/"
+    }
+}

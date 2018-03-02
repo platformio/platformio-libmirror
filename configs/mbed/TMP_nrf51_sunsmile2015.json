@@ -10,19 +10,7 @@
         "https://os.mbed.com/users/JarkkoS/code/TEMP_YM2/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "EFM32",
-        "SiLabs",
-        "Silicon Labs",
-        "silicon_labs",
-        "Slider",
-        "touch",
-        "PCF2127",
-        "PCF2129",
-        "real time clock",
-        "RTC",
-        "Temperature"
-    ],
+    "keywords": "Temperature",
     "name": "TMP_nrf51",
     "platforms": "*",
     "repository": {

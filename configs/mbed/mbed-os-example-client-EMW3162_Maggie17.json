@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Maggie Mei",
+        "url": "https://os.mbed.com/users/Maggie17/"
+    },
+    "description": "mbed client example using emw3162 wifi module",
+    "frameworks": "mbed",
+    "keywords": "mbed-os-example-client-EMW3162",
+    "name": "mbed-os-example-client-EMW3162",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Maggie17/code/mbed-os-example-client-EMW3162/"
+    }
+}

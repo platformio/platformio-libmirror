@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "erkin yucel",
+        "url": "https://os.mbed.com/users/elessair/"
+    },
+    "description": "mbed os with nrf51 internal bandgap enabled to read battery level",
+    "frameworks": "mbed",
+    "keywords": "mbed-os",
+    "name": "mbed-os",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/elessair/code/mbed-os/"
+    }
+}

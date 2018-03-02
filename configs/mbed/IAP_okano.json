@@ -16,7 +16,13 @@
         "https://os.mbed.com/users/BogdanL/code/Hibernus-LPC11U24/"
     ],
     "frameworks": "mbed",
-    "keywords": "IAP",
+    "keywords": [
+        "EEPROM",
+        "IAP",
+        "In-Application Programming",
+        "internal EEPROM",
+        "internal flash memory"
+    ],
     "name": "IAP",
     "platforms": "*",
     "repository": {

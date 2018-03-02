@@ -6,11 +6,10 @@
     "description": "Mems sensor",
     "examples": [
         "https://os.mbed.com/teams/aconno-dev-team/code/ADC52832_Intro_example/",
-        "https://os.mbed.com/teams/aconno-dev-team/code/ACD52832_Master_Example/",
-        "https://os.mbed.com/teams/aconno-dev-team/code/acn52832_sensor_board/"
+        "https://os.mbed.com/teams/aconno-dev-team/code/ACD52832_Master_Example/"
     ],
     "frameworks": "mbed",
-    "keywords": "manchester",
+    "keywords": "ACD52832_LSM9DS1",
     "name": "ACD52832_LSM9DS1",
     "platforms": "*",
     "repository": {

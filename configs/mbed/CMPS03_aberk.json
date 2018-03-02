@@ -17,26 +17,7 @@
         "https://os.mbed.com/users/sedid/code/boussole/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "CMPS03",
-        "HC-SR04",
-        "HCSR04",
-        "ultrasonic",
-        "parallax",
-        "PING",
-        "sensor",
-        "client",
-        "ENC28J60",
-        "ethernet",
-        "server",
-        "uIP",
-        "UIPEthernet",
-        "LCD",
-        "TFT",
-        "5110",
-        "Nokia",
-        "pcd8544"
-    ],
+    "keywords": "CMPS03",
     "name": "CMPS03",
     "platforms": "*",
     "repository": {

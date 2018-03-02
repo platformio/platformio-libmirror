@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Bill Schilit",
+        "url": "https://os.mbed.com/users/schilit/"
+    },
+    "description": "UriBeacon implementation",
+    "frameworks": "mbed",
+    "keywords": "UriBeacon",
+    "name": "UriBeacon",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/schilit/code/UriBeacon/"
+    }
+}

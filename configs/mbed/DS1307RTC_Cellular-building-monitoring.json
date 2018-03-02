@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Cellular building monitoring",
+        "url": "https://os.mbed.com/teams/Cellular-building-monitoring/"
+    },
+    "description": "11",
+    "frameworks": "mbed",
+    "keywords": "DS1307RTC",
+    "name": "DS1307RTC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Cellular-building-monitoring/code/DS1307RTC/"
+    }
+}

@@ -5,11 +5,7 @@
     },
     "description": "adding additional features",
     "frameworks": "mbed",
-    "keywords": [
-        "Buffered",
-        "MODSERIAL",
-        "Serial"
-    ],
+    "keywords": "USBSerial",
     "name": "USBSerial",
     "platforms": "*",
     "repository": {

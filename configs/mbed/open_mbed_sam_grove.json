@@ -5,16 +5,7 @@
     },
     "description": "Tool that opens a comport for every mbed connected to your computer with one command - never look for the COM number again!",
     "frameworks": "mbed",
-    "keywords": [
-        "cmsis",
-        "rtos",
-        "RTX",
-        "devantech",
-        "ranger",
-        "SRF02",
-        "SRF08",
-        "ultrasonic"
-    ],
+    "keywords": "open_mbed",
     "name": "open_mbed",
     "platforms": "*",
     "repository": {

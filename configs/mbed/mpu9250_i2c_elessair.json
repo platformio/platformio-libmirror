@@ -3,14 +3,9 @@
         "name": "erkin yucel",
         "url": "https://os.mbed.com/users/elessair/"
     },
-    "description": "first release",
+    "description": "first release fork of MPU9250AHRS from Kris Winer",
     "frameworks": "mbed",
-    "keywords": [
-        "C027",
-        "C030",
-        "CellularInterface",
-        "u-blox"
-    ],
+    "keywords": "mpu9250_i2c",
     "name": "mpu9250_i2c",
     "platforms": "*",
     "repository": {

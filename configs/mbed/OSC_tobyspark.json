@@ -3,15 +3,12 @@
         "name": "Toby Harris",
         "url": "https://os.mbed.com/users/tobyspark/"
     },
-    "description": "An Open Sound Control library for the mbed, created to be compatible with Recotana's OSCClass library (http://recotana.com) for the",
+    "description": "An Open Sound Control library for the mbed, created to be compatible with Recotana's OSCClass library (http://recotana.com) for the Arduino with Ethernet shield. It also uses parts of the OSC ...",
     "examples": [
         "https://os.mbed.com/users/tobyspark/code/SPK-DVIMXR/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "I2C",
-        "LCD"
-    ],
+    "keywords": "OSC",
     "name": "OSC",
     "platforms": "*",
     "repository": {

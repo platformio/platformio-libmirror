@@ -3,7 +3,7 @@
         "name": "Chris Pepper",
         "url": "https://os.mbed.com/users/p3p/"
     },
-    "description": "The MPU9150s biggest selling point was its internal Motion Processor to offload the sensor fusion from the host processor, this library uploads the firmware to generate quaternions from the sensors. The API needs work but as other libraries don't support the DMP supplying as is.",
+    "description": "The MPU9150s biggest selling point was its internal Motion Processor to offload the sensor fusion from the host processor, this library uploads the firmware to generate quaternions from the sensors. ...",
     "examples": [
         "https://os.mbed.com/users/p3p/code/MPU9150_Example/",
         "https://os.mbed.com/users/Hagrass/code/CANSAT_COMBINED/",

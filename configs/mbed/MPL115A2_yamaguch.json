@@ -10,20 +10,7 @@
         "https://os.mbed.com/users/AkiraK/code/ARLISS2012_Hidaka/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "POSIX",
-        "rtos",
-        "xbee",
-        "xbee library",
-        "XBEE pro",
-        "xbee programming",
-        "xbeeapi",
-        "xbeelibrary",
-        "ADK",
-        "android",
-        "USB",
-        "MPL115A2"
-    ],
+    "keywords": "MPL115A2",
     "name": "MPL115A2",
     "platforms": "*",
     "repository": {

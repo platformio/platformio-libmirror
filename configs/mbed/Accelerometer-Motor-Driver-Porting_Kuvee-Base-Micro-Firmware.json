@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Kuvée",
+        "url": "https://os.mbed.com/teams/Kuvee-Base-Micro-Firmware/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "LIS3DH and Motor Driver Code. Has the tilt to pour algorithm using case statements and a while(1) loop",
+    "frameworks": "mbed",
+    "keywords": "Accelerometer + Motor Driver Porting",
+    "name": "Accelerometer + Motor Driver Porting",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Kuvee-Base-Micro-Firmware/code/Accelerometer-Motor-Driver-Porting/"
+    }
+}

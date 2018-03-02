@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "PQ_Hybrid_Electrical_Equipment_Team",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/"
+    },
+    "description": "外部割り込みにチャタリング対策を施したライブラリになっている．イベントが発生するとタイマーを起動させ，時間を空けて再度ピンの状態を調べるのだ．フライトピンのみならず，分離検知機構にも利用できるぞ！！",
+    "examples": [
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/Hybrid_main_FirstEdtion/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "2016年度IZU",
+    "name": "ExternalTrigger",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/ExternalTrigger/"
+    }
+}

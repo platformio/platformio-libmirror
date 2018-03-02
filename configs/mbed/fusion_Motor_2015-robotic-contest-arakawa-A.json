@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "2015 robotic contest arakawa A",
+        "url": "https://os.mbed.com/teams/2015-robotic-contest-arakawa-A/"
+    },
+    "description": "QEI PID Motor 合体",
+    "examples": [
+        "https://os.mbed.com/teams/2015-robotic-contest-arakawa-A/code/Nucleo_Motor/",
+        "https://os.mbed.com/teams/GR-PEACH_producer_meeting/code/Nucleo_Motor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PID QEI Motor コントロール 角度 ロータリーエンコーダ",
+    "name": "fusion_Motor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/2015-robotic-contest-arakawa-A/code/fusion_Motor/"
+    }
+}

@@ -18,13 +18,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "fonts",
-        "TFT",
         "Callback",
         "Function Pointer",
-        "handler",
-        "DISCO_F746NG",
-        "sdram"
+        "handler"
     ],
     "name": "FP",
     "platforms": "*",

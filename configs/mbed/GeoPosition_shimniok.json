@@ -8,7 +8,13 @@
         "https://os.mbed.com/teams/Senet/code/Senet-NAMote/"
     ],
     "frameworks": "mbed",
-    "keywords": "GeoPosition",
+    "keywords": [
+        "geo",
+        "GPS",
+        "latitude",
+        "longitude",
+        "navigation"
+    ],
     "name": "GeoPosition",
     "platforms": "*",
     "repository": {

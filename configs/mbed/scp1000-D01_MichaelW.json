@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Michael Walker",
+        "url": "https://os.mbed.com/users/MichaelW/"
+    },
+    "description": "SCP1000-D01 MEMS pressure sensor library",
+    "frameworks": "mbed",
+    "keywords": "scp1000-D01",
+    "name": "scp1000-D01",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MichaelW/code/scp1000-D01/"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Allen Wild",
+        "url": "https://os.mbed.com/users/aswild/"
+    },
+    "description": "I2C Library for the LSM9DS0 IMU",
+    "examples": [
+        "https://os.mbed.com/users/aswild/code/4180_LSM9DS0_lab/",
+        "https://os.mbed.com/users/lzzcd001/code/HW2_P2/",
+        "https://os.mbed.com/users/lzzcd001/code/HW2_P3/",
+        "https://os.mbed.com/users/lzzcd001/code/HW2_P4/",
+        "https://os.mbed.com/teams/ECE-4180-Spring-15/code/balanceRobo/",
+        "https://os.mbed.com/users/awinata/code/Robot_feedback_ir/",
+        "https://os.mbed.com/teams/ECE-4180-Spring-15/code/balance2/",
+        "https://os.mbed.com/teams/ECE-4180-Spring-15/code/EpilepticSegway/",
+        "https://os.mbed.com/users/nicovanduijn/code/AwkwardSegway/",
+        "https://os.mbed.com/teams/ECE-4180-Spring-15/code/AwkwardSegway/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "gyroscope",
+        "IMU",
+        "LSM9DS0",
+        "magnetometer",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "LSM9DS0",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aswild/code/LSM9DS0/"
+    }
+}

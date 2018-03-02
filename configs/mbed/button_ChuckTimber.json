@@ -9,26 +9,7 @@
         "https://os.mbed.com/users/ChuckTimber/code/Gemphet8/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "network",
-        "TCPSocket",
-        "twitpic",
-        "twitter",
-        "ESP8266",
-        "NetworkSocketAPI",
-        "32.768",
-        "F401RE",
-        "F411RE",
-        "L152RE",
-        "RTC",
-        "Timeout",
-        "X2",
-        "infra",
-        "infrared",
-        "IR",
-        "mbed",
-        "red"
-    ],
+    "keywords": "button",
     "name": "button",
     "platforms": "*",
     "repository": {

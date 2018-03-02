@@ -3,7 +3,7 @@
         "name": "Tedd OKANO",
         "url": "https://os.mbed.com/users/okano/"
     },
-    "description": "Version 2.0 of TextLCD_SB1602E.",
+    "description": "Version 2.0 of TextLCD_SB1602E. The old class driver has been rewritten in more common manner of I2C devices.",
     "examples": [
         "https://os.mbed.com/users/okano/code/SB1602E_Hello/",
         "https://os.mbed.com/users/MACRUM/code/BME280_LCD/",
@@ -23,13 +23,7 @@
         "SB1602E",
         "ST7032",
         "Text LCD",
-        "TextLCD_SB1602E",
-        "Buffered",
-        "ROS",
-        "Serial",
-        "UART",
-        "camera",
-        "OV7670"
+        "TextLCD_SB1602E"
     ],
     "name": "SB1602E",
     "platforms": "*",
