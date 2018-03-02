@@ -5,17 +5,7 @@
     },
     "description": "Wifi library for the ESP8266",
     "frameworks": "mbed",
-    "keywords": [
-        "1-wire",
-        "1wire",
-        "DS18B20",
-        "DS18S20",
-        "OneWire",
-        "FreeIMU",
-        "IMU",
-        "MPU6050",
-        "mbed"
-    ],
+    "keywords": "WiFi",
     "name": "WiFi",
     "platforms": "*",
     "repository": {

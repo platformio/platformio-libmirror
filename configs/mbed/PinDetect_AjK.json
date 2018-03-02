@@ -17,7 +17,11 @@
         "https://os.mbed.com/users/kemken/code/elevator/"
     ],
     "frameworks": "mbed",
-    "keywords": "PinDetect",
+    "keywords": [
+        "debounce",
+        "DigitalIn",
+        "InterruptIn"
+    ],
     "name": "PinDetect",
     "platforms": "*",
     "repository": {

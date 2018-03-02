@@ -8,12 +8,7 @@
         "https://os.mbed.com/users/clemounet/code/PYRN/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "core2530(B)",
-        "waveshare",
-        "xbee",
-        "zbee"
-    ],
+    "keywords": "CAN",
     "name": "CAN",
     "platforms": "*",
     "repository": {

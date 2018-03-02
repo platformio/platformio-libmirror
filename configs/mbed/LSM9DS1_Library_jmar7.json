@@ -5,11 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Andy Kirkham"
-            ],
+            "authors": "Andy Kirkham",
             "frameworks": "mbed",
             "name": "PinDetect"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
         }
     ],
     "description": "IMU LSM9DS1 Library",
@@ -18,18 +21,11 @@
         "https://os.mbed.com/users/CRaslawski/code/4180Lab2Part1/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "LPC4088",
-        "Lora",
-        "Semtech",
-        "SX1276",
-        "SX1276Lib",
-        "SX1276MB1xAS"
-    ],
+    "keywords": "LSM9DS1_Library",
     "name": "LSM9DS1_Library",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/jmar7/code/LSM9DS1_Library/"
+        "url": "https://os.mbed.com/users/jmar7/code/LSM9DS1_Library/"
     }
 }

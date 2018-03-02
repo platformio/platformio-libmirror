@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "David Fletcher",
+        "url": "https://os.mbed.com/users/dflet/"
+    },
+    "description": "Freertos for LPC CM3 tested on LPC1768",
+    "frameworks": "mbed",
+    "keywords": "FreeRTOS_V8_2_1",
+    "name": "FreeRTOS_V8_2_1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dflet/code/FreeRTOS_V8_2_1/"
+    }
+}

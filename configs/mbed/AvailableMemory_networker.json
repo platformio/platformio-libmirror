@@ -11,24 +11,7 @@
         "https://os.mbed.com/users/nobukuma/code/myBlueUSB_localfix/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "DISCO_F429ZI",
-        "LCD",
-        "BSP",
-        "esc",
-        "pwm",
-        "RC",
-        "accelerometer",
-        "I2C",
-        "LIS3DH",
-        "AD",
-        "da",
-        "MCP4921",
-        "MCP4922",
-        "Nucleo",
-        "SPI",
-        "UIT"
-    ],
+    "keywords": "AvailableMemory",
     "name": "AvailableMemory",
     "platforms": "*",
     "repository": {

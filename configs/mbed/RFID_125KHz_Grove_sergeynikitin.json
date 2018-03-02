@@ -3,13 +3,9 @@
         "name": "Sergey Nikitin",
         "url": "https://os.mbed.com/users/sergeynikitin/"
     },
-    "description": "Library for Grove RFID scanner",
+    "description": "Library for Grove RFID scanner (http://www.seeedstudio.com/wiki/Grove_-_125KHz_RFID_Reader) Model: SEN11425P",
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
-        "gyroscope",
-        "IMU",
-        "STM32F0",
         "Grove",
         "RFID",
         "SEN11425P",

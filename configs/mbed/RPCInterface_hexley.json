@@ -8,13 +8,7 @@
         "https://os.mbed.com/users/LouisReynier/code/HTTPServerExample_LR/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "LSM303DLH",
-        "Futaba",
-        "MODSERIAL",
-        "SBUS",
-        "Serial"
-    ],
+    "keywords": "RPCInterface",
     "name": "RPCInterface",
     "platforms": "*",
     "repository": {

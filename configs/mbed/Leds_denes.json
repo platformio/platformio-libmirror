@@ -6,16 +6,8 @@
     "description": "Simple class to turn on the RGB led by color",
     "frameworks": "mbed",
     "keywords": [
-        "C24LCXXX",
-        "EEPROM",
-        "I2C",
         "K64F",
-        "led",
-        "example",
-        "kitt",
-        "knightrider",
-        "LPC1768",
-        "mbed"
+        "led"
     ],
     "name": "Leds",
     "platforms": "*",

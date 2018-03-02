@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "ECE 111 At Oregon State University",
+        "url": "https://os.mbed.com/teams/ECE-111-at-Oregon-State-University/"
+    },
+    "description": "SLCD lib",
+    "frameworks": "mbed",
+    "keywords": "SLCD_KL46Z",
+    "name": "SLCD_KL46Z",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ECE-111-at-Oregon-State-University/code/SLCD_KL46Z/"
+    }
+}

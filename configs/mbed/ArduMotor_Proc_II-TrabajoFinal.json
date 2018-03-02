@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Proc_II TrabajoFinal",
+        "url": "https://os.mbed.com/teams/Proc_II-TrabajoFinal/"
+    },
+    "description": "Libreria para manejo de shield controlador de motores AdafuitMotorShield para Arduino",
+    "frameworks": "mbed",
+    "keywords": [
+        "74hc595",
+        "Adafruit",
+        "arduino",
+        "FRDM-KL46Z",
+        "L293D",
+        "motor",
+        "motorshield",
+        "pwm"
+    ],
+    "name": "ArduMotor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Proc_II-TrabajoFinal/code/ArduMotor/"
+    }
+}

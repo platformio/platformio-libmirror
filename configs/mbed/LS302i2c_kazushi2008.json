@@ -3,7 +3,7 @@
         "name": "Kazushi Mukaiyama",
         "url": "https://os.mbed.com/users/kazushi2008/"
     },
-    "description": "An i2c version of mbed LIS302 Accelerometer Library by sford, cstyles, wreynolds. The return data is raw yet. It seems from -0x55 to 0x55 though I think it returns -0x7F to 0x7F. Humm... Why?",
+    "description": "An i2c version of mbed LIS302 Accelerometer Library by sford, cstyles, wreynolds. The return data is raw yet. It seems from -0x55 to 0x55 though I think it returns -0x7F ...",
     "frameworks": "mbed",
     "keywords": [
         "I2C",

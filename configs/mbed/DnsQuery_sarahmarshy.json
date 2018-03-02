@@ -8,16 +8,7 @@
         "https://os.mbed.com/users/kixorz/code/TempTower/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "ILI9163",
-        "Nucleo",
-        "STM32F446",
-        "USBDevice",
-        "actuators",
-        "commnunications",
-        "interfaces",
-        "sensors"
-    ],
+    "keywords": "DnsQuery",
     "name": "DnsQuery",
     "platforms": "*",
     "repository": {

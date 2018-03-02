@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Nespresso RGB Sensor",
+        "url": "https://os.mbed.com/teams/Nespresso-RGB-Sensor/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "GroveColourSensor"
+        }
+    ],
+    "description": "This revised Color Detector library uses a photoresistor in addition to the Grove Colour Sensor to increase accuracy and decrease false positives. Besides the added hardware and different constructor, this ...",
+    "examples": [
+        "https://os.mbed.com/teams/Nespresso-RGB-Sensor/code/nespresso_endpoint/",
+        "https://os.mbed.com/teams/Nespresso-RGB-Sensor/code/CapsuleCalibrator/",
+        "https://os.mbed.com/teams/Nespresso-RGB-Sensor/code/EnvoyNespressoEndpointColorDetectorV2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ColorDetectorV2",
+    "name": "ColorDetectorV2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nespresso-RGB-Sensor/code/ColorDetectorV2/"
+    }
+}

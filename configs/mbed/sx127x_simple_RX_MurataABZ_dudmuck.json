@@ -5,24 +5,18 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "wayne roberts"
-            ],
+            "authors": "wayne roberts",
             "frameworks": "mbed",
             "name": "SX127x"
         }
     ],
     "description": "simple receiver demo for B-L072Z-LRWAN1",
     "frameworks": "mbed",
-    "keywords": [
-        "ACM1602NI",
-        "I2C",
-        "LCD"
-    ],
+    "keywords": "sx127x_simple_RX_MurataABZ",
     "name": "sx127x_simple_RX_MurataABZ",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/dudmuck/code/sx127x_simple_RX_MurataABZ/"
+        "url": "https://os.mbed.com/users/dudmuck/code/sx127x_simple_RX_MurataABZ/"
     }
 }

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "PQ_Hybrid_Electrical_Equipment_Team",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/"
+    },
+    "description": "INA226 Library",
+    "frameworks": "mbed",
+    "keywords": "2017NOSHIRO",
+    "name": "INA226_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/INA226_lib/"
+    }
+}

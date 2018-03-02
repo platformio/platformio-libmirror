@@ -3,7 +3,7 @@
         "name": "Gabriel Garcia",
         "url": "https://os.mbed.com/users/gagarcr/"
     },
-    "description": "Output PWM on any pin.",
+    "description": "Output PWM on any pin. Partly based on SoftPWM with some improvements",
     "frameworks": "mbed",
     "keywords": [
         "pwm",

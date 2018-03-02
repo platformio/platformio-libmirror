@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Flavio Lencina",
+        "url": "https://os.mbed.com/users/flencina/"
+    },
+    "description": "Applications for ARM using Freedom K64-F",
+    "frameworks": "mbed",
+    "keywords": "ARM_LencinaOpen",
+    "name": "ARM_LencinaOpen",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/flencina/code/ARM_LencinaOpen/"
+    }
+}

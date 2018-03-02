@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "PtransTeam",
+        "url": "https://os.mbed.com/teams/PtransTeam/"
+    },
+    "description": "BlinkLED",
+    "frameworks": "mbed",
+    "keywords": "BlinkLED",
+    "name": "BlinkLED",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PtransTeam/code/BlinkLED/"
+    }
+}

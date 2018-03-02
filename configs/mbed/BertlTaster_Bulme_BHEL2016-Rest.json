@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Bulme_BHEL2016-[Rest]",
+        "url": "https://os.mbed.com/teams/Bulme_BHEL2016-Rest/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Bertl Programm für den Motor, reagiert auf die Taster. (Falsche Richtung)",
+    "frameworks": "mbed",
+    "keywords": "Bertl",
+    "name": "BertlTaster",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Bulme_BHEL2016-Rest/code/BertlTaster/"
+    }
+}

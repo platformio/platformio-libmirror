@@ -6,14 +6,9 @@
     "description": "use for led toggle",
     "frameworks": "mbed",
     "keywords": [
-        "LEDcontroller",
-        "TM1637",
         "led",
         "test",
-        "Toggle",
-        "BLE",
-        "BLE Bluetooth Low Energy BLE",
-        "HearRate"
+        "Toggle"
     ],
     "name": "LED_Toggle",
     "platforms": "*",

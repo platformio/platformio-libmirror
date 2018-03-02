@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Varun Ashok",
+        "url": "https://os.mbed.com/users/varun_ashok/"
+    },
+    "description": "K64F applications.",
+    "frameworks": "mbed",
+    "keywords": "FRDM-K64F",
+    "name": "FRDM-K64F",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/varun_ashok/code/FRDM-K64F/"
+    }
+}

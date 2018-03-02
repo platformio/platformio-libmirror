@@ -10,10 +10,7 @@
     "frameworks": "mbed",
     "keywords": [
         "AT45DBxx",
-        "USBMSD",
-        "F401RE",
-        "mma7361",
-        "Nucleo"
+        "USBMSD"
     ],
     "name": "USBMSD_AT45",
     "platforms": "*",

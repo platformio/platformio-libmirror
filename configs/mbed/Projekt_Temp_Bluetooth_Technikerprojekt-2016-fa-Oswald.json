@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Technikerprojekt 2016 fa. Oswald",
+        "url": "https://os.mbed.com/teams/Technikerprojekt-2016-fa-Oswald/"
+    },
+    "description": "Temperaturerfassung über Bluetooth",
+    "frameworks": "mbed",
+    "keywords": "Projekt_Temp_Bluetooth",
+    "name": "Projekt_Temp_Bluetooth",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Technikerprojekt-2016-fa-Oswald/code/Projekt_Temp_Bluetooth/"
+    }
+}

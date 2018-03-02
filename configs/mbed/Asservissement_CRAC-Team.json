@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "CRAC Team",
+        "url": "https://os.mbed.com/teams/CRAC-Team/"
+    },
+    "description": "Biblio à utiliser pour communiquer avec la carte moteur",
+    "examples": [
+        "https://os.mbed.com/users/Brand101/code/Asserv_mot/",
+        "https://os.mbed.com/teams/CRAC-Team/code/Asserv_mot/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Asservissement",
+    "name": "Asservissement",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/CRAC-Team/code/Asservissement/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Lancaster University",
+        "url": "https://os.mbed.com/teams/Lancaster-University/"
+    },
+    "description": "test",
+    "frameworks": "mbed",
+    "keywords": "mbed-lite-test",
+    "name": "mbed-lite-test",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Lancaster-University/code/mbed-lite-test/"
+    }
+}

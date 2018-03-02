@@ -14,22 +14,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DS18B20",
-        "one",
-        "Wire",
-        "library",
-        "MIDI",
-        "USB",
-        "USBMIDI",
-        "2x16",
-        "I2C",
-        "LCD",
-        "mbed",
-        "nRF51822",
         "SD",
         "SDFileSystem",
-        "sdhcfilesystem",
-        "FAT"
+        "sdhcfilesystem"
     ],
     "name": "SDHCFileSystem",
     "platforms": "*",

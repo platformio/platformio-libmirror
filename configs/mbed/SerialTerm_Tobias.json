@@ -6,22 +6,11 @@
     "description": "Serial terminal, mainly for debugging purposes",
     "frameworks": "mbed",
     "keywords": [
-        "hotboards",
-        "keyboard",
         "debug",
         "debugging",
         "Serial",
         "term",
-        "Terminal",
-        "Display Module",
-        "emwin",
-        "LPC4088DM",
-        "Kinematics",
-        "lauther",
-        "math",
-        "matrix",
-        "robot",
-        "Robotics"
+        "Terminal"
     ],
     "name": "SerialTerm",
     "platforms": "*",

@@ -8,15 +8,7 @@
         "https://os.mbed.com/users/clemounet/code/PYRN/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "BNO055",
-        "Elmicro",
-        "FM25W256",
-        "FRAM",
-        "RAMTRON",
-        "SPI",
-        "SSP1"
-    ],
+    "keywords": "Pyrn3GModem",
     "name": "Pyrn3GModem",
     "platforms": "*",
     "repository": {

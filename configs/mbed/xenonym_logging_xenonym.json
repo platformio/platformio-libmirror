@@ -3,7 +3,7 @@
         "name": "Mike Wynn",
         "url": "https://os.mbed.com/users/xenonym/"
     },
-    "description": "Simple logging library that outputs over the PC serial link",
+    "description": "Simple logging library that outputs over the PC serial link to add logging to a file simply `include \"xenonym_logging.h\" ` then you can add logging with which looks slighly like ...",
     "frameworks": "mbed",
     "keywords": [
         "debug",

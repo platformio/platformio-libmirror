@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "BLUESINK",
+        "url": "https://os.mbed.com/teams/BLUESINK/"
+    },
+    "description": "PCA9685 library",
+    "examples": [
+        "https://os.mbed.com/teams/BLUESINK/code/s-rov-firmware/",
+        "https://os.mbed.com/users/TuxLeon/code/DISCO-F746NG_rtos_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "pca9685",
+    "name": "pca9685",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/BLUESINK/code/pca9685/"
+    }
+}

@@ -15,11 +15,7 @@
         "https://os.mbed.com/users/hepta2ume/code/CameraC1098_GPS_different_Lib/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "I2C",
-        "LCD",
-        "fatfilesystem"
-    ],
+    "keywords": "fatfilesystem",
     "name": "FatFileSystem",
     "platforms": "*",
     "repository": {

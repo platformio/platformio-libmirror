@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "TVZ Mechatronics Team",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/"
+    },
+    "dependencies": [
+        {
+            "authors": "Kevin Anderson",
+            "frameworks": "mbed",
+            "name": "C12832"
+        }
+    ],
+    "description": "Learning classes...",
+    "examples": [
+        "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/PURS_ZI_001/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Stoperica",
+    "name": "Stoperica",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/Stoperica/"
+    }
+}

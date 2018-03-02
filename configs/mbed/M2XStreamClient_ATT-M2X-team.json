@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "AT&T M2X Team",
+        "url": "https://os.mbed.com/teams/ATT-M2X-team/"
+    },
+    "description": "ARM mbed M2X API Client: The ARM mbed client library is used to send/receive data to/from AT&T's M2X service from mbed LPC1768 microcontrollers.",
+    "examples": [
+        "https://os.mbed.com/teams/ATT-M2X-team/code/m2x-demo-all/",
+        "https://os.mbed.com/users/jb8414/code/M2X_MTS_ACCEL_DEMO/",
+        "https://os.mbed.com/users/pgruenbaum/code/M2X_MTS_Accel/",
+        "https://os.mbed.com/users/jb8414/code/M2X_K64F_ACCEL/",
+        "https://os.mbed.com/teams/ATT-M2X-team/code/M2X_MTS_Accel/",
+        "https://os.mbed.com/users/mikeflores2000/code/mikeflores2000_M2X_MTS_Accel/",
+        "https://os.mbed.com/users/kwchang2/code/Car_Bon_car_module/",
+        "https://os.mbed.com/users/buf006/code/carbon_home_module/",
+        "https://os.mbed.com/teams/ST-Americas-mbed-Team/code/m2x-accel_ethernet_demo/",
+        "https://os.mbed.com/users/lwrnc/code/m2x-demo-all-cc3000/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "at&t",
+        "data store",
+        "m2x",
+        "time-series"
+    ],
+    "name": "M2XStreamClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ATT-M2X-team/code/M2XStreamClient/"
+    }
+}

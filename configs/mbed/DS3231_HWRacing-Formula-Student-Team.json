@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "HWRacing Formula Student Team",
+        "url": "https://os.mbed.com/teams/HWRacing-Formula-Student-Team/"
+    },
+    "description": "RTC Driver",
+    "frameworks": "mbed",
+    "keywords": "RTC",
+    "name": "DS3231",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/HWRacing-Formula-Student-Team/code/DS3231/"
+    }
+}

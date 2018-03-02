@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "Virtual base class for sensors that measure motion",
+    "examples": [
+        "https://os.mbed.com/users/JimCarver/code/FXOS8700Q/",
+        "https://os.mbed.com/users/JimCarver/code/MAG3110/",
+        "https://os.mbed.com/users/JimCarver/code/MMA8451Q/",
+        "https://os.mbed.com/users/SomeRandomBloke/code/MAG3110/",
+        "https://os.mbed.com/users/Pythia/code/FXOS8700Q/",
+        "https://os.mbed.com/users/co657_kk351/code/FXOS8700Q/",
+        "https://os.mbed.com/teams/NXP/code/FXOS8700Q/",
+        "https://os.mbed.com/teams/ELEC2645-201516/code/FXOS8700Q/",
+        "https://os.mbed.com/users/weebgrammers/code/MotionSensor/",
+        "https://os.mbed.com/users/blownelco/code/FXOS8700Q/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MotionSensor",
+    "name": "MotionSensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/MotionSensor/"
+    }
+}

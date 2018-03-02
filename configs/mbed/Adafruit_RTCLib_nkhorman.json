@@ -13,16 +13,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "buzzer",
-        "music",
-        "sound",
         "driver",
         "ds1307",
         "I2C",
-        "RTC",
-        "pressure",
-        "sensor",
-        "Temperature"
+        "RTC"
     ],
     "name": "Adafruit_RTCLib",
     "platforms": "*",

@@ -5,11 +5,7 @@
     },
     "description": "FT5206 capacitive Touch Panel driver for 7 inch BuyDisplay LCD, with 5-point touch.",
     "frameworks": "mbed",
-    "keywords": [
-        "COMMAND PARSER",
-        "serial command",
-        "uart interupt"
-    ],
+    "keywords": "FT5206",
     "name": "FT5206",
     "platforms": "*",
     "repository": {

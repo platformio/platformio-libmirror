@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "IRIS",
+        "url": "https://os.mbed.com/teams/IRIS1/"
+    },
+    "description": "A basic, innefficient implementation of mbed to pc comms",
+    "frameworks": "mbed",
+    "keywords": "Basic Serial Comms",
+    "name": "Basic Serial Comms",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/IRIS1/code/Basic-Serial-Comms/"
+    }
+}

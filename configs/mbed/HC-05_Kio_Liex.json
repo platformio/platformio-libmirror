@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jesper Jakobsen",
+        "url": "https://os.mbed.com/users/Kio_Liex/"
+    },
+    "description": "BlueTooth HC-05 module running on a ST-Nucleo-F303K8",
+    "frameworks": "mbed",
+    "keywords": "HC05",
+    "name": "HC-05",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Kio_Liex/code/HC-05/"
+    }
+}

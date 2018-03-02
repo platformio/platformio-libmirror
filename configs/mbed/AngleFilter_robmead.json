@@ -10,12 +10,7 @@
         "accelerometer",
         "gyro",
         "gyroscope",
-        "IMU",
-        "Serial",
-        "Terminal",
-        "VT100",
-        "VT200",
-        "VT52"
+        "IMU"
     ],
     "name": "AngleFilter",
     "platforms": "*",

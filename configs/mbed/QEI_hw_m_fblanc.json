@@ -5,19 +5,7 @@
     },
     "description": "control speed motor PID QEIHW MOTOR",
     "frameworks": "mbed",
-    "keywords": [
-        "10DOF",
-        "ADXL345",
-        "AHRS",
-        "BMP",
-        "dcm",
-        "FreeIMU",
-        "HMC5883L",
-        "Hobbyking",
-        "IMU",
-        "l3g4200d",
-        "quaternions"
-    ],
+    "keywords": "QEI_hw_m",
     "name": "QEI_hw_m",
     "platforms": "*",
     "repository": {

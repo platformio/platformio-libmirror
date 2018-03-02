@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "StepOne",
+        "url": "https://os.mbed.com/teams/StepOne/"
+    },
+    "description": "StepOne (store accelerometer value)",
+    "examples": [
+        "https://os.mbed.com/teams/StepOne/code/StepOne-store-accelerometer-value/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MAX30100",
+    "name": "MAX30100",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/StepOne/code/MAX30100/"
+    }
+}

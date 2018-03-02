@@ -5,46 +5,22 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Akinori Hashimoto"
-            ],
+            "authors": "Akinori Hashimoto",
             "frameworks": "mbed",
             "name": "RingBuffer"
         }
     ],
-    "description": "Serial Communicate Control Class.",
+    "description": "Serial Communicate Control Class. This has printf() and Tx & Rx buffer with (RxIRQ) RingBuffer, andmore can add user rxFunc to RxIrq.",
     "frameworks": "mbed",
     "keywords": [
-        "emulation",
-        "I2C",
-        "SoftI2C",
-        "software",
-        "24bit",
-        "adc",
-        "NTC",
-        "PT100",
-        "PT1000",
-        "PT500",
-        "RTD",
-        "Temperature",
-        "Thermocouple",
-        "Arducam",
-        "OV5642",
         "printf",
         "ringbuffer",
-        "Serial",
-        "motor",
-        "AT",
-        "C030",
-        "CellularInterface",
-        "N211",
-        "N2xx",
-        "u-blox"
+        "Serial"
     ],
     "name": "mySerial",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/AkinoriHashimoto/code/mySerial/"
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/mySerial/"
     }
 }

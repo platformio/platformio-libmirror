@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "SHEILD ON",
+        "url": "https://os.mbed.com/teams/SHEILD-ON/"
+    },
+    "description": "NRF51DK Test",
+    "frameworks": "mbed",
+    "keywords": "NRF51DK",
+    "name": "NRF51DK",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/SHEILD-ON/code/NRF51DK/"
+    }
+}

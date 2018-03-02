@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Shundo Kishi",
+        "url": "https://os.mbed.com/users/syundo0730/"
+    },
+    "description": "Library for 16 channel PWM servo driver PCA9685.",
+    "examples": [
+        "https://os.mbed.com/users/syundo0730/code/Adafruit-PWM-Servo-Driver_sample/",
+        "https://os.mbed.com/users/syundo0730/code/Hobby_Humanoid_controlor/",
+        "https://os.mbed.com/users/Fairy_Paolina/code/Servos/",
+        "https://os.mbed.com/users/robo8080/code/Adafruit-MortorShield_sample/",
+        "https://os.mbed.com/teams/xLAB-acutators/code/xlab_lights_non_addr/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Adafruit-PWM-Servo-Driver",
+    "name": "Adafruit-PWM-Servo-Driver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/syundo0730/code/Adafruit-PWM-Servo-Driver/"
+    }
+}

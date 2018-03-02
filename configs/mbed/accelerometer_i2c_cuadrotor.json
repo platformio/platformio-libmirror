@@ -3,7 +3,7 @@
         "name": "fiuba robotica",
         "url": "https://os.mbed.com/users/cuadrotor/"
     },
-    "description": "Ready for usage of this device:",
+    "description": "Ready for usage of this device: http://gadgetgangster.com/find-a-project/56.html?projectnum=322",
     "frameworks": "mbed",
     "keywords": [
         "accelerometer",
@@ -15,10 +15,7 @@
         "I2C",
         "quadrotor",
         "robotica",
-        "vuelo",
-        "CloudConnector",
-        "etherios",
-        "IOT"
+        "vuelo"
     ],
     "name": "accelerometer_i2c",
     "platforms": "*",

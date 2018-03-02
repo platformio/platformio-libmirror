@@ -6,12 +6,8 @@
     "description": "Class library for a Stepper Motor to be able to Select amount of steps,set the time interval between steps, run stepper motor freely and stop the stepper motor.",
     "frameworks": "mbed",
     "keywords": [
-        "chart",
-        "graph",
-        "plot.ly",
         "Armand",
-        "Coetzer",
-        "bluetooth"
+        "Coetzer"
     ],
     "name": "Stepper",
     "platforms": "*",

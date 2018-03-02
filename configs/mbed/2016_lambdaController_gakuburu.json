@@ -3,14 +3,16 @@
         "name": "takeshi yoshida",
         "url": "https://os.mbed.com/users/gakuburu/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "lambdaController",
     "frameworks": "mbed",
-    "keywords": [
-        "font",
-        "NeoPixel",
-        "WS2812",
-        "wx2811"
-    ],
+    "keywords": "2016_lambdaController",
     "name": "2016_lambdaController",
     "platforms": "*",
     "repository": {

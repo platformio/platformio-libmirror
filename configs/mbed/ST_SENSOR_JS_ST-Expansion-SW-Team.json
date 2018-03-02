@@ -1,0 +1,47 @@
+{
+    "authors": {
+        "name": "ST Expansion SW Team",
+        "url": "https://os.mbed.com/teams/ST-Expansion-SW-Team/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "DEVI2C_JS"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "HTS221_JS"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "LPS22HB_JS"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "LSM303AGR_JS"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "LSM6DSL_JS"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "SPI_JS"
+        }
+    ],
+    "description": "The project demonstrates how to program some of ST sensors in Javascript on MbedOS by using Jerryscript https://github.com/jerryscript-project/jerryscript The following sensors are the part of demonstration (while more can be ...",
+    "frameworks": "mbed",
+    "keywords": "ST_SENSOR_JS",
+    "name": "ST_SENSOR_JS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST-Expansion-SW-Team/code/ST_SENSOR_JS/"
+    }
+}

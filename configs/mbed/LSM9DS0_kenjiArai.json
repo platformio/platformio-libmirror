@@ -11,14 +11,7 @@
         "IMU",
         "iNEMO",
         "MAG",
-        "STM",
-        "colour",
-        "Grove",
-        "sensor",
-        "DS1631",
-        "capture",
-        "timer",
-        "timer2"
+        "STM"
     ],
     "name": "LSM9DS0",
     "platforms": "*",

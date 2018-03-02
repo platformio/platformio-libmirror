@@ -3,17 +3,13 @@
         "name": "Paul Paterson",
         "url": "https://os.mbed.com/users/ptpaterson/"
     },
-    "description": "library for C++ CANOpen implementation.",
+    "description": "library for C++ CANOpen implementation. mbed independant, but is easy to attach into with mbed.",
     "examples": [
         "https://os.mbed.com/users/ptpaterson/code/ppCANOpen_Example/",
         "https://os.mbed.com/users/TuxLeon/code/DISCO-F746NG_rtos_test/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "I2C",
-        "GR-PEACH",
-        "R_BSP"
-    ],
+    "keywords": "ppCANOpen",
     "name": "ppCANOpen",
     "platforms": "*",
     "repository": {

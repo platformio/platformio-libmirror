@@ -3,16 +3,12 @@
         "name": "decarvalho adelino",
         "url": "https://os.mbed.com/users/adelino/"
     },
-    "description": "Library for 3.2'' uLcd Picaso Display4D system",
+    "description": "Library for 3.2'' uLcd Picaso Display4D system Picaso Serial Environment Command Set web: http://www.4dsystems.com.au/product/20/67/Processors_Graphics/PICASO/",
     "frameworks": "mbed",
     "keywords": [
         "4D system",
         "LCD",
-        "Picaso",
-        "CAN",
-        "Queue",
-        "Freescale",
-        "mbed"
+        "Picaso"
     ],
     "name": "PicasoLib",
     "platforms": "*",

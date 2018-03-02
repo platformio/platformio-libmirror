@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Kevin Braun",
+        "url": "https://os.mbed.com/users/loopsva/"
+    },
+    "description": "Watchdog Timer for the K64F. User can set timeout value from 1 to 356 seconds with a one second resolution.",
+    "examples": [
+        "https://os.mbed.com/users/Reiko/code/Telliskivi2_2014/",
+        "https://os.mbed.com/teams/ASE/code/mbed-IBooth-ETH/",
+        "https://os.mbed.com/users/lgarabo/code/TwitterReader/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "K64F",
+        "watchdog",
+        "WDT"
+    ],
+    "name": "WDT_K64F",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/loopsva/code/WDT_K64F/"
+    }
+}

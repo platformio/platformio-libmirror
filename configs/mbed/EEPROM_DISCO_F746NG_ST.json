@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "Class to drive a M24LR64 EEPROM with the STM32746G_DISCOVERY board. This EEPROM can be found on the additional ANT7-M24LR-A daughter board.",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/DISCO-F746NG_EEPROM_demo/",
+        "https://os.mbed.com/users/DouglasK/code/DISCO-F746NG_Monttory_Base/",
+        "https://os.mbed.com/teams/Monttori/code/DISCO-F746NG_Monttory_Base/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F746NG",
+        "EEPROM"
+    ],
+    "name": "EEPROM_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/EEPROM_DISCO_F746NG/"
+    }
+}

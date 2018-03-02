@@ -3,6 +3,13 @@
         "name": "Paolo Sanna",
         "url": "https://os.mbed.com/users/dreamworker/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "Library for 16-channel, 12-bit PWM controller NXP PCA9685.",
     "examples": [
         "https://os.mbed.com/users/dreamworker/code/PCA9685_Hello_World/",
@@ -11,9 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "802.15.4",
-        "wireless",
-        "xbee",
         "Nucleo",
         "PCA9685",
         "pwm controller"

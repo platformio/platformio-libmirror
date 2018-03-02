@@ -8,13 +8,7 @@
         "https://os.mbed.com/users/Clemo/code/kinetisizer/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "compass",
-        "driver",
-        "HMC5583L",
-        "I2C",
-        "sensor"
-    ],
+    "keywords": "board",
     "name": "board",
     "platforms": "*",
     "repository": {

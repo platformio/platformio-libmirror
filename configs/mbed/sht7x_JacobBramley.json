@@ -9,17 +9,7 @@
         "Humidity",
         "Sensirion",
         "SHT7x",
-        "Temperature",
-        "arduino",
-        "compatible",
-        "due",
-        "multitasking",
-        "Scheduler",
-        "Analog",
-        "dipsw",
-        "Input",
-        "SW",
-        "tactsw"
+        "Temperature"
     ],
     "name": "sht7x",
     "platforms": "*",

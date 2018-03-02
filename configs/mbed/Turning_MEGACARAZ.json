@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "MEGACARAZ",
+        "url": "https://os.mbed.com/teams/MEGACARAZ/"
+    },
+    "dependencies": [
+        {
+            "authors": "Nikolas Goldin",
+            "frameworks": "mbed",
+            "name": "btbee"
+        },
+        {
+            "authors": "Thomas Glatzel",
+            "frameworks": "mbed",
+            "name": "m3pi_ng"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "A code with functions for turning right and left.",
+    "frameworks": "mbed",
+    "keywords": "Turning",
+    "name": "Turning",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MEGACARAZ/code/Turning/"
+    }
+}

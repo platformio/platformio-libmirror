@@ -8,15 +8,7 @@
         "https://os.mbed.com/users/johnylafleur/code/Nucleo_gyro_magno/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Celsius",
-        "driver",
-        "I2C",
-        "LM75B",
-        "nxp",
-        "sensor",
-        "Temperature"
-    ],
+    "keywords": "LSM303DLH",
     "name": "LSM303DLH",
     "platforms": "*",
     "repository": {

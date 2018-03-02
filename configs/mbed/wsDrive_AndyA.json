@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Erik Olieman"
-            ],
+            "authors": "Erik Olieman",
             "frameworks": "mbed",
             "name": "BurstSPI"
         }
@@ -19,12 +17,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "arithmetic",
-        "Expression",
-        "Linear",
-        "matrix",
-        "Template",
-        "vector",
         "NeoPixel",
         "WS2811",
         "WS2812"
@@ -33,6 +25,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/AndyA/code/wsDrive/"
+        "url": "https://os.mbed.com/users/AndyA/code/wsDrive/"
     }
 }

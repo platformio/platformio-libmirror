@@ -10,22 +10,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "joystick",
-        "device",
-        "Nucleo",
-        "USB",
-        "SDFileSystem",
-        "STM32F746",
         "accelerometer",
         "LIS302",
-        "SPI",
-        "AQM1602",
-        "I2C",
-        "UIT",
-        "EEPROM",
-        "LPC11U24",
-        "DMA",
-        "KL25z"
+        "SPI"
     ],
     "name": "LIS302",
     "platforms": "*",

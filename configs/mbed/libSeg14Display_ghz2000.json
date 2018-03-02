@@ -13,10 +13,7 @@
         "Ghz2000",
         "mbed",
         "Nucleo",
-        "Seg14Display",
-        "led",
-        "PT6961",
-        "SPI"
+        "Seg14Display"
     ],
     "name": "libSeg14Display",
     "platforms": "*",

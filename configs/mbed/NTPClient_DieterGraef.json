@@ -10,17 +10,7 @@
         "https://os.mbed.com/users/ChesterLin/code/final/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "BLE",
-        "bluetooth",
-        "simpleble",
-        "Adafruit_GFX",
-        "CAN",
-        "control",
-        "port",
-        "slope",
-        "NTP"
-    ],
+    "keywords": "NTP",
     "name": "NTPClient",
     "platforms": "*",
     "repository": {

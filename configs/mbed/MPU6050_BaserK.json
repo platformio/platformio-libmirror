@@ -3,7 +3,7 @@
         "name": "Baser Kandehir",
         "url": "https://os.mbed.com/users/BaserK/"
     },
-    "description": "MPU6050 library using i2c interface on LPC1768",
+    "description": "MPU6050 library using i2c interface on LPC1768 - Complementary filter is added. Now program can calculate pitch and roll angles.",
     "examples": [
         "https://os.mbed.com/users/BaserK/code/gimbalController_brushless_IMU/",
         "https://os.mbed.com/users/BaserK/code/i2c_MPU6050/",
@@ -13,10 +13,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DipCortex",
-        "USB device",
-        "FRDM-K64F",
-        "fxos8700cq",
         "accelerometer",
         "ANGLE",
         "complementary",

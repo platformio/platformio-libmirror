@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "RockStars",
+        "url": "https://os.mbed.com/teams/RockStars/"
+    },
+    "description": "Not sure exactly",
+    "examples": [
+        "https://os.mbed.com/users/alexm78/code/test_capteur/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Suli_Mbed",
+    "name": "Suli_Mbed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/RockStars/code/Suli_Mbed/"
+    }
+}

@@ -9,13 +9,7 @@
         "https://os.mbed.com/users/Suky/code/Example_Menu_LCD_TFT/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "touch",
-        "accelerometer",
-        "Grove",
-        "I2C",
-        "MMA7660FC"
-    ],
+    "keywords": "touch",
     "name": "TouchADS7843",
     "platforms": "*",
     "repository": {

@@ -10,13 +10,7 @@
     "frameworks": "mbed",
     "keywords": [
         "LCD",
-        "window",
-        "I2C",
-        "Luminosity",
-        "Lux",
-        "sensor",
-        "USB",
-        "UVC"
+        "window"
     ],
     "name": "LcdWindow",
     "platforms": "*",

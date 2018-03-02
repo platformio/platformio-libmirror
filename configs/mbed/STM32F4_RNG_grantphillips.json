@@ -8,13 +8,7 @@
         "https://os.mbed.com/users/JovanEps/code/MCU-Benchmark-Sute/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "MAX30102",
-        "ACM1602NI",
-        "I2C",
-        "LCD",
-        "Nucleo"
-    ],
+    "keywords": "STM32F4_RNG",
     "name": "STM32F4_RNG",
     "platforms": "*",
     "repository": {

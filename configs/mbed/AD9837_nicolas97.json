@@ -5,12 +5,7 @@
     },
     "description": "Library for interfacing with AD9837, generate Sine/Triangular/Square wave",
     "frameworks": "mbed",
-    "keywords": [
-        "LPC1114FN28",
-        "sound",
-        "CNMAT",
-        "osc"
-    ],
+    "keywords": "AD9837",
     "name": "AD9837",
     "platforms": "*",
     "repository": {

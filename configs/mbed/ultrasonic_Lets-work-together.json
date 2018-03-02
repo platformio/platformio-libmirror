@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Let's work together",
+        "url": "https://os.mbed.com/teams/Lets-work-together/"
+    },
+    "description": "Created libraries",
+    "examples": [
+        "https://os.mbed.com/teams/Lets-work-together/code/Ultrasonic2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ultrasonic",
+    "name": "ultrasonic",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Lets-work-together/code/ultrasonic/"
+    }
+}

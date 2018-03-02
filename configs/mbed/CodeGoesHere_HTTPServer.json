@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "HTTPServer",
+        "url": "https://os.mbed.com/teams/HTTPServer/"
+    },
+    "description": "HTTPServer",
+    "frameworks": "mbed",
+    "keywords": "CodeGoesHere",
+    "name": "CodeGoesHere",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/HTTPServer/code/CodeGoesHere/"
+    }
+}

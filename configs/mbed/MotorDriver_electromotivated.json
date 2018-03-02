@@ -10,18 +10,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "distance",
-        "Fischer",
-        "sensor",
-        "Technik",
-        "ultrasonic",
         "driver",
         "h- bridge",
         "motor",
         "motor driver",
-        "motors",
-        "touch keypad",
-        "TTP229"
+        "motors"
     ],
     "name": "MotorDriver",
     "platforms": "*",

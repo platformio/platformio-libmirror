@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "John Kemp",
+        "url": "https://os.mbed.com/users/psjb/"
+    },
+    "description": "ethernet library port to stm32f407, dp83848",
+    "frameworks": "mbed",
+    "keywords": "stm32f407_ethernet_library",
+    "name": "stm32f407_ethernet_library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/psjb/code/stm32f407_ethernet_library/"
+    }
+}

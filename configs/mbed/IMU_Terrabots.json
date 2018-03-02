@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Terrabots",
+        "url": "https://os.mbed.com/teams/Terrabots/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Jason Mar",
+            "frameworks": "mbed",
+            "name": "LSM9DS1_Library"
+        }
+    ],
+    "description": "General IMU Library",
+    "frameworks": "mbed",
+    "keywords": "IMU",
+    "name": "IMU",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Terrabots/code/IMU/"
+    }
+}

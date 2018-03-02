@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Joseph Ellsworth",
+        "url": "https://os.mbed.com/users/joeata2wh/"
+    },
+    "description": "Command listener for serial ports capable of listening to multiple ports simultaneously. It considered \\n \\r command terminators and will make callback to client code when it detects completed commands. ...",
+    "examples": [
+        "https://os.mbed.com/users/joeata2wh/code/xj-multi-serial-command-listener-example/",
+        "https://os.mbed.com/users/joeata2wh/code/xej-Nucleo-F401RE-and-HC05-Bluetooth/",
+        "https://os.mbed.com/users/joeata2wh/code/data_log/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "COMMAND PARSER",
+        "serial command",
+        "uart interupt"
+    ],
+    "name": "multi-serial-command-listener",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/joeata2wh/code/multi-serial-command-listener/"
+    }
+}

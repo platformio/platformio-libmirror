@@ -18,18 +18,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MCP3201",
-        "MCP3204",
-        "MCP3208",
-        "SPI",
         "hotboards",
-        "keyboard",
-        "Kinematics",
-        "lauther",
-        "math",
-        "matrix",
-        "robot",
-        "Robotics"
+        "keyboard"
     ],
     "name": "Hotboards_keypad",
     "platforms": "*",

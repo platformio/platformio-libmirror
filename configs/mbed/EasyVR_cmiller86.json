@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Chad Miller",
+        "url": "https://os.mbed.com/users/cmiller86/"
+    },
+    "description": "EasyVR by Chad and Alty",
+    "examples": [
+        "https://os.mbed.com/users/cmiller86/code/Lab4/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "EasyVR",
+    "name": "EasyVR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cmiller86/code/EasyVR/"
+    }
+}

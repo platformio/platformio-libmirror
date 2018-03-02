@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "StepOne",
+        "url": "https://os.mbed.com/teams/StepOne/"
+    },
+    "description": "StepOne (store accelerometer value)",
+    "examples": [
+        "https://os.mbed.com/teams/StepOne/code/StepOne-store-accelerometer-value/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "I2C_FUNCTION",
+    "name": "I2C_FUNCTION",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/StepOne/code/I2C_FUNCTION/"
+    }
+}

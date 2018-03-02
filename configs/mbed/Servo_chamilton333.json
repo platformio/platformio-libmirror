@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Simon Ford"
-            ],
+            "authors": "Simon Ford",
             "frameworks": "mbed",
             "name": "Servo"
         }
@@ -19,6 +17,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/chamilton333/code/Servo/"
+        "url": "https://os.mbed.com/users/chamilton333/code/Servo/"
     }
 }

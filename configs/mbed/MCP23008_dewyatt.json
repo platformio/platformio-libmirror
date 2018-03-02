@@ -5,11 +5,7 @@
     },
     "description": "A library for the Microchip MCP23008 I2C 8-bit I/O expander.",
     "frameworks": "mbed",
-    "keywords": [
-        "WiFly",
-        "FTP",
-        "server"
-    ],
+    "keywords": "MCP23008",
     "name": "MCP23008",
     "platforms": "*",
     "repository": {

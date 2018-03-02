@@ -8,13 +8,7 @@
         "https://os.mbed.com/users/hotchpotch/code/Max7219_7segled_example/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "DS3231",
-        "RTC",
-        "debounce",
-        "debouncing",
-        "L9110S"
-    ],
+    "keywords": "Max7219",
     "name": "Max7219",
     "platforms": "*",
     "repository": {

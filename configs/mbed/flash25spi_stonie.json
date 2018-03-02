@@ -6,21 +6,9 @@
     "description": "A library to read and write all 25* serial SPI flash devices from various manufacturers.",
     "frameworks": "mbed",
     "keywords": [
-        "HD44780",
-        "TextLCD",
         "flash",
         "Serial",
-        "SPI",
-        "CC3000",
-        "SimpleLink",
-        "Wi-Fi",
-        "fast",
-        "FastPWM",
-        "precision",
-        "pwm",
-        "resolution",
-        "Servo",
-        "Speed"
+        "SPI"
     ],
     "name": "flash25spi",
     "platforms": "*",

@@ -3,15 +3,9 @@
         "name": "j k",
         "url": "https://os.mbed.com/users/jksoft_mbed/"
     },
-    "description": "ZumoにFRDM KL-25Zを搭載した時のモーターコントロールライブラリです。",
+    "description": "ZumoにFRDM KL-25Zを搭載した時のモーターコントロールライブラリです。 PWM用の端子が互換していないので、割り込みでパルスを作っています。 デフォルトは100Hzの10段階になっています。",
     "frameworks": "mbed",
     "keywords": [
-        "PCA9629A",
-        "stepper motor",
-        "stepping motor",
-        "Low_Power",
-        "LPC1114",
-        "LPC1114FN28",
         "KL-25Z",
         "Zumo"
     ],

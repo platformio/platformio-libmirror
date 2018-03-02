@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "silabs-abakurs",
+        "url": "https://os.mbed.com/teams/silabs-abakurs/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Drive a speaker using PWM",
+    "examples": [
+        "https://os.mbed.com/teams/silabs-abakurs/code/PwmSpeaker-Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PwmSpeaker",
+    "name": "PwmSpeaker",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/silabs-abakurs/code/PwmSpeaker/"
+    }
+}

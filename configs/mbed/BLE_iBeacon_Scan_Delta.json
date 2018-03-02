@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Delta",
+        "url": "https://os.mbed.com/teams/Delta/"
+    },
+    "description": "Provide BLE API to parse the iBeacon packet and print the message. Leverage the BLE scan_start, scan_stop API to get iBeacon.",
+    "examples": [
+        "https://os.mbed.com/teams/Delta/code/BLE_iBeaconScan/",
+        "https://os.mbed.com/users/phamhuutin202/code/BLE_iBeaconScan/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BLE_iBeacon_Scan",
+    "name": "BLE_iBeacon_Scan",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Delta/code/BLE_iBeacon_Scan/"
+    }
+}

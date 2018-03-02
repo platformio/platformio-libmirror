@@ -18,15 +18,7 @@
         "DALLAS",
         "DS18B20",
         "OneWire",
-        "thermometer",
-        "pressure",
-        "scp1000",
-        "sensor",
-        "Temperature",
-        "Akizuki",
-        "character",
-        "I2C",
-        "LCD"
+        "thermometer"
     ],
     "name": "DS18B20_1wire",
     "platforms": "*",

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Oswaldo Antonio",
+        "url": "https://os.mbed.com/users/OswaldoAntonio/"
+    },
+    "description": "this is a test of the library SSD1306 of adafruit for the oled of 128x64 with the card of development kl25z",
+    "frameworks": "mbed",
+    "keywords": "Oled_test",
+    "name": "Oled_test",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/OswaldoAntonio/code/Oled_test/"
+    }
+}

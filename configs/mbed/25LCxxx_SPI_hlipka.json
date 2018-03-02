@@ -9,20 +9,12 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "http",
-        "https",
         "25lcxxx",
         "25xx",
         "EEPROM",
         "flash",
         "memory",
-        "SPI",
-        "IEEE",
-        "mbed",
-        "micromouse",
-        "UCLA",
-        "16x4",
-        "LCD"
+        "SPI"
     ],
     "name": "25LCxxx_SPI",
     "platforms": "*",

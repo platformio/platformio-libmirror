@@ -17,13 +17,7 @@
         "https://os.mbed.com/users/Innom/code/Clase14/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "disco",
-        "FT5336",
-        "Touch Screen",
-        "OLED",
-        "SSD1306"
-    ],
+    "keywords": "SoftSerial",
     "name": "SoftSerial",
     "platforms": "*",
     "repository": {

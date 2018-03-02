@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "S5-P05",
+        "url": "https://os.mbed.com/teams/S5-P05/"
+    },
+    "description": "File Config for Ethernet connection",
+    "examples": [
+        "https://os.mbed.com/users/13075593/code/Ethernet/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ConfigEthernet",
+    "name": "ConfigEthernet",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/S5-P05/code/ConfigEthernet/"
+    }
+}

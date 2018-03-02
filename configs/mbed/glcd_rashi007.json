@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "rashi jain",
+        "url": "https://os.mbed.com/users/rashi007/"
+    },
+    "description": "working code of GLCD KS0108 and JHD series for stm32 nucleo board",
+    "frameworks": "mbed",
+    "keywords": "glcd",
+    "name": "glcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rashi007/code/glcd/"
+    }
+}

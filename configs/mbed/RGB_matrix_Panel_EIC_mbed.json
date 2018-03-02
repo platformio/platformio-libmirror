@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "EIC",
+        "url": "https://os.mbed.com/teams/EIC_mbed/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "Adafruit-GFX"
+        }
+    ],
+    "description": "Adafruit-RGB_matrix_Panel(32*16)",
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "LEDMatrix"
+    ],
+    "name": "RGB_matrix_Panel",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/EIC_mbed/code/RGB_matrix_Panel/"
+    }
+}

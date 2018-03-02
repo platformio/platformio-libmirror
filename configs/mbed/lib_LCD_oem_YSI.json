@@ -3,29 +3,18 @@
         "name": "Y SI",
         "url": "https://os.mbed.com/users/YSI/"
     },
-    "description": "lib_LCD_oem",
+    "description": "lib_LCD_oem http://www.lextronic.fr/P764-afficheur-4-x-20-caracteres-retro-eclaire-vert.html YSI",
     "examples": [
         "https://os.mbed.com/users/YSI/code/lib_LCD_oem_example/",
         "https://os.mbed.com/users/YSI/code/libs_YSI_example/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "TCS3472",
-        "TCS34721",
-        "TCS34723",
-        "TCS34725",
-        "TCS34727",
         "20X4",
         "ELCD",
         "LCD",
         "OEM",
-        "Serial",
-        "cmsis",
-        "DSP",
-        "4x4",
-        "keypad",
-        "polling"
+        "Serial"
     ],
     "name": "lib_LCD_oem",
     "platforms": "*",

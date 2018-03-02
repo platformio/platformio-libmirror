@@ -17,21 +17,7 @@
         "https://os.mbed.com/users/displaymodule/code/dm_touch/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "game pad",
-        "gamepad",
-        "playstation",
-        "playstation2",
-        "PS2",
-        "SPI",
-        "pwm",
-        "softwarePWM",
-        "display",
-        "driver",
-        "HEXIWEAR",
-        "OLED",
-        "SSD1351"
-    ],
+    "keywords": "DmTftLibrary",
     "name": "DmTftLibrary",
     "platforms": "*",
     "repository": {

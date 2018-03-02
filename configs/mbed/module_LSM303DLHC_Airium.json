@@ -3,12 +3,16 @@
         "name": "X SZ",
         "url": "https://os.mbed.com/users/Airium/"
     },
-    "description": "LSM303DLHC Full Driver:",
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "LSM303DLHC Full Driver: Readings For Acc, Mag and Temp; Class Method for frequently-used 13 sensor parameters; Class Method to direct modify registers; Support Calibration (offset+scale);",
     "frameworks": "mbed",
     "keywords": [
-        "5110",
-        "Nokia",
-        "TextLCD",
         "acc",
         "compass",
         "LSM303",

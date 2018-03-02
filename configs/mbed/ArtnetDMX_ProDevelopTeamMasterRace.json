@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "ProDevelopTeam#MasterRace",
+        "url": "https://os.mbed.com/teams/ProDevelopTeamMasterRace/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Ayrton Leyssens",
+            "frameworks": "mbed",
+            "name": "DMX"
+        },
+        {
+            "authors": "Simon Ford",
+            "frameworks": "mbed",
+            "name": "TextLCD"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        }
+    ],
+    "description": "Artnet to DMX",
+    "frameworks": "mbed",
+    "keywords": "ArtnetDMX",
+    "name": "ArtnetDMX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ProDevelopTeamMasterRace/code/ArtnetDMX/"
+    }
+}

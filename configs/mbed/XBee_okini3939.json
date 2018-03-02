@@ -3,7 +3,7 @@
         "name": "Suga koubou",
         "url": "https://os.mbed.com/users/okini3939/"
     },
-    "description": "XBee-mbed library",
+    "description": "XBee-mbed library http://mbed.org/users/okini3939/notebook/xbee-mbed/",
     "examples": [
         "https://os.mbed.com/users/recotana/code/device_server_udp/",
         "https://os.mbed.com/users/recotana/code/led_sender_post/",
@@ -24,11 +24,7 @@
         "Series",
         "Wi-Fi",
         "xbee",
-        "zigbee",
-        "debounce",
-        "DigitalIn",
-        "Config",
-        "file"
+        "zigbee"
     ],
     "name": "XBee",
     "platforms": "*",

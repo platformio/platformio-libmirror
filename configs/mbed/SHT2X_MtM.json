@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "MtM+",
+        "url": "https://os.mbed.com/teams/MtM/"
+    },
+    "description": "SHT21 & SHT25 humidity and temperature sensors",
+    "examples": [
+        "https://os.mbed.com/teams/MtM/code/MtConnect04S_MtSense01/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SHT2X",
+    "name": "SHT2X",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MtM/code/SHT2X/"
+    }
+}

@@ -3,21 +3,9 @@
         "name": "shohei haga",
         "url": "https://os.mbed.com/users/shaga/"
     },
-    "description": "Adafruit PWM Servo Driver Library for mbed.",
+    "description": "Adafruit PWM Servo Driver Library for mbed. Porting from Arduino Library.",
     "frameworks": "mbed",
-    "keywords": [
-        "6005BG00",
-        "buzzcard",
-        "HID",
-        "ProxCard",
-        "ProxPoint",
-        "RFID",
-        "Wiegand",
-        "I2C",
-        "MAX30101",
-        "MSS",
-        "MSU"
-    ],
+    "keywords": "AdafruitPwmServoDriver",
     "name": "AdafruitPwmServoDriver",
     "platforms": "*",
     "repository": {

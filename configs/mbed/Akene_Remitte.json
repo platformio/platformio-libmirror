@@ -3,13 +3,16 @@
         "name": "Rémi Jourdain",
         "url": "https://os.mbed.com/users/Remitte/"
     },
-    "description": "This library is a Snootlab's library's translation to use Akene on mbed boards instead of Arduino ones.",
-    "frameworks": "mbed",
-    "keywords": [
-        "Akene",
-        "NJE-10X",
-        "Serial"
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
     ],
+    "description": "This library is a Snootlab's library's translation to use Akene on mbed boards instead of Arduino ones. The functions Akene.begin() and Akene.send() work perfectly, but no real checkup has been ...",
+    "frameworks": "mbed",
+    "keywords": "Akene",
     "name": "Akene",
     "platforms": "*",
     "repository": {

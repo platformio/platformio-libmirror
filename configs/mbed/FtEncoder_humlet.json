@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Helmut Schmücker"
-            ],
+            "authors": "Helmut Schmücker",
             "frameworks": "mbed",
             "name": "NeedfulThings"
         }
@@ -22,6 +20,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/humlet/code/FtEncoder/"
+        "url": "https://os.mbed.com/users/humlet/code/FtEncoder/"
     }
 }

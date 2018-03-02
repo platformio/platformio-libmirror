@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "Class to drive the Gyroscope (L3GD20 device) present on DISCO_F429ZI board.",
+    "examples": [
+        "https://os.mbed.com/users/auditlog/code/DISCO-F429ZI_LCDTS_and_GYRO_test/",
+        "https://os.mbed.com/teams/ST/code/DISCO-F429ZI_Gyro_demo/",
+        "https://os.mbed.com/users/codebreaker7/code/DISCO-F429ZI_Gyr/",
+        "https://os.mbed.com/users/mozillain/code/WIRE-BANDING_FT810/",
+        "https://os.mbed.com/users/mozillain/code/WIRE-BANDING_copy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F429ZI",
+        "gyroscope"
+    ],
+    "name": "GYRO_DISCO_F429ZI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/GYRO_DISCO_F429ZI/"
+    }
+}

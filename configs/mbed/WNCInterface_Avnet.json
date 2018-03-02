@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Avnet",
+        "url": "https://os.mbed.com/teams/Avnet/"
+    },
+    "dependencies": [
+        {
+            "authors": "Fred Kellerman",
+            "frameworks": "mbed",
+            "name": "WncControllerK64F"
+        }
+    ],
+    "description": "The WDCInterface is is a drop-in replacement for an EthernetInterface class that allows the user to connect to the Internet with a Wistron NeWeb Corporation (WNC) M14A2A Series data module ...",
+    "examples": [
+        "https://os.mbed.com/users/elmkom/code/WNCProximityMqtt/",
+        "https://os.mbed.com/users/sveljko/code/Pubnub_ATT_IoT_SK_WNC_sync/",
+        "https://os.mbed.com/teams/Avnet/code/BluemixDemo/",
+        "https://os.mbed.com/teams/Avnet/code/BluemixQS/",
+        "https://os.mbed.com/teams/Avnet/code/WNCInterface_M2Xdemo/",
+        "https://os.mbed.com/teams/Avnet/code/WNCInterface_M2XMQTTdemo/",
+        "https://os.mbed.com/teams/Avnet/code/WNCInterface_MQTT_hivemq/",
+        "https://os.mbed.com/teams/Avnet/code/WNCInterface_tls_client_example/",
+        "https://os.mbed.com/teams/ATT-IoT/code/ATT_WNCInterface_Info/",
+        "https://os.mbed.com/teams/Avnet/code/WNCSms_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "network",
+        "WNC"
+    ],
+    "name": "WNCInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Avnet/code/WNCInterface/"
+    }
+}

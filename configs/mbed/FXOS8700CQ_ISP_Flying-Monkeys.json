@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Flying Monkeys",
+        "url": "https://os.mbed.com/teams/Flying-Monkeys/"
+    },
+    "description": "Library to interface with the FXOS8700CQ accelerometer/magnetometer.",
+    "frameworks": "mbed",
+    "keywords": [
+        "FRDM-K22F",
+        "fxos8700cq"
+    ],
+    "name": "FXOS8700CQ_ISP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Flying-Monkeys/code/FXOS8700CQ_ISP/"
+    }
+}

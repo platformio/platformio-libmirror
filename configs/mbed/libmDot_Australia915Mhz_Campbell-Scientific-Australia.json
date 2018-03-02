@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Campbell Scientific Australia",
+        "url": "https://os.mbed.com/teams/Campbell-Scientific-Australia/"
+    },
+    "description": "This is an Australian 915Mhz edition of 1.0.8v libDot. Library for LoRa communication using MultiTech MDOT.",
+    "examples": [
+        "https://os.mbed.com/users/1994timmeh/code/LoraGPSLogger/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Australia",
+        "Lora",
+        "LoRaWAN"
+    ],
+    "name": "libmDot_Australia915Mhz",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Campbell-Scientific-Australia/code/libmDot_Australia915Mhz/"
+    }
+}

@@ -12,13 +12,7 @@
     "keywords": [
         "12BIT",
         "adc",
-        "I2C",
-        "debounce",
-        "DigitalIn",
-        "InterruptIn",
-        "FAT",
-        "file system",
-        "SD"
+        "I2C"
     ],
     "name": "MCP3221",
     "platforms": "*",

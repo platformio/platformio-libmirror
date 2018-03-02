@@ -5,10 +5,7 @@
     },
     "description": "シリアル通信ようのライブラリです。charとfloatのデータを送受信できます。",
     "frameworks": "mbed",
-    "keywords": [
-        "RTC",
-        "Serial"
-    ],
+    "keywords": "Serial",
     "name": "UART_multiData",
     "platforms": "*",
     "repository": {

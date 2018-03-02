@@ -12,19 +12,7 @@
         "https://os.mbed.com/users/DuyLionTran/code/HealthCare_Graduation/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "buffer",
-        "I2C",
-        "interrupt",
-        "gpu",
-        "Graphics",
-        "LCD",
-        "module",
-        "smart",
-        "SMARTGPU",
-        "TFT",
-        "touch"
-    ],
+    "keywords": "PulseSensor",
     "name": "PulseSensor",
     "platforms": "*",
     "repository": {

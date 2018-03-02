@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "jetfishteam",
+        "url": "https://os.mbed.com/teams/jetfishteam/"
+    },
+    "description": "Library for use on MS5803 devices",
+    "examples": [
+        "https://os.mbed.com/teams/jetfishteam/code/MS5803-Demo/",
+        "https://os.mbed.com/teams/jetfishteam/code/mbed_PI_Depth/",
+        "https://os.mbed.com/teams/jetfishteam/code/robfish_pressuresensors_encoderQEI/",
+        "https://os.mbed.com/users/srago001/code/sensor_library_test/",
+        "https://os.mbed.com/users/aolgu003/code/sensor_library_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MS5803",
+    "name": "MS5803",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/jetfishteam/code/MS5803/"
+    }
+}

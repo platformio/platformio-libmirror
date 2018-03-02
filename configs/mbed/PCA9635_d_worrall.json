@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Daniel Worrall",
+        "url": "https://os.mbed.com/users/d_worrall/"
+    },
+    "description": "PCA9635 16-bit I2C-bus LED driver",
+    "examples": [
+        "https://os.mbed.com/users/d_worrall/code/digitalThermometer/",
+        "https://os.mbed.com/users/d_worrall/code/Counter/",
+        "https://os.mbed.com/users/d_worrall/code/SimpleClock/",
+        "https://os.mbed.com/users/d_worrall/code/printNumber/",
+        "https://os.mbed.com/users/d_worrall/code/macAddress/",
+        "https://os.mbed.com/users/d_worrall/code/intervalMeasure/",
+        "https://os.mbed.com/users/d_worrall/code/pulseWidth/",
+        "https://os.mbed.com/users/stevep/code/munin-display-board/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "bus",
+        "driver",
+        "Expander",
+        "I2C",
+        "led",
+        "PCA9635"
+    ],
+    "name": "PCA9635",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/d_worrall/code/PCA9635/"
+    }
+}

@@ -3,7 +3,7 @@
         "name": "Kenji Arai",
         "url": "https://os.mbed.com/users/kenjiArai/"
     },
-    "description": "Luminosity sensor by Texas Advanced Optoelectronic Solutions Inc..",
+    "description": "Luminosity sensor by Texas Advanced Optoelectronic Solutions Inc.. Device combines one broadband photodiode (visible plus infrared) and one infrared-responding photodiode. Sets Gain x1 and 402mS as default.",
     "examples": [
         "https://os.mbed.com/users/switchscience/code/MusicBoxForFathersDay/",
         "https://os.mbed.com/users/smatthew/code/FTHR_SensorHub/",
@@ -12,16 +12,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AM2321",
-        "Humidity",
         "I2C",
-        "sensor",
-        "Temperature",
-        "Ranging",
-        "SRF02",
-        "ultrasonic",
         "Luminosity",
-        "Lux"
+        "Lux",
+        "sensor"
     ],
     "name": "TSL2561",
     "platforms": "*",

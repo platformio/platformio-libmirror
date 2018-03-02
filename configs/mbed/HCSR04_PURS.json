@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "PURS",
+        "url": "https://os.mbed.com/teams/PURS/"
+    },
+    "description": "a",
+    "examples": [
+        "https://os.mbed.com/teams/PURS/code/glavni-program-za-semafor-i-ultrazvucni/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HCSR04",
+    "name": "HCSR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PURS/code/HCSR04/"
+    }
+}

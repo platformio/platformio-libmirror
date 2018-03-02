@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Simon Ford"
-            ],
+            "authors": "Simon Ford",
             "frameworks": "mbed",
             "name": "NokiaLCD"
         }
@@ -22,6 +20,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/diasea/code/MARMEX_OB_oled_J/"
+        "url": "https://os.mbed.com/users/diasea/code/MARMEX_OB_oled_J/"
     }
 }

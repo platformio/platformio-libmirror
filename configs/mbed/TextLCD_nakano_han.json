@@ -3,16 +3,9 @@
         "name": "中野班 中野班",
         "url": "https://os.mbed.com/users/nakano_han/"
     },
-    "description": "LCD動作設定",
+    "description": "LCD動作設定 TexLCD",
     "frameworks": "mbed",
     "keywords": [
-        "digitalOut",
-        "led",
-        "rtos",
-        "DISCO-F746",
-        "F746",
-        "Graphics",
-        "karpent",
         "16x2 LCD",
         "TextLCD"
     ],

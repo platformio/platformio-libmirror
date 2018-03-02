@@ -5,15 +5,7 @@
     },
     "description": "HelloWorld.h",
     "frameworks": "mbed",
-    "keywords": [
-        "device",
-        "USB",
-        "fxas21002",
-        "gyroscope",
-        "I2C",
-        "MSS",
-        "MSU"
-    ],
+    "keywords": "led",
     "name": "led",
     "platforms": "*",
     "repository": {

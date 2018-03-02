@@ -3,7 +3,7 @@
         "name": "Tristan Hughes",
         "url": "https://os.mbed.com/users/tristanjph/"
     },
-    "description": "A library allowing basic functions of the XBEE pro to be used. Currently supported are: Enter/exit config mode, reading device serial number, setting encryption key, writing settings to non volatile memory and sending data strings.",
+    "description": "A library allowing basic functions of the XBEE pro to be used. Currently supported are: Enter/exit config mode, reading device serial number, setting encryption key, writing settings to non volatile ...",
     "examples": [
         "https://os.mbed.com/users/tristanjph/code/IOT_sensor_nfc/",
         "https://os.mbed.com/users/tristanjph/code/Xbee_Hello_world/",
@@ -20,11 +20,7 @@
     "keywords": [
         "xbee",
         "XBEE pro",
-        "zigbee",
-        "STM32F030F4",
-        "STM32F030F4P6",
-        "LCD",
-        "text"
+        "zigbee"
     ],
     "name": "xbee_lib",
     "platforms": "*",

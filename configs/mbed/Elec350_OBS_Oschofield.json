@@ -3,6 +3,13 @@
         "name": "Oscar Schofield",
         "url": "https://os.mbed.com/users/Oschofield/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "Library for ELEC350 Work",
     "frameworks": "mbed",
     "keywords": "Elec350_OBS",

@@ -5,15 +5,7 @@
     },
     "description": "library for using LSM303DM chip",
     "frameworks": "mbed",
-    "keywords": [
-        "character",
-        "display",
-        "HD44780",
-        "LCD",
-        "Humidity",
-        "sensor",
-        "Temperature"
-    ],
+    "keywords": "LSM303DM",
     "name": "LSM303DM",
     "platforms": "*",
     "repository": {

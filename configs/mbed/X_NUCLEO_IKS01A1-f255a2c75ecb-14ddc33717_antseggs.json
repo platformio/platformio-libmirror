@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Ant Robinson",
+        "url": "https://os.mbed.com/users/antseggs/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "X_NUCLEO_COMMON"
+        }
+    ],
+    "description": "a",
+    "frameworks": "mbed",
+    "keywords": "X_NUCLEO_IKS01A1-f255a2c75ecb-14ddc33717d5",
+    "name": "X_NUCLEO_IKS01A1-f255a2c75ecb-14ddc33717d5",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/antseggs/code/X_NUCLEO_IKS01A1-f255a2c75ecb-14ddc33717/"
+    }
+}

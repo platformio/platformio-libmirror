@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Sam Grove"
-            ],
+            "authors": "Sam Grove",
             "frameworks": "mbed",
             "name": "BufferedSerial"
         }
@@ -26,23 +24,11 @@
         "https://os.mbed.com/teams/Robotics-___/code/Lab5/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Composite",
-        "USB",
-        "USBKeyboard",
-        "usbserial",
-        "ROS",
-        "4",
-        "buttons",
-        "convert",
-        "Slider",
-        "to",
-        "touch"
-    ],
+    "keywords": "ROS",
     "name": "ros_lib_indigo",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/garyservin/code/ros_lib_indigo/"
+        "url": "https://os.mbed.com/users/garyservin/code/ros_lib_indigo/"
     }
 }

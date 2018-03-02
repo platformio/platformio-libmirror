@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Stefan Staub"
-            ],
+            "authors": "Stefan Staub",
             "frameworks": "mbed",
             "name": "Fonts"
         }
@@ -29,23 +27,12 @@
     "keywords": [
         "C12832",
         "C12832A1Z",
-        "MBED Application Board",
-        "6000",
-        "6050",
-        "acc",
-        "accelerometer",
-        "gyro",
-        "gyroscope",
-        "IMU",
-        "invensense",
-        "MPU",
-        "MPU6000",
-        "MCP23S17"
+        "MBED Application Board"
     ],
     "name": "C12832A1Z",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/sstaub/code/C12832A1Z/"
+        "url": "https://os.mbed.com/users/sstaub/code/C12832A1Z/"
     }
 }

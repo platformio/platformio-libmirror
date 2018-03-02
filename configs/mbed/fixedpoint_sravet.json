@@ -3,13 +3,12 @@
         "name": "Steve Ravet",
         "url": "https://os.mbed.com/users/sravet/"
     },
-    "description": "A fixed point library from Trenki http://www.trenki.net/content/view/17/1/",
+    "description": "A fixed point library from Trenki http://www.trenki.net/content/view/17/1/ Slightly modified so that the fixed point data structure can automatically cast itself to float or int when used in an expression.",
     "frameworks": "mbed",
     "keywords": [
         "arithmetic",
         "fixed",
-        "point",
-        "Nucleo"
+        "point"
     ],
     "name": "fixedpoint",
     "platforms": "*",

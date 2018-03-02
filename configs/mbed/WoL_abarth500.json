@@ -5,13 +5,7 @@
     },
     "description": "Wake On Lan",
     "frameworks": "mbed",
-    "keywords": [
-        "AITENDO",
-        "ILI9341",
-        "SPI",
-        "TFT",
-        "WoL"
-    ],
+    "keywords": "WoL",
     "name": "WoL",
     "platforms": "*",
     "repository": {

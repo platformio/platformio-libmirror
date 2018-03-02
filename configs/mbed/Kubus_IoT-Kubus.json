@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "IoT - Kubus",
+        "url": "https://os.mbed.com/teams/IoT-Kubus/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "nRF24L01P"
+        }
+    ],
+    "description": "JNP3 16/17",
+    "frameworks": "mbed",
+    "keywords": "Kubus",
+    "name": "Kubus",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/IoT-Kubus/code/Kubus/"
+    }
+}

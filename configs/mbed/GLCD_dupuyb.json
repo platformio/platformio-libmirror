@@ -5,12 +5,7 @@
     },
     "description": "simple Graphics LCD library. This Lib is used with GDM12864B 128x64 display.",
     "frameworks": "mbed",
-    "keywords": [
-        "Futaba",
-        "MODSERIAL",
-        "SBUS",
-        "Serial"
-    ],
+    "keywords": "GLCD",
     "name": "GLCD",
     "platforms": "*",
     "repository": {

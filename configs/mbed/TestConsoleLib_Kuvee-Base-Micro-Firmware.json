@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Kuvée",
+        "url": "https://os.mbed.com/teams/Kuvee-Base-Micro-Firmware/"
+    },
+    "dependencies": [
+        {
+            "authors": "Martin Smith",
+            "frameworks": "mbed",
+            "name": "Terminal"
+        }
+    ],
+    "description": "Library which creates a serial test console, it supports pages and menu items. The items are added and the pages are added as necessary when the user sets it up. ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "Serial Communication",
+        "test console",
+        "test program"
+    ],
+    "name": "TestConsoleLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Kuvee-Base-Micro-Firmware/code/TestConsoleLib/"
+    }
+}

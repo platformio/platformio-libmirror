@@ -5,20 +5,7 @@
     },
     "description": "Import Library",
     "frameworks": "mbed",
-    "keywords": [
-        "Addressable",
-        "led",
-        "rgb",
-        "sparkfun",
-        "strip",
-        "ws2801",
-        "IR",
-        "Receiver",
-        "Beep",
-        "sound",
-        "tone",
-        "joystick"
-    ],
+    "keywords": "USBHostLite",
     "name": "USBHostLite",
     "platforms": "*",
     "repository": {

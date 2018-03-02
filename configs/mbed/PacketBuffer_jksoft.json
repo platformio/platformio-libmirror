@@ -5,14 +5,7 @@
     },
     "description": "パケットごとに出し入れするFIFOバッファ",
     "frameworks": "mbed",
-    "keywords": [
-        "buffer",
-        "MCP4018",
-        "I2C",
-        "IMU",
-        "LEGO",
-        "mindstorms"
-    ],
+    "keywords": "buffer",
     "name": "PacketBuffer",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Eli Hughes",
+        "url": "https://os.mbed.com/users/emh203/"
+    },
+    "description": "Official library for the FRDM-TFC shield",
+    "examples": [
+        "https://os.mbed.com/users/redxeth/code/TFC-TEST/",
+        "https://os.mbed.com/users/redxeth/code/TFC-RACING-DEMO/",
+        "https://os.mbed.com/users/morgonXak/code/TFC-RACING-DEMO/",
+        "https://os.mbed.com/users/redxeth/code/TFC-RACING-FSLMENTORMATTERS/",
+        "https://os.mbed.com/users/mrkeithcyr/code/TFC-Mentoring-Matters-Abstraction/",
+        "https://os.mbed.com/teams/TFC/code/TFC-RACING-DEMO/",
+        "https://os.mbed.com/users/SaverioF15/code/test_galileo/",
+        "https://os.mbed.com/users/Jmon14/code/RaceCar/",
+        "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/code/TFC_run_track_oneline/",
+        "https://os.mbed.com/teams/fatboyslim/code/fatboyslim/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Cup",
+        "Freescale"
+    ],
+    "name": "FRDM-TFC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/emh203/code/FRDM-TFC/"
+    }
+}

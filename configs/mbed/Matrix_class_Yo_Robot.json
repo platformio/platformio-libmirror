@@ -5,31 +5,42 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Ernesto Palacios"
-            ],
+            "authors": "Ernesto Palacios",
             "frameworks": "mbed",
             "name": "Matrix"
+        },
+        {
+            "authors": "Ernesto Palacios",
+            "frameworks": "mbed",
+            "name": "Kinematics"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Ernesto Palacios",
+            "frameworks": "mbed",
+            "name": "TrackVector2D"
+        },
+        {
+            "authors": "Ernesto Palacios",
+            "frameworks": "mbed",
+            "name": "MatrixMath"
         }
     ],
     "description": "This is a test Program for the Class Matrix version 1.6.4",
     "frameworks": "mbed",
     "keywords": [
-        "HTTP server",
-        "httpd",
-        "websocket server",
         "Kinematics",
         "math",
-        "matrix",
-        "networking",
-        "socket",
-        "TCP",
-        "UDP"
+        "matrix"
     ],
     "name": "Matrix_class",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/Yo_Robot/code/Matrix_class/"
+        "url": "https://os.mbed.com/users/Yo_Robot/code/Matrix_class/"
     }
 }

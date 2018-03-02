@@ -17,25 +17,7 @@
         "https://os.mbed.com/users/tom_minnich/code/REP_Hexiwear_OLED/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "HAM-radio",
-        "I2C",
-        "sdr",
-        "vcxo",
-        "vfo",
-        "LCD",
-        "Menus",
-        "TFT",
-        "Adafruit 9DOF",
-        "LSM303DLHC",
-        "APDS9960",
-        "avago",
-        "color",
-        "Gesture",
-        "proximity",
-        "sparkfun",
-        "LPC4330"
-    ],
+    "keywords": "FXOS8700",
     "name": "FXOS8700",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "HIMBED_3AHELI",
+        "url": "https://os.mbed.com/teams/HIMBED_3AHELI/"
+    },
+    "description": "RTC8563 libray for real time clock PCF8563",
+    "examples": [
+        "https://os.mbed.com/users/chabo/code/rtc_class3/",
+        "https://os.mbed.com/users/Cartillius/code/rtc_class2/",
+        "https://os.mbed.com/users/Andi104/code/rtc_class/",
+        "https://os.mbed.com/users/perrytieku/code/rtc_class/",
+        "https://os.mbed.com/teams/HIMBED_3AHELI/code/rtc_class/",
+        "https://os.mbed.com/users/c0ld/code/rtc_classneu/",
+        "https://os.mbed.com/users/wolpra98/code/rtc_class2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "RTC8563",
+    "name": "RTC8563",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/HIMBED_3AHELI/code/RTC8563/"
+    }
+}

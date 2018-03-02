@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "u-blox",
+        "url": "https://os.mbed.com/teams/ublox/"
+    },
+    "description": "Version of easy-connect with the u-blox cellular platforms C027 and C030 added.",
+    "examples": [
+        "https://os.mbed.com/teams/ublox/code/HelloMQTT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "C027",
+        "C030",
+        "CellularInterface",
+        "u-blox"
+    ],
+    "name": "easy-connect",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ublox/code/easy-connect/"
+    }
+}

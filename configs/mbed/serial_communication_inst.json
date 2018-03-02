@@ -8,10 +8,7 @@
         "https://os.mbed.com/users/inst/code/communication/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "DISCO_F469NI",
-        "sdram"
-    ],
+    "keywords": "serial_communication",
     "name": "serial_communication",
     "platforms": "*",
     "repository": {

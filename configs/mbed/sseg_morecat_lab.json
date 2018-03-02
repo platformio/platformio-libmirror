@@ -3,23 +3,12 @@
         "name": "Yoshitaka Kuwata",
         "url": "https://os.mbed.com/users/morecat_lab/"
     },
-    "description": "7 segment display library for mbed",
+    "description": "7 segment display library for mbed This routine support 2,4 and 8 digit anode-common or cathode-common LED.",
     "examples": [
         "https://os.mbed.com/users/morecat_lab/code/7segMbed/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Accel",
-        "accelerometer",
-        "gyro",
-        "gyroscope",
-        "IMU",
-        "Serial",
-        "Terminal",
-        "VT100",
-        "VT200",
-        "VT52"
-    ],
+    "keywords": "sseg",
     "name": "sseg",
     "platforms": "*",
     "repository": {

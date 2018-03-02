@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Betago",
+        "url": "https://os.mbed.com/teams/Betago/"
+    },
+    "description": "first publish",
+    "examples": [
+        "https://os.mbed.com/teams/Betago/code/CleaningMachine_Betago/",
+        "https://os.mbed.com/teams/palm-and-chin/code/CleaningMachine_Betago/",
+        "https://os.mbed.com/teams/Betago/code/clean_V1/",
+        "https://os.mbed.com/users/icyzkungz/code/CleaningM-Palm/",
+        "https://os.mbed.com/teams/Betago/code/clean_V2/",
+        "https://os.mbed.com/teams/Secret_Betago/code/CleaningM-Palm_V2_copy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Debug",
+    "name": "Debug",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Betago/code/Debug/"
+    }
+}

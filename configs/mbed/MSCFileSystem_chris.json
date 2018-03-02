@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "mbed unsupported"
-            ],
+            "authors": "mbed unsupported",
             "frameworks": "mbed",
             "name": "FatFileSystem"
         }
@@ -26,20 +24,11 @@
         "https://os.mbed.com/users/darkghost/code/FileDownloader/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "m3pi",
-        "maze",
-        "music",
-        "sensors",
-        "1-wire",
-        "DS1820",
-        "DS18B20",
-        "DS18S20"
-    ],
+    "keywords": "MSCFileSystem",
     "name": "MSCFileSystem",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/chris/code/MSCFileSystem/"
+        "url": "https://os.mbed.com/users/chris/code/MSCFileSystem/"
     }
 }

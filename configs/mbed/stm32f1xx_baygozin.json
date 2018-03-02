@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Oleg Baygozin",
+        "url": "https://os.mbed.com/users/baygozin/"
+    },
+    "description": "stm32f103",
+    "frameworks": "mbed",
+    "keywords": "stm32f1xx",
+    "name": "stm32f1xx",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/baygozin/code/stm32f1xx/"
+    }
+}

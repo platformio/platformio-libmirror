@@ -5,12 +5,7 @@
     },
     "description": "MMA7260Q Accelerometer",
     "frameworks": "mbed",
-    "keywords": [
-        "accelerometer",
-        "CDC",
-        "MSD",
-        "USB"
-    ],
+    "keywords": "accelerometer",
     "name": "MMA7260Q",
     "platforms": "*",
     "repository": {

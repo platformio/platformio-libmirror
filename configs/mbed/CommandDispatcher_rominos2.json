@@ -8,12 +8,7 @@
         "https://os.mbed.com/users/danjulio/code/Rocket/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "command",
-        "ESP8266",
-        "DAP-III+",
-        "innomatix"
-    ],
+    "keywords": "command",
     "name": "CommandDispatcher",
     "platforms": "*",
     "repository": {

@@ -5,18 +5,7 @@
     },
     "description": "The port of adafruit dotstar library for arduino https://github.com/adafruit/Adafruit_DotStar",
     "frameworks": "mbed",
-    "keywords": [
-        "1",
-        "2",
-        "digimesh",
-        "Series",
-        "Wi-Fi",
-        "xbee",
-        "zigbee",
-        "fs",
-        "USB",
-        "JY901"
-    ],
+    "keywords": "DotStar",
     "name": "DotStar",
     "platforms": "*",
     "repository": {

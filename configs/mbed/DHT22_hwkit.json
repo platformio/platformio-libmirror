@@ -3,16 +3,12 @@
         "name": "HO WING KIT",
         "url": "https://os.mbed.com/users/hwkit/"
     },
-    "description": "=DHT22 Temperature and Humidity Sensor=",
+    "description": "=DHT22 Temperature and Humidity Sensor= The DHT-22 is a low cost humidity and temperature sensor with a single wire digital interface. The sensor is calibrated and doesn\\\\\\'t require extra components ...",
     "frameworks": "mbed",
     "keywords": [
         "Humidity",
         "sensor",
-        "Temperature",
-        "adc",
-        "ads1015",
-        "ads1115",
-        "4DGL"
+        "Temperature"
     ],
     "name": "DHT22",
     "platforms": "*",

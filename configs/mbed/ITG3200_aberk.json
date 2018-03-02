@@ -18,14 +18,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "PABLO",
-        "R",
         "gyroscope",
         "ITG-3200",
-        "ITG3200",
-        "ID12",
-        "RFID",
-        "Serial"
+        "ITG3200"
     ],
     "name": "ITG3200",
     "platforms": "*",

@@ -16,9 +16,7 @@
         "SIM800",
         "SIM900",
         "SIMCOM",
-        "UART",
-        "MPU9250",
-        "nRF52832 custom boards"
+        "UART"
     ],
     "name": "ATCommand",
     "platforms": "*",

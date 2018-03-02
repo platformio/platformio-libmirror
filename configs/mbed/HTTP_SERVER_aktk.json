@@ -3,7 +3,7 @@
         "name": "Ak Takahashi",
         "url": "https://os.mbed.com/users/aktk/"
     },
-    "description": "The library to make a mbed a HTTP Server which reads HTML files in the mbed and sends it to clients.",
+    "description": "The library with which to make your mbed a HTTP Server which just reads HTML files in the mbed and sends it to the clients.",
     "frameworks": "mbed",
     "keywords": "HTTP_SERVER",
     "name": "HTTP_SERVER",

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "NagaokaRoboticsClub_mbedTeam",
+        "url": "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/"
+    },
+    "description": "MDC3.0 rs-485 コントロールプログラム can も追加予定.... 詳細はwiki バグレポートは中田くんに,やさしく教えてください(煽り禁止)",
+    "examples": [
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/quadOmni_yanagi/",
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/NHK2017_octopus/",
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/ikarashiMDCmaster/",
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/NHK2017_octopus2/",
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/NHK2017_octopus2_drive/",
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/NHK2017_octopus2_arms/",
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/hayatoShooter/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ikarashiMDC",
+    "name": "ikarashiMDC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/ikarashiMDC/"
+    }
+}

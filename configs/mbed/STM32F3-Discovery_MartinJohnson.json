@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Martin Johnson",
+        "url": "https://os.mbed.com/users/MartinJohnson/"
+    },
+    "description": "Simple Library for the STM32F3-Discovery board based on the StdPeriph_Driver.",
+    "examples": [
+        "https://os.mbed.com/users/MartinJohnson/code/Space_Invaders_Demo/",
+        "https://os.mbed.com/users/MartinJohnson/code/gpio_test_systimer/",
+        "https://os.mbed.com/users/MartinJohnson/code/accelerometer_test/",
+        "https://os.mbed.com/users/MartinJohnson/code/neopixels/",
+        "https://os.mbed.com/users/MartinJohnson/code/gpio_test_stm32f3_discovery/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "STM32F3-Discovery",
+    "name": "STM32F3-Discovery",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MartinJohnson/code/STM32F3-Discovery/"
+    }
+}

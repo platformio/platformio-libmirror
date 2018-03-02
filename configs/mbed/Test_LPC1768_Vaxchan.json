@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Toshihiro Sasai",
+        "url": "https://os.mbed.com/users/Vaxchan/"
+    },
+    "description": "Test LPC1768 Board",
+    "frameworks": "mbed",
+    "keywords": "Test_LPC1768",
+    "name": "Test_LPC1768",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Vaxchan/code/Test_LPC1768/"
+    }
+}

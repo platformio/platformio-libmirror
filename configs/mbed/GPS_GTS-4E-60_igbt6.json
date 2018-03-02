@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Lukasz Uszko",
+        "url": "https://os.mbed.com/users/igbt6/"
+    },
+    "description": "GPS Module GTS-4E-60 library , (NMEA protocol) , can be easily imported into other GPS modules after a few minor changes",
+    "frameworks": "mbed",
+    "keywords": [
+        "Fibocom",
+        "GPS",
+        "GPS Module",
+        "GTS-4e-60",
+        "NMEA",
+        "NMEA Parser"
+    ],
+    "name": "GPS_GTS-4E-60",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/igbt6/code/GPS_GTS-4E-60/"
+    }
+}

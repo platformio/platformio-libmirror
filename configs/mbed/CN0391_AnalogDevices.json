@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Analog Devices",
+        "url": "https://os.mbed.com/teams/AnalogDevices/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "AD7124"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "Thermocouple"
+        }
+    ],
+    "description": "CN0391 4-thermocouple shield driver",
+    "examples": [
+        "https://os.mbed.com/teams/AnalogDevices/code/cn0391-helloworld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Analog",
+        "CN0391",
+        "devices",
+        "Thermocouple"
+    ],
+    "name": "CN0391",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/AnalogDevices/code/CN0391/"
+    }
+}

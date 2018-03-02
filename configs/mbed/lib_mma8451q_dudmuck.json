@@ -10,10 +10,7 @@
         "https://os.mbed.com/teams/Semtech/code/scpi_sx127x/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "DHT22",
-        "accelerometer"
-    ],
+    "keywords": "accelerometer",
     "name": "lib_mma8451q",
     "platforms": "*",
     "repository": {

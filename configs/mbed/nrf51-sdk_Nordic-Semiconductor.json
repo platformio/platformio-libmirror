@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Nordic Semiconductor",
+        "url": "https://os.mbed.com/teams/Nordic-Semiconductor/"
+    },
+    "description": "Nordic nrf51 sdk sources. Mirrored from https://github.com/ARMmbed/nrf51-sdk.",
+    "examples": [
+        "https://os.mbed.com/users/wodenageshen/code/nRF51822/",
+        "https://os.mbed.com/teams/Productize/code/nRF51822/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "nrf51-sdk",
+    "name": "nrf51-sdk",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nordic-Semiconductor/code/nrf51-sdk/"
+    }
+}

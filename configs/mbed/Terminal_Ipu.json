@@ -3,7 +3,7 @@
         "name": "Stefan Hendrich",
         "url": "https://os.mbed.com/users/Ipu/"
     },
-    "description": "modified Library from sford for use with TeraTerm / VT100 emulation without sending any signs after a \\\"locate\\\" command.",
+    "description": "modified Library from sford for use with TeraTerm / VT100 emulation without sending any signs after a \\\"locate\\\" command. edited Line 35 -> deleted %c",
     "frameworks": "mbed",
     "keywords": [
         "Communication",

@@ -18,18 +18,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Addressable",
-        "led",
-        "rgb",
-        "sparkfun",
-        "strip",
-        "ws2801",
-        "IR",
-        "Receiver",
         "Beep",
         "sound",
-        "tone",
-        "joystick"
+        "tone"
     ],
     "name": "Beep",
     "platforms": "*",

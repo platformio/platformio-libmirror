@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Semtech",
+        "url": "https://os.mbed.com/teams/Semtech/"
+    },
+    "description": "LoRaWAN MAC layer implementation (GitHub develop branch)",
+    "frameworks": "mbed",
+    "keywords": [
+        "Lora",
+        "Semtech",
+        "SX1272",
+        "SX1272Lib",
+        "SX1272MB1DxS",
+        "SX1276",
+        "SX1276Lib",
+        "SX1276MB1xAS"
+    ],
+    "name": "LoRaWAN-lib-dev",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Semtech/code/LoRaWAN-lib-dev/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Gabriel Rivas",
+        "url": "https://os.mbed.com/users/gabrielrivas/"
+    },
+    "description": "Message queue to synchronize and share information between threads. It is a template class, so it can hold elements of different types.",
+    "examples": [
+        "https://os.mbed.com/users/gabrielrivas/code/Nucleo_modbus_protocol_test/",
+        "https://os.mbed.com/users/dragyu/code/F103RB_tcp_rtu_modbus_copy_v1_0/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "message queue pattern",
+        "real time",
+        "thread synchronization"
+    ],
+    "name": "MessageQueue",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gabrielrivas/code/MessageQueue/"
+    }
+}

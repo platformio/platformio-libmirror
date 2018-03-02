@@ -9,16 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "bus",
-        "PCF8574",
         "AK8963",
         "AKM",
         "magnetic sensor",
-        "magnetometer",
-        "api",
-        "Digi",
-        "xbee",
-        "zigbee"
+        "magnetometer"
     ],
     "name": "AK8963",
     "platforms": "*",

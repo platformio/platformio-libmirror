@@ -10,24 +10,7 @@
         "https://os.mbed.com/users/AzureIoTClient/code/temp_sensor_anomaly/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Adafruit",
-        "LEDMatrix",
-        "esc",
-        "KL25z",
-        "pwm",
-        "3.5mm",
-        "music",
-        "sound",
-        "Lora",
-        "Semtech",
-        "SX1272",
-        "SX1272Lib",
-        "SX1272MB1DxS",
-        "SX1276",
-        "SX1276Lib",
-        "SX1276MB1xAS"
-    ],
+    "keywords": "iothub_http_transport",
     "name": "iothub_http_transport",
     "platforms": "*",
     "repository": {

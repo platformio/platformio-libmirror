@@ -17,12 +17,7 @@
         "https://os.mbed.com/users/quentin9696/code/Coupe-Robotique-FIP-Main/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "I2C",
-        "LCD",
-        "uLCD144",
-        "ESP8266"
-    ],
+    "keywords": "HC_SR04_Ultrasonic_Library",
     "name": "HC_SR04_Ultrasonic_Library",
     "platforms": "*",
     "repository": {

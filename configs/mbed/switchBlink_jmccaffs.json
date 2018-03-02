@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Joe McCaffrey",
+        "url": "https://os.mbed.com/users/jmccaffs/"
+    },
+    "description": "blinks",
+    "frameworks": "mbed",
+    "keywords": "switchBlink",
+    "name": "switchBlink",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jmccaffs/code/switchBlink/"
+    }
+}

@@ -5,10 +5,7 @@
     },
     "description": "A class to gather weather data from an NWS server.",
     "frameworks": "mbed",
-    "keywords": [
-        "commands",
-        "SCPI"
-    ],
+    "keywords": "NWSWeather",
     "name": "NWSWeather",
     "platforms": "*",
     "repository": {

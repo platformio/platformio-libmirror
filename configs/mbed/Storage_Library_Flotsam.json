@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Flotsam",
+        "url": "https://os.mbed.com/teams/Flotsam/"
+    },
+    "description": "Modified EEPROM library for the full project.",
+    "examples": [
+        "https://os.mbed.com/teams/Flotsam/code/Full-Project/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Storage_Library",
+    "name": "Storage_Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Flotsam/code/Storage_Library/"
+    }
+}

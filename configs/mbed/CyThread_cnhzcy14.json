@@ -5,16 +5,7 @@
     },
     "description": "Simple Thread Class",
     "frameworks": "mbed",
-    "keywords": [
-        "gmmp",
-        "IOT",
-        "SKTelecom",
-        "TCP",
-        "client",
-        "CoAP",
-        "protocol",
-        "server"
-    ],
+    "keywords": "CyThread",
     "name": "CyThread",
     "platforms": "*",
     "repository": {

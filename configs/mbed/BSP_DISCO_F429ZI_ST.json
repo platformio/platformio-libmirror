@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "STM32F429ZI Discovery board drivers",
+    "examples": [
+        "https://os.mbed.com/users/Dom952/code/2a/",
+        "https://os.mbed.com/users/Dom952/code/2b/",
+        "https://os.mbed.com/users/Dom952/code/2c/",
+        "https://os.mbed.com/users/Dom952/code/2d1/",
+        "https://os.mbed.com/users/Dom952/code/2d2/",
+        "https://os.mbed.com/users/wsquan171/code/DISCO-F429ZI_Gauge/",
+        "https://os.mbed.com/users/crystal/code/DISCO-F429ZI_LCD_demo/",
+        "https://os.mbed.com/users/Happy111/code/MPOA_GPS/",
+        "https://os.mbed.com/users/stefanXY/code/DISCO-F429ZI_LCD_demo/",
+        "https://os.mbed.com/users/pbl96/code/Mbed1d-2v2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BSP",
+        "DISCO_F429ZI"
+    ],
+    "name": "BSP_DISCO_F429ZI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/BSP_DISCO_F429ZI/"
+    }
+}

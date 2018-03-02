@@ -9,15 +9,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "average",
-        "Moving",
         "avnet",
         "Freescale",
         "KL25z",
         "Wi-Go",
-        "WiGo",
-        "Servo",
-        "tlc5940"
+        "WiGo"
     ],
     "name": "WiGo_BattCharger",
     "platforms": "*",

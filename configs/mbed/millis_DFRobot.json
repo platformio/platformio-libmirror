@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "DFRobot",
+        "url": "https://os.mbed.com/teams/DFRobot/"
+    },
+    "description": "millis",
+    "examples": [
+        "https://os.mbed.com/teams/DFRobot/code/millis_demo/",
+        "https://os.mbed.com/teams/FRDM-K64F-Code-Share/code/PIDHeater/",
+        "https://os.mbed.com/teams/KRAI-2016/code/Base_Hybrid_V3/",
+        "https://os.mbed.com/teams/KRAI-2016/code/Base_Hybrid_V2/",
+        "https://os.mbed.com/teams/KRAI-2016/code/base_rekam_darurat_v1/",
+        "https://os.mbed.com/teams/KRAI-2016/code/Base_Hybrid_Latihan_Ok_Hajar_servo_pwm/",
+        "https://os.mbed.com/teams/KRAI-2016/code/Base_Hybrid_Latihan_Ok_Hajar_servo_senso/",
+        "https://os.mbed.com/users/ebeauchemin3/code/Printer/",
+        "https://os.mbed.com/teams/KRAI-2017/code/Base_Hybrid_Latihan_Ok_Hajar_servo_senso/",
+        "https://os.mbed.com/teams/KRAI-2017/code/PID_ENCODER_KontrolAtas/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "millis",
+    "name": "millis",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/DFRobot/code/millis/"
+    }
+}

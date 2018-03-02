@@ -5,22 +5,7 @@
     },
     "description": "imu01c",
     "frameworks": "mbed",
-    "keywords": [
-        "Humidity",
-        "Sensirion",
-        "SHT7x",
-        "Temperature",
-        "arduino",
-        "compatible",
-        "due",
-        "multitasking",
-        "Scheduler",
-        "Analog",
-        "dipsw",
-        "Input",
-        "SW",
-        "tactsw"
-    ],
+    "keywords": "LSM303D_imu",
     "name": "LSM303D_imu",
     "platforms": "*",
     "repository": {

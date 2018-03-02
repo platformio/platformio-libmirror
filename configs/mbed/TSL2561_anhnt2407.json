@@ -10,25 +10,7 @@
         "https://os.mbed.com/users/biwa1400/code/Light/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "decimation-in-frequency",
-        "FFT",
-        "IFFT",
-        "Nucleo",
-        "real data",
-        "UIT",
-        "Altitude",
-        "bmp085",
-        "pressure",
-        "Temperature",
-        "3x4",
-        "4x3",
-        "kepad",
-        "keyboard",
-        "polling",
-        "pull",
-        "up"
-    ],
+    "keywords": "TSL2561",
     "name": "TSL2561",
     "platforms": "*",
     "repository": {

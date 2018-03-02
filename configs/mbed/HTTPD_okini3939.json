@@ -3,7 +3,7 @@
         "name": "Suga koubou",
         "url": "https://os.mbed.com/users/okini3939/"
     },
-    "description": "HTTP Server,",
+    "description": "HTTP Server, WebSocket support",
     "examples": [
         "https://os.mbed.com/users/okini3939/code/HTTPD_sample/",
         "https://os.mbed.com/users/mbedschool/code/ch5_mbed_lightweight_Web_server_dust_sen/",
@@ -14,14 +14,7 @@
     "keywords": [
         "HTTP server",
         "httpd",
-        "websocket server",
-        "Kinematics",
-        "math",
-        "matrix",
-        "networking",
-        "socket",
-        "TCP",
-        "UDP"
+        "websocket server"
     ],
     "name": "HTTPD",
     "platforms": "*",

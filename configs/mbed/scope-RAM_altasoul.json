@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Tom Soulanille",
+        "url": "https://os.mbed.com/users/altasoul/"
+    },
+    "description": "A library for observing RAM utilization with an oscilloscope.",
+    "frameworks": "mbed",
+    "keywords": [
+        "free",
+        "malloc",
+        "memory",
+        "Oscilloscope",
+        "RAM",
+        "scope"
+    ],
+    "name": "scope-RAM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/altasoul/code/scope-RAM/"
+    }
+}

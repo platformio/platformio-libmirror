@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "akira yamada",
+        "url": "https://os.mbed.com/users/natuga117/"
+    },
+    "description": "割り込みを利用して超音波測距センサーをバックグラウンドで計測し続けられます。",
+    "examples": [
+        "https://os.mbed.com/users/RBH/code/escapeFromYou/",
+        "https://os.mbed.com/users/natuga117/code/Sample_LinetraceWithSonicDist/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HC-SR04",
+    "name": "SonicDist",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/natuga117/code/SonicDist/"
+    }
+}

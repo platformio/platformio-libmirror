@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Zheng Ping",
+        "url": "https://os.mbed.com/users/pzheng/"
+    },
+    "description": "mbed/sheeed shield/necleo-1151re",
+    "frameworks": "mbed",
+    "keywords": "LoRaWAN",
+    "name": "LoRaWAN",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pzheng/code/LoRaWAN/"
+    }
+}

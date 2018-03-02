@@ -18,18 +18,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "api",
-        "DIP",
-        "flash",
-        "SPI",
-        "spiflash",
-        "W25X40BV",
-        "winbond",
         "display",
         "hotboards",
-        "Dieter Graef",
-        "DISCO-F746",
-        "SDFileSystem"
+        "SPI"
     ],
     "name": "Hotboards_SpiLcd",
     "platforms": "*",

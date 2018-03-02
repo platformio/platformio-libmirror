@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "mbed official"
-            ],
+            "authors": "",
             "frameworks": "mbed",
             "name": "FATFileSystem"
         }
@@ -22,15 +20,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "api",
-        "DIP",
-        "flash",
-        "SPI",
-        "spiflash",
-        "W25X40BV",
-        "winbond",
-        "display",
-        "hotboards",
         "Dieter Graef",
         "DISCO-F746",
         "SDFileSystem"
@@ -39,6 +28,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/MikamiUitOpen/code/SDFileSystem_Warning_Fixed/"
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/SDFileSystem_Warning_Fixed/"
     }
 }

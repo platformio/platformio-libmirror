@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Seeed",
+        "url": "https://os.mbed.com/teams/Seeed/"
+    },
+    "description": "grove_barometer",
+    "frameworks": "mbed",
+    "keywords": "grove_barometer",
+    "name": "grove_barometer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Seeed/code/grove_barometer/"
+    }
+}

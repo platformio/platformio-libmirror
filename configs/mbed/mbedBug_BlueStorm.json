@@ -3,20 +3,24 @@
         "name": "Cale McCollough",
         "url": "https://os.mbed.com/users/BlueStorm/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "A library of nifty debug utilities for mbed.",
     "examples": [
         "https://os.mbed.com/users/BlueStorm/code/FlowerBed/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Encoder",
         "assert",
         "debug",
         "mbed",
         "rgb",
-        "utility",
-        "led",
-        "tricolor"
+        "utility"
     ],
     "name": "mbedBug",
     "platforms": "*",

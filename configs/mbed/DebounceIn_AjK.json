@@ -17,7 +17,10 @@
         "https://os.mbed.com/users/caaruizze/code/tarea2-3/"
     ],
     "frameworks": "mbed",
-    "keywords": "DebounceIn",
+    "keywords": [
+        "debounce",
+        "DigitalIn"
+    ],
     "name": "DebounceIn",
     "platforms": "*",
     "repository": {

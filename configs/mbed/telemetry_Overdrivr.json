@@ -12,12 +12,7 @@
         "https://os.mbed.com/users/Overdrivr/code/telemetry_sensors_demo/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "MQTT",
-        "1.0.3",
-        "cube",
-        "led"
-    ],
+    "keywords": "1.0.3",
     "name": "telemetry",
     "platforms": "*",
     "repository": {

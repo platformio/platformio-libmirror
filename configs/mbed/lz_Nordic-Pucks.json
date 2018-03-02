@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Nordic Pucks",
+        "url": "https://os.mbed.com/teams/Nordic-Pucks/"
+    },
+    "description": "Simple light-weight LZ compression library.",
+    "examples": [
+        "https://os.mbed.com/teams/Nordic-Pucks/code/display-puck/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "lz",
+    "name": "lz",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nordic-Pucks/code/lz/"
+    }
+}

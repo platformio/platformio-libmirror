@@ -5,16 +5,7 @@
     },
     "description": "Motor",
     "frameworks": "mbed",
-    "keywords": [
-        "BLE",
-        "Nordic",
-        "nRF51822",
-        "dac",
-        "more pwm",
-        "pwm",
-        "pwm 48Mhz",
-        "pwmdac"
-    ],
+    "keywords": "Motor",
     "name": "Motor",
     "platforms": "*",
     "repository": {

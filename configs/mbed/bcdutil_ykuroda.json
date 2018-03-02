@@ -5,10 +5,7 @@
     },
     "description": "BCD and RTC utility",
     "frameworks": "mbed",
-    "keywords": [
-        "tcp/ip",
-        "WebSocket"
-    ],
+    "keywords": "bcdutil",
     "name": "bcdutil",
     "platforms": "*",
     "repository": {

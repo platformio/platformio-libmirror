@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/"
+    },
+    "description": "Library for MAX30101 SpO2 and heart rate sensor",
+    "frameworks": "mbed",
+    "keywords": "MAX30101",
+    "name": "MAX30101",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/code/MAX30101/"
+    }
+}

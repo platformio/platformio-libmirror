@@ -3,6 +3,13 @@
         "name": "kim taesung",
         "url": "https://os.mbed.com/users/bigstar/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "qq",
     "frameworks": "mbed",
     "keywords": "aaa",

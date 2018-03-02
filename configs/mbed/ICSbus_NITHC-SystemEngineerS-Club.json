@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "SES",
+        "url": "https://os.mbed.com/teams/NITHC-SystemEngineerS-Club/"
+    },
+    "description": "サーボのライブラリ. サーボのID, ポジションを指定してシリアル通信でサーボを動かす.",
+    "frameworks": "mbed",
+    "keywords": "ICSbus",
+    "name": "ICSbus",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NITHC-SystemEngineerS-Club/code/ICSbus/"
+    }
+}

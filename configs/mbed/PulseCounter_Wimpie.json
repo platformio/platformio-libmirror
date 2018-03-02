@@ -9,22 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "filter",
         "counter",
         "interrupt",
-        "time",
-        "adc",
-        "Analog",
-        "calculate",
-        "convert",
-        "Linear",
-        "LM335",
-        "median",
-        "multiplier",
-        "offset",
-        "sensor",
-        "Temperature",
-        "voltage"
+        "time"
     ],
     "name": "PulseCounter",
     "platforms": "*",

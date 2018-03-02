@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "mbed official",
+        "url": "https://os.mbed.com/users/mbed_official/"
+    },
+    "description": "mbed library sources. Supersedes mbed-src.",
+    "examples": [
+        "https://os.mbed.com/users/gregeric/code/Nucleo_Hello_Encoder/",
+        "https://os.mbed.com/teams/Delta/code/BLE_iBeaconScan/",
+        "https://os.mbed.com/teams/Delta/code/AM1805_DEMO/",
+        "https://os.mbed.com/users/icis4/code/DISCO-F429ZI_ExportTemplate1/",
+        "https://os.mbed.com/users/sixBase3/code/Nucleo_read_analog_value_intADCch/",
+        "https://os.mbed.com/teams/Team11/code/Nucleo_blink_led_test/",
+        "https://os.mbed.com/users/nameless129/code/PwmOut_LPC812/",
+        "https://os.mbed.com/users/gereina/code/HAL_QEI_PWM_MBED_PID/",
+        "https://os.mbed.com/users/DieterGraef/code/DISCO-F746NG_Ethernet/",
+        "https://os.mbed.com/users/Cataract/code/sose2016_tr_oauth_pop/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "mbed-dev",
+    "name": "mbed-dev",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbed_official/code/mbed-dev/"
+    }
+}

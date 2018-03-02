@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "RedBearLab",
+        "url": "https://os.mbed.com/teams/RedBearLab/"
+    },
+    "description": "It is the Nordic nRF8001 BLE library for RedBearLab BLE Shield v2.1 or above. It is compatible with the platforms those soldered Arduino compatible form factor. The library is ported ...",
+    "examples": [
+        "https://os.mbed.com/teams/RedBearLab/code/nRF8001_SimpleChat/",
+        "https://os.mbed.com/teams/RedBearLab/code/nRF8001_SimpleControls/",
+        "https://os.mbed.com/teams/SmartD/code/mbed_BLE2/",
+        "https://os.mbed.com/users/sitakumar/code/mbed_BLEtry2/",
+        "https://os.mbed.com/teams/SmartD/code/mbed_BLEtry3/",
+        "https://os.mbed.com/users/awinata/code/4180_Project_BluetoothRCBot/",
+        "https://os.mbed.com/teams/SCRIBE/code/SCRIBE_stepper/",
+        "https://os.mbed.com/teams/SCRIBE/code/SCRIBE_servo/",
+        "https://os.mbed.com/users/highroads/code/BLE_KL25_nRF8001/",
+        "https://os.mbed.com/users/highroads/code/BLE_KL25_nRF8001_MMA8451Q/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "nRF8001",
+        "RedBearLab"
+    ],
+    "name": "BLE_nRF8001",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/RedBearLab/code/BLE_nRF8001/"
+    }
+}

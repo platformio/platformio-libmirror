@@ -17,14 +17,7 @@
         "https://os.mbed.com/users/AzureIoTClient/code/simplesample_http/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "BSP",
-        "DISCO_L476VG",
-        "16 Bit A2D",
-        "Differential A2D",
-        "K64F",
-        "v1.0"
-    ],
+    "keywords": "iothub_client",
     "name": "iothub_client",
     "platforms": "*",
     "repository": {

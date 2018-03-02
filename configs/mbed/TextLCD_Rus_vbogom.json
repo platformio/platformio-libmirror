@@ -3,7 +3,7 @@
         "name": "Vasiliy Bogomazyuk",
         "url": "https://os.mbed.com/users/vbogom/"
     },
-    "description": "TextLCD_RUS - this change module NewTextLCD Erik Kerger. It adds the ability to output a simple Russian text, as well as some additional features implemented chip HD44780. The test was carried out on the module module MT-16S2D.",
+    "description": "TextLCD_RUS - this change module NewTextLCD Erik Kerger. It adds the ability to output a simple Russian text, as well as some additional features implemented chip HD44780. The test was ...",
     "examples": [
         "https://os.mbed.com/users/vbogom/code/Rus_TextLCD/"
     ],
@@ -16,9 +16,7 @@
         "Russian",
         "text",
         "TextLCD",
-        "TextLCD_Rus",
-        "Cellular",
-        "BME280"
+        "TextLCD_Rus"
     ],
     "name": "TextLCD_Rus",
     "platforms": "*",

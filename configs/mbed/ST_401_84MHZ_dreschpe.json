@@ -3,7 +3,7 @@
         "name": "Peter Drescher",
         "url": "https://os.mbed.com/users/dreschpe/"
     },
-    "description": "Lib to switch the clock speed of the ST Nucleo to 84MHz.",
+    "description": "Lib to switch the clock speed of the ST Nucleo to 84MHz. The internal RC oscillator is multiplied with the PLL.",
     "examples": [
         "https://os.mbed.com/users/dreschpe/code/Nucleo_spi_master_20MHz/",
         "https://os.mbed.com/users/kirchnet/code/Nucleo_vs_Arduino_Speed_Test/",
@@ -18,14 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "CAN",
-        "message",
-        "MPU-6050",
-        "MPU6050",
-        "MPU6050-DMP",
-        "CNC",
-        "motor",
-        "Stepper",
         "clock",
         "f401",
         "Nucleo"

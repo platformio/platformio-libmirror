@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Hiroshi Yamaguchi",
+        "url": "https://os.mbed.com/users/yamaguch/"
+    },
+    "description": "A Simple TCP & UDP Socket Library",
+    "examples": [
+        "https://os.mbed.com/users/yamaguch/code/SimpleSocketExamples-10/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "socket",
+        "TCP",
+        "UDP"
+    ],
+    "name": "SimpleSocket 1.0",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yamaguch/code/SimpleSocket-10/"
+    }
+}

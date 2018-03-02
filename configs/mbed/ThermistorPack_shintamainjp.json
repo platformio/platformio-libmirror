@@ -13,23 +13,7 @@
         "https://os.mbed.com/users/shintamainjp/code/Toragi_2012_PachubeCosm/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Adafruit",
-        "fona",
-        "GPRS",
-        "GSM",
-        "sim800l",
-        "sim808",
-        "Serial",
-        "Akizuki",
-        "Humidity",
-        "I2C",
-        "MEMS",
-        "sensor",
-        "Temperature",
-        "TI",
-        "thermistor"
-    ],
+    "keywords": "thermistor",
     "name": "ThermistorPack",
     "platforms": "*",
     "repository": {

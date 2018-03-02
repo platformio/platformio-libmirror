@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Ben, Simon, Inez IDD",
+        "url": "https://os.mbed.com/teams/Ben-Simon-Inez-IDD/"
+    },
+    "description": "Adafruit driver converted to mbed.",
+    "examples": [
+        "https://os.mbed.com/teams/Ben-Simon-Inez-IDD/code/BNO055_Adafruit/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Adafruit_BNO055",
+    "name": "Adafruit_BNO055",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Ben-Simon-Inez-IDD/code/Adafruit_BNO055/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Akhil Panayamparambil",
+        "url": "https://os.mbed.com/users/akhilpanayam/"
+    },
+    "description": "AR93C56A EEPROM IC support for mbed platform.",
+    "frameworks": "mbed",
+    "keywords": [
+        "3Wire",
+        "AT93C56A",
+        "EEPROM"
+    ],
+    "name": "AT93C56A",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/akhilpanayam/code/AT93C56A/"
+    }
+}

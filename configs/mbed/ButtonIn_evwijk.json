@@ -5,10 +5,7 @@
     },
     "description": "A debouncing InterruptIn wrapper",
     "frameworks": "mbed",
-    "keywords": [
-        "hash",
-        "md5"
-    ],
+    "keywords": "ButtonIn",
     "name": "ButtonIn",
     "platforms": "*",
     "repository": {

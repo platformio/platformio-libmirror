@@ -5,16 +5,7 @@
     },
     "description": "Alarm library for use with mbed.",
     "frameworks": "mbed",
-    "keywords": [
-        "ADT7410",
-        "Analog Devices",
-        "I2C",
-        "sensor",
-        "Temperature",
-        "frequencies",
-        "guitar",
-        "tuner"
-    ],
+    "keywords": "AlarmTimeDate",
     "name": "AlarmTimeDate",
     "platforms": "*",
     "repository": {

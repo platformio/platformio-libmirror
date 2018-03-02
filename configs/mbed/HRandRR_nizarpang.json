@@ -3,9 +3,16 @@
         "name": "Muhammad Khairul Nizar Bin Khairuddin",
         "url": "https://os.mbed.com/users/nizarpang/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "HR and RR measurement",
     "frameworks": "mbed",
-    "keywords": "timer",
+    "keywords": "HRandRR",
     "name": "HRandRR",
     "platforms": "*",
     "repository": {

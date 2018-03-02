@@ -9,16 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AM2321",
-        "Humidity",
-        "I2C",
-        "sensor",
-        "Temperature",
         "Ranging",
+        "sensor",
         "SRF02",
-        "ultrasonic",
-        "Luminosity",
-        "Lux"
+        "ultrasonic"
     ],
     "name": "SRF02",
     "platforms": "*",

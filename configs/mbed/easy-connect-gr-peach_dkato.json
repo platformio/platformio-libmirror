@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Daiki Kato",
+        "url": "https://os.mbed.com/users/dkato/"
+    },
+    "dependencies": [
+        {
+            "authors": "Daiki Kato",
+            "frameworks": "mbed",
+            "name": "LWIPBP3595Interface_STA_for_mbed-os"
+        }
+    ],
+    "description": "The easy-connect library for GR-PEACH.",
+    "examples": [
+        "https://os.mbed.com/users/dkato/code/GR-PEACH_HVC-P2_sample_client/",
+        "https://os.mbed.com/teams/Renesas/code/GR-PEACH_mbed-os-client-ZXingSample/",
+        "https://os.mbed.com/teams/Renesas/code/GR-PEACH_HVC-P2_IoTPlatform_http/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "easy-connect-gr-peach",
+    "name": "easy-connect-gr-peach",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dkato/code/easy-connect-gr-peach/"
+    }
+}

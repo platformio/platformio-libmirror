@@ -3,7 +3,7 @@
         "name": "Stefan Mueller",
         "url": "https://os.mbed.com/users/NeoBelerophon/"
     },
-    "description": "First working version of a FATFileSystem compatible Chan FAT v0.8 implementation. This is intended to use with long file names and RTOS support.",
+    "description": "First working version of a FATFileSystem compatible Chan FAT v0.8 implementation. This is intended to use with long file names and RTOS support. For now long file names work but ...",
     "examples": [
         "https://os.mbed.com/users/okini3939/code/USB_MSC/",
         "https://os.mbed.com/users/okini3939/code/USB_CDC_MSD_Hello/",
@@ -16,20 +16,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "arduino",
-        "GPIO",
-        "Speed",
-        "calibration",
-        "clock",
-        "real",
-        "RTC",
-        "time",
-        "timezone",
-        "CC3000",
-        "socket",
-        "TCP",
-        "UDP",
-        "wifi",
         "CHaN",
         "FAT",
         "Fat16",
@@ -37,8 +23,7 @@
         "fatfilesystem",
         "Filenames",
         "Long",
-        "rtos",
-        "DHT11"
+        "rtos"
     ],
     "name": "ChaNFS",
     "platforms": "*",

@@ -8,16 +8,7 @@
         "https://os.mbed.com/users/satriabtp/code/eParking/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "SHT21",
-        "Altimeter",
-        "MS5607",
-        "pressure",
-        "Temperature",
-        "rtos",
-        "Serial",
-        "UART"
-    ],
+    "keywords": "TextLCD",
     "name": "TextLCD",
     "platforms": "*",
     "repository": {

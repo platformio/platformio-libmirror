@@ -5,11 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "John Bailey"
-            ],
+            "authors": "John Bailey",
             "frameworks": "mbed",
             "name": "CircularBuffer"
+        },
+        {
+            "authors": "John Bailey",
+            "frameworks": "mbed",
+            "name": "FixedLengthList"
         }
     ],
     "description": "API for communicating with XBee devices.",
@@ -27,10 +30,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Analyzer",
-        "audio",
-        "FFT",
-        "Spectrum",
         "802.15.4",
         "wireless",
         "xbee"
@@ -39,6 +38,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/johnb/code/XBeeApi/"
+        "url": "https://os.mbed.com/users/johnb/code/XBeeApi/"
     }
 }

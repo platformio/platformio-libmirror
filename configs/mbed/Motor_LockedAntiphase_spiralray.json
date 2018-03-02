@@ -3,18 +3,14 @@
         "name": "Spiral Ray",
         "url": "https://os.mbed.com/users/spiralray/"
     },
-    "description": "Notice: Please use two pins which use same TIMER to synchronize timer phase.",
+    "description": "Notice: Please use two pins which use same TIMER to synchronize timer phase. Sample program: http://mbed.org/users/spiralray/code/Nucleo_motor_LockedAntiphase/",
     "examples": [
         "https://os.mbed.com/users/spiralray/code/Nucleo_motor_LockedAntiphase/"
     ],
     "frameworks": "mbed",
     "keywords": [
         "locked antiphase",
-        "motor",
-        "K64F",
-        "overclock",
-        "PAW",
-        "PAW Sensor"
+        "motor"
     ],
     "name": "Motor_LockedAntiphase",
     "platforms": "*",

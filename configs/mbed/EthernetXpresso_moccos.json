@@ -8,15 +8,7 @@
         "https://os.mbed.com/users/moccos/code/XNetServicesMin/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "radiohead",
-        "compass",
-        "HMC5883L",
-        "api",
-        "xbee",
-        "zigbee",
-        "ethernet"
-    ],
+    "keywords": "ethernet",
     "name": "EthernetXpresso",
     "platforms": "*",
     "repository": {

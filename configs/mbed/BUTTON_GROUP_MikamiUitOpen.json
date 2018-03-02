@@ -3,7 +3,7 @@
         "name": "不韋 呂",
         "url": "https://os.mbed.com/users/MikamiUitOpen/"
     },
-    "description": "Class library: Button class and ButtonGroup class for DISCO-F746NG.",
+    "description": "Class library: Button class and ButtonGroup class for DISCO-F746NG. クラスライブラリ： DISCO-F746NG 用の，Button クラス，ButtonGroup クラス．",
     "examples": [
         "https://os.mbed.com/users/MikamiUitOpen/code/F746_SpectralAnalysis_Example/",
         "https://os.mbed.com/users/MikamiUitOpen/code/F746_SpectralAnalysis_NoPhoto/",
@@ -18,22 +18,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F469NI",
-        "LCD",
         "BUTTON",
         "ButtonGroup",
         "DISCO-F746",
-        "UIT",
-        "f334",
-        "F401RE",
-        "F411RE",
-        "F746",
-        "l476",
-        "Nucleo",
-        "power on/off",
-        "reset",
-        "RTC",
-        "VBAT"
+        "UIT"
     ],
     "name": "BUTTON_GROUP",
     "platforms": "*",

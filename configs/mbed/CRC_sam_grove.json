@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Sam Grove",
+        "url": "https://os.mbed.com/users/sam_grove/"
+    },
+    "description": "Collection of different CRC calculations",
+    "examples": [
+        "https://os.mbed.com/users/jekain314/code/Waldo_Embed_V2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CRC",
+        "CRC32"
+    ],
+    "name": "CRC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sam_grove/code/CRC/"
+    }
+}

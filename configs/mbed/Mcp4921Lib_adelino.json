@@ -3,16 +3,11 @@
         "name": "decarvalho adelino",
         "url": "https://os.mbed.com/users/adelino/"
     },
-    "description": "Library to control the 12 Bits Analog Digital Converter",
+    "description": "Library to control the 12 Bits Analog Digital Converter MCP4921",
     "frameworks": "mbed",
     "keywords": [
-        "EEPROM",
         "MCP4921",
-        "SPI",
-        "GPIO Exoender",
-        "MCP23017",
-        "GPS",
-        "NMEA0183"
+        "SPI"
     ],
     "name": "Mcp4921Lib",
     "platforms": "*",

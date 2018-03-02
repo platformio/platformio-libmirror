@@ -11,20 +11,7 @@
         "https://os.mbed.com/users/nobukuma/code/myBlueUSB_localfix/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "clock",
-        "f401",
-        "Nucleo",
-        "Lora",
-        "Semtech",
-        "SX1272",
-        "SX1272Lib",
-        "SX1272MB1DxS",
-        "SX1276",
-        "SX1276Lib",
-        "SX1276MB1xAS",
-        "USBHOST"
-    ],
+    "keywords": "USBHOST",
     "name": "myUSBHost",
     "platforms": "*",
     "repository": {

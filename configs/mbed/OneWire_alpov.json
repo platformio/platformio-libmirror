@@ -14,17 +14,7 @@
         "1wire",
         "DS18B20",
         "DS18S20",
-        "OneWire",
-        "CAN",
-        "FreeIMU",
-        "IMU",
-        "MPU6050",
-        "Pokitto",
-        "http",
-        "NET",
-        "network",
-        "webservice",
-        "xml"
+        "OneWire"
     ],
     "name": "OneWire",
     "platforms": "*",

@@ -3,28 +3,20 @@
         "name": "Calum Johnston",
         "url": "https://os.mbed.com/users/el13cj/"
     },
-    "description": "Library for interfacing with the NXP PCA9685 PWM controller over an I2C connection.",
+    "description": "Library for interfacing with the NXP PCA9685 PWM controller over an I2C connection. Designed with the Adafruit breakout board (of the same name) in mind.",
     "examples": [
         "https://os.mbed.com/users/el13cj/code/Hexapod_Library/",
         "https://os.mbed.com/users/Gorgolet/code/main_robot_gant_v22/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DS18B20",
-        "DS2450",
-        "MAX31850",
-        "OneWire",
         "Adafruit",
         "I2C",
         "led",
         "nxp",
         "PCA9685",
         "pwm",
-        "Servo",
-        "mbed5",
-        "NetworkInterfaceAPI",
-        "Wi-Fi",
-        "WizFi250"
+        "Servo"
     ],
     "name": "PCA9685",
     "platforms": "*",

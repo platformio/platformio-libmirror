@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Mateus Machado Luna",
+        "url": "https://os.mbed.com/users/mateus_m_luna/"
+    },
+    "description": "Testing some BLE communication",
+    "frameworks": "mbed",
+    "keywords": "BLE Tests",
+    "name": "BLE Tests",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mateus_m_luna/code/BLE-Tests/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "Wifi driver for DISCO_L475VG_IOT1A es_wifi (Inventek Systems ISM43362-M3G-L44 )",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/DISCO_L475VG_IOT01-wifi_http_server/",
+        "https://os.mbed.com/teams/ST/code/DISCO_L475VG_IOT01-wifi-client/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "disco",
+        "IOT",
+        "wifi"
+    ],
+    "name": "DISCO_L475VG_IOT01A_wifi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/DISCO_L475VG_IOT01A_wifi/"
+    }
+}

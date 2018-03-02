@@ -5,19 +5,7 @@
     },
     "description": "Gyro Sensor Library",
     "frameworks": "mbed",
-    "keywords": [
-        "OLED",
-        "Organic-LED",
-        "SO1602A",
-        "I2C",
-        "sensor",
-        "Temperature",
-        "low current",
-        "low power",
-        "nrf51",
-        "nRF51822",
-        "gyro"
-    ],
+    "keywords": "gyro",
     "name": "GyroSensor",
     "platforms": "*",
     "repository": {

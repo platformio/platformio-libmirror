@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "DFRobot",
+        "url": "https://os.mbed.com/teams/DFRobot/"
+    },
+    "description": "new ticker",
+    "examples": [
+        "https://os.mbed.com/teams/DFRobot/code/newTicker_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "NewTicker",
+    "name": "NewTicker",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/DFRobot/code/NewTicker/"
+    }
+}

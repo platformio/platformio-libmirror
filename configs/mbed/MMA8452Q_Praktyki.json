@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Praktyki",
+        "url": "https://os.mbed.com/teams/Praktyki/"
+    },
+    "description": "kodzik",
+    "examples": [
+        "https://os.mbed.com/teams/Praktyki/code/AAAatest_copy/",
+        "https://os.mbed.com/teams/Praktyki/code/BLE_Accelerometer_final/",
+        "https://os.mbed.com/teams/Praktyki/code/BLE_Accelerometer_najnowsze_NRFUpdate/",
+        "https://os.mbed.com/users/galism/code/SDP_Version2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MMA8452Q",
+    "name": "MMA8452Q",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Praktyki/code/MMA8452Q/"
+    }
+}

@@ -5,13 +5,7 @@
     },
     "description": "三角関数のテーブル引きのプログラムです",
     "frameworks": "mbed",
-    "keywords": [
-        "table",
-        "file",
-        "Serial",
-        "SimpleSerialProtocol",
-        "transfer"
-    ],
+    "keywords": "table",
     "name": "table",
     "platforms": "*",
     "repository": {

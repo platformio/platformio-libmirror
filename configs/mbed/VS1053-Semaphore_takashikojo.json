@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Kojo",
+        "url": "https://os.mbed.com/users/takashikojo/"
+    },
+    "description": "Semaphore based wait and sync for the mp3 play",
+    "examples": [
+        "https://os.mbed.com/users/takashikojo/code/RTOS-VS1053b-mp3_semaphore/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "rtos",
+        "semaphore",
+        "thread"
+    ],
+    "name": "VS1053-Semaphore",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/takashikojo/code/VS1053-Semaphore/"
+    }
+}

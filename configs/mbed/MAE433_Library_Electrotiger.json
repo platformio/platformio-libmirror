@@ -5,11 +5,19 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "mbed official "
-            ],
+            "authors": "mbed official",
             "frameworks": "mbed",
             "name": "mbed-dsp"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
         }
     ],
     "description": "Drivers for the mini robot designed for Princeton's MAE 433 course.",
@@ -23,6 +31,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/Electrotiger/code/MAE433_Library/"
+        "url": "https://os.mbed.com/users/Electrotiger/code/MAE433_Library/"
     }
 }

@@ -6,14 +6,6 @@
     "description": "output stream library using SYS_WRITEC(0x03).",
     "frameworks": "mbed",
     "keywords": [
-        "authorization",
-        "client",
-        "custom",
-        "headers",
-        "http",
-        "eCompass",
-        "Wi-Go",
-        "WiGo",
         "semihosting",
         "SWD"
     ],

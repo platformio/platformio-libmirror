@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Wallbot BLE Developer",
+        "url": "https://os.mbed.com/teams/Wallbot-BLE-Developer/"
+    },
+    "description": "this is i2c library on wallbot BLE. wallbot BLE using BL600. BL600 has one of nRF51822 module. but P0_20 is not use any I/O. this library has use P0_20:SCL P0_21:SDA. ...",
+    "frameworks": "mbed",
+    "keywords": "myi2c",
+    "name": "myi2c",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Wallbot-BLE-Developer/code/myi2c/"
+    }
+}

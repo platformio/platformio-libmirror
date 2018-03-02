@@ -6,20 +6,8 @@
     "description": "Simple Task Scheduler. For the moment only implements continuous running tasks and periodic tasks.",
     "frameworks": "mbed",
     "keywords": [
-        "Cyrillic",
-        "HD4478",
-        "LCD",
-        "Russian",
-        "WH1602",
-        "Analog",
-        "devices",
-        "moisture",
-        "pH",
-        "soil",
         "Scheduler",
-        "task",
-        "2645",
-        "mr jefferson 105"
+        "task"
     ],
     "name": "simple_task_scheduler",
     "platforms": "*",

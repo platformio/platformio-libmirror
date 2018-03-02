@@ -9,21 +9,7 @@
         "https://os.mbed.com/users/mabenim/code/TMP36_Anlog_temperature_read/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "mbed",
-        "LM61",
-        "bitmask",
-        "circular_buffer",
-        "dataset",
-        "filter",
-        "filtering",
-        "mean",
-        "median",
-        "standard_deviation",
-        "Template",
-        "HAL",
-        "I2C"
-    ],
+    "keywords": "LM61",
     "name": "LM61",
     "platforms": "*",
     "repository": {

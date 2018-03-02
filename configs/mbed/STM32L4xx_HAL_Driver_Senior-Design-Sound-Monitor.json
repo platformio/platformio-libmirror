@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Senior Design: Sound Monitor",
+        "url": "https://os.mbed.com/teams/Senior-Design-Sound-Monitor/"
+    },
+    "description": "L4 HAL Drivers",
+    "frameworks": "mbed",
+    "keywords": "STM32L4xx_HAL_Driver",
+    "name": "STM32L4xx_HAL_Driver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Senior-Design-Sound-Monitor/code/STM32L4xx_HAL_Driver/"
+    }
+}

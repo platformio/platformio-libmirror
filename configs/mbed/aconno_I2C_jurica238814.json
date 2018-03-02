@@ -6,15 +6,13 @@
     "description": "An improved version of mbed's I2C class.",
     "examples": [
         "https://os.mbed.com/users/jurica238814/code/acd52832_Humidity_Temp_Example/",
-        "https://os.mbed.com/users/jurica238814/code/acnSensa_LIS/",
-        "https://os.mbed.com/teams/ENEL-500-Smart-Sports-Shirt-Team/code/BB/"
+        "https://os.mbed.com/teams/ENEL-500-Smart-Sports-Shirt-Team/code/BB/",
+        "https://os.mbed.com/users/jurica238814/code/acnSensa_LIS/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DDNS",
         "aconno",
-        "I2C",
-        "BLE"
+        "I2C"
     ],
     "name": "aconno_I2C",
     "platforms": "*",

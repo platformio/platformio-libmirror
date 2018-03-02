@@ -9,20 +9,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "sensor",
-        "Temperature",
-        "TMP",
-        "TMP36",
         "counter",
         "led",
         "LPC1768",
-        "mbed",
-        "Accessory",
-        "ADK",
-        "android",
-        "DISCO_F469NI",
-        "LCD",
-        "Touch Screen"
+        "mbed"
     ],
     "name": "ledCounter",
     "platforms": "*",

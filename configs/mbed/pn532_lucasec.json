@@ -8,13 +8,7 @@
         "https://os.mbed.com/users/lucasec/code/pn532_rfid_reader/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "muRata",
-        "sn8200",
-        "wifi",
-        "CyaSSL",
-        "SSL"
-    ],
+    "keywords": "pn532",
     "name": "pn532",
     "platforms": "*",
     "repository": {

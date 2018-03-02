@@ -17,16 +17,7 @@
         "https://os.mbed.com/teams/albatross/code/Control_R_ver1/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "socket",
-        "TCP",
-        "UDP",
-        "WiFly",
-        "compass",
-        "LSM303DLH",
-        "magnetometer",
-        "sensors"
-    ],
+    "keywords": "ADXL345_I2C",
     "name": "ADXL345_I2C",
     "platforms": "*",
     "repository": {

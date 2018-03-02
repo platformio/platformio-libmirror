@@ -17,15 +17,7 @@
         "https://os.mbed.com/teams/Interactive-Device-Design/code/toastboard_integrated/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "xbee",
-        "XBEE pro",
-        "zigbee",
-        "STM32F030F4",
-        "STM32F030F4P6",
-        "LCD",
-        "text"
-    ],
+    "keywords": "MbedJSONValue",
     "name": "MbedJSONValue",
     "platforms": "*",
     "repository": {

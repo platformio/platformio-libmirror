@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "PQ_Hybrid_Electrical_Equipment_Team",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/"
+    },
+    "description": "2017年伊豆大島共同打ち上げ実験用電装モジュール搭載GPS測位プログラム",
+    "examples": [
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/Hybrid_interruptGPS/",
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/Hybrid_main_FirstEdtion/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GPS_interrupt",
+    "name": "GPS_interrupt",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/GPS_interrupt/"
+    }
+}

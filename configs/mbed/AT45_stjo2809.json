@@ -5,19 +5,7 @@
     },
     "description": "Interface to the Atmel AT45 series Dataflash with Serial Interface (SPI)",
     "frameworks": "mbed",
-    "keywords": [
-        "H-bridge",
-        "Moror",
-        "PID",
-        "QEI",
-        "Stinger",
-        "Ticker",
-        "at45",
-        "12-bit",
-        "dac",
-        "MCP4822",
-        "SPI"
-    ],
+    "keywords": "at45",
     "name": "AT45",
     "platforms": "*",
     "repository": {

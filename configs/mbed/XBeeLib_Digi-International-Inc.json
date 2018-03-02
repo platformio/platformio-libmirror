@@ -1,0 +1,41 @@
+{
+    "authors": {
+        "name": "Digi International Inc.",
+        "url": "https://os.mbed.com/teams/Digi-International-Inc/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "DigiLogger"
+        }
+    ],
+    "description": "Library to easily communicate with XBee modules.",
+    "examples": [
+        "https://os.mbed.com/users/jehoon/code/WaterLogger/",
+        "https://os.mbed.com/users/jehoon/code/XbeeGateway/",
+        "https://os.mbed.com/users/manl2003/code/XBee_Cooker/",
+        "https://os.mbed.com/users/jasmou/code/ProjetReceiver/",
+        "https://os.mbed.com/users/vinbel93/code/Coordinateur/",
+        "https://os.mbed.com/users/vinbel93/code/Capteurs-Beginner/",
+        "https://os.mbed.com/users/vinbel93/code/Capteurs-Advanced/",
+        "https://os.mbed.com/users/vinbel93/code/Coordinateur-Advanced/",
+        "https://os.mbed.com/users/vinbel93/code/Coordinateur-Beginner/",
+        "https://os.mbed.com/users/sillevl/code/RacingRobots_remotecontrol/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "xbee",
+        "xbee library",
+        "XBEE pro",
+        "xbee programming",
+        "xbeeapi",
+        "xbeelibrary"
+    ],
+    "name": "XBeeLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Digi-International-Inc/code/XBeeLib/"
+    }
+}

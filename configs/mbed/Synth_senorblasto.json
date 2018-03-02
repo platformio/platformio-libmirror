@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Nathan Dyer",
+        "url": "https://os.mbed.com/users/senorblasto/"
+    },
+    "description": "Synth stuff, midi etcc",
+    "frameworks": "mbed",
+    "keywords": "Synth",
+    "name": "Synth",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/senorblasto/code/Synth/"
+    }
+}

@@ -3,13 +3,9 @@
         "name": "Davy Van Belle",
         "url": "https://os.mbed.com/users/gizmo69the2nd/"
     },
-    "description": "Texas Instruments INA226",
+    "description": "Texas Instruments INA226 High-or Low-Side Measurement, Bi-Directional CURRENT/POWER MONITOR with I 2C™ Interface http://www.ti.com/product/ina226&DCMP=analog_signalchain_mr&HQS=ina226-pr",
     "frameworks": "mbed",
     "keywords": [
-        "buzzer",
-        "pwm",
-        "tone",
-        "tune",
         "adc",
         "current",
         "INA226",
@@ -17,17 +13,7 @@
         "monitor",
         "Power",
         "Texas",
-        "voltage",
-        "LM75B",
-        "PCT2075",
-        "sensor",
-        "Temperature",
-        "temperature sensor",
-        "interrupt",
-        "irq",
-        "KL25z",
-        "NVIC",
-        "priority"
+        "voltage"
     ],
     "name": "INA226",
     "platforms": "*",

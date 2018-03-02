@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "easytronic",
+        "url": "https://os.mbed.com/teams/easytronic/"
+    },
+    "description": "faster data display from previous driver",
+    "frameworks": "mbed",
+    "keywords": "i2clcd",
+    "name": "i2clcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/easytronic/code/i2clcd/"
+    }
+}

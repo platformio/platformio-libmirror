@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "julien ferry",
+        "url": "https://os.mbed.com/users/julien95210/"
+    },
+    "description": "Send temperature and humidity via LoRaWAN with sensors Grove",
+    "frameworks": "mbed",
+    "keywords": "LoRaWAN-Temp-Hum",
+    "name": "LoRaWAN-Temp-Hum",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/julien95210/code/LoRaWAN-Temp-Hum/"
+    }
+}

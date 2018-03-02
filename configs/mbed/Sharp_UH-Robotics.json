@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "UH Robotics",
+        "url": "https://os.mbed.com/teams/UH-Robotics/"
+    },
+    "description": "Sharp IR Distance Sensor",
+    "examples": [
+        "https://os.mbed.com/users/jjcarr2/code/NavigationTest_/",
+        "https://os.mbed.com/users/Fairy_Paolina/code/NavigationTest/",
+        "https://os.mbed.com/users/Fairy_Paolina/code/theRobotNEW/",
+        "https://os.mbed.com/users/jjcarr2/code/theRobot/",
+        "https://os.mbed.com/users/tashworth/code/theRobot/",
+        "https://os.mbed.com/teams/UH-Robotics/code/theRobot3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Sharp",
+    "name": "Sharp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/UH-Robotics/code/Sharp/"
+    }
+}

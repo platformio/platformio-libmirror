@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "mbed support for STM32F103C8T6 (Blue Pill) boards",
+    "examples": [
+        "https://os.mbed.com/users/cfb95/code/STM32F103C8T6_nRF24L01P_Hello_World/",
+        "https://os.mbed.com/users/hudakz/code/Serial_over_Ethernet/",
+        "https://os.mbed.com/users/orangeway/code/STM32F103C8T6_LoRaWAN-lmic-app/",
+        "https://os.mbed.com/users/devanlai/code/STM32F103C8T6_WebUSBDFU/",
+        "https://os.mbed.com/users/devanlai/code/STM32F103C8T6_USBDFU/",
+        "https://os.mbed.com/users/neutron_striker/code/TELNET_TEST/",
+        "https://os.mbed.com/users/hudakz/code/STM32F103C8T6_DS1820/",
+        "https://os.mbed.com/users/hudakz/code/STM32F103C8T6_ILI9341/",
+        "https://os.mbed.com/users/hudakz/code/STM32F103C8T6_Nokia5110/",
+        "https://os.mbed.com/users/hudakz/code/STM32F103C8T6_TextLCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "STM32F103C8T6",
+    "name": "mbed-STM32F103C8T6",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/mbed-STM32F103C8T6/"
+    }
+}

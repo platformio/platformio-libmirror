@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "NerfUS",
+        "url": "https://os.mbed.com/teams/NerfUS/"
+    },
+    "description": "Servomotor",
+    "examples": [
+        "https://os.mbed.com/teams/NerfUS/code/ServomotorTests/",
+        "https://os.mbed.com/teams/NerfUS/code/NerfUSTarget/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Servomotor",
+    "name": "Servomotor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NerfUS/code/Servomotor/"
+    }
+}

@@ -5,10 +5,7 @@
     },
     "description": "original copy - needs rev for nucleo",
     "frameworks": "mbed",
-    "keywords": [
-        "NFC",
-        "PN532"
-    ],
+    "keywords": "SSD1351",
     "name": "SSD1351",
     "platforms": "*",
     "repository": {

@@ -5,15 +5,7 @@
     },
     "description": "Asynchronous Serial Library with flow control and tag detection.",
     "frameworks": "mbed",
-    "keywords": [
-        "CGRAM",
-        "CLCD",
-        "custom",
-        "TextLCD",
-        "compass",
-        "HMC5883L",
-        "magnetometer"
-    ],
+    "keywords": "AsyncSerial",
     "name": "AsyncSerial",
     "platforms": "*",
     "repository": {

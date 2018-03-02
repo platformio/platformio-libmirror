@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Paul Staron",
+        "url": "https://os.mbed.com/users/star297/"
+    },
+    "description": "Chinese module, HY-1.8 SPI TFT LCD Display library, modified library from Jonne Valola to work on the FRDM-KL25Z using 8 bit format.",
+    "frameworks": "mbed",
+    "keywords": [
+        "HY-1.8",
+        "ST7735"
+    ],
+    "name": "HY-1_8TFT_ST7735_KL25Z",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/star297/code/HY-1_8TFT_ST7735_KL25Z/"
+    }
+}

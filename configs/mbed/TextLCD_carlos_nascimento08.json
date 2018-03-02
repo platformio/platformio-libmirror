@@ -17,21 +17,7 @@
         "https://os.mbed.com/users/HarishMekali/code/ADC_Flash/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "4DGL",
-        "channel",
-        "MIDI",
-        "Note",
-        "pitch",
-        "Serial",
-        "UART",
-        "velocity",
-        "OLED",
-        "TextLCD",
-        "WEH000802",
-        "WEH001602",
-        "Winstar"
-    ],
+    "keywords": "TextLCD",
     "name": "TextLCD",
     "platforms": "*",
     "repository": {

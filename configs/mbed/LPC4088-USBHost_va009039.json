@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Norimasa Okamoto",
+        "url": "https://os.mbed.com/users/va009039/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        }
+    ],
+    "description": "Simple USBHost library for LPC4088. Backward compatibility of official-USBHost.",
+    "frameworks": "mbed",
+    "keywords": [
+        "LPC4088",
+        "USB"
+    ],
+    "name": "LPC4088-USBHost",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/va009039/code/LPC4088-USBHost/"
+    }
+}

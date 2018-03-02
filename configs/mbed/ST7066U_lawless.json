@@ -6,16 +6,9 @@
     "description": "Class for driving the ST7066U controller in Crystalfontz LCD display CFAH1602B-YYH-JT",
     "frameworks": "mbed",
     "keywords": [
-        "DC motor",
-        "Hall Sensor",
-        "RenBED",
-        "Renishaw",
         "CFAH1602B",
         "CFAH1602B-YYH-JT",
-        "ST7066U",
-        "AD7190",
-        "adc",
-        "driver"
+        "ST7066U"
     ],
     "name": "ST7066U",
     "platforms": "*",

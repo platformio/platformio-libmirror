@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Korneel Dumont",
+        "url": "https://os.mbed.com/users/Korneel/"
+    },
+    "description": "2axis gimbal with mpu6050",
+    "frameworks": "mbed",
+    "keywords": "Gimbal_2axis_korneel_Dumont",
+    "name": "Gimbal_2axis_korneel_Dumont",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Korneel/code/Gimbal_2axis_korneel_Dumont/"
+    }
+}

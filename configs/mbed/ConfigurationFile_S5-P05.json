@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "S5-P05",
+        "url": "https://os.mbed.com/teams/S5-P05/"
+    },
+    "dependencies": [
+        {
+            "authors": "Shinichiro Nakamura",
+            "frameworks": "mbed",
+            "name": "ConfigFile"
+        }
+    ],
+    "description": "Read Config File",
+    "examples": [
+        "https://os.mbed.com/users/13075593/code/Ethernet/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ConfigurationFile",
+    "name": "ConfigurationFile",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/S5-P05/code/ConfigurationFile/"
+    }
+}

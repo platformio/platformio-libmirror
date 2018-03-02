@@ -8,22 +8,7 @@
         "https://os.mbed.com/users/probst/code/ServoLab/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "timer",
-        "Ton",
-        "wait",
-        "maestro",
-        "Serial",
-        "Servo",
-        "I2C",
-        "PCF8583",
-        "RTC",
-        "parallax",
-        "PING",
-        "ping)))",
-        "sensor",
-        "ultrasonic"
-    ],
+    "keywords": "Motor",
     "name": "Motor",
     "platforms": "*",
     "repository": {

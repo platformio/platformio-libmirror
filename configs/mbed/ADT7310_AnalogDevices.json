@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Analog Devices",
+        "url": "https://os.mbed.com/teams/AnalogDevices/"
+    },
+    "description": "ADT7310 temperature sensor driver",
+    "examples": [
+        "https://os.mbed.com/teams/AnalogDevices/code/CN0396/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ADT7310",
+        "Analog",
+        "devices",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "ADT7310",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/AnalogDevices/code/ADT7310/"
+    }
+}

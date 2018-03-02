@@ -8,12 +8,7 @@
         "https://os.mbed.com/users/icraggs/code/MQTTSN/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "MPL115A2",
-        "adc",
-        "DIFF",
-        "K64F"
-    ],
+    "keywords": "MQTTSNPacket",
     "name": "MQTTSNPacket",
     "platforms": "*",
     "repository": {

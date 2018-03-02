@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "NerfUS",
+        "url": "https://os.mbed.com/teams/NerfUS/"
+    },
+    "description": "Wrapper of the mbed hardware",
+    "examples": [
+        "https://os.mbed.com/users/dupm2216/code/NerfUS_cmake_add_library_from_mbed/",
+        "https://os.mbed.com/teams/NerfUS/code/NerfUS/",
+        "https://os.mbed.com/teams/NerfUS/code/NerfUSGameCoordinator/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HardwareInterface",
+    "name": "HardwareInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NerfUS/code/HardwareInterface/"
+    }
+}

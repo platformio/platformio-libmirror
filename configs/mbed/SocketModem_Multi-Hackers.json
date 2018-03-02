@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Multi-Hackers",
+        "url": "https://os.mbed.com/teams/Multi-Hackers/"
+    },
+    "description": "A library for talking to Multi-Tech's Cellular SocketModem Devices.",
+    "examples": [
+        "https://os.mbed.com/users/mfiore/code/M2X_dev/",
+        "https://os.mbed.com/users/mfiore/code/axeda_wrapper_dev/",
+        "https://os.mbed.com/users/k4r7h1k/code/MTS_M2x_Example1/",
+        "https://os.mbed.com/teams/Multi-Hackers/code/MTS_Cellular_Connect_Example/",
+        "https://os.mbed.com/teams/Multi-Hackers/code/MTS_Axeda_Example/",
+        "https://os.mbed.com/teams/Multi-Hackers/code/MTS_M2x_Example/",
+        "https://os.mbed.com/users/pgruenbaum/code/MTS_M2x_Acell/",
+        "https://os.mbed.com/users/jb8414/code/M2X_MTS_ACCEL_DEMO/",
+        "https://os.mbed.com/users/pgruenbaum/code/M2X_MTS_Accel/",
+        "https://os.mbed.com/users/marareid/code/MTS_Wifi_Connect_Example_ATT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SocketModem",
+    "name": "SocketModem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Multi-Hackers/code/SocketModem/"
+    }
+}

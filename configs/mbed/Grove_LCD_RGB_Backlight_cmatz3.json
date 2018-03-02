@@ -12,11 +12,7 @@
         "https://os.mbed.com/users/Debrant/code/Grove_LCD_RGB_Backlight_VFD_Display/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "DISCO_F429ZI",
-        "LCD",
-        "Touch Screen"
-    ],
+    "keywords": "Grove_LCD_RGB_Backlight",
     "name": "Grove_LCD_RGB_Backlight",
     "platforms": "*",
     "repository": {

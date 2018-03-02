@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "DreamTeam",
+        "url": "https://os.mbed.com/teams/DreamTeam/"
+    },
+    "description": "Demo of RTOS for STMF4",
+    "frameworks": "mbed",
+    "keywords": "RTOS_Demo",
+    "name": "RTOS_Demo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/DreamTeam/code/RTOS_Demo/"
+    }
+}

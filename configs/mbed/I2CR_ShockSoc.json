@@ -3,20 +3,12 @@
         "name": "Shock Soc",
         "url": "https://os.mbed.com/users/ShockSoc/"
     },
-    "description": "A hacked library to offer I2C functionality similar to the standard mbed library for I2C1 only. Is seemingly required when using the v29 beta mbed library as of 12.05.2011, as the I2C does not seem to work otherwise.",
+    "description": "A hacked library to offer I2C functionality similar to the standard mbed library for I2C1 only. Is seemingly required when using the v29 beta mbed library as of 12.05.2011, as ...",
     "examples": [
         "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/SensorsThingSpeak/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "filesystem",
-        "MSCFileSystem",
-        "SDFileSystem",
-        "I2C",
-        "BLE Nano",
-        "BLE_Nano",
-        "BLEnano"
-    ],
+    "keywords": "I2C",
     "name": "I2CR",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "UWP Baja SAE",
+        "url": "https://os.mbed.com/teams/Team-Spank/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "adds two numbers and outputs to binary on led. Use terminal serial connection (COM#) to input",
+    "frameworks": "mbed",
+    "keywords": "addition_calc",
+    "name": "addition_calc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Team-Spank/code/addition_calc/"
+    }
+}

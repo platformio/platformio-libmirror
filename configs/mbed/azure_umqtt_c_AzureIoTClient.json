@@ -13,16 +13,7 @@
         "https://os.mbed.com/users/AzureIoTClient/code/simplesample_mqtt/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "TTL74HC595",
-        "Energy Meter",
-        "frequency",
-        "measurement",
-        "Servo",
-        "servo pulse",
-        "SERVOGEN",
-        "ServoOut"
-    ],
+    "keywords": "azure_umqtt_c",
     "name": "azure_umqtt_c",
     "platforms": "*",
     "repository": {

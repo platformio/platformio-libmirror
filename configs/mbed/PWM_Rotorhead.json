@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Rotorhead",
+        "url": "https://os.mbed.com/teams/Rotorhead/"
+    },
+    "description": "PWM",
+    "frameworks": "mbed",
+    "keywords": "PWM",
+    "name": "PWM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Rotorhead/code/PWM/"
+    }
+}

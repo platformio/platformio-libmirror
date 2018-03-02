@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Tyler Weaver",
+        "url": "https://os.mbed.com/users/tylerjw/"
+    },
+    "description": "simple temperature sensor",
+    "examples": [
+        "https://os.mbed.com/users/tylerjw/code/HARP2/",
+        "https://os.mbed.com/users/tylerjw/code/HARP3/",
+        "https://os.mbed.com/users/MarcoAmerena/code/Thermostat_NucleoF401/",
+        "https://os.mbed.com/users/Colmustard/code/4180Lab4_p1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "sensor",
+        "Temperature",
+        "TMP",
+        "TMP36"
+    ],
+    "name": "TMP36 GZ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tylerjw/code/TMP36-GZ/"
+    }
+}

@@ -18,18 +18,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "EEPROM",
-        "IAP",
-        "In-Application Programming",
-        "internal EEPROM",
-        "internal flash memory",
         "NeoPixel",
         "WS2812",
-        "WS2812B",
-        "arduino",
-        "maniacbug",
-        "nRF24L01+",
-        "nRF24L01P"
+        "WS2812B"
     ],
     "name": "WS2812",
     "platforms": "*",

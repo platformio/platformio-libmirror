@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Mollusc Micros",
+        "url": "https://os.mbed.com/teams/Mollusc-Micros/"
+    },
+    "description": "TCS3472 RGBW digital I2C light sensor.",
+    "frameworks": "mbed",
+    "keywords": "TCS3472",
+    "name": "TCS3472",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Mollusc-Micros/code/TCS3472/"
+    }
+}

@@ -5,14 +5,12 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Erik Olieman"
-            ],
+            "authors": "Erik Olieman",
             "frameworks": "mbed",
             "name": "BurstSPI"
         }
     ],
-    "description": "Control an array or chain of NeoPixel-compatible RGB LEDs.",
+    "description": "Control an array or chain of NeoPixel-compatible RGB LEDs. \"NeoPixel\" is Adafruit's name for WS2812- and WS2811-based addressable RGB LEDs. This library should work with any WS2811- or WS2812-based devices. ...",
     "examples": [
         "https://os.mbed.com/users/morecat_lab/code/mbed_ws2812b/",
         "https://os.mbed.com/users/dannellyz/code/easyNeo/",
@@ -26,11 +24,17 @@
         "https://os.mbed.com/users/JCristobal/code/blip_dado/"
     ],
     "frameworks": "mbed",
-    "keywords": "PixelArray",
+    "keywords": [
+        "NeoPixel",
+        "NeoPixels",
+        "WS2811",
+        "WS2812",
+        "WS2812B"
+    ],
     "name": "PixelArray",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/JacobBramley/code/PixelArray/"
+        "url": "https://os.mbed.com/users/JacobBramley/code/PixelArray/"
     }
 }

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "Lib. for Atmel 1Mbits Serial EEPROM, AT24C1024B",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/LPC1114_barometer_with_data_logging/",
+        "https://os.mbed.com/users/kenjiArai/code/LPC1114_data_logger/",
+        "https://os.mbed.com/teams/aircord/code/dmx_to_stepper/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "EEPROM",
+    "name": "AT24C1024",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/AT24C1024/"
+    }
+}

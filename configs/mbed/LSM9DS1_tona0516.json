@@ -8,18 +8,7 @@
         "https://os.mbed.com/users/tona0516/code/Zumipen/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "DISCO_F746NG",
-        "EEPROM",
-        "BME280",
-        "DISCO_F429ZI",
-        "sdram",
-        "brushless",
-        "L293D",
-        "LPC1768",
-        "mbed",
-        "motor"
-    ],
+    "keywords": "LSM9DS1",
     "name": "LSM9DS1",
     "platforms": "*",
     "repository": {

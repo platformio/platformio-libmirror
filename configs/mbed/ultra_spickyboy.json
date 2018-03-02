@@ -5,15 +5,7 @@
     },
     "description": "Librería que un sensor ultrasónico te mida en centímetros",
     "frameworks": "mbed",
-    "keywords": [
-        "ultrasonico",
-        "I2C",
-        "game",
-        "inheritance",
-        "OOP",
-        "polymorphism",
-        "tutorial"
-    ],
+    "keywords": "ultrasonico",
     "name": "ultra",
     "platforms": "*",
     "repository": {

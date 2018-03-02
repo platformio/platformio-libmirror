@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "OpenMoCo",
+        "url": "https://os.mbed.com/teams/OpenMoCo/"
+    },
+    "description": "Quadrature Encoder Interface for motion control with resistance to jitter and chatter on AB signals and motor vibrations",
+    "examples": [
+        "https://os.mbed.com/teams/OpenMoCo/code/QEIx4_Example/",
+        "https://os.mbed.com/users/ChrisAydon/code/realtimeMM_V3/",
+        "https://os.mbed.com/users/GTNicholson/code/realtimeMM_V3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "QEI",
+        "Quadrature encoder interface",
+        "Rotary Encoder"
+    ],
+    "name": "QEIx4",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/OpenMoCo/code/QEIx4/"
+    }
+}

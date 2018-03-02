@@ -12,20 +12,7 @@
         "https://os.mbed.com/users/ShaniceLim/code/EmbeddedAssignment/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "1wire",
-        "DS18B20",
-        "OneWire",
-        "Accel",
-        "accelerometer",
-        "compass",
-        "gyro",
-        "gyroscope",
-        "IMU",
-        "LSM9DS0",
-        "magnet",
-        "magnetometer"
-    ],
+    "keywords": "Keypad",
     "name": "Keypad",
     "platforms": "*",
     "repository": {

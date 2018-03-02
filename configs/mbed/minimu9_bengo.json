@@ -6,16 +6,9 @@
     "description": "Pololu Minimu-9 library",
     "frameworks": "mbed",
     "keywords": [
-        "barometer",
-        "MPL115A1",
-        "SPI",
         "l3g4200d",
         "lsm303dlm",
-        "minimu-9",
-        "3pi",
-        "m3pi",
-        "robot",
-        "xml"
+        "minimu-9"
     ],
     "name": "minimu9",
     "platforms": "*",

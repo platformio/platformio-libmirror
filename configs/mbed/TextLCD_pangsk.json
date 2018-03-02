@@ -10,16 +10,7 @@
         "https://os.mbed.com/users/pangsk/code/ecu_simulator/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "pressure",
-        "scp1000",
-        "sensor",
-        "Temperature",
-        "Akizuki",
-        "character",
-        "I2C",
-        "LCD"
-    ],
+    "keywords": "TextLCD",
     "name": "TextLCD",
     "platforms": "*",
     "repository": {

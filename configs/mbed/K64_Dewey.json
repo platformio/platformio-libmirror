@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Dennis Dewey",
+        "url": "https://os.mbed.com/users/Dewey/"
+    },
+    "description": "This is the K64 repository",
+    "frameworks": "mbed",
+    "keywords": "K64",
+    "name": "K64",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Dewey/code/K64/"
+    }
+}

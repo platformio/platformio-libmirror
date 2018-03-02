@@ -9,16 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MPU9150",
-        "Quaternion",
-        "vector",
         "cc1101",
         "driver",
-        "library",
-        "L6470",
-        "display",
-        "I2C",
-        "led"
+        "library"
     ],
     "name": "cc1101",
     "platforms": "*",

@@ -17,11 +17,7 @@
         "https://os.mbed.com/users/DiegoRivera/code/DetectorImpacto/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Buffered",
-        "MODSERIAL",
-        "Serial"
-    ],
+    "keywords": "MMA8451Q",
     "name": "MMA8451Q",
     "platforms": "*",
     "repository": {

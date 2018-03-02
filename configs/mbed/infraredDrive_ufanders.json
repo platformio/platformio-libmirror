@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Anders Nelson",
+        "url": "https://os.mbed.com/users/ufanders/"
+    },
+    "description": "8 outputs plus a latch for a high-current IR LED driver. Simple on/off loop.",
+    "frameworks": "mbed",
+    "keywords": "infraredDrive",
+    "name": "infraredDrive",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ufanders/code/infraredDrive/"
+    }
+}

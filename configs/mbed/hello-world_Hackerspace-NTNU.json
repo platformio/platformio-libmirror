@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Hackerspace NTNU",
+        "url": "https://os.mbed.com/teams/Hackerspace-NTNU/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "A simple hello world starter program based on the classic mbed-blinky",
+    "frameworks": "mbed",
+    "keywords": "hello world",
+    "name": "hello world",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Hackerspace-NTNU/code/hello-world/"
+    }
+}

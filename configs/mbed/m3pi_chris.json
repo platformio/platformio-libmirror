@@ -17,7 +17,11 @@
         "https://os.mbed.com/users/nbbhav/code/m3pi_RFIDReader/"
     ],
     "frameworks": "mbed",
-    "keywords": "m3pi",
+    "keywords": [
+        "3pi",
+        "m3pi",
+        "robot"
+    ],
     "name": "m3pi",
     "platforms": "*",
     "repository": {
