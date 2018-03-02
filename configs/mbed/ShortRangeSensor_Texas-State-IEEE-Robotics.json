@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Texas State IEEE",
+        "url": "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Drivers for Pololu irs09a short range infra red sensor.",
+    "frameworks": "mbed",
+    "keywords": "ShortRangeSensor",
+    "name": "ShortRangeSensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/code/ShortRangeSensor/"
+    }
+}

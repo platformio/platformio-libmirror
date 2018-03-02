@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ST_INTERFACES"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "X_NUCLEO_COMMON"
+        }
+    ],
+    "description": "Ultra-compact high-performance eCompass module: ultra-low power 3D accelerometer and 3D magnetometer.",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/X_NUCLEO_IKS01A2/",
+        "https://os.mbed.com/teams/ST/code/HelloWorld_ST_Sensors/",
+        "https://os.mbed.com/teams/ST/code/MOTENV_Mbed/",
+        "https://os.mbed.com/teams/Avnet-Silica/code/mbed-os-mqtt-client/",
+        "https://os.mbed.com/teams/ST-Expansion-SW-Team/code/LSM303AGR_JS/",
+        "https://os.mbed.com/users/pferland/code/MTS_X_NUCLEO_IKS01A2/",
+        "https://os.mbed.com/users/jaafaryn/code/DISCO-IOT01_HomeEnv/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LSM303AGR",
+    "name": "LSM303AGR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/LSM303AGR/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Daiki Kato",
+        "url": "https://os.mbed.com/users/dkato/"
+    },
+    "description": "High-speed access version sd-driver.",
+    "examples": [
+        "https://os.mbed.com/users/dkato/code/SDBlockDevice_GR_PEACH/",
+        "https://os.mbed.com/users/zkimike/code/SDBlockDevice_GR_PEACH/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "sd-driver-hs",
+    "name": "sd-driver-hs",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dkato/code/sd-driver-hs/"
+    }
+}

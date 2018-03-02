@@ -5,14 +5,7 @@
     },
     "description": "GEL2474 speed sensor",
     "frameworks": "mbed",
-    "keywords": [
-        "NTP",
-        "SNTP",
-        "SNTPClinet",
-        "menu",
-        "Touchscreen",
-        "GEL2474"
-    ],
+    "keywords": "GEL2474",
     "name": "RPM",
     "platforms": "*",
     "repository": {

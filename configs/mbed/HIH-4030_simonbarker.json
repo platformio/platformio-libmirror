@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Simon Barker",
+        "url": "https://os.mbed.com/users/simonbarker/"
+    },
+    "description": "Library for taking datasheet corrected relative humidity measurements with HIH-4030 humidity sensor",
+    "frameworks": "mbed",
+    "keywords": [
+        "HIH-4030",
+        "Humidity",
+        "sensor"
+    ],
+    "name": "HIH-4030",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/simonbarker/code/HIH-4030/"
+    }
+}

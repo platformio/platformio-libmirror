@@ -5,22 +5,19 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Vincent Wochnik"
-            ],
+            "authors": "Vincent Wochnik",
             "frameworks": "mbed",
             "name": "HTTPClient"
+        },
+        {
+            "authors": "Vincent Wochnik",
+            "frameworks": "mbed",
+            "name": "SmartRest"
         }
     ],
     "description": "A client for the SmartREST protocol from Cumulocity.",
     "frameworks": "mbed",
     "keywords": [
-        "driver",
-        "motor",
-        "Stepper",
-        "MPU6000",
-        "MPU6050",
-        "MPU60x0",
         "csv",
         "cumulocity",
         "Embedded",
@@ -31,6 +28,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/vwochnik/code/MbedSmartRest/"
+        "url": "https://os.mbed.com/users/vwochnik/code/MbedSmartRest/"
     }
 }

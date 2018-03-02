@@ -15,13 +15,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HD44780",
-        "authorization",
-        "client",
-        "custom",
-        "headers",
-        "http",
-        "HTTPClient"
+        "LCD_ST7735"
     ],
     "name": "LCD_ST7735",
     "platforms": "*",

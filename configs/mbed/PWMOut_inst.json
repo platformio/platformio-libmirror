@@ -12,12 +12,7 @@
         "https://os.mbed.com/users/spinal/code/Pokittris/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "daisy-chain",
-        "L6470",
-        "SPI",
-        "Stepper"
-    ],
+    "keywords": "PWMOut",
     "name": "PWMOut",
     "platforms": "*",
     "repository": {

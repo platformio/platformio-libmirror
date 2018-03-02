@@ -18,14 +18,10 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "SHT21",
         "Altimeter",
         "MS5607",
         "pressure",
-        "Temperature",
-        "rtos",
-        "Serial",
-        "UART"
+        "Temperature"
     ],
     "name": "MS5607",
     "platforms": "*",

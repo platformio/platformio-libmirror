@@ -15,18 +15,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "MCP23S17",
-        "F042K6",
-        "F103RB",
-        "L152RE",
-        "STM32F0",
-        "STM32F1",
-        "STM32L1",
-        "USBDevice",
-        "DC",
-        "driver",
-        "H-bridge",
-        "motor"
+        "I2C_Driver"
     ],
     "name": "I2C_Driver",
     "platforms": "*",

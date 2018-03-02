@@ -3,7 +3,7 @@
         "name": "irsan julfikar",
         "url": "https://os.mbed.com/users/irsanjul/"
     },
-    "description": "Library of Temperature/Humidity Sensor from Silicon Labs for LPC1768",
+    "description": "Library of Temperature/Humidity Sensor from Silicon Labs for LPC1768 Editing from SILABS_RHT library",
     "examples": [
         "https://os.mbed.com/users/NilliM/code/F-CubeSatKit4/",
         "https://os.mbed.com/teams/Smart-Miniature-House/code/Xbee-Smart-Home-Inside/",
@@ -12,14 +12,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "numchuck",
-        "nunchuck",
-        "Nunchuk",
-        "Wii",
-        "1D",
-        "2D",
-        "array",
-        "matrix",
         "LPC1768",
         "sensor",
         "Si7021"

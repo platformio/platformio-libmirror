@@ -10,19 +10,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "hotboards",
-        "keyboard",
-        "debug",
-        "debugging",
-        "Serial",
-        "term",
-        "Terminal",
         "ShiftRegister",
-        "TextLCD",
-        "MCP3201",
-        "MCP3204",
-        "MCP3208",
-        "SPI"
+        "TextLCD"
     ],
     "name": "TextLCD_SR4",
     "platforms": "*",

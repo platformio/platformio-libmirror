@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Multi-Hackers",
+        "url": "https://os.mbed.com/teams/Multi-Hackers/"
+    },
+    "description": "A wrapper class for talking to Axeda from MBED devices. Uses HTTPClient and MbedJSONValue classes.",
+    "examples": [
+        "https://os.mbed.com/users/mfiore/code/axeda_wrapper_dev/",
+        "https://os.mbed.com/teams/Multi-Hackers/code/MTS_Axeda_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Axeda",
+    "name": "AxedaWrapper",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Multi-Hackers/code/AxedaWrapper/"
+    }
+}

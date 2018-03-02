@@ -6,12 +6,7 @@
     "description": "magnetometer",
     "frameworks": "mbed",
     "keywords": [
-        "LCD",
-        "LCD 16x2",
-        "Parallel LCD",
-        "debounce",
-        "DebounceIn",
-        "DHT11"
+        "HMC5883"
     ],
     "name": "HMC5883",
     "platforms": "*",

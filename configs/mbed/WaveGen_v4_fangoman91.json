@@ -5,14 +5,7 @@
     },
     "description": "This library generate four classic waves, have an escape button to stop to generate wave. And is possible to use function for calculate period,... separately",
     "frameworks": "mbed",
-    "keywords": [
-        "Fake SPI",
-        "SPI",
-        "Virtual SPI",
-        "VSPI",
-        "wave",
-        "MPU9250"
-    ],
+    "keywords": "wave",
     "name": "WaveGen_v4",
     "platforms": "*",
     "repository": {

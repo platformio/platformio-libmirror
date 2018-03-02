@@ -8,15 +8,7 @@
         "https://os.mbed.com/users/stretch/code/CNCAirbrushCode/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "bmp280",
-        "pressure",
-        "Temperature",
-        "SCA61T",
-        "SCA61T-FA1H1G",
-        "SCA61T-FAHH1G",
-        "CNCAirbrush"
-    ],
+    "keywords": "CNCAirbrush",
     "name": "StepperMotors",
     "platforms": "*",
     "repository": {

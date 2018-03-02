@@ -3,7 +3,7 @@
         "name": "Hendrik Lipka",
         "url": "https://os.mbed.com/users/hlipka/"
     },
-    "description": "The extracted NTP client from Segundos NetServices library, for use with the [[http://mbed.org/users/hlipka/libraries/NetServicesMin|NetServicesMin]] library. The only fixed bug is the memory leak / OOM problem. Needs the [[http://mbed.org/users/hlipka/libraries/DNSResolver|DNSResolver]] library as well.",
+    "description": "The extracted NTP client from Segundos NetServices library, for use with the [[http://mbed.org/users/hlipka/libraries/NetServicesMin|NetServicesMin]] library. The only fixed bug is the memory leak / OOM problem. Needs the [[http://mbed.org/users/hlipka/libraries/DNSResolver|DNSResolver]] library as ...",
     "examples": [
         "https://os.mbed.com/users/u0421793/code/SPIVFDclock/",
         "https://os.mbed.com/users/joinamruta/code/LPC1768_AppBoard_Internet_LCD_Clock/"
@@ -12,15 +12,7 @@
     "keywords": [
         "network",
         "NTP",
-        "time",
-        "high",
-        "Speed",
-        "SPI",
-        "1-wire",
-        "DS18B20",
-        "one",
-        "One Wire",
-        "OneWire"
+        "time"
     ],
     "name": "NTPClientMin",
     "platforms": "*",

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Sille Van Landschoot",
+        "url": "https://os.mbed.com/users/sillevl/"
+    },
+    "description": "simple RGB led library",
+    "examples": [
+        "https://os.mbed.com/users/sillevl/code/m3Dpi/",
+        "https://os.mbed.com/users/sillevl/code/MQTT-Thermostat-example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "color",
+        "led",
+        "rgb"
+    ],
+    "name": "RGB-fun",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sillevl/code/RGB-fun/"
+    }
+}

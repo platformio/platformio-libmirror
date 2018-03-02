@@ -3,7 +3,7 @@
         "name": "Francis Schumacher",
         "url": "https://os.mbed.com/users/fxschumacher/"
     },
-    "description": "An attempt to provide a Real Time Clock for the nRF51-DK. This code provides rtc.time and rtc.set_time replacements for the similarly named C standard methods (unimplemented for nRF51-DK last I checked). Not very well tested, but it seems to work for simple applications.",
+    "description": "An attempt to provide a Real Time Clock for the nRF51-DK. This code provides rtc.time and rtc.set_time replacements for the similarly named C standard methods (unimplemented for nRF51-DK last I ...",
     "examples": [
         "https://os.mbed.com/users/fxschumacher/code/nRF51_rtc_example/",
         "https://os.mbed.com/users/janjongboom/code/LoRa_PIR/",

@@ -12,16 +12,7 @@
         "https://os.mbed.com/users/jolyon/code/ColourSensor/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "socket",
-        "TCP",
-        "UDP",
-        "WiFly",
-        "compass",
-        "LSM303DLH",
-        "magnetometer",
-        "sensors"
-    ],
+    "keywords": "eeprom",
     "name": "eeprom",
     "platforms": "*",
     "repository": {

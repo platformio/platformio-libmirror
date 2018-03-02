@@ -5,20 +5,7 @@
     },
     "description": "A library for AQM0802A I2C connecting LCD module.",
     "frameworks": "mbed",
-    "keywords": [
-        "clock",
-        "ds1307",
-        "real",
-        "RTC",
-        "time",
-        "api",
-        "16x2",
-        "20x2",
-        "20X4",
-        "40x2",
-        "HD4478",
-        "TextLCD"
-    ],
+    "keywords": "KuAQM0802A",
     "name": "KuAQM0802A",
     "platforms": "*",
     "repository": {

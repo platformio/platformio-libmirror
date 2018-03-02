@@ -17,13 +17,7 @@
         "https://os.mbed.com/users/kenjiArai/code/TYBLE16_Uart_Central_and_Peripheral/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "network",
-        "WNC",
-        "clock",
-        "KL25z",
-        "PLL"
-    ],
+    "keywords": "RingBuffer",
     "name": "RingBuffer",
     "platforms": "*",
     "repository": {

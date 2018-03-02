@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "USBHOST lib for STM",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/Nucleo_usbhost/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "USBHOST",
+    "name": "USBHOST",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/USBHOST/"
+    }
+}

@@ -3,7 +3,7 @@
         "name": "Richard Thompson",
         "url": "https://os.mbed.com/users/Tomo2k/"
     },
-    "description": "Disables then re-enables interrupts based on variable scope.",
+    "description": "Disables then re-enables interrupts based on variable scope. Ensures you don't forget to re-enable interrupts. Use Wisely!",
     "frameworks": "mbed",
     "keywords": "IntDisabler",
     "name": "IntDisabler",

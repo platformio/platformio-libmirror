@@ -6,17 +6,10 @@
     "description": "XBee API mode library",
     "frameworks": "mbed",
     "keywords": [
-        "Algebra.",
-        "matrix",
-        "vector",
-        "GPS",
-        "Serial",
         "api",
         "mode",
         "xbee",
-        "zigbee",
-        "FAT",
-        "SD"
+        "zigbee"
     ],
     "name": "XBee",
     "platforms": "*",

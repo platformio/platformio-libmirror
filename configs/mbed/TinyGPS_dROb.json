@@ -8,14 +8,7 @@
         "https://os.mbed.com/users/fdalforno/code/Nucleo_gps/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "mbed",
-        "LCD",
-        "ST7032",
-        "TextLCD",
-        "GPS",
-        "RX8025"
-    ],
+    "keywords": "GPS",
     "name": "TinyGPS",
     "platforms": "*",
     "repository": {

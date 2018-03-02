@@ -3,7 +3,7 @@
         "name": "Peter Drescher",
         "url": "https://os.mbed.com/users/dreschpe/"
     },
-    "description": "Modified TextLCD lib.",
+    "description": "Modified TextLCD lib. The RW signal is also connected to a IO pin. This enable to read out the display memory and the busy flag. The timing is switched from ...",
     "examples": [
         "https://os.mbed.com/users/blmarket/code/TwitterClient/",
         "https://os.mbed.com/users/blmarket/code/CSVParser/",
@@ -11,11 +11,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "xbee",
-        "XBEE pro",
-        "zigbee",
-        "STM32F030F4",
-        "STM32F030F4P6",
         "LCD",
         "text"
     ],

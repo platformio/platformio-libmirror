@@ -5,11 +5,14 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Edoardo De Marchi"
-            ],
+            "authors": "Edoardo De Marchi",
             "frameworks": "mbed",
             "name": "MMA7660FC"
+        },
+        {
+            "authors": "Favre Lucas",
+            "frameworks": "mbed",
+            "name": "LCD_lib"
         }
     ],
     "description": "Librairie contenant les fonctions nécessaires pour pouvoir contrôler les différents composants de la carte d'extension MyLab",
@@ -22,13 +25,12 @@
         "LCD_12832",
         "LEDS",
         "micro",
-        "MMA7660FC",
-        "Temperature;*C;MCP9808"
+        "MMA7660FC"
     ],
     "name": "MyLab_Lib",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/lucas_favre/code/MyLab_Lib/"
+        "url": "https://os.mbed.com/users/lucas_favre/code/MyLab_Lib/"
     }
 }

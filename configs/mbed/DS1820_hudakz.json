@@ -8,7 +8,7 @@
             "authors": [
                 "Zoltan Hudak"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "OneWire"
         }
     ],
@@ -25,23 +25,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "fatfilesystem",
-        "LocalFileSystem",
-        "USBMSD",
         "DS1820",
         "DS1822",
         "DS18B20",
-        "DS18S20",
-        "DC",
-        "motor",
-        "pwm",
-        "Encoder",
-        "rotary"
+        "DS18S20"
     ],
     "name": "DS1820",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/hudakz/code/DS1820/"
+        "url": "https://os.mbed.com/users/hudakz/code/DS1820/"
     }
 }

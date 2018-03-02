@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "u-blox",
+        "url": "https://os.mbed.com/teams/ublox/"
+    },
+    "description": "Connection Manager library for u-blox cellular modules. It manages the modem for keeping data connection always active.",
+    "examples": [
+        "https://os.mbed.com/teams/ublox/code/C027_demo_ConnMan/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "CNManager",
+    "name": "CNManager",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ublox/code/CNManager/"
+    }
+}

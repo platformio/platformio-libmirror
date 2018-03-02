@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "STM32746G-Discovery board drivers V1.0.0",
+    "examples": [
+        "https://os.mbed.com/users/JackB/code/DISCO-F746NG_LCDTS_CC3000_NTP/",
+        "https://os.mbed.com/users/GabDiSi/code/DISCO-F746NG_ROPE_WIFI/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_SpectralAnalysis_Example/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_SpectralAnalysis_NoPhoto/",
+        "https://os.mbed.com/users/habiburrahman/code/ecte433/",
+        "https://os.mbed.com/users/pryd/code/DISCO-F746NG_lepton/",
+        "https://os.mbed.com/users/kai86/code/DISCO-F746NG_LCD_demo/",
+        "https://os.mbed.com/users/YashwantMane/code/DISCO-F746NG_LCD_demo/",
+        "https://os.mbed.com/users/icis4/code/DISCO_F746NG_STemWin_HelloWorld/",
+        "https://os.mbed.com/users/neverblue/code/DISCO-F746NG_LCD_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BSP",
+        "DISCO_F746NG"
+    ],
+    "name": "BSP_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/BSP_DISCO_F746NG/"
+    }
+}

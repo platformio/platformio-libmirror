@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/"
+    },
+    "description": "Human body temp sensor library",
+    "frameworks": "mbed",
+    "keywords": "MAX30205",
+    "name": "MAX30205",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/code/MAX30205/"
+    }
+}

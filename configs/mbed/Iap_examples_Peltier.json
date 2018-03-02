@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Gilles Peltier",
+        "url": "https://os.mbed.com/users/Peltier/"
+    },
+    "description": "Tests iap",
+    "frameworks": "mbed",
+    "keywords": "Iap_examples",
+    "name": "Iap_examples",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Peltier/code/Iap_examples/"
+    }
+}

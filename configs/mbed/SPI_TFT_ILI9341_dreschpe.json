@@ -17,14 +17,7 @@
         "https://os.mbed.com/users/vtraveller/code/ILI9341_Graphic_Library/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "DHT11",
-        "DHT22",
-        "Grove",
-        "MPU6000",
-        "MPU6050",
-        "MPU60x0"
-    ],
+    "keywords": "SPI_TFT_ILI9341",
     "name": "SPI_TFT_ILI9341",
     "platforms": "*",
     "repository": {

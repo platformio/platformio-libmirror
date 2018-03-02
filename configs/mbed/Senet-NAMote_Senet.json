@@ -1,0 +1,57 @@
+{
+    "authors": {
+        "name": "Senet",
+        "url": "https://os.mbed.com/teams/Senet/"
+    },
+    "dependencies": [
+        {
+            "authors": "Michael Shimniok",
+            "frameworks": "mbed",
+            "name": "GeoPosition"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "Senet_Packet"
+        },
+        {
+            "authors": "canuck lehead",
+            "frameworks": "mbed",
+            "name": "lib_gps"
+        },
+        {
+            "authors": "canuck lehead",
+            "frameworks": "mbed",
+            "name": "lib_mma8451q"
+        },
+        {
+            "authors": "wayne roberts",
+            "frameworks": "mbed",
+            "name": "lib_mpl3115a2"
+        },
+        {
+            "authors": "wayne roberts",
+            "frameworks": "mbed",
+            "name": "lib_sx9500"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "lmic_MOTE_L152RC"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-src"
+        }
+    ],
+    "description": "Senet network coverage survey tool",
+    "frameworks": "mbed",
+    "keywords": "Senet NAMote",
+    "name": "Senet NAMote",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Senet/code/Senet-NAMote/"
+    }
+}

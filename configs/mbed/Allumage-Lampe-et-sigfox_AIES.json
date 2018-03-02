@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "INVISSYS",
+        "url": "https://os.mbed.com/teams/AIES/"
+    },
+    "description": "Allume/éteint une lampe en appuyant sur le bouton, et envoie un message sigfox à l'ordinateur contenant \"allume\" ou \"eteint\".",
+    "frameworks": "mbed",
+    "keywords": "Allumage Lampe et sigfox",
+    "name": "Allumage Lampe et sigfox",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/AIES/code/Allumage-Lampe-et-sigfox/"
+    }
+}

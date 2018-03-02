@@ -5,39 +5,41 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Calum Johnston"
-            ],
+            "authors": "Calum Johnston",
             "frameworks": "mbed",
             "name": "Gait"
+        },
+        {
+            "authors": "Calum Johnston",
+            "frameworks": "mbed",
+            "name": "Hexapod_Leg"
+        },
+        {
+            "authors": "Calum Johnston",
+            "frameworks": "mbed",
+            "name": "PCA9685"
+        },
+        {
+            "authors": "Calum Johnston",
+            "frameworks": "mbed",
+            "name": "Tripod"
         }
     ],
     "description": "Class to drive a Hexapod Robot using two PCA9685 PWM Driver boards.",
     "frameworks": "mbed",
     "keywords": [
-        "QR",
         "ELEC3880",
         "gait",
         "hexapod",
         "Leeds",
         "PCA9685",
         "robot",
-        "Servo",
-        "device",
-        "USB",
-        "6100",
-        "6600",
-        "KL25z",
-        "kl46z",
-        "NokiaLCD",
-        "ethernet",
-        "socket",
-        "W5500"
+        "Servo"
     ],
     "name": "Hexapod_Library",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/el13cj/code/Hexapod_Library/"
+        "url": "https://os.mbed.com/users/el13cj/code/Hexapod_Library/"
     }
 }

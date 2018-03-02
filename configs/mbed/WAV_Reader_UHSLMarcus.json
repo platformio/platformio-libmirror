@@ -5,16 +5,7 @@
     },
     "description": "Decode Wav files",
     "frameworks": "mbed",
-    "keywords": [
-        "arduino",
-        "FRDM",
-        "Freescale",
-        "KL25z",
-        "L293D",
-        "motor",
-        "Servo",
-        "shield"
-    ],
+    "keywords": "WAV_Reader",
     "name": "WAV_Reader",
     "platforms": "*",
     "repository": {

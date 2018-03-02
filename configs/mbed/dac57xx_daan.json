@@ -5,15 +5,7 @@
     },
     "description": "drive the analog devices AD57XX series of DACs using SPI",
     "frameworks": "mbed",
-    "keywords": [
-        "display",
-        "led",
-        "TextLCD",
-        "FAT",
-        "file",
-        "SD",
-        "System"
-    ],
+    "keywords": "dac57xx",
     "name": "dac57xx",
     "platforms": "*",
     "repository": {

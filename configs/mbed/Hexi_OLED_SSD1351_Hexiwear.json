@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Hexiwear",
+        "url": "https://os.mbed.com/teams/Hexiwear/"
+    },
+    "description": "Hexiwear OLED Display Driver",
+    "examples": [
+        "https://os.mbed.com/teams/Hexiwear/code/Hexi_OLED_TextImage_Example/",
+        "https://os.mbed.com/teams/Hexiwear/code/Hexi_OLED_Text_Example/",
+        "https://os.mbed.com/teams/Hexiwear/code/Hexi_OLED_Image_Example/",
+        "https://os.mbed.com/users/keithm01/code/security-console-app/",
+        "https://os.mbed.com/teams/Hexiwear/code/Hexi_Click_Relay-v3_Example/",
+        "https://os.mbed.com/teams/Hexiwear/code/Hexi_BLE_Example/",
+        "https://os.mbed.com/users/daveyclk/code/iBreathe_Breathalyzer/",
+        "https://os.mbed.com/users/tom_minnich/code/REP_Hexiwear_OLED/",
+        "https://os.mbed.com/users/v_anand_786/code/Racket_VibrAnalyzer/",
+        "https://os.mbed.com/users/khuang/code/HexiComm/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "driver",
+        "HEXIWEAR",
+        "OLED",
+        "SSD1351"
+    ],
+    "name": "Hexi_OLED_SSD1351",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Hexiwear/code/Hexi_OLED_SSD1351/"
+    }
+}

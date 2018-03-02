@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "u-blox",
+        "url": "https://os.mbed.com/teams/ublox/"
+    },
+    "description": "Base class for the ublox-xxx-cellular-xxx classes. Cannot be used standalone, only inherited by classes that do properly useful stuff. Or, to put it another way, if you are using any ...",
+    "examples": [
+        "https://os.mbed.com/users/fahimalavi/code/example-ublox-cellular-interface/",
+        "https://os.mbed.com/teams/ublox/code/example-ublox-cellular-driver-gen/",
+        "https://os.mbed.com/teams/ublox/code/example-ublox-at-cellular-interface-ext/",
+        "https://os.mbed.com/teams/ublox/code/HelloMQTT/",
+        "https://os.mbed.com/teams/ublox/code/example-ublox-cellular-interface/",
+        "https://os.mbed.com/teams/ublox/code/example-ublox-mbed-client/",
+        "https://os.mbed.com/users/mudassar0121/code/example-ublox-cellular-interface/",
+        "https://os.mbed.com/users/mudassar0121/code/example-ublox-cellular-interface_r410M/",
+        "https://os.mbed.com/users/michaelVisimid/code/ublox_new_driver_test/",
+        "https://os.mbed.com/teams/ublox/code/example-reading-imei-imsi/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AT",
+        "C027",
+        "C030",
+        "CellularInterface",
+        "u-blox"
+    ],
+    "name": "ublox-cellular-base",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ublox/code/ublox-cellular-base/"
+    }
+}

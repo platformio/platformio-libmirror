@@ -12,24 +12,7 @@
         "https://os.mbed.com/users/higedura/code/dotHR_URG/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "DS18B20",
-        "one",
-        "Wire",
-        "library",
-        "MIDI",
-        "USB",
-        "USBMIDI",
-        "2x16",
-        "I2C",
-        "LCD",
-        "mbed",
-        "nRF51822",
-        "SD",
-        "SDFileSystem",
-        "sdhcfilesystem",
-        "FAT"
-    ],
+    "keywords": "FAT",
     "name": "FatFileSystem",
     "platforms": "*",
     "repository": {

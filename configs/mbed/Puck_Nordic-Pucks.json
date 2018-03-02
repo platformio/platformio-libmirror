@@ -1,0 +1,43 @@
+{
+    "authors": {
+        "name": "Nordic Pucks",
+        "url": "https://os.mbed.com/teams/Nordic-Pucks/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "BLE_API"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "nRF51822"
+        }
+    ],
+    "description": "A library for easier setup and prototyping of IoT devices (pucks), by collecting everything that is common for all pucks in one place.",
+    "examples": [
+        "https://os.mbed.com/users/cristea/code/ir-puck/",
+        "https://os.mbed.com/users/cristea/code/display-puck/",
+        "https://os.mbed.com/users/cristea/code/ir-puck2/",
+        "https://os.mbed.com/users/Bobty/code/BLE_ScoringDevice/",
+        "https://os.mbed.com/users/malvira/code/ble-pwm-led-puck/",
+        "https://os.mbed.com/users/sushant/code/location_punk/",
+        "https://os.mbed.com/users/dludowise/code/location_puck/",
+        "https://os.mbed.com/users/bundy62/code/Wens_Test/",
+        "https://os.mbed.com/users/sigveseb/code/Example_Puck_BLE/",
+        "https://os.mbed.com/teams/Nordic-Semiconductor/code/Example_Puck_BLE/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "bluetooth",
+        "nRF51822"
+    ],
+    "name": "Puck",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nordic-Pucks/code/Puck/"
+    }
+}

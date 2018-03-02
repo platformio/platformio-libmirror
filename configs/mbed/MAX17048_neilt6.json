@@ -10,9 +10,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "color",
-        "led",
-        "rgb",
         "Battery",
         "c rate",
         "driver",
@@ -24,12 +21,7 @@
         "sensor",
         "soc",
         "state of charge",
-        "vcell",
-        "keil",
-        "MCB1700",
-        "QVGA",
-        "TFT",
-        "ROS"
+        "vcell"
     ],
     "name": "MAX17048",
     "platforms": "*",

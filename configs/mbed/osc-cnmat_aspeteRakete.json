@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Asperius van Hansen",
+        "url": "https://os.mbed.com/users/aspeteRakete/"
+    },
+    "description": "(uncpomplete) port of the cnmat osc library for Arduino/Teensy. Upstream url: https://github.com/CNMAT/OSC",
+    "frameworks": "mbed",
+    "keywords": [
+        "CNMAT",
+        "osc"
+    ],
+    "name": "osc-cnmat",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aspeteRakete/code/osc-cnmat/"
+    }
+}

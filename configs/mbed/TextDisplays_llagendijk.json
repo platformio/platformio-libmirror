@@ -6,7 +6,6 @@
     "description": "A TextDisplay driver that supports graphical displays using on of the SED133x conrtrolers. Allows stdout and stderr output to be redirected to the display.",
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
         "SED1330",
         "SED1335",
         "TextDisplay"

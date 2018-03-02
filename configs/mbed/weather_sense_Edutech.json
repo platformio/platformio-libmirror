@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Edutech IoT Team",
+        "url": "https://os.mbed.com/teams/Edutech/"
+    },
+    "description": "weather sensor",
+    "frameworks": "mbed",
+    "keywords": "weather_sense",
+    "name": "weather_sense",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Edutech/code/weather_sense/"
+    }
+}

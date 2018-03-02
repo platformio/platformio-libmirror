@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "LDSC_Robotics_TAs",
+        "url": "https://os.mbed.com/teams/LDSC_Robotics_TAs/"
+    },
+    "description": "Nucleo-64 version",
+    "examples": [
+        "https://os.mbed.com/teams/LDSC_Robotics_TAs/code/particle_filter_test/",
+        "https://os.mbed.com/teams/LDSC_Robotics_TAs/code/read_sensor_data/",
+        "https://os.mbed.com/teams/LDSC_Robotics_TAs/code/Bike_Sensor_Fusion/",
+        "https://os.mbed.com/users/roger5641/code/Encoder/",
+        "https://os.mbed.com/users/roger5641/code/read_sensorFusion_data_BT/",
+        "https://os.mbed.com/users/roger5641/code/InPipeRobot/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LSM9DS0",
+    "name": "LSM9DS0",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/LDSC_Robotics_TAs/code/LSM9DS0/"
+    }
+}

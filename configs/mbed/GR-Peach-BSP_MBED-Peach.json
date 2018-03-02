@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "MBED Peach",
+        "url": "https://os.mbed.com/teams/MBED-Peach/"
+    },
+    "description": "Basic BSP files for GR Peach: hardware init, drivers for included core functions.",
+    "frameworks": "mbed",
+    "keywords": "GR Peach BSP",
+    "name": "GR Peach BSP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MBED-Peach/code/GR-Peach-BSP/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "Class to drive the Compass (LSM303 device with Accelerometer and Magnetometer) present on DISCO_L476VG board.",
+    "examples": [
+        "https://os.mbed.com/users/flowh/code/DiscoLogger/",
+        "https://os.mbed.com/users/ketjow/code/vcdMaker_Demo_DISCO_L476/",
+        "https://os.mbed.com/teams/ST/code/DISCO_L476VG_Compass/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "compass",
+        "DISCO_L476VG",
+        "LSM303"
+    ],
+    "name": "COMPASS_DISCO_L476VG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/COMPASS_DISCO_L476VG/"
+    }
+}

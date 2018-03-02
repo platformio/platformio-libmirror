@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "MSS",
+        "url": "https://os.mbed.com/teams/MSS/"
+    },
+    "description": "MPL3115A2 20 to 110kPa, Absolute Digital Pressure Sensor",
+    "examples": [
+        "https://os.mbed.com/teams/MSS/code/test_MPL3115A2/",
+        "https://os.mbed.com/teams/Lycee_projet_Blaise_Pascal/code/test_MPL3115A2/",
+        "https://os.mbed.com/teams/MSS/code/testSensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "MPL3115A2",
+        "pressure",
+        "sensor"
+    ],
+    "name": "MPL3115A2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MSS/code/MPL3115A2/"
+    }
+}

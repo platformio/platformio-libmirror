@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Mathieu Garivet",
+        "url": "https://os.mbed.com/users/garivetm/"
+    },
+    "description": "Filtre passe bas simple",
+    "frameworks": "mbed",
+    "keywords": "FiltrePB",
+    "name": "FiltrePB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/garivetm/code/FiltrePB/"
+    }
+}

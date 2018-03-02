@@ -8,11 +8,11 @@
             "authors": [
                 "不韋 呂"
             ],
-            "frameworks": "mbed",
+            "framework": "mbed",
             "name": "Array_Matrix"
         }
     ],
-    "description": "SAI_IO class for using CODEC (MW8994) as analog input and output.",
+    "description": "SAI_IO class for using CODEC (MW8994) as analog input and output. このライブラリを登録した際のプログラム：「F746_AudioIO_Demo」",
     "examples": [
         "https://os.mbed.com/users/MikamiUitOpen/code/F746_SD_WavPlayer/",
         "https://os.mbed.com/users/edamame22/code/F746_SD_GraphicEqualizer_ren0620/",
@@ -27,10 +27,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "camera",
-        "radioshack",
-        "shield",
-        "VC0706",
         "audio input",
         "Audio output",
         "CODEC",
@@ -45,6 +41,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/MikamiUitOpen/code/F746_SAI_IO/"
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/F746_SAI_IO/"
     }
 }

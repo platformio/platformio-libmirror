@@ -6,8 +6,6 @@
     "description": "This class interface the MDSMC (Micro Dual Serial Motor Controller) by Pololu with our mbed module",
     "frameworks": "mbed",
     "keywords": [
-        "mcp4261",
-        "SPI",
         "by",
         "controller",
         "dual",

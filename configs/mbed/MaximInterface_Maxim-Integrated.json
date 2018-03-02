@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/"
+    },
+    "description": "Device interface library for multiple platforms including mbed.",
+    "examples": [
+        "https://os.mbed.com/teams/Maxim-Integrated/code/MAXREFDES155/",
+        "https://os.mbed.com/teams/Maxim-Integrated/code/DeepCover-Embedded-Security-in-IoT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MaximInterface",
+    "name": "MaximInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/code/MaximInterface/"
+    }
+}

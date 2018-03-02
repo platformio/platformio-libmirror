@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "MSS",
+        "url": "https://os.mbed.com/teams/MSS/"
+    },
+    "description": "MAG3110 Three-Axis, Digital Magnetmeter",
+    "examples": [
+        "https://os.mbed.com/teams/MSS/code/test_MAG3110/",
+        "https://os.mbed.com/teams/MSS/code/testSensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "MAG3110",
+        "magnetometer"
+    ],
+    "name": "MAG3110",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MSS/code/MAG3110/"
+    }
+}

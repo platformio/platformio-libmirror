@@ -8,13 +8,7 @@
         "https://os.mbed.com/users/gatedClock/code/Embedded_RTOS_Project/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "AT45DBxx",
-        "USBMSD",
-        "F401RE",
-        "mma7361",
-        "Nucleo"
-    ],
+    "keywords": "watchdog",
     "name": "watchdog",
     "platforms": "*",
     "repository": {

@@ -5,12 +5,7 @@
     },
     "description": "This library includes use cases which can be used for replicating BLE use caes.",
     "frameworks": "mbed",
-    "keywords": [
-        "Analog",
-        "AnalogIn",
-        "gyro",
-        "sensor"
-    ],
+    "keywords": "BlueNRG_Usecases",
     "name": "BlueNRG_Usecases",
     "platforms": "*",
     "repository": {

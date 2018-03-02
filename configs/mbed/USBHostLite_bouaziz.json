@@ -8,12 +8,7 @@
         "https://os.mbed.com/users/bouaziz/code/FileSystem_POPS/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "accelerometer",
-        "ADXL345",
-        "C++",
-        "mbed"
-    ],
+    "keywords": "USBHostLite",
     "name": "USBHostLite",
     "platforms": "*",
     "repository": {

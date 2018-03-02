@@ -15,7 +15,11 @@
         "https://os.mbed.com/users/tvlogman/code/locomotion_pid_action_refactor_EMG/"
     ],
     "frameworks": "mbed",
-    "keywords": "Matrix",
+    "keywords": [
+        "Algebra.",
+        "matrix",
+        "vector"
+    ],
     "name": "Matrix",
     "platforms": "*",
     "repository": {

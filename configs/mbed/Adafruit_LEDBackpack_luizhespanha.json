@@ -3,11 +3,9 @@
         "name": "Luiz Hespanha",
         "url": "https://os.mbed.com/users/luizhespanha/"
     },
-    "description": "This is a library for the Adafruit LED Backpacks.",
+    "description": "This is a library for the Adafruit LED Backpacks. This library works with the Adafruit Mini 8x8.",
     "frameworks": "mbed",
     "keywords": [
-        "debug",
-        "library",
         "8x8",
         "Adafruit",
         "backpack",

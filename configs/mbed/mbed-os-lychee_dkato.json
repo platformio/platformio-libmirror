@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Daiki Kato",
+        "url": "https://os.mbed.com/users/dkato/"
+    },
+    "description": "mbed-os for GR-LYCHEE",
+    "examples": [
+        "https://os.mbed.com/users/dkato/code/mbed-os-example-blinky-gr-lychee/",
+        "https://os.mbed.com/users/dkato/code/GR-Boads_Camera_sample/",
+        "https://os.mbed.com/users/1050186/code/GR-LYCHEE_mbed-os-client-ZXingSample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "mbed-os-lychee",
+    "name": "mbed-os-lychee",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dkato/code/mbed-os-lychee/"
+    }
+}

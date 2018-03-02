@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "scooter",
+        "url": "https://os.mbed.com/teams/scooter/"
+    },
+    "description": "uart",
+    "frameworks": "mbed",
+    "keywords": "uart",
+    "name": "uart",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/scooter/code/uart/"
+    }
+}

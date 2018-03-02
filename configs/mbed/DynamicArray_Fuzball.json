@@ -3,15 +3,9 @@
         "name": "Chris Yan",
         "url": "https://os.mbed.com/users/Fuzball/"
     },
-    "description": "An mbed-friendly version of dynamic arrays",
+    "description": "An mbed-friendly version of dynamic arrays Main difference in the code from my original version is the inability to use template files with the mbed compiler.",
     "frameworks": "mbed",
     "keywords": [
-        "buffer",
-        "circular",
-        "ring",
-        "delay",
-        "information",
-        "NextTrain",
         "array",
         "Dynamic",
         "typeless"

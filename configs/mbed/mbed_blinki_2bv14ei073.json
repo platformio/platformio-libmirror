@@ -3,6 +3,13 @@
         "name": "pooja arawal",
         "url": "https://os.mbed.com/users/2bv14ei073/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "blink",
     "frameworks": "mbed",
     "keywords": "mbed_blinki",

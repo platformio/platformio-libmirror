@@ -5,20 +5,7 @@
     },
     "description": "accelerometer",
     "frameworks": "mbed",
-    "keywords": [
-        "binary",
-        "GPS",
-        "NMEA",
-        "protocol",
-        "sIRFstar3",
-        "sIRFstarIII",
-        "led",
-        "LED controller",
-        "led driver",
-        "PCA9955A",
-        "PCA9956A",
-        "PCA995xA"
-    ],
+    "keywords": "accelerometer",
     "name": "accelerometer",
     "platforms": "*",
     "repository": {

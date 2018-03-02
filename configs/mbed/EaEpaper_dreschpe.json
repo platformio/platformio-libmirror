@@ -3,7 +3,7 @@
         "name": "Peter Drescher",
         "url": "https://os.mbed.com/users/dreschpe/"
     },
-    "description": "A lib to handle a E-Paper display from Pervasive Displays.",
+    "description": "A lib to handle a E-Paper display from Pervasive Displays. There is a interface board from Embedded Artists. The lib can handle graphic and text drawing and is using external ...",
     "examples": [
         "https://os.mbed.com/users/dreschpe/code/epaper_mbed_130411_KL25Z/",
         "https://os.mbed.com/users/dreschpe/code/epaper_mbed_test/",
@@ -13,13 +13,7 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "NET",
-        "network",
-        "stream",
-        "TCP",
-        "Agent",
-        "Net-SNMP",
-        "SNMP"
+        "EaEpaper"
     ],
     "name": "EaEpaper",
     "platforms": "*",

@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "mbed official "
-            ],
+            "authors": "mbed official",
             "frameworks": "mbed",
             "name": "TSI"
         }
@@ -19,11 +17,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Composite",
-        "USB",
-        "USBKeyboard",
-        "usbserial",
-        "ROS",
         "4",
         "buttons",
         "convert",
@@ -35,6 +28,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/virajjayaweera/code/TouchButton/"
+        "url": "https://os.mbed.com/users/virajjayaweera/code/TouchButton/"
     }
 }

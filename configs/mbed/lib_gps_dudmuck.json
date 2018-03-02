@@ -13,19 +13,7 @@
         "https://os.mbed.com/users/billvs/code/LoRaWAN-NAMote72-BVS-confirmed-tester-0-/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "debug",
-        "log",
-        "logger",
-        "test",
-        "DC",
-        "driver",
-        "full-bridge",
-        "H-bridge",
-        "motor",
-        "display",
-        "GPS"
-    ],
+    "keywords": "GPS",
     "name": "lib_gps",
     "platforms": "*",
     "repository": {

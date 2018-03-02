@@ -5,10 +5,7 @@
     },
     "description": "Library to communicate with a ST LIS331DLH",
     "frameworks": "mbed",
-    "keywords": [
-        "Freescale",
-        "mbed"
-    ],
+    "keywords": "LIS331_lib",
     "name": "LIS331_lib",
     "platforms": "*",
     "repository": {

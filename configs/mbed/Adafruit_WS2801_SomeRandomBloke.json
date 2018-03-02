@@ -9,21 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "BMP180",
         "led",
         "rgb",
-        "ws2801",
-        "edge",
-        "level",
-        "SW",
-        "tact",
-        "Toggle",
-        "demo",
-        "HX711",
-        "Nucleo",
-        "Dieter Graef",
-        "DISCO-F746",
-        "SDFileSystem"
+        "ws2801"
     ],
     "name": "Adafruit_WS2801",
     "platforms": "*",

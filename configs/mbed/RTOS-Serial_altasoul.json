@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Tom Soulanille",
+        "url": "https://os.mbed.com/users/altasoul/"
+    },
+    "description": "An RTOS-friendly Serial interface Its primary benefit is that it never hogs the CPU. An amusing alternative to the traditional ring-bufferd interrupt-serviced systems, it uses short mbed-rtos queues to buffer ...",
+    "examples": [
+        "https://os.mbed.com/users/ValentinB/code/Test_RDM880_rfid_reader/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "rtos",
+        "Serial",
+        "UART"
+    ],
+    "name": "RTOS-Serial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/altasoul/code/RTOS-Serial/"
+    }
+}

@@ -17,7 +17,10 @@
         "https://os.mbed.com/users/okini3939/code/WeatherPlatform/"
     ],
     "frameworks": "mbed",
-    "keywords": "ConfigFile",
+    "keywords": [
+        "Config",
+        "file"
+    ],
     "name": "ConfigFile",
     "platforms": "*",
     "repository": {

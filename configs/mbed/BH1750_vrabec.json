@@ -10,15 +10,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "led",
-        "multiplexing",
-        "pwm",
-        "tlc5940",
         "BH1750",
         "digital light sensor",
-        "gy-30",
-        "I2C",
-        "IO expander"
+        "gy-30"
     ],
     "name": "BH1750",
     "platforms": "*",

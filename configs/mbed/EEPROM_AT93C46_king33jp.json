@@ -7,10 +7,7 @@
     "frameworks": "mbed",
     "keywords": [
         "AT93C46",
-        "EEPROM",
-        "DMA",
-        "large data transfer",
-        "LLI"
+        "EEPROM"
     ],
     "name": "EEPROM_AT93C46",
     "platforms": "*",

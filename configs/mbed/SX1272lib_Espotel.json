@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Espotel",
+        "url": "https://os.mbed.com/teams/Espotel/"
+    },
+    "description": "Semtech SX1272 radio chipset driver - ported based on Semtech SX1276 driver.",
+    "examples": [
+        "https://os.mbed.com/users/mleksio/code/Elmo-Terminal/",
+        "https://os.mbed.com/teams/Espotel/code/LoRaWAN-test-app/",
+        "https://os.mbed.com/teams/Espotel/code/Elmo-Terminal-App/",
+        "https://os.mbed.com/teams/Espotel/code/LoRaWAN_Semtech_stack/",
+        "https://os.mbed.com/teams/Espotel/code/LoRaWAN_ELMO_TxRx_Template/",
+        "https://os.mbed.com/teams/Espotel/code/LoRaWAN_Semtech_stack_v41/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SX1272lib",
+    "name": "SX1272lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Espotel/code/SX1272lib/"
+    }
+}

@@ -12,25 +12,7 @@
         "https://os.mbed.com/users/claytong/code/QRSS_Rx/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "card",
-        "ChaNFS",
-        "SD",
-        "Dimmer",
-        "DMX",
-        "DMX512",
-        "lighting",
-        "RDM",
-        "W5500",
-        "WIZ550IO",
-        "Wiznet",
-        "Adafruit",
-        "led",
-        "NeoPixel",
-        "rgb",
-        "Shiftbrite",
-        "EthernetNetIf"
-    ],
+    "keywords": "EthernetNetIf",
     "name": "NetServices",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "mbed Starter Kit",
+        "url": "https://os.mbed.com/teams/mbed-Starter-Kit/"
+    },
+    "description": "These programs are used in SparkFun's mbed Starter Kit tutorials for teaching users how to connect various sensors, lights, and peripherals to the mbed LPC1768.",
+    "frameworks": "mbed",
+    "keywords": "mbed Starter Kit Demo Programs",
+    "name": "mbed Starter Kit Demo Programs",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/mbed-Starter-Kit/code/mbed-Starter-Kit-Demo-Programs/"
+    }
+}

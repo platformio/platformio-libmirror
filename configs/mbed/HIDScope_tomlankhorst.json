@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "mbed official "
-            ],
+            "authors": "mbed official",
             "frameworks": "mbed",
             "name": "USBDevice"
         }
@@ -27,24 +25,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "HCSR04",
-        "ultrasonic",
-        "watchdog",
-        "L3GD20",
-        "minimu-9 v2",
         "Communication",
         "data",
         "Oscilloscope",
-        "prototype",
-        "control",
-        "RC",
-        "remote",
-        "Servo"
+        "prototype"
     ],
     "name": "HIDScope",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/tomlankhorst/code/HIDScope/"
+        "url": "https://os.mbed.com/users/tomlankhorst/code/HIDScope/"
     }
 }

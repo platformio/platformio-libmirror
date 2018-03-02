@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Minkyu Lee",
+        "url": "https://os.mbed.com/users/niklauslee/"
+    },
+    "description": "nRF51-DK test",
+    "frameworks": "mbed",
+    "keywords": "nrf51-test",
+    "name": "nrf51-test",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/niklauslee/code/nrf51-test/"
+    }
+}

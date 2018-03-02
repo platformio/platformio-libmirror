@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "APP3",
+        "url": "https://os.mbed.com/teams/APP31/"
+    },
+    "description": "Class containing functions usefull to communication between PC and Xbee device",
+    "examples": [
+        "https://os.mbed.com/teams/APP31/code/Coordinator_node/",
+        "https://os.mbed.com/teams/APP31/code/Router_node/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Zigbee_communication",
+    "name": "Zigbee_communication",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/APP31/code/Zigbee_communication/"
+    }
+}

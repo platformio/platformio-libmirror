@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "SDCR",
+        "url": "https://os.mbed.com/teams/SDCR/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Code for PID and such",
+    "frameworks": "mbed",
+    "keywords": "Black_Pearl",
+    "name": "Black_Pearl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/SDCR/code/Black_Pearl/"
+    }
+}

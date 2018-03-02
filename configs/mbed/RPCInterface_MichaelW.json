@@ -3,7 +3,14 @@
         "name": "Michael Walker",
         "url": "https://os.mbed.com/users/MichaelW/"
     },
-    "description": "Library to provide a mechanism to make it easier to add RPC to custom code by using RPCFunction and RPCVariable objects. Also includes a class to receive and process RPC over serial.",
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "mbed-rpc"
+        }
+    ],
+    "description": "Library to provide a mechanism to make it easier to add RPC to custom code by using RPCFunction and RPCVariable objects. Also includes a class to receive and process RPC ...",
     "examples": [
         "https://os.mbed.com/users/botdream/code/GSL_10-Pololu_A4983_STEPMOTORDRIVER/",
         "https://os.mbed.com/users/protodriveev/code/Protodrive/",

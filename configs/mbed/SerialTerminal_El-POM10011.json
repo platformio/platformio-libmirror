@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "El-POM1001",
+        "url": "https://os.mbed.com/teams/El-POM10011/"
+    },
+    "description": "Serial class med valgfri baudrate",
+    "examples": [
+        "https://os.mbed.com/teams/El-POM10011/code/Fancy-Terminal-Menu/",
+        "https://os.mbed.com/users/madmonkeyman82/code/Fancy-Terminal/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SerialTerminal",
+    "name": "SerialTerminal",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/El-POM10011/code/SerialTerminal/"
+    }
+}

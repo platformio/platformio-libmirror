@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "TVZ Mechatronics Team",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/"
+    },
+    "description": "Simple library for LED blinking.",
+    "examples": [
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/roam_v2/",
+        "https://os.mbed.com/users/mbotkinl/code/finalV1/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalV1/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalv2/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalv3/",
+        "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/BlinkerProgram/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "blinking",
+        "led"
+    ],
+    "name": "Blinker",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/Blinker/"
+    }
+}

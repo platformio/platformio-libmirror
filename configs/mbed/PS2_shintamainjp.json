@@ -17,22 +17,7 @@
         "https://os.mbed.com/users/tim010/code/Projekat15_pai_grupa6_tim010/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "driver",
-        "Graphics",
-        "ILI9340",
-        "LCD",
-        "SPI",
-        "TFT",
-        "asynchronous",
-        "Buffered",
-        "FIFO",
-        "Non blocking",
-        "ring buffer",
-        "Serial",
-        "UART",
-        "PS2"
-    ],
+    "keywords": "PS2",
     "name": "PS2",
     "platforms": "*",
     "repository": {

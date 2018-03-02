@@ -3,19 +3,12 @@
         "name": "Ali Saidi",
         "url": "https://os.mbed.com/users/ASaidi/"
     },
-    "description": "This library is a very low level interface to a transmit IR codes. Other libraries could be built on top of it to transmit different manufactures codes, or a specific code. I use the library to remotely trigger a Nikon DSLR camera the same way an ML3 Nikon remote does.",
+    "description": "This library is a very low level interface to a transmit IR codes. Other libraries could be built on top of it to transmit different manufactures codes, or a specific ...",
     "frameworks": "mbed",
     "keywords": [
         "infrared",
         "IR",
-        "transmit",
-        "APDS9960",
-        "avago",
-        "color",
-        "Gesture",
-        "I2C",
-        "proximity",
-        "sparkfun"
+        "transmit"
     ],
     "name": "TxIR",
     "platforms": "*",

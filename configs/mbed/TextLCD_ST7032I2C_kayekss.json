@@ -6,12 +6,9 @@
     "description": "Text console library for ST7032 text LCD controller over I2C interface.",
     "frameworks": "mbed",
     "keywords": [
-        "mbed",
         "LCD",
         "ST7032",
-        "TextLCD",
-        "GPS",
-        "RX8025"
+        "TextLCD"
     ],
     "name": "TextLCD_ST7032I2C",
     "platforms": "*",

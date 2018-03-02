@@ -3,7 +3,7 @@
         "name": "不韋 呂",
         "url": "https://os.mbed.com/users/MikamiUitOpen/"
     },
-    "description": "Class library for internal ADC and DAC connected by SPI. This library support clock generator using TIM3 for switched-capacitor filter to smooth output signal of DAC. This library includes derivative class to support interrupt occured in end of AD conversion. Validated for ST Nucleo F401RE, F411RE.",
+    "description": "Class library for internal ADC and DAC connected by SPI. This library support clock generator using TIM3 for switched-capacitor filter to smooth output signal of DAC. This library includes derivative ...",
     "examples": [
         "https://os.mbed.com/users/MikamiUitOpen/code/UITDSP_ADDA_Example/",
         "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_MovingAv_Intr/",
@@ -18,15 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DISCO_F429ZI",
-        "LCD",
-        "BSP",
-        "esc",
-        "pwm",
-        "RC",
-        "accelerometer",
-        "I2C",
-        "LIS3DH",
         "AD",
         "da",
         "MCP4921",

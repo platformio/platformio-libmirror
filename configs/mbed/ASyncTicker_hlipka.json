@@ -3,7 +3,7 @@
         "name": "Hendrik Lipka",
         "url": "https://os.mbed.com/users/hlipka/"
     },
-    "description": "an asynchronous ticker which calls methods in a regular fashion, but not from an interrupt handler. This allows the called methods to do complex and more time-consuming stuff (e.g. network requests, calculation, or printing to the serial console)",
+    "description": "an asynchronous ticker which calls methods in a regular fashion, but not from an interrupt handler. This allows the called methods to do complex and more time-consuming stuff (e.g. network ...",
     "examples": [
         "https://os.mbed.com/users/ammanvedi/code/IOT_Sockets/"
     ],

@@ -8,12 +8,7 @@
         "https://os.mbed.com/users/hollegha/code/TalkThrough/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "LPC4088QSB",
-        "MIDI",
-        "USB",
-        "AudioHL"
-    ],
+    "keywords": "AudioHL",
     "name": "TLV320HL",
     "platforms": "*",
     "repository": {

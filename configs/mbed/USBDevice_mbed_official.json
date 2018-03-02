@@ -17,7 +17,10 @@
         "https://os.mbed.com/users/samux/code/USBHID_TestCase/"
     ],
     "frameworks": "mbed",
-    "keywords": "USBDevice",
+    "keywords": [
+        "device",
+        "USB"
+    ],
     "name": "USBDevice",
     "platforms": "*",
     "repository": {

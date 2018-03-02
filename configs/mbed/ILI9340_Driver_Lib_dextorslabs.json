@@ -16,15 +16,7 @@
         "ILI9340",
         "LCD",
         "SPI",
-        "TFT",
-        "asynchronous",
-        "Buffered",
-        "FIFO",
-        "Non blocking",
-        "ring buffer",
-        "Serial",
-        "UART",
-        "PS2"
+        "TFT"
     ],
     "name": "ILI9340_Driver_Lib",
     "platforms": "*",

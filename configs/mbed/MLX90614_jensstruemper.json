@@ -9,12 +9,7 @@
         "infrared",
         "MLX90614",
         "sensor",
-        "Temperature",
-        "device",
-        "USB",
-        "GPS",
-        "K64F",
-        "Serial"
+        "Temperature"
     ],
     "name": "MLX90614",
     "platforms": "*",

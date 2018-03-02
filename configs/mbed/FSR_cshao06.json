@@ -12,24 +12,7 @@
         "https://os.mbed.com/teams/IDD-Summer-2017/code/test/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "filter",
-        "counter",
-        "interrupt",
-        "time",
-        "adc",
-        "Analog",
-        "calculate",
-        "convert",
-        "Linear",
-        "LM335",
-        "median",
-        "multiplier",
-        "offset",
-        "sensor",
-        "Temperature",
-        "voltage"
-    ],
+    "keywords": "FSR",
     "name": "FSR",
     "platforms": "*",
     "repository": {

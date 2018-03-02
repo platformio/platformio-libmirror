@@ -6,9 +6,6 @@
     "description": "Counts pulses on pin p29. Pulse frequency can be up to 48 MHz.",
     "frameworks": "mbed",
     "keywords": [
-        "pressure",
-        "sensor",
-        "xml",
         "count",
         "external clock",
         "MHz",

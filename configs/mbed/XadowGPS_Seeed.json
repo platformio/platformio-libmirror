@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Seeed",
+        "url": "https://os.mbed.com/teams/Seeed/"
+    },
+    "description": "new Xadow GPS module",
+    "examples": [
+        "https://os.mbed.com/teams/Seeed/code/xadow_smartstrap_for_pebble/",
+        "https://os.mbed.com/users/HackTampa/code/Avnet_ATT_Cellular_IOT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "XadowGPS",
+    "name": "XadowGPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Seeed/code/XadowGPS/"
+    }
+}

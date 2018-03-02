@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ds3231"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "max14661"
+        }
+    ],
+    "description": "Library for MAXREFDES72# that supports configuration of shield for different PMOD types and the DS3231 RTC",
+    "examples": [
+        "https://os.mbed.com/teams/Maxim-Integrated/code/ard2pmod_demo/",
+        "https://os.mbed.com/users/wt8008/code/max14724_hello_world/",
+        "https://os.mbed.com/users/gsteiert/code/ALS_Proximity_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ard2pmod",
+    "name": "ard2pmod",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/code/ard2pmod/"
+    }
+}

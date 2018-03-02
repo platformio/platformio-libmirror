@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/"
+    },
+    "description": "Library for DS3231 RTC",
+    "examples": [
+        "https://os.mbed.com/teams/Maxim-Integrated/code/ard2pmod/",
+        "https://os.mbed.com/teams/Maxim-Integrated/code/DS3231demo/",
+        "https://os.mbed.com/users/lloydie_p/code/DS3231demo_COM_Port_Output/",
+        "https://os.mbed.com/teams/Maxim-Integrated/code/MAXREFDES99_RTC_Display/",
+        "https://os.mbed.com/users/daw9000/code/microbit-rtc_ds3231/",
+        "https://os.mbed.com/users/shettypavank/code/sensomed/",
+        "https://os.mbed.com/users/suhasini/code/poc_dis_5_suhasini/",
+        "https://os.mbed.com/users/Nikasha/code/meteo_station/",
+        "https://os.mbed.com/teams/SenseSemi/code/Int_Demo_09May2017/",
+        "https://os.mbed.com/users/SolManB/code/saver-noenvio-1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ds3231",
+    "name": "ds3231",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/code/ds3231/"
+    }
+}

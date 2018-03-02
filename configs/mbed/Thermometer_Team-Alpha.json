@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Team Alpha",
+        "url": "https://os.mbed.com/teams/Team-Alpha/"
+    },
+    "description": "This repository is for thermometer source code only.",
+    "frameworks": "mbed",
+    "keywords": "Thermometer",
+    "name": "Thermometer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Team-Alpha/code/Thermometer/"
+    }
+}

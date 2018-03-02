@@ -10,11 +10,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "bma180",
         "polling",
         "scheduling",
-        "timing",
-        "thermistor"
+        "timing"
     ],
     "name": "Schedule",
     "platforms": "*",

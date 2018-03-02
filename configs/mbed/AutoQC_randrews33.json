@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Taylor Andrews",
+        "url": "https://os.mbed.com/users/randrews33/"
+    },
+    "description": "Interface for DX6i RC Quadcopter controller",
+    "frameworks": "mbed",
+    "keywords": [
+        "controller",
+        "dx6i",
+        "quadcopter"
+    ],
+    "name": "AutoQC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/randrews33/code/AutoQC/"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Lancaster University",
+        "url": "https://os.mbed.com/teams/Lancaster-University/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "BLE_API"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "nRF51822"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "mbed-dev-bin"
+        }
+    ],
+    "description": "mbed.org local branch of microbit-dal. The real version lives in git at https://github.com/lancaster-university/microbit-dal",
+    "examples": [
+        "https://os.mbed.com/teams/Lancaster-University/code/microbit/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "microbit-dal",
+    "name": "microbit-dal",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Lancaster-University/code/microbit-dal/"
+    }
+}

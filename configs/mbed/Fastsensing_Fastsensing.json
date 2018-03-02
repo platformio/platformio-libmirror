@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Fastsensing",
+        "url": "https://os.mbed.com/teams/Fastsensing/"
+    },
+    "description": "This library provides data update method to Fastsensing.",
+    "examples": [
+        "https://os.mbed.com/teams/Fastsensing/code/SCP1000_Fastsensing/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Fastsensing",
+        "IOT",
+        "sensing"
+    ],
+    "name": "Fastsensing",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Fastsensing/code/Fastsensing/"
+    }
+}

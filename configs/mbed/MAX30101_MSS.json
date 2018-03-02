@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "MSS",
+        "url": "https://os.mbed.com/teams/MSS/"
+    },
+    "description": "Library for MAX30101, read/write functions for registers implemented.",
+    "examples": [
+        "https://os.mbed.com/teams/MSS/code/test_MAX30101/",
+        "https://os.mbed.com/teams/MSS/code/testSensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "MAX30101",
+        "MSS",
+        "MSU"
+    ],
+    "name": "MAX30101",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MSS/code/MAX30101/"
+    }
+}

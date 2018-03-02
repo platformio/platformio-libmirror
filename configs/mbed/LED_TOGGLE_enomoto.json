@@ -5,15 +5,7 @@
     },
     "description": "LEDをtoggleします。TEST用",
     "frameworks": "mbed",
-    "keywords": [
-        "bubble",
-        "display",
-        "driver",
-        "led",
-        "qdsp-6064",
-        "segment",
-        "Seven"
-    ],
+    "keywords": "LED_TOGGLE",
     "name": "LED_TOGGLE",
     "platforms": "*",
     "repository": {

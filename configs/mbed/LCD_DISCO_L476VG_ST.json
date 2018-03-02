@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "Class to drive the LCD Glass display (GH08172T device) present on DISCO_L476VG board.",
+    "examples": [
+        "https://os.mbed.com/users/fsllll/code/DISCO_L476VG_GlassLCD/",
+        "https://os.mbed.com/users/codebreaker7/code/DISCO_L476VG_UART/",
+        "https://os.mbed.com/teams/ST/code/DISCO_L476VG_GlassLCD/",
+        "https://os.mbed.com/teams/ST/code/DISCO_L476VG_Sleep/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_L476VG",
+        "LCD"
+    ],
+    "name": "LCD_DISCO_L476VG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/LCD_DISCO_L476VG/"
+    }
+}

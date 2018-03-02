@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "IoT Morioka private",
+        "url": "https://os.mbed.com/teams/IoT-private/"
+    },
+    "description": "RTC api for C time functions based on us_ticker",
+    "frameworks": "mbed",
+    "keywords": "us_ticker_rtc",
+    "name": "us_ticker_rtc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/IoT-private/code/us_ticker_rtc/"
+    }
+}

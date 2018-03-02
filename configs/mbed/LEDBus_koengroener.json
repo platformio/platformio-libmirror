@@ -6,13 +6,11 @@
     "description": "LED bus driver on any GPIO pin for addressable RGB LEDs (like NeoPixels or other WS2812 based LEDs)",
     "frameworks": "mbed",
     "keywords": [
-        "JSON",
         "Addressable",
         "led",
         "NeoPixel",
         "rgb",
-        "WS2812",
-        "Servo"
+        "WS2812"
     ],
     "name": "LEDBus",
     "platforms": "*",

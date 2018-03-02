@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Nothing Special",
+        "url": "https://os.mbed.com/users/mega64/"
+    },
+    "description": "Modification of mbed-src library only for STM32F030F4, very cheap microcontroller in 20-Pin TSSOP package, with 16Kbytes of Flash and 4Kbytes of Ram. **Target for online compilator must be Nucleo 32F030R8.**",
+    "examples": [
+        "https://os.mbed.com/teams/Cortex-challenge-team/code/STM32F031_blink_LED_2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "STM32F030F4",
+        "STM32F030F4P6"
+    ],
+    "name": "mbed-STM32F030F4",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mega64/code/mbed-STM32F030F4/"
+    }
+}

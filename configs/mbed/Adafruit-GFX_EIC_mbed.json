@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "EIC",
+        "url": "https://os.mbed.com/teams/EIC_mbed/"
+    },
+    "description": "Adafruit-GFX porting for mbed",
+    "examples": [
+        "https://os.mbed.com/teams/EIC_mbed/code/RGB_matrix_Panel/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "led"
+    ],
+    "name": "Adafruit-GFX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/EIC_mbed/code/Adafruit-GFX/"
+    }
+}

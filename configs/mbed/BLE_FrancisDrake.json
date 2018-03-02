@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jörg Küfen",
+        "url": "https://os.mbed.com/users/FrancisDrake/"
+    },
+    "description": "Personal Test of Env",
+    "frameworks": "mbed",
+    "keywords": "BLE",
+    "name": "BLE",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/FrancisDrake/code/BLE/"
+    }
+}

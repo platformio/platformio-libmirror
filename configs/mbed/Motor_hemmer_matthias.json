@@ -5,13 +5,7 @@
     },
     "description": "for Bertl2014 HTL-Graz-Göoesting",
     "frameworks": "mbed",
-    "keywords": [
-        "I2C",
-        "MAG3110",
-        "magnetometer",
-        "buffer",
-        "ring"
-    ],
+    "keywords": "Motor",
     "name": "Motor",
     "platforms": "*",
     "repository": {

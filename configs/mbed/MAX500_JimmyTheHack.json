@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Jimmy Hack"
-            ],
+            "authors": "Jimmy Hack",
             "frameworks": "mbed",
             "name": "DAC"
         }
@@ -23,6 +21,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/JimmyTheHack/code/MAX500/"
+        "url": "https://os.mbed.com/users/JimmyTheHack/code/MAX500/"
     }
 }

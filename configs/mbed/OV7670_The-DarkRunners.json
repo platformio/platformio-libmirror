@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "The DarkRunners",
+        "url": "https://os.mbed.com/teams/The-DarkRunners/"
+    },
+    "description": "Test Acquis Cam2D",
+    "examples": [
+        "https://os.mbed.com/users/singularity/code/AcquisitionCamera2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "OV7670",
+    "name": "OV7670",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/The-DarkRunners/code/OV7670/"
+    }
+}

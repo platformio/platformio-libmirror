@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "This class drives the touch screen module (FT5336 device) of the LCD display present on DISCO_F746NG board.",
+    "examples": [
+        "https://os.mbed.com/users/JackB/code/DISCO-F746NG_LCDTS_CC3000_NTP/",
+        "https://os.mbed.com/users/capsavon/code/DISCO-F746NG_QSPI/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_SpectralAnalysis_Example/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_SpectralAnalysis_NoPhoto/",
+        "https://os.mbed.com/users/habiburrahman/code/ecte433/",
+        "https://os.mbed.com/users/kawaberi12891/code/F746_Fourier_series_of_square_wave_01/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_ButtonGroup_Demo/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_Mandelbrot/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_RealtimeSpectrumAnalyzer/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_VowelSinger/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "disco",
+        "FT5336",
+        "Touch Screen"
+    ],
+    "name": "TS_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/TS_DISCO_F746NG/"
+    }
+}

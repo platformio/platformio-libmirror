@@ -5,11 +5,7 @@
     },
     "description": "Program for generating morse code via a callback.",
     "frameworks": "mbed",
-    "keywords": [
-        "AnalogIn",
-        "DMA",
-        "Morse"
-    ],
+    "keywords": "Morse",
     "name": "MorseGenerator",
     "platforms": "*",
     "repository": {

@@ -7,21 +7,7 @@
     "frameworks": "mbed",
     "keywords": [
         "motor",
-        "Stepper",
-        "BLE",
-        "bluetooth",
-        "nRF51822",
-        "SSL",
-        "TLS",
-        "TLS1.3",
-        "wolfSSL",
-        "Digital",
-        "Input",
-        "output",
-        "pulse",
-        "SPG20-332",
-        "stepping",
-        "TA7774"
+        "Stepper"
     ],
     "name": "SimpleSteppers",
     "platforms": "*",

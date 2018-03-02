@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Stephen Wilkins",
+        "url": "https://os.mbed.com/users/swilkins8/"
+    },
+    "description": "A library for interfacing with the Pixy color recognition camera",
+    "examples": [
+        "https://os.mbed.com/users/swilkins8/code/PixyCamera/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TPixy-Interface",
+    "name": "TPixy-Interface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/swilkins8/code/TPixy-Interface/"
+    }
+}

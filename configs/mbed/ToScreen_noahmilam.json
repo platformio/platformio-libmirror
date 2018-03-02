@@ -5,17 +5,7 @@
     },
     "description": "prints to screen hello world",
     "frameworks": "mbed",
-    "keywords": [
-        "bounce",
-        "BUTTON",
-        "contact",
-        "keyboard",
-        "navigation",
-        "repeat",
-        "switch",
-        "MIDI",
-        "pwm"
-    ],
+    "keywords": "ToScreen",
     "name": "ToScreen",
     "platforms": "*",
     "repository": {

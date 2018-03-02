@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Tim Horenburg",
+        "url": "https://os.mbed.com/users/TIM_H/"
+    },
+    "description": "CAN <-> mbed",
+    "frameworks": "mbed",
+    "keywords": "CAN <-> mbed",
+    "name": "CAN <-> mbed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/TIM_H/code/CAN-mbed/"
+    }
+}

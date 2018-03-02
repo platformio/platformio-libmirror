@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Baser Kandehir",
+        "url": "https://os.mbed.com/users/BaserK/"
+    },
+    "description": "Basic led control library for the onboard LEDs on the LPC1768.",
+    "examples": [
+        "https://os.mbed.com/users/BaserK/code/modular_blinky/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "control",
+        "led",
+        "LPC1768",
+        "mbed"
+    ],
+    "name": "ledControl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BaserK/code/ledControl/"
+    }
+}

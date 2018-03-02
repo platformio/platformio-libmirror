@@ -3,17 +3,9 @@
         "name": "Robinson Lopez Monzon",
         "url": "https://os.mbed.com/users/nydus/"
     },
-    "description": "This library contains all the functions necesary to perform an application using the SRF02 sensor.",
+    "description": "This library contains all the functions necesary to perform an application using the SRF02 sensor. Esta librería contiene los métodos necesarios para poder configurar todos los parámetros del sensor SRF02.",
     "frameworks": "mbed",
-    "keywords": [
-        "blink",
-        "led",
-        "LED control",
-        "SRF02",
-        "GPS",
-        "NMEA",
-        "Venus"
-    ],
+    "keywords": "SRF02",
     "name": "SRF02",
     "platforms": "*",
     "repository": {

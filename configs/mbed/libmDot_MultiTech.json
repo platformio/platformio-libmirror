@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "description": "Library for LoRa communication using MultiTech MDOT.",
+    "examples": [
+        "https://os.mbed.com/users/mfiore/code/mDot_test_rx/",
+        "https://os.mbed.com/users/jamescmaki/code/adc_sensor_lora/",
+        "https://os.mbed.com/users/jamescmaki/code/mDotEVBM2X/",
+        "https://os.mbed.com/teams/DeepPass-LoRa/code/mDot_AT_firmware/",
+        "https://os.mbed.com/teams/MultiTech/code/libmDot_sample/",
+        "https://os.mbed.com/teams/MultiTech/code/libmDot_sleep/",
+        "https://os.mbed.com/teams/MultiTech/code/mDot_LoRa_Sleep_Example/",
+        "https://os.mbed.com/users/jepickett/code/libmDot_SparkFunMoisture/",
+        "https://os.mbed.com/users/socie123/code/thermostat_fan_demo-sensor_copy/",
+        "https://os.mbed.com/users/socie123/code/thermostat_fan_demo-sensor_battery-1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Lora",
+        "mdot",
+        "multitech"
+    ],
+    "name": "libmDot",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/libmDot/"
+    }
+}

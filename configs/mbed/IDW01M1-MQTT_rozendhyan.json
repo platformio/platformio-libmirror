@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "CHANG rozen",
+        "url": "https://os.mbed.com/users/rozendhyan/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "MQTT"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "NetworkSocketAPI"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "X_NUCLEO_IDW01M1v2"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "https://github.com/RozenAstrayChen/MQTT-IDW01M1",
+    "frameworks": "mbed",
+    "keywords": "IDW01M1-MQTT",
+    "name": "IDW01M1-MQTT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rozendhyan/code/IDW01M1-MQTT/"
+    }
+}

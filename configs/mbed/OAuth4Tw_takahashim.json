@@ -3,17 +3,12 @@
         "name": "Masayoshi Takahashi",
         "url": "https://os.mbed.com/users/takahashim/"
     },
-    "description": "OAuth library for twitter.",
+    "description": "OAuth library for twitter. Original: http://mbed.org/users/soramimi/programs/Twitter/",
     "examples": [
         "https://os.mbed.com/users/geodenx/code/OAuth4Tw/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "led",
-        "LPD8803",
-        "LPD8806",
-        "LPD8809",
-        "SPI",
         "OAuth",
         "twitter"
     ],

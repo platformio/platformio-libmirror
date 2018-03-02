@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "W5500-Ethernet-Interface Makers",
+        "url": "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/"
+    },
+    "description": "This is the Interface library for WIZnet W5500 chip which forked of EthernetInterfaceW5500, WIZnetInterface and WIZ550ioInterface. This library has simple name as \"W5500Interface\". and can be used for Wiz550io users ...",
+    "examples": [
+        "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/code/EvrythngApi/",
+        "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/code/Websocket_Ethernet_HelloWorld_W5500/",
+        "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/code/Websocket_Ethernet_W5500/",
+        "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/code/CurrentWeatherData_W5500/",
+        "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/code/HTTPServer_echoback_WIZ550io/",
+        "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/code/IBMIoTClientEthernetExample_W5500/",
+        "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/code/WIZ550io_Xively_Demo/",
+        "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/code/Websocket_Ethernet_W5500_KL25Z/",
+        "https://os.mbed.com/users/bingdo/code/frdm_Ethernet_WIZ550io/",
+        "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/code/WIZnet_PPPoE/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "W5500",
+        "WIZ550IO",
+        "Wiznet"
+    ],
+    "name": "W5500Interface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/code/W5500Interface/"
+    }
+}

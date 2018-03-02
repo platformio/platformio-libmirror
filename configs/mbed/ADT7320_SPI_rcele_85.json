@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "RCELE 85",
+        "url": "https://os.mbed.com/users/rcele_85/"
+    },
+    "description": "ADT7320 SPI High Resolution MBED Library",
+    "examples": [
+        "https://os.mbed.com/users/rcele_85/code/GRPEACH_SHM_FINAL/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ADT7320",
+        "SPI"
+    ],
+    "name": "ADT7320_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rcele_85/code/ADT7320_SPI/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Oliver Broad",
+        "url": "https://os.mbed.com/users/oliverb/"
+    },
+    "description": "ADAFRUIT GP9002 VFD Driver, requires GFX-Library",
+    "examples": [
+        "https://os.mbed.com/users/oliverb/code/GP9002adafruit/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Adafruit-GP9002-Graphic-VFD-Library",
+    "name": "Adafruit-GP9002-Graphic-VFD-Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/oliverb/code/Adafruit-GP9002-Graphic-VFD-Library/"
+    }
+}

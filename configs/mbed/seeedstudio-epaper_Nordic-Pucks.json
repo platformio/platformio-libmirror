@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Nordic Pucks",
+        "url": "https://os.mbed.com/teams/Nordic-Pucks/"
+    },
+    "description": "Library for interacting with seeedstudio epaper",
+    "examples": [
+        "https://os.mbed.com/users/cristea/code/display-puck/",
+        "https://os.mbed.com/teams/Nordic-Pucks/code/display-puck/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "seeedstudio-epaper",
+    "name": "seeedstudio-epaper",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nordic-Pucks/code/seeedstudio-epaper/"
+    }
+}

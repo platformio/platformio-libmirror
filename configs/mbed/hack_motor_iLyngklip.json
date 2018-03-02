@@ -8,18 +8,7 @@
         "https://os.mbed.com/users/iLyngklip/code/RoboticHackathon/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "clock",
-        "DS3232",
-        "I2C",
-        "RTC",
-        "time",
-        "Humidity",
-        "sensor",
-        "sure",
-        "Temperature",
-        "HEJ"
-    ],
+    "keywords": "HEJ",
     "name": "hack_motor",
     "platforms": "*",
     "repository": {

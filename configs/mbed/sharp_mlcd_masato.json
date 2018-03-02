@@ -9,14 +9,7 @@
         "https://os.mbed.com/users/rain72000/code/Sharp_Memory_LCD_Test/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "timer",
-        "watchdog",
-        "current",
-        "I2C",
-        "INA226",
-        "T.I."
-    ],
+    "keywords": "sharp_mlcd",
     "name": "sharp_mlcd",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "DCS_TEAM",
+        "url": "https://os.mbed.com/teams/DCS_TEAM/"
+    },
+    "description": "server",
+    "frameworks": "mbed",
+    "keywords": "TCP",
+    "name": "TCP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/DCS_TEAM/code/TCP/"
+    }
+}

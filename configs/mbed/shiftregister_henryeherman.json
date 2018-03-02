@@ -5,11 +5,7 @@
     },
     "description": "simple library that can be used to write to a 595 shift register array",
     "frameworks": "mbed",
-    "keywords": [
-        "LCD",
-        "Serial",
-        "sparkfun"
-    ],
+    "keywords": "shiftregister",
     "name": "shiftregister",
     "platforms": "*",
     "repository": {

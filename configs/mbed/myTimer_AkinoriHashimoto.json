@@ -3,17 +3,13 @@
         "name": "Akinori Hashimoto",
         "url": "https://os.mbed.com/users/AkinoriHashimoto/"
     },
-    "description": "Timer peripheral class.",
+    "description": "Timer peripheral class. This lib. include function ; WAIT, stop, reset, start, and read_ms.",
     "examples": [
         "https://os.mbed.com/users/AkinoriHashimoto/code/DetectFreqAboveTH/",
         "https://os.mbed.com/users/AkinoriHashimoto/code/RN41/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "GR-PEACH",
-        "R_BSP",
-        "myTimer"
-    ],
+    "keywords": "myTimer",
     "name": "myTimer",
     "platforms": "*",
     "repository": {

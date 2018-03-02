@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "This is a fork of the `events` subdirectory of https://github.com/ARMmbed/mbed-os",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/HelloWorld_CCA02M1_mbed_classic/",
+        "https://os.mbed.com/teams/ST/code/HelloWorld_CCA01M1/",
+        "https://os.mbed.com/teams/ST/code/HelloWorld_CCA02M1/",
+        "https://os.mbed.com/users/GreenBear/code/HelloWorld_CCA02M1/",
+        "https://os.mbed.com/users/thedude35/code/CI-data-logger-server/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ST_Events",
+    "name": "ST_Events",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/ST_Events/"
+    }
+}

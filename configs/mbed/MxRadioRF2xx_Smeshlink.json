@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Smeshlink",
+        "url": "https://os.mbed.com/teams/Smeshlink/"
+    },
+    "description": "A Atmel RF2xx Radio Library for Mbed",
+    "examples": [
+        "https://os.mbed.com/teams/Smeshlink/code/xBedRadio/",
+        "https://os.mbed.com/teams/Smeshlink/code/MxSniffer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MxRadioRF2xx",
+    "name": "MxRadioRF2xx",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Smeshlink/code/MxRadioRF2xx/"
+    }
+}

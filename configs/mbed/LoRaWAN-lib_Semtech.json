@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Semtech",
+        "url": "https://os.mbed.com/teams/Semtech/"
+    },
+    "description": "LoRaWAN MAC layer implementation",
+    "examples": [
+        "https://os.mbed.com/users/tmulrooney/code/LoRaWAN-demo-72_tjm/",
+        "https://os.mbed.com/users/jlcolemanmbed/code/LoRaWAN-demo-72_jlc/",
+        "https://os.mbed.com/users/Daniel_espo/code/LoRaWAN-demo-elmo/",
+        "https://os.mbed.com/users/tmulrooney/code/frdm_LoRa_Connect_Woodstream_Demo_tjm/",
+        "https://os.mbed.com/users/tmulrooney/code/frdm_LoRa_Connect_Woodstream_Demo_jlc/",
+        "https://os.mbed.com/users/dudmuck/code/LoRaWAN-demo-76_iks01a1/",
+        "https://os.mbed.com/users/dudmuck/code/LoRaWAN-demo-72_mdotIKS01A1/",
+        "https://os.mbed.com/users/helloqi/code/LoRaWAN-demo-76-LinkSprite/",
+        "https://os.mbed.com/users/SvenKbach/code/LoRaWAN-demo-72/",
+        "https://os.mbed.com/users/afeezaziz/code/GPS-Lora/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Lora",
+        "Semtech",
+        "SX1272",
+        "SX1272Lib",
+        "SX1272MB1DxS",
+        "SX1276",
+        "SX1276Lib",
+        "SX1276MB1xAS"
+    ],
+    "name": "LoRaWAN-lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Semtech/code/LoRaWAN-lib/"
+    }
+}

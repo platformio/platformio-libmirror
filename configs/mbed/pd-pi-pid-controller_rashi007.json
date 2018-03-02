@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "rashi jain",
+        "url": "https://os.mbed.com/users/rashi007/"
+    },
+    "description": "pd pi pid controller coil temperature controlling",
+    "frameworks": "mbed",
+    "keywords": "pd pi pid controller",
+    "name": "pd pi pid controller",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rashi007/code/pd-pi-pid-controller/"
+    }
+}

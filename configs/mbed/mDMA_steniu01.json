@@ -3,14 +3,12 @@
         "name": "steven niu",
         "url": "https://os.mbed.com/users/steniu01/"
     },
-    "description": "mDMA implements DMA APIs for mbed. It is inspired by modDMA and simpleDMA.",
+    "description": "mDMA implements DMA APIs for mbed. It is inspired by modDMA and simpleDMA. Compared with other mbed DMA implementations, mDMA has new features like 1) support LLI 2) support more ...",
     "examples": [
         "https://os.mbed.com/users/steniu01/code/test_mDMA/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "AT93C46",
-        "EEPROM",
         "DMA",
         "large data transfer",
         "LLI"

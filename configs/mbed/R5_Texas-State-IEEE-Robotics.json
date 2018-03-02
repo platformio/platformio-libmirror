@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Texas State IEEE",
+        "url": "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "LineSensors"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Code to run the microcontrollers on the R5 competition bot",
+    "frameworks": "mbed",
+    "keywords": "R5",
+    "name": "R5",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/code/R5/"
+    }
+}

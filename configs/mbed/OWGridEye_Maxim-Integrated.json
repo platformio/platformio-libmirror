@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/"
+    },
+    "description": "Library for MAXREFDES131 OneWire GridEYE sensor interface",
+    "examples": [
+        "https://os.mbed.com/teams/Maxim-Integrated/code/MAXREFDES131_Qt_Demo/",
+        "https://os.mbed.com/users/j3/code/MAXREFDES130_131_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "OWGridEye",
+    "name": "OWGridEye",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/code/OWGridEye/"
+    }
+}

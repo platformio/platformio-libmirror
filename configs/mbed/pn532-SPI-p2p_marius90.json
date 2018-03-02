@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Marius 90",
+        "url": "https://os.mbed.com/users/marius90/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "nxp pn532 NFC SPI initiator code, with all functions minimized and made as fast as possible (code for target is also there, you just need to change the functions in ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "NFC",
+        "p2p",
+        "PN532"
+    ],
+    "name": "pn532-SPI-p2p",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/marius90/code/pn532-SPI-p2p/"
+    }
+}

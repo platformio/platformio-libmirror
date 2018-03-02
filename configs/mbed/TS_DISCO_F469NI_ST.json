@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "This class drives the touch screen module of the LCD display present on DISCO_F469NI board.",
+    "examples": [
+        "https://os.mbed.com/users/inkiiin/code/DISCO-F469NI_LCDTS_GUI_demo/",
+        "https://os.mbed.com/teams/Configurable-Robots/code/Configurable_Robots/",
+        "https://os.mbed.com/teams/ST/code/DISCO-F469NI_LCDTS_demo/",
+        "https://os.mbed.com/users/wupinxian/code/DISCO-F469NI_LCDTS_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F469NI",
+        "LCD",
+        "Touch Screen"
+    ],
+    "name": "TS_DISCO_F469NI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/TS_DISCO_F469NI/"
+    }
+}

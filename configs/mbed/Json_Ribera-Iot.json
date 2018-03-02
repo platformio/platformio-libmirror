@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Ribera-Iot",
+        "url": "https://os.mbed.com/teams/Ribera-Iot/"
+    },
+    "description": "Contains json parsing code which can parse members as well as sub members.",
+    "frameworks": "mbed",
+    "keywords": "Json",
+    "name": "Json",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Ribera-Iot/code/Json/"
+    }
+}

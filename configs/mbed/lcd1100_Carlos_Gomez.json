@@ -5,21 +5,7 @@
     },
     "description": "Librería LCD Nokia 1100,1108",
     "frameworks": "mbed",
-    "keywords": [
-        "I2C",
-        "NeoPixel",
-        "rhb",
-        "slave",
-        "logger",
-        "syslog",
-        "syslogd",
-        "dynamixel",
-        "MX-12W",
-        "MX12",
-        "MX12W",
-        "robotis",
-        "Servo"
-    ],
+    "keywords": "lcd1100",
     "name": "lcd1100",
     "platforms": "*",
     "repository": {

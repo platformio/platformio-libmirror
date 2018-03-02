@@ -11,25 +11,7 @@
         "https://os.mbed.com/users/iv123/code/connected-lights/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "optical",
-        "Si1145",
-        "Si1146",
-        "Si1147",
-        "Si114x",
-        "uV",
-        "accelerometer",
-        "AK8975",
-        "BMA-150",
-        "compass",
-        "gyro",
-        "I2C",
-        "IMU",
-        "Inertial",
-        "ITG3200",
-        "magnetometer",
-        "one"
-    ],
+    "keywords": "ChainableLED",
     "name": "ChainableLED",
     "platforms": "*",
     "repository": {

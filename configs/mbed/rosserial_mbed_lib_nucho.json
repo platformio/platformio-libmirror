@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "nucho",
+        "url": "https://os.mbed.com/users/nucho/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                " "
+            ],
+            "framework": "mbed",
+            "name": ""
+        }
+    ],
+    "description": "This program is porting rosserial_arduino for mbed http://www.ros.org/wiki/rosserial_arduino This program supported the revision of 169 of rosserial.",
+    "examples": [
+        "https://os.mbed.com/users/nucho/code/rosserial_mbed/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ROS"
+    ],
+    "name": "rosserial_mbed_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nucho/code/rosserial_mbed_lib/"
+    }
+}

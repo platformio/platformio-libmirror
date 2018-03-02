@@ -5,11 +5,7 @@
     },
     "description": "Unipolar Stepper Motor Library",
     "frameworks": "mbed",
-    "keywords": [
-        "AHRS",
-        "navigation",
-        "sensors"
-    ],
+    "keywords": "UniStepperMotor",
     "name": "UniStepperMotor",
     "platforms": "*",
     "repository": {

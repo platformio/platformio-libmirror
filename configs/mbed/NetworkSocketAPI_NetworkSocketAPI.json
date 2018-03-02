@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "NetworkSocketAPI",
+        "url": "https://os.mbed.com/teams/NetworkSocketAPI/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "DnsQuery"
+        }
+    ],
+    "description": "Base class for IP Based Networking Libraries",
+    "examples": [
+        "https://os.mbed.com/users/kixorz/code/TempTower/",
+        "https://os.mbed.com/teams/NetworkSocketAPI/code/BSDInterfaceTests/",
+        "https://os.mbed.com/teams/NetworkSocketAPI/code/HelloBSDInterface/",
+        "https://os.mbed.com/teams/components/code/ESP8266InterfaceTests/",
+        "https://os.mbed.com/teams/NetworkSocketAPI/code/HelloLWIPInterface/",
+        "https://os.mbed.com/teams/NetworkSocketAPI/code/HelloLWIPInterfaceNonBlocking/",
+        "https://os.mbed.com/teams/NetworkSocketAPI/code/LWIPInterfaceTests/",
+        "https://os.mbed.com/teams/components/code/HelloESP8266Interface/",
+        "https://os.mbed.com/teams/NetworkSocketAPI/code/HelloC027Interface/",
+        "https://os.mbed.com/users/geky/code/SimpleHTTPExample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "api",
+        "network",
+        "NSAPI",
+        "socket"
+    ],
+    "name": "NetworkSocketAPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NetworkSocketAPI/code/NetworkSocketAPI/"
+    }
+}

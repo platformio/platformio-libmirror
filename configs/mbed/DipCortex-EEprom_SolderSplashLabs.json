@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Carl - SolderSplash Labs",
+        "url": "https://os.mbed.com/users/SolderSplashLabs/"
+    },
+    "description": "DipCortex EEprom IAP library",
+    "examples": [
+        "https://os.mbed.com/teams/Solder-Splash/code/DipCortex-USB-EEProm/",
+        "https://os.mbed.com/teams/Akafugu/code/vfd_modular_clock_mbed/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DipCortex-EEprom",
+    "name": "DipCortex-EEprom",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SolderSplashLabs/code/DipCortex-EEprom/"
+    }
+}

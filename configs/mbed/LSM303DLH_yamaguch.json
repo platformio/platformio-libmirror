@@ -9,13 +9,7 @@
         "https://os.mbed.com/users/zlmun/code/Arch_Test/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Futaba",
-        "MODSERIAL",
-        "SBUS",
-        "Serial",
-        "LSM303DLH"
-    ],
+    "keywords": "LSM303DLH",
     "name": "LSM303DLH",
     "platforms": "*",
     "repository": {

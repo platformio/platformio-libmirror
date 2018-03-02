@@ -5,16 +5,7 @@
     },
     "description": "Library for handling ILI9163 - based LCD displays.",
     "frameworks": "mbed",
-    "keywords": [
-        "ILI9163",
-        "Nucleo",
-        "STM32F446",
-        "USBDevice",
-        "actuators",
-        "commnunications",
-        "interfaces",
-        "sensors"
-    ],
+    "keywords": "ILI9163",
     "name": "ILI9163LCD",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "jetfishteam",
+        "url": "https://os.mbed.com/teams/jetfishteam/"
+    },
+    "description": "Uploading working ROS to mbed communication files",
+    "frameworks": "mbed",
+    "keywords": "mbed_serial_test",
+    "name": "mbed_serial_test",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/jetfishteam/code/mbed_serial_test/"
+    }
+}

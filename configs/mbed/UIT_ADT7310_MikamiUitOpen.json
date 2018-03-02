@@ -3,18 +3,12 @@
         "name": "不韋 呂",
         "url": "https://os.mbed.com/users/MikamiUitOpen/"
     },
-    "description": "SPI 接続の温度センサ ADT7310 用のライブラリ．",
+    "description": "SPI 接続の温度センサ ADT7310 用のライブラリ． Library for temperature sensor ADT7310 connected using SPI interface.",
     "examples": [
         "https://os.mbed.com/users/MikamiUitOpen/code/Demo_ADT7310/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "frequency",
-        "measurement",
-        "Pulsewidth",
-        "GPS",
-        "ublox",
-        "Vodafone",
         "ADT7310",
         "Nucleo",
         "SPI",

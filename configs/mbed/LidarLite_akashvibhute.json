@@ -3,6 +3,13 @@
         "name": "Akash Vibhute",
         "url": "https://os.mbed.com/users/akashvibhute/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "Library for easy interface of LidarLite with mbed using I2C",
     "examples": [
         "https://os.mbed.com/users/akashvibhute/code/LidarLite_mbed/",
@@ -10,17 +17,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "keyboard",
-        "USB",
         "LIDAR Lite",
-        "LidarLite",
-        "I2C",
-        "MCP23017",
-        "flash",
-        "logging",
-        "broadcast",
-        "multicast",
-        "UDP"
+        "LidarLite"
     ],
     "name": "LidarLite",
     "platforms": "*",

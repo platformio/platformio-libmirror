@@ -3,13 +3,9 @@
         "name": "John Magyar",
         "url": "https://os.mbed.com/users/armed/"
     },
-    "description": "Library for initializing, configuring, and acquiring data from the Atmel QT2100 device. The QT2100 is a capacitive touch controller with 10 configurable QTouch® channels, supporting up to seven buttons, and either one slider or one wheel.",
+    "description": "Library for initializing, configuring, and acquiring data from the Atmel QT2100 device. The QT2100 is a capacitive touch controller with 10 configurable QTouch® channels, supporting up to seven buttons, and ...",
     "frameworks": "mbed",
     "keywords": [
-        "24LCxx",
-        "EEPROM",
-        "display",
-        "monochrome",
         "AT42QT2100",
         "QT2100",
         "QTouch"

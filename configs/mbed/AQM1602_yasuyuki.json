@@ -12,16 +12,7 @@
         "https://os.mbed.com/teams/2014/code/CatPot_2v30_T_Main/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "malloc",
-        "memory",
-        "AQM1602",
-        "SSL",
-        "TLS",
-        "clock",
-        "ds1307",
-        "RTC"
-    ],
+    "keywords": "AQM1602",
     "name": "AQM1602",
     "platforms": "*",
     "repository": {

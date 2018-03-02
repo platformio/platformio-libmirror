@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "BE@R lab",
+        "url": "https://os.mbed.com/teams/BEaR-lab/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "motor_relay"
+        }
+    ],
+    "description": "motion control",
+    "examples": [
+        "https://os.mbed.com/teams/BEaR-lab/code/dog_V3_3_testmotor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "motion_control",
+    "name": "motion_control",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/BEaR-lab/code/motion_control/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Analog Devices",
+        "url": "https://os.mbed.com/teams/AnalogDevices/"
+    },
+    "description": "A collection of Analog Devices drivers for the mbed platform",
+    "frameworks": "mbed",
+    "keywords": [
+        "Analog Devices",
+        "drivers",
+        "mbed"
+    ],
+    "name": "mbed-drivers",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/AnalogDevices/code/mbed-drivers/"
+    }
+}

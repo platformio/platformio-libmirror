@@ -3,7 +3,7 @@
         "name": "Peter Drescher",
         "url": "https://os.mbed.com/users/dreschpe/"
     },
-    "description": "Fonts to use with the mbed Lab Board",
+    "description": "Fonts to use with the mbed Lab Board 6,7,9,12 and 24 pixel high",
     "examples": [
         "https://os.mbed.com/users/dreschpe/code/Christmas-LCD/",
         "https://os.mbed.com/users/Shadow/code/led_dimm/",
@@ -18,19 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "arduino",
-        "ExpansionBoard",
-        "HTS221",
-        "LIS3MDL",
-        "lps25h",
-        "LSM6DS0",
-        "LSM6DS3",
-        "Nucleo",
-        "X-NUCLEO-IKS01A1",
-        "I2C",
-        "OLED",
-        "SSD1308",
-        "4DGL-uLCD-SE",
         "application board",
         "LCD"
     ],

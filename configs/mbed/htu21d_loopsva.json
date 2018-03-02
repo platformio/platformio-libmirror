@@ -3,7 +3,7 @@
         "name": "Kevin Braun",
         "url": "https://os.mbed.com/users/loopsva/"
     },
-    "description": "Library for the Measurement Specialties' HTU21D Humidity and Temperature sensor. Code includes device's heater on/off control, serial number access, dew point calculations and RTOS hooks. To date, code tested on GR-PEACH, K64F and KL25Z boards with and w/o RTOS, SDFlash and USB serial Rx interrupts.",
+    "description": "Library for the Measurement Specialties' HTU21D Humidity and Temperature sensor. Code includes device's heater on/off control, serial number access, dew point calculations and RTOS hooks. To date, code tested on ...",
     "examples": [
         "https://os.mbed.com/users/oyolal/code/test_BLE_Temp/"
     ],
@@ -15,10 +15,7 @@
         "I2C",
         "K64F",
         "KL25z",
-        "Temperature",
-        "LCD",
-        "Scroll",
-        "TextLCD"
+        "Temperature"
     ],
     "name": "htu21d",
     "platforms": "*",

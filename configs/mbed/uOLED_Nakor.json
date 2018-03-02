@@ -3,7 +3,7 @@
         "name": "Aaron Goselin",
         "url": "https://os.mbed.com/users/Nakor/"
     },
-    "description": "Heavily documented control library for the uOLED-96-G1 (SGC) by 4D Systems. Will likely work with any of the 4D Systems serial controlled screens.",
+    "description": "Heavily documented control library for the uOLED-96-G1 (SGC) by 4D Systems. Will likely work with any of the 4D Systems serial controlled screens. <<info>> All examples in the documentation have ...",
     "examples": [
         "https://os.mbed.com/users/Renato/code/DS18B20/",
         "https://os.mbed.com/users/Renato/code/DS18B20GSM/",
@@ -12,24 +12,13 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "distance",
-        "HCSR04",
-        "sensor",
         "4D",
         "96",
         "inch",
         "LCD",
         "micro",
         "OLED",
-        "uOLED",
-        "DS18B20",
-        "DS2450",
-        "MAX31850",
-        "Thermocouple",
-        "current",
-        "I2C",
-        "INA219",
-        "T.I."
+        "uOLED"
     ],
     "name": "uOLED",
     "platforms": "*",

@@ -5,12 +5,7 @@
     },
     "description": "7-Segment Display Driver class, via an 8-bit shift register (such as the 74HC595)",
     "frameworks": "mbed",
-    "keywords": [
-        "JSON",
-        "LPC11U24",
-        "LPC1768",
-        "WDT"
-    ],
+    "keywords": "7SegSRDriver",
     "name": "7SegSRDriver",
     "platforms": "*",
     "repository": {

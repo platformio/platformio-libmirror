@@ -8,11 +8,7 @@
         "https://os.mbed.com/users/kim1212/code/SensorManager/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "ACM1602NI",
-        "I2C",
-        "LCD"
-    ],
+    "keywords": "BMX055",
     "name": "BMX055",
     "platforms": "*",
     "repository": {

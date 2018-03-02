@@ -11,17 +11,7 @@
         "https://os.mbed.com/users/villeah/code/IR_temperature/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "External SD",
-        "file system",
-        "SDHC",
-        "SPI",
-        "AppNearMe",
-        "NFC",
-        "fatfilesystem",
-        "LocalFileSystem",
-        "USBMSD"
-    ],
+    "keywords": "adc",
     "name": "adc",
     "platforms": "*",
     "repository": {

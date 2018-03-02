@@ -5,12 +5,7 @@
     },
     "description": "i2s tester",
     "frameworks": "mbed",
-    "keywords": [
-        "adc",
-        "AnalogIn",
-        "burst",
-        "fast"
-    ],
+    "keywords": "I2S_Test",
     "name": "I2S_Test",
     "platforms": "*",
     "repository": {

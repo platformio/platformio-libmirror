@@ -9,10 +9,7 @@
         "CGRAM",
         "CLCD",
         "custom",
-        "TextLCD",
-        "compass",
-        "HMC5883L",
-        "magnetometer"
+        "TextLCD"
     ],
     "name": "TextLCD_CGRAM",
     "platforms": "*",

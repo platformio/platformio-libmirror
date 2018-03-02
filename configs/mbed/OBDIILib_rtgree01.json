@@ -8,15 +8,7 @@
         "https://os.mbed.com/users/rtgree01/code/DodgeRadioEmulatorv30/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "device",
-        "USB",
-        "Freescale",
-        "FXAS21002CQ",
-        "Giroscope",
-        "Adafruit",
-        "PCA9685"
-    ],
+    "keywords": "OBDIILib",
     "name": "OBDIILib",
     "platforms": "*",
     "repository": {

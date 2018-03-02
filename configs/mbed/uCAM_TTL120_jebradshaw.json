@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Andy Kirkham"
-            ],
+            "authors": "Andy Kirkham",
             "frameworks": "mbed",
             "name": "MODSERIAL"
         }
@@ -18,24 +16,15 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "http",
-        "proxy",
         "camera",
         "JPEG",
         "OV528",
-        "uCAM TTL120",
-        "debug",
-        "SPI",
-        "control",
-        "interrupt",
-        "motor",
-        "pwm",
-        "ramps"
+        "uCAM TTL120"
     ],
     "name": "uCAM_TTL120",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/jebradshaw/code/uCAM_TTL120/"
+        "url": "https://os.mbed.com/users/jebradshaw/code/uCAM_TTL120/"
     }
 }

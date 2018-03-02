@@ -3,7 +3,7 @@
         "name": "mi mi",
         "url": "https://os.mbed.com/users/mimi3/"
     },
-    "description": "For Cortex-M3,Cortex-M0, Multitask scheduler library.",
+    "description": "For Cortex-M3,Cortex-M0, Multitask scheduler library. Arduino due compatible",
     "examples": [
         "https://os.mbed.com/users/mimi3/code/scheduler-demo-cq-lpc11u35/",
         "https://os.mbed.com/users/mimi3/code/scheduler-demo/",
@@ -12,20 +12,11 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "Humidity",
-        "Sensirion",
-        "SHT7x",
-        "Temperature",
         "arduino",
         "compatible",
         "due",
         "multitasking",
-        "Scheduler",
-        "Analog",
-        "dipsw",
-        "Input",
-        "SW",
-        "tactsw"
+        "Scheduler"
     ],
     "name": "Scheduler",
     "platforms": "*",

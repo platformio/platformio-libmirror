@@ -5,14 +5,7 @@
     },
     "description": "This library is an attempt to encapsulate the Pololu motor board.",
     "frameworks": "mbed",
-    "keywords": [
-        "consumption",
-        "control",
-        "ethernet",
-        "Management",
-        "Power",
-        "PowerControl"
-    ],
+    "keywords": "PololuMotorBoard",
     "name": "PololuMotorBoard",
     "platforms": "*",
     "repository": {

@@ -8,14 +8,7 @@
         "https://os.mbed.com/users/kalyan/code/ledblink/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "EFM32",
-        "Gecko",
-        "SegmentLCD",
-        "SiLabs",
-        "Silicon Labs",
-        "silicon_labs"
-    ],
+    "keywords": "led",
     "name": "led",
     "platforms": "*",
     "repository": {

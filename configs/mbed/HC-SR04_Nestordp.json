@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Nestor Pereira-Neto",
+        "url": "https://os.mbed.com/users/Nestordp/"
+    },
+    "description": "Biblioteca para uso do ultrassom HC-SR04",
+    "examples": [
+        "https://os.mbed.com/users/Nestordp/code/Sonar-HC-SR04/",
+        "https://os.mbed.com/users/Nestordp/code/CarrinhoLabirinto/",
+        "https://os.mbed.com/users/Amber77/code/Nucleo_Us_ticker_20160803/",
+        "https://os.mbed.com/users/diego1332/code/ProjetoSO/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HCSR04",
+        "ultrasonic"
+    ],
+    "name": "HC-SR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Nestordp/code/HC-SR04/"
+    }
+}

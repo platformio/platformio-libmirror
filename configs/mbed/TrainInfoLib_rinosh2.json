@@ -9,15 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "buffer",
-        "circular",
-        "ring",
         "delay",
         "information",
-        "NextTrain",
-        "array",
-        "Dynamic",
-        "typeless"
+        "NextTrain"
     ],
     "name": "TrainInfoLib",
     "platforms": "*",

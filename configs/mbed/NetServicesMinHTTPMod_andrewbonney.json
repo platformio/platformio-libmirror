@@ -5,14 +5,7 @@
     },
     "description": "Copy of NetServicesMin with the HTTP Client library. Includes modification for HTTP servers which send the HTTP status line in its own packet.",
     "frameworks": "mbed",
-    "keywords": [
-        "accelerometer",
-        "bma180",
-        "Electrical",
-        "Field",
-        "Gesture",
-        "MGC3130"
-    ],
+    "keywords": "NetServicesMinHTTPMod",
     "name": "NetServicesMinHTTPMod",
     "platforms": "*",
     "repository": {

@@ -3,7 +3,7 @@
         "name": "mimil owns",
         "url": "https://os.mbed.com/users/mimil/"
     },
-    "description": "JSON library for parser and serializer",
+    "description": "JSON library for parser and serializer picojson is a header-file-only, JSON parser serializer in C++. The original source code is available at https://github.com/kazuho/picojson You can parse a JSON string using ...",
     "examples": [
         "https://os.mbed.com/users/mimil/code/PicoJSONSample/",
         "https://os.mbed.com/users/mimil/code/SenseClientSample/",
@@ -17,26 +17,7 @@
         "https://os.mbed.com/teams/PubNub/code/PubNubDemo/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "JSON",
-        "buffer",
-        "BufferedSerial",
-        "BufferSerial",
-        "Serial",
-        "SoftSerial",
-        "software",
-        "f401",
-        "internal",
-        "mbed",
-        "Nucleo",
-        "Temperature",
-        "FAT",
-        "file",
-        "Filenames",
-        "fixes",
-        "Long",
-        "System"
-    ],
+    "keywords": "JSON",
     "name": "picojson",
     "platforms": "*",
     "repository": {

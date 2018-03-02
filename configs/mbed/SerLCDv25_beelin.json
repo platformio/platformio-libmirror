@@ -7,10 +7,7 @@
     "frameworks": "mbed",
     "keywords": [
         "LCD",
-        "Serial",
-        "Serializer",
-        "AT",
-        "parser"
+        "Serial"
     ],
     "name": "SerLCDv25",
     "platforms": "*",

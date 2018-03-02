@@ -5,7 +5,9 @@
     },
     "description": "HR and RR measurement",
     "frameworks": "mbed",
-    "keywords": "timer",
+    "keywords": [
+        "HRandRR"
+    ],
     "name": "HRandRR",
     "platforms": "*",
     "repository": {

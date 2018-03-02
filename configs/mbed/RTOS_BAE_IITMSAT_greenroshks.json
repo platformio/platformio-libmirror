@@ -3,20 +3,21 @@
         "name": "green rosh",
         "url": "https://os.mbed.com/users/greenroshks/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "Rtos code for BAE microcontroller, IITMSAT",
     "frameworks": "mbed",
-    "keywords": [
-        "impulses",
-        "LPC1768",
-        "motor",
-        "n",
-        "number",
-        "of",
-        "programing",
-        "pwm",
-        "registry",
-        "Stepper"
-    ],
+    "keywords": "RTOS_BAE_IITMSAT",
     "name": "RTOS_BAE_IITMSAT",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "HTTPClient-SSL"
+        }
+    ],
+    "description": "Socket library for MTS Socket Modem Arduino Shield devices from Multi-Tech Systems",
+    "examples": [
+        "https://os.mbed.com/teams/MultiTech/code/mtsas/",
+        "https://os.mbed.com/users/jfanucch/code/mtsas/",
+        "https://os.mbed.com/users/dabraham/code/mtsas/",
+        "https://os.mbed.com/users/pferland/code/mtsas_lat3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "TCP",
+        "UDP"
+    ],
+    "name": "MTS-Socket",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/MTS-Socket/"
+    }
+}

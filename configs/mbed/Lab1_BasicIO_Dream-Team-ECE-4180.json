@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Dream Team",
+        "url": "https://os.mbed.com/teams/Dream-Team-ECE-4180/"
+    },
+    "dependencies": [
+        {
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
+            "name": "DebounceIn"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
+            "name": "PinDetect"
+        }
+    ],
+    "description": "Lab that has to do with basic IO on mbed.",
+    "frameworks": "mbed",
+    "keywords": "Lab1_BasicIO",
+    "name": "Lab1_BasicIO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Dream-Team-ECE-4180/code/Lab1_BasicIO/"
+    }
+}

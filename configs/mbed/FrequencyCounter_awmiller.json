@@ -5,18 +5,7 @@
     },
     "description": "counts digital frequency based on interrupt and timer, triggers on rising edge",
     "frameworks": "mbed",
-    "keywords": [
-        "HSI",
-        "pwm",
-        "rgb",
-        "RGBW",
-        "Fibocom",
-        "GPS",
-        "GPS Module",
-        "GTS-4e-60",
-        "NMEA",
-        "NMEA Parser"
-    ],
+    "keywords": "FrequencyCounter",
     "name": "FrequencyCounter",
     "platforms": "*",
     "repository": {

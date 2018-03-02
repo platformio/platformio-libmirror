@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "DSP Book Yeditepe",
+        "url": "https://os.mbed.com/teams/DSP-Book-Yeditepe/"
+    },
+    "description": "mbed library sources with internal temperature sensor for nucleo f401",
+    "frameworks": "mbed",
+    "keywords": [
+        "f401",
+        "internal",
+        "mbed",
+        "Nucleo",
+        "Temperature"
+    ],
+    "name": "mbed_f401re",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/DSP-Book-Yeditepe/code/mbed_f401re/"
+    }
+}

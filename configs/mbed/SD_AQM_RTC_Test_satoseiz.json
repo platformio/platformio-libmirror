@@ -5,23 +5,23 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "sato sei"
-            ],
+            "authors": "sato sei",
             "frameworks": "mbed",
             "name": "SDFileSystem"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
         }
     ],
     "description": "SD_AQM_RTC_Test",
     "frameworks": "mbed",
-    "keywords": [
-        "accelerometer",
-        "ADXL345"
-    ],
+    "keywords": "SD_AQM_RTC_Test",
     "name": "SD_AQM_RTC_Test",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/satoseiz/code/SD_AQM_RTC_Test/"
+        "url": "https://os.mbed.com/users/satoseiz/code/SD_AQM_RTC_Test/"
     }
 }

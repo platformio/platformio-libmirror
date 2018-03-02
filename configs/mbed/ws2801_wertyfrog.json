@@ -3,7 +3,7 @@
         "name": "Thomas Olsson",
         "url": "https://os.mbed.com/users/wertyfrog/"
     },
-    "description": "Library for controlling LED strips or arrays based on the WS2801",
+    "description": "Library for controlling LED strips or arrays based on the WS2801 3-Channel Constant Current LED Driver, like the SF 32LED/m addressable LED strip. Any two digital out capable pins can ...",
     "examples": [
         "https://os.mbed.com/users/AlanRager/code/ws2801_controller/"
     ],
@@ -14,13 +14,7 @@
         "rgb",
         "sparkfun",
         "strip",
-        "ws2801",
-        "IR",
-        "Receiver",
-        "Beep",
-        "sound",
-        "tone",
-        "joystick"
+        "ws2801"
     ],
     "name": "ws2801",
     "platforms": "*",

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "raspiezo",
+        "url": "https://os.mbed.com/teams/raspiezo/"
+    },
+    "description": "Quadrature encoder on Nucleo STM32L432KC.",
+    "frameworks": "mbed",
+    "keywords": "Quadrature_encoder_on_STM32L432KC",
+    "name": "Quadrature_encoder_on_STM32L432KC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/raspiezo/code/Quadrature_encoder_on_STM32L432KC/"
+    }
+}

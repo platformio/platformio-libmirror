@@ -3,7 +3,7 @@
         "name": "Tadao Iida",
         "url": "https://os.mbed.com/users/sunifu/"
     },
-    "description": "EthernetInｔerface Libraryを使ったSimpleな SMTP ClientLibraryです．",
+    "description": "EthernetInｔerface Libraryを使ったSimpleな SMTP ClientLibraryです． LOGIN認証を追加しました．(2014.4 Update) It is SMTPClient Library which is Simple using EthernetInterface Library.",
     "examples": [
         "https://os.mbed.com/users/sunifu/code/SimpleSMTPClient_HelloWorld/",
         "https://os.mbed.com/users/nagarajbatta/code/USBHost-MSD_Sensors_1/",
@@ -16,19 +16,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "api",
-        "mode",
-        "xbee",
-        "zigbee",
-        "ESP-01",
-        "ESP8266",
         "email",
-        "SMTP",
-        "finder",
-        "range",
-        "ultrasound",
-        "adc",
-        "SPI"
+        "SMTP"
     ],
     "name": "SimpleSMTPClient",
     "platforms": "*",

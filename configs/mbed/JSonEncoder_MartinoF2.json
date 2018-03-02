@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Martino Ferrari",
+        "url": "https://os.mbed.com/users/MartinoF2/"
+    },
+    "description": "Simple C++ JSonEncode",
+    "frameworks": "mbed",
+    "keywords": "JSonEncoder",
+    "name": "JSonEncoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MartinoF2/code/JSonEncoder/"
+    }
+}

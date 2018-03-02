@@ -1,0 +1,47 @@
+{
+    "authors": {
+        "name": "Renesas",
+        "url": "https://os.mbed.com/teams/Renesas/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "AsciiFont"
+        },
+        {
+            "authors": "Daiki Kato",
+            "frameworks": "mbed",
+            "name": "DisplayApp"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "GR-PEACH_video"
+        },
+        {
+            "authors": "Daiki Kato",
+            "frameworks": "mbed",
+            "name": "LCD_shield_config"
+        },
+        {
+            "authors": "Daiki Kato",
+            "frameworks": "mbed",
+            "name": "LWIPBP3595Interface_STA_for_mbed-os"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "USBDevice"
+        }
+    ],
+    "description": "Sample program showing how to connect GR-PEACH into Watson IoT through mbed Connector and Watson's Connector Bridge",
+    "frameworks": "mbed",
+    "keywords": "mbed-os_Watson-IoT_ZXing_sample",
+    "name": "mbed-os_Watson-IoT_ZXing_sample",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Renesas/code/mbed-os_Watson-IoT_ZXing_sample/"
+    }
+}

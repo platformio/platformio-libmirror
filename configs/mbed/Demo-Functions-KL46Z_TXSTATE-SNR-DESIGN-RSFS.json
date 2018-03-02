@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "TXSTATE SNR DESIGN - RSFS",
+        "url": "https://os.mbed.com/teams/TXSTATE-SNR-DESIGN-RSFS/"
+    },
+    "description": "testing different functions of kl46z board",
+    "frameworks": "mbed",
+    "keywords": "Demo Functions - KL46Z",
+    "name": "Demo Functions - KL46Z",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/TXSTATE-SNR-DESIGN-RSFS/code/Demo-Functions-KL46Z/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "description": "SPI driver for M25P* flash devices.",
+    "examples": [
+        "https://os.mbed.com/teams/MultiTech/code/flash-fs-example/",
+        "https://os.mbed.com/teams/MultiTech/code/Dragonfly_Filesystem_Example/",
+        "https://os.mbed.com/teams/MultiTech/code/Dragonfly_Low_Power_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "flash",
+        "SPI"
+    ],
+    "name": "SpiFlash25",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/SpiFlash25/"
+    }
+}

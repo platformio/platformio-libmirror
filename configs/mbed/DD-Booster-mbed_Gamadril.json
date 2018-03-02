@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Daniel Wiese",
+        "url": "https://os.mbed.com/users/Gamadril/"
+    },
+    "description": "This is a library for the DIGI-DOT-BOOSTER which can control LED stripes using the single wire protocol - ws2812 and compatible as well as RGBW LEDs like SK6812. Detailed information ...",
+    "examples": [
+        "https://os.mbed.com/users/Gamadril/code/DD-Booster-waterdrop/",
+        "https://os.mbed.com/users/Gamadril/code/BLE_DD-Booster/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DD-Booster-mbed",
+    "name": "DD-Booster-mbed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Gamadril/code/DD-Booster-mbed/"
+    }
+}

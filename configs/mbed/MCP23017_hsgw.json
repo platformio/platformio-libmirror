@@ -6,17 +6,8 @@
     "description": "Simple MCP23017 I2C 16bit IO expander IC",
     "frameworks": "mbed",
     "keywords": [
-        "keyboard",
-        "USB",
-        "LIDAR Lite",
-        "LidarLite",
         "I2C",
-        "MCP23017",
-        "flash",
-        "logging",
-        "broadcast",
-        "multicast",
-        "UDP"
+        "MCP23017"
     ],
     "name": "MCP23017",
     "platforms": "*",

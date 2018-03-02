@@ -10,15 +10,7 @@
     "frameworks": "mbed",
     "keywords": [
         "PDM",
-        "Pulse Density Modulation",
-        "I2C",
-        "PCF8583",
-        "RTC",
-        "parallax",
-        "PING",
-        "ping)))",
-        "sensor",
-        "ultrasonic"
+        "Pulse Density Modulation"
     ],
     "name": "SoftPdmOut",
     "platforms": "*",

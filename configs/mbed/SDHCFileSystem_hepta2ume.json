@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "mbed unsupported"
-            ],
+            "authors": "mbed unsupported",
             "frameworks": "mbed",
             "name": "FatFileSystem"
         }
@@ -20,20 +18,11 @@
         "https://os.mbed.com/users/umeume/code/HEPTA/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "accelerometer",
-        "gyroscope",
-        "IMU",
-        "STM32F0",
-        "Grove",
-        "RFID",
-        "SEN11425P",
-        "Serial"
-    ],
+    "keywords": "SDHCFileSystem",
     "name": "SDHCFileSystem",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/hepta2ume/code/SDHCFileSystem/"
+        "url": "https://os.mbed.com/users/hepta2ume/code/SDHCFileSystem/"
     }
 }

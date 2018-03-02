@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "mbed official "
-            ],
+            "authors": "mbed official",
             "frameworks": "mbed",
             "name": "FATFileSystem"
         }
@@ -26,18 +24,11 @@
         "https://os.mbed.com/users/embeddedartists/code/app_lcdboard_demo_picture/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "LPC4088",
-        "Lora",
-        "Semtech",
-        "SX1276",
-        "SX1276Lib",
-        "SX1276MB1xAS"
-    ],
+    "keywords": "LPC4088",
     "name": "EALib",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/embeddedartists/code/EALib/"
+        "url": "https://os.mbed.com/users/embeddedartists/code/EALib/"
     }
 }

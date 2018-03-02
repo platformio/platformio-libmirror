@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "USN Robotics",
+        "url": "https://os.mbed.com/teams/USN-Robotics/"
+    },
+    "description": "Ultrasonic sensor for Robot",
+    "examples": [
+        "https://os.mbed.com/teams/USN-Robotics/code/Robot/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Ulrasonic",
+    "name": "Ulrasonic",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/USN-Robotics/code/Ulrasonic/"
+    }
+}

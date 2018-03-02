@@ -3,11 +3,9 @@
         "name": "Mateusz Grzywacz",
         "url": "https://os.mbed.com/users/amateusz/"
     },
-    "description": "7-segment display with shift register. Common anode/cathode, any (eh, sort of) number of digits. Kind of framebuffer.",
+    "description": "7-segment display with shift register. Common anode/cathode, any (eh, sort of) number of digits. Kind of framebuffer. Display has to be connected thru shift register, e.g. 4094. More details and ...",
     "frameworks": "mbed",
     "keywords": [
-        "I2C",
-        "led cube",
         "4094",
         "7segm",
         "display",

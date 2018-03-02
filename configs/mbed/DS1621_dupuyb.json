@@ -5,12 +5,7 @@
     },
     "description": "Simple DS1621 temperature acquisition.",
     "frameworks": "mbed",
-    "keywords": [
-        "numchuck",
-        "nunchuck",
-        "Nunchuk",
-        "Wii"
-    ],
+    "keywords": "DS1621",
     "name": "DS1621",
     "platforms": "*",
     "repository": {

@@ -8,18 +8,7 @@
         "https://os.mbed.com/users/Digitalesavanzados/code/GloboMetereologico/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "buffer",
-        "FIFO",
-        "ring buffer",
-        "Serial",
-        "card",
-        "fatfilesystem",
-        "MMC",
-        "SD",
-        "SDHC",
-        "SDXC"
-    ],
+    "keywords": "ADC",
     "name": "ADC",
     "platforms": "*",
     "repository": {

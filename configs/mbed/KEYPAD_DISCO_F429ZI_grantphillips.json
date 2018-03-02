@@ -9,11 +9,7 @@
         "https://os.mbed.com/users/mozillain/code/WIRE-BANDING_copy/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "LocalFileSystem",
-        "S25FL216K",
-        "USBFileSystem"
-    ],
+    "keywords": "KEYPAD_DISCO_F429ZI",
     "name": "KEYPAD_DISCO_F429ZI",
     "platforms": "*",
     "repository": {

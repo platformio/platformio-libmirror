@@ -12,13 +12,7 @@
         "ARM",
         "DAY",
         "heartbeat",
-        "RIT",
-        "hang",
-        "I2C",
-        "KL25z",
-        "lockup",
-        "ethernet",
-        "NTP"
+        "RIT"
     ],
     "name": "HeartBeat",
     "platforms": "*",

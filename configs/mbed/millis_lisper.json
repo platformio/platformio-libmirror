@@ -11,16 +11,7 @@
         "https://os.mbed.com/users/AfdhalAtiffTan/code/FoodComputerARM-alpha/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "accelerometer",
-        "gyroscope",
-        "IMU",
-        "STM32F0",
-        "Grove",
-        "RFID",
-        "SEN11425P",
-        "Serial"
-    ],
+    "keywords": "millis",
     "name": "millis",
     "platforms": "*",
     "repository": {

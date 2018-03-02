@@ -3,7 +3,7 @@
         "name": "Dan Cohen",
         "url": "https://os.mbed.com/users/danielashercohen/"
     },
-    "description": "This library drives the Seeed 96x96 OLED display. It is a port of the example library that Seeed provide (also called SeeedGreyOLED). This display uses the SSD1327 part which is slightly unusual.",
+    "description": "This library drives the Seeed 96x96 OLED display. It is a port of the example library that Seeed provide (also called SeeedGreyOLED). This display uses the SSD1327 part which is ...",
     "examples": [
         "https://os.mbed.com/users/danielashercohen/code/seeed_arch_pro_oled/",
         "https://os.mbed.com/users/danielashercohen/code/ethernet_arch_pro/",
@@ -17,13 +17,7 @@
         "OLED",
         "Seeed",
         "SeeedGrayOLED",
-        "ssd1327",
-        "DC",
-        "motor",
-        "PM motor",
-        "bluetooth",
-        "bt",
-        "rtos"
+        "ssd1327"
     ],
     "name": "SeeedGrayOLED",
     "platforms": "*",

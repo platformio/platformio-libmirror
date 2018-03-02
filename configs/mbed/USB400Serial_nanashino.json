@@ -10,13 +10,7 @@
         "https://os.mbed.com/users/ytsuboi/code/USB400J_app_board_demo/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "keypad",
-        "RA8875",
-        "Touchscreen",
-        "Battery Monitor",
-        "LTC2990"
-    ],
+    "keywords": "USB400Serial",
     "name": "USB400Serial",
     "platforms": "*",
     "repository": {

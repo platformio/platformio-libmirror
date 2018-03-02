@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "MSS",
+        "url": "https://os.mbed.com/teams/MSS/"
+    },
+    "description": "MMA8452Q I2C library Note: The I2C address is expected to be 7bit address unlike other I2C lib in mbed.",
+    "examples": [
+        "https://os.mbed.com/teams/MSS/code/test_MMA8452Q/",
+        "https://os.mbed.com/teams/team-app11/code/HelloWorld/",
+        "https://os.mbed.com/teams/MSS/code/testSensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "I2C",
+        "MMA8452Q"
+    ],
+    "name": "MMA8452Q",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MSS/code/MMA8452Q/"
+    }
+}

@@ -11,10 +11,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "DDNS",
         "aconno",
-        "I2C",
-        "BLE"
+        "I2C"
     ],
     "name": "aconno_I2C",
     "platforms": "*",

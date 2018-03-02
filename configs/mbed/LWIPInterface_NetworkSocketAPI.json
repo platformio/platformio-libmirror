@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "NetworkSocketAPI",
+        "url": "https://os.mbed.com/teams/NetworkSocketAPI/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "lwip-eth"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "lwip-sys"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "lwip"
+        }
+    ],
+    "description": "Implementation of the NetworkSocketAPI for LWIP",
+    "examples": [
+        "https://os.mbed.com/teams/NetworkSocketAPI/code/HelloLWIPInterface/",
+        "https://os.mbed.com/teams/NetworkSocketAPI/code/HelloLWIPInterfaceNonBlocking/",
+        "https://os.mbed.com/teams/NetworkSocketAPI/code/LWIPInterfaceTests/",
+        "https://os.mbed.com/users/geky/code/SimpleHTTPExample/",
+        "https://os.mbed.com/teams/ROHM-Developers/code/HelloLWIPBP3595Interface/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LWIPInterface",
+    "name": "LWIPInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NetworkSocketAPI/code/LWIPInterface/"
+    }
+}

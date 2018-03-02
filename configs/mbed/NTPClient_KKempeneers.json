@@ -12,17 +12,7 @@
         "https://os.mbed.com/users/AzureIoTClient/code/simplesample_mqtt/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "External SD",
-        "file system",
-        "SDHC",
-        "SPI",
-        "AppNearMe",
-        "NFC",
-        "fatfilesystem",
-        "LocalFileSystem",
-        "USBMSD"
-    ],
+    "keywords": "NTPClient",
     "name": "NTPClient",
     "platforms": "*",
     "repository": {

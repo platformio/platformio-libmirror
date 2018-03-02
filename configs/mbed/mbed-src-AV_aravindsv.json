@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Aravind Vadali",
+        "url": "https://os.mbed.com/users/aravindsv/"
+    },
+    "description": "mbed.h library with any bug fixes AV finds.",
+    "examples": [
+        "https://os.mbed.com/teams/MicroMouse/code/micromouse4_encoder_testing/",
+        "https://os.mbed.com/users/mochaMan/code/PID_Test/",
+        "https://os.mbed.com/teams/2015-2016_Mouserat/code/Lab1_Test/",
+        "https://os.mbed.com/teams/2015-2016_Mouserat/code/WorkingPID/",
+        "https://os.mbed.com/teams/2015-2016_Mouserat/code/Test/",
+        "https://os.mbed.com/teams/2015-2016_Mouserat/code/Restructured_Test/",
+        "https://os.mbed.com/users/ajboddu/code/CurrentMicrmouse/",
+        "https://os.mbed.com/users/fsllll/code/DISCO_L476VG_GlassLCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "IEEE",
+        "mbed",
+        "micromouse",
+        "UCLA"
+    ],
+    "name": "mbed-src-AV",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aravindsv/code/mbed-src-AV/"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "ISR UC",
+        "url": "https://os.mbed.com/users/ISR/"
+    },
+    "dependencies": [
+        {
+            "authors": "Akash Vibhute",
+            "frameworks": "mbed",
+            "name": "RF24"
+        }
+    ],
+    "description": "Energy harvesting mobile robot. Developed at Institute of Systems and Robotics — University of Coimbra.",
+    "examples": [
+        "https://os.mbed.com/users/AurelienBernier/code/Mapping/",
+        "https://os.mbed.com/users/geotsam/code/VirtualForces_debug/",
+        "https://os.mbed.com/users/geotsam/code/OneFileToRuleThemAll/",
+        "https://os.mbed.com/users/Ludwigfr/code/VirtualForces_with_class/",
+        "https://os.mbed.com/users/Ludwigfr/code/roboticLab_withclass/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "energy harvesting",
+        "mobile robot"
+    ],
+    "name": "ISR_Mini-explorer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ISR/code/ISR_Mini-explorer/"
+    }
+}

@@ -3,7 +3,7 @@
         "name": "Benoît Locher",
         "url": "https://os.mbed.com/users/Benoit/"
     },
-    "description": "Rewrite from scratch a TCP/IP stack for mbed. So far the following parts are usable:",
+    "description": "Rewrite from scratch a TCP/IP stack for mbed. So far the following parts are usable: Drivers: - EMAC driver (from CMSIS 2.0) Protocols: - Ethernet protocol - ARP over ethernet ...",
     "frameworks": "mbed",
     "keywords": [
         "arp",
@@ -11,19 +11,7 @@
         "interrupts",
         "stack",
         "tcpip",
-        "UDP",
-        "ADXL345",
-        "AHRS",
-        "ANGLE",
-        "bmp085",
-        "HMC5883",
-        "IMU",
-        "l3g4200d",
-        "sensor",
-        "5110",
-        "84x48",
-        "display",
-        "Nokia"
+        "UDP"
     ],
     "name": "mbedNet",
     "platforms": "*",

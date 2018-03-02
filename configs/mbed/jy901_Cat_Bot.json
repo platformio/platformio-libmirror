@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Cat_Bot",
+        "url": "https://os.mbed.com/teams/Cat_Bot/"
+    },
+    "description": "Can measure acceleration, angular Velocity, magnetic and Angle.",
+    "examples": [
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/NHK2017_octopus/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "JY901",
+    "name": "jy901",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Cat_Bot/code/jy901/"
+    }
+}

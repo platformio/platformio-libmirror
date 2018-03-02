@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Xsens",
+        "url": "https://os.mbed.com/teams/Xsens/"
+    },
+    "description": "Basic implementation of Xbus message parsing and generation for embedded processors. The code has no dependencies and should also work for other MCU architectures than ARM provided a C99 compiler ...",
+    "examples": [
+        "https://os.mbed.com/teams/Fairchild-Semiconductor/code/FMT1000_example/",
+        "https://os.mbed.com/teams/Xsens/code/MTi-1_example/",
+        "https://os.mbed.com/users/dakh131/code/MTi-1_example_LPC1768/",
+        "https://os.mbed.com/users/rik/code/MTi-1_rikbeun/",
+        "https://os.mbed.com/users/hyungyu8066/code/MTi-1_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Xbus",
+    "name": "Xbus",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Xsens/code/Xbus/"
+    }
+}

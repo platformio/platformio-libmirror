@@ -3,15 +3,16 @@
         "name": "takeshi yoshida",
         "url": "https://os.mbed.com/users/gakuburu/"
     },
-    "description": "switch : 8",
-    "frameworks": "mbed",
-    "keywords": [
-        "a7105",
-        "flysky",
-        "RC",
-        "Receiver",
-        "TH9X"
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
     ],
+    "description": "switch : 8 joystick : 4axis",
+    "frameworks": "mbed",
+    "keywords": "2016_V_Controller",
     "name": "2016_V_Controller",
     "platforms": "*",
     "repository": {

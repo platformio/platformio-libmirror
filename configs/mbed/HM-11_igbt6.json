@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Lukasz Uszko",
+        "url": "https://os.mbed.com/users/igbt6/"
+    },
+    "description": "Library for Bluetooth Low Energy Module ble 4.0 HM-11",
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE Bluetooth Low Energy BLE",
+        "Bluetooth 4.0 Low Energy 4.0 ble HM-11 Hm11 Ble"
+    ],
+    "name": "HM-11",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/igbt6/code/HM-11/"
+    }
+}

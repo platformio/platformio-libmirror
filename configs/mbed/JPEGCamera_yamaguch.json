@@ -17,7 +17,10 @@
         "https://os.mbed.com/users/bfoley13/code/Camera/"
     ],
     "frameworks": "mbed",
-    "keywords": "JPEGCamera",
+    "keywords": [
+        "JPEG",
+        "LS-Y201"
+    ],
     "name": "JPEGCamera",
     "platforms": "*",
     "repository": {

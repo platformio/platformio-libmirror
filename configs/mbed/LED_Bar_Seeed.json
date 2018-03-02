@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Seeed",
+        "url": "https://os.mbed.com/teams/Seeed/"
+    },
+    "description": "Library for the LED Bar by Seeed Studio http://www.seeedstudio.com/depot/Grove-LED-Bar-p-1178.html",
+    "examples": [
+        "https://os.mbed.com/teams/MBED_DEMOS/code/SensorExamples-mDS-Ethernet/",
+        "https://os.mbed.com/users/michaeljkoster/code/SensorNotifyLED/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/SensorNotifyLED/",
+        "https://os.mbed.com/teams/shields/code/Seeed_Grove_Shield_LED_Bar/",
+        "https://os.mbed.com/teams/shields/code/Seeed_Grove_Shield_Example/",
+        "https://os.mbed.com/users/michaeljkoster/code/ipso_interop_mbed1/",
+        "https://os.mbed.com/teams/Juvio/code/Juvio/",
+        "https://os.mbed.com/users/ramkumarkoppu/code/Seeed_Grove_Shield_Example/",
+        "https://os.mbed.com/users/jplunkett/code/LED_bar_button_control/",
+        "https://os.mbed.com/users/jplunkett/code/LED_bar_Simon_Says/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "bar",
+        "Grove",
+        "led"
+    ],
+    "name": "LED_Bar",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Seeed/code/LED_Bar/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Wataru Nakata",
+        "url": "https://os.mbed.com/users/WAT34/"
+    },
+    "description": "This is a library of MPU-9250 9 axis sensor.",
+    "frameworks": "mbed",
+    "keywords": "MPU-9250",
+    "name": "MPU-9250_nnct",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WAT34/code/MPU-9250_nnct/"
+    }
+}

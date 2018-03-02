@@ -5,12 +5,7 @@
     },
     "description": "at_command_terminal",
     "frameworks": "mbed",
-    "keywords": [
-        "flash",
-        "M25P10",
-        "M25P40",
-        "MP25P20"
-    ],
+    "keywords": "AT_command_terminal",
     "name": "AT_command_terminal",
     "platforms": "*",
     "repository": {

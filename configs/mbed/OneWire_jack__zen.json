@@ -8,23 +8,7 @@
         "https://os.mbed.com/users/jack__zen/code/DS1820_HelloWorld/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "I2C",
-        "real-time communication",
-        "8",
-        "ack",
-        "Analog",
-        "awesome",
-        "bit",
-        "channel",
-        "converter",
-        "dac",
-        "Digital",
-        "dual",
-        "isolated",
-        "MAX518",
-        "no-ack"
-    ],
+    "keywords": "OneWire",
     "name": "OneWire",
     "platforms": "*",
     "repository": {

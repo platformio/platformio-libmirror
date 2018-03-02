@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "E4-select",
+        "url": "https://os.mbed.com/teams/4E-/"
+    },
+    "description": "モジュールとシリアル通信の設定（server,client）",
+    "frameworks": "mbed",
+    "keywords": "wifiモジュール",
+    "name": "ESPWROOM02",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/4E-/code/ESPWROOM02/"
+    }
+}

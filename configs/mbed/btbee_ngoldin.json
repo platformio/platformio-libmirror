@@ -17,7 +17,13 @@
         "https://os.mbed.com/users/bbabbs/code/WarehouseBotOther/"
     ],
     "frameworks": "mbed",
-    "keywords": "btbee",
+    "keywords": [
+        "3pi;",
+        "bluetooth;",
+        "m3pi;",
+        "robot;",
+        "xbee"
+    ],
     "name": "btbee",
     "platforms": "*",
     "repository": {

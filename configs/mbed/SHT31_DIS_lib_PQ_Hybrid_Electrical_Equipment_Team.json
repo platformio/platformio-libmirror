@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "PQ_Hybrid_Electrical_Equipment_Team",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/"
+    },
+    "description": "SHT31-DIS Library",
+    "frameworks": "mbed",
+    "keywords": "2017NOSHIRO",
+    "name": "SHT31_DIS_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/SHT31_DIS_lib/"
+    }
+}

@@ -6,9 +6,6 @@
     "description": "TCG TIS 1.3 compliant TPM driver to use the TPM as hardware crypto library.",
     "frameworks": "mbed",
     "keywords": [
-        "log",
-        "logger",
-        "logging",
         "TCG",
         "TPM"
     ],

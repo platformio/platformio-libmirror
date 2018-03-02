@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Evelyn Wang",
+        "url": "https://os.mbed.com/users/evelynwang/"
+    },
+    "description": "mBed 6Low Pan project for FRDM-K64F platform",
+    "frameworks": "mbed",
+    "keywords": "mBed_6LowPan",
+    "name": "mBed_6LowPan",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/evelynwang/code/mBed_6LowPan/"
+    }
+}

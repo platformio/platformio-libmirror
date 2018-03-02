@@ -8,18 +8,7 @@
         "https://os.mbed.com/users/wvd_vegt/code/tinyxml_test/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "barometer",
-        "MPL115A1",
-        "SPI",
-        "l3g4200d",
-        "lsm303dlm",
-        "minimu-9",
-        "3pi",
-        "m3pi",
-        "robot",
-        "xml"
-    ],
+    "keywords": "xml",
     "name": "TINYXML",
     "platforms": "*",
     "repository": {

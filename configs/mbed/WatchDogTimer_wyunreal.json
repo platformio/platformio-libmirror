@@ -6,19 +6,8 @@
     "description": "Simple library to manage the WatchDog timer, tested on LPC1768",
     "frameworks": "mbed",
     "keywords": [
-        "Nordic",
-        "nRF",
-        "nRF51422",
-        "nRF51822",
-        "timer",
-        "watchdog",
         "Watch Dog Timer",
-        "WDT",
-        "LCD",
-        "APA102",
-        "led",
-        "rgb",
-        "ws2801"
+        "WDT"
     ],
     "name": "WatchDogTimer",
     "platforms": "*",

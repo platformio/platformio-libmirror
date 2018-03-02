@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "WIZnet",
+        "url": "https://os.mbed.com/teams/WIZnet/"
+    },
+    "description": "This is WIZnet Ethernet Interface using Hardware TCP/IP chip, W5500, W5200 and W5100. One of them can be selected by enabling it in wiznet.h.",
+    "examples": [
+        "https://os.mbed.com/teams/IPN-ESIME-ZACATENCO/code/Embedded_web/",
+        "https://os.mbed.com/users/bangbh/code/EmailButton/",
+        "https://os.mbed.com/users/Bongjun/code/EmailButton/",
+        "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/code/HTTPClient_Weather/",
+        "https://os.mbed.com/teams/WIZnet/code/Nucleo_F103RB_W5500HelloWorld/",
+        "https://os.mbed.com/users/Kevin_Lee/code/archlink_Temperture_ethernet_http/",
+        "https://os.mbed.com/users/Kevin_Lee/code/archlink_Temperture_dweetio/",
+        "https://os.mbed.com/teams/WIZnet/code/W5500HelloWorld/",
+        "https://os.mbed.com/users/yihui/code/Arch_Link_Test/",
+        "https://os.mbed.com/users/hkjung/code/ThingPlug_Ethernet_W5500/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "tcp/ip",
+        "w5100",
+        "W5200",
+        "W5500",
+        "Wiznet"
+    ],
+    "name": "WIZnet_Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/WIZnet/code/WIZnet_Library/"
+    }
+}

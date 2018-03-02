@@ -3,6 +3,13 @@
         "name": "Taylor Andrews",
         "url": "https://os.mbed.com/users/randrews33/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "Allows for reading accelerometer, gyroscope, and magnetometer data from an LSM9DS0 IMU device",
     "examples": [
         "https://os.mbed.com/users/fengspot/code/uVGA_4180/",
@@ -11,9 +18,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "1wire",
-        "DS18B20",
-        "OneWire",
         "Accel",
         "accelerometer",
         "compass",

@@ -9,22 +9,7 @@
         "https://os.mbed.com/users/csmith048/code/MX25Rxx35F_Serial_NOR_Flash_Testbench/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "arduino",
-        "micros",
-        "millis",
-        "device",
-        "USB",
-        "DC motor",
-        "h bridge",
-        "L293D",
-        "l298n",
-        "pwm",
-        "SPI",
-        "motor",
-        "PCA9629",
-        "Stepper"
-    ],
+    "keywords": "SPI",
     "name": "SPI_MX25R",
     "platforms": "*",
     "repository": {

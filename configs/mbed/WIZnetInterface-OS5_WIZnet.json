@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "WIZnet",
+        "url": "https://os.mbed.com/teams/WIZnet/"
+    },
+    "description": "For mbed OS-5 version for WIZnet Ethernet Interface, this is Library using Hardware TCP/IP chip, W5500 and TCP/IP Offload Engine, W7500.",
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "socket",
+        "TCP",
+        "UDP",
+        "W5500",
+        "W7500",
+        "W7500P"
+    ],
+    "name": "WIZnetInterface-OS5",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/WIZnet/code/WIZnetInterface-OS5/"
+    }
+}

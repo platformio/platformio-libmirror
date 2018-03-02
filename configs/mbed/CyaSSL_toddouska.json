@@ -16,11 +16,7 @@
         "RSA",
         "security",
         "SHA",
-        "SSL",
-        "Altimeter",
-        "barometer",
-        "I2C",
-        "ms5611"
+        "SSL"
     ],
     "name": "CyaSSL",
     "platforms": "*",

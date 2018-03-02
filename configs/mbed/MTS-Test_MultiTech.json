@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "description": "Test library for MTS Socket Modem Arduino Shield devices for Multi-Tech Systems",
+    "examples": [
+        "https://os.mbed.com/teams/MultiTech/code/mtsas/",
+        "https://os.mbed.com/users/jfanucch/code/mtsas/",
+        "https://os.mbed.com/users/JonB/code/mtsas/",
+        "https://os.mbed.com/users/miaotwilio/code/mtsas/",
+        "https://os.mbed.com/users/dabraham/code/mtsas/",
+        "https://os.mbed.com/users/pferland/code/mtsas_lat3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MTS-Test",
+    "name": "MTS-Test",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/MTS-Test/"
+    }
+}

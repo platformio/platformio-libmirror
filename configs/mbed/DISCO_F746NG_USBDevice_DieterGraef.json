@@ -10,12 +10,7 @@
     "frameworks": "mbed",
     "keywords": [
         "DISCO_F746NG",
-        "STM32F746",
-        "display",
-        "RenBED",
-        "segment",
-        "Seven",
-        "LPC4330"
+        "STM32F746"
     ],
     "name": "DISCO_F746NG_USBDevice",
     "platforms": "*",

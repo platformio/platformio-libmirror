@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "WIZnet",
+        "url": "https://os.mbed.com/teams/WIZnet/"
+    },
+    "description": "This is WizFi250 library for NetworkInterfaceAPI of mbed5",
+    "examples": [
+        "https://os.mbed.com/users/kaizen/code/HelloWizFi250Interface/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed5",
+        "NetworkInterfaceAPI",
+        "Wi-Fi",
+        "WizFi250"
+    ],
+    "name": "WizFi250Interface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/WIZnet/code/WizFi250Interface/"
+    }
+}

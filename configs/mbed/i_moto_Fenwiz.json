@@ -3,17 +3,9 @@
         "name": "Pete Isley",
         "url": "https://os.mbed.com/users/Fenwiz/"
     },
-    "description": "Interrupt driven PWM motor controller. Let the interrupt update the PWM leaving your main program free for other tasks.",
+    "description": "Interrupt driven PWM motor controller. Let the interrupt update the PWM leaving your main program free for other tasks. The acceleration (ramp up) and deceleration (ramp down) between zero power ...",
     "frameworks": "mbed",
     "keywords": [
-        "http",
-        "proxy",
-        "camera",
-        "JPEG",
-        "OV528",
-        "uCAM TTL120",
-        "debug",
-        "SPI",
         "control",
         "interrupt",
         "motor",

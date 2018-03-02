@@ -5,31 +5,18 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "mbed unsupported"
-            ],
+            "authors": "mbed unsupported",
             "frameworks": "mbed",
             "name": "FatFileSystem"
         }
     ],
     "description": "SDFileSystem",
     "frameworks": "mbed",
-    "keywords": [
-        "buzzer",
-        "music",
-        "sound",
-        "driver",
-        "ds1307",
-        "I2C",
-        "RTC",
-        "pressure",
-        "sensor",
-        "Temperature"
-    ],
+    "keywords": "SDFileSystem",
     "name": "SDFileSystem",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/KatsushiOgawa/code/SDFileSystem/"
+        "url": "https://os.mbed.com/users/KatsushiOgawa/code/SDFileSystem/"
     }
 }

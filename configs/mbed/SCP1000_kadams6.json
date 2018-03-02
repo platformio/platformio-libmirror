@@ -21,11 +21,7 @@
         "pressure",
         "scp1000",
         "sensor",
-        "Temperature",
-        "Akizuki",
-        "character",
-        "I2C",
-        "LCD"
+        "Temperature"
     ],
     "name": "SCP1000",
     "platforms": "*",

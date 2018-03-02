@@ -5,11 +5,19 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "taiyou komazawa"
-            ],
+            "authors": "taiyou komazawa",
             "frameworks": "mbed",
             "name": "Gamma"
+        },
+        {
+            "authors": "taiyou komazawa",
+            "frameworks": "mbed",
+            "name": "Beta"
+        },
+        {
+            "authors": "taiyou komazawa",
+            "frameworks": "mbed",
+            "name": "Alpha"
         }
     ],
     "description": "for_gamma",
@@ -25,6 +33,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/Komazawa_sun/code/DataPool/"
+        "url": "https://os.mbed.com/users/Komazawa_sun/code/DataPool/"
     }
 }

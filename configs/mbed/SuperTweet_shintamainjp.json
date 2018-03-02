@@ -10,20 +10,7 @@
         "https://os.mbed.com/users/botdream/code/GSL_04-Network_Twitter/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "I2C",
-        "software",
-        "dynamixel",
-        "MX28",
-        "Servo",
-        "RIT",
-        "1-wire",
-        "DS18B20",
-        "SuperTweet",
-        "adc",
-        "dac",
-        "PCF8591"
-    ],
+    "keywords": "SuperTweet",
     "name": "SuperTweet",
     "platforms": "*",
     "repository": {

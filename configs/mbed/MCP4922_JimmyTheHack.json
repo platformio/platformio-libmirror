@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Jimmy Hack"
-            ],
+            "authors": "Jimmy Hack",
             "frameworks": "mbed",
             "name": "DAC"
         }
@@ -16,22 +14,12 @@
     "frameworks": "mbed",
     "keywords": [
         "dac",
-        "MCP4922",
-        "comparator",
-        "KL25z",
-        "Dynamic",
-        "ethernet",
-        "http",
-        "pages",
-        "server",
-        "static",
-        "Web",
-        "WiFly"
+        "MCP4922"
     ],
     "name": "MCP4922",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/JimmyTheHack/code/MCP4922/"
+        "url": "https://os.mbed.com/users/JimmyTheHack/code/MCP4922/"
     }
 }

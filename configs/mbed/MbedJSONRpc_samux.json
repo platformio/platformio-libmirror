@@ -10,19 +10,7 @@
         "https://os.mbed.com/users/samux/code/RPC_Ethernet_HelloWorld/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "ethernet",
-        "NTP",
-        "SNTP",
-        "W5500",
-        "Wiznet",
-        "ADS7843",
-        "TouchPanel",
-        "XPT2046",
-        "C12832",
-        "C12832A1Z",
-        "MBED Application Board"
-    ],
+    "keywords": "MbedJSONRpc",
     "name": "MbedJSONRpc",
     "platforms": "*",
     "repository": {

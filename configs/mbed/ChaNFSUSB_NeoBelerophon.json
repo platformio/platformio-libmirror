@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Stefan Mueller",
+        "url": "https://os.mbed.com/users/NeoBelerophon/"
+    },
+    "dependencies": [
+        {
+            "authors": [
+                " "
+            ],
+            "framework": "mbed",
+            "name": ""
+        }
+    ],
+    "description": "This is a lib to use ChaNFS lib with USB mass storages like USB Sticks .. Long file names work",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/WeatherStation/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ChaNFS",
+        "mass",
+        "storage",
+        "USB"
+    ],
+    "name": "ChaNFSUSB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/NeoBelerophon/code/ChaNFSUSB/"
+    }
+}

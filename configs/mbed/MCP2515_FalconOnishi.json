@@ -9,21 +9,8 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "arp",
-        "icmp",
-        "interrupts",
-        "stack",
-        "tcpip",
-        "UDP",
         "CAN",
-        "MCP2515",
-        "I2C",
-        "interrupt",
-        "slave",
-        "5110",
-        "84x48",
-        "display",
-        "Nokia"
+        "MCP2515"
     ],
     "name": "MCP2515",
     "platforms": "*",

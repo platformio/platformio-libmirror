@@ -3,20 +3,26 @@
         "name": "Joseph Benamy",
         "url": "https://os.mbed.com/users/jbenamy/"
     },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "EthernetInterface"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
     "description": "Ethernet part for lab 4",
     "frameworks": "mbed",
-    "keywords": [
-        "RenBED",
-        "RenBuggy",
-        "Renishaw",
-        "Humidity",
-        "Sensirion",
-        "sensor",
-        "SHT71",
-        "SHT75",
-        "SHT7x",
-        "Temperature"
-    ],
+    "keywords": "Ethernet",
     "name": "Ethernet",
     "platforms": "*",
     "repository": {

@@ -12,23 +12,7 @@
         "https://os.mbed.com/users/hypark/code/Core1000_SmartFarm/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "HCSR04",
-        "CAN",
-        "can bus",
-        "CAN Nucleo",
-        "canbus",
-        "CANbus Nucleo",
-        "Controller Area Network",
-        "Nucleo",
-        "9-DOF",
-        "compass",
-        "HMC5883L",
-        "magnetometer",
-        "sparkfun",
-        "MMA7361L",
-        "TextLCD"
-    ],
+    "keywords": "HCSR04",
     "name": "HCSR04",
     "platforms": "*",
     "repository": {

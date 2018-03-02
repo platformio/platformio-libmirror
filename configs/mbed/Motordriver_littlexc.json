@@ -3,7 +3,7 @@
         "name": "Christopher Hasler",
         "url": "https://os.mbed.com/users/littlexc/"
     },
-    "description": "motor drive libary to use speed control, coasting and dynamic braking.",
+    "description": "motor drive libary to use speed control, coasting and dynamic braking. NOTE, dynamic braking my result in large currents. this may or may not set the motor driver on fire/break ...",
     "examples": [
         "https://os.mbed.com/users/littlexc/code/motordrivertestprogram/",
         "https://os.mbed.com/users/littlexc/code/Initialmbedrobotprogram/",
@@ -17,11 +17,7 @@
         "https://os.mbed.com/users/theschrade54/code/EtchSketchSmartbot/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Buffered",
-        "MODSERIAL",
-        "Serial"
-    ],
+    "keywords": "Motordriver",
     "name": "Motordriver",
     "platforms": "*",
     "repository": {

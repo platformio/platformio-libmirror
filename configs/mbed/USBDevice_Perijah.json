@@ -5,11 +5,7 @@
     },
     "description": "Base station firmware",
     "frameworks": "mbed",
-    "keywords": [
-        "dynamixel",
-        "MX28",
-        "RS485"
-    ],
+    "keywords": "USBDevice",
     "name": "USBDevice",
     "platforms": "*",
     "repository": {

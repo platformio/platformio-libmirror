@@ -9,17 +9,9 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "96x96",
-        "OLED",
-        "Seeed",
-        "SeeedGrayOLED",
-        "ssd1327",
         "DC",
         "motor",
-        "PM motor",
-        "bluetooth",
-        "bt",
-        "rtos"
+        "PM motor"
     ],
     "name": "MotCon",
     "platforms": "*",

@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Neil Thiessen"
-            ],
+            "authors": "Neil Thiessen",
             "frameworks": "mbed",
             "name": "LM75B"
         }
@@ -21,11 +19,14 @@
         "https://os.mbed.com/users/Leigh_LbR/code/EaEpaper_EM027BS013/"
     ],
     "frameworks": "mbed",
-    "keywords": "EM027BS013",
+    "keywords": [
+        "EM027BS013",
+        "ePaper"
+    ],
     "name": "EM027BS013",
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/embeddedartists/code/EM027BS013/"
+        "url": "https://os.mbed.com/users/embeddedartists/code/EM027BS013/"
     }
 }

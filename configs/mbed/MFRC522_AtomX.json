@@ -17,14 +17,7 @@
         "https://os.mbed.com/users/nivmukka/code/Personal-Alert-System-using-RFID-with-FR/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "LPC4088",
-        "Lora",
-        "Semtech",
-        "SX1276",
-        "SX1276Lib",
-        "SX1276MB1xAS"
-    ],
+    "keywords": "MFRC522",
     "name": "MFRC522",
     "platforms": "*",
     "repository": {

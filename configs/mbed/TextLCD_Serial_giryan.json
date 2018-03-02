@@ -5,9 +5,7 @@
     },
     "dependencies": [
         {
-            "authors": [
-                "Matthew Waddilove"
-            ],
+            "authors": "Matthew Waddilove",
             "frameworks": "mbed",
             "name": "TextDisplays"
         }
@@ -25,6 +23,6 @@
     "platforms": "*",
     "repository": {
         "type": "hg",
-        "url": "https://os.mbed.comhttps://os.mbed.com/users/giryan/code/TextLCD_Serial/"
+        "url": "https://os.mbed.com/users/giryan/code/TextLCD_Serial/"
     }
 }

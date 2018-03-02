@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "MBED Peach",
+        "url": "https://os.mbed.com/teams/MBED-Peach/"
+    },
+    "description": "Uses the GR Peach as a web server",
+    "frameworks": "mbed",
+    "keywords": "GRPeach Web Server Demo",
+    "name": "GRPeach Web Server Demo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MBED-Peach/code/GRPeach-Web-Server-Demo/"
+    }
+}

@@ -3,12 +3,9 @@
         "name": "Vlad Craciun",
         "url": "https://os.mbed.com/users/vcraciun/"
     },
-    "description": "SSD128 TouchScreen Library based on Todor Todorov tftlcd library",
+    "description": "SSD128 TouchScreen Library based on Todor Todorov tftlcd library it has touchscreen calibration methods and basic point {x,y} aquisition routines",
     "frameworks": "mbed",
-    "keywords": [
-        "DISCO_F746NG",
-        "SD"
-    ],
+    "keywords": "SSD1289_TouchScreen",
     "name": "SSD1289_TouchScreen",
     "platforms": "*",
     "repository": {

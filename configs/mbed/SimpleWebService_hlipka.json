@@ -3,19 +3,14 @@
         "name": "Hendrik Lipka",
         "url": "https://os.mbed.com/users/hlipka/"
     },
-    "description": "A simple web service over HTTP library. Calls a HTTP server via GET, and returns the response wrapped in a XML parser. All calls are synchronous. Needs the NetServicesMin, DNSResolver, TcpLineStream and spxml libraries. The code for URL handling has been copied directly from the original NetServices library (Thanks to Donatien!).",
+    "description": "A simple web service over HTTP library. Calls a HTTP server via GET, and returns the response wrapped in a XML parser. All calls are synchronous. Needs the NetServicesMin, DNSResolver, ...",
     "frameworks": "mbed",
     "keywords": [
         "http",
         "NET",
         "network",
         "webservice",
-        "xml",
-        "FreeIMU",
-        "IMU",
-        "MPU6050",
-        "CAN",
-        "mbed"
+        "xml"
     ],
     "name": "SimpleWebService",
     "platforms": "*",

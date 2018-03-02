@@ -10,24 +10,7 @@
         "https://os.mbed.com/users/shimniok/code/AVC_2012/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "filter",
-        "counter",
-        "interrupt",
-        "time",
-        "adc",
-        "Analog",
-        "calculate",
-        "convert",
-        "Linear",
-        "LM335",
-        "median",
-        "multiplier",
-        "offset",
-        "sensor",
-        "Temperature",
-        "voltage"
-    ],
+    "keywords": "filter",
     "name": "SimpleFilter",
     "platforms": "*",
     "repository": {

@@ -3,19 +3,15 @@
         "name": "Callum Ellor",
         "url": "https://os.mbed.com/users/Ellor1/"
     },
-    "description": "Wait function that uses 16 Bit Timer 1 instead of using 32 bit Timer 0 to be used in conjunction with 'TextLCD16x4_Wait' and 'PulseWidthCapture' to measure the +ve and -ve Pulsewdth of a signal",
+    "description": "Wait function that uses 16 Bit Timer 1 instead of using 32 bit Timer 0 to be used in conjunction with 'TextLCD16x4_Wait' and 'PulseWidthCapture' to measure the +ve and -ve ...",
     "examples": [
         "https://os.mbed.com/users/Ellor1/code/PulseWidthCapture_Program/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "audio",
-        "pwm",
         "16bit Timer",
         "LCD_Wait",
-        "wait",
-        "NaCrDe",
-        "DS18B20"
+        "wait"
     ],
     "name": "LCD_Wait",
     "platforms": "*",
