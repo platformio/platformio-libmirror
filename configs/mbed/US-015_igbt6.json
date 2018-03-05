@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Lukasz Uszko",
+        "url": "https://os.mbed.com/users/igbt6/"
+    },
+    "description": "Library for US-015 (or HC-SR04) Ultrasonic Module Distance Measuring Sensors",
+    "frameworks": "mbed",
+    "keywords": [
+        "distance",
+        "HC-SR04",
+        "HCSR04",
+        "ultrasonic",
+        "US-015",
+        "US015"
+    ],
+    "name": "US-015",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/igbt6/code/US-015/"
+    }
+}

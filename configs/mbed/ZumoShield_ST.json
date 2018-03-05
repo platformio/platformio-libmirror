@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "Library to drive the Zumo shield from pololu.",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/Nucleo_Zumo_BLE_IDB04A1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Zumo",
+    "name": "ZumoShield",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/ZumoShield/"
+    }
+}

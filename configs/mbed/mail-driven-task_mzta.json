@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "takuya matsuzaki",
+        "url": "https://os.mbed.com/users/mzta/"
+    },
+    "description": "Task class is an implementation of mail driven thread, for it makes to use Thread and Mail classes in mbed-rtos library easier.",
+    "examples": [
+        "https://os.mbed.com/users/mzta/code/mail_driven_task_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mail",
+        "rtos",
+        "thread"
+    ],
+    "name": "mail-driven-task",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mzta/code/mail-driven-task/"
+    }
+}

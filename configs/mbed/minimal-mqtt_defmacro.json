@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Xuejie Xiao",
+        "url": "https://os.mbed.com/users/defmacro/"
+    },
+    "description": "Minimal MQTT library",
+    "frameworks": "mbed",
+    "keywords": "minimal-mqtt",
+    "name": "minimal-mqtt",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/defmacro/code/minimal-mqtt/"
+    }
+}

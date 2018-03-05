@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "This class drives the LCD display (4-inch 800x472 LCD-TFT) present on STM32F769I-DISCO board",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/DISCO-F769NI_LCD_demo/",
+        "https://os.mbed.com/users/joschaihl/code/Datarecorder2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LCD_DISCO_F769NI",
+    "name": "LCD_DISCO_F769NI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/LCD_DISCO_F769NI/"
+    }
+}

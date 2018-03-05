@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "NetworkSocketAPI",
+        "url": "https://os.mbed.com/teams/NetworkSocketAPI/"
+    },
+    "description": "Tests for the NetworkSocketAPI",
+    "examples": [
+        "https://os.mbed.com/teams/NetworkSocketAPI/code/BSDInterfaceTests/",
+        "https://os.mbed.com/teams/components/code/ESP8266InterfaceTests/",
+        "https://os.mbed.com/teams/NetworkSocketAPI/code/LWIPInterfaceTests/",
+        "https://os.mbed.com/teams/ST/code/SpwfInterface_NSAPI_Tests/",
+        "https://os.mbed.com/teams/ST/code/SpwfInterface_NSAPI_Testsv2/",
+        "https://os.mbed.com/teams/GNSS_DataLogger/code/DISCO-F746NG_master_wifi/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "NSAPITests",
+    "name": "NSAPITests",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NetworkSocketAPI/code/NSAPITests/"
+    }
+}
