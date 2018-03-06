@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Phoenix Unicamp",
+        "url": "https://os.mbed.com/users/PhoenixUnicamp/"
+    },
+    "description": "Basic Implementation of JSON. Capable of create a JSON string and parse a JSON string. Uses the \"lazy\" JSON implementation. Incapable of modify and delete variables from the objects. Contains ...",
+    "examples": [
+        "https://os.mbed.com/users/ajayke/code/mbed_networking/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "JSON",
+    "name": "oJSON",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/PhoenixUnicamp/code/oJSON/"
+    }
+}

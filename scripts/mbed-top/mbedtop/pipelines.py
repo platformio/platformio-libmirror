@@ -12,6 +12,7 @@ logging.basicConfig()
 logger = logging.getLogger('mbed-pipeline-terrier')
 logger.setLevel(20)
 
+
 class MbedParserPipeline(object):
     def print_item(self, lib_info):
         print(json.dumps(
@@ -25,11 +26,12 @@ class MbedParserPipeline(object):
         path = os.path.dirname(os.path.realpath(__file__))
         repo_tokens = json_item['repository']['url'].split('/')
         with codecs.open(
-                path + '../../..//configs/' + repo_tokens[6] + "_" + repo_tokens[4] +
-                ".json",
+                path + '/../../../configs/mbed/' + repo_tokens[6] + "_" +
+                repo_tokens[4] + ".json",
                 "w",
                 encoding='utf-8') as f:
-            logger.info("Save to %s_%s.json  "%(repo_tokens[6],repo_tokens[4]))
+            logger.info("Save to %s_%s.json  " % (repo_tokens[6],
+                                                  repo_tokens[4]))
             json.dump(
                 dict(json_item),
                 f,

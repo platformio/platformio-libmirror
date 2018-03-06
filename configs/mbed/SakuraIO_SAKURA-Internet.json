@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "SAKURA Internet",
+        "url": "https://os.mbed.com/teams/SAKURA-Internet/"
+    },
+    "description": "SAKURA Internet IoT Communication Module Library for mbed",
+    "examples": [
+        "https://os.mbed.com/users/misodengaku/code/patlite_sakuraio/",
+        "https://os.mbed.com/users/key3/code/sakuraio_lte_firmwareupdater/",
+        "https://os.mbed.com/teams/SAKURA-Internet/code/shownet2017-iinebutton/",
+        "https://os.mbed.com/teams/SAKURA-Internet/code/SakuraIO_FirmwareUpdate/",
+        "https://os.mbed.com/users/misodengaku/code/patlite_sakuraio_stack/",
+        "https://os.mbed.com/teams/SAKURA-Internet/code/SakuraIO_Standard/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "4G cellular",
+        "lte",
+        "sakura internet",
+        "Sakura IoT Platform",
+        "sakuraio",
+        "SCM-LTE-01",
+        "SCM-LTE-beta"
+    ],
+    "name": "SakuraIO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/SAKURA-Internet/code/SakuraIO/"
+    }
+}

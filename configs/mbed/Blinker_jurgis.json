@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Jurgis Jurksta",
+        "url": "https://os.mbed.com/users/jurgis/"
+    },
+    "description": "Can toggle digital output at the specified time intervals",
+    "examples": [
+        "https://os.mbed.com/users/jurgis/code/TEST_with_daniel/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Blinker",
+    "name": "Blinker",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jurgis/code/Blinker/"
+    }
+}
