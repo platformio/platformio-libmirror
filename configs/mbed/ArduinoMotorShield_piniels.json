@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Ilsoe Peter",
+        "url": "https://os.mbed.com/users/piniels/"
+    },
+    "description": "A library for the Arduino motor shield board",
+    "examples": [
+        "https://os.mbed.com/users/piniels/code/HIDTympDeviceWithPIDController/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "L298",
+        "motor",
+        "Stepper"
+    ],
+    "name": "ArduinoMotorShield",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/piniels/code/ArduinoMotorShield/"
+    }
+}

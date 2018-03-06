@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Motoo Tanaka",
+        "url": "https://os.mbed.com/users/Rhyme/"
+    },
+    "description": "My trial of BME280 library, tested with Adafruit BME280 module",
+    "examples": [
+        "https://os.mbed.com/users/Rhyme/code/test_BME280/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "BME280",
+        "FRDM-KL25Z",
+        "Humidity",
+        "I2C",
+        "pressure",
+        "SPI",
+        "Temperature"
+    ],
+    "name": "BME280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Rhyme/code/BME280/"
+    }
+}
