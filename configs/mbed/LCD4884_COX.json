@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Dan Ghiciulescu",
+        "url": "https://os.mbed.com/users/COX/"
+    },
+    "description": "Updated library to work with the FRDM KL25Z board. Original code downloaded from DFRobot. Warning. For the 5 way switch to work correctly the LCD4884 shiled needs to be modified. ...",
+    "examples": [
+        "https://os.mbed.com/users/COX/code/FRDM_LCD4884/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FRDM",
+        "KL25z",
+        "LCD",
+        "LCD4884"
+    ],
+    "name": "LCD4884",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/COX/code/LCD4884/"
+    }
+}

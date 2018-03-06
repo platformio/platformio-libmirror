@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Carl - SolderSplash Labs",
+        "url": "https://os.mbed.com/users/SolderSplashLabs/"
+    },
+    "description": "USB Device Library",
+    "examples": [
+        "https://os.mbed.com/teams/Solder-Splash/code/DipCortex-ADC-USB/",
+        "https://os.mbed.com/teams/Solder-Splash/code/DipCortex-USB-CDC/",
+        "https://os.mbed.com/teams/Solder-Splash/code/DipCortex-USB-EEProm/",
+        "https://os.mbed.com/teams/Solder-Splash/code/WiFiDip-UsbKitchenSink/",
+        "https://os.mbed.com/users/markirwin/code/WiFiDipCortexSensor/",
+        "https://os.mbed.com/teams/Solder-Splash/code/WifiDipCortex-UDPDemo/",
+        "https://os.mbed.com/users/johnhalfpenny/code/Accellerometer_project/",
+        "https://os.mbed.com/users/JojoS/code/ezSBC_MPU9250/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DipCortex",
+        "USB device"
+    ],
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SolderSplashLabs/code/USBDevice/"
+    }
+}

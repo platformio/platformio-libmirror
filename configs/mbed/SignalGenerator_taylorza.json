@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Chris Taylor",
+        "url": "https://os.mbed.com/users/taylorza/"
+    },
+    "description": "Provides a simple way to generate complex square wave signals on any available pin. In addition the SignalGenerator can generate a carrier wave which is useful when generating IR signals ...",
+    "frameworks": "mbed",
+    "keywords": "SignalGenerator",
+    "name": "SignalGenerator",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/taylorza/code/SignalGenerator/"
+    }
+}

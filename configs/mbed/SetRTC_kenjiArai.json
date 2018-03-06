@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "This is a RTC additional function. This is only for Nucleo F401RE & F411RE mbed(Added L152RE, F334R8, L476RG & F746xx). If you connected battery backup circuit for internal RTC, you ...",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/Nucleo_rtos_sample/",
+        "https://os.mbed.com/users/bonchenko/code/PB_Emma_Ethernet/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "f334",
+        "F401RE",
+        "F411RE",
+        "F746",
+        "l476",
+        "Nucleo",
+        "power on/off",
+        "reset",
+        "RTC",
+        "VBAT"
+    ],
+    "name": "SetRTC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/SetRTC/"
+    }
+}

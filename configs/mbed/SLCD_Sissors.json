@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "SCLD peripheral of the KL46Z",
+    "examples": [
+        "https://os.mbed.com/users/star297/code/FRDM-KL46Z-LCD-rtc-Demo/",
+        "https://os.mbed.com/users/jppang/code/KL46Z/",
+        "https://os.mbed.com/users/HaoranX/code/EE202A_HW1_MH/",
+        "https://os.mbed.com/users/HaoranX/code/SignalGenerator/",
+        "https://os.mbed.com/users/rajkiran_anthapur/code/KL46Z_CS213A_HW1/",
+        "https://os.mbed.com/users/tmorgan/code/FRDM-KL46Z-Clock/",
+        "https://os.mbed.com/users/TimeString/code/mbed_digital_pin_interruption_receiver/",
+        "https://os.mbed.com/users/TimeString/code/mbed_nanosec_timer/",
+        "https://os.mbed.com/users/rickbronson/code/KL46Z/",
+        "https://os.mbed.com/users/va009039/code/KL46Z-lpc81isp/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "kl46z",
+        "LCD",
+        "SLCD"
+    ],
+    "name": "SLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/SLCD/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Paul Griffith",
+        "url": "https://os.mbed.com/users/paulg/"
+    },
+    "description": "Class to play tones, various sounds and music in MML format using a PWM channel.",
+    "examples": [
+        "https://os.mbed.com/users/paulg/code/PwmSoundTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Beep",
+        "MML",
+        "music",
+        "play",
+        "pwm",
+        "sound"
+    ],
+    "name": "PwmSound",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/paulg/code/PwmSound/"
+    }
+}

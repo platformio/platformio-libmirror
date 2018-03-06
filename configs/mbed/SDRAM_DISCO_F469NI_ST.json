@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "Class to drive SDRAM on DISCO_F469NI",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/DISCO-F469NI_SDRAM_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F469NI",
+        "sdram"
+    ],
+    "name": "SDRAM_DISCO_F469NI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/SDRAM_DISCO_F469NI/"
+    }
+}

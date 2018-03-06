@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "steven niu",
+        "url": "https://os.mbed.com/users/steniu01/"
+    },
+    "description": "implement LPC1768 GPDMA API",
+    "examples": [
+        "https://os.mbed.com/users/steniu01/code/LPC1768_DMA_implementation/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LPC1768_DMA",
+    "name": "LPC1768_DMA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/steniu01/code/LPC1768_DMA/"
+    }
+}

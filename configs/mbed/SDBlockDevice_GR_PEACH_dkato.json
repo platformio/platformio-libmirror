@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Daiki Kato",
+        "url": "https://os.mbed.com/users/dkato/"
+    },
+    "dependencies": [
+        {
+            "authors": "Daiki Kato",
+            "frameworks": "mbed",
+            "name": "sd-driver-hs"
+        }
+    ],
+    "description": "mbed OS SDCard Driver for GR-PEACH.",
+    "examples": [
+        "https://os.mbed.com/users/dkato/code/mbed-os-storage-access/",
+        "https://os.mbed.com/users/dkato/code/GR-PEACH_Digital_Signage/",
+        "https://os.mbed.com/users/dkato/code/GR-PEACH_Audio_WAV_PwmOut/",
+        "https://os.mbed.com/users/tuthai/code/GR-PEACH-mbed-os-storage-access/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDBlockDevice_GR_PEACH",
+    "name": "SDBlockDevice_GR_PEACH",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dkato/code/SDBlockDevice_GR_PEACH/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Alex Vancoillie",
+        "url": "https://os.mbed.com/users/AlexVC97/"
+    },
+    "description": "Library for SD card",
+    "examples": [
+        "https://os.mbed.com/users/AlexVC97/code/City_Game_JSON/",
+        "https://os.mbed.com/users/SolManB/code/saver-noenvio-1/",
+        "https://os.mbed.com/users/gstedile/code/SNOCC_V2/",
+        "https://os.mbed.com/users/philliptran011/code/lab7_prog1/",
+        "https://os.mbed.com/users/ajeet3004/code/City_Game_JSON/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "card",
+        "SD"
+    ],
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AlexVC97/code/SDFileSystem/"
+    }
+}

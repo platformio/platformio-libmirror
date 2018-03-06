@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Remi Beges",
+        "url": "https://os.mbed.com/users/Overdrivr/"
+    },
+    "description": "First class data visualization and communication library with embedded devices. Code is maintained at github.com/Overdrivr/Telemetry",
+    "examples": [
+        "https://os.mbed.com/users/Overdrivr/code/telemetry_car_demo/",
+        "https://os.mbed.com/users/Overdrivr/code/telemetry_demo_FRDM-TFC/",
+        "https://os.mbed.com/users/Overdrivr/code/telemetry_example_01/",
+        "https://os.mbed.com/users/Overdrivr/code/telemetry_indexed_data_demo/",
+        "https://os.mbed.com/users/Overdrivr/code/telemetry_sensors_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "1.0.3",
+    "name": "telemetry",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Overdrivr/code/telemetry/"
+    }
+}

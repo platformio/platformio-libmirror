@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://os.mbed.com/users/simon/"
+    },
+    "description": "ID12RFID library, quickly modified to use interrupt driven reception instead so it doesn\\'t block",
+    "examples": [
+        "https://os.mbed.com/users/chris/code/m3pi_WiiRacing/",
+        "https://os.mbed.com/users/nbbhav/code/m3pi_RFIDReader/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ID12RFIDIRQ",
+    "name": "ID12RFIDIRQ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/simon/code/ID12RFIDIRQ/"
+    }
+}

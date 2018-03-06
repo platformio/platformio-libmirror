@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Neil Thiessen",
+        "url": "https://os.mbed.com/users/neilt6/"
+    },
+    "description": "A feature complete driver for the MCP4725 DAC from Microchip with an AnalogOut-compatible API.",
+    "examples": [
+        "https://os.mbed.com/users/neilt6/code/MCP4725_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AnalogOut",
+        "dac",
+        "MCP4725"
+    ],
+    "name": "MCP4725",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/neilt6/code/MCP4725/"
+    }
+}

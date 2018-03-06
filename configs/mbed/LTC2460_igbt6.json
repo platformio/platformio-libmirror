@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Lukasz Uszko",
+        "url": "https://os.mbed.com/users/igbt6/"
+    },
+    "description": "Library for LTC2460 ADC converter",
+    "frameworks": "mbed",
+    "keywords": [
+        "ADC converter",
+        "Linear",
+        "Linear Technology",
+        "LTC2460"
+    ],
+    "name": "LTC2460",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/igbt6/code/LTC2460/"
+    }
+}

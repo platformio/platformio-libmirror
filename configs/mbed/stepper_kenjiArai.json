@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "Stepper Motor Driver library for Uni-polar type",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/NucleoL152_stepper_w_lib/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "motor",
+        "Stepper",
+        "stepping",
+        "Uni-polar"
+    ],
+    "name": "stepper",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/stepper/"
+    }
+}

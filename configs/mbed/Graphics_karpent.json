@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Miroslaw K.",
+        "url": "https://os.mbed.com/users/karpent/"
+    },
+    "description": "Tiny graphics library for STM32F746G-DISCO board",
+    "examples": [
+        "https://os.mbed.com/users/karpent/code/RadarDemo/",
+        "https://os.mbed.com/users/karpent/code/3DDemo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO-F746",
+        "F746",
+        "Graphics",
+        "karpent"
+    ],
+    "name": "Graphics",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/karpent/code/Graphics/"
+    }
+}

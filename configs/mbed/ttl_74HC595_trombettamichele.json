@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Trombetta Michele",
+        "url": "https://os.mbed.com/users/trombettamichele/"
+    },
+    "description": "Small library for controll the TTL74HC595, who is a SerialIn-ParallelOut",
+    "frameworks": "mbed",
+    "keywords": "TTL74HC595",
+    "name": "ttl_74HC595",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/trombettamichele/code/ttl_74HC595/"
+    }
+}

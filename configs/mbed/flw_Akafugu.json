@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Akafugu",
+        "url": "https://os.mbed.com/teams/Akafugu/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "_24LCXXX"
+        }
+    ],
+    "description": "Four Letter Word generator based on an associative word dictionary.",
+    "examples": [
+        "https://os.mbed.com/teams/Akafugu/code/vfd_modular_clock_mbed/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "flw",
+    "name": "flw",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Akafugu/code/flw/"
+    }
+}

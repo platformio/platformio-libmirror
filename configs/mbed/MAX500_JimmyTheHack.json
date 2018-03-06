@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Jimmy Hack",
+        "url": "https://os.mbed.com/users/JimmyTheHack/"
+    },
+    "dependencies": [
+        {
+            "authors": "Jimmy Hack",
+            "frameworks": "mbed",
+            "name": "DAC"
+        }
+    ],
+    "description": "The MAX500 is an 8 bit DAC that can output to higher voltages (~12V). The chip has 4 onboard DAC channels.",
+    "frameworks": "mbed",
+    "keywords": [
+        "dac",
+        "MAX500",
+        "SPI"
+    ],
+    "name": "MAX500",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JimmyTheHack/code/MAX500/"
+    }
+}

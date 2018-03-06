@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Kaoru Onoe",
+        "url": "https://os.mbed.com/users/kayekss/"
+    },
+    "description": "Text console library for ST7032 text LCD controller over I2C interface.",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "ST7032",
+        "TextLCD"
+    ],
+    "name": "TextLCD_ST7032I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kayekss/code/TextLCD_ST7032I2C/"
+    }
+}

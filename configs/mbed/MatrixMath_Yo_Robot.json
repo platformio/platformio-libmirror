@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Ernesto Palacios",
+        "url": "https://os.mbed.com/users/Yo_Robot/"
+    },
+    "description": "This class provides with operations for Matrix Objects",
+    "examples": [
+        "https://os.mbed.com/users/Yo_Robot/code/Matrix_class/",
+        "https://os.mbed.com/users/RANDON/code/Wizardsneverdie/",
+        "https://os.mbed.com/users/yenzo/code/mbed_multiplex_matrix/",
+        "https://os.mbed.com/users/arthurdelange/code/Kinematics_Project_G5/",
+        "https://os.mbed.com/users/tvlogman/code/locomotion_pid_action_refactor_EMG/",
+        "https://os.mbed.com/users/RoyvZ/code/EMGFilter_copy_VOORMATTHIJS/",
+        "https://os.mbed.com/users/RoyvZ/code/TestSubjectA/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "algebra",
+        "Kinematics",
+        "Linear",
+        "matrix"
+    ],
+    "name": "MatrixMath",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Yo_Robot/code/MatrixMath/"
+    }
+}

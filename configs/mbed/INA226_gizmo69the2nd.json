@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Davy Van Belle",
+        "url": "https://os.mbed.com/users/gizmo69the2nd/"
+    },
+    "description": "Texas Instruments INA226 High-or Low-Side Measurement, Bi-Directional CURRENT/POWER MONITOR with I 2C™ Interface http://www.ti.com/product/ina226&DCMP=analog_signalchain_mr&HQS=ina226-pr",
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "current",
+        "INA226",
+        "Instruments",
+        "monitor",
+        "Power",
+        "Texas",
+        "voltage"
+    ],
+    "name": "INA226",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gizmo69the2nd/code/INA226/"
+    }
+}

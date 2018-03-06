@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Yann Garcia",
+        "url": "https://os.mbed.com/users/Yann/"
+    },
+    "description": "This class provides simplified I2C access to a MAXIM DS130x Real-Time Clock device, even if the LPC1768 has an embedded RTC module. My objective is to share the same RTC ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "DS130x",
+        "Maxim",
+        "RTC"
+    ],
+    "name": "DS130x_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Yann/code/DS130x_I2C/"
+    }
+}

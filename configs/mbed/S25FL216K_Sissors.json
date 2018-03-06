@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "Serial flash memory, binary access",
+    "examples": [
+        "https://os.mbed.com/users/Sissors/code/S25FL216K_USBFileSystem/",
+        "https://os.mbed.com/users/wbeaumont/code/SPItest/",
+        "https://os.mbed.com/users/mkilivan/code/S25FL216K_USBFileSystem/",
+        "https://os.mbed.com/users/mkilivan/code/S25FL216K_FATFileSystem/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "flash",
+        "S25FL216K",
+        "Serial"
+    ],
+    "name": "S25FL216K",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/S25FL216K/"
+    }
+}

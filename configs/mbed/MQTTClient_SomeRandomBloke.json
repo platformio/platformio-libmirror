@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Andrew Lindsay",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/"
+    },
+    "description": "MQTTClient",
+    "examples": [
+        "https://os.mbed.com/users/SomeRandomBloke/code/IoTGateway_Basic/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MQTT",
+    "name": "MQTTClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/code/MQTTClient/"
+    }
+}

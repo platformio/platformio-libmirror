@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Jim Carver",
+        "url": "https://os.mbed.com/users/JimCarver/"
+    },
+    "description": "Basic component library for the FXAS21000 gyro from Freescale",
+    "examples": [
+        "https://os.mbed.com/users/JimCarver/code/Hello_FXAS21000/",
+        "https://os.mbed.com/users/JimCarver/code/Multi-Sensor/",
+        "https://os.mbed.com/teams/shields/code/Freescale_Multi-Sensor_Shield/",
+        "https://os.mbed.com/users/ajtag/code/FRDM-STBC-AGM01/",
+        "https://os.mbed.com/users/Elecia/code/freedom_inertial_hello_world/",
+        "https://os.mbed.com/users/b50559/code/NerfGun_nRF24L01P_TX_9d0f/",
+        "https://os.mbed.com/users/julioefajardo/code/Freescale_Multi-Sensor_Quadcopter/",
+        "https://os.mbed.com/users/julioefajardo/code/FRDM_EMG_Galileo_Hand/",
+        "https://os.mbed.com/users/fernandosmartinelli/code/Hello_FXOS8700Q/",
+        "https://os.mbed.com/users/siddharthp/code/frdm_QuadCopter_new/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Freescale",
+        "gyro",
+        "sensor"
+    ],
+    "name": "FXAS21000",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JimCarver/code/FXAS21000/"
+    }
+}

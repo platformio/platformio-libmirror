@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "SG12864A",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/SG12864A_TestProgram/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Graphics",
+        "LCD"
+    ],
+    "name": "SG12864A",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/SG12864A/"
+    }
+}

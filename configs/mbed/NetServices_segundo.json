@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Segundo Equipo",
+        "url": "https://os.mbed.com/users/segundo/"
+    },
+    "description": "NetServices",
+    "examples": [
+        "https://os.mbed.com/users/hlipka/code/TimeZoneDemo/",
+        "https://os.mbed.com/users/hlipka/code/EthernetJackTestCode/",
+        "https://os.mbed.com/users/DeMein/code/MMEx_Challenge/",
+        "https://os.mbed.com/users/hlipka/code/ntp_mem/",
+        "https://os.mbed.com/users/simon/code/TwitteringBilly/",
+        "https://os.mbed.com/users/etudiant12/code/RTOS/",
+        "https://os.mbed.com/users/segundo/code/NetServices_HelloWorld/",
+        "https://os.mbed.com/users/segundo/code/SMTPClient_HelloWorld/",
+        "https://os.mbed.com/users/user3259784281760646093/code/lightcontrollegacy/",
+        "https://os.mbed.com/users/jt/code/MCBBThermostat/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "NetServices",
+    "name": "NetServices",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/segundo/code/NetServices/"
+    }
+}

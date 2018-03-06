@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Richard McWilliam",
+        "url": "https://os.mbed.com/users/rmcwilliam101/"
+    },
+    "description": "Library for the ADXL362 Accelerometer",
+    "examples": [
+        "https://os.mbed.com/users/jbillingham/code/mbed_Y2PROJECT_FIRST/",
+        "https://os.mbed.com/users/jbillingham/code/mbed_protoy2project/",
+        "https://os.mbed.com/users/jbillingham/code/mbed_savedataproto/",
+        "https://os.mbed.com/users/mzpf46/code/mbed_menu/",
+        "https://os.mbed.com/users/jbillingham/code/computingproject/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ADXL362",
+    "name": "ADXL362",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rmcwilliam101/code/ADXL362/"
+    }
+}

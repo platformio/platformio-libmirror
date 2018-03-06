@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Antonio Quevedo",
+        "url": "https://os.mbed.com/users/quevedo/"
+    },
+    "description": "This is a VERY low-level library for controlling the TSI hardware module in a KL25 microcontroller. The programmer creates the TSI object passing basic parameters, and selects the active channels. ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "KL25",
+        "touch",
+        "TSI"
+    ],
+    "name": "TSIHW",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/quevedo/code/TSIHW/"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "kazushiro tanimoto",
+        "url": "https://os.mbed.com/users/zero515/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ST_INTERFACES"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "X_NUCLEO_COMMON"
+        }
+    ],
+    "description": "test",
+    "frameworks": "mbed",
+    "keywords": "53L0A1",
+    "name": "53L0A1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/zero515/code/53L0A1/"
+    }
+}

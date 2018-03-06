@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Takashi Matsuoka",
+        "url": "https://os.mbed.com/users/matsujirushi/"
+    },
+    "description": "Interactive functions for UART.",
+    "frameworks": "mbed",
+    "keywords": "MJ_LineSerial",
+    "name": "MJ_LineSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/matsujirushi/code/MJ_LineSerial/"
+    }
+}

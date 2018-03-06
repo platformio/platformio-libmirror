@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "JP PANG",
+        "url": "https://os.mbed.com/users/jppang/"
+    },
+    "description": "Rewrite the NokiaLCD lib with SWSPI lib in order to fit in with 9 bits SPI mode",
+    "examples": [
+        "https://os.mbed.com/users/jppang/code/KL46Z_NokiaLCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "6100",
+        "6600",
+        "KL25z",
+        "kl46z",
+        "NokiaLCD"
+    ],
+    "name": "NokiaLCD_SWSPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jppang/code/NokiaLCD_SWSPI/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Toby Harris",
+        "url": "https://os.mbed.com/users/tobyspark/"
+    },
+    "description": "http://ndevilla.free.fr/iniparser/ Welcome to iniParser -- version 3.1 released 08 Apr 2012 This modules offers parsing of ini files from the C level. See a complete documentation in HTML format, from ...",
+    "examples": [
+        "https://os.mbed.com/users/tobyspark/code/SPK-DVIMXR/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "iniparser",
+    "name": "iniparser",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tobyspark/code/iniparser/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Gert Lauritsen",
+        "url": "https://os.mbed.com/users/gert_lauritsen/"
+    },
+    "description": "Object for MX28 with rs485",
+    "frameworks": "mbed",
+    "keywords": [
+        "dynamixel",
+        "MX28",
+        "RS485"
+    ],
+    "name": "MX28",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gert_lauritsen/code/MX28/"
+    }
+}

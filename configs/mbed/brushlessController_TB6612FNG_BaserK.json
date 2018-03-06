@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Baser Kandehir",
+        "url": "https://os.mbed.com/users/BaserK/"
+    },
+    "description": "Brushless motor control library with TB6612FNG",
+    "examples": [
+        "https://os.mbed.com/users/BaserK/code/brushless_TB6612FNG/",
+        "https://os.mbed.com/users/BaserK/code/gimbalController_brushless_IMU/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "brushless",
+        "control",
+        "LPC1768",
+        "mbed",
+        "motor",
+        "TB6612FNG"
+    ],
+    "name": "brushlessController_TB6612FNG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BaserK/code/brushlessController_TB6612FNG/"
+    }
+}

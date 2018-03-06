@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Junichi Katsu",
+        "url": "https://os.mbed.com/users/jksoft/"
+    },
+    "description": "パケットごとに出し入れするFIFOバッファ",
+    "frameworks": "mbed",
+    "keywords": "buffer",
+    "name": "PacketBuffer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jksoft/code/PacketBuffer/"
+    }
+}

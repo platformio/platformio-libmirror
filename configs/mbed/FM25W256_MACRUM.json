@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Toyomasa Watarai",
+        "url": "https://os.mbed.com/users/MACRUM/"
+    },
+    "description": "Cypress F-RAM FM25W256 library",
+    "examples": [
+        "https://os.mbed.com/users/MACRUM/code/Hello-FM25W256/",
+        "https://os.mbed.com/users/ohneta/code/Hello-FM25W256/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "cypress",
+        "F-RAM"
+    ],
+    "name": "FM25W256",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MACRUM/code/FM25W256/"
+    }
+}

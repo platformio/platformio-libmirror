@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Rune Langoy",
+        "url": "https://os.mbed.com/users/rlanghbv/"
+    },
+    "description": "A TextLCD interface for driving 4-bit 16x2 KS0066U LCD",
+    "examples": [
+        "https://os.mbed.com/users/rlanghbv/code/KS0066U4_16x2/",
+        "https://os.mbed.com/teams/Supergeniene-pa-bakerste-rad/code/LAB05_Oppgave4/",
+        "https://os.mbed.com/teams/Supergeniene-pa-bakerste-rad/code/LAB05_Oppgave2/",
+        "https://os.mbed.com/teams/Supergeniene-pa-bakerste-rad/code/LAB05_Oppgave3/",
+        "https://os.mbed.com/teams/El-POM10011/code/LAB05_Oppgave2/",
+        "https://os.mbed.com/teams/El-POM10011/code/LAB05_Oppgave3/",
+        "https://os.mbed.com/users/hypark/code/Core1000_SmartFarm/",
+        "https://os.mbed.com/teams/Coreonetech/code/CORE-1000_IoT/",
+        "https://os.mbed.com/users/davroina/code/MARISOL/",
+        "https://os.mbed.com/users/odb/code/Nucleo_TLCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "16x2",
+        "4-bit",
+        "4bit",
+        "KS0066U",
+        "LCD",
+        "LCD 16x2"
+    ],
+    "name": "LCDLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rlanghbv/code/LCDLib/"
+    }
+}

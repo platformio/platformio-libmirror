@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "SE HUI PARK",
+        "url": "https://os.mbed.com/users/aluqard/"
+    },
+    "description": "arduino library for mbed",
+    "examples": [
+        "https://os.mbed.com/users/aluqard/code/Gameduino2/",
+        "https://os.mbed.com/users/kkc/code/MemoryGame/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "arduino",
+    "name": "arduino",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aluqard/code/arduino/"
+    }
+}

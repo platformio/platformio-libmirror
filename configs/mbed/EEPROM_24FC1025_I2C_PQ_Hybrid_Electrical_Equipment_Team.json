@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "PQ_Hybrid_Electrical_Equipment_Team",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/"
+    },
+    "description": "24FC1025",
+    "examples": [
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/Hybrid_EEPROM/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "EEPROM_24FC1025_I2C",
+    "name": "EEPROM_24FC1025_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/EEPROM_24FC1025_I2C/"
+    }
+}

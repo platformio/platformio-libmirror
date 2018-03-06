@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "David Mort",
+        "url": "https://os.mbed.com/users/dtmort/"
+    },
+    "description": "CLASS for automated serial 'chip select' implimentation utilizing mbed LPC1768 Timer2 hardware and it's inturrupt features.",
+    "frameworks": "mbed",
+    "keywords": [
+        "chip select",
+        "master",
+        "Serial",
+        "SPI"
+    ],
+    "name": "SSEL_spi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dtmort/code/SSEL_spi/"
+    }
+}

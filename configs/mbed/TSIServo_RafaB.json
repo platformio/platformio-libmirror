@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Wilmer Briceño",
+        "url": "https://os.mbed.com/users/RafaB/"
+    },
+    "description": "Libreria para manejo de Touchpad",
+    "frameworks": "mbed",
+    "keywords": "touch",
+    "name": "TSIServo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RafaB/code/TSIServo/"
+    }
+}

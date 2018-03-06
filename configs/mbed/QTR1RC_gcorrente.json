@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Gustavo Corrente",
+        "url": "https://os.mbed.com/users/gcorrente/"
+    },
+    "description": "QTR1RC class is the interface to read the Pololu QTR-xRC Reflectance Sensor. int read(): return the reflectance factor. * 1500-0: higher values is more reflectance * -1 no reflectance",
+    "frameworks": "mbed",
+    "keywords": "QTR1RC",
+    "name": "QTR1RC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gcorrente/code/QTR1RC/"
+    }
+}

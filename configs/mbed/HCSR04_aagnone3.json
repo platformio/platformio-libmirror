@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Anthony Agnone",
+        "url": "https://os.mbed.com/users/aagnone3/"
+    },
+    "dependencies": [
+        {
+            "authors": "Anthony Agnone",
+            "frameworks": "mbed",
+            "name": "PulseManager"
+        }
+    ],
+    "description": "Provides interface for reading distance measurements from the HCSR04 ultrasonic distance sensor.",
+    "frameworks": "mbed",
+    "keywords": "HCSR04",
+    "name": "HCSR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aagnone3/code/HCSR04/"
+    }
+}

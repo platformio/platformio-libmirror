@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Mario Poneder",
+        "url": "https://os.mbed.com/users/MarioPoneder/"
+    },
+    "description": "AD7190 driver. Based on the implementation from Dan Nechita (Analog Devices)",
+    "frameworks": "mbed",
+    "keywords": [
+        "AD7190",
+        "adc",
+        "driver"
+    ],
+    "name": "ADC_AD7190",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MarioPoneder/code/ADC_AD7190/"
+    }
+}

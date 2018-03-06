@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Kojo",
+        "url": "https://os.mbed.com/users/takashikojo/"
+    },
+    "description": "softwarePWM by ticker, timer",
+    "examples": [
+        "https://os.mbed.com/teams/Seeed/code/Seeed_Motor_Shield_HelloWorld/",
+        "https://os.mbed.com/teams/Outrageous-Circuits/code/Official_MedusaIcon/",
+        "https://os.mbed.com/teams/shields/code/Seeed_Motor_Shield/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "pwm",
+        "softwarePWM"
+    ],
+    "name": "SoftwarePWM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/takashikojo/code/SoftwarePWM/"
+    }
+}

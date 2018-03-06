@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "justin kim",
+        "url": "https://os.mbed.com/users/justinkim/"
+    },
+    "description": "tone function Library",
+    "examples": [
+        "https://os.mbed.com/users/justinkim/code/PiezoBuzzer_HelloWorld_WIZwiki-W7500/",
+        "https://os.mbed.com/teams/The-Kragl/code/kragl/",
+        "https://os.mbed.com/teams/The-Kragl/code/kragl_v2/",
+        "https://os.mbed.com/users/justinkim/code/Internet_Orgel/",
+        "https://os.mbed.com/teams/Hexiwear/code/Hexi_Click_Buzzer_Example/",
+        "https://os.mbed.com/teams/Hexiwear/code/Hexi_Click_Buzzer-v2_Example/",
+        "https://os.mbed.com/teams/IOP/code/Internet_Orgel/",
+        "https://os.mbed.com/teams/xCrocoDiffusion/code/Ticker_buzzer/",
+        "https://os.mbed.com/teams/DFFLab/code/PiezoBuzzer_SuperMario/",
+        "https://os.mbed.com/users/Fleishmachine/code/PiezoBuzzer_HelloWorld_WIZwiki-W7500/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "buzzer",
+        "pwm",
+        "tone",
+        "tune"
+    ],
+    "name": "PWM_Tone_Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/justinkim/code/PWM_Tone_Library/"
+    }
+}

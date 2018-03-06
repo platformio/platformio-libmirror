@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://os.mbed.com/users/simon/"
+    },
+    "description": "A very simple example of a library to flash a DigitalOut, used to demonstrate how to write a library",
+    "frameworks": "mbed",
+    "keywords": "digitalOut",
+    "name": "Flasher",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/simon/code/Flasher/"
+    }
+}

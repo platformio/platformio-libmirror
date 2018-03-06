@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Tobias Haegermarck",
+        "url": "https://os.mbed.com/users/Tobias/"
+    },
+    "description": "Serial terminal, mainly for debugging purposes",
+    "frameworks": "mbed",
+    "keywords": [
+        "debug",
+        "debugging",
+        "Serial",
+        "term",
+        "Terminal"
+    ],
+    "name": "SerialTerm",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Tobias/code/SerialTerm/"
+    }
+}

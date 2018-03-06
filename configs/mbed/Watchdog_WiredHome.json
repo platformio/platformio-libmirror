@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "David Smart",
+        "url": "https://os.mbed.com/users/WiredHome/"
+    },
+    "description": "This provides a basic Watchdog service, and includes a startup detection to determine if the reset was caused by the WD.",
+    "examples": [
+        "https://os.mbed.com/users/WiredHome/code/A_CANAdapter/",
+        "https://os.mbed.com/users/guiott/code/LeonardoMbos/",
+        "https://os.mbed.com/users/shimniok/code/AVC_2012/",
+        "https://os.mbed.com/users/JavierGC/code/RT_CAN/",
+        "https://os.mbed.com/users/WiredHome/code/WattEye/",
+        "https://os.mbed.com/users/WiredHome/code/PUB_SWUpdate/",
+        "https://os.mbed.com/teams/2014/code/CatPot_SensorRight_F/",
+        "https://os.mbed.com/teams/2014/code/CatPot_SensorRight_T/",
+        "https://os.mbed.com/users/WiredHome/code/X10-Server/",
+        "https://os.mbed.com/users/WiredHome/code/SignalGenerator/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "watchdog",
+    "name": "Watchdog",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WiredHome/code/Watchdog/"
+    }
+}

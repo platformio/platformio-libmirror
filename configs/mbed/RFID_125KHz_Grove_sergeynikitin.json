@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Sergey Nikitin",
+        "url": "https://os.mbed.com/users/sergeynikitin/"
+    },
+    "description": "Library for Grove RFID scanner (http://www.seeedstudio.com/wiki/Grove_-_125KHz_RFID_Reader) Model: SEN11425P",
+    "frameworks": "mbed",
+    "keywords": [
+        "Grove",
+        "RFID",
+        "SEN11425P",
+        "Serial"
+    ],
+    "name": "RFID_125KHz_Grove",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sergeynikitin/code/RFID_125KHz_Grove/"
+    }
+}

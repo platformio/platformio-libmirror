@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Habibur Rahman",
+        "url": "https://os.mbed.com/users/emoninet2/"
+    },
+    "description": "stable library for the Nordic NRF24L01+ radio transciever",
+    "frameworks": "mbed",
+    "keywords": "NRF24L01P",
+    "name": "NRF24L01P",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/emoninet2/code/NRF24L01P/"
+    }
+}

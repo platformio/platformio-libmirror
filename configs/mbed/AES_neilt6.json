@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Neil Thiessen",
+        "url": "https://os.mbed.com/users/neilt6/"
+    },
+    "description": "A lightweight AES implementation with Cipher Block Chaining and Ciphertext Stealing.",
+    "examples": [
+        "https://os.mbed.com/users/neilt6/code/AES_HelloWorld/",
+        "https://os.mbed.com/users/neilt6/code/AES_ExtendedTests/",
+        "https://os.mbed.com/users/ajeet3004/code/AESslave_modified_test/",
+        "https://os.mbed.com/users/ajeet3004/code/AESslave_modified_test_27-9-2017/",
+        "https://os.mbed.com/users/ajeet3004/code/AESslave_modified_test_copy/",
+        "https://os.mbed.com/teams/ArmfulKST/code/BLE_LED_ADC_BBC/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AES",
+        "CBC",
+        "cipher",
+        "Crypto",
+        "CTS",
+        "ECB"
+    ],
+    "name": "AES",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/neilt6/code/AES/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Shinya Okumura",
+        "url": "https://os.mbed.com/users/briareos/"
+    },
+    "description": "I2C LCD Library",
+    "frameworks": "mbed",
+    "keywords": "libLcd",
+    "name": "libLcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/briareos/code/libLcd/"
+    }
+}

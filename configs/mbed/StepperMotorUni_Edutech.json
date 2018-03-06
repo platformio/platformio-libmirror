@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Edutech IoT Team",
+        "url": "https://os.mbed.com/teams/Edutech/"
+    },
+    "description": "Unipolar Stepper Motor Library, Supports Single Step and Half Step, Directions Supported, Speed Configuration supported in MSPS(MIlliseconds per step), Interrupt mode supported SYNCRONOUS.",
+    "frameworks": "mbed",
+    "keywords": "StepperMotorUni",
+    "name": "StepperMotorUni",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Edutech/code/StepperMotorUni/"
+    }
+}

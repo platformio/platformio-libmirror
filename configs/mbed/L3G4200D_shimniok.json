@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Michael Shimniok",
+        "url": "https://os.mbed.com/users/shimniok/"
+    },
+    "description": "Interface library for ST L3G4200D gyro ported from Pololu.com L3G4200D Arduino library",
+    "examples": [
+        "https://os.mbed.com/users/tzxl10000/code/Fish_2014Fall/",
+        "https://os.mbed.com/users/RenjianHao/code/Fish_2014Fall/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "gyro",
+    "name": "L3G4200D",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shimniok/code/L3G4200D/"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://os.mbed.com/users/simon/"
+    },
+    "description": "Library for the EM-406 GPS module",
+    "examples": [
+        "https://os.mbed.com/users/simon/code/GPS_HelloWorld/",
+        "https://os.mbed.com/users/kadams6/code/Lab3/",
+        "https://os.mbed.com/users/takeuchi/code/2bk0115_GPS_Test00/",
+        "https://os.mbed.com/users/hanif/code/campur/",
+        "https://os.mbed.com/users/drealfemo/code/mbed_gps/",
+        "https://os.mbed.com/teams/Project-Supergroup-06/code/mbed_gps/",
+        "https://os.mbed.com/users/Alex4475/code/CompleteMbed/",
+        "https://os.mbed.com/users/arturocontreras/code/Algoritmo_Fuzzy/",
+        "https://os.mbed.com/users/samialshorman/code/BluetoothNONIN/",
+        "https://os.mbed.com/users/Gjika/code/GPS_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "EM406",
+        "GPS",
+        "library",
+        "Serial"
+    ],
+    "name": "GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/simon/code/GPS/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Miguel Urco",
+        "url": "https://os.mbed.com/users/miguelcordero191/"
+    },
+    "description": "DDS AD9854, library to configure a AD9854 Serial Interface (SPI)",
+    "examples": [
+        "https://os.mbed.com/users/miguelcordero191/code/JRO_DDSv2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "AD9854",
+    "name": "AD9854",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/miguelcordero191/code/AD9854/"
+    }
+}

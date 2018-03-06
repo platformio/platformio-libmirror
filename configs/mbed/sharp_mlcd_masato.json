@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Masato YAMANISHI",
+        "url": "https://os.mbed.com/users/masato/"
+    },
+    "description": "library for Sharp memory LCD (LS027B4DH01)",
+    "examples": [
+        "https://os.mbed.com/users/masato/code/Sharp_Memory_LCD_Test/",
+        "https://os.mbed.com/users/rain72000/code/Sharp_Memory_LCD_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "sharp_mlcd",
+    "name": "sharp_mlcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/masato/code/sharp_mlcd/"
+    }
+}

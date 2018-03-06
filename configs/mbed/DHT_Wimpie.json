@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Wim De Roeve",
+        "url": "https://os.mbed.com/users/Wimpie/"
+    },
+    "description": "DHT",
+    "examples": [
+        "https://os.mbed.com/users/umairaftab/code/DHT-11/",
+        "https://os.mbed.com/users/lanmaomao7/code/DHT-11/",
+        "https://os.mbed.com/teams/Kenya_CWM2015/code/Weather_Station_Ofiicial/",
+        "https://os.mbed.com/users/mohamedgamal/code/cansat3/",
+        "https://os.mbed.com/users/cloudhome/code/Pet-iot-ws/",
+        "https://os.mbed.com/users/galluta/code/mDot_TTN_DHT22/",
+        "https://os.mbed.com/users/nicoschtein/code/mDot_LoRa_TTN_weather_node/",
+        "https://os.mbed.com/teams/FRA221_2015/code/A5_Project_SmartBarn/",
+        "https://os.mbed.com/users/dagga/code/lora-temperature/",
+        "https://os.mbed.com/users/Maarten_BE/code/LoRaTempHumIoT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DHT11",
+        "DHT22",
+        "Grove"
+    ],
+    "name": "DHT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Wimpie/code/DHT/"
+    }
+}

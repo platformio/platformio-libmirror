@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Ethan Harstad",
+        "url": "https://os.mbed.com/users/ethanharstad/"
+    },
+    "dependencies": [
+        {
+            "authors": "Ethan Harstad",
+            "frameworks": "mbed",
+            "name": "I2CHelper"
+        }
+    ],
+    "description": "A library for the Invensense MPU9150",
+    "examples": [
+        "https://os.mbed.com/teams/Aerodyne/code/Atlas_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "IMU",
+        "MPU9150"
+    ],
+    "name": "MPU9150",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ethanharstad/code/MPU9150/"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Kevin Gillepsie",
+        "url": "https://os.mbed.com/users/kgills/"
+    },
+    "description": "Device driver for the BMP180 Digital pressure and temperature sensor.",
+    "examples": [
+        "https://os.mbed.com/users/kgills/code/BMP180_example/",
+        "https://os.mbed.com/teams/MaximIntegrated/code/MAXWSNENV_sensors/",
+        "https://os.mbed.com/users/bgrattan/code/MAXWSNENV_sensors/",
+        "https://os.mbed.com/users/yanndouze/code/nRF51822_BMP180/",
+        "https://os.mbed.com/users/geekfamily/code/HiO/",
+        "https://os.mbed.com/users/xinxin19871118/code/LCCsNRF51822Demo/",
+        "https://os.mbed.com/users/oscarvzfz/code/SAT_OLED/",
+        "https://os.mbed.com/users/NilliM/code/Mbedesclava/",
+        "https://os.mbed.com/users/Yayg/code/MP_RedBearLab_BMP180/",
+        "https://os.mbed.com/teams/MaximIntegrated/code/MAXWSNENV_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BMP180",
+    "name": "BMP180",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kgills/code/BMP180/"
+    }
+}

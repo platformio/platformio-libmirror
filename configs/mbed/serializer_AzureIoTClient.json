@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Azure IoT",
+        "url": "https://os.mbed.com/users/AzureIoTClient/"
+    },
+    "description": "A modelling and serializer library for Microsoft Azure IoTHub client applications",
+    "examples": [
+        "https://os.mbed.com/users/ppatierno/code/sht15_remote_monitoring/",
+        "https://os.mbed.com/users/lrh/code/f767zi_mqtt/",
+        "https://os.mbed.com/users/AzureIoTClient/code/remote_monitoring/",
+        "https://os.mbed.com/users/AzureIoTClient/code/simplesample_amqp/",
+        "https://os.mbed.com/users/AzureIoTClient/code/simplesample_http/",
+        "https://os.mbed.com/users/AzureIoTClient/code/simplesample_mqtt/",
+        "https://os.mbed.com/users/AzureIoTClient/code/temp_sensor_anomaly/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "serializer",
+    "name": "serializer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AzureIoTClient/code/serializer/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Dr. Pucher",
+        "url": "https://os.mbed.com/users/bulmecisco/"
+    },
+    "description": "Bulme lib for temp sensor LM75B",
+    "examples": [
+        "https://os.mbed.com/users/Okoshi/code/mbed-os-example-wifi-ThingSpeak/",
+        "https://os.mbed.com/users/ser1516/code/mbed_freeRTOS_send/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LM75B",
+    "name": "LM75B",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bulmecisco/code/LM75B/"
+    }
+}

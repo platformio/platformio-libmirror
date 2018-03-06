@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Micah B",
+        "url": "https://os.mbed.com/users/mbotkinl/"
+    },
+    "description": "usb",
+    "examples": [
+        "https://os.mbed.com/users/mbotkinl/code/finalV1/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalV1/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalv2/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalv3/",
+        "https://os.mbed.com/users/Vlad/code/Test_Chirp/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "USBDevice",
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbotkinl/code/USBDevice/"
+    }
+}

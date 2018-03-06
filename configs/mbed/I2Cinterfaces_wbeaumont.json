@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "wimbeaumont Project",
+        "url": "https://os.mbed.com/users/wbeaumont/"
+    },
+    "description": "(MBED) implementation of the I2C interface",
+    "examples": [
+        "https://os.mbed.com/users/wbeaumont/code/MCP23009tst/",
+        "https://os.mbed.com/users/wbeaumont/code/MCP4728test/",
+        "https://os.mbed.com/users/wbeaumont/code/AT30TSE752TST2/",
+        "https://os.mbed.com/users/wbeaumont/code/AT30TSE752TST/",
+        "https://os.mbed.com/users/wbeaumont/code/MCP4728setaddrProg/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "I2Cinterfaces",
+    "name": "I2Cinterfaces",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wbeaumont/code/I2Cinterfaces/"
+    }
+}

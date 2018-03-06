@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Luis Linares",
+        "url": "https://os.mbed.com/users/macgyveremir/"
+    },
+    "description": "A Simple TCP & UDP Socket Library. An update from that of Hiroshi Yamaguchi.",
+    "frameworks": "mbed",
+    "keywords": [
+        "networking",
+        "socket",
+        "TCP",
+        "UDP"
+    ],
+    "name": "SimpleSocket",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/macgyveremir/code/SimpleSocket/"
+    }
+}

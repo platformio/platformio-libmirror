@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Stefan Mueller",
+        "url": "https://os.mbed.com/users/NeoBelerophon/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Allows RS485 communication using MAX485 chip",
+    "frameworks": "mbed",
+    "keywords": [
+        "MAX485",
+        "RS485"
+    ],
+    "name": "RS485",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/NeoBelerophon/code/RS485/"
+    }
+}

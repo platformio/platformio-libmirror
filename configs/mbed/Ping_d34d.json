@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Clark Scheff",
+        "url": "https://os.mbed.com/users/d34d/"
+    },
+    "dependencies": [
+        {
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
+            "name": "FPointer"
+        }
+    ],
+    "description": "Library for interfacing with the Parallax Ping))) sensor.",
+    "frameworks": "mbed",
+    "keywords": [
+        "parallax",
+        "PING",
+        "ping)))",
+        "sensor",
+        "ultrasonic"
+    ],
+    "name": "Ping",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/d34d/code/Ping/"
+    }
+}

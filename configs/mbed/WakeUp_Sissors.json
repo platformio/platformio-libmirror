@@ -1,0 +1,41 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "dependencies": [
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "LPC1114_WakeInterruptIn"
+        }
+    ],
+    "description": "Wake-up timer library to wake from deepsleep/power-down",
+    "examples": [
+        "https://os.mbed.com/users/Sissors/code/LPC812_Sleep_HelloWorld/",
+        "https://os.mbed.com/users/star297/code/KL05Z_DCF77_RTC_Clock/",
+        "https://os.mbed.com/users/kenjiArai/code/LPC1114_data_logger/",
+        "https://os.mbed.com/users/mikewebkist/code/mBuinoBlinky/",
+        "https://os.mbed.com/users/wernert/code/mBuino_low_power_led_flasher/",
+        "https://os.mbed.com/users/AndyA/code/SleepyCounting/",
+        "https://os.mbed.com/users/joshchen/code/Nucleo_sleep/",
+        "https://os.mbed.com/users/Lakshmikumar/code/Final/",
+        "https://os.mbed.com/teams/Megtestesules-Plebania-hobbielektronika-/code/08_wakeup/",
+        "https://os.mbed.com/teams/MultiTech/code/Dragonfly_Low_Power_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "KL25z",
+        "LPC800-MAX",
+        "LPC812",
+        "powerdown",
+        "Sleep",
+        "wake-up"
+    ],
+    "name": "WakeUp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/WakeUp/"
+    }
+}

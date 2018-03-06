@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Jack Berkhout",
+        "url": "https://os.mbed.com/users/JackB/"
+    },
+    "description": "HSV2RGB and RGB2HSV",
+    "examples": [
+        "https://os.mbed.com/users/JackB/code/RGB_Matrix_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HSV",
+    "name": "HSV",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JackB/code/HSV/"
+    }
+}

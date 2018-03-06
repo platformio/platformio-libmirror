@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Stephen Laskowski",
+        "url": "https://os.mbed.com/users/laskowsk/"
+    },
+    "description": "HX711 code",
+    "examples": [
+        "https://os.mbed.com/users/mcragun/code/loadcell/",
+        "https://os.mbed.com/users/laskowsk/code/Dolphin/",
+        "https://os.mbed.com/users/laskowsk/code/2_131TEST/",
+        "https://os.mbed.com/users/franni/code/loadcell_hx711/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HX711",
+    "name": "HX711",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/laskowsk/code/HX711/"
+    }
+}

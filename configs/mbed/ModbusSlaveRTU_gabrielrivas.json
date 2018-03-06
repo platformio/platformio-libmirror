@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Gabriel Rivas",
+        "url": "https://os.mbed.com/users/gabrielrivas/"
+    },
+    "description": "Modbus RTU class for slave devices. It shares data with other software components via a Message queue object, and can exist more than one Modbus Slave RTU instances in a ...",
+    "examples": [
+        "https://os.mbed.com/users/gabrielrivas/code/Nucleo_modbus_protocol_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "modbus rtu",
+        "real time",
+        "rtos",
+        "serial protocol"
+    ],
+    "name": "ModbusSlaveRTU",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gabrielrivas/code/ModbusSlaveRTU/"
+    }
+}

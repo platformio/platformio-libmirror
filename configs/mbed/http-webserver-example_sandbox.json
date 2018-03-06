@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "sandbox",
+        "url": "https://os.mbed.com/teams/sandbox/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "mbed-http"
+        }
+    ],
+    "description": "Webserver example for mbed OS 5 - HTTP 1.1 and multi-threaded",
+    "frameworks": "mbed",
+    "keywords": "http-webserver-example",
+    "name": "http-webserver-example",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/sandbox/code/http-webserver-example/"
+    }
+}

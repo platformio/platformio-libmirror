@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "BNO055 Intelligent 9-axis absolute orientation sensor by Bosch Sensortec. It includes ACC, MAG and GYRO sensors and Cortex-M0+ processor.",
+    "examples": [
+        "https://os.mbed.com/teams/Ben-Simon-Inez-IDD/code/BNO055_test/",
+        "https://os.mbed.com/users/tommyallen/code/BNO055-ELEC3810/",
+        "https://os.mbed.com/users/tommyallen/code/1BNO055/",
+        "https://os.mbed.com/users/el13ytg/code/TOM-1BNO055/",
+        "https://os.mbed.com/users/alaurens/code/DEMO3/",
+        "https://os.mbed.com/users/alaurens/code/DEMO2/",
+        "https://os.mbed.com/users/alaurens/code/DEMO22/",
+        "https://os.mbed.com/users/alaurens/code/TEAM_G_FLOW_RIDA/",
+        "https://os.mbed.com/users/alaurens/code/STRAIGHT_DRIVE_NO_SEP/",
+        "https://os.mbed.com/users/12104404/code/FLOW_DERP/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "9-axis",
+        "acc",
+        "BNO055",
+        "Cortex-M0+",
+        "gyro",
+        "MAG",
+        "orientation",
+        "sensor"
+    ],
+    "name": "BNO055_fusion",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/BNO055_fusion/"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "David Grayson",
+        "url": "https://os.mbed.com/users/DavidEGrayson/"
+    },
+    "description": "This library lets you control the addressable RGB LED strips from Pololu Robotics & Electronics.",
+    "examples": [
+        "https://os.mbed.com/users/KongXiangyue/code/WoYaoChengGOng/",
+        "https://os.mbed.com/users/KongXiangyue/code/V2-WoYaoChengGOng/",
+        "https://os.mbed.com/users/Arkadi/code/STM32_MagneticLight/",
+        "https://os.mbed.com/users/tanabe2000/code/tape_Led_Sample/",
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/tape_Led_Sample/",
+        "https://os.mbed.com/users/DavidEGrayson/code/LedStripGradient/",
+        "https://os.mbed.com/users/DavidEGrayson/code/LedStripRainbow/",
+        "https://os.mbed.com/users/coloursearch/code/HamiltonCircleWorkshopLEDStrip/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "led strip"
+    ],
+    "name": "PololuLedStrip",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DavidEGrayson/code/PololuLedStrip/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Tobias Wulf",
+        "url": "https://os.mbed.com/users/flash_ahaa/"
+    },
+    "description": "PwmDAC is a library to run more the one PWM channel and channel updates at the time. Maximum PWM frequency is 48MHz. You can use for in example for rgb ...",
+    "examples": [
+        "https://os.mbed.com/users/flash_ahaa/code/DiscoTech/",
+        "https://os.mbed.com/users/XIZ/code/filter_implement/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "dac",
+        "more pwm",
+        "pwm",
+        "pwm 48Mhz",
+        "pwmdac"
+    ],
+    "name": "PwmDAC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/flash_ahaa/code/PwmDAC/"
+    }
+}

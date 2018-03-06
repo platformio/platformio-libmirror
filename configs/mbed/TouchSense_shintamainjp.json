@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "A capacitive touch sensor using a analog input port.",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/TouchSenseTestProgram/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AnalogIn",
+        "Capacitive",
+        "digitalOut",
+        "sensor",
+        "touch"
+    ],
+    "name": "TouchSense",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/TouchSense/"
+    }
+}

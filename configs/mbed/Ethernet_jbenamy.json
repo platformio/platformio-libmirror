@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Joseph Benamy",
+        "url": "https://os.mbed.com/users/jbenamy/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "EthernetInterface"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Ethernet part for lab 4",
+    "frameworks": "mbed",
+    "keywords": "Ethernet",
+    "name": "Ethernet",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jbenamy/code/Ethernet/"
+    }
+}

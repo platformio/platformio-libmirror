@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Aaron Berk",
+        "url": "https://os.mbed.com/users/aberk/"
+    },
+    "description": "ADXL345 triple axis, digital accelerometer library.",
+    "examples": [
+        "https://os.mbed.com/users/aberk/code/IMURover/",
+        "https://os.mbed.com/users/aberk/code/IMUfilter_RPYExample/",
+        "https://os.mbed.com/users/buntyshubho/code/xbee_base/",
+        "https://os.mbed.com/users/fyazgan/code/12_TCPIP/",
+        "https://os.mbed.com/users/jhaksar/code/Cave_Runner/",
+        "https://os.mbed.com/users/jdumond3/code/Lab3_1/",
+        "https://os.mbed.com/users/Nasupl/code/dataloger_for_modelrocket/",
+        "https://os.mbed.com/users/Brandon/code/Slingshot/",
+        "https://os.mbed.com/users/abarve9/code/Shiftbrite_With_Zigbee/",
+        "https://os.mbed.com/users/abarve9/code/image_display/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "ADXL345"
+    ],
+    "name": "ADXL345",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aberk/code/ADXL345/"
+    }
+}

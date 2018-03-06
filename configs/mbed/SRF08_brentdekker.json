@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Brent Dekker",
+        "url": "https://os.mbed.com/users/brentdekker/"
+    },
+    "description": "Library for interfacing the SRF08 ultrasonic range sensor. Most functions of the SRF08 are covered, including interrupt-based waiting for the ranging process to finish",
+    "examples": [
+        "https://os.mbed.com/users/dommbed/code/DISCO-F746NG_LCDTS_demo/",
+        "https://os.mbed.com/teams/eWolf-4-Regelung/code/Srf08Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "range",
+        "sensor",
+        "SRF08"
+    ],
+    "name": "SRF08",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/brentdekker/code/SRF08/"
+    }
+}

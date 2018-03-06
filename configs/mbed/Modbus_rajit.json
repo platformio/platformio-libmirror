@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Rajit Singh",
+        "url": "https://os.mbed.com/users/rajit/"
+    },
+    "description": "Port of the FreeModbus Libary for mbed, copied from https://developer.mbed.org/users/cam/code/Modbus/ and upgraded to mbed 5",
+    "frameworks": "mbed",
+    "keywords": "Modbus",
+    "name": "Modbus",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rajit/code/Modbus/"
+    }
+}

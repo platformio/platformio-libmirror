@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "fiuba robotica",
+        "url": "https://os.mbed.com/users/cuadrotor/"
+    },
+    "description": "Ready for usage of this device: http://gadgetgangster.com/find-a-project/56.html?projectnum=322",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "acelerometro",
+        "club",
+        "cuadricoptero",
+        "cuadrotor",
+        "fiuba",
+        "I2C",
+        "quadrotor",
+        "robotica",
+        "vuelo"
+    ],
+    "name": "accelerometer_i2c",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cuadrotor/code/accelerometer_i2c/"
+    }
+}

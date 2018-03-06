@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "gerard marchas",
+        "url": "https://os.mbed.com/users/gm/"
+    },
+    "description": "For Seiko M4024 (LCD 4x40)",
+    "frameworks": "mbed",
+    "keywords": "TextLCD_4x40",
+    "name": "TextLCD_4x40",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gm/code/TextLCD_4x40/"
+    }
+}

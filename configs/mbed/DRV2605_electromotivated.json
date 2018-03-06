@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Bryce Williams",
+        "url": "https://os.mbed.com/users/electromotivated/"
+    },
+    "description": "Basic I2C Driver for the TI DRV2605 Haptic Driver. Currently only supports Open-Loop ERM operation using internal Immersion TouchSense 2200 software/library, although user can use the Read/Write Byte methods to ...",
+    "examples": [
+        "https://os.mbed.com/users/electromotivated/code/DRV2605L_Haptic_Driver_Demo/",
+        "https://os.mbed.com/users/MatthewJGTate/code/IoT_Haptic_Noise_Irritator/",
+        "https://os.mbed.com/users/macenzofan/code/DuelingTanks/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "Haptics",
+        "motor",
+        "vibration"
+    ],
+    "name": "DRV2605",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/electromotivated/code/DRV2605/"
+    }
+}

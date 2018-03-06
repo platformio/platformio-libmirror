@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Hexley Ball",
+        "url": "https://os.mbed.com/users/hexley/"
+    },
+    "description": "NetTribute library with debug turned on in FShandler Donatien Garner -> Segundo Equipo -> this version",
+    "frameworks": "mbed",
+    "keywords": "NetServices",
+    "name": "NetServices",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hexley/code/NetServices/"
+    }
+}

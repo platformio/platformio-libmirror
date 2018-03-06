@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "frederic blanc",
+        "url": "https://os.mbed.com/users/fblanc/"
+    },
+    "description": "onewire 1-wire ds18x20 ds2450 multi-channel",
+    "examples": [
+        "https://os.mbed.com/users/Renato/code/ibutton/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "1-wire",
+        "ds18x20",
+        "DS2450",
+        "multi-channel",
+        "OneWire"
+    ],
+    "name": "OneWire",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fblanc/code/OneWire/"
+    }
+}

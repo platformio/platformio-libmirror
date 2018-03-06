@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Karl Maxwell",
+        "url": "https://os.mbed.com/users/karlmaxwell67/"
+    },
+    "description": "Class which provides functions to control a TAOS TCS3472 Color Light-to-Digital Converter with IR Filter via I2C.",
+    "examples": [
+        "https://os.mbed.com/users/IonSystems/code/Chipin_Main/",
+        "https://os.mbed.com/teams/The-A-Team/code/Test_Color/",
+        "https://os.mbed.com/teams/zzzzzzzzzz/code/LAB_10_control/",
+        "https://os.mbed.com/teams/Final-Project/code/FINAL_PROJECT/",
+        "https://os.mbed.com/teams/ES202-Final-Project-Gettinger-ThompsonSe/code/ES202FinalProject/",
+        "https://os.mbed.com/teams/Final-Project-ES202-Code/code/FINALPROJECT_ES202/",
+        "https://os.mbed.com/teams/Kelly-Saxton-Pierce-Jana/code/FinalProjectOperating/",
+        "https://os.mbed.com/teams/Ben-Keegan-Mitch-Bond-Nick-Dilleumber-Ri/code/Autonomous_Vehicle/",
+        "https://os.mbed.com/users/mon3ywolf/code/ES202_Final_Entire/",
+        "https://os.mbed.com/teams/Final-Project-ES202/code/ES202_Final_Entire/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "TCS3472",
+        "TCS34721",
+        "TCS34723",
+        "TCS34725",
+        "TCS34727"
+    ],
+    "name": "TCS3472_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/karlmaxwell67/code/TCS3472_I2C/"
+    }
+}

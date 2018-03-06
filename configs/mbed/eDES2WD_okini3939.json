@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "DAISEN eDES see: http://mbed.org/users/okini3939/notebook/daisen-edes/",
+    "frameworks": "mbed",
+    "keywords": [
+        "2wd",
+        "car",
+        "daisen",
+        "edes",
+        "I2C",
+        "robot"
+    ],
+    "name": "eDES2WD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/eDES2WD/"
+    }
+}

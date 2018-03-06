@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Pedro Enrique Vidal Peñas",
+        "url": "https://os.mbed.com/users/cr0n0s20/"
+    },
+    "description": "SERVO PARA QUADCOPTER",
+    "examples": [
+        "https://os.mbed.com/users/cr0n0s20/code/quadcopter/",
+        "https://os.mbed.com/users/gbeardall/code/servo1/",
+        "https://os.mbed.com/users/Rufaida/code/Elevator/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "quadcopter",
+        "Servo"
+    ],
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cr0n0s20/code/Servo/"
+    }
+}

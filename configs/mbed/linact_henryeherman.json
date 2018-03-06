@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Henry Herman",
+        "url": "https://os.mbed.com/users/henryeherman/"
+    },
+    "description": "Communicate with IAI Robotnet linear actuators",
+    "examples": [
+        "https://os.mbed.com/users/henryeherman/code/IAILinearActuators/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "actuators",
+        "control",
+        "industrial",
+        "Linear",
+        "Modbus",
+        "Over"
+    ],
+    "name": "linact",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/henryeherman/code/linact/"
+    }
+}

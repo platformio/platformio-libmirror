@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Dieter Graef",
+        "url": "https://os.mbed.com/users/DieterGraef/"
+    },
+    "description": "NTP",
+    "examples": [
+        "https://os.mbed.com/users/DieterGraef/code/DISCO-F746NG_Ethernet/",
+        "https://os.mbed.com/users/readysteadygo2006/code/gather_sensor_data/",
+        "https://os.mbed.com/users/ChesterLin/code/final/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "NTP",
+    "name": "NTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DieterGraef/code/NTPClient/"
+    }
+}

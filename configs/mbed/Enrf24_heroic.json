@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jas Strong",
+        "url": "https://os.mbed.com/users/heroic/"
+    },
+    "description": "Port of the nRF24l01+ library of these dudes. Not GPLed, so yeah, you can use it. Copyright (c) 2007 Stefan Engelke <mbox@stefanengelke.de> Some parts copyright (c) 2012 Eric Brundick <spirilis ...",
+    "frameworks": "mbed",
+    "keywords": "nRF24L01",
+    "name": "Enrf24",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/heroic/code/Enrf24/"
+    }
+}

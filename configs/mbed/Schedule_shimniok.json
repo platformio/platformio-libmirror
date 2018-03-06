@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Michael Shimniok",
+        "url": "https://os.mbed.com/users/shimniok/"
+    },
+    "description": "Simple library for scheduling events by polling time, that is, avoiding interrupts.",
+    "examples": [
+        "https://os.mbed.com/users/shimniok/code/AVC_20110423/",
+        "https://os.mbed.com/users/shimniok/code/AVC_2012/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "polling",
+        "scheduling",
+        "timing"
+    ],
+    "name": "Schedule",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shimniok/code/Schedule/"
+    }
+}

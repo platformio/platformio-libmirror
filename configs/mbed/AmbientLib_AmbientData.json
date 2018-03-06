@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Takehiko Shimojima",
+        "url": "https://os.mbed.com/users/AmbientData/"
+    },
+    "description": "Ambient library. It provides \"set\" function to set data to a packet and \"send\" function to send the packet to the Ambient server. It also provides \"bulk_send\" function to send ...",
+    "examples": [
+        "https://os.mbed.com/users/AmbientData/code/AmbientExampleSITB/",
+        "https://os.mbed.com/users/AmbientData/code/AmbientHeartRateMonitor/",
+        "https://os.mbed.com/users/AmbientData/code/AmbientHeartBeat/",
+        "https://os.mbed.com/users/jksoft/code/AmbientExampleSITB_ws/",
+        "https://os.mbed.com/users/AmbientData/code/AmbientExampleLPC1768/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "IOT",
+    "name": "AmbientLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AmbientData/code/AmbientLib/"
+    }
+}

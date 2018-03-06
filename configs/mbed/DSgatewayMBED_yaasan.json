@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Yaasan K",
+        "url": "https://os.mbed.com/users/yaasan/"
+    },
+    "description": "Desktop Station gateway software for mbed",
+    "examples": [
+        "https://os.mbed.com/users/yaasan/code/DSGatewayMBED_Nucleo/",
+        "https://os.mbed.com/users/tyamakun/code/DSGatewayMBED_Nucleo_Step128/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DSgatewayMBED",
+    "name": "DSgatewayMBED",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yaasan/code/DSgatewayMBED/"
+    }
+}

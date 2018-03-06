@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Prosper Van",
+        "url": "https://os.mbed.com/users/oprospero/"
+    },
+    "dependencies": [
+        {
+            "authors": "Prosper Van",
+            "frameworks": "mbed",
+            "name": "MotionDriverv512"
+        }
+    ],
+    "description": "Sensor library for quadcopter",
+    "frameworks": "mbed",
+    "keywords": "Sensorv2",
+    "name": "Sensorv2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/oprospero/code/Sensorv2/"
+    }
+}

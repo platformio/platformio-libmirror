@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Jeremy Paradie",
+        "url": "https://os.mbed.com/users/jparadie/"
+    },
+    "description": "Library for interacting with PCA9685. Based on Adafruit's library for their hardware module modified for m5 at UMass Amherst.",
+    "examples": [
+        "https://os.mbed.com/users/jparadie/code/zzM5_ExampleRobot/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "amherst",
+        "M5",
+        "PCA9685",
+        "Servo",
+        "umass",
+        "zzm5"
+    ],
+    "name": "zzM5_ServoDriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jparadie/code/zzM5_ServoDriver/"
+    }
+}

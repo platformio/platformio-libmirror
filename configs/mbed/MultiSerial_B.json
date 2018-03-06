@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Bチーム",
+        "url": "https://os.mbed.com/teams/B/"
+    },
+    "description": "uint8_t型とunsigned char型に対応した多バイトシリアル通信用ライブラリ",
+    "examples": [
+        "https://os.mbed.com/teams/B/code/multiserial_test/",
+        "https://os.mbed.com/users/Hatter/code/serial_check_controller/",
+        "https://os.mbed.com/teams/B/code/receiverA/",
+        "https://os.mbed.com/teams/B/code/receiver_transmitter/",
+        "https://os.mbed.com/teams/B/code/4wd_omni_simple2/",
+        "https://os.mbed.com/teams/B/code/Catchtest/",
+        "https://os.mbed.com/teams/2014/code/CatPot_SensorRight_T/",
+        "https://os.mbed.com/teams/2014/code/CatPot_Main_T/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MultiSerial",
+    "name": "MultiSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/B/code/MultiSerial/"
+    }
+}

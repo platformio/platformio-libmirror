@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Nick Ryder",
+        "url": "https://os.mbed.com/users/NickRyder/"
+    },
+    "description": "Output digital pulses of specified length and read the length of input pulses.",
+    "examples": [
+        "https://os.mbed.com/users/NickRyder/code/SeeedUltrasoundRangeFinder/",
+        "https://os.mbed.com/users/NickRyder/code/RangeFinder/",
+        "https://os.mbed.com/users/dinesh4619/code/senplussd/",
+        "https://os.mbed.com/teams/Sprint-One/code/Sprint3_Sonar/",
+        "https://os.mbed.com/users/Ali_taher/code/Team_Sprint2/",
+        "https://os.mbed.com/teams/Sprint-One/code/Sprint3_Sonar2/",
+        "https://os.mbed.com/users/vk5653/code/memsic2125/",
+        "https://os.mbed.com/users/metabi814/code/b2b/",
+        "https://os.mbed.com/users/Gendy/code/QUAD_PROJECT/",
+        "https://os.mbed.com/users/sago104/code/Lavadora/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Digital",
+        "Input",
+        "output",
+        "pulse"
+    ],
+    "name": "Pulse",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/NickRyder/code/Pulse/"
+    }
+}

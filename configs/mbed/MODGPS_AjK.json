@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Andy Kirkham",
+        "url": "https://os.mbed.com/users/AjK/"
+    },
+    "description": "Allows for a GPS module to be connected to a serial port and exposes an easy to use API to get the GPS data. New feature, added Mbed/LPC17xx RTC synchronisation",
+    "examples": [
+        "https://os.mbed.com/users/BartJanssens/code/SatGPS/",
+        "https://os.mbed.com/users/gsulc/code/AntiTheftGPS/",
+        "https://os.mbed.com/users/lhiggs/code/FLIGHT_CONTROL_AND_COMMUNICATIONS_SYSTEM/",
+        "https://os.mbed.com/users/afeezaziz/code/GPS-Lora/",
+        "https://os.mbed.com/users/fadi_lad/code/MODGPSNEW/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GPS",
+    "name": "MODGPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AjK/code/MODGPS/"
+    }
+}

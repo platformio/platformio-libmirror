@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "VIGNESH GOVINDASAMY",
+        "url": "https://os.mbed.com/users/tgvignesh/"
+    },
+    "description": "This file describes MBED RTOS for MPS2 platform.",
+    "frameworks": "mbed",
+    "keywords": "Security",
+    "name": "Security",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tgvignesh/code/Security/"
+    }
+}

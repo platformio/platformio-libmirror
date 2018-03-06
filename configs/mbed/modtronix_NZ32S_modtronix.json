@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "modtronix H",
+        "url": "https://os.mbed.com/users/modtronix/"
+    },
+    "description": "Library for Modtronix NZ32 STM32 boards, like the NZ32-SC151, NZ32-SB072, NZ32-SE411 and others",
+    "frameworks": "mbed",
+    "keywords": [
+        "modtronix",
+        "NZ32 STM32"
+    ],
+    "name": "modtronix_NZ32S",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/modtronix/code/modtronix_NZ32S/"
+    }
+}

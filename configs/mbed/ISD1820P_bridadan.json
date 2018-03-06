@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Brian Daniels",
+        "url": "https://os.mbed.com/users/bridadan/"
+    },
+    "description": "Sound recorder and playback device",
+    "examples": [
+        "https://os.mbed.com/users/bridadan/code/Seeed_Grove_Recorder_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Grove",
+        "ISD1820P",
+        "play",
+        "playback",
+        "record",
+        "recorder",
+        "sound"
+    ],
+    "name": "ISD1820P",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bridadan/code/ISD1820P/"
+    }
+}

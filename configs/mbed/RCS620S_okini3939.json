@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "Sony FeliCa reader/writer (RC-S620/S) library Copyright 2010 Sony Corporation, modified by SWITCHSCIENCE, modified by Suga",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/RFID_FeliCa_sample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Felica",
+        "RC-S620/S",
+        "RFID"
+    ],
+    "name": "RCS620S",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/RCS620S/"
+    }
+}

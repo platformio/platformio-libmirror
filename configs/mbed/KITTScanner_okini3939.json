@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "K.I.T.T. Scanner (Knight Rider) http://mbed.org/users/okini3939/programs/KittScanner_sample/latest",
+    "frameworks": "mbed",
+    "keywords": [
+        "kitt",
+        "led",
+        "scanner"
+    ],
+    "name": "KITTScanner",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/KITTScanner/"
+    }
+}

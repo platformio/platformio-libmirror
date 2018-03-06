@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "yasuyuki onodera",
+        "url": "https://os.mbed.com/users/yasuyuki/"
+    },
+    "description": "AQM1602 library",
+    "examples": [
+        "https://os.mbed.com/users/yasuyuki/code/mbed_AQM1602/",
+        "https://os.mbed.com/teams/2014/code/CatPot_Main_T_2v00/",
+        "https://os.mbed.com/teams/2014/code/CatPot_2v10_T_Main/",
+        "https://os.mbed.com/teams/2014/code/CatPot_2v20_T_Main/",
+        "https://os.mbed.com/teams/2014/code/CatPot_2v30_T_Main/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "AQM1602",
+    "name": "AQM1602",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yasuyuki/code/AQM1602/"
+    }
+}

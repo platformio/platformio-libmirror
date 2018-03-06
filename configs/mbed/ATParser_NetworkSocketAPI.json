@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "NetworkSocketAPI",
+        "url": "https://os.mbed.com/teams/NetworkSocketAPI/"
+    },
+    "dependencies": [
+        {
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
+            "name": "BufferedSerial"
+        }
+    ],
+    "description": "Parser for AT commands and similar protocols",
+    "examples": [
+        "https://os.mbed.com/users/ohneta/code/ESP8266/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AT",
+        "parser"
+    ],
+    "name": "ATParser",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NetworkSocketAPI/code/ATParser/"
+    }
+}

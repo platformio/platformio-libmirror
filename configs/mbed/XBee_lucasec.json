@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Lucas Christian",
+        "url": "https://os.mbed.com/users/lucasec/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "XBee Library in API mode. Based on xbee-arduino.",
+    "examples": [
+        "https://os.mbed.com/users/lucasec/code/XBee_API_Demo/",
+        "https://os.mbed.com/users/jgensel3/code/FinalProject/",
+        "https://os.mbed.com/users/jgensel3/code/FootModule/",
+        "https://os.mbed.com/users/jgensel3/code/HandController/",
+        "https://os.mbed.com/users/jgensel3/code/WirelessControllerRecieve/",
+        "https://os.mbed.com/users/jgensel3/code/FootModuleCode/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "XBee",
+    "name": "XBee",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lucasec/code/XBee/"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "sandbox",
+        "url": "https://os.mbed.com/teams/sandbox/"
+    },
+    "description": "Experimental HTTP and HTTPS library for mbed OS 5",
+    "examples": [
+        "https://os.mbed.com/users/vpcola/code/MQTTGateway2/",
+        "https://os.mbed.com/users/vpcola/code/MQTTGatewayK64/",
+        "https://os.mbed.com/teams/Avnet/code/http-example-wnc/",
+        "https://os.mbed.com/users/fpaf2/code/GuardRoom/",
+        "https://os.mbed.com/teams/sandbox/code/http-webserver-example/",
+        "https://os.mbed.com/teams/Renesas/code/GR-PEACH_HVC-P2_IoTPlatform_http/",
+        "https://os.mbed.com/users/tdMBED/code/http-example-wnc-modified/",
+        "https://os.mbed.com/teams/Cloud-Hackathon/code/IFTTT-Google-Sheets-Demo/",
+        "https://os.mbed.com/teams/Cloud-Hackathon/code/HTTP-Python-Demo/",
+        "https://os.mbed.com/users/tdMBED/code/modified-http/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "mbed-http",
+    "name": "mbed-http",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/sandbox/code/mbed-http/"
+    }
+}

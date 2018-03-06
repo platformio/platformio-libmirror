@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Rendy Devara",
+        "url": "https://os.mbed.com/users/devararendy/"
+    },
+    "description": "This is a bitbang library for WS2812. I test it with STM32F411RE (Nucleo 441RE). If you want to use another board, u need to adjust the sum of asm(\"nop\"). In ...",
+    "examples": [
+        "https://os.mbed.com/users/devararendy/code/STM32FC_RGB_WS2812/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "rgb",
+        "WS2812",
+        "WS2812B"
+    ],
+    "name": "WS2812",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/devararendy/code/WS2812/"
+    }
+}

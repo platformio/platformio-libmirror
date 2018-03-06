@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "bruno larnaudie",
+        "url": "https://os.mbed.com/users/slowness/"
+    },
+    "description": "version qui corrige tous les beugs",
+    "examples": [
+        "https://os.mbed.com/teams/Pierrotlandrouille/code/Projet_client_serveur/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "IHM",
+    "name": "IHM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/slowness/code/IHM/"
+    }
+}

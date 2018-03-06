@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "智貴 田川",
+        "url": "https://os.mbed.com/users/v023vk/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "an error test",
+    "frameworks": "mbed",
+    "keywords": "error_test",
+    "name": "error_test",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/v023vk/code/error_test/"
+    }
+}

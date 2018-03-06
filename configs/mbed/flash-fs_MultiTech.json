@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "description": "Filesystem library designed for flash devices",
+    "examples": [
+        "https://os.mbed.com/teams/MultiTech/code/flash-fs-example/",
+        "https://os.mbed.com/teams/MultiTech/code/Dragonfly_Filesystem_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Flash-fs",
+    "name": "flash-fs",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/flash-fs/"
+    }
+}

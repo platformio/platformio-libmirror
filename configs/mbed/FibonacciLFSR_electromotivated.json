@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Bryce Williams",
+        "url": "https://os.mbed.com/users/electromotivated/"
+    },
+    "description": "Fibonacci Linear Feedback Shift Register (Pseudo-Random Number Generator)",
+    "frameworks": "mbed",
+    "keywords": [
+        "LFSR",
+        "Linear Feedback Shift Register",
+        "Number Generator",
+        "Pseudo",
+        "Random"
+    ],
+    "name": "FibonacciLFSR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/electromotivated/code/FibonacciLFSR/"
+    }
+}

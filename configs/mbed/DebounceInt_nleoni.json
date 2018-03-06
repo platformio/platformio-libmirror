@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "napoleon leoni",
+        "url": "https://os.mbed.com/users/nleoni/"
+    },
+    "description": "DebounceIN library allows debouncing a GPIO pin interrupt",
+    "frameworks": "mbed",
+    "keywords": [
+        "debounce",
+        "interrupt",
+        "masking"
+    ],
+    "name": "DebounceInt",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nleoni/code/DebounceInt/"
+    }
+}

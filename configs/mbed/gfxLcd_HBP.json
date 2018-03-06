@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Olli Vanhoja",
+        "url": "https://os.mbed.com/users/HBP/"
+    },
+    "description": "Very simple library for controlling small graphic LCDs",
+    "examples": [
+        "https://os.mbed.com/users/HBP/code/LCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "bitmap",
+        "Graphics",
+        "LCD"
+    ],
+    "name": "gfxLcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/HBP/code/gfxLcd/"
+    }
+}

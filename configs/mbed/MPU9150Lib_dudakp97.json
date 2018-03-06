@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Pavol Dudak",
+        "url": "https://os.mbed.com/users/dudakp97/"
+    },
+    "description": "My (very) simple library for MPU9150/6050. (work in progress)",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "gyroscope",
+        "IMU",
+        "STM32F0"
+    ],
+    "name": "MPU9150Lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dudakp97/code/MPU9150Lib/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Kazuki Yamamoto",
+        "url": "https://os.mbed.com/users/k4zuki/"
+    },
+    "description": "Basic library for SHARP LCD LS027B4DH01",
+    "frameworks": "mbed",
+    "keywords": "LCD",
+    "name": "AkiSpiLcd_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/k4zuki/code/AkiSpiLcd_lib/"
+    }
+}

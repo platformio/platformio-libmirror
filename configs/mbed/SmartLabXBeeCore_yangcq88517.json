@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "CHENGQI YANG",
+        "url": "https://os.mbed.com/users/yangcq88517/"
+    },
+    "dependencies": [
+        {
+            "authors": "CHENGQI YANG",
+            "frameworks": "mbed",
+            "name": "BufferedArray"
+        }
+    ],
+    "description": "XBee and XBee-PRO ZigBee RF modules provide cost-effective wireless connectivity to electronic devices. They are interoperable with other ZigBee PRO feature set devices, including devices from other vendors.",
+    "examples": [
+        "https://os.mbed.com/users/pissanidis/code/MBEDminiproject/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "api",
+        "Digi",
+        "xbee",
+        "zigbee"
+    ],
+    "name": "SmartLabXBeeCore",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yangcq88517/code/SmartLabXBeeCore/"
+    }
+}

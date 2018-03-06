@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Serge Sozonoff",
+        "url": "https://os.mbed.com/users/ssozonoff/"
+    },
+    "description": "http://uk.farnell.com/batron/bthq21605v-cog-fsre-i2c/lcd-module-alphanumeric-2x16/dp/1220409",
+    "examples": [
+        "https://os.mbed.com/users/ssozonoff/code/PCF2119_16X2_LCD_test/",
+        "https://os.mbed.com/users/BPPearson/code/LPC1768BagSensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "batron",
+        "cog",
+        "LCD"
+    ],
+    "name": "PCF2119_16X2_LCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ssozonoff/code/PCF2119_16X2_LCD/"
+    }
+}

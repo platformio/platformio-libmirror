@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "雄介 太田",
+        "url": "https://os.mbed.com/users/yusuke_kyo/"
+    },
+    "description": "Dyanamixel",
+    "examples": [
+        "https://os.mbed.com/users/yusuke_kyo/code/YOZAKURA_ARM/",
+        "https://os.mbed.com/users/yusuke_kyo/code/YOZAKURA_ARM_USB/",
+        "https://os.mbed.com/users/yusuke_kyo/code/YOZAKURA_ARM_USB_Keyboard/",
+        "https://os.mbed.com/users/yusuke_kyo/code/YOZAKURA_ARM_Keyboard0424/",
+        "https://os.mbed.com/users/yusuke_kyo/code/YOZAKURA_ARM_USB_0425/",
+        "https://os.mbed.com/users/masasin/code/YOZAKURA_ARM_USB_0427/",
+        "https://os.mbed.com/users/yusuke_kyo/code/YOZAKURA_ARM_USB_Keyboard_0429/",
+        "https://os.mbed.com/users/yusuke_kyo/code/YOZAKURA_ARM_USB_0429/",
+        "https://os.mbed.com/users/yusuke_kyo/code/YOZAKURA_ARM_USB_0503/",
+        "https://os.mbed.com/users/yusuke_kyo/code/YOZAKURA_ARM_USB_Keyboard_0818/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Dynamixel",
+    "name": "Dynamixel",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yusuke_kyo/code/Dynamixel/"
+    }
+}

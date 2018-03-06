@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Tom Soulanille",
+        "url": "https://os.mbed.com/users/altasoul/"
+    },
+    "description": "simple reliable networking over ethernet. Provides IPv4 ARP, ICMP echo reply, and UDP unicast. Does NOT provide TCP, that's not simple :-).",
+    "frameworks": "mbed",
+    "keywords": [
+        "arp",
+        "icmp",
+        "ip",
+        "MIT License",
+        "networking",
+        "UDP"
+    ],
+    "name": "snet",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/altasoul/code/snet/"
+    }
+}

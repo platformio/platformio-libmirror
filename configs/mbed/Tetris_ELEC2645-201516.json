@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "ELEC2645 (2015/16)",
+        "url": "https://os.mbed.com/teams/ELEC2645-201516/"
+    },
+    "description": "Library to control the Tetris game area",
+    "examples": [
+        "https://os.mbed.com/teams/ELEC2645-201516/code/Tetris_Game/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "2645",
+    "name": "Tetris",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ELEC2645-201516/code/Tetris/"
+    }
+}

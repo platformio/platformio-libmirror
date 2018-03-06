@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "The FirmwareUpdater is a mbed firmware update library with HTTP server on cloud.",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/FirmwareUpdater_TestProgram/",
+        "https://os.mbed.com/users/abe00makoto/code/geigercounter04/",
+        "https://os.mbed.com/users/Aaronduino/code/firm/",
+        "https://os.mbed.com/users/vinajarr/code/LPC1768_up_frim/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "cloud",
+        "firmware",
+        "update"
+    ],
+    "name": "FirmwareUpdater",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/FirmwareUpdater/"
+    }
+}

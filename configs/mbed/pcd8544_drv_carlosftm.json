@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Carlos Torres",
+        "url": "https://os.mbed.com/users/carlosftm/"
+    },
+    "description": "PCD8544 Driver for an LCD with an PCD8544 controller (e.g. Nokia 3310, 3390)",
+    "examples": [
+        "https://os.mbed.com/users/carlosftm/code/PCD8544_LCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "3310",
+        "3390",
+        "LCD",
+        "Nokia",
+        "pcd8544",
+        "TextLCD"
+    ],
+    "name": "pcd8544_drv",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/carlosftm/code/pcd8544_drv/"
+    }
+}

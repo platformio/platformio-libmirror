@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Tedd OKANO",
+        "url": "https://os.mbed.com/users/okano/"
+    },
+    "description": "Unipolar stepper motor operation library",
+    "examples": [
+        "https://os.mbed.com/teams/Supergeniene-pa-bakerste-rad/code/LAB04_Oppgave1/",
+        "https://os.mbed.com/users/EduRemo/code/test_stepper/",
+        "https://os.mbed.com/users/EduRemo/code/Stepper_Motor_Demo/",
+        "https://os.mbed.com/users/poupalov/code/StepperMotorUni_Hello/",
+        "https://os.mbed.com/users/okano/code/StepperMotorUni_Hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "motor",
+        "Stepper",
+        "unipolar"
+    ],
+    "name": "StepperMotorUni",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okano/code/StepperMotorUni/"
+    }
+}

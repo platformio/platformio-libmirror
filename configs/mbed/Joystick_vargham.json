@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Mark Peter Vargha",
+        "url": "https://os.mbed.com/users/vargham/"
+    },
+    "description": "Two axis analog (2x potmeter) joystick driver.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Analog",
+        "joystick"
+    ],
+    "name": "Joystick",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vargham/code/Joystick/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "modtronix H",
+        "url": "https://os.mbed.com/users/modtronix/"
+    },
+    "description": "mbed library for NZ32-SC151",
+    "frameworks": "mbed",
+    "keywords": "NZ32-SC151",
+    "name": "mbed_nz32sc151",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/modtronix/code/mbed_nz32sc151/"
+    }
+}

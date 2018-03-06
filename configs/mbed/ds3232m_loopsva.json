@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Kevin Braun",
+        "url": "https://os.mbed.com/users/loopsva/"
+    },
+    "description": "Library for Maxim DS3232M super-accurate, I2C based Real Time Clock chip with 234 bytes of user RAM. Library includes user RAM read/write operations along with CRC routines for accessing the ...",
+    "examples": [
+        "https://os.mbed.com/users/loopsva/code/ds3232m_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "clock",
+        "DS3232",
+        "I2C",
+        "RTC",
+        "time"
+    ],
+    "name": "ds3232m",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/loopsva/code/ds3232m/"
+    }
+}

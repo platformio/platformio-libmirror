@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "Font to use with the SPI_TFT lib",
+    "examples": [
+        "https://os.mbed.com/users/dreschpe/code/TFT_Test1/",
+        "https://os.mbed.com/users/TickTock/code/touch2/",
+        "https://os.mbed.com/users/RorschachUK/code/Mandelbrot/",
+        "https://os.mbed.com/users/RorschachUK/code/Mindwave-screen/",
+        "https://os.mbed.com/users/dreschpe/code/TFT_Test_ILI9341/",
+        "https://os.mbed.com/users/RorschachUK/code/BlinkTalk/",
+        "https://os.mbed.com/users/neilt6/code/SeeedStudioTFTv2_HelloWorld/",
+        "https://os.mbed.com/users/dreschpe/code/epaper_mbed_130411_KL25Z/",
+        "https://os.mbed.com/users/dreschpe/code/epaper_mbed_test/",
+        "https://os.mbed.com/users/k4zuki/code/SeeedTouchLCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "fonts",
+        "TFT"
+    ],
+    "name": "TFT_fonts",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/TFT_fonts/"
+    }
+}

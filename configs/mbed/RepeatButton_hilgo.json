@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Jeroen Hilgers",
+        "url": "https://os.mbed.com/users/hilgo/"
+    },
+    "description": "This library improves behaviour of push buttons. The automatic repeat is very convenient for e.g. entering time with up/down buttons. The library buffers presses, so no presses are missed.",
+    "examples": [
+        "https://os.mbed.com/users/MarcoAmerena/code/Thermostat_NucleoF401/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "bounce",
+        "BUTTON",
+        "contact",
+        "keyboard",
+        "navigation",
+        "repeat",
+        "switch"
+    ],
+    "name": "RepeatButton",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hilgo/code/RepeatButton/"
+    }
+}

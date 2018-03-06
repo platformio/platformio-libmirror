@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "treeby kooba",
+        "url": "https://os.mbed.com/users/treebykooba/"
+    },
+    "description": "Use this library to upload images to twitpic.com. The library creates and uses its own TCPSocket. Requires EthernetNetIf and DNSResolver. (this library actually designed by a friend of mine, novachild, ...",
+    "examples": [
+        "https://os.mbed.com/users/treebykooba/code/TwitPicExample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "network",
+        "TCPSocket",
+        "twitpic",
+        "twitter"
+    ],
+    "name": "TwitPic",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/treebykooba/code/TwitPic/"
+    }
+}

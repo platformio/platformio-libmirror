@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Todor Todorov",
+        "url": "https://os.mbed.com/users/ttodorov/"
+    },
+    "description": "This is a port of Henning Kralsen's UTFT library for Arduino/chipKIT to mbed, refactored to make full use of C++ inheritance and access control, in order to reduce work when ...",
+    "examples": [
+        "https://os.mbed.com/users/allanalpha/code/test/",
+        "https://os.mbed.com/users/Danton/code/SDCard/",
+        "https://os.mbed.com/users/ryanyuyu/code/capstone_display/",
+        "https://os.mbed.com/users/ryanyuyu/code/capstone_display_2/",
+        "https://os.mbed.com/users/micchassek/code/TFT_MyTouch/",
+        "https://os.mbed.com/users/acracan/code/solder_oven/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HX8340",
+        "ILI9325",
+        "ILI9328",
+        "ITDB02",
+        "LCD",
+        "SSD1289",
+        "ST7735",
+        "TFT",
+        "UTFT"
+    ],
+    "name": "TFTLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ttodorov/code/TFTLCD/"
+    }
+}

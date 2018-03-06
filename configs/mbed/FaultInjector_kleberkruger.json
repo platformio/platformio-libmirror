@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Kleber Kruger",
+        "url": "https://os.mbed.com/users/kleberkruger/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Fault injector system.",
+    "frameworks": "mbed",
+    "keywords": [
+        "fault",
+        "injector"
+    ],
+    "name": "FaultInjector",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kleberkruger/code/FaultInjector/"
+    }
+}

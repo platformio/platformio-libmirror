@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://os.mbed.com/users/simon/"
+    },
+    "description": "A library to send and receive MIDI messages over USB using the default USB-MIDI drivers on Win/Mac",
+    "examples": [
+        "https://os.mbed.com/users/simon/code/USBMIDI_HelloWorld/",
+        "https://os.mbed.com/users/simon/code/USBMIDI_DrumExample/",
+        "https://os.mbed.com/users/alaif/code/USBMIDI_MonoSynth/",
+        "https://os.mbed.com/users/Vekotin/code/MIDI_Interface_ver_1/",
+        "https://os.mbed.com/users/ywang627/code/LaserHarpProj/",
+        "https://os.mbed.com/users/ywang627/code/FramedLaserHarp/",
+        "https://os.mbed.com/users/earlz/code/BYOController/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "library",
+        "MIDI",
+        "USB",
+        "USBMIDI"
+    ],
+    "name": "USBMIDI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/simon/code/USBMIDI/"
+    }
+}

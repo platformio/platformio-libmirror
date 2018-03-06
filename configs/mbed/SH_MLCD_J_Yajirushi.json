@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Ryota Yamamoto",
+        "url": "https://os.mbed.com/users/Yajirushi/"
+    },
+    "description": "秋月電子などで販売されているSHARP製HR-TFTモノクロメモリ液晶を、直接駆動するためのライブラリです。 図形、文字列の描画が可能です。 日本語のフォントも内包していますが、FlashサイズやRAMサイズが小さいものだと扱いきれないかもしれません。 既存のライブラリとは違い、貴重なSPIポートを占拠しません。DigitalOut端子3本でSPIモドキを実現しています。 結線方法については、デモプログラムのページをご参照ください。",
+    "examples": [
+        "https://os.mbed.com/users/Yajirushi/code/SHARP_MEMORYLCD_WJ/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HR-TFT",
+        "memory lcd",
+        "Monochrome LCD",
+        "Sharp"
+    ],
+    "name": "SH_MLCD_J",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Yajirushi/code/SH_MLCD_J/"
+    }
+}

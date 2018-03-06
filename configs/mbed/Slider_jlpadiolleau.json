@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Jean-Luc PADIOLLEAU",
+        "url": "https://os.mbed.com/users/jlpadiolleau/"
+    },
+    "description": "Slider class on LCD / Touch screen",
+    "examples": [
+        "https://os.mbed.com/users/jlpadiolleau/code/TestLCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Slider",
+    "name": "Slider",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jlpadiolleau/code/Slider/"
+    }
+}

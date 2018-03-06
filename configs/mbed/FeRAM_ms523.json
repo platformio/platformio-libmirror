@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Martin Smith",
+        "url": "https://os.mbed.com/users/ms523/"
+    },
+    "description": "A library for using FeRAM from Ramtron",
+    "examples": [
+        "https://os.mbed.com/users/ms523/code/FeRAM_Hello_World/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FeRAM",
+    "name": "FeRAM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ms523/code/FeRAM/"
+    }
+}

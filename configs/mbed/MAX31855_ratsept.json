@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Tiit Rätsep",
+        "url": "https://os.mbed.com/users/ratsept/"
+    },
+    "description": "Library for MAX31855. Based on MAX6675 library. I have only implemented the temperature reading. The chip supports also the reading of internal reference temperature and faults for shorted thermocouple and ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "max31855",
+        "Temperature",
+        "Thermocouple"
+    ],
+    "name": "MAX31855",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ratsept/code/MAX31855/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Jason Gaunt",
+        "url": "https://os.mbed.com/users/foxdie/"
+    },
+    "description": "Libraries to support working with GMLAN - General Motors CAN BUS network in most of their vehicles between 2007-present day. Please note this is a work in progress and not ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "29bit",
+        "bus",
+        "CAN",
+        "canbus",
+        "general",
+        "gm",
+        "gmlan",
+        "motors"
+    ],
+    "name": "GMLAN",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/foxdie/code/GMLAN/"
+    }
+}

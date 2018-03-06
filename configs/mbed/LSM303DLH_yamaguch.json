@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Hiroshi Yamaguchi",
+        "url": "https://os.mbed.com/users/yamaguch/"
+    },
+    "description": "LSM303DLH interface library",
+    "examples": [
+        "https://os.mbed.com/users/yamaguch/code/LSM303DLH_Example/",
+        "https://os.mbed.com/users/zlmun/code/Arch_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LSM303DLH",
+    "name": "LSM303DLH",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yamaguch/code/LSM303DLH/"
+    }
+}

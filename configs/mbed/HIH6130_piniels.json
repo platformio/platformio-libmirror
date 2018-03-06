@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Ilsoe Peter",
+        "url": "https://os.mbed.com/users/piniels/"
+    },
+    "description": "HIH-6139-021 I2C humidity and temperature sensor",
+    "examples": [
+        "https://os.mbed.com/users/piniels/code/HIDTympDeviceWithPIDController/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HIH6130",
+    "name": "HIH6130",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/piniels/code/HIH6130/"
+    }
+}

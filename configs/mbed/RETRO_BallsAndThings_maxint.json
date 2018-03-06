@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Maxint R&D",
+        "url": "https://os.mbed.com/users/maxint/"
+    },
+    "description": "Elements used in the Balls and Things games for the RETRO.",
+    "examples": [
+        "https://os.mbed.com/users/maxint/code/RETRO_BallsAndPaddle/",
+        "https://os.mbed.com/users/maxint/code/RETRO_BallAndHoles/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "balls",
+        "elements",
+        "games",
+        "retro",
+        "things"
+    ],
+    "name": "RETRO_BallsAndThings",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/maxint/code/RETRO_BallsAndThings/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "SE HUI PARK",
+        "url": "https://os.mbed.com/users/aluqard/"
+    },
+    "dependencies": [
+        {
+            "authors": "SE HUI PARK",
+            "frameworks": "mbed",
+            "name": "arduino"
+        }
+    ],
+    "description": "Library(Beta) for Gameduino 2",
+    "examples": [
+        "https://os.mbed.com/users/jont/code/aa_gd_jw/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Gameduino2",
+    "name": "Gameduino2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aluqard/code/Gameduino2/"
+    }
+}

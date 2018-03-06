@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Dan Searle",
+        "url": "https://os.mbed.com/users/Searle95/"
+    },
+    "description": "Base library for various projects.",
+    "examples": [
+        "https://os.mbed.com/users/Searle95/code/LEDFun/",
+        "https://os.mbed.com/users/Searle95/code/NetTester/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Functions",
+    "name": "Functions",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Searle95/code/Functions/"
+    }
+}

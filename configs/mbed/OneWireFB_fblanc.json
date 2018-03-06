@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "frederic blanc",
+        "url": "https://os.mbed.com/users/fblanc/"
+    },
+    "description": "OneWire DS18B20,DS2450,MAX31850",
+    "examples": [
+        "https://os.mbed.com/users/fblanc/code/MAX31850_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DS18B20",
+        "DS2450",
+        "MAX31850",
+        "OneWire"
+    ],
+    "name": "OneWireFB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fblanc/code/OneWireFB/"
+    }
+}

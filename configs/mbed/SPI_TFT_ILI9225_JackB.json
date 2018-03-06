@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jack Berkhout",
+        "url": "https://os.mbed.com/users/JackB/"
+    },
+    "description": "Uses the same fonts as the SPI_TFT_ILI9341 Library (I have many, and a html/php font editor for that)",
+    "frameworks": "mbed",
+    "keywords": "SPI_TFT_ILI9225",
+    "name": "SPI_TFT_ILI9225",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JackB/code/SPI_TFT_ILI9225/"
+    }
+}

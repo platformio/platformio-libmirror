@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "justin kim",
+        "url": "https://os.mbed.com/users/justinkim/"
+    },
+    "description": "tone function Library",
+    "frameworks": "mbed",
+    "keywords": [
+        "buzzer",
+        "pwm",
+        "tone",
+        "tune"
+    ],
+    "name": "PWM_Tone",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/justinkim/code/PWM_Tone/"
+    }
+}

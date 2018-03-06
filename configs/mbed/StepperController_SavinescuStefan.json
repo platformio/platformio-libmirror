@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Viorel Stefan Savinescu",
+        "url": "https://os.mbed.com/users/SavinescuStefan/"
+    },
+    "description": "Helper library for stepper motor control",
+    "frameworks": "mbed",
+    "keywords": [
+        "etti",
+        "TUIASI"
+    ],
+    "name": "StepperController",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SavinescuStefan/code/StepperController/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "boting ren",
+        "url": "https://os.mbed.com/users/edamame22/"
+    },
+    "description": "A component library for MiCS-6814 Multichannel Gas Sensor (seeed)",
+    "examples": [
+        "https://os.mbed.com/users/MACRUM/code/MiCS6814_GasSensor_Hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Gas",
+        "MiCS-6814",
+        "Multichannel",
+        "sensor"
+    ],
+    "name": "MiCS6814_GasSensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/edamame22/code/MiCS6814_GasSensor/"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "Digital Humidity Sensor with Temperature Sensor by TI. Default address sets Akizuki kit module.",
+    "examples": [
+        "https://os.mbed.com/users/AmbientData/code/AmbientExampleLPC1768/",
+        "https://os.mbed.com/users/kyun_kun/code/HumidifierController_LPC824/",
+        "https://os.mbed.com/users/kenjiArai/code/TYBLE16_mbedlized_Thermometer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Akizuki",
+        "Humidity",
+        "I2C",
+        "MEMS",
+        "sensor",
+        "Temperature",
+        "TI"
+    ],
+    "name": "HDC1000",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/HDC1000/"
+    }
+}

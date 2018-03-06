@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Kazuki Yamamoto",
+        "url": "https://os.mbed.com/users/k4zuki/"
+    },
+    "description": "USB MSD filesystem using 1MBit(128kByte) SPI EEPROM",
+    "examples": [
+        "https://os.mbed.com/users/k4zuki/code/USBMSD_CDC_11U35test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "EEPROM",
+        "MSD",
+        "SPI",
+        "USB"
+    ],
+    "name": "USBSPIFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/k4zuki/code/USBSPIFileSystem/"
+    }
+}

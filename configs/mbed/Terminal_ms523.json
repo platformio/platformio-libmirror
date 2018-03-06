@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Martin Smith",
+        "url": "https://os.mbed.com/users/ms523/"
+    },
+    "description": "Terminal Library - To interface with a termainal application (e.g. Terterm) to give some more functionallity",
+    "examples": [
+        "https://os.mbed.com/teams/Kuvee-Base-Micro-Firmware/code/TestConsoleLib/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "TeraTerm",
+        "Terminal"
+    ],
+    "name": "Terminal",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ms523/code/Terminal/"
+    }
+}

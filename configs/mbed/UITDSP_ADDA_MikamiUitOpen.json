@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "Class library for internal ADC and DAC connected by SPI. This library support clock generator using TIM3 for switched-capacitor filter to smooth output signal of DAC. This library includes derivative ...",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/UITDSP_ADDA_Example/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_MovingAv_Intr/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VariableFIR/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VowelSynthesizer/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_ReverbSystem/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_FrequencyShifter/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_FrqShiftWeaverDown/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_ALE_LeakyLMS/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_SpectrumAnalyzer/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_IIR_Cascade_Biquad/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AD",
+        "da",
+        "MCP4921",
+        "MCP4922",
+        "Nucleo",
+        "SPI",
+        "UIT"
+    ],
+    "name": "UITDSP_ADDA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/UITDSP_ADDA/"
+    }
+}

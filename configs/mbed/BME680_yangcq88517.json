@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "CHENGQI YANG",
+        "url": "https://os.mbed.com/users/yangcq88517/"
+    },
+    "description": "BME680 is an integrated environmental sensor developed specifically for mobile applications and wearables where size and low power consumption are key requirements.",
+    "frameworks": "mbed",
+    "keywords": [
+        "BME680",
+        "Gas",
+        "Humidity",
+        "pressure",
+        "Temperature"
+    ],
+    "name": "BME680",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yangcq88517/code/BME680/"
+    }
+}

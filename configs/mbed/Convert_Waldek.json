@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Waldemar Dworakowski",
+        "url": "https://os.mbed.com/users/Waldek/"
+    },
+    "description": "Conversions for the LCD display in FRDM-KL46Z",
+    "examples": [
+        "https://os.mbed.com/users/jhaugen/code/eem202a_display/",
+        "https://os.mbed.com/users/resolutedreamer/code/eem202a_resolutedreamer_1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Convert",
+    "name": "Convert",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Waldek/code/Convert/"
+    }
+}

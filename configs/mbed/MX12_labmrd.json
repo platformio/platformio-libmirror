@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "MRD Lab",
+        "url": "https://os.mbed.com/users/labmrd/"
+    },
+    "description": "Robotis Dynamixel MX-12W Servo Library",
+    "examples": [
+        "https://os.mbed.com/users/labmrd/code/SpindleBot_1_5b/",
+        "https://os.mbed.com/teams/CRAC-Team/code/Utilisatio_MX12_V4/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "dynamixel",
+        "MX-12W",
+        "MX12",
+        "MX12W",
+        "robotis",
+        "Servo"
+    ],
+    "name": "MX12",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/labmrd/code/MX12/"
+    }
+}

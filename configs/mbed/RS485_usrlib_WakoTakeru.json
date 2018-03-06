@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Takeru Wako",
+        "url": "https://os.mbed.com/users/WakoTakeru/"
+    },
+    "description": "My useful library.",
+    "frameworks": "mbed",
+    "keywords": "RS485_usrlib",
+    "name": "RS485_usrlib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WakoTakeru/code/RS485_usrlib/"
+    }
+}

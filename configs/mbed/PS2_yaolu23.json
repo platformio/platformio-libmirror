@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Yao Lu",
+        "url": "https://os.mbed.com/users/yaolu23/"
+    },
+    "description": "PS2 keyboard",
+    "examples": [
+        "https://os.mbed.com/users/yaolu23/code/uVGAII_WebBrowser/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PS2",
+    "name": "PS2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yaolu23/code/PS2/"
+    }
+}

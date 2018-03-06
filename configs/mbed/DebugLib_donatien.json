@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Donatien Garnier",
+        "url": "https://os.mbed.com/users/donatien/"
+    },
+    "description": "Debug library",
+    "examples": [
+        "https://os.mbed.com/users/donatien/code/NetworkingCoreLib/",
+        "https://os.mbed.com/users/donatien/code/LwIPNetworking/",
+        "https://os.mbed.com/teams/Yes-We-Can/code/yeswecancoap/",
+        "https://os.mbed.com/users/pnysten/code/lwip/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DebugLib",
+    "name": "DebugLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donatien/code/DebugLib/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Thierry Pébayle",
+        "url": "https://os.mbed.com/users/pebayle/"
+    },
+    "description": "FLYSKY RC receiver compatible with TH9X transmitter. Uses an A7105-CL or A7105-SY 2.4Ghz module.",
+    "examples": [
+        "https://os.mbed.com/users/pebayle/code/A7105_FLYSKY_RX_WITH_PPM/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "a7105",
+        "flysky",
+        "RC",
+        "Receiver",
+        "TH9X"
+    ],
+    "name": "A7105_FLYSKY_RX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pebayle/code/A7105_FLYSKY_RX/"
+    }
+}

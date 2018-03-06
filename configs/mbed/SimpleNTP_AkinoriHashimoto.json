@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Akinori Hashimoto",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/"
+    },
+    "description": "Simple Network Time Protocol Client. This lib feature: Access to SNTP server, and get Epoch (Unix) time.",
+    "frameworks": "mbed",
+    "keywords": [
+        "client",
+        "SimpleNTP",
+        "SNTP"
+    ],
+    "name": "SimpleNTP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/SimpleNTP/"
+    }
+}

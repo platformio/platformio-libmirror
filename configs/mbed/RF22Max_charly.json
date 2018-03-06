@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Karl Zweimüller",
+        "url": "https://os.mbed.com/users/charly/"
+    },
+    "description": "Class to communicate with ELV(R) MAX! wireless devices with RFM22B-Modules. Based on Library RF22. Initial version unable to send! Only receive! See http://mbed.org/users/charly/notebook/reading-a-max-wireless-window-sensor-with-rfm22-an/",
+    "examples": [
+        "https://os.mbed.com/users/charly/code/RF22_MAX_test_Send/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "RF22",
+        "RFM22",
+        "RFM22Max",
+        "wireless"
+    ],
+    "name": "RF22Max",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/charly/code/RF22Max/"
+    }
+}

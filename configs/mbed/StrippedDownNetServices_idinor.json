@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "idinor Launcher",
+        "url": "https://os.mbed.com/users/idinor/"
+    },
+    "description": "This library is stripped down version of NetServices library. HTTP server and client function is NOT supported.",
+    "examples": [
+        "https://os.mbed.com/users/yahugh/code/imu-daq-eth/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "NetServices",
+        "network",
+        "NTP"
+    ],
+    "name": "StrippedDownNetServices",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/idinor/code/StrippedDownNetServices/"
+    }
+}

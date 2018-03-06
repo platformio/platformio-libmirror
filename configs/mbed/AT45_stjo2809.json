@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Steen Jørgensen",
+        "url": "https://os.mbed.com/users/stjo2809/"
+    },
+    "description": "Interface to the Atmel AT45 series Dataflash with Serial Interface (SPI)",
+    "frameworks": "mbed",
+    "keywords": "at45",
+    "name": "AT45",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/stjo2809/code/AT45/"
+    }
+}

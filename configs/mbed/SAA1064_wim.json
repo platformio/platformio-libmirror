@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "7 Segment LED Displaydriver, I2C interface, SAA1064",
+    "examples": [
+        "https://os.mbed.com/users/wim/code/812_hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "led",
+        "SAA1064"
+    ],
+    "name": "SAA1064",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/SAA1064/"
+    }
+}

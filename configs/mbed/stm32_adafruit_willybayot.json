@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "WILLY BAYOT",
+        "url": "https://os.mbed.com/users/willybayot/"
+    },
+    "description": "ADAFRUIT CLD & SD lib",
+    "examples": [
+        "https://os.mbed.com/users/willybayot/code/TDEMNucleo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "stm32_adafruit",
+    "name": "stm32_adafruit",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/willybayot/code/stm32_adafruit/"
+    }
+}

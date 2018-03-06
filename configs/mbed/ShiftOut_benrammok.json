@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Benjamin Ramberg Møklegård",
+        "url": "https://os.mbed.com/users/benrammok/"
+    },
+    "description": "A library for interfacing with the SN74HC595N Shift register. Includes functions for writing bits, bytes, animation and bits at spesified positions.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Digital",
+        "library",
+        "logic",
+        "Out",
+        "Register",
+        "shift",
+        "Shift Register",
+        "SN74HC595N"
+    ],
+    "name": "ShiftOut",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/benrammok/code/ShiftOut/"
+    }
+}

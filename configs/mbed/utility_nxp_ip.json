@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "InetrfaceProducts NXP",
+        "url": "https://os.mbed.com/users/nxp_ip/"
+    },
+    "description": "Mini board PCU9669 evaluation kit library",
+    "examples": [
+        "https://os.mbed.com/users/nxp_ip/code/mini_board_PCU9669/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "utility",
+    "name": "utility",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nxp_ip/code/utility/"
+    }
+}

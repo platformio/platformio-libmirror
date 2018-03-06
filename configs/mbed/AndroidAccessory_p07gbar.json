@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Giles Barton-Owen",
+        "url": "https://os.mbed.com/users/p07gbar/"
+    },
+    "description": "The modified AndroidAccessory Library",
+    "examples": [
+        "https://os.mbed.com/users/p07gbar/code/ADKTerm/",
+        "https://os.mbed.com/users/DanielC/code/droidcycle/",
+        "https://os.mbed.com/users/diepvriezer/code/uva_nc/",
+        "https://os.mbed.com/users/aapje123/code/androidservo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ADK",
+        "android",
+        "USB"
+    ],
+    "name": "AndroidAccessory",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/p07gbar/code/AndroidAccessory/"
+    }
+}

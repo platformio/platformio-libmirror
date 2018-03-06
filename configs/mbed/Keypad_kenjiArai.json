@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "4x3 keypad library",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/Keypad_input/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "4x3",
+        "AE-KIT45-KEYPAD4X3",
+        "Akizuki",
+        "key",
+        "matrix",
+        "switch"
+    ],
+    "name": "Keypad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/Keypad/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Simon Anthony",
+        "url": "https://os.mbed.com/users/smnanthny/"
+    },
+    "description": "Create a beeping alarm that starts and stops when you want it to. Created for OspreyQuad project and intended for use with a piezo buzzer.",
+    "frameworks": "mbed",
+    "keywords": "alarm",
+    "name": "alarm",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/smnanthny/code/alarm/"
+    }
+}

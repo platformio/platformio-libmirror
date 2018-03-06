@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Farbod (ex-Rohollah) Jam(ex-Miri)",
+        "url": "https://os.mbed.com/users/farbodjam/"
+    },
+    "description": "Motordriver",
+    "examples": [
+        "https://os.mbed.com/users/luckybug38/code/Card_activated_robot/",
+        "https://os.mbed.com/users/rokash000/code/MagicChassis/",
+        "https://os.mbed.com/users/jared152/code/Capstone/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Motordriver",
+    "name": "Motordriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/farbodjam/code/Motordriver/"
+    }
+}

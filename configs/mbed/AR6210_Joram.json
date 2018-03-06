@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Joram _",
+        "url": "https://os.mbed.com/users/Joram/"
+    },
+    "description": "Library to use remote control Spektrum AR6210",
+    "frameworks": "mbed",
+    "keywords": [
+        "AR6210",
+        "RC",
+        "remote",
+        "spektrum"
+    ],
+    "name": "AR6210",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Joram/code/AR6210/"
+    }
+}

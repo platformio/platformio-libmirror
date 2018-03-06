@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Sarawut Dechjarusyothin",
+        "url": "https://os.mbed.com/users/Chillee/"
+    },
+    "description": "reading diff-pressure form OMRON D6F-PH0505",
+    "frameworks": "mbed",
+    "keywords": [
+        "D6F-PH",
+        "pressure"
+    ],
+    "name": "D6F-PH",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Chillee/code/D6F-PH/"
+    }
+}

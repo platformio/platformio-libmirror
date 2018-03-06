@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Craig Evans",
+        "url": "https://os.mbed.com/users/eencae/"
+    },
+    "description": "Example of how to create an mbed library",
+    "examples": [
+        "https://os.mbed.com/users/eencae/code/2645_I2C_TMP102/",
+        "https://os.mbed.com/teams/ELEC2645-201516/code/Year2SensorProject/",
+        "https://os.mbed.com/users/el15pjt/code/Ranger/",
+        "https://os.mbed.com/teams/ELEC2645-201516/code/EL15PJT_Ranger/",
+        "https://os.mbed.com/teams/ELEC2645-201516/code/SensorMatic_Project/",
+        "https://os.mbed.com/teams/ELEC2645-201516/code/sensor_test/",
+        "https://os.mbed.com/users/bonnyngangu/code/Extras_I2C_TMP102/",
+        "https://os.mbed.com/users/bonnyngangu/code/2645_I2C_TMP102/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "2645",
+        "TMP102"
+    ],
+    "name": "TMP102",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eencae/code/TMP102/"
+    }
+}

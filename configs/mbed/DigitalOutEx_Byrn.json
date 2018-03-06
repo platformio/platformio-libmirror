@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Jonathan Gaul",
+        "url": "https://os.mbed.com/users/Byrn/"
+    },
+    "description": "Provides an extended version of DigitalOut that adds a \"toggle()\" function, and uses the RTOS Thread API to provide a \"flash()\" function that toggles the pin in the background at ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "digitalOut",
+        "led",
+        "rtos"
+    ],
+    "name": "DigitalOutEx",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Byrn/code/DigitalOutEx/"
+    }
+}

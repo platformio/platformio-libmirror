@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Stephen Paulger",
+        "url": "https://os.mbed.com/users/stevep/"
+    },
+    "description": "Library for big numbers from http://www.ttmath.org/",
+    "examples": [
+        "https://os.mbed.com/users/Cedricbts/code/PIDHeater82/",
+        "https://os.mbed.com/users/Arnoud113/code/Conceptcontroller_v_1_0/",
+        "https://os.mbed.com/teams/Atomic-Alarm-Clock-ECE-4180-Team/code/AlarmClockApp/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "arbitrary precision",
+        "bigint",
+        "bignum"
+    ],
+    "name": "ttmath",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/stevep/code/ttmath/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Sonar Team",
+        "url": "https://os.mbed.com/users/EDS_Ltd/"
+    },
+    "description": "cmd_io library for use with WattBob v1",
+    "examples": [
+        "https://os.mbed.com/users/Nurbol/code/Test_IR_value_2sensors/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "cmd_io",
+    "name": "cmd_io",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/EDS_Ltd/code/cmd_io/"
+    }
+}

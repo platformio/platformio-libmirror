@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Jordan Earls",
+        "url": "https://os.mbed.com/users/earlz/"
+    },
+    "description": "I\\'ve ported my library x86Lib to mbed. It fully emulates the 8086 processor, but a few things I\\'m still working on. Notable missing things are interrupts. Previously I used exceptions ...",
+    "examples": [
+        "https://os.mbed.com/users/earlz/code/x86Lib_Tester/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "8086",
+        "emulation"
+    ],
+    "name": "x86Lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/earlz/code/x86Lib/"
+    }
+}

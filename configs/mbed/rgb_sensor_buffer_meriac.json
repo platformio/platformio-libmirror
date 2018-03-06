@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Milosch Meriac",
+        "url": "https://os.mbed.com/users/meriac/"
+    },
+    "dependencies": [
+        {
+            "authors": "Milosch Meriac",
+            "frameworks": "mbed",
+            "name": "rgb_sensor"
+        }
+    ],
+    "description": "Triggered ADC readings",
+    "examples": [
+        "https://os.mbed.com/users/meriac/code/rgb_sensor_buffer_example/",
+        "https://os.mbed.com/users/bjblazkowicz/code/rgb_sensor_detection/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "rgb_sensor_buffer",
+    "name": "rgb_sensor_buffer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/meriac/code/rgb_sensor_buffer/"
+    }
+}

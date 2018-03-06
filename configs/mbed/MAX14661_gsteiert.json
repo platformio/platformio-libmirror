@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Greg Steiert",
+        "url": "https://os.mbed.com/users/gsteiert/"
+    },
+    "description": "MAX14661 Serial Controlled 16:2 Multiplexer",
+    "examples": [
+        "https://os.mbed.com/users/gsteiert/code/MBD2PMD_WebServer/",
+        "https://os.mbed.com/users/gsteiert/code/ARD2PMD_WebServer/",
+        "https://os.mbed.com/users/gsteiert/code/MAX14661_DEMO/",
+        "https://os.mbed.com/users/gsteiert/code/MAX3232_DEMO/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MAX14661",
+        "mux"
+    ],
+    "name": "MAX14661",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gsteiert/code/MAX14661/"
+    }
+}

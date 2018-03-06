@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "sato sei",
+        "url": "https://os.mbed.com/users/satoseiz/"
+    },
+    "dependencies": [
+        {
+            "authors": "sato sei",
+            "frameworks": "mbed",
+            "name": "SDFileSystem"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "SD_AQM_RTC_Test",
+    "frameworks": "mbed",
+    "keywords": "SD_AQM_RTC_Test",
+    "name": "SD_AQM_RTC_Test",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/satoseiz/code/SD_AQM_RTC_Test/"
+    }
+}

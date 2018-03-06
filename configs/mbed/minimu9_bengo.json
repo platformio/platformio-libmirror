@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Benigno Gobbo",
+        "url": "https://os.mbed.com/users/bengo/"
+    },
+    "description": "Pololu Minimu-9 library",
+    "frameworks": "mbed",
+    "keywords": [
+        "l3g4200d",
+        "lsm303dlm",
+        "minimu-9"
+    ],
+    "name": "minimu9",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bengo/code/minimu9/"
+    }
+}

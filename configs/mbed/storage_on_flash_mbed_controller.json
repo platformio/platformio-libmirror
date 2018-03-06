@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "mbed_controller",
+        "url": "https://os.mbed.com/teams/mbed_controller/"
+    },
+    "description": "Tiny storage(file) system on MCU internal flash memory for Nucleo F4xx. The purpose of SOFBlock class is to provide a way to write data on flash memory in the same ...",
+    "examples": [
+        "https://os.mbed.com/teams/mbed_controller/code/storage_on_flash_demo/",
+        "https://os.mbed.com/teams/mbed_controller/code/mbed_controller_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "eeprom on flash",
+        "flash file system"
+    ],
+    "name": "storage_on_flash",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/mbed_controller/code/storage_on_flash/"
+    }
+}

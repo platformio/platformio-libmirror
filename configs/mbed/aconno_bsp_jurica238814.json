@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Jurica Resetar",
+        "url": "https://os.mbed.com/users/jurica238814/"
+    },
+    "description": "aconno board support file for acd52832 device. Ver1.0",
+    "examples": [
+        "https://os.mbed.com/users/jurica238814/code/acd52832_TempRead/",
+        "https://os.mbed.com/users/jurica238814/code/acd52832_LSM9DS1/",
+        "https://os.mbed.com/users/jurica238814/code/beep/",
+        "https://os.mbed.com/users/jurica238814/code/beep_2/",
+        "https://os.mbed.com/users/jurica238814/code/acd52832_beep_buzzer_ints/",
+        "https://os.mbed.com/teams/aconno-dev-team/code/BuzzerRTTL/",
+        "https://os.mbed.com/users/jurica238814/code/acd52832_blinky/",
+        "https://os.mbed.com/teams/aconno-dev-team/code/ACD52832_rgb_show/",
+        "https://os.mbed.com/teams/aconno-dev-team/code/ACD52832_Beacon_basic_example/",
+        "https://os.mbed.com/users/Dautor/code/acn52832_Battery_Beacon/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "aconno_bsp",
+    "name": "aconno_bsp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jurica238814/code/aconno_bsp/"
+    }
+}

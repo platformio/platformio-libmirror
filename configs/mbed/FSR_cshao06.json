@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Chenkai Shao",
+        "url": "https://os.mbed.com/users/cshao06/"
+    },
+    "description": "FSR",
+    "examples": [
+        "https://os.mbed.com/users/cshao06/code/FSR_hello_world/",
+        "https://os.mbed.com/users/KrissyHam/code/FINAL_PROJECT/",
+        "https://os.mbed.com/users/philipperenoire/code/Pousse_seringue_Ulg/",
+        "https://os.mbed.com/users/philipperenoire/code/0__Pousse_seringue/",
+        "https://os.mbed.com/teams/IDD-Summer-2017/code/test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FSR",
+    "name": "FSR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cshao06/code/FSR/"
+    }
+}

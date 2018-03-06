@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Victor Hugo Sillerico Justo",
+        "url": "https://os.mbed.com/users/victorsillerico/"
+    },
+    "description": "This library let you manage a diferential mobile robot with two wheels based in the L298 module",
+    "frameworks": "mbed",
+    "keywords": [
+        "diferential mobile robot",
+        "L298"
+    ],
+    "name": "BaseDiferencial2R",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/victorsillerico/code/BaseDiferencial2R/"
+    }
+}

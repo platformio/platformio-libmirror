@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "taka haya",
+        "url": "https://os.mbed.com/users/takoyaki/"
+    },
+    "description": "a motor driver IC TA7291P",
+    "examples": [
+        "https://os.mbed.com/users/tomoya123/code/ANCHOR_Navigation3/",
+        "https://os.mbed.com/users/tomoya123/code/TA7291P/",
+        "https://os.mbed.com/users/tomoya123/code/TA7291P_2/",
+        "https://os.mbed.com/users/tomoya123/code/avoidance_program/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TA7291P",
+    "name": "TA7291P",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/takoyaki/code/TA7291P/"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Silicon Labs",
+        "url": "https://os.mbed.com/teams/SiliconLabs/"
+    },
+    "description": "This is a driver for the segment LCD found on the Silicon Labs EF32 Giant, Leopard and Wonder Gecko platforms. NOTE: This driver will not work with other platforms, because ...",
+    "examples": [
+        "https://os.mbed.com/users/star297/code/EFM32-RDA5807M-RDS-Radio/",
+        "https://os.mbed.com/users/MaxScorda/code/EMF32-Segment-Touch-Demo/",
+        "https://os.mbed.com/teams/Droni-e-Droidi/code/EMF32_ShowKey/",
+        "https://os.mbed.com/users/nameless129/code/blinky_EFM32_Giant/",
+        "https://os.mbed.com/teams/Droni-e-Droidi/code/EMF32-SerMonitor/",
+        "https://os.mbed.com/users/Sissors/code/Si114x_HelloWorld/",
+        "https://os.mbed.com/teams/Droni-e-Droidi/code/EFM32_Bugs/",
+        "https://os.mbed.com/users/hamid_155/code/MFALHIMOHAMMED/",
+        "https://os.mbed.com/users/star297/code/EFM32_BUrtc-Demo/",
+        "https://os.mbed.com/teams/SiliconLabs/code/Segment-Touch-Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "EFM32",
+        "Gecko",
+        "SegmentLCD",
+        "SiLabs",
+        "Silicon Labs",
+        "silicon_labs"
+    ],
+    "name": "EFM32_SegmentLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/SiliconLabs/code/EFM32_SegmentLCD/"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "Fonts to use with the mbed Lab Board 6,7,9,12 and 24 pixel high",
+    "examples": [
+        "https://os.mbed.com/users/dreschpe/code/Christmas-LCD/",
+        "https://os.mbed.com/users/Shadow/code/led_dimm/",
+        "https://os.mbed.com/users/mio/code/Ra-men-Timer/",
+        "https://os.mbed.com/users/4180_1/code/app-board-RTOS-Threads/",
+        "https://os.mbed.com/users/isteinwand93/code/Christmas-LCD2/",
+        "https://os.mbed.com/users/isteinwand93/code/Christmas-LCD/",
+        "https://os.mbed.com/users/avnisha/code/app-board-RTOS-Threads/",
+        "https://os.mbed.com/users/ned/code/limb2/",
+        "https://os.mbed.com/users/tonydbeck/code/gLCD/",
+        "https://os.mbed.com/users/bhakti08/code/IOT_HW_5_websockets/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "application board",
+        "LCD"
+    ],
+    "name": "LCD_fonts",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/LCD_fonts/"
+    }
+}

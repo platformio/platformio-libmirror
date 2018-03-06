@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Oğuz Özdemir",
+        "url": "https://os.mbed.com/users/mbedoguz/"
+    },
+    "description": "It is the library published by sparkfun, edited accordingly to make it work under mbed platform.",
+    "examples": [
+        "https://os.mbed.com/users/mbedoguz/code/MPU9250-dmp-bluepill/",
+        "https://os.mbed.com/users/mbedoguz/code/MPU9250-dmp/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SparkFunMPU9250-DMP",
+    "name": "SparkFunMPU9250-DMP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbedoguz/code/SparkFunMPU9250-DMP/"
+    }
+}

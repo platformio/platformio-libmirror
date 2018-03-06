@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Davide Luongo",
+        "url": "https://os.mbed.com/users/fangoman91/"
+    },
+    "description": "This library generate four classic waves, have an escape button to stop to generate wave. And is possible to use function for calculate period,... separately",
+    "frameworks": "mbed",
+    "keywords": "wave",
+    "name": "WaveGen_v4",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fangoman91/code/WaveGen_v4/"
+    }
+}

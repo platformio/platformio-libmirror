@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Craig Evans",
+        "url": "https://os.mbed.com/users/eencae/"
+    },
+    "description": "Library for interfacing to Nokia 5110 LCD display (as found on the SparkFun website).",
+    "examples": [
+        "https://os.mbed.com/users/esokic/code/LV7_LCDtest/",
+        "https://os.mbed.com/users/tim003/code/LV7_Grupa5_Tim003_Zadatak1/",
+        "https://os.mbed.com/users/tim008/code/lv7_Grupa5_Tim008_zad1/",
+        "https://os.mbed.com/users/tim010/code/LV7_PAI_Grupa5_tim10_Zadatak1/",
+        "https://os.mbed.com/users/tim004/code/LAB7_Tim004_zadatak1/",
+        "https://os.mbed.com/users/tim007/code/LV7-Grupa6-Tim007/",
+        "https://os.mbed.com/users/tim004/code/ZADATAK/",
+        "https://os.mbed.com/users/tim003/code/LV7_Grupa6_Zadatak1/",
+        "https://os.mbed.com/users/tim010/code/LV7-Grupa6-Tim010-zad1/",
+        "https://os.mbed.com/users/tim008/code/LV7_PAI_Grupa6_Tim008_zad1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "5110",
+        "LCD",
+        "N5110",
+        "Nokia",
+        "pcd8544"
+    ],
+    "name": "N5110",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eencae/code/N5110/"
+    }
+}

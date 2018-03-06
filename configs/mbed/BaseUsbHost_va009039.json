@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Norimasa Okamoto",
+        "url": "https://os.mbed.com/users/va009039/"
+    },
+    "description": "USB host library, support isochronous,bulk,interrupt and control.",
+    "examples": [
+        "https://os.mbed.com/users/va009039/code/BaseUsbHost_example/",
+        "https://os.mbed.com/users/va009039/code/BaseJpegDecode_example/",
+        "https://os.mbed.com/users/va009039/code/SimpleJpegDecode_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "USB",
+        "UVC"
+    ],
+    "name": "BaseUsbHost",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/va009039/code/BaseUsbHost/"
+    }
+}

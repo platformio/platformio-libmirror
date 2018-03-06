@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Camilo Ruiz",
+        "url": "https://os.mbed.com/users/CamiloRuiz/"
+    },
+    "description": "Interface with TMP112 and TMP102 temperature sensor",
+    "examples": [
+        "https://os.mbed.com/users/CamiloRuiz/code/tmp112HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "TMP102",
+        "TMP112"
+    ],
+    "name": "tmp112",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/CamiloRuiz/code/tmp112/"
+    }
+}

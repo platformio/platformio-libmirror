@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "cassyarduino cassyarduino",
+        "url": "https://os.mbed.com/users/cassyarduino/"
+    },
+    "description": "UIPEthernet library for Arduino IDE, Eclipse with arduino plugin and MBED/SMeshStudio (AVR,STM32F,ESP8266,Intel ARC32,Nordic nRF51,Teensy boards,Realtek Ameba(RTL8195A,RTL8710)), ENC28j60 network chip. Compatible with Wiznet W5100 Ethernet library API. Compiled and tested on ...",
+    "frameworks": "mbed",
+    "keywords": "UIPEthernet",
+    "name": "UIPEthernet",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cassyarduino/code/UIPEthernet/"
+    }
+}

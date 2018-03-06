@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "FOURNET Olivier",
+        "url": "https://os.mbed.com/users/Fo170/"
+    },
+    "description": "Fonctions communes aux programmes Nucleo Web ENC28J60...",
+    "examples": [
+        "https://os.mbed.com/users/Fo170/code/Nucleo_Web_ENC28J60/",
+        "https://os.mbed.com/users/Fo170/code/Nucleo_Web_ENC28J60_ADC/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FCT_WEB",
+    "name": "FCT_WEB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Fo170/code/FCT_WEB/"
+    }
+}

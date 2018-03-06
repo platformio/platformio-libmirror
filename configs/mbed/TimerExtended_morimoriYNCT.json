@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Katsuhiro Morishita",
+        "url": "https://os.mbed.com/users/morimoriYNCT/"
+    },
+    "description": "24日間連続してカウントするタイマークラスです。クラスの実装が公開されていないので理由は不明ですが、mbed標準のTimerクラスは2148秒までしかカウントしてくれません。そのため、せめてArduinoと同等のカウントが可能なように作成しました。",
+    "examples": [
+        "https://os.mbed.com/users/morimoriYNCT/code/gps_com/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "timer",
+    "name": "TimerExtended",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/morimoriYNCT/code/TimerExtended/"
+    }
+}

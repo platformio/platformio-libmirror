@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Craig Evans",
+        "url": "https://os.mbed.com/users/eencae/"
+    },
+    "description": "Library for interfacing with NXP FXOS8700CQ accelerometer/magnetometer",
+    "examples": [
+        "https://os.mbed.com/users/el15ss/code/Stick_Runner/",
+        "https://os.mbed.com/teams/ELEC2645-201617/code/Stick_Runner/",
+        "https://os.mbed.com/users/eencae/code/2645_FXOS8700CQ_Library/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "2645",
+        "accelerometer",
+        "fxos8700cq",
+        "I2C",
+        "magnetometer",
+        "nxp"
+    ],
+    "name": "FXOS8700CQ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eencae/code/FXOS8700CQ/"
+    }
+}

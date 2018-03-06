@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Frank Weissenborn",
+        "url": "https://os.mbed.com/users/FrankWeissenborn/"
+    },
+    "description": "Library to drive DogM16x text displays",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "DOGM",
+        "text"
+    ],
+    "name": "Dogm16x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/FrankWeissenborn/code/Dogm16x/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Dmitry Gerasimenko",
+        "url": "https://os.mbed.com/users/dgeras/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Some fun with LED and a button",
+    "frameworks": "mbed",
+    "keywords": "Essex",
+    "name": "LEDtest",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dgeras/code/LEDtest/"
+    }
+}

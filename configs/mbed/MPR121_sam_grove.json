@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Sam Grove",
+        "url": "https://os.mbed.com/users/sam_grove/"
+    },
+    "description": "A device driver for the Freescale MPR121 capactive touch IC. Not optimized for any particular system, just a starting point to get the chip up in running in no time. ...",
+    "examples": [
+        "https://os.mbed.com/teams/Seeed/code/Seeed_Grove_I2C_Touch_Example/",
+        "https://os.mbed.com/users/sam_grove/code/MPR121_HelloWorld/",
+        "https://os.mbed.com/users/mia_0032/code/mbed_petbottle_holder_shikake/",
+        "https://os.mbed.com/users/MACRUM/code/test_DEV-10508/",
+        "https://os.mbed.com/users/MACRUM/code/drum-pad-demo/",
+        "https://os.mbed.com/teams/GEII-1-Cachan/code/MP3_test/",
+        "https://os.mbed.com/teams/GEII-1-Cachan/code/MP3_final_S4P_ANDRIAMARO_RAKOTO_1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Capactitve touch sensor",
+        "mpr121",
+        "SEN-10250",
+        "sparkfun"
+    ],
+    "name": "MPR121",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sam_grove/code/MPR121/"
+    }
+}

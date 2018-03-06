@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Oleg Evsegneev",
+        "url": "https://os.mbed.com/users/Decimus/"
+    },
+    "description": "SerialFlow allows to send and receive packaged arrays of integer values via serial port.",
+    "frameworks": "mbed",
+    "keywords": "Serial",
+    "name": "SerialFlow",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Decimus/code/SerialFlow/"
+    }
+}

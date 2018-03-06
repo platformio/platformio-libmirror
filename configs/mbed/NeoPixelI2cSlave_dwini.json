@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Nico De Witte",
+        "url": "https://os.mbed.com/users/dwini/"
+    },
+    "dependencies": [
+        {
+            "authors": "Nico De Witte",
+            "frameworks": "mbed",
+            "name": "NeoPixelString"
+        },
+        {
+            "authors": "Nico De Witte",
+            "frameworks": "mbed",
+            "name": "SimplyLog"
+        }
+    ],
+    "description": "I2c slave device to control NeoPixel strings",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "NeoPixel",
+        "rhb",
+        "slave"
+    ],
+    "name": "NeoPixelI2cSlave",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dwini/code/NeoPixelI2cSlave/"
+    }
+}

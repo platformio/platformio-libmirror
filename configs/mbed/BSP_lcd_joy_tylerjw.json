@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Tyler Weaver",
+        "url": "https://os.mbed.com/users/tylerjw/"
+    },
+    "description": "Includes itoa implementation and functions for interacting with lcd display and joystick",
+    "frameworks": "mbed",
+    "keywords": [
+        "itoa",
+        "joystick",
+        "LCD"
+    ],
+    "name": "BSP_lcd_joy",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tylerjw/code/BSP_lcd_joy/"
+    }
+}

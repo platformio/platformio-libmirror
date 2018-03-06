@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Andy Kirkham",
+        "url": "https://os.mbed.com/users/AjK/"
+    },
+    "description": "Bug fix release",
+    "examples": [
+        "https://os.mbed.com/users/gsulc/code/AntiTheftGPS/",
+        "https://os.mbed.com/users/kunaljacy/code/XbeeReceive/",
+        "https://os.mbed.com/users/kunaljacy/code/XbeeSend/",
+        "https://os.mbed.com/users/katzjacob/code/Superball_Ball2/",
+        "https://os.mbed.com/users/ashleymills/code/TestY201/",
+        "https://os.mbed.com/users/cbayley/code/UARTSnoop/",
+        "https://os.mbed.com/users/lhiggs/code/UM6_IMU_AHRS_2012/",
+        "https://os.mbed.com/users/SamClarke/code/GPS-GPRS_Tracker/",
+        "https://os.mbed.com/users/Jasper/code/net-o-meter/",
+        "https://os.mbed.com/users/tylerjw/code/AHRS/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "buffer",
+        "Buffered",
+        "rs232",
+        "RS485",
+        "Serial"
+    ],
+    "name": "MODSERIAL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AjK/code/MODSERIAL/"
+    }
+}

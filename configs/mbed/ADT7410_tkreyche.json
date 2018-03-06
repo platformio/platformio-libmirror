@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Tom Kreyche",
+        "url": "https://os.mbed.com/users/tkreyche/"
+    },
+    "description": "Library for ADT7410 I2C temperature sensor. Use this instead of TMP102 when you need to measure temperatures lower than -40 degrees C. The device is guaranteed to work at -55 ...",
+    "examples": [
+        "https://os.mbed.com/users/micono/code/BLE_ADT7410_TMP102_Sample/",
+        "https://os.mbed.com/users/nobukuma/code/BLE_HTM_HRM1017/",
+        "https://os.mbed.com/users/Jun_adi/code/BLENano_SimpleTemplate_temp_170802/",
+        "https://os.mbed.com/users/Jun_adi/code/BLENano_SimpleTemplate_temp_170813/",
+        "https://os.mbed.com/users/respon/code/Airio-Base_ADT7410/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ADT7410",
+    "name": "ADT7410",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tkreyche/code/ADT7410/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "HTM",
+        "url": "https://os.mbed.com/teams/HTM/"
+    },
+    "description": "LEER TAG",
+    "examples": [
+        "https://os.mbed.com/teams/HTM/code/NFC_HTM_READ/",
+        "https://os.mbed.com/teams/HTM/code/EMULAR_TAGS/",
+        "https://os.mbed.com/teams/HTM/code/Escribir_tag/",
+        "https://os.mbed.com/teams/HTM/code/NFC_HTM_READ-WRITE/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "NFC",
+        "PN532"
+    ],
+    "name": "PN532_MK20",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/HTM/code/PN532_MK20/"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Gary Servin",
+        "url": "https://os.mbed.com/users/garyservin/"
+    },
+    "dependencies": [
+        {
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
+            "name": "BufferedSerial"
+        }
+    ],
+    "description": "ROS Serial library for Mbed platforms for ROS Indigo Igloo. Check http://wiki.ros.org/rosserial_mbed/ for more information",
+    "examples": [
+        "https://os.mbed.com/users/garyservin/code/rosserial_mbed_hello_world_publisher/",
+        "https://os.mbed.com/users/piliwilliam/code/rtos_base_control/",
+        "https://os.mbed.com/users/hirokimineshita/code/rosserial_mbed_F64MA/",
+        "https://os.mbed.com/users/randalthor/code/ROS-RTOS/",
+        "https://os.mbed.com/users/lukych92/code/Chrzaszcz_Nucleo_L476RG/",
+        "https://os.mbed.com/teams/CLUE/code/Mirror_Top_Indenter_ROS_NoSync/",
+        "https://os.mbed.com/teams/CLUE/code/Mirror_Top_Indenter_ROS_Sync10Khz/",
+        "https://os.mbed.com/teams/ROBOTIC-CHAMPION-TEAM/code/ROS_remote_car/",
+        "https://os.mbed.com/teams/Robotics-___/code/ROS_remote_car/",
+        "https://os.mbed.com/teams/Robotics-___/code/Lab5/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ROS",
+    "name": "ros_lib_indigo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/garyservin/code/ros_lib_indigo/"
+    }
+}

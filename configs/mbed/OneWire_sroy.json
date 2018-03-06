@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Scott Roy",
+        "url": "https://os.mbed.com/users/sroy/"
+    },
+    "description": "An experimental timer interrupt driven software based 1-Wire master interface that was created by Robert David Brinzer for a University of Glasgow Level 4 Electronic and Software Engineering Final Year ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "1-wire",
+        "DALLAS",
+        "Maxim",
+        "OneWire"
+    ],
+    "name": "OneWire",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sroy/code/OneWire/"
+    }
+}

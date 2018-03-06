@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "工学部技術部 鳥取大学",
+        "url": "https://os.mbed.com/users/Tottori_tec_05/"
+    },
+    "description": "led",
+    "examples": [
+        "https://os.mbed.com/users/kalyan/code/mig16to161/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "led",
+    "name": "led",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Tottori_tec_05/code/led/"
+    }
+}

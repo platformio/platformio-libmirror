@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Pablo Rodriguez",
+        "url": "https://os.mbed.com/users/pabloamr/"
+    },
+    "description": "RADIO nRF24L01",
+    "examples": [
+        "https://os.mbed.com/users/vmihalcut/code/NRF24L01_receiver/",
+        "https://os.mbed.com/users/vmihalcut/code/NRF24L01_sender/",
+        "https://os.mbed.com/users/tim003/code/G6-tim003-Projekat-Wireless/",
+        "https://os.mbed.com/users/tim010/code/Projekat_13_Grupa5_Bezicni_Chat/",
+        "https://os.mbed.com/users/tim007/code/WiFi_Chat/",
+        "https://os.mbed.com/users/nrrathi/code/ROBO_ARM_TX/",
+        "https://os.mbed.com/users/nrrathi/code/ROBO_ARM_Rx/",
+        "https://os.mbed.com/users/swarsan/code/nRF_LDR_Transmit/",
+        "https://os.mbed.com/users/mmittal8/code/BaseStation/",
+        "https://os.mbed.com/users/bspk96/code/Major_Rx_Phant/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "PABLO",
+        "R"
+    ],
+    "name": "nRF24L01P",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pabloamr/code/nRF24L01P/"
+    }
+}

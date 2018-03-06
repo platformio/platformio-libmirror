@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Ollie Milton",
+        "url": "https://os.mbed.com/users/ollie8/"
+    },
+    "description": "Library for creating menu systems in displays.",
+    "examples": [
+        "https://os.mbed.com/users/ollie8/code/VS1053Player/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "lcdmenu",
+        "menu"
+    ],
+    "name": "LibMenu",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ollie8/code/LibMenu/"
+    }
+}

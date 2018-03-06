@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Takehisa Oneta",
+        "url": "https://os.mbed.com/users/ohneta/"
+    },
+    "description": "bit-banging control for AD9850.",
+    "frameworks": "mbed",
+    "keywords": "AD9850",
+    "name": "AD9850",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ohneta/code/AD9850/"
+    }
+}

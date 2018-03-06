@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "napoleon leoni",
+        "url": "https://os.mbed.com/users/nleoni/"
+    },
+    "description": "InterruptMask library allows masking/unmasking GPIO interrupts (attached to either the rise or falling edges). It also allows clearing pending interrupts which may come handy before unmasking them.",
+    "frameworks": "mbed",
+    "keywords": [
+        "interrupt",
+        "masking"
+    ],
+    "name": "InterruptMask",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nleoni/code/InterruptMask/"
+    }
+}

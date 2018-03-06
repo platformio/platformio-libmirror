@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "InetrfaceProducts NXP",
+        "url": "https://os.mbed.com/users/nxp_ip/"
+    },
+    "description": "PCA9955 16 channel current drive(sink) LED driver class library",
+    "examples": [
+        "https://os.mbed.com/users/nxp_ip/code/PCA9955_Hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LED Dimmer",
+        "led driver",
+        "PCA9955"
+    ],
+    "name": "PCA9955",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nxp_ip/code/PCA9955/"
+    }
+}

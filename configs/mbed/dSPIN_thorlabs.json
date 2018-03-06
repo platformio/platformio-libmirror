@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Eric Lieser",
+        "url": "https://os.mbed.com/users/thorlabs/"
+    },
+    "description": "Library for ST's new dSpin stepper motor driver. Works with their demo board L6470EVAL.",
+    "frameworks": "mbed",
+    "keywords": "dSPIN",
+    "name": "dSPIN",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/thorlabs/code/dSPIN/"
+    }
+}

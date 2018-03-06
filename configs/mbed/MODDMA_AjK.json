@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Andy Kirkham",
+        "url": "https://os.mbed.com/users/AjK/"
+    },
+    "description": "MODDMA GPDMA Controller New features: transfer pins to memory buffer under periodic timer control and send double buffers to DAC",
+    "examples": [
+        "https://os.mbed.com/users/mpanetta/code/FirstTest/",
+        "https://os.mbed.com/users/jeroen3/code/WaveSim/",
+        "https://os.mbed.com/users/avnisha/code/IO-dma-memmem/",
+        "https://os.mbed.com/users/Mischa/code/DACDMAfuncgenlib/",
+        "https://os.mbed.com/users/heroic/code/FastPixelDemo/",
+        "https://os.mbed.com/users/apullin/code/DMA_Ethernet_Mbed/",
+        "https://os.mbed.com/users/michaelcoe/code/DMA_Ethernet_Mbed/",
+        "https://os.mbed.com/users/tohu/code/DMANeoPixel/",
+        "https://os.mbed.com/users/ad_24/code/IRIS_MBED/",
+        "https://os.mbed.com/teams/EmbedEd/code/mbed_theremin/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DMA",
+        "gpdma",
+        "MODDMA"
+    ],
+    "name": "MODDMA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AjK/code/MODDMA/"
+    }
+}

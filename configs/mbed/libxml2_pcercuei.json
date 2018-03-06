@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Paul Cercueil",
+        "url": "https://os.mbed.com/users/pcercuei/"
+    },
+    "description": "XML C parser available under the MIT license. http://xmlsoft.org/",
+    "examples": [
+        "https://os.mbed.com/users/pcercuei/code/libiio/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "libxml2",
+    "name": "libxml2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pcercuei/code/libxml2/"
+    }
+}

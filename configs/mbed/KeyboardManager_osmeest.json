@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Olivier Smeesters",
+        "url": "https://os.mbed.com/users/osmeest/"
+    },
+    "description": "KeyboardManager: a class to manage the polling of a switch-matrix keyboard",
+    "examples": [
+        "https://os.mbed.com/users/osmeest/code/KeyboardTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "keyboard",
+    "name": "KeyboardManager",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/osmeest/code/KeyboardManager/"
+    }
+}

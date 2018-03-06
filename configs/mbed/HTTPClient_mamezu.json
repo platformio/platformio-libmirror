@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "masa haru",
+        "url": "https://os.mbed.com/users/mamezu/"
+    },
+    "description": "HTTPClient",
+    "examples": [
+        "https://os.mbed.com/users/benglish6/code/Lab3Translator/",
+        "https://os.mbed.com/users/parik/code/lab3_Radio_design/",
+        "https://os.mbed.com/users/sivan_toledo/code/Sync/",
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform_20110408/",
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform/",
+        "https://os.mbed.com/users/blmarket/code/CSVParser/",
+        "https://os.mbed.com/users/techand/code/ej_RSSfeeder/",
+        "https://os.mbed.com/users/geodenx/code/OAuth4Tw/",
+        "https://os.mbed.com/users/angel_efrain/code/Twitter_RFID/",
+        "https://os.mbed.com/users/nxpfan/code/TwitterExample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HTTPClient",
+    "name": "HTTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mamezu/code/HTTPClient/"
+    }
+}

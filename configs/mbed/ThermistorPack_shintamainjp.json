@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "ThermistorPack.",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/Pachube_TestProgram/",
+        "https://os.mbed.com/users/shintamainjp/code/ThermistorPack_TestProgram/",
+        "https://os.mbed.com/users/shintamainjp/code/_DearMrJeffMourich/",
+        "https://os.mbed.com/users/shintamainjp/code/StarBoardOrangeExpansion2/",
+        "https://os.mbed.com/users/shintamainjp/code/Toragi_2011_04_Pachube/",
+        "https://os.mbed.com/users/shintamainjp/code/Toragi_2012_PachubeCosm/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "thermistor",
+    "name": "ThermistorPack",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/ThermistorPack/"
+    }
+}

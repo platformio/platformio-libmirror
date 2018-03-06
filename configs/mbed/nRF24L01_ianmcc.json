@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Ian McCulloch",
+        "url": "https://os.mbed.com/users/ianmcc/"
+    },
+    "description": "nRF24L01 driver",
+    "examples": [
+        "https://os.mbed.com/users/Andthen/code/Nucleo_IOT1/",
+        "https://os.mbed.com/teams/Flying-Monkeys/code/wireless/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "nRF24L01",
+    "name": "nRF24L01",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ianmcc/code/nRF24L01/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Innomatix Support",
+        "url": "https://os.mbed.com/users/Innomatix/"
+    },
+    "description": "Official support library for using mbed as a programmable coprocessor in the Innomatix DAP-III+ telematics platform",
+    "frameworks": "mbed",
+    "keywords": [
+        "DAP-III+",
+        "innomatix"
+    ],
+    "name": "InnomatixSupport",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Innomatix/code/InnomatixSupport/"
+    }
+}

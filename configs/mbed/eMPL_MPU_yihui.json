@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Yihui Xiong",
+        "url": "https://os.mbed.com/users/yihui/"
+    },
+    "description": "library for MPU6050 and MPU9250, supports both I2C and SPI",
+    "examples": [
+        "https://os.mbed.com/users/yihui/code/Seeed_nRF51822_MPU9250/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "6dof",
+        "9DOF",
+        "motion",
+        "MPU6050",
+        "MPU9250"
+    ],
+    "name": "eMPL_MPU",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yihui/code/eMPL_MPU/"
+    }
+}

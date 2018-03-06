@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Rohit Grover",
+        "url": "https://os.mbed.com/users/rgrover1/"
+    },
+    "description": "www.freertos.org",
+    "examples": [
+        "https://os.mbed.com/users/chalikias/code/freertos_test/",
+        "https://os.mbed.com/users/Sergunb/code/Nucleo/",
+        "https://os.mbed.com/users/tkatolrnmcu/code/freertos_test/",
+        "https://os.mbed.com/users/yukisega/code/FreeRTOS_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FreeRTOS",
+        "rtos"
+    ],
+    "name": "FreeRTOS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rgrover1/code/FreeRTOS/"
+    }
+}

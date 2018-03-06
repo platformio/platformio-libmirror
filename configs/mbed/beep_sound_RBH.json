@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Hirotaka Yoneda",
+        "url": "https://os.mbed.com/users/RBH/"
+    },
+    "description": "PWM出力によって圧電スピーカーで容易に音を鳴らすことができるライブラリです。",
+    "examples": [
+        "https://os.mbed.com/users/RBH/code/kiokuryoku_game/",
+        "https://os.mbed.com/users/RBH/code/escapeFromYou/",
+        "https://os.mbed.com/users/RBH/code/junirobo_sample001/",
+        "https://os.mbed.com/users/natuga117/code/ROBOX_Sample_IRcon/",
+        "https://os.mbed.com/users/natuga117/code/Sample_LinetraceWithSonicDist/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "beep_sound",
+    "name": "beep_sound",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RBH/code/beep_sound/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Hexley Ball",
+        "url": "https://os.mbed.com/users/hexley/"
+    },
+    "description": "Trial updated library for RPCInterface. The original library by Michael Walker now includes this fix. The trial library here will be deleted shortly...",
+    "examples": [
+        "https://os.mbed.com/users/LouisReynier/code/HTTPServerExample_LR/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "RPCInterface",
+    "name": "RPCInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hexley/code/RPCInterface/"
+    }
+}

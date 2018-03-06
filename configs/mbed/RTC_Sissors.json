@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "Allows easy usage of the LPC1768 RTC interrupts",
+    "examples": [
+        "https://os.mbed.com/users/Sissors/code/Mini_DK_clk/",
+        "https://os.mbed.com/users/jakeb/code/MakerBotServer/",
+        "https://os.mbed.com/users/Ugly_Kid/code/GT-ACQUAPLUS_Consumo/",
+        "https://os.mbed.com/users/Ugly_Kid/code/GT-ACQUAPLUS_Eficiencia/",
+        "https://os.mbed.com/users/propellerhead/code/SunriseAlarm/",
+        "https://os.mbed.com/users/manl2003/code/APP2/",
+        "https://os.mbed.com/users/weidongguo/code/Wei-PowerControl/",
+        "https://os.mbed.com/teams/S5-P05/code/Energymeter/",
+        "https://os.mbed.com/users/nsloth/code/Smart_Watch_4180_Final_Design/",
+        "https://os.mbed.com/teams/Control/code/SendMeasureFrequency/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "alarm",
+        "interrupt",
+        "RTC",
+        "time"
+    ],
+    "name": "RTC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/RTC/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Frank Vannieuwkerke",
+        "url": "https://os.mbed.com/users/frankvnk/"
+    },
+    "description": "PDM library (Pulse Density Modulation)",
+    "examples": [
+        "https://os.mbed.com/users/frankvnk/code/mbed-shiny/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "PDM",
+        "Pulse Density Modulation"
+    ],
+    "name": "SoftPdmOut",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/frankvnk/code/SoftPdmOut/"
+    }
+}

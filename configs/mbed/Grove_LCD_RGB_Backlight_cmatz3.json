@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Chandler Matz",
+        "url": "https://os.mbed.com/users/cmatz3/"
+    },
+    "description": "Code used to connect the Grove RGB LCD display to an mbed microcontroller.",
+    "examples": [
+        "https://os.mbed.com/users/cmatz3/code/Grove_LCD_RGB_Backlight_HelloWorld/",
+        "https://os.mbed.com/users/mathbrt/code/Test_BERTIN/",
+        "https://os.mbed.com/users/royedfa5229/code/LASS_LoRa_mbed/",
+        "https://os.mbed.com/users/Damien75/code/Affichage_MesureEnvironnement/",
+        "https://os.mbed.com/users/Debrant/code/Grove_LCD_RGB_Backlight_VFD_Display/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Grove_LCD_RGB_Backlight",
+    "name": "Grove_LCD_RGB_Backlight",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cmatz3/code/Grove_LCD_RGB_Backlight/"
+    }
+}

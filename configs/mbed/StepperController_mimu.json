@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Maxim R",
+        "url": "https://os.mbed.com/users/mimu/"
+    },
+    "description": "Simple stepper motor control via driver.",
+    "frameworks": "mbed",
+    "keywords": "StepperController",
+    "name": "StepperController",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mimu/code/StepperController/"
+    }
+}

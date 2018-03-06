@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Pierre David",
+        "url": "https://os.mbed.com/users/kkoichy/"
+    },
+    "description": "Simplified CANopen library for a CANopen slave device",
+    "examples": [
+        "https://os.mbed.com/teams/Team-Projet-Robot-Barman/code/SDC21XX_Motor/",
+        "https://os.mbed.com/users/kkoichy/code/SDC21XX_Motor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "CANopen",
+    "name": "CANopen_Node",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kkoichy/code/CANopen_Node/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Christopher Hasler",
+        "url": "https://os.mbed.com/users/littlexc/"
+    },
+    "description": "libary to return a range for sharp IR rangefinders. values are taken from the datasheet. note this is not accurate, but is good enough for seeing if things work",
+    "examples": [
+        "https://os.mbed.com/users/littlexc/code/GP2D12rangefinder/",
+        "https://os.mbed.com/users/littlexc/code/Initialmbedrobotprogram/",
+        "https://os.mbed.com/users/littlexc/code/mbedrobot/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GP2xx",
+    "name": "GP2xx",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/littlexc/code/GP2xx/"
+    }
+}

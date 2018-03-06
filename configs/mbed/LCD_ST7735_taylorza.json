@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Chris Taylor",
+        "url": "https://os.mbed.com/users/taylorza/"
+    },
+    "description": "SPI based library for the ST7735 LCD controller.",
+    "examples": [
+        "https://os.mbed.com/users/taylorza/code/RayCastingEngine/",
+        "https://os.mbed.com/users/maxint/code/RETRO_LCD_PerformanceTest/",
+        "https://os.mbed.com/users/loop/code/RETRO_loop_test/",
+        "https://os.mbed.com/users/Architect/code/RETRO_RickGame/",
+        "https://os.mbed.com/users/maxint/code/RETRO_BallsAndPaddle/",
+        "https://os.mbed.com/users/maxint/code/RETRO_BallAndHoles/",
+        "https://os.mbed.com/users/loop/code/1bitcraze/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LCD_ST7735",
+    "name": "LCD_ST7735",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/taylorza/code/LCD_ST7735/"
+    }
+}

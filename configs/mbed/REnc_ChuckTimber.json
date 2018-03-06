@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Chuck Timber",
+        "url": "https://os.mbed.com/users/ChuckTimber/"
+    },
+    "description": "Rotary Encoder handling library for mbed",
+    "examples": [
+        "https://os.mbed.com/users/ChuckTimber/code/MIDI_CW/",
+        "https://os.mbed.com/users/ChuckTimber/code/Gemphet8/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "REnc",
+    "name": "REnc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ChuckTimber/code/REnc/"
+    }
+}

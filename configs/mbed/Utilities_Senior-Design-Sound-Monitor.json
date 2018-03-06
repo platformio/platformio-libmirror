@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Senior Design: Sound Monitor",
+        "url": "https://os.mbed.com/teams/Senior-Design-Sound-Monitor/"
+    },
+    "description": "Added utility functions for L4",
+    "frameworks": "mbed",
+    "keywords": "Utilities",
+    "name": "Utilities",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Senior-Design-Sound-Monitor/code/Utilities/"
+    }
+}

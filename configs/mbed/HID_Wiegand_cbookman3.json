@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Colin Bookman",
+        "url": "https://os.mbed.com/users/cbookman3/"
+    },
+    "description": "A library to read HID RFID cards through the wiegand protocol. This was tested with the HID ProxPoint Plus 6005BG00.",
+    "examples": [
+        "https://os.mbed.com/users/cbookman3/code/HID_ProxCard_Wiegand_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "6005BG00",
+        "buzzcard",
+        "HID",
+        "ProxCard",
+        "ProxPoint",
+        "RFID",
+        "Wiegand"
+    ],
+    "name": "HID_Wiegand",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cbookman3/code/HID_Wiegand/"
+    }
+}

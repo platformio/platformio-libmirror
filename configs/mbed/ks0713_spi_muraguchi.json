@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Takanobu Muraguchi",
+        "url": "https://os.mbed.com/users/muraguchi/"
+    },
+    "description": "ks0713 SPI library. This library includes a small 5x5 ascii font and line function.",
+    "frameworks": "mbed",
+    "keywords": [
+        "AITENDO",
+        "KS0713",
+        "SPI"
+    ],
+    "name": "ks0713_spi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/muraguchi/code/ks0713_spi/"
+    }
+}

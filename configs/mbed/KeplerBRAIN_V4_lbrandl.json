@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Leander Brandl",
+        "url": "https://os.mbed.com/users/lbrandl/"
+    },
+    "description": "Library for the KeplerBRAIN Robotik Education System",
+    "frameworks": "mbed",
+    "keywords": "KeplerBRAIN_V4",
+    "name": "KeplerBRAIN_V4",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lbrandl/code/KeplerBRAIN_V4/"
+    }
+}

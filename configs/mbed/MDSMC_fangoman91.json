@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Davide Luongo",
+        "url": "https://os.mbed.com/users/fangoman91/"
+    },
+    "description": "This class interface the MDSMC (Micro Dual Serial Motor Controller) by Pololu with our mbed module",
+    "frameworks": "mbed",
+    "keywords": [
+        "by",
+        "controller",
+        "dual",
+        "micro",
+        "motor",
+        "pololu",
+        "Serial"
+    ],
+    "name": "MDSMC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fangoman91/code/MDSMC/"
+    }
+}

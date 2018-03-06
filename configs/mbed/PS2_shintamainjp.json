@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "PS/2",
+    "examples": [
+        "https://os.mbed.com/users/lbaddam3/code/Synth/",
+        "https://os.mbed.com/users/benglish6/code/Lab3Translator/",
+        "https://os.mbed.com/users/jf1vrr/code/PS2_Keyboard/",
+        "https://os.mbed.com/users/gsulc/code/CLI/",
+        "https://os.mbed.com/users/tim007/code/MisMatricniDisplay/",
+        "https://os.mbed.com/users/darkghost/code/Yariyol/",
+        "https://os.mbed.com/users/darkghost/code/FileDownloader/",
+        "https://os.mbed.com/users/esokic/code/PS2_Test_V2/",
+        "https://os.mbed.com/users/tim007/code/HarisEnsar-2/",
+        "https://os.mbed.com/users/tim010/code/Projekat15_pai_grupa6_tim010/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PS2",
+    "name": "PS2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/PS2/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Michael Ammann",
+        "url": "https://os.mbed.com/users/mazgch/"
+    },
+    "description": "The INA219 is a high-side current shunt and power monitor with an I2C interface. The INA219 monitors both shunt drop and supply voltage, with programmable conversion times and filtering. A ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "current",
+        "I2C",
+        "INA219",
+        "Power",
+        "voltage"
+    ],
+    "name": "INA219",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mazgch/code/INA219/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Krishna Kaushal Panduru",
+        "url": "https://os.mbed.com/users/kaushalpkk/"
+    },
+    "description": "LTC2942 interface with interrupt and battery register calculations",
+    "frameworks": "mbed",
+    "keywords": "LTC2942",
+    "name": "LTC2942",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kaushalpkk/code/LTC2942/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Ned Konz",
+        "url": "https://os.mbed.com/users/bikeNomad/"
+    },
+    "description": "Big Mouth Billy Bass automation library",
+    "examples": [
+        "https://os.mbed.com/users/bikeNomad/code/BillyBass_with_SD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "audio",
+        "billy bass",
+        "FRDM-KL25Z"
+    ],
+    "name": "BillyBass",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bikeNomad/code/BillyBass/"
+    }
+}

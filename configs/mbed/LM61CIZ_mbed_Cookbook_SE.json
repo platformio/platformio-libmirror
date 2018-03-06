@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Junichi Katsu",
+        "url": "https://os.mbed.com/users/mbed_Cookbook_SE/"
+    },
+    "description": "温度センサLM61CIZから入力した電圧値を温度として出力します。",
+    "frameworks": "mbed",
+    "keywords": "LM61CIZ",
+    "name": "LM61CIZ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbed_Cookbook_SE/code/LM61CIZ/"
+    }
+}

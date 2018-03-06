@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "lupo manes",
+        "url": "https://os.mbed.com/users/el15lm/"
+    },
+    "description": "Basic library to interface a 2 channel quadrature encoder with mBed",
+    "frameworks": "mbed",
+    "keywords": [
+        "optical encoder",
+        "Quadrature Encoder",
+        "two channel encoder"
+    ],
+    "name": "QuadratureEncoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/el15lm/code/QuadratureEncoder/"
+    }
+}

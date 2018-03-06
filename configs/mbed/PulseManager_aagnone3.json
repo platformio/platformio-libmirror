@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Anthony Agnone",
+        "url": "https://os.mbed.com/users/aagnone3/"
+    },
+    "description": "Manages the sending and reading of pulses via separate trigger and echo pins.",
+    "examples": [
+        "https://os.mbed.com/users/aagnone3/code/HCSR04/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PulseManager",
+    "name": "PulseManager",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aagnone3/code/PulseManager/"
+    }
+}

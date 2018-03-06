@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Ondřej Hruška",
+        "url": "https://os.mbed.com/users/MightyPork/"
+    },
+    "description": "Support library for the ESP8266 Wireless Terminal. Can also be used for communicating with any VT100-compatible terminal.",
+    "frameworks": "mbed",
+    "keywords": "ESPTerm",
+    "name": "ESPTerm",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MightyPork/code/ESPTerm/"
+    }
+}

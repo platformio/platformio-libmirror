@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "John Bailey",
+        "url": "https://os.mbed.com/users/johnb/"
+    },
+    "description": "Thin wrapper around the pins used to control the Arduino motor shield",
+    "examples": [
+        "https://os.mbed.com/users/johnb/code/MUTTv1/",
+        "https://os.mbed.com/teams/Rapid-PrototypingST32Nucleo/code/ProvaMotoreSeriale/",
+        "https://os.mbed.com/teams/Rapid-PrototypingST32Nucleo/code/SerialComLED/",
+        "https://os.mbed.com/teams/Rapid-PrototypingST32Nucleo/code/motore2/",
+        "https://os.mbed.com/teams/Rapid-PrototypingST32Nucleo/code/Motori2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "motor",
+        "shield"
+    ],
+    "name": "ArduinoMotorShield",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/johnb/code/ArduinoMotorShield/"
+    }
+}

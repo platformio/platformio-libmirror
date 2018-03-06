@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Antoniolinux B.",
+        "url": "https://os.mbed.com/users/antoniolinux/"
+    },
+    "description": "Library for Ultrasonic Range,",
+    "examples": [
+        "https://os.mbed.com/teams/mbed123/code/burobo_reciverV2/",
+        "https://os.mbed.com/users/donsez/code/Nucleo_Ultrasonic-HCSR4/",
+        "https://os.mbed.com/teams/The-A-Team/code/Test_UltraSonic/",
+        "https://os.mbed.com/teams/Robotique-FIP/code/Ultrasonic2/",
+        "https://os.mbed.com/teams/13Ko-Robo/code/main2016/",
+        "https://os.mbed.com/teams/Home-Security-Lamp/code/HoSAL/",
+        "https://os.mbed.com/users/amozaner/code/ASEnsor/",
+        "https://os.mbed.com/users/wupinxian/code/ROBOT/",
+        "https://os.mbed.com/users/EmbeddedSam/code/Ultrasound_And_TimeOfFlight/",
+        "https://os.mbed.com/users/amozaner/code/ultrasonido/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HCSR04",
+        "Nucleo",
+        "STM",
+        "stm32",
+        "ultrasonic"
+    ],
+    "name": "HCSR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/antoniolinux/code/HCSR04/"
+    }
+}

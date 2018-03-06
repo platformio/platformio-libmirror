@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Frank Vannieuwkerke",
+        "url": "https://os.mbed.com/users/frankvnk/"
+    },
+    "description": "KL25Z Comparator library",
+    "examples": [
+        "https://os.mbed.com/users/frankvnk/code/ComparatorIn_demo/",
+        "https://os.mbed.com/users/frankvnk/code/TEMT6200_demo/",
+        "https://os.mbed.com/users/icserny/code/05_comparator_demo/",
+        "https://os.mbed.com/teams/Megtestesules-Plebania-hobbielektronika-/code/05_comparator_demo/",
+        "https://os.mbed.com/users/inuD/code/Oscilloscope_20Hz20kHZ_Labview_kl25z/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "comparator",
+        "KL25z"
+    ],
+    "name": "ComparatorIn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/frankvnk/code/ComparatorIn/"
+    }
+}

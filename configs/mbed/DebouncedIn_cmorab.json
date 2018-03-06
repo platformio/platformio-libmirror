@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Andrés Mora Bedoya",
+        "url": "https://os.mbed.com/users/cmorab/"
+    },
+    "description": "Librería para un control PID simple",
+    "examples": [
+        "https://os.mbed.com/users/cmorab/code/BackupPIDSimple/",
+        "https://os.mbed.com/users/javiernegrette/code/Tarea_PID/",
+        "https://os.mbed.com/users/ikortegag/code/TareaPID/",
+        "https://os.mbed.com/users/JuanC/code/PID/",
+        "https://os.mbed.com/users/lcorralesc1/code/PID_Encoder/",
+        "https://os.mbed.com/users/lcorralesc1/code/Tarea4_Encoder/",
+        "https://os.mbed.com/users/payarito32/code/Tarea1/",
+        "https://os.mbed.com/users/jaruiz/code/ProcesadoresTarea0/",
+        "https://os.mbed.com/users/lenteja2206/code/Tarea_1_Procesadores/",
+        "https://os.mbed.com/users/juanmglopez/code/Tarea1DebouncedInLEdRGBdelay/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DebouncedIn",
+    "name": "DebouncedIn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cmorab/code/DebouncedIn/"
+    }
+}

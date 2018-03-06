@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Luis Linares",
+        "url": "https://os.mbed.com/users/macgyveremir/"
+    },
+    "description": "Simple driver for the 20-bit ADC MAX1120x from Maxim",
+    "frameworks": "mbed",
+    "keywords": "MAX1120x",
+    "name": "MAX1120x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/macgyveremir/code/MAX1120x/"
+    }
+}

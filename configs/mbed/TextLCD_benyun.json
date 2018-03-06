@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "ben yun",
+        "url": "https://os.mbed.com/users/benyun/"
+    },
+    "description": "TextLCD",
+    "examples": [
+        "https://os.mbed.com/users/socdough/code/Project_Stepper/",
+        "https://os.mbed.com/users/pramodnataraja/code/MP3_Player_Touch_Panel_Input_LCD_Display/",
+        "https://os.mbed.com/users/mafischl/code/WeatherStation/",
+        "https://os.mbed.com/users/jksoft/code/HTTPClientTest/",
+        "https://os.mbed.com/users/nakata/code/WiFiPositioning/",
+        "https://os.mbed.com/users/charly/code/RF22_MAX_test_Send/",
+        "https://os.mbed.com/users/facuclop/code/01_proyecto_principal_facuclop/",
+        "https://os.mbed.com/users/robo8080/code/FRDM_TSI_LCD/",
+        "https://os.mbed.com/users/justinkim/code/FTP_Streaming_Music_Player_WIZwiki-W7500/",
+        "https://os.mbed.com/users/ToHellWithGeorgi/code/ECE4180_Lab4/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TextLCD",
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/benyun/code/TextLCD/"
+    }
+}

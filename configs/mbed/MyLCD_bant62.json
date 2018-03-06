@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Hiroshi M",
+        "url": "https://os.mbed.com/users/bant62/"
+    },
+    "description": "Orignal AVR Tiny USI Based I2C slave LCD Driver.",
+    "examples": [
+        "https://os.mbed.com/users/bant62/code/MyLCD_OSARU/",
+        "https://os.mbed.com/users/bant62/code/MyLCD_printf/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "I2C",
+    "name": "MyLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bant62/code/MyLCD/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "wimbeaumont Project",
+        "url": "https://os.mbed.com/users/wbeaumont/"
+    },
+    "description": "code to access the AT30TSE75x temperature and E-prom device",
+    "examples": [
+        "https://os.mbed.com/users/wbeaumont/code/AT30TSE752TST2/",
+        "https://os.mbed.com/users/wbeaumont/code/AT30TSE752TST/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AT30TSE75x",
+        "I2C",
+        "Temperature"
+    ],
+    "name": "AT30TSE75x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wbeaumont/code/AT30TSE75x/"
+    }
+}

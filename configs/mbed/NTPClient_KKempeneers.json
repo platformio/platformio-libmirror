@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Koen Kempeneers",
+        "url": "https://os.mbed.com/users/KKempeneers/"
+    },
+    "description": "A minor bugfix. It prevents the library from entering an endless loop in case the NTP server droppes the request rather than sending a kiss of death message.",
+    "examples": [
+        "https://os.mbed.com/users/DieterGraef/code/STM32F746_iothub_client_sample_mqtt/",
+        "https://os.mbed.com/users/AzureIoTBld/code/longhaul_tests/",
+        "https://os.mbed.com/users/macenzofan/code/Iot_LCD_EC/",
+        "https://os.mbed.com/users/AzureIoTClient/code/iothub_client_sample_mqtt/",
+        "https://os.mbed.com/users/AzureIoTClient/code/simplesample_mqtt/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "NTPClient",
+    "name": "NTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/KKempeneers/code/NTPClient/"
+    }
+}

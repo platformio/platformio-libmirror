@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Rod Coleman",
+        "url": "https://os.mbed.com/users/RodColeman/"
+    },
+    "description": "Netservices modded to read fragmented HTTP respsonse/payload from special purpose server - 180 bytes only",
+    "frameworks": "mbed",
+    "keywords": "NetServices",
+    "name": "NetServices",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RodColeman/code/NetServices/"
+    }
+}

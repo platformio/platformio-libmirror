@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "David Smart",
+        "url": "https://os.mbed.com/users/WiredHome/"
+    },
+    "description": "A class to gather weather data from an NWS server.",
+    "frameworks": "mbed",
+    "keywords": "NWSWeather",
+    "name": "NWSWeather",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WiredHome/code/NWSWeather/"
+    }
+}

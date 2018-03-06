@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Mischa Megens",
+        "url": "https://os.mbed.com/users/Mischa/"
+    },
+    "description": "Function generator using the DAC output, using DMA alone.",
+    "examples": [
+        "https://os.mbed.com/users/Mischa/code/DACDMAfuncgenlib/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "dac",
+        "DMA",
+        "function generator",
+        "MODDMA"
+    ],
+    "name": "DMAFuncGen",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Mischa/code/DMAFuncGen/"
+    }
+}

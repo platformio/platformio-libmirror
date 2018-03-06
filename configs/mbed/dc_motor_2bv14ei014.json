@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Anjali jangalagi",
+        "url": "https://os.mbed.com/users/2bv14ei014/"
+    },
+    "dependencies": [
+        {
+            "authors": "Simon Ford",
+            "frameworks": "mbed",
+            "name": "HelloWorld"
+        }
+    ],
+    "description": "DCmotor Rotation using select pin",
+    "frameworks": "mbed",
+    "keywords": "dc_motor",
+    "name": "dc_motor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/2bv14ei014/code/dc_motor/"
+    }
+}

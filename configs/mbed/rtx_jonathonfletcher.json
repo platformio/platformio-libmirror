@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jonathon Fletcher",
+        "url": "https://os.mbed.com/users/jonathonfletcher/"
+    },
+    "description": "in OS_TSK, rename run as tsk_run and new as tsk_new.",
+    "frameworks": "mbed",
+    "keywords": "RTX",
+    "name": "rtx",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jonathonfletcher/code/rtx/"
+    }
+}

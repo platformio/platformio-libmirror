@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Murilo Pontes",
+        "url": "https://os.mbed.com/users/murilopontes/"
+    },
+    "description": "port http://sourceforge.net/projects/tinysh to mbed enviroment",
+    "examples": [
+        "https://os.mbed.com/users/murilopontes/code/kl25z-tinyshell-demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "command",
+        "prompt",
+        "shell",
+        "tinyshell"
+    ],
+    "name": "tinyshell",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/murilopontes/code/tinyshell/"
+    }
+}

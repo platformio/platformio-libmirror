@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Jingyi Zhang",
+        "url": "https://os.mbed.com/users/ivygatech/"
+    },
+    "description": "Library for uVGAIII",
+    "examples": [
+        "https://os.mbed.com/users/ivygatech/code/uVGAIII_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "uVGAIII",
+    "name": "uVGAIII",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ivygatech/code/uVGAIII/"
+    }
+}

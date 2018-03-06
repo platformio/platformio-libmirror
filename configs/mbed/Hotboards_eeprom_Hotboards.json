@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Hotboards MX",
+        "url": "https://os.mbed.com/users/Hotboards/"
+    },
+    "description": "Hotboards_eeprom.cpp - Driver to control serial (spi) eeprom memories, The memories are compatibles amount the manufactures Microchip, Atmel and ST, and of course you can control Hotboards eeprom boards (http://hotboards.org)",
+    "examples": [
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_eeprom_write_byte/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_eeprom_write_array/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "EEPROM",
+        "hotboards",
+        "storage"
+    ],
+    "name": "Hotboards_eeprom",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Hotboards/code/Hotboards_eeprom/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Leigh Brooks",
+        "url": "https://os.mbed.com/users/Leigh_LbR/"
+    },
+    "dependencies": [
+        {
+            "authors": "EmbeddedArtists AB",
+            "frameworks": "mbed",
+            "name": "EM027BS013"
+        }
+    ],
+    "description": "Driver to control the EM027BS013 board from Embedded Artists",
+    "frameworks": "mbed",
+    "keywords": "EaEpaper_EM027BS013",
+    "name": "EaEpaper_EM027BS013",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Leigh_LbR/code/EaEpaper_EM027BS013/"
+    }
+}

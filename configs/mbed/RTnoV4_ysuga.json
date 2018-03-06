@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Yuki Suga",
+        "url": "https://os.mbed.com/users/ysuga/"
+    },
+    "dependencies": [
+        {
+            "authors": "Yuki Suga",
+            "frameworks": "mbed",
+            "name": "EthernetInterface"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        }
+    ],
+    "description": "RTno is communicating library and framework which allows you to make your embedded device capable of communicating with RT-middleware world. RT-middleware is a platform software to realize Robotic system. In ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "robot",
+        "Robotics",
+        "RT-component",
+        "RT-middleware"
+    ],
+    "name": "RTnoV4",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ysuga/code/RTnoV4/"
+    }
+}

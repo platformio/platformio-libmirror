@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Tomas Lubkowitz",
+        "url": "https://os.mbed.com/users/c0ax/"
+    },
+    "description": "Like Arduinos \"map\" function reScale converts values from different sizes.",
+    "examples": [
+        "https://os.mbed.com/users/co838_jrh52/code/jrh52_a3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "map",
+        "rescale"
+    ],
+    "name": "reScale",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/c0ax/code/reScale/"
+    }
+}

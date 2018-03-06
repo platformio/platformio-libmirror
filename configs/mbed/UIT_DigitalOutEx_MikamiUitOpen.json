@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "DigitalOut クラスを継承して，オープンドレインにも設定できるように拡張した DigitalOutEx クラス. Derived class DigitalOutEx for setting also open-drain inherited from DigitalOut class.",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/Demo_DigitalOutEx/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Nucleo-F4xx",
+        "open-drain",
+        "UIT"
+    ],
+    "name": "UIT_DigitalOutEx",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/UIT_DigitalOutEx/"
+    }
+}

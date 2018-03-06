@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Geun Tae Kim",
+        "url": "https://os.mbed.com/users/lego/"
+    },
+    "description": "stepper motor unipolar half mode sla 7026/7033",
+    "frameworks": "mbed",
+    "keywords": "STEPPER",
+    "name": "STEPPER",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lego/code/STEPPER/"
+    }
+}

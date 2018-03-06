@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Graham Bloice",
+        "url": "https://os.mbed.com/users/gbloice/"
+    },
+    "description": "An mbed library for the Embedded Artists QVGA OLED 2.8 inch panel",
+    "frameworks": "mbed",
+    "keywords": [
+        "EA",
+        "Graphics",
+        "OLED",
+        "SPI"
+    ],
+    "name": "EAQVGAOLED",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gbloice/code/EAQVGAOLED/"
+    }
+}

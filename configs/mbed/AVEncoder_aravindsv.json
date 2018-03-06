@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Aravind Vadali",
+        "url": "https://os.mbed.com/users/aravindsv/"
+    },
+    "description": "Simple Encoder Class. As of now, does not take direction into account",
+    "examples": [
+        "https://os.mbed.com/users/mochaMan/code/PID_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Encoder",
+    "name": "AVEncoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aravindsv/code/AVEncoder/"
+    }
+}

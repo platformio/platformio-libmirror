@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "od_1969 .",
+        "url": "https://os.mbed.com/users/od_1969/"
+    },
+    "description": "Direct conect sample",
+    "examples": [
+        "https://os.mbed.com/users/od_1969/code/Nucleo_DHT11_Direct/",
+        "https://os.mbed.com/users/OsvaldoTNeto/code/Projeto/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DTH",
+    "name": "DTH",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/od_1969/code/DTH/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Steven Swenson",
+        "url": "https://os.mbed.com/users/melangeaddict/"
+    },
+    "description": "Small class to control a stepper motor",
+    "examples": [
+        "https://os.mbed.com/users/melangeaddict/code/tuner/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "motor",
+        "Stepper"
+    ],
+    "name": "Motor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/melangeaddict/code/Motor/"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Takuma Kawamura",
+        "url": "https://os.mbed.com/users/babylonica/"
+    },
+    "dependencies": [
+        {
+            "authors": "Takuma Kawamura",
+            "frameworks": "mbed",
+            "name": "FIFO"
+        }
+    ],
+    "description": "Asynchronous (Non-blocking) Serial Communication library with variable length software ring buffer (FIFO). You can use RawSerial Library's primary method. Operability confirmed on mbed 2.0.",
+    "examples": [
+        "https://os.mbed.com/users/bluefish/code/InvertedPendulum2017/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "asynchronous",
+        "Buffered",
+        "FIFO",
+        "Non blocking",
+        "ring buffer",
+        "Serial",
+        "UART"
+    ],
+    "name": "AsyncSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/babylonica/code/AsyncSerial/"
+    }
+}

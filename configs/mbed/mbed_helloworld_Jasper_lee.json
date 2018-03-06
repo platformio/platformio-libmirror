@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Jasper Lee",
+        "url": "https://os.mbed.com/users/Jasper_lee/"
+    },
+    "description": "change some io settings for TWR-K22F-120M",
+    "examples": [
+        "https://os.mbed.com/users/Jasper_lee/code/twr_helloworld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "helloworld",
+    "name": "mbed_helloworld",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Jasper_lee/code/mbed_helloworld/"
+    }
+}

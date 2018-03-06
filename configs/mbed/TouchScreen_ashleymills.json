@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Ashley Mills",
+        "url": "https://os.mbed.com/users/ashleymills/"
+    },
+    "description": "Library for 4D systems touchscreen",
+    "frameworks": "mbed",
+    "keywords": "TouchScreen",
+    "name": "TouchScreen",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ashleymills/code/TouchScreen/"
+    }
+}

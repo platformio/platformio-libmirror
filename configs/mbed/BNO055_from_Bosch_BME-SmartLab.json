@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "BME SmartLab",
+        "url": "https://os.mbed.com/teams/BME-SmartLab/"
+    },
+    "description": "BNO055 library using Bosch's code",
+    "frameworks": "mbed",
+    "keywords": "BNO055_from_Bosch",
+    "name": "BNO055_from_Bosch",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/BME-SmartLab/code/BNO055_from_Bosch/"
+    }
+}

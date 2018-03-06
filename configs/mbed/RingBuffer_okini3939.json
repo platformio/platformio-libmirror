@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "Ring Buffer",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/pseudo_comet/",
+        "https://os.mbed.com/users/okini3939/code/GSwifi_sample/",
+        "https://os.mbed.com/users/okini3939/code/MelInverter_sample/",
+        "https://os.mbed.com/users/nameless129/code/SerialPassthrough_withRB/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "buffer",
+        "ring"
+    ],
+    "name": "RingBuffer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/RingBuffer/"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Hiroaki Matsuda",
+        "url": "https://os.mbed.com/users/matsu/"
+    },
+    "description": "to move servo",
+    "examples": [
+        "https://os.mbed.com/users/matsu/code/mbed-for-McuComm/",
+        "https://os.mbed.com/users/gelmes/code/RTOS_Controller/",
+        "https://os.mbed.com/users/aolgu003/code/RTOS_Controller_v2/",
+        "https://os.mbed.com/users/gelmes/code/RTOS_Controller_v3/",
+        "https://os.mbed.com/users/aolgu003/code/RTOS_Controller_v3/",
+        "https://os.mbed.com/teams/TESTTESTEST-TEST/code/ConcorsoFinal/",
+        "https://os.mbed.com/teams/TESTTESTEST-TEST/code/HelloWorld_IHM01A1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "command",
+        "Servo"
+    ],
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/matsu/code/Servo/"
+    }
+}

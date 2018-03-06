@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "John Ermitanio",
+        "url": "https://os.mbed.com/users/jsermita/"
+    },
+    "description": "First Revision of BMA180 accelerometer to read X, Y, and Z acceleration",
+    "examples": [
+        "https://os.mbed.com/users/tedparrott6/code/BMA180_1/",
+        "https://os.mbed.com/users/tedparrott6/code/BMA180_2/",
+        "https://os.mbed.com/users/tedparrott6/code/BMA180_3/",
+        "https://os.mbed.com/users/tedparrott6/code/BMA180_4/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "bma180"
+    ],
+    "name": "BMA180",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jsermita/code/BMA180/"
+    }
+}

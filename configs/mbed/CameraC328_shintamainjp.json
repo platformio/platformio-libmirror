@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "CameraC328",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/CameraC328_TestProgram/",
+        "https://os.mbed.com/users/devesh_rai/code/CameraC328_Thresholding/",
+        "https://os.mbed.com/users/Ricky_Kwon/code/Camera_TestProgram_2015/",
+        "https://os.mbed.com/teams/Home-Security-Lamp/code/Camera_TestProgram_2015/",
+        "https://os.mbed.com/users/Ricky_Kwon/code/Freedman/",
+        "https://os.mbed.com/teams/Home-Security-Lamp/code/HoSAL/",
+        "https://os.mbed.com/users/Ricky_Kwon/code/Freedman_v2/",
+        "https://os.mbed.com/users/Ricky_Kwon/code/Camera_WebStreaming_WIZwiki-W7500/",
+        "https://os.mbed.com/users/Ricky_Kwon/code/Camera_PCStreaming_WIZwiki-W7500/",
+        "https://os.mbed.com/teams/IOP/code/Camera_FTP_WIZwiki-W7500/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "C328",
+        "camera",
+        "JPEG",
+        "Serial",
+        "sparkfun"
+    ],
+    "name": "CameraC328",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/CameraC328/"
+    }
+}

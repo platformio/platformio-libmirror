@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Yoji KURODA",
+        "url": "https://os.mbed.com/users/ykuroda/"
+    },
+    "dependencies": [
+        {
+            "authors": "Yoji KURODA",
+            "frameworks": "mbed",
+            "name": "RingBuffer"
+        }
+    ],
+    "description": "Better Serial C++ class library with interrupt",
+    "examples": [
+        "https://os.mbed.com/teams/VOC/code/Dumb_box_rev2/",
+        "https://os.mbed.com/users/40125682/code/mbed_GPSproject/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "interrupt",
+        "Serial"
+    ],
+    "name": "iSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ykuroda/code/iSerial/"
+    }
+}

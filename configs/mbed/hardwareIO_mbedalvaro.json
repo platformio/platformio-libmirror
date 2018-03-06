@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Alvaro Cassinelli",
+        "url": "https://os.mbed.com/users/mbedalvaro/"
+    },
+    "description": "Hardware IO control: mirrors, lock in",
+    "frameworks": "mbed",
+    "keywords": "hardwareIO",
+    "name": "hardwareIO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbedalvaro/code/hardwareIO/"
+    }
+}

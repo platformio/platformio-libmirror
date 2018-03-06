@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Yann Garcia",
+        "url": "https://os.mbed.com/users/Yann/"
+    },
+    "description": "This library provides a class to generate differents signale wave form. Note that the maximum update rate of 1 MHz, so Fmax = 1MHz / _num_pixels (see UM10360 - Chapter ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "DDS",
+        "generator",
+        "signal"
+    ],
+    "name": "SignalGenerator",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Yann/code/SignalGenerator/"
+    }
+}

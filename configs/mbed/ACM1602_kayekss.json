@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Kaoru Onoe",
+        "url": "https://os.mbed.com/users/kayekss/"
+    },
+    "description": "Displaytronic (Xiamen Zettler)'s I2C text LCD driver",
+    "examples": [
+        "https://os.mbed.com/users/kayekss/code/IsuProject_LPC1768/",
+        "https://os.mbed.com/users/tknara/code/robottt/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LCD",
+    "name": "ACM1602",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kayekss/code/ACM1602/"
+    }
+}

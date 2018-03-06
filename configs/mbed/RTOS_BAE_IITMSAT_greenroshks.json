@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "green rosh",
+        "url": "https://os.mbed.com/users/greenroshks/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Rtos code for BAE microcontroller, IITMSAT",
+    "frameworks": "mbed",
+    "keywords": "RTOS_BAE_IITMSAT",
+    "name": "RTOS_BAE_IITMSAT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/greenroshks/code/RTOS_BAE_IITMSAT/"
+    }
+}

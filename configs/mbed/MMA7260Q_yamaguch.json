@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Hiroshi Yamaguchi",
+        "url": "https://os.mbed.com/users/yamaguch/"
+    },
+    "description": "MMA7260Q Accelerometer",
+    "frameworks": "mbed",
+    "keywords": "accelerometer",
+    "name": "MMA7260Q",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yamaguch/code/MMA7260Q/"
+    }
+}

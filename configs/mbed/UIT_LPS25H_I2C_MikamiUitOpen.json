@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "気圧センサ LPS25H を I2C 接続で使うためのライブラリ． Library for atmospheric pressure sensor LPS25H using I2C interface.",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/Demo_LPS25H/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "atmospheric pressure",
+        "I2C",
+        "lps25h"
+    ],
+    "name": "UIT_LPS25H_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/UIT_LPS25H_I2C/"
+    }
+}

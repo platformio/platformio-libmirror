@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Craig Evans",
+        "url": "https://os.mbed.com/users/eencae/"
+    },
+    "description": "Library for Freescale MMA8452 Accelerometer",
+    "examples": [
+        "https://os.mbed.com/users/lssyczy/code/acce_ChenZhengyang/",
+        "https://os.mbed.com/users/a1163480319/code/mbed_ProjectC_Accelerometer/",
+        "https://os.mbed.com/users/stevenle93/code/AccelerometerProject/",
+        "https://os.mbed.com/users/NicolasXu/code/mbed_Accelerometer/",
+        "https://os.mbed.com/users/MrMavriks/code/Accelerometer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MMA8452",
+    "name": "MMA8452",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eencae/code/MMA8452/"
+    }
+}

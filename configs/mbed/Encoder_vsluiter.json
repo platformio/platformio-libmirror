@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "First Last",
+        "url": "https://os.mbed.com/users/vsluiter/"
+    },
+    "description": "Library to read out speed and position from a quadrature encoder. This library uses X2 decoding.",
+    "examples": [
+        "https://os.mbed.com/users/vsluiter/code/BMT-K9_encoder/",
+        "https://os.mbed.com/users/vsluiter/code/BMT-K9-Regelaar/",
+        "https://os.mbed.com/users/gerard1993/code/K9motoraansturing_copy/",
+        "https://os.mbed.com/users/bouvdberg/code/EMGverwerking/",
+        "https://os.mbed.com/users/jorick92/code/motoraansturing_met_EMG/",
+        "https://os.mbed.com/users/Tess/code/Motoraansturingvoortweemotorenmetbeginwa/",
+        "https://os.mbed.com/users/ralphoosterveld/code/TextLCD/",
+        "https://os.mbed.com/users/Tess/code/motoraansturing_met_EMG_met_alles_versie/",
+        "https://os.mbed.com/users/jaccoton/code/Marian/",
+        "https://os.mbed.com/users/gerjan/code/Pregelaar/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Encoder",
+    "name": "Encoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vsluiter/code/Encoder/"
+    }
+}

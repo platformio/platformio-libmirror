@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Jurica Resetar",
+        "url": "https://os.mbed.com/users/jurica238814/"
+    },
+    "description": "Library for Silicon Labs Si7006 digital temperature and humidity chip.",
+    "examples": [
+        "https://os.mbed.com/users/jurica238814/code/acd52832_Humidity_Temp_Example/",
+        "https://os.mbed.com/teams/aconno-dev-team/code/acn52832_sensor_board/",
+        "https://os.mbed.com/teams/aconno-dev-team/code/acnsensa/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "aconno",
+        "nrf52832",
+        "Si7006"
+    ],
+    "name": "Si7006A20",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jurica238814/code/Si7006A20/"
+    }
+}

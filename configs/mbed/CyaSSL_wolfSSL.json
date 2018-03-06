@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "wolf SSL",
+        "url": "https://os.mbed.com/users/wolfSSL/"
+    },
+    "description": "CyaSSL 3.0.0",
+    "examples": [
+        "https://os.mbed.com/teams/MBED_DEMOS/code/HTTPClient-SSL/",
+        "https://os.mbed.com/users/PBarrett/code/HTTPClient/",
+        "https://os.mbed.com/users/sarahmarshy/code/HTTPClient-SSL/",
+        "https://os.mbed.com/users/thursday1024/code/http_access/",
+        "https://os.mbed.com/users/thursday1024/code/ssl_access/",
+        "https://os.mbed.com/users/thursday1024/code/ssl_access_exe/",
+        "https://os.mbed.com/users/takeuchiyoshihiko/code/HTTPClient/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "SSL",
+        "TLS"
+    ],
+    "name": "CyaSSL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wolfSSL/code/CyaSSL/"
+    }
+}

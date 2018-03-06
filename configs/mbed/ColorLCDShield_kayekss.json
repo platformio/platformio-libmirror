@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Kaoru Onoe",
+        "url": "https://os.mbed.com/users/kayekss/"
+    },
+    "description": "Sparkfun's Nokia Color LCD Arduino Shield library for FRDM boards",
+    "examples": [
+        "https://os.mbed.com/users/kayekss/code/ColorLCDShield_Conway/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FRDM-KL25Z",
+        "LCD",
+        "Nokia"
+    ],
+    "name": "ColorLCDShield",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kayekss/code/ColorLCDShield/"
+    }
+}

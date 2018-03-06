@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Yaroslav Barabanov",
+        "url": "https://os.mbed.com/users/Yar/"
+    },
+    "description": "Here, alternative functions and classes for STM32. The program contains a class for the I2C software bus, a class for working with a watchdog timer and time delay functions based ...",
+    "examples": [
+        "https://os.mbed.com/users/Yar/code/STM32_F1XX_Alternative/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "delay_ms",
+        "delay_us",
+        "DWT",
+        "GPIO",
+        "HAL",
+        "I2C",
+        "I2C Master",
+        "Nucleo",
+        "software i2c",
+        "stm32",
+        "STM32F103",
+        "stm32f1xx",
+        "watchdog"
+    ],
+    "name": "Stm32F1xx_Alternative",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Yar/code/Stm32F1xx_Alternative/"
+    }
+}

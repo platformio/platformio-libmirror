@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "SerialGPS.",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/SerialGPS_TestProgram/",
+        "https://os.mbed.com/users/veyselka/code/Nucleo_SerialGPS_to_PC/",
+        "https://os.mbed.com/teams/hime-hime/code/Nucleo_SerialGPS_to_PC/",
+        "https://os.mbed.com/users/AshuJoshi/code/SensorInterface/",
+        "https://os.mbed.com/users/fadi_lad/code/Bracelet_Orientation-Course/",
+        "https://os.mbed.com/users/fadi_lad/code/Bracelet_connecte/",
+        "https://os.mbed.com/users/fadi_lad/code/Nucleo_L43_Bracelet/",
+        "https://os.mbed.com/users/dahmani_belkacem/code/Final/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GPS",
+        "Serial"
+    ],
+    "name": "SerialGPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/SerialGPS/"
+    }
+}

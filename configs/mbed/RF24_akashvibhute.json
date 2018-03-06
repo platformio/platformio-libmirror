@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Akash Vibhute",
+        "url": "https://os.mbed.com/users/akashvibhute/"
+    },
+    "description": "Maniacbug's RF24 arduino library ported to mbed. Tested, it works for Nucleo F411",
+    "examples": [
+        "https://os.mbed.com/users/akashvibhute/code/RF24Network_Send/",
+        "https://os.mbed.com/users/akashvibhute/code/RF24Network_Receive/",
+        "https://os.mbed.com/users/pro100kot14/code/WeatherStation/",
+        "https://os.mbed.com/users/tabris2015/code/maple_chotobot_rf_motores/",
+        "https://os.mbed.com/teams/BME-SmartLab/code/SmartCone/",
+        "https://os.mbed.com/users/fabiofaria/code/nordic_maniac01/",
+        "https://os.mbed.com/teams/BME-SmartLab/code/_Smart_vacuum_0v2/",
+        "https://os.mbed.com/users/ISR/code/ISR_Mini-explorer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "maniacbug",
+        "nRF24L01",
+        "nRF24L01P",
+        "RF24"
+    ],
+    "name": "RF24",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/akashvibhute/code/RF24/"
+    }
+}

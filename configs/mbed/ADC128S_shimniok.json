@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Michael Shimniok",
+        "url": "https://os.mbed.com/users/shimniok/"
+    },
+    "description": "Driver for National Semiconductor ADC128Sxxx family of analog to digital converters",
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "driver"
+    ],
+    "name": "ADC128S",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shimniok/code/ADC128S/"
+    }
+}

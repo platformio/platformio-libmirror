@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Craig Evans",
+        "url": "https://os.mbed.com/users/eencae/"
+    },
+    "description": "Library for getting temperature and pressure values from Bosch BMP180 barometer.",
+    "examples": [
+        "https://os.mbed.com/users/afreshmeat/code/WeatherStation/",
+        "https://os.mbed.com/users/afreshmeat/code/WeatherStation1/",
+        "https://os.mbed.com/users/oe386961252/code/ProjectD/",
+        "https://os.mbed.com/users/el13nsp/code/Weather_Station/",
+        "https://os.mbed.com/users/takis94/code/Weather_Station/",
+        "https://os.mbed.com/users/orlagilson/code/WeatherLogger/",
+        "https://os.mbed.com/users/el13akr/code/WeatherLogger/",
+        "https://os.mbed.com/users/Chakweza/code/mbed_weather_station/",
+        "https://os.mbed.com/users/FFLopes/code/Weather_Station/",
+        "https://os.mbed.com/users/amiraseman/code/WeatherStation/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BMP180",
+    "name": "BMP180",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eencae/code/BMP180/"
+    }
+}

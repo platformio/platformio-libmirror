@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Florent Haddad",
+        "url": "https://os.mbed.com/users/flowh/"
+    },
+    "description": "Library to read and write configuration saved on SD Card",
+    "examples": [
+        "https://os.mbed.com/users/flowh/code/DiscoLogger/",
+        "https://os.mbed.com/users/m0dts/code/Dawson_Controller/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ConfigFile",
+    "name": "ConfigFile",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/flowh/code/ConfigFile/"
+    }
+}

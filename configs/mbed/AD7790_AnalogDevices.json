@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Analog Devices",
+        "url": "https://os.mbed.com/teams/AnalogDevices/"
+    },
+    "description": "Driver for the AD7790 16 bit ADC",
+    "examples": [
+        "https://os.mbed.com/teams/AnalogDevices/code/ad7790-helloworld/",
+        "https://os.mbed.com/teams/AnalogDevices/code/CN0357/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AD7790",
+        "adc"
+    ],
+    "name": "AD7790",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/AnalogDevices/code/AD7790/"
+    }
+}

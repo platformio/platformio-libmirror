@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Meurig Phillips",
+        "url": "https://os.mbed.com/users/meurigp/"
+    },
+    "description": "code for fsm menu",
+    "examples": [
+        "https://os.mbed.com/users/meurigp/code/SnakeProjectRev1/",
+        "https://os.mbed.com/teams/ELEC2645-201516/code/SnakeProjectRev1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "fsmMenu",
+    "name": "fsmMenu",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/meurigp/code/fsmMenu/"
+    }
+}

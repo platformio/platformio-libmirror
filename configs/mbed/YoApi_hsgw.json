@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Takuya Urakawa",
+        "url": "https://os.mbed.com/users/hsgw/"
+    },
+    "description": "Send Yo from mbed. http://www.justyo.co/ Dependents: EthernetInterface, HTTPClient, mbed-rtos Example is http://mbed.org/users/hsgw/code/SendYoExample/",
+    "examples": [
+        "https://os.mbed.com/users/hsgw/code/SendYoExample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "yo",
+    "name": "YoApi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hsgw/code/YoApi/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Edutech IoT Team",
+        "url": "https://os.mbed.com/teams/Edutech/"
+    },
+    "description": "MQTT client for mbed Port of the Arduino MQTT Client: http://knolleary.net/arduino-client-for-mqtt/",
+    "frameworks": "mbed",
+    "keywords": "MQTT",
+    "name": "MQTT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Edutech/code/MQTT/"
+    }
+}

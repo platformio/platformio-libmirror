@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Guillermo Torijano",
+        "url": "https://os.mbed.com/users/GAT27/"
+    },
+    "description": "Starting library to get the SI1143 Gesture Sensor to work. Currently only works in forced conversion mode.",
+    "examples": [
+        "https://os.mbed.com/users/GAT27/code/Gesture_Sensor/",
+        "https://os.mbed.com/users/GAT27/code/Gesture_Arm_Robot/",
+        "https://os.mbed.com/users/cardenb/code/mbed_gesture/",
+        "https://os.mbed.com/users/1050186/code/Gesture_Sensor_Sample/",
+        "https://os.mbed.com/users/1050186/code/ImageScroll_Sample/",
+        "https://os.mbed.com/users/1050186/code/DrawImage_by_2_gesture_sensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Gesture",
+        "I2C",
+        "sensor",
+        "SI1143"
+    ],
+    "name": "SI1143",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/GAT27/code/SI1143/"
+    }
+}

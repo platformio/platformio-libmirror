@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "masa haru",
+        "url": "https://os.mbed.com/users/mamezu/"
+    },
+    "description": "TextLCD",
+    "examples": [
+        "https://os.mbed.com/users/abe00makoto/code/geigercounter01/",
+        "https://os.mbed.com/users/abe00makoto/code/geigercounter04/",
+        "https://os.mbed.com/users/HarishMekali/code/4_LCD_With_Lib/",
+        "https://os.mbed.com/users/prathapbmsce/code/PROJECTFILE/",
+        "https://os.mbed.com/users/shirley/code/aaa/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TextLCD",
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mamezu/code/TextLCD/"
+    }
+}

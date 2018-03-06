@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "InetrfaceProducts NXP",
+        "url": "https://os.mbed.com/users/nxp_ip/"
+    },
+    "description": "PCA9629 a stepper motor controller class library",
+    "examples": [
+        "https://os.mbed.com/users/nxp_ip/code/PCA9629_Hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "motor",
+        "PCA9629",
+        "Stepper"
+    ],
+    "name": "PCA9629",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nxp_ip/code/PCA9629/"
+    }
+}

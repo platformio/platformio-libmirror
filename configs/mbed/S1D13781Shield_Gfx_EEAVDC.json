@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Dennis Henderson",
+        "url": "https://os.mbed.com/users/EEAVDC/"
+    },
+    "description": "S1D13781 Shield Graphics Library for mbed (requires modified S1D13781 Shield TFT board)",
+    "examples": [
+        "https://os.mbed.com/users/EEAVDC/code/S1D13781Shield_BitBltDemo/",
+        "https://os.mbed.com/users/EEAVDC/code/S1D13781Shield_GraphicsLibraryDemo/",
+        "https://os.mbed.com/users/EEAVDC/code/S1D13781Shield_LutDemo/",
+        "https://os.mbed.com/users/EEAVDC/code/S1D13781Shield_MemoryTest/",
+        "https://os.mbed.com/users/EEAVDC/code/S1D13781Shield_ProgramTemplate/",
+        "https://os.mbed.com/users/EEAVDC/code/S1D13781Shield_RegisterTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LCDC",
+        "S1D13781",
+        "shield",
+        "TFT"
+    ],
+    "name": "S1D13781Shield_Gfx",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/EEAVDC/code/S1D13781Shield_Gfx/"
+    }
+}

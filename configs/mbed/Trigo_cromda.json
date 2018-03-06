@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "remi cormier",
+        "url": "https://os.mbed.com/users/cromda/"
+    },
+    "description": "Trigonomectric constants Polar and spherical to rectangular coordinates transform",
+    "frameworks": "mbed",
+    "keywords": "Creation",
+    "name": "Trigo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cromda/code/Trigo/"
+    }
+}

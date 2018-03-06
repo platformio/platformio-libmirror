@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Jon Trinder",
+        "url": "https://os.mbed.com/users/jont/"
+    },
+    "description": "Simple ring buffer",
+    "frameworks": "mbed",
+    "keywords": [
+        "buffer",
+        "ring"
+    ],
+    "name": "nl_ring_buffer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jont/code/nl_ring_buffer/"
+    }
+}

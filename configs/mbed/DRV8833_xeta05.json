@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Oskar Lopez de Gamboa",
+        "url": "https://os.mbed.com/users/xeta05/"
+    },
+    "description": "Mbed library to control a motor via DRV8833 H-bridge motor controller. Uses two Pwmouts.",
+    "examples": [
+        "https://os.mbed.com/users/mrayy/code/GGHandController/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DC Motor controller",
+        "h bridge",
+        "motor driver"
+    ],
+    "name": "DRV8833",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/xeta05/code/DRV8833/"
+    }
+}

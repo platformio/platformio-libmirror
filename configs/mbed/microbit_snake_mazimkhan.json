@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Mohammad Azim Khan",
+        "url": "https://os.mbed.com/users/mazimkhan/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "microbit"
+        }
+    ],
+    "description": "A simple two button snake.",
+    "frameworks": "mbed",
+    "keywords": "microbit_snake",
+    "name": "microbit_snake",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mazimkhan/code/microbit_snake/"
+    }
+}

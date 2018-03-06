@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "suu pen",
+        "url": "https://os.mbed.com/users/suupen/"
+    },
+    "description": "TLC5940(http://www.ti.com/lit/ds/symlink/tlc5940.pdf)のlibraryです",
+    "frameworks": "mbed",
+    "keywords": [
+        "Dynamic",
+        "led",
+        "tlc5940"
+    ],
+    "name": "TLC5940",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/suupen/code/TLC5940/"
+    }
+}

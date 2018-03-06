@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Jonathan Gaul",
+        "url": "https://os.mbed.com/users/Byrn/"
+    },
+    "description": "A buffered display driver for the SSD1306 OLED controller. Please note that this is a work-in-progress; only very rudimentary drawing support is provided.",
+    "examples": [
+        "https://os.mbed.com/users/Pipou/code/Projetv0/",
+        "https://os.mbed.com/teams/Green-Team/code/greenhouse_proj/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "OLED",
+        "SSD1306"
+    ],
+    "name": "SSD1306",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Byrn/code/SSD1306/"
+    }
+}

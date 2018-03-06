@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Nicolas Farabegoli",
+        "url": "https://os.mbed.com/users/nicolas97/"
+    },
+    "description": "Library for interfacing with AD9837, generate Sine/Triangular/Square wave",
+    "frameworks": "mbed",
+    "keywords": "AD9837",
+    "name": "AD9837",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nicolas97/code/AD9837/"
+    }
+}

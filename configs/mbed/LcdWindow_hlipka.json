@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Hendrik Lipka",
+        "url": "https://os.mbed.com/users/hlipka/"
+    },
+    "description": "Display text on LCD displays (even on multiple ones). Allow to create windows (frames) on display, and to combine them (split, add, duplicate, scroll). See http://mbed.org/users/hlipka/notebook/lcdwindow/ for more information.",
+    "examples": [
+        "https://os.mbed.com/users/tombracer/code/Mbell/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "window"
+    ],
+    "name": "LcdWindow",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hlipka/code/LcdWindow/"
+    }
+}

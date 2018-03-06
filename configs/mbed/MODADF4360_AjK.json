@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Andy Kirkham",
+        "url": "https://os.mbed.com/users/AjK/"
+    },
+    "description": "ADF4360 - See http://mbed.org/forum/helloworld/topic/1430",
+    "frameworks": "mbed",
+    "keywords": "ADF4360",
+    "name": "MODADF4360",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AjK/code/MODADF4360/"
+    }
+}

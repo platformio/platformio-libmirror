@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Francesco Ferilli",
+        "url": "https://os.mbed.com/users/FraSTcoding/"
+    },
+    "description": "Release 1.0 only I2C avalable not tested yet",
+    "frameworks": "mbed",
+    "keywords": "HTS221",
+    "name": "HTS221",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/FraSTcoding/code/HTS221/"
+    }
+}

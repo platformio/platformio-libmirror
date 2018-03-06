@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Spiridion Mbed",
+        "url": "https://os.mbed.com/users/spiridion/"
+    },
+    "description": "BMP180 Pressure/Temperature Sensor library",
+    "examples": [
+        "https://os.mbed.com/users/jakpor/code/frdm_mikroklimat/",
+        "https://os.mbed.com/users/OHstin/code/Weather_Station/",
+        "https://os.mbed.com/users/mbed_tw_hoehoe/code/BLE_Wearable/",
+        "https://os.mbed.com/users/mkkharel/code/WMG/",
+        "https://os.mbed.com/teams/CORE/code/Sample_BMP180/",
+        "https://os.mbed.com/users/oichan/code/2017_11_1114/",
+        "https://os.mbed.com/teams/CORE/code/2017_11_1114/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "pressure",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "BMP180",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/spiridion/code/BMP180/"
+    }
+}

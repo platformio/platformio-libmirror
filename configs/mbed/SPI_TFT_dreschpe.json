@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "Library to control a QVGA TFT connected to SPI. You can use printf to print text The lib can handle different fonts, draw lines, circles, rect and bmp",
+    "examples": [
+        "https://os.mbed.com/users/dreschpe/code/TFT_Test1/",
+        "https://os.mbed.com/users/pholzleitner/code/SourceCodePro31-SB/",
+        "https://os.mbed.com/users/RorschachUK/code/Mandelbrot/",
+        "https://os.mbed.com/users/RorschachUK/code/Mindwave-screen/",
+        "https://os.mbed.com/users/RorschachUK/code/BlinkTalk/",
+        "https://os.mbed.com/users/xlNicolas/code/Tactile/",
+        "https://os.mbed.com/users/rtk/code/Tactile-Nicolas/",
+        "https://os.mbed.com/users/pieterjanluyssen/code/TFT_Test_Peter_Drescher/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "graphic",
+        "LCD",
+        "QVGA",
+        "TFT"
+    ],
+    "name": "SPI_TFT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/SPI_TFT/"
+    }
+}

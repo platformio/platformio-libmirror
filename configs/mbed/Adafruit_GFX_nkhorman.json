@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Neal Horman",
+        "url": "https://os.mbed.com/users/nkhorman/"
+    },
+    "description": "A derived version of the BSD licensed Adafrut GFX library for the SSD1306 controller for an OLED 128x32 or 128x64 display using SPI or I2C.",
+    "examples": [
+        "https://os.mbed.com/users/anushachowdary16/code/servo_sensor/",
+        "https://os.mbed.com/users/JackB/code/ArchPro_TFT/",
+        "https://os.mbed.com/users/rosterloh84/code/BLE_Display/",
+        "https://os.mbed.com/users/frada/code/SSD1306_demo/",
+        "https://os.mbed.com/teams/IOP/code/Bus_Alarm_System_Helloworld_WIZwiki-W750/",
+        "https://os.mbed.com/users/Bm_Fernando/code/pruebasOLED/",
+        "https://os.mbed.com/users/vvvf/code/Weather_Forecast_Helloworld_WIZwiki-W750/",
+        "https://os.mbed.com/users/lovetang72/code/Weather_Forecast_Helloworld_WIZwiki-W750/",
+        "https://os.mbed.com/users/bestyj91/code/Weather_Forecast_Helloworld_WIZwiki-W750/",
+        "https://os.mbed.com/users/joeata2wh/code/Nucleo-F303K8-SSD1306_OLED/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "I2C",
+        "OLED",
+        "SPI",
+        "SSD1306"
+    ],
+    "name": "Adafruit_GFX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nkhorman/code/Adafruit_GFX/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Tyler Weaver",
+        "url": "https://os.mbed.com/users/tylerjw/"
+    },
+    "description": "nmea gps library",
+    "examples": [
+        "https://os.mbed.com/users/Mehrad/code/mDot_LoRa_Connect_CSA_Light/",
+        "https://os.mbed.com/users/Mehrad/code/mDot_LoRa_Connect_CSA_Rain/",
+        "https://os.mbed.com/users/Mehrad/code/mDot_LoRa_Connect_CSA_RH_Temp/",
+        "https://os.mbed.com/users/Mehrad/code/mDot_LoRa_Connect_CSA_Thermistor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GPS",
+    "name": "GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tylerjw/code/GPS/"
+    }
+}

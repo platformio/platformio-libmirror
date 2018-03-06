@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Gerardo Espinoza",
+        "url": "https://os.mbed.com/users/gerardoeh/"
+    },
+    "description": "Use the Max Sonar EZ1 to measure inches, centimeters, feet and meters. Enjoy!",
+    "frameworks": "mbed",
+    "keywords": [
+        "centimeters",
+        "cm",
+        "ez1",
+        "feet",
+        "ft",
+        "inch",
+        "inches",
+        "m",
+        "max",
+        "measures",
+        "Meter",
+        "meters",
+        "sonar"
+    ],
+    "name": "MaxSonarEZ1measures",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gerardoeh/code/MaxSonarEZ1measures/"
+    }
+}

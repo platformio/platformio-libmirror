@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Olivier Chabloz",
+        "url": "https://os.mbed.com/users/olyeah/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "USBDevice"
+        }
+    ],
+    "description": "A usb interface emulating an Xbox 360 controller",
+    "frameworks": "mbed",
+    "keywords": "Xinput",
+    "name": "Xinput",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/olyeah/code/Xinput/"
+    }
+}

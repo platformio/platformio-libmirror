@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Chris Styles",
+        "url": "https://os.mbed.com/users/chris/"
+    },
+    "description": "TMP102 published as a library that can be imported independent",
+    "examples": [
+        "https://os.mbed.com/users/chris/code/TMP102HelloWorld/",
+        "https://os.mbed.com/users/seppeduwe/code/TCPServer/",
+        "https://os.mbed.com/users/ytsuboi/code/BLE_Health_Thermometer_IRC/",
+        "https://os.mbed.com/users/ghz2000/code/BLE_Health_Thermometer_HeartRateMonitor/",
+        "https://os.mbed.com/users/markirwin/code/WiFiDipCortexSensor/",
+        "https://os.mbed.com/users/ban4jp/code/uIP-1-0_webserver/",
+        "https://os.mbed.com/users/micono/code/BLE_ADT7410_TMP102_Sample/",
+        "https://os.mbed.com/users/todotani/code/BLE_Health_Thermometer2/",
+        "https://os.mbed.com/users/MasanoriSakai/code/BLE_Thermometer_prototype/",
+        "https://os.mbed.com/users/todotani/code/BLE_Health_Thermometer2-010/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TMP102",
+    "name": "TMP102",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chris/code/TMP102/"
+    }
+}

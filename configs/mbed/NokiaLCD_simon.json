@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://os.mbed.com/users/simon/"
+    },
+    "description": "Driver for the range of Nokia 130x130 displays as found on Sparkfun and Olimex breakout boards, supporting the 6100, 6610 and PCF8833 drivers",
+    "examples": [
+        "https://os.mbed.com/users/simon/code/NokiaLCD_HelloWorld/",
+        "https://os.mbed.com/users/gth646f/code/SpectrumAnalyzer/",
+        "https://os.mbed.com/users/nxpfan/code/MARMEX_OB_oled__HelloWorld/",
+        "https://os.mbed.com/users/kanpapa/code/GMT_counter/",
+        "https://os.mbed.com/users/flowcode/code/DCF_Digital_Clock_graphic_V10/",
+        "https://os.mbed.com/users/cmulady/code/4180_mP_WirelessPong_revC/",
+        "https://os.mbed.com/users/mesdoram/code/4180_mP_WirelessPong_revP/",
+        "https://os.mbed.com/users/diasea/code/MARMEX_OB_oled_J/",
+        "https://os.mbed.com/users/ichoudhury6/code/Wireshark/",
+        "https://os.mbed.com/users/yongqiangwang/code/Receiver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "6100",
+        "6610",
+        "mobileLCD",
+        "NokiaLCD",
+        "Olimex",
+        "PCF8833",
+        "sparkfun"
+    ],
+    "name": "NokiaLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/simon/code/NokiaLCD/"
+    }
+}

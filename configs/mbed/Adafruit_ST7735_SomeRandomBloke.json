@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Andrew Lindsay",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/"
+    },
+    "description": "A first port of the excellent Adafruit ST7735 library",
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "LCD",
+        "ST7735",
+        "TFT"
+    ],
+    "name": "Adafruit_ST7735",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/code/Adafruit_ST7735/"
+    }
+}

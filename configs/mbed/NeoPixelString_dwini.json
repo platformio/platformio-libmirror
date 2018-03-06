@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Nico De Witte",
+        "url": "https://os.mbed.com/users/dwini/"
+    },
+    "dependencies": [
+        {
+            "authors": "Jacob Bramley",
+            "frameworks": "mbed",
+            "name": "PixelArray"
+        }
+    ],
+    "description": "Library to control NeoPixel strings of RGB leds",
+    "examples": [
+        "https://os.mbed.com/users/dwini/code/NeoPixelI2cSlave/",
+        "https://os.mbed.com/users/BramHeldenbergh/code/NeoPixelI2cSlave/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "NeoPixel",
+        "rgb"
+    ],
+    "name": "NeoPixelString",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dwini/code/NeoPixelString/"
+    }
+}

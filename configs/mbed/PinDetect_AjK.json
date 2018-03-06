@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Andy Kirkham",
+        "url": "https://os.mbed.com/users/AjK/"
+    },
+    "description": "InterruptIn style DigitalIn debounced with callbacks for pin state change and pin state hold.",
+    "examples": [
+        "https://os.mbed.com/users/shimniok/code/AVC_20110423/",
+        "https://os.mbed.com/users/harryeakins/code/SimplePIDBot/",
+        "https://os.mbed.com/users/4180_1/code/Pushbutton_Debounce_Interrupt/",
+        "https://os.mbed.com/users/cicklaus/code/FinalProgram/",
+        "https://os.mbed.com/users/BartJanssens/code/SatGPS/",
+        "https://os.mbed.com/users/Rufaida/code/Elevator/",
+        "https://os.mbed.com/users/shimniok/code/AVC_2012/",
+        "https://os.mbed.com/users/tomontoast/code/FBRDash1/",
+        "https://os.mbed.com/users/ryantm/code/m3pi-pov/",
+        "https://os.mbed.com/users/kemken/code/elevator/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "debounce",
+        "DigitalIn",
+        "InterruptIn"
+    ],
+    "name": "PinDetect",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AjK/code/PinDetect/"
+    }
+}

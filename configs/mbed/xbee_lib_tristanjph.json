@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Tristan Hughes",
+        "url": "https://os.mbed.com/users/tristanjph/"
+    },
+    "description": "A library allowing basic functions of the XBEE pro to be used. Currently supported are: Enter/exit config mode, reading device serial number, setting encryption key, writing settings to non volatile ...",
+    "examples": [
+        "https://os.mbed.com/users/tristanjph/code/IOT_sensor_nfc/",
+        "https://os.mbed.com/users/tristanjph/code/Xbee_Hello_world/",
+        "https://os.mbed.com/users/tristanjph/code/Xbee_Hello_world_A/",
+        "https://os.mbed.com/users/tristanjph/code/Xbee_Hello_World_B/",
+        "https://os.mbed.com/users/ricefireflighter/code/WirelessCommTest/",
+        "https://os.mbed.com/users/ricefireflighter/code/WirelessComm_Comp2FRDM/",
+        "https://os.mbed.com/users/dannellyz/code/serialSend/",
+        "https://os.mbed.com/users/dannellyz/code/serialGet/",
+        "https://os.mbed.com/users/dannellyz/code/busGet/",
+        "https://os.mbed.com/users/dannellyz/code/busSend/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "xbee",
+        "XBEE pro",
+        "zigbee"
+    ],
+    "name": "xbee_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tristanjph/code/xbee_lib/"
+    }
+}

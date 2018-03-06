@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Paul Clarke",
+        "url": "https://os.mbed.com/users/monpjc/"
+    },
+    "description": "Used with KL25Z Freescale board to access the Avnet Wi-Go Battery charger",
+    "examples": [
+        "https://os.mbed.com/users/monpjc/code/KL25Z_Batt_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "avnet",
+        "Freescale",
+        "KL25z",
+        "Wi-Go",
+        "WiGo"
+    ],
+    "name": "WiGo_BattCharger",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/monpjc/code/WiGo_BattCharger/"
+    }
+}

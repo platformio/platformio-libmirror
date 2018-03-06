@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/"
+    },
+    "description": "Library for the MAX11300",
+    "examples": [
+        "https://os.mbed.com/users/j3/code/MAXREFDES130_131_Demo/",
+        "https://os.mbed.com/teams/Maxim-Integrated/code/MAXREFDES130_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MAX11300",
+    "name": "MAX11300",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/code/MAX11300/"
+    }
+}

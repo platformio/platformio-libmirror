@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Nathan Hopkins",
+        "url": "https://os.mbed.com/users/smartsystemdesign/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "USBDevice"
+        },
+        {
+            "authors": "Nathan Hopkins",
+            "frameworks": "mbed",
+            "name": "USBJoystick"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Testing 6DOF USB HID joystick device.",
+    "frameworks": "mbed",
+    "keywords": "USBJoystick_Test",
+    "name": "USBJoystick_Test",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/smartsystemdesign/code/USBJoystick_Test/"
+    }
+}

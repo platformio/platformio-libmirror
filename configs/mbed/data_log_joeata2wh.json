@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Joseph Ellsworth",
+        "url": "https://os.mbed.com/users/joeata2wh/"
+    },
+    "dependencies": [
+        {
+            "authors": "Hugo Perez",
+            "frameworks": "mbed",
+            "name": "W25Q80BV"
+        },
+        {
+            "authors": "Joseph Ellsworth",
+            "frameworks": "mbed",
+            "name": "multi-serial-command-listener"
+        }
+    ],
+    "description": "Proivdes data log data structure for FRAM, EPROM chip with functions to read chip and send back on serial data string.",
+    "examples": [
+        "https://os.mbed.com/users/joeata2wh/code/xj-data-log-test-and-example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Data Logging",
+        "datalog",
+        "FRAM",
+        "log"
+    ],
+    "name": "data_log",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/joeata2wh/code/data_log/"
+    }
+}

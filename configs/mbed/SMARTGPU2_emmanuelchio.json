@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Emmanuel Chio",
+        "url": "https://os.mbed.com/users/emmanuelchio/"
+    },
+    "description": "This is the Official SmartGPU 2 processor board library to use with MBED boards!!!",
+    "examples": [
+        "https://os.mbed.com/users/emmanuelchio/code/BounceBall_SG2/",
+        "https://os.mbed.com/users/emmanuelchio/code/BounceBalls_SG2/",
+        "https://os.mbed.com/users/emmanuelchio/code/EEPROM_SG2/",
+        "https://os.mbed.com/users/emmanuelchio/code/Ellipses_SG2/",
+        "https://os.mbed.com/users/emmanuelchio/code/FileCreation_SG2/",
+        "https://os.mbed.com/users/emmanuelchio/code/FullGUI_SG2/",
+        "https://os.mbed.com/users/emmanuelchio/code/GradientRect_SG2/",
+        "https://os.mbed.com/users/emmanuelchio/code/House_SG2/",
+        "https://os.mbed.com/users/emmanuelchio/code/ListContents_SG2/",
+        "https://os.mbed.com/users/emmanuelchio/code/Objects_SG2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "2",
+        "gpu",
+        "mbed",
+        "smart",
+        "SmartGPU2",
+        "technologies",
+        "vizic"
+    ],
+    "name": "SMARTGPU2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/emmanuelchio/code/SMARTGPU2/"
+    }
+}

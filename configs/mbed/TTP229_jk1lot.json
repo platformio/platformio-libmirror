@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Dai Yokota",
+        "url": "https://os.mbed.com/users/jk1lot/"
+    },
+    "description": "TTP229 16key touch keypad",
+    "examples": [
+        "https://os.mbed.com/users/jk1lot/code/TTP229_sample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "touch keypad",
+        "TTP229"
+    ],
+    "name": "TTP229",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jk1lot/code/TTP229/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jorge Hernandez",
+        "url": "https://os.mbed.com/users/jhestolano/"
+    },
+    "description": "Simple ring buffer",
+    "frameworks": "mbed",
+    "keywords": "RingBuffer",
+    "name": "RingBuffer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jhestolano/code/RingBuffer/"
+    }
+}

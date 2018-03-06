@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Edoardo De Marchi",
+        "url": "https://os.mbed.com/users/edodm85/"
+    },
+    "description": "OV7670 Library",
+    "examples": [
+        "https://os.mbed.com/users/edodm85/code/OV7670_Test_Code/",
+        "https://os.mbed.com/users/edodm85/code/OV7670_Test_Code_with_ethernet/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "camera",
+        "OV7670"
+    ],
+    "name": "ov7670",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/edodm85/code/ov7670/"
+    }
+}

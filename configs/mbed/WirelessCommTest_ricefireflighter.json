@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Rice FireFlighter",
+        "url": "https://os.mbed.com/users/ricefireflighter/"
+    },
+    "dependencies": [
+        {
+            "authors": "Simon Ford",
+            "frameworks": "mbed",
+            "name": "Servo"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Tristan Hughes",
+            "frameworks": "mbed",
+            "name": "xbee_lib"
+        }
+    ],
+    "description": "Xbee Comm Test",
+    "frameworks": "mbed",
+    "keywords": "WirelessCommTest",
+    "name": "WirelessCommTest",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ricefireflighter/code/WirelessCommTest/"
+    }
+}

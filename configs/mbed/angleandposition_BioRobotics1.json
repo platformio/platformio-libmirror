@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "BioRobotics",
+        "url": "https://os.mbed.com/teams/BioRobotics1/"
+    },
+    "description": "Library to calculate angles from positions and vice versa (also used for shooting angles)",
+    "examples": [
+        "https://os.mbed.com/teams/BioRobotics1/code/includeair/",
+        "https://os.mbed.com/users/Gerth/code/includeair/",
+        "https://os.mbed.com/users/walki/code/calcul_Ueff2/",
+        "https://os.mbed.com/users/POSIPI/code/Mesure_energie/",
+        "https://os.mbed.com/users/peterknoben/code/Oudverslag/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "angleandposition",
+    "name": "angleandposition",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/BioRobotics1/code/angleandposition/"
+    }
+}

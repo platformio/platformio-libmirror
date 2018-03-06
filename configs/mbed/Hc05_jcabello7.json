@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Jose Gutierrez Cabello",
+        "url": "https://os.mbed.com/users/jcabello7/"
+    },
+    "description": "Llibreria per fer servir un HC-06 o HC-05 en mode esclau. És compatible amb les llibreries RTOS de mbed.",
+    "examples": [
+        "https://os.mbed.com/users/jcabello7/code/projecte_v4_rtos/",
+        "https://os.mbed.com/users/jcabello7/code/ProjecteRobotFinal/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "bluetooth",
+        "bt",
+        "rtos"
+    ],
+    "name": "Hc05",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jcabello7/code/Hc05/"
+    }
+}

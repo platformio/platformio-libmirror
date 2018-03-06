@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "lee yaping",
+        "url": "https://os.mbed.com/users/lisper/"
+    },
+    "description": "millis",
+    "examples": [
+        "https://os.mbed.com/teams/DFRobot/code/newTicker_demo/",
+        "https://os.mbed.com/users/vodavprasku/code/projekt_Si4703/",
+        "https://os.mbed.com/users/AfdhalAtiffTan/code/ModbusRTU-RS232/",
+        "https://os.mbed.com/users/AfdhalAtiffTan/code/FoodComputerARM-alpha/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "millis",
+    "name": "millis",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lisper/code/millis/"
+    }
+}

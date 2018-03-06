@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Samuel Mokrani",
+        "url": "https://os.mbed.com/users/samux/"
+    },
+    "description": "Remote Procedure Call (RPC) over Websockets (uses MbedJSONValue)",
+    "examples": [
+        "https://os.mbed.com/users/samux/code/RPC_mbed_client/",
+        "https://os.mbed.com/users/samux/code/RPC_Wifly_HelloWorld/",
+        "https://os.mbed.com/users/samux/code/RPC_Ethernet_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MbedJSONRpc",
+    "name": "MbedJSONRpc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/samux/code/MbedJSONRpc/"
+    }
+}

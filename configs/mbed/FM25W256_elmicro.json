@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Elmicro Computer",
+        "url": "https://os.mbed.com/users/elmicro/"
+    },
+    "description": "Device Driver for RAMTRON FM25W256 SPI-driven FRAM Uses SPI peripheral at 10MHz Based on fast SPI routines",
+    "examples": [
+        "https://os.mbed.com/users/elmicro/code/RAMTRON_FM25W256/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Elmicro",
+        "FM25W256",
+        "FRAM",
+        "RAMTRON",
+        "SPI",
+        "SSP1"
+    ],
+    "name": "FM25W256",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/elmicro/code/FM25W256/"
+    }
+}

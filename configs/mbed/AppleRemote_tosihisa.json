@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Toshihisa T",
+        "url": "https://os.mbed.com/users/tosihisa/"
+    },
+    "description": "AppleRemote receive library.",
+    "frameworks": "mbed",
+    "keywords": "AppleRemote",
+    "name": "AppleRemote",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tosihisa/code/AppleRemote/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "EdgeBotix",
+        "url": "https://os.mbed.com/teams/EdgeBotix/"
+    },
+    "description": "Initial Fork",
+    "frameworks": "mbed",
+    "keywords": "TB6612FNG2",
+    "name": "TB6612FNG2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/EdgeBotix/code/TB6612FNG2/"
+    }
+}

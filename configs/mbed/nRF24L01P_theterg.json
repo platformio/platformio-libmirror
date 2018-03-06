@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Andrew Tergis",
+        "url": "https://os.mbed.com/users/theterg/"
+    },
+    "description": "This is my own modified version of an already existing nRF24L01P library. I am adding some additional functionality, hoping to keep the library formatted the same way that I found ...",
+    "examples": [
+        "https://os.mbed.com/teams/PRAXIS/code/mbed-os-example-blinky/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Nordic",
+        "nRF24L01P",
+        "rf"
+    ],
+    "name": "nRF24L01P",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/theterg/code/nRF24L01P/"
+    }
+}

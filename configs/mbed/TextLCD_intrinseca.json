@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Michael Allan",
+        "url": "https://os.mbed.com/users/intrinseca/"
+    },
+    "description": "TextLCD",
+    "examples": [
+        "https://os.mbed.com/users/tomontoast/code/FBRDash1/",
+        "https://os.mbed.com/users/tomontoast/code/FBRDash-tom/",
+        "https://os.mbed.com/users/intrinseca/code/FBRDash/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TextLCD",
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/intrinseca/code/TextLCD/"
+    }
+}

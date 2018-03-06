@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Martin Olejar",
+        "url": "https://os.mbed.com/users/AtomX/"
+    },
+    "description": "RFID Chip MFRC522 driver",
+    "examples": [
+        "https://os.mbed.com/users/AtomX/code/FRDM_MFRC522/",
+        "https://os.mbed.com/users/abhishekgoyanka/code/RFID_Attendance_System/",
+        "https://os.mbed.com/users/najgh08/code/RFID-RC522-WebServer-WIZwiki-W7500/",
+        "https://os.mbed.com/teams/FRA221_2015/code/15A-ClassProjectFinal_masterfull-pae-za-/",
+        "https://os.mbed.com/teams/FRA221_2015/code/10A_ClassProject_MegnaticGame/",
+        "https://os.mbed.com/users/dxyang/code/Song_Control/",
+        "https://os.mbed.com/users/haziq10/code/IBMIoTClientEthernetExampleHaziqNordine/",
+        "https://os.mbed.com/users/mpanetta/code/rfidthing/",
+        "https://os.mbed.com/users/ndgohil/code/RFID-Tag-Reader-using-K64F-with-Bluetoot/",
+        "https://os.mbed.com/users/nivmukka/code/Personal-Alert-System-using-RFID-with-FR/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MFRC522",
+    "name": "MFRC522",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AtomX/code/MFRC522/"
+    }
+}

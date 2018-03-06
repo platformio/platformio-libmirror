@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Miguel Ruiz",
+        "url": "https://os.mbed.com/users/miruga27/"
+    },
+    "description": "SDL Library",
+    "examples": [
+        "https://os.mbed.com/users/miruga27/code/H261_decoder/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDL_lib2",
+    "name": "SDL_lib2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/miruga27/code/SDL_lib2/"
+    }
+}

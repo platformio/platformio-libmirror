@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Jasper Denkers",
+        "url": "https://os.mbed.com/users/jdenkers/"
+    },
+    "description": "A servo library for controlling servos without using PWM. Can be used on any pin.",
+    "examples": [
+        "https://os.mbed.com/users/jdenkers/code/ServoTest/",
+        "https://os.mbed.com/users/icarobrito/code/ServoTest/",
+        "https://os.mbed.com/teams/exit/code/Nucleo_coffee/",
+        "https://os.mbed.com/teams/Sprint-One/code/NervousPuppySprintOne/",
+        "https://os.mbed.com/teams/Sprint-One/code/NervousPuppySprint2602/",
+        "https://os.mbed.com/teams/Sprint-One/code/NervousPuppySprintTwo/",
+        "https://os.mbed.com/teams/Final-Project/code/Motorcode/",
+        "https://os.mbed.com/teams/Sprint-One/code/Sprint3_Sonar2/",
+        "https://os.mbed.com/users/mnorris/code/ServoTest/",
+        "https://os.mbed.com/users/ashrekhi/code/mbed_elevator/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "any",
+        "no",
+        "Pin",
+        "pwm",
+        "Servo"
+    ],
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jdenkers/code/Servo/"
+    }
+}

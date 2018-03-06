@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Ivaylo Iltchev",
+        "url": "https://os.mbed.com/users/icis4/"
+    },
+    "description": "Mbed port of Stm32f4Cube LCD LOG for STM32F429I-DISCO",
+    "examples": [
+        "https://os.mbed.com/users/icis4/code/DISCO-F429ZI_ExportTemplate1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LCD_LOG_DISCO",
+    "name": "LCD_LOG_DISCO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/icis4/code/LCD_LOG_DISCO/"
+    }
+}

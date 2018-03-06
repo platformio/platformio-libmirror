@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Dai Yokota",
+        "url": "https://os.mbed.com/users/jk1lot/"
+    },
+    "description": "LSM303DLHC 3D accelerometer, 3D magnetometer and thermometer",
+    "examples": [
+        "https://os.mbed.com/users/jk1lot/code/MAPLEminiA/",
+        "https://os.mbed.com/users/mshimo/code/MAPLEminiA/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "LSM303DLHC",
+        "magnetometer",
+        "Temperature"
+    ],
+    "name": "LSM303DLHC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jk1lot/code/LSM303DLHC/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Johannes Stratmann",
+        "url": "https://os.mbed.com/users/JojoS/"
+    },
+    "description": "Lib for MPU9150/9250 IMU sensors",
+    "examples": [
+        "https://os.mbed.com/users/JojoS/code/ezSBC_MPU9250/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MPU9150",
+    "name": "MPU9150",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JojoS/code/MPU9150/"
+    }
+}

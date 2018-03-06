@@ -1,0 +1,60 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "dependencies": [
+        {
+            "authors": "不韋 呂",
+            "frameworks": "mbed",
+            "name": "Array_Matrix"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "BSP_DISCO_F746NG"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "LCD_DISCO_F746NG"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "TS_DISCO_F746NG"
+        }
+    ],
+    "description": "GUI parts for DISCO-F746NG. GuiBase, Button, ButtonGroup, ResetButton, Label, BlinkLabel, NumericLabel, SeekBar, SeekbarGroup",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_AudioOutQSPI/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_AudioPlayerSD/",
+        "https://os.mbed.com/users/InoueTakashi/code/DISCO-F746NG_test001/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_SD_WavPlayer/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_DelayMic/",
+        "https://os.mbed.com/users/kenjiArai/code/Freq_Cntr_GPS1PPS_F746NG_GUI/",
+        "https://os.mbed.com/users/schmalzl/code/Joerg_turbo_ede/",
+        "https://os.mbed.com/users/kenjiArai/code/CW_Decoder_using_FFT_on_DiscoF746NG/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_AudioIO_Demo/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_FrequencyResponseDrawer_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BlinkLabel",
+        "BUTTON",
+        "DISCO-F746",
+        "GUI",
+        "Label",
+        "Mikami",
+        "NumericLabel",
+        "ResetButton",
+        "SeekBar",
+        "SeekbarGroup"
+    ],
+    "name": "F746_GUI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/F746_GUI/"
+    }
+}

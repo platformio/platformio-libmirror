@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "MPU6050 library that is kinda beta and will probably never leave beta but it might help some people.",
+    "examples": [
+        "https://os.mbed.com/users/sam_grove/code/upverter_fitbit_clone/",
+        "https://os.mbed.com/users/ivanff15/code/sensor/",
+        "https://os.mbed.com/users/mikeyling18/code/BoxLit/",
+        "https://os.mbed.com/users/allanmarie/code/accelero_giro/",
+        "https://os.mbed.com/users/mikawataru/code/mbed_sence_test/",
+        "https://os.mbed.com/users/RyotaNakamura/code/Time_MPU6050_Accleration1/",
+        "https://os.mbed.com/users/RyotaNakamura/code/Time_MPU6050_Acceleration3/",
+        "https://os.mbed.com/users/RyotaNakamura/code/Time_MU6050_Gyro3/",
+        "https://os.mbed.com/users/RyotaNakamura/code/Time_MPU6050_Gyro1/",
+        "https://os.mbed.com/users/RyotaNakamura/code/Fright_mode/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MPU6000",
+        "MPU6050",
+        "MPU60x0"
+    ],
+    "name": "MPU6050",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/MPU6050/"
+    }
+}

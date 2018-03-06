@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Peter van Lith",
+        "url": "https://os.mbed.com/users/roamingbot/"
+    },
+    "description": "Completed RC5 send and receive",
+    "frameworks": "mbed",
+    "keywords": "RC5",
+    "name": "RC5",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/roamingbot/code/RC5/"
+    }
+}

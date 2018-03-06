@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Rohit Grover",
+        "url": "https://os.mbed.com/users/rgrover1/"
+    },
+    "description": "This driver is meant for the monochrome LCD display (model no: LS013B4DN04) from Sharp; but it should be easily adaptable to other Sharp displays.",
+    "examples": [
+        "https://os.mbed.com/users/rgrover1/code/sharpLCD-demo/",
+        "https://os.mbed.com/teams/Bluetooth-Low-Energy/code/BLE_LCDDemo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "eINK",
+        "LCD",
+        "Sharp"
+    ],
+    "name": "SharpLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rgrover1/code/SharpLCD/"
+    }
+}

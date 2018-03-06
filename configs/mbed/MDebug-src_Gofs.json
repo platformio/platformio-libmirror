@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Damian Gowor",
+        "url": "https://os.mbed.com/users/Gofs/"
+    },
+    "description": "Debugging library",
+    "frameworks": "mbed",
+    "keywords": "MDebug-src",
+    "name": "MDebug-src",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Gofs/code/MDebug-src/"
+    }
+}

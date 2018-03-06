@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "NMLAB",
+        "url": "https://os.mbed.com/teams/NMLAB/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Collaboration Coding Test",
+    "frameworks": "mbed",
+    "keywords": "collab_test",
+    "name": "collab_test",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NMLAB/code/collab_test/"
+    }
+}

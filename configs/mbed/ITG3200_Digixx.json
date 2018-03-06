@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Uwe Gartmann",
+        "url": "https://os.mbed.com/users/Digixx/"
+    },
+    "description": "ITG3200 Library as part of the 9DOF stick from Sparkfun.com",
+    "examples": [
+        "https://os.mbed.com/users/Digixx/code/9DOF-Stick/",
+        "https://os.mbed.com/users/Vigneshwar/code/6dof_new_workwith_v2/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_program_ver2/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_program_ver2_yokokawa/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver1/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver2/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver3/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver3_1/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver3_temp/",
+        "https://os.mbed.com/teams/aigamozu/code/aigamozu_auto_ver3_3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ITG3200",
+        "sparkfun"
+    ],
+    "name": "ITG3200",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Digixx/code/ITG3200/"
+    }
+}

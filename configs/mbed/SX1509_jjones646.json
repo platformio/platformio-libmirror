@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Jonathan Jones",
+        "url": "https://os.mbed.com/users/jjones646/"
+    },
+    "description": "SX1509 16 Output I/O Expander / LED Driver Library",
+    "examples": [
+        "https://os.mbed.com/users/jjones646/code/SX1509_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SX1509",
+    "name": "SX1509",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jjones646/code/SX1509/"
+    }
+}

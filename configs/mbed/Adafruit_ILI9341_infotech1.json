@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "James Kidd",
+        "url": "https://os.mbed.com/users/infotech1/"
+    },
+    "description": "Port of the Adafruit_ILI9341 library for MBED. Depends on BurstSPI. fillRect, drawFastVLine, drawFastHLine are optimized to use BurstSPI fastwrites and perform a clearRX afterwards. MIT license Due to 600 character ...",
+    "examples": [
+        "https://os.mbed.com/users/infotech1/code/ili9341_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ILI9341",
+        "TFT"
+    ],
+    "name": "Adafruit_ILI9341",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/infotech1/code/Adafruit_ILI9341/"
+    }
+}

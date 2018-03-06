@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "remi cormier",
+        "url": "https://os.mbed.com/users/cromda/"
+    },
+    "description": "MAXIM DS3231 accurate Real Time Clock Library",
+    "examples": [
+        "https://os.mbed.com/users/fookies/code/I2C-LCD-DHT22/",
+        "https://os.mbed.com/users/fookies/code/wifigpslcd/",
+        "https://os.mbed.com/users/fookies/code/HomeStatus/",
+        "https://os.mbed.com/users/poomyuttt/code/project/",
+        "https://os.mbed.com/users/fookies/code/HomeStatus20150527/",
+        "https://os.mbed.com/users/poomyuttt/code/HomeStatus/",
+        "https://os.mbed.com/users/poomyuttt/code/HomeStatus1/",
+        "https://os.mbed.com/users/rakware/code/StormXalike/",
+        "https://os.mbed.com/users/rakware/code/rtc/",
+        "https://os.mbed.com/teams/mmotor/code/mbed_matrix_ds3231/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DS3231",
+    "name": "DS3231",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cromda/code/DS3231/"
+    }
+}

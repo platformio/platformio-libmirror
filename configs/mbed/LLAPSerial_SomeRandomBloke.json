@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Andrew Lindsay",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/"
+    },
+    "description": "LLAP Library for Ciseco wireless products.",
+    "examples": [
+        "https://os.mbed.com/users/SomeRandomBloke/code/Ciseco_LLAP_Test/",
+        "https://os.mbed.com/teams/shields/code/Ciseco_SRF_Shield/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Ciseco",
+        "SRF",
+        "wireless",
+        "XRF"
+    ],
+    "name": "LLAPSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/code/LLAPSerial/"
+    }
+}

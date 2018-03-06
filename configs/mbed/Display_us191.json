@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Jacques Grelet",
+        "url": "https://os.mbed.com/users/us191/"
+    },
+    "description": "Display librairy manage 3 LED and a TextLCD (on, off, flash) (print message, clear)",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "led",
+        "TextLCD"
+    ],
+    "name": "Display",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/us191/code/Display/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Jim Conner",
+        "url": "https://os.mbed.com/users/jimconner/"
+    },
+    "description": "Load cell amplifier interface",
+    "examples": [
+        "https://os.mbed.com/users/jimconner/code/mbed_oled/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "hx711",
+    "name": "hx711",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jimconner/code/hx711/"
+    }
+}

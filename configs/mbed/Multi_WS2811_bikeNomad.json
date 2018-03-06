@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Ned Konz",
+        "url": "https://os.mbed.com/users/bikeNomad/"
+    },
+    "description": "Library allowing up to 16 strings of 60 WS2811 or WS2812 LEDs to be driven from a single FRDM-KL25Z board. Uses hardware DMA to do a full 800 KHz rate ...",
+    "examples": [
+        "https://os.mbed.com/users/bikeNomad/code/Multi_WS2811_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DMA",
+        "FRDM-KL25Z",
+        "led",
+        "WS2811",
+        "WS2812"
+    ],
+    "name": "Multi_WS2811",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bikeNomad/code/Multi_WS2811/"
+    }
+}

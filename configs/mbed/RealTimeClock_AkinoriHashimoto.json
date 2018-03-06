@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Akinori Hashimoto",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/"
+    },
+    "dependencies": [
+        {
+            "authors": "Akinori Hashimoto",
+            "frameworks": "mbed",
+            "name": "StrLib"
+        }
+    ],
+    "description": "Real Time Clock. get time-str, set time.",
+    "frameworks": "mbed",
+    "keywords": "realtimeclock",
+    "name": "RealTimeClock",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/RealTimeClock/"
+    }
+}

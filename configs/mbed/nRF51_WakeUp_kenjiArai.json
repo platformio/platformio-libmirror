@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "Wake-up function using RTC1. This revision, current consumption is around 80uA at deep sleep mode and this is not enough!! I cannot reduce it until today. This is a temporary ...",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/BLE_LoopbackUART_low_pwr_w_RTC1/",
+        "https://os.mbed.com/users/kenjiArai/code/BLE_Uart_Server/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "nRF51822",
+        "Switch Sience",
+        "TY51822r3"
+    ],
+    "name": "nRF51_WakeUp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/nRF51_WakeUp/"
+    }
+}

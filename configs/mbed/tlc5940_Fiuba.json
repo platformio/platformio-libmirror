@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Grupo Fiuba",
+        "url": "https://os.mbed.com/users/Fiuba/"
+    },
+    "description": "This library creates the interface to operate the TLC5940. This device manages 16 PWM outputs.",
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "pwm",
+        "tlc5940"
+    ],
+    "name": "tlc5940",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Fiuba/code/tlc5940/"
+    }
+}

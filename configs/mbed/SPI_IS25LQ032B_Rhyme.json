@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Motoo Tanaka",
+        "url": "https://os.mbed.com/users/Rhyme/"
+    },
+    "description": "ISSI IS25LQ032B 3V-Quad Serial Flash Memory with Multi-I/O SPI",
+    "examples": [
+        "https://os.mbed.com/users/Rhyme/code/testSPI_IS25LQ032B/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "flash",
+        "IS25LQ032B",
+        "ISSI",
+        "SPI"
+    ],
+    "name": "SPI_IS25LQ032B",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Rhyme/code/SPI_IS25LQ032B/"
+    }
+}

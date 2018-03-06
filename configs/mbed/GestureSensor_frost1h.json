@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Eric Wong",
+        "url": "https://os.mbed.com/users/frost1h/"
+    },
+    "description": "Parallax Gesture Sensor",
+    "frameworks": "mbed",
+    "keywords": "GestureSensor",
+    "name": "GestureSensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/frost1h/code/GestureSensor/"
+    }
+}

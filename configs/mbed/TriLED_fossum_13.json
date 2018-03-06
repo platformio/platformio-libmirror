@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Eric Fossum",
+        "url": "https://os.mbed.com/users/fossum_13/"
+    },
+    "description": "Tricolor LED driver for any 3 pin tricolor LED.",
+    "examples": [
+        "https://os.mbed.com/users/fossum_13/code/xivelyboard/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "tricolor"
+    ],
+    "name": "TriLED",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fossum_13/code/TriLED/"
+    }
+}

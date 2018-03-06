@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jon Freeman",
+        "url": "https://os.mbed.com/users/JonFreeman/"
+    },
+    "description": "Modified copy of Peter Dresche lib using fewer analogue pins for touch panel",
+    "frameworks": "mbed",
+    "keywords": "Touch_tft",
+    "name": "Touch_tft",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JonFreeman/code/Touch_tft/"
+    }
+}

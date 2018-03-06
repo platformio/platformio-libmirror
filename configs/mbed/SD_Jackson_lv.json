@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Jackson Lv",
+        "url": "https://os.mbed.com/users/Jackson_lv/"
+    },
+    "dependencies": [
+        {
+            "authors": "Jackson Lv",
+            "frameworks": "mbed",
+            "name": "utility"
+        }
+    ],
+    "description": "SD",
+    "frameworks": "mbed",
+    "keywords": "SD",
+    "name": "SD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Jackson_lv/code/SD/"
+    }
+}

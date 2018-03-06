@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Kevin Braun",
+        "url": "https://os.mbed.com/users/loopsva/"
+    },
+    "description": "Tool to dump contents of a data buffer in traditional terminal format. Some VT100 color commands used.",
+    "examples": [
+        "https://os.mbed.com/users/loopsva/code/KL25Z_MLX90620/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Ascii",
+        "hex",
+        "tools"
+    ],
+    "name": "PrintBuffer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/loopsva/code/PrintBuffer/"
+    }
+}

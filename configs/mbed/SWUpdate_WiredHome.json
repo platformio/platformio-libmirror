@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "David Smart",
+        "url": "https://os.mbed.com/users/WiredHome/"
+    },
+    "description": "Software Update via Ethernet - the mbed application can pull down an updated application binary from a web server and activate that binary. This library works only with the LPC1768, ...",
+    "examples": [
+        "https://os.mbed.com/users/WiredHome/code/WattEye/",
+        "https://os.mbed.com/users/WiredHome/code/PUB_SWUpdate/",
+        "https://os.mbed.com/users/WiredHome/code/X10-Server/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FOTA",
+        "LPC1768",
+        "SW Update"
+    ],
+    "name": "SWUpdate",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WiredHome/code/SWUpdate/"
+    }
+}

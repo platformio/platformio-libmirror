@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Olivier Smeesters",
+        "url": "https://os.mbed.com/users/osmeest/"
+    },
+    "description": "Extended TextLCD: uses Bus or Port output for added performance, with display/cursor control, with LCDType as a class, with character generator programming capability.",
+    "examples": [
+        "https://os.mbed.com/users/osmeest/code/DtmfKit/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "LCD"
+    ],
+    "name": "ExtTextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/osmeest/code/ExtTextLCD/"
+    }
+}

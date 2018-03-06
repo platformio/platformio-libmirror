@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "EJ Teb",
+        "url": "https://os.mbed.com/users/ejteb/"
+    },
+    "description": "A library for the WTV020SD sound breakout board",
+    "examples": [
+        "https://os.mbed.com/users/ejteb/code/Nucleo_SoundBoardTest/",
+        "https://os.mbed.com/teams/USN-Robotics/code/Robot/",
+        "https://os.mbed.com/users/Mattinico/code/Progetto_finale/",
+        "https://os.mbed.com/users/Mattinico/code/Progetto_finale_noLCD/",
+        "https://os.mbed.com/teams/MEM/code/Progetto_finale_noLCD/",
+        "https://os.mbed.com/teams/MEM/code/Cassa_bluetooth_finale/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "WTV020SD_Sound_Breakout_Library",
+    "name": "WTV020SD_Sound_Breakout_Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ejteb/code/WTV020SD_Sound_Breakout_Library/"
+    }
+}

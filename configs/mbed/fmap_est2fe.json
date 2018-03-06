@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "dedo T",
+        "url": "https://os.mbed.com/users/est2fe/"
+    },
+    "description": "My float map library",
+    "frameworks": "mbed",
+    "keywords": [
+        "float",
+        "map"
+    ],
+    "name": "fmap",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/est2fe/code/fmap/"
+    }
+}

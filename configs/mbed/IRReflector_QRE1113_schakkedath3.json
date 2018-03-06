@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "SAJITH MOHAN CHAKKEDATH",
+        "url": "https://os.mbed.com/users/schakkedath3/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "This library is for interfacing the IR Reflector QRE1113",
+    "frameworks": "mbed",
+    "keywords": "IRReflector_QRE1113",
+    "name": "IRReflector_QRE1113",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/schakkedath3/code/IRReflector_QRE1113/"
+    }
+}

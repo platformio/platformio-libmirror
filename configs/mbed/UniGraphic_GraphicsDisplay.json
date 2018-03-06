@@ -1,0 +1,44 @@
+{
+    "authors": {
+        "name": "GraphicsDisplay",
+        "url": "https://os.mbed.com/teams/GraphicsDisplay/"
+    },
+    "description": "Basically i glued Peter Drescher and Simon Ford libs in a GraphicsDisplay class, then derived TFT or LCD class (which inherits Protocols class), then the most derived ones (Inits), which ...",
+    "examples": [
+        "https://os.mbed.com/teams/GraphicsDisplay/code/testUniGraphic_150217/",
+        "https://os.mbed.com/users/Rhyme/code/maze_TFT_MMA8451Q/",
+        "https://os.mbed.com/users/Geremia/code/UniGraphic_demo/",
+        "https://os.mbed.com/users/Rhyme/code/TFT_test_frdm-kl25z/",
+        "https://os.mbed.com/users/Rhyme/code/TFT_test_NUCLEO-F411RE/",
+        "https://os.mbed.com/users/pstephens18/code/Mini_Project_Day_8_Level/",
+        "https://os.mbed.com/users/bentogami/code/TargetPracticeMiniProject/",
+        "https://os.mbed.com/users/bwstock/code/MiniPro13_touch_lcd/",
+        "https://os.mbed.com/users/jmiller18/code/LCDTouchingCircles/",
+        "https://os.mbed.com/users/pstephens18/code/Mini_Project_Day_13_Touchscreen/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ILI9320",
+        "ILI9325",
+        "ILI9328",
+        "ILI9341",
+        "ILI9481",
+        "ILI9486",
+        "IST3020",
+        "LCD",
+        "MIPI",
+        "parallel",
+        "SPI",
+        "SSD1306",
+        "ST7565",
+        "TFT",
+        "UC1608",
+        "UC1701"
+    ],
+    "name": "UniGraphic",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/GraphicsDisplay/code/UniGraphic/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Hiroshi IMADA",
+        "url": "https://os.mbed.com/users/imadahirosi/"
+    },
+    "description": "this is practice!",
+    "frameworks": "mbed",
+    "keywords": "practice",
+    "name": "testlib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/imadahirosi/code/testlib/"
+    }
+}

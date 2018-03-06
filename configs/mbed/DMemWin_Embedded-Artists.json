@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Embedded Artists",
+        "url": "https://os.mbed.com/teams/Embedded-Artists/"
+    },
+    "description": "Support for the emWin GUI library from Segger.",
+    "examples": [
+        "https://os.mbed.com/teams/Embedded-Artists/code/lpc4088_displaymodule_emwin/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Display Module",
+        "emwin",
+        "LPC4088DM"
+    ],
+    "name": "DMemWin",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Embedded-Artists/code/DMemWin/"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Frank Vannieuwkerke",
+        "url": "https://os.mbed.com/users/frankvnk/"
+    },
+    "dependencies": [
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "BurstSPI"
+        }
+    ],
+    "description": "SPI Library for 240x320 TFT LCD with ILI9320, ILI9325 and ILI9328 chip",
+    "examples": [
+        "https://os.mbed.com/users/frankvnk/code/KL25Z_ILI9320_Demo/",
+        "https://os.mbed.com/users/frankvnk/code/Mini-DK/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ILI9320",
+        "LCD",
+        "SPI",
+        "TFT"
+    ],
+    "name": "SPI_TFT_ILI9320",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/frankvnk/code/SPI_TFT_ILI9320/"
+    }
+}

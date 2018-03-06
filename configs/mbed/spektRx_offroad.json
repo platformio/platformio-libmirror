@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "M N",
+        "url": "https://os.mbed.com/users/offroad/"
+    },
+    "description": "Driver for Spektrum (tm) serial receiver, for radio controlled helicopters etc.",
+    "frameworks": "mbed",
+    "keywords": [
+        "2.4",
+        "DSM",
+        "DSM2",
+        "GHz",
+        "Serial",
+        "spektrum"
+    ],
+    "name": "spektRx",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/offroad/code/spektRx/"
+    }
+}

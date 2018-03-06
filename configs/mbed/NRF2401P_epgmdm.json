@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Malcolm McCulloch",
+        "url": "https://os.mbed.com/users/epgmdm/"
+    },
+    "description": "This is a work in progress for an NRF2401P",
+    "examples": [
+        "https://os.mbed.com/teams/Kenya_CWM2015/code/NRF_receiver/",
+        "https://os.mbed.com/teams/Kenya_CWM2015/code/sender/",
+        "https://os.mbed.com/teams/Kenya_CWM2015/code/locker4/",
+        "https://os.mbed.com/teams/Kenya_CWM2015/code/Weather_Station_Ofiicial/",
+        "https://os.mbed.com/teams/Kenya_CWM2015/code/Battery/",
+        "https://os.mbed.com/users/dxyang/code/Song_Control/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "NRF2401P",
+    "name": "NRF2401P",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/epgmdm/code/NRF2401P/"
+    }
+}

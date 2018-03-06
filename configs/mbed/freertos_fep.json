@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Francisco Paez",
+        "url": "https://os.mbed.com/users/fep/"
+    },
+    "description": "FreeRTOS v9.0.0 for Cortex-M4F based boards. Use head_1.c as memory profile.",
+    "examples": [
+        "https://os.mbed.com/users/fep/code/frdm_k64f_freertos_lib/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FreeRTOS",
+        "rtos"
+    ],
+    "name": "freertos",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fep/code/freertos/"
+    }
+}

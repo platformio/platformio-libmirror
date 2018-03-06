@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "NetworkSocketAPI",
+        "url": "https://os.mbed.com/teams/NetworkSocketAPI/"
+    },
+    "description": "Wrapper of NetworkSocketAPI for BSD sockets on POSIX systems",
+    "examples": [
+        "https://os.mbed.com/teams/NetworkSocketAPI/code/BSDInterfaceTests/",
+        "https://os.mbed.com/teams/NetworkSocketAPI/code/HelloBSDInterface/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BSDInterface",
+    "name": "BSDInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NetworkSocketAPI/code/BSDInterface/"
+    }
+}

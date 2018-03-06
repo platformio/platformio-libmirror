@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Toyomasa Watarai",
+        "url": "https://os.mbed.com/users/MACRUM/"
+    },
+    "description": "GT20L16J1Y 16x16 Japanese font ROM access library",
+    "examples": [
+        "https://os.mbed.com/users/MACRUM/code/UTF-8_test/",
+        "https://os.mbed.com/users/MACRUM/code/hello_GT20L16J1Y_FONT/",
+        "https://os.mbed.com/users/Goji/code/GSDPlayer/",
+        "https://os.mbed.com/users/masato/code/Nucleo_AQM1248A/",
+        "https://os.mbed.com/users/masato/code/Nucleo_AQM1248A_GT20L16J1Y/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GT20L16J1Y_font",
+    "name": "GT20L16J1Y_font",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MACRUM/code/GT20L16J1Y_font/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Sho Yama",
+        "url": "https://os.mbed.com/users/yamasho/"
+    },
+    "description": "Usb Bulk Tranceport driver Made by Shoichi Yamasuge. LoadLibray USBDEViCE. moive http://youtu.be/uGPH3AwrFpU USB バルク通信用のドライバーです 使用時には、USBDEVICEライブラリの追加必要。 動画は下記 http://youtu.be/uGPH3AwrFpU",
+    "frameworks": "mbed",
+    "keywords": [
+        "Bulk",
+        "Traceport",
+        "USB"
+    ],
+    "name": "USBBulk",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yamasho/code/USBBulk/"
+    }
+}

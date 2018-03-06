@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Johan Kritzinger",
+        "url": "https://os.mbed.com/users/JoKer/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "A few classes to interface one or more ShiftBrite module to the FRDM KL25Z.",
+    "frameworks": "mbed",
+    "keywords": "Shiftbrite",
+    "name": "FRDMKL25Z-ShiftBrite",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JoKer/code/FRDMKL25Z-ShiftBrite/"
+    }
+}

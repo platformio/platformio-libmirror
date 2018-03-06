@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "suu pen",
+        "url": "https://os.mbed.com/users/suupen/"
+    },
+    "description": "このライブラリは模型用のＤＣモータをmbedで直接制御します。 モータは正転、反転動作が可能です。 モータの回転速度は可変できます。 This library is directly controlled by a DC motor for model mbed. Motor forward rotation, inversion operation is possible. The motor speed is adjustable.",
+    "examples": [
+        "https://os.mbed.com/users/tusharbhanarkar/code/adxl335_motor_direction/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DC",
+        "motor",
+        "pwm"
+    ],
+    "name": "DcMotorDirectDrive",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/suupen/code/DcMotorDirectDrive/"
+    }
+}

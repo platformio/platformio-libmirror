@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Gerardo Espinoza",
+        "url": "https://os.mbed.com/users/gerardoeh/"
+    },
+    "description": "Basic Library to Flash LEDs =) Enjoy!",
+    "frameworks": "mbed",
+    "keywords": [
+        "basic",
+        "flash",
+        "Flasher",
+        "fun",
+        "led",
+        "rgb"
+    ],
+    "name": "Flasher",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gerardoeh/code/Flasher/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Zac Dannelly",
+        "url": "https://os.mbed.com/users/dannellyz/"
+    },
+    "dependencies": [
+        {
+            "authors": "Jacob Bramley",
+            "frameworks": "mbed",
+            "name": "PixelArray"
+        }
+    ],
+    "description": "Class available to make using NeoPixel lights very simple",
+    "examples": [
+        "https://os.mbed.com/users/dannellyz/code/NeoPixelEasy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "easyNeo",
+    "name": "easyNeo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dannellyz/code/easyNeo/"
+    }
+}

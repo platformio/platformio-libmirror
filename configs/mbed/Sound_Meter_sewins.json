@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Sam Ewins",
+        "url": "https://os.mbed.com/users/sewins/"
+    },
+    "dependencies": [
+        {
+            "authors": "Sam Ewins",
+            "frameworks": "mbed",
+            "name": "elec350"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Published.",
+    "frameworks": "mbed",
+    "keywords": "Sound_Meter",
+    "name": "Sound_Meter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sewins/code/Sound_Meter/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Karl Rankla",
+        "url": "https://os.mbed.com/users/karlrank/"
+    },
+    "description": "Something something.",
+    "examples": [
+        "https://os.mbed.com/users/karlrank/code/IMU-MODULE/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ut-imu",
+    "name": "ut-imu",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/karlrank/code/ut-imu/"
+    }
+}

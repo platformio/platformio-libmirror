@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "TVZ Mechatronics Team",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/"
+    },
+    "description": "Library containing essential automation elements with parameters in continuous Laplace domain, and implemented with fixed sample time. This means that \"out\" member functions should be called using Ticker object.",
+    "examples": [
+        "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/CurrentMeasurement/",
+        "https://os.mbed.com/users/btomic/code/Zavrsni_rad_NXP_cup/",
+        "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/HC-SR04/",
+        "https://os.mbed.com/users/dadangjia/code/Nucleo_SSD1306_DS1302_ESP8266_AM2320_BME/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Automation",
+        "DT1",
+        "elements",
+        "I",
+        "PDT1",
+        "Pi",
+        "PT1",
+        "PT2",
+        "PT2cc"
+    ],
+    "name": "AutomationElements",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/TVZ-Mechatronics-Team/code/AutomationElements/"
+    }
+}

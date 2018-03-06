@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Allan Green",
+        "url": "https://os.mbed.com/users/allanalpha/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "..",
+    "frameworks": "mbed",
+    "keywords": "touchpad",
+    "name": "touchpad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/allanalpha/code/touchpad/"
+    }
+}

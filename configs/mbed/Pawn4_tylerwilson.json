@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Tyler Wilson",
+        "url": "https://os.mbed.com/users/tylerwilson/"
+    },
+    "description": "This is the open source Pawn interpreter ported to mbed. See here: http://www.compuphase.com/pawn/pawn.htm and here: http://code.google.com/p/pawnscript/",
+    "examples": [
+        "https://os.mbed.com/users/tylerwilson/code/Pawn4Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "interpreter",
+        "Pawn"
+    ],
+    "name": "Pawn4",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tylerwilson/code/Pawn4/"
+    }
+}

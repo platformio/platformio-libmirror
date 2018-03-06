@@ -1,0 +1,40 @@
+{
+    "authors": {
+        "name": "Ryo Iizuka",
+        "url": "https://os.mbed.com/users/nyatla/"
+    },
+    "description": "This is Webservice SDK for mbed. LPCXpresso1769/LPC1768/FRDM-K64F/LPC4088",
+    "examples": [
+        "https://os.mbed.com/users/mio/code/MbedFileServer_1768MiniDK2/",
+        "https://os.mbed.com/users/nyatla/code/RedWireBridge/",
+        "https://os.mbed.com/users/nyatla/code/IssueDebug_gcc/",
+        "https://os.mbed.com/users/nyatla/code/MiMicRemoteMCU-for-Mbed/",
+        "https://os.mbed.com/users/nyatla/code/HttpClientSamlpe/",
+        "https://os.mbed.com/users/nyatla/code/AsyncHttpdSample/",
+        "https://os.mbed.com/users/nyatla/code/MbedFileServer/",
+        "https://os.mbed.com/users/nyatla/code/MiMicSimpleHttpd/",
+        "https://os.mbed.com/users/nyatla/code/TcpSocketClientSamlpe/",
+        "https://os.mbed.com/users/nyatla/code/UdpSocketSamlpe/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "autoconf",
+        "bonjour",
+        "DHCP",
+        "ethernet",
+        "HTTP server",
+        "HTTPServer",
+        "mdns",
+        "MiMic",
+        "Networking Libraries",
+        "SSDP",
+        "UPnP",
+        "webserver"
+    ],
+    "name": "libMiMic",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nyatla/code/libMiMic/"
+    }
+}

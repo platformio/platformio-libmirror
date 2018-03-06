@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Wojciech Biegun",
+        "url": "https://os.mbed.com/users/Wodji/"
+    },
+    "description": "I2C EEPROM library for 1k to 512k chip",
+    "frameworks": "mbed",
+    "keywords": [
+        "C24LCXXX",
+        "EEPROM",
+        "I2C"
+    ],
+    "name": "EEPROM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Wodji/code/EEPROM/"
+    }
+}

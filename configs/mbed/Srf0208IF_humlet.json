@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Helmut Schmücker",
+        "url": "https://os.mbed.com/users/humlet/"
+    },
+    "description": "Interface library for the Devantech SRF02/SRF08 ultrasonic i2c rangers. Depends on I2cRtosDriver lib!",
+    "frameworks": "mbed",
+    "keywords": [
+        "devantech",
+        "ranger",
+        "SRF02",
+        "SRF08",
+        "ultrasonic"
+    ],
+    "name": "Srf0208IF",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/humlet/code/Srf0208IF/"
+    }
+}

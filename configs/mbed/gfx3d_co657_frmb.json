@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Fred Barnes",
+        "url": "https://os.mbed.com/users/co657_frmb/"
+    },
+    "description": "Basic 3D graphics for the MBED application-shield on-board LCD (initial/incomplete).",
+    "examples": [
+        "https://os.mbed.com/users/co657_frmb/code/co657_lcdplay/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "CO657",
+    "name": "gfx3d",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/co657_frmb/code/gfx3d/"
+    }
+}

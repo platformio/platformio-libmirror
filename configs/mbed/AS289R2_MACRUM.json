@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Toyomasa Watarai",
+        "url": "https://os.mbed.com/users/MACRUM/"
+    },
+    "description": "AS-289R2 Thermal Printer shield control library",
+    "examples": [
+        "https://os.mbed.com/users/MACRUM/code/AS-289R2_Hello-World/",
+        "https://os.mbed.com/users/MACRUM/code/AS-289R2_Hello-mbed-OS-World/",
+        "https://os.mbed.com/users/takehiro/code/AS-289R2_Hello-World-mbed-OS/",
+        "https://os.mbed.com/users/takehiro/code/hybrid_image_as289r2/",
+        "https://os.mbed.com/users/MACRUM/code/microbit_AS-289R2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "printer",
+        "shield"
+    ],
+    "name": "AS289R2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MACRUM/code/AS289R2/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Kai Riedel",
+        "url": "https://os.mbed.com/users/kriedel/"
+    },
+    "description": "Library for Programmable Resolution 1-Wire Digital ThermometerDS18B20",
+    "examples": [
+        "https://os.mbed.com/users/hgc_8421/code/DS18B20_HGC/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "1-wire",
+        "DS18B20"
+    ],
+    "name": "DS18B20",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kriedel/code/DS18B20/"
+    }
+}

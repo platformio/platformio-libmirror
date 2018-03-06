@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Andrew Lindsay",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "MotionSensor"
+        }
+    ],
+    "description": "Simple library for MAG3110 magenetometer as built into Avnet Wi-Go module",
+    "examples": [
+        "https://os.mbed.com/users/SomeRandomBloke/code/Wi-Go-MagnetometerTest/",
+        "https://os.mbed.com/users/HaoranX/code/EE202A_HW1_MH/",
+        "https://os.mbed.com/users/yufat48/code/serialtoxively/",
+        "https://os.mbed.com/users/TimeString/code/mbed_nanosec_timer/",
+        "https://os.mbed.com/users/wue/code/kl46_accel_mag/",
+        "https://os.mbed.com/users/wue/code/KL46Z-Lab2_lodz/",
+        "https://os.mbed.com/users/Osator/code/KL46Z-Lab2_fullll/",
+        "https://os.mbed.com/users/zochmen/code/KL46Z-Lab2_szkolenie/",
+        "https://os.mbed.com/users/wue/code/kL46Z-Lab3-lodz/",
+        "https://os.mbed.com/users/TareObjects/code/FRDM_MAG3110/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "KL25z",
+        "MAG3110",
+        "Wi-Go"
+    ],
+    "name": "MAG3110",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/code/MAG3110/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Tedd OKANO",
+        "url": "https://os.mbed.com/users/okano/"
+    },
+    "description": "A class library for \"mbeduino\" + \"4x4x4 LED Cube shield\" demo. \\\\ There are two demo programs for this library available. Please find those at...\\\\ (1) Very simplified demo sample ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "4x4x4",
+        "cube",
+        "led",
+        "mbeduino",
+        "shield"
+    ],
+    "name": "LED_Cube444",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okano/code/LED_Cube444/"
+    }
+}

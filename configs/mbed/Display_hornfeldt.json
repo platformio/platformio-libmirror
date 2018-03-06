@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Anders Hörnfeldt",
+        "url": "https://os.mbed.com/users/hornfeldt/"
+    },
+    "description": "128x64 grafical display with KS0107B and KS0108B controller",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "KS0107",
+        "KS0108"
+    ],
+    "name": "Display",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hornfeldt/code/Display/"
+    }
+}

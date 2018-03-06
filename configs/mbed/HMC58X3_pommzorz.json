@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Aloïs Wolff",
+        "url": "https://os.mbed.com/users/pommzorz/"
+    },
+    "description": "A quick adaptation of a library made for Arduino by Fabio Varesano Interface a Honeywell HMC58X3 magnetometer to a mbed via i2c.",
+    "frameworks": "mbed",
+    "keywords": [
+        "HMC5843",
+        "HMC5883L",
+        "HMC58X3",
+        "magnetometer"
+    ],
+    "name": "HMC58X3",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pommzorz/code/HMC58X3/"
+    }
+}

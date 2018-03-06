@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Mateusz Grzywacz",
+        "url": "https://os.mbed.com/users/amateusz/"
+    },
+    "description": "Wrapper for Arduino motor shield + 2 yellow $1 motors. BONUS: !! linearized throttle vs. RPM !! It can't be perfect without speed/rotation sensors though..",
+    "frameworks": "mbed",
+    "keywords": [
+        "Linear",
+        "motor",
+        "motors",
+        "robot",
+        "wheels",
+        "yellow"
+    ],
+    "name": "Yellow2WheeledRobot_motor_shield",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/amateusz/code/Yellow2WheeledRobot_motor_shield/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Steven Kay",
+        "url": "https://os.mbed.com/users/sk398/"
+    },
+    "description": "UART Driver to receive asynchronous Serial Comms from a Raspberry Pi and parse the results.",
+    "frameworks": "mbed",
+    "keywords": "SerialComms",
+    "name": "SerialComms",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sk398/code/SerialComms/"
+    }
+}

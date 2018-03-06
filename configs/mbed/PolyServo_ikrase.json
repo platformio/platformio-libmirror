@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Ian Krase",
+        "url": "https://os.mbed.com/users/ikrase/"
+    },
+    "description": "Library for interrupt-based control of multiple RC servos. No PWM pins required.",
+    "examples": [
+        "https://os.mbed.com/users/ikrase/code/Quadrapod/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Robotics",
+        "Servo"
+    ],
+    "name": "PolyServo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ikrase/code/PolyServo/"
+    }
+}

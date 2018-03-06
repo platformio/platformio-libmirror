@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Aaron Berk",
+        "url": "https://os.mbed.com/users/aberk/"
+    },
+    "description": "Honeywell HMC6352 digital compass library.",
+    "examples": [
+        "https://os.mbed.com/users/aberk/code/HMC6352_HelloWorld/",
+        "https://os.mbed.com/users/danidanko/code/TrackerFinal/",
+        "https://os.mbed.com/users/danidanko/code/AntennaTracker/",
+        "https://os.mbed.com/users/danidanko/code/TrackingAntenna/",
+        "https://os.mbed.com/users/fyazgan/code/12_TCPIP/",
+        "https://os.mbed.com/users/halfpitch/code/LCD_T_H_C/",
+        "https://os.mbed.com/users/mafischl/code/WeatherStation/",
+        "https://os.mbed.com/users/vsavkin3/code/SantaSeeker/",
+        "https://os.mbed.com/users/tylerjw/code/HARP/",
+        "https://os.mbed.com/users/theschrade54/code/TestCompass/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HMC6352",
+    "name": "HMC6352",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aberk/code/HMC6352/"
+    }
+}

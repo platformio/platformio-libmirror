@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Mederic Melard",
+        "url": "https://os.mbed.com/users/mederic/"
+    },
+    "description": "MAX31855 Cold-Junction Compensated Thermocouple-to-Digital Converter",
+    "frameworks": "mbed",
+    "keywords": "Thermocouple",
+    "name": "MAX31855",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mederic/code/MAX31855/"
+    }
+}

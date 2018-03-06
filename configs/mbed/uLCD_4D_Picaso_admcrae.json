@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Andrew McRae",
+        "url": "https://os.mbed.com/users/admcrae/"
+    },
+    "dependencies": [
+        {
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
+            "name": "MODSERIAL"
+        }
+    ],
+    "description": "Driver for 4D Systems LCD screen with Picaso processor. Ported from 4D Systems Picaso Serial Linux Library",
+    "examples": [
+        "https://os.mbed.com/users/admcrae/code/uLCD_4D_24PTU-Drawing-Program/",
+        "https://os.mbed.com/users/jbaker66/code/RoommateTracker_ScreenAndPhone/",
+        "https://os.mbed.com/teams/Dream-Team-ECE-4180/code/ece4180_roommate_tracker_final/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "uLCD_4D_Picaso",
+    "name": "uLCD_4D_Picaso",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/admcrae/code/uLCD_4D_Picaso/"
+    }
+}

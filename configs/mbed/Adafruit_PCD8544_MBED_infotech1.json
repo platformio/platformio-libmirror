@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "James Kidd",
+        "url": "https://os.mbed.com/users/infotech1/"
+    },
+    "description": "Port of the Adafruit PCD8544 Driver @ https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library for use in MBED Inital version only supports hardware SPI, and has been tested on a Nucleo test board. BSD license",
+    "frameworks": "mbed",
+    "keywords": [
+        "Nokia 5110",
+        "NOKIA5110",
+        "pcd8544"
+    ],
+    "name": "Adafruit_PCD8544_MBED",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/infotech1/code/Adafruit_PCD8544_MBED/"
+    }
+}

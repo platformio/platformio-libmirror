@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Andrés Mora Bedoya",
+        "url": "https://os.mbed.com/users/cmorab/"
+    },
+    "description": "Software para realizar control PID en tarjeta Freescale KL25Z con ENCODER y Display 16x2",
+    "examples": [
+        "https://os.mbed.com/users/cmorab/code/PID_Encoder/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DebouncedIna",
+    "name": "DebouncedIna",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cmorab/code/DebouncedIna/"
+    }
+}

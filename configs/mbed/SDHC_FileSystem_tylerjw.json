@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Tyler Weaver",
+        "url": "https://os.mbed.com/users/tylerjw/"
+    },
+    "description": "SDHCFileSystem in a library. Requires FatFileSystem",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/sdhc_speed_test/",
+        "https://os.mbed.com/users/9SQ/code/ZY_FGD1442701V1_BusOut_SDHC/",
+        "https://os.mbed.com/teams/Aqueles-Que-Nao-Sabem-O-Que-Fazem/code/frdm_gpio/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "External SD",
+        "file system",
+        "SDHC",
+        "SPI"
+    ],
+    "name": "SDHC_FileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tylerjw/code/SDHC_FileSystem/"
+    }
+}

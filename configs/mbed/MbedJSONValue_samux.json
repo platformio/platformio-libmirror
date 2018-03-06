@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Samuel Mokrani",
+        "url": "https://os.mbed.com/users/samux/"
+    },
+    "description": "Minimalist JSON parser and serializer (inspired by picojson). Used by MbedJSONRpc.",
+    "examples": [
+        "https://os.mbed.com/users/samux/code/RPC_mbed_client/",
+        "https://os.mbed.com/users/okini3939/code/WebSocket_test/",
+        "https://os.mbed.com/users/okini3939/code/pseudo_comet/",
+        "https://os.mbed.com/users/samux/code/RPC_Wifly_HelloWorld/",
+        "https://os.mbed.com/users/samux/code/RPC_Ethernet_HelloWorld/",
+        "https://os.mbed.com/users/kaz260/code/LEDLight2/",
+        "https://os.mbed.com/teams/AndrewLou/code/HTTPClient_HelloWorld/",
+        "https://os.mbed.com/users/ammanvedi/code/IOT_Sockets/",
+        "https://os.mbed.com/users/ansond/code/SalesforceInterface/",
+        "https://os.mbed.com/teams/Interactive-Device-Design/code/toastboard_integrated/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MbedJSONValue",
+    "name": "MbedJSONValue",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/samux/code/MbedJSONValue/"
+    }
+}

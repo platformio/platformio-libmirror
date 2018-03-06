@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "ITEAD STUDIO",
+        "url": "https://os.mbed.com/users/itead/"
+    },
+    "description": "Arduino Core API Library besed on mbed platform.",
+    "examples": [
+        "https://os.mbed.com/users/itead/code/WeeESP8266/",
+        "https://os.mbed.com/teams/uClimate/code/ESP8266_moj/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ArduinoAPI",
+    "name": "ArduinoAPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/itead/code/ArduinoAPI/"
+    }
+}

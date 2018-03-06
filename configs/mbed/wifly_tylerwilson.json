@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Tyler Wilson",
+        "url": "https://os.mbed.com/users/tylerwilson/"
+    },
+    "description": "_Very_ simple wrapper to a WiFly module connected via serial port.",
+    "frameworks": "mbed",
+    "keywords": "WiFly",
+    "name": "wifly",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tylerwilson/code/wifly/"
+    }
+}

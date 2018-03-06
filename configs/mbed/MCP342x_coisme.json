@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Osamu Koizumi",
+        "url": "https://os.mbed.com/users/coisme/"
+    },
+    "description": "Device driver for AD converters MCP3426, MCP3427, and MCP3428.",
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "Microchip"
+    ],
+    "name": "MCP342x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/coisme/code/MCP342x/"
+    }
+}

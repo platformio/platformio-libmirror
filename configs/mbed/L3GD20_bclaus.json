@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "brian claus",
+        "url": "https://os.mbed.com/users/bclaus/"
+    },
+    "description": "functions for dealing with the L3GD20 gyro",
+    "examples": [
+        "https://os.mbed.com/users/bclaus/code/minimu-9v2/",
+        "https://os.mbed.com/users/goy5022/code/MicroMouse-v1/",
+        "https://os.mbed.com/teams/Interactive-Device-Design/code/idd_hw3_ddrew73_fil_clashSword/",
+        "https://os.mbed.com/users/paulcox/code/Nucleo_IMU/",
+        "https://os.mbed.com/users/tzxl10000/code/Fish_2014Fall/",
+        "https://os.mbed.com/users/RenjianHao/code/Fish_2014Fall/",
+        "https://os.mbed.com/users/mitchelljones/code/gyro/",
+        "https://os.mbed.com/users/1050186/code/ImageRotaion_Sample/",
+        "https://os.mbed.com/users/oscarvzfz/code/SAT_OLED/",
+        "https://os.mbed.com/users/NilliM/code/Mbedesclava/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "L3GD20",
+        "minimu-9 v2"
+    ],
+    "name": "L3GD20",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bclaus/code/L3GD20/"
+    }
+}

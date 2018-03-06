@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Jack Berkhout",
+        "url": "https://os.mbed.com/users/JackB/"
+    },
+    "description": "FT6206 Library for Adafruit 2.8\" TFT Touch Shield for Arduino w/Capacitive Touch",
+    "examples": [
+        "https://os.mbed.com/users/JackB/code/ArchPro_TFT/",
+        "https://os.mbed.com/teams/attiot/code/ATT_AWS_IoT_demo_v06/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FT6206",
+        "touch"
+    ],
+    "name": "FT6206",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JackB/code/FT6206/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Niall Cooling",
+        "url": "https://os.mbed.com/users/feabhas/"
+    },
+    "description": "DS1Wire simple Library",
+    "frameworks": "mbed",
+    "keywords": "DS1Wire",
+    "name": "DS1Wire",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/feabhas/code/DS1Wire/"
+    }
+}

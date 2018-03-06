@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "mbed official",
+        "url": "https://os.mbed.com/users/mbed_official/"
+    },
+    "description": "USB device stack",
+    "examples": [
+        "https://os.mbed.com/users/Tomoseec/code/mbed-mX-USB-TEST1/",
+        "https://os.mbed.com/users/samux/code/USBMSD_SD_HID_HelloWorld/",
+        "https://os.mbed.com/users/victorix/code/HidTest/",
+        "https://os.mbed.com/users/okini3939/code/MIDI_usb_bridge/",
+        "https://os.mbed.com/users/samux/code/USBAudio_HelloWorld/",
+        "https://os.mbed.com/users/samux/code/USBAudio_micro/",
+        "https://os.mbed.com/users/samux/code/USBAUDIO_speaker/",
+        "https://os.mbed.com/users/samux/code/USBAudioPlayback/",
+        "https://os.mbed.com/users/samux/code/USBHID_HelloWorld/",
+        "https://os.mbed.com/users/samux/code/USBHID_TestCase/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "device",
+        "USB"
+    ],
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbed_official/code/USBDevice/"
+    }
+}

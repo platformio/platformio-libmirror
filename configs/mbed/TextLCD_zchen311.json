@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "ze chen",
+        "url": "https://os.mbed.com/users/zchen311/"
+    },
+    "description": "hw",
+    "examples": [
+        "https://os.mbed.com/users/zchen311/code/wave_player_mp3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TextLCD",
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/zchen311/code/TextLCD/"
+    }
+}

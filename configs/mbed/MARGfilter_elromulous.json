@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "David Elrom",
+        "url": "https://os.mbed.com/users/elromulous/"
+    },
+    "description": "Sebastian Madgwick\\'s MARG filter http://www.x-io.co.uk/res/doc/madgwick_internal_report.pdf",
+    "examples": [
+        "https://os.mbed.com/users/roger_wee/code/Robosub_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "filter",
+        "IMU",
+        "MARG"
+    ],
+    "name": "MARGfilter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/elromulous/code/MARGfilter/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Bart Janssens",
+        "url": "https://os.mbed.com/users/BartJanssens/"
+    },
+    "description": "Simple Vector Library 1.5 http://www.cs.cmu.edu/~ajw/doc/svl.html",
+    "frameworks": "mbed",
+    "keywords": "SVL",
+    "name": "SVL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BartJanssens/code/SVL/"
+    }
+}

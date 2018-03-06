@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "yasuyuki onodera",
+        "url": "https://os.mbed.com/users/yasuyuki/"
+    },
+    "description": "HDC1000 library",
+    "examples": [
+        "https://os.mbed.com/users/takafuminaka/code/Condensation_Monitor/",
+        "https://os.mbed.com/users/yasuyuki/code/mbed_HDC1000/",
+        "https://os.mbed.com/users/takafuminaka/code/BLE_Condensation_Monitor/",
+        "https://os.mbed.com/users/tukumotann/code/GR-PEACH_TAMORI/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HDC1000",
+    "name": "HDC1000",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yasuyuki/code/HDC1000/"
+    }
+}

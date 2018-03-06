@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Neal Horman",
+        "url": "https://os.mbed.com/users/nkhorman/"
+    },
+    "description": "This is a port of the Adafruit driver and DateTime library for the DS1307 RTC controller",
+    "examples": [
+        "https://os.mbed.com/users/jzeeff/code/espresso-machine-control/",
+        "https://os.mbed.com/users/oscarvzfz/code/SAT_OLED/",
+        "https://os.mbed.com/users/NilliM/code/Mbedesclava/",
+        "https://os.mbed.com/users/NilliM/code/Mbedmaestra/",
+        "https://os.mbed.com/users/bwang/code/SerialBlockReceiver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "ds1307",
+        "I2C",
+        "RTC"
+    ],
+    "name": "Adafruit_RTCLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nkhorman/code/Adafruit_RTCLib/"
+    }
+}

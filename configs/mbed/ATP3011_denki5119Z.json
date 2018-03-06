@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Daisuke Yamane",
+        "url": "https://os.mbed.com/users/denki5119Z/"
+    },
+    "description": "I2C interface library for ATP3011",
+    "frameworks": "mbed",
+    "keywords": [
+        "ATP3011",
+        "I2C"
+    ],
+    "name": "ATP3011",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/denki5119Z/code/ATP3011/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Jen Logreira",
+        "url": "https://os.mbed.com/users/jlogreira3/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Code that reads IR signals to create a PC remote for mBED.",
+    "frameworks": "mbed",
+    "keywords": "ECE4180_FinalProject",
+    "name": "ECE4180_FinalProject",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jlogreira3/code/ECE4180_FinalProject/"
+    }
+}

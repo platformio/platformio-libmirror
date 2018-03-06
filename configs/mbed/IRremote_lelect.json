@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Tatsuki Fukuda",
+        "url": "https://os.mbed.com/users/lelect/"
+    },
+    "description": "First Commit IR remote class This class constructer needs (PwmOutPin,DigitalInPin,data array pointer,data array length,Serial instance pointer)",
+    "frameworks": "mbed",
+    "keywords": "IR",
+    "name": "IRremote",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lelect/code/IRremote/"
+    }
+}

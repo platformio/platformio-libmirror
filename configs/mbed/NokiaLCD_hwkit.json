@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "HO WING KIT",
+        "url": "https://os.mbed.com/users/hwkit/"
+    },
+    "description": "1. Add SMALL(8x6)/ MEDIUM(8x8)/ LARGE (8x16) fonts.\\\\2. Add function setfont(SMALL/MEDIUM/LARGE) to set fonts.",
+    "frameworks": "mbed",
+    "keywords": [
+        "6610",
+        "Nokia"
+    ],
+    "name": "NokiaLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hwkit/code/NokiaLCD/"
+    }
+}

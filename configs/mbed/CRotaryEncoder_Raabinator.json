@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Thomas Raab",
+        "url": "https://os.mbed.com/users/Raabinator/"
+    },
+    "description": "Handle rotary encoder connected to two pins. With interrupt. Operating encoder changes an int position value that can be polled.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "rotary"
+    ],
+    "name": "CRotaryEncoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Raabinator/code/CRotaryEncoder/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jonas Mazza Fernando",
+        "url": "https://os.mbed.com/users/JonasMF/"
+    },
+    "description": "library acel",
+    "frameworks": "mbed",
+    "keywords": "ADXL345_I2C",
+    "name": "ADXL345_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JonasMF/code/ADXL345_I2C/"
+    }
+}

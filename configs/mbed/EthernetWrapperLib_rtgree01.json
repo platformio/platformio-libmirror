@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Ryan Greene",
+        "url": "https://os.mbed.com/users/rtgree01/"
+    },
+    "dependencies": [
+        {
+            "authors": "masa haru",
+            "frameworks": "mbed",
+            "name": "EthernetNetIf"
+        }
+    ],
+    "description": "Ethernet wrapper",
+    "examples": [
+        "https://os.mbed.com/users/rtgree01/code/DodgeRadioEmulatorv30/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "EthernetWrapperLib",
+    "name": "EthernetWrapperLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rtgree01/code/EthernetWrapperLib/"
+    }
+}

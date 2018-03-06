@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "BLE Button example",
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "BLE Bluetooth Low Energy BLE",
+        "BUTTON"
+    ],
+    "name": "mbed-os-example-ble-Button",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/mbed-os-example-ble-Button/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "CQ Publishing",
+        "url": "https://os.mbed.com/teams/CQ-Publishing/"
+    },
+    "description": "MARMEX-VB : \"Mary Camera module\" library",
+    "examples": [
+        "https://os.mbed.com/teams/CQ-Publishing/code/MARMEX_VB_test/",
+        "https://os.mbed.com/teams/CQ-Publishing/code/MARMEX_VB_Hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "camera",
+        "MARMEX-VB",
+        "MARY"
+    ],
+    "name": "MARMEX_VB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/CQ-Publishing/code/MARMEX_VB/"
+    }
+}

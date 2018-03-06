@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "clemente di caprio",
+        "url": "https://os.mbed.com/users/clemente/"
+    },
+    "description": "Serial Monitor using a specific PC application: XMON",
+    "frameworks": "mbed",
+    "keywords": "XMONlib",
+    "name": "XMONlib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/clemente/code/XMONlib/"
+    }
+}

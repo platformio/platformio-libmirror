@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Rod Coleman",
+        "url": "https://os.mbed.com/users/RodColeman/"
+    },
+    "description": "Driver for Text OLED display - 20x4 Winstar or Newhaven, with Winstar WS0010 driver IC",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "OLED",
+        "text"
+    ],
+    "name": "TextOLED20x4",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RodColeman/code/TextOLED20x4/"
+    }
+}

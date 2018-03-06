@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "irsan julfikar",
+        "url": "https://os.mbed.com/users/irsanjul/"
+    },
+    "description": "Prototype of SX1508's library",
+    "frameworks": "mbed",
+    "keywords": [
+        "1508",
+        "LPC1768",
+        "sx1508"
+    ],
+    "name": "SX1508",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/irsanjul/code/SX1508/"
+    }
+}

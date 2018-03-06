@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Donatien Garnier",
+        "url": "https://os.mbed.com/users/donatien/"
+    },
+    "dependencies": [
+        {
+            "authors": "Donatien Garnier",
+            "frameworks": "mbed",
+            "name": "DebugLib"
+        },
+        {
+            "authors": "Donatien Garnier",
+            "frameworks": "mbed",
+            "name": "lwip_ppp_ethernet"
+        }
+    ],
+    "description": "Core networking libraries including LwIP implementation",
+    "examples": [
+        "https://os.mbed.com/users/donatien/code/EthernetNetworkLib/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "NetworkingCoreLib",
+    "name": "NetworkingCoreLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donatien/code/NetworkingCoreLib/"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Tom Tom",
+        "url": "https://os.mbed.com/users/tomlankhorst/"
+    },
+    "description": "Simple biquad filter",
+    "examples": [
+        "https://os.mbed.com/teams/Numero-Uno/code/EMG_Filter/",
+        "https://os.mbed.com/users/Rvs94/code/frdm_Motor_V2_2/",
+        "https://os.mbed.com/users/Margreeth95/code/frdm_Motor_V2_2/",
+        "https://os.mbed.com/users/Rvs94/code/frdm_Motor_V2_3/",
+        "https://os.mbed.com/users/marijnstudent/code/EMG_filters/",
+        "https://os.mbed.com/teams/Numero-Uno/code/EMG_Filter_working/",
+        "https://os.mbed.com/users/Margreeth95/code/EMG/",
+        "https://os.mbed.com/users/Margreeth95/code/frdm_Motor_V2_3/",
+        "https://os.mbed.com/users/Margreeth95/code/frdm_MotorEMG/",
+        "https://os.mbed.com/users/Margreeth95/code/EMGV3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "biquad",
+        "DSP",
+        "filter"
+    ],
+    "name": "biquadFilter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tomlankhorst/code/biquadFilter/"
+    }
+}

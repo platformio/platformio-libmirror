@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Bryce Williams",
+        "url": "https://os.mbed.com/users/electromotivated/"
+    },
+    "description": "Basic Encoder Library for Sparkfun's Hall- Effect Encoder Kit Part# ROB-12629",
+    "examples": [
+        "https://os.mbed.com/users/electromotivated/code/ESP8266_pid_redbot_webserver/",
+        "https://os.mbed.com/users/ihl396/code/4180_lab4_project/",
+        "https://os.mbed.com/users/gmiles3/code/dotbot/",
+        "https://os.mbed.com/users/vikram3/code/ShadowDistance/",
+        "https://os.mbed.com/users/tgw/code/car_test_v1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "feedback",
+        "motor",
+        "sensor"
+    ],
+    "name": "HALLFX_ENCODER",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/electromotivated/code/HALLFX_ENCODER/"
+    }
+}

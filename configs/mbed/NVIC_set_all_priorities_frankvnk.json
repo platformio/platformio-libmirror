@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Frank Vannieuwkerke",
+        "url": "https://os.mbed.com/users/frankvnk/"
+    },
+    "description": "Tool to change all interrupt priorities at once. Check the header file for supported mbed targets.",
+    "examples": [
+        "https://os.mbed.com/users/frankvnk/code/CC3000_Hostdriver/",
+        "https://os.mbed.com/users/frankvnk/code/KL25Z_FFT_Demo/",
+        "https://os.mbed.com/users/Kojto/code/cc3000_hello_world_demo/",
+        "https://os.mbed.com/users/Kojto/code/cc3000_simple_socket_demo/",
+        "https://os.mbed.com/users/Kojto/code/cc3000_ntp_demo/",
+        "https://os.mbed.com/users/Kojto/code/cc3000_ping_demo/",
+        "https://os.mbed.com/users/Kojto/code/cc3000_tcp_client_demo/",
+        "https://os.mbed.com/users/Kojto/code/cc3000_tcp_server_demo/",
+        "https://os.mbed.com/users/Kojto/code/cc3000_udp_server_demo/",
+        "https://os.mbed.com/users/Kojto/code/cc3000_udp_client_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "int",
+        "interrupt",
+        "NVIC",
+        "priority"
+    ],
+    "name": "NVIC_set_all_priorities",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/frankvnk/code/NVIC_set_all_priorities/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Andrew Lindsay",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/"
+    },
+    "description": "Updated get_fattime to use rtc and provide a date/time. This has been an annoying missing feature.",
+    "examples": [
+        "https://os.mbed.com/users/SomeRandomBloke/code/IoTGateway_Basic/",
+        "https://os.mbed.com/users/esmiwa/code/y_XBeeTest_5_read/",
+        "https://os.mbed.com/users/sunifu/code/CameraC1098_picture/",
+        "https://os.mbed.com/users/va009039/code/LifeCam/",
+        "https://os.mbed.com/users/va009039/code/WebcamServer/",
+        "https://os.mbed.com/users/todotani/code/BTstackLE/",
+        "https://os.mbed.com/users/jksoft/code/WallbotR4_BTLE/",
+        "https://os.mbed.com/users/hepta2ume/code/CameraC1098_GPS_different_Lib/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "fatfilesystem",
+    "name": "FatFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/code/FatFileSystem/"
+    }
+}

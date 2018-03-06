@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Hotboards MX",
+        "url": "https://os.mbed.com/users/Hotboards/"
+    },
+    "description": "Hotboards_SpiLcd.cpp - Library for write and control and lcd with spi interfaces and the ST7032 controller. Base on Arduino's Liquid Cristal library",
+    "examples": [
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_SpiLcd-Hello_World/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_SpiLcd-Writing_In_Diferent_Row/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_SpiLcd_Scrolling_Text/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_SpiLcd_AutoScroll/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_SpiLcd_Blink/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_SpiLcd_Cursor/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_SpiLcd_Scroll/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_SpiLcd_setCursor/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_SpiLcd_TextDirection/",
+        "https://os.mbed.com/users/AlejandroZamudio/code/LCD_Temperatura/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "hotboards",
+        "SPI"
+    ],
+    "name": "Hotboards_SpiLcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Hotboards/code/Hotboards_SpiLcd/"
+    }
+}

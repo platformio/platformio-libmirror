@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Yoonseok Pyo",
+        "url": "https://os.mbed.com/users/passionvirus/"
+    },
+    "description": "herkulex servo control library",
+    "examples": [
+        "https://os.mbed.com/users/passionvirus/code/HerkuleX-HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "herkulex",
+        "Servo"
+    ],
+    "name": "herkulex",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/passionvirus/code/herkulex/"
+    }
+}

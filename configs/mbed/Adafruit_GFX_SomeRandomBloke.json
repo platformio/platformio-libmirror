@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Andrew Lindsay",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/"
+    },
+    "description": "A first port of the excellent Adafruit GFX library",
+    "examples": [
+        "https://os.mbed.com/users/liam/code/Adafruit_GFX/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "GFX",
+        "LCD",
+        "TFT"
+    ],
+    "name": "Adafruit_GFX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/code/Adafruit_GFX/"
+    }
+}

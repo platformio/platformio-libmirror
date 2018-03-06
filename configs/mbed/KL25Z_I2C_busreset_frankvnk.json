@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Frank Vannieuwkerke",
+        "url": "https://os.mbed.com/users/frankvnk/"
+    },
+    "description": "Tool to recover from an I2C bus lockup on the KL25Z",
+    "examples": [
+        "https://os.mbed.com/users/Sarahi/code/Ejerc_slave_I2c/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "hang",
+        "I2C",
+        "KL25z",
+        "lockup"
+    ],
+    "name": "KL25Z_I2C_busreset",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/frankvnk/code/KL25Z_I2C_busreset/"
+    }
+}

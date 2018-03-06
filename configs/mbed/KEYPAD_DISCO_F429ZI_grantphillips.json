@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Grant Phillips",
+        "url": "https://os.mbed.com/users/grantphillips/"
+    },
+    "description": "Class library for a touchscreen-based keypad for the LCD display present on the DISCO_F429ZI board.",
+    "examples": [
+        "https://os.mbed.com/users/mozillain/code/WIRE-BANDING_FT810/",
+        "https://os.mbed.com/users/mozillain/code/WIRE-BANDING_copy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "KEYPAD_DISCO_F429ZI",
+    "name": "KEYPAD_DISCO_F429ZI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/grantphillips/code/KEYPAD_DISCO_F429ZI/"
+    }
+}

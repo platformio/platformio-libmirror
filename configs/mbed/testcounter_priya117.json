@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "priya nandikeshwarmath",
+        "url": "https://os.mbed.com/users/priya117/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "it is used for blinking onboards leds",
+    "frameworks": "mbed",
+    "keywords": "hi",
+    "name": "testcounter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/priya117/code/testcounter/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Mederic Melard",
+        "url": "https://os.mbed.com/users/mederic/"
+    },
+    "description": "Lib to read the MCP9808 over Initialized I2C bus",
+    "frameworks": "mbed",
+    "keywords": "Temperature;*C;MCP9808",
+    "name": "MCP9808",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mederic/code/MCP9808/"
+    }
+}

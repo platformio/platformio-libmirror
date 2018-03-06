@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Giles Barton-Owen",
+        "url": "https://os.mbed.com/users/p07gbar/"
+    },
+    "description": "A well tested I2S library where the send and recieve parts are seperate instances.",
+    "examples": [
+        "https://os.mbed.com/users/p07gbar/code/TLV320_Write_test/",
+        "https://os.mbed.com/users/4180_1/code/flash_audio_playerI2S/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "audio",
+        "I2S",
+        "library",
+        "tested",
+        "TLV320"
+    ],
+    "name": "I2S",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/p07gbar/code/I2S/"
+    }
+}

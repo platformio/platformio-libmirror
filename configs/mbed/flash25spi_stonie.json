@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Klaus Steinhammer",
+        "url": "https://os.mbed.com/users/stonie/"
+    },
+    "description": "A library to read and write all 25* serial SPI flash devices from various manufacturers.",
+    "frameworks": "mbed",
+    "keywords": [
+        "flash",
+        "Serial",
+        "SPI"
+    ],
+    "name": "flash25spi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/stonie/code/flash25spi/"
+    }
+}

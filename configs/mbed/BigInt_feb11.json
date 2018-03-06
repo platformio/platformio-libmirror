@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "François Berder",
+        "url": "https://os.mbed.com/users/feb11/"
+    },
+    "description": "This library provides a way to easily handle arbitrary large integers.",
+    "frameworks": "mbed",
+    "keywords": "BigInt",
+    "name": "BigInt",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/feb11/code/BigInt/"
+    }
+}

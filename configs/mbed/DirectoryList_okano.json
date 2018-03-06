@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Tedd OKANO",
+        "url": "https://os.mbed.com/users/okano/"
+    },
+    "description": "Directry file listing class Instance will be a vector of string class which holds the file name of given path.",
+    "examples": [
+        "https://os.mbed.com/users/Hapi_Tech/code/ika_shouyu_poppoyaki/",
+        "https://os.mbed.com/users/okano/code/DirectoryList_Hello/",
+        "https://os.mbed.com/users/okano/code/ika_shouyu_poppoyaki/",
+        "https://os.mbed.com/users/MACRUM/code/eVY1_SMF_player/",
+        "https://os.mbed.com/users/MACRUM/code/eVY1_SMF_player_mod/",
+        "https://os.mbed.com/teams/IDC/code/LPC111_loader/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "directory",
+        "directory listing",
+        "file",
+        "file name listing",
+        "file system",
+        "folder",
+        "folder listing"
+    ],
+    "name": "DirectoryList",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okano/code/DirectoryList/"
+    }
+}

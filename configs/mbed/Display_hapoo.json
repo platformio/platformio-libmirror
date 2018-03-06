@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Arash Rezaei",
+        "url": "https://os.mbed.com/users/hapoo/"
+    },
+    "description": "Software to control a 128x64 graphic LCD with KS0107B and KS0108B controller. Slight modification to Anders Hörnfeldts Code which increases framerate by up to 300%.",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "graphic",
+        "KS0107",
+        "KS0108",
+        "LCD"
+    ],
+    "name": "Display",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hapoo/code/Display/"
+    }
+}

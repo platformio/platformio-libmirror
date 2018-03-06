@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Chris Dick",
+        "url": "https://os.mbed.com/users/TheChrisyd/"
+    },
+    "description": "Library for the nRF2401A Transceiver",
+    "examples": [
+        "https://os.mbed.com/users/TheChrisyd/code/nRF2401A_Hello_World/",
+        "https://os.mbed.com/users/TheChrisyd/code/nRF2401A_Wireless_Accelerometer_joypad/",
+        "https://os.mbed.com/users/TheChrisyd/code/nRF2401A_Gameduino_Invaders/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "nRF2401A",
+    "name": "nRF2401A",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/TheChrisyd/code/nRF2401A/"
+    }
+}

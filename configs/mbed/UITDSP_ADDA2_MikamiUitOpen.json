@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "Class library for internal ADC and DAC connected by SPI. ADC is triggered by TIM2. This library support clock generator using TIM3 for switched-capacitor filter to smooth output signal of ...",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/UITDSP_ADDA_Example2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AD",
+        "da",
+        "MCP4921",
+        "MCP4922",
+        "Nucleo",
+        "SPI",
+        "UIT"
+    ],
+    "name": "UITDSP_ADDA2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/UITDSP_ADDA2/"
+    }
+}

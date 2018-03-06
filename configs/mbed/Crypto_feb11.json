@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "François Berder",
+        "url": "https://os.mbed.com/users/feb11/"
+    },
+    "description": "This library implements some hash and cryptographic algorithms.",
+    "examples": [
+        "https://os.mbed.com/users/mikewebkist/code/mBuinoBlinky/",
+        "https://os.mbed.com/users/bonchenko/code/PB_Emma_Ethernet/",
+        "https://os.mbed.com/teams/Garbage-Collectors/code/SLOTrashHTTP/",
+        "https://os.mbed.com/users/Gnegon/code/PseudoRandomGenerator/",
+        "https://os.mbed.com/users/dgomes/code/Garagem/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AES",
+        "MD2",
+        "md5",
+        "RC4",
+        "SHA"
+    ],
+    "name": "Crypto",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/feb11/code/Crypto/"
+    }
+}

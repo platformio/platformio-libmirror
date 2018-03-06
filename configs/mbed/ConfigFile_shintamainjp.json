@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "ConfigFile",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/ConfigFile_TestProgram/",
+        "https://os.mbed.com/users/shintamainjp/code/StarBoardOrangeExpansion1/",
+        "https://os.mbed.com/users/shintamainjp/code/StarBoardOrangeExpansion2/",
+        "https://os.mbed.com/users/shintamainjp/code/Drive2ChoroQ/",
+        "https://os.mbed.com/users/okini3939/code/PhonePlatform/",
+        "https://os.mbed.com/users/shintamainjp/code/Toragi_2011_04_Pachube/",
+        "https://os.mbed.com/users/charly/code/eth_comfort_freebus/",
+        "https://os.mbed.com/users/networker/code/tcpft/",
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform_20110408/",
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Config",
+        "file"
+    ],
+    "name": "ConfigFile",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/ConfigFile/"
+    }
+}

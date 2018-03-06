@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Penn Electric",
+        "url": "https://os.mbed.com/users/PennElectric/"
+    },
+    "description": "The library can flash an LED or DigitalOut pin at 50% duty using a Ticker interrupt triggered toggle function. This library does NOT use wait() so that it can flash ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "50%",
+        "Digital",
+        "digitalOut",
+        "duty",
+        "flash",
+        "Flasher",
+        "interrupt",
+        "led",
+        "Out",
+        "Pin",
+        "pulse",
+        "pulser",
+        "pwm",
+        "seconds",
+        "Ticker",
+        "Toggle",
+        "toggler",
+        "wait"
+    ],
+    "name": "ToggleFlash",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/PennElectric/code/ToggleFlash/"
+    }
+}

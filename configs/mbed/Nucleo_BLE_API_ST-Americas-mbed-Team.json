@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "ST Americas mbed Team",
+        "url": "https://os.mbed.com/teams/ST-Americas-mbed-Team/"
+    },
+    "description": "Bluetooth LE library for Nucleo board",
+    "examples": [
+        "https://os.mbed.com/teams/ST-Americas-mbed-Team/code/Nucleo_BLE_HeartRate/",
+        "https://os.mbed.com/teams/ST-Americas-mbed-Team/code/Nucleo_BLE_UART/",
+        "https://os.mbed.com/teams/Cortex-challenge-team/code/Nucleo_BLE_Demo/",
+        "https://os.mbed.com/users/sjallouli/code/Nucleo_BLE_UART/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Nucleo_BLE_API",
+    "name": "Nucleo_BLE_API",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST-Americas-mbed-Team/code/Nucleo_BLE_API/"
+    }
+}

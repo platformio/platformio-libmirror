@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Ryan Greene",
+        "url": "https://os.mbed.com/users/rtgree01/"
+    },
+    "description": "Extremely simple OBDII library",
+    "examples": [
+        "https://os.mbed.com/users/rtgree01/code/DodgeRadioEmulatorv30/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "OBDIILib",
+    "name": "OBDIILib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rtgree01/code/OBDIILib/"
+    }
+}

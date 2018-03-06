@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Michael Shimniok",
+        "url": "https://os.mbed.com/users/shimniok/"
+    },
+    "description": "Simple PWM / beep generation library. Supports timed-duration beeps or infinite length tone generation.",
+    "examples": [
+        "https://os.mbed.com/users/shimniok/code/PseudoTheremin/",
+        "https://os.mbed.com/teams/Sensinode/code/NSDL_HelloWorld_WiFi/",
+        "https://os.mbed.com/users/zdshelby/code/UbloxModemNanoServiceClient/",
+        "https://os.mbed.com/users/avnisha/code/IOT-NSDL_HelloWorld/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/LWM2M_NanoService_Ethernet/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/RedHatSummit_NanoService_Ethernet/",
+        "https://os.mbed.com/users/MACRUM/code/WiFly_NSDL_HelloWorld/",
+        "https://os.mbed.com/teams/NSPong/code/NS_Game_Controller/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/LPC1768_LWM2M_Client/",
+        "https://os.mbed.com/teams/Sensinode/code/NSDL_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Beep",
+        "sound",
+        "tone"
+    ],
+    "name": "Beep",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shimniok/code/Beep/"
+    }
+}

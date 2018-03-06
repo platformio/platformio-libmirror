@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "suu pen",
+        "url": "https://os.mbed.com/users/suupen/"
+    },
+    "description": "このライブラリでは、単音とメロディの出力が可能です。 In this library, you can output a single tone and melody. mbedのpwmOutとDigitalOutを使ってスピーカや圧電ブザーを直接駆動します。 directly drive speaker or buzzer and DigitalOut pwmOut using the mbed. メロディデータは、mbedのローカルにtxtファイルとして保存するか、プログラム中に配列データとして保存してください。 Melody data is either stored ...",
+    "examples": [
+        "https://os.mbed.com/users/suupen/code/kitchenTimer_Clock/",
+        "https://os.mbed.com/users/suupen/code/SoundLibraryExample_Melody_ProgramData/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Beep",
+        "merody",
+        "sound"
+    ],
+    "name": "Sound",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/suupen/code/Sound/"
+    }
+}

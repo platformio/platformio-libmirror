@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "InetrfaceProducts NXP",
+        "url": "https://os.mbed.com/users/nxp_ip/"
+    },
+    "description": "PCF2127 and PCF2129 are high accuracy real-time-clock (RTC) module. This library provides simple interface to accessing clock information.",
+    "examples": [
+        "https://os.mbed.com/users/nxp_ip/code/PCF2127_Demo/",
+        "https://os.mbed.com/users/nxp_ip/code/PCF2127_Hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "PCF2127",
+        "PCF2129",
+        "real time clock",
+        "RTC"
+    ],
+    "name": "PCF2127",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nxp_ip/code/PCF2127/"
+    }
+}

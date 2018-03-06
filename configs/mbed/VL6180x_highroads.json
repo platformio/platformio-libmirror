@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Ian Kilburn",
+        "url": "https://os.mbed.com/users/highroads/"
+    },
+    "description": "Simple VL6180x demo for VL6180x Explorer shield with Nucleo F401 adapted from SparkFun example.",
+    "examples": [
+        "https://os.mbed.com/teams/Robotique-FIP/code/VL6180X/",
+        "https://os.mbed.com/teams/Robotique-FIP/code/VL6180X_Explorer/",
+        "https://os.mbed.com/users/highroads/code/VL6180X_Explorer/",
+        "https://os.mbed.com/users/nagaoe2/code/VL6180X/",
+        "https://os.mbed.com/users/1536082/code/Lab1_Alexis_Lacasse/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "VL6180x",
+    "name": "VL6180x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/highroads/code/VL6180x/"
+    }
+}

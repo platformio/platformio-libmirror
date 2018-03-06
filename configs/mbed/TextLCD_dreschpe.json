@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "Modified TextLCD lib. The RW signal is also connected to a IO pin. This enable to read out the display memory and the busy flag. The timing is switched from ...",
+    "examples": [
+        "https://os.mbed.com/users/blmarket/code/TwitterClient/",
+        "https://os.mbed.com/users/blmarket/code/CSVParser/",
+        "https://os.mbed.com/users/hajesusrodrigues/code/_EXAMPLE_RFM12B/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "text"
+    ],
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/TextLCD/"
+    }
+}

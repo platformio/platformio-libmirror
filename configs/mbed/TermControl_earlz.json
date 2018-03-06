@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Jordan Earls",
+        "url": "https://os.mbed.com/users/earlz/"
+    },
+    "description": "An extremely basic VT100 terminal interface. This will generate the proper escape codes to do things such as moving the cursor and clearing the screen. It takes up practically no ...",
+    "examples": [
+        "https://os.mbed.com/users/diegocavalcanti/code/JOGO_CORRIDA/",
+        "https://os.mbed.com/users/renangueiros/code/Snake/",
+        "https://os.mbed.com/users/gleydsonn/code/mbedbreakingout/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Serial",
+        "Terminal",
+        "VT100"
+    ],
+    "name": "TermControl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/earlz/code/TermControl/"
+    }
+}

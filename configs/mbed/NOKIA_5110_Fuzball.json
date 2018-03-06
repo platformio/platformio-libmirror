@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Chris Yan",
+        "url": "https://os.mbed.com/users/Fuzball/"
+    },
+    "description": "A small and easy-to-use library for the Nokia 5110, 3310, and LCD-10168 / PCD8544 LCD controller. Draw support includes strings, patterns, and pixel-by-pixel methods.",
+    "examples": [
+        "https://os.mbed.com/users/davervw/code/TextLCD_NOKIA_5110/",
+        "https://os.mbed.com/users/ThihaElectronics/code/Nokia5110_KL25Z/",
+        "https://os.mbed.com/users/c128/code/Nokia5110_test_nucleo/",
+        "https://os.mbed.com/users/bundgus/code/LPC1114_5110_PIR/",
+        "https://os.mbed.com/users/abhishekgoyanka/code/RFID_Attendance_System/",
+        "https://os.mbed.com/users/julioefajardo/code/Nucleo_EMG_Galileo_Hand/",
+        "https://os.mbed.com/users/julioefajardo/code/FRDM_EMG_Galileo_Hand_Basic_Example/",
+        "https://os.mbed.com/users/loarri/code/The_Nucleo_Distance_Calculator/",
+        "https://os.mbed.com/users/nivmukka/code/Alert-System-20-using-FRDM-K64F-and-RFID/",
+        "https://os.mbed.com/users/bonnyngangu/code/Life_regeneration/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "5110",
+        "LCD",
+        "Nokia",
+        "pcd8544"
+    ],
+    "name": "NOKIA_5110",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Fuzball/code/NOKIA_5110/"
+    }
+}

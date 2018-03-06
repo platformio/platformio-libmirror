@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://os.mbed.com/users/simon/"
+    },
+    "description": "CMSIS DSP Library from CMSIS 2.0. See http://www.onarm.com/cmsis/ for full details",
+    "examples": [
+        "https://os.mbed.com/users/GerritPathuis/code/K22F_DSP_Matrix_least_square/",
+        "https://os.mbed.com/users/tommyallen/code/BNO055-ELEC3810/",
+        "https://os.mbed.com/users/tommyallen/code/1BNO055/",
+        "https://os.mbed.com/users/el13ytg/code/TOM-1BNO055/",
+        "https://os.mbed.com/users/cpark308/code/ECE4180Project-Slave2/",
+        "https://os.mbed.com/users/mikeb/code/AoA_estimator/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "cmsis",
+        "DSP"
+    ],
+    "name": "dsp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/simon/code/dsp/"
+    }
+}

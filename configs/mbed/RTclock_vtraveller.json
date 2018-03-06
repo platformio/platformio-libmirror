@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Justin Howard",
+        "url": "https://os.mbed.com/users/vtraveller/"
+    },
+    "description": "Simple RTC class based on DS1307. Emphasis on simple. Allows you to run at 100k or 400k Hz (for newer DS1307 capable devices). MapTime() allows you to set the time() ...",
+    "examples": [
+        "https://os.mbed.com/users/vtraveller/code/AdaFruit_RGBLCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "clock",
+        "ds1307",
+        "RTC",
+        "time"
+    ],
+    "name": "RTclock",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vtraveller/code/RTclock/"
+    }
+}

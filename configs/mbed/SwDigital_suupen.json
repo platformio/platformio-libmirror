@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "suu pen",
+        "url": "https://os.mbed.com/users/suupen/"
+    },
+    "description": "このライブラリはＳＷ認識を行います。 ＳＷは１個から２０個まで認識できます。 ＳＷの認識周期は１０ｍｓです。 ＳＷはｍｂｅｄの端子とＧＮＤの間に接続します。 This library does the recognition SW. SW, one can recognize up to 20. Recognition of the SW period is 10ms. SW is connected to GND terminal ...",
+    "examples": [
+        "https://os.mbed.com/users/suupen/code/kitchenTimer_Clock/",
+        "https://os.mbed.com/users/suupen/code/SwDigitalLibraryExampleProgram/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "edge",
+        "level",
+        "SW",
+        "tact",
+        "Toggle"
+    ],
+    "name": "SwDigital",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/suupen/code/SwDigital/"
+    }
+}

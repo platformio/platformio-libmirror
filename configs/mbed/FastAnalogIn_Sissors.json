@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "Class similar to AnalogIn that uses burst mode to run continious background conversions so when the input is read, the last value can immediatly be returned.",
+    "examples": [
+        "https://os.mbed.com/users/frankvnk/code/KL25Z_FFT_Demo/",
+        "https://os.mbed.com/teams/The-Ultimate-EENG-3910-Team/code/test_armmath/",
+        "https://os.mbed.com/users/tony1tf/code/KL25Z_FFT_Demo_tony/",
+        "https://os.mbed.com/teams/Leicester-Hackspace/code/KL25Z_FFT_Demo_tony/",
+        "https://os.mbed.com/users/sas37/code/ReadSendData/",
+        "https://os.mbed.com/users/michaelcoe/code/Ananlog_in_test/",
+        "https://os.mbed.com/users/apullin/code/Ananlog_in_test/",
+        "https://os.mbed.com/users/kklokeshkumar/code/Matlab2013serialKL25Z___copy/",
+        "https://os.mbed.com/users/antoniorohit/code/microphone/",
+        "https://os.mbed.com/users/romankrej/code/dipl_prace_v10/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "AnalogIn",
+        "burst",
+        "fast"
+    ],
+    "name": "FastAnalogIn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/FastAnalogIn/"
+    }
+}

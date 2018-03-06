@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Romain Berrada",
+        "url": "https://os.mbed.com/users/rominos2/"
+    },
+    "description": "A simple Menu Library",
+    "examples": [
+        "https://os.mbed.com/users/rominos2/code/MenuExample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GUI",
+        "menu"
+    ],
+    "name": "Menu",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rominos2/code/Menu/"
+    }
+}

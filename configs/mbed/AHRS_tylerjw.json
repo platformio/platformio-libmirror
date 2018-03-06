@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Tyler Weaver",
+        "url": "https://os.mbed.com/users/tylerjw/"
+    },
+    "dependencies": [
+        {
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
+            "name": "MODSERIAL"
+        }
+    ],
+    "description": "AHRS library, modified version of Peter Bartz work.",
+    "examples": [
+        "https://os.mbed.com/users/tylerjw/code/AHRS_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "AHRS",
+    "name": "AHRS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tylerjw/code/AHRS/"
+    }
+}

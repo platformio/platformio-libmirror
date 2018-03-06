@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Kevin Gillepsie",
+        "url": "https://os.mbed.com/users/kgills/"
+    },
+    "description": "Device driver for Si7020 Digital humidity and temperature sensor.",
+    "examples": [
+        "https://os.mbed.com/users/kgills/code/Si7020_example/",
+        "https://os.mbed.com/teams/MaximIntegrated/code/MAXWSNENV_sensors/",
+        "https://os.mbed.com/users/bgrattan/code/MAXWSNENV_sensors/",
+        "https://os.mbed.com/users/MACRUM/code/Hello-Uzuki-sensor-shield/",
+        "https://os.mbed.com/teams/MaximIntegrated/code/MAXWSNENV_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Si7020",
+    "name": "Si7020",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kgills/code/Si7020/"
+    }
+}

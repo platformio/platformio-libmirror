@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "masa haru",
+        "url": "https://os.mbed.com/users/mamezu/"
+    },
+    "description": "EthernetNetIf",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/SNMPAgent/",
+        "https://os.mbed.com/users/pbaston/code/HTTPServer/",
+        "https://os.mbed.com/users/ohararp/code/think_speak_a/",
+        "https://os.mbed.com/users/toddouska/code/cyassl-client/",
+        "https://os.mbed.com/users/sjwb99/code/UDPTest200/",
+        "https://os.mbed.com/users/bcalin1984/code/SmartCardReader/",
+        "https://os.mbed.com/users/treebykooba/code/TwitPicExample/",
+        "https://os.mbed.com/users/Shruti/code/Camera_LS_Y201_TestProgram/",
+        "https://os.mbed.com/users/parik/code/lab3_Radio_design/",
+        "https://os.mbed.com/users/dminear/code/Sprinkler_Controller/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "EthernetNetIf",
+    "name": "EthernetNetIf",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mamezu/code/EthernetNetIf/"
+    }
+}

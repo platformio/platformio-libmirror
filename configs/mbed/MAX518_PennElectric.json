@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Penn Electric",
+        "url": "https://os.mbed.com/users/PennElectric/"
+    },
+    "description": "This library interfaces the MAX518 2-Channel 8-bit DAC (Digital to Analog Converter) with the mbed using the I2C pins. It provides a simple, convenient API to rapidly begin implementing the ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "8",
+        "ack",
+        "Analog",
+        "awesome",
+        "bit",
+        "channel",
+        "converter",
+        "dac",
+        "Digital",
+        "dual",
+        "I2C",
+        "isolated",
+        "MAX518",
+        "no-ack"
+    ],
+    "name": "MAX518",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/PennElectric/code/MAX518/"
+    }
+}

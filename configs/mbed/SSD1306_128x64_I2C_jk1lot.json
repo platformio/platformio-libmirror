@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Dai Yokota",
+        "url": "https://os.mbed.com/users/jk1lot/"
+    },
+    "dependencies": [
+        {
+            "authors": "Wim Huiskamp",
+            "frameworks": "mbed",
+            "name": "SSD1308_128x64_I2C"
+        }
+    ],
+    "description": "SSD1306 I2C 128x64 Graphic OLED. Based on SSD1308_128x64_I2C library.",
+    "examples": [
+        "https://os.mbed.com/users/comargo/code/lcd-ssd1306-test/",
+        "https://os.mbed.com/users/franni/code/DisplayOled1/",
+        "https://os.mbed.com/users/Abril1030/code/DisplayOled1/",
+        "https://os.mbed.com/users/franni/code/DisplayOledi2c/",
+        "https://os.mbed.com/users/juankafil1/code/untodoenuno/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "128x64",
+        "OLED",
+        "SSD1306"
+    ],
+    "name": "SSD1306_128x64_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jk1lot/code/SSD1306_128x64_I2C/"
+    }
+}

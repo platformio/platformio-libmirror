@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "Class to drive the QSPI external memory (N25Q128A device) present on DISCO_F469NI board.",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/DISCO-F469NI_QSPI/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F469NI",
+        "QSPI"
+    ],
+    "name": "QSPI_DISCO_F469NI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/QSPI_DISCO_F469NI/"
+    }
+}

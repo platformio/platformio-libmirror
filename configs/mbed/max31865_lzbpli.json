@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "lzbp li",
+        "url": "https://os.mbed.com/users/lzbpli/"
+    },
+    "description": "https://github.com/olewolf/arduino-max31865",
+    "examples": [
+        "https://os.mbed.com/users/lzbpli/code/max31865-Examples/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "31865",
+        "max",
+        "max31865"
+    ],
+    "name": "max31865",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lzbpli/code/max31865/"
+    }
+}

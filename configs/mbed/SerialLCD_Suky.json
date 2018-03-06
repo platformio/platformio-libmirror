@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Ale C.-",
+        "url": "https://os.mbed.com/users/Suky/"
+    },
+    "description": "LCD Serial with shift register",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "Register",
+        "Serial",
+        "shift",
+        "with"
+    ],
+    "name": "SerialLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Suky/code/SerialLCD/"
+    }
+}

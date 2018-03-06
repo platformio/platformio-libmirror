@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "Added support for banked registers",
+    "examples": [
+        "https://os.mbed.com/users/mehatfie/code/Component_Test_Interface/",
+        "https://os.mbed.com/users/mehatfie/code/FalconWing/",
+        "https://os.mbed.com/users/mehatfie/code/MX_Spoile_Test/",
+        "https://os.mbed.com/teams/Component-Test-Group/code/Simple_Power_Distribution/",
+        "https://os.mbed.com/teams/IMaR/code/MCP_test_mod/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "i2c expander",
+        "MCP23017"
+    ],
+    "name": "MCP23017",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/MCP23017/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Craig Evans",
+        "url": "https://os.mbed.com/users/eencae/"
+    },
+    "dependencies": [
+        {
+            "authors": "Craig Evans",
+            "frameworks": "mbed",
+            "name": "Utils"
+        }
+    ],
+    "description": "Library to control a 3DOF robotic leg. Specify an [x,y,z] co-ordinate and the library will solve the inverse kinematic equations to calculate the required servo pulse widths to position the ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "3DOF",
+        "inverse kinematics",
+        "Robotics"
+    ],
+    "name": "Leg",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eencae/code/Leg/"
+    }
+}

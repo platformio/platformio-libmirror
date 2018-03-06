@@ -1,0 +1,72 @@
+{
+    "authors": {
+        "name": "Sille Van Landschoot",
+        "url": "https://os.mbed.com/users/sillevl/"
+    },
+    "dependencies": [
+        {
+            "authors": "Chris Styles",
+            "frameworks": "mbed",
+            "name": "m3pi"
+        },
+        {
+            "authors": "Sille Van Landschoot",
+            "frameworks": "mbed",
+            "name": "ADXL345_I2C"
+        },
+        {
+            "authors": "Sille Van Landschoot",
+            "frameworks": "mbed",
+            "name": "HMC5583L"
+        },
+        {
+            "authors": "Sille Van Landschoot",
+            "frameworks": "mbed",
+            "name": "ITG3200"
+        },
+        {
+            "authors": "Tedd OKANO",
+            "frameworks": "mbed",
+            "name": "PCA9547"
+        },
+        {
+            "authors": "Sille Van Landschoot",
+            "frameworks": "mbed",
+            "name": "TLC59116"
+        },
+        {
+            "authors": "Sille Van Landschoot",
+            "frameworks": "mbed",
+            "name": "VL6180x"
+        },
+        {
+            "authors": "Sille Van Landschoot",
+            "frameworks": "mbed",
+            "name": "RGB-fun"
+        },
+        {
+            "authors": "Sille Van Landschoot",
+            "frameworks": "mbed",
+            "name": "xbee"
+        }
+    ],
+    "description": "library for m3Dpi robot, based on the Pololu 3pi and m3pi. m3Dpi has multiple distance sensors, gyroscope, compass and accelerometer sensor to be fully aware of its environment. With the ...",
+    "examples": [
+        "https://os.mbed.com/users/sillevl/code/m3Dpi-helloworld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "3pi",
+        "library",
+        "m3dpi",
+        "m3pi",
+        "pololu",
+        "robot"
+    ],
+    "name": "m3Dpi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sillevl/code/m3Dpi/"
+    }
+}

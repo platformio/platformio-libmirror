@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Takuo WATANABE",
+        "url": "https://os.mbed.com/users/takuo/"
+    },
+    "description": "A function for finding the port and bit position of a pin",
+    "examples": [
+        "https://os.mbed.com/users/takuo/code/pin_port_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "pin_port",
+    "name": "pin_port",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/takuo/code/pin_port/"
+    }
+}

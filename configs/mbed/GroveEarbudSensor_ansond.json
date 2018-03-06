@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Doug Anson",
+        "url": "https://os.mbed.com/users/ansond/"
+    },
+    "description": "Library for the Grove Earbud Heartrate Sensor",
+    "examples": [
+        "https://os.mbed.com/teams/MBED_DEMOS/code/BLE_Police_HRM_Earbud/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/df-2014-salesforce-hrm-k64f/",
+        "https://os.mbed.com/users/ppm2005/code/BLE_HeartRate_ppm/",
+        "https://os.mbed.com/users/antoineA/code/emoSound/",
+        "https://os.mbed.com/users/spriyanka/code/Heart-rate-monitor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Grove",
+        "heartrate",
+        "sensor"
+    ],
+    "name": "GroveEarbudSensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ansond/code/GroveEarbudSensor/"
+    }
+}

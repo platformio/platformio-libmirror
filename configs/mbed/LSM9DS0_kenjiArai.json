@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "LSM9DS0 iNEMO inertial module:3D accelerometer, 3D gyroscope, 3D magnetometer by STMicroelectronics",
+    "frameworks": "mbed",
+    "keywords": [
+        "acc",
+        "gyro",
+        "IMU",
+        "iNEMO",
+        "MAG",
+        "STM"
+    ],
+    "name": "LSM9DS0",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/LSM9DS0/"
+    }
+}

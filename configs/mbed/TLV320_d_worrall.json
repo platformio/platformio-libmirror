@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Daniel Worrall",
+        "url": "https://os.mbed.com/users/d_worrall/"
+    },
+    "description": "Library for Texas Instruments TLV320AIC23B hi-def audio chip note: requires I2SSlave abstraction library",
+    "examples": [
+        "https://os.mbed.com/users/d_worrall/code/playback/",
+        "https://os.mbed.com/users/d_worrall/code/FTSESpeech/",
+        "https://os.mbed.com/users/okini3939/code/i2s_audio_echo/",
+        "https://os.mbed.com/users/okini3939/code/i2s_audio_sampler/",
+        "https://os.mbed.com/users/okini3939/code/i2s_audio_madplayer/",
+        "https://os.mbed.com/users/HB9GAA/code/AudioCODEC_6/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "audio",
+        "HQ",
+        "I2S",
+        "TLV320"
+    ],
+    "name": "TLV320",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/d_worrall/code/TLV320/"
+    }
+}

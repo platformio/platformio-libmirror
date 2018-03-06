@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Renesas",
+        "url": "https://os.mbed.com/teams/Renesas/"
+    },
+    "description": "Graphics framework for GR-PEACH. When you use this program, we judge you have agreed to the following contents. https://developer.mbed.org/teams/Renesas/wiki/About-LICENSE",
+    "examples": [
+        "https://os.mbed.com/users/1050186/code/ImageZoomInout_Sample/",
+        "https://os.mbed.com/users/1050186/code/ImageRotaion_Sample/",
+        "https://os.mbed.com/users/1050186/code/ImageScroll_Sample/",
+        "https://os.mbed.com/users/1050186/code/GR-PEACH_LCD_4_3inch_Save_to_USB/",
+        "https://os.mbed.com/users/RyoheiHagimoto/code/GR-PEACH_WebCamera_OV5642_fixedIP/",
+        "https://os.mbed.com/users/dkato/code/GR-PEACH_WebCamera_AP/",
+        "https://os.mbed.com/teams/Renesas/code/GR-PEACH_WebCamera_mbed-classic/",
+        "https://os.mbed.com/users/dkato/code/GR-PEACH_SprintGame/",
+        "https://os.mbed.com/users/vipinranka/code/MGAS_GR_Peach/",
+        "https://os.mbed.com/users/mtkrtk/code/MovPlayer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GR-PEACH",
+    "name": "GraphicsFramework",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Renesas/code/GraphicsFramework/"
+    }
+}

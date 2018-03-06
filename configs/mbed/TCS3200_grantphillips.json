@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Grant Phillips",
+        "url": "https://os.mbed.com/users/grantphillips/"
+    },
+    "description": "Class library for a TCS3200 Color Sensor Module.",
+    "examples": [
+        "https://os.mbed.com/users/Victor_Mirkhan/code/LCD/",
+        "https://os.mbed.com/users/Victor_Mirkhan/code/PROJETO/",
+        "https://os.mbed.com/users/Victor_Mirkhan/code/PROJETO_MECATRONICO/",
+        "https://os.mbed.com/users/felipeto1/code/Bottle_Tracker_Insper/",
+        "https://os.mbed.com/users/pierre11/code/MeARM/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TCS3200",
+    "name": "TCS3200",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/grantphillips/code/TCS3200/"
+    }
+}

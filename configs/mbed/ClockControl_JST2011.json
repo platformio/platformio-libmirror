@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "JST 2011",
+        "url": "https://os.mbed.com/users/JST2011/"
+    },
+    "description": "clock control library written by Michael Wei",
+    "examples": [
+        "https://os.mbed.com/users/kayekss/code/IsuProject_LPC1768/",
+        "https://os.mbed.com/users/strysd/code/int555/",
+        "https://os.mbed.com/users/kayekss/code/Gemini_Soloist_LPC1768/",
+        "https://os.mbed.com/users/casiotone401/code/OSCtoCVConverter/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "clock",
+        "CPU",
+        "Power",
+        "power consumption",
+        "power control"
+    ],
+    "name": "ClockControl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JST2011/code/ClockControl/"
+    }
+}

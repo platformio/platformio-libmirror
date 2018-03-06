@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "ENEL400",
+        "url": "https://os.mbed.com/teams/ENEL400/"
+    },
+    "description": "A template for ring buffer implementation",
+    "examples": [
+        "https://os.mbed.com/users/rba90/code/AwsomeStation/",
+        "https://os.mbed.com/teams/ENEL400/code/LoRaBaseStation/",
+        "https://os.mbed.com/teams/ENEL400/code/LoRaTerminal/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "RingBuffer",
+    "name": "RingBuffer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ENEL400/code/RingBuffer/"
+    }
+}

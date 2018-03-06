@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Andrew Lindsay",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/"
+    },
+    "description": "Library for Sure Electronics HT1632 based LED matrix displays. Supports multiple displays connected together.",
+    "examples": [
+        "https://os.mbed.com/users/SomeRandomBloke/code/HT1632MsgScroller/",
+        "https://os.mbed.com/users/SomeRandomBloke/code/SMS_LEDMatrixPrinter/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "HT1632",
+        "led",
+        "matrix"
+    ],
+    "name": "HT1632_LedMatrix",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/code/HT1632_LedMatrix/"
+    }
+}

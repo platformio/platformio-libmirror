@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Tobias Knapp",
+        "url": "https://os.mbed.com/users/tknapp/"
+    },
+    "description": "ASCIIGraph draws graphs to serial console using the \"Terminal\" lib. The graph scales automatically, shows minimum and maximum. Custom designs can be applied through setting several characters.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Ascii",
+        "ASCIIGraph",
+        "graph",
+        "Serial",
+        "Terminal"
+    ],
+    "name": "ASCIIGraph",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tknapp/code/ASCIIGraph/"
+    }
+}

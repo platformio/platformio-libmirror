@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Tyler Weaver",
+        "url": "https://os.mbed.com/users/tylerjw/"
+    },
+    "description": "Built from datasheet for 9-DOF sensor stick from SparkFun.",
+    "examples": [
+        "https://os.mbed.com/users/tylerjw/code/9Dof_unit_testing/",
+        "https://os.mbed.com/teams/jetfishteam/code/sparkfun6dof/",
+        "https://os.mbed.com/teams/Seeed/code/Seeed_Grove_Digital_Compass_Example/",
+        "https://os.mbed.com/teams/P542-Labs-Segv/code/CompassTest/",
+        "https://os.mbed.com/teams/FRA221_2015/code/10A_ClassProject_MegnaticGame/",
+        "https://os.mbed.com/users/srago001/code/sensor_library_test/",
+        "https://os.mbed.com/users/aolgu003/code/sensor_library_test/",
+        "https://os.mbed.com/users/wupinxian/code/ROBOT/",
+        "https://os.mbed.com/teams/projetlong/code/Projetlong/",
+        "https://os.mbed.com/teams/projetlong/code/Projetlong_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "9-DOF",
+        "compass",
+        "HMC5883L",
+        "magnetometer",
+        "sparkfun"
+    ],
+    "name": "HMC5883L",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tylerjw/code/HMC5883L/"
+    }
+}

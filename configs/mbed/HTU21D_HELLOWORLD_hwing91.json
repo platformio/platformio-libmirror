@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Alan Lai",
+        "url": "https://os.mbed.com/users/hwing91/"
+    },
+    "description": "This code uses a uLCD-144-G2 128 by 128 Smart Color LCD to display the humidity and temperature in celcius, kelvin, and fahrenheit.",
+    "frameworks": "mbed",
+    "keywords": "HTU21D_HELLOWORLD",
+    "name": "HTU21D_HELLOWORLD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hwing91/code/HTU21D_HELLOWORLD/"
+    }
+}

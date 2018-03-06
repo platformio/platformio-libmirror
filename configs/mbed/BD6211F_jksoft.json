@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Junichi Katsu",
+        "url": "https://os.mbed.com/users/jksoft/"
+    },
+    "description": "Library that controls BD6211F of rohm.",
+    "examples": [
+        "https://os.mbed.com/users/jksoft/code/WallBot_Simple/",
+        "https://os.mbed.com/users/jksoft/code/WallbotTypeN/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BD6211F",
+        "motor"
+    ],
+    "name": "BD6211F",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jksoft/code/BD6211F/"
+    }
+}

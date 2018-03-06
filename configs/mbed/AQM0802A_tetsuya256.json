@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Tetsuya Hoshino",
+        "url": "https://os.mbed.com/users/tetsuya256/"
+    },
+    "description": "Akizuki I2C 8x2 Character LCD AQM0802A driver class.",
+    "examples": [
+        "https://os.mbed.com/teams/2014/code/CatPot_Main_ver1/",
+        "https://os.mbed.com/teams/2014/code/CatPot_Main_F/",
+        "https://os.mbed.com/users/kb10uy/code/NuFM401/",
+        "https://os.mbed.com/teams/2014/code/CatPot_Main_ver2/",
+        "https://os.mbed.com/teams/2014/code/CatPot_Main_ver3/",
+        "https://os.mbed.com/teams/2014/code/CatPot_Main_T/",
+        "https://os.mbed.com/users/kb10uy/code/NuFM402/",
+        "https://os.mbed.com/users/suupen/code/led-sound_checker/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Akizuki",
+        "character",
+        "I2C",
+        "LCD"
+    ],
+    "name": "AQM0802A",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tetsuya256/code/AQM0802A/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Jochen Krapf",
+        "url": "https://os.mbed.com/users/jocis/"
+    },
+    "description": "Measurement of low frequencys based on timing between pulses",
+    "examples": [
+        "https://os.mbed.com/users/jocis/code/Energy_Meter_S0_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Energy Meter",
+        "frequency",
+        "measurement"
+    ],
+    "name": "Pulses",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jocis/code/Pulses/"
+    }
+}

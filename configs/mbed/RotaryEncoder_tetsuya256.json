@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Tetsuya Hoshino",
+        "url": "https://os.mbed.com/users/tetsuya256/"
+    },
+    "description": "ロータリーエンコーダー (機械接点式インクリメンタル型) の信号をデコードするクラスです。 Rotary Encoder (incremental, mechanical switch type) signal decoder class.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "incremental",
+        "mechanical",
+        "rotary",
+        "switch"
+    ],
+    "name": "RotaryEncoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tetsuya256/code/RotaryEncoder/"
+    }
+}

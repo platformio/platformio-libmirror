@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "David Smart",
+        "url": "https://os.mbed.com/users/WiredHome/"
+    },
+    "description": "Simple functions to ease cross compiling between mbed and Visual Studio",
+    "frameworks": "mbed",
+    "keywords": "Utilities",
+    "name": "Utilities",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WiredHome/code/Utilities/"
+    }
+}

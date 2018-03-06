@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "David Fletcher",
+        "url": "https://os.mbed.com/users/dflet/"
+    },
+    "dependencies": [
+        {
+            "authors": "David Fletcher",
+            "frameworks": "mbed",
+            "name": "client"
+        },
+        {
+            "authors": "David Fletcher",
+            "frameworks": "mbed",
+            "name": "server"
+        }
+    ],
+    "description": "TI's mqtt.",
+    "frameworks": "mbed",
+    "keywords": "mqtt_V1",
+    "name": "mqtt_V1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dflet/code/mqtt_V1/"
+    }
+}

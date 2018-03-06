@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "PQ_Hybrid_Electrical_Equipment_Team",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/"
+    },
+    "description": "XbeeApi",
+    "examples": [
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/XbeeAPI/",
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/Hybrid_main_FirstEdtion/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "xbee",
+    "name": "XbeeApiLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/XbeeApiLib/"
+    }
+}

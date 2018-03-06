@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "doku newon",
+        "url": "https://os.mbed.com/users/dokunewon/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        }
+    ],
+    "description": "increase ITD queue count.",
+    "examples": [
+        "https://os.mbed.com/users/dokunewon/code/Peach_AudioChannelDividerAndCompensator/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DokuUSBHostWithIso",
+    "name": "DokuUSBHostWithIso",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dokunewon/code/DokuUSBHostWithIso/"
+    }
+}

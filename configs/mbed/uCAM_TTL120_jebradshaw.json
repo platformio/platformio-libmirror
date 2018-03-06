@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Joseph Bradshaw",
+        "url": "https://os.mbed.com/users/jebradshaw/"
+    },
+    "dependencies": [
+        {
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
+            "name": "MODSERIAL"
+        }
+    ],
+    "description": "mbed serial interface for the OV528 camera (uCAM TTL 120 from 4D systems).",
+    "examples": [
+        "https://os.mbed.com/users/jebradshaw/code/mbed_uCAM_TTL120_20141118/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "camera",
+        "JPEG",
+        "OV528",
+        "uCAM TTL120"
+    ],
+    "name": "uCAM_TTL120",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jebradshaw/code/uCAM_TTL120/"
+    }
+}

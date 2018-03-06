@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "IBM_IoT",
+        "url": "https://os.mbed.com/teams/IBM_IoT/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "MQTT"
+        }
+    ],
+    "description": "A library that simplifies interactions with the IBM Internet of Things Foundation",
+    "examples": [
+        "https://os.mbed.com/users/vinithias/code/IBMIoTClientLibrarySamplefinal/",
+        "https://os.mbed.com/teams/IBM_IoT/code/IBMWIoTPSecureClientSample/",
+        "https://os.mbed.com/teams/IBM_IoT/code/IBMIoTClientLibrarySample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "IBMIoTF",
+        "IOT",
+        "iotf"
+    ],
+    "name": "IBMIoTF",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/IBM_IoT/code/IBMIoTF/"
+    }
+}

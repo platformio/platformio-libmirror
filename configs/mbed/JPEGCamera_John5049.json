@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Robert Akridge",
+        "url": "https://os.mbed.com/users/John5049/"
+    },
+    "dependencies": [
+        {
+            "authors": "Hiroshi Yamaguchi",
+            "frameworks": "mbed",
+            "name": "JPEGCamera"
+        }
+    ],
+    "description": "camera testing",
+    "frameworks": "mbed",
+    "keywords": "JPEGCamera",
+    "name": "JPEGCamera",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/John5049/code/JPEGCamera/"
+    }
+}

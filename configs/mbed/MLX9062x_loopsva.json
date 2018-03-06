@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Kevin Braun",
+        "url": "https://os.mbed.com/users/loopsva/"
+    },
+    "description": "Melexis MLX90620 and MLX90621, non-contact, 16x4 infrared array temperature sensor device driver.",
+    "examples": [
+        "https://os.mbed.com/users/loopsva/code/KL25Z_MLX90620/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "16x4",
+        "array",
+        "I2C",
+        "infrared",
+        "IR",
+        "Temperature"
+    ],
+    "name": "MLX9062x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/loopsva/code/MLX9062x/"
+    }
+}

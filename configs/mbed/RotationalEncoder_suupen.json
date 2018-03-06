@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "suu pen",
+        "url": "https://os.mbed.com/users/suupen/"
+    },
+    "description": "2 Phase different signals rotational encoder library ２相位相差型ロータリーエンコーダ用ライブラリ。 絶対値パルス関数。相対値（前回読み出しからの差）パルス出力関数。秋月電子のEC12PLRGBSDVBF-D-25K-24-24C-61で動作確認した。http://akizukidenshi.com/catalog/g/gP-05773/",
+    "examples": [
+        "https://os.mbed.com/users/suupen/code/RotationalEncoder_Hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "rotaional"
+    ],
+    "name": "RotationalEncoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/suupen/code/RotationalEncoder/"
+    }
+}

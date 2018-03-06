@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Y SI",
+        "url": "https://os.mbed.com/users/YSI/"
+    },
+    "description": "lib_LCD_i2c_SPTLYI http://fr.farnell.com/midas/mccog21605b6w-sptlyi/lcd-cog-2x16-stn-vert-b-l-i2c/dp/2063208 YSI",
+    "examples": [
+        "https://os.mbed.com/users/mbedo/code/TD1_exo1/",
+        "https://os.mbed.com/users/mbedo/code/TD1_exe1_suite/",
+        "https://os.mbed.com/users/mbedo/code/TP3_exo1/",
+        "https://os.mbed.com/users/mbedo/code/TP3_exo2/",
+        "https://os.mbed.com/users/YSI/code/lib_LCD_i2c_example/",
+        "https://os.mbed.com/users/YSI/code/libs_YSI_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "2x16",
+        "I2C",
+        "LCD"
+    ],
+    "name": "lib_LCD_i2c_SPTLYI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/YSI/code/lib_LCD_i2c_SPTLYI/"
+    }
+}

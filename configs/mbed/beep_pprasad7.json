@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Pallavi Prasad",
+        "url": "https://os.mbed.com/users/pprasad7/"
+    },
+    "description": "Beep using PWM and speaker",
+    "examples": [
+        "https://os.mbed.com/users/pprasad7/code/Hangman/",
+        "https://os.mbed.com/users/takis94/code/Weather_Station/",
+        "https://os.mbed.com/users/probrania7/code/Ultrasonic/",
+        "https://os.mbed.com/users/probrania7/code/Ultrasonicdistancesensor/",
+        "https://os.mbed.com/users/probrania7/code/Ultrasonic-timeheae/",
+        "https://os.mbed.com/users/NestorLDS/code/Parking-RadarSRF02/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "beep",
+    "name": "beep",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pprasad7/code/beep/"
+    }
+}

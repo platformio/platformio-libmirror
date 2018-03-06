@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "TMNTmaker !",
+        "url": "https://os.mbed.com/users/tmnt/"
+    },
+    "dependencies": [
+        {
+            "authors": "TMNTmaker !",
+            "frameworks": "mbed",
+            "name": "fonts"
+        }
+    ],
+    "description": "ILI9341_SPI",
+    "examples": [
+        "https://os.mbed.com/users/tmnt/code/ov7670_dma_nucleo_f4/",
+        "https://os.mbed.com/users/tmnt/code/NUCLEO-F446RE_testDCMI/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ILI9341_SPI",
+    "name": "ILI9341_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tmnt/code/ILI9341_SPI/"
+    }
+}

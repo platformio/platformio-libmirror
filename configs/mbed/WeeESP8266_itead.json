@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "ITEAD STUDIO",
+        "url": "https://os.mbed.com/users/itead/"
+    },
+    "dependencies": [
+        {
+            "authors": "ITEAD STUDIO",
+            "frameworks": "mbed",
+            "name": "ArduinoAPI"
+        }
+    ],
+    "description": "Provide an easy-to-use way to manipulate ESP8266.",
+    "examples": [
+        "https://os.mbed.com/users/itead/code/WeeESP8266_TCPClientMultiple/",
+        "https://os.mbed.com/users/itead/code/WeeESP8266_TCPClientSingle/",
+        "https://os.mbed.com/users/itead/code/WeeESP8266_TCPServer/",
+        "https://os.mbed.com/users/itead/code/WeeESP8266_UDPClientMultiple/",
+        "https://os.mbed.com/users/itead/code/WeeESP8266_UDPClientSingle/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "v1.0",
+    "name": "WeeESP8266",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/itead/code/WeeESP8266/"
+    }
+}

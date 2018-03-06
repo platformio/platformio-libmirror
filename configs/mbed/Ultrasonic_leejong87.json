@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Hyeonjong Lee",
+        "url": "https://os.mbed.com/users/leejong87/"
+    },
+    "description": "Ultrasonic",
+    "examples": [
+        "https://os.mbed.com/users/MR_Kang/code/2014_Ensoul_Capstone/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "distance",
+        "eco",
+        "range",
+        "sonic",
+        "Ultra"
+    ],
+    "name": "Ultrasonic",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/leejong87/code/Ultrasonic/"
+    }
+}

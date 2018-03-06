@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Norimasa Okamoto",
+        "url": "https://os.mbed.com/users/va009039/"
+    },
+    "description": "huffmancode to decode in real-time for motion-jpeg",
+    "examples": [
+        "https://os.mbed.com/users/va009039/code/BaseJpegDecode_example/",
+        "https://os.mbed.com/users/va009039/code/SimpleJpegDecode_example/",
+        "https://os.mbed.com/teams/VOC/code/Dumb_box_rev2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "JPEG",
+    "name": "BaseJpegDecode",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/va009039/code/BaseJpegDecode/"
+    }
+}

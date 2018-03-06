@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "LM77 Temperature sensor with I2C interface. Provides temperature in celsius and fahrenheit. The device also supports temperature alerts.",
+    "examples": [
+        "https://os.mbed.com/users/wim/code/mbed_HP03SA_LM77/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LM77",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "LM77",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/LM77/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Sam Grove",
+        "url": "https://os.mbed.com/users/sam_grove/"
+    },
+    "description": "A UNIX emulation shell to access the underlying SDCard FileSystem through a terminal interface",
+    "examples": [
+        "https://os.mbed.com/users/jekain314/code/Waldo_Embed_V2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Remote SDCard Access",
+        "shell",
+        "Shell Emulation",
+        "unix"
+    ],
+    "name": "SDShell",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sam_grove/code/SDShell/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Jon Fuge",
+        "url": "https://os.mbed.com/users/jf1452/"
+    },
+    "description": "A motor control class for driving two DC motors as part of RenBuggy",
+    "examples": [
+        "https://os.mbed.com/users/jf1452/code/RenBuggy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DC motor",
+        "Hall Sensor",
+        "RenBED",
+        "Renishaw"
+    ],
+    "name": "MotorController",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jf1452/code/MotorController/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "wimbeaumont Project",
+        "url": "https://os.mbed.com/users/wbeaumont/"
+    },
+    "description": "This are general defs and base class interfaces. ( DACInterface, I2CInterface) to be used with I2C devices",
+    "examples": [
+        "https://os.mbed.com/users/wbeaumont/code/MCP23009tst/",
+        "https://os.mbed.com/users/wbeaumont/code/MCP4728test/",
+        "https://os.mbed.com/users/wbeaumont/code/AT30TSE752TST2/",
+        "https://os.mbed.com/users/wbeaumont/code/AT30TSE752TST/",
+        "https://os.mbed.com/users/wbeaumont/code/MCP4728setaddrProg/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DevInterfaces",
+    "name": "DevInterfaces",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wbeaumont/code/DevInterfaces/"
+    }
+}

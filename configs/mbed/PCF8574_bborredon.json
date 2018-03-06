@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "bernard borredon",
+        "url": "https://os.mbed.com/users/bborredon/"
+    },
+    "description": "Complete PCF8574 and PCF74A library with interrupt handling",
+    "examples": [
+        "https://os.mbed.com/users/anywill/code/Nucleo_PCF8574_led_iic/",
+        "https://os.mbed.com/users/m0dts/code/Dawson_Controller/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PCF8574",
+    "name": "PCF8574",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bborredon/code/PCF8574/"
+    }
+}

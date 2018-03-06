@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Marvin Villamizar",
+        "url": "https://os.mbed.com/users/dimmu8410/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "An awesome library for the 7 segment displays.",
+    "frameworks": "mbed",
+    "keywords": "Discrete_SevenSegment_A_K",
+    "name": "Discrete_SevenSegment_A_K",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dimmu8410/code/Discrete_SevenSegment_A_K/"
+    }
+}

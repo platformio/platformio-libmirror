@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Colin Hogben",
+        "url": "https://os.mbed.com/users/infinnovation/"
+    },
+    "description": "Port of MicroPython to the mbed platform. See micropython-repl for an interactive program.",
+    "examples": [
+        "https://os.mbed.com/users/infinnovation/code/micropython-repl/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "micropython",
+        "python"
+    ],
+    "name": "micropython",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/infinnovation/code/micropython/"
+    }
+}

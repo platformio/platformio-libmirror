@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "LIB for resistiv touchscreen connected to 4 mbed pins Use SPI_TFT lib",
+    "examples": [
+        "https://os.mbed.com/users/dreschpe/code/touch/",
+        "https://os.mbed.com/users/Mephi/code/LCD_Grapher/",
+        "https://os.mbed.com/users/RorschachUK/code/Mandelbrot/",
+        "https://os.mbed.com/users/xlNicolas/code/Tactile/",
+        "https://os.mbed.com/users/rtk/code/Tactile-Nicolas/",
+        "https://os.mbed.com/users/pieterjanluyssen/code/TFT_Test_Peter_Drescher/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "TFT",
+        "Touchscreen"
+    ],
+    "name": "Touch_tft",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/Touch_tft/"
+    }
+}

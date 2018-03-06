@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Grant Phillips",
+        "url": "https://os.mbed.com/users/grantphillips/"
+    },
+    "description": "Class library for a polling-based 4x4 keypad.",
+    "examples": [
+        "https://os.mbed.com/users/Susanaranjo/code/LCD/",
+        "https://os.mbed.com/users/franni/code/kbdlcdkl25z/",
+        "https://os.mbed.com/users/franni/code/control_onoff/",
+        "https://os.mbed.com/users/Luis_San/code/control_onoff/",
+        "https://os.mbed.com/users/ShaniceLim/code/EmbeddedAssignment/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Keypad",
+    "name": "Keypad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/grantphillips/code/Keypad/"
+    }
+}

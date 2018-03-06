@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Borja Tarazona",
+        "url": "https://os.mbed.com/users/BorjaTarazona/"
+    },
+    "description": "A Serial Interface for SIMCOM modules.",
+    "examples": [
+        "https://os.mbed.com/users/BorjaTarazona/code/SIMInterface/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AT",
+        "AT command",
+        "ATCommand",
+        "Serial",
+        "SIM800",
+        "SIM900",
+        "SIMCOM",
+        "UART"
+    ],
+    "name": "ATCommand",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BorjaTarazona/code/ATCommand/"
+    }
+}

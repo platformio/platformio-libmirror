@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "takeshi yoshida",
+        "url": "https://os.mbed.com/users/gakuburu/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "switch : 8 joystick : 4axis",
+    "frameworks": "mbed",
+    "keywords": "2016_V_Controller",
+    "name": "2016_V_Controller",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gakuburu/code/2016_V_Controller/"
+    }
+}

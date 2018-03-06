@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Junichi Katsu",
+        "url": "https://os.mbed.com/users/jksoft/"
+    },
+    "description": "Simple IoT Board用のライブラリです。 ESP8266ライブラリの軽量化 送信のみのソフトシリアルライブラリを含んでいます。",
+    "examples": [
+        "https://os.mbed.com/users/jksoft/code/SITB_HttpGetSample/",
+        "https://os.mbed.com/users/jksoft/code/SITB_IFTTTSample/",
+        "https://os.mbed.com/users/leibun/code/SITB_INA226PRC/",
+        "https://os.mbed.com/users/AmbientData/code/AmbientExampleSITB/",
+        "https://os.mbed.com/users/AmbientData/code/AmbientHeartRateMonitor/",
+        "https://os.mbed.com/users/AmbientData/code/AmbientHeartBeat/",
+        "https://os.mbed.com/users/jksoft/code/AmbientExampleSITB_ws/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SimpleIoTBoardLib",
+    "name": "SimpleIoTBoardLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jksoft/code/SimpleIoTBoardLib/"
+    }
+}

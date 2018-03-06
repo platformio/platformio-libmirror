@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Jim Carver",
+        "url": "https://os.mbed.com/users/JimCarver/"
+    },
+    "description": "Rev 0.1 Simple operation of just X, Y, Z values in floating point G's",
+    "examples": [
+        "https://os.mbed.com/users/JimCarver/code/Hello_FXLS8471Q/",
+        "https://os.mbed.com/users/JimCarver/code/Multi-Sensor/",
+        "https://os.mbed.com/users/mfiore/code/sensor/",
+        "https://os.mbed.com/teams/AerCloud/code/AerCloud_MutliTech_Socket_Modem_Example/",
+        "https://os.mbed.com/teams/shields/code/Freescale_Multi-Sensor_Shield/",
+        "https://os.mbed.com/teams/Multi-Hackers/code/2lemetry_Sensor_Example/",
+        "https://os.mbed.com/teams/MultiTech/code/2lemetry_Sensor_Example/",
+        "https://os.mbed.com/users/julioefajardo/code/Freescale_Multi-Sensor_Quadcopter/",
+        "https://os.mbed.com/users/impeccabletanu/code/RC_QuadCopter/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FXLS8471Q",
+    "name": "FXLS8471Q",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JimCarver/code/FXLS8471Q/"
+    }
+}

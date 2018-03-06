@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "kouzi osaki",
+        "url": "https://os.mbed.com/users/doctorura/"
+    },
+    "description": "PCM Player for Magnetone",
+    "frameworks": "mbed",
+    "keywords": "MagneWave",
+    "name": "MagneWave",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/doctorura/code/MagneWave/"
+    }
+}

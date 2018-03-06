@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Akinori Hashimoto",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/"
+    },
+    "description": "Timer peripheral class. This lib. include function ; WAIT, stop, reset, start, and read_ms.",
+    "examples": [
+        "https://os.mbed.com/users/AkinoriHashimoto/code/DetectFreqAboveTH/",
+        "https://os.mbed.com/users/AkinoriHashimoto/code/RN41/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "myTimer",
+    "name": "myTimer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/myTimer/"
+    }
+}

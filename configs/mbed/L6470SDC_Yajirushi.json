@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Ryota Yamamoto",
+        "url": "https://os.mbed.com/users/Yajirushi/"
+    },
+    "description": "Library for STMicroelectronics dSPIN L6470 stepper driver. \"daisy-chain\" supported.",
+    "examples": [
+        "https://os.mbed.com/users/Yajirushi/code/L6470_daisy_chain/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "daisy-chain",
+        "L6470",
+        "SPI",
+        "Stepper"
+    ],
+    "name": "L6470SDC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Yajirushi/code/L6470SDC/"
+    }
+}

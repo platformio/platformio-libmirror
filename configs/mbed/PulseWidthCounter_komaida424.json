@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "syouichi imamori",
+        "url": "https://os.mbed.com/users/komaida424/"
+    },
+    "description": "positive or negative pulse width counter",
+    "frameworks": "mbed",
+    "keywords": [
+        "counter",
+        "pulse"
+    ],
+    "name": "PulseWidthCounter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/komaida424/code/PulseWidthCounter/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "CHENGQI YANG",
+        "url": "https://os.mbed.com/users/yangcq88517/"
+    },
+    "description": "Murata RF modules are designed to simplify wireless development and certification by minimizing the amount of RF expertise you need to wirelessly enable a wide range of applications.",
+    "frameworks": "mbed",
+    "keywords": [
+        "muRata",
+        "sn8200",
+        "wifi"
+    ],
+    "name": "SmartLab_MuRata",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yangcq88517/code/SmartLab_MuRata/"
+    }
+}

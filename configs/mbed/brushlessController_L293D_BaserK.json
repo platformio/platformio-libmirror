@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Baser Kandehir",
+        "url": "https://os.mbed.com/users/BaserK/"
+    },
+    "description": "brushless motor control library with l293d",
+    "examples": [
+        "https://os.mbed.com/users/BaserK/code/brushless_L293D/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "brushless",
+        "L293D",
+        "LPC1768",
+        "mbed",
+        "motor"
+    ],
+    "name": "brushlessController_L293D",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BaserK/code/brushlessController_L293D/"
+    }
+}

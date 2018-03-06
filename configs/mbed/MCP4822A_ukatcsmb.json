@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Steven Beard",
+        "url": "https://os.mbed.com/users/ukatcsmb/"
+    },
+    "description": "Write to a daisy chained array of MCP4822 DAC chips, with latching.",
+    "examples": [
+        "https://os.mbed.com/users/ukatcsmb/code/MCP4822_demo/",
+        "https://os.mbed.com/users/bjeffway/code/MCP4822_SinewaveV2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "dac",
+        "MCP4822"
+    ],
+    "name": "MCP4822A",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ukatcsmb/code/MCP4822A/"
+    }
+}

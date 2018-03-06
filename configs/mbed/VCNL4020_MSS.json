@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "MSS",
+        "url": "https://os.mbed.com/teams/MSS/"
+    },
+    "description": "VCNL4020, Fully Integrated Proximity and Ambient Light Sensor with Infrared Emitter, I2C Interface, and Interrupt Function",
+    "examples": [
+        "https://os.mbed.com/teams/MSS/code/testVCNL4020/",
+        "https://os.mbed.com/teams/MSS/code/testSensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FRDM-KL25Z",
+        "I2C",
+        "MSS",
+        "MSU",
+        "VCNL4020",
+        "Vishay"
+    ],
+    "name": "VCNL4020",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MSS/code/VCNL4020/"
+    }
+}

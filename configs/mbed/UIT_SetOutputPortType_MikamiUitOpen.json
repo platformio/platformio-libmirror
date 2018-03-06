@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "出力ポートを，オープンドレインまたはプッシュプルに設定するグローバル関数. Global functions for setting the output port bit open-drain or push-pull.",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/Demo_SetOutputPortType/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Nucleo",
+        "open-drain",
+        "push-pull",
+        "UIT"
+    ],
+    "name": "UIT_SetOutputPortType",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/UIT_SetOutputPortType/"
+    }
+}

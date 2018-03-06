@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Shuto Naruse",
+        "url": "https://os.mbed.com/users/narshu/"
+    },
+    "description": "RTOS lib used for Eurobot 2012",
+    "examples": [
+        "https://os.mbed.com/users/narshu/code/Eurobot2012_Secondary/",
+        "https://os.mbed.com/users/Ali_taher/code/Team_Sprint2/",
+        "https://os.mbed.com/teams/WIT_EmbOS_Gr1/code/Team_Sprint2/",
+        "https://os.mbed.com/users/shekha_atrash/code/Rafi_Final/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "rtos",
+    "name": "rtos",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/narshu/code/rtos/"
+    }
+}

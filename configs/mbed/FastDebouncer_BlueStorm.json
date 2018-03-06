@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Cale McCollough",
+        "url": "https://os.mbed.com/users/BlueStorm/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "A highly optimized software switch debounce algorithm for general purpose input ports and shift registers such as 74HC165.",
+    "frameworks": "mbed",
+    "keywords": "debouncing",
+    "name": "FastDebouncer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BlueStorm/code/FastDebouncer/"
+    }
+}

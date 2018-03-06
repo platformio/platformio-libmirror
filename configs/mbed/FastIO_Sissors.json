@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "Replacement for regular GPIO (DigitalIn, DigitalOut, DigitalInOut) classes which has superior speed.",
+    "examples": [
+        "https://os.mbed.com/users/Josvth/code/Eavesdropper/",
+        "https://os.mbed.com/users/pscholtens/code/BitstreamGenerator/",
+        "https://os.mbed.com/users/pscholtens/code/SimpleDecimationFilter/",
+        "https://os.mbed.com/users/nameless129/code/11U68_MP3Player-with-TFTLCD/",
+        "https://os.mbed.com/users/Hapi_Tech/code/11U68_MP3Player-with-TFTLCD/",
+        "https://os.mbed.com/teams/SonicMEMSCornell/code/mbed_S9132_stream04/",
+        "https://os.mbed.com/users/casiotone401/code/OSCtoCVConverter/",
+        "https://os.mbed.com/users/daw9000/code/OregonBit/",
+        "https://os.mbed.com/users/agrosmart/code/testgeneral/",
+        "https://os.mbed.com/teams/Polytech_TP_EES_M3PI/code/app-board-ccd_copy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GPIO",
+        "Speed"
+    ],
+    "name": "FastIO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/FastIO/"
+    }
+}

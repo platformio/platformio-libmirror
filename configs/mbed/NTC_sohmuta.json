@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Pochi Soh",
+        "url": "https://os.mbed.com/users/sohmuta/"
+    },
+    "description": "Calculate the temperature of NTC thermistor",
+    "frameworks": "mbed",
+    "keywords": "NTC",
+    "name": "NTC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sohmuta/code/NTC/"
+    }
+}

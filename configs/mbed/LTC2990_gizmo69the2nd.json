@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Davy Van Belle",
+        "url": "https://os.mbed.com/users/gizmo69the2nd/"
+    },
+    "description": "Library to interface Lineair LTC2990 battery monitor.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Battery Monitor",
+        "LTC2990"
+    ],
+    "name": "LTC2990",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gizmo69the2nd/code/LTC2990/"
+    }
+}

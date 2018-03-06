@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Chengwei Zhang",
+        "url": "https://os.mbed.com/users/zcw607/"
+    },
+    "description": "Ported Arduino RF24Network library.",
+    "frameworks": "mbed",
+    "keywords": "RF24Network",
+    "name": "RF24Network",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/zcw607/code/RF24Network/"
+    }
+}

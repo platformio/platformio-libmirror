@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Daiki Kato",
+        "url": "https://os.mbed.com/users/dkato/"
+    },
+    "description": "Touch panel library for GR-PEACH LCD Shield.",
+    "examples": [
+        "https://os.mbed.com/users/dkato/code/GR-PEACH_LCD_shield_touch_sample/",
+        "https://os.mbed.com/users/dkato/code/LCD_shield_config/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GR-PEACH",
+        "LCD",
+        "touch"
+    ],
+    "name": "TouchKey_LCD_shield",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dkato/code/TouchKey_LCD_shield/"
+    }
+}

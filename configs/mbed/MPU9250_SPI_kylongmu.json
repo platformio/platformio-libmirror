@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Mu kylong",
+        "url": "https://os.mbed.com/users/kylongmu/"
+    },
+    "description": "Driver for MPU9250 with SPI .",
+    "examples": [
+        "https://os.mbed.com/users/kylongmu/code/MPU9250_SPI_Test/",
+        "https://os.mbed.com/users/tomoya123/code/MPU9250_SPI_Test/",
+        "https://os.mbed.com/users/tomoya123/code/ANCHOR_Navigation3/",
+        "https://os.mbed.com/users/tomoya123/code/MPU9250_edit/",
+        "https://os.mbed.com/users/mfurukawa/code/MPU-9250-Ch2/",
+        "https://os.mbed.com/users/billwu1149/code/self_balance/",
+        "https://os.mbed.com/users/Amber77/code/testSSWMR_StationKeeping_200170830_OK/",
+        "https://os.mbed.com/users/Amber77/code/testSSWMR_StationKeeping_OK/",
+        "https://os.mbed.com/users/Amber77/code/testSSWMR_TrajectoryTracking_OK/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MPU9250_SPI",
+    "name": "MPU9250_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kylongmu/code/MPU9250_SPI/"
+    }
+}

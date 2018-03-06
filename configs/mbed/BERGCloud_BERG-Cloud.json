@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "BERG Cloud",
+        "url": "https://os.mbed.com/teams/BERG-Cloud/"
+    },
+    "description": "The BERG Cloud connection library for mbed. This works in conjunction with the BERG Cloud Devshield available via http://bergcloud.com/platform/devkit/",
+    "examples": [
+        "https://os.mbed.com/teams/BERG-Cloud/code/LittleCounter-Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BERGCloud",
+    "name": "BERGCloud",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/BERG-Cloud/code/BERGCloud/"
+    }
+}

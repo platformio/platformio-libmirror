@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Piyamate Wisanuvej",
+        "url": "https://os.mbed.com/users/piyamate/"
+    },
+    "description": "Serial library for K64F MCU to use RTS pin to control the RS-485 line driver, supports 9-bit mode",
+    "frameworks": "mbed",
+    "keywords": [
+        "9bit",
+        "RS-485",
+        "Serial"
+    ],
+    "name": "Serial485",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/piyamate/code/Serial485/"
+    }
+}

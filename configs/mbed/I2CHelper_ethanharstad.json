@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Ethan Harstad",
+        "url": "https://os.mbed.com/users/ethanharstad/"
+    },
+    "description": "A helper class for I2C",
+    "examples": [
+        "https://os.mbed.com/users/ethanharstad/code/MPU9150/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "I2C",
+    "name": "I2CHelper",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ethanharstad/code/I2CHelper/"
+    }
+}

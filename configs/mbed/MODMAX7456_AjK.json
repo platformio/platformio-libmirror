@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Andy Kirkham",
+        "url": "https://os.mbed.com/users/AjK/"
+    },
+    "description": "This module provides a simple API to the Maxim MAX7456 on-screen display chip",
+    "frameworks": "mbed",
+    "keywords": [
+        "MAX7456",
+        "osd"
+    ],
+    "name": "MODMAX7456",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AjK/code/MODMAX7456/"
+    }
+}

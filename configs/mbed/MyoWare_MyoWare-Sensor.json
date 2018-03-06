@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "MyoWare Sensor",
+        "url": "https://os.mbed.com/teams/MyoWare-Sensor/"
+    },
+    "description": "A simple API library for the MyoWare muscle sensor. Performs logic and analog in functions.",
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed myoware",
+        "muscle sensor",
+        "myoware"
+    ],
+    "name": "MyoWare",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MyoWare-Sensor/code/MyoWare/"
+    }
+}

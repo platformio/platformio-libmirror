@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Mike Wynn",
+        "url": "https://os.mbed.com/users/xenonym/"
+    },
+    "description": "Simple logging library that outputs over the PC serial link to add logging to a file simply `include \"xenonym_logging.h\" ` then you can add logging with which looks slighly like ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "debug",
+        "debugger",
+        "debugging",
+        "logging",
+        "Serial"
+    ],
+    "name": "xenonym_logging",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/xenonym/code/xenonym_logging/"
+    }
+}

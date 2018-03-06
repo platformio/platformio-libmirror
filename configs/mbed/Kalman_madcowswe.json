@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Oskar Weigl",
+        "url": "https://os.mbed.com/users/madcowswe/"
+    },
+    "description": "Kalman filter for Eurobot",
+    "frameworks": "mbed",
+    "keywords": [
+        "ICRS",
+        "kalman"
+    ],
+    "name": "Kalman",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/madcowswe/code/Kalman/"
+    }
+}

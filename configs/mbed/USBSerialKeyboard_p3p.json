@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Chris Pepper",
+        "url": "https://os.mbed.com/users/p3p/"
+    },
+    "description": "A Composite device with USBSerial and USBKeyboard",
+    "examples": [
+        "https://os.mbed.com/users/p3p/code/USBSerialKeyboard_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Composite",
+        "USB",
+        "USBKeyboard",
+        "usbserial"
+    ],
+    "name": "USBSerialKeyboard",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/p3p/code/USBSerialKeyboard/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "M. Kleider",
+        "url": "https://os.mbed.com/users/mk/"
+    },
+    "description": "mbed MPL115A1 (Barometric Pressure Sensor) Library",
+    "examples": [
+        "https://os.mbed.com/teams/BTSSN-Projet-Drone-Imagerie-et-Telemetri/code/MPL115A1_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "barometer",
+        "MPL115A1",
+        "SPI"
+    ],
+    "name": "MPL115A1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mk/code/MPL115A1/"
+    }
+}

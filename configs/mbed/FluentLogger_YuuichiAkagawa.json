@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Yuuichi Akagawa",
+        "url": "https://os.mbed.com/users/YuuichiAkagawa/"
+    },
+    "description": "FluentLogger: fluent-logger-mbed A structured logger for Fluentd (mbed)",
+    "examples": [
+        "https://os.mbed.com/users/YuuichiAkagawa/code/FluentLogger_Hello/",
+        "https://os.mbed.com/users/YuuichiAkagawa/code/SNIC-FluentLogger-example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FluentLogger",
+    "name": "FluentLogger",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/YuuichiAkagawa/code/FluentLogger/"
+    }
+}

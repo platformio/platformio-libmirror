@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Uwe Gartmann",
+        "url": "https://os.mbed.com/users/Digixx/"
+    },
+    "description": "Library decoding Futaba SBUS data and control SBUS Servos. Hint! The TTL signal from the Futaba SBUS receiver / the TTL signal to the SBUS servos must be inverted. Use ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "Futaba",
+        "MODSERIAL",
+        "SBUS",
+        "Serial"
+    ],
+    "name": "FutabaSBUS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Digixx/code/FutabaSBUS/"
+    }
+}

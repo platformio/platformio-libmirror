@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Matteo Terruzzi",
+        "url": "https://os.mbed.com/users/MatteoT/"
+    },
+    "description": "ESC class used to controll standard Electronic Speed Controllers for brushless motors of RC models",
+    "examples": [
+        "https://os.mbed.com/users/MatteoT/code/MTQuadControl/",
+        "https://os.mbed.com/teams/KRAI-2016/code/Base_Hybrid_V2/",
+        "https://os.mbed.com/teams/KRAI-2016/code/base_rekam_darurat_v1/",
+        "https://os.mbed.com/teams/KRAI-2016/code/Base_Hybrid_Latihan_Ok_Hajar_servo_pwm/",
+        "https://os.mbed.com/teams/KRAI-2016/code/Base_Hybrid_Latihan_Ok_Hajar_servo_senso/",
+        "https://os.mbed.com/teams/KRAI-2016/code/Ultimate_Hybrid/",
+        "https://os.mbed.com/teams/KRAI-2016/code/TunningLF2/",
+        "https://os.mbed.com/teams/KRAI-2016/code/Ultimate_Hybrid_LF/",
+        "https://os.mbed.com/teams/KRAI-2017/code/ESC_test/",
+        "https://os.mbed.com/teams/KRAI-2017/code/Base_Hybrid_Latihan_Ok_Hajar_servo_senso/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "esc",
+        "pwm",
+        "RC"
+    ],
+    "name": "ESC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MatteoT/code/ESC/"
+    }
+}

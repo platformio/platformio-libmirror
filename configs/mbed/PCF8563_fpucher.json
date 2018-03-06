@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Franz Pucher",
+        "url": "https://os.mbed.com/users/fpucher/"
+    },
+    "description": "Version 0.3",
+    "frameworks": "mbed",
+    "keywords": "PCF8563",
+    "name": "PCF8563",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fpucher/code/PCF8563/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Aswin Sivakumar",
+        "url": "https://os.mbed.com/users/AswinSivakumar/"
+    },
+    "description": "MPL3115A2 Pressure sensor library",
+    "examples": [
+        "https://os.mbed.com/teams/NXP/code/FRDM-FXS-MULTI2-B_SensorShield_HelloWorl/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MPL3115A2",
+    "name": "MPL3115A2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AswinSivakumar/code/MPL3115A2/"
+    }
+}

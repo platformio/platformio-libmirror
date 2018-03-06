@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Paulo Ferreira",
+        "url": "https://os.mbed.com/users/Paradigma/"
+    },
+    "description": "Analog High Performance 2-axis Inclinometer",
+    "frameworks": "mbed",
+    "keywords": "SCA100T",
+    "name": "SCA100T",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Paradigma/code/SCA100T/"
+    }
+}

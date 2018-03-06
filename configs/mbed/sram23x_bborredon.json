@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "bernard borredon",
+        "url": "https://os.mbed.com/users/bborredon/"
+    },
+    "description": "SPI SRAM 23X library",
+    "frameworks": "mbed",
+    "keywords": "sram23x",
+    "name": "sram23x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bborredon/code/sram23x/"
+    }
+}

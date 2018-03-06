@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Katsushi Ogawa",
+        "url": "https://os.mbed.com/users/KatsushiOgawa/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed unsupported",
+            "frameworks": "mbed",
+            "name": "FatFileSystem"
+        }
+    ],
+    "description": "SDFileSystem",
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/KatsushiOgawa/code/SDFileSystem/"
+    }
+}

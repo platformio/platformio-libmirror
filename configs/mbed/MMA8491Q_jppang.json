@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "JP PANG",
+        "url": "https://os.mbed.com/users/jppang/"
+    },
+    "description": "modified from MMA8451Q",
+    "examples": [
+        "https://os.mbed.com/users/jppang/code/XtrinsicSensorEVK/",
+        "https://os.mbed.com/users/pedro_C/code/SDFileSystem_HelloWorld5_copy/",
+        "https://os.mbed.com/users/seanburford/code/xtrinsic_sensors/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MMA8491Q",
+    "name": "MMA8491Q",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jppang/code/MMA8491Q/"
+    }
+}

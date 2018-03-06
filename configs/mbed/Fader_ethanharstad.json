@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Ethan Harstad",
+        "url": "https://os.mbed.com/users/ethanharstad/"
+    },
+    "description": "Control LED brightness with analog in",
+    "examples": [
+        "https://os.mbed.com/users/co838_jrh52/code/jrh52_a3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Fader",
+    "name": "Fader",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ethanharstad/code/Fader/"
+    }
+}

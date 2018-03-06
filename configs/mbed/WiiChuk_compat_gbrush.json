@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Greg Brush",
+        "url": "https://os.mbed.com/users/gbrush/"
+    },
+    "description": "Revision of \\\"WiiChuck\\\" to use \\\"new\\\" initialization process that is compatible with 3rd party nunchuk controllers",
+    "examples": [
+        "https://os.mbed.com/users/gbrush/code/wiiNunchuk_compat/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "numchuck",
+        "nunchuck",
+        "Nunchuk",
+        "Wii"
+    ],
+    "name": "WiiChuk_compat",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gbrush/code/WiiChuk_compat/"
+    }
+}

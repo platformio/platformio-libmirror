@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "MtM+",
+        "url": "https://os.mbed.com/teams/MtM/"
+    },
+    "description": "BMP280 temperature & pressure",
+    "examples": [
+        "https://os.mbed.com/teams/MtM/code/MtConnect04S_MtSense01/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BMP280",
+    "name": "BMP280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MtM/code/BMP280/"
+    }
+}

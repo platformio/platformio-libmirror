@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Azure IoT",
+        "url": "https://os.mbed.com/users/AzureIoTClient/"
+    },
+    "description": "Microsoft Azure IoTHub client libraries",
+    "examples": [
+        "https://os.mbed.com/users/ppatierno/code/sht15_remote_monitoring/",
+        "https://os.mbed.com/teams/robot-arm-demo-team/code/RobotArmDemo/",
+        "https://os.mbed.com/users/markrad/code/iothub_client_sample_amqp/",
+        "https://os.mbed.com/users/lrh/code/f767zi_mqtt/",
+        "https://os.mbed.com/users/AzureIoTClient/code/iothub_client_sample_amqp/",
+        "https://os.mbed.com/users/AzureIoTClient/code/iothub_client_sample_http/",
+        "https://os.mbed.com/users/AzureIoTClient/code/iothub_client_sample_mqtt/",
+        "https://os.mbed.com/users/AzureIoTClient/code/remote_monitoring/",
+        "https://os.mbed.com/users/AzureIoTClient/code/simplesample_amqp/",
+        "https://os.mbed.com/users/AzureIoTClient/code/simplesample_http/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "iothub_client",
+    "name": "iothub_client",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AzureIoTClient/code/iothub_client/"
+    }
+}

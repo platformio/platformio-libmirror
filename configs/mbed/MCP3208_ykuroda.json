@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Yoji KURODA",
+        "url": "https://os.mbed.com/users/ykuroda/"
+    },
+    "description": "12bit 8ch ADC with SPI interface",
+    "frameworks": "mbed",
+    "keywords": "MCP3208",
+    "name": "MCP3208",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ykuroda/code/MCP3208/"
+    }
+}

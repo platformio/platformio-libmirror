@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Henry Leinen",
+        "url": "https://os.mbed.com/users/leihen/"
+    },
+    "description": "Working Version of the Real Time Clock module DS1307.",
+    "examples": [
+        "https://os.mbed.com/users/leihen/code/Rtc_Ds1307_Sample/",
+        "https://os.mbed.com/users/lopjohn_26/code/TAREA_5_PROCESADORES/",
+        "https://os.mbed.com/teams/Walter-y-Gregorio/code/Rtc_Ds1307_lcd_alarma/",
+        "https://os.mbed.com/teams/Walter-y-Gregorio/code/Rtc_Ds1307_Reloj_con_alarma_aplazable/",
+        "https://os.mbed.com/users/Jesse/code/Tarea5_AlarmaDS1307/",
+        "https://os.mbed.com/users/Jepalacioh/code/Tarea5_Reloj_alarma/",
+        "https://os.mbed.com/users/batrado/code/KL25Z_LCD1602_DS1307/",
+        "https://os.mbed.com/users/jyrodriguezg/code/RTC/",
+        "https://os.mbed.com/users/PabloViana/code/Tarea_Despertador/",
+        "https://os.mbed.com/users/demo71/code/TAREA_I2C/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "clock",
+        "ds1307",
+        "real",
+        "RTC",
+        "time"
+    ],
+    "name": "RTC-DS1307",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/leihen/code/RTC-DS1307/"
+    }
+}

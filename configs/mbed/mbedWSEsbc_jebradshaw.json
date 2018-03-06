@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Joseph Bradshaw",
+        "url": "https://os.mbed.com/users/jebradshaw/"
+    },
+    "description": "C Library for mbedWSE project based single board computer for hardware peripherals",
+    "examples": [
+        "https://os.mbed.com/teams/USNA-ES305/code/Lab7_wse/",
+        "https://os.mbed.com/users/riobrien/code/Lab7_wse_student/",
+        "https://os.mbed.com/users/jebradshaw/code/mbed_WSEPRJSBC_EncoderTest/",
+        "https://os.mbed.com/users/jebradshaw/code/mbed_WSEPRJSBC_ADC_test/",
+        "https://os.mbed.com/users/gordeezy/code/306Project/",
+        "https://os.mbed.com/users/m170984/code/ES305_Lab2/",
+        "https://os.mbed.com/users/caleblegis/code/Torquelab/",
+        "https://os.mbed.com/teams/USNA-ES305/code/active_suspension_demo/",
+        "https://os.mbed.com/users/DCamuti/code/ES305_Lab5/",
+        "https://os.mbed.com/teams/ES309-Project-Team/code/ES309_NerfTurretfinal/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "SBC",
+        "WSE"
+    ],
+    "name": "mbedWSEsbc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jebradshaw/code/mbedWSEsbc/"
+    }
+}

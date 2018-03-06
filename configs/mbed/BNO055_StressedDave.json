@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Dave Turner",
+        "url": "https://os.mbed.com/users/StressedDave/"
+    },
+    "description": "I2C library for Bosch BNO055 sensor",
+    "examples": [
+        "https://os.mbed.com/users/StressedDave/code/BNO055_HelloWorld/",
+        "https://os.mbed.com/teams/jetfishteam/code/robfish_test_IMU_and_hallsensor/",
+        "https://os.mbed.com/teams/SCRIBE/code/SCRIBE_stepper/",
+        "https://os.mbed.com/teams/SCRIBE/code/SCRIBE_servo/",
+        "https://os.mbed.com/users/5hel2l2y/code/BNO055_Demo/",
+        "https://os.mbed.com/users/bwang/code/SerialBlockReceiver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BNO055",
+    "name": "BNO055",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/StressedDave/code/BNO055/"
+    }
+}

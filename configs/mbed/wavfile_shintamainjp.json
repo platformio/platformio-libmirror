@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "The tiny wav I/O module is the most simple wav file I/O module you've ever seen.",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/SimpleWaveRecorderPlayer/",
+        "https://os.mbed.com/users/cstevens/code/USBMSD_SD_HelloWorld_FRDM-KL25Z/",
+        "https://os.mbed.com/users/avnisha/code/Application-SimpleWaveRecorderPlayerGene/",
+        "https://os.mbed.com/users/dudanian/code/MbedClock/",
+        "https://os.mbed.com/users/kennyainny/code/Spy_Robot_Complete/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "audio",
+        "bwf",
+        "file",
+        "wav",
+        "wave"
+    ],
+    "name": "wavfile",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/wavfile/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Vishal Kotcherlakota",
+        "url": "https://os.mbed.com/users/dishbreak/"
+    },
+    "description": "Library to simplify using capture pins on hardware.",
+    "examples": [
+        "https://os.mbed.com/users/dishbreak/code/bluesync/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "capture",
+        "timer",
+        "timer2"
+    ],
+    "name": "TimerCapture",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dishbreak/code/TimerCapture/"
+    }
+}

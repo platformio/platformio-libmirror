@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Jason Garner",
+        "url": "https://os.mbed.com/users/elevatorguy/"
+    },
+    "description": "my implementation of mbed-like classes using the LPC1768 register access.",
+    "examples": [
+        "https://os.mbed.com/users/elevatorguy/code/registers-example/",
+        "https://os.mbed.com/users/nyatla/code/RedWireBridge/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "registers",
+    "name": "registers",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/elevatorguy/code/registers/"
+    }
+}

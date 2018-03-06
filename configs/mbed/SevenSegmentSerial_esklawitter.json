@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Eric Klawitter",
+        "url": "https://os.mbed.com/users/esklawitter/"
+    },
+    "description": "Library for using the SparkFun Seven Segment Serial display using I2C, UART, or SPI.",
+    "examples": [
+        "https://os.mbed.com/users/esklawitter/code/Seven_Segment_Serial_I2C_Demo/",
+        "https://os.mbed.com/users/esklawitter/code/Seven_Segment_Serial_SPI_Demo/",
+        "https://os.mbed.com/users/esklawitter/code/Seven_Segment_Serial_UART_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SevenSegmentSerial",
+    "name": "SevenSegmentSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/esklawitter/code/SevenSegmentSerial/"
+    }
+}

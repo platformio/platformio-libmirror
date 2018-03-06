@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Spiridion Mbed",
+        "url": "https://os.mbed.com/users/spiridion/"
+    },
+    "description": "HIH6130 Humidity/Temperature Sensor library",
+    "examples": [
+        "https://os.mbed.com/users/andyhunti/code/BLE_HIH6130_tinkering/",
+        "https://os.mbed.com/users/Lockdog/code/mbed_rifletool/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Humidity",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "HIH6130",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/spiridion/code/HIH6130/"
+    }
+}

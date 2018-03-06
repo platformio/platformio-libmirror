@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Samuel Mokrani",
+        "url": "https://os.mbed.com/users/samux/"
+    },
+    "description": "wifly/socket interface for wifly modules",
+    "examples": [
+        "https://os.mbed.com/teams/AVR-Competition/code/WiFi/",
+        "https://os.mbed.com/users/gbm/code/neurGAI_WIFI/",
+        "https://os.mbed.com/users/maman95/code/thingspeak/",
+        "https://os.mbed.com/users/maman95/code/thingspeak2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "socket",
+        "TCP",
+        "UDP",
+        "WiFly"
+    ],
+    "name": "WiflyInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/samux/code/WiflyInterface/"
+    }
+}

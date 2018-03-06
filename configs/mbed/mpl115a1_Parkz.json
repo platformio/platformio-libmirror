@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Parkavi Prabhaharan",
+        "url": "https://os.mbed.com/users/Parkz/"
+    },
+    "description": "Calculates atmospheric pressure. Calibrated for 0 at room atmosphere.",
+    "examples": [
+        "https://os.mbed.com/users/Parkz/code/pressurebyme/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MPL115A1",
+        "pressure",
+        "sensor",
+        "sparkfun"
+    ],
+    "name": "mpl115a1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Parkz/code/mpl115a1/"
+    }
+}

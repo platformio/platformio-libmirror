@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Azure IoT",
+        "url": "https://os.mbed.com/users/AzureIoTClient/"
+    },
+    "description": "Azure IoT common library",
+    "examples": [
+        "https://os.mbed.com/users/DieterGraef/code/STM32F746_iothub_client_sample_mqtt/",
+        "https://os.mbed.com/users/lrh/code/f767zi_mqtt/",
+        "https://os.mbed.com/users/AzureIoTClient/code/iothub_client_sample_amqp/",
+        "https://os.mbed.com/users/AzureIoTClient/code/iothub_client_sample_http/",
+        "https://os.mbed.com/users/AzureIoTClient/code/iothub_client_sample_mqtt/",
+        "https://os.mbed.com/users/AzureIoTClient/code/remote_monitoring/",
+        "https://os.mbed.com/users/AzureIoTClient/code/simplesample_amqp/",
+        "https://os.mbed.com/users/AzureIoTClient/code/simplesample_http/",
+        "https://os.mbed.com/users/AzureIoTClient/code/simplesample_mqtt/",
+        "https://os.mbed.com/users/AzureIoTClient/code/temp_sensor_anomaly/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "azure_c_shared_utility",
+    "name": "azure_c_shared_utility",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AzureIoTClient/code/azure_c_shared_utility/"
+    }
+}

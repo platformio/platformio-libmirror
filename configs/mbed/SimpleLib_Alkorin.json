@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Thomas SOETE",
+        "url": "https://os.mbed.com/users/Alkorin/"
+    },
+    "description": "Simple mbed library with macros",
+    "examples": [
+        "https://os.mbed.com/users/mchai/code/SimpleTimer/",
+        "https://os.mbed.com/users/Alkorin/code/SimpleUART/",
+        "https://os.mbed.com/users/Alkorin/code/SimpleTimer/",
+        "https://os.mbed.com/users/wango/code/Stoppuhr1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SimpleLib",
+    "name": "SimpleLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Alkorin/code/SimpleLib/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Fevzi YAZGAN",
+        "url": "https://os.mbed.com/users/fyazgan/"
+    },
+    "description": "MODIFIED BY FEVZI YAZGAN BOUDRATE AND IMAGESIZE FUNCTION ADDED ALSO IT SENDS THE IMAGE AT ONE TIME TO THE MBED. SO IT IS FASTER TO SEND IMAGE AT A ONE ...",
+    "examples": [
+        "https://os.mbed.com/users/fyazgan/code/10_Camera_LS_Y201_TestProgram/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Camera_LS_Y201",
+    "name": "Camera_LS_Y201",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fyazgan/code/Camera_LS_Y201/"
+    }
+}

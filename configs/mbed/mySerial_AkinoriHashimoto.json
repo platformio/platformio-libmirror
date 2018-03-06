@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Akinori Hashimoto",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/"
+    },
+    "dependencies": [
+        {
+            "authors": "Akinori Hashimoto",
+            "frameworks": "mbed",
+            "name": "RingBuffer"
+        }
+    ],
+    "description": "Serial Communicate Control Class. This has printf() and Tx & Rx buffer with (RxIRQ) RingBuffer, andmore can add user rxFunc to RxIrq.",
+    "frameworks": "mbed",
+    "keywords": [
+        "printf",
+        "ringbuffer",
+        "Serial"
+    ],
+    "name": "mySerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/mySerial/"
+    }
+}

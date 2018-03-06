@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Sebastián Pastor",
+        "url": "https://os.mbed.com/users/spastor/"
+    },
+    "description": "Library to interface H3LIS331DL accelerometer.",
+    "examples": [
+        "https://os.mbed.com/users/spastor/code/H3LIS331DL_Demo/",
+        "https://os.mbed.com/users/spastor/code/H3LIS331DL_AdjVal/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "Grove",
+        "Seeedstudio"
+    ],
+    "name": "H3LIS331DL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/spastor/code/H3LIS331DL/"
+    }
+}

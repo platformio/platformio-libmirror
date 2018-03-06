@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Marc Plouhinec",
+        "url": "https://os.mbed.com/users/marcpl/"
+    },
+    "description": "Library for the Adafruit FONA. This is a port of the original Arduino library available at: https://github.com/adafruit/Adafruit_FONA_Library .",
+    "examples": [
+        "https://os.mbed.com/users/marcpl/code/Adafruit_FONA_Library_FONAtest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "fona",
+        "GPRS",
+        "GSM",
+        "sim800l",
+        "sim808"
+    ],
+    "name": "Adafruit_FONA_Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/marcpl/code/Adafruit_FONA_Library/"
+    }
+}

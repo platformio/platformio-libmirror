@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Andy A",
+        "url": "https://os.mbed.com/users/AndyA/"
+    },
+    "description": "Enables lower power Sleep and power down modes for LPC11U24 systems than the mbed API supports directly.",
+    "examples": [
+        "https://os.mbed.com/users/AndyA/code/mBuDice/",
+        "https://os.mbed.com/users/AndyA/code/SleepyCounting/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "low power",
+        "LPC11U24",
+        "lpc11uxx",
+        "mBuino",
+        "Sleep"
+    ],
+    "name": "mBuino_Sleep",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AndyA/code/mBuino_Sleep/"
+    }
+}

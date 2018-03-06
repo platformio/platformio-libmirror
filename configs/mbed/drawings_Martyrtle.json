@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Marty Laverick",
+        "url": "https://os.mbed.com/users/Martyrtle/"
+    },
+    "dependencies": [
+        {
+            "authors": "Marty Laverick",
+            "frameworks": "mbed",
+            "name": "N5110_fordrawings"
+        }
+    ],
+    "description": "An easy way to make bitmaps to be drawn on a Nokia N5110 lcd display",
+    "examples": [
+        "https://os.mbed.com/users/Martyrtle/code/DCGame/",
+        "https://os.mbed.com/teams/ELEC2645-201516/code/el14m2l_Dungeon_Crawler_Game/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "drawings",
+    "name": "drawings",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Martyrtle/code/drawings/"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Eli Hughes",
+        "url": "https://os.mbed.com/users/emh203/"
+    },
+    "description": "V4.0.1 of the ARM CMSIS DSP libraries. Note that arm_bitreversal2.s, arm_cfft_f32.c and arm_rfft_fast_f32.c had to be removed. arm_bitreversal2.s will not assemble with the online tools. So, the fast f32 FFT ...",
+    "examples": [
+        "https://os.mbed.com/users/p3p/code/MPU9150_Example/",
+        "https://os.mbed.com/users/Sasha_2004/code/fir_f32/",
+        "https://os.mbed.com/users/Sergeev/code/fir_f32/",
+        "https://os.mbed.com/users/akashvibhute/code/MPU9150_nucleo_noni2cdev/",
+        "https://os.mbed.com/users/zchen78/code/FFT/",
+        "https://os.mbed.com/users/Hagrass/code/MPU9150_Example/",
+        "https://os.mbed.com/users/Hagrass/code/CANSAT_COMBINED/",
+        "https://os.mbed.com/teams/Senior-Design-Sound-Monitor/code/AudioTest1/",
+        "https://os.mbed.com/teams/Senior-Design-Sound-Monitor/code/BSP/",
+        "https://os.mbed.com/teams/Senior-Design-Sound-Monitor/code/OneHopeOnePrayer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "CMSIS_DSP_401",
+    "name": "CMSIS_DSP_401",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/emh203/code/CMSIS_DSP_401/"
+    }
+}

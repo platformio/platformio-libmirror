@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Roy van Marrewijk",
+        "url": "https://os.mbed.com/users/tvatroy/"
+    },
+    "description": "Model–view–controller (MVC) is a software architecture, currently considered an architectural pattern used in software engineering. The pattern isolates \\\"domain logic\\\" (the application logic for the user) from the user interface ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "controller",
+        "Design"
+    ],
+    "name": "ModelViewController",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tvatroy/code/ModelViewController/"
+    }
+}

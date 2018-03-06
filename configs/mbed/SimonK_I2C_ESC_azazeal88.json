@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Daniel Knox",
+        "url": "https://os.mbed.com/users/azazeal88/"
+    },
+    "description": "A simple I2C library for ESCs using the Blue Robotics version of SimonK's TGY firmware (https://github.com/bluerobotics/tgy). This library supports the BlueESC, but also the Afro Nfet 30A. I2C is an ...",
+    "examples": [
+        "https://os.mbed.com/users/azazeal88/code/SimonK_I2C_ESC_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BlueRobotics",
+        "esc",
+        "I2C",
+        "SimonK"
+    ],
+    "name": "SimonK_I2C_ESC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/azazeal88/code/SimonK_I2C_ESC/"
+    }
+}

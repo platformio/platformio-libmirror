@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Nick Ryder",
+        "url": "https://os.mbed.com/users/NickRyder/"
+    },
+    "description": "The IrcBot class can connect to a channel on an IRC network. Users on the same network can send messages to the bot that are parsed by message handlers. The ...",
+    "frameworks": "mbed",
+    "keywords": "IRC",
+    "name": "IrcBot",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/NickRyder/code/IrcBot/"
+    }
+}

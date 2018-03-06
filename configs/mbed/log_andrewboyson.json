@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Andrew Boyson",
+        "url": "https://os.mbed.com/users/andrewboyson/"
+    },
+    "description": "Log",
+    "examples": [
+        "https://os.mbed.com/users/andrewboyson/code/gps/",
+        "https://os.mbed.com/users/andrewboyson/code/ch/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "log",
+    "name": "log",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/andrewboyson/code/log/"
+    }
+}

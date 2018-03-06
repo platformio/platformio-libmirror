@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Franck Roudet",
+        "url": "https://os.mbed.com/users/francxk/"
+    },
+    "description": "CmdMessenger - library that provides command based messaging",
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "mbed",
+        "Serial"
+    ],
+    "name": "CmdMessenger",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/francxk/code/CmdMessenger/"
+    }
+}

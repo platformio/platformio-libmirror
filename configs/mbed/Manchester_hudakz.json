@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "Manchester code (phase encoding) library.",
+    "examples": [
+        "https://os.mbed.com/users/hudakz/code/Manchester_Transmitter/",
+        "https://os.mbed.com/users/hudakz/code/Manchester_Receiver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "manchester",
+    "name": "Manchester",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/Manchester/"
+    }
+}

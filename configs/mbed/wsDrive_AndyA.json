@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Andy A",
+        "url": "https://os.mbed.com/users/AndyA/"
+    },
+    "dependencies": [
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "BurstSPI"
+        }
+    ],
+    "description": "Yet another WS2812 driver, uses the BusrtSPI library. Less features than the PixelArray library but I felt like making my own version.",
+    "examples": [
+        "https://os.mbed.com/users/AndyA/code/WS2812Text/",
+        "https://os.mbed.com/users/AndyA/code/cylon/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "NeoPixel",
+        "WS2811",
+        "WS2812"
+    ],
+    "name": "wsDrive",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AndyA/code/wsDrive/"
+    }
+}

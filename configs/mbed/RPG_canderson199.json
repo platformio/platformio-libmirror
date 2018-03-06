@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Christopher Anderson",
+        "url": "https://os.mbed.com/users/canderson199/"
+    },
+    "description": "Simple RPG Library",
+    "examples": [
+        "https://os.mbed.com/users/rsartin3/code/Audio_Player/",
+        "https://os.mbed.com/users/rsartin3/code/Wav_player_RPG_menu/",
+        "https://os.mbed.com/users/pyeh9/code/lcd_menu/",
+        "https://os.mbed.com/users/YongChingTee/code/Lab3/",
+        "https://os.mbed.com/users/cwang365/code/lab3-News_Reader1/",
+        "https://os.mbed.com/users/Mach5/code/M5VelocityALLCODE/",
+        "https://os.mbed.com/users/jjcimon/code/NEWlcd_menu_v2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "RPG",
+    "name": "RPG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/canderson199/code/RPG/"
+    }
+}

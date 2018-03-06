@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Jean-Philippe Brucker",
+        "url": "https://os.mbed.com/users/jbru/"
+    },
+    "description": "HID-over-GATT implementation with the BLE API. This library allows to create devices such as mouse, keyboard or joystick, over Bluetooth Low Energy.",
+    "examples": [
+        "https://os.mbed.com/users/YuuichiAkagawa/code/BLENano_HID/",
+        "https://os.mbed.com/users/jbru/code/BLE_HID_MouseScrollDemo/",
+        "https://os.mbed.com/users/jbru/code/BLE_HID_KeyboardStreamDemo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "BLE_API",
+        "HID",
+        "HID-over-Gatt"
+    ],
+    "name": "BLE_HID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jbru/code/BLE_HID/"
+    }
+}

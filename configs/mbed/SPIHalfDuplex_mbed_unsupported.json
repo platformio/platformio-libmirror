@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "mbed unsupported",
+        "url": "https://os.mbed.com/users/mbed_unsupported/"
+    },
+    "description": "SPI Half-Duplex",
+    "frameworks": "mbed",
+    "keywords": "SPIHalfDuplex",
+    "name": "SPIHalfDuplex",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbed_unsupported/code/SPIHalfDuplex/"
+    }
+}

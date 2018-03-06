@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "sssrc acds",
+        "url": "https://os.mbed.com/users/sssrc_adcs_mbed1/"
+    },
+    "description": "10bit ADC Microchip MCP3002 Library",
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "MCP",
+        "MCP3002"
+    ],
+    "name": "MCP3002",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sssrc_adcs_mbed1/code/MCP3002/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Robert Abad",
+        "url": "https://os.mbed.com/users/rabad1/"
+    },
+    "description": "mbed device driver for Toshiba TB6612FNG motor driver",
+    "examples": [
+        "https://os.mbed.com/users/rabad1/code/ROBot/",
+        "https://os.mbed.com/users/ppr2013G2/code/TB6612FNG_Sample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TB6612FNG",
+    "name": "TB6612FNG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rabad1/code/TB6612FNG/"
+    }
+}

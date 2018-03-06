@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Thu Vu Trong",
+        "url": "https://os.mbed.com/users/thuvt/"
+    },
+    "description": "My first publish of MMA7361L accelerometer library",
+    "frameworks": "mbed",
+    "keywords": "accelerometer",
+    "name": "MMA7361L",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/thuvt/code/MMA7361L/"
+    }
+}

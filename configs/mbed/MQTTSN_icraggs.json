@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Ian Craggs",
+        "url": "https://os.mbed.com/users/icraggs/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "EthernetInterface"
+        },
+        {
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
+            "name": "FP"
+        },
+        {
+            "authors": "Ian Craggs",
+            "frameworks": "mbed",
+            "name": "MQTTSNPacket"
+        }
+    ],
+    "description": "High level MQTT-SN C++ library",
+    "examples": [
+        "https://os.mbed.com/users/icraggs/code/HelloMQTTSN/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MQTTSN",
+    "name": "MQTTSN",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/icraggs/code/MQTTSN/"
+    }
+}

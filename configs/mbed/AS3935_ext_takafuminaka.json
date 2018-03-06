@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Nakatafu ☆",
+        "url": "https://os.mbed.com/users/takafuminaka/"
+    },
+    "description": "Lightning sensor library It is inherited from https://developer.mbed.org/users/casper/code/AS3935/",
+    "examples": [
+        "https://os.mbed.com/users/takafuminaka/code/BLE_Lightning_sensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "AS3935",
+    "name": "AS3935_ext",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/takafuminaka/code/AS3935_ext/"
+    }
+}

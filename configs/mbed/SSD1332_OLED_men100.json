@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "men 100",
+        "url": "https://os.mbed.com/users/men100/"
+    },
+    "description": "SSD1332_OLED: an OLED control libraly.",
+    "examples": [
+        "https://os.mbed.com/users/men100/code/ssd1332_oled_hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "OLED",
+        "SPI",
+        "SSD1332"
+    ],
+    "name": "SSD1332_OLED",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/men100/code/SSD1332_OLED/"
+    }
+}

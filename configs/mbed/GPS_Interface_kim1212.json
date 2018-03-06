@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "yuki kimura",
+        "url": "https://os.mbed.com/users/kim1212/"
+    },
+    "description": "Mbed library to get location informatiuon from GYSFDMAXB",
+    "frameworks": "mbed",
+    "keywords": "GPS_Interface",
+    "name": "GPS_Interface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kim1212/code/GPS_Interface/"
+    }
+}

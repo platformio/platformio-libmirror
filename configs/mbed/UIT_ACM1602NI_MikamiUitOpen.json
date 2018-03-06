@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "Class library for LCD character display ACM1602NI using I2C on Nucleo. Nucleo 用 I2C 接続の LCD キャラクタ･ディスプレー ACM1602Ni 用のクラス･ライブラリ．",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VariableFIR_LPFHPF/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VariableFIR_LPF/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_InputSW_LCD/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/ADDA_Prototype_PollingSW/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/ADDA_Prototype2_Interrupt/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/ADDA_Prototype_Polling/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_LCD_Demo/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_MovingAv_Intr/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VariableFIR/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VowelSynthesizer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ACM1602NI",
+        "I2C",
+        "LCD",
+        "Nucleo"
+    ],
+    "name": "UIT_ACM1602NI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/UIT_ACM1602NI/"
+    }
+}

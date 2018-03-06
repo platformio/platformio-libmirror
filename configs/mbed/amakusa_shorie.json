@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "seiichi horie",
+        "url": "https://os.mbed.com/users/shorie/"
+    },
+    "description": "Basic Audio Signal Processing Library",
+    "examples": [
+        "https://os.mbed.com/users/shorie/code/unzen_sample_nucleo_f746/",
+        "https://os.mbed.com/users/shorie/code/skeleton_unzen_nucleo_f746/",
+        "https://os.mbed.com/users/shorie/code/ifmag_noise_canceller/",
+        "https://os.mbed.com/users/shorie/code/synthesizer_f746/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "amakusa",
+    "name": "amakusa",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shorie/code/amakusa/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Ruslee Sutthaweekul",
+        "url": "https://os.mbed.com/users/ruslylove/"
+    },
+    "description": "The library for waveshare ZBee Core2530 (B):",
+    "examples": [
+        "https://os.mbed.com/users/ruslylove/code/zbee_rx_analog/",
+        "https://os.mbed.com/users/ruslylove/code/zbee_tx_analog/",
+        "https://os.mbed.com/users/ruslylove/code/simple_zb_rx/",
+        "https://os.mbed.com/users/ruslylove/code/simple_zb_tx/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "core2530(B)",
+        "waveshare",
+        "xbee",
+        "zbee"
+    ],
+    "name": "zbee_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ruslylove/code/zbee_lib/"
+    }
+}

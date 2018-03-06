@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Erik van de Coevering",
+        "url": "https://os.mbed.com/users/Anaesthetix/"
+    },
+    "description": "A simple library for SSH1106 controlled GLCDs",
+    "examples": [
+        "https://os.mbed.com/users/Anaesthetix/code/SSH1106_OLED/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GLCD",
+        "OLED",
+        "SSH1106"
+    ],
+    "name": "SSH1106",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Anaesthetix/code/SSH1106/"
+    }
+}

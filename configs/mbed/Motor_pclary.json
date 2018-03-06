@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Patrick Clary",
+        "url": "https://os.mbed.com/users/pclary/"
+    },
+    "description": "Library for driving a motor with a DRV8833 motor driver or similar.",
+    "examples": [
+        "https://os.mbed.com/users/pclary/code/StarterBot/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Motor",
+    "name": "Motor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pclary/code/Motor/"
+    }
+}

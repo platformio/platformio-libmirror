@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Hiroshi Yamaguchi",
+        "url": "https://os.mbed.com/users/yamaguch/"
+    },
+    "description": "Music Player Library for YMZ294 Sound Generator LSI",
+    "examples": [
+        "https://os.mbed.com/users/yamaguch/code/Workshop_SSG/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "YMZ294",
+    "name": "Player",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yamaguch/code/Player/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Paul Cercueil",
+        "url": "https://os.mbed.com/users/pcercuei/"
+    },
+    "description": "libserialport is a minimal, cross-platform shared library written in C that is intended to take care of the OS-specific details when writing software that uses serial ports. Licensed under the ...",
+    "examples": [
+        "https://os.mbed.com/users/pcercuei/code/libiio/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "libserialport",
+    "name": "libserialport",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pcercuei/code/libserialport/"
+    }
+}

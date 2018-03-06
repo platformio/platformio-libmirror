@@ -1,0 +1,51 @@
+{
+    "authors": {
+        "name": "Ad van der Weiden",
+        "url": "https://os.mbed.com/users/networker/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed unsupported",
+            "frameworks": "mbed",
+            "name": "FatFileSystem"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Ad  van der Weiden",
+            "frameworks": "mbed",
+            "name": "myBlueUSB"
+        },
+        {
+            "authors": "Ad  van der Weiden",
+            "frameworks": "mbed",
+            "name": "neigbourhood"
+        },
+        {
+            "authors": "Ad  van der Weiden",
+            "frameworks": "mbed",
+            "name": "rfcomm"
+        },
+        {
+            "authors": "Ad  van der Weiden",
+            "frameworks": "mbed",
+            "name": "sdp"
+        }
+    ],
+    "description": "class library to access fischertechnik interfaces via USB",
+    "frameworks": "mbed",
+    "keywords": [
+        "fischertechnik",
+        "ftlib",
+        "ftmsclib"
+    ],
+    "name": "ftusbClass",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/networker/code/ftusbClass/"
+    }
+}

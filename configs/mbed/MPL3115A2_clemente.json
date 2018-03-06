@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "clemente di caprio",
+        "url": "https://os.mbed.com/users/clemente/"
+    },
+    "description": "Llibrary for the WiGo MPL3115A2, I2C Precision Altimeter sensor.",
+    "examples": [
+        "https://os.mbed.com/users/monpjc/code/KL25Z_Batt_Test/",
+        "https://os.mbed.com/users/clemente/code/WIGO_MPL3115A2/",
+        "https://os.mbed.com/users/JimCarver/code/Multi-Sensor/",
+        "https://os.mbed.com/users/iLyngklip/code/SPACEmk2/",
+        "https://os.mbed.com/teams/Hexiwear/code/Hexi_Pressure_Baro_Temp_Example/",
+        "https://os.mbed.com/users/eddienuel/code/HexiScale/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MPL3115A2",
+    "name": "MPL3115A2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/clemente/code/MPL3115A2/"
+    }
+}

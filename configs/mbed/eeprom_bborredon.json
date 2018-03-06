@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "bernard borredon",
+        "url": "https://os.mbed.com/users/bborredon/"
+    },
+    "description": "I2C EEPROM library from 24C01 to 24C1025",
+    "examples": [
+        "https://os.mbed.com/users/pai2015arminnogo/code/Digitalni_Sat_MG_AN/",
+        "https://os.mbed.com/users/sameera0824/code/EEROM_1768/",
+        "https://os.mbed.com/users/sameera0824/code/EEPROM_kamal/",
+        "https://os.mbed.com/users/sameera0824/code/EEPROM_MY/",
+        "https://os.mbed.com/users/jolyon/code/ColourSensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "eeprom",
+    "name": "eeprom",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bborredon/code/eeprom/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Tim B",
+        "url": "https://os.mbed.com/users/tim_b/"
+    },
+    "description": "For D",
+    "examples": [
+        "https://os.mbed.com/users/tim_b/code/PWM_2_way_level-r1/",
+        "https://os.mbed.com/users/donoman/code/StepLogger-Serial/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MMA8451Q_tb",
+    "name": "MMA8451Q_tb",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tim_b/code/MMA8451Q_tb/"
+    }
+}

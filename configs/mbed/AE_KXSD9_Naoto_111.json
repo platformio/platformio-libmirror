@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "尚人 永井",
+        "url": "https://os.mbed.com/users/Naoto_111/"
+    },
+    "description": "Library for AE-KXSD9(3 axis accelerometer Module KXSD9-2050)",
+    "examples": [
+        "https://os.mbed.com/users/Naoto_111/code/LPC1768_AE_KXSD9/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "AE_KXSD9",
+    "name": "AE_KXSD9",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Naoto_111/code/AE_KXSD9/"
+    }
+}

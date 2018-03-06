@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Akinori Hashimoto",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/"
+    },
+    "dependencies": [
+        {
+            "authors": "Akinori Hashimoto",
+            "frameworks": "mbed",
+            "name": "StrLib"
+        }
+    ],
+    "description": "Calculate checksum(hex) of string with ASCII(unsigned int). Use to detected communication error.",
+    "frameworks": "mbed",
+    "keywords": "checksum",
+    "name": "CheckSum",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/CheckSum/"
+    }
+}

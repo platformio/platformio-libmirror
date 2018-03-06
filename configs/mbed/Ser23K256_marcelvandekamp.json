@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "marcel van de Kamp",
+        "url": "https://os.mbed.com/users/marcelvandekamp/"
+    },
+    "description": "Ser23K256",
+    "examples": [
+        "https://os.mbed.com/users/marcelvandekamp/code/Internal_ADC_with_interrupt/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Ser23K256",
+    "name": "Ser23K256",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/marcelvandekamp/code/Ser23K256/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Koen Kempeneers",
+        "url": "https://os.mbed.com/users/KKempeneers/"
+    },
+    "description": "A basic library for the Freetronics arduino LCD shield.",
+    "examples": [
+        "https://os.mbed.com/users/KKempeneers/code/freetronicsLCDShield_HelloWorld/",
+        "https://os.mbed.com/users/hite222008/code/prototipo/",
+        "https://os.mbed.com/users/davroina/code/prototipo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "freetronicsLCDShield",
+    "name": "freetronicsLCDShield",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/KKempeneers/code/freetronicsLCDShield/"
+    }
+}

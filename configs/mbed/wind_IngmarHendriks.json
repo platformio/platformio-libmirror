@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Ingmar Hendriks",
+        "url": "https://os.mbed.com/users/IngmarHendriks/"
+    },
+    "description": "CV7 ultrasonic wind sensor",
+    "frameworks": "mbed",
+    "keywords": [
+        "CV7",
+        "sensor",
+        "wind"
+    ],
+    "name": "wind",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/IngmarHendriks/code/wind/"
+    }
+}

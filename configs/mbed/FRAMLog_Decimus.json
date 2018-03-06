@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Oleg Evsegneev",
+        "url": "https://os.mbed.com/users/Decimus/"
+    },
+    "description": "Log system based on external FRAM storage. Allow to collect float values in FRAM, and then store whole collection into file on flash.",
+    "frameworks": "mbed",
+    "keywords": [
+        "FRAM",
+        "log"
+    ],
+    "name": "FRAMLog",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Decimus/code/FRAMLog/"
+    }
+}

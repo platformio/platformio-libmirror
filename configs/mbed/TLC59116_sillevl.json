@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Sille Van Landschoot",
+        "url": "https://os.mbed.com/users/sillevl/"
+    },
+    "description": "I2C driver for TLC59116 led driver",
+    "examples": [
+        "https://os.mbed.com/users/sillevl/code/m3Dpi/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "I2C",
+        "led",
+        "TLC59116"
+    ],
+    "name": "TLC59116",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sillevl/code/TLC59116/"
+    }
+}

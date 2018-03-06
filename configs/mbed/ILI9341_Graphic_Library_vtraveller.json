@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Justin Howard",
+        "url": "https://os.mbed.com/users/vtraveller/"
+    },
+    "dependencies": [
+        {
+            "authors": "Justin Howard",
+            "frameworks": "mbed",
+            "name": "SDFileSystem"
+        },
+        {
+            "authors": "Peter Drescher",
+            "frameworks": "mbed",
+            "name": "SPI_TFT_ILI9341"
+        },
+        {
+            "authors": "Justin Howard",
+            "frameworks": "mbed",
+            "name": "TFT_fonts"
+        }
+    ],
+    "description": "Wrapped version of the ILI9341 graphics library with some MBED tweaks",
+    "frameworks": "mbed",
+    "keywords": "ILI9341_Graphic_Library",
+    "name": "ILI9341_Graphic_Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vtraveller/code/ILI9341_Graphic_Library/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Helmut Schmücker",
+        "url": "https://os.mbed.com/users/humlet/"
+    },
+    "description": "Simple Interface for Toshiba's TB6612FNG H-Bridge Motor Driver",
+    "frameworks": "mbed",
+    "keywords": [
+        "H-bridge",
+        "motor",
+        "TB6612FNG"
+    ],
+    "name": "TB6612FNG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/humlet/code/TB6612FNG/"
+    }
+}

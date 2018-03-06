@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Wataru Wakutsu",
+        "url": "https://os.mbed.com/users/0cean/"
+    },
+    "description": "温度センサのテスト",
+    "frameworks": "mbed",
+    "keywords": "LM61CIZ",
+    "name": "LM61CIZ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/0cean/code/LM61CIZ/"
+    }
+}

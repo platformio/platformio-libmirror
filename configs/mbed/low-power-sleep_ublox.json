@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "u-blox",
+        "url": "https://os.mbed.com/teams/ublox/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "WakeUp"
+        }
+    ],
+    "description": "This class provides an API to assist with low power behaviour on an STM32F437 micro, as used on the u-blox C030 board. If you need to operate from battery for ...",
+    "examples": [
+        "https://os.mbed.com/teams/ublox/code/example-low-power-sleep/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "C030",
+        "low power",
+        "STM32F437",
+        "u-blox"
+    ],
+    "name": "low-power-sleep",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ublox/code/low-power-sleep/"
+    }
+}

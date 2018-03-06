@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "Fixed version not to issue warning messages. Original: Revision 26:8f15aa3b052b by Dieter Graef. https://developer.mbed.org/users/DieterGraef/code/SDFileSystem/",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_AudioPlayerSD/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_SD_WavPlayer/",
+        "https://os.mbed.com/users/edamame22/code/F746_SD_GraphicEqualizer_ren0620/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_SD_TextFile_RW/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/SD_PlayerSkeleton/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Dieter Graef",
+        "DISCO-F746",
+        "SDFileSystem"
+    ],
+    "name": "SDFileSystem_Warning_Fixed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/SDFileSystem_Warning_Fixed/"
+    }
+}

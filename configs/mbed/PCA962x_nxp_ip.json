@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "InetrfaceProducts NXP",
+        "url": "https://os.mbed.com/users/nxp_ip/"
+    },
+    "dependencies": [
+        {
+            "authors": "InetrfaceProducts NXP",
+            "frameworks": "mbed",
+            "name": "CompLedDvr"
+        }
+    ],
+    "description": "PCA9624, PCA9622 and PCA9626 class library. The PCA9624 is a 8-channel, the PCA9622 is a 16-channel and the PCA9956A is a 24-channel Fm+ I2C-bus 100mA/40V LED driver.",
+    "examples": [
+        "https://os.mbed.com/users/nxp_ip/code/PCA9626_Hello/",
+        "https://os.mbed.com/users/nxp_ip/code/PCA9624_Hello/",
+        "https://os.mbed.com/users/nxp_ip/code/PCA9622_Hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "LED controller",
+        "led driver",
+        "PCA9622",
+        "PCA9624",
+        "PCA9626",
+        "PCA962x",
+        "pwm"
+    ],
+    "name": "PCA962x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nxp_ip/code/PCA962x/"
+    }
+}

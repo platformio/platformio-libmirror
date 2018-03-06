@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Kunihiko Ohnaka",
+        "url": "https://os.mbed.com/users/kunichiko/"
+    },
+    "description": "A library for ADT7410 I2C connecting temperature sensor module.",
+    "frameworks": "mbed",
+    "keywords": "KuADT7410",
+    "name": "KuADT7410",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kunichiko/code/KuADT7410/"
+    }
+}

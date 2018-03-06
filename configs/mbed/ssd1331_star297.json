@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Paul Staron",
+        "url": "https://os.mbed.com/users/star297/"
+    },
+    "description": "SSD1331 Oled driver library for 96x64 colour Oled display. Demo included in .h file",
+    "examples": [
+        "https://os.mbed.com/users/star297/code/Oled-SSD1331/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SSD1331",
+    "name": "ssd1331",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/star297/code/ssd1331/"
+    }
+}

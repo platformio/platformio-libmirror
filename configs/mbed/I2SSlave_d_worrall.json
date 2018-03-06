@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Daniel Worrall",
+        "url": "https://os.mbed.com/users/d_worrall/"
+    },
+    "description": "I2SSlave",
+    "examples": [
+        "https://os.mbed.com/users/d_worrall/code/playback/",
+        "https://os.mbed.com/users/d_worrall/code/FTSESpeech/",
+        "https://os.mbed.com/users/okini3939/code/i2s_audio_echo/",
+        "https://os.mbed.com/users/okini3939/code/i2s_audio_sampler/",
+        "https://os.mbed.com/users/okini3939/code/i2s_audio_madplayer/",
+        "https://os.mbed.com/users/HB9GAA/code/AudioCODEC_6/",
+        "https://os.mbed.com/teams/digital-audio-mod11/code/k/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "I2SSlave",
+    "name": "I2SSlave",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/d_worrall/code/I2SSlave/"
+    }
+}

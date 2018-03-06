@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "BE@R lab",
+        "url": "https://os.mbed.com/teams/BEaR-lab/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "Fork_Boss_Communication_Robot"
+        }
+    ],
+    "description": "ใช้สื่อสารกันระหว่าง Brain และ Motion",
+    "examples": [
+        "https://os.mbed.com/teams/BEaR-lab/code/Program_BEAR_Protocol/",
+        "https://os.mbed.com/users/icyzkungz/code/SwitchMode/",
+        "https://os.mbed.com/teams/BEaR-lab/code/MPU9250AHRS-PGear_Stabilizer/",
+        "https://os.mbed.com/teams/BEaR-lab/code/SwitchMode/",
+        "https://os.mbed.com/teams/Betago/code/CleaningMachine_Betago/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BEAR_Protocol",
+    "name": "BEAR_Protocol",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/BEaR-lab/code/BEAR_Protocol/"
+    }
+}

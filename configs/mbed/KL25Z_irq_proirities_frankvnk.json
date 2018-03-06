@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Frank Vannieuwkerke",
+        "url": "https://os.mbed.com/users/frankvnk/"
+    },
+    "description": "function allowing us to change all irq priorities at once",
+    "frameworks": "mbed",
+    "keywords": [
+        "interrupt",
+        "irq",
+        "KL25z",
+        "NVIC",
+        "priority"
+    ],
+    "name": "KL25Z_irq_proirities",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/frankvnk/code/KL25Z_irq_proirities/"
+    }
+}

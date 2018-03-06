@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Renishaw",
+        "url": "https://os.mbed.com/teams/Renishaw/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Library for use with the RenBuggy with 2 wheels that travels for an amount of time specified by the user.",
+    "examples": [
+        "https://os.mbed.com/teams/Renishaw/code/RenBuggy_Timed_Programme/",
+        "https://os.mbed.com/teams/Renishaw/code/RenBuggy_Figure_Of_Eight/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "digitalOut",
+        "PwmOut",
+        "RenBuggy",
+        "Renishaw"
+    ],
+    "name": "RenBuggy_Timed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Renishaw/code/RenBuggy_Timed/"
+    }
+}

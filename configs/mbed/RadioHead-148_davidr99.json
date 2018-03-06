@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "David Rimer",
+        "url": "https://os.mbed.com/users/davidr99/"
+    },
+    "description": "Port of RadioHead version 1.48 to mbed. It is a little messy and only works for SPI at this time.",
+    "frameworks": "mbed",
+    "keywords": "radiohead",
+    "name": "RadioHead-148",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/davidr99/code/RadioHead-148/"
+    }
+}

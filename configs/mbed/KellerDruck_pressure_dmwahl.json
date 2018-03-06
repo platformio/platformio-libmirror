@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "David Wahl",
+        "url": "https://os.mbed.com/users/dmwahl/"
+    },
+    "description": "Library to read from Keller Druck I2C Pressure sensors. Inputs are I2C object and address.",
+    "examples": [
+        "https://os.mbed.com/users/iwolf32/code/TestBenchSerenity-proto_F429ZI/",
+        "https://os.mbed.com/users/iwolf32/code/TestBenchFlow/",
+        "https://os.mbed.com/users/iwolf32/code/HSPFLOW1/",
+        "https://os.mbed.com/users/iwolf32/code/TestBenchFlow1/",
+        "https://os.mbed.com/users/iwolf32/code/HSPFLOW/",
+        "https://os.mbed.com/users/212600191/code/HSPFLOW/",
+        "https://os.mbed.com/users/212600191/code/TestBenchSerenity-proto_F429ZI/",
+        "https://os.mbed.com/users/212600191/code/HSPFLOW1/",
+        "https://os.mbed.com/users/212600191/code/TestBenchSerenity-proto_F429ZI1/",
+        "https://os.mbed.com/users/212600191/code/HSPFLOWFINAL/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "KellerDruck_pressure",
+    "name": "KellerDruck_pressure",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dmwahl/code/KellerDruck_pressure/"
+    }
+}

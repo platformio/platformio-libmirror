@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Helmut Schmücker",
+        "url": "https://os.mbed.com/users/humlet/"
+    },
+    "dependencies": [
+        {
+            "authors": "Helmut Schmücker",
+            "frameworks": "mbed",
+            "name": "NeedfulThings"
+        }
+    ],
+    "description": "Interface for the encoder of the red fischertechnik motors",
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "fischertechnik"
+    ],
+    "name": "FtEncoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/humlet/code/FtEncoder/"
+    }
+}

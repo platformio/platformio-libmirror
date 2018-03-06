@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "jim hamblen",
+        "url": "https://os.mbed.com/users/4180_1/"
+    },
+    "description": "class for emic 2 speech synthesis module",
+    "examples": [
+        "https://os.mbed.com/users/itatchi42/code/Alexa_Text/",
+        "https://os.mbed.com/teams/BAT/code/BAT_senior_design_Azra/",
+        "https://os.mbed.com/teams/BAT/code/BAT_senior_design_Nhi/",
+        "https://os.mbed.com/teams/BAT/code/BAT_senior_design_Test/",
+        "https://os.mbed.com/users/aismail1997/code/BAT_Type_word/",
+        "https://os.mbed.com/teams/BAT/code/BAT_senior_design_Test_Type/",
+        "https://os.mbed.com/users/aismail1997/code/BAT_Type_letter/",
+        "https://os.mbed.com/teams/BAT/code/BAT_Read/",
+        "https://os.mbed.com/teams/BAT/code/BAT_Type_letter/",
+        "https://os.mbed.com/teams/BAT/code/BAT_senior_design_Testnew/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "emic2",
+    "name": "emic2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/4180_1/code/emic2/"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Chris Styles",
+        "url": "https://os.mbed.com/users/chris/"
+    },
+    "description": "A simply library for the LM75B I2C temperature sensor",
+    "examples": [
+        "https://os.mbed.com/users/chris/code/LM75B-HelloWorld/",
+        "https://os.mbed.com/users/chris/code/app-board-Sprint-SMS-LM75B/",
+        "https://os.mbed.com/users/chris/code/SprintUSBModemWebsocketTest-Temp/",
+        "https://os.mbed.com/users/chris/code/app-board-Ethernet-Websocket/",
+        "https://os.mbed.com/users/chris/code/app-board-Wifly-Websocket/",
+        "https://os.mbed.com/users/GordonSin/code/Ethernetwebsocket/",
+        "https://os.mbed.com/users/samux/code/app-board-USBModem-Websocket/",
+        "https://os.mbed.com/users/hirox/code/Logger_V1/",
+        "https://os.mbed.com/users/KinLok/code/app-board-demo/",
+        "https://os.mbed.com/users/groletter/code/FinalProject/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LM75B"
+    ],
+    "name": "LM75B",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chris/code/LM75B/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Michael Ball",
+        "url": "https://os.mbed.com/users/unix_guru/"
+    },
+    "description": "Microcontroller GUI library from embeddedlightning.com",
+    "examples": [
+        "https://os.mbed.com/users/trevieze/code/Bicycl_Computer_NUCLEO-F411RE/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GUI",
+    "name": "uGUI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/unix_guru/code/uGUI/"
+    }
+}

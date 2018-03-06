@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Jason Beatch",
+        "url": "https://os.mbed.com/users/jbeatch/"
+    },
+    "description": "Mbed Pololu LPS331 SPI library ouputs for Air Pessure & Temperature in unsigned values calculation to be done by user (though notes on calculations can be found within)",
+    "frameworks": "mbed",
+    "keywords": [
+        "LPS331AP",
+        "mbed",
+        "SPI"
+    ],
+    "name": "LPS331AP_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jbeatch/code/LPS331AP_SPI/"
+    }
+}

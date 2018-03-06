@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Oleg Evsegneev",
+        "url": "https://os.mbed.com/users/Decimus/"
+    },
+    "description": "Interface library for Ramtron FRAM memory, FM25VXX series.",
+    "frameworks": "mbed",
+    "keywords": [
+        "FM25V02",
+        "FM25V10",
+        "FRAM"
+    ],
+    "name": "FRAMSPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Decimus/code/FRAMSPI/"
+    }
+}

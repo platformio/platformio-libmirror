@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Ashley Mills",
+        "url": "https://os.mbed.com/users/ashleymills/"
+    },
+    "description": "Port of libqrencode for mbed",
+    "frameworks": "mbed",
+    "keywords": "QR",
+    "name": "libqrencode",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ashleymills/code/libqrencode/"
+    }
+}

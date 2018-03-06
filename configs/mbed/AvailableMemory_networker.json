@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Ad van der Weiden",
+        "url": "https://os.mbed.com/users/networker/"
+    },
+    "description": "finds size of largest block of heap memory",
+    "examples": [
+        "https://os.mbed.com/users/networker/code/myBlueUSB/",
+        "https://os.mbed.com/users/kenbumono/code/mbed_TANK_Kinect/",
+        "https://os.mbed.com/users/OTL/code/myBlueUSB_ros/",
+        "https://os.mbed.com/users/nobukuma/code/myBlueUSB_localfix/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "AvailableMemory",
+    "name": "AvailableMemory",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/networker/code/AvailableMemory/"
+    }
+}

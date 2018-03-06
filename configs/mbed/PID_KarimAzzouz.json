@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Karim Azzouz",
+        "url": "https://os.mbed.com/users/KarimAzzouz/"
+    },
+    "description": "a Nested PID control loop used for multirotor control.",
+    "examples": [
+        "https://os.mbed.com/users/KarimAzzouz/code/A-Quad/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PID",
+    "name": "PID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/KarimAzzouz/code/PID/"
+    }
+}

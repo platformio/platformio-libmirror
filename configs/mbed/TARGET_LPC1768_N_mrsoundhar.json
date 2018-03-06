@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Soundharrajan S",
+        "url": "https://os.mbed.com/users/mrsoundhar/"
+    },
+    "description": "LPC1768",
+    "frameworks": "mbed",
+    "keywords": "TARGET_LPC1768_N",
+    "name": "TARGET_LPC1768_N",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mrsoundhar/code/TARGET_LPC1768_N/"
+    }
+}

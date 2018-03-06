@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Sukkin Pang",
+        "url": "https://os.mbed.com/users/pangsk/"
+    },
+    "description": "LCD driver",
+    "examples": [
+        "https://os.mbed.com/users/pangsk/code/ecu_reader/",
+        "https://os.mbed.com/users/nherriot/code/ecu_reader/",
+        "https://os.mbed.com/users/pangsk/code/ecu_simulator/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TextLCD",
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pangsk/code/TextLCD/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Reinhold Schaefer",
+        "url": "https://os.mbed.com/users/rs27/"
+    },
+    "description": "SDFileSystem",
+    "frameworks": "mbed",
+    "keywords": [
+        "FAT",
+        "file",
+        "SD",
+        "System"
+    ],
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rs27/code/SDFileSystem/"
+    }
+}

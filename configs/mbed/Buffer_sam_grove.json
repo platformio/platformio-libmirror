@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Sam Grove",
+        "url": "https://os.mbed.com/users/sam_grove/"
+    },
+    "description": "Buffer for general purpose use. Templated for most datatypes",
+    "examples": [
+        "https://os.mbed.com/users/Sissors/code/BufferedSoftSerial/",
+        "https://os.mbed.com/users/rs27/code/09_PT1000/",
+        "https://os.mbed.com/users/Sven3010/code/10_PT1000/",
+        "https://os.mbed.com/teams/Temp/code/11_PT1000/",
+        "https://os.mbed.com/teams/Temp/code/16_PT1000/",
+        "https://os.mbed.com/users/veyselka/code/BufferedSerial/",
+        "https://os.mbed.com/users/steeven/code/BufferedSerial/",
+        "https://os.mbed.com/users/jotaemesousa/code/BufferedSoftSerial/",
+        "https://os.mbed.com/users/yihui/code/BLE_Micro_UART/",
+        "https://os.mbed.com/users/igbt6/code/BufferedSerialFromSamGroove/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "buffer",
+        "ringbuffer",
+        "Template Buffer"
+    ],
+    "name": "Buffer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sam_grove/code/Buffer/"
+    }
+}

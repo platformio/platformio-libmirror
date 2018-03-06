@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Michał Pyszka",
+        "url": "https://os.mbed.com/users/micchassek/"
+    },
+    "description": "Declaration class (driver for) of touchpanel based on ADS7843 or XPT2046",
+    "examples": [
+        "https://os.mbed.com/users/micchassek/code/TFT_MyTouch/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ADS7843",
+        "TouchPanel",
+        "XPT2046"
+    ],
+    "name": "MyTouch",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/micchassek/code/MyTouch/"
+    }
+}

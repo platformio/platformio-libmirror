@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Reiko Randoja",
+        "url": "https://os.mbed.com/users/Reiko/"
+    },
+    "description": "PCA9555",
+    "examples": [
+        "https://os.mbed.com/users/Reiko/code/Telliskivi2_2014/",
+        "https://os.mbed.com/teams/Missouri-ST-IEEE-Robotics-Team/code/PowerManagementBoard_Rev_A_2017/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PCA9555",
+    "name": "PCA9555",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Reiko/code/PCA9555/"
+    }
+}

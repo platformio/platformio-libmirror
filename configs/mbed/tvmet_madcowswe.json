@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Oskar Weigl",
+        "url": "https://os.mbed.com/users/madcowswe/"
+    },
+    "description": "This is the Tiny Vector Matrix Expression Templates library found at http://tvmet.sourceforge.net. It is the fastest and most compact matrix lib out there (for < 10x10 matricies). I have done ...",
+    "examples": [
+        "https://os.mbed.com/users/narshu/code/Eurobot_2012_Secondary/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "arithmetic",
+        "Expression",
+        "Linear",
+        "matrix",
+        "Template",
+        "vector"
+    ],
+    "name": "tvmet",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/madcowswe/code/tvmet/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Jacob Bramley",
+        "url": "https://os.mbed.com/users/JacobBramley/"
+    },
+    "description": "Interface library for the Sensirion SHT7x series humidity and temperature sensors.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Humidity",
+        "Sensirion",
+        "SHT7x",
+        "Temperature"
+    ],
+    "name": "sht7x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JacobBramley/code/sht7x/"
+    }
+}

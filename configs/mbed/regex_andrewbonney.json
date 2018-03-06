@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Andrew Bonney",
+        "url": "https://os.mbed.com/users/andrewbonney/"
+    },
+    "description": "Publishing SLRE regex - as a library rather than program as is the case for the existing publish",
+    "examples": [
+        "https://os.mbed.com/users/lsola/code/USBSerialIORemotizer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "regex",
+        "slre"
+    ],
+    "name": "regex",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/andrewbonney/code/regex/"
+    }
+}

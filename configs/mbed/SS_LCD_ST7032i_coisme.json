@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Osamu Koizumi",
+        "url": "https://os.mbed.com/users/coisme/"
+    },
+    "description": "LCD module Switch Science SKU#1405, which driver IC is ST7032i.",
+    "frameworks": "mbed",
+    "keywords": "ST7032i",
+    "name": "SS_LCD_ST7032i",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/coisme/code/SS_LCD_ST7032i/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Jimmy Hack",
+        "url": "https://os.mbed.com/users/JimmyTheHack/"
+    },
+    "description": "A wrapper library for easy access to DACs using the SPI interface. Individual devices will receive their own libraries.",
+    "examples": [
+        "https://os.mbed.com/users/JimmyTheHack/code/MAX500/",
+        "https://os.mbed.com/users/JimmyTheHack/code/MCP4922/",
+        "https://os.mbed.com/users/JimmyTheHack/code/MCP4822/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "dac",
+        "SPI"
+    ],
+    "name": "DAC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JimmyTheHack/code/DAC/"
+    }
+}

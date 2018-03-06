@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "S K UCI",
+        "url": "https://os.mbed.com/users/uci1/"
+    },
+    "description": "Patched version of the PowerControl library that handles (re)starting clocks such that (ETH) power can be brought up and down repeatedly without stalling the mbed.",
+    "frameworks": "mbed",
+    "keywords": "PowerControlClkPatch",
+    "name": "PowerControlClkPatch",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/uci1/code/PowerControlClkPatch/"
+    }
+}

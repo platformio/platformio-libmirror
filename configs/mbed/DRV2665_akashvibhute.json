@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Akash Vibhute",
+        "url": "https://os.mbed.com/users/akashvibhute/"
+    },
+    "description": "I2C Piezo Haptic Driver with Integrated Boost Converter and Digital Front End",
+    "frameworks": "mbed",
+    "keywords": [
+        "DRV2665",
+        "Haptic",
+        "piezo"
+    ],
+    "name": "DRV2665",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/akashvibhute/code/DRV2665/"
+    }
+}

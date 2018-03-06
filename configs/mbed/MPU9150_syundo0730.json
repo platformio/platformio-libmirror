@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Shundo Kishi",
+        "url": "https://os.mbed.com/users/syundo0730/"
+    },
+    "dependencies": [
+        {
+            "authors": "Shundo Kishi",
+            "frameworks": "mbed",
+            "name": "ArduinoSerial"
+        },
+        {
+            "authors": "Shundo Kishi",
+            "frameworks": "mbed",
+            "name": "I2Cdev"
+        }
+    ],
+    "description": "9Axis IMU MPU9150 's library. This project is ported from this Arduino's project https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU9150. Connect pinName 27 to SCL, PinName 28 to SDA, GND to GND, and VOUT to VCC ...",
+    "examples": [
+        "https://os.mbed.com/users/syundo0730/code/MPU9150_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MPU9150",
+    "name": "MPU9150",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/syundo0730/code/MPU9150/"
+    }
+}

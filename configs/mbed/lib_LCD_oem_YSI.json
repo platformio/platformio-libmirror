@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Y SI",
+        "url": "https://os.mbed.com/users/YSI/"
+    },
+    "description": "lib_LCD_oem http://www.lextronic.fr/P764-afficheur-4-x-20-caracteres-retro-eclaire-vert.html YSI",
+    "examples": [
+        "https://os.mbed.com/users/YSI/code/lib_LCD_oem_example/",
+        "https://os.mbed.com/users/YSI/code/libs_YSI_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "20X4",
+        "ELCD",
+        "LCD",
+        "OEM",
+        "Serial"
+    ],
+    "name": "lib_LCD_oem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/YSI/code/lib_LCD_oem/"
+    }
+}

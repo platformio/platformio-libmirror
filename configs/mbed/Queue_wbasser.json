@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "William Basser",
+        "url": "https://os.mbed.com/users/wbasser/"
+    },
+    "description": "Queue Handler",
+    "examples": [
+        "https://os.mbed.com/users/roysandberg/code/BLE_ECG/",
+        "https://os.mbed.com/teams/The-Kragl/code/kragl/",
+        "https://os.mbed.com/teams/The-Kragl/code/kragl_v2/",
+        "https://os.mbed.com/users/ychen644/code/4180_final_project_v2/",
+        "https://os.mbed.com/users/ram54288/code/K64F-RTOS-MQTT-Example/",
+        "https://os.mbed.com/users/andreixc/code/mbed_uart0_echo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Queue",
+    "name": "Queue",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wbasser/code/Queue/"
+    }
+}

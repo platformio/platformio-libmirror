@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "ceri clatworthy",
+        "url": "https://os.mbed.com/users/ceri/"
+    },
+    "description": "Libary for Strpper motor controller, eg: Rep-Rap smart stick Catering for both, Phisical 'PIN' endstops, and PORT Expander end stops . ** BOTH IN TEST ** ** Phisical PIN tested ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "A4982",
+        "A4983 smart step 3d printing",
+        "rap",
+        "rep",
+        "Stepper"
+    ],
+    "name": "Stepper",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ceri/code/Stepper/"
+    }
+}

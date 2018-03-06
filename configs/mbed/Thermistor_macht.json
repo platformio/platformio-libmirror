@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "kazunori ogasawara",
+        "url": "https://os.mbed.com/users/macht/"
+    },
+    "description": "Thermistor",
+    "examples": [
+        "https://os.mbed.com/teams/UDS-Team/code/Nucleo_UDS_controller_Alberto_version/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "thermistor",
+    "name": "Thermistor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/macht/code/Thermistor/"
+    }
+}

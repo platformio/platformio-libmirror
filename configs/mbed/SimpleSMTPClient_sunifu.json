@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Tadao Iida",
+        "url": "https://os.mbed.com/users/sunifu/"
+    },
+    "description": "EthernetInｔerface Libraryを使ったSimpleな SMTP ClientLibraryです． LOGIN認証を追加しました．(2014.4 Update) It is SMTPClient Library which is Simple using EthernetInterface Library.",
+    "examples": [
+        "https://os.mbed.com/users/sunifu/code/SimpleSMTPClient_HelloWorld/",
+        "https://os.mbed.com/users/nagarajbatta/code/USBHost-MSD_Sensors_1/",
+        "https://os.mbed.com/users/avnisha/code/IOT-GPS-SMS/",
+        "https://os.mbed.com/users/bhakti08/code/IOT_HW_5_websockets/",
+        "https://os.mbed.com/users/sunifu/code/InformEmail/",
+        "https://os.mbed.com/users/malcon_alex/code/mbed_blinky_II/",
+        "https://os.mbed.com/users/cryptoc/code/xAP_enabled_oneWire_Master_Part1/",
+        "https://os.mbed.com/users/cryptoc/code/xAP_enabled_oneWire_Master_Part2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "email",
+        "SMTP"
+    ],
+    "name": "SimpleSMTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sunifu/code/SimpleSMTPClient/"
+    }
+}

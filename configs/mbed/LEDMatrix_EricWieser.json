@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Eric Wieser",
+        "url": "https://os.mbed.com/users/EricWieser/"
+    },
+    "description": "A library to manipulate 2D arrays, and output them to an LED Dot Matrix Display. The display must be wired up using a shift register combined with a nor latch.",
+    "frameworks": "mbed",
+    "keywords": "LEDMatrix",
+    "name": "LEDMatrix",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/EricWieser/code/LEDMatrix/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Georgios Moralis",
+        "url": "https://os.mbed.com/users/gmoralis/"
+    },
+    "description": "ILI9340 Library based on the Arduino version from Adafruit. It has been tested with a custom STM32F103C8 board.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "ILI9340",
+        "stm32"
+    ],
+    "name": "ILI9340Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gmoralis/code/ILI9340Library/"
+    }
+}

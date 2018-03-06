@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://os.mbed.com/users/simon/"
+    },
+    "description": "Control an H-Bridge using a PwmOut (enable) and two DigitalOuts (direction select)",
+    "examples": [
+        "https://os.mbed.com/users/simon/code/Motor_HelloWorld/",
+        "https://os.mbed.com/users/moba/code/Motor_HelloWorld/",
+        "https://os.mbed.com/users/buntyshubho/code/xbee_robot/",
+        "https://os.mbed.com/users/warpedkevin/code/MyFinalDerbot/",
+        "https://os.mbed.com/users/Shahan/code/FinalLab/",
+        "https://os.mbed.com/users/gsulc/code/Bee/",
+        "https://os.mbed.com/users/fblanc/code/qei_hw_motor/",
+        "https://os.mbed.com/users/vsavkin3/code/SantaSeeker/",
+        "https://os.mbed.com/users/psawant9/code/Lab3_VoiceMeter/",
+        "https://os.mbed.com/users/lndv3/code/RoboPanorama/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "H-bridge",
+        "motor",
+        "PwmOut"
+    ],
+    "name": "Motor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/simon/code/Motor/"
+    }
+}

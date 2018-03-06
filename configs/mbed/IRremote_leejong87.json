@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Hyeonjong Lee",
+        "url": "https://os.mbed.com/users/leejong87/"
+    },
+    "description": "IRremote",
+    "frameworks": "mbed",
+    "keywords": [
+        "38kHz",
+        "IR",
+        "remote"
+    ],
+    "name": "IRremote",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/leejong87/code/IRremote/"
+    }
+}

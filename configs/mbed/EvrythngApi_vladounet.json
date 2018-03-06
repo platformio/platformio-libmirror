@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Evry Thng",
+        "url": "https://os.mbed.com/users/vladounet/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "EthernetInterface"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        }
+    ],
+    "description": "Api wrapper to communicate with EVRYTHNG's Engine.",
+    "examples": [
+        "https://os.mbed.com/users/vladounet/code/EvrythngApiExample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "evrythng",
+    "name": "EvrythngApi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vladounet/code/EvrythngApi/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Muhammad Khairul Nizar Bin Khairuddin",
+        "url": "https://os.mbed.com/users/nizarpang/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "HR and RR measurement",
+    "frameworks": "mbed",
+    "keywords": "HRandRR",
+    "name": "HRandRR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nizarpang/code/HRandRR/"
+    }
+}

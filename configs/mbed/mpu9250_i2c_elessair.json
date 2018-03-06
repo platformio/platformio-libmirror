@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "erkin yucel",
+        "url": "https://os.mbed.com/users/elessair/"
+    },
+    "description": "first release fork of MPU9250AHRS from Kris Winer",
+    "frameworks": "mbed",
+    "keywords": "mpu9250_i2c",
+    "name": "mpu9250_i2c",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/elessair/code/mpu9250_i2c/"
+    }
+}

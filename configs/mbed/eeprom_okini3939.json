@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "LPC11U24 internal EEPROM",
+    "examples": [
+        "https://os.mbed.com/users/yusuke_robocup/code/ver1_2_2_1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "EEPROM",
+        "LPC11U24"
+    ],
+    "name": "eeprom",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/eeprom/"
+    }
+}

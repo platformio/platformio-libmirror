@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "YUTA ISHIDA",
+        "url": "https://os.mbed.com/users/s1020836/"
+    },
+    "description": "H-bridge DCmotor controller (TOSHIBA TA7267BP)",
+    "frameworks": "mbed",
+    "keywords": "DCmotor",
+    "name": "DCmotor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/s1020836/code/DCmotor/"
+    }
+}

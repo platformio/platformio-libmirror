@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Serge Sozonoff",
+        "url": "https://os.mbed.com/users/ssozonoff/"
+    },
+    "description": "Port of the SHT2x example code from Sensirion",
+    "examples": [
+        "https://os.mbed.com/users/ssozonoff/code/sht21_test/",
+        "https://os.mbed.com/users/tosihisa/code/ENVLogger/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Sensirion",
+        "SHT21"
+    ],
+    "name": "SHT2x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ssozonoff/code/SHT2x/"
+    }
+}

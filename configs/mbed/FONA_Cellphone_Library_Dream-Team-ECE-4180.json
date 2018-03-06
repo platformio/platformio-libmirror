@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Dream Team",
+        "url": "https://os.mbed.com/teams/Dream-Team-ECE-4180/"
+    },
+    "description": "Library for Adafruit FONA breakout board",
+    "frameworks": "mbed",
+    "keywords": "FONA_Cellphone_Library",
+    "name": "FONA_Cellphone_Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Dream-Team-ECE-4180/code/FONA_Cellphone_Library/"
+    }
+}

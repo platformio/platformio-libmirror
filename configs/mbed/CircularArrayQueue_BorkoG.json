@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Borislav Gachev",
+        "url": "https://os.mbed.com/users/BorkoG/"
+    },
+    "description": "A simple circular array queue with the following methods: -size() -isEmpty() -front() -enqueue() -dequeue()",
+    "frameworks": "mbed",
+    "keywords": "EDP2",
+    "name": "CircularArrayQueue",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BorkoG/code/CircularArrayQueue/"
+    }
+}

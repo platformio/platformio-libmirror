@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "mbed unsupported",
+        "url": "https://os.mbed.com/users/mbed_unsupported/"
+    },
+    "description": "Serial Half-Duplex",
+    "frameworks": "mbed",
+    "keywords": "SerialHalfDuplex",
+    "name": "SerialHalfDuplex",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbed_unsupported/code/SerialHalfDuplex/"
+    }
+}

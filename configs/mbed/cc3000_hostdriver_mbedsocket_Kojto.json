@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Martin Kojtal",
+        "url": "https://os.mbed.com/users/Kojto/"
+    },
+    "description": "cc3000 hostdriver with the mbed socket interface",
+    "examples": [
+        "https://os.mbed.com/users/Kojto/code/cc3000_hello_world_demo/",
+        "https://os.mbed.com/users/Kojto/code/cc3000_simple_socket_demo/",
+        "https://os.mbed.com/users/Kojto/code/cc3000_ntp_demo/",
+        "https://os.mbed.com/users/Kojto/code/cc3000_ping_demo/",
+        "https://os.mbed.com/users/Kojto/code/cc3000_tcp_client_demo/",
+        "https://os.mbed.com/users/Kojto/code/cc3000_tcp_server_demo/",
+        "https://os.mbed.com/users/Kojto/code/cc3000_udp_server_demo/",
+        "https://os.mbed.com/users/Kojto/code/cc3000_udp_client_demo/",
+        "https://os.mbed.com/users/Kojto/code/cc3000_websocket_demo/",
+        "https://os.mbed.com/users/Kojto/code/cc3000_twitter_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CC3000",
+        "socket",
+        "TCP",
+        "UDP",
+        "wifi"
+    ],
+    "name": "cc3000_hostdriver_mbedsocket",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Kojto/code/cc3000_hostdriver_mbedsocket/"
+    }
+}

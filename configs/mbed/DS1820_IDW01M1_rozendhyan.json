@@ -1,0 +1,42 @@
+{
+    "authors": {
+        "name": "CHANG rozen",
+        "url": "https://os.mbed.com/users/rozendhyan/"
+    },
+    "dependencies": [
+        {
+            "authors": "wang tang",
+            "frameworks": "mbed",
+            "name": "watersenor_and_temp_code"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "MQTT"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "NetworkSocketAPI"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "X_NUCLEO_IDW01M1v2"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "use DS1820 update temp to Node-red",
+    "frameworks": "mbed",
+    "keywords": "DS1820_IDW01M1",
+    "name": "DS1820_IDW01M1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rozendhyan/code/DS1820_IDW01M1/"
+    }
+}

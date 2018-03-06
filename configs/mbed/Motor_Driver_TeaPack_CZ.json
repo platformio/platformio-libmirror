@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Tea Pack",
+        "url": "https://os.mbed.com/users/TeaPack_CZ/"
+    },
+    "description": "Library for Pololu Motor driver - VNH5019 Motor Driver Carrier https://www.pololu.com/product/1451",
+    "frameworks": "mbed",
+    "keywords": [
+        "Carrier",
+        "driver",
+        "motor",
+        "Pololu1451",
+        "VNH5019"
+    ],
+    "name": "Motor_Driver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/TeaPack_CZ/code/Motor_Driver/"
+    }
+}

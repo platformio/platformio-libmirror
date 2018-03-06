@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "Generic class libraries for 1D array and 2D array: Array and Matrix. 1次元および2次元配列用の汎用クラスライブラリ: Array と Matrix.",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_SD_WavPlayer/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/Demo_Array_Matrix/",
+        "https://os.mbed.com/users/kenjiArai/code/CW_Decoder_using_FFT_on_F446/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F446_MySoundMachine/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F446_ADF_Nlms/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F446_Spectrogram/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_SAI_IO/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_GUI/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/Examples_for_ALL_STM/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/CQ_DigitalFilterLab/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "1D",
+        "2D",
+        "array",
+        "matrix"
+    ],
+    "name": "Array_Matrix",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/Array_Matrix/"
+    }
+}

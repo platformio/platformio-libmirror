@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Karl Zweimüller",
+        "url": "https://os.mbed.com/users/charly/"
+    },
+    "dependencies": [
+        {
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
+            "name": "PinDetect"
+        }
+    ],
+    "description": "Class mRotaryEncoder for mechanical incremental rotary encoders with pushbuttons. Use debouncing and callback-functions for rotation and pressing of button.",
+    "examples": [
+        "https://os.mbed.com/users/harryeakins/code/SimplePIDBot/",
+        "https://os.mbed.com/users/cicklaus/code/FinalProgram/",
+        "https://os.mbed.com/users/ollie8/code/VS1053Player/",
+        "https://os.mbed.com/users/tobyspark/code/SPK-DVIMXR/",
+        "https://os.mbed.com/users/ostlerkd13/code/EncoderTest/",
+        "https://os.mbed.com/teams/KRAI-2017/code/Encoder/",
+        "https://os.mbed.com/users/wd5gnr/code/Nucleo_Encoder_RGB/",
+        "https://os.mbed.com/users/Khayhen/code/System_Project_V6/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "QEI",
+        "qudrature",
+        "rotary"
+    ],
+    "name": "mRotaryEncoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/charly/code/mRotaryEncoder/"
+    }
+}

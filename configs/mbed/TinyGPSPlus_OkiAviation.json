@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "カレヴィ アンダース",
+        "url": "https://os.mbed.com/users/OkiAviation/"
+    },
+    "description": "mbed port of the TinyGPSPlus library for Arduino, by Mikal Hart. The port is heavily inspired by Sergey Drobyshevskiy (dROb)'s port of the TinyGPS library.",
+    "examples": [
+        "https://os.mbed.com/users/OkiAviation/code/TGPSPlus/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GPS",
+        "MKT3339",
+        "TinyGPS"
+    ],
+    "name": "TinyGPSPlus",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/OkiAviation/code/TinyGPSPlus/"
+    }
+}

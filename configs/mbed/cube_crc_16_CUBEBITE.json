@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "CUBEBITE",
+        "url": "https://os.mbed.com/teams/CUBEBITE/"
+    },
+    "description": "cube crc 16",
+    "examples": [
+        "https://os.mbed.com/teams/CUBEBITE/code/CEBF746_Master/",
+        "https://os.mbed.com/teams/CUBEBITE/code/CEBF746_Slave_withTPM/",
+        "https://os.mbed.com/teams/CUBEBITE/code/CEBF746_Master_New/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "cube_crc_16",
+    "name": "cube_crc_16",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/CUBEBITE/code/cube_crc_16/"
+    }
+}

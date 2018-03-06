@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Thieu Lammers",
+        "url": "https://os.mbed.com/users/lammers/"
+    },
+    "description": "write values to LED-array",
+    "frameworks": "mbed",
+    "keywords": "ledarray",
+    "name": "ledarray",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lammers/code/ledarray/"
+    }
+}

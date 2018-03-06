@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "mrr1 mrr1",
+        "url": "https://os.mbed.com/users/mrr1/"
+    },
+    "description": "library for m3pi board. The \\\\\\\"motor\\\\\\\" function is now public.",
+    "frameworks": "mbed",
+    "keywords": [
+        "3pi",
+        "m3pi"
+    ],
+    "name": "m3pi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mrr1/code/m3pi/"
+    }
+}

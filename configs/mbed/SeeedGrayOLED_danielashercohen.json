@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Dan Cohen",
+        "url": "https://os.mbed.com/users/danielashercohen/"
+    },
+    "description": "This library drives the Seeed 96x96 OLED display. It is a port of the example library that Seeed provide (also called SeeedGreyOLED). This display uses the SSD1327 part which is ...",
+    "examples": [
+        "https://os.mbed.com/users/danielashercohen/code/seeed_arch_pro_oled/",
+        "https://os.mbed.com/users/danielashercohen/code/ethernet_arch_pro/",
+        "https://os.mbed.com/teams/mr_cub3/code/Basics_OLED/",
+        "https://os.mbed.com/users/mr_cub3/code/MBED_CPP_DII4A/",
+        "https://os.mbed.com/teams/mr_cub3/code/MBED_CPP_DII4A/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "96x96",
+        "OLED",
+        "Seeed",
+        "SeeedGrayOLED",
+        "ssd1327"
+    ],
+    "name": "SeeedGrayOLED",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/danielashercohen/code/SeeedGrayOLED/"
+    }
+}

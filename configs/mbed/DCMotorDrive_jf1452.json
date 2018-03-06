@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Jon Fuge",
+        "url": "https://os.mbed.com/users/jf1452/"
+    },
+    "description": "Dual DC Motor Drive using PWM for RenBuggy; there are two inputs to feed a hall sensor for distance / speed feedback.",
+    "examples": [
+        "https://os.mbed.com/users/jf1452/code/RenBuggy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "RenBED",
+        "RenBuggy",
+        "Renishaw"
+    ],
+    "name": "DCMotorDrive",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jf1452/code/DCMotorDrive/"
+    }
+}

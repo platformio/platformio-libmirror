@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Romain Berrada",
+        "url": "https://os.mbed.com/users/rominos2/"
+    },
+    "description": "Morse Encoder/Decoder Library. Transforms char array to binary array and vice-versa.",
+    "frameworks": "mbed",
+    "keywords": [
+        "decoder",
+        "Encoder",
+        "Morse"
+    ],
+    "name": "Morse",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rominos2/code/Morse/"
+    }
+}

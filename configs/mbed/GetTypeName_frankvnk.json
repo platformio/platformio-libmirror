@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Frank Vannieuwkerke",
+        "url": "https://os.mbed.com/users/frankvnk/"
+    },
+    "description": "A tool that returns the variable type (char, uint8_t, ...)",
+    "examples": [
+        "https://os.mbed.com/users/frankvnk/code/GetTypeName_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "type traits",
+        "typeid",
+        "variable type name"
+    ],
+    "name": "GetTypeName",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/frankvnk/code/GetTypeName/"
+    }
+}

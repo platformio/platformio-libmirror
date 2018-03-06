@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "SPI 接続の温度センサ ADT7310 用のライブラリ． Library for temperature sensor ADT7310 connected using SPI interface.",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/Demo_ADT7310/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ADT7310",
+        "Nucleo",
+        "SPI",
+        "UIT"
+    ],
+    "name": "UIT_ADT7310",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/UIT_ADT7310/"
+    }
+}

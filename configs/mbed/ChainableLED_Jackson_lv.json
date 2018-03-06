@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Jackson Lv",
+        "url": "https://os.mbed.com/users/Jackson_lv/"
+    },
+    "description": "GROVE ChainableLED LIBRARY",
+    "examples": [
+        "https://os.mbed.com/users/Jackson_lv/code/BLENano_RGB_Demo/",
+        "https://os.mbed.com/users/Jackson_lv/code/BLENano_RGB_Demo_DAP/",
+        "https://os.mbed.com/users/janjongboom/code/ble-devicelink-example/",
+        "https://os.mbed.com/users/iv123/code/connected-lights/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ChainableLED",
+    "name": "ChainableLED",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Jackson_lv/code/ChainableLED/"
+    }
+}

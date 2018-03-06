@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Quicksand micro-electronics",
+        "url": "https://os.mbed.com/users/quicksand/"
+    },
+    "description": "This library (beta release) parses the GPS data coming from the TD1204. Beware, not all functionality has been fully tested.",
+    "examples": [
+        "https://os.mbed.com/users/quicksand/code/QW-TEMP_GPS-NMEA/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "QW_NMEA",
+    "name": "QW_NMEA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/quicksand/code/QW_NMEA/"
+    }
+}

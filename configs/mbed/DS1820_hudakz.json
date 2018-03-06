@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "dependencies": [
+        {
+            "authors": "Zoltan Hudak",
+            "frameworks": "mbed",
+            "name": "OneWire"
+        }
+    ],
+    "description": "Dallas' DS1820 family temperature sensor. For more details see [https://developer.mbed.org/users/hudakz/code/DS1820/wiki/Homepage]",
+    "examples": [
+        "https://os.mbed.com/users/hudakz/code/DS1820_Hello/",
+        "https://os.mbed.com/users/hudakz/code/BLE_nRF24L01/",
+        "https://os.mbed.com/users/fgmpinheiro/code/frdm_serialfgmp/",
+        "https://os.mbed.com/users/readysteadygo2006/code/gather_sensor_data/",
+        "https://os.mbed.com/users/hudakz/code/STM32F103C8T6_DS1820/",
+        "https://os.mbed.com/users/sandrosole/code/UltiSaverController/",
+        "https://os.mbed.com/users/paris8022/code/T-watersensor/",
+        "https://os.mbed.com/users/e58136782000/code/IDW01M1-MQTT-1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DS1820",
+        "DS1822",
+        "DS18B20",
+        "DS18S20"
+    ],
+    "name": "DS1820",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/DS1820/"
+    }
+}

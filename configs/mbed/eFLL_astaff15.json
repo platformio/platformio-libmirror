@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Aster SmarTec",
+        "url": "https://os.mbed.com/users/astaff15/"
+    },
+    "description": "Fuzzy libray for embedded targets developed by zerokol. Read more on: http://zerokol.com/product/51e93616e84c5571b7000018/2/en edit by Bruno Alfano - corrected deallocation of FuzzyOutput",
+    "frameworks": "mbed",
+    "keywords": [
+        "eFLL",
+        "fuzzy",
+        "logic"
+    ],
+    "name": "eFLL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/astaff15/code/eFLL/"
+    }
+}

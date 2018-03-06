@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "hsu han-lin",
+        "url": "https://os.mbed.com/users/stanley1228/"
+    },
+    "description": "1.original from Cam Marshall 2.use for F446RE Test 3.use the interrupt method of uart 4.not change to RTOS yet",
+    "examples": [
+        "https://os.mbed.com/users/stanley1228/code/RoboticArm/",
+        "https://os.mbed.com/users/stanley1228/code/Modbus_Gripper_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Cam Marshall",
+        "F446RE",
+        "Modbus"
+    ],
+    "name": "Modbus_For_F446RE",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/stanley1228/code/Modbus_For_F446RE/"
+    }
+}

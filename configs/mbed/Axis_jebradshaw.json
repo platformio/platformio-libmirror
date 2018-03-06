@@ -1,0 +1,42 @@
+{
+    "authors": {
+        "name": "Joseph Bradshaw",
+        "url": "https://os.mbed.com/users/jebradshaw/"
+    },
+    "dependencies": [
+        {
+            "authors": "Joseph Bradshaw",
+            "frameworks": "mbed",
+            "name": "LS7366LIB"
+        },
+        {
+            "authors": "Joseph Bradshaw",
+            "frameworks": "mbed",
+            "name": "MotCon"
+        },
+        {
+            "authors": "Aaron Berk",
+            "frameworks": "mbed",
+            "name": "PID"
+        }
+    ],
+    "description": "C++ class for controlling DC motor with encoder feedback. Dependencies include LS7366LIB, MotCon, and PID.",
+    "examples": [
+        "https://os.mbed.com/users/jebradshaw/code/LPC1768_6axis_Arm/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "axis",
+        "motion",
+        "PID",
+        "robot arm",
+        "trapezoid",
+        "trapezoidal profile"
+    ],
+    "name": "Axis",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jebradshaw/code/Axis/"
+    }
+}

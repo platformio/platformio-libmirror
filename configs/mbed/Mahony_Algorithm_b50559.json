@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Rio Harris",
+        "url": "https://os.mbed.com/users/b50559/"
+    },
+    "description": "library using mahony's algorithm for 9dof",
+    "examples": [
+        "https://os.mbed.com/users/b50559/code/NerfGun_nRF24L01P_TX_9d0f/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Mahony_Algorithm",
+    "name": "Mahony_Algorithm",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/b50559/code/Mahony_Algorithm/"
+    }
+}

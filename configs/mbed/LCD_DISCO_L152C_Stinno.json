@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Paul Stinson",
+        "url": "https://os.mbed.com/users/Stinno/"
+    },
+    "description": "Library for using LCD on stm32l152c-disco development board. Modification of library for stm32l476vg-disco board, available here: https://developer.mbed.org/teams/ST/code/DISCO_L476VG_GlassLCD/",
+    "frameworks": "mbed",
+    "keywords": [
+        "disco",
+        "discovery",
+        "LCD",
+        "STM32L152"
+    ],
+    "name": "LCD_DISCO_L152C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Stinno/code/LCD_DISCO_L152C/"
+    }
+}

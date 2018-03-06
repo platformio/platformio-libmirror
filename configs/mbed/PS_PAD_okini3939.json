@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "PlayStation Controller library",
+    "examples": [
+        "https://os.mbed.com/users/ds074704261/code/PSController_Sample/",
+        "https://os.mbed.com/teams/KRAI-2016/code/coba_stick_PS2/",
+        "https://os.mbed.com/teams/KRAI-2016/code/basehybrid_PSPAD/",
+        "https://os.mbed.com/teams/KRAI-2016/code/Base_Hybrid_V3/",
+        "https://os.mbed.com/teams/KRAI-2016/code/Base_Hybrid_V2/",
+        "https://os.mbed.com/teams/KRAI-2016/code/base_rekam_darurat_v1/",
+        "https://os.mbed.com/teams/KRAI-2016/code/Base_Hybrid_Latihan_Ok_Hajar_servo_pwm/",
+        "https://os.mbed.com/teams/KRAI-2016/code/Base_Hybrid_Latihan_Ok_Hajar_servo_senso/",
+        "https://os.mbed.com/teams/KRAI-2016/code/Ultimate_Hybrid/",
+        "https://os.mbed.com/teams/KRAI-2016/code/TunningLF2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "game pad",
+        "gamepad",
+        "playstation",
+        "playstation2",
+        "PS2",
+        "SPI"
+    ],
+    "name": "PS_PAD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/PS_PAD/"
+    }
+}

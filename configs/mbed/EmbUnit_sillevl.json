@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Sille Van Landschoot",
+        "url": "https://os.mbed.com/users/sillevl/"
+    },
+    "description": "EmbUnit library for mbed. EmbUnit is a unit testing framework for embedded software. (more info: http://embunit.sourceforge.net/ )",
+    "frameworks": "mbed",
+    "keywords": [
+        "embunit",
+        "EP",
+        "TDD",
+        "testframework",
+        "testing",
+        "unit"
+    ],
+    "name": "EmbUnit",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sillevl/code/EmbUnit/"
+    }
+}

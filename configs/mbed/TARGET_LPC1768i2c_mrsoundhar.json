@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Soundharrajan S",
+        "url": "https://os.mbed.com/users/mrsoundhar/"
+    },
+    "description": "myi2c test",
+    "frameworks": "mbed",
+    "keywords": "TARGET_LPC1768i2c",
+    "name": "TARGET_LPC1768i2c",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mrsoundhar/code/TARGET_LPC1768i2c/"
+    }
+}

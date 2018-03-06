@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Andrew Russell",
+        "url": "https://os.mbed.com/users/andrewrussell/"
+    },
+    "description": "A very simple wrapper around the PWM library.",
+    "examples": [
+        "https://os.mbed.com/users/Amber77/code/JS_1motor_20170707_ok/",
+        "https://os.mbed.com/users/billwu1149/code/self_balance/",
+        "https://os.mbed.com/users/d15321854/code/Task_1_BallRidingbot_KeepingStationCatch/",
+        "https://os.mbed.com/users/d15321854/code/Task_2_BallRidingbot_MovingForwardCatchi/",
+        "https://os.mbed.com/users/Amber77/code/testSSWMR_StationKeeping_200170830_OK/",
+        "https://os.mbed.com/users/Amber77/code/testSSWMR_StationKeeping_OK/",
+        "https://os.mbed.com/users/Amber77/code/testSSWMR_TrajectoryTracking_OK/",
+        "https://os.mbed.com/users/Amber77/code/x-axis_2motor_control_20170721_OK/",
+        "https://os.mbed.com/users/Amber77/code/y-axis_2motor_control_20170721_OK/",
+        "https://os.mbed.com/users/Amber77/code/Control_JS_LimitSwitch_Lifting_20170120_/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Servo",
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/andrewrussell/code/Servo/"
+    }
+}

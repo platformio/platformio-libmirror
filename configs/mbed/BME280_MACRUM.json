@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Toyomasa Watarai",
+        "url": "https://os.mbed.com/users/MACRUM/"
+    },
+    "description": "BME280 Combined humidity and pressure sensor library with I2C interface",
+    "examples": [
+        "https://os.mbed.com/users/MACRUM/code/BME280_LCD/",
+        "https://os.mbed.com/users/MACRUM/code/BME280_Hello/",
+        "https://os.mbed.com/users/MACRUM/code/IFTTT_BME280_demo/",
+        "https://os.mbed.com/users/zeus3110/code/TweetTest/",
+        "https://os.mbed.com/users/zeus3110/code/NetworkThermometer/",
+        "https://os.mbed.com/teams/Vockens-Group-Sensors/code/BLE_UPAS_CUSTOM/",
+        "https://os.mbed.com/users/MACRUM/code/BME280_environmental_recorder/",
+        "https://os.mbed.com/teams/Vockens-Group-Sensors/code/UPAS_MicroBLE/",
+        "https://os.mbed.com/teams/Vockens-Group-Sensors/code/UPAS_BLE_SD_iOS/",
+        "https://os.mbed.com/users/mbed_tw_hoehoe/code/BLE_BME280/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BME280",
+    "name": "BME280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MACRUM/code/BME280/"
+    }
+}

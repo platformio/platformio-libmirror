@@ -1,0 +1,41 @@
+{
+    "authors": {
+        "name": "Neil Thiessen",
+        "url": "https://os.mbed.com/users/neilt6/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "A re-written SDFileSystem library with improved compatibility, CRC support, and card removal/replacement support.",
+    "examples": [
+        "https://os.mbed.com/users/whatnick/code/xadow_m0_SD_Hello/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/roam_v1/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/roam_v2/",
+        "https://os.mbed.com/users/mullercamille/code/Polytech_tours/",
+        "https://os.mbed.com/users/vpcola/code/lpc1768_blinky/",
+        "https://os.mbed.com/users/Spilly/code/GPSNavigationNew/",
+        "https://os.mbed.com/users/metabi814/code/b2b/",
+        "https://os.mbed.com/users/leuyentran/code/ECE2035_FroggerGame_SUM1025/",
+        "https://os.mbed.com/users/Kevin_Lee/code/archlink_Temperture_ethernet_http/",
+        "https://os.mbed.com/users/Kevin_Lee/code/archlink_Temperture_dweetio/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "fatfilesystem",
+        "MMC",
+        "SD",
+        "SD Card",
+        "SDHC",
+        "SDXC"
+    ],
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/neilt6/code/SDFileSystem/"
+    }
+}

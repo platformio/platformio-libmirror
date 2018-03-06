@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Samuel Mokrani",
+        "url": "https://os.mbed.com/users/samux/"
+    },
+    "description": "USBMSD example using an SD card",
+    "examples": [
+        "https://os.mbed.com/users/samux/code/USBMSD_SD_HelloWorld_FRDM-KL25Z/",
+        "https://os.mbed.com/users/samux/code/USBMSD_SD_HelloWorld_Mbed/",
+        "https://os.mbed.com/users/cstevens/code/USBMSD_SD_HelloWorld_FRDM-KL25Z/",
+        "https://os.mbed.com/teams/V09/code/V09_01h/",
+        "https://os.mbed.com/users/floranium/code/floranion-scientific/",
+        "https://os.mbed.com/teams/Megtestesules-Plebania-hobbielektronika-/code/14_USBMSD_SD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "USBMSD_SD",
+    "name": "USBMSD_SD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/samux/code/USBMSD_SD/"
+    }
+}

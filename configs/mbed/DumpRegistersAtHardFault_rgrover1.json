@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Rohit Grover",
+        "url": "https://os.mbed.com/users/rgrover1/"
+    },
+    "description": "A hardfault handler to dump useful registers to aid debugging of program exceptions. Often knowing the ProgramCounter (PC) at fault time is enough to find a useful location in source ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "assembly",
+        "exception",
+        "fault",
+        "handler",
+        "hardfault",
+        "registerdump"
+    ],
+    "name": "DumpRegistersAtHardFault",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rgrover1/code/DumpRegistersAtHardFault/"
+    }
+}

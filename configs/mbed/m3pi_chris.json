@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Chris Styles",
+        "url": "https://os.mbed.com/users/chris/"
+    },
+    "description": "Library for the m3pi robot. This works with a Pololu 3pi robot with the Serial Slave firmware, and exposes and API.",
+    "examples": [
+        "https://os.mbed.com/users/chris/code/m3pi_USBSerialRPC/",
+        "https://os.mbed.com/users/chris/code/m3pi_BluetoothRPC/",
+        "https://os.mbed.com/users/chris/code/m3pi_HelloWorld/",
+        "https://os.mbed.com/users/chris/code/m3pi_WiiRacing/",
+        "https://os.mbed.com/users/Nicholas/code/m3pi_Logo_HelloWorld/",
+        "https://os.mbed.com/users/Nicholas/code/M3pi_logo_principle/",
+        "https://os.mbed.com/users/jonmarsh/code/m3pi_POV/",
+        "https://os.mbed.com/users/kanpapa/code/m3pi_ledpsd/",
+        "https://os.mbed.com/users/aworsley/code/WixelTest/",
+        "https://os.mbed.com/users/nbbhav/code/m3pi_RFIDReader/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "3pi",
+        "m3pi",
+        "robot"
+    ],
+    "name": "m3pi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chris/code/m3pi/"
+    }
+}

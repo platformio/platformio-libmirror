@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "mimil owns",
+        "url": "https://os.mbed.com/users/mimil/"
+    },
+    "description": "Driver for thermal printer using serial communication like http://www.sparkfun.com/products/10438. This is port from arduino library available at http://bildr.org/2011/08/thermal-printer-arduino/",
+    "examples": [
+        "https://os.mbed.com/users/mimil/code/ThermalSample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Serial",
+        "thermal printer"
+    ],
+    "name": "Thermal",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mimil/code/Thermal/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Steven Blair",
+        "url": "https://os.mbed.com/users/sblair/"
+    },
+    "description": "An mbed library for 4D Systems uOLED-160-G1",
+    "examples": [
+        "https://os.mbed.com/users/sblair/code/OLED-Driver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "4DGL",
+        "4DSystems",
+        "OLED"
+    ],
+    "name": "OLED160G1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sblair/code/OLED160G1/"
+    }
+}

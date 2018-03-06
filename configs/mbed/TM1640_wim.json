@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "Library for TM1640 LED controller Initial version",
+    "examples": [
+        "https://os.mbed.com/users/wim/code/mbed_TM1640/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LM1640",
+        "TM1640"
+    ],
+    "name": "TM1640",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/TM1640/"
+    }
+}

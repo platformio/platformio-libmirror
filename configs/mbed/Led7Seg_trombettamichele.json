@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Trombetta Michele",
+        "url": "https://os.mbed.com/users/trombettamichele/"
+    },
+    "description": "Very simple library for controll a 7 segment display.",
+    "examples": [
+        "https://os.mbed.com/users/trombettamichele/code/Demo_Led7seg/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "7",
+        "display",
+        "segment"
+    ],
+    "name": "Led7Seg",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/trombettamichele/code/Led7Seg/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Jung Hun Kim",
+        "url": "https://os.mbed.com/users/shyguykjh/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "ECE 4180 Lab 04 - Jung Hun Kim",
+    "frameworks": "mbed",
+    "keywords": "PublishingLab04",
+    "name": "PublishingLab04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shyguykjh/code/PublishingLab04/"
+    }
+}

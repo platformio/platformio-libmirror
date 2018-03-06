@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Francesco Adamo",
+        "url": "https://os.mbed.com/users/frada/"
+    },
+    "description": "This is a fork of MS5803-01 library by Raig Kaufer adapted for the MS5803-14BA.",
+    "examples": [
+        "https://os.mbed.com/users/frada/code/MS5803_demo/",
+        "https://os.mbed.com/users/potless/code/ARNSRS_SERVOS_USB_TFT/",
+        "https://os.mbed.com/users/andrewbates11/code/pdiot-MS5803-test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MS5803_14BA",
+    "name": "MS5803_14BA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/frada/code/MS5803_14BA/"
+    }
+}

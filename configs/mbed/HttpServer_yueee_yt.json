@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Yasushi TAUCHI",
+        "url": "https://os.mbed.com/users/yueee_yt/"
+    },
+    "description": "New EthernetInterface Version HTTPServer Library only SimpleHandler Test",
+    "examples": [
+        "https://os.mbed.com/users/yueee_yt/code/HttpServerSample/",
+        "https://os.mbed.com/users/yueee_yt/code/giken9_HTMLServer_Sample/",
+        "https://os.mbed.com/users/yueee_yt/code/giken9_HTMLServer_Temp_Sample/",
+        "https://os.mbed.com/teams/smdiotkit2ch/code/RPCHTTPServer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HTTPServer",
+    "name": "HttpServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yueee_yt/code/HttpServer/"
+    }
+}

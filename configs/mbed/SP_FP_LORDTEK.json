@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "LORDTEK LORDTEK",
+        "url": "https://os.mbed.com/users/LORDTEK/"
+    },
+    "description": "Single precision floating point conversion converter decoder makes it readable",
+    "examples": [
+        "https://os.mbed.com/users/LORDTEK/code/AMIS30543/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "converter",
+        "decoder",
+        "floating",
+        "point",
+        "precision",
+        "readable",
+        "single"
+    ],
+    "name": "SP_FP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/LORDTEK/code/SP_FP/"
+    }
+}

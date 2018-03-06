@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Andy A",
+        "url": "https://os.mbed.com/users/AndyA/"
+    },
+    "description": "plotly interface based on ardunio sample code",
+    "examples": [
+        "https://os.mbed.com/users/AndyA/code/Plotly_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "chart",
+        "graph",
+        "plot.ly"
+    ],
+    "name": "plotly",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AndyA/code/plotly/"
+    }
+}

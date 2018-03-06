@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Chris Styles",
+        "url": "https://os.mbed.com/users/chris/"
+    },
+    "description": "SRF08 Libraray",
+    "examples": [
+        "https://os.mbed.com/users/demo/code/mbedDemoDisplay/",
+        "https://os.mbed.com/users/dcmk1mr2/code/mbedDemoDisplay/",
+        "https://os.mbed.com/users/Degs/code/Roaming/",
+        "https://os.mbed.com/users/wj8000000/code/SRF08HelloWorld/",
+        "https://os.mbed.com/users/Remi95/code/Auto_Motor/",
+        "https://os.mbed.com/users/yannickrda/code/Robot_Autonome_Proto/",
+        "https://os.mbed.com/users/melse/code/SRF08HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SRF08",
+    "name": "SRF08",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chris/code/SRF08/"
+    }
+}

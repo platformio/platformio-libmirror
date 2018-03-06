@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Kazuhiro Ouchi",
+        "url": "https://os.mbed.com/users/kanpapa/"
+    },
+    "description": "Akizuki 32x16 dot LED Matrix unit (K-03735) control library.",
+    "frameworks": "mbed",
+    "keywords": "AkiLedMatrix",
+    "name": "AkiLedMatrix",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kanpapa/code/AkiLedMatrix/"
+    }
+}

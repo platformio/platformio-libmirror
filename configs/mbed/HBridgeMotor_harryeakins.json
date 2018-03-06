@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Harry Eakins",
+        "url": "https://os.mbed.com/users/harryeakins/"
+    },
+    "description": "A simple class which can be used to control a motor through a HBridge (such as the L293).",
+    "frameworks": "mbed",
+    "keywords": [
+        "hbridge",
+        "ICRS",
+        "motor"
+    ],
+    "name": "HBridgeMotor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/harryeakins/code/HBridgeMotor/"
+    }
+}

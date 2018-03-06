@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Shundo Kishi",
+        "url": "https://os.mbed.com/users/syundo0730/"
+    },
+    "description": "Emulate 「Serial」of Arduino library for mbed. We can easily port arduino's project into mbed by this library.",
+    "examples": [
+        "https://os.mbed.com/users/syundo0730/code/MPU6050/",
+        "https://os.mbed.com/users/syundo0730/code/MPU9150/",
+        "https://os.mbed.com/users/tsumagari/code/MPU6050/",
+        "https://os.mbed.com/users/sem40590/code/MPU6050/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ArduinoSerial",
+    "name": "ArduinoSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/syundo0730/code/ArduinoSerial/"
+    }
+}

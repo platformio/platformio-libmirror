@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Joe Staton",
+        "url": "https://os.mbed.com/users/Stavlin/"
+    },
+    "description": "Library to interface with the MAX31855 Cold Junction Compensated Thermocouple-to-Digital Converter",
+    "examples": [
+        "https://os.mbed.com/users/Stavlin/code/max31855Sample/",
+        "https://os.mbed.com/users/pwheels/code/Reflow_Oven_Controller/",
+        "https://os.mbed.com/users/EDCHEN/code/test_draft/",
+        "https://os.mbed.com/users/takafuminaka/code/Soldering_Tips_Thermometer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "max31855",
+        "MAX6675",
+        "Thermocouple"
+    ],
+    "name": "MAX31855",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Stavlin/code/MAX31855/"
+    }
+}

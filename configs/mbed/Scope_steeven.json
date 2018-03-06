@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "steeven lee",
+        "url": "https://os.mbed.com/users/steeven/"
+    },
+    "description": "A simple Oscilloscope that log each pin's data change Please dump log and analyze using Excel x-y chart type!",
+    "frameworks": "mbed",
+    "keywords": [
+        "Analyzer",
+        "logic",
+        "osc",
+        "Oscilloscope",
+        "scope"
+    ],
+    "name": "Scope",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/steeven/code/Scope/"
+    }
+}

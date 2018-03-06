@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Daniel Fernando Olarte Lezcano",
+        "url": "https://os.mbed.com/users/DanielOlarte/"
+    },
+    "description": "RTC",
+    "examples": [
+        "https://os.mbed.com/users/Digitalesavanzados/code/GloboMet/",
+        "https://os.mbed.com/users/Digitalesavanzados/code/GloboMetereologico/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "RTC",
+    "name": "RTC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DanielOlarte/code/RTC/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "Library for NXP (Philips) PCF8591 I2C 4 Channel, 8bit Analog to Digital converter and a 1 Channel, 8bit Digital to Analog converter.",
+    "examples": [
+        "https://os.mbed.com/users/wim/code/812_hello/",
+        "https://os.mbed.com/users/fblanc/code/PCF8591_test_LAAS/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "dac",
+        "I2C",
+        "PCF8591"
+    ],
+    "name": "PCF8591",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/PCF8591/"
+    }
+}

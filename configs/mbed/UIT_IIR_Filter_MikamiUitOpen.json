@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "縦続形 IIR フィルタ用ライブラリ． Library for cascade structure IIR filter.",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/Demo_IIR_Filter/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VariableIIR_LPF/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VariableIIR_LPFHPF/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "biduad",
+        "cascade structure",
+        "IIR filter",
+        "Nucleo",
+        "UIT"
+    ],
+    "name": "UIT_IIR_Filter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/UIT_IIR_Filter/"
+    }
+}

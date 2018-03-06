@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Visweswara R",
+        "url": "https://os.mbed.com/users/viswesr/"
+    },
+    "description": "PCA9672 Library (I2C IO Expander Interface)",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LPC800",
+        "LPC800-MAX",
+        "PCA9672"
+    ],
+    "name": "PCA9672",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/viswesr/code/PCA9672/"
+    }
+}

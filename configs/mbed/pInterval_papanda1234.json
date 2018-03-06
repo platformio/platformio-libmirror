@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "papanda panda",
+        "url": "https://os.mbed.com/users/papanda1234/"
+    },
+    "description": "Tickerなどのタイマー要素を使わずにmain()内のwhile(1)内で定期実行するためのクラスです。",
+    "frameworks": "mbed",
+    "keywords": [
+        "Ticker",
+        "timer"
+    ],
+    "name": "pInterval",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/papanda1234/code/pInterval/"
+    }
+}

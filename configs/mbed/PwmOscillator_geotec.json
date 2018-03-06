@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "bunt _",
+        "url": "https://os.mbed.com/users/geotec/"
+    },
+    "dependencies": [
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "FastPWM"
+        }
+    ],
+    "description": "Creates square-wave frequency output on pin p22. Custom frequency between 1Hz and 48 MHz. (LPC 1768)",
+    "frameworks": "mbed",
+    "keywords": [
+        "frequency",
+        "LPC1768",
+        "MHz",
+        "output"
+    ],
+    "name": "PwmOscillator",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/geotec/code/PwmOscillator/"
+    }
+}

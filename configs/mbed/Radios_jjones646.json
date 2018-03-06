@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Jonathan Jones",
+        "url": "https://os.mbed.com/users/jjones646/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        }
+    ],
+    "description": "Radio Structures in OOP",
+    "frameworks": "mbed",
+    "keywords": "Radios",
+    "name": "Radios",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jjones646/code/Radios/"
+    }
+}

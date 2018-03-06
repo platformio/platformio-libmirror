@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "FFT for real data using decimation-in-frequency algorithm. 実データに対するFFT．周波数間引きアルゴリズムを使用．",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_SpectrumAnalyzer/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/Demo_FFT_IFFT/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_SpectralAnalysis_Example/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_SpectralAnalysis_NoPhoto/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_FFT_Speed/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_RealtimeSpectrumAnalyzer/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_RealtimeSpectrumAnalyzer_MEMS_Mic/",
+        "https://os.mbed.com/users/kenjiArai/code/CW_Decoder_using_FFT_on_DiscoF746NG/",
+        "https://os.mbed.com/users/kenjiArai/code/CW_Decoder_using_FFT_on_F446/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F446_Spectrogram/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "decimation-in-frequency",
+        "FFT",
+        "IFFT",
+        "Nucleo",
+        "real data",
+        "UIT"
+    ],
+    "name": "UIT_FFT_Real",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/UIT_FFT_Real/"
+    }
+}

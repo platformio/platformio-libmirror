@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Kevin Braun",
+        "url": "https://os.mbed.com/users/loopsva/"
+    },
+    "description": "High resolution barometer and altimeter using i2c mode",
+    "examples": [
+        "https://os.mbed.com/users/sam_grove/code/upverter_fitbit_clone/",
+        "https://os.mbed.com/teams/FIBO/code/ReadingMag_HMC5883L_work/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Altimeter",
+        "barometer",
+        "I2C",
+        "ms5611"
+    ],
+    "name": "ms5611",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/loopsva/code/ms5611/"
+    }
+}

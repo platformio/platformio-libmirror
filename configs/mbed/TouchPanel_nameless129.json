@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "en 129",
+        "url": "https://os.mbed.com/users/nameless129/"
+    },
+    "description": "4線抵抗皮膜式タッチパネル用",
+    "examples": [
+        "https://os.mbed.com/users/nameless129/code/11U68_MP3Player-with-TFTLCD/",
+        "https://os.mbed.com/users/Hapi_Tech/code/11U68_MP3Player-with-TFTLCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TouchPanel",
+    "name": "TouchPanel",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nameless129/code/TouchPanel/"
+    }
+}

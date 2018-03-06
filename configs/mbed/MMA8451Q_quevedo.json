@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Antonio Quevedo",
+        "url": "https://os.mbed.com/users/quevedo/"
+    },
+    "description": "My version of the library for this accelerometer. It works on 800Hz data rate.",
+    "examples": [
+        "https://os.mbed.com/users/quevedo/code/Acc_Logger/",
+        "https://os.mbed.com/users/kennylujan42/code/midterm/",
+        "https://os.mbed.com/users/ogarai/code/SDCardTest/",
+        "https://os.mbed.com/teams/A-Team1/code/SDCardTest/",
+        "https://os.mbed.com/teams/Oxford-cwm-laser-tag/code/Laser_Gun_6/",
+        "https://os.mbed.com/teams/Oxford-cwm-laser-tag/code/Laser_Gun_7/",
+        "https://os.mbed.com/users/OlySolano/code/Contador_De_Pasos/",
+        "https://os.mbed.com/users/verden32/code/ProyectoNivel/",
+        "https://os.mbed.com/users/Jajo/code/detector-de-vibracion/",
+        "https://os.mbed.com/users/DiegoRivera/code/DetectorImpacto/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MMA8451Q",
+    "name": "MMA8451Q",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/quevedo/code/MMA8451Q/"
+    }
+}

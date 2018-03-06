@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Giles Barton-Owen",
+        "url": "https://os.mbed.com/users/p07gbar/"
+    },
+    "description": "A PWM/duty cycle measurement library using Timer2",
+    "examples": [
+        "https://os.mbed.com/users/p07gbar/code/PWMAverage_test/",
+        "https://os.mbed.com/users/p07gbar/code/pwm_duty_measurement/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "duty cycle",
+        "measurement",
+        "pwm",
+        "timer2"
+    ],
+    "name": "PWMAverage",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/p07gbar/code/PWMAverage/"
+    }
+}

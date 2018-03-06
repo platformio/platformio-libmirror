@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Wenzel Lübeck",
+        "url": "https://os.mbed.com/users/wluebeck/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "SPI-Master for CAN (Nucleo f401re)",
+    "frameworks": "mbed",
+    "keywords": "Nucleo_spi_master",
+    "name": "Nucleo_spi_master",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wluebeck/code/Nucleo_spi_master/"
+    }
+}

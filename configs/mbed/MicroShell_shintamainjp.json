@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "Have you tried to develop a key input feature on your small embedded platform with a serial input? It is not so easy to implement correctly because the input methodology ...",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/MicroShellExample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "COMMAND PARSER",
+        "Serial",
+        "shell",
+        "VT100"
+    ],
+    "name": "MicroShell",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/MicroShell/"
+    }
+}

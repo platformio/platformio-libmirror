@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Martin Kojtal",
+        "url": "https://os.mbed.com/users/Kojto/"
+    },
+    "description": "A library for Freescale MCU which contain TSI peripheral, just for Kinetis L version. Because they use \"lighter\" version of TSI peripheral.",
+    "examples": [
+        "https://os.mbed.com/users/murilopontes/code/kl25z-tinyshell-demo/",
+        "https://os.mbed.com/users/pomernblueice/code/tsi_slider_light_senso_LED/",
+        "https://os.mbed.com/users/wd5gnr/code/frdm_tsi_slider_led_blend/",
+        "https://os.mbed.com/users/hww3/code/demo_slider/",
+        "https://os.mbed.com/users/sarahboydster/code/control_power_out_with_slider/",
+        "https://os.mbed.com/users/mm73/code/Options_slider/",
+        "https://os.mbed.com/users/acracan/code/BLDC_RPM_meter/",
+        "https://os.mbed.com/users/my_username/code/Progettoembedded/",
+        "https://os.mbed.com/users/oehlberg/code/frdm_Slider_Keyboard/",
+        "https://os.mbed.com/users/parnell/code/SecretKnock/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Freescale",
+        "sensing",
+        "touch",
+        "TSI"
+    ],
+    "name": "tsi_sensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Kojto/code/tsi_sensor/"
+    }
+}

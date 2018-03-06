@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "David Smart",
+        "url": "https://os.mbed.com/users/WiredHome/"
+    },
+    "description": "CANPort provides a higher level interface to a CAN communication channel, and provides timestamping, servicing additional hardware interfaces (optional activity LED, CAN transceiver slope control)",
+    "frameworks": "mbed",
+    "keywords": [
+        "CAN",
+        "control",
+        "port",
+        "slope"
+    ],
+    "name": "CANPort",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WiredHome/code/CANPort/"
+    }
+}

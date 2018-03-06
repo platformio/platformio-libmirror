@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Ryota Yamamoto",
+        "url": "https://os.mbed.com/users/Yajirushi/"
+    },
+    "description": "Virtual SPI interface library. SPI専用ピンを使わず、通常のIOピンを使用してSPI通信を偽装します。 使い方は通常のSPIと同じようなものですが、frequency(周波数)の設定があまり厳密ではないので実験用途でデバッグしたいとき等にご使用ください。 「SPI専用のピンが壊れているのではないのか？」というときの確認に便利です。 Implement the SPI communication in the \"only general purpose IO pin\" without a SPI pin.",
+    "examples": [
+        "https://os.mbed.com/users/Yajirushi/code/VirtualSPI/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Fake SPI",
+        "SPI",
+        "Virtual SPI",
+        "VSPI"
+    ],
+    "name": "VSPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Yajirushi/code/VSPI/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Robert K",
+        "url": "https://os.mbed.com/users/Pinski1/"
+    },
+    "description": "A library that makes use of the TB6612FNG and tested on the Sparkfun FTB6612NG carrier board.",
+    "frameworks": "mbed",
+    "keywords": [
+        "motor",
+        "pwm",
+        "sparkfun",
+        "TB6612FNG"
+    ],
+    "name": "TB6612FNG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Pinski1/code/TB6612FNG/"
+    }
+}

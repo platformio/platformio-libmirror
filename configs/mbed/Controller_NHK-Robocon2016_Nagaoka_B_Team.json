@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "NagaokaRoboticsClub_mbedTeam",
+        "url": "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "FEP"
+        }
+    ],
+    "description": "交流ロボコン",
+    "frameworks": "mbed",
+    "keywords": "controller",
+    "name": "Controller",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/Controller/"
+    }
+}

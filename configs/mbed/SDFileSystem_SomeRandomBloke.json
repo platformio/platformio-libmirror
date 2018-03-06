@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Andrew Lindsay",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/"
+    },
+    "description": "Copy of SDFileSystem library",
+    "examples": [
+        "https://os.mbed.com/users/SomeRandomBloke/code/IoTGateway_Basic/",
+        "https://os.mbed.com/users/esmiwa/code/y_CameraC1098_ES_01/",
+        "https://os.mbed.com/users/esmiwa/code/y_XBeeTest_5_read/",
+        "https://os.mbed.com/users/ryanmc/code/MOVIE_MUSIC_TRIVIA_GAME/",
+        "https://os.mbed.com/users/jys1/code/iot_cook/",
+        "https://os.mbed.com/users/TBSliver/code/LEDSign_SimpleSD/",
+        "https://os.mbed.com/users/hcha30/code/4180_lab4_bigfishgame/",
+        "https://os.mbed.com/teams/MaximIntegrated/code/FTHR_SD_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/code/SDFileSystem/"
+    }
+}

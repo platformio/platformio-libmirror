@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Yihui Xiong",
+        "url": "https://os.mbed.com/users/yihui/"
+    },
+    "description": "MessagePack C implementation for mbed, modified from https://github.com/msgpack/msgpack-c",
+    "examples": [
+        "https://os.mbed.com/users/yihui/code/msgpack_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "JSON",
+        "MessagePack"
+    ],
+    "name": "msgpack",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yihui/code/msgpack/"
+    }
+}

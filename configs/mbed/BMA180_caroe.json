@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Bo Carøe",
+        "url": "https://os.mbed.com/users/caroe/"
+    },
+    "description": "BMA180 adr. 0x41 from BlazeX",
+    "examples": [
+        "https://os.mbed.com/users/caroe/code/Sensor_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BMA180",
+    "name": "BMA180",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/caroe/code/BMA180/"
+    }
+}

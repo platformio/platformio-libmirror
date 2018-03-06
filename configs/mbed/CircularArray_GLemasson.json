@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Germain Lemasson",
+        "url": "https://os.mbed.com/users/GLemasson/"
+    },
+    "description": "An implementation of a circular array allowing direct write and read.",
+    "frameworks": "mbed",
+    "keywords": [
+        "array",
+        "circular",
+        "Queue"
+    ],
+    "name": "CircularArray",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/GLemasson/code/CircularArray/"
+    }
+}

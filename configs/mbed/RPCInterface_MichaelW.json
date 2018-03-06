@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Michael Walker",
+        "url": "https://os.mbed.com/users/MichaelW/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "mbed-rpc"
+        }
+    ],
+    "description": "Library to provide a mechanism to make it easier to add RPC to custom code by using RPCFunction and RPCVariable objects. Also includes a class to receive and process RPC ...",
+    "examples": [
+        "https://os.mbed.com/users/botdream/code/GSL_10-Pololu_A4983_STEPMOTORDRIVER/",
+        "https://os.mbed.com/users/protodriveev/code/Protodrive/",
+        "https://os.mbed.com/users/fernandomachado/code/RPC_HTTP/",
+        "https://os.mbed.com/users/currystomper/code/RPC_TestHack/",
+        "https://os.mbed.com/users/Aaronduino/code/firm/",
+        "https://os.mbed.com/users/geissme/code/HTTPServerExample/",
+        "https://os.mbed.com/users/kiban_honpo/code/HTTP_server_DHCP/",
+        "https://os.mbed.com/users/sammekevremde/code/I2C_RPC/",
+        "https://os.mbed.com/users/villeah/code/IR_temperature/",
+        "https://os.mbed.com/users/harish_i/code/RPC_HTTP_dac0808/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "rpc",
+    "name": "RPCInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MichaelW/code/RPCInterface/"
+    }
+}

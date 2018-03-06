@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Michael Shimniok",
+        "url": "https://os.mbed.com/users/shimniok/"
+    },
+    "description": "An interface to the Sparkfun Serial Graphic LCD, LCD-09351; and Graphic LCD Serial Backpack, LCD-09352. Derived class from Serial so that you can conveniently send text to the display with ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "Graphics",
+        "LCD"
+    ],
+    "name": "SerialGraphicLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shimniok/code/SerialGraphicLCD/"
+    }
+}

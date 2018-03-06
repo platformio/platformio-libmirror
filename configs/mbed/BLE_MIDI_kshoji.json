@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Kaoru Shoji",
+        "url": "https://os.mbed.com/users/kshoji/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "BLE_API"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "nRF51822"
+        }
+    ],
+    "description": "Utility class for MIDI over Bluetooth LE",
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "MIDI"
+    ],
+    "name": "BLE_MIDI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kshoji/code/BLE_MIDI/"
+    }
+}

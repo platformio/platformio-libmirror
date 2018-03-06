@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Chau Vo",
+        "url": "https://os.mbed.com/users/olympux/"
+    },
+    "description": "EEPROM emulation using Flash for STM32F103",
+    "examples": [
+        "https://os.mbed.com/users/olympux/code/F103-Web-Server/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "EEPROM",
+        "flash",
+        "stm32"
+    ],
+    "name": "eeprom_flash",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/olympux/code/eeprom_flash/"
+    }
+}

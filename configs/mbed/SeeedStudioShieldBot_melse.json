@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Matthew Else",
+        "url": "https://os.mbed.com/users/melse/"
+    },
+    "description": "Library for the Seeed Studio Shield Bot",
+    "examples": [
+        "https://os.mbed.com/users/melse/code/ShieldBotExample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SeeedStudioShieldBot",
+    "name": "SeeedStudioShieldBot",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/melse/code/SeeedStudioShieldBot/"
+    }
+}

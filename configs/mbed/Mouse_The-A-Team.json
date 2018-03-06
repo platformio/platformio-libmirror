@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "The Professional Perfectionists",
+        "url": "https://os.mbed.com/teams/The-A-Team/"
+    },
+    "description": "Our PS2 converted into library",
+    "examples": [
+        "https://os.mbed.com/teams/The-A-Team/code/Position_Mouse/",
+        "https://os.mbed.com/teams/The-A-Team/code/Test_Mouse/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Mouse",
+    "name": "Mouse",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/The-A-Team/code/Mouse/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Kaoru Onoe",
+        "url": "https://os.mbed.com/users/kayekss/"
+    },
+    "description": "Driver library for ST7565 graphics LCD controller over SPI interface.",
+    "examples": [
+        "https://os.mbed.com/users/kayekss/code/ST7565SPI_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "Sitronix",
+        "ST7565"
+    ],
+    "name": "ST7565SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kayekss/code/ST7565SPI/"
+    }
+}

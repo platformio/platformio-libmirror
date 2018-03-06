@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Bo Carøe",
+        "url": "https://os.mbed.com/users/caroe/"
+    },
+    "description": "HMC5882 from BlazeX",
+    "examples": [
+        "https://os.mbed.com/users/caroe/code/Sensor_test/",
+        "https://os.mbed.com/users/arturocontreras/code/Algoritmo_Fuzzy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HMC5883",
+    "name": "HMC5883",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/caroe/code/HMC5883/"
+    }
+}

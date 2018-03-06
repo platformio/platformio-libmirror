@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Harry Eakins",
+        "url": "https://os.mbed.com/users/harryeakins/"
+    },
+    "description": "Library to send and receive data using RF12B transceiver modules Big thanks to the tutorial at https://loee.jottit.com/rfm12b_and_avr_-_quick_start and madcowswe",
+    "examples": [
+        "https://os.mbed.com/users/benecsj/code/Measure_system/",
+        "https://os.mbed.com/users/madcowswe/code/Quadcopter_copy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "RF12B",
+    "name": "RF12B",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/harryeakins/code/RF12B/"
+    }
+}

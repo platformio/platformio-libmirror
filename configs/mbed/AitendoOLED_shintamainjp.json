@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "Aitendo OLED device driver library.",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/AitendoOLED_TestProgram/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AITENDO",
+        "OLED"
+    ],
+    "name": "AitendoOLED",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/AitendoOLED/"
+    }
+}

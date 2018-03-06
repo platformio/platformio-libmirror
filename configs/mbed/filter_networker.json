@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Ad van der Weiden",
+        "url": "https://os.mbed.com/users/networker/"
+    },
+    "description": "a floating median filter to filter floating point data such as analog inputs",
+    "examples": [
+        "https://os.mbed.com/teams/MBED_DEMOS/code/df-2013-minihack-slingshot/",
+        "https://os.mbed.com/users/tobyspark/code/SPK-DVIMXR/",
+        "https://os.mbed.com/users/joe4465/code/QuadCopter/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AnalogIn",
+        "filter",
+        "median",
+        "outlier",
+        "spikes"
+    ],
+    "name": "filter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/networker/code/filter/"
+    }
+}

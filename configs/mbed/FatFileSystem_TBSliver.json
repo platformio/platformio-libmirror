@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Tom Bloor",
+        "url": "https://os.mbed.com/users/TBSliver/"
+    },
+    "description": "Some library needed for things? Licence unknown",
+    "examples": [
+        "https://os.mbed.com/users/TBSliver/code/LEDSign_SimpleSD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FatFileSystem",
+    "name": "FatFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/TBSliver/code/FatFileSystem/"
+    }
+}

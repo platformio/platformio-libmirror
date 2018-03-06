@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Dimiter K",
+        "url": "https://os.mbed.com/users/DimiterK/"
+    },
+    "description": "scan a 4x4 keypad by polling it continuously.",
+    "examples": [
+        "https://os.mbed.com/users/daryl2110/code/Keyboard_LCD/",
+        "https://os.mbed.com/users/salvarear/code/tarea6_teclado/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "4x4",
+        "keypad",
+        "polling"
+    ],
+    "name": "keypad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DimiterK/code/keypad/"
+    }
+}

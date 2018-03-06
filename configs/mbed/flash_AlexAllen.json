@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Alex Allen",
+        "url": "https://os.mbed.com/users/AlexAllen/"
+    },
+    "description": "A collection of light flashing functions",
+    "frameworks": "mbed",
+    "keywords": "flash",
+    "name": "flash",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AlexAllen/code/flash/"
+    }
+}

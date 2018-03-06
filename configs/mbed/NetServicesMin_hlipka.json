@@ -1,0 +1,44 @@
+{
+    "authors": {
+        "name": "Hendrik Lipka",
+        "url": "https://os.mbed.com/users/hlipka/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "lwip"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "lwip-sys"
+        }
+    ],
+    "description": "Stripped down version of Segundos NetService library (http://mbed.org/users/segundo/libraries/NetServices ). I have removed all NetServices, and all functions which had been disabled. Use this version when you need only pure TCP ...",
+    "examples": [
+        "https://os.mbed.com/users/alpsayin/code/christmasLights/",
+        "https://os.mbed.com/users/recotana/code/device_server/",
+        "https://os.mbed.com/users/hlipka/code/pop3demo/",
+        "https://os.mbed.com/users/recotana/code/device_server_udp/",
+        "https://os.mbed.com/users/recotana/code/nakagawa_rx_Emu/",
+        "https://os.mbed.com/users/recotana/code/led_sender_post/",
+        "https://os.mbed.com/users/fernya/code/le_curupp/",
+        "https://os.mbed.com/users/va009039/code/WebcamServer/",
+        "https://os.mbed.com/users/tobyspark/code/SPK-DVIMXR/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "NetServices",
+        "network",
+        "TCP",
+        "UDP"
+    ],
+    "name": "NetServicesMin",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hlipka/code/NetServicesMin/"
+    }
+}

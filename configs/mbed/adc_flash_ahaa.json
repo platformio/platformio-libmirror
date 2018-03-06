@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Tobias Wulf",
+        "url": "https://os.mbed.com/users/flash_ahaa/"
+    },
+    "description": "Labrary from Simon Blandford",
+    "examples": [
+        "https://os.mbed.com/users/flash_ahaa/code/DiscoTech/",
+        "https://os.mbed.com/users/flash_ahaa/code/ADC_Test/",
+        "https://os.mbed.com/users/XIZ/code/filter_implement/",
+        "https://os.mbed.com/users/villeah/code/IR_temperature/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "adc",
+    "name": "adc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/flash_ahaa/code/adc/"
+    }
+}

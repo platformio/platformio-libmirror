@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Weimen Li",
+        "url": "https://os.mbed.com/users/Electrotiger/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-dsp"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Drivers for the mini robot designed for Princeton's MAE 433 course.",
+    "examples": [
+        "https://os.mbed.com/users/Electrotiger/code/MAE433_Library_Tester/",
+        "https://os.mbed.com/users/Electrotiger/code/RobotBalancerv2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MAE433_Library",
+    "name": "MAE433_Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Electrotiger/code/MAE433_Library/"
+    }
+}

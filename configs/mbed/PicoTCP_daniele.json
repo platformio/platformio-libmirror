@@ -1,0 +1,43 @@
+{
+    "authors": {
+        "name": "Daniele Lacamera",
+        "url": "https://os.mbed.com/users/daniele/"
+    },
+    "description": "Free (GPLv2) TCP/IP stack developed by TASS Belgium",
+    "examples": [
+        "https://os.mbed.com/users/tass/code/lpc1768-picotcp-demo/",
+        "https://os.mbed.com/users/daniele/code/ZeroMQ_PicoTCP_Publisher_demo/",
+        "https://os.mbed.com/users/daniele/code/TCPSocket_HelloWorld_PicoTCP/",
+        "https://os.mbed.com/users/tass/code/Pico_TCP_UDP_Test/",
+        "https://os.mbed.com/users/mbed714/code/TCPSocket_HelloWorld_PicoTCP/",
+        "https://os.mbed.com/users/mbed714/code/TCPSocket_HelloWorldTest_PicoTCP/",
+        "https://os.mbed.com/users/tass/code/Pico_SendRecv_Forever/",
+        "https://os.mbed.com/users/daniele/code/Pico_Robustness_Test/",
+        "https://os.mbed.com/users/tass/code/PicoTCP_Official_TCP_Tx_Benchmark/",
+        "https://os.mbed.com/users/tass/code/PicoTCP_Official_TCP_Rx_Benchmark/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "arp",
+        "broadcast",
+        "DHCP",
+        "dns",
+        "ethernet",
+        "free",
+        "GPL",
+        "IGMP",
+        "ip",
+        "multicast",
+        "sockets",
+        "TCP",
+        "tcp/ip",
+        "tcpip stack",
+        "UDP"
+    ],
+    "name": "PicoTCP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/daniele/code/PicoTCP/"
+    }
+}

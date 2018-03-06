@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Nadun Wijesinghe",
+        "url": "https://os.mbed.com/users/nadwije/"
+    },
+    "description": "Used to communicate with the Maxon EPOS 24/2 motor controller using the ST Nucleo micro controller. Can be easily modified to work with other micro controllers as well. Only limited ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "EPOS",
+        "epos2",
+        "maxon",
+        "motor",
+        "Nucleo",
+        "Serial",
+        "ST"
+    ],
+    "name": "maxonEPOS2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nadwije/code/maxonEPOS2/"
+    }
+}

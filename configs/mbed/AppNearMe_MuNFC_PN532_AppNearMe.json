@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "AppNearMe Official",
+        "url": "https://os.mbed.com/users/AppNearMe/"
+    },
+    "description": "AppNearMe µNFC stack for the NXP PN532 chip License: You can use the stack free of charge to prototype with mbed; if you want to use the stack with your ...",
+    "examples": [
+        "https://os.mbed.com/users/tristanjph/code/IOT_sensor_nfc/",
+        "https://os.mbed.com/users/AppNearMe/code/AppNearMe_MuNFC_PN532_Test/",
+        "https://os.mbed.com/users/thomasjanke/code/p2p_nfc_test/",
+        "https://os.mbed.com/users/AppNearMe/code/NFCMoodLamp/",
+        "https://os.mbed.com/users/balamuruganms/code/NFC_mbed/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AppNearMe",
+        "NFC"
+    ],
+    "name": "AppNearMe_MuNFC_PN532",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AppNearMe/code/AppNearMe_MuNFC_PN532/"
+    }
+}

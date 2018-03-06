@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "David Mort",
+        "url": "https://os.mbed.com/users/dtmort/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "CLASS for software SPI master class instantiated on any general IO pin. Slow but flexible.",
+    "frameworks": "mbed",
+    "keywords": [
+        "GPIO",
+        "master",
+        "Serial",
+        "SPI"
+    ],
+    "name": "SPI_flex",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dtmort/code/SPI_flex/"
+    }
+}

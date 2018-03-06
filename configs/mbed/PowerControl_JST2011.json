@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "JST 2011",
+        "url": "https://os.mbed.com/users/JST2011/"
+    },
+    "description": "*power consumption control(phy , semihost) library written by Michael Wei (some compile errors with mbed lib (20131011) were fixed) *for Mbed LPC1768 *for clock control , see \"ClockControl\"",
+    "examples": [
+        "https://os.mbed.com/users/yamaguch/code/GPSReceiver-EthernetDisabled/",
+        "https://os.mbed.com/users/udomsak/code/GPS_1590R-A/",
+        "https://os.mbed.com/users/Deurklink/code/GPSXbee/",
+        "https://os.mbed.com/users/lelect/code/SerialConsol/",
+        "https://os.mbed.com/users/kayekss/code/IsuProject_LPC1768/",
+        "https://os.mbed.com/teams/Projet-S5-Info/code/Projet_S5/",
+        "https://os.mbed.com/users/strysd/code/int555/",
+        "https://os.mbed.com/users/Deurklink/code/GPSXbee_1_1/",
+        "https://os.mbed.com/users/Deurklink/code/GPSXbee_1_0/",
+        "https://os.mbed.com/users/Deurklink/code/GPSXbeeCamera_1_0/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "power consumption",
+        "power control",
+        "power management",
+        "PowerControl"
+    ],
+    "name": "PowerControl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JST2011/code/PowerControl/"
+    }
+}

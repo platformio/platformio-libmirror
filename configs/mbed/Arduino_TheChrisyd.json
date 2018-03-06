@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Chris Dick",
+        "url": "https://os.mbed.com/users/TheChrisyd/"
+    },
+    "description": "Library to allow the use of Arduino specific language with the mbed",
+    "examples": [
+        "https://os.mbed.com/users/TheChrisyd/code/Gameduino/",
+        "https://os.mbed.com/teams/Gas-Sense/code/Factory_monitor_0v1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "mbeduino"
+    ],
+    "name": "Arduino",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/TheChrisyd/code/Arduino/"
+    }
+}

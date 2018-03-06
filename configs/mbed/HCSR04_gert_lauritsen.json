@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Gert Lauritsen",
+        "url": "https://os.mbed.com/users/gert_lauritsen/"
+    },
+    "description": "A library for the HCSR04 sensor. work with interrupt",
+    "examples": [
+        "https://os.mbed.com/users/gert_lauritsen/code/AdrianLysShow/",
+        "https://os.mbed.com/users/arno3456/code/AdrianLysShow/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "distance",
+        "HCSR04",
+        "sensor"
+    ],
+    "name": "HCSR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gert_lauritsen/code/HCSR04/"
+    }
+}

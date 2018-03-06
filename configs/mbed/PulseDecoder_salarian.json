@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Alef Sin",
+        "url": "https://os.mbed.com/users/salarian/"
+    },
+    "description": "A simple PWM decoder class. It is based on using 2 interrupts, one for rising and another for falling edges of the input pulse. This is a very simple approach, ...",
+    "frameworks": "mbed",
+    "keywords": "pwm",
+    "name": "PulseDecoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/salarian/code/PulseDecoder/"
+    }
+}

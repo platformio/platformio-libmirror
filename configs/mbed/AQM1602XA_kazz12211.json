@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Kazuo Tsubaki",
+        "url": "https://os.mbed.com/users/kazz12211/"
+    },
+    "description": "Simple libary for AQM1602XA I2C Character LCD.",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LCD"
+    ],
+    "name": "AQM1602XA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kazz12211/code/AQM1602XA/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Zibin Zheng",
+        "url": "https://os.mbed.com/users/jaup/"
+    },
+    "description": "Library for detecting button clicks, doubleclicks and long press pattern on a single button.",
+    "examples": [
+        "https://os.mbed.com/users/jaup/code/OneButton_Example/",
+        "https://os.mbed.com/users/def/code/ABBlind/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "OneButton",
+    "name": "OneButton",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jaup/code/OneButton/"
+    }
+}

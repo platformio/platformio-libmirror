@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Kyle Lemons",
+        "url": "https://os.mbed.com/users/etherealflaim/"
+    },
+    "description": "Alphanumeric display for iHvZ",
+    "examples": [
+        "https://os.mbed.com/users/etherealflaim/code/HvZ/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HvZ",
+    "name": "HvZAlphaNumLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/etherealflaim/code/HvZAlphaNumLib/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Compass Developer",
+        "url": "https://os.mbed.com/users/fin4478/"
+    },
+    "description": "library for using LSM303DM chip",
+    "frameworks": "mbed",
+    "keywords": "LSM303DM",
+    "name": "LSM303DM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fin4478/code/LSM303DM/"
+    }
+}

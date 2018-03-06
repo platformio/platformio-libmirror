@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Francis Schumacher",
+        "url": "https://os.mbed.com/users/fxschumacher/"
+    },
+    "description": "An attempt to provide a Real Time Clock for the nRF51-DK. This code provides rtc.time and rtc.set_time replacements for the similarly named C standard methods (unimplemented for nRF51-DK last I ...",
+    "examples": [
+        "https://os.mbed.com/users/fxschumacher/code/nRF51_rtc_example/",
+        "https://os.mbed.com/users/janjongboom/code/LoRa_PIR/",
+        "https://os.mbed.com/users/takafuminaka/code/BLE_Lightning_sensor/",
+        "https://os.mbed.com/users/Bobty/code/BLE_AlarmWatch/",
+        "https://os.mbed.com/users/5hel2l2y/code/BLE_LoopbackUART_with_LSM9DS1-2/",
+        "https://os.mbed.com/users/5hel2l2y/code/BLE_LoopbackUART_with_LSM6DS3/",
+        "https://os.mbed.com/users/5hel2l2y/code/BLE_LoopbackUART_with_BNO055/",
+        "https://os.mbed.com/users/afmiee/code/Latch9DOF_LSM9DS1/",
+        "https://os.mbed.com/users/amithy/code/Sensen-classic-v8-IAQ_copy_4/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "nRF51-DK",
+        "RTC",
+        "time"
+    ],
+    "name": "nrf51_rtc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fxschumacher/code/nrf51_rtc/"
+    }
+}

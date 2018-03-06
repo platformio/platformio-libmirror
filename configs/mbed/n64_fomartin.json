@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Francisco Martin",
+        "url": "https://os.mbed.com/users/fomartin/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "The Nintendo 64 Controller Interface is an mbed library that allows one or more Nintendo 64 controllers to be used as input devices for the mbed. With this library, one ...",
+    "frameworks": "mbed",
+    "keywords": "n64",
+    "name": "n64",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fomartin/code/n64/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Erik van Wijk",
+        "url": "https://os.mbed.com/users/evwijk/"
+    },
+    "description": "crc8 Library - Original copyright: Colin O'Flynn - Copyright (c) 2002",
+    "frameworks": "mbed",
+    "keywords": "crc8",
+    "name": "crc8",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/evwijk/code/crc8/"
+    }
+}

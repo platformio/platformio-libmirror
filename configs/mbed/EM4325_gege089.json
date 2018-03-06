@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Gerald MERCIER",
+        "url": "https://os.mbed.com/users/gege089/"
+    },
+    "description": "EM4325 is a UHF RFID ASIC that is compliant with ISO/IEC 18000-6 Type C and Type D (TOTAL) as well as EPCTM Class-3 Generation-2 (Gen2). TOTAL is a protocol used ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "EM",
+        "nxp",
+        "RFID",
+        "UHF"
+    ],
+    "name": "EM4325",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gege089/code/EM4325/"
+    }
+}

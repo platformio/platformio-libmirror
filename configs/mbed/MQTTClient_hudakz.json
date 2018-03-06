@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "MQTT Client compatible with the UIPEthernet library for the ENC28J60 Ethernet modules. See demo [https://developer.mbed.org/users/hudakz/code/MQTT_Hello_ENC28J60/]",
+    "examples": [
+        "https://os.mbed.com/users/skeller/code/mBuino_ENC28_MQTT/",
+        "https://os.mbed.com/users/hudakz/code/MQTT_Hello_ENC28J60/",
+        "https://os.mbed.com/users/hudakz/code/MQTT_DHT11_ENC28J60/",
+        "https://os.mbed.com/users/tusharbhanarkar/code/MQTT_DHT11_ENC28J60_tushar/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MQTT",
+    "name": "MQTTClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/MQTTClient/"
+    }
+}

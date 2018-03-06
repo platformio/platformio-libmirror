@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Favre Lucas",
+        "url": "https://os.mbed.com/users/lucas_favre/"
+    },
+    "description": "Librarie pour ecran 128x32 de MyLab",
+    "examples": [
+        "https://os.mbed.com/users/lucas_favre/code/MyLab_Lib/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MyLab",
+    "name": "LCD_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lucas_favre/code/LCD_lib/"
+    }
+}

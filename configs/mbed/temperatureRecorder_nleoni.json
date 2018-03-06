@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "napoleon leoni",
+        "url": "https://os.mbed.com/users/nleoni/"
+    },
+    "description": "//TemperatureRecorder class //Written by Napoleon Leoni, February 2014 //This class takes a pointer to an LM75B sensor on the MBED //application board and reads it temperature value, keeps track //of ...",
+    "frameworks": "mbed",
+    "keywords": "temperatureRecorder",
+    "name": "temperatureRecorder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nleoni/code/temperatureRecorder/"
+    }
+}

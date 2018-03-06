@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Toshihisa T",
+        "url": "https://os.mbed.com/users/tosihisa/"
+    },
+    "description": "Class Library of \"INA226 CURRENT/POWER MONITOR with I2C\"",
+    "examples": [
+        "https://os.mbed.com/users/tosihisa/code/INA226TEST/",
+        "https://os.mbed.com/users/hirox/code/Logger_V1/",
+        "https://os.mbed.com/teams/albatross/code/RS485R_2/",
+        "https://os.mbed.com/teams/albatross/code/SOUDA_YOKUTAN_R/",
+        "https://os.mbed.com/teams/EIC_mbed/code/INA226TEST/",
+        "https://os.mbed.com/teams/EIC_mbed/code/INA226_monitoring/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "INA226",
+    "name": "INA226",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tosihisa/code/INA226/"
+    }
+}

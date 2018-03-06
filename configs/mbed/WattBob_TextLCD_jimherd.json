@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "jim herd",
+        "url": "https://os.mbed.com/users/jimherd/"
+    },
+    "description": "Set of routines to access 16*32character LCD display on WattBob I board.",
+    "examples": [
+        "https://os.mbed.com/users/xherpe/code/Assignment_2_herpe/",
+        "https://os.mbed.com/users/campbell101/code/Final_V1/",
+        "https://os.mbed.com/users/haseo1989/code/ass2/",
+        "https://os.mbed.com/users/muaiyd/code/ass2/",
+        "https://os.mbed.com/users/muaiyd/code/CAR_Simulation/",
+        "https://os.mbed.com/users/IonSystems/code/Chipin_Main/",
+        "https://os.mbed.com/users/dreamselec/code/AlooMBED/",
+        "https://os.mbed.com/users/usmb192/code/ES_Assignment_1_Pub/",
+        "https://os.mbed.com/users/usmb192/code/ES_Assignment_2_Pub/",
+        "https://os.mbed.com/users/usmb192/code/ES_Assignment_3_Pub/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LCD",
+        "wattbob"
+    ],
+    "name": "WattBob_TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jimherd/code/WattBob_TextLCD/"
+    }
+}

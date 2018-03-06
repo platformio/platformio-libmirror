@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Aaron Goselin",
+        "url": "https://os.mbed.com/users/Nakor/"
+    },
+    "description": "Currently a giant piece of crap, this library is just a quick way to get cheap inputs out of scrap parts. I will fix it up eventually so if you ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "Capacitive",
+        "Input",
+        "sensor",
+        "touch"
+    ],
+    "name": "theBadTouch",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Nakor/code/theBadTouch/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Ian Molesworth",
+        "url": "https://os.mbed.com/users/nimbusgb/"
+    },
+    "description": "Sensiron SHT 7x Temperature and humidity device library",
+    "examples": [
+        "https://os.mbed.com/users/sbh9428/code/temp/",
+        "https://os.mbed.com/users/joeata2wh/code/xj-Nucleo-F303K8-SHT75-TEST/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Humidity",
+        "Sensiron",
+        "Temperature"
+    ],
+    "name": "SHT75",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nimbusgb/code/SHT75/"
+    }
+}

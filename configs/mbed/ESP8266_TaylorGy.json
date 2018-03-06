@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Taylor Gy",
+        "url": "https://os.mbed.com/users/TaylorGy/"
+    },
+    "description": "ESP8266 driver from ARM",
+    "examples": [
+        "https://os.mbed.com/users/TaylorGy/code/8-0_OneNet_IoT_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ESP8266",
+    "name": "ESP8266",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/TaylorGy/code/ESP8266/"
+    }
+}

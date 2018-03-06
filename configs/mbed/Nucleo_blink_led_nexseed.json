@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "han jisan",
+        "url": "https://os.mbed.com/users/nexseed/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "led test",
+    "frameworks": "mbed",
+    "keywords": "Nucleo_blink_led",
+    "name": "Nucleo_blink_led",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nexseed/code/Nucleo_blink_led/"
+    }
+}

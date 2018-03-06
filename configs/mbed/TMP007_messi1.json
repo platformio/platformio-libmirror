@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Juergen M",
+        "url": "https://os.mbed.com/users/messi1/"
+    },
+    "description": "Drivber for Ti's TMP007 Infrared Thermopile Sensor with Integrated Math Engine",
+    "frameworks": "mbed",
+    "keywords": "TMP007",
+    "name": "TMP007",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/messi1/code/TMP007/"
+    }
+}

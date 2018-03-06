@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "Library for LCD ACM1602NI connected using I2C on Nucleo F401 is not to be found. Using I2C class offered by mbed, I cannot program for this LCD on Nucleo F401. ...",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/ACM1602NI_Nucleo_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ACM1602NI",
+        "f401",
+        "I2C",
+        "LCD",
+        "Nucleo",
+        "UIT"
+    ],
+    "name": "ACM1602NI_Nucleo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/ACM1602NI_Nucleo/"
+    }
+}

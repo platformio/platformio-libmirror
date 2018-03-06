@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Nuno Sarmento",
+        "url": "https://os.mbed.com/users/XtaticO/"
+    },
+    "description": "Library for 4 Phase Step Motor like 28BYJ-48",
+    "examples": [
+        "https://os.mbed.com/users/XtaticO/code/Stepper_4/",
+        "https://os.mbed.com/users/tim008/code/LV9_GRUPA2_TIM008_ZADATAK2/",
+        "https://os.mbed.com/users/tim003/code/LV9_PAI_Grupa2_Tim003-Zadatak1/",
+        "https://os.mbed.com/users/tim003/code/LV9_PAI_Grupa2-Tim003/",
+        "https://os.mbed.com/users/tim010/code/LV9-GRUPA2-TIM010-ZADATAK2/",
+        "https://os.mbed.com/users/tim004/code/pripremaLV9/",
+        "https://os.mbed.com/users/tim004/code/LV9_Zadatak2_Grupa3_Tim004/",
+        "https://os.mbed.com/users/tim010/code/LV9_Grupa4_Tim010_Zadatak2/",
+        "https://os.mbed.com/users/tim004/code/LV09_Zad02_Tim004/",
+        "https://os.mbed.com/users/tim007/code/mbed_blinky/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "28BYJ-48",
+        "4phase",
+        "motor",
+        "Step",
+        "Stepper"
+    ],
+    "name": "sMotor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/XtaticO/code/sMotor/"
+    }
+}

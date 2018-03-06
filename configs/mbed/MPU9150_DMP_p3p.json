@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Chris Pepper",
+        "url": "https://os.mbed.com/users/p3p/"
+    },
+    "description": "The MPU9150s biggest selling point was its internal Motion Processor to offload the sensor fusion from the host processor, this library uploads the firmware to generate quaternions from the sensors. ...",
+    "examples": [
+        "https://os.mbed.com/users/p3p/code/MPU9150_Example/",
+        "https://os.mbed.com/users/Hagrass/code/CANSAT_COMBINED/",
+        "https://os.mbed.com/teams/BEaR-lab/code/MPU9150_Example/",
+        "https://os.mbed.com/users/Lockdog/code/mbed_rifletool/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DMP",
+        "motion",
+        "MPU9150",
+        "processor"
+    ],
+    "name": "MPU9150_DMP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/p3p/code/MPU9150_DMP/"
+    }
+}

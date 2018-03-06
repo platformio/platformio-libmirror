@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Gerardo Cibeira",
+        "url": "https://os.mbed.com/users/gcibeira/"
+    },
+    "description": "Real Time Clock ds1302 library",
+    "frameworks": "mbed",
+    "keywords": [
+        "clock",
+        "ds1302",
+        "real",
+        "RTC",
+        "time"
+    ],
+    "name": "ds1302",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gcibeira/code/ds1302/"
+    }
+}

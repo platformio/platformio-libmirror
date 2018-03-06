@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Rob Dobson",
+        "url": "https://os.mbed.com/users/Bobty/"
+    },
+    "description": "A simple web server mainly based on ideas from Jasper Schuurmans Netduino web server",
+    "examples": [
+        "https://os.mbed.com/users/Bobty/code/RdBlindsServer/",
+        "https://os.mbed.com/users/Bobty/code/SpideyWallWeb/",
+        "https://os.mbed.com/users/Bobty/code/RdGasUseMonitor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "http",
+        "web server"
+    ],
+    "name": "RdWebServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Bobty/code/RdWebServer/"
+    }
+}

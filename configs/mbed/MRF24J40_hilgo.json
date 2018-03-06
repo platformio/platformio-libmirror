@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Jeroen Hilgers",
+        "url": "https://os.mbed.com/users/hilgo/"
+    },
+    "description": "This library lets you connect an MRF24J40 tranceiver to your mbed. The MRF24J40 is intended for use as a zigbee tranceiver. However, it can also be used to simply send ...",
+    "examples": [
+        "https://os.mbed.com/teams/xLAB-acutators/code/mrf24jclient_vest1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MRF24J40",
+        "tranceiver",
+        "wireless"
+    ],
+    "name": "MRF24J40",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hilgo/code/MRF24J40/"
+    }
+}

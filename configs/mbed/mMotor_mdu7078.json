@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Michael Dushkoff",
+        "url": "https://os.mbed.com/users/mdu7078/"
+    },
+    "description": "This is a library that drives a stepper motor with given parameters for speed and direction.",
+    "examples": [
+        "https://os.mbed.com/users/mdu7078/code/RaceTimer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "library",
+        "motor",
+        "Stepper"
+    ],
+    "name": "mMotor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mdu7078/code/mMotor/"
+    }
+}

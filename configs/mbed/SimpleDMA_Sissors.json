@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "DMA library for the KL25Z",
+    "examples": [
+        "https://os.mbed.com/users/Sissors/code/SimpleDMA_HelloWorld/",
+        "https://os.mbed.com/users/Sissors/code/RTOS_SPI/",
+        "https://os.mbed.com/users/Piasiv1206/code/spiDMAtest/",
+        "https://os.mbed.com/users/mjr/code/Pinscape_Controller_v1/",
+        "https://os.mbed.com/users/mjr/code/Pinscape_Controller/",
+        "https://os.mbed.com/users/Piasiv1206/code/COM_MNG_TMTC_SIMPLE_PYLD/",
+        "https://os.mbed.com/users/Piasiv1206/code/COM_MNG_TMTC_SIMPLE_PL_Working/",
+        "https://os.mbed.com/users/Piasiv1206/code/COM_MNG_TMTC_SIMPLE_pl123/",
+        "https://os.mbed.com/users/ee12b079/code/COM_MNG_TMTC_SIMPLE_pl123/",
+        "https://os.mbed.com/users/pradeepvk2208/code/cdms_april2_2016/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DMA",
+        "KL25z"
+    ],
+    "name": "SimpleDMA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/SimpleDMA/"
+    }
+}

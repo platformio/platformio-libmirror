@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Robert Hill",
+        "url": "https://os.mbed.com/users/roberthill04/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Hall Effect Demo Program, using a hall effect sensor to calculate pedal speed while riding a bike",
+    "frameworks": "mbed",
+    "keywords": "FRDM_HE_",
+    "name": "FRDM_HE_",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/roberthill04/code/FRDM_HE_/"
+    }
+}

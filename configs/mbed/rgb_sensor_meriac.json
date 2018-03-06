@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Milosch Meriac",
+        "url": "https://os.mbed.com/users/meriac/"
+    },
+    "description": "Discrete RGB colour sensor using a colour LED flashing at high speed and a monochrome LDR (light dependent resistor) for detecting the colour via ADC conversion. The library implements interrupt ...",
+    "examples": [
+        "https://os.mbed.com/users/meriac/code/rgb_sensor_buffer/",
+        "https://os.mbed.com/users/meriac/code/discrete_rgb_color_sensor_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "Color Sensor",
+        "Colour Sensor",
+        "High Speed ADC",
+        "irq",
+        "ldr",
+        "Light Dependent Resistor",
+        "RGB LED"
+    ],
+    "name": "rgb_sensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/meriac/code/rgb_sensor/"
+    }
+}

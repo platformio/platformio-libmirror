@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "First Last",
+        "url": "https://os.mbed.com/users/vsluiter/"
+    },
+    "dependencies": [
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "FastPWM"
+        }
+    ],
+    "description": "Library to work with the LDC1000 from Texas Instruments",
+    "examples": [
+        "https://os.mbed.com/users/vsluiter/code/LDC1000_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LDC1000",
+    "name": "LDC1000",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vsluiter/code/LDC1000/"
+    }
+}

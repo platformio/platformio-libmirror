@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Kevin Kadooka",
+        "url": "https://os.mbed.com/users/kkado/"
+    },
+    "dependencies": [
+        {
+            "authors": "Eric Wieser",
+            "frameworks": "mbed",
+            "name": "BurstSPI"
+        }
+    ],
+    "description": "SSD1351 library for the STM32F401RE. Uses BurstSPI and a couple of tweaks to improve throughput.",
+    "frameworks": "mbed",
+    "keywords": "SSD1351",
+    "name": "SSD1351",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kkado/code/SSD1351/"
+    }
+}

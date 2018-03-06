@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Andy Kirkham",
+        "url": "https://os.mbed.com/users/AjK/"
+    },
+    "description": "Extends DigitalIn to DebounceIn to provide mechanical switch debouncing.",
+    "examples": [
+        "https://os.mbed.com/users/shimniok/code/AVC_20110423/",
+        "https://os.mbed.com/users/4180_1/code/Pushbutton_NoBounce_Demo/",
+        "https://os.mbed.com/users/cicklaus/code/FinalTime/",
+        "https://os.mbed.com/users/shimniok/code/AVC_2012/",
+        "https://os.mbed.com/users/psawant9/code/Lab3_VoiceMeter/",
+        "https://os.mbed.com/users/Brandon/code/Slingshot/",
+        "https://os.mbed.com/users/Ifrah/code/GPS_System_with_Google_Maps/",
+        "https://os.mbed.com/users/kzampag/code/SlotSensorsTest/",
+        "https://os.mbed.com/users/salondonog/code/tarea1/",
+        "https://os.mbed.com/users/caaruizze/code/tarea2-3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "debounce",
+        "DigitalIn"
+    ],
+    "name": "DebounceIn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AjK/code/DebounceIn/"
+    }
+}

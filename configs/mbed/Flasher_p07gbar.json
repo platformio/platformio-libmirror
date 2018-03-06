@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Giles Barton-Owen",
+        "url": "https://os.mbed.com/users/p07gbar/"
+    },
+    "description": "Simple Debug LED or indicator class, runs in background for minimal code disruption. 5 Modes with some special functions",
+    "examples": [
+        "https://os.mbed.com/users/p07gbar/code/Flasher_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "debug",
+        "Error",
+        "flash",
+        "led"
+    ],
+    "name": "Flasher",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/p07gbar/code/Flasher/"
+    }
+}

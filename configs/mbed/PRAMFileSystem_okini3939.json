@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "Memory File System Library, for SPI PRAM NP8P128A13 (Micron) see: http://mbed.org/users/okini3939/notebook/extend-memory/",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/SPIRAM_PRAMFS/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FATFS",
+        "NP8P128A13",
+        "Phase Change RAM",
+        "PRAM",
+        "SPI"
+    ],
+    "name": "PRAMFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/PRAMFileSystem/"
+    }
+}

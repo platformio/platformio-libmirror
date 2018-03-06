@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Curtis Mattull",
+        "url": "https://os.mbed.com/users/cpm219/"
+    },
+    "description": "Library for FT810 EVE chip",
+    "examples": [
+        "https://os.mbed.com/users/cpm219/code/PANEL_GUI_hello_world/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FT810",
+    "name": "FT810",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cpm219/code/FT810/"
+    }
+}

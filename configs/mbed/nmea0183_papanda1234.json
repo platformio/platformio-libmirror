@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "papanda panda",
+        "url": "https://os.mbed.com/users/papanda1234/"
+    },
+    "description": "a stupid GPS's NMEA0183 format parser.",
+    "frameworks": "mbed",
+    "keywords": [
+        "GPS",
+        "NMEA0183"
+    ],
+    "name": "nmea0183",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/papanda1234/code/nmea0183/"
+    }
+}

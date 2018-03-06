@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Aaron Berk",
+        "url": "https://os.mbed.com/users/aberk/"
+    },
+    "description": "CMPS03 digital compass library.",
+    "examples": [
+        "https://os.mbed.com/users/aberk/code/CMPS03_HelloWorld/",
+        "https://os.mbed.com/users/sowmy87/code/Final_Sonar/",
+        "https://os.mbed.com/users/anoop1728/code/xbeetx/",
+        "https://os.mbed.com/users/JWitherstone/code/Compass/",
+        "https://os.mbed.com/users/Alex4475/code/CompleteMbed/",
+        "https://os.mbed.com/users/GBSingh/code/Project/",
+        "https://os.mbed.com/teams/Project-group-3/code/mbed_cmp/",
+        "https://os.mbed.com/teams/16ELA007-Group-15/code/MSCUsbHost/",
+        "https://os.mbed.com/users/vermaelen/code/_cachan_test_boussole/",
+        "https://os.mbed.com/users/sedid/code/boussole/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "CMPS03",
+    "name": "CMPS03",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aberk/code/CMPS03/"
+    }
+}

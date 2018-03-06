@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "Interplan IM920 library, 920MHz module",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/IM920_sample/",
+        "https://os.mbed.com/users/aaaaaYukiaaaaa/code/IM920_SDlog/",
+        "https://os.mbed.com/users/aaaaaYukiaaaaa/code/IM920_sample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "920MHz",
+        "IM920",
+        "Interplan",
+        "IOT",
+        "NFC"
+    ],
+    "name": "IM920",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/IM920/"
+    }
+}

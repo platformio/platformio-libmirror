@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Sadaei Osakabe",
+        "url": "https://os.mbed.com/users/diasea/"
+    },
+    "dependencies": [
+        {
+            "authors": "Simon Ford",
+            "frameworks": "mbed",
+            "name": "NokiaLCD"
+        }
+    ],
+    "description": "MARMEX_OB_oled with Japanese font",
+    "examples": [
+        "https://os.mbed.com/users/diasea/code/MARMEX_OB_oled_J_Helloworld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MARMEX_OB_oled",
+    "name": "MARMEX_OB_oled_J",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/diasea/code/MARMEX_OB_oled_J/"
+    }
+}

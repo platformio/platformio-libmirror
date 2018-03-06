@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Ryo Nakabayashi",
+        "url": "https://os.mbed.com/users/ryought/"
+    },
+    "description": "calc crc32 of char",
+    "frameworks": "mbed",
+    "keywords": "crc32",
+    "name": "crc32",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ryought/code/crc32/"
+    }
+}

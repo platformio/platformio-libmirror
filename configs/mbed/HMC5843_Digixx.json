@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Uwe Gartmann",
+        "url": "https://os.mbed.com/users/Digixx/"
+    },
+    "description": "HMC5843 Library as part of the 9DOF stick from Sparkfun.com",
+    "frameworks": "mbed",
+    "keywords": [
+        "HMC5843",
+        "sparkfun"
+    ],
+    "name": "HMC5843",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Digixx/code/HMC5843/"
+    }
+}

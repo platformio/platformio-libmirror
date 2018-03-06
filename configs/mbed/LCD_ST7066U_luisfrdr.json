@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Luis Rodriguez",
+        "url": "https://os.mbed.com/users/luisfrdr/"
+    },
+    "description": "Library for ST7066U LCD Driver via an mbed-enabled microcontroller and a 4-bit bus. This driver was written for the NXP LPC11U68 microcontroller, but not many changes may be required to ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "LCD 16x2",
+        "LPC11U68",
+        "ST7066U"
+    ],
+    "name": "LCD_ST7066U",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/luisfrdr/code/LCD_ST7066U/"
+    }
+}

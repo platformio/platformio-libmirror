@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "HAVRM mine",
+        "url": "https://os.mbed.com/users/hirokimineshita/"
+    },
+    "description": "このライブラリーはテストに作ったものです。近いうちに他の関数を加えた形でアップデートするつもりです。 read_8(int reg)、read_16(int reg) で レジスターregの値を8bit、16bitで読み込み、そのまま返します。受け取り側の変数をint8_t、int16_t で定義すれば正負に分かれた値を得られます。 write_8(int reg,int data)、write_16(int reg,int data)で レジスターregに8bit、16bit 書き込み、成功したら0、失敗したら1を返します。確認はread_8、read_16を用いています。 conect() でデバイスが使用可能かを調べ、見つかれば0、なければ1を返します。 reg_reset() で全てのレジスタの値を0にします。成功したら0、失敗したらその時点で処理を停止し、失敗したレジスタを返します。 レジスタは公式のデータシートに書いてあるものと文字は同じです。 もしかしたらうまく行かない関数があるかもしれません。次のアプデのときに修正予定です。",
+    "examples": [
+        "https://os.mbed.com/users/hirokimineshita/code/Nucleo_L3GD20_MMA7361_Kalman/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "F401RE",
+        "L3GD20",
+        "Nucleo"
+    ],
+    "name": "L3GD20",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hirokimineshita/code/L3GD20/"
+    }
+}

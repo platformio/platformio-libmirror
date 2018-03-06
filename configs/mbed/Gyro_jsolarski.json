@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "justin solarski",
+        "url": "https://os.mbed.com/users/jsolarski/"
+    },
+    "description": "Gyro Library for the Gyro Breakout Board - LISY300AL 300°/s from sparkfun",
+    "frameworks": "mbed",
+    "keywords": [
+        "Analog",
+        "AnalogIn",
+        "gyro",
+        "sensor"
+    ],
+    "name": "Gyro",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jsolarski/code/Gyro/"
+    }
+}

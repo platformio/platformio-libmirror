@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Hotboards MX",
+        "url": "https://os.mbed.com/users/Hotboards/"
+    },
+    "description": "Driver to control buttons (with hardware debounce). This driver considered external pull-ups (or pull-downs) are in use",
+    "examples": [
+        "https://os.mbed.com/users/RomanValenciaP/code/buttons/",
+        "https://os.mbed.com/users/RomanValenciaP/code/is_released/",
+        "https://os.mbed.com/users/RomanValenciaP/code/is_pressed/",
+        "https://os.mbed.com/users/RomanValenciaP/code/button_status/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_button_status/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_buttons_led/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_buttons_is_pressed/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_buttons_is_released/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "buttons",
+        "hotboards"
+    ],
+    "name": "Hotboards_buttons",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Hotboards/code/Hotboards_buttons/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Daiki Kato",
+        "url": "https://os.mbed.com/users/dkato/"
+    },
+    "description": "LCD configurations for GR-PEACH LCD Shild.",
+    "examples": [
+        "https://os.mbed.com/users/dkato/code/LCD_shield_config/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GR-PEACH",
+        "LCD"
+    ],
+    "name": "LcdCfg_LCD_shield",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dkato/code/LcdCfg_LCD_shield/"
+    }
+}

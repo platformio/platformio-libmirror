@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Veikko Soininen",
+        "url": "https://os.mbed.com/users/Veino/"
+    },
+    "description": "SCA61T Single Axis Inclinometer",
+    "examples": [
+        "https://os.mbed.com/users/Veino/code/SCA61T_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "SCA61T",
+        "SCA61T-FA1H1G",
+        "SCA61T-FAHH1G"
+    ],
+    "name": "SCA61T",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Veino/code/SCA61T/"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "AB&T",
+        "url": "https://os.mbed.com/users/EasyCAT/"
+    },
+    "description": "EasyCAT shield library",
+    "examples": [
+        "https://os.mbed.com/users/EasyCAT/code/TestEasyCAT/",
+        "https://os.mbed.com/users/EasyCAT/code/TestEasyCAT_DC_sync/",
+        "https://os.mbed.com/users/EasyCAT/code/TestEasyCAT_SM_sync/",
+        "https://os.mbed.com/users/EasyCAT/code/TestEasyCAT_LoopBack/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "EasyCAT",
+        "etherCAT",
+        "ethernet",
+        "fieldbus",
+        "shield"
+    ],
+    "name": "EasyCAT_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/EasyCAT/code/EasyCAT_lib/"
+    }
+}

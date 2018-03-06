@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "ze chen",
+        "url": "https://os.mbed.com/users/zchen311/"
+    },
+    "description": "Speaker class file",
+    "examples": [
+        "https://os.mbed.com/users/sarthakjaiswal/code/musicplayer/",
+        "https://os.mbed.com/users/jhawkins38/code/Beat_Demo_full_full/",
+        "https://os.mbed.com/teams/AOS-Team/code/jumper/",
+        "https://os.mbed.com/teams/AOS-Team/code/mbed_AOS_proj/",
+        "https://os.mbed.com/teams/AOS-Team/code/mbed_AOS/",
+        "https://os.mbed.com/users/Mcplokqaws/code/SousVide/",
+        "https://os.mbed.com/users/AizWallenstein/code/Snake/",
+        "https://os.mbed.com/users/kv09/code/app-shield-LCD/",
+        "https://os.mbed.com/users/vm9/code/4180-lab3/",
+        "https://os.mbed.com/users/ydp112/code/SousVide/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Speaker",
+    "name": "Speaker",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/zchen311/code/Speaker/"
+    }
+}

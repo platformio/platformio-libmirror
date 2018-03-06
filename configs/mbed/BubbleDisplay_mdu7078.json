@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Michael Dushkoff",
+        "url": "https://os.mbed.com/users/mdu7078/"
+    },
+    "description": "This is a driver library for the popular QDSP-6064 bubble display. These miniature displays can be leveraged for small breadboard projects in order to display debug information or even in ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "bubble",
+        "display",
+        "driver",
+        "led",
+        "qdsp-6064",
+        "segment",
+        "Seven"
+    ],
+    "name": "BubbleDisplay",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mdu7078/code/BubbleDisplay/"
+    }
+}

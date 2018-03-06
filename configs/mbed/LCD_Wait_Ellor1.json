@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Callum Ellor",
+        "url": "https://os.mbed.com/users/Ellor1/"
+    },
+    "description": "Wait function that uses 16 Bit Timer 1 instead of using 32 bit Timer 0 to be used in conjunction with 'TextLCD16x4_Wait' and 'PulseWidthCapture' to measure the +ve and -ve ...",
+    "examples": [
+        "https://os.mbed.com/users/Ellor1/code/PulseWidthCapture_Program/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "16bit Timer",
+        "LCD_Wait",
+        "wait"
+    ],
+    "name": "LCD_Wait",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Ellor1/code/LCD_Wait/"
+    }
+}

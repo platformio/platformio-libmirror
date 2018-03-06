@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "akinori uchiyama",
+        "url": "https://os.mbed.com/users/uchiyama/"
+    },
+    "description": "use for led toggle",
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "test",
+        "Toggle"
+    ],
+    "name": "LED_Toggle",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/uchiyama/code/LED_Toggle/"
+    }
+}

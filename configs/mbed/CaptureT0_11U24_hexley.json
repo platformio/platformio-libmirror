@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Hexley Ball",
+        "url": "https://os.mbed.com/users/hexley/"
+    },
+    "description": "Uses Timer 0 of the 11U24 to capture input pulsesl",
+    "frameworks": "mbed",
+    "keywords": "CaptureT0_11U24",
+    "name": "CaptureT0_11U24",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hexley/code/CaptureT0_11U24/"
+    }
+}

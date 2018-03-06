@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Matt Lesslaw",
+        "url": "https://os.mbed.com/users/lawless/"
+    },
+    "description": "Class for driving the ST7066U controller in Crystalfontz LCD display CFAH1602B-YYH-JT",
+    "frameworks": "mbed",
+    "keywords": [
+        "CFAH1602B",
+        "CFAH1602B-YYH-JT",
+        "ST7066U"
+    ],
+    "name": "ST7066U",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lawless/code/ST7066U/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Kaoru Onoe",
+        "url": "https://os.mbed.com/users/kayekss/"
+    },
+    "description": "Just a simple library for VLSI's mp3/midi codec chip",
+    "examples": [
+        "https://os.mbed.com/users/kayekss/code/IsuProject_LPC1768/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mp3",
+        "VS1033",
+        "VS1053"
+    ],
+    "name": "VS1053",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kayekss/code/VS1053/"
+    }
+}

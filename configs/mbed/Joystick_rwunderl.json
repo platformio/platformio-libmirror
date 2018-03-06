@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Richard Wunderlich",
+        "url": "https://os.mbed.com/users/rwunderl/"
+    },
+    "description": "Handles reading and scaling the analog inputs from a simple 2-axis joystick with a pushbutton. Can also attach rise and fall interrupts to the button.",
+    "frameworks": "mbed",
+    "keywords": [
+        "controller",
+        "game",
+        "interrupt",
+        "joystick"
+    ],
+    "name": "Joystick",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rwunderl/code/Joystick/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "TASS Belgium",
+        "url": "https://os.mbed.com/users/tass/"
+    },
+    "description": "A tiny printf for embedded applications - by Kustaa Nyholm",
+    "examples": [
+        "https://os.mbed.com/users/tass/code/lpc1768-picotcp-demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "picotcp-demo-printf",
+    "name": "picotcp-demo-printf",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tass/code/picotcp-demo-printf/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Etienne Joannette",
+        "url": "https://os.mbed.com/users/13075593/"
+    },
+    "description": "TCP communication",
+    "examples": [
+        "https://os.mbed.com/users/13075593/code/Ethernet/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TCP_COMM",
+    "name": "TCP_COMM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/13075593/code/TCP_COMM/"
+    }
+}

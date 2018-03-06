@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Vladimir Fux",
+        "url": "https://os.mbed.com/users/VirtualMan/"
+    },
+    "description": "Library for Sparkfun Color LCD 130x130 Breakout Board, sku LCD-11062, which uses driver Philips PCF8833 http://www.sparkfun.com/products/11062",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "LCD-11062",
+        "PCF8833",
+        "sparkfun"
+    ],
+    "name": "LCD_11062",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/VirtualMan/code/LCD_11062/"
+    }
+}

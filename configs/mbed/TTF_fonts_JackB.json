@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Jack Berkhout",
+        "url": "https://os.mbed.com/users/JackB/"
+    },
+    "description": "Two hand-made fonts. The small one is based on the HD44780 text display font. The bigger one has nicer shapes and fits 320x240 displays quit nice. Let me know if ...",
+    "examples": [
+        "https://os.mbed.com/teams/DuckieTownHS_Perlatecnica/code/RGB_Matrix/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TTF_fonts",
+    "name": "TTF_fonts",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JackB/code/TTF_fonts/"
+    }
+}

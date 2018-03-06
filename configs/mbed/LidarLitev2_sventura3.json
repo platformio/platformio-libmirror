@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Steven Ventura",
+        "url": "https://os.mbed.com/users/sventura3/"
+    },
+    "description": "LidarLitev2 Library for distance reading. Capable of both single distance reads and continuous distance read setup.",
+    "examples": [
+        "https://os.mbed.com/users/sventura3/code/Lidar_Distance/",
+        "https://os.mbed.com/users/sventura3/code/Lidar_DistanceContinuous/",
+        "https://os.mbed.com/users/sventura3/code/Lidar_2D_Mapping/",
+        "https://os.mbed.com/users/dereklstinson/code/Motions_Secure_Server_IUPUI/",
+        "https://os.mbed.com/users/AbhiBjee/code/AutoRobo/",
+        "https://os.mbed.com/users/AbhiBjee/code/AutoMode_LaneKeep/",
+        "https://os.mbed.com/users/Zeran/code/STM32F103C8T6_Lidar/",
+        "https://os.mbed.com/users/eljerchua/code/Open_House_Mbed1_Actual/",
+        "https://os.mbed.com/users/AbhiBjee/code/LidarSurveillance/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Lidar",
+    "name": "LidarLitev2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sventura3/code/LidarLitev2/"
+    }
+}

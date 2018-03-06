@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Osamu Koizumi",
+        "url": "https://os.mbed.com/users/coisme/"
+    },
+    "description": "This is a device driver of AK8963, which is 3-axis magnetometer manufactured by AKM.",
+    "examples": [
+        "https://os.mbed.com/users/coisme/code/SimpleSample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AK8963",
+        "AKM",
+        "magnetic sensor",
+        "magnetometer"
+    ],
+    "name": "AK8963",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/coisme/code/AK8963/"
+    }
+}

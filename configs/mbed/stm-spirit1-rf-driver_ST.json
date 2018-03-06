@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "Prototype RF driver for STM Sub-1 GHz RF expansion board based on the SPSGRF-868 module for STM32 Nucleo.",
+    "frameworks": "mbed",
+    "keywords": [
+        "6LowPan",
+        "nanostack",
+        "ST Nucleo",
+        "STM",
+        "stm32",
+        "Sub-Ghz RF",
+        "X-NUCLEO-IDS01A4",
+        "X-NUCLEO-IDS01A4celo"
+    ],
+    "name": "stm-spirit1-rf-driver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/stm-spirit1-rf-driver/"
+    }
+}

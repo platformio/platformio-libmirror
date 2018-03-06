@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Peng W",
+        "url": "https://os.mbed.com/users/BlueSky2016/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "点亮一个灯",
+    "examples": [
+        "https://os.mbed.com/users/Yasfa/code/Nucleo_blink_led/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Nucleo_blink_led",
+    "name": "Nucleo_blink_led",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BlueSky2016/code/Nucleo_blink_led/"
+    }
+}

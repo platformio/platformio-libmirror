@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Paolo Sanna",
+        "url": "https://os.mbed.com/users/dreamworker/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Library for 16-channel, 12-bit PWM controller NXP PCA9685.",
+    "examples": [
+        "https://os.mbed.com/users/dreamworker/code/PCA9685_Hello_World/",
+        "https://os.mbed.com/users/dreamworker/code/PCA9685_with_LED/",
+        "https://os.mbed.com/users/wrxavex/code/PCA9685/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Nucleo",
+        "PCA9685",
+        "pwm controller"
+    ],
+    "name": "PCA9685PWM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreamworker/code/PCA9685PWM/"
+    }
+}

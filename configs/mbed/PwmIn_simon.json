@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://os.mbed.com/users/simon/"
+    },
+    "description": "An interface to read a PWM input signal, using InterruptIn",
+    "examples": [
+        "https://os.mbed.com/users/simon/code/PwmIn_HelloWorld/",
+        "https://os.mbed.com/users/kinemax/code/PwmIn_ModSerial/",
+        "https://os.mbed.com/users/kinemax/code/CHR6dm_reading/",
+        "https://os.mbed.com/users/bclaus/code/tugboat/",
+        "https://os.mbed.com/users/bclaus/code/tugboat2/",
+        "https://os.mbed.com/users/AlexF64/code/MSCUsbHost/",
+        "https://os.mbed.com/users/Ellor1/code/Fast_PWM/",
+        "https://os.mbed.com/users/tzxl10000/code/Fish_2014Fall/",
+        "https://os.mbed.com/users/RenjianHao/code/Fish_2014Fall/",
+        "https://os.mbed.com/users/LanierUSNA16/code/Polynomial_Controller_Car/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "InterruptIn",
+        "PwmIn"
+    ],
+    "name": "PwmIn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/simon/code/PwmIn/"
+    }
+}

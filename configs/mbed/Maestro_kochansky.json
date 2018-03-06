@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Przemysław Kochański",
+        "url": "https://os.mbed.com/users/kochansky/"
+    },
+    "description": "Library for Pololu Maestro Servo Controller http://www.pololu.com/docs/0J40",
+    "frameworks": "mbed",
+    "keywords": [
+        "maestro",
+        "Serial",
+        "Servo"
+    ],
+    "name": "Maestro",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kochansky/code/Maestro/"
+    }
+}

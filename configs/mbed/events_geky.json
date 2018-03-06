@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Christopher Haster",
+        "url": "https://os.mbed.com/users/geky/"
+    },
+    "description": "Note! This project has moved to github.com/armmbed/mbed-events",
+    "examples": [
+        "https://os.mbed.com/users/geky/code/SimpleHTTPExample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "events",
+    "name": "events",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/geky/code/events/"
+    }
+}

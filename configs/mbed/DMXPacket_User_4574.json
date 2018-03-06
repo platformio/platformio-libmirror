@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Næþ'n Lasseter",
+        "url": "https://os.mbed.com/users/User_4574/"
+    },
+    "description": "A library for mastering a DMX chain. You'll meed a max485 or equivalent to convert the digital output to the differential RS-485 protocol.",
+    "frameworks": "mbed",
+    "keywords": "DMX",
+    "name": "DMXPacket",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/User_4574/code/DMXPacket/"
+    }
+}

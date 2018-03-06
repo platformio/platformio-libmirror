@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Stefan Staub",
+        "url": "https://os.mbed.com/users/sstaub/"
+    },
+    "dependencies": [
+        {
+            "authors": "Stefan Staub",
+            "frameworks": "mbed",
+            "name": "Fonts"
+        }
+    ],
+    "description": "Library for the C12832A1Z display for the mbed Application Board.",
+    "examples": [
+        "https://os.mbed.com/users/darrenf87/code/XBEE_Project_MBEDX3/",
+        "https://os.mbed.com/users/iwolf32/code/TestBenchSerenity-proto_F429ZI/",
+        "https://os.mbed.com/users/iwolf32/code/TestBenchFlow/",
+        "https://os.mbed.com/users/iwolf32/code/HSPFLOW1/",
+        "https://os.mbed.com/users/iwolf32/code/TestBenchFlow1/",
+        "https://os.mbed.com/users/iwolf32/code/HSPFLOW/",
+        "https://os.mbed.com/users/212600191/code/HSPFLOW/",
+        "https://os.mbed.com/users/212600191/code/TestBenchSerenity-proto_F429ZI/",
+        "https://os.mbed.com/users/212600191/code/HSPFLOW1/",
+        "https://os.mbed.com/users/212600191/code/TestBenchSerenity-proto_F429ZI1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "C12832",
+        "C12832A1Z",
+        "MBED Application Board"
+    ],
+    "name": "C12832A1Z",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sstaub/code/C12832A1Z/"
+    }
+}

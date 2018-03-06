@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Bulme Projekt",
+        "url": "https://os.mbed.com/users/Drohne/"
+    },
+    "description": "for thww WS2811 RGB",
+    "frameworks": "mbed",
+    "keywords": "WS2811",
+    "name": "WS2811",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Drohne/code/WS2811/"
+    }
+}

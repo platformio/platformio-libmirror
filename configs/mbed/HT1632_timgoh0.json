@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Timothy Goh",
+        "url": "https://os.mbed.com/users/timgoh0/"
+    },
+    "description": "HT1632 control library",
+    "examples": [
+        "https://os.mbed.com/users/khalooool/code/7-SEG-DRIVE/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "dot",
+        "HT1632",
+        "led",
+        "matrix",
+        "sure"
+    ],
+    "name": "HT1632",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/timgoh0/code/HT1632/"
+    }
+}

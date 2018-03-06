@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Stéphane Cachat",
+        "url": "https://os.mbed.com/users/scachat/"
+    },
+    "description": "DS1338 RTC library RTC + 55 bytes nvram",
+    "frameworks": "mbed",
+    "keywords": [
+        "DS1338",
+        "I2C"
+    ],
+    "name": "DS1338",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/scachat/code/DS1338/"
+    }
+}

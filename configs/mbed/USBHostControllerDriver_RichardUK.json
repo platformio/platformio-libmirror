@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Richard Collins",
+        "url": "https://os.mbed.com/users/RichardUK/"
+    },
+    "description": "USBHostControllerDriver",
+    "frameworks": "mbed",
+    "keywords": "USBHostControllerDriver",
+    "name": "USBHostControllerDriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RichardUK/code/USBHostControllerDriver/"
+    }
+}

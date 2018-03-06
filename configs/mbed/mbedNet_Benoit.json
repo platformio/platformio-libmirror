@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Benoît Locher",
+        "url": "https://os.mbed.com/users/Benoit/"
+    },
+    "description": "Rewrite from scratch a TCP/IP stack for mbed. So far the following parts are usable: Drivers: - EMAC driver (from CMSIS 2.0) Protocols: - Ethernet protocol - ARP over ethernet ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "arp",
+        "icmp",
+        "interrupts",
+        "stack",
+        "tcpip",
+        "UDP"
+    ],
+    "name": "mbedNet",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Benoit/code/mbedNet/"
+    }
+}

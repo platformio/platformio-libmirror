@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Tom Tom",
+        "url": "https://os.mbed.com/users/tomlankhorst/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "USBDevice"
+        }
+    ],
+    "description": "A simple but very effective scope. Up to 6 channels of 32 bit float data at 1 kHz.",
+    "examples": [
+        "https://os.mbed.com/teams/BMT-M9-Groep01/code/HIDScope/",
+        "https://os.mbed.com/users/DominiqueC/code/TEST/",
+        "https://os.mbed.com/users/DominiqueC/code/Project5-Motorcontrol/",
+        "https://os.mbed.com/users/jessekaiser/code/EMG_HIDScope_Gr6/",
+        "https://os.mbed.com/users/phgbartels/code/EMG_component_testing/",
+        "https://os.mbed.com/users/DominiqueC/code/Project5-filtering2/",
+        "https://os.mbed.com/users/Hooglugt/code/BMT-M9_motorcontrol_groep3/",
+        "https://os.mbed.com/users/DominiqueC/code/Project5-filteringBiceps/",
+        "https://os.mbed.com/users/Hooglugt/code/BMT-M9_motorcontrol/",
+        "https://os.mbed.com/users/DominiqueC/code/Project5-filteringBiceps2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Communication",
+        "data",
+        "Oscilloscope",
+        "prototype"
+    ],
+    "name": "HIDScope",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tomlankhorst/code/HIDScope/"
+    }
+}

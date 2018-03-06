@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "David Smart",
+        "url": "https://os.mbed.com/users/WiredHome/"
+    },
+    "description": "This is a library for managing the mbed real time clock, including functions for setting and getting the rtc in text format, getting and setting the timezone offset, and getting ...",
+    "examples": [
+        "https://os.mbed.com/teams/LAB4/code/LAB4WEEK1/",
+        "https://os.mbed.com/teams/LAB4/code/Motor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "calibration",
+        "clock",
+        "real",
+        "RTC",
+        "time",
+        "timezone"
+    ],
+    "name": "TimeManagement",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WiredHome/code/TimeManagement/"
+    }
+}

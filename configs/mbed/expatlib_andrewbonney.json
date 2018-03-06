@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Andrew Bonney",
+        "url": "https://os.mbed.com/users/andrewbonney/"
+    },
+    "description": "SAX based XML parser",
+    "examples": [
+        "https://os.mbed.com/users/yueee_yt/code/giken9_HTMLServer_Temp_Sample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "expatlib",
+    "name": "expatlib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/andrewbonney/code/expatlib/"
+    }
+}

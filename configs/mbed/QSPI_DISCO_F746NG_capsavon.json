@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Sylvain Savon",
+        "url": "https://os.mbed.com/users/capsavon/"
+    },
+    "description": "Implementation of the QSPI-Flash driver for the DISCO-STM32F746NG board. Allows usage of the MICRON 128Mb Quad-SPI Flash memory present on the board. Ported from library QSPI_DISCO_L476VG from ST.",
+    "examples": [
+        "https://os.mbed.com/users/capsavon/code/DISCO-F746NG_QSPI/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO-STM32F746NG",
+        "flash",
+        "Micron",
+        "QSPI",
+        "Quad-SPI",
+        "ST"
+    ],
+    "name": "QSPI_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/capsavon/code/QSPI_DISCO_F746NG/"
+    }
+}

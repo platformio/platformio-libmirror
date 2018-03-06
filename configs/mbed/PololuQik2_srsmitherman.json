@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "stephen smitherman",
+        "url": "https://os.mbed.com/users/srsmitherman/"
+    },
+    "description": "Pololu Quk Motor Controller Driver",
+    "examples": [
+        "https://os.mbed.com/users/jjcarr2/code/NavigationTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "controller",
+        "motor",
+        "pololu",
+        "Qik",
+        "VNH25P30"
+    ],
+    "name": "PololuQik2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/srsmitherman/code/PololuQik2/"
+    }
+}

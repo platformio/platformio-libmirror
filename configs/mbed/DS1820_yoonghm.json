@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "HM Yoong",
+        "url": "https://os.mbed.com/users/yoonghm/"
+    },
+    "description": "DS1820",
+    "examples": [
+        "https://os.mbed.com/users/DasSidG/code/BMS_BMUCore_Max_DummyData/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DS1820",
+    "name": "DS1820",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yoonghm/code/DS1820/"
+    }
+}

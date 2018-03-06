@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Duncan McIntyre",
+        "url": "https://os.mbed.com/users/duncanFrance/"
+    },
+    "description": "Foundation classes for a basic GUI implementing simple widgets and events",
+    "examples": [
+        "https://os.mbed.com/users/duncanFrance/code/TouchScreenGUIDemo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SimpleGUI",
+    "name": "SimpleGUI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/duncanFrance/code/SimpleGUI/"
+    }
+}

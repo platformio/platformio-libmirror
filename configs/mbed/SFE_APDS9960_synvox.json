@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Nenad Milosevic",
+        "url": "https://os.mbed.com/users/synvox/"
+    },
+    "description": "A library for the combined proximity, ambient light, RGB color and gesture sensor Avago APDS9960. Tested with corresponding breakout board from SparkFun.",
+    "examples": [
+        "https://os.mbed.com/users/yzh344612058/code/mbed_blinky/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "APDS9960",
+        "avago",
+        "color",
+        "Gesture",
+        "I2C",
+        "proximity",
+        "sparkfun"
+    ],
+    "name": "SFE_APDS9960",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/synvox/code/SFE_APDS9960/"
+    }
+}

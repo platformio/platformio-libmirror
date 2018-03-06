@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Ewerton da Silva",
+        "url": "https://os.mbed.com/users/ewerton/"
+    },
+    "description": "iothub_client_sample_amqp_bld",
+    "frameworks": "mbed",
+    "keywords": "iothub_client_sample_amqp_bld",
+    "name": "iothub_client_sample_amqp_bld",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ewerton/code/iothub_client_sample_amqp_bld/"
+    }
+}

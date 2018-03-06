@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Coby Lu",
+        "url": "https://os.mbed.com/users/lucoby/"
+    },
+    "description": "get direction input from joystick as enum (left, right, up, down, and none)",
+    "examples": [
+        "https://os.mbed.com/users/lucoby/code/snake/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "direction",
+    "name": "direction",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lucoby/code/direction/"
+    }
+}

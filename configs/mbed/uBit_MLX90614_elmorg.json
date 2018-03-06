@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Evan Morgan",
+        "url": "https://os.mbed.com/users/elmorg/"
+    },
+    "description": "A library for using the MLX90614 Infra Red Thermometer (3V) with the BBC micro:bit. Consists of two functions: getAmbient(), and getObject(), which return the ambient and object temperatures in degrees ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "BBC",
+        "Microbit",
+        "MLX90614",
+        "thermometer"
+    ],
+    "name": "uBit_MLX90614",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/elmorg/code/uBit_MLX90614/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "wayne roberts",
+        "url": "https://os.mbed.com/users/dudmuck/"
+    },
+    "description": "sx9500 driver",
+    "examples": [
+        "https://os.mbed.com/teams/Semtech/code/NAMote72_Utility/",
+        "https://os.mbed.com/teams/Senet/code/Senet-NAMote/",
+        "https://os.mbed.com/teams/Semtech/code/scpi_sx127x/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "lib_sx9500",
+    "name": "lib_sx9500",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dudmuck/code/lib_sx9500/"
+    }
+}

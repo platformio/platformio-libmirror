@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "taiyou komazawa",
+        "url": "https://os.mbed.com/users/Komazawa_sun/"
+    },
+    "dependencies": [
+        {
+            "authors": "taiyou komazawa",
+            "frameworks": "mbed",
+            "name": "Gamma"
+        },
+        {
+            "authors": "taiyou komazawa",
+            "frameworks": "mbed",
+            "name": "Beta"
+        },
+        {
+            "authors": "taiyou komazawa",
+            "frameworks": "mbed",
+            "name": "Alpha"
+        }
+    ],
+    "description": "for_gamma",
+    "examples": [
+        "https://os.mbed.com/users/Komazawa_sun/code/2017_Bteam_I2CTransporter/",
+        "https://os.mbed.com/users/hirotayamato/code/BETA_A/",
+        "https://os.mbed.com/users/hirotayamato/code/ALPHA_A/",
+        "https://os.mbed.com/users/hirotayamato/code/GAMMA_A/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DataPool",
+    "name": "DataPool",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Komazawa_sun/code/DataPool/"
+    }
+}

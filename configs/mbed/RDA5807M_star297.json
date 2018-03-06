@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Paul Staron",
+        "url": "https://os.mbed.com/users/star297/"
+    },
+    "description": "RDA5807M FM Radio library with RDS.",
+    "examples": [
+        "https://os.mbed.com/users/star297/code/RDA5807M-FM-Radio/",
+        "https://os.mbed.com/users/star297/code/EFM32-RDA5807M-RDS-Radio/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "fm",
+        "Radio",
+        "RDA5807M",
+        "RDS"
+    ],
+    "name": "RDA5807M",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/star297/code/RDA5807M/"
+    }
+}

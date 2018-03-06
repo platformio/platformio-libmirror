@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Istvan Cserny",
+        "url": "https://os.mbed.com/users/icserny/"
+    },
+    "dependencies": [
+        {
+            "authors": "Emilio Monti",
+            "frameworks": "mbed",
+            "name": "MMA8451Q"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "RTOS application with 3 threads of different priorities: play music, measure temperature (and print results via stdio) and plays with the MMA8451Q sensor and the RGB LEDs",
+    "frameworks": "mbed",
+    "keywords": [
+        "FRDM-KL25Z",
+        "rtos",
+        "thread"
+    ],
+    "name": "09_rtos_threads",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/icserny/code/09_rtos_threads/"
+    }
+}

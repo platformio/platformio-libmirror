@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Hendrik Lipka",
+        "url": "https://os.mbed.com/users/hlipka/"
+    },
+    "description": "Mbed port of the Simple Plain Xml parser. See http://code.google.com/p/spxml/ for more details. This library uses less memory and is much better suited to streaming data than TinyXML (doesn\\'t use ...",
+    "examples": [
+        "https://os.mbed.com/users/hlipka/code/spxmltest_weather/",
+        "https://os.mbed.com/users/kanpapa/code/VFD_fontx2_weather/",
+        "https://os.mbed.com/users/4180_1/code/weather_LCD_display/",
+        "https://os.mbed.com/users/4180_1/code/News_LCD_display/",
+        "https://os.mbed.com/users/4180_1/code/weather_Nokia_LCD_display/",
+        "https://os.mbed.com/users/4180_1/code/News_Nokia_LCD_display/",
+        "https://os.mbed.com/users/yueee_yt/code/temp_FIAP/",
+        "https://os.mbed.com/users/yueee_yt/code/temp_FIAP_fetch/",
+        "https://os.mbed.com/users/yueee_yt/code/tepco_demand/",
+        "https://os.mbed.com/users/togayan/code/mpod_nhk_english_spxml/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "xml",
+    "name": "spxml",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hlipka/code/spxml/"
+    }
+}

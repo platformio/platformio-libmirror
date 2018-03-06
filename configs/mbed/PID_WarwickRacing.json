@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Warwick Racing",
+        "url": "https://os.mbed.com/users/WarwickRacing/"
+    },
+    "description": "PID library (not mine)",
+    "examples": [
+        "https://os.mbed.com/users/WarwickRacing/code/ElecPneuShifter_4/",
+        "https://os.mbed.com/users/networker/code/ipod/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PID",
+    "name": "PID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WarwickRacing/code/PID/"
+    }
+}

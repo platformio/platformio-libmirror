@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "Checking program for RTC module inside CPU.",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/RTC_w_COM/",
+        "https://os.mbed.com/users/kenjiArai/code/Frequency_Counter_w_GPS_1PPS/",
+        "https://os.mbed.com/users/kenjiArai/code/debug_tools/",
+        "https://os.mbed.com/users/kenjiArai/code/Nucleo_RTC_Clock_setting/",
+        "https://os.mbed.com/users/jhon309/code/RTC/",
+        "https://os.mbed.com/users/noutram/code/satbir2/",
+        "https://os.mbed.com/users/noutram/code/sarbir/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "32.768",
+        "F401RE",
+        "F411RE",
+        "L152RE",
+        "RTC",
+        "Timeout",
+        "X2"
+    ],
+    "name": "CheckRTC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/CheckRTC/"
+    }
+}

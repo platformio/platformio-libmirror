@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Motoo Tanaka",
+        "url": "https://os.mbed.com/users/Rhyme/"
+    },
+    "description": "SPI Flash Memory ST M25PE20",
+    "examples": [
+        "https://os.mbed.com/users/Rhyme/code/testSPI_M25PE20/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "flash",
+        "M25PE10",
+        "M25PE20",
+        "memory",
+        "SPI",
+        "ST"
+    ],
+    "name": "SPI_M25PE20",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Rhyme/code/SPI_M25PE20/"
+    }
+}

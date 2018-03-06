@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "InetrfaceProducts NXP",
+        "url": "https://os.mbed.com/users/nxp_ip/"
+    },
+    "description": "Library for \"I2C 8x8 LED matrix board\" from Switch Science https://www.switch-science.com/catalog/2071/",
+    "examples": [
+        "https://os.mbed.com/users/nxp_ip/code/PCA9622_LED8x8_Demo/",
+        "https://os.mbed.com/users/nxp_ip/code/PCA9622_LED8x8_Hello/",
+        "https://os.mbed.com/users/nxp_ip/code/PCA9622_LED8x8_x6_Demo/",
+        "https://os.mbed.com/users/MACRUM/code/shake-shake-machine/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "8x8",
+        "led",
+        "led matrix",
+        "PCA9622"
+    ],
+    "name": "PCA9622_LED8x8",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nxp_ip/code/PCA9622_LED8x8/"
+    }
+}

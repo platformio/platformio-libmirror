@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "太郎 九大",
+        "url": "https://os.mbed.com/users/kurt/"
+    },
+    "description": "プレステ１コントローラ用ライブラリ",
+    "frameworks": "mbed",
+    "keywords": "pspad",
+    "name": "pspad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kurt/code/pspad/"
+    }
+}

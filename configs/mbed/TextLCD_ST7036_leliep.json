@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Peter Lelie",
+        "url": "https://os.mbed.com/users/leliep/"
+    },
+    "description": "Modified TextLCD library to support DOG series displays with ST7036 controller.",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "DOG",
+        "LCD",
+        "ST7036",
+        "TextLCD"
+    ],
+    "name": "TextLCD_ST7036",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/leliep/code/TextLCD_ST7036/"
+    }
+}

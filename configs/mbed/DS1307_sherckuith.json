@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Angel David Yaguana Hernandez",
+        "url": "https://os.mbed.com/users/sherckuith/"
+    },
+    "description": "Libreria para trabajar con DS1307 y usar su memoria",
+    "examples": [
+        "https://os.mbed.com/users/sherckuith/code/Proyect_Patric_electronic_door_MSC_Ok_ES/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DS1307",
+    "name": "DS1307",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sherckuith/code/DS1307/"
+    }
+}

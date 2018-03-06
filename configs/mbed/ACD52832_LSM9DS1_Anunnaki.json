@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Filip Hormot",
+        "url": "https://os.mbed.com/users/Anunnaki/"
+    },
+    "description": "Mems sensor",
+    "examples": [
+        "https://os.mbed.com/teams/aconno-dev-team/code/ADC52832_Intro_example/",
+        "https://os.mbed.com/teams/aconno-dev-team/code/ACD52832_Master_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ACD52832_LSM9DS1",
+    "name": "ACD52832_LSM9DS1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Anunnaki/code/ACD52832_LSM9DS1/"
+    }
+}

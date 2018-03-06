@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "ken fuji",
+        "url": "https://os.mbed.com/users/fujikenac/"
+    },
+    "description": "田中くんのモタドラを制御する石本さんのやつ",
+    "examples": [
+        "https://os.mbed.com/users/fujikenac/code/P_motor2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "T_motor",
+    "name": "T_motor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fujikenac/code/T_motor/"
+    }
+}

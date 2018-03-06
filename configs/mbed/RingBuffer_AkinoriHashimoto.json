@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Akinori Hashimoto",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/"
+    },
+    "description": "Ring Buffer reconciled with RTOS. If with using RTOS, this lib is enabled Mutex. Default RingBuffer size is 256 Bytes, Max size is 1024 Bytes.",
+    "examples": [
+        "https://os.mbed.com/users/AkinoriHashimoto/code/RN41/",
+        "https://os.mbed.com/users/AkinoriHashimoto/code/HC05/",
+        "https://os.mbed.com/users/Paulbearne/code/HC05/",
+        "https://os.mbed.com/users/AkinoriHashimoto/code/mySerial/",
+        "https://os.mbed.com/users/tnn85/code/HC05/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "buffer",
+        "ring"
+    ],
+    "name": "RingBuffer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/RingBuffer/"
+    }
+}

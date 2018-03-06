@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "InetrfaceProducts NXP",
+        "url": "https://os.mbed.com/users/nxp_ip/"
+    },
+    "dependencies": [
+        {
+            "authors": "InetrfaceProducts NXP",
+            "frameworks": "mbed",
+            "name": "CompLedDvr"
+        }
+    ],
+    "description": "This is a driver code for the PCA9632 is an I2C-bus controlled 4-bit LED driver optimized for Red/Green/Blue/Amber (RGBA) color mixing applications. In Individual brightness control mode, each LED output ...",
+    "examples": [
+        "https://os.mbed.com/users/nxp_ip/code/PCA9632_Hello/",
+        "https://os.mbed.com/users/mbed_tw_hoehoe/code/Necomimi_BLE_01/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "LED controller",
+        "PCA9632",
+        "pwm"
+    ],
+    "name": "PCA9632",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nxp_ip/code/PCA9632/"
+    }
+}

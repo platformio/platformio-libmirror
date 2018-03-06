@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "JST 2011",
+        "url": "https://os.mbed.com/users/JST2011/"
+    },
+    "description": "Serial RX interrupt driving GPS(NMEA) library",
+    "frameworks": "mbed",
+    "keywords": "GPS_CanSat",
+    "name": "GPS_CanSat",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JST2011/code/GPS_CanSat/"
+    }
+}

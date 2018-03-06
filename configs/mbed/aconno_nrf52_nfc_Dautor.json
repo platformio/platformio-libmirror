@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Karlo Milicevic",
+        "url": "https://os.mbed.com/users/Dautor/"
+    },
+    "description": "nrf52 nfc library.",
+    "frameworks": "mbed",
+    "keywords": [
+        "aconno",
+        "NFC",
+        "nrf52"
+    ],
+    "name": "aconno_nrf52_nfc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Dautor/code/aconno_nrf52_nfc/"
+    }
+}

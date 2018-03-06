@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Stephane Swanepoel",
+        "url": "https://os.mbed.com/users/yenzo/"
+    },
+    "description": "Original",
+    "examples": [
+        "https://os.mbed.com/users/yenzo/code/mbed_multiplex/",
+        "https://os.mbed.com/users/yenzo/code/mbed_multiplex_matrix/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PowerControl",
+    "name": "PowerControl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yenzo/code/PowerControl/"
+    }
+}

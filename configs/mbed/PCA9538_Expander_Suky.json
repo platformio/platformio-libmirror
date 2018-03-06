@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Ale C.-",
+        "url": "https://os.mbed.com/users/Suky/"
+    },
+    "description": "PCA9538 I2C Expander",
+    "examples": [
+        "https://os.mbed.com/users/Suky/code/PCA9538_example/",
+        "https://os.mbed.com/users/uasenden/code/MAX7314_Expander/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Expander",
+        "I2C",
+        "PCA9538"
+    ],
+    "name": "PCA9538_Expander",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Suky/code/PCA9538_Expander/"
+    }
+}

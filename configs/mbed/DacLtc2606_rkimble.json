@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Reed Kimble",
+        "url": "https://os.mbed.com/users/rkimble/"
+    },
+    "description": "Simple wrapper object for LTC2606 1CH 16Bit DAC. Instantiate DacLtc2606 object instance passing reference to mbed.I2C object instance. Call write() method on DacLtc2606 instance passing 16Bit integer (0 [Off] to ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "dac",
+        "I2C",
+        "LTC"
+    ],
+    "name": "DacLtc2606",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rkimble/code/DacLtc2606/"
+    }
+}

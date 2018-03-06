@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "mbed support for the Maple Mini boards.",
+    "examples": [
+        "https://os.mbed.com/users/hudakz/code/MapleMini_USBSerial/",
+        "https://os.mbed.com/users/vargham/code/MapleMiniPeripherals/",
+        "https://os.mbed.com/users/hudakz/code/MapleMini_Hello/",
+        "https://os.mbed.com/users/geekylou/code/DHT11_USBSerial/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MAPLE",
+        "mini"
+    ],
+    "name": "mbed-MapleMini",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/mbed-MapleMini/"
+    }
+}

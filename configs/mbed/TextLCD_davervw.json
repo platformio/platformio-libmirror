@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Dave Van Wagner",
+        "url": "https://os.mbed.com/users/davervw/"
+    },
+    "description": "private Library copy of TextLCD",
+    "examples": [
+        "https://os.mbed.com/users/davervw/code/eBible/",
+        "https://os.mbed.com/users/techand/code/ej_RSSfeeder/",
+        "https://os.mbed.com/users/_muki/code/erg/",
+        "https://os.mbed.com/users/esmiwa/code/y_HM55B/",
+        "https://os.mbed.com/users/esmiwa/code/y_XBeeTest_5_read/",
+        "https://os.mbed.com/users/esmiwa/code/y_XBeeTest_5_write/",
+        "https://os.mbed.com/users/fpervan/code/Pervan_VT4/",
+        "https://os.mbed.com/users/serbm/code/teclado/",
+        "https://os.mbed.com/teams/compartido-con-jon-atxa/code/PRACTICA3/",
+        "https://os.mbed.com/teams/Atope/code/PRACTICA3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TextLCD",
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/davervw/code/TextLCD/"
+    }
+}

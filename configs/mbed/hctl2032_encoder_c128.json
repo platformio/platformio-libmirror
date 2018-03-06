@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "paolo della vedova",
+        "url": "https://os.mbed.com/users/c128/"
+    },
+    "dependencies": [
+        {
+            "authors": "paolo della vedova",
+            "frameworks": "mbed",
+            "name": "FastIO"
+        }
+    ],
+    "description": "hctl 2032 encoder for stm32",
+    "frameworks": "mbed",
+    "keywords": "Encoder",
+    "name": "hctl2032_encoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/c128/code/hctl2032_encoder/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Frank 26080115",
+        "url": "https://os.mbed.com/users/frank26080115/"
+    },
+    "description": "Date: March 20, 2011 This library is created from \"LPC17xx CMSIS-Compliant Standard Peripheral Firmware Driver Library (GNU, Keil, IAR) (Jan 28, 2011)\", available from NXP's website, under \"All microcontrollers support ...",
+    "frameworks": "mbed",
+    "keywords": "api",
+    "name": "LPC1700CMSIS_Lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/frank26080115/code/LPC1700CMSIS_Lib/"
+    }
+}

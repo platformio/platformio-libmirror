@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Guilhem Saurel",
+        "url": "https://os.mbed.com/users/Nim65s/"
+    },
+    "dependencies": [
+        {
+            "authors": "Guilhem Saurel",
+            "frameworks": "mbed",
+            "name": "niMQTT"
+        },
+        {
+            "authors": "mimil owns",
+            "frameworks": "mbed",
+            "name": "picojson"
+        }
+    ],
+    "description": "An AirVantage layer for MQTT",
+    "examples": [
+        "https://os.mbed.com/users/Nim65s/code/AV_MQTT_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "AV_MQTT",
+    "name": "AV_MQTT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Nim65s/code/AV_MQTT/"
+    }
+}

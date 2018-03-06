@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jinu Andrews",
+        "url": "https://os.mbed.com/users/jinu/"
+    },
+    "description": "NRF51 serialization libraries for mDot",
+    "frameworks": "mbed",
+    "keywords": "nRF51",
+    "name": "nRF51",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jinu/code/nRF51/"
+    }
+}

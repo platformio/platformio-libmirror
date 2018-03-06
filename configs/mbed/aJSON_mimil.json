@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "mimil owns",
+        "url": "https://os.mbed.com/users/mimil/"
+    },
+    "description": "aJson is the attempt to port a complete JSON implementation to Arduino. It is based on the cJSON implementation, reduced in size and removing one or two feature. The current ...",
+    "examples": [
+        "https://os.mbed.com/users/joon874/code/WIZwikiREST20/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "JSON",
+    "name": "aJSON",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mimil/code/aJSON/"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "authors": {
+        "name": "Christopher Haster",
+        "url": "https://os.mbed.com/users/geky/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "LWIPInterface"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "NetworkSocketAPI"
+        },
+        {
+            "authors": "Christopher Haster",
+            "frameworks": "mbed",
+            "name": "events"
+        },
+        {
+            "authors": "Christopher Haster",
+            "frameworks": "mbed",
+            "name": "funcptr"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Simple HTTP example",
+    "frameworks": "mbed",
+    "keywords": "SimpleHTTPExample",
+    "name": "SimpleHTTPExample",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/geky/code/SimpleHTTPExample/"
+    }
+}

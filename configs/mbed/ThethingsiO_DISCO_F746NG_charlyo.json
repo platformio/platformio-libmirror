@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "thethings.iO Platform",
+        "url": "https://os.mbed.com/users/charlyo/"
+    },
+    "description": "Http adapted library to connect the DISCO_F746NG board to thethings.iO",
+    "examples": [
+        "https://os.mbed.com/users/charlyo/code/thethingsiO-DISCO_F746NG-http/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ThethingsiO_DISCO_F746NG",
+    "name": "ThethingsiO_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/charlyo/code/ThethingsiO_DISCO_F746NG/"
+    }
+}

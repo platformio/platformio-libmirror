@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "Frequency Counter Library. Only for mbed LPC1768, mbed LPC1114FN28, Nucleo-F401 and Nucleo-F411. No way to change pin assign.",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/Frequency_Counter/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "counter",
+        "frequency",
+        "LPC1114",
+        "LPC1768",
+        "stm32f401",
+        "STM32F411"
+    ],
+    "name": "freq_counter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/freq_counter/"
+    }
+}

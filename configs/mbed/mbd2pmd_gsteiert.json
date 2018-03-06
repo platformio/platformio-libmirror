@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Greg Steiert",
+        "url": "https://os.mbed.com/users/gsteiert/"
+    },
+    "description": "mbd2pmd Adapter Board Library",
+    "examples": [
+        "https://os.mbed.com/users/gsteiert/code/MBD2PMD_WebServer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mbd2pmd",
+        "pmod"
+    ],
+    "name": "mbd2pmd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gsteiert/code/mbd2pmd/"
+    }
+}

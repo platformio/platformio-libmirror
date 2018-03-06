@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Manuel Caballero",
+        "url": "https://os.mbed.com/users/mcm/"
+    },
+    "description": "Library for HX711 device. 24-Bit Analog-to-Digital Converter (ADC) for Weigh Scales",
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "driver",
+        "HX711",
+        "library",
+        "Weigh scales"
+    ],
+    "name": "HX711",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mcm/code/HX711/"
+    }
+}

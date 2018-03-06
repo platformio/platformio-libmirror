@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Jens Strümper",
+        "url": "https://os.mbed.com/users/jensstruemper/"
+    },
+    "description": "Recent implementation of a MLX90614 IR temperature sensor library based on the example code of Jonathan Jones. Working with the current I2C mbed library.",
+    "frameworks": "mbed",
+    "keywords": [
+        "infrared",
+        "MLX90614",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "MLX90614",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jensstruemper/code/MLX90614/"
+    }
+}

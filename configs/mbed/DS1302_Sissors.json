@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "Library to make use of the DS1302 timekeeping IC. The functions are identical to those used by the mbed RTC's",
+    "examples": [
+        "https://os.mbed.com/users/Clovis/code/temp_humid_time_DS1302_LM35_DHT11/",
+        "https://os.mbed.com/teams/FRDM-K64F-Code-Share/code/temp_humid_light_time_DS1302_LM35_DHT11_/",
+        "https://os.mbed.com/users/VivaPenguinos/code/DSKY/",
+        "https://os.mbed.com/users/Gijsvanoort/code/DS1302_HelloWorld/",
+        "https://os.mbed.com/users/Sissors/code/DS1302_HelloWorld/",
+        "https://os.mbed.com/users/nivmukka/code/WeatherDatalogger/",
+        "https://os.mbed.com/users/joeata2wh/code/xj-Init-clock-to-compile-time-if-not-alr/",
+        "https://os.mbed.com/users/dadangjia/code/Nucleo_SSD1306_DS1302_ESP8266_AM2320_BME/",
+        "https://os.mbed.com/users/dadangjia/code/LPC824_DS1302_PH_SD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ds1302",
+        "RTC"
+    ],
+    "name": "DS1302",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/DS1302/"
+    }
+}

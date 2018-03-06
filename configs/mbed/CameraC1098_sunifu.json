@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Tadao Iida",
+        "url": "https://os.mbed.com/users/sunifu/"
+    },
+    "description": "C1098-SS(http://www.silentsystem.jp/c1098.htm) JPEG Cameraのライブラリです。C328-7640のJPEG Cameraとは一部のコマンドで互換性があり、C328-7640のライブラリをベースに開発したものです。このバージョンはテスト用で動作確認のために公開しています。 Terminalでモニターし動作を確認しながら使用してください。ライブラリのsetmbedBaudを一部修正しました。",
+    "examples": [
+        "https://os.mbed.com/users/sunifu/code/CameraC1098_picture/",
+        "https://os.mbed.com/users/sunifu/code/CameraC1098_video/",
+        "https://os.mbed.com/users/sunifu/code/Camera-XBee-Wifi/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "C1098-SS",
+        "camera",
+        "JPEG",
+        "UART"
+    ],
+    "name": "CameraC1098",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sunifu/code/CameraC1098/"
+    }
+}

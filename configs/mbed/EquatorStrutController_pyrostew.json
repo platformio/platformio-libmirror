@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Stewart Coulden-Smith",
+        "url": "https://os.mbed.com/users/pyrostew/"
+    },
+    "description": "Equator Strut Controller",
+    "examples": [
+        "https://os.mbed.com/users/alpesh/code/EquatorStrutDigitalMonitor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "EquatorStrutController",
+    "name": "EquatorStrutController",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pyrostew/code/EquatorStrutController/"
+    }
+}

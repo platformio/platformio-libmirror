@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Stefan Hendrich",
+        "url": "https://os.mbed.com/users/Ipu/"
+    },
+    "description": "modified Library from sford for use with TeraTerm / VT100 emulation without sending any signs after a \\\"locate\\\" command. edited Line 35 -> deleted %c",
+    "frameworks": "mbed",
+    "keywords": [
+        "Communication",
+        "Serial",
+        "Terminal",
+        "VT100",
+        "VT200"
+    ],
+    "name": "Terminal",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Ipu/code/Terminal/"
+    }
+}

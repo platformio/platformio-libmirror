@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "Controller Area Network library for NUCLEO boards equipped with CAN peripheral.",
+    "examples": [
+        "https://os.mbed.com/users/jcourtois/code/Nucleo-Courtois/",
+        "https://os.mbed.com/users/filippomontano/code/CANBLE/",
+        "https://os.mbed.com/users/Crazyaboutmachines/code/CANnucleo_Hello3/",
+        "https://os.mbed.com/users/Crazyaboutmachines/code/Nucleo_Serialprintf/",
+        "https://os.mbed.com/users/piliwilliam/code/rtos_base_control/",
+        "https://os.mbed.com/users/ser1516/code/BMS_2/",
+        "https://os.mbed.com/users/ser1516/code/Can_sniffer_BMS_GER/",
+        "https://os.mbed.com/users/ser1516/code/Can_sniffer_bms/",
+        "https://os.mbed.com/users/ser1516/code/ECU_1/",
+        "https://os.mbed.com/users/Crazyaboutmachines/code/BMS_4/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CAN",
+        "can bus",
+        "CAN Nucleo",
+        "canbus",
+        "CANbus Nucleo",
+        "Controller Area Network",
+        "Nucleo"
+    ],
+    "name": "CANnucleo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/CANnucleo/"
+    }
+}

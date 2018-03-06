@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Emir Sokic",
+        "url": "https://os.mbed.com/users/esokic/"
+    },
+    "description": "mbed.h verzija za koristenje na predmetu PAI",
+    "frameworks": "mbed",
+    "keywords": "mbedPAI",
+    "name": "mbedPAI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/esokic/code/mbedPAI/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Andy Kirkham",
+        "url": "https://os.mbed.com/users/AjK/"
+    },
+    "description": "Simple to use macros to manipulate GPIOs quickly.",
+    "examples": [
+        "https://os.mbed.com/users/tlunzer/code/revcounter/",
+        "https://os.mbed.com/users/daapp/code/FastStepDriver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GPIO",
+    "name": "SimpleIOMacros",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AjK/code/SimpleIOMacros/"
+    }
+}

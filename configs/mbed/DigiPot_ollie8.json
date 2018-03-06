@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Ollie Milton",
+        "url": "https://os.mbed.com/users/ollie8/"
+    },
+    "description": "A simple library for controlling an MCP4241 digital potentiometer",
+    "frameworks": "mbed",
+    "keywords": "DigiPot",
+    "name": "DigiPot",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ollie8/code/DigiPot/"
+    }
+}

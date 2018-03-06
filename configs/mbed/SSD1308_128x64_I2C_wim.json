@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "SSD1308 128x64 OLED Driver with I2C interface",
+    "examples": [
+        "https://os.mbed.com/users/yihui/code/sense/",
+        "https://os.mbed.com/users/whatnick/code/xadow_m0_ada_gps/",
+        "https://os.mbed.com/users/whatnick/code/xadow_m0_SD_Hello/",
+        "https://os.mbed.com/users/stanleymagrao/code/sense-DHT11/",
+        "https://os.mbed.com/users/kcy/code/Nucleo_L053R8_SSD1308_OLED/",
+        "https://os.mbed.com/users/zainulcharbiwala/code/ECGAFE_copy/",
+        "https://os.mbed.com/users/whatnick/code/Xadow_MPU9150AHRS/",
+        "https://os.mbed.com/users/ruevs/code/Xadow-M0_Xadow-OLED_Accelerometer/",
+        "https://os.mbed.com/users/joeata2wh/code/Nucleo-F303K8-SSD1306_OLED/",
+        "https://os.mbed.com/users/jk1lot/code/SSD1306_128x64_I2C/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "OLED",
+        "SSD1308"
+    ],
+    "name": "SSD1308_128x64_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/SSD1308_128x64_I2C/"
+    }
+}

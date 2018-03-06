@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Nenad Milosevic",
+        "url": "https://os.mbed.com/users/synvox/"
+    },
+    "description": "Driver and Graphics library for MicroOLED 0.66'' (64 x 48 pixel) display with SSD1306 controller. Display can be obtained from Sparkfun or from diverse Chinese sellers (similar displays) via Aliexpress. ...",
+    "examples": [
+        "https://os.mbed.com/users/synvox/code/MicroOLED_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "MicroOLED",
+        "OLED",
+        "sparkfun",
+        "SPI",
+        "SSD1306"
+    ],
+    "name": "SFE_MicroOLED",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/synvox/code/SFE_MicroOLED/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "Library for Princeton PT6961 LED driver. Supports 6 digits @ 12 segments or 7 digits @ 11 segments. Also supports keyboard scanning of upto 30 keys. SPI interface.",
+    "examples": [
+        "https://os.mbed.com/users/wim/code/mbed_PT6961/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "PT6961",
+        "SPI"
+    ],
+    "name": "PT6961",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/PT6961/"
+    }
+}

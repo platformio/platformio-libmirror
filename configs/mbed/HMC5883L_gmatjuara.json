@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "GM AT",
+        "url": "https://os.mbed.com/users/gmatjuara/"
+    },
+    "description": "magnetometer",
+    "examples": [
+        "https://os.mbed.com/users/ivanff15/code/10dof/",
+        "https://os.mbed.com/users/fadi_lad/code/Bracelet_Orientation-Course/",
+        "https://os.mbed.com/users/sedid/code/Test_Boussole_moteur/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HMC5883L",
+    "name": "HMC5883L",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gmatjuara/code/HMC5883L/"
+    }
+}

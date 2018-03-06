@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Stefano Lai",
+        "url": "https://os.mbed.com/users/mbedakhela/"
+    },
+    "description": "first versione of ThingSpeak IOT library (not tested)",
+    "frameworks": "mbed",
+    "keywords": "ThingSpeak",
+    "name": "ThingSpeak",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbedakhela/code/ThingSpeak/"
+    }
+}

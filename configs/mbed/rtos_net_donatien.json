@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Donatien Garnier",
+        "url": "https://os.mbed.com/users/donatien/"
+    },
+    "description": "RTOS configured for use with Networking libraries",
+    "examples": [
+        "https://os.mbed.com/users/donatien/code/EthernetHTTPClientTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "rtos_net",
+    "name": "rtos_net",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donatien/code/rtos_net/"
+    }
+}

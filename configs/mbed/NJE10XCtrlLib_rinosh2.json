@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "rinosh 2",
+        "url": "https://os.mbed.com/users/rinosh2/"
+    },
+    "description": "This library is for the control of NJE-105/106. (which is the digital signage device made by Nagano Japan Radio Co., Ltd.)",
+    "examples": [
+        "https://os.mbed.com/users/rinosh2/code/NJE10XCtrlSample/",
+        "https://os.mbed.com/users/rinosh2/code/TrainInfoSample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "NJE-10X",
+        "Serial"
+    ],
+    "name": "NJE10XCtrlLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rinosh2/code/NJE10XCtrlLib/"
+    }
+}

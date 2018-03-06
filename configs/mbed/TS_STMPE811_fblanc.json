@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "frederic blanc",
+        "url": "https://os.mbed.com/users/fblanc/"
+    },
+    "description": "STMPE811 TouchScreen MCB1700",
+    "examples": [
+        "https://os.mbed.com/users/fblanc/code/Touch_Screen_MCB/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "MCB1700",
+        "STMPE811",
+        "Touchscreen"
+    ],
+    "name": "TS_STMPE811",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fblanc/code/TS_STMPE811/"
+    }
+}

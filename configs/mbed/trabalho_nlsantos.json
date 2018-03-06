@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Nelson Santos",
+        "url": "https://os.mbed.com/users/nlsantos/"
+    },
+    "dependencies": [
+        {
+            "authors": "Ant Robinson",
+            "frameworks": "mbed",
+            "name": "X_NUCLEO_IKS01A1-f255a2c75ecb"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "trabalho final",
+    "frameworks": "mbed",
+    "keywords": "trabalho",
+    "name": "trabalho",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nlsantos/code/trabalho/"
+    }
+}

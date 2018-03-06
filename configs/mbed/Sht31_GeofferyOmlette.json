@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Robert Taylor",
+        "url": "https://os.mbed.com/users/GeofferyOmlette/"
+    },
+    "description": "hello",
+    "examples": [
+        "https://os.mbed.com/users/GeofferyOmlette/code/sht31_II/",
+        "https://os.mbed.com/users/koyo_take/code/ina-hack-test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Sht31",
+    "name": "Sht31",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/GeofferyOmlette/code/Sht31/"
+    }
+}

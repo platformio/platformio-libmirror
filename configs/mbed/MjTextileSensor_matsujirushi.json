@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Takashi Matsuoka",
+        "url": "https://os.mbed.com/users/matsujirushi/"
+    },
+    "description": "Textile sensor",
+    "examples": [
+        "https://os.mbed.com/users/matsujirushi/code/MjTextileSensor_Hello/",
+        "https://os.mbed.com/users/mbed_tw_hoehoe/code/BLE_TextileSensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MjTextileSensor",
+    "name": "MjTextileSensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/matsujirushi/code/MjTextileSensor/"
+    }
+}

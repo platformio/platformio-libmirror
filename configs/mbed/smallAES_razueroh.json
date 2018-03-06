@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Rafael Azuero Hurtado",
+        "url": "https://os.mbed.com/users/razueroh/"
+    },
+    "description": "Small AES_ECB with T-box",
+    "examples": [
+        "https://os.mbed.com/teams/ArmfulKST/code/BLE_LED_ADC_BBC/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AES",
+        "cipher",
+        "encryption",
+        "security"
+    ],
+    "name": "smallAES",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/razueroh/code/smallAES/"
+    }
+}

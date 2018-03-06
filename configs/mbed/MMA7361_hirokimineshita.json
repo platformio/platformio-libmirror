@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "HAVRM mine",
+        "url": "https://os.mbed.com/users/hirokimineshita/"
+    },
+    "description": "これは MMA7361 3軸アナログ加速度センサ の Nucleo F401RE 用のライブラリです。詳しい説明はLibrary中のReadMe.hに記載しています。文字化けや開けない場合はダウンロードしてみてください。Google Chrome では見れるはずです。",
+    "examples": [
+        "https://os.mbed.com/users/hirokimineshita/code/Nucleo_L3GD20_MMA7361_Kalman/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "F401RE",
+        "mma7361",
+        "Nucleo"
+    ],
+    "name": "MMA7361",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hirokimineshita/code/MMA7361/"
+    }
+}

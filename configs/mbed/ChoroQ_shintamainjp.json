@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "ChoroQ",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/ChoroQ_TestProgram/",
+        "https://os.mbed.com/users/shintamainjp/code/Drive2ChoroQ/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "choroQ",
+    "name": "ChoroQ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/ChoroQ/"
+    }
+}

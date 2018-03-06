@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Tedd OKANO",
+        "url": "https://os.mbed.com/users/okano/"
+    },
+    "description": "Stepper motor control class library",
+    "examples": [
+        "https://os.mbed.com/users/okano/code/StepperMotor_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "motor",
+        "SPG20-332",
+        "Stepper",
+        "stepping",
+        "TA7774"
+    ],
+    "name": "StepperMotor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okano/code/StepperMotor/"
+    }
+}

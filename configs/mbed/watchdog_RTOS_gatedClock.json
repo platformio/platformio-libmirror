@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Mike Moore",
+        "url": "https://os.mbed.com/users/gatedClock/"
+    },
+    "description": "watchdog library. this is a derived work.",
+    "examples": [
+        "https://os.mbed.com/users/gatedClock/code/RTOS_project/",
+        "https://os.mbed.com/users/gatedClock/code/RTOS_project_fork_01/",
+        "https://os.mbed.com/users/gatedClock/code/RTOS_project_fork_02/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "watchdog_RTOS",
+    "name": "watchdog_RTOS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gatedClock/code/watchdog_RTOS/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Justin Jordan",
+        "url": "https://os.mbed.com/users/j3/"
+    },
+    "description": "Library for Bosch Sensortech BMI160 IMU",
+    "examples": [
+        "https://os.mbed.com/users/j3/code/MAX32630FTHR_BALANCE_BOT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BMI160",
+    "name": "BMI160",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/j3/code/BMI160/"
+    }
+}

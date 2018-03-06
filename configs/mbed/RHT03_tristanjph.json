@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Tristan Hughes",
+        "url": "https://os.mbed.com/users/tristanjph/"
+    },
+    "description": "An eddied version of http://mbed.org/users/crazystick/code/DHT22/ for LPC11U24. All printf statements are removed and features requiring the real time clock are removed.",
+    "examples": [
+        "https://os.mbed.com/users/tristanjph/code/RHT03_HelloWorld/",
+        "https://os.mbed.com/users/tristanjph/code/IOT_sensor_nfc/",
+        "https://os.mbed.com/users/Mohammed_Abo_Arais/code/CanSat_Alex/",
+        "https://os.mbed.com/users/aldih/code/cansat_alex_v1/",
+        "https://os.mbed.com/users/charliebsimms/code/MyTempuratureMqtt/",
+        "https://os.mbed.com/users/charliebsimms/code/MqttClientEthInt/",
+        "https://os.mbed.com/users/RobertFischer/code/ILI9341_Clock_Nucleo/",
+        "https://os.mbed.com/users/kenjiArai/code/LPC1114_barometer_with_data_logging/",
+        "https://os.mbed.com/users/kenjiArai/code/LPC1114_data_logger/",
+        "https://os.mbed.com/users/201209650/code/mbed_indeklima/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DHT22",
+        "RHT03"
+    ],
+    "name": "RHT03",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tristanjph/code/RHT03/"
+    }
+}

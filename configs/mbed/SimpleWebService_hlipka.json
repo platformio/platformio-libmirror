@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Hendrik Lipka",
+        "url": "https://os.mbed.com/users/hlipka/"
+    },
+    "description": "A simple web service over HTTP library. Calls a HTTP server via GET, and returns the response wrapped in a XML parser. All calls are synchronous. Needs the NetServicesMin, DNSResolver, ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "http",
+        "NET",
+        "network",
+        "webservice",
+        "xml"
+    ],
+    "name": "SimpleWebService",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hlipka/code/SimpleWebService/"
+    }
+}

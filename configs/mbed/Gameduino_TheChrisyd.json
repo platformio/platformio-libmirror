@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Chris Dick",
+        "url": "https://os.mbed.com/users/TheChrisyd/"
+    },
+    "dependencies": [
+        {
+            "authors": "Chris Dick",
+            "frameworks": "mbed",
+            "name": "Arduino"
+        }
+    ],
+    "description": "A Library for the Gameduino shield",
+    "examples": [
+        "https://os.mbed.com/users/TheChrisyd/code/Gameduino_Asteroids_game/",
+        "https://os.mbed.com/users/TheChrisyd/code/Gameduino_Ball_demo/",
+        "https://os.mbed.com/users/TheChrisyd/code/Gameduino_Bitmap_demo/",
+        "https://os.mbed.com/users/TheChrisyd/code/Gameduino_chessboard_demo/",
+        "https://os.mbed.com/users/TheChrisyd/code/Gameduino_collision_demo/",
+        "https://os.mbed.com/users/TheChrisyd/code/Gameduino_Frogger_game/",
+        "https://os.mbed.com/users/TheChrisyd/code/Gameduino_jkcollision_demo/",
+        "https://os.mbed.com/users/TheChrisyd/code/Gameduino_Joystick_test/",
+        "https://os.mbed.com/users/TheChrisyd/code/Gameduino_Manic_Miner_game/",
+        "https://os.mbed.com/users/TheChrisyd/code/Gameduino_Palettes_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "Gameduino",
+        "mbeduino"
+    ],
+    "name": "Gameduino",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/TheChrisyd/code/Gameduino/"
+    }
+}

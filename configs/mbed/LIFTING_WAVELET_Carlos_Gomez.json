@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Carlos Gomez",
+        "url": "https://os.mbed.com/users/Carlos_Gomez/"
+    },
+    "description": "Transformada lifting wavelet + filtro gaussiano",
+    "frameworks": "mbed",
+    "keywords": [
+        "lifting",
+        "Transformada",
+        "unillanos",
+        "wavelet"
+    ],
+    "name": "LIFTING_WAVELET",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Carlos_Gomez/code/LIFTING_WAVELET/"
+    }
+}

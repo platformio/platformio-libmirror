@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Ian Hua",
+        "url": "https://os.mbed.com/users/pHysiX/"
+    },
+    "description": "Code to read a PPM/PWM pulse, interrupt driven. Most useful for RC receivers. Code is non-blocking, and a poll of the stall timer can detect if a signal has been ...",
+    "examples": [
+        "https://os.mbed.com/users/IonSystems/code/triforce-control/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "interrupt",
+        "PPM",
+        "pwm",
+        "RC",
+        "Receiver"
+    ],
+    "name": "PwmInRC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pHysiX/code/PwmInRC/"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Roy van Dam",
+        "url": "https://os.mbed.com/users/NegativeBlack/"
+    },
+    "description": "Humidity and Temperature Sensor - Sensirion SHT1x driver",
+    "examples": [
+        "https://os.mbed.com/users/projetmeteo3/code/ProgrammePrincipal/",
+        "https://os.mbed.com/users/candyshop/code/Wetterstation/",
+        "https://os.mbed.com/users/dmehta39/code/project1/",
+        "https://os.mbed.com/users/kpatel70/code/4180_Project/",
+        "https://os.mbed.com/users/chinson3/code/TerrariumController/",
+        "https://os.mbed.com/users/airaylee/code/TCPserver_SHT15_Midterm/",
+        "https://os.mbed.com/users/RobertFischer/code/ILI9341_Clock_Nucleo/",
+        "https://os.mbed.com/users/nanjsk/code/SHT15_WIZwiki-W7500/",
+        "https://os.mbed.com/users/nanjsk/code/SNTP_SHT15_WIZwizki-W7500/",
+        "https://os.mbed.com/users/nanjsk/code/SNTP_7SEG_W7500ECO/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Humidity",
+        "Sensirion",
+        "sensor",
+        "SHT",
+        "SHT15",
+        "SHT1x",
+        "Temperature"
+    ],
+    "name": "SHTx",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/NegativeBlack/code/SHTx/"
+    }
+}

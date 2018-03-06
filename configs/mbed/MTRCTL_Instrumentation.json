@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Instrumentation",
+        "url": "https://os.mbed.com/teams/Instrumentation/"
+    },
+    "description": "MTRCTL - Sets initial frequency of DC motors. - Controls motor speed according to IC specifications. - Handles motors in order to help the car during curved paths.",
+    "examples": [
+        "https://os.mbed.com/teams/Instrumentation/code/frdm_MasterVehicle/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MTRCTL",
+    "name": "MTRCTL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Instrumentation/code/MTRCTL/"
+    }
+}

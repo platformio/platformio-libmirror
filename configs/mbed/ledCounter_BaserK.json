@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Baser Kandehir",
+        "url": "https://os.mbed.com/users/BaserK/"
+    },
+    "description": "Includes a basic 4-bit binary counter function for the leds.",
+    "examples": [
+        "https://os.mbed.com/users/BaserK/code/datalogging_RTC/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "counter",
+        "led",
+        "LPC1768",
+        "mbed"
+    ],
+    "name": "ledCounter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BaserK/code/ledCounter/"
+    }
+}

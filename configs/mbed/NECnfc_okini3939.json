@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "NEC Near Field Communication RF module library for mbed H001-000003-001 (950MHz), H001-000013-001 (920MHz), TY24FM-E2024 (2.4GHz)",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/NECnfc_sample/",
+        "https://os.mbed.com/users/okini3939/code/Drone_air/",
+        "https://os.mbed.com/users/okini3939/code/Drone_ground/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "2.4GHz",
+        "920MHz",
+        "950MHz",
+        "NEC",
+        "NFC"
+    ],
+    "name": "NECnfc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/NECnfc/"
+    }
+}

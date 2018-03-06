@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Petros Fountas",
+        "url": "https://os.mbed.com/users/pfountas/"
+    },
+    "description": "This repository contains Digital Signal Processing related code..",
+    "frameworks": "mbed",
+    "keywords": "DSP",
+    "name": "DSP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pfountas/code/DSP/"
+    }
+}

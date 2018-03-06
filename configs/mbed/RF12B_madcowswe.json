@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Oskar Weigl",
+        "url": "https://os.mbed.com/users/madcowswe/"
+    },
+    "description": "Working lib for qq v2",
+    "examples": [
+        "https://os.mbed.com/users/xiaxia686/code/Sonar_Beacon/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ICRS",
+        "rf12B"
+    ],
+    "name": "RF12B",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/madcowswe/code/RF12B/"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "jim herd",
+        "url": "https://os.mbed.com/users/jimherd/"
+    },
+    "description": "Library of routines to drive a MD25 motor control board",
+    "examples": [
+        "https://os.mbed.com/users/johnylafleur/code/Nucleo_motors/",
+        "https://os.mbed.com/users/Guillaume31/code/HTU21D_HELLOWORLD/",
+        "https://os.mbed.com/users/Guillaume31/code/Major_dHome/",
+        "https://os.mbed.com/users/johnylafleur/code/pixyMajordhome/",
+        "https://os.mbed.com/users/eembed/code/Nucleo-F411RE-Servo-Test_V2/",
+        "https://os.mbed.com/users/TuxLeon/code/DISCO-F746NG_rtos_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "H-bridge",
+        "I2C",
+        "MD25",
+        "motor"
+    ],
+    "name": "MD25",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jimherd/code/MD25/"
+    }
+}

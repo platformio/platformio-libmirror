@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Jan Wolfsberger",
+        "url": "https://os.mbed.com/users/wolfsberger/"
+    },
+    "description": "Library to handle a quadrature encoder with interrupts",
+    "examples": [
+        "https://os.mbed.com/users/wolfsberger/code/Sensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "interrupt",
+        "rotary"
+    ],
+    "name": "InterruptBasedEncoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wolfsberger/code/InterruptBasedEncoder/"
+    }
+}

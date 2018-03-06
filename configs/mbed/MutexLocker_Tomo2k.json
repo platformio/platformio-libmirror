@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Richard Thompson",
+        "url": "https://os.mbed.com/users/Tomo2k/"
+    },
+    "description": "Mutex Locker utility class to lock/unlock mbed RTOS mutexes. Create and pass a mutex, it locks the mutex then unlocks it when destroyed.",
+    "examples": [
+        "https://os.mbed.com/users/cabledev/code/SmartLight/",
+        "https://os.mbed.com/users/rproctor6/code/HelloThreadsYo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mutex",
+        "rtos"
+    ],
+    "name": "MutexLocker",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Tomo2k/code/MutexLocker/"
+    }
+}

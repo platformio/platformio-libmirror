@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Hiroshi Yamaguchi",
+        "url": "https://os.mbed.com/users/yamaguch/"
+    },
+    "description": "MS5607 Parallax micro altimeter module interfaces (I2C & SPI)",
+    "examples": [
+        "https://os.mbed.com/users/yamaguch/code/MS5607Example/",
+        "https://os.mbed.com/teams/CORE/code/Vertex_Integration_4/",
+        "https://os.mbed.com/users/RyotaNakamura/code/Time_MS5607_Pressure/",
+        "https://os.mbed.com/users/RyotaNakamura/code/Time_MS5607_Temperature/",
+        "https://os.mbed.com/users/RyotaNakamura/code/Time_MS5607_Altitude/",
+        "https://os.mbed.com/users/mikawataru/code/mbed_sence_test/",
+        "https://os.mbed.com/users/RyotaNakamura/code/Fright_mode/",
+        "https://os.mbed.com/teams/CORE/code/2017_03_Kaiho/",
+        "https://os.mbed.com/teams/CORE/code/20170321_MUSASABI/",
+        "https://os.mbed.com/users/naoki_westwell/code/00NUPERION_ver12/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Altimeter",
+        "MS5607",
+        "pressure",
+        "Temperature"
+    ],
+    "name": "MS5607",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yamaguch/code/MS5607/"
+    }
+}

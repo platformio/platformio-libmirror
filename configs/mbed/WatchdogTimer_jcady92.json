@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Jay Cady",
+        "url": "https://os.mbed.com/users/jcady92/"
+    },
+    "description": "Simple implementation of the watchdog timer for NRF51xxx.",
+    "examples": [
+        "https://os.mbed.com/users/jcady92/code/WatchdogTimerTest/",
+        "https://os.mbed.com/users/wodenageshen/code/Seeed_Test_Wristband_final/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Nordic",
+        "nRF",
+        "nRF51422",
+        "nRF51822",
+        "timer",
+        "watchdog"
+    ],
+    "name": "WatchdogTimer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jcady92/code/WatchdogTimer/"
+    }
+}

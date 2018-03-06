@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://os.mbed.com/users/simon/"
+    },
+    "description": "Debug library for instrumentation a.k.a printf debugging",
+    "examples": [
+        "https://os.mbed.com/teams/pyrocommander/code/pyrocommander/",
+        "https://os.mbed.com/users/2016US_KemalHalilbeg/code/Projektni_zadatak_Analogni_sat/",
+        "https://os.mbed.com/users/salco/code/ProjetOctopode/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "debug",
+    "name": "debug",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/simon/code/debug/"
+    }
+}

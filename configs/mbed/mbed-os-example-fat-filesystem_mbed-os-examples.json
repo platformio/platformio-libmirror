@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "mbed-os-examples",
+        "url": "https://os.mbed.com/teams/mbed-os-examples/"
+    },
+    "description": ".",
+    "frameworks": "mbed",
+    "keywords": "mbed-os-example-fat-filesystem",
+    "name": "mbed-os-example-fat-filesystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/mbed-os-examples/code/mbed-os-example-fat-filesystem/"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Stefan Nielsen",
+        "url": "https://os.mbed.com/users/Julepalme/"
+    },
+    "description": "Library for reading data from the RHT03 / DHT22 digital humidity & temperature sensor.",
+    "examples": [
+        "https://os.mbed.com/users/takashikojo/code/Pachube-v2_DHT22/",
+        "https://os.mbed.com/users/mohamedgamal/code/DHT_TEST2/",
+        "https://os.mbed.com/users/mohamedgamal/code/DHT_CANSAT/",
+        "https://os.mbed.com/users/douglasofranco/code/Projeto_Monit_Remoto/",
+        "https://os.mbed.com/teams/FRA221_2015/code/B17_ClockGame/",
+        "https://os.mbed.com/users/oscarvzfz/code/PowerLink/",
+        "https://os.mbed.com/teams/Robotics-Kit-Workshop/code/Program2_TempAndHumidity/",
+        "https://os.mbed.com/teams/Robotics-Kit-Workshop/code/Program4_ServoWithTempAndHumidity/",
+        "https://os.mbed.com/teams/znrobotics/code/Seeed_Arch_link_TempAndHumidity/",
+        "https://os.mbed.com/teams/znrobotics/code/Seeed_Arch_link_ServoWithTempAndHumidity/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DHT22",
+        "RHT03"
+    ],
+    "name": "DHT22",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Julepalme/code/DHT22/"
+    }
+}

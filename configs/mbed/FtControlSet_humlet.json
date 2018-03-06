@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Helmut Schmücker",
+        "url": "https://os.mbed.com/users/humlet/"
+    },
+    "dependencies": [
+        {
+            "authors": "Helmut Schmücker",
+            "frameworks": "mbed",
+            "name": "NeedfulThings"
+        }
+    ],
+    "description": "Receiver interface for the fischertechnik IR control set",
+    "frameworks": "mbed",
+    "keywords": [
+        "fischertechnik",
+        "IR",
+        "remote"
+    ],
+    "name": "FtControlSet",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/humlet/code/FtControlSet/"
+    }
+}

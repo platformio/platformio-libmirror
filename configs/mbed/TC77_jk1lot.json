@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Dai Yokota",
+        "url": "https://os.mbed.com/users/jk1lot/"
+    },
+    "description": "TC77 --- SPI Thermal Sensor",
+    "examples": [
+        "https://os.mbed.com/users/jk1lot/code/tc77_sample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "SPI",
+        "TC77",
+        "Temperature"
+    ],
+    "name": "TC77",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jk1lot/code/TC77/"
+    }
+}

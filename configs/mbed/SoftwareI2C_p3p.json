@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Chris Pepper",
+        "url": "https://os.mbed.com/users/p3p/"
+    },
+    "description": "First release of a Software I2C implementation, Tested and confirmed to work with the BMP085 Barometric Pressure Sensor",
+    "examples": [
+        "https://os.mbed.com/users/p3p/code/SoftwareI2C_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "software"
+    ],
+    "name": "SoftwareI2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/p3p/code/SoftwareI2C/"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Aaron Berk",
+        "url": "https://os.mbed.com/users/aberk/"
+    },
+    "description": "Inertial measurement unit orientation filter. Ported from Sebastian Madgwick's paper, \"An efficient orientation filter for inertial and inertial/magnetic sensor arrays\".",
+    "examples": [
+        "https://os.mbed.com/users/aberk/code/IMURover/",
+        "https://os.mbed.com/users/aberk/code/IMUfilter_HelloWorld/",
+        "https://os.mbed.com/users/aberk/code/IMUfilter_RPYExample/",
+        "https://os.mbed.com/users/fyazgan/code/12_TCPIP/",
+        "https://os.mbed.com/users/solomonope/code/Helloworld/",
+        "https://os.mbed.com/users/team10/code/AIviate1/",
+        "https://os.mbed.com/teams/jetfishteam/code/jetfish/",
+        "https://os.mbed.com/users/Strikewolf/code/SuperMbedBall/",
+        "https://os.mbed.com/teams/jetfishteam/code/sparkfun6dof/",
+        "https://os.mbed.com/users/Strikewolf/code/RoboticsCatAndMouse_HumanDriver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "filter",
+        "IMU",
+        "orientation"
+    ],
+    "name": "IMUfilter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aberk/code/IMUfilter/"
+    }
+}

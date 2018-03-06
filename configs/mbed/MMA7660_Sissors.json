@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "Library for the MMA7660 triple axis accelerometer",
+    "examples": [
+        "https://os.mbed.com/users/samux/code/Websocket_Ethernet_acc/",
+        "https://os.mbed.com/users/chris/code/app-board-Sprint-WS-Acc/",
+        "https://os.mbed.com/users/chris/code/app-board-Ethernet-Websocket/",
+        "https://os.mbed.com/users/chris/code/app-board-Wifly-Websocket/",
+        "https://os.mbed.com/users/smulube/code/xively-jumpstart-demo/",
+        "https://os.mbed.com/users/fossum_13/code/xivelyboard/",
+        "https://os.mbed.com/users/samux/code/app-board-USBModem-Websocket/",
+        "https://os.mbed.com/users/chapfohn/code/MMA7660_x_y_z_LCD/",
+        "https://os.mbed.com/users/hirox/code/Logger_V1/",
+        "https://os.mbed.com/users/groletter/code/FinalProject/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "I2C",
+        "MMA7660"
+    ],
+    "name": "MMA7660",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/MMA7660/"
+    }
+}

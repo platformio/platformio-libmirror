@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Allen Wild",
+        "url": "https://os.mbed.com/users/aswild/"
+    },
+    "description": "Library for controlling a strip of Adafruit NeoPixels with WS2812 drivers. Because of the strict timing requirements of the self-clocking data signal, the critical parts of code are written in ...",
+    "examples": [
+        "https://os.mbed.com/users/aswild/code/NeoPixels/",
+        "https://os.mbed.com/teams/ece4180final/code/ECE4180_Werable_LCD_DEMO/",
+        "https://os.mbed.com/users/ivanyohuno/code/neopixel_spi/",
+        "https://os.mbed.com/users/shuhei2306/code/NeoPixels/",
+        "https://os.mbed.com/users/wumzi/code/MX28-Scan3D_DB03-IRQ/",
+        "https://os.mbed.com/users/gert_lauritsen/code/AdrianLysShow/",
+        "https://os.mbed.com/users/baraki/code/bmbed_haptic_belt/",
+        "https://os.mbed.com/users/lz307/code/light_painting_strip/",
+        "https://os.mbed.com/users/arno3456/code/AdrianLysShow/",
+        "https://os.mbed.com/users/rossng/code/PiballNeoController/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "led",
+        "NeoPixel",
+        "rgb",
+        "Shiftbrite"
+    ],
+    "name": "NeoStrip",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aswild/code/NeoStrip/"
+    }
+}

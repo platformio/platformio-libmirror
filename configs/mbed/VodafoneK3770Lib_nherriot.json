@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Nicholas Herriot",
+        "url": "https://os.mbed.com/users/nherriot/"
+    },
+    "description": "test library for k3770 usb modem",
+    "frameworks": "mbed",
+    "keywords": [
+        "AT",
+        "commands",
+        "control",
+        "door",
+        "modem",
+        "USB",
+        "Vodafone"
+    ],
+    "name": "VodafoneK3770Lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nherriot/code/VodafoneK3770Lib/"
+    }
+}

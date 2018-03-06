@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Hotboards MX",
+        "url": "https://os.mbed.com/users/Hotboards/"
+    },
+    "description": "Driver to read and control a serial (i2c) temperature sensor, The Microchip MCP9808 is the digital sensor to control, can be read it, set its resolution, shutdown and also set ...",
+    "examples": [
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_temp_alarms/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_temp_fahrenheit/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_temp_reading_temperature/",
+        "https://os.mbed.com/users/AlejandroZamudio/code/LCD_Temperatura/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "hotboards",
+        "MCP9808",
+        "sesnor",
+        "Temp"
+    ],
+    "name": "Hotboards_temp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Hotboards/code/Hotboards_temp/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Joseph Bradshaw",
+        "url": "https://os.mbed.com/users/jebradshaw/"
+    },
+    "description": "Class library for the Dallas Semiconductor DS1307 RTC Basic Functionality, read and set RTC",
+    "frameworks": "mbed",
+    "keywords": [
+        "ds1307",
+        "RTC",
+        "WSE"
+    ],
+    "name": "DS1307_RTC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jebradshaw/code/DS1307_RTC/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Yann Garcia",
+        "url": "https://os.mbed.com/users/Yann/"
+    },
+    "description": "Simplified access to Ramtron (Cypress) FM24Vxx F-RAM devices",
+    "examples": [
+        "https://os.mbed.com/users/Yann/code/FM24Vxx_I2CApp/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FM24Vxx",
+        "I2C",
+        "RAMTRON"
+    ],
+    "name": "FM24Vxx_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Yann/code/FM24Vxx_I2C/"
+    }
+}

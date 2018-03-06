@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Wim De Roeve",
+        "url": "https://os.mbed.com/users/Wimpie/"
+    },
+    "description": "Counts interrupt driven pulses (UP or DOWN) with min and max width",
+    "examples": [
+        "https://os.mbed.com/users/mkkharel/code/PulseSensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "counter",
+        "interrupt",
+        "time"
+    ],
+    "name": "PulseCounter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Wimpie/code/PulseCounter/"
+    }
+}

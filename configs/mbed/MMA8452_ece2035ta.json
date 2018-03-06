@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "ECE 2035",
+        "url": "https://os.mbed.com/users/ece2035ta/"
+    },
+    "description": "ECE 2035",
+    "examples": [
+        "https://os.mbed.com/users/ece2035ta/code/ECE2035_FroggerGame_SUM2015/",
+        "https://os.mbed.com/users/ssong86/code/ECE2035_FroggerGame_SUM20151241/",
+        "https://os.mbed.com/users/ssong86/code/ECE2035_FroggerGame_SUM2015/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MMA8452",
+    "name": "MMA8452",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ece2035ta/code/MMA8452/"
+    }
+}

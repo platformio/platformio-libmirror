@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Ricky Kwon",
+        "url": "https://os.mbed.com/users/Ricky_Kwon/"
+    },
+    "description": "FTPClient",
+    "examples": [
+        "https://os.mbed.com/users/Ricky_Kwon/code/FTPClient_example/",
+        "https://os.mbed.com/users/wiznetw7500/code/FTP_TESTClient/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FTP",
+        "ftpclient"
+    ],
+    "name": "FTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Ricky_Kwon/code/FTPClient/"
+    }
+}

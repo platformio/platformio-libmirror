@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Sarah Marsh",
+        "url": "https://os.mbed.com/users/sarahmarshy/"
+    },
+    "description": "Library to resolve text URLs to IP addresses (IPv4)",
+    "examples": [
+        "https://os.mbed.com/users/kixorz/code/TempTower/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DnsQuery",
+    "name": "DnsQuery",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sarahmarshy/code/DnsQuery/"
+    }
+}

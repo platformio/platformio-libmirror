@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Alexander Medvedev",
+        "url": "https://os.mbed.com/users/medvdv/"
+    },
+    "description": "light text library for 5110 nokia lcd * easy to modify * proportional font, bold / inverse modes * easy to add / change fonts * fixed rows for fast ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "5110",
+        "LCD"
+    ],
+    "name": "medvdv5110",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/medvdv/code/medvdv5110/"
+    }
+}

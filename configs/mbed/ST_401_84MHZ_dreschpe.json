@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "Lib to switch the clock speed of the ST Nucleo to 84MHz. The internal RC oscillator is multiplied with the PLL.",
+    "examples": [
+        "https://os.mbed.com/users/dreschpe/code/Nucleo_spi_master_20MHz/",
+        "https://os.mbed.com/users/kirchnet/code/Nucleo_vs_Arduino_Speed_Test/",
+        "https://os.mbed.com/users/p_igmon/code/DMA_I2S_Test/",
+        "https://os.mbed.com/users/onehorse/code/MPU9150AHRS/",
+        "https://os.mbed.com/users/onehorse/code/MPU9250AHRS/",
+        "https://os.mbed.com/users/lagish/code/MPU9150AHRS/",
+        "https://os.mbed.com/users/meet26061993/code/MPU9150AHRS/",
+        "https://os.mbed.com/users/whatnick/code/MPU9150AHRS_Magcal/",
+        "https://os.mbed.com/users/PKnevermind/code/B18_MP3_PLAYER/",
+        "https://os.mbed.com/teams/FRA221_2015/code/B18_MP3_PLAYER/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "clock",
+        "f401",
+        "Nucleo"
+    ],
+    "name": "ST_401_84MHZ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/ST_401_84MHZ/"
+    }
+}

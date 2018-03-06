@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Stephen Paulger",
+        "url": "https://os.mbed.com/users/stevep/"
+    },
+    "description": "Program for generating morse code via a callback.",
+    "frameworks": "mbed",
+    "keywords": "Morse",
+    "name": "MorseGenerator",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/stevep/code/MorseGenerator/"
+    }
+}

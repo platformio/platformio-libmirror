@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jack Berkhout",
+        "url": "https://os.mbed.com/users/JackB/"
+    },
+    "description": "Library for New Haven NHD_0420DZW OLED",
+    "frameworks": "mbed",
+    "keywords": "NHD_0420DZW_OLED",
+    "name": "NHD_0420DZW_OLED",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JackB/code/NHD_0420DZW_OLED/"
+    }
+}

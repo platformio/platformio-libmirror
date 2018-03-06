@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "wimbeaumont Project",
+        "url": "https://os.mbed.com/users/wbeaumont/"
+    },
+    "description": "General usable MCP4728 quad DAC implementation only limited function has to be used together with the DevInterface lib",
+    "examples": [
+        "https://os.mbed.com/users/wbeaumont/code/MCP4728test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "dac",
+        "MCP4728"
+    ],
+    "name": "MCP4728",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wbeaumont/code/MCP4728/"
+    }
+}

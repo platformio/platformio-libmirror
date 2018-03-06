@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Michael Ball",
+        "url": "https://os.mbed.com/users/unix_guru/"
+    },
+    "description": "LodePNG version 20160124 Copyright (c) 2005-2016 Lode Vandevenne LodePNG is a PNG image decoder and encoder, all in one, no dependency or linkage to zlib or libpng required. It's made ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "BMP",
+        "Image Conversion",
+        "PNG"
+    ],
+    "name": "lodePNG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/unix_guru/code/lodePNG/"
+    }
+}

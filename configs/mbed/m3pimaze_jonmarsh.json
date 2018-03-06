@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Jon Marsh",
+        "url": "https://os.mbed.com/users/jonmarsh/"
+    },
+    "description": "Adds ability to play a tune and to directly read sensor values",
+    "examples": [
+        "https://os.mbed.com/users/jonmarsh/code/m3pi_MazeSolver/",
+        "https://os.mbed.com/users/jonmarsh/code/m3pi_MazeSolverLVC/",
+        "https://os.mbed.com/users/parkbanks/code/mbeddedNets/",
+        "https://os.mbed.com/users/SoveWar/code/jc-mazer_full/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "m3pi",
+        "maze",
+        "music",
+        "sensors"
+    ],
+    "name": "m3pimaze",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jonmarsh/code/m3pimaze/"
+    }
+}

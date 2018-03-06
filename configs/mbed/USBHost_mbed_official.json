@@ -1,0 +1,49 @@
+{
+    "authors": {
+        "name": "mbed official",
+        "url": "https://os.mbed.com/users/mbed_official/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        }
+    ],
+    "description": "USBHost library. NOTE: This library is only officially supported on the LPC1768 platform. For more information, please see the handbook page.",
+    "examples": [
+        "https://os.mbed.com/users/va009039/code/BTstack/",
+        "https://os.mbed.com/users/jksoft/code/WallbotWii/",
+        "https://os.mbed.com/users/vinit/code/SD-to-Flash-Data-Transfer/",
+        "https://os.mbed.com/users/avnisha/code/USBHost-MSD_HelloWorld/",
+        "https://os.mbed.com/users/jakowisp/code/HW7_USBHostMSD/",
+        "https://os.mbed.com/users/nagarajbatta/code/USBHost-MSD_Sensors_1/",
+        "https://os.mbed.com/users/jakowisp/code/class_project_main/",
+        "https://os.mbed.com/users/screamer/code/VodafoneUSBModem/",
+        "https://os.mbed.com/users/4180_1/code/AppBoard_Waveplayer/",
+        "https://os.mbed.com/users/okini3939/code/USBHostXpad_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Host",
+        "hub",
+        "keyboard",
+        "mbed",
+        "Mouse",
+        "MSD",
+        "rtos",
+        "Serial",
+        "USB"
+    ],
+    "name": "USBHost",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbed_official/code/USBHost/"
+    }
+}

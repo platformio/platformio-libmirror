@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Tadayuki Okamoto",
+        "url": "https://os.mbed.com/users/KURETA90/"
+    },
+    "description": "A library for LPM013M126A – JDI Color Memory LCD. This library is an inherited class from the “GraphicDisplay”, and Its functions are similar to “C12832_lcd” or ”SPI_TFT” library.",
+    "examples": [
+        "https://os.mbed.com/users/KURETA90/code/Test_ColorMemLCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ColorMemLCD",
+    "name": "ColorMemLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/KURETA90/code/ColorMemLCD/"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "wayne roberts",
+        "url": "https://os.mbed.com/users/dudmuck/"
+    },
+    "description": "Driver library for SX1272/SX1276 transceivers",
+    "examples": [
+        "https://os.mbed.com/teams/Elektronika/code/LORA_RX/",
+        "https://os.mbed.com/teams/Elektronika/code/LORA_TX/",
+        "https://os.mbed.com/users/dudmuck/code/mote_dual_radio/",
+        "https://os.mbed.com/teams/Elektronika/code/WindConcentrator/",
+        "https://os.mbed.com/users/dudmuck/code/sx127x_simple_RX_mote/",
+        "https://os.mbed.com/users/dudmuck/code/sx127x_simple_TX_mote/",
+        "https://os.mbed.com/users/dudmuck/code/sx127x_simple_RX_mDot/",
+        "https://os.mbed.com/users/dudmuck/code/sx127x_simple_TX_mDot/",
+        "https://os.mbed.com/teams/Semtech/code/NAMote72_Utility/",
+        "https://os.mbed.com/users/dudmuck/code/hid_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Radio",
+        "transceiver"
+    ],
+    "name": "SX127x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dudmuck/code/SX127x/"
+    }
+}

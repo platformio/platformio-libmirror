@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Ivan Shindev",
+        "url": "https://os.mbed.com/users/lemniskata/"
+    },
+    "description": "Running multiple thread instances of the same function. (See MultiThread Program for an example on how to use it)",
+    "examples": [
+        "https://os.mbed.com/users/lemniskata/code/MutliThread/",
+        "https://os.mbed.com/users/lemniskata/code/Server_Multi_Client/",
+        "https://os.mbed.com/teams/S5Team/code/HelloWorld/",
+        "https://os.mbed.com/teams/Lime/code/C027_SupportTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "cmsis",
+        "function",
+        "Instances",
+        "multiple",
+        "rtos",
+        "threads"
+    ],
+    "name": "Threads",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lemniskata/code/Threads/"
+    }
+}

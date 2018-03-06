@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Ian Molesworth",
+        "url": "https://os.mbed.com/users/nimbusgb/"
+    },
+    "description": "ADXL345_I2C",
+    "examples": [
+        "https://os.mbed.com/users/jrha/code/ADXL345/",
+        "https://os.mbed.com/users/SED9008/code/TCPspittertobi/",
+        "https://os.mbed.com/teams/albatross/code/ADXL345/",
+        "https://os.mbed.com/users/taurin/code/RS485R_2/",
+        "https://os.mbed.com/teams/albatross/code/RS485R_2/",
+        "https://os.mbed.com/users/toshiyukisaito/code/4WD_Watcher/",
+        "https://os.mbed.com/teams/albatross/code/SOUDA_MAIN/",
+        "https://os.mbed.com/teams/albatross/code/SOUDA_YOKUTAN_L/",
+        "https://os.mbed.com/teams/albatross/code/SOUDA_YOKUTAN_R/",
+        "https://os.mbed.com/teams/albatross/code/Control_R_ver1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ADXL345_I2C",
+    "name": "ADXL345_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nimbusgb/code/ADXL345_I2C/"
+    }
+}

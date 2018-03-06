@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Tedd OKANO",
+        "url": "https://os.mbed.com/users/okano/"
+    },
+    "description": "Component library for PCA9546A. The PCA9546A is a quad bidirectional translating switch controlled via the I2C-bus. The SCL/SDA upstream pair fans out to four downstream pairs, or channels. Any individual ...",
+    "examples": [
+        "https://os.mbed.com/users/okano/code/PCA9546A_Hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "bus switch",
+        "I2C",
+        "PCA9546A"
+    ],
+    "name": "PCA9546A",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okano/code/PCA9546A/"
+    }
+}

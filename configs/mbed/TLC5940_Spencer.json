@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Spencer Davis",
+        "url": "https://os.mbed.com/users/Spencer/"
+    },
+    "dependencies": [
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "FastPWM"
+        }
+    ],
+    "description": "This library allows control of the TLC5940 PWM driver IC. It supports both normal operation and controlling multiplexed displays.",
+    "examples": [
+        "https://os.mbed.com/teams/mmotor/code/TLC5940LEDtreiber/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "multiplexing",
+        "pwm",
+        "tlc5940"
+    ],
+    "name": "TLC5940",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Spencer/code/TLC5940/"
+    }
+}

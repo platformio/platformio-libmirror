@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "shohei haga",
+        "url": "https://os.mbed.com/users/shaga/"
+    },
+    "description": "Adafruit PWM Servo Driver Library for mbed. Porting from Arduino Library.",
+    "frameworks": "mbed",
+    "keywords": "AdafruitPwmServoDriver",
+    "name": "AdafruitPwmServoDriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shaga/code/AdafruitPwmServoDriver/"
+    }
+}

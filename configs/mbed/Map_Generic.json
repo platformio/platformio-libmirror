@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Cornelius Bezuidenhout",
+        "url": "https://os.mbed.com/users/Generic/"
+    },
+    "description": "A library that maps one range onto another range.",
+    "examples": [
+        "https://os.mbed.com/users/Generic/code/Heiko/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "map",
+        "range"
+    ],
+    "name": "Map",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Generic/code/Map/"
+    }
+}

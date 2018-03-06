@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Hiroshi M",
+        "url": "https://os.mbed.com/users/bant62/"
+    },
+    "description": "I2C EEPROM 24LCXXX Driver",
+    "examples": [
+        "https://os.mbed.com/users/bant62/code/LPC1114FN28_I2C_24LCXXX/",
+        "https://os.mbed.com/users/RobertFischer/code/ILI9341_Clock_Nucleo/",
+        "https://os.mbed.com/users/rakware/code/StormXalike/",
+        "https://os.mbed.com/users/rakware/code/rtc/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "_24LCXXX",
+    "name": "_24LCXXX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bant62/code/_24LCXXX/"
+    }
+}

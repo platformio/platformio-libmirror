@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Jelmer Tiete",
+        "url": "https://os.mbed.com/users/ehbmbed2/"
+    },
+    "description": "Library for LPD8806 (and probably LPD8803/LPD8809) PWM LED driver chips, strips and pixels. Standard connected to 1st hardware SPI module. Data -> p5 and Clock -> p7",
+    "examples": [
+        "https://os.mbed.com/users/ehbmbed2/code/LPD8806_Test/",
+        "https://os.mbed.com/users/Jasper/code/net-o-meter/",
+        "https://os.mbed.com/users/kcon/code/PennGradCap/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "LPD8803",
+        "LPD8806",
+        "LPD8809",
+        "SPI"
+    ],
+    "name": "LPD8806",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ehbmbed2/code/LPD8806/"
+    }
+}

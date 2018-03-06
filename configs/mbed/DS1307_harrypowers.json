@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Philip Smith",
+        "url": "https://os.mbed.com/users/harrypowers/"
+    },
+    "description": "This is a class for using the DS1307 Real Time Clock chip from Dallas Semiconductor. This class uses mbeds i2c class to talk to the chip. I have tested this ...",
+    "examples": [
+        "https://os.mbed.com/users/tombracer/code/Mbell/",
+        "https://os.mbed.com/users/Renato/code/Astromed_build20121123/",
+        "https://os.mbed.com/users/pegcjs/code/Raymon_pub_ver/",
+        "https://os.mbed.com/users/pegcjs/code/CCRMonitor12_sp07_120ver/",
+        "https://os.mbed.com/users/yihui/code/Arch_GroveRTC_Ex1/",
+        "https://os.mbed.com/users/payarito32/code/Tarea5_Reloj_y_Alarma_DS1307/",
+        "https://os.mbed.com/users/mescobart22/code/Tarea5_Relojds/",
+        "https://os.mbed.com/users/juniorACA/code/Tarea5-V1/",
+        "https://os.mbed.com/users/batrado/code/Nucleo_IWDG/",
+        "https://os.mbed.com/users/RubenHendriks/code/RTC/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "clock",
+        "ds1307",
+        "I2C",
+        "RTC"
+    ],
+    "name": "DS1307",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/harrypowers/code/DS1307/"
+    }
+}

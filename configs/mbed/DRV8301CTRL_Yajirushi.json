@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Ryota Yamamoto",
+        "url": "https://os.mbed.com/users/Yajirushi/"
+    },
+    "description": "TI社のBLDCモータードライバDRV8301を コントロールするためのユーティリティのようなクラスです。 できるだけユーザーにわかりやすく レジスタの設定・読み取りなどを行います。 尚、データシートは必須の模様。",
+    "examples": [
+        "https://os.mbed.com/users/Yajirushi/code/BLDC1Axis_DRV8301CTRL/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DRV8301",
+    "name": "DRV8301CTRL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Yajirushi/code/DRV8301CTRL/"
+    }
+}

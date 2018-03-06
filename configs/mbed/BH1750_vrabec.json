@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Michal Stehlik",
+        "url": "https://os.mbed.com/users/vrabec/"
+    },
+    "description": "Library for digital light sensor BH1750 (GY-30).",
+    "examples": [
+        "https://os.mbed.com/teams/FRA221_2016/code/FRA221_P12code2/",
+        "https://os.mbed.com/users/sp036239/code/Nucleo_BH1750/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BH1750",
+        "digital light sensor",
+        "gy-30"
+    ],
+    "name": "BH1750",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vrabec/code/BH1750/"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "dependencies": [
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "SimpleDMA"
+        }
+    ],
+    "description": "Uses DMA to read/write SPI blocks, while putting the current thread in Wait state.",
+    "examples": [
+        "https://os.mbed.com/users/Sissors/code/SDFileSystem-RTOS/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DMA",
+        "rtos",
+        "SPI"
+    ],
+    "name": "RTOS_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/RTOS_SPI/"
+    }
+}

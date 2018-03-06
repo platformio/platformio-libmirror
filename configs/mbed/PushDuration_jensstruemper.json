@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Jens Strümper",
+        "url": "https://os.mbed.com/users/jensstruemper/"
+    },
+    "description": "PushDuration maps n callback functions to the duration of a button press. E.g. foo() is called when a button is released after 1 second where bar() is called after 3 ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "BUTTON",
+        "Callback",
+        "duration",
+        "push"
+    ],
+    "name": "PushDuration",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jensstruemper/code/PushDuration/"
+    }
+}

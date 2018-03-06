@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Mark Uckermann",
+        "url": "https://os.mbed.com/users/dontknowhow/"
+    },
+    "description": "Library for detailed control of PWM including dead times and interrupts.",
+    "frameworks": "mbed",
+    "keywords": "DtPWM",
+    "name": "DtPWM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dontknowhow/code/DtPWM/"
+    }
+}

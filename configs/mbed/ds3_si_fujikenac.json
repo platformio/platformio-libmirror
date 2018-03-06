@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "ken fuji",
+        "url": "https://os.mbed.com/users/fujikenac/"
+    },
+    "description": "dualshock3",
+    "frameworks": "mbed",
+    "keywords": "ds3_si",
+    "name": "ds3_si",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fujikenac/code/ds3_si/"
+    }
+}

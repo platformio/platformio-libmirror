@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Oscar Schofield",
+        "url": "https://os.mbed.com/users/Oschofield/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Library for ELEC350 Work",
+    "frameworks": "mbed",
+    "keywords": "Elec350_OBS",
+    "name": "Elec350_OBS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Oschofield/code/Elec350_OBS/"
+    }
+}

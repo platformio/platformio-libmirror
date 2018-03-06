@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Michael Shimniok",
+        "url": "https://os.mbed.com/users/shimniok/"
+    },
+    "description": "Port of Arduino TinyGPS library to mbed. Added extra methods to flag receipt/parsing of particular sentences.",
+    "examples": [
+        "https://os.mbed.com/teams/Aerodyne/code/Atlas/",
+        "https://os.mbed.com/users/morimoriYNCT/code/gps_com/",
+        "https://os.mbed.com/users/joe4465/code/QuadCopter/",
+        "https://os.mbed.com/users/joe4465/code/Quadcopter_mk2/",
+        "https://os.mbed.com/users/zbraun6/code/GPS_20u7/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GPS",
+        "parse"
+    ],
+    "name": "TinyGPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shimniok/code/TinyGPS/"
+    }
+}

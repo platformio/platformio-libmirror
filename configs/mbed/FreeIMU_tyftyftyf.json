@@ -1,0 +1,42 @@
+{
+    "authors": {
+        "name": "Yifei Teng",
+        "url": "https://os.mbed.com/users/tyftyftyf/"
+    },
+    "dependencies": [
+        {
+            "authors": "Yifei Teng",
+            "frameworks": "mbed",
+            "name": "HMC58X3"
+        },
+        {
+            "authors": "Yifei Teng",
+            "frameworks": "mbed",
+            "name": "MPU6050"
+        },
+        {
+            "authors": "Yifei Teng",
+            "frameworks": "mbed",
+            "name": "MS561101BA"
+        },
+        {
+            "authors": "Yifei Teng",
+            "frameworks": "mbed",
+            "name": "MODI2C"
+        }
+    ],
+    "description": "10DOF FreeIMU port for FreeIMU v4 board and GY-86. This library was modified extensively to specifically suit the Mbed platform. Used threads and interrupts to achieve async mode.",
+    "examples": [
+        "https://os.mbed.com/users/tyftyftyf/code/FreeIMU_serial/",
+        "https://os.mbed.com/users/tyftyftyf/code/FreeIMU_demo/",
+        "https://os.mbed.com/users/MatteoT/code/MTQuadControl/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FreeIMU",
+    "name": "FreeIMU",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tyftyftyf/code/FreeIMU/"
+    }
+}

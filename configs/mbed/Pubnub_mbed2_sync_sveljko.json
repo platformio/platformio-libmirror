@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Srdjan Veljkovic",
+        "url": "https://os.mbed.com/users/sveljko/"
+    },
+    "dependencies": [
+        {
+            "authors": "Srdjan Veljkovic",
+            "frameworks": "mbed",
+            "name": "Pubnub_c_core_mbed2_pal"
+        }
+    ],
+    "description": "This is the Pubnub library for MBed2 (\"classic\") with the \"sync\" interface. It is based on the Pubnub C-core library.",
+    "examples": [
+        "https://os.mbed.com/users/sveljko/code/Pubnub_ATT_IoT_SK_WNC_sync/",
+        "https://os.mbed.com/users/fileark/code/Pubnub_ATT_IOT_SK_WNC_AnalogIn_Issue/",
+        "https://os.mbed.com/users/fileark/code/Pubnub_ATT_IoT_SK_WNC_sync_3_27_Fork/",
+        "https://os.mbed.com/users/ECE4180/code/pubnub_sync/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Pubnub_mbed2_sync",
+    "name": "Pubnub_mbed2_sync",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sveljko/code/Pubnub_mbed2_sync/"
+    }
+}

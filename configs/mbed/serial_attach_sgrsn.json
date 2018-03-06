@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "hidaka sato",
+        "url": "https://os.mbed.com/users/sgrsn/"
+    },
+    "description": "Serial 自動受信割り込み",
+    "frameworks": "mbed",
+    "keywords": "serial_attach",
+    "name": "serial_attach",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sgrsn/code/serial_attach/"
+    }
+}

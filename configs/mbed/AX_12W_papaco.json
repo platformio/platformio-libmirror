@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Pablo Paniagua",
+        "url": "https://os.mbed.com/users/papaco/"
+    },
+    "description": "Program made to control Dynamixel servos type AX-12W. Works perfectly in the lpc1768",
+    "examples": [
+        "https://os.mbed.com/users/papaco/code/UNIBOT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AX-12",
+        "AX-12W",
+        "control",
+        "dynamixel",
+        "LPC1768",
+        "nxp",
+        "PAPACO",
+        "Robotics",
+        "Servo"
+    ],
+    "name": "AX_12W",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/papaco/code/AX_12W/"
+    }
+}

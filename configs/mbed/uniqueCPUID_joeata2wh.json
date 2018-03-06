@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Joseph Ellsworth",
+        "url": "https://os.mbed.com/users/joeata2wh/"
+    },
+    "description": "Library to pull unique device ID from CPU chip. functions to load into a string that can be used in IoT access point ID and another to send the ID ...",
+    "examples": [
+        "https://os.mbed.com/users/joeata2wh/code/stm32_print_unique_serial_number_copy/",
+        "https://os.mbed.com/teams/hwelltech/code/bcsdk/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CPU Serial number",
+        "Device ID",
+        "IOT",
+        "Serial Number"
+    ],
+    "name": "uniqueCPUID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/joeata2wh/code/uniqueCPUID/"
+    }
+}

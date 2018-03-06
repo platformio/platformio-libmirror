@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "C-51849NFJ-SLW-ADN by KYOCERA : LCD Module: 40 characters × 4 lines, F-STN / Black&White-mode",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/C-51849_LCD_40_x_4_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "40x4",
+        "C-51849",
+        "character",
+        "LCD"
+    ],
+    "name": "C51849NFJ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/C51849NFJ/"
+    }
+}

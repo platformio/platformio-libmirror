@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Luis Linares",
+        "url": "https://os.mbed.com/users/macgyveremir/"
+    },
+    "description": "Simple driver for the 12-bit DAC DAC7311 from TI",
+    "frameworks": "mbed",
+    "keywords": "DAC7311",
+    "name": "DAC7311",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/macgyveremir/code/DAC7311/"
+    }
+}

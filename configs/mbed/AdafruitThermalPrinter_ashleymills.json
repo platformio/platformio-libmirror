@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Ashley Mills",
+        "url": "https://os.mbed.com/users/ashleymills/"
+    },
+    "description": "This is the Adafruit thermal printer, whose Arduino library is published here: http://www.ladyada.net/products/thermalprinter/. This is a basic port to mbed that needs proper testing. The printBitmap function is not ported ...",
+    "examples": [
+        "https://os.mbed.com/users/ashleymills/code/3GReceiptPrinter/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "adafruit printer",
+        "thermal printer"
+    ],
+    "name": "AdafruitThermalPrinter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ashleymills/code/AdafruitThermalPrinter/"
+    }
+}

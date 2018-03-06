@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Pallavi Prasad",
+        "url": "https://os.mbed.com/users/pprasad7/"
+    },
+    "description": "TextLCD",
+    "examples": [
+        "https://os.mbed.com/users/pprasad7/code/Hangman/",
+        "https://os.mbed.com/users/fernandomachado/code/RPC_HTTP/",
+        "https://os.mbed.com/users/chinson3/code/TerrariumController/",
+        "https://os.mbed.com/users/harish_i/code/RPC_HTTP_dac0808/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TextLCD",
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pprasad7/code/TextLCD/"
+    }
+}

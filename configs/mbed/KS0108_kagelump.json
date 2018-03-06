@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Ryan Tseng",
+        "url": "https://os.mbed.com/users/kagelump/"
+    },
+    "description": "KS0108",
+    "examples": [
+        "https://os.mbed.com/users/kagelump/code/Display/",
+        "https://os.mbed.com/users/rohangala/code/bigthingRec/",
+        "https://os.mbed.com/users/rohangala/code/bigthingRecfinal/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "KS0108",
+    "name": "KS0108",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kagelump/code/KS0108/"
+    }
+}

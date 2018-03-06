@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Taguchi Yuuki",
+        "url": "https://os.mbed.com/users/yuhki50/"
+    },
+    "description": "Infrared remote library for Arduino: send and receive infrared signals with multiple protocols Port from Arduino-IRremote https://github.com/z3t0/Arduino-IRremote",
+    "examples": [
+        "https://os.mbed.com/users/mario_meh/code/Lilnija_29012017/",
+        "https://os.mbed.com/users/Tiryoh/code/NucleoF042K6_IRReceiver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "IR",
+        "remote"
+    ],
+    "name": "IRremote",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yuhki50/code/IRremote/"
+    }
+}

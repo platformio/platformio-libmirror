@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Andy Kirkham",
+        "url": "https://os.mbed.com/users/AjK/"
+    },
+    "description": "A Ton (Timer On) is used to provide an \\'on delay\\' system so as to avoid using wait()",
+    "examples": [
+        "https://os.mbed.com/users/jjcimon/code/NEWlcd_menu_v2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "timer",
+        "Ton",
+        "wait"
+    ],
+    "name": "Ton",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AjK/code/Ton/"
+    }
+}

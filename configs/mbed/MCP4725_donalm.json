@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Donal Morrissey",
+        "url": "https://os.mbed.com/users/donalm/"
+    },
+    "description": "Library for controlling an MCP4725 \"12-Bit Digital-to-Analog Converter with EEPROM Memory\". There is an accompanying test suite program \"MCP_4725_Library_Test\" that can be used to test this library.",
+    "examples": [
+        "https://os.mbed.com/users/jamesdem1123/code/IGGE_Power/",
+        "https://os.mbed.com/users/mikepizzo/code/MCP4725_Library_Test/",
+        "https://os.mbed.com/users/Black_DAQs/code/MCP4725/",
+        "https://os.mbed.com/teams/Four-Squared/code/SinWave/",
+        "https://os.mbed.com/teams/Four-Squared/code/SinTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "MCP4725"
+    ],
+    "name": "MCP4725",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donalm/code/MCP4725/"
+    }
+}

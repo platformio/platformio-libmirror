@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "sylvain kritter",
+        "url": "https://os.mbed.com/users/sylvainkritter/"
+    },
+    "description": "OV7670 without FIFO, SCCB protocol rewritten.",
+    "examples": [
+        "https://os.mbed.com/users/sylvainkritter/code/mycame/",
+        "https://os.mbed.com/users/josephjins11/code/wd_camera/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ov7670s",
+    "name": "ov7670s",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sylvainkritter/code/ov7670s/"
+    }
+}

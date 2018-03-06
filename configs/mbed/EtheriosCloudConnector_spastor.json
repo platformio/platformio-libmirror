@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Sebastián Pastor",
+        "url": "https://os.mbed.com/users/spastor/"
+    },
+    "description": "Etherios Cloud Connector very first porting for mbed. Tested in an LPC1768",
+    "frameworks": "mbed",
+    "keywords": [
+        "CloudConnector",
+        "etherios",
+        "IOT"
+    ],
+    "name": "EtheriosCloudConnector",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/spastor/code/EtheriosCloudConnector/"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Mustafa Kanli",
+        "url": "https://os.mbed.com/users/mkanli/"
+    },
+    "description": "Class to read range measurements from a MaxBotix MaxSonar ranging device.",
+    "examples": [
+        "https://os.mbed.com/teams/Betago/code/BETAGO/",
+        "https://os.mbed.com/teams/palm-and-chin/code/CleaningMachine_Betago/",
+        "https://os.mbed.com/teams/Betago/code/clean_V1/",
+        "https://os.mbed.com/users/icyzkungz/code/CleaningM-Palm/",
+        "https://os.mbed.com/teams/Betago/code/clean_V2/",
+        "https://os.mbed.com/teams/Secret_Betago/code/CleaningM-Palm_V2_copy/",
+        "https://os.mbed.com/teams/Team-Scream-Machine/code/aclock/",
+        "https://os.mbed.com/teams/Team-Scream-Machine/code/DiplayText/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "maxsonar",
+        "range",
+        "RangeFinder",
+        "sonar"
+    ],
+    "name": "MaxSonar",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mkanli/code/MaxSonar/"
+    }
+}

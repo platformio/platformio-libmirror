@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Aswin Sivakumar",
+        "url": "https://os.mbed.com/users/AswinSivakumar/"
+    },
+    "description": "FXOS8700 library",
+    "examples": [
+        "https://os.mbed.com/users/mwjanse/code/FRDM-STBC-AGMP01_SensorStream/",
+        "https://os.mbed.com/teams/Hexiwear/code/Hexi_Accelero_Magneto_Example/",
+        "https://os.mbed.com/users/BlueShadow/code/A_Dragonfly_Freescale_Accel_Mag_Gyro_Sen/",
+        "https://os.mbed.com/users/BlueShadow/code/A_Dragonfly_BlueMix_QuickStart_NXP_Senso/",
+        "https://os.mbed.com/users/BlueShadow/code/VVV_MultiTech_Dragonfly_ATT_Dallas/",
+        "https://os.mbed.com/users/BlueShadow/code/A_Dragonfly_SMS_Freescale_Sensor/",
+        "https://os.mbed.com/teams/Hexiwear/code/Hexi_Bubble_Game/",
+        "https://os.mbed.com/users/AlexNaylor/code/FullIMUscriptsTCP/",
+        "https://os.mbed.com/teams/Hexiwear/code/Hexi_Catch-the-dot_Game/",
+        "https://os.mbed.com/users/tom_minnich/code/REP_Hexiwear_OLED/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FXOS8700",
+    "name": "FXOS8700",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AswinSivakumar/code/FXOS8700/"
+    }
+}

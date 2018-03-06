@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Bruno Alfano",
+        "url": "https://os.mbed.com/users/brunoalfano/"
+    },
+    "description": "A library to use Honeywell pressure sensors from HSC series with SPI connection. For calibration scale and pressure range you have to set the declarations inside the hsc_spi.h file - ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "honeywell",
+        "hsc",
+        "pressure",
+        "SPI"
+    ],
+    "name": "HSC_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/brunoalfano/code/HSC_SPI/"
+    }
+}

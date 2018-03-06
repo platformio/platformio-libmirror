@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Fritz Hausmann",
+        "url": "https://os.mbed.com/users/fritzhausmann/"
+    },
+    "description": "Bulme library for LM75B temp. sensor",
+    "frameworks": "mbed",
+    "keywords": "LM75B",
+    "name": "LM75B",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fritzhausmann/code/LM75B/"
+    }
+}

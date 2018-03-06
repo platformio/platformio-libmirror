@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Joseph Bradshaw",
+        "url": "https://os.mbed.com/users/jebradshaw/"
+    },
+    "description": "Class library for generating hobby servo pulses on any digital output pin",
+    "examples": [
+        "https://os.mbed.com/users/jebradshaw/code/mbed_ES200_Tester_SERVOGEN/",
+        "https://os.mbed.com/users/jebradshaw/code/mbed_ES20X_Thread_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Servo",
+        "servo pulse",
+        "WSE"
+    ],
+    "name": "SERVOGEN",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jebradshaw/code/SERVOGEN/"
+    }
+}

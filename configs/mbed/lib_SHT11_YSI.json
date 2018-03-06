@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Y SI",
+        "url": "https://os.mbed.com/users/YSI/"
+    },
+    "description": "lib_SHT11",
+    "examples": [
+        "https://os.mbed.com/users/YSI/code/lib_SHT11_example/",
+        "https://os.mbed.com/users/YSI/code/libs_YSI_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "lib_SHT11",
+    "name": "lib_SHT11",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/YSI/code/lib_SHT11/"
+    }
+}

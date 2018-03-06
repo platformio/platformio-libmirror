@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Ethan P",
+        "url": "https://os.mbed.com/users/chiggayeuh/"
+    },
+    "description": "APDS9960 gesture sensor library for use with mbed. Ported from Justin Woodman's RPI APDS9960 library.",
+    "frameworks": "mbed",
+    "keywords": [
+        "APDS",
+        "APDS9960",
+        "Gesture",
+        "sensor"
+    ],
+    "name": "APDS9960 GestureSensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chiggayeuh/code/APDS9960-GestureSensor/"
+    }
+}

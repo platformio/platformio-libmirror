@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "Class to be able to send SPI data with almost no overhead, useful at very high speeds.",
+    "examples": [
+        "https://os.mbed.com/users/jakeb/code/MakerBotServer/",
+        "https://os.mbed.com/users/dreschpe/code/epaper_mbed_130411_KL25Z/",
+        "https://os.mbed.com/users/dreschpe/code/epaper_mbed_test/",
+        "https://os.mbed.com/users/fenoth/code/epaper_mbed_test_copy1/",
+        "https://os.mbed.com/users/frankvnk/code/SPI_TFT_ILI9320/",
+        "https://os.mbed.com/users/JacobBramley/code/PixelArray/",
+        "https://os.mbed.com/users/infotech1/code/ili9341_test/",
+        "https://os.mbed.com/users/ben_ceron/code/PixelArrayBuffer/",
+        "https://os.mbed.com/users/jendo1969/code/epaper_KL25Z_2/",
+        "https://os.mbed.com/users/Starz/code/test_he10/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "high",
+        "Speed",
+        "SPI"
+    ],
+    "name": "BurstSPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/BurstSPI/"
+    }
+}

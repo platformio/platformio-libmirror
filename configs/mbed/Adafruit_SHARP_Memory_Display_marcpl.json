@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Marc Plouhinec",
+        "url": "https://os.mbed.com/users/marcpl/"
+    },
+    "dependencies": [
+        {
+            "authors": "Marc Plouhinec",
+            "frameworks": "mbed",
+            "name": "Adafruit-GFX"
+        }
+    ],
+    "description": "Library for Adafruit SHARP Memory Displays. This is a port of the original Arduino library available at: https://github.com/adafruit/Adafruit_SHARP_Memory_Display .",
+    "examples": [
+        "https://os.mbed.com/users/marcpl/code/Adafruit_SHARP_Memory_Display_demo/",
+        "https://os.mbed.com/users/worstcase_ffm/code/Analog_Clock/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "display",
+        "LCD",
+        "memory",
+        "Sharp"
+    ],
+    "name": "Adafruit_SHARP_Memory_Display",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/marcpl/code/Adafruit_SHARP_Memory_Display/"
+    }
+}

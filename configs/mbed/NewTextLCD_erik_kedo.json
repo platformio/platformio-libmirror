@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Erik Kerger",
+        "url": "https://os.mbed.com/users/erik_kedo/"
+    },
+    "description": "Connect HD44780 LCD display to mbed (4-Bit mode). Changes to make PCF2116 work.",
+    "examples": [
+        "https://os.mbed.com/users/melangeaddict/code/tuner/",
+        "https://os.mbed.com/teams/KRAI-2016/code/Base_Hybrid_V3/",
+        "https://os.mbed.com/teams/KRAI-2016/code/Base_Hybrid_V2/",
+        "https://os.mbed.com/teams/KRAI-2016/code/base_rekam_darurat_v1/",
+        "https://os.mbed.com/teams/KRAI-2016/code/Base_Hybrid_Latihan_Ok_Hajar_servo_pwm/",
+        "https://os.mbed.com/teams/KRAI-2016/code/Base_Hybrid_Latihan_Ok_Hajar_servo_senso/",
+        "https://os.mbed.com/teams/KRAI-2017/code/Base_Hybrid_Latihan_Ok_Hajar_servo_senso/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HD44780",
+        "PCF2116",
+        "TextLCD"
+    ],
+    "name": "NewTextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/erik_kedo/code/NewTextLCD/"
+    }
+}

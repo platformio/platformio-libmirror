@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Matt Clement",
+        "url": "https://os.mbed.com/users/buckeyes1997/"
+    },
+    "description": "This library is an attempt to encapsulate the Pololu motor board MC33926 Motor Driver Carrier.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Carrier",
+        "driver",
+        "dual",
+        "MC33926",
+        "motor"
+    ],
+    "name": "Dual MC33926 Motor Driver Carrier",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/buckeyes1997/code/Dual-MC33926-Motor-Driver-Carrier/"
+    }
+}

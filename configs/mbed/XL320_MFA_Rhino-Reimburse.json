@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Rhino Reimburse",
+        "url": "https://os.mbed.com/teams/Rhino-Reimburse/"
+    },
+    "description": "Library for Dynamixel XL-320 Servo. Get/Set functions work properly in 115200 and 1000000 BaudRate Some functions still not yet tested or not yet working(e.g. iPing and iFactoryReset)",
+    "examples": [
+        "https://os.mbed.com/teams/Rhino-Reimburse/code/Rhino_Observer_Control/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "XL320_MFA",
+    "name": "XL320_MFA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Rhino-Reimburse/code/XL320_MFA/"
+    }
+}

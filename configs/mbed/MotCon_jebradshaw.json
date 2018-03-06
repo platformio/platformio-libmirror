@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Joseph Bradshaw",
+        "url": "https://os.mbed.com/users/jebradshaw/"
+    },
+    "description": "Simple DC motor control commands for driving DC motor conroller with PWM and up to 2 direction signals (complementary). Takes float value from -1.0 to 1.0.",
+    "examples": [
+        "https://os.mbed.com/users/jebradshaw/code/Axis/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DC",
+        "motor",
+        "PM motor"
+    ],
+    "name": "MotCon",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jebradshaw/code/MotCon/"
+    }
+}

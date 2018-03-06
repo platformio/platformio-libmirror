@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Andrew Bonney",
+        "url": "https://os.mbed.com/users/andrewbonney/"
+    },
+    "description": "Modified version of NetServices. Fixes an issue where connections failed should the HTTP response status line be received in a packet on its own prior to any further headers. Changes ...",
+    "frameworks": "mbed",
+    "keywords": "NetServicesMod",
+    "name": "NetServicesMod",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/andrewbonney/code/NetServicesMod/"
+    }
+}

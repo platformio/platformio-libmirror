@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Prabhu Desai",
+        "url": "https://os.mbed.com/users/prabhuvd/"
+    },
+    "description": "Ultrasound Ranging Sensor module",
+    "examples": [
+        "https://os.mbed.com/users/kit3/code/Obstacle_avoidance/",
+        "https://os.mbed.com/users/Birkan/code/servourfmatlab/",
+        "https://os.mbed.com/users/oakx/code/hcsr04/",
+        "https://os.mbed.com/users/triple/code/DistanceOnSevenSegLed/",
+        "https://os.mbed.com/users/Match314/code/sample_HCSR04/",
+        "https://os.mbed.com/users/jonsmith/code/mbed_hcsr04/",
+        "https://os.mbed.com/users/cloudhome/code/Pet-iot-ws/",
+        "https://os.mbed.com/users/cardenb/code/mbed_gesture/",
+        "https://os.mbed.com/users/vseyok/code/BLE_LED_Button_Nucleo/",
+        "https://os.mbed.com/users/janjongboom/code/HPE_UltrasonicSensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "sensor",
+        "Ultrasonic Ranging",
+        "Ultrasound Sensor"
+    ],
+    "name": "HCSR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/prabhuvd/code/HCSR04/"
+    }
+}

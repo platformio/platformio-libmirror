@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "mohamed gamal",
+        "url": "https://os.mbed.com/users/mohamedgamal/"
+    },
+    "dependencies": [
+        {
+            "authors": "Stefan Nielsen",
+            "frameworks": "mbed",
+            "name": "DHT22"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "DHT_TEST2",
+    "frameworks": "mbed",
+    "keywords": "DHT_TEST2",
+    "name": "DHT_TEST2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mohamedgamal/code/DHT_TEST2/"
+    }
+}

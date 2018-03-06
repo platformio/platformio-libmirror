@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Corneliu Puscasu",
+        "url": "https://os.mbed.com/users/corneliup/"
+    },
+    "description": "Library for the Maxim DS1631 I2C temperature sensor",
+    "frameworks": "mbed",
+    "keywords": "DS1631",
+    "name": "DS1631",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/corneliup/code/DS1631/"
+    }
+}

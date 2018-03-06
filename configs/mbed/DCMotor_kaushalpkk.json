@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Krishna Kaushal Panduru",
+        "url": "https://os.mbed.com/users/kaushalpkk/"
+    },
+    "description": "software to control a DC motor, preferably interfacing with a motor driver.",
+    "frameworks": "mbed",
+    "keywords": "acctuators",
+    "name": "DCMotor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kaushalpkk/code/DCMotor/"
+    }
+}

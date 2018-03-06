@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Narendra Joshi",
+        "url": "https://os.mbed.com/users/narendraj9/"
+    },
+    "dependencies": [
+        {
+            "authors": "Narendra Joshi",
+            "frameworks": "mbed",
+            "name": "TextLCD"
+        }
+    ],
+    "description": "our little library for controlling a robot with two wheels and an LCD",
+    "examples": [
+        "https://os.mbed.com/users/narendraj9/code/robots/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Robo",
+    "name": "Robo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/narendraj9/code/Robo/"
+    }
+}

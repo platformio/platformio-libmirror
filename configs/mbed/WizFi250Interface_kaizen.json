@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "DongEun Koak",
+        "url": "https://os.mbed.com/users/kaizen/"
+    },
+    "description": "This is library for using WizFi250",
+    "examples": [
+        "https://os.mbed.com/users/kaizen/code/WebSocket_WizFi250_HelloWorld/",
+        "https://os.mbed.com/users/jehoon/code/IFTTT_WizFi250/",
+        "https://os.mbed.com/teams/WIZnet/code/AxedaGo-WizFi250/",
+        "https://os.mbed.com/users/joon874/code/FANARM_AP_udp_server/",
+        "https://os.mbed.com/users/joon874/code/FANARM_udp_client/",
+        "https://os.mbed.com/teams/WIZnet/code/WizFi250_hello_world_demo/",
+        "https://os.mbed.com/teams/WIZnet/code/WizFi250_AP_HelloWorld/",
+        "https://os.mbed.com/teams/WIZnet/code/WizFi250TcpUdpExample/",
+        "https://os.mbed.com/teams/WIZnet/code/WizFi250-Geolocation_NTP/",
+        "https://os.mbed.com/users/kaizen/code/Wifi_Electric_Skateboard/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "wifi",
+        "WiFi Shield",
+        "WizFi250"
+    ],
+    "name": "WizFi250Interface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kaizen/code/WizFi250Interface/"
+    }
+}

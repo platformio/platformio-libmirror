@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "tanabe hitoshi",
+        "url": "https://os.mbed.com/users/ht/"
+    },
+    "description": "TSL1401 is the line sensor camera.This library is used to read the raw data.",
+    "frameworks": "mbed",
+    "keywords": "TSL1401",
+    "name": "TSL1401",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ht/code/TSL1401/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Claes Ekengren",
+        "url": "https://os.mbed.com/users/CE/"
+    },
+    "description": "Slightly modified LIB from Stephane ROCHON",
+    "frameworks": "mbed",
+    "keywords": "uLCD-32PT(SGS)",
+    "name": "TFT_4DGL_rev1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/CE/code/TFT_4DGL_rev1/"
+    }
+}

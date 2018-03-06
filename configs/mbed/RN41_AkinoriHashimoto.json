@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Akinori Hashimoto",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/"
+    },
+    "dependencies": [
+        {
+            "authors": "Akinori Hashimoto",
+            "frameworks": "mbed",
+            "name": "StrLib"
+        },
+        {
+            "authors": "Akinori Hashimoto",
+            "frameworks": "mbed",
+            "name": "myTimer"
+        },
+        {
+            "authors": "Akinori Hashimoto",
+            "frameworks": "mbed",
+            "name": "RingBuffer"
+        }
+    ],
+    "description": "RN41/42 control lib. RN41/42 is bluetooth module with class 1 or 2.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Bluetooth module",
+        "rn41",
+        "RN42"
+    ],
+    "name": "RN41",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/RN41/"
+    }
+}

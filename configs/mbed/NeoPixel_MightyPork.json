@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Ondřej Hruška",
+        "url": "https://os.mbed.com/users/MightyPork/"
+    },
+    "description": "Simple neopixel (WS2812) library, tuned for stm32 (L432) at 80 MHz Should be compatible with any stm32, different clock speed may require timing adjustments in neopixel.c",
+    "frameworks": "mbed",
+    "keywords": [
+        "NeoPixel",
+        "stm32",
+        "WS2812B"
+    ],
+    "name": "NeoPixel",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MightyPork/code/NeoPixel/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "nagito haga",
+        "url": "https://os.mbed.com/users/HagaNagito/"
+    },
+    "description": "test",
+    "examples": [
+        "https://os.mbed.com/users/HagaNagito/code/mecanum_chenge/",
+        "https://os.mbed.com/users/HagaNagito/code/mecanum_chenge_2/",
+        "https://os.mbed.com/users/HagaNagito/code/class_solenoid_valve/",
+        "https://os.mbed.com/users/HagaNagito/code/class_limit_duty/",
+        "https://os.mbed.com/users/HagaNagito/code/class_mecanum/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "sbdbt",
+    "name": "sbdbt",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/HagaNagito/code/sbdbt/"
+    }
+}

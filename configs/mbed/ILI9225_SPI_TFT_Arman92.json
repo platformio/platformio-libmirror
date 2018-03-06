@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Arman Safikhani",
+        "url": "https://os.mbed.com/users/Arman92/"
+    },
+    "description": "Library to drive an ILI9225 2.2\" SPI TFT.",
+    "examples": [
+        "https://os.mbed.com/users/Arman92/code/ILI9225_TFT_Sample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ILI9225",
+        "LCD",
+        "SPI"
+    ],
+    "name": "ILI9225_SPI_TFT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Arman92/code/ILI9225_SPI_TFT/"
+    }
+}

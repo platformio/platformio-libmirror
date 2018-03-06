@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Weimen Li",
+        "url": "https://os.mbed.com/users/Electrotiger/"
+    },
+    "description": "Driver for the JY-MCU v1.06 HC-06 Bluetooth module.",
+    "examples": [
+        "https://os.mbed.com/users/TuxLeon/code/DISCO-F746NG_rtos_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HC06Bluetooth",
+    "name": "HC06Bluetooth",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Electrotiger/code/HC06Bluetooth/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "mingyu Liu",
+        "url": "https://os.mbed.com/users/mliu3/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "123",
+    "frameworks": "mbed",
+    "keywords": "ELEC350",
+    "name": "ELEC350",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mliu3/code/ELEC350/"
+    }
+}

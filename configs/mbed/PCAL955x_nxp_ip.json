@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "InetrfaceProducts NXP",
+        "url": "https://os.mbed.com/users/nxp_ip/"
+    },
+    "description": "The PCAL9555, PCAL9554 series is a low-voltage 16-bit/8-bit General Purpose Input/Output (GPIO) expander with interrupt. This conponent library is compatible to basic operation os GPIO expanders: PCAL9555, PCA9555, PCA9535, PCA9539, ...",
+    "examples": [
+        "https://os.mbed.com/users/nxp_ip/code/PCAL9555_Hello/",
+        "https://os.mbed.com/users/MACRUM/code/OM13082-JoyStick/",
+        "https://os.mbed.com/users/MACRUM/code/OM13082_LED/",
+        "https://os.mbed.com/users/MACRUM/code/OM13082-test/",
+        "https://os.mbed.com/users/FBSEletronica/code/LPCXpresso4337_OM13082_test/",
+        "https://os.mbed.com/users/uLipe/code/ftf_mbed_lab1/",
+        "https://os.mbed.com/users/uLipe/code/ftf_mbed_lab2/",
+        "https://os.mbed.com/teams/Missouri-ST-IEEE-Robotics-Team/code/Power_Management_Board_REV_A/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GPIO",
+        "GPIO expander",
+        "I2C",
+        "PCA9535",
+        "PCA9538",
+        "PCA9539",
+        "PCA9554",
+        "PCA9555",
+        "PCAL9554",
+        "PCAL9555"
+    ],
+    "name": "PCAL955x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nxp_ip/code/PCAL955x/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "goutham dugyala",
+        "url": "https://os.mbed.com/users/gauthibit/"
+    },
+    "dependencies": [
+        {
+            "authors": "goutham dugyala",
+            "frameworks": "mbed",
+            "name": "FATFilesystem_Axelta"
+        }
+    ],
+    "description": "FATFileSystem_old",
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem_Axelta",
+    "name": "SDFileSystem_Axelta",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gauthibit/code/SDFileSystem_Axelta/"
+    }
+}

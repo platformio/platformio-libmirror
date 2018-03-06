@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Jasper Gerth",
+        "url": "https://os.mbed.com/users/Gerth/"
+    },
+    "description": "Library with P, PI and PID controller",
+    "examples": [
+        "https://os.mbed.com/teams/BioRobotics1/code/buttoncontrol/",
+        "https://os.mbed.com/teams/BioRobotics1/code/includeair/",
+        "https://os.mbed.com/users/Gerth/code/includeair/",
+        "https://os.mbed.com/users/peterknoben/code/Oudverslag/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "controlandadjust",
+    "name": "controlandadjust",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Gerth/code/controlandadjust/"
+    }
+}

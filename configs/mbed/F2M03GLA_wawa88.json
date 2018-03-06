@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "walter marchal",
+        "url": "https://os.mbed.com/users/wawa88/"
+    },
+    "description": "Free2move F2M03GLA Configure: Name ,baud 2400-921600,Class of device",
+    "frameworks": "mbed",
+    "keywords": "bluetooth",
+    "name": "F2M03GLA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wawa88/code/F2M03GLA/"
+    }
+}

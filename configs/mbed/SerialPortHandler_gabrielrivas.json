@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Gabriel Rivas",
+        "url": "https://os.mbed.com/users/gabrielrivas/"
+    },
+    "description": "Serial port handler class that allows sharing data from the serial ports via message queues objects. Each instance of this class is intended to handle a serial port in the ...",
+    "examples": [
+        "https://os.mbed.com/users/gabrielrivas/code/Nucleo_modbus_protocol_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "real time",
+        "serial port",
+        "serial protocols"
+    ],
+    "name": "SerialPortHandler",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gabrielrivas/code/SerialPortHandler/"
+    }
+}

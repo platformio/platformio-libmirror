@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Gottfried Enenkel",
+        "url": "https://os.mbed.com/users/Enenkel/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "b16 Show2",
+    "frameworks": "mbed",
+    "keywords": "B16_SHOW2",
+    "name": "B16_SHOW2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Enenkel/code/B16_SHOW2/"
+    }
+}

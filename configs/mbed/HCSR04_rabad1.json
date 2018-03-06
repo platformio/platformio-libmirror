@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Robert Abad",
+        "url": "https://os.mbed.com/users/rabad1/"
+    },
+    "description": "mbed device driver for HC-SR04 ultrasonic range finder",
+    "examples": [
+        "https://os.mbed.com/users/rabad1/code/ROBot/",
+        "https://os.mbed.com/users/oscarvzfz/code/Ultrasonic/",
+        "https://os.mbed.com/users/oscarvzfz/code/Ksen/",
+        "https://os.mbed.com/users/dalmago/code/sysClean/",
+        "https://os.mbed.com/users/hypark/code/Core1000_SmartFarm/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HCSR04",
+    "name": "HCSR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rabad1/code/HCSR04/"
+    }
+}

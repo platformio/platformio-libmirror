@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Adam Green",
+        "url": "https://os.mbed.com/users/AdamGreen/"
+    },
+    "description": "Successfully opens any file name given to it and pretends that all files have a certain number of bytes (set by application at time of mounting the file system.) Can ...",
+    "frameworks": "mbed",
+    "keywords": "FakeFileSystem",
+    "name": "FakeFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AdamGreen/code/FakeFileSystem/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Guillaume Fricker",
+        "url": "https://os.mbed.com/users/GuiTwo/"
+    },
+    "dependencies": [
+        {
+            "authors": "Guillaume Fricker",
+            "frameworks": "mbed",
+            "name": "BusEnums"
+        }
+    ],
+    "description": "KS0108 LCD LIB with I2C I/O expander PCF8574 for Databus",
+    "examples": [
+        "https://os.mbed.com/users/GuiTwo/code/Menu/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "KS0108_PCF8574",
+    "name": "KS0108_PCF8574",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/GuiTwo/code/KS0108_PCF8574/"
+    }
+}

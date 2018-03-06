@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Nikolas Goldin",
+        "url": "https://os.mbed.com/users/ngoldin/"
+    },
+    "description": "Library for using the xbee-compatible Bluetooth Bee Module on an m3pi.",
+    "examples": [
+        "https://os.mbed.com/users/smeisel/code/configure_btbee/",
+        "https://os.mbed.com/teams/TUB-MRT/code/m3pi_btTest/",
+        "https://os.mbed.com/teams/der-Roboter/code/Test_motor/",
+        "https://os.mbed.com/users/ngoldin/code/m3pi_ng/",
+        "https://os.mbed.com/teams/MEGACARAZ/code/PID/",
+        "https://os.mbed.com/users/nbtavis/code/Robot/",
+        "https://os.mbed.com/users/bbabbs/code/WarehouseBot1/",
+        "https://os.mbed.com/users/bbabbs/code/WarehouseBotBT/",
+        "https://os.mbed.com/users/bbabbs/code/WarehouseBot/",
+        "https://os.mbed.com/users/bbabbs/code/WarehouseBotOther/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "3pi;",
+        "bluetooth;",
+        "m3pi;",
+        "robot;",
+        "xbee"
+    ],
+    "name": "btbee",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ngoldin/code/btbee/"
+    }
+}

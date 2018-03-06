@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Federico Luis Pinna Gonzalez",
+        "url": "https://os.mbed.com/users/Cotzo/"
+    },
+    "description": "Interface for driving a driver motor dc with control pwm.",
+    "frameworks": "mbed",
+    "keywords": "motorDC",
+    "name": "MotorDC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Cotzo/code/MotorDC/"
+    }
+}

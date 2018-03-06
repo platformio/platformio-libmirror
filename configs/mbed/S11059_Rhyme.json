@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Motoo Tanaka",
+        "url": "https://os.mbed.com/users/Rhyme/"
+    },
+    "description": "HAMAMATSU's I2C color sensor S11059",
+    "examples": [
+        "https://os.mbed.com/users/Rhyme/code/test_S11059/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Color Sensor",
+        "I2C"
+    ],
+    "name": "S11059",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Rhyme/code/S11059/"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Vasanth Kumar",
+        "url": "https://os.mbed.com/users/vasanth/"
+    },
+    "description": "RAPID_MP3_V1 is a high quality stereo MP3 playback and WAV audio recording module that can be easily interfaced with and controlled from any MBED enabled platform using a 2-wire UART ...",
+    "examples": [
+        "https://os.mbed.com/users/vasanth/code/RapidMP3_check/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "audio",
+        "mp3",
+        "record",
+        "serial MP3",
+        "sound",
+        "vs1011",
+        "vs1011e",
+        "VS1053",
+        "wav"
+    ],
+    "name": "RAPIDMP3",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vasanth/code/RAPIDMP3/"
+    }
+}

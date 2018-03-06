@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Quantum Leaps",
+        "url": "https://os.mbed.com/users/QL/"
+    },
+    "description": "QP is an event-driven, RTOS-like, active object framework for microcontrollers, such as mbed. The QP framework provides thread-safe execution of active objects (concurrent state machines) and support both manual and ...",
+    "examples": [
+        "https://os.mbed.com/users/tylerjw/code/qp_hangman/",
+        "https://os.mbed.com/users/QL/code/qp_dpp/",
+        "https://os.mbed.com/users/QL/code/qp_blinky/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "framework",
+        "modeling",
+        "multitasking",
+        "QM",
+        "qp",
+        "rtos",
+        "state-machine",
+        "uml"
+    ],
+    "name": "qp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/QL/code/qp/"
+    }
+}

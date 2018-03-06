@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Thomas Murphy",
+        "url": "https://os.mbed.com/users/trm/"
+    },
+    "description": "An in-development library to provide effective access to all features of the FXOS8700CQ on the FRDM-K64F mbed-enabled development board. As of 28 May 2014 1325EDT, the code should be generally ...",
+    "examples": [
+        "https://os.mbed.com/users/trm/code/fxos8700cq_example/",
+        "https://os.mbed.com/users/trm/code/frdm_fxos8700_logger/",
+        "https://os.mbed.com/teams/AVR-Competition/code/AVC_test1/",
+        "https://os.mbed.com/teams/Instrumentation/code/frdm_accel/",
+        "https://os.mbed.com/teams/Instrumentation/code/frdm_MasterVehicle/",
+        "https://os.mbed.com/teams/AVR-Competition/code/AVC_Robot_Controled_Navigation/",
+        "https://os.mbed.com/users/gcarmonar/code/AVC_Robot_Controled_Navigation/",
+        "https://os.mbed.com/teams/The-A-Team/code/Fusion_Gyro_Mag/",
+        "https://os.mbed.com/teams/The-A-Team/code/Test_FXOS8700CQ/",
+        "https://os.mbed.com/users/co838_gtvl2/code/gtvl2_a3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FRDM-K64F",
+        "fxos8700cq"
+    ],
+    "name": "FXOS8700CQ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/trm/code/FXOS8700CQ/"
+    }
+}

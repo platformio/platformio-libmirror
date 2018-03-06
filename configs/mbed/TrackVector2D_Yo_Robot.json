@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Ernesto Palacios",
+        "url": "https://os.mbed.com/users/Yo_Robot/"
+    },
+    "description": "This matrix will be use to control the position and direction of a mobile robot in a 2D enviroment. See header file for more info",
+    "examples": [
+        "https://os.mbed.com/users/Yo_Robot/code/Kinematics/",
+        "https://os.mbed.com/users/Yo_Robot/code/Matrix_class/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "control",
+        "Kinematics",
+        "lauther",
+        "math",
+        "matrix",
+        "mobile",
+        "robot"
+    ],
+    "name": "TrackVector2D",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Yo_Robot/code/TrackVector2D/"
+    }
+}

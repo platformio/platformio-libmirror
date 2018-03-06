@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Craig Evans",
+        "url": "https://os.mbed.com/users/eencae/"
+    },
+    "description": "Library to play tones and melodies over the DAC.",
+    "examples": [
+        "https://os.mbed.com/users/eencae/code/1620_Project_Template/",
+        "https://os.mbed.com/users/eencae/code/1620_App_Board_DAC/",
+        "https://os.mbed.com/users/eencae/code/1620_App_Board_DAC_Melody/",
+        "https://os.mbed.com/users/Al_Husien_Dabashi/code/1620_Project_Template/",
+        "https://os.mbed.com/users/eendmo/code/HeadStart_Project/",
+        "https://os.mbed.com/users/eencae/code/1620_App_Board_Quick_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Tone",
+    "name": "Tone",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eencae/code/Tone/"
+    }
+}

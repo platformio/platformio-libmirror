@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Neil Thiessen",
+        "url": "https://os.mbed.com/users/neilt6/"
+    },
+    "description": "A feature complete driver for the LM75B temperature sensor from NXP.",
+    "examples": [
+        "https://os.mbed.com/users/4180_1/code/app-board-TempAlarm/",
+        "https://os.mbed.com/users/Oneoftherulingparty/code/LM75B/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/IoTWorkshopSensors/",
+        "https://os.mbed.com/users/BjornVB/code/EduRobot/",
+        "https://os.mbed.com/users/neilt6/code/LM75B_HelloWorld/",
+        "https://os.mbed.com/users/thomas_sullivan/code/HW7-1_Xively_Thermostat/",
+        "https://os.mbed.com/users/thomas_sullivan/code/IOT_Project_AnalogDisplay/",
+        "https://os.mbed.com/users/vwochnik/code/MbedSmartRestMain/",
+        "https://os.mbed.com/users/embeddedartists/code/EM027BS013/",
+        "https://os.mbed.com/users/icraggs/code/IoTStarterKit/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Celsius",
+        "driver",
+        "I2C",
+        "LM75B",
+        "nxp",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "LM75B",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/neilt6/code/LM75B/"
+    }
+}

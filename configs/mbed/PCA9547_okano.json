@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Tedd OKANO",
+        "url": "https://os.mbed.com/users/okano/"
+    },
+    "description": "PCA9547: an I2C bus multiplexer control library. PCA9547 is an I2C multiplexer which enables to select 1:8 multiplexed I2C bus. The multiplexer is useful for deviding I2C bus to avoiding ...",
+    "examples": [
+        "https://os.mbed.com/users/okano/code/pca9547_Hello/",
+        "https://os.mbed.com/users/sillevl/code/m3Dpi/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C multiplexer",
+        "PCA9547"
+    ],
+    "name": "PCA9547",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okano/code/PCA9547/"
+    }
+}

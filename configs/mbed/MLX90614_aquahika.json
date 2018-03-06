@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Hikaru Sugiura",
+        "url": "https://os.mbed.com/users/aquahika/"
+    },
+    "description": "Melexis MLX90614 library",
+    "examples": [
+        "https://os.mbed.com/users/4180_1/code/IR_temperature/",
+        "https://os.mbed.com/users/villeah/code/IR_temperature/",
+        "https://os.mbed.com/teams/Team-Alpha/code/IR_temperature/",
+        "https://os.mbed.com/teams/Team-Alpha/code/UserIntefaceLCD/",
+        "https://os.mbed.com/users/TimothyY/code/1FINALTX/",
+        "https://os.mbed.com/users/FraserLaw23/code/JetXTransmit/",
+        "https://os.mbed.com/users/apatel43/code/MLX90614_2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Melexis",
+        "MLX90614"
+    ],
+    "name": "MLX90614",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aquahika/code/MLX90614/"
+    }
+}

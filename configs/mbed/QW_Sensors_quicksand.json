@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Quicksand micro-electronics",
+        "url": "https://os.mbed.com/users/quicksand/"
+    },
+    "description": "This library demonstrates how to use the sensors on the QW Shield.",
+    "examples": [
+        "https://os.mbed.com/users/quicksand/code/QW-TEMP_GPS-NMEA/",
+        "https://os.mbed.com/users/quicksand/code/QW-Motiondetection/",
+        "https://os.mbed.com/users/quicksand/code/QW-Closet-detection/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "QW_Sensors",
+    "name": "QW_Sensors",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/quicksand/code/QW_Sensors/"
+    }
+}

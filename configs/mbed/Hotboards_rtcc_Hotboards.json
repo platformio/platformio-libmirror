@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Hotboards MX",
+        "url": "https://os.mbed.com/users/Hotboards/"
+    },
+    "description": "library to control, set and read time and date from Hotboards rtcc board, wich contains the Microchip MCP7941x real time clock",
+    "examples": [
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_rtcc_manual_timedate/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_rtcc_timeSpan/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_rtcc_alarm/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_rtcc_compiler_timedate/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_rtcc_alarm_repeat/",
+        "https://os.mbed.com/users/arturogasca/code/BIOMETRICOS_HUMANOS_BETA/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "hotboards",
+        "rtcc"
+    ],
+    "name": "Hotboards_rtcc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Hotboards/code/Hotboards_rtcc/"
+    }
+}

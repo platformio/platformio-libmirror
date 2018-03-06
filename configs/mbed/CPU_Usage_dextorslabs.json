@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Ian Weston",
+        "url": "https://os.mbed.com/users/dextorslabs/"
+    },
+    "description": "CPU_Usage is a very lightweight library that can be easily incorporated into your application for testing performance. The reading is given as a percentage of CPU time which can be ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "CPU",
+        "CPU_Usage",
+        "performance",
+        "resources",
+        "time",
+        "usage"
+    ],
+    "name": "CPU_Usage",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dextorslabs/code/CPU_Usage/"
+    }
+}

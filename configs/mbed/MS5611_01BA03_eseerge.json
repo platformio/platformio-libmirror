@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Sergii Doroshenko",
+        "url": "https://os.mbed.com/users/eseerge/"
+    },
+    "description": "Initial revision for MS5611_01BA03 variometer, spi interface.",
+    "frameworks": "mbed",
+    "keywords": [
+        "baro",
+        "MS5611_01BA03",
+        "SPI",
+        "variometer"
+    ],
+    "name": "MS5611_01BA03",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eseerge/code/MS5611_01BA03/"
+    }
+}

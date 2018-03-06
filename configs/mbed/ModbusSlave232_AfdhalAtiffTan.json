@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Afdhal Atiff Tan",
+        "url": "https://os.mbed.com/users/AfdhalAtiffTan/"
+    },
+    "description": "This library meant to allow mbed boards (tested on F401RE) to act as modbus slave. I don't own this work, I just made some simple modifications so that it runs ...",
+    "examples": [
+        "https://os.mbed.com/users/AfdhalAtiffTan/code/ModbusRTU-RS232/",
+        "https://os.mbed.com/users/AfdhalAtiffTan/code/FoodComputerARM-alpha/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "millis",
+        "Modbus",
+        "MODSERIAL",
+        "rtu"
+    ],
+    "name": "ModbusSlave232",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AfdhalAtiffTan/code/ModbusSlave232/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Benjamin Hepp",
+        "url": "https://os.mbed.com/users/bhepp/"
+    },
+    "description": "Simple driver for DWM1000 modules.",
+    "frameworks": "mbed",
+    "keywords": "DW1000",
+    "name": "DW1000",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bhepp/code/DW1000/"
+    }
+}

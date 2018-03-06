@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Tom Doyle",
+        "url": "https://os.mbed.com/users/tedoyle/"
+    },
+    "description": "64 bit Timer Class.",
+    "frameworks": "mbed",
+    "keywords": [
+        "64 bit",
+        "timer class"
+    ],
+    "name": "Timer64",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tedoyle/code/Timer64/"
+    }
+}

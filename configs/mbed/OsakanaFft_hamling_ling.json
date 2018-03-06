@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Nobuhiro Kuroiwa",
+        "url": "https://os.mbed.com/users/hamling_ling/"
+    },
+    "description": "Fixedpoint and floatingpoint Fft practice for mbed. original url is https://github.com/hamling-ling/OsakanaFFT",
+    "examples": [
+        "https://os.mbed.com/users/hamling_ling/code/OsakanaFftSample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "OsakanaFft",
+    "name": "OsakanaFft",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hamling_ling/code/OsakanaFft/"
+    }
+}

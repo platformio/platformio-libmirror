@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Shindo Wu",
+        "url": "https://os.mbed.com/users/coverxit/"
+    },
+    "description": "sd-driver with adjustable spi freq.",
+    "examples": [
+        "https://os.mbed.com/users/loopsva/code/K64F-os5-fs/",
+        "https://os.mbed.com/users/vidica94/code/HelloWorld_CCA01M1_mbedOS/",
+        "https://os.mbed.com/teams/STarks/code/HelloWorld_CCA01M1_mbedOS_semplificato/",
+        "https://os.mbed.com/users/Hagrid/code/mbed-os-example-blinky/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "sd-driver",
+    "name": "sd-driver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/coverxit/code/sd-driver/"
+    }
+}

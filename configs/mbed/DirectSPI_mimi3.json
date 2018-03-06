@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "mi mi",
+        "url": "https://os.mbed.com/users/mimi3/"
+    },
+    "description": "Ultra fast and direct SPI library for some STM32 micros.",
+    "examples": [
+        "https://os.mbed.com/users/mimi3/code/DirectSPI-test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DirectSPI",
+    "name": "DirectSPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mimi3/code/DirectSPI/"
+    }
+}

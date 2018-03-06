@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "HTTP Server, WebSocket support",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/HTTPD_sample/",
+        "https://os.mbed.com/users/mbedschool/code/ch5_mbed_lightweight_Web_server_dust_sen/",
+        "https://os.mbed.com/users/mbedschool/code/ch8_mbed_websocket_client/",
+        "https://os.mbed.com/users/nikhilchaturtvedi/code/Renesas_GR-Peach_LCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HTTP server",
+        "httpd",
+        "websocket server"
+    ],
+    "name": "HTTPD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/HTTPD/"
+    }
+}

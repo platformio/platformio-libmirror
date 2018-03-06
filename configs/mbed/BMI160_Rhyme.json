@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Motoo Tanaka",
+        "url": "https://os.mbed.com/users/Rhyme/"
+    },
+    "description": "My implementation of Bosh BMI160 Only I2C is tested so far.",
+    "examples": [
+        "https://os.mbed.com/users/Rhyme/code/test_BMI160/",
+        "https://os.mbed.com/users/Rhyme/code/TFT_test_MAX32630FTHR/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "BMI160",
+        "gyroscope",
+        "I2C",
+        "SPI"
+    ],
+    "name": "BMI160",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Rhyme/code/BMI160/"
+    }
+}

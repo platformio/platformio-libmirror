@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Aaron Goselin",
+        "url": "https://os.mbed.com/users/Nakor/"
+    },
+    "description": "Enemy class. Written for OOP Review. Derived from life_entity.",
+    "examples": [
+        "https://os.mbed.com/users/Nakor/code/life_entity/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "game",
+        "inheritance",
+        "OOP",
+        "polymorphism",
+        "tutorial"
+    ],
+    "name": "enemy",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Nakor/code/enemy/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Henry Leinen",
+        "url": "https://os.mbed.com/users/leihen/"
+    },
+    "description": "Single instance HTTP Server using WiFly Interface.",
+    "examples": [
+        "https://os.mbed.com/users/leihen/code/WiFlyHTTPServerSample/",
+        "https://os.mbed.com/users/leihen/code/MultiThreadingHTTPServer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HTTPServer",
+        "WiFly"
+    ],
+    "name": "WiFlyHTTPServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/leihen/code/WiFlyHTTPServer/"
+    }
+}

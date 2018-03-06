@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Vinay Shrivastav",
+        "url": "https://os.mbed.com/users/remembervin/"
+    },
+    "description": "FXOS8700Q-driver 9-axis accelerometer drivers",
+    "examples": [
+        "https://os.mbed.com/users/navigators/code/AAT_LWM2M_K64F_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FXOS8700Q-driver",
+    "name": "FXOS8700Q-driver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/remembervin/code/FXOS8700Q-driver/"
+    }
+}

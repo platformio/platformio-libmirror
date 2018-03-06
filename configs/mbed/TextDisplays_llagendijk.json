@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Louis Lagendijk L",
+        "url": "https://os.mbed.com/users/llagendijk/"
+    },
+    "description": "A TextDisplay driver that supports graphical displays using on of the SED133x conrtrolers. Allows stdout and stderr output to be redirected to the display.",
+    "frameworks": "mbed",
+    "keywords": [
+        "SED1330",
+        "SED1335",
+        "TextDisplay"
+    ],
+    "name": "TextDisplays",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/llagendijk/code/TextDisplays/"
+    }
+}

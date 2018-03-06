@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Adrien Chapelet",
+        "url": "https://os.mbed.com/users/adrien3d/"
+    },
+    "description": "Sigfox Communication library, allowing you to use any kind of UART able Sigfox Transmitter",
+    "examples": [
+        "https://os.mbed.com/teams/OULOUTECH/code/DS1820_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "IOT",
+        "lpwan",
+        "sigfox"
+    ],
+    "name": "Sigfox_Com",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/adrien3d/code/Sigfox_Com/"
+    }
+}

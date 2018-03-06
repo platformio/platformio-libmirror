@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Ronald Boucher",
+        "url": "https://os.mbed.com/users/RonBoucher/"
+    },
+    "description": "original copy - needs rev for nucleo",
+    "frameworks": "mbed",
+    "keywords": "SSD1351",
+    "name": "SSD1351",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RonBoucher/code/SSD1351/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Wim van der Vegt",
+        "url": "https://os.mbed.com/users/wvd_vegt/"
+    },
+    "description": "RIT (Repetitive Interrupt Timer) Library.",
+    "examples": [
+        "https://os.mbed.com/users/passionvirus/code/ORTP-L_SensorTest/",
+        "https://os.mbed.com/users/passionvirus/code/ORTP-L_V01/",
+        "https://os.mbed.com/users/wjsgur12/code/ORTP-L_V01/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "RIT",
+    "name": "RIT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wvd_vegt/code/RIT/"
+    }
+}

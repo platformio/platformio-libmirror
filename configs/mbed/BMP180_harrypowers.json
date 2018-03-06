@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Philip Smith",
+        "url": "https://os.mbed.com/users/harrypowers/"
+    },
+    "description": "Class for using BMP180 Bosch Pressure sensor",
+    "examples": [
+        "https://os.mbed.com/users/RobertFischer/code/ILI9341_Clock_Nucleo/",
+        "https://os.mbed.com/users/ALounes/code/IoT-Polytech-Upmc/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BMP180",
+        "pressure",
+        "sensor"
+    ],
+    "name": "BMP180",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/harrypowers/code/BMP180/"
+    }
+}

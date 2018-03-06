@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Abe Takumi",
+        "url": "https://os.mbed.com/users/YSB/"
+    },
+    "description": "双葉コマンドサーボRS405cb制御用プログラム",
+    "examples": [
+        "https://os.mbed.com/users/YSB/code/EM_Mission/",
+        "https://os.mbed.com/users/ohtake_i/code/ToyBox/",
+        "https://os.mbed.com/users/mngshmok/code/ToyBox/",
+        "https://os.mbed.com/users/yizumi1012xxx/code/ohta/",
+        "https://os.mbed.com/users/mngshmok/code/mbed2/",
+        "https://os.mbed.com/users/ohtake_i/code/FriedRice/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "RS405cb",
+    "name": "RS405cb",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/YSB/code/RS405cb/"
+    }
+}

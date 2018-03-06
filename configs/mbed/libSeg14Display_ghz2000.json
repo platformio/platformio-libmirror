@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "ghz 2000",
+        "url": "https://os.mbed.com/users/ghz2000/"
+    },
+    "description": "Ghz2000's 14Segment LED Display Library",
+    "examples": [
+        "https://os.mbed.com/users/ghz2000/code/Nucleo_Seg14Display/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "F402RE",
+        "Ghz2000",
+        "mbed",
+        "Nucleo",
+        "Seg14Display"
+    ],
+    "name": "libSeg14Display",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ghz2000/code/libSeg14Display/"
+    }
+}

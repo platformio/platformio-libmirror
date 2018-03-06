@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "SNMP Agent http://mbed.org/users/okini3939/notebook/agentbed-library/",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform_20110408/",
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform/",
+        "https://os.mbed.com/users/okini3939/code/WeatherStation/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Agent",
+        "Net-SNMP",
+        "SNMP"
+    ],
+    "name": "Agentbed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/Agentbed/"
+    }
+}

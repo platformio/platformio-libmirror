@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Claudio Donate",
+        "url": "https://os.mbed.com/users/cdonate/"
+    },
+    "description": "Library for a Kalman filter that receive inputs from accelerometer and gyroscope and outputs PITCH and ROLL",
+    "examples": [
+        "https://os.mbed.com/users/cdonate/code/KalmanFilter/",
+        "https://os.mbed.com/users/julioefajardo/code/Freescale_Multi-Sensor_Quadcopter/",
+        "https://os.mbed.com/users/julioefajardo/code/FRDM_EMG_Galileo_Hand/",
+        "https://os.mbed.com/users/julioefajardo/code/Galileo_HoverBoardRider/",
+        "https://os.mbed.com/users/fxanhkhoa/code/drum_axis/",
+        "https://os.mbed.com/users/fxanhkhoa/code/WAND_PROJECT/",
+        "https://os.mbed.com/teams/KRAI-2017/code/prototype_encoder_launcher_V1/",
+        "https://os.mbed.com/teams/ST_DuckieTeam/code/TEST-KalmanFilter/",
+        "https://os.mbed.com/teams/DuckieTownHS_UniNA/code/TEST-KalmanFilter/",
+        "https://os.mbed.com/users/impeccabletanu/code/RC_QuadCopter/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "filter",
+        "kalman"
+    ],
+    "name": "kalman",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cdonate/code/kalman/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jens Schneider",
+        "url": "https://os.mbed.com/users/jenschn/"
+    },
+    "description": "SI114x UV index, IR and Visible Light sensor",
+    "frameworks": "mbed",
+    "keywords": "SI114x",
+    "name": "SI114x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jenschn/code/SI114x/"
+    }
+}

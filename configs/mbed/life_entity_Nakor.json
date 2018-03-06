@@ -1,0 +1,41 @@
+{
+    "authors": {
+        "name": "Aaron Goselin",
+        "url": "https://os.mbed.com/users/Nakor/"
+    },
+    "dependencies": [
+        {
+            "authors": "Aaron Goselin",
+            "frameworks": "mbed",
+            "name": "armoured_vehicle"
+        },
+        {
+            "authors": "Aaron Goselin",
+            "frameworks": "mbed",
+            "name": "enemy"
+        },
+        {
+            "authors": "Aaron Goselin",
+            "frameworks": "mbed",
+            "name": "player"
+        }
+    ],
+    "description": "Life entity (base class). Written for OOP Review.",
+    "examples": [
+        "https://os.mbed.com/users/Nakor/code/OOP_Review/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "game",
+        "inheritance",
+        "OOP",
+        "polymorphism",
+        "tutorial"
+    ],
+    "name": "life_entity",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Nakor/code/life_entity/"
+    }
+}

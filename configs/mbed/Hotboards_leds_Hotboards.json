@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Hotboards MX",
+        "url": "https://os.mbed.com/users/Hotboards/"
+    },
+    "description": "Driver to control leds one at a time or in group",
+    "examples": [
+        "https://os.mbed.com/users/RomanValenciaP/code/handling_leds/",
+        "https://os.mbed.com/users/RomanValenciaP/code/leds/",
+        "https://os.mbed.com/users/RomanValenciaP/code/toggle/",
+        "https://os.mbed.com/users/RomanValenciaP/code/writing/",
+        "https://os.mbed.com/users/Hotboards/code/hotboards_toggle_led/",
+        "https://os.mbed.com/users/Hotboards/code/hotboards_writing_led/",
+        "https://os.mbed.com/users/Hotboards/code/hotboards_leds_bus/",
+        "https://os.mbed.com/users/Hotboards/code/hotboards_handling_leds/",
+        "https://os.mbed.com/users/Hotboards/code/hotboards_led_blink/",
+        "https://os.mbed.com/users/RomanValenciaP/code/led/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "hotboards",
+        "LEDS"
+    ],
+    "name": "Hotboards_leds",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Hotboards/code/Hotboards_leds/"
+    }
+}

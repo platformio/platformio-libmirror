@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Akash Vibhute",
+        "url": "https://os.mbed.com/users/akashvibhute/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Library for easy interface of LidarLite with mbed using I2C",
+    "examples": [
+        "https://os.mbed.com/users/akashvibhute/code/LidarLite_mbed/",
+        "https://os.mbed.com/teams/Impact-Echo/code/Lidar_Magnet/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LIDAR Lite",
+        "LidarLite"
+    ],
+    "name": "LidarLite",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/akashvibhute/code/LidarLite/"
+    }
+}

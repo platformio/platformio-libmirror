@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Samir Bouaziz",
+        "url": "https://os.mbed.com/users/bouaziz/"
+    },
+    "dependencies": [
+        {
+            "authors": "Igor Skochinsky",
+            "frameworks": "mbed",
+            "name": "FatFileSystemCpp"
+        },
+        {
+            "authors": "Samir  Bouaziz",
+            "frameworks": "mbed",
+            "name": "USBHostLite"
+        }
+    ],
+    "description": "A File System interface that incorporates both SD and USB support. It was difficult to find a ready-to-go library, but the right set of pieces from others, and a few ...",
+    "examples": [
+        "https://os.mbed.com/users/bouaziz/code/m3PI_TP_POPS_II2015v0/",
+        "https://os.mbed.com/teams/Polytech_TP_EES_M3PI/code/m3PI_TP_POPS_II2015v0/",
+        "https://os.mbed.com/teams/Polytech_TP_EES_M3PI/code/m3PI_TP1_SETI2018/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "filesystem",
+        "MSCFileSystem",
+        "SDFileSystem"
+    ],
+    "name": "FileSystem_POPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bouaziz/code/FileSystem_POPS/"
+    }
+}

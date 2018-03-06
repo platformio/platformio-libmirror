@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Patrick Wensing",
+        "url": "https://os.mbed.com/users/pwensing/"
+    },
+    "description": "QEI library with velocity implementation based on time difference between successive encoder counts.",
+    "examples": [
+        "https://os.mbed.com/users/pwensing/code/experiment_example/",
+        "https://os.mbed.com/users/pwensing/code/Bezier_Trajectory_Follower/",
+        "https://os.mbed.com/users/laskowsk/code/Dolphin/",
+        "https://os.mbed.com/users/laskowsk/code/2_131TEST/",
+        "https://os.mbed.com/users/mchoun95/code/Jerby/",
+        "https://os.mbed.com/users/mchoun95/code/Jerby_v2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "QEI_pmw",
+    "name": "QEI_pmw",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pwensing/code/QEI_pmw/"
+    }
+}

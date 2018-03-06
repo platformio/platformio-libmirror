@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "bernard borredon",
+        "url": "https://os.mbed.com/users/bborredon/"
+    },
+    "description": "Complete DS1621 library (all functions implemented)",
+    "frameworks": "mbed",
+    "keywords": "DS1621",
+    "name": "DS1621",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bborredon/code/DS1621/"
+    }
+}

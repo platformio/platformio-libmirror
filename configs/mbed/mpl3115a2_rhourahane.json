@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Robin Hourahane",
+        "url": "https://os.mbed.com/users/rhourahane/"
+    },
+    "description": "This is a simple wrapper class for the MPL3115A5 pressure and temperature sensor. It allows either single readings for continuous readings using polling or interrupts. It also contains a wrapper ...",
+    "frameworks": "mbed",
+    "keywords": "MPL3115A2",
+    "name": "mpl3115a2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rhourahane/code/mpl3115a2/"
+    }
+}

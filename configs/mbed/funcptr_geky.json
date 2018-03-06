@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Christopher Haster",
+        "url": "https://os.mbed.com/users/geky/"
+    },
+    "description": "Flexible templated function class and related utilities that avoid dynamic memory allocation without limiting functionality",
+    "examples": [
+        "https://os.mbed.com/users/geky/code/SimpleHTTPExample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "funcptr",
+    "name": "funcptr",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/geky/code/funcptr/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "Library for build-in ADC and DAC in STM32F446 mounted on Nucleo F446RE. For single channel. Nucleo F446RE に搭載されている STM32F446 の内蔵 ADC, DAC 用のライブラリ．1チャンネルで使う場合．",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/Demo_F446_AD_DA_Single/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "dac",
+        "interrupt",
+        "Nucleo F446",
+        "polling",
+        "STM32F446"
+    ],
+    "name": "F446_AD_DA_Single",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/F446_AD_DA_Single/"
+    }
+}

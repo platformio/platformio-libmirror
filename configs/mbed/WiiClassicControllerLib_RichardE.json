@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Richard Ellingworth",
+        "url": "https://os.mbed.com/users/RichardE/"
+    },
+    "description": "Library for communicating with a Wii classic controller using the I2C bus.",
+    "examples": [
+        "https://os.mbed.com/users/RichardE/code/WiiClassicControllerTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "controller",
+        "I2C",
+        "Wii"
+    ],
+    "name": "WiiClassicControllerLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RichardE/code/WiiClassicControllerLib/"
+    }
+}

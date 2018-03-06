@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Andrew Lindsay",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/"
+    },
+    "description": "A conversion of the excellent Adafruit WS2801 library for Arduino to work on mbed",
+    "examples": [
+        "https://os.mbed.com/users/SomeRandomBloke/code/WiFiDipCortex_Cheerlights/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "rgb",
+        "ws2801"
+    ],
+    "name": "Adafruit_WS2801",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/code/Adafruit_WS2801/"
+    }
+}

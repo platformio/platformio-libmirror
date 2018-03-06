@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Meurig Phillips",
+        "url": "https://os.mbed.com/users/meurigp/"
+    },
+    "description": "functions for reading the joystick",
+    "examples": [
+        "https://os.mbed.com/users/meurigp/code/SnakeProjectRev1/",
+        "https://os.mbed.com/teams/ELEC2645-201516/code/SnakeProjectRev1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Joystick",
+    "name": "Joystick",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/meurigp/code/Joystick/"
+    }
+}

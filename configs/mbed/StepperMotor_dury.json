@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Fabio Durigon",
+        "url": "https://os.mbed.com/users/dury/"
+    },
+    "description": "Library for handle a Stepper Motor Driver Borad",
+    "frameworks": "mbed",
+    "keywords": [
+        "motor",
+        "Stepper"
+    ],
+    "name": "StepperMotor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dury/code/StepperMotor/"
+    }
+}

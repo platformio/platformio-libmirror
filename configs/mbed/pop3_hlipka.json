@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Hendrik Lipka",
+        "url": "https://os.mbed.com/users/hlipka/"
+    },
+    "description": "Small library for reading mail messages via POP3. Currently doesn\\'t return all header fields, and does only plain text authorization.",
+    "examples": [
+        "https://os.mbed.com/users/kogure7/code/mmain/",
+        "https://os.mbed.com/users/hlipka/code/pop3demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mail",
+        "network",
+        "pop3"
+    ],
+    "name": "pop3",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hlipka/code/pop3/"
+    }
+}

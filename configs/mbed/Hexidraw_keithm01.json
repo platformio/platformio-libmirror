@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Keith Mitchell",
+        "url": "https://os.mbed.com/users/keithm01/"
+    },
+    "description": "Library for drawing on the Hexiwear's OLED - more features being actively worked on",
+    "examples": [
+        "https://os.mbed.com/users/keithm01/code/Hexidraw_Demo/",
+        "https://os.mbed.com/users/Mariya/code/Hexiwear-FinalProject_v2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Hexidraw",
+    "name": "Hexidraw",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/keithm01/code/Hexidraw/"
+    }
+}

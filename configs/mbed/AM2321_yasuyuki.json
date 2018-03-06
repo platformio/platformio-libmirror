@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "yasuyuki onodera",
+        "url": "https://os.mbed.com/users/yasuyuki/"
+    },
+    "description": "AM2321 library",
+    "examples": [
+        "https://os.mbed.com/users/morinagatomoya/code/mbed_AM2321_copy/",
+        "https://os.mbed.com/users/yasuyuki/code/mbed_AM2321/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "AM2321",
+    "name": "AM2321",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yasuyuki/code/AM2321/"
+    }
+}

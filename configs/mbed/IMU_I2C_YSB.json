@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Abe Takumi",
+        "url": "https://os.mbed.com/users/YSB/"
+    },
+    "description": "IMU",
+    "examples": [
+        "https://os.mbed.com/users/YSB/code/EM_Logger/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "IMU_I2C",
+    "name": "IMU_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/YSB/code/IMU_I2C/"
+    }
+}

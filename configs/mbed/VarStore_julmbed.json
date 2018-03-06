@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "julian C",
+        "url": "https://os.mbed.com/users/julmbed/"
+    },
+    "description": "library to modify and read program variable in runtime from a serial console. You can reset as well the mbed from the console without pushing buttons. Handy for debugging from ...",
+    "frameworks": "mbed",
+    "keywords": "newbi;debug;serial;",
+    "name": "VarStore",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/julmbed/code/VarStore/"
+    }
+}

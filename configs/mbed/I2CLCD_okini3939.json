@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "character LCD module to I2C adapter http://mbed.org/users/okini3939/notebook/i2c-lcd-library/",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/i2clcd_lib/",
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform_20110408/",
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform/",
+        "https://os.mbed.com/users/okini3939/code/WeatherStation/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LCD"
+    ],
+    "name": "I2CLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/I2CLCD/"
+    }
+}

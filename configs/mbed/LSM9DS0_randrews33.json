@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Taylor Andrews",
+        "url": "https://os.mbed.com/users/randrews33/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Allows for reading accelerometer, gyroscope, and magnetometer data from an LSM9DS0 IMU device",
+    "examples": [
+        "https://os.mbed.com/users/fengspot/code/uVGA_4180/",
+        "https://os.mbed.com/users/fengspot/code/uLCD_4180_mini/",
+        "https://os.mbed.com/users/mburtt3/code/ECE4781_Project/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Accel",
+        "accelerometer",
+        "compass",
+        "gyro",
+        "gyroscope",
+        "IMU",
+        "LSM9DS0",
+        "magnet",
+        "magnetometer"
+    ],
+    "name": "LSM9DS0",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/randrews33/code/LSM9DS0/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Arcadie Cracan",
+        "url": "https://os.mbed.com/users/acracan/"
+    },
+    "description": "Modify flags in PwmOut to center align pwm signals.",
+    "examples": [
+        "https://os.mbed.com/users/acracan/code/BLDC_RPM_meter/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "etti",
+        "TUIASI"
+    ],
+    "name": "CenteredPwmOut",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/acracan/code/CenteredPwmOut/"
+    }
+}

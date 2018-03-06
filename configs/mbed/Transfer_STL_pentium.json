@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "yuya nakanishi",
+        "url": "https://os.mbed.com/users/pentium/"
+    },
+    "description": "Can input data to any output data.",
+    "frameworks": "mbed",
+    "keywords": "Trans",
+    "name": "Transfer_STL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pentium/code/Transfer_STL/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Rohm",
+        "url": "https://os.mbed.com/teams/Rohm/"
+    },
+    "description": "KX022 Accelerometer library",
+    "examples": [
+        "https://os.mbed.com/teams/Rohm/code/LazuriteGraph_Hello/",
+        "https://os.mbed.com/teams/Rohm/code/KX022_Hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "KX022",
+    "name": "KX022",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Rohm/code/KX022/"
+    }
+}

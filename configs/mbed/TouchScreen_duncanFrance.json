@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Duncan McIntyre",
+        "url": "https://os.mbed.com/users/duncanFrance/"
+    },
+    "description": "A library for ADS7843 touch-screens which is interrupt driven, allowing you to register callback handlers for touchStart, touchMove and touchEnd events.",
+    "examples": [
+        "https://os.mbed.com/users/duncanFrance/code/TouchScreenCalibrate/",
+        "https://os.mbed.com/users/duncanFrance/code/TouchScreenGUIDemo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ADS7843",
+        "event",
+        "touch"
+    ],
+    "name": "TouchScreen",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/duncanFrance/code/TouchScreen/"
+    }
+}

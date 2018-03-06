@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Karim Azzouz",
+        "url": "https://os.mbed.com/users/KarimAzzouz/"
+    },
+    "description": "Prof Greg Egan I2C code, prevents I2C freeze when using interrupt in",
+    "examples": [
+        "https://os.mbed.com/users/KarimAzzouz/code/A-Quad/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MyI2C",
+    "name": "MyI2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/KarimAzzouz/code/MyI2C/"
+    }
+}

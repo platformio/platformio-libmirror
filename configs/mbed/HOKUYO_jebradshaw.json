@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Joseph Bradshaw",
+        "url": "https://os.mbed.com/users/jebradshaw/"
+    },
+    "description": "Class Library for Hokuyo URG-04LX Range Finder (using SCIP1 communication specification)",
+    "examples": [
+        "https://os.mbed.com/users/jebradshaw/code/mbed_Hokuyo_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Hokuyo",
+        "Lidar",
+        "Range Finder",
+        "URG-04LX"
+    ],
+    "name": "HOKUYO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jebradshaw/code/HOKUYO/"
+    }
+}

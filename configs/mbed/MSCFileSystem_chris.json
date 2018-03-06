@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Chris Styles",
+        "url": "https://os.mbed.com/users/chris/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed unsupported",
+            "frameworks": "mbed",
+            "name": "FatFileSystem"
+        }
+    ],
+    "description": "Added FATFileSystem",
+    "examples": [
+        "https://os.mbed.com/users/chris/code/USBFlashDiskTest/",
+        "https://os.mbed.com/users/p07gbar/code/RSALB_hbridge_helloworld/",
+        "https://os.mbed.com/users/p07gbar/code/RSALB_lobster/",
+        "https://os.mbed.com/users/p07gbar/code/WavPlayer_test/",
+        "https://os.mbed.com/users/p07gbar/code/AudioCODEC_HelloWorld/",
+        "https://os.mbed.com/users/chris/code/mbed-App-USBFlash/",
+        "https://os.mbed.com/users/hirox/code/Logger_V1/",
+        "https://os.mbed.com/users/avnisha/code/Application-SimpleWaveRecorderPlayerGene/",
+        "https://os.mbed.com/users/darkghost/code/Yariyol/",
+        "https://os.mbed.com/users/darkghost/code/FileDownloader/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MSCFileSystem",
+    "name": "MSCFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chris/code/MSCFileSystem/"
+    }
+}

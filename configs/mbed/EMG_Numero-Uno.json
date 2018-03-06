@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Numero Uno",
+        "url": "https://os.mbed.com/teams/Numero-Uno/"
+    },
+    "description": "processes emg signal including filtering",
+    "examples": [
+        "https://os.mbed.com/teams/Numero-Uno/code/PID_VelocityExample/",
+        "https://os.mbed.com/teams/Numero-Uno/code/TheProgram/",
+        "https://os.mbed.com/users/s1503189/code/Passief_stuurprogramma/",
+        "https://os.mbed.com/users/s1503189/code/Actief_stuurprogramma/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "EMG",
+    "name": "EMG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Numero-Uno/code/EMG/"
+    }
+}

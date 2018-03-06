@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "Software serial, for when you are out of serial pins",
+    "examples": [
+        "https://os.mbed.com/users/Sissors/code/BufferedSoftSerial/",
+        "https://os.mbed.com/users/gbm/code/neurGAI_Seeed_BLUETOOTH/",
+        "https://os.mbed.com/users/dexterg/code/LPC-SD-35/",
+        "https://os.mbed.com/users/kazz12211/code/ESP-WROOM-02_test/",
+        "https://os.mbed.com/users/AfdhalAtiffTan/code/FoodComputerARM-alpha/",
+        "https://os.mbed.com/users/ycardaillac/code/sigfo_akene/",
+        "https://os.mbed.com/users/tsumagari/code/BufferedSoftSerial/",
+        "https://os.mbed.com/users/cswiger/code/WNC_Pubnub_obd2b_ign_em506SoftSerial_RES/",
+        "https://os.mbed.com/users/dimmu8410/code/String_BT/",
+        "https://os.mbed.com/users/Innom/code/Clase14/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SoftSerial",
+    "name": "SoftSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/SoftSerial/"
+    }
+}

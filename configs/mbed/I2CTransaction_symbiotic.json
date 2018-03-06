@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Andrew Fagg",
+        "url": "https://os.mbed.com/users/symbiotic/"
+    },
+    "description": "Class for representing and controlling entire I2C transactions (the master side). This class allows one to separate in code the configuration of I2C transactions from their use. This property simplifies ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "real-time communication"
+    ],
+    "name": "I2CTransaction",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/symbiotic/code/I2CTransaction/"
+    }
+}

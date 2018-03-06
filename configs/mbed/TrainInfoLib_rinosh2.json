@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "rinosh 2",
+        "url": "https://os.mbed.com/users/rinosh2/"
+    },
+    "description": "TrainInfoLib",
+    "examples": [
+        "https://os.mbed.com/users/rinosh2/code/TrainInfoSample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "delay",
+        "information",
+        "NextTrain"
+    ],
+    "name": "TrainInfoLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rinosh2/code/TrainInfoLib/"
+    }
+}

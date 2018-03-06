@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Frank Vannieuwkerke",
+        "url": "https://os.mbed.com/users/frankvnk/"
+    },
+    "description": "HSI to RGB/RGBW conversion library with optional direct PWM output",
+    "examples": [
+        "https://os.mbed.com/users/frankvnk/code/KL25Z_HSI2RGBW_PWM/",
+        "https://os.mbed.com/users/frankvnk/code/KL25Z_HSI2RGBW_PWM_local/",
+        "https://os.mbed.com/users/frankvnk/code/KL25Z_FFT_Demo/",
+        "https://os.mbed.com/users/oscarmtzman/code/FFT_BUENA/",
+        "https://os.mbed.com/users/Soto/code/Seniales-Final/",
+        "https://os.mbed.com/users/yoryi02/code/Afinador_Vfinal/",
+        "https://os.mbed.com/users/griszAndy/code/Seniales-Tacometro/",
+        "https://os.mbed.com/users/yangyulounk/code/KL25Z_FFT_Demo/",
+        "https://os.mbed.com/users/griszAndy/code/Seniales-Tacometro-Bueno/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HSI",
+        "pwm",
+        "rgb",
+        "RGBW"
+    ],
+    "name": "HSI2RGBW_PWM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/frankvnk/code/HSI2RGBW_PWM/"
+    }
+}

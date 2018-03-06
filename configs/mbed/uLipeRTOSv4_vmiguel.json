@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Vinicius Miguel",
+        "url": "https://os.mbed.com/users/vmiguel/"
+    },
+    "description": "uLipeRTOS Version 4 is a simple, but powerful real time kernel, currently implemented for arm cortex M0,M3,M4 and M7 processors. The kernel uses a fully preemptive schedule policy, and supports ...",
+    "frameworks": "mbed",
+    "keywords": "rtos",
+    "name": "uLipeRTOSv4",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vmiguel/code/uLipeRTOSv4/"
+    }
+}

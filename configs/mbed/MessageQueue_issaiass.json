@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Rangel Alvarado",
+        "url": "https://os.mbed.com/users/issaiass/"
+    },
+    "description": "TX and RX FIFO. RX FIFO was tested. TX FIFO not fully tested.",
+    "examples": [
+        "https://os.mbed.com/users/issaiass/code/STM32F030R8_SOMO-14D/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "4DSystems",
+        "audio",
+        "buffer",
+        "FIFO",
+        "library",
+        "module",
+        "program",
+        "ring buffer",
+        "SOMO-14D",
+        "stm32"
+    ],
+    "name": "MessageQueue",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/issaiass/code/MessageQueue/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "FRA221_B18",
+        "url": "https://os.mbed.com/teams/FRA221_B18/"
+    },
+    "description": "sxa",
+    "examples": [
+        "https://os.mbed.com/teams/FRA221_B18/code/MP3333/",
+        "https://os.mbed.com/users/PKnevermind/code/B18_MP3_PLAYER/",
+        "https://os.mbed.com/teams/FRA221_2015/code/B18_MP3_PLAYER/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "VS1053",
+    "name": "VS1053",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/FRA221_B18/code/VS1053/"
+    }
+}

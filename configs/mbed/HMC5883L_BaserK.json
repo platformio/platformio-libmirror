@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Baser Kandehir",
+        "url": "https://os.mbed.com/users/BaserK/"
+    },
+    "description": "HMC5883L Digital Compass Library",
+    "examples": [
+        "https://os.mbed.com/users/BaserK/code/i2c_HMC5883L/",
+        "https://os.mbed.com/users/BaserK/code/IMU_fusion/",
+        "https://os.mbed.com/users/sarahbest/code/QMC5883L/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "compass",
+        "Digital",
+        "F411RE",
+        "HMC5883L",
+        "magnetometer",
+        "mbed",
+        "Nucleo"
+    ],
+    "name": "HMC5883L",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BaserK/code/HMC5883L/"
+    }
+}

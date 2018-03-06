@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "Read nRF51822(BLE Chip) VDD voltage and return 100 to 0% charging level",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/BLE_Temp_Vdd_via_UART/",
+        "https://os.mbed.com/users/kenjiArai/code/BLE_Temp_Vdd_via_UART_TY/",
+        "https://os.mbed.com/users/kenjiArai/code/BLE_EddystoneBeacon_w_ACC_TY51822/",
+        "https://os.mbed.com/users/kenjiArai/code/BLE_LoopbackUART_low_pwr_w_RTC1/",
+        "https://os.mbed.com/users/kenjiArai/code/BLE_Paired_Server/",
+        "https://os.mbed.com/users/kenjiArai/code/BLE_Paired_Client/",
+        "https://os.mbed.com/users/kenjiArai/code/BLE_nRF51822_Monitor/",
+        "https://os.mbed.com/users/kenjiArai/code/BLE_Uart_Server/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "Nordic",
+        "nRF51822"
+    ],
+    "name": "nRF51_Vdd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/nRF51_Vdd/"
+    }
+}

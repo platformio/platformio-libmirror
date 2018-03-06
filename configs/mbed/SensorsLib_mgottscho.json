@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Mark Gottscho",
+        "url": "https://os.mbed.com/users/mgottscho/"
+    },
+    "description": "A compilation of some hardware sensors and their shared programming interfaces.",
+    "frameworks": "mbed",
+    "keywords": "SensorsLib",
+    "name": "SensorsLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mgottscho/code/SensorsLib/"
+    }
+}

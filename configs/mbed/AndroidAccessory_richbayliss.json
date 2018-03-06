@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Rich Bayliss",
+        "url": "https://os.mbed.com/users/richbayliss/"
+    },
+    "description": "Library to allow your mbed device to communicate with the Android ADK.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Accessory",
+        "ADK",
+        "android"
+    ],
+    "name": "AndroidAccessory",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/richbayliss/code/AndroidAccessory/"
+    }
+}

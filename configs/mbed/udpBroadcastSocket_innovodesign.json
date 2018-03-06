@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Keith Bryer",
+        "url": "https://os.mbed.com/users/innovodesign/"
+    },
+    "description": "Modified wrapper for UDP socket allowing broadcast packets using the new network stack.",
+    "frameworks": "mbed",
+    "keywords": [
+        "broadcast",
+        "multicast",
+        "UDP"
+    ],
+    "name": "udpBroadcastSocket",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/innovodesign/code/udpBroadcastSocket/"
+    }
+}

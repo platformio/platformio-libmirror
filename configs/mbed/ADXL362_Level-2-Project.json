@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Level 2 Project",
+        "url": "https://os.mbed.com/teams/Level-2-Project/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "new",
+    "frameworks": "mbed",
+    "keywords": "ADXL362",
+    "name": "ADXL362",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Level-2-Project/code/ADXL362/"
+    }
+}

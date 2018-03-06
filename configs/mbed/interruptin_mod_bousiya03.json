@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "bousiya03",
+        "url": "https://os.mbed.com/users/bousiya03/"
+    },
+    "description": "ピン変化割り込み拡張しよう的な",
+    "examples": [
+        "https://os.mbed.com/users/bousiya03/code/inte_mod_test/",
+        "https://os.mbed.com/users/bousiya03/code/test_irm2121/",
+        "https://os.mbed.com/teams/2014/code/BallCheck_IRM2121_InterrputInAdd/",
+        "https://os.mbed.com/teams/2014/code/CatPot_SensorRight/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "InterruptIn",
+    "name": "interruptin_mod",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bousiya03/code/interruptin_mod/"
+    }
+}

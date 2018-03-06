@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Andrew L",
+        "url": "https://os.mbed.com/users/AndrewL/"
+    },
+    "description": "mbos",
+    "examples": [
+        "https://os.mbed.com/users/harsha/code/rtest/",
+        "https://os.mbed.com/users/guiott/code/LeonardoMbos/",
+        "https://os.mbed.com/users/gsionek/code/OS_test/",
+        "https://os.mbed.com/users/arnaudsuire/code/Labo_TRSE_Drone/",
+        "https://os.mbed.com/teams/Engravity-CDU/code/CDU_Mbed_21/",
+        "https://os.mbed.com/teams/Engravity-CDU/code/CDU_Mbed_26/",
+        "https://os.mbed.com/teams/Engravity-CDU/code/CDU_Mbed_30/",
+        "https://os.mbed.com/teams/Engravity-CDU/code/CDU_Mbed_36/",
+        "https://os.mbed.com/teams/Engravity-CDU/code/CDU_Mbed_35/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "mbos",
+    "name": "mbos",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AndrewL/code/mbos/"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Raul Martin",
+        "url": "https://os.mbed.com/users/raulMrello/"
+    },
+    "description": "EventFramework library allows the creation of an event-driven infrastructure in which small \"threads\" can handle events in a multithreaded execution context. The EventFramework can be configured to act as a ...",
+    "examples": [
+        "https://os.mbed.com/users/xmnan/code/sensors_KL46Z_xmn/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "event",
+        "event-driven",
+        "fully-preemptive",
+        "multithread",
+        "rtos",
+        "run-to-completion",
+        "schedulling",
+        "single-stack"
+    ],
+    "name": "EventFramework",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/raulMrello/code/EventFramework/"
+    }
+}

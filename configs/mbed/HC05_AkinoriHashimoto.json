@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Akinori Hashimoto",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/"
+    },
+    "dependencies": [
+        {
+            "authors": "Akinori Hashimoto",
+            "frameworks": "mbed",
+            "name": "RingBuffer"
+        }
+    ],
+    "description": "Bluetooth module HC-05 Lib. suppotrs printf(); support IrqAttach, with using RTOS. include feature as background rxIrq attach. the lib store rx buf of serial, therefore can have over 16 bytes ...",
+    "examples": [
+        "https://os.mbed.com/teams/Team-del-Semaforo-CADC/code/semaforinoprova/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Bluetooth module",
+        "hc-05",
+        "HC05"
+    ],
+    "name": "HC05",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/HC05/"
+    }
+}

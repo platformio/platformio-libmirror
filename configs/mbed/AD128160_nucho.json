@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "nucho",
+        "url": "https://os.mbed.com/users/nucho/"
+    },
+    "description": "AD-128160-UART制御用のライブラリ http://www.aitendo.co.jp/product/3119 gingaxさんのプログラムを参考に作らせてもらっています。 http://mbed.org/users/akira/libraries/AD128160/m159hi",
+    "examples": [
+        "https://os.mbed.com/users/nucho/code/AD128160_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AD-128160-UART",
+        "AITENDO",
+        "LCD",
+        "Serial"
+    ],
+    "name": "AD128160",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nucho/code/AD128160/"
+    }
+}

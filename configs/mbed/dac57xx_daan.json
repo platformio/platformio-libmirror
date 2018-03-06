@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "daniel saakes",
+        "url": "https://os.mbed.com/users/daan/"
+    },
+    "description": "drive the analog devices AD57XX series of DACs using SPI",
+    "frameworks": "mbed",
+    "keywords": "dac57xx",
+    "name": "dac57xx",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/daan/code/dac57xx/"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Mark Turner",
+        "url": "https://os.mbed.com/users/mturner5/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Mark Turner",
+            "frameworks": "mbed",
+            "name": "MarksMbed"
+        }
+    ],
+    "description": "This makes the blink delay for a bit longer and the button presses are delayed too.",
+    "frameworks": "mbed",
+    "keywords": "blink_kl46z_button_LCD_delays",
+    "name": "blink_kl46z_button_LCD_delays",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mturner5/code/blink_kl46z_button_LCD_delays/"
+    }
+}

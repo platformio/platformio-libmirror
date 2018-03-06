@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Hexley Ball",
+        "url": "https://os.mbed.com/users/hexley/"
+    },
+    "description": "This library supports the internal QEI hardware of the LPC1768. WARNING: requires modification of the mbed module.",
+    "examples": [
+        "https://os.mbed.com/users/amandaghassaei/code/Bracky-MPU6050-DMP/",
+        "https://os.mbed.com/users/exarkun/code/mbed__motor_QEIHWv2_interupt_timer_sy_20/",
+        "https://os.mbed.com/users/ChrisAydon/code/realtimeMM_V3/",
+        "https://os.mbed.com/users/GTNicholson/code/realtimeMM_V3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "QEI_hw",
+    "name": "QEI_hw",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hexley/code/QEI_hw/"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Frank Vannieuwkerke",
+        "url": "https://os.mbed.com/users/frankvnk/"
+    },
+    "description": "Library for ISL29125 - I2C RGB ambient light sensor",
+    "examples": [
+        "https://os.mbed.com/users/frankvnk/code/ISL29125_demo/",
+        "https://os.mbed.com/users/tdale19/code/FinalProject/",
+        "https://os.mbed.com/users/utsal/code/Final_NSR/",
+        "https://os.mbed.com/users/elirobelo/code/4180FinalProject_copy/",
+        "https://os.mbed.com/users/biwa1400/code/Light/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ALS",
+        "ambient light sensor",
+        "I2C",
+        "ISL29125",
+        "rgb"
+    ],
+    "name": "ISL29125",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/frankvnk/code/ISL29125/"
+    }
+}

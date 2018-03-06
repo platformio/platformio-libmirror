@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Kazutaka \"Zak\" Sawa",
+        "url": "https://os.mbed.com/users/sawa/"
+    },
+    "description": "Library for XBus servo (under construction)",
+    "examples": [
+        "https://os.mbed.com/users/sawa/code/mbed_XBus_Test/",
+        "https://os.mbed.com/users/sawa/code/mbed_XBus_MotionTest/",
+        "https://os.mbed.com/teams/albatross/code/XBusServoTest/",
+        "https://os.mbed.com/teams/albatross/code/ControlYokutan2017_2/",
+        "https://os.mbed.com/teams/albatross/code/ControlYokutan2018/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "JRPROPO",
+        "robot",
+        "Servo",
+        "XBus"
+    ],
+    "name": "XBusServo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sawa/code/XBusServo/"
+    }
+}

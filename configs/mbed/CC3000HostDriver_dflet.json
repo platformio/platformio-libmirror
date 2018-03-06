@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "David Fletcher",
+        "url": "https://os.mbed.com/users/dflet/"
+    },
+    "description": "CC3000HostDriver for device TI CC3000 some changes were made due to mbed compiler and the use of void*",
+    "examples": [
+        "https://os.mbed.com/users/dflet/code/CC3000Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "CC3000HostDriver",
+    "name": "CC3000HostDriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dflet/code/CC3000HostDriver/"
+    }
+}

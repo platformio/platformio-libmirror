@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Akinori Hashimoto",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/"
+    },
+    "description": "String library.",
+    "examples": [
+        "https://os.mbed.com/users/AkinoriHashimoto/code/CheckSum/",
+        "https://os.mbed.com/users/AkinoriHashimoto/code/RN41/",
+        "https://os.mbed.com/users/AkinoriHashimoto/code/RealTimeClock/",
+        "https://os.mbed.com/users/coverxit/code/RealTimeClock/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "StrLib",
+    "name": "StrLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/StrLib/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "wayne roberts",
+        "url": "https://os.mbed.com/users/dudmuck/"
+    },
+    "description": "LoRaWAN in C for generic mbed platform (unoptimized HAL)",
+    "examples": [
+        "https://os.mbed.com/users/dudmuck/code/lmic_transmit_generic/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "lmic_generic",
+    "name": "lmic_generic",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dudmuck/code/lmic_generic/"
+    }
+}

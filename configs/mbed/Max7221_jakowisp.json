@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Dwayne Dilbeck",
+        "url": "https://os.mbed.com/users/jakowisp/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "A generic library to support Max7221 chip for 8 digit 7 segment displays",
+    "examples": [
+        "https://os.mbed.com/users/jakowisp/code/Example_Max7221/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "7-segment",
+        "display",
+        "MAX7221"
+    ],
+    "name": "Max7221",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jakowisp/code/Max7221/"
+    }
+}

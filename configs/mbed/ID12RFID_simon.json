@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://os.mbed.com/users/simon/"
+    },
+    "description": "ID12 RFID library for reading 125KHz RFID tags",
+    "examples": [
+        "https://os.mbed.com/users/simon/code/ID12RFID_HelloWorld/",
+        "https://os.mbed.com/users/warpedkevin/code/MyFinalDerbot/",
+        "https://os.mbed.com/users/sbobyr/code/RFID_CatDoor/",
+        "https://os.mbed.com/users/ahurtado/code/TweetRFID/",
+        "https://os.mbed.com/users/dburnham6/code/RFIDdoor/",
+        "https://os.mbed.com/users/vkarthikr/code/TweetRFID/",
+        "https://os.mbed.com/users/scologic/code/ID12RFID_HelloWorld/",
+        "https://os.mbed.com/users/angel_efrain/code/Twitter_RFID/",
+        "https://os.mbed.com/users/stevep/code/TweetRFID/",
+        "https://os.mbed.com/users/allanalpha/code/test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ID12",
+        "RFID",
+        "Serial"
+    ],
+    "name": "ID12RFID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/simon/code/ID12RFID/"
+    }
+}

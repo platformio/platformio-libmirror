@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Pierre David",
+        "url": "https://os.mbed.com/users/kkoichy/"
+    },
+    "description": "Command library for the Roboteq SDC21XX serie of DC Motor drivers, using CANopen Interface. This library replicates the CANopen commands detailled in the User's Manual for the SDC21XX Serie, Section ...",
+    "examples": [
+        "https://os.mbed.com/teams/Team-Projet-Robot-Barman/code/SDC21XX_Motor/",
+        "https://os.mbed.com/users/kkoichy/code/SDC21XX_Motor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CANopen",
+        "Roboteq"
+    ],
+    "name": "Roboteq_SDC_serie",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kkoichy/code/Roboteq_SDC_serie/"
+    }
+}

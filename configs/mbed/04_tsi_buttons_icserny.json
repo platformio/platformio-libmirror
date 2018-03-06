@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Istvan Cserny",
+        "url": "https://os.mbed.com/users/icserny/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Martin Kojtal",
+            "frameworks": "mbed",
+            "name": "tsi_sensor"
+        }
+    ],
+    "description": "// Simple button/swipe library for FRDM-KL25Z // AI Williams -- The Touch of a Button // Dr.Dobb's Journal // http://www.drdobbs.com/embedded-systems/the-touch-of-a-button/240169431",
+    "frameworks": "mbed",
+    "keywords": "04_tsi_buttons",
+    "name": "04_tsi_buttons",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/icserny/code/04_tsi_buttons/"
+    }
+}

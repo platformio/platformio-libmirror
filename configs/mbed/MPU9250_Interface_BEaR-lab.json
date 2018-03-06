@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "BE@R lab",
+        "url": "https://os.mbed.com/teams/BEaR-lab/"
+    },
+    "description": "interface imu mpu9250",
+    "examples": [
+        "https://os.mbed.com/teams/BEaR-lab/code/AHRS_fillter/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MPU9250",
+    "name": "MPU9250_Interface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/BEaR-lab/code/MPU9250_Interface/"
+    }
+}

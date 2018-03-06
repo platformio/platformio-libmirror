@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "loko u",
+        "url": "https://os.mbed.com/users/nullsub/"
+    },
+    "description": "A lib for accessing ST7626 based lcds. It provides a set_pixel function. It is only tested with one display.",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "display-initialisation",
+        "driver",
+        "setpixel",
+        "st7626"
+    ],
+    "name": "display_ST7626",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nullsub/code/display_ST7626/"
+    }
+}

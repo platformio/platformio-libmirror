@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Sam Grove",
+        "url": "https://os.mbed.com/users/sam_grove/"
+    },
+    "description": "Device driver for the Novatel OEM615 GPS receiver",
+    "frameworks": "mbed",
+    "keywords": [
+        "GPS",
+        "Novatel",
+        "OEM615"
+    ],
+    "name": "OEM615",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sam_grove/code/OEM615/"
+    }
+}

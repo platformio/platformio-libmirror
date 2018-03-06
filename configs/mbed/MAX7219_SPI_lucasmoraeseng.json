@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Lucas Moraes",
+        "url": "https://os.mbed.com/users/lucasmoraeseng/"
+    },
+    "description": "Library to use MAX7219 by SPI",
+    "frameworks": "mbed",
+    "keywords": "MAX7219_SPI",
+    "name": "MAX7219_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lucasmoraeseng/code/MAX7219_SPI/"
+    }
+}

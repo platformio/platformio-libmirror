@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Tedd OKANO",
+        "url": "https://os.mbed.com/users/okano/"
+    },
+    "description": "Version 2.0 of TextLCD_SB1602E. The old class driver has been rewritten in more common manner of I2C devices.",
+    "examples": [
+        "https://os.mbed.com/users/okano/code/SB1602E_Hello/",
+        "https://os.mbed.com/users/MACRUM/code/BME280_LCD/",
+        "https://os.mbed.com/users/kazu_zamasu/code/PreHeater/",
+        "https://os.mbed.com/users/Hapi_Tech/code/PreHeater/",
+        "https://os.mbed.com/users/okano/code/SB1602E_test/",
+        "https://os.mbed.com/users/kazu_zamasu/code/PreHeater-Rev2/",
+        "https://os.mbed.com/users/Hapi_Tech/code/PreHeater-Rev2/",
+        "https://os.mbed.com/users/tek7077/code/Temper_Demo/",
+        "https://os.mbed.com/users/tek7077/code/yuu/",
+        "https://os.mbed.com/users/jksoft/code/MultiIoTBoardLib/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "SB1602B",
+        "SB1602E",
+        "ST7032",
+        "Text LCD",
+        "TextLCD_SB1602E"
+    ],
+    "name": "SB1602E",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okano/code/SB1602E/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Arthur GAUTHERON",
+        "url": "https://os.mbed.com/users/Thur/"
+    },
+    "description": "Librairie nécessaire pour utiliser le Lcd de l'IOGS",
+    "frameworks": "mbed",
+    "keywords": [
+        "IOGS",
+        "IOGS LCD"
+    ],
+    "name": "Lcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Thur/code/Lcd/"
+    }
+}

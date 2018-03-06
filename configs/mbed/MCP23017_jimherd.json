@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "jim herd",
+        "url": "https://os.mbed.com/users/jimherd/"
+    },
+    "description": "Basic library of routines to interface to a Microchip MCP23017 16-bit I/O expander using an I2C interface.",
+    "examples": [
+        "https://os.mbed.com/users/xherpe/code/Assignment_2_herpe/",
+        "https://os.mbed.com/users/campbell101/code/Final_V1/",
+        "https://os.mbed.com/users/haseo1989/code/ass2/",
+        "https://os.mbed.com/users/muaiyd/code/ass2/",
+        "https://os.mbed.com/users/muaiyd/code/CAR_Simulation/",
+        "https://os.mbed.com/users/IonSystems/code/Chipin_Main/",
+        "https://os.mbed.com/users/dreamselec/code/AlooMBED/",
+        "https://os.mbed.com/users/usmb192/code/ES_Assignment_1_Pub/",
+        "https://os.mbed.com/users/usmb192/code/ES_Assignment_2_Pub/",
+        "https://os.mbed.com/users/usmb192/code/ES_Assignment_3_Pub/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "MCP23017",
+        "wattbob"
+    ],
+    "name": "MCP23017",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jimherd/code/MCP23017/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "shower xu",
+        "url": "https://os.mbed.com/users/shower_xu/"
+    },
+    "description": "V1.0: A simple lib to driver the nokia 5110 lcd. You can select the soft/hardware spi ports by define the HW_SPI word from the \"sx5110.h \".",
+    "frameworks": "mbed",
+    "keywords": [
+        "5110",
+        "shower"
+    ],
+    "name": "SX5110",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shower_xu/code/SX5110/"
+    }
+}

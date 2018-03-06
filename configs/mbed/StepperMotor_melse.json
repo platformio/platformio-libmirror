@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Matthew Else",
+        "url": "https://os.mbed.com/users/melse/"
+    },
+    "description": "A simple stepper motor driver library, supporting micro-stepping drivers such as the Pololu A4988 stepper driver carrier or the Sparkfun EasyDriver.",
+    "examples": [
+        "https://os.mbed.com/teams/Vockens-Group-Sensors/code/CEAMS_Sun_Tracker/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "StepperMotor",
+    "name": "StepperMotor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/melse/code/StepperMotor/"
+    }
+}

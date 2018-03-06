@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Saliya Hamparawa",
+        "url": "https://os.mbed.com/users/hamparawa/"
+    },
+    "description": "Circular Buffer template for any data type",
+    "examples": [
+        "https://os.mbed.com/teams/Serqet/code/serqet/",
+        "https://os.mbed.com/teams/Serqet2/code/serqet2/",
+        "https://os.mbed.com/users/Roytsg/code/EMGvoorjan/",
+        "https://os.mbed.com/users/OsmanKameric/code/kopija_NUCLEO_CELL_LOCKER_copy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "array",
+        "circular buffer",
+        "deque",
+        "memory",
+        "Template"
+    ],
+    "name": "circular_buffer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hamparawa/code/circular_buffer/"
+    }
+}

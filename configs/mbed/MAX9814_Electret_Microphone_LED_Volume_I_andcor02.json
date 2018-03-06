@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Andrea Corrado",
+        "url": "https://os.mbed.com/users/andcor02/"
+    },
+    "description": "Library to control Electret Microphone Amplifier - MAX9814 from adafruit. Allows: To sample analogue voltage to transform into rough sound level. Transfer sound level to visual indicator, volume bar such ...",
+    "examples": [
+        "https://os.mbed.com/users/andcor02/code/MAX9814_LED_Sound_Indicator/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Elecret Microphone",
+        "MAX9814",
+        "sound",
+        "Volume Indicator"
+    ],
+    "name": "MAX9814_Electret_Microphone_LED_Volume_Indicator",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/andcor02/code/MAX9814_Electret_Microphone_LED_Volume_I/"
+    }
+}

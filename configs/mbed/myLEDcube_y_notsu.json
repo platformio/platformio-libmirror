@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Yuji Notsu",
+        "url": "https://os.mbed.com/users/y_notsu/"
+    },
+    "description": "This program is simple 4x4x4 LED cube demo program. 4 cathode and 16 anode is defined by 2 BusOut. Almost LED cube444 class function is made by Tedd Okano (Thank ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "cube",
+        "led"
+    ],
+    "name": "myLEDcube",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/y_notsu/code/myLEDcube/"
+    }
+}

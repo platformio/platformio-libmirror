@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Andrew p",
+        "url": "https://os.mbed.com/users/apullin/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "EthernetInterface"
+        },
+        {
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
+            "name": "MODDMA"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Mbed firmware to capture 4 mic inputs and provide data over ethernet.",
+    "frameworks": "mbed",
+    "keywords": "DMA_Ethernet_Mbed",
+    "name": "DMA_Ethernet_Mbed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/apullin/code/DMA_Ethernet_Mbed/"
+    }
+}

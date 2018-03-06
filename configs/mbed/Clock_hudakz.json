@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "Software implemented real time clock driven by a Ticker. No external hardware (like DS1307 or DS3231 or etc.) is needed. Should work on any mbed platform where Ticker works.",
+    "examples": [
+        "https://os.mbed.com/users/hudakz/code/Clock_Hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "clock",
+        "real time clock",
+        "RTC"
+    ],
+    "name": "Clock",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/Clock/"
+    }
+}

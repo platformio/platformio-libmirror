@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "schneider francois",
+        "url": "https://os.mbed.com/users/schnf30/"
+    },
+    "description": "Cette librairie permet de gérer les event d'un gps NMEA rs232.",
+    "examples": [
+        "https://os.mbed.com/users/schnf30/code/Test_gps_sample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "gps_sample",
+    "name": "gps_sample",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/schnf30/code/gps_sample/"
+    }
+}

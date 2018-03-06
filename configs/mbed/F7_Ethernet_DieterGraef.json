@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Dieter Graef",
+        "url": "https://os.mbed.com/users/DieterGraef/"
+    },
+    "description": "Ethernet for Nucleo and Disco board STM32F746 works with gcc and arm. IAC is untested",
+    "examples": [
+        "https://os.mbed.com/users/DieterGraef/code/STM32F746_iothub_client_sample_mqtt/",
+        "https://os.mbed.com/users/DieterGraef/code/DISCO-F746NG_Ethernet/",
+        "https://os.mbed.com/users/DieterGraef/code/Nucleo_F746ZG_Ethernet/",
+        "https://os.mbed.com/users/charlyo/code/thethingsiO-DISCO_F746NG-mqtt/",
+        "https://os.mbed.com/users/charlyo/code/thethingsiO-DISCO_F746NG-http/",
+        "https://os.mbed.com/users/zef/code/STM32F746_LWM2M_Client/",
+        "https://os.mbed.com/teams/GroveStreams/code/GroveStreams-Simple/",
+        "https://os.mbed.com/teams/GroveStreams/code/GroveStreams-Temp/",
+        "https://os.mbed.com/users/shoaib_ahmed/code/uzairkhan/",
+        "https://os.mbed.com/users/arlindonm/code/ProjetoBB/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "discovery",
+        "ethernet",
+        "Nucleo",
+        "stm32",
+        "STM32F746"
+    ],
+    "name": "F7_Ethernet",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DieterGraef/code/F7_Ethernet/"
+    }
+}

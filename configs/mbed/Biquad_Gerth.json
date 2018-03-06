@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Jasper Gerth",
+        "url": "https://os.mbed.com/users/Gerth/"
+    },
+    "description": "A simple biquad filter",
+    "examples": [
+        "https://os.mbed.com/teams/BioRobotics1/code/emgfilter/",
+        "https://os.mbed.com/teams/BioRobotics1/code/includeair/",
+        "https://os.mbed.com/users/Gerth/code/includeair/",
+        "https://os.mbed.com/users/s1588141/code/Encodertest/",
+        "https://os.mbed.com/users/s1588141/code/Project/",
+        "https://os.mbed.com/users/peterknoben/code/Oudverslag/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Biquad",
+    "name": "Biquad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Gerth/code/Biquad/"
+    }
+}

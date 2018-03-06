@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Adan Olachea",
+        "url": "https://os.mbed.com/users/adanolachea/"
+    },
+    "description": "This is a Basic Library to display quantities or numbers in the KL46Z integrated 4-Digit LCD.",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "Freedom",
+        "kl46z",
+        "LCD",
+        "segment"
+    ],
+    "name": "LCD_KL46Z",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/adanolachea/code/LCD_KL46Z/"
+    }
+}

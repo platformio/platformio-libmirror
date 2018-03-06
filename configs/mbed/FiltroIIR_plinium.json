@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Plínio Barbosa",
+        "url": "https://os.mbed.com/users/plinium/"
+    },
+    "description": "Biblioteca com implementação de filtro IIR passa baixa usando IQ12",
+    "frameworks": "mbed",
+    "keywords": "FiltroIIR",
+    "name": "FiltroIIR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/plinium/code/FiltroIIR/"
+    }
+}

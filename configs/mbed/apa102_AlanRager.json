@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Alan Rager",
+        "url": "https://os.mbed.com/users/AlanRager/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "This library controls a strip of apa102 lights. It is heavily based on https://developer.mbed.org/users/wertyfrog/code/ws2801/ and is a little messy looking since my coding style does not match Mr Olsson's. It ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "APA102",
+        "led",
+        "rgb",
+        "ws2801"
+    ],
+    "name": "apa102",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AlanRager/code/apa102/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "hiroyuki nagahama",
+        "url": "https://os.mbed.com/users/orivant/"
+    },
+    "description": "LCDモジュール AQM0802 を制御するクラス",
+    "frameworks": "mbed",
+    "keywords": [
+        "aqm0802",
+        "I2C",
+        "LCD"
+    ],
+    "name": "LcdAqm0802",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/orivant/code/LcdAqm0802/"
+    }
+}

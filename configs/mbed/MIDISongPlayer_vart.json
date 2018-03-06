@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Vadim Artamonov",
+        "url": "https://os.mbed.com/users/vart/"
+    },
+    "description": "MIDI sequence player on speaker/buzzer using PWM",
+    "examples": [
+        "https://os.mbed.com/users/vart/code/MidiPlayerExample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MIDI",
+        "pwm"
+    ],
+    "name": "MIDISongPlayer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vart/code/MIDISongPlayer/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "takeshi ogasawara",
+        "url": "https://os.mbed.com/users/tttogasawara/"
+    },
+    "description": "STM32F3 DAC does not work with simultaneous output. I modified \"analogout_api.c\" to fix it.",
+    "examples": [
+        "https://os.mbed.com/teams/3FEN/code/AnalogOut-HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "analogout_api_STM32F3",
+    "name": "analogout_api_STM32F3",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tttogasawara/code/analogout_api_STM32F3/"
+    }
+}

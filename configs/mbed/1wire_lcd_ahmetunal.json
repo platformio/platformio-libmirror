@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Ahmet Unal",
+        "url": "https://os.mbed.com/users/ahmetunal/"
+    },
+    "description": "With a 595 shift register shifting one wire lcd.",
+    "frameworks": "mbed",
+    "keywords": "1WireLcd",
+    "name": "1wire_lcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ahmetunal/code/1wire_lcd/"
+    }
+}

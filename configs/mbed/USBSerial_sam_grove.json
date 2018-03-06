@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Sam Grove",
+        "url": "https://os.mbed.com/users/sam_grove/"
+    },
+    "description": "adding additional features",
+    "frameworks": "mbed",
+    "keywords": "USBSerial",
+    "name": "USBSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sam_grove/code/USBSerial/"
+    }
+}

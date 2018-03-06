@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Chris Taylor",
+        "url": "https://os.mbed.com/users/taylorza/"
+    },
+    "description": "Music Engine plays Music Macro Language compositions in the background",
+    "examples": [
+        "https://os.mbed.com/users/maxint/code/RETRO_BallsAndPaddle/",
+        "https://os.mbed.com/users/maxint/code/RETRO_BallAndHoles/",
+        "https://os.mbed.com/users/switchscience/code/MusicBoxForFathersDay/",
+        "https://os.mbed.com/users/kazu0o2/code/USBSec_mbed-os_dev/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MusicEngine",
+    "name": "MusicEngine",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/taylorza/code/MusicEngine/"
+    }
+}

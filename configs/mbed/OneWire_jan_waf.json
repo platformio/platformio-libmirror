@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Jan Achterhold",
+        "url": "https://os.mbed.com/users/jan_waf/"
+    },
+    "description": "Implemets a 1-Wire library, currently without \"Search ROM\" support",
+    "frameworks": "mbed",
+    "keywords": [
+        "1",
+        "1-wire",
+        "DS1820",
+        "Maxim",
+        "one",
+        "OneWire",
+        "Wire"
+    ],
+    "name": "OneWire",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jan_waf/code/OneWire/"
+    }
+}

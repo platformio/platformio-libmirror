@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Edoardo De Marchi",
+        "url": "https://os.mbed.com/users/edodm85/"
+    },
+    "description": "Library for MMA7660FC Accelerometer device",
+    "examples": [
+        "https://os.mbed.com/users/edodm85/code/TestCode_MMA7660FC/",
+        "https://os.mbed.com/users/edodm85/code/3D_Accelerometer_Tester/",
+        "https://os.mbed.com/users/embeddednerd/code/RTOS-aap-board-modules/",
+        "https://os.mbed.com/users/s890506/code/embed_Grove_3-Axis_Digital_Accelerometer/",
+        "https://os.mbed.com/users/mbedschool/code/mbed_websocket_client_for_gyro_and_3_Axi/",
+        "https://os.mbed.com/users/mbedschool/code/mbed_websocket_for_3Axis_Digiital_Accele/",
+        "https://os.mbed.com/users/mbedschool/code/mbed_YIC_websocket_for_3Axis_Digital_Acc/",
+        "https://os.mbed.com/users/lingtien5846/code/mbed_websocket_for_3Axis_Digiital_Accele/",
+        "https://os.mbed.com/users/lucas_favre/code/MyLab_Lib/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "Grove",
+        "I2C",
+        "MMA7660FC"
+    ],
+    "name": "MMA7660FC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/edodm85/code/MMA7660FC/"
+    }
+}

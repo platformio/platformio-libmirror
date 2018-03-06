@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Colin Bookman",
+        "url": "https://os.mbed.com/users/cbookman3/"
+    },
+    "description": "Allows mbed to send data to an HTML5 web browser through a 4 pole mini jack.",
+    "examples": [
+        "https://os.mbed.com/users/cbookman3/code/MicIO-Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MicIO",
+    "name": "MicIO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cbookman3/code/MicIO/"
+    }
+}

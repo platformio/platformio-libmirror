@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "hiro ng",
+        "url": "https://os.mbed.com/users/paasukusai/"
+    },
+    "description": "Pololu MC 33926を電流値を決めて制御する。宣言→ pololu33926 name(D1 digitalout,D2 digitalout,FB Analogin,D2 pwmout); 動かす→name.act(0止1正2逆,電流値(A));電流値を読み取る→double = name.act();",
+    "frameworks": "mbed",
+    "keywords": [
+        "33926",
+        "pololu"
+    ],
+    "name": "pololu33926",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/paasukusai/code/pololu33926/"
+    }
+}

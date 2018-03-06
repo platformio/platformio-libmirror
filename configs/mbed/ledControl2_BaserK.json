@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Baser Kandehir",
+        "url": "https://os.mbed.com/users/BaserK/"
+    },
+    "description": "Basic ledControl library that control the leds on LPC1768",
+    "examples": [
+        "https://os.mbed.com/users/BaserK/code/gimbalController_brushless_IMU/",
+        "https://os.mbed.com/users/BaserK/code/i2c_MPU6050/",
+        "https://os.mbed.com/users/BaserK/code/i2c_HMC5883L/",
+        "https://os.mbed.com/users/BaserK/code/IMU_fusion/",
+        "https://os.mbed.com/users/WakoTakeru/code/test_MPU6050/",
+        "https://os.mbed.com/users/lakshmananag/code/Balancing_Robot_2/",
+        "https://os.mbed.com/users/lakshmananag/code/Balancing_Robot_1/",
+        "https://os.mbed.com/users/shreyashpalande/code/kpitmpu6050dht11/",
+        "https://os.mbed.com/teams/Coreonetech/code/CORE-1000_MPU6050/",
+        "https://os.mbed.com/users/sarahbest/code/IMU_fusion_9DOF/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "control",
+        "led",
+        "LPC1768",
+        "mbed"
+    ],
+    "name": "ledControl2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BaserK/code/ledControl2/"
+    }
+}

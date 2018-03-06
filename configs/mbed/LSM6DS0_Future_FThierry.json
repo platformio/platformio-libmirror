@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Frederic Thierry",
+        "url": "https://os.mbed.com/users/Future_FThierry/"
+    },
+    "description": "only for Future hands-on purpose",
+    "examples": [
+        "https://os.mbed.com/users/Future_FThierry/code/Nucleo_test_accelero/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LSM6DS0",
+    "name": "LSM6DS0",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Future_FThierry/code/LSM6DS0/"
+    }
+}

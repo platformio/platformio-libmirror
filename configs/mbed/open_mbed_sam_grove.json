@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Sam Grove",
+        "url": "https://os.mbed.com/users/sam_grove/"
+    },
+    "description": "Tool that opens a comport for every mbed connected to your computer with one command - never look for the COM number again!",
+    "frameworks": "mbed",
+    "keywords": "open_mbed",
+    "name": "open_mbed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sam_grove/code/open_mbed/"
+    }
+}

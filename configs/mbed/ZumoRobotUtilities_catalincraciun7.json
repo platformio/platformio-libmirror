@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Catalin Craciun",
+        "url": "https://os.mbed.com/users/catalincraciun7/"
+    },
+    "description": "Utilities classes for the Zumo Robot",
+    "examples": [
+        "https://os.mbed.com/users/catalincraciun7/code/ZumoRobotBluetoothControlled/",
+        "https://os.mbed.com/users/ccostin/code/Fsl_Zumo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "helping",
+        "libraries",
+        "pololu",
+        "robot",
+        "Utilities",
+        "Zumo"
+    ],
+    "name": "ZumoRobotUtilities",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/catalincraciun7/code/ZumoRobotUtilities/"
+    }
+}

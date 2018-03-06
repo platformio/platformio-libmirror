@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Luca Olivieri",
+        "url": "https://os.mbed.com/users/olimexsmart/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "This is a port from the library for Arduino provided by Sparkfun with their breakout board of the LSM9DS0. The original library can be found here: https://github.com/sparkfun/SparkFun_LSM9DS0_Arduino_Library/tree/V_1.0.1 It is also ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "9DOF",
+        "AHRS",
+        "IMU",
+        "LSM9DS0",
+        "Madgwick",
+        "sparkfun"
+    ],
+    "name": "LSM9DS0_mbed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/olimexsmart/code/LSM9DS0_mbed/"
+    }
+}

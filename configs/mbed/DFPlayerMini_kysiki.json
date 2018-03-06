@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "yuto kamo",
+        "url": "https://os.mbed.com/users/kysiki/"
+    },
+    "description": "DFPlayerMini Library porting from Arduino Library (www.github.com/dfrobot/DFPlayer_Mini_Mp3)",
+    "frameworks": "mbed",
+    "keywords": "DFPlayerMini",
+    "name": "DFPlayerMini",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kysiki/code/DFPlayerMini/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Chau Vo",
+        "url": "https://os.mbed.com/users/olympux/"
+    },
+    "description": "STM32 EEPROM emulation AN2594",
+    "frameworks": "mbed",
+    "keywords": [
+        "EEPROM",
+        "flash",
+        "stm32f10x"
+    ],
+    "name": "eeprom",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/olympux/code/eeprom/"
+    }
+}

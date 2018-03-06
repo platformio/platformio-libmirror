@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "William Basser",
+        "url": "https://os.mbed.com/users/wbasser/"
+    },
+    "description": "Graphics Drawing Interface EZLCD4 display using serial",
+    "frameworks": "mbed",
+    "keywords": [
+        "Graphics",
+        "LCD"
+    ],
+    "name": "GDIEZLCD4",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wbasser/code/GDIEZLCD4/"
+    }
+}

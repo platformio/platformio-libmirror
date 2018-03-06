@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "Rotary encoder library.",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/RotaryEncoder_TestProgram/",
+        "https://os.mbed.com/users/smultron1977/code/ST7735_Pong/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "rotary"
+    ],
+    "name": "RotaryEncoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/RotaryEncoder/"
+    }
+}

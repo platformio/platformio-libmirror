@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Chris Styles",
+        "url": "https://os.mbed.com/users/chris/"
+    },
+    "description": "AX12",
+    "examples": [
+        "https://os.mbed.com/users/chris/code/Snackotron/",
+        "https://os.mbed.com/users/frohst/code/Single_Axis/",
+        "https://os.mbed.com/users/hirarin/code/NewCyroroProto/",
+        "https://os.mbed.com/teams/Robotique-FIP/code/AX12/",
+        "https://os.mbed.com/users/conantina/code/DIY-Mbed-Dual-Axis-Soler-Tracker/",
+        "https://os.mbed.com/users/louali/code/AX12-SpeedControl/",
+        "https://os.mbed.com/teams/Projet/code/progprincipale/",
+        "https://os.mbed.com/users/tedparrott6/code/8_motor_test_1/",
+        "https://os.mbed.com/users/tedparrott6/code/biaxial_ankle_tilt/",
+        "https://os.mbed.com/users/tedparrott6/code/Frontal_controller/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ax12",
+        "dynamixel",
+        "motor",
+        "Servo"
+    ],
+    "name": "AX12",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chris/code/AX12/"
+    }
+}

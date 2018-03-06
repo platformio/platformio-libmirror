@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "Lib for the new LCD Display with ILI9341 controller",
+    "examples": [
+        "https://os.mbed.com/users/dreschpe/code/TFT_Test_ILI9341/",
+        "https://os.mbed.com/users/Vekotin/code/touch_piirto/",
+        "https://os.mbed.com/users/dreschpe/code/TFT_banggood/",
+        "https://os.mbed.com/users/you_sun/code/TFT_Test_ILI9341-a-fish/",
+        "https://os.mbed.com/users/Vekotin/code/MIDI_Interface_ver_1/",
+        "https://os.mbed.com/users/kenno/code/frdm_tft_ili9341/",
+        "https://os.mbed.com/users/RobertFischer/code/ILI9341_Clock_Nucleo/",
+        "https://os.mbed.com/users/flatcat/code/ramanSpectrometer_interfaceBoard/",
+        "https://os.mbed.com/users/dhivya12/code/kl25z_TFT_ILI9341/",
+        "https://os.mbed.com/users/vtraveller/code/ILI9341_Graphic_Library/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SPI_TFT_ILI9341",
+    "name": "SPI_TFT_ILI9341",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/SPI_TFT_ILI9341/"
+    }
+}

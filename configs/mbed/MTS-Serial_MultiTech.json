@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "description": "Serial library for MTS Socket Modem Arduino Shield devices from Multi-Tech Systems",
+    "examples": [
+        "https://os.mbed.com/teams/DeepPass-LoRa/code/mDot_AT_firmware/",
+        "https://os.mbed.com/teams/MultiTech/code/mtsas/",
+        "https://os.mbed.com/users/jfanucch/code/mtsas/",
+        "https://os.mbed.com/teams/Multi-Hackers/code/MTDOT-EVB-LinkCheck-AL/",
+        "https://os.mbed.com/users/JonB/code/mtsas/",
+        "https://os.mbed.com/users/Mehrad/code/mDot_LoRa_Connect_CSA_Light/",
+        "https://os.mbed.com/users/Mehrad/code/mDot_LoRa_Connect_CSA_Rain/",
+        "https://os.mbed.com/users/Mehrad/code/mDot_LoRa_Connect_CSA_RH_Temp/",
+        "https://os.mbed.com/users/Mehrad/code/mDot_LoRa_Connect_CSA_Thermistor/",
+        "https://os.mbed.com/users/jreiss/code/MTDOT-BOX-EVB-Factory-Firmware-LIB-108/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MTS-Serial",
+    "name": "MTS-Serial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/MTS-Serial/"
+    }
+}

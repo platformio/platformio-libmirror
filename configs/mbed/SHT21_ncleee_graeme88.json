@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Graeme Coapes",
+        "url": "https://os.mbed.com/users/graeme88/"
+    },
+    "description": "a library that provides a connection to a SHT21 temperature and humidity sensor Author: Graeme Coapes - Newcastle University, graeme.coapes@ncl.ac.uk Date: 29/11/12",
+    "examples": [
+        "https://os.mbed.com/users/graeme88/code/test_ncleee/",
+        "https://os.mbed.com/teams/Weather-man/code/WeatherStation/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SHT21",
+    "name": "SHT21_ncleee",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/graeme88/code/SHT21_ncleee/"
+    }
+}

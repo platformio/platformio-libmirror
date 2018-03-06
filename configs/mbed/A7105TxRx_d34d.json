@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Clark Scheff",
+        "url": "https://os.mbed.com/users/d34d/"
+    },
+    "description": "Library for interfacing with the AMICCOM A7105 2.4GHz FSK/GFSK Transceiver.",
+    "examples": [
+        "https://os.mbed.com/users/d34d/code/HubsanTX/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "2.4GHz",
+        "a7105",
+        "FSK",
+        "GFSK",
+        "transceiver",
+        "txrx"
+    ],
+    "name": "A7105TxRx",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/d34d/code/A7105TxRx/"
+    }
+}

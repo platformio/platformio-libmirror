@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Toshihisa T",
+        "url": "https://os.mbed.com/users/tosihisa/"
+    },
+    "description": "A tiny drawing library. include line draw and bitmap-font draw.bitmap-font is from linux-kernel-source.",
+    "frameworks": "mbed",
+    "keywords": "Graphics",
+    "name": "tinydraw",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tosihisa/code/tinydraw/"
+    }
+}

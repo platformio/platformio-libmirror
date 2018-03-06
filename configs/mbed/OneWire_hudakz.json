@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "Dallas' 1-Wire bus protocol library",
+    "examples": [
+        "https://os.mbed.com/users/hudakz/code/DS1820/",
+        "https://os.mbed.com/users/bobgiesberts/code/DS1825/",
+        "https://os.mbed.com/users/jmambroi/code/DISCO-F746-Dessiccateur-V1/",
+        "https://os.mbed.com/users/e58136782000/code/watersenor_and_temp_code/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "1-wire",
+        "One Wire",
+        "one-wire"
+    ],
+    "name": "OneWire",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/OneWire/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jacques Grelet",
+        "url": "https://os.mbed.com/users/us191/"
+    },
+    "description": "manage a led (put on/off, flash...)",
+    "frameworks": "mbed",
+    "keywords": "led",
+    "name": "Led",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/us191/code/Led/"
+    }
+}

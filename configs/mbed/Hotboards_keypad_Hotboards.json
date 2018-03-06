@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Hotboards MX",
+        "url": "https://os.mbed.com/users/Hotboards/"
+    },
+    "description": "driver to control n by m matrix keyboard with external pull-ups on columns",
+    "examples": [
+        "https://os.mbed.com/users/RomanValenciaP/code/LoopCounter/",
+        "https://os.mbed.com/users/RomanValenciaP/code/HelloKeypad/",
+        "https://os.mbed.com/users/RomanValenciaP/code/MultiKey/",
+        "https://os.mbed.com/users/RomanValenciaP/code/EventKeypad/",
+        "https://os.mbed.com/users/RomanValenciaP/code/DynamicKeypad/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_HelloKeypad/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_MultiKey/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_EventKeypad/",
+        "https://os.mbed.com/users/Hotboards/code/Hotboards_DynamicKeypad/",
+        "https://os.mbed.com/users/RomanValenciaP/code/Nucleo_KEYPAD_2a/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "hotboards",
+        "keyboard"
+    ],
+    "name": "Hotboards_keypad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Hotboards/code/Hotboards_keypad/"
+    }
+}

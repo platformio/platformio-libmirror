@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "Parallel to I2C for Intelligent LED Display module PD2435~7 / PD3535~7 / PD4435~7 (OSRAM)",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/i2cleddisp_sample/",
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform_20110408/",
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform/",
+        "https://os.mbed.com/users/okini3939/code/WeatherStation/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "I2C",
+        "led"
+    ],
+    "name": "I2CLEDDisp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/I2CLEDDisp/"
+    }
+}

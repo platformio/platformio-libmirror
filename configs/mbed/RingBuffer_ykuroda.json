@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Yoji KURODA",
+        "url": "https://os.mbed.com/users/ykuroda/"
+    },
+    "description": "General purpose ring buffer library",
+    "examples": [
+        "https://os.mbed.com/users/ykuroda/code/iSerial/",
+        "https://os.mbed.com/users/screamer/code/DGWWebServer/",
+        "https://os.mbed.com/users/UsulFremen/code/iSerial/",
+        "https://os.mbed.com/teams/VOC/code/Dumb_box_rev2/",
+        "https://os.mbed.com/teams/Amalus/code/iSerial/",
+        "https://os.mbed.com/teams/BEaR-lab/code/iSerial/",
+        "https://os.mbed.com/users/kenjiArai/code/iSerial/",
+        "https://os.mbed.com/users/kenjiArai/code/Freq_Cntr_GPS1PPS_F746NG_GUI/",
+        "https://os.mbed.com/users/kenjiArai/code/Frequency_Cntr_1PPS_F746ZG/",
+        "https://os.mbed.com/users/kenjiArai/code/TYBLE16_Uart_Central_and_Peripheral/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "RingBuffer",
+    "name": "RingBuffer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ykuroda/code/RingBuffer/"
+    }
+}

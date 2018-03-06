@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Scott Tudd",
+        "url": "https://os.mbed.com/users/tuddman/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "libmDot"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "wotio library demonstrating LoRaWAN connectivity using MultiTech mDot & MultiTech Conduit Gateway",
+    "frameworks": "mbed",
+    "keywords": "wotiolora",
+    "name": "wotiolora",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tuddman/code/wotiolora/"
+    }
+}

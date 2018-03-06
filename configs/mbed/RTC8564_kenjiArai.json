@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "RTC-8564NB Real Time Clock Module by EPSON TOYOCOM",
+    "frameworks": "mbed",
+    "keywords": [
+        "EPSON",
+        "RTC",
+        "TOYOCOM"
+    ],
+    "name": "RTC8564",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/RTC8564/"
+    }
+}

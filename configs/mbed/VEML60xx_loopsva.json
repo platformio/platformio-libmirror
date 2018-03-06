@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Kevin Braun",
+        "url": "https://os.mbed.com/users/loopsva/"
+    },
+    "description": "A Vishay library for devices VEML6040 R+G+B+W and VEML6075 UVA+UVB optical sensors. Data is stored in a dedicated data structure.",
+    "examples": [
+        "https://os.mbed.com/users/loopsva/code/vmel60xx_hello_world/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "optical",
+        "sensor",
+        "VMEL6040",
+        "VMEL6075"
+    ],
+    "name": "VEML60xx",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/loopsva/code/VEML60xx/"
+    }
+}

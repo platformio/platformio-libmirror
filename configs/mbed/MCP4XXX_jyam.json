@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Johnny Yam",
+        "url": "https://os.mbed.com/users/jyam/"
+    },
+    "description": "simple MCP4XXX digital potentiometer library",
+    "frameworks": "mbed",
+    "keywords": [
+        "digital pot",
+        "digital potentiometer",
+        "MCP4131",
+        "MCP4132",
+        "MCP4241",
+        "MCP4XXX",
+        "SPI"
+    ],
+    "name": "MCP4XXX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jyam/code/MCP4XXX/"
+    }
+}

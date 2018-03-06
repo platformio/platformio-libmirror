@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Alexan E",
+        "url": "https://os.mbed.com/users/alexan_e/"
+    },
+    "description": "The common folder libraries from keil LPC11Uxx code bundle",
+    "frameworks": "mbed",
+    "keywords": "KEIL_LPC11U_COMMON_LIB",
+    "name": "KEIL_LPC11U_COMMON_LIB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/alexan_e/code/KEIL_LPC11U_COMMON_LIB/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "akira yamada",
+        "url": "https://os.mbed.com/users/natuga117/"
+    },
+    "description": "パリティ入りの独自規格赤外線通信ライブラリ。受送信がセットになっています",
+    "examples": [
+        "https://os.mbed.com/users/natuga117/code/ROBOX_Sample_IRcon/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "IR",
+        "ROBOX"
+    ],
+    "name": "ROBOXformat",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/natuga117/code/ROBOXformat/"
+    }
+}

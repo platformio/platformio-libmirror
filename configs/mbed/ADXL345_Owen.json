@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Owen Edwards",
+        "url": "https://os.mbed.com/users/Owen/"
+    },
+    "description": "ADXL345 triple axis, digital accelerometer library.",
+    "examples": [
+        "https://os.mbed.com/users/gsulc/code/AntiTheftGPS/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "ADXL345"
+    ],
+    "name": "ADXL345",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Owen/code/ADXL345/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "steeven lee",
+        "url": "https://os.mbed.com/users/steeven/"
+    },
+    "description": "ESP8266 uart wifi module via AT command",
+    "examples": [
+        "https://os.mbed.com/users/steeven/code/mbed_esp8266_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ESP-01",
+        "ESP8266"
+    ],
+    "name": "ESP8266",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/steeven/code/ESP8266/"
+    }
+}

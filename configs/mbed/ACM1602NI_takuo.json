@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Takuo WATANABE",
+        "url": "https://os.mbed.com/users/takuo/"
+    },
+    "description": "An I2C text LCD library for Displaytronic ACM1602NI-FLW-FBW-M01",
+    "examples": [
+        "https://os.mbed.com/users/takuo/code/ACM1602NI_Demo/",
+        "https://os.mbed.com/users/denden/code/ROBOT_v01/",
+        "https://os.mbed.com/users/denden/code/ROBOT_v02/",
+        "https://os.mbed.com/teams/mbed123/code/Boku-Transmit/",
+        "https://os.mbed.com/teams/mbed123/code/Watashi_transmit/",
+        "https://os.mbed.com/teams/mbed123/code/XBOX-NHK2015/",
+        "https://os.mbed.com/users/eil4nyqn/code/XBOX-NHK/",
+        "https://os.mbed.com/users/jk1lot/code/TextLCD_ostream/",
+        "https://os.mbed.com/users/suupen/code/clockGenerator/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LCD"
+    ],
+    "name": "ACM1602NI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/takuo/code/ACM1602NI/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Tyler Weaver",
+        "url": "https://os.mbed.com/users/tylerjw/"
+    },
+    "description": "UART1 buffered serial driver, requires RTOS",
+    "examples": [
+        "https://os.mbed.com/users/tylerjw/code/Serial_interrupts_buffered/",
+        "https://os.mbed.com/users/tylerjw/code/HARP2/",
+        "https://os.mbed.com/users/tylerjw/code/HARP3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "rtos",
+        "Serial",
+        "UART"
+    ],
+    "name": "buffered-serial1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tylerjw/code/buffered-serial1/"
+    }
+}

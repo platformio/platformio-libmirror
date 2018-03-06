@@ -1,0 +1,46 @@
+{
+    "authors": {
+        "name": "Doug Anson",
+        "url": "https://os.mbed.com/users/ansond/"
+    },
+    "dependencies": [
+        {
+            "authors": "Doug Anson",
+            "frameworks": "mbed",
+            "name": "ID12RFID"
+        },
+        {
+            "authors": "Doug Anson",
+            "frameworks": "mbed",
+            "name": "ReportDB"
+        },
+        {
+            "authors": "Doug Anson",
+            "frameworks": "mbed",
+            "name": "SalesforceCaseGenerator"
+        },
+        {
+            "authors": "Doug Anson",
+            "frameworks": "mbed",
+            "name": "SalesforceInterface"
+        }
+    ],
+    "description": "Dreamforce 2014 Demo of RFID-based Salesforce Case generation for status reporting.",
+    "examples": [
+        "https://os.mbed.com/teams/MBED_DEMOS/code/mbed_mqtt_endpoint_ublox_ethernet/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/mbed_mqtt_endpoint_ublox_cellular/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/mbed_nsp_endpoint_ublox_cellular/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/mbed_nsp_endpoint_ublox_ethernet/",
+        "https://os.mbed.com/users/ansond/code/df-2014-workshop-rfid-case-generator-k64/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/mbed_nsp_endpoint_nxp/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/mbed_mqtt_endpoint_nxp/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "StatusReporter",
+    "name": "StatusReporter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ansond/code/StatusReporter/"
+    }
+}

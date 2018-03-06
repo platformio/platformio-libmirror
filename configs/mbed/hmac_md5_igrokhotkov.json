@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Ivan Grokhotkov",
+        "url": "https://os.mbed.com/users/igrokhotkov/"
+    },
+    "description": "A simple CyaSSL-based HMAC-MD5 implementation. Licensed under GPL v2.",
+    "examples": [
+        "https://os.mbed.com/users/jsobchuk3/code/RFrec_full/",
+        "https://os.mbed.com/users/jsobchuk3/code/RFtrans_full/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HMAC",
+        "hmac-md5",
+        "md5"
+    ],
+    "name": "hmac_md5",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/igrokhotkov/code/hmac_md5/"
+    }
+}

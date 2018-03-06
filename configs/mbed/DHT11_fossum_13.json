@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Eric Fossum",
+        "url": "https://os.mbed.com/users/fossum_13/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "A minimal library for the DHT11.",
+    "examples": [
+        "https://os.mbed.com/users/rx5/code/EXP10_DHT11_LCD/",
+        "https://os.mbed.com/users/DSPMARCO/code/Sushil_MODSERIAL/",
+        "https://os.mbed.com/users/hypark/code/Core1000_SmartFarm/",
+        "https://os.mbed.com/teams/IDD-Summer-2017/code/idd_summer17_hw3_evey_jenny_seiyoung/",
+        "https://os.mbed.com/teams/capstone490/code/sensor_test1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DHT11",
+    "name": "DHT11",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fossum_13/code/DHT11/"
+    }
+}

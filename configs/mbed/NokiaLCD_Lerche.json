@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Christian Lerche",
+        "url": "https://os.mbed.com/users/Lerche/"
+    },
+    "description": "Added circle and line support",
+    "frameworks": "mbed",
+    "keywords": [
+        "6610",
+        "LCD",
+        "Nokia"
+    ],
+    "name": "NokiaLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Lerche/code/NokiaLCD/"
+    }
+}

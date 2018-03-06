@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Nurbol Nurdaulet",
+        "url": "https://os.mbed.com/users/Nurbol/"
+    },
+    "description": "MCP23017",
+    "examples": [
+        "https://os.mbed.com/users/Nurbol/code/state_machine_modes_1_12_11/",
+        "https://os.mbed.com/users/Nurbol/code/state_machine_modes_1_12_11_11h/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MCP23017",
+    "name": "MCP23017",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Nurbol/code/MCP23017/"
+    }
+}

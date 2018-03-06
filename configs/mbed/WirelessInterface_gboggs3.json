@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Garren Boggs",
+        "url": "https://os.mbed.com/users/gboggs3/"
+    },
+    "description": "ECE 4180 final project. Used to connected with both Adafruit Huzzah WiFi and Adafruit Bluetooth LE UART.",
+    "examples": [
+        "https://os.mbed.com/users/gboggs3/code/WirelessInterface_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "WirelessInterface",
+    "name": "WirelessInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gboggs3/code/WirelessInterface/"
+    }
+}

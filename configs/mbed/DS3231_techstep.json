@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Bird Techstep",
+        "url": "https://os.mbed.com/users/techstep/"
+    },
+    "description": "DS3231 External RTC I2C",
+    "frameworks": "mbed",
+    "keywords": "DS3231",
+    "name": "DS3231",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/techstep/code/DS3231/"
+    }
+}

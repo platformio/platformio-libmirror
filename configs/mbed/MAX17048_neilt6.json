@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Neil Thiessen",
+        "url": "https://os.mbed.com/users/neilt6/"
+    },
+    "description": "A feature complete driver for the MAX17048 lithium fuel gauge from Maxim.",
+    "examples": [
+        "https://os.mbed.com/users/neilt6/code/MAX17048_HelloWorld/",
+        "https://os.mbed.com/users/zainulcharbiwala/code/ECGAFE_copy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Battery",
+        "c rate",
+        "driver",
+        "fuel gauge",
+        "li+",
+        "lithium",
+        "MAX17048",
+        "Maxim",
+        "sensor",
+        "soc",
+        "state of charge",
+        "vcell"
+    ],
+    "name": "MAX17048",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/neilt6/code/MAX17048/"
+    }
+}

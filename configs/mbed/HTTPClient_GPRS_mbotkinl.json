@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Micah B",
+        "url": "https://os.mbed.com/users/mbotkinl/"
+    },
+    "description": "http",
+    "examples": [
+        "https://os.mbed.com/users/mbotkinl/code/finalV1/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalV1/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalv2/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalv3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HTTPClient_GPRS",
+    "name": "HTTPClient_GPRS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbotkinl/code/HTTPClient_GPRS/"
+    }
+}

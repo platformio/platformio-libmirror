@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Keith G",
+        "url": "https://os.mbed.com/users/Condo2k4/"
+    },
+    "description": "Allows Asynchronous reading from the analog pins to memory. Supports: K64F",
+    "examples": [
+        "https://os.mbed.com/users/Condo2k4/code/MoppyController/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "Analog",
+        "AnalogIn",
+        "asynchronous",
+        "DMA",
+        "K64F",
+        "PDB"
+    ],
+    "name": "asyncADC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Condo2k4/code/asyncADC/"
+    }
+}

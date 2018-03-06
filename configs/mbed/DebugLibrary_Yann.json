@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Yann Garcia",
+        "url": "https://os.mbed.com/users/Yann/"
+    },
+    "description": "Add missing undefined symbols to be sure to use mine",
+    "examples": [
+        "https://os.mbed.com/users/Yann/code/DS130x_I2CApp/",
+        "https://os.mbed.com/users/Yann/code/MCP41xxxApp/",
+        "https://os.mbed.com/users/Yann/code/FM24Vxx_I2CApp/",
+        "https://os.mbed.com/users/Yann/code/MCP320xApp/",
+        "https://os.mbed.com/users/Yann/code/MCP23017App/",
+        "https://os.mbed.com/users/viniciushl/code/MCP41xxxApp/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "debug",
+        "library"
+    ],
+    "name": "DebugLibrary",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Yann/code/DebugLibrary/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Carlos Alberto Nascimento Filho",
+        "url": "https://os.mbed.com/users/carlos_nascimento08/"
+    },
+    "description": "Teste",
+    "examples": [
+        "https://os.mbed.com/users/lolpcc/code/BlueUSB-new/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FATFileSystemv2",
+    "name": "FATFileSystemv2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/carlos_nascimento08/code/FATFileSystemv2/"
+    }
+}

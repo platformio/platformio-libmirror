@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Keerthana Santhi Pethappan",
+        "url": "https://os.mbed.com/users/keerthanasp/"
+    },
+    "description": "GPS",
+    "examples": [
+        "https://os.mbed.com/users/gtg846r/code/Lab3_Surveillance/",
+        "https://os.mbed.com/users/sathguru/code/6adcSerial/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GPS",
+    "name": "GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/keerthanasp/code/GPS/"
+    }
+}

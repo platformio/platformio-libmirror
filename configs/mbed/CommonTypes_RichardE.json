@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Richard Ellingworth",
+        "url": "https://os.mbed.com/users/RichardE/"
+    },
+    "description": "Contains a number of commonly used integer types which allows a degree of portability for any code which uses them.",
+    "examples": [
+        "https://os.mbed.com/users/RichardE/code/GameduinoTest/",
+        "https://os.mbed.com/users/RichardE/code/SimpleGameduinoTest/",
+        "https://os.mbed.com/users/RichardE/code/RobotRic/",
+        "https://os.mbed.com/users/RichardE/code/WiiClassicControllerTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "CommonTypes",
+    "name": "CommonTypes",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RichardE/code/CommonTypes/"
+    }
+}

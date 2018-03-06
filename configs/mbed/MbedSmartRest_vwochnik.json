@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Vincent Wochnik",
+        "url": "https://os.mbed.com/users/vwochnik/"
+    },
+    "dependencies": [
+        {
+            "authors": "Vincent Wochnik",
+            "frameworks": "mbed",
+            "name": "HTTPClient"
+        },
+        {
+            "authors": "Vincent Wochnik",
+            "frameworks": "mbed",
+            "name": "SmartRest"
+        }
+    ],
+    "description": "A client for the SmartREST protocol from Cumulocity.",
+    "frameworks": "mbed",
+    "keywords": [
+        "csv",
+        "cumulocity",
+        "Embedded",
+        "rest",
+        "smart"
+    ],
+    "name": "MbedSmartRest",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vwochnik/code/MbedSmartRest/"
+    }
+}

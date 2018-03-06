@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Ryan Vasquez",
+        "url": "https://os.mbed.com/users/rvasquez6089/"
+    },
+    "description": "This is a library for the PCA9685 ported from the Adafruit Ardiuno library.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Adafruit",
+        "PCA9685"
+    ],
+    "name": "PCA9685Lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rvasquez6089/code/PCA9685Lib/"
+    }
+}

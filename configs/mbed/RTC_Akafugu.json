@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Akafugu",
+        "url": "https://os.mbed.com/teams/Akafugu/"
+    },
+    "description": "Realtime clock library for DS1307 and DS3231m",
+    "examples": [
+        "https://os.mbed.com/teams/Akafugu/code/vfd_modular_clock_mbed/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ds1307",
+        "DS3231m"
+    ],
+    "name": "RTC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Akafugu/code/RTC/"
+    }
+}

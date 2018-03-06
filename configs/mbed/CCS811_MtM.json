@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "MtM+",
+        "url": "https://os.mbed.com/teams/MtM/"
+    },
+    "description": "CCS811 dumb library",
+    "examples": [
+        "https://os.mbed.com/teams/MtM/code/MtConnect04S_MtSense02/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AirIndoorQuality",
+        "MtSense02"
+    ],
+    "name": "CCS811",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MtM/code/CCS811/"
+    }
+}

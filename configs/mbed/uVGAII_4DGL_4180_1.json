@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "jim hamblen",
+        "url": "https://os.mbed.com/users/4180_1/"
+    },
+    "description": "a version of 4DGL with a minor change for the uVGAII 640 by 480 res",
+    "frameworks": "mbed",
+    "keywords": "uVGAII_4DGL",
+    "name": "uVGAII_4DGL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/4180_1/code/uVGAII_4DGL/"
+    }
+}

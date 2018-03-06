@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Davide Luongo",
+        "url": "https://os.mbed.com/users/fangoman91/"
+    },
+    "description": "Optimized polling keybolard reading",
+    "examples": [
+        "https://os.mbed.com/teams/design-project/code/design_project/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "3x4",
+        "4x3",
+        "kepad",
+        "keyboard",
+        "polling",
+        "pull",
+        "up"
+    ],
+    "name": "Keypad3x4polling",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fangoman91/code/Keypad3x4polling/"
+    }
+}

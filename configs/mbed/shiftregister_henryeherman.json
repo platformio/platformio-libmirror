@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Henry Herman",
+        "url": "https://os.mbed.com/users/henryeherman/"
+    },
+    "description": "simple library that can be used to write to a 595 shift register array",
+    "frameworks": "mbed",
+    "keywords": "shiftregister",
+    "name": "shiftregister",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/henryeherman/code/shiftregister/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Gregor Mraczny",
+        "url": "https://os.mbed.com/users/casval/"
+    },
+    "description": "landtiger with ili9325 lcd controller based on the TFTLCD libary from Todor Todorov",
+    "frameworks": "mbed",
+    "keywords": "TFTLCD_Landtiger",
+    "name": "TFTLCD_Landtiger",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/casval/code/TFTLCD_Landtiger/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Wataru Mikawa",
+        "url": "https://os.mbed.com/users/mikawataru/"
+    },
+    "description": "シリアル割り込みを使ったGPSデータ整理用ライブラリ",
+    "examples": [
+        "https://os.mbed.com/teams/CORE/code/Sample_GPSlib/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GPS",
+    "name": "GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mikawataru/code/GPS/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Montvydas Klumbys",
+        "url": "https://os.mbed.com/users/moklumbys/"
+    },
+    "description": "A library used for controlling a quadcopter. It provides an easy to use interface, which allows to mount, calibrate and run motors. It is also able to calibrate the actual ...",
+    "examples": [
+        "https://os.mbed.com/users/moklumbys/code/QuadcopterProgram/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Quadcopter",
+    "name": "Quadcopter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/moklumbys/code/Quadcopter/"
+    }
+}

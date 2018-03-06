@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "CHENGQI YANG",
+        "url": "https://os.mbed.com/users/yangcq88517/"
+    },
+    "dependencies": [
+        {
+            "authors": "CHENGQI YANG",
+            "frameworks": "mbed",
+            "name": "BufferedArray"
+        }
+    ],
+    "description": "The MGC3130 is the world’s first electrical-field (E-field) based three-dimensional (3D) tracking and gesture controller",
+    "examples": [
+        "https://os.mbed.com/users/ovicin/code/NucleoMGC3130/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Electrical",
+        "Field",
+        "Gesture",
+        "MGC3130"
+    ],
+    "name": "MGC3130",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yangcq88517/code/MGC3130/"
+    }
+}

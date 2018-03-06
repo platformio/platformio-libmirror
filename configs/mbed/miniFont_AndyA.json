@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Andy A",
+        "url": "https://os.mbed.com/users/AndyA/"
+    },
+    "description": "A low resolution font for LED matrix displays e.g. neopixels",
+    "examples": [
+        "https://os.mbed.com/users/AndyA/code/WS2812Text/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "font",
+        "NeoPixel",
+        "WS2812",
+        "wx2811"
+    ],
+    "name": "miniFont",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AndyA/code/miniFont/"
+    }
+}

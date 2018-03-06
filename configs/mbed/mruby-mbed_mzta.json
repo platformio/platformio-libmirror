@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "takuya matsuzaki",
+        "url": "https://os.mbed.com/users/mzta/"
+    },
+    "description": "mbed I/F binding for mruby",
+    "examples": [
+        "https://os.mbed.com/users/mzta/code/mruby_mbed_web/",
+        "https://os.mbed.com/users/mzta/code/mirb_mbed/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "mruby",
+    "name": "mruby-mbed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mzta/code/mruby-mbed/"
+    }
+}

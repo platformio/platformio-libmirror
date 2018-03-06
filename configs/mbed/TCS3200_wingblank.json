@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Anupam Goli",
+        "url": "https://os.mbed.com/users/wingblank/"
+    },
+    "description": "This is the library to use the TCS3200 on the mbed",
+    "examples": [
+        "https://os.mbed.com/users/LorenzoCR/code/ovvioBug/",
+        "https://os.mbed.com/teams/Team-del-Semaforo-CADC/code/ovvioBug/",
+        "https://os.mbed.com/users/brainliang/code/my_example_TCS3200/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TCS3200",
+    "name": "TCS3200",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wingblank/code/TCS3200/"
+    }
+}

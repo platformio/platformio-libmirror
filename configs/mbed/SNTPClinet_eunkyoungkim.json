@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "eunkyoung kim",
+        "url": "https://os.mbed.com/users/eunkyoungkim/"
+    },
+    "description": "SNTPClinet",
+    "examples": [
+        "https://os.mbed.com/users/eunkyoungkim/code/SSD1306_smart_watch/",
+        "https://os.mbed.com/users/Hoonhee/code/smart_watch/",
+        "https://os.mbed.com/teams/WIZnet/code/smart_watch/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "NTP",
+        "SNTP",
+        "SNTPClinet"
+    ],
+    "name": "SNTPClinet",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eunkyoungkim/code/SNTPClinet/"
+    }
+}

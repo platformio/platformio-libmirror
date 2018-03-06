@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Carlos Alberto Nascimento Filho",
+        "url": "https://os.mbed.com/users/carlos_nascimento08/"
+    },
+    "description": "TextLCD",
+    "examples": [
+        "https://os.mbed.com/users/_muki/code/mbedServer_v1/",
+        "https://os.mbed.com/users/_muki/code/mbedServer_v3/",
+        "https://os.mbed.com/users/esmiwa/code/y_analog/",
+        "https://os.mbed.com/users/esmiwa/code/y_KXP84_I2C/",
+        "https://os.mbed.com/users/nakata/code/WiFiTerminal/",
+        "https://os.mbed.com/users/carlos_nascimento08/code/Andar_Linha_Reta_Robo_Claw_v1/",
+        "https://os.mbed.com/users/HarishMekali/code/LCD_lib/",
+        "https://os.mbed.com/users/HarishMekali/code/RTC_LCD/",
+        "https://os.mbed.com/users/HarishMekali/code/ADC_LCD_RTC/",
+        "https://os.mbed.com/users/HarishMekali/code/ADC_Flash/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TextLCD",
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/carlos_nascimento08/code/TextLCD/"
+    }
+}

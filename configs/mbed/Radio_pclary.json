@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Patrick Clary",
+        "url": "https://os.mbed.com/users/pclary/"
+    },
+    "description": "Specialized interface code for the nRF24L01P wireless transceiver.",
+    "examples": [
+        "https://os.mbed.com/users/alex03/code/WalkingRobot/",
+        "https://os.mbed.com/users/pclary/code/PcRadioBridge/",
+        "https://os.mbed.com/teams/Interactive-Device-Design/code/FzeroXcontroller/",
+        "https://os.mbed.com/users/pclary/code/WalkingRobot/",
+        "https://os.mbed.com/users/alexandertyler/code/FzeroXcontroller/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Radio",
+    "name": "Radio",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pclary/code/Radio/"
+    }
+}

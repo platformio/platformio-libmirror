@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Gary Servin",
+        "url": "https://os.mbed.com/users/garyservin/"
+    },
+    "dependencies": [
+        {
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
+            "name": "BufferedSerial"
+        }
+    ],
+    "description": "ROS Serial library for Mbed platforms for ROS Jade Turtle. Check http://wiki.ros.org/rosserial_mbed/ for more information.",
+    "examples": [
+        "https://os.mbed.com/users/garyservin/code/rosserial_mbed_hello_world_publisher_jad/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ROS",
+    "name": "ros_lib_jade",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/garyservin/code/ros_lib_jade/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jacek Maksymowicz",
+        "url": "https://os.mbed.com/users/jackmax/"
+    },
+    "description": "Library for handling ILI9163 - based LCD displays.",
+    "frameworks": "mbed",
+    "keywords": "ILI9163",
+    "name": "ILI9163LCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jackmax/code/ILI9163LCD/"
+    }
+}

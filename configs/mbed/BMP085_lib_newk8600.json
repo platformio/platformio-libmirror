@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Kory Hill",
+        "url": "https://os.mbed.com/users/newk8600/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "demo program of BMP085 pressure sensor",
+    "frameworks": "mbed",
+    "keywords": "BMP085_lib",
+    "name": "BMP085_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/newk8600/code/BMP085_lib/"
+    }
+}

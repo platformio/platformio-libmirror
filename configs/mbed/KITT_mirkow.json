@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Mirko Wölflick",
+        "url": "https://os.mbed.com/users/mirkow/"
+    },
+    "description": "Knight Rider KITT-like LED-Display",
+    "frameworks": "mbed",
+    "keywords": [
+        "kitt",
+        "Knight",
+        "led",
+        "rider"
+    ],
+    "name": "KITT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mirkow/code/KITT/"
+    }
+}

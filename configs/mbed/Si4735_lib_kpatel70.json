@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Kunal Patel",
+        "url": "https://os.mbed.com/users/kpatel70/"
+    },
+    "description": "Si4735 Library with RDS/RBDS control functions",
+    "frameworks": "mbed",
+    "keywords": "Si4735_lib",
+    "name": "Si4735_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kpatel70/code/Si4735_lib/"
+    }
+}

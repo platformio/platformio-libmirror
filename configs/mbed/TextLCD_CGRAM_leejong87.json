@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Hyeonjong Lee",
+        "url": "https://os.mbed.com/users/leejong87/"
+    },
+    "description": "CGRAM code in TextLCD",
+    "frameworks": "mbed",
+    "keywords": [
+        "CGRAM",
+        "CLCD",
+        "custom",
+        "TextLCD"
+    ],
+    "name": "TextLCD_CGRAM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/leejong87/code/TextLCD_CGRAM/"
+    }
+}

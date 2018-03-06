@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Analog Devices",
+        "url": "https://os.mbed.com/teams/AnalogDevices/"
+    },
+    "description": "Thermocouple mV conversion library",
+    "examples": [
+        "https://os.mbed.com/teams/AnalogDevices/code/CN0391/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "conversion",
+        "Thermocouple"
+    ],
+    "name": "Thermocouple",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/AnalogDevices/code/Thermocouple/"
+    }
+}

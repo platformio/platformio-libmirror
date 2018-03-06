@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "wayne roberts",
+        "url": "https://os.mbed.com/users/dudmuck/"
+    },
+    "description": "MPL3115A2 driver",
+    "examples": [
+        "https://os.mbed.com/teams/Semtech/code/NAMote72_Utility/",
+        "https://os.mbed.com/users/tmulrooney/code/lmic_NAmote_GPS_tjm/",
+        "https://os.mbed.com/users/jlcolemanmbed/code/lmic_NAmote_GPS_tjm/",
+        "https://os.mbed.com/teams/Senet/code/Senet-NAMote/",
+        "https://os.mbed.com/teams/Semtech/code/scpi_sx127x/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "pressure",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "lib_mpl3115a2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dudmuck/code/lib_mpl3115a2/"
+    }
+}

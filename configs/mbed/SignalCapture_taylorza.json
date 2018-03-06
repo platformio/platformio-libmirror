@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Chris Taylor",
+        "url": "https://os.mbed.com/users/taylorza/"
+    },
+    "description": "Provides a simple way to capture the wave form of a pin. For example it can be used to capture the digital state transitions of a pin connected to an ...",
+    "frameworks": "mbed",
+    "keywords": "SignalCapture",
+    "name": "SignalCapture",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/taylorza/code/SignalCapture/"
+    }
+}

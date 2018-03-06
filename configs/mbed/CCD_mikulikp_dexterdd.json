@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Petr M",
+        "url": "https://os.mbed.com/users/dexterdd/"
+    },
+    "description": "Library managing CCD_sensor for the FRDM kits",
+    "frameworks": "mbed",
+    "keywords": "ccd",
+    "name": "CCD_mikulikp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dexterdd/code/CCD_mikulikp/"
+    }
+}

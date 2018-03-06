@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "Silicon Laboratories Inc. Si5351A-B-GT I2C-PROGRAMMABLE ANY-FREQUENCY CMOS CLOCK GENERATOR",
+    "examples": [
+        "https://os.mbed.com/users/suupen/code/clockGenerator/",
+        "https://os.mbed.com/users/kenjiArai/code/Check_Si5351A_Clock_generator/",
+        "https://os.mbed.com/users/davcordova/code/t2d/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Clock Generator",
+        "Si5351A",
+        "SiLabs"
+    ],
+    "name": "Si5351A",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/Si5351A/"
+    }
+}

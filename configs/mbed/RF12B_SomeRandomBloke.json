@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Andrew Lindsay",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/"
+    },
+    "description": "RFM12B radio module driver library",
+    "examples": [
+        "https://os.mbed.com/users/SomeRandomBloke/code/IoTGateway_Basic/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "RF12",
+        "rfm12",
+        "RFM12B"
+    ],
+    "name": "RF12B",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/code/RF12B/"
+    }
+}

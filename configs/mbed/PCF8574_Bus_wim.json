@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "PCF8574 I2C Portexpanders used to provide data, address and controlbus interface",
+    "examples": [
+        "https://os.mbed.com/users/wim/code/mbed_bus/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "bus",
+        "PCF8574"
+    ],
+    "name": "PCF8574_Bus",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/PCF8574_Bus/"
+    }
+}

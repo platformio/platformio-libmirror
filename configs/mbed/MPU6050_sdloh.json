@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "shalabh bhatnagar",
+        "url": "https://os.mbed.com/users/sdloh/"
+    },
+    "description": "MPU6050 library file for FRDMk64",
+    "frameworks": "mbed",
+    "keywords": [
+        "FRDMK64",
+        "MPU6050"
+    ],
+    "name": "MPU6050",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sdloh/code/MPU6050/"
+    }
+}

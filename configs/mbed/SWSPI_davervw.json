@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Dave Van Wagner",
+        "url": "https://os.mbed.com/users/davervw/"
+    },
+    "description": "Software SPI allows non-standard SPI pins to be used for interfacing with SPI devices",
+    "examples": [
+        "https://os.mbed.com/users/Throwbot/code/ADNS5090/",
+        "https://os.mbed.com/users/bonchenko/code/PB_Emma_Ethernet/",
+        "https://os.mbed.com/teams/CECS460/code/spi_test/",
+        "https://os.mbed.com/teams/CECS460/code/Final_Project/",
+        "https://os.mbed.com/users/riktw/code/Numitron_clock/",
+        "https://os.mbed.com/users/johnla/code/MCP3208_STM32/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SPI",
+    "name": "SWSPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/davervw/code/SWSPI/"
+    }
+}

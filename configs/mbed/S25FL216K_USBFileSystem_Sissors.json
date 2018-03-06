@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "dependencies": [
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "S25FL216K"
+        },
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "USBFileSystem"
+        }
+    ],
+    "description": "Implementation of a LocalFileSystem using S25FL216K serial flash memory. Currently only 256kB available!",
+    "examples": [
+        "https://os.mbed.com/users/Sissors/code/S25FL216K_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LocalFileSystem",
+        "S25FL216K",
+        "USBFileSystem"
+    ],
+    "name": "S25FL216K_USBFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/S25FL216K_USBFileSystem/"
+    }
+}

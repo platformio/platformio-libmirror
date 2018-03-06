@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Aerodyne",
+        "url": "https://os.mbed.com/teams/Aerodyne/"
+    },
+    "description": "Library for Skytraq Venus838 GPS",
+    "examples": [
+        "https://os.mbed.com/teams/Aerodyne/code/Venus838_Test/",
+        "https://os.mbed.com/teams/Aerodyne/code/Atlas/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Venus838",
+    "name": "Venus838",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Aerodyne/code/Venus838/"
+    }
+}

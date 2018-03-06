@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Masafumi Ishii",
+        "url": "https://os.mbed.com/users/icymasa/"
+    },
+    "description": "If you use this module, you can substitute int number to a group of LEDs.",
+    "frameworks": "mbed",
+    "keywords": "led",
+    "name": "LedGroup",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/icymasa/code/LedGroup/"
+    }
+}

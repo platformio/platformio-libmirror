@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Bryce Williams",
+        "url": "https://os.mbed.com/users/electromotivated/"
+    },
+    "description": "Basic Motor Driver library. Tested on Pololu's TB6612FNG Dual Motor Driver Carrier breakout board Part# 713, but should work with any Motor H- Bridge Driver",
+    "examples": [
+        "https://os.mbed.com/users/electromotivated/code/ESP8266_pid_redbot_webserver/",
+        "https://os.mbed.com/users/ihl396/code/4180_lab4_project/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "h- bridge",
+        "motor",
+        "motor driver",
+        "motors"
+    ],
+    "name": "MotorDriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/electromotivated/code/MotorDriver/"
+    }
+}

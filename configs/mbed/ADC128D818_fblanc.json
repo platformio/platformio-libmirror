@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "frederic blanc",
+        "url": "https://os.mbed.com/users/fblanc/"
+    },
+    "description": "12-Bit, 8-Channel, ADC System Monitor w/ Temp Sensor, Internal/External Reference, & I2C Interface",
+    "examples": [
+        "https://os.mbed.com/users/fblanc/code/ADC128D818_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "adc",
+        "I2C",
+        "Monito",
+        "System"
+    ],
+    "name": "ADC128D818",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fblanc/code/ADC128D818/"
+    }
+}

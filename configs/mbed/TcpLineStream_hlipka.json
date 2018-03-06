@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Hendrik Lipka",
+        "url": "https://os.mbed.com/users/hlipka/"
+    },
+    "description": "A simple class to do line-based TCP communication. To be used with the NetServicesMin library-.",
+    "examples": [
+        "https://os.mbed.com/users/hlipka/code/pop3demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "NET",
+        "network",
+        "stream",
+        "TCP"
+    ],
+    "name": "TcpLineStream",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hlipka/code/TcpLineStream/"
+    }
+}

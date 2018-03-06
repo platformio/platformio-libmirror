@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Johnny Yam",
+        "url": "https://os.mbed.com/users/jyam/"
+    },
+    "description": "wireless debugging via Bluetooth Bee module wiki: http://mbed.org/cookbook/Wireless-Debugging-with-Bluetooth-Bee",
+    "frameworks": "mbed",
+    "keywords": [
+        "Bee",
+        "bluetooth",
+        "BluetoothBee",
+        "Seeedstudio",
+        "Serial",
+        "UART",
+        "WLS125E1P"
+    ],
+    "name": "BluetoothBee",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jyam/code/BluetoothBee/"
+    }
+}

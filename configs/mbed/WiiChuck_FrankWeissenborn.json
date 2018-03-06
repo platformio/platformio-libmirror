@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Frank Weissenborn",
+        "url": "https://os.mbed.com/users/FrankWeissenborn/"
+    },
+    "description": "WiiChuck",
+    "examples": [
+        "https://os.mbed.com/users/k4zuki/code/WiiNunchuckTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "WiiChuck",
+    "name": "WiiChuck",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/FrankWeissenborn/code/WiiChuck/"
+    }
+}

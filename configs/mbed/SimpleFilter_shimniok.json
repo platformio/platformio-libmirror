@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Michael Shimniok",
+        "url": "https://os.mbed.com/users/shimniok/"
+    },
+    "description": "Implements a simple leaky integrator integer value filter, handy for fast, simple, ADC output filtering. Implemented as described here: [[http://ece124web.groups.et.byu.net/references/readings/Simple%20Software%20Lowpass%20Filter.pdf|Simple Software Lowpass Filter.pdf]]",
+    "examples": [
+        "https://os.mbed.com/users/shimniok/code/AVC_20110423/",
+        "https://os.mbed.com/users/jksoft/code/WallBot_Simple/",
+        "https://os.mbed.com/users/shimniok/code/AVC_2012/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "filter",
+    "name": "SimpleFilter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shimniok/code/SimpleFilter/"
+    }
+}

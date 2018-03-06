@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "Serial Wire Output (SWO) viewer for tracing purposes. Tested on F401 and ST-LINK Utility as well as for F103 and Segger J-Link SWO viewer.",
+    "examples": [
+        "https://os.mbed.com/users/rosterloh84/code/WiFi_Scanner/",
+        "https://os.mbed.com/users/pierrebizouard/code/DISCO-F429ZI_LCDTS_demo_richard/",
+        "https://os.mbed.com/users/wim/code/mbed_nucleo_swo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Segger",
+        "ST-LINK",
+        "swo",
+        "Viewer"
+    ],
+    "name": "SWO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/SWO/"
+    }
+}

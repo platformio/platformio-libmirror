@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Kazuki Yamamoto",
+        "url": "https://os.mbed.com/users/k4zuki/"
+    },
+    "description": "Basic library for SHARP LCD LS027B4DH01/LS027B7DH01",
+    "examples": [
+        "https://os.mbed.com/users/ban4jp/code/AkiSpiLcd_demo/",
+        "https://os.mbed.com/users/ban4jp/code/AkiSpiLcd_demo2/",
+        "https://os.mbed.com/users/k4zuki/code/LCDRAM/",
+        "https://os.mbed.com/users/k4zuki/code/AkiSpiLcd_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LCD",
+    "name": "AkiSpiLcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/k4zuki/code/AkiSpiLcd/"
+    }
+}

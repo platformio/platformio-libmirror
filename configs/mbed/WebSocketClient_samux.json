@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Samuel Mokrani",
+        "url": "https://os.mbed.com/users/samux/"
+    },
+    "description": "Simple websocket client",
+    "examples": [
+        "https://os.mbed.com/users/samux/code/Websocket_Ethernet_HelloWorld/",
+        "https://os.mbed.com/users/samux/code/Websocket_Wifly_HelloWorld/",
+        "https://os.mbed.com/users/samux/code/RPC_Wifly_HelloWorld/",
+        "https://os.mbed.com/users/samux/code/RPC_Ethernet_HelloWorld/",
+        "https://os.mbed.com/users/wangstabill/code/websocket_server/",
+        "https://os.mbed.com/users/samux/code/Websocket_Ethernet_acc/",
+        "https://os.mbed.com/users/donatien/code/SprintUSBModemWebsocketTest/",
+        "https://os.mbed.com/users/chris/code/app-board-Sprint-WS-Acc/",
+        "https://os.mbed.com/users/chris/code/SprintUSBModemWebsocketTest-Temp/",
+        "https://os.mbed.com/users/chris/code/SprintUSBModemWebsocketTest-LCD-RO/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "tcp/ip",
+        "WebSocket"
+    ],
+    "name": "WebSocketClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/samux/code/WebSocketClient/"
+    }
+}

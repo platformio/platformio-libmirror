@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Simon Toft",
+        "url": "https://os.mbed.com/users/swe_skytem/"
+    },
+    "description": "Oled Display Driver, tested to work with EA W082-XLG SPI (HD44780) and WEH001602CRPP5N00001-WSR (WS0010). It can work with other SPI Oled Displays. It should work with 20x4 aswell but has ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "16x2",
+        "20X4",
+        "8x2",
+        "display",
+        "EA",
+        "HD44780",
+        "OLED",
+        "SPI",
+        "W082-XLG",
+        "WS0010"
+    ],
+    "name": "Oled_Driver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/swe_skytem/code/Oled_Driver/"
+    }
+}

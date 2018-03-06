@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "Basic library for interfacing the AK8975 using I2C. It does not include more advanced functions. The datasheet does not include what the self-test should return for example, so this library ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "AK8975",
+        "compass",
+        "I2C",
+        "Magneto",
+        "magnetometer"
+    ],
+    "name": "AK8975",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/AK8975/"
+    }
+}

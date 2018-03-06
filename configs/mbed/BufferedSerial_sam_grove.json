@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Sam Grove",
+        "url": "https://os.mbed.com/users/sam_grove/"
+    },
+    "dependencies": [
+        {
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
+            "name": "Buffer"
+        }
+    ],
+    "description": "Inherit from Serial and use software buffers for TX and RX. This allows the UART peripherals to operate in a IRQ driven mode. Overrides most (but not all) stdio functions ...",
+    "examples": [
+        "https://os.mbed.com/users/jurgis/code/buffered_serial_test/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/BLE_Police_HRM/",
+        "https://os.mbed.com/users/evena/code/evena_BLE_Police_HRM/",
+        "https://os.mbed.com/users/ansond/code/df-2014-workshop-rfid-case-generator-k64/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/df-2014-rfid-case-gen-k64f-complete/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/df-2014-rfid-case-gen-k64f-exercise/",
+        "https://os.mbed.com/users/ansond/code/df-2014-heroku-thermostat-k64f/",
+        "https://os.mbed.com/teams/MBED_DEMOS/code/BLE_Police_HRM_Earbud/",
+        "https://os.mbed.com/users/mizmit1222/code/frdm_scissors/",
+        "https://os.mbed.com/users/kb10uy/code/NuFM402/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "buffer",
+        "BufferedSerial",
+        "BufferSerial",
+        "Serial"
+    ],
+    "name": "BufferedSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sam_grove/code/BufferedSerial/"
+    }
+}

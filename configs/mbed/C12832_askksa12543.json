@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Kevin Anderson",
+        "url": "https://os.mbed.com/users/askksa12543/"
+    },
+    "description": "lcd for LPC1768",
+    "examples": [
+        "https://os.mbed.com/users/CBMalloch/code/exercise_application_shield/",
+        "https://os.mbed.com/users/tushki7/code/FRDM_K64F_LCD/",
+        "https://os.mbed.com/users/Arsenic/code/shot_game/",
+        "https://os.mbed.com/users/green_hatano/code/shot_game/",
+        "https://os.mbed.com/users/green_hatano/code/New_shot_game/",
+        "https://os.mbed.com/teams/Embedded-Team/code/lampbot_sonar_state_machine_test/",
+        "https://os.mbed.com/teams/Donal/code/sonar_state_machine_test/",
+        "https://os.mbed.com/users/askksa12543/code/DataCommLPC/",
+        "https://os.mbed.com/users/n02655194/code/DataCommLPC2/",
+        "https://os.mbed.com/users/z_james/code/helloword/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "C12832",
+    "name": "C12832",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/askksa12543/code/C12832/"
+    }
+}

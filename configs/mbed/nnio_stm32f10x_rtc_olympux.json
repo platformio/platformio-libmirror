@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Chau Vo",
+        "url": "https://os.mbed.com/users/olympux/"
+    },
+    "description": "RTC functions for STM32F103",
+    "frameworks": "mbed",
+    "keywords": "nnio_stm32f10x_rtc",
+    "name": "nnio_stm32f10x_rtc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/olympux/code/nnio_stm32f10x_rtc/"
+    }
+}

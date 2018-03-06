@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "Lib for FTDI FT800 Graphic Controller EVE Support up to 512 x 512 pixel resolution. Resistive touch sense Mono audio output SPI Interface",
+    "examples": [
+        "https://os.mbed.com/users/dreschpe/code/FT800_touch_track/",
+        "https://os.mbed.com/users/dreschpe/code/FT800_JPG/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "graphic",
+        "TFT",
+        "touch"
+    ],
+    "name": "FT800",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/FT800/"
+    }
+}

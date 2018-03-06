@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Jim Carver",
+        "url": "https://os.mbed.com/users/JimCarver/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "MotionSensor"
+        }
+    ],
+    "description": "A basic library for the FXOS8700Q combination accelerometer / magnetometer",
+    "examples": [
+        "https://os.mbed.com/users/JimCarver/code/K64F_eCompass_LCD/",
+        "https://os.mbed.com/users/JimCarver/code/Hello_FXOS8700Q/",
+        "https://os.mbed.com/users/JimCarver/code/rtos_compass/",
+        "https://os.mbed.com/users/JimCarver/code/K64F_eCompass/",
+        "https://os.mbed.com/users/johnmc/code/NerfGun_nRF24L01P_TX/",
+        "https://os.mbed.com/users/JimCarver/code/Multi-Sensor/",
+        "https://os.mbed.com/users/APanecatl/code/FRDM-K64_AccelMag/",
+        "https://os.mbed.com/users/APanecatl/code/FRDM-K64_USB/",
+        "https://os.mbed.com/users/jb8414/code/M2X_K64F_ACCEL/",
+        "https://os.mbed.com/teams/shields/code/Freescale_Multi-Sensor_Shield/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "Freescale",
+        "magnetometer",
+        "sensor"
+    ],
+    "name": "FXOS8700Q",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JimCarver/code/FXOS8700Q/"
+    }
+}

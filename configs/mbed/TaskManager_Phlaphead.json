@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Robert Ellis",
+        "url": "https://os.mbed.com/users/Phlaphead/"
+    },
+    "description": "Simple task manager which uses a Ticker",
+    "frameworks": "mbed",
+    "keywords": [
+        "\\",
+        "manager\\",
+        "Scheduler",
+        "task"
+    ],
+    "name": "TaskManager",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Phlaphead/code/TaskManager/"
+    }
+}

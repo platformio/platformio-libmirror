@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "CQpub0 Mikami",
+        "url": "https://os.mbed.com/users/CQpub0Mikami/"
+    },
+    "description": "Library for LCD ACM1602NI connected using I2C interface on Nucleo F401/411. Nucleo F401/411RE で使える I2C 接続の LCD ACM1602NI 用のライブラリ．",
+    "examples": [
+        "https://os.mbed.com/users/CQpub0Mikami/code/ACM1602NI_NucleoF4_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ACM1602NI",
+        "I2C",
+        "LCD",
+        "Nucleo"
+    ],
+    "name": "ACM1602NI_NucleoF4",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/CQpub0Mikami/code/ACM1602NI_NucleoF4/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Hendrik Lipka",
+        "url": "https://os.mbed.com/users/hlipka/"
+    },
+    "description": "A library to read and write all 25* serial SPI eeprom devices from Microchip (from 25xx010 to 25xx1024).",
+    "examples": [
+        "https://os.mbed.com/users/RichardE/code/RobotRic/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "25lcxxx",
+        "25xx",
+        "EEPROM",
+        "flash",
+        "memory",
+        "SPI"
+    ],
+    "name": "25LCxxx_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hlipka/code/25LCxxx_SPI/"
+    }
+}

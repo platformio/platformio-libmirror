@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Matthias Hemmer",
+        "url": "https://os.mbed.com/users/hemmer_matthias/"
+    },
+    "description": "I2C Steuerung by Matthias Hemmer",
+    "frameworks": "mbed",
+    "keywords": "I2C",
+    "name": "I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hemmer_matthias/code/I2C/"
+    }
+}

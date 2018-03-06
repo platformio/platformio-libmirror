@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "uhey 22e",
+        "url": "https://os.mbed.com/users/s_konbu/"
+    },
+    "description": "16x2 OLED Character Display SO1602A Series",
+    "frameworks": "mbed",
+    "keywords": "SO1602A",
+    "name": "SO1602A",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/s_konbu/code/SO1602A/"
+    }
+}

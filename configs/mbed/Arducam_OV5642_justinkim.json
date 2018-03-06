@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "justin kim",
+        "url": "https://os.mbed.com/users/justinkim/"
+    },
+    "description": "Arducam_OV5642_Library",
+    "examples": [
+        "https://os.mbed.com/users/justinkim/code/DigitalCamera_OV5642_WIZwiki-W7500/",
+        "https://os.mbed.com/users/vkaminsk/code/RFID-RC522_buffer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Arducam",
+        "OV5642"
+    ],
+    "name": "Arducam_OV5642",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/justinkim/code/Arducam_OV5642/"
+    }
+}

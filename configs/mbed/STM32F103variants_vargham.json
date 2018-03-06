@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Mark Peter Vargha",
+        "url": "https://os.mbed.com/users/vargham/"
+    },
+    "description": "Based on the libraries by Zoltan Hudak Added #ifdefs to avoid compile errors, so it is easy to select target board: Bluepill, Maple Mini, Nucleo F103, Nucleo F103 with external ...",
+    "examples": [
+        "https://os.mbed.com/users/vargham/code/STM32F103variants_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "bluepill",
+        "ExtOsc",
+        "MapleMini",
+        "STM32F103"
+    ],
+    "name": "STM32F103variants",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vargham/code/STM32F103variants/"
+    }
+}

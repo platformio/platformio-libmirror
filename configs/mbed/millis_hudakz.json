@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "Arduino-like millis() function.",
+    "examples": [
+        "https://os.mbed.com/teams/QSL/code/QSL_SimplePublish/",
+        "https://os.mbed.com/teams/TESIS-SATUROMETRICA/code/MAX30100_FirstTry/",
+        "https://os.mbed.com/users/Ferszt/code/MAX30100_FirstTry/",
+        "https://os.mbed.com/teams/TESIS-SATUROMETRICA/code/MAX30100_V04/",
+        "https://os.mbed.com/users/venhy/code/Test_funkcnosti_HCSR501/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "millis",
+    "name": "millis",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/millis/"
+    }
+}

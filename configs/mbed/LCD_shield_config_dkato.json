@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Daiki Kato",
+        "url": "https://os.mbed.com/users/dkato/"
+    },
+    "dependencies": [
+        {
+            "authors": "Daiki Kato",
+            "frameworks": "mbed",
+            "name": "LcdCfg_LCD_shield"
+        },
+        {
+            "authors": "Daiki Kato",
+            "frameworks": "mbed",
+            "name": "TouchKey_LCD_shield"
+        }
+    ],
+    "description": "GR-PEACH LCD Shield config",
+    "examples": [
+        "https://os.mbed.com/users/dkato/code/GR-PEACH_LCD_shield_touch_sample/",
+        "https://os.mbed.com/users/HinoNaka/code/mbed-os_Watson-IoT_ZXing_sample/",
+        "https://os.mbed.com/teams/Renesas/code/mbed-os_Watson-IoT_ZXing_sample/",
+        "https://os.mbed.com/users/dkato/code/GR-PEACH_SprintGame/",
+        "https://os.mbed.com/users/dkato/code/GR-PEACH_NTSC_in_2ch/",
+        "https://os.mbed.com/users/dkato/code/GR-PEACH_Video_Display/",
+        "https://os.mbed.com/users/mtkrtk/code/MovPlayer/",
+        "https://os.mbed.com/users/dkato/code/GR-PEACH_HVC-P2_sample_client/",
+        "https://os.mbed.com/users/dkato/code/GR-PEACH_Digital_Signage/",
+        "https://os.mbed.com/teams/Renesas/code/GR-PEACH_mbed-os-client-ZXingSample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LCD_shield_config",
+    "name": "LCD_shield_config",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dkato/code/LCD_shield_config/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "little llumpu",
+        "url": "https://os.mbed.com/users/llumpu/"
+    },
+    "description": "USBMSD device (USB Flashdisk) library using AT45DBxx serial flash storage chip. Works with 2, 4, 8, 16, 32 and 64 Mbit chips within AT45DBxx series.",
+    "examples": [
+        "https://os.mbed.com/users/llumpu/code/USBMSD_AT45_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AT45DBxx",
+        "USBMSD"
+    ],
+    "name": "USBMSD_AT45",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/llumpu/code/USBMSD_AT45/"
+    }
+}

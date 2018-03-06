@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Analog Devices",
+        "url": "https://os.mbed.com/teams/AnalogDevices/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "AD7791"
+        }
+    ],
+    "description": "CN0216 weigh scale sensor library",
+    "examples": [
+        "https://os.mbed.com/teams/AnalogDevices/code/CN0216-helloworld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CN0216",
+        "scale",
+        "sensor",
+        "weigh"
+    ],
+    "name": "CN0216",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/AnalogDevices/code/CN0216/"
+    }
+}

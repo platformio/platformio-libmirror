@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Nhi vtq",
+        "url": "https://os.mbed.com/users/vtqNhi/"
+    },
+    "description": "Library is coded to control servo This library is part of my project which is built on FRDM-KL25Z and motor shield l293D v1",
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "FRDM",
+        "Freescale",
+        "KL25z",
+        "L293D",
+        "motor",
+        "Servo",
+        "shield"
+    ],
+    "name": "ServoMotorControl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vtqNhi/code/ServoMotorControl/"
+    }
+}

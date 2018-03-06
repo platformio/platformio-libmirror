@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Ali Saidi",
+        "url": "https://os.mbed.com/users/ASaidi/"
+    },
+    "description": "This library is a very low level interface to a transmit IR codes. Other libraries could be built on top of it to transmit different manufactures codes, or a specific ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "infrared",
+        "IR",
+        "transmit"
+    ],
+    "name": "TxIR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ASaidi/code/TxIR/"
+    }
+}

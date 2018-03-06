@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "Alphanumeric LED display, 8 digits, 5x7 pattern. Supports 8x1, 8x2, 16x1 and 16x2 display configuration.",
+    "examples": [
+        "https://os.mbed.com/users/wim/code/mbed_HCMS2975/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "alphanumeric",
+        "display",
+        "HCMS2975",
+        "led"
+    ],
+    "name": "HCMS2975",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/HCMS2975/"
+    }
+}

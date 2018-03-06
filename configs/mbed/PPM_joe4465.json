@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Joseph Roberts",
+        "url": "https://os.mbed.com/users/joe4465/"
+    },
+    "description": "First version of my PPM library.",
+    "examples": [
+        "https://os.mbed.com/users/joe4465/code/PPM_Test/",
+        "https://os.mbed.com/users/joe4465/code/QuadCopter/",
+        "https://os.mbed.com/users/joe4465/code/Quadcopter_mk2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "copter",
+        "PPM",
+        "quad"
+    ],
+    "name": "PPM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/joe4465/code/PPM/"
+    }
+}

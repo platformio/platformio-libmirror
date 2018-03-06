@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Sarah Marsh",
+        "url": "https://os.mbed.com/users/sarahmarshy/"
+    },
+    "description": "Given LED PinName and blink interval, spawns a thread that blinks that LED at the specified interval",
+    "examples": [
+        "https://os.mbed.com/users/sarahmarshy/code/Blinky_Tests/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Blinky",
+    "name": "Blinky",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sarahmarshy/code/Blinky/"
+    }
+}

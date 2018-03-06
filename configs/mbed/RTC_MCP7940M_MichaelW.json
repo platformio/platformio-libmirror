@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Michael Walker",
+        "url": "https://os.mbed.com/users/MichaelW/"
+    },
+    "description": "Code to interface with the MCP7940 Real time clock. Supports getting and setting the time in 24 hour format",
+    "frameworks": "mbed",
+    "keywords": "RTC_MCP7940M",
+    "name": "RTC_MCP7940M",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MichaelW/code/RTC_MCP7940M/"
+    }
+}

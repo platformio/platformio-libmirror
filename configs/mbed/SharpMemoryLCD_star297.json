@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Paul Staron",
+        "url": "https://os.mbed.com/users/star297/"
+    },
+    "dependencies": [
+        {
+            "authors": "Paul Staron",
+            "frameworks": "mbed",
+            "name": "Fonts"
+        },
+        {
+            "authors": "Paul Staron",
+            "frameworks": "mbed",
+            "name": "Images"
+        },
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "BurstSPI"
+        }
+    ],
+    "description": "Sharp Memory LCD library",
+    "frameworks": "mbed",
+    "keywords": "SharpMemoryLCD",
+    "name": "SharpMemoryLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/star297/code/SharpMemoryLCD/"
+    }
+}

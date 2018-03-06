@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Sam Grove",
+        "url": "https://os.mbed.com/users/sam_grove/"
+    },
+    "description": "Device driver",
+    "frameworks": "mbed",
+    "keywords": "ADIS16488",
+    "name": "ADIS16488",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sam_grove/code/ADIS16488/"
+    }
+}

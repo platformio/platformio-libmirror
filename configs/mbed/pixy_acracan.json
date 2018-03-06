@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Arcadie Cracan",
+        "url": "https://os.mbed.com/users/acracan/"
+    },
+    "description": "Port of Arduino Pixy Cmucam5 library.",
+    "examples": [
+        "https://os.mbed.com/users/acracan/code/pixyHelloWorld/",
+        "https://os.mbed.com/users/johnylafleur/code/pixyMajordhome/",
+        "https://os.mbed.com/teams/ese5191234/code/pixy_test/",
+        "https://os.mbed.com/teams/ese5191234/code/aUtO_volume/",
+        "https://os.mbed.com/teams/ese5191234/code/aUtO_volume_v2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "etti",
+        "TUIASI"
+    ],
+    "name": "pixy",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/acracan/code/pixy/"
+    }
+}

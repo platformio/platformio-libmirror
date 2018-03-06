@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Baser Kandehir",
+        "url": "https://os.mbed.com/users/BaserK/"
+    },
+    "description": "MPU6050 library using i2c interface on LPC1768 - Complementary filter is added. Now program can calculate pitch and roll angles.",
+    "examples": [
+        "https://os.mbed.com/users/BaserK/code/gimbalController_brushless_IMU/",
+        "https://os.mbed.com/users/BaserK/code/i2c_MPU6050/",
+        "https://os.mbed.com/users/BaserK/code/IMU_fusion/",
+        "https://os.mbed.com/users/shreyashpalande/code/kpitmpu6050dht11/",
+        "https://os.mbed.com/teams/Coreonetech/code/CORE-1000_MPU6050/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "ANGLE",
+        "complementary",
+        "filter",
+        "gyro",
+        "gyroscope",
+        "I2C",
+        "LPC1768",
+        "mbed",
+        "MPU6050",
+        "Nucleo F411RE",
+        "pitch",
+        "roll"
+    ],
+    "name": "MPU6050",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BaserK/code/MPU6050/"
+    }
+}

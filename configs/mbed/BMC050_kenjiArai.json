@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "eCompass (6-axes electronic compass) / Electronic Compass with Three-axis Magnetic Field Sensor and Three-axis Accelerometer by Bosch Sensortech",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/BLE_EddystoneBeacon_w_ACC_TY51822/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "BMC050",
+        "Bosch",
+        "Field",
+        "magnetic"
+    ],
+    "name": "BMC050",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/BMC050/"
+    }
+}

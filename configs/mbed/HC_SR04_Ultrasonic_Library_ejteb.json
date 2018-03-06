@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "EJ Teb",
+        "url": "https://os.mbed.com/users/ejteb/"
+    },
+    "description": "Works with interrupts",
+    "examples": [
+        "https://os.mbed.com/users/ejteb/code/Nucleo_UltrasonicHelloWorld/",
+        "https://os.mbed.com/users/Sandesh/code/Proj/",
+        "https://os.mbed.com/teams/Lets-work-together/code/Nucleo_UltrasonicHelloWorld/",
+        "https://os.mbed.com/users/macdidi5/code/mbedTurtleCar/",
+        "https://os.mbed.com/teams/Robotique-FIP/code/BlueNRG/",
+        "https://os.mbed.com/teams/Robotique-FIP/code/Ultrasonic1/",
+        "https://os.mbed.com/teams/Robotique-FIP/code/Coupe-Robotique-FIP/",
+        "https://os.mbed.com/teams/Robotique-FIP/code/FIP_REV1/",
+        "https://os.mbed.com/teams/Home-Security-Lamp/code/Nucleo_UltrasonicHelloWorld/",
+        "https://os.mbed.com/users/quentin9696/code/Coupe-Robotique-FIP-Main/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HC_SR04_Ultrasonic_Library",
+    "name": "HC_SR04_Ultrasonic_Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ejteb/code/HC_SR04_Ultrasonic_Library/"
+    }
+}

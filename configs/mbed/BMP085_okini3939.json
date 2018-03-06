@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "barometric pressure sensor BMP085 http://mbed.org/users/okini3939/notebook/barometric-pressure-sensor-bmp085/ http://mbed.org/users/okini3939/notebook/weatherduino-on-mbed/",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform_20110408/",
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform/",
+        "https://os.mbed.com/users/tosihisa/code/ENVLogger/",
+        "https://os.mbed.com/users/okini3939/code/WeatherStation/",
+        "https://os.mbed.com/users/projetmeteo3/code/ProgrammePrincipal/",
+        "https://os.mbed.com/users/okini3939/code/barometer-m0/",
+        "https://os.mbed.com/users/emanon/code/SaibiCansat2014/",
+        "https://os.mbed.com/users/TakashiSasaki/code/SaibiCansat2014/",
+        "https://os.mbed.com/teams/Seeed/code/Seeed_Barometer_Sensor_Example/",
+        "https://os.mbed.com/users/grassel/code/Seeed_Barometer_Sensor_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "bmp085",
+        "BMP180",
+        "I2C"
+    ],
+    "name": "BMP085",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/BMP085/"
+    }
+}

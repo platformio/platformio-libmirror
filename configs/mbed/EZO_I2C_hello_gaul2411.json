@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Louis-Philippe Gauthier",
+        "url": "https://os.mbed.com/users/gaul2411/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Library for the EZO ph probe communicating with the I2C protocol.",
+    "frameworks": "mbed",
+    "keywords": [
+        "EZO",
+        "I2C",
+        "PH sensor"
+    ],
+    "name": "EZO_I2C_hello",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gaul2411/code/EZO_I2C_hello/"
+    }
+}

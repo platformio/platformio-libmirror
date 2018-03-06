@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Dave Van Wagner",
+        "url": "https://os.mbed.com/users/davervw/"
+    },
+    "description": "private Library copy of SDHCFileSystem",
+    "examples": [
+        "https://os.mbed.com/users/davervw/code/eBible/",
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform_20110408/",
+        "https://os.mbed.com/users/okini3939/code/WeatherPlatform/",
+        "https://os.mbed.com/users/davervw/code/SDTest_fat_broken/",
+        "https://os.mbed.com/users/daryl2110/code/FYPFinalProgram/",
+        "https://os.mbed.com/users/daryl2110/code/FYPFinalizeProgram/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "SD",
+        "SDFileSystem",
+        "sdhcfilesystem"
+    ],
+    "name": "SDHCFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/davervw/code/SDHCFileSystem/"
+    }
+}

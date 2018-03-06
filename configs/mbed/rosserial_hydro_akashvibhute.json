@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Akash Vibhute",
+        "url": "https://os.mbed.com/users/akashvibhute/"
+    },
+    "dependencies": [
+        {
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
+            "name": "MODSERIAL"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "rosserial library for mbed Inspired by nucho's rosserial library This library is still under development",
+    "examples": [
+        "https://os.mbed.com/users/akashvibhute/code/mbed_roshydro_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "hydro",
+        "ROS",
+        "ros_serial"
+    ],
+    "name": "rosserial_hydro",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/akashvibhute/code/rosserial_hydro/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Robert Ellis",
+        "url": "https://os.mbed.com/users/Phlaphead/"
+    },
+    "description": "A terminal style view onto the filesystem, with the concept of current working directory. File systems can be mounted to root using libraries such as LocalFileSystem and SDFileSystem. Initial version ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "files",
+        "filesystem",
+        "Terminal"
+    ],
+    "name": "FileSystemInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Phlaphead/code/FileSystemInterface/"
+    }
+}

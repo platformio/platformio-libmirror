@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Shohei Yokoyama",
+        "url": "https://os.mbed.com/users/abarth500/"
+    },
+    "description": "Wake On Lan",
+    "frameworks": "mbed",
+    "keywords": "WoL",
+    "name": "WoL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/abarth500/code/WoL/"
+    }
+}

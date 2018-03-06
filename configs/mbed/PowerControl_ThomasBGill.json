@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Thomas Gill",
+        "url": "https://os.mbed.com/users/ThomasBGill/"
+    },
+    "description": "*power consumption control(phy , semihost) library written by Michael Wei (some compile errors with mbed lib (20131011) were fixed) *for Mbed LPC1768 *for clock control , see \"ClockControl\"",
+    "examples": [
+        "https://os.mbed.com/users/ThomasBGill/code/LabyrinthOfTheMinotaur/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "consumption",
+        "control",
+        "ethernet",
+        "Management",
+        "Power",
+        "PowerControl"
+    ],
+    "name": "PowerControl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ThomasBGill/code/PowerControl/"
+    }
+}

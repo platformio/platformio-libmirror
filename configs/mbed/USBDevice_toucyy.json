@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "goma yam",
+        "url": "https://os.mbed.com/users/toucyy/"
+    },
+    "description": "USBDevice",
+    "examples": [
+        "https://os.mbed.com/users/toucyy/code/QEI_X1_LCD_test3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "USBDevice",
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/toucyy/code/USBDevice/"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Ian Weston",
+        "url": "https://os.mbed.com/users/dextorslabs/"
+    },
+    "description": "V1.1 of the ILI9340 driver for SPI with integrated graphics functions.",
+    "examples": [
+        "https://os.mbed.com/users/dextorslabs/code/ILI9340_Driver/",
+        "https://os.mbed.com/users/ImageWriter/code/SDCard_Aitendo_2p2TFT/",
+        "https://os.mbed.com/teams/POTLESS/code/TFT22ok_test_ILI9340_Driver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "Graphics",
+        "ILI9340",
+        "LCD",
+        "SPI",
+        "TFT"
+    ],
+    "name": "ILI9340_Driver_Lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dextorslabs/code/ILI9340_Driver_Lib/"
+    }
+}

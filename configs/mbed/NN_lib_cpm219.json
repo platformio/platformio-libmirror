@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Curtis Mattull",
+        "url": "https://os.mbed.com/users/cpm219/"
+    },
+    "description": "NN library trained with actual motor data",
+    "examples": [
+        "https://os.mbed.com/users/cpm219/code/NN_final/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "NN_lib",
+    "name": "NN_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cpm219/code/NN_lib/"
+    }
+}

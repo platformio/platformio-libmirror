@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Mario Bambagini",
+        "url": "https://os.mbed.com/users/mariob/"
+    },
+    "dependencies": [
+        {
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
+            "name": "MODSERIAL"
+        }
+    ],
+    "description": "A simple wireless protocol to let my examples communicate each other. ssWi stands for Shared Slotted Wireless protocol",
+    "examples": [
+        "https://os.mbed.com/users/mariob/code/library_ssWi/",
+        "https://os.mbed.com/users/mariob/code/rover_car/",
+        "https://os.mbed.com/users/mariob/code/rover_pc/",
+        "https://os.mbed.com/users/mariob/code/supervisor/",
+        "https://os.mbed.com/users/mariob/code/watering_unit/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Communication",
+        "protocols",
+        "wireless",
+        "xbee"
+    ],
+    "name": "ssWi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mariob/code/ssWi/"
+    }
+}

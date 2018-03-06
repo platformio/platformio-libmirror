@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Y SI",
+        "url": "https://os.mbed.com/users/YSI/"
+    },
+    "description": "lib_PwmOutAllPin permet de créer des PwmOut sur toutes les DigitalOut du Mbed. YSI",
+    "frameworks": "mbed",
+    "keywords": "pwm",
+    "name": "lib_PwmOutAllPin",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/YSI/code/lib_PwmOutAllPin/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Mario Poneder",
+        "url": "https://os.mbed.com/users/MarioPoneder/"
+    },
+    "description": "Touch panel driver library for the TFT color display MI0283QT-9A.",
+    "frameworks": "mbed",
+    "keywords": [
+        "MI0283QT-9A",
+        "Panel",
+        "resistive",
+        "touch",
+        "Touchscreen"
+    ],
+    "name": "TFT_TouchPanel",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MarioPoneder/code/TFT_TouchPanel/"
+    }
+}

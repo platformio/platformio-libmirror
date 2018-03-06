@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "Local copy of the FatFileSystem.",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/SimpleWaveRecorderPlayer/",
+        "https://os.mbed.com/users/esmiwa/code/y_CameraC1098_ES_01/",
+        "https://os.mbed.com/users/hayashiisme/code/_test_SDHCFileSystem/",
+        "https://os.mbed.com/users/avnisha/code/Application-SimpleWaveRecorderPlayerGene/",
+        "https://os.mbed.com/users/higedura/code/dotHR_URG/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FAT",
+    "name": "FatFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/FatFileSystem/"
+    }
+}

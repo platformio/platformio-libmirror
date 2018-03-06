@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Michael Shimniok",
+        "url": "https://os.mbed.com/users/shimniok/"
+    },
+    "description": "Geographical position and calculation using latitude/longitude. Most of this comes from http://www.movable-type.co.uk/scripts/latlong.html",
+    "examples": [
+        "https://os.mbed.com/teams/Senet/code/Senet-NAMote/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "geo",
+        "GPS",
+        "latitude",
+        "longitude",
+        "navigation"
+    ],
+    "name": "GeoPosition",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shimniok/code/GeoPosition/"
+    }
+}

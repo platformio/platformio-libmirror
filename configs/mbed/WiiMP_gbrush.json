@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Greg Brush",
+        "url": "https://os.mbed.com/users/gbrush/"
+    },
+    "description": "Connect to a Wii Motion Plus (compatible) unit with no pass through or other controllers connected. The Motion Plus is a 3-axis gyroscope add-on w/Invensense IDG655 & IXZ650 MEMS gyros ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "gyro",
+        "IDG655",
+        "invensense",
+        "IXZ650",
+        "motionplus",
+        "Wii"
+    ],
+    "name": "WiiMP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gbrush/code/WiiMP/"
+    }
+}

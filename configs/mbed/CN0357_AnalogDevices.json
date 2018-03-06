@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Analog Devices",
+        "url": "https://os.mbed.com/teams/AnalogDevices/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "AD5270"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "AD7790"
+        }
+    ],
+    "description": "CN0357 toxic gas measurement sensor",
+    "examples": [
+        "https://os.mbed.com/teams/AnalogDevices/code/CN0357-helloworld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CN0357",
+        "Gas",
+        "sensor"
+    ],
+    "name": "CN0357",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/AnalogDevices/code/CN0357/"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "authors": {
+        "name": "Federico Luis Pinna Gonzalez",
+        "url": "https://os.mbed.com/users/Cotzo/"
+    },
+    "dependencies": [
+        {
+            "authors": "Federico Luis Pinna Gonzalez",
+            "frameworks": "mbed",
+            "name": "CommonTables"
+        },
+        {
+            "authors": "Federico Luis Pinna Gonzalez",
+            "frameworks": "mbed",
+            "name": "FastAtan2"
+        },
+        {
+            "authors": "Federico Luis Pinna Gonzalez",
+            "frameworks": "mbed",
+            "name": "FastMathFunctions"
+        },
+        {
+            "authors": "Federico Luis Pinna Gonzalez",
+            "frameworks": "mbed",
+            "name": "Magnetic"
+        }
+    ],
+    "description": "Library for handling electronic compass. Calculate the three angles (pitch, roll, and yaw) using Tilt-Compensated algorithm.",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "eCompass",
+        "fast",
+        "FRDM-KL46Z",
+        "magnetometer"
+    ],
+    "name": "FastECompass",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Cotzo/code/FastECompass/"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Shigenori Inoue",
+        "url": "https://os.mbed.com/users/s_inoue_mbed/"
+    },
+    "description": "A library for the use of DHT11, a temperature and humidity sensor",
+    "examples": [
+        "https://os.mbed.com/users/s_inoue_mbed/code/DHT11_Hello_World/",
+        "https://os.mbed.com/users/hillkim7/code/IBMIoTClientEthernetExample_W5200/",
+        "https://os.mbed.com/users/moklumbys/code/AutoPlants/",
+        "https://os.mbed.com/users/bonchenko/code/PB_Emma_Ethernet/",
+        "https://os.mbed.com/users/ALounes/code/IoT-Polytech-Upmc/",
+        "https://os.mbed.com/users/Mehrad/code/mDot_LoRa_Connect_CSA_Rain/",
+        "https://os.mbed.com/users/strysd/code/IBMIoTSimpleClient/",
+        "https://os.mbed.com/teams/projetlong/code/Projetlong/",
+        "https://os.mbed.com/teams/projetlong/code/Capteurtemp/",
+        "https://os.mbed.com/teams/projetlong/code/Projetlong_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DHT11",
+        "Humidity",
+        "Temperature"
+    ],
+    "name": "DHT11",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/s_inoue_mbed/code/DHT11/"
+    }
+}

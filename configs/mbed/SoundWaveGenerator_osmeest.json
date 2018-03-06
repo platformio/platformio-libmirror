@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Olivier Smeesters",
+        "url": "https://os.mbed.com/users/osmeest/"
+    },
+    "description": "Classes to produce a computed sound wave on the analog output.",
+    "examples": [
+        "https://os.mbed.com/users/osmeest/code/SoundWaveGeneratorTest/",
+        "https://os.mbed.com/users/peccu/code/SoundWaveGeneratorTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "sound",
+    "name": "SoundWaveGenerator",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/osmeest/code/SoundWaveGenerator/"
+    }
+}

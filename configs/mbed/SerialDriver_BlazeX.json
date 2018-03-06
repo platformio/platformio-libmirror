@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "BlazeX",
+        "url": "https://os.mbed.com/users/BlazeX/"
+    },
+    "description": "Buffered Serial Port Driver for RTOS",
+    "examples": [
+        "https://os.mbed.com/users/Malek0512/code/nucleo_cannonball/",
+        "https://os.mbed.com/users/rossng/code/PiballNeoController/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Buffered",
+        "ROS",
+        "Serial",
+        "UART"
+    ],
+    "name": "SerialDriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BlazeX/code/SerialDriver/"
+    }
+}

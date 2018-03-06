@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "Library to control a QVGA TFT connected to SPI. You can use printf to print text The lib can handle different fonts, draw lines, circles, rect and bmp",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "graphic",
+        "LCD",
+        "QVGA",
+        "TFT"
+    ],
+    "name": "SPI_TFT_old",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/SPI_TFT_old/"
+    }
+}

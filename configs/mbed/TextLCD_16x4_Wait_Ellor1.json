@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Callum Ellor",
+        "url": "https://os.mbed.com/users/Ellor1/"
+    },
+    "description": "Traditional LCD library that has been modified to be used with a 16x4 LCD display along with using the 16bit Timer wait function used in the 'LCD_Wait' library to measure ...",
+    "examples": [
+        "https://os.mbed.com/users/Ellor1/code/PulseWidthCapture_Program/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "16x4",
+        "LCD",
+        "Pulsewidth",
+        "wait"
+    ],
+    "name": "TextLCD_16x4_Wait",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Ellor1/code/TextLCD_16x4_Wait/"
+    }
+}

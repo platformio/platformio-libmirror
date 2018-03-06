@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Marcus Lee",
+        "url": "https://os.mbed.com/users/UHSLMarcus/"
+    },
+    "description": "Decode Wav files",
+    "frameworks": "mbed",
+    "keywords": "WAV_Reader",
+    "name": "WAV_Reader",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/UHSLMarcus/code/WAV_Reader/"
+    }
+}

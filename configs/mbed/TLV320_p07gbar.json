@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Giles Barton-Owen",
+        "url": "https://os.mbed.com/users/p07gbar/"
+    },
+    "description": "A fairly well tested TLV320 library for I2C configuration and control of the TI TLV320 part",
+    "examples": [
+        "https://os.mbed.com/users/p07gbar/code/TLV320_Write_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "audio",
+        "CODEC",
+        "I2C",
+        "TLV320"
+    ],
+    "name": "TLV320",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/p07gbar/code/TLV320/"
+    }
+}

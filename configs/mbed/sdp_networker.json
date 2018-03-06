@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Ad van der Weiden",
+        "url": "https://os.mbed.com/users/networker/"
+    },
+    "description": "SDP client for myBlueUSB",
+    "examples": [
+        "https://os.mbed.com/users/kenbumono/code/mbed_TANK_Kinect/",
+        "https://os.mbed.com/users/networker/code/ftusbClass/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "bluetooth",
+        "SDP"
+    ],
+    "name": "sdp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/networker/code/sdp/"
+    }
+}

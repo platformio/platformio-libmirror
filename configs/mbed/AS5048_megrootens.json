@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Martijn Grootens",
+        "url": "https://os.mbed.com/users/megrootens/"
+    },
+    "description": "Library for SPI communication with the AMS AS5048 rotary sensor",
+    "frameworks": "mbed",
+    "keywords": [
+        "AS5048",
+        "rotary sensor",
+        "SPI"
+    ],
+    "name": "AS5048",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/megrootens/code/AS5048/"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "dependencies": [
+        {
+            "authors": "不韋 呂",
+            "frameworks": "mbed",
+            "name": "SDFileSystem_Warning_Fixed"
+        }
+    ],
+    "description": "Library for Skeleton of SD card player. SD カードプレーヤのための骨組みとして使うためのライブラリ．このライブラリを登録した際のプログラム：「F746_SD_Player_Demo」",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_SD_Player_Demo/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_SD_VarableFilter/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_SD_GraphicEqualizer/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_MySoundMachine/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "audio",
+        "CODEC",
+        "Cortex-M7",
+        "DISCO-F746NG",
+        "Mikami",
+        "SD Card",
+        "skeleton"
+    ],
+    "name": "SD_PlayerSkeleton",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/SD_PlayerSkeleton/"
+    }
+}

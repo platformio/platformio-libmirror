@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Zack Braun",
+        "url": "https://os.mbed.com/users/zbraun6/"
+    },
+    "dependencies": [
+        {
+            "authors": "Michael Shimniok",
+            "frameworks": "mbed",
+            "name": "TinyGPS"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Library to operate GPS 20u7 with Mbed",
+    "frameworks": "mbed",
+    "keywords": "GPS_20u7",
+    "name": "GPS_20u7",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/zbraun6/code/GPS_20u7/"
+    }
+}

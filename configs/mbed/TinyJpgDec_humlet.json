@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Helmut Schmücker",
+        "url": "https://os.mbed.com/users/humlet/"
+    },
+    "description": "mbed port of \"TJpgDec - Tiny JPEG Decompressor\" http://elm-chan.org/fsw/tjpgd/00index.html",
+    "examples": [
+        "https://os.mbed.com/users/h_nari/code/Nucleo_Pic_Viewer/",
+        "https://os.mbed.com/users/Goji/code/GSDPlayer/",
+        "https://os.mbed.com/users/metabi814/code/b2b/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "decoder",
+        "decompression",
+        "JPEG",
+        "JPG"
+    ],
+    "name": "TinyJpgDec",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/humlet/code/TinyJpgDec/"
+    }
+}

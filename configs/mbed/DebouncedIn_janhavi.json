@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Janhavi Kulkarni",
+        "url": "https://os.mbed.com/users/janhavi/"
+    },
+    "description": "Switch debouncing library",
+    "examples": [
+        "https://os.mbed.com/users/janhavi/code/DebouncedIn_HelloWorld/",
+        "https://os.mbed.com/users/AaronGonzalez/code/ascensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DebouncedIn",
+    "name": "DebouncedIn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/janhavi/code/DebouncedIn/"
+    }
+}

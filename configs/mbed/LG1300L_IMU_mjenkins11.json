@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Michael Jenkins",
+        "url": "https://os.mbed.com/users/mjenkins11/"
+    },
+    "description": "I2C interface for LG1300L IMU",
+    "examples": [
+        "https://os.mbed.com/users/mjenkins11/code/LG1300L_Hello_World/",
+        "https://os.mbed.com/users/mjenkins11/code/LG1300L_Hello_World_LCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "IMU",
+        "LEGO",
+        "mindstorms"
+    ],
+    "name": "LG1300L_IMU",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mjenkins11/code/LG1300L_IMU/"
+    }
+}

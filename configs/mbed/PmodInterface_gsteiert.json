@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Greg Steiert",
+        "url": "https://os.mbed.com/users/gsteiert/"
+    },
+    "description": "URI friendly Pmod Interface Library",
+    "examples": [
+        "https://os.mbed.com/users/gsteiert/code/MBD2PMD_WebServer/",
+        "https://os.mbed.com/users/gsteiert/code/ARD2PMD_WebServer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mbd2pmd",
+        "pmod",
+        "URI"
+    ],
+    "name": "PmodInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gsteiert/code/PmodInterface/"
+    }
+}

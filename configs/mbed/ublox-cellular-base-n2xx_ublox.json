@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "u-blox",
+        "url": "https://os.mbed.com/teams/ublox/"
+    },
+    "description": "Base class for the u-blox N2xx modems. Cannot be used standalone, only inherited by classes that do properly useful stuff. Or, to put it another way, if you are using ...",
+    "examples": [
+        "https://os.mbed.com/users/fahimalavi/code/example-ublox-cellular-interface/",
+        "https://os.mbed.com/teams/ublox/code/HelloMQTT/",
+        "https://os.mbed.com/users/mudassar0121/code/example-ublox-cellular-interface/",
+        "https://os.mbed.com/users/mudassar0121/code/example-ublox-cellular-interface_r410M/",
+        "https://os.mbed.com/teams/ublox/code/example-ublox-mbed-client/",
+        "https://os.mbed.com/teams/ublox/code/example-ublox-cellular-interface/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AT",
+        "C030",
+        "CellularInterface",
+        "N211",
+        "N2xx",
+        "u-blox"
+    ],
+    "name": "ublox-cellular-base-n2xx",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ublox/code/ublox-cellular-base-n2xx/"
+    }
+}

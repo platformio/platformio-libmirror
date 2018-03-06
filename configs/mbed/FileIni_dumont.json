@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "etienne herbin",
+        "url": "https://os.mbed.com/users/dumont/"
+    },
+    "description": "The file is divided on different sections in which are stored the key containing data. Here is an example @code [GENERAL] ;a section key1=data1 ;a key key2=data2 ;another key [DATA] ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "Configuration",
+        "file",
+        "ini",
+        "mbed",
+        "System",
+        "windows"
+    ],
+    "name": "FileIni",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dumont/code/FileIni/"
+    }
+}

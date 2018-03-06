@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Ashley Mills",
+        "url": "https://os.mbed.com/users/ashleymills/"
+    },
+    "description": "This is CoAP library with a focus on simplicity. It offers minimal CoAP PDU construction and decoding to and from byte buffers.",
+    "examples": [
+        "https://os.mbed.com/users/ashleymills/code/cantcoap_cellular_test/",
+        "https://os.mbed.com/teams/Yes-We-Can/code/yeswecancoap/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CoAP",
+        "IOT"
+    ],
+    "name": "cantcoap",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ashleymills/code/cantcoap/"
+    }
+}

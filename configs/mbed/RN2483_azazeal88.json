@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Daniel Knox",
+        "url": "https://os.mbed.com/users/azazeal88/"
+    },
+    "description": "A mbed library for the RN2483. Heavily based on the Sodaq_RN2483 library for Arduino (https://github.com/SodaqMoja/Sodaq_RN2483). This is currently under-going initial testing, but seems to work! Tested on a NRF51 and ...",
+    "examples": [
+        "https://os.mbed.com/users/azazeal88/code/rn2483-TestProgram/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Lora",
+        "rn2483"
+    ],
+    "name": "RN2483",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/azazeal88/code/RN2483/"
+    }
+}

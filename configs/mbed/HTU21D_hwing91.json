@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Alan Lai",
+        "url": "https://os.mbed.com/users/hwing91/"
+    },
+    "description": "BASIC LIBRARY TO INTERFACE WITH HTU21D TEMPERATURE AND HUMIDITY SENSOR",
+    "examples": [
+        "https://os.mbed.com/users/sunilaluri6/code/Natural_Calamities_Monitoring_System/",
+        "https://os.mbed.com/users/Guillaume31/code/Nucleo_HTU21D-F/",
+        "https://os.mbed.com/users/johnylafleur/code/Nucleo_motors/",
+        "https://os.mbed.com/users/vpcola/code/lpc1768_blinky/",
+        "https://os.mbed.com/users/hippi345/code/IoT_Weather_Station/",
+        "https://os.mbed.com/users/Mariya/code/Hexiwear-FinalProject_v2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HTU21D",
+    "name": "HTU21D",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hwing91/code/HTU21D/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "http://mbed.org/users/shintamainjp/notebook/textlcd_sr4_en/",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/TextLCD_SR4_TestProgram/",
+        "https://os.mbed.com/users/shintamainjp/code/ServoInterfaceBoardExample1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ShiftRegister",
+        "TextLCD"
+    ],
+    "name": "TextLCD_SR4",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/TextLCD_SR4/"
+    }
+}

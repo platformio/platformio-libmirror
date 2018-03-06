@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Grant Phillips",
+        "url": "https://os.mbed.com/users/grantphillips/"
+    },
+    "description": "Class library for a HC-SR04 Distance Sensor based on PwmOut (Trig) and InterruptIn (Echo).",
+    "examples": [
+        "https://os.mbed.com/users/SolManB/code/ultra/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HCSR04",
+    "name": "HCSR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/grantphillips/code/HCSR04/"
+    }
+}

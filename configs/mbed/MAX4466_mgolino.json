@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Matthew Golino",
+        "url": "https://os.mbed.com/users/mgolino/"
+    },
+    "description": "This library sets up and LED volume indication function and reading values from the Electret Microphone - MAX4466 Amplifier",
+    "examples": [
+        "https://os.mbed.com/users/mgolino/code/MAX4466_Hello_World/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MAX4466",
+    "name": "MAX4466",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mgolino/code/MAX4466/"
+    }
+}

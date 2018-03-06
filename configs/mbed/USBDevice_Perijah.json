@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Emiel Estiévenart",
+        "url": "https://os.mbed.com/users/Perijah/"
+    },
+    "description": "Base station firmware",
+    "frameworks": "mbed",
+    "keywords": "USBDevice",
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Perijah/code/USBDevice/"
+    }
+}

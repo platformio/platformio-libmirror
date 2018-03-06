@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Takuo WATANABE",
+        "url": "https://os.mbed.com/users/takuo/"
+    },
+    "description": "A library for STMicroelectronics STTS751 I2C temperature sensor",
+    "examples": [
+        "https://os.mbed.com/users/takuo/code/STTS751_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "STTS751",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/takuo/code/STTS751/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Ashley Mills",
+        "url": "https://os.mbed.com/users/ashleymills/"
+    },
+    "description": "This is a port of cyaSSL 2.7.0.",
+    "examples": [
+        "https://os.mbed.com/users/ashleymills/code/CyaSSL_DTLS_Cellular/",
+        "https://os.mbed.com/users/ashleymills/code/CyaSSL_DTLS_Ethernet/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "cyassl-lib",
+    "name": "cyassl-lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ashleymills/code/cyassl-lib/"
+    }
+}

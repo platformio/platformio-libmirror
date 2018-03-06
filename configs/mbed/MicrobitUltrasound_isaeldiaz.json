@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Isael Diaz",
+        "url": "https://os.mbed.com/users/isaeldiaz/"
+    },
+    "description": "Driver for HC-SR04 connected to a Microbit",
+    "frameworks": "mbed",
+    "keywords": [
+        "HC-SR04",
+        "Microbit",
+        "ultrasound"
+    ],
+    "name": "MicrobitUltrasound",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/isaeldiaz/code/MicrobitUltrasound/"
+    }
+}
