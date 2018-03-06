@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "Library to handle the X-NUCLEO-PLC01A1 Programmable Logic Controller Expansion Board based on the VNI8200XP (solid state relay) and CLT01-38SQ7 (octal digital termination array) components.",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/HelloWorld_PLC01A1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "X_NUCLEO_PLC01A1",
+    "name": "X_NUCLEO_PLC01A1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/X_NUCLEO_PLC01A1/"
+    }
+}

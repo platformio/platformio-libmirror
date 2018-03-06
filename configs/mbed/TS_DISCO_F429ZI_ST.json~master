@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "This class drives the touch screen module of the LCD display present on DISCO_F429ZI board.",
+    "examples": [
+        "https://os.mbed.com/users/icis4/code/DISCO-F429ZI_ExportTemplate1/",
+        "https://os.mbed.com/users/auditlog/code/DISCO-F429ZI_LCDTS_and_GYRO_test/",
+        "https://os.mbed.com/users/Dom952/code/2a/",
+        "https://os.mbed.com/users/Dom952/code/2b/",
+        "https://os.mbed.com/users/Dom952/code/2c/",
+        "https://os.mbed.com/users/Dom952/code/2d1/",
+        "https://os.mbed.com/users/Dom952/code/2d2/",
+        "https://os.mbed.com/users/pbl96/code/Mbed1d-2v2/",
+        "https://os.mbed.com/users/pbl96/code/Mbed1a/",
+        "https://os.mbed.com/users/pbl96/code/Mbed1b/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F429ZI",
+        "LCD",
+        "Touch Screen"
+    ],
+    "name": "TS_DISCO_F429ZI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/TS_DISCO_F429ZI/"
+    }
+}

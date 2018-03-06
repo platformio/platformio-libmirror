@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Edutech IoT Team",
+        "url": "https://os.mbed.com/teams/Edutech/"
+    },
+    "description": "ASK25 4Bit LCD Code",
+    "frameworks": "mbed",
+    "keywords": [
+        "edutech",
+        "EPB",
+        "EPB_TextLCD",
+        "LCD"
+    ],
+    "name": "EPB_TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Edutech/code/EPB_TextLCD/"
+    }
+}

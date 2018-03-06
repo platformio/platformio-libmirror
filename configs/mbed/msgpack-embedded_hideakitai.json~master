@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Hideaki Tai",
+        "url": "https://os.mbed.com/users/hideakitai/"
+    },
+    "description": "messagepack implementation for embedded systems (mbed / arduino)",
+    "examples": [
+        "https://os.mbed.com/users/MACRUM/code/hello_message_pack/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "msgpack",
+    "name": "msgpack-embedded",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hideakitai/code/msgpack-embedded/"
+    }
+}

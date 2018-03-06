@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Frank Vannieuwkerke",
+        "url": "https://os.mbed.com/users/frankvnk/"
+    },
+    "description": "Library for NXP MCU I2C RGB LED DEMO board (6 x PCA9635)",
+    "examples": [
+        "https://os.mbed.com/users/JimCarver/code/RGB2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PCA9635",
+    "name": "PCA9635-6",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/frankvnk/code/PCA9635-6/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Rohm",
+        "url": "https://os.mbed.com/teams/Rohm/"
+    },
+    "description": "Rohm RPR0521 proximity-als-ir -sensor driver",
+    "examples": [
+        "https://os.mbed.com/teams/Rohm/code/rohm-rpr0521-hello/",
+        "https://os.mbed.com/teams/Rohm/code/rohm-tileshield-6sensor-demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ALS",
+        "driver",
+        "I2C",
+        "IR",
+        "proximity",
+        "rohm rpr0521"
+    ],
+    "name": "rohm-rpr0521",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Rohm/code/rohm-rpr0521/"
+    }
+}
