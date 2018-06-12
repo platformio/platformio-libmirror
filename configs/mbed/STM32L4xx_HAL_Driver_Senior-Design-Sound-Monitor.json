@@ -3,6 +3,12 @@
         "name": "Senior Design: Sound Monitor",
         "url": "https://os.mbed.com/teams/Senior-Design-Sound-Monitor/"
     },
+    "build": {
+        "flags": [
+            "-IInc",
+            "-ISrc"
+        ]
+    },
     "description": "L4 HAL Drivers",
     "frameworks": "mbed",
     "keywords": "STM32L4xx_HAL_Driver",

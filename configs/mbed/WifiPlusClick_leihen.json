@@ -3,6 +3,12 @@
         "name": "Henry Leinen",
         "url": "https://os.mbed.com/users/leihen/"
     },
+    "build": {
+        "flags": [
+            "-IHelper",
+            "-ISocket"
+        ]
+    },
     "description": "Implementation of the WifiPlusClick hardware module.",
     "examples": [
         "https://os.mbed.com/users/leihen/code/WifiPlusKlickExample/"

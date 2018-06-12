@@ -3,6 +3,11 @@
         "name": "Isato Masayuki",
         "url": "https://os.mbed.com/users/massive135/"
     },
+    "build": {
+        "flags": [
+            "-IPing"
+        ]
+    },
     "dependencies": [
         {
             "authors": "mbed official",

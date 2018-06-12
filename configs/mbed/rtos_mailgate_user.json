@@ -3,6 +3,12 @@
         "name": "Stanislav Silnitskiy",
         "url": "https://os.mbed.com/users/mailgate_user/"
     },
+    "build": {
+        "flags": [
+            "-ILPC1768",
+            "-ILPC1768/ARM"
+        ]
+    },
     "description": "rtos",
     "frameworks": "mbed",
     "keywords": "rtos",

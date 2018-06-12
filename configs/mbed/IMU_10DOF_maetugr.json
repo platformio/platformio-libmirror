@@ -3,6 +3,20 @@
         "name": "Matthias Grob",
         "url": "https://os.mbed.com/users/maetugr/"
     },
+    "build": {
+        "flags": [
+            "-IBMP085",
+            "-IPC",
+            "-ILED",
+            "-IIMU",
+            "-IIMU/IMU_Filter",
+            "-IIMU/Sensors",
+            "-IIMU/Sensors/Alt",
+            "-IIMU/Sensors/Gyro",
+            "-IIMU/Sensors/Acc",
+            "-IIMU/Sensors/Comp"
+        ]
+    },
     "dependencies": [
         {
             "authors": "mbed official",

@@ -3,6 +3,14 @@
         "name": "CHENGQI YANG",
         "url": "https://os.mbed.com/users/yangcq88517/"
     },
+    "build": {
+        "flags": [
+            "-IGestILibrarMessage",
+            "-IRuntimeParameter",
+            "-ITouchInfo",
+            "-IGesture"
+        ]
+    },
     "dependencies": [
         {
             "authors": "CHENGQI YANG",

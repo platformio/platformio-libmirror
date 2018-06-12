@@ -3,6 +3,11 @@
         "name": "Clément BENOIT",
         "url": "https://os.mbed.com/users/clemounet/"
     },
+    "build": {
+        "flags": [
+            "-Icore"
+        ]
+    },
     "description": "Implementation of 3G USB Modem Huawei E372",
     "examples": [
         "https://os.mbed.com/users/clemounet/code/PYRN/"

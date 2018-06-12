@@ -3,6 +3,28 @@
         "name": "hiroshi matsumoto",
         "url": "https://os.mbed.com/users/jh1cdv00/"
     },
+    "build": {
+        "flags": [
+            "-Idbg",
+            "-Ilwip",
+            "-Ilwip/arch",
+            "-Ilwip/include",
+            "-Ilwip/include/lwip",
+            "-Ilwip/include/ipv4",
+            "-Ilwip/include/ipv4/lwip",
+            "-Ilwip/include/netif",
+            "-Ilwip/netif",
+            "-Ilwip/netif/ppp",
+            "-Idrv",
+            "-Idrv/eth",
+            "-Icore",
+            "-Iapi",
+            "-Iif",
+            "-Iif/lwip",
+            "-Iif/net",
+            "-Iif/eth"
+        ]
+    },
     "description": "lpc1768",
     "frameworks": "mbed",
     "keywords": "EthernetNetIf",

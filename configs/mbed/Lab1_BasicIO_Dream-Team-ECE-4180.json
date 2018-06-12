@@ -3,6 +3,12 @@
         "name": "Dream Team",
         "url": "https://os.mbed.com/teams/Dream-Team-ECE-4180/"
     },
+    "build": {
+        "flags": [
+            "-IJessesLab1",
+            "-IGeorgesLab1"
+        ]
+    },
     "dependencies": [
         {
             "authors": "Andy Kirkham",

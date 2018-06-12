@@ -3,6 +3,11 @@
         "name": "Smeshlink",
         "url": "https://os.mbed.com/teams/Smeshlink/"
     },
+    "build": {
+        "flags": [
+            "-Iuracolib"
+        ]
+    },
     "description": "A Atmel RF2xx Radio Library for Mbed",
     "examples": [
         "https://os.mbed.com/teams/Smeshlink/code/xBedRadio/",

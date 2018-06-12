@@ -3,6 +3,11 @@
         "name": "u-blox",
         "url": "https://os.mbed.com/teams/ublox/"
     },
+    "build": {
+        "flags": [
+            "-ITESTS"
+        ]
+    },
     "description": "Implementation of the CellularInterface for u-blox C030 boards with N2xx modems. Note: requires the N211 module firmware to be at least 06.57 A01.02.",
     "examples": [
         "https://os.mbed.com/users/fahimalavi/code/example-ublox-cellular-interface/",

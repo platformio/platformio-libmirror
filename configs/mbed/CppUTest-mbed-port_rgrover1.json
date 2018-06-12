@@ -3,6 +3,18 @@
         "name": "Rohit Grover",
         "url": "https://os.mbed.com/users/rgrover1/"
     },
+    "build": {
+        "flags": [
+            "-Iinclude",
+            "-Iinclude/Platforms",
+            "-Iinclude/Platforms/armcc",
+            "-Iinclude/CppUTest",
+            "-Isrc",
+            "-Isrc/Platforms",
+            "-Isrc/Platforms/armcc",
+            "-Isrc/CppUTest"
+        ]
+    },
     "description": "CppUTest is a C /C++ based unit xUnit test framework for unit testing and for test-driving your code.",
     "frameworks": "mbed",
     "keywords": [

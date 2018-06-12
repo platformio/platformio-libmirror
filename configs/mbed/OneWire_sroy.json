@@ -3,6 +3,12 @@
         "name": "Scott Roy",
         "url": "https://os.mbed.com/users/sroy/"
     },
+    "build": {
+        "flags": [
+            "-IInstructions",
+            "-IInterface"
+        ]
+    },
     "description": "An experimental timer interrupt driven software based 1-Wire master interface that was created by Robert David Brinzer for a University of Glasgow Level 4 Electronic and Software Engineering Final Year ...",
     "frameworks": "mbed",
     "keywords": [

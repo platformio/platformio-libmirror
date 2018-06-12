@@ -3,6 +3,13 @@
         "name": "Norimasa Okamoto",
         "url": "https://os.mbed.com/users/va009039/"
     },
+    "build": {
+        "flags": [
+            "-IUSBHost",
+            "-IUSBHostMSD",
+            "-IUSBHostHID"
+        ]
+    },
     "dependencies": [
         {
             "authors": "mbed official",

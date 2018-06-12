@@ -3,6 +3,12 @@
         "name": "François Berder",
         "url": "https://os.mbed.com/users/feb11/"
     },
+    "build": {
+        "flags": [
+            "-Ihash",
+            "-Icipher"
+        ]
+    },
     "description": "This library implements some hash and cryptographic algorithms.",
     "examples": [
         "https://os.mbed.com/users/mikewebkist/code/mBuinoBlinky/",

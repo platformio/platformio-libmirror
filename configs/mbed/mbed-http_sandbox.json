@@ -3,6 +3,13 @@
         "name": "sandbox",
         "url": "https://os.mbed.com/teams/sandbox/"
     },
+    "build": {
+        "flags": [
+            "-Ihttp_parser",
+            "-Isource",
+            "-Iimg"
+        ]
+    },
     "description": "Experimental HTTP and HTTPS library for mbed OS 5",
     "examples": [
         "https://os.mbed.com/users/vpcola/code/MQTTGateway2/",

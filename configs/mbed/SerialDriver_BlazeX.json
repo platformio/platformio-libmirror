@@ -3,6 +3,11 @@
         "name": "BlazeX",
         "url": "https://os.mbed.com/users/BlazeX/"
     },
+    "build": {
+        "flags": [
+            "-IExamples"
+        ]
+    },
     "description": "Buffered Serial Port Driver for RTOS",
     "examples": [
         "https://os.mbed.com/users/Malek0512/code/nucleo_cannonball/",

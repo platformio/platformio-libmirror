@@ -3,6 +3,14 @@
         "name": "Bluetooth Low Energy",
         "url": "https://os.mbed.com/teams/Bluetooth-Low-Energy/"
     },
+    "build": {
+        "flags": [
+            "-Ible",
+            "-Ible/services",
+            "-Isource",
+            "-Isource/services"
+        ]
+    },
     "description": "High level Bluetooth Low Energy API and radio abstraction layer",
     "examples": [
         "https://os.mbed.com/users/devsar/code/BLE_ANCS_SDAPI/",

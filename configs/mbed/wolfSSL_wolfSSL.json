@@ -3,6 +3,16 @@
         "name": "wolf SSL",
         "url": "https://os.mbed.com/users/wolfSSL/"
     },
+    "build": {
+        "flags": [
+            "-Iwolfssl",
+            "-Iwolfssl/openssl",
+            "-Iwolfssl/wolfcrypt",
+            "-Isrc",
+            "-Iwolfcrypt",
+            "-Iwolfcrypt/src"
+        ]
+    },
     "description": "wolfSSL SSL/TLS library, support up to TLS1.3",
     "examples": [
         "https://os.mbed.com/users/ban4jp/code/CyaSSL-Twitter-OAuth4Tw/",

@@ -3,6 +3,16 @@
         "name": "MultiTech",
         "url": "https://os.mbed.com/teams/MultiTech/"
     },
+    "build": {
+        "flags": [
+            "-Icyassl",
+            "-Icyassl/openssl",
+            "-Icyassl/ctaocrypt",
+            "-Ictaocrypt",
+            "-Ictaocrypt/src",
+            "-Isrc"
+        ]
+    },
     "description": "A library for setting up Secure Socket Layer (SSL) connections and verifying remote hosts using certificates. Contains only the source files for mbed platform implementation of the library.",
     "examples": [
         "https://os.mbed.com/teams/MultiTech/code/HTTPClient-SSL/",

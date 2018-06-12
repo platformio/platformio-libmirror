@@ -3,6 +3,12 @@
         "name": "Ivan Kravets",
         "url": "https://os.mbed.com/users/ivank/"
     },
+    "build": {
+        "flags": [
+            "-Idevices",
+            "-I_headers"
+        ]
+    },
     "description": "OneWire Library lets you access 1-wire devices made by Maxim/Dallas, such as temperature sensors",
     "examples": [
         "https://os.mbed.com/users/ivank/code/OneWireTest/",

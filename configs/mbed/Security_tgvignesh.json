@@ -3,6 +3,14 @@
         "name": "VIGNESH GOVINDASAMY",
         "url": "https://os.mbed.com/users/tgvignesh/"
     },
+    "build": {
+        "flags": [
+            "-Iapi",
+            "-Ihal",
+            "-Itargetshal",
+            "-Itargetscmsis"
+        ]
+    },
     "description": "This file describes MBED RTOS for MPS2 platform.",
     "frameworks": "mbed",
     "keywords": "Security",

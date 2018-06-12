@@ -3,6 +3,13 @@
         "name": "ST Americas mbed Team",
         "url": "https://os.mbed.com/teams/ST-Americas-mbed-Team/"
     },
+    "build": {
+        "flags": [
+            "-Iservices",
+            "-Icommon",
+            "-Ipublic"
+        ]
+    },
     "description": "Bluetooth LE library for Nucleo board",
     "examples": [
         "https://os.mbed.com/teams/ST-Americas-mbed-Team/code/Nucleo_BLE_HeartRate/",

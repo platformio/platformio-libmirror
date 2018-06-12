@@ -3,6 +3,11 @@
         "name": "Tedd OKANO",
         "url": "https://os.mbed.com/users/okano/"
     },
+    "build": {
+        "flags": [
+            "-Ibase_class"
+        ]
+    },
     "description": "Component class library for PCT2075 and LM75B. The PCT2075 is a temperature-to-digital converter featuring +/-1 degree-C accuracy over -25 degree-C to +100 degree-C range. It uses an on-chip band gap ...",
     "examples": [
         "https://os.mbed.com/users/okano/code/PCT2075_Hello/"

@@ -3,6 +3,11 @@
         "name": "u-blox",
         "url": "https://os.mbed.com/teams/ublox/"
     },
+    "build": {
+        "flags": [
+            "-ITESTS"
+        ]
+    },
     "dependencies": [
         {
             "authors": "",

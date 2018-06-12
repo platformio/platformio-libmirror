@@ -3,6 +3,20 @@
         "name": "mbed Starter Kit",
         "url": "https://os.mbed.com/teams/mbed-Starter-Kit/"
     },
+    "build": {
+        "flags": [
+            "-Imbed_blinky",
+            "-Ipwm_song",
+            "-Iulcd_demo",
+            "-Isoundboard",
+            "-Iusb_device",
+            "-Iinternet_clock",
+            "-Iulcd_accel",
+            "-Irgb_buttons",
+            "-Iusb_host",
+            "-Itemp_logging"
+        ]
+    },
     "description": "These programs are used in SparkFun's mbed Starter Kit tutorials for teaching users how to connect various sensors, lights, and peripherals to the mbed LPC1768.",
     "frameworks": "mbed",
     "keywords": "mbed Starter Kit Demo Programs",

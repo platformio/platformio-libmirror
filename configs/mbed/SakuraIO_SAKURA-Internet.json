@@ -3,6 +3,11 @@
         "name": "SAKURA Internet",
         "url": "https://os.mbed.com/teams/SAKURA-Internet/"
     },
+    "build": {
+        "flags": [
+            "-ISakuraIO"
+        ]
+    },
     "description": "SAKURA Internet IoT Communication Module Library for mbed",
     "examples": [
         "https://os.mbed.com/users/misodengaku/code/patlite_sakuraio/",

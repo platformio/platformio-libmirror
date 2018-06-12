@@ -3,6 +3,12 @@
         "name": "Martin Kojtal",
         "url": "https://os.mbed.com/users/Kojto/"
     },
+    "build": {
+        "flags": [
+            "-IHelper",
+            "-ISocket"
+        ]
+    },
     "description": "cc3000 hostdriver with the mbed socket interface",
     "examples": [
         "https://os.mbed.com/users/Kojto/code/cc3000_hello_world_demo/",

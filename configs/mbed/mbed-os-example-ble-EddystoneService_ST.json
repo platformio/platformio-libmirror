@@ -3,6 +3,15 @@
         "name": "ST",
         "url": "https://os.mbed.com/teams/ST/"
     },
+    "build": {
+        "flags": [
+            "-Ishields",
+            "-Isource",
+            "-Isource/PersistentStorageHelper",
+            "-Isource/PersistentStorageHelper/nrfPersistentStorageHelper",
+            "-Iimg"
+        ]
+    },
     "description": "BLE EddystoneService example",
     "frameworks": "mbed",
     "keywords": [

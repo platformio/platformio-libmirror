@@ -3,6 +3,11 @@
         "name": "u-blox",
         "url": "https://os.mbed.com/teams/ublox/"
     },
+    "build": {
+        "flags": [
+            "-ITESTS"
+        ]
+    },
     "description": "Library that implements the CellularInterface using PPP and LWIP on the mbed MCU. May be used on the C027 and C030 (non-N2xx flavour) boards from mbed 5.5 onwards.",
     "examples": [
         "https://os.mbed.com/users/fahimalavi/code/example-ublox-cellular-interface/",

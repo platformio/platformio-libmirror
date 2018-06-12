@@ -3,6 +3,18 @@
         "name": "Rohit Grover",
         "url": "https://os.mbed.com/users/rgrover1/"
     },
+    "build": {
+        "flags": [
+            "-Iinclude",
+            "-Iinclude/Platforms",
+            "-Iinclude/Platforms/armcc",
+            "-Iinclude/CppUTest",
+            "-Isrc",
+            "-Isrc/Platforms",
+            "-Isrc/Platforms/armcc",
+            "-Isrc/CppUTest"
+        ]
+    },
     "description": "Unit Testing framework based on http://cpputest.github.io/",
     "frameworks": "mbed",
     "keywords": "cpputest",

@@ -3,6 +3,22 @@
         "name": "ST",
         "url": "https://os.mbed.com/teams/ST/"
     },
+    "build": {
+        "flags": [
+            "-IDrivers",
+            "-IDrivers/BSP",
+            "-IDrivers/BSP/STM32746G-Discovery",
+            "-IDrivers/BSP/Components",
+            "-IDrivers/BSP/Components/rk043fn48h",
+            "-IDrivers/BSP/Components/ov9655",
+            "-IDrivers/BSP/Components/n25q128a",
+            "-IDrivers/BSP/Components/Common",
+            "-IDrivers/BSP/Components/ft5336",
+            "-IDrivers/BSP/Components/wm8994",
+            "-IUtilities",
+            "-IUtilities/Fonts"
+        ]
+    },
     "description": "STM32746G-Discovery board drivers V1.0.0",
     "examples": [
         "https://os.mbed.com/users/JackB/code/DISCO-F746NG_LCDTS_CC3000_NTP/",

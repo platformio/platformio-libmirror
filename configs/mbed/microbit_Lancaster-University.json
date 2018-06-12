@@ -3,6 +3,11 @@
         "name": "Lancaster University",
         "url": "https://os.mbed.com/teams/Lancaster-University/"
     },
+    "build": {
+        "flags": [
+            "-Iinc"
+        ]
+    },
     "dependencies": [
         {
             "authors": "",

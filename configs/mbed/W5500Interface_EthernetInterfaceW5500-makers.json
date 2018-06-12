@@ -3,6 +3,14 @@
         "name": "W5500-Ethernet-Interface Makers",
         "url": "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/"
     },
+    "build": {
+        "flags": [
+            "-IWIZnet",
+            "-IDHCPClient",
+            "-IDNSClient",
+            "-ISocket"
+        ]
+    },
     "description": "This is the Interface library for WIZnet W5500 chip which forked of EthernetInterfaceW5500, WIZnetInterface and WIZ550ioInterface. This library has simple name as \"W5500Interface\". and can be used for Wiz550io users ...",
     "examples": [
         "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/code/EvrythngApi/",

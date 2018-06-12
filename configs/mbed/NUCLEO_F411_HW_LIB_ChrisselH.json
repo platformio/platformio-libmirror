@@ -3,6 +3,13 @@
         "name": "Chris H",
         "url": "https://os.mbed.com/users/ChrisselH/"
     },
+    "build": {
+        "flags": [
+            "-ISPI",
+            "-ITIM",
+            "-ISWModule"
+        ]
+    },
     "description": "Libs for using Nucleo STM32F411 periphery",
     "frameworks": "mbed",
     "keywords": [

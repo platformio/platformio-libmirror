@@ -3,6 +3,21 @@
         "name": "ST",
         "url": "https://os.mbed.com/teams/ST/"
     },
+    "build": {
+        "flags": [
+            "-IDrivers",
+            "-IDrivers/BSP",
+            "-IDrivers/BSP/Components",
+            "-IDrivers/BSP/Components/otm8009a",
+            "-IDrivers/BSP/Components/n25q128a",
+            "-IDrivers/BSP/Components/ft6x06",
+            "-IDrivers/BSP/Components/Common",
+            "-IDrivers/BSP/Components/cs43l22",
+            "-IDrivers/BSP/STM32469I-Discovery",
+            "-IUtilities",
+            "-IUtilities/Fonts"
+        ]
+    },
     "description": "STM32F469NI Discovery board drivers",
     "examples": [
         "https://os.mbed.com/users/inkiiin/code/DISCO-F469NI_LCDTS_GUI_demo/",

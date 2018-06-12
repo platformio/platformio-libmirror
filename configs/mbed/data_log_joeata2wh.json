@@ -3,6 +3,11 @@
         "name": "Joseph Ellsworth",
         "url": "https://os.mbed.com/users/joeata2wh/"
     },
+    "build": {
+        "flags": [
+            "-Ipc_parser"
+        ]
+    },
     "dependencies": [
         {
             "authors": "Hugo Perez",

@@ -3,6 +3,11 @@
         "name": "Andrew Lindsay",
         "url": "https://os.mbed.com/users/SomeRandomBloke/"
     },
+    "build": {
+        "flags": [
+            "-Ioption"
+        ]
+    },
     "description": "Updated get_fattime to use rtc and provide a date/time. This has been an annoying missing feature.",
     "examples": [
         "https://os.mbed.com/users/SomeRandomBloke/code/IoTGateway_Basic/",
