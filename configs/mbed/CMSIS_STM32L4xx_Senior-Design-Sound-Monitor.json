@@ -3,6 +3,12 @@
         "name": "Senior Design: Sound Monitor",
         "url": "https://os.mbed.com/teams/Senior-Design-Sound-Monitor/"
     },
+    "build": {
+        "flags": [
+            "-Iinc",
+            "-Isrc"
+        ]
+    },
     "description": "CMSIS library (not dsp)",
     "examples": [
         "https://os.mbed.com/teams/Senior-Design-Sound-Monitor/code/BSP/"

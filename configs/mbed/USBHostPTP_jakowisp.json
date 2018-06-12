@@ -3,6 +3,11 @@
         "name": "Dwayne Dilbeck",
         "url": "https://os.mbed.com/users/jakowisp/"
     },
+    "build": {
+        "flags": [
+            "-IPIMA15740"
+        ]
+    },
     "description": "Library to allo USB PTP device to be hosted by the mbed platform",
     "examples": [
         "https://os.mbed.com/users/jakowisp/code/class_project_main/"

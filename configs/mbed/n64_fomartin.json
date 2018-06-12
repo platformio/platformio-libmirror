@@ -3,6 +3,11 @@
         "name": "Francisco Martin",
         "url": "https://os.mbed.com/users/fomartin/"
     },
+    "build": {
+        "flags": [
+            "-IN64Controller"
+        ]
+    },
     "dependencies": [
         {
             "authors": "mbed official",

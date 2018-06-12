@@ -3,6 +3,11 @@
         "name": "David Smart",
         "url": "https://os.mbed.com/users/WiredHome/"
     },
+    "build": {
+        "flags": [
+            "-INTPClient"
+        ]
+    },
     "description": "A time interface class. This class replicates the normal time functions, but goes a couple of steps further. mbed library 82 and prior has a defective gmtime function. Also, this ...",
     "examples": [
         "https://os.mbed.com/users/WiredHome/code/WattEye/",

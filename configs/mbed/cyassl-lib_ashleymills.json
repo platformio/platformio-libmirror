@@ -3,6 +3,15 @@
         "name": "Ashley Mills",
         "url": "https://os.mbed.com/users/ashleymills/"
     },
+    "build": {
+        "flags": [
+            "-Icyassl",
+            "-Icyassl/openssl",
+            "-Icyassl/ctaocrypt",
+            "-Ictaocrypt",
+            "-Ictaocrypt/src"
+        ]
+    },
     "description": "This is a port of cyaSSL 2.7.0.",
     "examples": [
         "https://os.mbed.com/users/ashleymills/code/CyaSSL_DTLS_Cellular/",

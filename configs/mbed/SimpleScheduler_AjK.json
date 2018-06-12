@@ -3,6 +3,11 @@
         "name": "Andy Kirkham",
         "url": "https://os.mbed.com/users/AjK/"
     },
+    "build": {
+        "flags": [
+            "-IExamples"
+        ]
+    },
     "description": "Very simple cooperative round-robin task scheduler. See examples.",
     "frameworks": "mbed",
     "keywords": "Scheduler",

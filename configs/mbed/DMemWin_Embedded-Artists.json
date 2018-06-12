@@ -3,6 +3,13 @@
         "name": "Embedded Artists",
         "url": "https://os.mbed.com/teams/Embedded-Artists/"
     },
+    "build": {
+        "flags": [
+            "-Iemwin",
+            "-Iemwin/emWin_header",
+            "-Ipng"
+        ]
+    },
     "description": "Support for the emWin GUI library from Segger.",
     "examples": [
         "https://os.mbed.com/teams/Embedded-Artists/code/lpc4088_displaymodule_emwin/"

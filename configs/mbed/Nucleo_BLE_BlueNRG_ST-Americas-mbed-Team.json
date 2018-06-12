@@ -3,6 +3,22 @@
         "name": "ST Americas mbed Team",
         "url": "https://os.mbed.com/teams/ST-Americas-mbed-Team/"
     },
+    "build": {
+        "flags": [
+            "-Iutils",
+            "-Iutils/inc",
+            "-Iutils/src",
+            "-Ihci",
+            "-Ihci/inc",
+            "-Ihci/src",
+            "-Ibtle",
+            "-Ibtle/inc",
+            "-Ibtle/src",
+            "-Iplatform",
+            "-Iplatform/inc",
+            "-Iplatform/src"
+        ]
+    },
     "description": "BLE_BlueNRG for Nucleo board",
     "examples": [
         "https://os.mbed.com/teams/ST-Americas-mbed-Team/code/Nucleo_BLE_HeartRate/",

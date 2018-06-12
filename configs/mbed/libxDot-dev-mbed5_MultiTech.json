@@ -3,6 +3,15 @@
         "name": "MultiTech",
         "url": "https://os.mbed.com/teams/MultiTech/"
     },
+    "build": {
+        "flags": [
+            "-IMTS-Lora",
+            "-IMTS-Lora/vendor",
+            "-IMTS-Lora/vendor/multitech",
+            "-IMTS-Lora/vendor/multitech/MTS-Utils",
+            "-Iplans"
+        ]
+    },
     "description": "Bleeding edge development version of the xDot library for mbed 5. This version of the library is not guaranteed to be stable or well tested and should not be used ...",
     "examples": [
         "https://os.mbed.com/users/loverdeg/code/Dot-Examples/",

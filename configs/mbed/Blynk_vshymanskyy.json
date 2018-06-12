@@ -3,6 +3,12 @@
         "name": "Volodymyr Shymanskyy",
         "url": "https://os.mbed.com/users/vshymanskyy/"
     },
+    "build": {
+        "flags": [
+            "-Iutility",
+            "-IBlynk"
+        ]
+    },
     "description": "Blynk library for embedded hardware. Works with Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, Energia, ARM mbed, etc. http://www.blynk.cc/",
     "examples": [
         "https://os.mbed.com/users/tulanthoar/code/Blynk_RBL_BLE_Nano/",

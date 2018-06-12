@@ -3,6 +3,15 @@
         "name": "Avnet",
         "url": "https://os.mbed.com/teams/Avnet/"
     },
+    "build": {
+        "flags": [
+            "-ISms",
+            "-Imbedtls",
+            "-Imbedtls/mbedtls",
+            "-Imbedtls/source",
+            "-ISocket"
+        ]
+    },
     "dependencies": [
         {
             "authors": "Fred Kellerman",

@@ -3,6 +3,14 @@
         "name": "Paul Paterson",
         "url": "https://os.mbed.com/users/ptpaterson/"
     },
+    "build": {
+        "flags": [
+            "-Idrivers",
+            "-Idrivers/mbed-Nucleo-F091RC",
+            "-Iinclude",
+            "-Isource"
+        ]
+    },
     "description": "library for C++ CANOpen implementation. mbed independant, but is easy to attach into with mbed.",
     "examples": [
         "https://os.mbed.com/users/ptpaterson/code/ppCANOpen_Example/",

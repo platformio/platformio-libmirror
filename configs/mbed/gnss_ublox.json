@@ -3,6 +3,11 @@
         "name": "u-blox",
         "url": "https://os.mbed.com/teams/ublox/"
     },
+    "build": {
+        "flags": [
+            "-ITESTS"
+        ]
+    },
     "description": "This class provides an API to communicate with a u-blox GNSS chip. The files here were originally part of the C027_Support library (https://developer.mbed.org/teams/ublox/code/C027_Support/ at revision 138:dafbbf31bf76) but have been separated ...",
     "examples": [
         "https://os.mbed.com/teams/vdb-IOT-team/code/example-ublox-at-cellular-interface-ext/",

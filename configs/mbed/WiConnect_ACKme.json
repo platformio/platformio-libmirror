@@ -3,6 +3,21 @@
         "name": "ACKme",
         "url": "https://os.mbed.com/teams/ACKme/"
     },
+    "build": {
+        "flags": [
+            "-Idoc",
+            "-Idoc/html",
+            "-Idoc/html/search",
+            "-Idoc/mbed",
+            "-Idoc/mbed/html",
+            "-Idoc/mbed/html/search",
+            "-Iinternal",
+            "-Iapi",
+            "-Iapi/types",
+            "-Iapi/types/Socket",
+            "-Iapi/types/Socket/lwip"
+        ]
+    },
     "description": "Host library for controlling a WiConnect enabled Wi-Fi module.",
     "examples": [
         "https://os.mbed.com/teams/ACKme/code/wiconnect-ota_example/",

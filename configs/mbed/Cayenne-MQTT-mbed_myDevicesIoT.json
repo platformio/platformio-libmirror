@@ -3,6 +3,16 @@
         "name": "myDevicesIoT",
         "url": "https://os.mbed.com/teams/myDevicesIoT/"
     },
+    "build": {
+        "flags": [
+            "-Isrc",
+            "-Isrc/Platform",
+            "-Isrc/Platform/mbed",
+            "-Isrc/MQTTCommon",
+            "-Isrc/CayenneUtils",
+            "-Isrc/CayenneMQTTClient"
+        ]
+    },
     "description": "The Cayenne MQTT mbed Library provides functions to easily connect to the Cayenne IoT project builder.",
     "examples": [
         "https://os.mbed.com/teams/myDevicesIoT/code/Cayenne-ESP8266Interface/",

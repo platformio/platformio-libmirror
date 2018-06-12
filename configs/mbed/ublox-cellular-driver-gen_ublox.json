@@ -3,6 +3,11 @@
         "name": "u-blox",
         "url": "https://os.mbed.com/teams/ublox/"
     },
+    "build": {
+        "flags": [
+            "-ITESTS"
+        ]
+    },
     "description": "This class provides SMS, USSD and modem file system support for u-blox modules on the C027 and C030 boards (excepting the C030 N2xx flavour) from mbed 5.5 onwards.",
     "examples": [
         "https://os.mbed.com/teams/vdb-IOT-team/code/example-ublox-at-cellular-interface-ext/",

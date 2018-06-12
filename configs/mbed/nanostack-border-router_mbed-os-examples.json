@@ -3,6 +3,16 @@
         "name": "mbed-os-examples",
         "url": "https://os.mbed.com/teams/mbed-os-examples/"
     },
+    "build": {
+        "flags": [
+            "-Idrivers",
+            "-Idrivers/TARGET_MCUXpresso_MCUS",
+            "-Idrivers/TARGET_NUCLEO_F429ZI",
+            "-Iimages",
+            "-Iconfigs",
+            "-Isource"
+        ]
+    },
     "description": ".",
     "frameworks": "mbed",
     "keywords": "nanostack-border-router",

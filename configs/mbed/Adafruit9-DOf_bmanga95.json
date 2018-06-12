@@ -3,6 +3,12 @@
         "name": "Bruno Manganelli",
         "url": "https://os.mbed.com/users/bmanga95/"
     },
+    "build": {
+        "flags": [
+            "-ISource",
+            "-IHeader"
+        ]
+    },
     "dependencies": [
         {
             "authors": "mbed official",

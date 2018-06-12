@@ -3,6 +3,11 @@
         "name": "Zoltan Hudak",
         "url": "https://os.mbed.com/users/hudakz/"
     },
+    "build": {
+        "flags": [
+            "-Iutility"
+        ]
+    },
     "description": "mbed library for ENC28J60 Ethernet modules. Full support for TCP/IP and UDP Server, Client and HTTP server (webserver). DHCP and DNS is included.",
     "examples": [
         "https://os.mbed.com/users/skeller/code/mBuino_ENC28_MQTT/",

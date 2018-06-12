@@ -3,6 +3,11 @@
         "name": "u-blox",
         "url": "https://os.mbed.com/teams/ublox/"
     },
+    "build": {
+        "flags": [
+            "-ITESTS"
+        ]
+    },
     "description": "Implementation of the CellularInterface for u-blox C027 and C030 (non-N2xx flavour) modems that uses the IP stack on-board the cellular modem, hence not requiring LWIP (and so less RAM) and ...",
     "examples": [
         "https://os.mbed.com/users/fahimalavi/code/example-ublox-cellular-interface/",

@@ -3,6 +3,16 @@
         "name": "David Fletcher",
         "url": "https://os.mbed.com/users/dflet/"
     },
+    "build": {
+        "flags": [
+            "-Isource",
+            "-Isource/portable",
+            "-Isource/portable/RVDS",
+            "-Isource/portable/RVDS/ARM_CM3",
+            "-Isource/portable/MemMang",
+            "-Isource/include"
+        ]
+    },
     "description": "Freertos for LPC CM3 tested on LPC1768",
     "frameworks": "mbed",
     "keywords": "FreeRTOS_V8_2_1",

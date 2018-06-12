@@ -3,6 +3,11 @@
         "name": "Junichi Katsu",
         "url": "https://os.mbed.com/users/jksoft/"
     },
+    "build": {
+        "flags": [
+            "-ITB6612"
+        ]
+    },
     "description": "It is a library for controlling Wallbot mini",
     "examples": [
         "https://os.mbed.com/users/jksoft/code/wallbotmini_test/"

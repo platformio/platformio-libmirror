@@ -3,6 +3,16 @@
         "name": "Semtech",
         "url": "https://os.mbed.com/teams/Semtech/"
     },
+    "build": {
+        "flags": [
+            "-Itypedefs",
+            "-Idebug",
+            "-Iregisters",
+            "-Isx1272",
+            "-Iradio",
+            "-Ienums"
+        ]
+    },
     "description": "Driver for the SX1272 RF Transceiver",
     "examples": [
         "https://os.mbed.com/users/emcu/code/LORA-SX1272MB2xAS-PP/",

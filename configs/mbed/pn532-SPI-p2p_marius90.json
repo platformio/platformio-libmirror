@@ -3,6 +3,11 @@
         "name": "Marius 90",
         "url": "https://os.mbed.com/users/marius90/"
     },
+    "build": {
+        "flags": [
+            "-Ilib"
+        ]
+    },
     "dependencies": [
         {
             "authors": "mbed official",

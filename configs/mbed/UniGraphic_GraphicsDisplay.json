@@ -3,6 +3,15 @@
         "name": "GraphicsDisplay",
         "url": "https://os.mbed.com/teams/GraphicsDisplay/"
     },
+    "build": {
+        "flags": [
+            "-IGraphics",
+            "-IFont",
+            "-IDisplay",
+            "-IInits",
+            "-IProtocols"
+        ]
+    },
     "description": "Basically i glued Peter Drescher and Simon Ford libs in a GraphicsDisplay class, then derived TFT or LCD class (which inherits Protocols class), then the most derived ones (Inits), which ...",
     "examples": [
         "https://os.mbed.com/teams/GraphicsDisplay/code/testUniGraphic_150217/",

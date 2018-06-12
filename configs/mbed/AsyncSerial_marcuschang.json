@@ -3,6 +3,12 @@
         "name": "Marcus Chang",
         "url": "https://os.mbed.com/users/marcuschang/"
     },
+    "build": {
+        "flags": [
+            "-Isource",
+            "-IAsyncSerial"
+        ]
+    },
     "description": "Asynchronous Serial Library with flow control and tag detection.",
     "frameworks": "mbed",
     "keywords": "AsyncSerial",

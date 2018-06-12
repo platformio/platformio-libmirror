@@ -3,6 +3,12 @@
         "name": "RedBearLab",
         "url": "https://os.mbed.com/teams/RedBearLab/"
     },
+    "build": {
+        "flags": [
+            "-IBLE_nRF8001",
+            "-IBLE_nRF8001/utility"
+        ]
+    },
     "description": "It is the Nordic nRF8001 BLE library for RedBearLab BLE Shield v2.1 or above. It is compatible with the platforms those soldered Arduino compatible form factor. The library is ported ...",
     "examples": [
         "https://os.mbed.com/teams/RedBearLab/code/nRF8001_SimpleChat/",

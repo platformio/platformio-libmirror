@@ -3,6 +3,20 @@
         "name": "Eli Hughes",
         "url": "https://os.mbed.com/users/emh203/"
     },
+    "build": {
+        "flags": [
+            "-IControllerFunctions",
+            "-ISupportFunctions",
+            "-ICommonTables",
+            "-IFilteringFunctions",
+            "-IFastMathFunctions",
+            "-IComplexMathFunctions",
+            "-IBasicMathFunctions",
+            "-IMatrixFunctions",
+            "-IStatisticsFunctions",
+            "-ITransformFunctions"
+        ]
+    },
     "description": "V4.0.1 of the ARM CMSIS DSP libraries. Note that arm_bitreversal2.s, arm_cfft_f32.c and arm_rfft_fast_f32.c had to be removed. arm_bitreversal2.s will not assemble with the online tools. So, the fast f32 FFT ...",
     "examples": [
         "https://os.mbed.com/users/p3p/code/MPU9150_Example/",

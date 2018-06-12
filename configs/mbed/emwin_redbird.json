@@ -3,6 +3,11 @@
         "name": "Chris Womack",
         "url": "https://os.mbed.com/users/redbird/"
     },
+    "build": {
+        "flags": [
+            "-IemWin_header"
+        ]
+    },
     "description": "Headers for emWin lib",
     "examples": [
         "https://os.mbed.com/users/TuxLeon/code/DISCO-F746NG_rtos_test/"

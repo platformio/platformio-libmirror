@@ -3,6 +3,15 @@
         "name": "Multi-Hackers",
         "url": "https://os.mbed.com/teams/Multi-Hackers/"
     },
+    "build": {
+        "flags": [
+            "-Iio",
+            "-Iutils",
+            "-Iwifi",
+            "-Icellular",
+            "-ISocket"
+        ]
+    },
     "description": "A library for talking to Multi-Tech's Cellular SocketModem Devices.",
     "examples": [
         "https://os.mbed.com/users/mfiore/code/M2X_dev/",

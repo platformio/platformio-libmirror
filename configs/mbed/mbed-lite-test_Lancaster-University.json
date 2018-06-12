@@ -3,6 +3,24 @@
         "name": "Lancaster University",
         "url": "https://os.mbed.com/teams/Lancaster-University/"
     },
+    "build": {
+        "flags": [
+            "-ITARGET_NRF51_MICROBIT",
+            "-ITARGET_NRF51_MICROBIT/TOOLCHAIN_ARM_STD",
+            "-ITARGET_NRF51_MICROBIT/TARGET_NORDIC",
+            "-ITARGET_NRF51_MICROBIT/TARGET_NORDIC/TARGET_MCU_NRF51822",
+            "-ITARGET_NRF51_MICROBIT/TARGET_NORDIC/TARGET_MCU_NRF51822/Lib",
+            "-ITARGET_NRF51_MICROBIT/TARGET_NORDIC/TARGET_MCU_NRF51822/Lib/s130_nrf51822_1_0_0",
+            "-ITARGET_NRF51_MICROBIT/TARGET_NORDIC/TARGET_MCU_NRF51822/Lib/s110_nrf51822_8_0_0",
+            "-ITARGET_NRF51_MICROBIT/TARGET_NORDIC/TARGET_MCU_NRF51822/Lib/nordic_sdk",
+            "-ITARGET_NRF51_MICROBIT/TARGET_NORDIC/TARGET_MCU_NRF51822/Lib/nordic_sdk/components",
+            "-ITARGET_NRF51_MICROBIT/TARGET_NORDIC/TARGET_MCU_NRF51822/Lib/nordic_sdk/components/libraries",
+            "-ITARGET_NRF51_MICROBIT/TARGET_NORDIC/TARGET_MCU_NRF51822/Lib/nordic_sdk/components/libraries/crc16",
+            "-ITARGET_NRF51_MICROBIT/TARGET_NORDIC/TARGET_MCU_NRF51822/Lib/nordic_sdk/components/libraries/scheduler",
+            "-ITARGET_NRF51_MICROBIT/TARGET_NORDIC/TARGET_MCU_NRF51822/Lib/nordic_sdk/components/libraries/util",
+            "-ITARGET_NRF51_MICROBIT/TARGET_NORDIC/TARGET_MCU_NRF51822/TARGET_NRF51_MICROBIT"
+        ]
+    },
     "description": "test",
     "frameworks": "mbed",
     "keywords": "mbed-lite-test",

@@ -3,6 +3,11 @@
         "name": "Olivier Smeesters",
         "url": "https://os.mbed.com/users/osmeest/"
     },
+    "build": {
+        "flags": [
+            "-Iext_text_lcd"
+        ]
+    },
     "description": "Extended TextLCD: uses Bus or Port output for added performance, with display/cursor control, with LCDType as a class, with character generator programming capability.",
     "examples": [
         "https://os.mbed.com/users/osmeest/code/DtmfKit/"

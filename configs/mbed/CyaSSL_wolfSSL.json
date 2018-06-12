@@ -3,6 +3,16 @@
         "name": "wolf SSL",
         "url": "https://os.mbed.com/users/wolfSSL/"
     },
+    "build": {
+        "flags": [
+            "-Icyassl",
+            "-Icyassl/openssl",
+            "-Icyassl/ctaocrypt",
+            "-Ictaocrypt",
+            "-Ictaocrypt/src",
+            "-Isrc"
+        ]
+    },
     "description": "CyaSSL 3.0.0",
     "examples": [
         "https://os.mbed.com/teams/MBED_DEMOS/code/HTTPClient-SSL/",

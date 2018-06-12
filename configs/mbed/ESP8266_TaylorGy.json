@@ -3,6 +3,13 @@
         "name": "Taylor Gy",
         "url": "https://os.mbed.com/users/TaylorGy/"
     },
+    "build": {
+        "flags": [
+            "-IATParser",
+            "-IATParser/BufferedSerial",
+            "-IATParser/BufferedSerial/Buffer"
+        ]
+    },
     "description": "ESP8266 driver from ARM",
     "examples": [
         "https://os.mbed.com/users/TaylorGy/code/8-0_OneNet_IoT_demo/"

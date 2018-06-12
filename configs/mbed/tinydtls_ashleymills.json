@@ -3,6 +3,13 @@
         "name": "Ashley Mills",
         "url": "https://os.mbed.com/users/ashleymills/"
     },
+    "build": {
+        "flags": [
+            "-Iecc",
+            "-Iaes",
+            "-Isha2"
+        ]
+    },
     "description": "Version 0.5.0 of tinydtls",
     "examples": [
         "https://os.mbed.com/users/ashleymills/code/tinydtls_test_cellular/",

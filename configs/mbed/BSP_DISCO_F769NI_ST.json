@@ -3,6 +3,22 @@
         "name": "ST",
         "url": "https://os.mbed.com/teams/ST/"
     },
+    "build": {
+        "flags": [
+            "-IDrivers",
+            "-IDrivers/BSP",
+            "-IDrivers/BSP/Components",
+            "-IDrivers/BSP/Components/otm8009a",
+            "-IDrivers/BSP/Components/ft6x06",
+            "-IDrivers/BSP/Components/Common",
+            "-IDrivers/BSP/Components/wm8994",
+            "-IDrivers/BSP/Components/adv7533",
+            "-IDrivers/BSP/Components/mx25l512",
+            "-IDrivers/BSP/STM32F769I-Discovery",
+            "-IUtilities",
+            "-IUtilities/Fonts"
+        ]
+    },
     "description": "STM32Cube BSP FW for STM32F769I-Discovery",
     "examples": [
         "https://os.mbed.com/teams/ST/code/DISCO-F769NI_AUDIO_demo/",

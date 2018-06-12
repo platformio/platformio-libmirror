@@ -3,6 +3,29 @@
         "name": "Donatien Garnier",
         "url": "https://os.mbed.com/users/MiniTLS/"
     },
+    "build": {
+        "flags": [
+            "-Iinc",
+            "-Imath",
+            "-Imath/bin",
+            "-Imath/mul",
+            "-Imath/bit",
+            "-Imath/divide",
+            "-Imath/exptmod",
+            "-Imath/mont",
+            "-Imath/misc",
+            "-Imath/addsub",
+            "-Imath/numtheory",
+            "-Imath/headers",
+            "-Imath/sqr",
+            "-Itls",
+            "-Isocket",
+            "-Icrypto",
+            "-Icrypto/ltc",
+            "-Icore",
+            "-Icpp"
+        ]
+    },
     "description": "A super trimmed down TLS stack, GPL licensed",
     "examples": [
         "https://os.mbed.com/users/MiniTLS/code/MiniTLS-HTTPS-Example/"

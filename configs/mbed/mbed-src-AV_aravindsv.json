@@ -3,6 +3,14 @@
         "name": "Aravind Vadali",
         "url": "https://os.mbed.com/users/aravindsv/"
     },
+    "build": {
+        "flags": [
+            "-Iapi",
+            "-Ihal",
+            "-Itargetshal",
+            "-Itargetscmsis"
+        ]
+    },
     "description": "mbed.h library with any bug fixes AV finds.",
     "examples": [
         "https://os.mbed.com/teams/MicroMouse/code/micromouse4_encoder_testing/",

@@ -3,6 +3,12 @@
         "name": "Dream Team",
         "url": "https://os.mbed.com/teams/Dream-Team-ECE-4180/"
     },
+    "build": {
+        "flags": [
+            "-IGeorge_Lab2",
+            "-IJesses_Lab2"
+        ]
+    },
     "dependencies": [
         {
             "authors": "mbed official",
