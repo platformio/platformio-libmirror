@@ -3,6 +3,18 @@
         "name": "Deepti AST",
         "url": "https://os.mbed.com/users/Deepti/"
     },
+    "build": {
+        "flags": [
+            "-IBSP",
+            "-IBSP/Nucleo-F401RE",
+            "-IBSP/Components",
+            "-IBSP/Components/Common",
+            "-IBSP/Components/lps25h",
+            "-IBSP/Components/uvis3",
+            "-IBSP/Components/hts221",
+            "-IBSP/X-NUCLEO-IKE01x1"
+        ]
+    },
     "description": "Evironmental Shield API",
     "frameworks": "mbed",
     "keywords": "Envt_Shield_API",

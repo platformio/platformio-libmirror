@@ -3,6 +3,11 @@
         "name": "Jason Swanson",
         "url": "https://os.mbed.com/users/JasonSwanson/"
     },
+    "build": {
+        "flags": [
+            "-ImbedEndpointResources"
+        ]
+    },
     "dependencies": [
         {
             "authors": "mbed official",

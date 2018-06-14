@@ -3,6 +3,15 @@
         "name": "WIZnet",
         "url": "https://os.mbed.com/teams/WIZnet/"
     },
+    "build": {
+        "flags": [
+            "-IWIZnetInterface",
+            "-IWIZnetInterface/WIZnet",
+            "-IWIZnetInterface/DHCPClient",
+            "-IWIZnetInterface/DNSClient",
+            "-IWIZnetInterface/Socket"
+        ]
+    },
     "description": "This is WIZnet Ethernet Interface using Hardware TCP/IP chip, W5500, W5200 and W5100. One of them can be selected by enabling it in wiznet.h.",
     "examples": [
         "https://os.mbed.com/teams/IPN-ESIME-ZACATENCO/code/Embedded_web/",

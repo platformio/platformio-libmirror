@@ -3,6 +3,13 @@
         "name": "Sebastián Pastor",
         "url": "https://os.mbed.com/users/spastor/"
     },
+    "build": {
+        "flags": [
+            "-Imbed_platform",
+            "-Iinclude",
+            "-Iprivate"
+        ]
+    },
     "description": "Etherios Cloud Connector very first porting for mbed. Tested in an LPC1768",
     "frameworks": "mbed",
     "keywords": [

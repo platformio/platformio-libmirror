@@ -3,6 +3,26 @@
         "name": "Yoji KURODA",
         "url": "https://os.mbed.com/users/ykuroda/"
     },
+    "build": {
+        "flags": [
+            "-Isrc",
+            "-Isrc/plugins",
+            "-Isrc/Geometry",
+            "-Isrc/Jacobi",
+            "-Isrc/Eigenvalues",
+            "-Isrc/Cholesky",
+            "-Isrc/misc",
+            "-Isrc/SVD",
+            "-Isrc/Householder",
+            "-Isrc/Core",
+            "-Isrc/Core/products",
+            "-Isrc/Core/arch",
+            "-Isrc/Core/arch/Default",
+            "-Isrc/Core/util",
+            "-Isrc/LU",
+            "-Isrc/QR"
+        ]
+    },
     "description": "Eigne Matrix Class Library",
     "examples": [
         "https://os.mbed.com/users/ykuroda/code/Eigen_test/",

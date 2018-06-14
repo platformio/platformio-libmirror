@@ -3,6 +3,14 @@
         "name": "ESP8266",
         "url": "https://os.mbed.com/teams/ESP8266/"
     },
+    "build": {
+        "flags": [
+            "-IESP8266",
+            "-IESP8266/ATParser",
+            "-IESP8266/ATParser/BufferedSerial",
+            "-IESP8266/ATParser/BufferedSerial/Buffer"
+        ]
+    },
     "description": "The driver for the ESP8266 WiFi module",
     "frameworks": "mbed",
     "keywords": "esp8266-driver",

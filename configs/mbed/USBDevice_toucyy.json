@@ -3,6 +3,15 @@
         "name": "goma yam",
         "url": "https://os.mbed.com/users/toucyy/"
     },
+    "build": {
+        "flags": [
+            "-IUSBSERIAL",
+            "-IUSBAudio",
+            "-IUSBMIDI",
+            "-IUSBDevice",
+            "-IUSBHID"
+        ]
+    },
     "description": "USBDevice",
     "examples": [
         "https://os.mbed.com/users/toucyy/code/QEI_X1_LCD_test3/"

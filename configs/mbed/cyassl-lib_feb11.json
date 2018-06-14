@@ -3,6 +3,15 @@
         "name": "François Berder",
         "url": "https://os.mbed.com/users/feb11/"
     },
+    "build": {
+        "flags": [
+            "-Icyassl",
+            "-Icyassl/openssl",
+            "-Icyassl/ctaocrypt",
+            "-Ictaocrypt",
+            "-Ictaocrypt/src"
+        ]
+    },
     "description": "fork of cyassl-lib",
     "examples": [
         "https://os.mbed.com/users/feb11/code/TLS_cyassl/",

@@ -3,6 +3,12 @@
         "name": "Ben Carr",
         "url": "https://os.mbed.com/users/bencarr22/"
     },
+    "build": {
+        "flags": [
+            "-IISO15693",
+            "-IISO14443A"
+        ]
+    },
     "description": "CR95 Library",
     "examples": [
         "https://os.mbed.com/users/bencarr22/code/CR95HFRFIDClick/"

@@ -3,6 +3,15 @@
         "name": "Jhon Plantikow",
         "url": "https://os.mbed.com/users/jhon309/"
     },
+    "build": {
+        "flags": [
+            "-ITARGET_NUCLEO_F072RB",
+            "-ITARGET_NUCLEO_F072RB/TARGET_STM",
+            "-ITARGET_NUCLEO_F072RB/TARGET_STM/TARGET_STM32F0",
+            "-ITARGET_NUCLEO_F072RB/TARGET_STM/TARGET_STM32F0/TARGET_NUCLEO_F072RB",
+            "-ITARGET_NUCLEO_F072RB/TOOLCHAIN_ARM_STD"
+        ]
+    },
     "description": "I2C_EEPROM",
     "frameworks": "mbed",
     "keywords": "I2C_EEPROM",

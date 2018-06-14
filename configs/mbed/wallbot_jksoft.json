@@ -3,6 +3,13 @@
         "name": "Junichi Katsu",
         "url": "https://os.mbed.com/users/jksoft/"
     },
+    "build": {
+        "flags": [
+            "-IPowerControl",
+            "-IHighSpeedAnalogIn",
+            "-ITB6612"
+        ]
+    },
     "description": "It is a library for controlling Wallbot",
     "examples": [
         "https://os.mbed.com/users/jksoft/code/wallbot_test/"

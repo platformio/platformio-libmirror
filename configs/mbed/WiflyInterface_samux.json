@@ -3,6 +3,13 @@
         "name": "Samuel Mokrani",
         "url": "https://os.mbed.com/users/samux/"
     },
+    "build": {
+        "flags": [
+            "-IHelper",
+            "-IWifly",
+            "-ISocket"
+        ]
+    },
     "description": "wifly/socket interface for wifly modules",
     "examples": [
         "https://os.mbed.com/teams/AVR-Competition/code/WiFi/",

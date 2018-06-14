@@ -3,6 +3,11 @@
         "name": "Ivo van Poorten",
         "url": "https://os.mbed.com/users/Ivop/"
     },
+    "build": {
+        "flags": [
+            "-Ilicense"
+        ]
+    },
     "description": "Library to access LPC17xx peripherals. It uses static inline functions, constant propagation and dead code elimination to be as fast as possible.",
     "examples": [
         "https://os.mbed.com/users/JLS/code/Chua-VGA/",

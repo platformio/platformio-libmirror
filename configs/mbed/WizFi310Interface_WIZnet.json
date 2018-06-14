@@ -3,6 +3,11 @@
         "name": "WIZnet",
         "url": "https://os.mbed.com/teams/WIZnet/"
     },
+    "build": {
+        "flags": [
+            "-IWizFi310"
+        ]
+    },
     "description": "This is a WizFi310 library. It supports new mbed5 features including NetworkInterfaceAPI.",
     "examples": [
         "https://os.mbed.com/users/jehoon/code/KT_IoTMakers_WizFi310_Example/",

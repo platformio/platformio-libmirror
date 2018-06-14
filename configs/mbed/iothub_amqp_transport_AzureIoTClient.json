@@ -3,6 +3,11 @@
         "name": "Azure IoT",
         "url": "https://os.mbed.com/users/AzureIoTClient/"
     },
+    "build": {
+        "flags": [
+            "-Iinternal"
+        ]
+    },
     "description": "Microsoft Azure IoTHub client AMQP transport",
     "examples": [
         "https://os.mbed.com/users/ppatierno/code/sht15_remote_monitoring/",

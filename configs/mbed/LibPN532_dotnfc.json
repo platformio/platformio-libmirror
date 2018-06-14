@@ -3,6 +3,13 @@
         "name": "dotnfc Tang",
         "url": "https://os.mbed.com/users/dotnfc/"
     },
+    "build": {
+        "flags": [
+            "-IPN532",
+            "-INDEF",
+            "-IPN532_IF"
+        ]
+    },
     "description": "PN532 Driver library This library provides an abstract API to drive the pn532 nfc chip, with I2C/HSU/SPI interface. Its based on the Seeed Studio's Arduino version.",
     "examples": [
         "https://os.mbed.com/users/dotnfc/code/PN532_ReadUid/"

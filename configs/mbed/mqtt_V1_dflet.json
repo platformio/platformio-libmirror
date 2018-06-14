@@ -3,6 +3,14 @@
         "name": "David Fletcher",
         "url": "https://os.mbed.com/users/dflet/"
     },
+    "build": {
+        "flags": [
+            "-Icommon",
+            "-Iinclude",
+            "-Iplatform",
+            "-Isl"
+        ]
+    },
     "dependencies": [
         {
             "authors": "David Fletcher",

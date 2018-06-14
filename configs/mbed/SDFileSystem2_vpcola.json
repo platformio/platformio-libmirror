@@ -3,6 +3,12 @@
         "name": "Vergil Cola",
         "url": "https://os.mbed.com/users/vpcola/"
     },
+    "build": {
+        "flags": [
+            "-IFATFileSystem",
+            "-IFATFileSystem/ChaN"
+        ]
+    },
     "description": "A fork of the original SDFileSystem, added only stat() for getting file information.",
     "examples": [
         "https://os.mbed.com/users/vpcola/code/FRDM_K64F_IOT/"

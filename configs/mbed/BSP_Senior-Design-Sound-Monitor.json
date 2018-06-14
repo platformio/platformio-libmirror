@@ -3,6 +3,18 @@
         "name": "Senior Design: Sound Monitor",
         "url": "https://os.mbed.com/teams/Senior-Design-Sound-Monitor/"
     },
+    "build": {
+        "flags": [
+            "-IDisco",
+            "-IComponents",
+            "-IComponents/n25q128a",
+            "-IComponents/Common",
+            "-IComponents/mfxstm32l152",
+            "-IComponents/n25q256a",
+            "-IComponents/cs43l22",
+            "-IComponents/wm8994"
+        ]
+    },
     "dependencies": [
         {
             "authors": "",

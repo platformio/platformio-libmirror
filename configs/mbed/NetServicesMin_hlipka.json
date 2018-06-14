@@ -3,6 +3,19 @@
         "name": "Hendrik Lipka",
         "url": "https://os.mbed.com/users/hlipka/"
     },
+    "build": {
+        "flags": [
+            "-Idbg",
+            "-Idrv",
+            "-Idrv/eth",
+            "-Icore",
+            "-Iapi",
+            "-Iif",
+            "-Iif/lwip",
+            "-Iif/net",
+            "-Iif/eth"
+        ]
+    },
     "dependencies": [
         {
             "authors": "mbed official",

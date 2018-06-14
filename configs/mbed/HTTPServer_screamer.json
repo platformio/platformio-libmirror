@@ -3,6 +3,24 @@
         "name": "Mihail Stoyanov",
         "url": "https://os.mbed.com/users/screamer/"
     },
+    "build": {
+        "flags": [
+            "-IHTTPClient",
+            "-ICore",
+            "-ICore/arch",
+            "-ICore/lwIP",
+            "-ICore/lwIP/core",
+            "-ICore/lwIP/core/ipv4",
+            "-ICore/lwIP/core/snmp",
+            "-ICore/lwIP/include",
+            "-ICore/lwIP/include/lwip",
+            "-ICore/lwIP/include/ipv4",
+            "-ICore/lwIP/include/ipv4/lwip",
+            "-ICore/lwIP/include/netif",
+            "-ICore/lwIP/netif",
+            "-IHTTPServer"
+        ]
+    },
     "description": "My fork of the HTTPServer (working)",
     "examples": [
         "https://os.mbed.com/users/screamer/code/DGWWebServer/",

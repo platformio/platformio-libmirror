@@ -3,6 +3,13 @@
         "name": "WIZnet",
         "url": "https://os.mbed.com/teams/WIZnet/"
     },
+    "build": {
+        "flags": [
+            "-IHelper",
+            "-ISocket",
+            "-IWizFi310"
+        ]
+    },
     "description": "WizFi310Interface for mbed OS2 ( Legacy version )",
     "examples": [
         "https://os.mbed.com/teams/WIZnet/code/WizFi310_Legacy_HelloWorld/",

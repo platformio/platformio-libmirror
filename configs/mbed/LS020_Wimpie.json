@@ -3,6 +3,11 @@
         "name": "Wim De Roeve",
         "url": "https://os.mbed.com/users/Wimpie/"
     },
+    "build": {
+        "flags": [
+            "-Ifonts"
+        ]
+    },
     "description": "LS020.h is a MobileLCD library for the LS020 display (used in GSM Siemens S65 family). Resolution 176x132",
     "frameworks": "mbed",
     "keywords": [

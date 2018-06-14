@@ -3,6 +3,12 @@
         "name": "Rohm",
         "url": "https://os.mbed.com/teams/Rohm/"
     },
+    "build": {
+        "flags": [
+            "-Isource",
+            "-Irohm-sensor-hal"
+        ]
+    },
     "description": "Platform HAL for rohm sensor drivers. Used for abstracting Arduino/mbed os/mbed classic.",
     "examples": [
         "https://os.mbed.com/teams/Rohm/code/rohm-bm1383-hello-mbedclassic/",

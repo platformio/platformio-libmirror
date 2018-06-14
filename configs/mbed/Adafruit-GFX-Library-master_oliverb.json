@@ -3,6 +3,12 @@
         "name": "Oliver Broad",
         "url": "https://os.mbed.com/users/oliverb/"
     },
+    "build": {
+        "flags": [
+            "-IFonts",
+            "-Ifontconvert"
+        ]
+    },
     "description": "MBED Import of ADAFRUIT graphics library, BSD License",
     "examples": [
         "https://os.mbed.com/users/oliverb/code/GP9002adafruit/",

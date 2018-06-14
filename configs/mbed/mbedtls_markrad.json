@@ -3,6 +3,16 @@
         "name": "Mark Radbourne",
         "url": "https://os.mbed.com/users/markrad/"
     },
+    "build": {
+        "flags": [
+            "-Iconfigs",
+            "-Iinclude",
+            "-Iinclude/mbedtls",
+            "-Ilibrary",
+            "-Idoxygen",
+            "-Idoxygen/input"
+        ]
+    },
     "description": "mbed TLS Build",
     "examples": [
         "https://os.mbed.com/users/ritesh2094/code/Encrypt_Decrypt1/",

@@ -3,6 +3,11 @@
         "name": "u-blox",
         "url": "https://os.mbed.com/teams/ublox/"
     },
+    "build": {
+        "flags": [
+            "-ISocket"
+        ]
+    },
     "description": "support library for C027 helper functions for Buffer Pipes, Buffered Serial Port (rtos capable) and GPS parsing. It includes modem APIs for USSD, SMS and Sockets.",
     "examples": [
         "https://os.mbed.com/teams/ublox/code/HTTPClient_Cellular_HelloWorld/",

@@ -3,6 +3,22 @@
         "name": "Renesas",
         "url": "https://os.mbed.com/teams/Renesas/"
     },
+    "build": {
+        "flags": [
+            "-Iinc",
+            "-Idrivers",
+            "-Idrivers/vdc5",
+            "-Idrivers/vdc5/include",
+            "-Idrivers/vdc5/src",
+            "-Idrivers/vdec",
+            "-Idrivers/vdec/include",
+            "-Idrivers/vdec/src",
+            "-Icommon",
+            "-Icommon/lcd_panel",
+            "-Ivideo_decoder",
+            "-Ilvds"
+        ]
+    },
     "description": "Video library for GR-PEACH",
     "examples": [
         "https://os.mbed.com/users/ssuzukito/code/Trace_Program2/",

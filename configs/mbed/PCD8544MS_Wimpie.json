@@ -3,6 +3,11 @@
         "name": "Wim De Roeve",
         "url": "https://os.mbed.com/users/Wimpie/"
     },
+    "build": {
+        "flags": [
+            "-Ifonts"
+        ]
+    },
     "description": "PCD8544 multiscreen",
     "frameworks": "mbed",
     "keywords": [

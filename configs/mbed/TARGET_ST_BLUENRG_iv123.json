@@ -3,6 +3,25 @@
         "name": "iv123 lin",
         "url": "https://os.mbed.com/users/iv123/"
     },
+    "build": {
+        "flags": [
+            "-Ix-nucleo-idb0xa1",
+            "-Ix-nucleo-idb0xa1utils",
+            "-Ix-nucleo-idb0xa1platform",
+            "-Ix-nucleo-idb0xa1bluenrg-hci",
+            "-Ix-nucleo-idb0xa1",
+            "-Ix-nucleo-idb0xa1/utils",
+            "-Ix-nucleo-idb0xa1/bluenrg-hci",
+            "-Ix-nucleo-idb0xa1/platform",
+            "-Isource",
+            "-Isource/utils",
+            "-Isource/bluenrg-hci",
+            "-Isource/bluenrg-hci/utils",
+            "-Isource/bluenrg-hci/hci",
+            "-Isource/bluenrg-hci/hci/controller",
+            "-Isource/platform"
+        ]
+    },
     "description": "ver:init",
     "frameworks": "mbed",
     "keywords": "BLE",

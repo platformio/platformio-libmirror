@@ -3,6 +3,17 @@
         "name": "CHENGQI YANG",
         "url": "https://os.mbed.com/users/yangcq88517/"
     },
+    "build": {
+        "flags": [
+            "-IOptions",
+            "-IHelper",
+            "-ICore",
+            "-IIndicator",
+            "-IRequest",
+            "-IType",
+            "-IDevice"
+        ]
+    },
     "dependencies": [
         {
             "authors": "CHENGQI YANG",

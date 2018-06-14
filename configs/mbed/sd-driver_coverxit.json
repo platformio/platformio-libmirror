@@ -3,6 +3,16 @@
         "name": "Shindo Wu",
         "url": "https://os.mbed.com/users/coverxit/"
     },
+    "build": {
+        "flags": [
+            "-Ifeatures",
+            "-Ifeatures/filesystem",
+            "-Ifeatures/filesystem/sd",
+            "-Idocs",
+            "-Idocs/pics",
+            "-Iconfig"
+        ]
+    },
     "description": "sd-driver with adjustable spi freq.",
     "examples": [
         "https://os.mbed.com/users/loopsva/code/K64F-os5-fs/",

@@ -3,6 +3,12 @@
         "name": "Rohm",
         "url": "https://os.mbed.com/teams/Rohm/"
     },
+    "build": {
+        "flags": [
+            "-Ilwip-wifi",
+            "-Ilwip-wifi/arch"
+        ]
+    },
     "description": "This is LWIPBP3595Interface class library. The base library is LWIPInterface.",
     "examples": [
         "https://os.mbed.com/teams/ROHM-Developers/code/LWIPBP3595Interface_STA/"

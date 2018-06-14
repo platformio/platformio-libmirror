@@ -3,6 +3,14 @@
         "name": "Dieter Graef",
         "url": "https://os.mbed.com/users/DieterGraef/"
     },
+    "build": {
+        "flags": [
+            "-IUSBMIDI",
+            "-IUSBSerial",
+            "-IUSBDevice",
+            "-IUSBHID"
+        ]
+    },
     "description": "partly working USB Device lib for STM32F746NG Discovery both Interface are working",
     "examples": [
         "https://os.mbed.com/users/DieterGraef/code/DISCO-F746NG-USB_Device/"
