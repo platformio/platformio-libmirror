@@ -3,6 +3,17 @@
         "name": "Junichi Katsu",
         "url": "https://os.mbed.com/users/jksoft/"
     },
+    "build": {
+        "flags": [
+            "-IHTTPClient",
+            "-IHTTPClient/data",
+            "-ISoftSerialSendOnly",
+            "-IESP8266InterfaceTiny",
+            "-IESP8266InterfaceTiny/ESP8266",
+            "-IESP8266InterfaceTiny/Helper",
+            "-IESP8266InterfaceTiny/Socket"
+        ]
+    },
     "description": "Simple IoT Board用のライブラリです。 ESP8266ライブラリの軽量化 送信のみのソフトシリアルライブラリを含んでいます。",
     "examples": [
         "https://os.mbed.com/users/jksoft/code/SITB_HttpGetSample/",

@@ -3,6 +3,12 @@
         "name": "Sille Van Landschoot",
         "url": "https://os.mbed.com/users/sillevl/"
     },
+    "build": {
+        "flags": [
+            "-Idrivers",
+            "-Ilib"
+        ]
+    },
     "dependencies": [
         {
             "authors": "Chris Styles",

@@ -3,6 +3,11 @@
         "name": "ST",
         "url": "https://os.mbed.com/teams/ST/"
     },
+    "build": {
+        "flags": [
+            "-Iequeue"
+        ]
+    },
     "description": "This is a fork of the `events` subdirectory of https://github.com/ARMmbed/mbed-os",
     "examples": [
         "https://os.mbed.com/teams/ST/code/HelloWorld_CCA02M1_mbed_classic/",

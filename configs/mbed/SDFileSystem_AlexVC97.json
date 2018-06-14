@@ -3,6 +3,12 @@
         "name": "Alex Vancoillie",
         "url": "https://os.mbed.com/users/AlexVC97/"
     },
+    "build": {
+        "flags": [
+            "-IFATFileSystem",
+            "-IFATFileSystem/ChaN"
+        ]
+    },
     "description": "Library for SD card",
     "examples": [
         "https://os.mbed.com/users/AlexVC97/code/City_Game_JSON/",

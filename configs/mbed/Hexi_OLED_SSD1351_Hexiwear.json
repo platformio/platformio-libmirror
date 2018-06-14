@@ -3,6 +3,11 @@
         "name": "Hexiwear",
         "url": "https://os.mbed.com/teams/Hexiwear/"
     },
+    "build": {
+        "flags": [
+            "-IOpenSans_Font"
+        ]
+    },
     "description": "Hexiwear OLED Display Driver",
     "examples": [
         "https://os.mbed.com/teams/Hexiwear/code/Hexi_OLED_TextImage_Example/",

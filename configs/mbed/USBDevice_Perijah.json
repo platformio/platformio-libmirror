@@ -3,6 +3,16 @@
         "name": "Emiel Estiévenart",
         "url": "https://os.mbed.com/users/Perijah/"
     },
+    "build": {
+        "flags": [
+            "-IUSBAudio",
+            "-IUSBMIDI",
+            "-IUSBMSD",
+            "-IUSBSerial",
+            "-IUSBDevice",
+            "-IUSBHID"
+        ]
+    },
     "description": "Base station firmware",
     "frameworks": "mbed",
     "keywords": "USBDevice",

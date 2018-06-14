@@ -3,6 +3,11 @@
         "name": "Erik Olieman",
         "url": "https://os.mbed.com/users/Sissors/"
     },
+    "build": {
+        "flags": [
+            "-IDevices"
+        ]
+    },
     "description": "Replacement for regular GPIO (DigitalIn, DigitalOut, DigitalInOut) classes which has superior speed.",
     "examples": [
         "https://os.mbed.com/users/Josvth/code/Eavesdropper/",

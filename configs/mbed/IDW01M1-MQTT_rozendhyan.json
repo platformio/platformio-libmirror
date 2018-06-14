@@ -3,6 +3,11 @@
         "name": "CHANG rozen",
         "url": "https://os.mbed.com/users/rozendhyan/"
     },
+    "build": {
+        "flags": [
+            "-IBME280"
+        ]
+    },
     "dependencies": [
         {
             "authors": "",

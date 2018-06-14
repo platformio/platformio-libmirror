@@ -3,6 +3,13 @@
         "name": "Shuto Naruse",
         "url": "https://os.mbed.com/users/narshu/"
     },
+    "build": {
+        "flags": [
+            "-ISonar",
+            "-ISonar/RF12B",
+            "-IIR"
+        ]
+    },
     "description": "Kalman",
     "frameworks": "mbed",
     "keywords": "Kalman",

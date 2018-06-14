@@ -3,6 +3,14 @@
         "name": "hsu han-lin",
         "url": "https://os.mbed.com/users/stanley1228/"
     },
+    "build": {
+        "flags": [
+            "-Iport",
+            "-Iinclude",
+            "-Irtu",
+            "-Ifunctions"
+        ]
+    },
     "description": "1.original from Cam Marshall 2.use for F446RE Test 3.use the interrupt method of uart 4.not change to RTOS yet",
     "examples": [
         "https://os.mbed.com/users/stanley1228/code/RoboticArm/",

@@ -3,6 +3,11 @@
         "name": "AB&T",
         "url": "https://os.mbed.com/users/EasyCAT/"
     },
+    "build": {
+        "flags": [
+            "-IESI"
+        ]
+    },
     "description": "EasyCAT shield library",
     "examples": [
         "https://os.mbed.com/users/EasyCAT/code/TestEasyCAT/",

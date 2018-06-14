@@ -3,6 +3,18 @@
         "name": "Lancaster University",
         "url": "https://os.mbed.com/teams/Lancaster-University/"
     },
+    "build": {
+        "flags": [
+            "-Isourcebtle",
+            "-Isourcebtle/custom",
+            "-Isourcecommon",
+            "-Isource",
+            "-Isource/common",
+            "-Isource/btle",
+            "-Isource/btle/custom",
+            "-Ibootloader"
+        ]
+    },
     "dependencies": [
         {
             "authors": "",

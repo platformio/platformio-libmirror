@@ -3,6 +3,13 @@
         "name": "Oskar Weigl",
         "url": "https://os.mbed.com/users/madcowswe/"
     },
+    "build": {
+        "flags": [
+            "-IMatrix",
+            "-IRFSRF05",
+            "-IMatrixMath"
+        ]
+    },
     "description": "Kalman filter for Eurobot",
     "frameworks": "mbed",
     "keywords": [

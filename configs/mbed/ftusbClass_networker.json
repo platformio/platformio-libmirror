@@ -3,6 +3,13 @@
         "name": "Ad van der Weiden",
         "url": "https://os.mbed.com/users/networker/"
     },
+    "build": {
+        "flags": [
+            "-Iftlib",
+            "-ImyBlueUSB",
+            "-ImyUSBHost"
+        ]
+    },
     "dependencies": [
         {
             "authors": "mbed unsupported",

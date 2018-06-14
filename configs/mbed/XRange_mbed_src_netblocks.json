@@ -3,6 +3,26 @@
         "name": "Milen Pavlov",
         "url": "https://os.mbed.com/users/netblocks/"
     },
+    "build": {
+        "flags": [
+            "-Icommon",
+            "-Ihal",
+            "-Itargets",
+            "-Itargets/cmsis",
+            "-Itargets/cmsis/TARGET_STM",
+            "-Itargets/cmsis/TARGET_STM/TARGET_STM32L1",
+            "-Itargets/cmsis/TARGET_STM/TARGET_STM32L1/TARGET_NUCLEO_L152RE",
+            "-Itargets/cmsis/TARGET_STM/TARGET_STM32L1/TARGET_NUCLEO_L152RE/TOOLCHAIN_GCC_ARM",
+            "-Itargets/cmsis/TARGET_STM/TARGET_STM32L1/TARGET_NUCLEO_L152RE/TOOLCHAIN_ARM_STD",
+            "-Itargets/cmsis/TARGET_STM/TARGET_STM32L1/TARGET_NUCLEO_L152RE/TOOLCHAIN_ARM_MICRO",
+            "-Itargets/cmsis/TARGET_STM/TARGET_STM32L1/TARGET_NUCLEO_L152RE/TOOLCHAIN_IAR",
+            "-Itargets/cmsis/TOOLCHAIN_IAR",
+            "-Itargets/hal",
+            "-Itargets/hal/TARGET_STM",
+            "-Itargets/hal/TARGET_STM/TARGET_NUCLEO_L152RE",
+            "-Iapi"
+        ]
+    },
     "description": "Mbed SDK for XRange SX1272 LoRa module",
     "examples": [
         "https://os.mbed.com/users/netblocks/code/XRangePingPong/",

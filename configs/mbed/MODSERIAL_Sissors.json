@@ -3,6 +3,11 @@
         "name": "Erik Olieman",
         "url": "https://os.mbed.com/users/Sissors/"
     },
+    "build": {
+        "flags": [
+            "-IDevice"
+        ]
+    },
     "description": "MODSERIAL with support for more devices",
     "examples": [
         "https://os.mbed.com/users/vsluiter/code/1D-Pong/",

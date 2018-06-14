@@ -3,6 +3,11 @@
         "name": "Alan Lai",
         "url": "https://os.mbed.com/users/hwing91/"
     },
+    "build": {
+        "flags": [
+            "-IHTU21D"
+        ]
+    },
     "description": "BASIC LIBRARY TO INTERFACE WITH HTU21D TEMPERATURE AND HUMIDITY SENSOR",
     "examples": [
         "https://os.mbed.com/users/sunilaluri6/code/Natural_Calamities_Monitoring_System/",

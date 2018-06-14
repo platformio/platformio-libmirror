@@ -3,6 +3,14 @@
         "name": "Jonathan Jones",
         "url": "https://os.mbed.com/users/jjones646/"
     },
+    "build": {
+        "flags": [
+            "-IRadio",
+            "-IRingBuffer",
+            "-ICC1101",
+            "-InRF24L01"
+        ]
+    },
     "description": "For robots and stuff",
     "examples": [
         "https://os.mbed.com/users/jjones646/code/Base-Station/"

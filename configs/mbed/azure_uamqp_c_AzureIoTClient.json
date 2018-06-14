@@ -3,6 +3,11 @@
         "name": "Azure IoT",
         "url": "https://os.mbed.com/users/AzureIoTClient/"
     },
+    "build": {
+        "flags": [
+            "-Iazure_uamqp_c"
+        ]
+    },
     "description": "A small memory footprint AMQP implimentation",
     "examples": [
         "https://os.mbed.com/users/AzureIoTClient/code/iothub_client_sample_amqp/",

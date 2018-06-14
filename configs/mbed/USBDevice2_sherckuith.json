@@ -3,6 +3,16 @@
         "name": "Angel David Yaguana Hernandez",
         "url": "https://os.mbed.com/users/sherckuith/"
     },
+    "build": {
+        "flags": [
+            "-IUSBSERIAL",
+            "-IUSBAudio",
+            "-IUSBMIDI",
+            "-IUSBMSD",
+            "-IUSBDevice",
+            "-IUSBHID"
+        ]
+    },
     "description": "library",
     "examples": [
         "https://os.mbed.com/users/sherckuith/code/USB_CDC_MSD_Hello/"

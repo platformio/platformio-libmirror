@@ -3,6 +3,11 @@
         "name": "Remi Beges",
         "url": "https://os.mbed.com/users/Overdrivr/"
     },
+    "build": {
+        "flags": [
+            "-Ic_api"
+        ]
+    },
     "description": "First class data visualization and communication library with embedded devices. Code is maintained at github.com/Overdrivr/Telemetry",
     "examples": [
         "https://os.mbed.com/users/Overdrivr/code/telemetry_car_demo/",

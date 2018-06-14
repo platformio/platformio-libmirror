@@ -3,6 +3,12 @@
         "name": "Juergen M",
         "url": "https://os.mbed.com/users/messi1/"
     },
+    "build": {
+        "flags": [
+            "-Iinclude",
+            "-Isrc"
+        ]
+    },
     "description": "Driver for the Seeedstudio RGB OLED module for the xadow M0",
     "frameworks": "mbed",
     "keywords": "RGB_OLED_SSD1331",

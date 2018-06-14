@@ -3,6 +3,12 @@
         "name": "MultiTech",
         "url": "https://os.mbed.com/teams/MultiTech/"
     },
+    "build": {
+        "flags": [
+            "-ICellular",
+            "-IUtils"
+        ]
+    },
     "description": "Cellular library for MTS Socket Modem Arduino Shield devices from Multi-Tech Systems",
     "examples": [
         "https://os.mbed.com/teams/MultiTech/code/mtsas/",

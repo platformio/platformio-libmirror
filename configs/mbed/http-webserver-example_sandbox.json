@@ -3,6 +3,12 @@
         "name": "sandbox",
         "url": "https://os.mbed.com/teams/sandbox/"
     },
+    "build": {
+        "flags": [
+            "-Iprofiles",
+            "-Isource"
+        ]
+    },
     "dependencies": [
         {
             "authors": "",

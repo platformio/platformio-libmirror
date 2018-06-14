@@ -3,6 +3,16 @@
         "name": "Francisco Paez",
         "url": "https://os.mbed.com/users/fep/"
     },
+    "build": {
+        "flags": [
+            "-Isrc",
+            "-Isrc/portable",
+            "-Isrc/portable/RVDS",
+            "-Isrc/portable/RVDS/ARM_CM3",
+            "-Isrc/portable/MemMang",
+            "-Isrc/include"
+        ]
+    },
     "description": "FreeRTOS v9.0.0 for ARM Cortex-M3 based boards.",
     "examples": [
         "https://os.mbed.com/users/fep/code/mbed_lpc1768_freertos_lib/"

@@ -3,6 +3,11 @@
         "name": "Shinichiro Nakamura",
         "url": "https://os.mbed.com/users/shintamainjp/"
     },
+    "build": {
+        "flags": [
+            "-Ioption"
+        ]
+    },
     "description": "Local copy of the FatFileSystem.",
     "examples": [
         "https://os.mbed.com/users/shintamainjp/code/SimpleWaveRecorderPlayer/",

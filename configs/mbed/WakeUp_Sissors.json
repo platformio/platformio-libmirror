@@ -3,6 +3,11 @@
         "name": "Erik Olieman",
         "url": "https://os.mbed.com/users/Sissors/"
     },
+    "build": {
+        "flags": [
+            "-IDevice"
+        ]
+    },
     "dependencies": [
         {
             "authors": "Erik Olieman",

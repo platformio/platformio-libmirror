@@ -3,6 +3,11 @@
         "name": "Louis-Philippe Gauthier",
         "url": "https://os.mbed.com/users/gaul2411/"
     },
+    "build": {
+        "flags": [
+            "-IEZOPH"
+        ]
+    },
     "dependencies": [
         {
             "authors": "mbed official",

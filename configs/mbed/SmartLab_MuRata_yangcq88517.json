@@ -3,6 +3,15 @@
         "name": "CHENGQI YANG",
         "url": "https://os.mbed.com/users/yangcq88517/"
     },
+    "build": {
+        "flags": [
+            "-IErrorCode",
+            "-IResponse",
+            "-IConfig",
+            "-IType",
+            "-IIndication"
+        ]
+    },
     "description": "Murata RF modules are designed to simplify wireless development and certification by minimizing the amount of RF expertise you need to wirelessly enable a wide range of applications.",
     "frameworks": "mbed",
     "keywords": [

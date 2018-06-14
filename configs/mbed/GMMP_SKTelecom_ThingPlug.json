@@ -3,6 +3,22 @@
         "name": "SKTelecom_ThingPlug",
         "url": "https://os.mbed.com/teams/SKTelecom_ThingPlug/"
     },
+    "build": {
+        "flags": [
+            "-IOperation",
+            "-IOperation/Notification",
+            "-IOperation/Delivery",
+            "-IOperation/ProfileInfo",
+            "-IOperation/Control",
+            "-IOperation/Heartbeat",
+            "-IOperation/Reg",
+            "-IUtil",
+            "-IErrorCode",
+            "-IDefine",
+            "-INetwork",
+            "-INetwork/TCPclient"
+        ]
+    },
     "description": "ThingPlug GMMP library for mbed",
     "examples": [
         "https://os.mbed.com/teams/SKTelecom_ThingPlug/code/ThingPlug_WiFi_Example/"

@@ -3,6 +3,11 @@
         "name": "Olivier Smeesters",
         "url": "https://os.mbed.com/users/osmeest/"
     },
+    "build": {
+        "flags": [
+            "-Isnd_wave_generator"
+        ]
+    },
     "description": "Classes to produce a computed sound wave on the analog output.",
     "examples": [
         "https://os.mbed.com/users/osmeest/code/SoundWaveGeneratorTest/",

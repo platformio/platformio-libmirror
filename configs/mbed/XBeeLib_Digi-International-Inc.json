@@ -3,6 +3,20 @@
         "name": "Digi International Inc.",
         "url": "https://os.mbed.com/teams/Digi-International-Inc/"
     },
+    "build": {
+        "flags": [
+            "-IFrameHandlers",
+            "-IFrameBuffer",
+            "-IXBee",
+            "-IXBee802",
+            "-IRemoteXBee",
+            "-IIO",
+            "-IFrames",
+            "-IXBeeZB",
+            "-IUtils",
+            "-IXBeeDM"
+        ]
+    },
     "dependencies": [
         {
             "authors": "",

@@ -3,6 +3,11 @@
         "name": "Emaxx Navigation Group",
         "url": "https://os.mbed.com/teams/Emaxx-Navigation-Group/"
     },
+    "build": {
+        "flags": [
+            "-Iemaxx_board"
+        ]
+    },
     "description": "Mavlink Messages for Emaxx Nav Board",
     "examples": [
         "https://os.mbed.com/teams/USNA-WSE-ES456/code/Madpulse_Speed_Control_temp/",

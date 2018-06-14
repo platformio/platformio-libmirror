@@ -3,6 +3,20 @@
         "name": "ST",
         "url": "https://os.mbed.com/teams/ST/"
     },
+    "build": {
+        "flags": [
+            "-IDrivers",
+            "-IDrivers/BSP",
+            "-IDrivers/BSP/STM32F429I-Discovery",
+            "-IDrivers/BSP/Components",
+            "-IDrivers/BSP/Components/ili9341",
+            "-IDrivers/BSP/Components/stmpe811",
+            "-IDrivers/BSP/Components/l3gd20",
+            "-IDrivers/BSP/Components/Common",
+            "-IUtilities",
+            "-IUtilities/Fonts"
+        ]
+    },
     "description": "STM32F429ZI Discovery board drivers",
     "examples": [
         "https://os.mbed.com/users/Dom952/code/2a/",

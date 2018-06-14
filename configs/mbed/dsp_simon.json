@@ -3,6 +3,26 @@
         "name": "Simon Ford",
         "url": "https://os.mbed.com/users/simon/"
     },
+    "build": {
+        "flags": [
+            "-Iinc",
+            "-Isrc",
+            "-Isrc/Common",
+            "-Isrc/Common/Include",
+            "-Isrc/Common/Source",
+            "-Isrc/Cortex-M4-M3",
+            "-Isrc/Cortex-M4-M3/ControllerFunctions",
+            "-Isrc/Cortex-M4-M3/SupportFunctions",
+            "-Isrc/Cortex-M4-M3/CommonTables",
+            "-Isrc/Cortex-M4-M3/FilteringFunctions",
+            "-Isrc/Cortex-M4-M3/FastMathFunctions",
+            "-Isrc/Cortex-M4-M3/ComplexMathFunctions",
+            "-Isrc/Cortex-M4-M3/BasicMathFunctions",
+            "-Isrc/Cortex-M4-M3/MatrixFunctions",
+            "-Isrc/Cortex-M4-M3/StatisticsFunctions",
+            "-Isrc/Cortex-M4-M3/TransformFunctions"
+        ]
+    },
     "description": "CMSIS DSP Library from CMSIS 2.0. See http://www.onarm.com/cmsis/ for full details",
     "examples": [
         "https://os.mbed.com/users/GerritPathuis/code/K22F_DSP_Matrix_least_square/",
