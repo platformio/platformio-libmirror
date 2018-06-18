@@ -1,0 +1,20 @@
+{
+    "name": "Pokitto",
+    "description" :  "Libraries for building Pokitto applications",
+    "keywords": "Pokitto",
+    "authors":
+    {
+        "name": "Jonne Valola",
+        "url": "http://developer.mbed.org/users/Pokitto/"
+    },
+    "repository":
+    {
+        "type": "hg",
+        "url": "http://developer.mbed.org/users/Pokitto/code/PokittoLib/"
+    },
+    "frameworks": "mbed",
+    "platforms":
+    [
+        "nxplpc"
+    ]
+}
