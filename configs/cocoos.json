@@ -15,6 +15,9 @@
     "include": "cocoOS_5.0.3",
     "exclude": "cocoOS_5.0.3/doc"
   },
+  "build": {
+    "flags": "-I inc"
+  },
   "frameworks": "*",
   "platforms": "atmelavr, atmelsam, ststm32, msp430"
  }
