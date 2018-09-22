@@ -1,0 +1,29 @@
+{
+    "description": "Web3E (Ethereum Embedded) interface for devices running Arduino", 
+    "repository": {
+        "url": "https://github.com/alpha-wallet/Web3E", 
+        "type": "git"
+    }, 
+    "platforms": [ 
+        "espressif32", 
+        "espressif8266"
+    ], 
+    "authors": [
+        {
+            "maintainer": true, 
+            "name": "James Brown", 
+            "url": "https://github.com/JamesSmartCell", 
+            "email": "james.brown@awallet.io"
+        }
+    ], 
+    "frameworks": "mbed",
+    "keywords": [
+        "Web3",
+        "Web3E",
+        "Ethereum",
+        "DApp"
+    ],
+    "name": "Web3E", 
+    "version": "0.91", 
+    "homepage": "https://alphawallet.io"
+}
