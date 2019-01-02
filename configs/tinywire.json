@@ -1,0 +1,36 @@
+{
+  "name": "TinyWire",
+  "keywords": "onewire, 1-wire, smbus, bus, sensor, attiny",
+  "description": "Composite Master and Slave I2C library for Atmels ATTiny microcontrollers",
+	"homepage": "https://github.com/lucullusTheOnly/TinyWire",
+  "authors":
+    {
+      "name": "lucullusTheOnly",
+      "url": "https://github.com/lucullusTheOnly",
+      "maintainer": true
+    },
+  "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/lucullusTheOnly/TinyWire.git"
+    },
+  "version": "0.0.1",
+  "downloadUrl": "http://www.pjrc.com/teensy/arduino_libraries/OneWire.zip",
+  "frameworks": "arduino",
+  "platforms": "atmelavr",
+  "examples":
+    [
+      "[Ee]xamples/*.c",
+      "[Ee]xamples/*.cpp",
+      "[Ee]xamples/*.ino",
+      "[Ee]xamples/*.pde",
+      "[Ee]xamples/*/*.c",
+      "[Ee]xamples/*/*.cpp",
+      "[Ee]xamples/*/*.ino",
+      "[Ee]xamples/*/*.pde",
+      "[Ee]xamples/*/*/*.c",
+      "[Ee]xamples/*/*/*.cpp",
+      "[Ee]xamples/*/*/*.ino",
+      "[Ee]xamples/*/*/*.pde"
+    ]
+}
