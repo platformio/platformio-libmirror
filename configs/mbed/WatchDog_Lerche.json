@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Christian Lerche",
+        "url": "https://os.mbed.com/users/Lerche/"
+    },
+    "description": "WatchDog Timer library, support for LPC1768 and LPC11U24",
+    "examples": [
+        "https://os.mbed.com/users/zainulcharbiwala/code/ECGAFE_copy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LPC11U24",
+        "LPC1768",
+        "WDT"
+    ],
+    "name": "WatchDog",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Lerche/code/WatchDog/"
+    }
+}

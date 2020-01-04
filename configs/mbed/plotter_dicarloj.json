@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Jared DiCarlo",
+        "url": "https://os.mbed.com/users/dicarloj/"
+    },
+    "description": "plotter",
+    "examples": [
+        "https://os.mbed.com/users/dicarloj/code/george/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "plotter",
+    "name": "plotter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dicarloj/code/plotter/"
+    }
+}

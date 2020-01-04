@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Yang Shi",
+        "url": "https://os.mbed.com/users/IngesupMbed01/"
+    },
+    "description": "xbee lib changé",
+    "examples": [
+        "https://os.mbed.com/users/arnaudsuire/code/Labo_TRSE_Drone/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "xbee_lib",
+    "name": "xbee_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/IngesupMbed01/code/xbee_lib/"
+    }
+}

@@ -3,15 +3,6 @@
         "name": "Marco Hsu",
         "url": "https://os.mbed.com/users/Marcomissyou/"
     },
-    "build": {
-        "flags": [
-            "-IEthernetInterface",
-            "-IEthernetInterface/Socket",
-            "-IWIFI_Driver",
-            "-IWIFI_Driver/nmc",
-            "-IWIFI_Driver/nordic"
-        ]
-    },
     "description": "WIFI_API_20150524e",
     "frameworks": "mbed",
     "keywords": "WIFI_API",

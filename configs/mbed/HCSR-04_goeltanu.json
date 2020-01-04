@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Tanu Tanu",
+        "url": "https://os.mbed.com/users/goeltanu/"
+    },
+    "description": "Ultrasonic sensor",
+    "examples": [
+        "https://os.mbed.com/users/goeltanu/code/Obstacle_Avoiding_Robot/",
+        "https://os.mbed.com/users/nrrathi/code/wireless_project_BLE/",
+        "https://os.mbed.com/users/sanskar07/code/Adaptive_Cruise_control/",
+        "https://os.mbed.com/users/sanskar07/code/DroneControl/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FRDM K64F",
+        "HCSR04",
+        "l298n"
+    ],
+    "name": "HCSR-04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/goeltanu/code/HCSR-04/"
+    }
+}

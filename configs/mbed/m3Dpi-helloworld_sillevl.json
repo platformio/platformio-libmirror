@@ -3,11 +3,6 @@
         "name": "Sille Van Landschoot",
         "url": "https://os.mbed.com/users/sillevl/"
     },
-    "build": {
-        "flags": [
-            "-Ilib"
-        ]
-    },
     "dependencies": [
         {
             "authors": "Sille Van Landschoot",

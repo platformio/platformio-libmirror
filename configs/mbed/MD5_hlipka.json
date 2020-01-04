@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Hendrik Lipka",
+        "url": "https://os.mbed.com/users/hlipka/"
+    },
+    "description": "port of a small MD5 library (see http://www.zedwood.com/article/121/cpp-md5-function ). I have removed the stream functionality (saves about 10k flash and 8k RAM)",
+    "examples": [
+        "https://os.mbed.com/users/nandgate/code/WebSockets2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "hash",
+        "md5"
+    ],
+    "name": "MD5",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hlipka/code/MD5/"
+    }
+}

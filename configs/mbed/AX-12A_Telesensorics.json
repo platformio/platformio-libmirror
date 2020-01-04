@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Telesensorics",
+        "url": "https://os.mbed.com/teams/Telesensorics/"
+    },
+    "description": "Provides an interface to an AX-12A servo. Requires the Dynamixel bus protocol library",
+    "examples": [
+        "https://os.mbed.com/teams/robot-arm-demo-team/code/RobotArmDemo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AX-12",
+        "ax12",
+        "IOT"
+    ],
+    "name": "AX-12A",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Telesensorics/code/AX-12A/"
+    }
+}

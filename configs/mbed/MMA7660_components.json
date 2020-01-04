@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "Library for the MMA7660 triple axis accelerometer",
+    "examples": [
+        "https://os.mbed.com/teams/shields/code/mbed_Shield_LCD_Accelerometer/",
+        "https://os.mbed.com/teams/shields/code/mbed_Shield_Accelerometer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "I2C",
+        "MMA7660"
+    ],
+    "name": "MMA7660",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/MMA7660/"
+    }
+}

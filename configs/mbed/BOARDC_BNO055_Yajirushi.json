@@ -5,7 +5,10 @@
     },
     "description": "BNO055をI2CとUARTで使用するためのライブラリ。UARTはmbedにて不安定なため使用できるボードとできないボードがある模様。",
     "examples": [
-        "https://os.mbed.com/users/Yajirushi/code/BNO055_BME280_/"
+        "https://os.mbed.com/users/Yajirushi/code/BNO055_BME280_/",
+        "https://os.mbed.com/users/Yamanobe/code/Yabusame2_gyro/",
+        "https://os.mbed.com/users/Yamanobe/code/GRhanawaizman/",
+        "https://os.mbed.com/users/teppei/code/test_deg_read/"
     ],
     "frameworks": "mbed",
     "keywords": "BNO055",

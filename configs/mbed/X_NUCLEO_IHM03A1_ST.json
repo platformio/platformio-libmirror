@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "X_NUCLEO_COMMON"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ST_INTERFACES"
+        }
+    ],
+    "description": "Expansion SW library to control high power stepper motor(s) using IHM03A1 expansion board(s) with Powerstep01 driver.",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/IHM03A1_ExampleFor1Motor/",
+        "https://os.mbed.com/teams/ST/code/HelloWorld_IHM03A1/",
+        "https://os.mbed.com/teams/ST/code/IHM03A1_ExampleFor3Motors/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "IHM03A1",
+        "Powerstep01",
+        "ST"
+    ],
+    "name": "X_NUCLEO_IHM03A1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/X_NUCLEO_IHM03A1/"
+    }
+}

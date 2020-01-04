@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Rohm",
+        "url": "https://os.mbed.com/teams/Rohm/"
+    },
+    "description": "Class for making communication easier from code to i2c connected Rohm/Kionix sensors. Maybe could be used later also for abstracting Arduino/mbed os. Code ported from 'C'-library rohm-sensor-hal.",
+    "examples": [
+        "https://os.mbed.com/teams/Rohm/code/kionix-kx123-hello/",
+        "https://os.mbed.com/teams/Rohm/code/rohm-bh1790glc-hello/",
+        "https://os.mbed.com/users/MACRUM/code/simple-sensor-client/",
+        "https://os.mbed.com/teams/Rohm/code/rohm-SensorShield-example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HAL",
+        "I2C"
+    ],
+    "name": "RegisterWriter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Rohm/code/RegisterWriter/"
+    }
+}

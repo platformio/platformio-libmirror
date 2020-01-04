@@ -3,12 +3,6 @@
         "name": "Juergen M",
         "url": "https://os.mbed.com/users/messi1/"
     },
-    "build": {
-        "flags": [
-            "-Iinclude",
-            "-Isrc"
-        ]
-    },
     "description": "Driver for the AT42QT1070",
     "frameworks": "mbed",
     "keywords": "QT1070",

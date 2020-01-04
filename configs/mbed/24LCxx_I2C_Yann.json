@@ -6,7 +6,6 @@
     "description": "This class provides simplified I2C access to a Microchip 24LCxx Serial EEPROM device: - Rename the class (C2424 -> C24) - Add EraseMemoryArea method - Add DumpMemoryArea method only accessible ...",
     "frameworks": "mbed",
     "keywords": [
-        "24LCxx",
         "EEPROM",
         "I2C",
         "Microchip",

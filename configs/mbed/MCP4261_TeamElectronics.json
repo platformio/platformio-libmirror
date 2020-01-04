@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "TeamElectronics",
+        "url": "https://os.mbed.com/teams/TeamElectronics/"
+    },
+    "description": "8-Bit Single/Dual SPI Digital POT with Non-Volatile Memory",
+    "frameworks": "mbed",
+    "keywords": "mcp4261",
+    "name": "MCP4261",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/TeamElectronics/code/MCP4261/"
+    }
+}

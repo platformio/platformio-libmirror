@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Shivanand Gowda",
+        "url": "https://os.mbed.com/users/shivanandgowdakr/"
+    },
+    "description": "Internal RTC Nucleo F767ZI",
+    "examples": [
+        "https://os.mbed.com/users/shivanandgowdakr/code/Internal_RTC/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Date",
+        "F767ZI",
+        "internal",
+        "Nucleo",
+        "RTC",
+        "set",
+        "time"
+    ],
+    "name": "InternalRTC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shivanandgowdakr/code/InternalRTC/"
+    }
+}

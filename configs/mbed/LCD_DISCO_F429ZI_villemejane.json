@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "VILLEMEJANE Julien",
+        "url": "https://os.mbed.com/users/villemejane/"
+    },
+    "description": "For Discovery F429ZI / LCD",
+    "examples": [
+        "https://os.mbed.com/users/villemejane/code/F429_GUI/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LCD_DISCO_F429ZI",
+    "name": "LCD_DISCO_F429ZI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/villemejane/code/LCD_DISCO_F429ZI/"
+    }
+}

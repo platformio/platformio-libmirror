@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "kouzi osaki",
+        "url": "https://os.mbed.com/users/doctorura/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "Change SPI clock.",
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/doctorura/code/SDFileSystem/"
+    }
+}

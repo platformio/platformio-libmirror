@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "IDT Optical Sensors",
+        "url": "https://os.mbed.com/teams/IDT-Optical-Sensors/"
+    },
+    "description": "ADS1256 program",
+    "frameworks": "mbed",
+    "keywords": "ADS1256",
+    "name": "ADS1256",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/IDT-Optical-Sensors/code/ADS1256/"
+    }
+}

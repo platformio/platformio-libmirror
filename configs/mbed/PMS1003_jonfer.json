@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "electronfer EF",
+        "url": "https://os.mbed.com/users/jonfer/"
+    },
+    "description": "Libreria para sensor de material particulado PMS1003",
+    "examples": [
+        "https://os.mbed.com/users/tony63/code/pm25laser/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Dust Sensor",
+        "pm10",
+        "PM2.5",
+        "pms1003"
+    ],
+    "name": "PMS1003",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jonfer/code/PMS1003/"
+    }
+}

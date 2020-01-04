@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Jenny Plunkett",
+        "url": "https://os.mbed.com/users/jplunkett/"
+    },
+    "description": "AX12 servo motor library",
+    "examples": [
+        "https://os.mbed.com/users/moove1334/code/M89_Dynamixel/",
+        "https://os.mbed.com/users/csggreen/code/M89_FULL_CODE/",
+        "https://os.mbed.com/users/csggreen/code/M89_ST_Dynamixel/",
+        "https://os.mbed.com/users/ajuton/code/DISCO_L475VG_IOT01-wifi-client/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "AX12",
+    "name": "AX12",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jplunkett/code/AX12/"
+    }
+}

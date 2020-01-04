@@ -3,22 +3,14 @@
         "name": "Rohit Grover",
         "url": "https://os.mbed.com/users/rgrover1/"
     },
-    "build": {
-        "flags": [
-            "-ISource",
-            "-ISource/portable",
-            "-ISource/portable/RVDS",
-            "-ISource/portable/RVDS/ARM_CM3",
-            "-ISource/portable/MemMang",
-            "-ISource/include"
-        ]
-    },
     "description": "www.freertos.org",
     "examples": [
         "https://os.mbed.com/users/chalikias/code/freertos_test/",
         "https://os.mbed.com/users/Sergunb/code/Nucleo/",
         "https://os.mbed.com/users/tkatolrnmcu/code/freertos_test/",
-        "https://os.mbed.com/users/yukisega/code/FreeRTOS_test/"
+        "https://os.mbed.com/users/yukisega/code/FreeRTOS_test/",
+        "https://os.mbed.com/users/JoaoJardim/code/freertos_bluetooth/",
+        "https://os.mbed.com/teams/teamALI/code/HB2018/"
     ],
     "frameworks": "mbed",
     "keywords": [

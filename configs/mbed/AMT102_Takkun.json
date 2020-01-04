@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Takumi Nakagawara",
+        "url": "https://os.mbed.com/users/Takkun/"
+    },
+    "description": "control AMT102 by manufactured by CUI.inc",
+    "examples": [
+        "https://os.mbed.com/users/Takkun/code/mbed_encoder/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "AMT102",
+    "name": "AMT102",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Takkun/code/AMT102/"
+    }
+}

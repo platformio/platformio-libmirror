@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Juan Agustin Otero",
+        "url": "https://os.mbed.com/users/JAgustinOtero/"
+    },
+    "description": "Libreria del modulo generador de seniales",
+    "examples": [
+        "https://os.mbed.com/users/JAgustinOtero/code/Graficador_De_Bode_OTERO-OSSO_PPs2018/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "AD9833",
+    "name": "AD9833",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JAgustinOtero/code/AD9833/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Yiwei Wan",
+        "url": "https://os.mbed.com/users/xiaowei_sjtu/"
+    },
+    "dependencies": [
+        {
+            "authors": "Yiwei  Wan",
+            "frameworks": "mbed",
+            "name": "lcd"
+        }
+    ],
+    "description": "v0",
+    "frameworks": "mbed",
+    "keywords": "headfile",
+    "name": "headfile",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/xiaowei_sjtu/code/headfile/"
+    }
+}

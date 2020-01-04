@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Didier Donsez",
+        "url": "https://os.mbed.com/users/donsez/"
+    },
+    "description": "Simple library and program for the SparkFun Ardumoto Shield https://www.sparkfun.com/products/9815 with the ST Nucleo F401RE The SparkFun Ardumoto shield can control two DC motors (up to 2 amps per motor). ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "H-bridge",
+        "L298",
+        "Robotic",
+        "shield"
+    ],
+    "name": "ArduMotoShield",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donsez/code/ArduMotoShield/"
+    }
+}

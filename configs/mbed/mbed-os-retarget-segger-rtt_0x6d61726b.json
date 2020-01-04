@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "0x6d61726b",
+        "url": "https://os.mbed.com/users/0x6d61726b/"
+    },
+    "description": "This is a FileHandle interface implementation and retarget registration of the stdio interface to the Segger Real-Time Terminal (RTT) instead of the default serial port. Retargeting will automatically take place ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "retarget",
+        "SeggerRTT"
+    ],
+    "name": "mbed-os-retarget-segger-rtt",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/0x6d61726b/code/mbed-os-retarget-segger-rtt/"
+    }
+}

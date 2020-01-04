@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Nespresso RGB Sensor",
+        "url": "https://os.mbed.com/teams/Nespresso-RGB-Sensor/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "GroveColourSensor"
+        }
+    ],
+    "description": "Uses a Grove colour sensor to detect changes in color samples. These values are stored in a buffer for later use",
+    "frameworks": "mbed",
+    "keywords": [
+        "color",
+        "colour",
+        "detection",
+        "detector",
+        "Grove",
+        "sensor"
+    ],
+    "name": "ColorDetector",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nespresso-RGB-Sensor/code/ColorDetector/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "HereLab",
+        "url": "https://os.mbed.com/teams/HereLab/"
+    },
+    "description": "Fork of BME280 library with I2C address fixed for Adafruit breakout module",
+    "examples": [
+        "https://os.mbed.com/teams/Arrow-Intern-IoT/code/ENV_NODE_REQUEST_POC/",
+        "https://os.mbed.com/teams/Arrow-Intern-IoT/code/ENV_F303K8/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BME280",
+    "name": "BME280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/HereLab/code/BME280/"
+    }
+}

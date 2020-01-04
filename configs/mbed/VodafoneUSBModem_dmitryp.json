@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Dmitry Pakhomenko",
+        "url": "https://os.mbed.com/users/dmitryp/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "Socket"
+        },
+        {
+            "authors": "Dmitry Pakhomenko",
+            "frameworks": "mbed",
+            "name": "USBHostWANDongle"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "lwip-sys"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "lwip"
+        }
+    ],
+    "description": "Changes to support Vodafone K4606",
+    "frameworks": "mbed",
+    "keywords": "VodafoneUSBModem",
+    "name": "VodafoneUSBModem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dmitryp/code/VodafoneUSBModem/"
+    }
+}

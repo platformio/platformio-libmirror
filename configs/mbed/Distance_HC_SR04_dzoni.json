@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Honza T.",
+        "url": "https://os.mbed.com/users/dzoni/"
+    },
+    "description": "Synchronous and asynchronous library for ultrasonic distance measurement for the device HC-SR04 with error handling functionality (out of range detection, HW error detection). Main features: \"echo\" puls duration measurement, distance ...",
+    "examples": [
+        "https://os.mbed.com/users/dzoni/code/TEST_Dist_lib/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "distance sensor",
+        "HC-SR04",
+        "measurement",
+        "SR04",
+        "ultrasonic"
+    ],
+    "name": "Distance_HC_SR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dzoni/code/Distance_HC_SR04/"
+    }
+}

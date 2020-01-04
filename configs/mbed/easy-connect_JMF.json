@@ -3,31 +3,6 @@
         "name": "Jim Flynn",
         "url": "https://os.mbed.com/users/JMF/"
     },
-    "build": {
-        "flags": [
-            "-Iesp8266-driver",
-            "-Iesp8266-driver/ESP8266",
-            "-Iesp8266-driver/ESP8266/ATParser",
-            "-Iesp8266-driver/ESP8266/ATParser/BufferedSerial",
-            "-Iesp8266-driver/ESP8266/ATParser/BufferedSerial/Buffer",
-            "-Istm-spirit1-rf-driver",
-            "-Istm-spirit1-rf-driver/stm-spirit1-rf-driver",
-            "-Istm-spirit1-rf-driver/source",
-            "-Istm-spirit1-rf-driver/source/libs",
-            "-Istm-spirit1-rf-driver/source/libs/Contiki_STM32_Library",
-            "-Istm-spirit1-rf-driver/source/libs/spirit1",
-            "-Istm-spirit1-rf-driver/source/libs/spirit1/SPIRIT1_Library",
-            "-Istm-spirit1-rf-driver/source/libs/spirit1/SPIRIT1_Library/Inc",
-            "-Istm-spirit1-rf-driver/source/libs/spirit1/SPIRIT1_Library/Src",
-            "-Istm-spirit1-rf-driver/source/libs/spirit1/X-NUCLEO-IDS01Ax",
-            "-Iatmel-rf-driver",
-            "-Iatmel-rf-driver/atmel-rf-driver",
-            "-Iatmel-rf-driver/source",
-            "-Imcr20a-rf-driver",
-            "-Imcr20a-rf-driver/mcr20a-rf-driver",
-            "-Imcr20a-rf-driver/source"
-        ]
-    },
     "dependencies": [
         {
             "authors": "",

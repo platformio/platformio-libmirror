@@ -1,0 +1,40 @@
+{
+    "authors": {
+        "name": "VILLEMEJANE Julien",
+        "url": "https://os.mbed.com/users/villemejane/"
+    },
+    "dependencies": [
+        {
+            "authors": "VILLEMEJANE Julien",
+            "frameworks": "mbed",
+            "name": "LCD_DISCO_F429ZI"
+        },
+        {
+            "authors": "VILLEMEJANE Julien",
+            "frameworks": "mbed",
+            "name": "Array_Matrix"
+        },
+        {
+            "authors": "VILLEMEJANE Julien",
+            "frameworks": "mbed",
+            "name": "TS_DISCO_F429ZI"
+        },
+        {
+            "authors": "VILLEMEJANE Julien",
+            "frameworks": "mbed",
+            "name": "BSP_DISCO_F429ZI"
+        }
+    ],
+    "description": "GUI for Discovery F429ZI",
+    "examples": [
+        "https://os.mbed.com/users/villemejane/code/PIMS_WDM_IHM/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "F429_GUI",
+    "name": "F429_GUI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/villemejane/code/F429_GUI/"
+    }
+}

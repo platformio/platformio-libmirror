@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Thao Nguyen",
+        "url": "https://os.mbed.com/users/nguyenmanhthao996tn/"
+    },
+    "description": "Uart Driver in callback coding style for Renesas GR Peach",
+    "frameworks": "mbed",
+    "keywords": "RenesasGRPeach",
+    "name": "UART_Driver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nguyenmanhthao996tn/code/UART_Driver/"
+    }
+}

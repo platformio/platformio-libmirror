@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Manuel Caballero",
+        "url": "https://os.mbed.com/users/mcm/"
+    },
+    "description": "3-Axis, ±2 g/±4 g/±8 g/±16 g Digital Accelerometer. Analog Devices",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "library"
+    ],
+    "name": "ADXL345",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mcm/code/ADXL345/"
+    }
+}

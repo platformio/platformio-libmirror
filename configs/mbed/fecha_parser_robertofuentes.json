@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "roberto fuentes",
+        "url": "https://os.mbed.com/users/robertofuentes/"
+    },
+    "description": "parser nmea gps message",
+    "frameworks": "mbed",
+    "keywords": "fecha_parser",
+    "name": "fecha_parser",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/robertofuentes/code/fecha_parser/"
+    }
+}

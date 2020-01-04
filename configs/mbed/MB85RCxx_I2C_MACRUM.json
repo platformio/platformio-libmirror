@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Toyomasa Watarai",
+        "url": "https://os.mbed.com/users/MACRUM/"
+    },
+    "description": "Fujitsu MB85RCxx I2C FRAM access library",
+    "examples": [
+        "https://os.mbed.com/users/MACRUM/code/MB85RCxx_hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FRAM",
+        "fujitsu",
+        "MB85RC"
+    ],
+    "name": "MB85RCxx_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MACRUM/code/MB85RCxx_I2C/"
+    }
+}

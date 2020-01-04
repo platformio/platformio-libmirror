@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Dagozilla to RoboCup",
+        "url": "https://os.mbed.com/teams/Dagozilla-to-RoboCup/"
+    },
+    "description": "Stepper dengan driver TB6600 Microstep Driver",
+    "examples": [
+        "https://os.mbed.com/teams/Dagozilla-to-RoboCup/code/StepperTB_Example/",
+        "https://os.mbed.com/users/csggreen/code/Lowlevel_function/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "StepperTB",
+    "name": "StepperTB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Dagozilla-to-RoboCup/code/StepperTB/"
+    }
+}

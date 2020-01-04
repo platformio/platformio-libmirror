@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Potentiostat Team",
+        "url": "https://os.mbed.com/teams/Potentiostat-Team/"
+    },
+    "description": "STM32 F103RB support for mbed-rpc, tested just once with the blinking example",
+    "examples": [
+        "https://os.mbed.com/teams/Potentiostat-Team/code/rpc_over_serial_irq/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "F103RB",
+        "rpc",
+        "stm32"
+    ],
+    "name": "mbed-rpc-stmfork",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Potentiostat-Team/code/mbed-rpc-stmfork/"
+    }
+}

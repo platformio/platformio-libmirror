@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Texas State IEEE",
+        "url": "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "DigitalInOut2"
+        }
+    ],
+    "description": "Library that can read an array of 8x3 reflectance sensors.",
+    "examples": [
+        "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/code/line_sensors_to_serial_24/",
+        "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/code/R5/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LineSensors",
+    "name": "LineSensors",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/code/LineSensors/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Kees Tijsen",
+        "url": "https://os.mbed.com/users/Deurklink/"
+    },
+    "description": "GPS-library with some changes",
+    "examples": [
+        "https://os.mbed.com/users/Deurklink/code/GPSXbee/",
+        "https://os.mbed.com/users/Deurklink/code/GPSXbee_1_1/",
+        "https://os.mbed.com/users/Deurklink/code/GPSXbee_1_0/",
+        "https://os.mbed.com/users/Deurklink/code/GPSXbeeCamera_1_0/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GPS",
+    "name": "GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Deurklink/code/GPS/"
+    }
+}

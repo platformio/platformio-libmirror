@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Joe Deu-Ngoc",
+        "url": "https://os.mbed.com/users/joe_jtdc/"
+    },
+    "description": "Adafruit_GFX library port to mbed",
+    "frameworks": "mbed",
+    "keywords": "Adafruit_GFX",
+    "name": "Adafruit_GFX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/joe_jtdc/code/Adafruit_GFX/"
+    }
+}

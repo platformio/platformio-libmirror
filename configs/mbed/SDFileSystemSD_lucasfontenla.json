@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Lucas Fontenla",
+        "url": "https://os.mbed.com/users/lucasfontenla/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "A re-written SDFileSystem library with improved compatibility, CRC support, and card removal/replacement support.",
+    "examples": [
+        "https://os.mbed.com/teams/Grupo-T/code/LCD_GT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "card",
+        "fatfilesystem",
+        "MMC",
+        "SD",
+        "SDHC",
+        "SDXC"
+    ],
+    "name": "SDFileSystemSD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lucasfontenla/code/SDFileSystemSD/"
+    }
+}

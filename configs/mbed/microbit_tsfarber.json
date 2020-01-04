@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Tami Farber",
+        "url": "https://os.mbed.com/users/tsfarber/"
+    },
+    "dependencies": [
+        {
+            "authors": "Tami Farber",
+            "frameworks": "mbed",
+            "name": "microbit-dal"
+        }
+    ],
+    "description": "Change corresponds to project file microbit-9-sendButtonData. BLE disabled so radio could be enabled.",
+    "examples": [
+        "https://os.mbed.com/users/tsfarber/code/microbit-9-sendButtonData/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "microbit",
+    "name": "microbit",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tsfarber/code/microbit/"
+    }
+}

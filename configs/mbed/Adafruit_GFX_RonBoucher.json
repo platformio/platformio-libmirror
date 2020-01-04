@@ -3,12 +3,6 @@
         "name": "Ronald Boucher",
         "url": "https://os.mbed.com/users/RonBoucher/"
     },
-    "build": {
-        "flags": [
-            "-IFonts",
-            "-Ifontconvert"
-        ]
-    },
     "description": "gfx library for ssd1351",
     "frameworks": "mbed",
     "keywords": "Adafruit_GFX",

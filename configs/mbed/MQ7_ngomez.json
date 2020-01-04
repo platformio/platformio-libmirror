@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Nerea Gomez",
+        "url": "https://os.mbed.com/users/ngomez/"
+    },
+    "description": "Library for MQ7 gas sensor",
+    "frameworks": "mbed",
+    "keywords": "MQ7",
+    "name": "MQ7",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ngomez/code/MQ7/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Andrea Corrado",
+        "url": "https://os.mbed.com/users/andcor02/"
+    },
+    "description": "Actually works, and with mbed os 5 latest",
+    "examples": [
+        "https://os.mbed.com/users/andcor02/code/CCS811-TEST/",
+        "https://os.mbed.com/teams/Cloud-Hackathon/code/Mbed-Connect-Cloud-Demo/",
+        "https://os.mbed.com/users/lwc24/code/Mbed-Connect-Cloud-Demo/",
+        "https://os.mbed.com/users/lwc24/code/HTTP-all-sensors/",
+        "https://os.mbed.com/users/andcor02/code/mbed-cloud-connect-sensor-air-quality/",
+        "https://os.mbed.com/users/Ottomanslap/code/ISA/",
+        "https://os.mbed.com/users/etiene32/code/MERGE/",
+        "https://os.mbed.com/users/etiene32/code/Example_DS3231_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "CCS811",
+    "name": "CCS811",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/andcor02/code/CCS811/"
+    }
+}

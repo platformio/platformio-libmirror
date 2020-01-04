@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Juan Luis Palacio",
+        "url": "https://os.mbed.com/users/jlpalaci/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "SDFileSystem with SPI frequency at 4MHz.",
+    "examples": [
+        "https://os.mbed.com/users/jlpalaci/code/Vibrometro_Xbee/",
+        "https://os.mbed.com/users/marlonfulla/code/2014FEB4_Vibrometro_Xbee/",
+        "https://os.mbed.com/users/marlonfulla/code/2014FEB04_Vibrometro_Xbee/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jlpalaci/code/SDFileSystem/"
+    }
+}

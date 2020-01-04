@@ -5,10 +5,7 @@
     },
     "description": "Software driver for Luminex LCD-S401M16KR LCD Numeric Display Modules 4 Digit 0.17\" 7 Seg Reflective",
     "frameworks": "mbed",
-    "keywords": [
-        "7seg",
-        "LCD"
-    ],
+    "keywords": "LCD",
     "name": "S401M16KR",
     "platforms": "*",
     "repository": {

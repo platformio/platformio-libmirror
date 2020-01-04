@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Mathias Rasmussen",
+        "url": "https://os.mbed.com/users/math991e/"
+    },
+    "description": "Play songs, Imperial march and Pirates",
+    "frameworks": "mbed",
+    "keywords": [
+        "buzzer",
+        "music"
+    ],
+    "name": "Music",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/math991e/code/Music/"
+    }
+}

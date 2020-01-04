@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "description": "32 kB bootloader for the xDot",
+    "frameworks": "mbed",
+    "keywords": "xDot-bootloader",
+    "name": "xDot-bootloader",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/xDot-bootloader/"
+    }
+}

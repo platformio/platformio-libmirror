@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Shundo Kishi",
+        "url": "https://os.mbed.com/users/syundo0730/"
+    },
+    "dependencies": [
+        {
+            "authors": "Shundo Kishi",
+            "frameworks": "mbed",
+            "name": "ArduinoSerial"
+        },
+        {
+            "authors": "Shundo Kishi",
+            "frameworks": "mbed",
+            "name": "I2Cdev"
+        }
+    ],
+    "description": "ported from https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050. Please refer this examples https://developer.mbed.org/users/syundo0730/code/MPU6050_Example/ to run this library in mbed.",
+    "examples": [
+        "https://os.mbed.com/users/syundo0730/code/MPU6050_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MPU-6050",
+        "MPU6050",
+        "MPU6050-DMP"
+    ],
+    "name": "MPU6050",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/syundo0730/code/MPU6050/"
+    }
+}

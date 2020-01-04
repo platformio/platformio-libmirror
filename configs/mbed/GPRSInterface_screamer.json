@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Mihail Stoyanov",
+        "url": "https://os.mbed.com/users/screamer/"
+    },
+    "description": "Temp fork",
+    "examples": [
+        "https://os.mbed.com/teams/shields/code/Seeed_GPRS_Shield/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "grps",
+        "shield"
+    ],
+    "name": "GPRSInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/screamer/code/GPRSInterface/"
+    }
+}

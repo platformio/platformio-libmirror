@@ -4,6 +4,11 @@
         "url": "https://os.mbed.com/users/rwunderl/"
     },
     "description": "Handles reading and scaling the analog inputs from a simple 2-axis joystick with a pushbutton. Can also attach rise and fall interrupts to the button.",
+    "examples": [
+        "https://os.mbed.com/teams/Team-Kombat/code/joystickdeneme/",
+        "https://os.mbed.com/teams/Team-Kombat/code/NOKIA_KOMBAT/",
+        "https://os.mbed.com/users/2018US_EminaTahirovi/code/projekat/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "controller",

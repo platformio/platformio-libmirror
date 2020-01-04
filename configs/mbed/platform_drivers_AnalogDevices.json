@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Analog Devices",
+        "url": "https://os.mbed.com/teams/AnalogDevices/"
+    },
+    "description": "Platform drivers for Mbed.",
+    "examples": [
+        "https://os.mbed.com/teams/AnalogDevices/code/EVAL-AD593x/",
+        "https://os.mbed.com/users/malavikasaji/code/EVAL-TempSense-ARDZ/",
+        "https://os.mbed.com/teams/AnalogDevices/code/EVAL-TempSense-ARDZ/",
+        "https://os.mbed.com/teams/AnalogDevices/code/EVAL-AD568x-AD569x/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "platform_drivers",
+    "name": "platform_drivers",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/AnalogDevices/code/platform_drivers/"
+    }
+}

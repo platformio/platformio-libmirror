@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Kristen Fernandez",
+        "url": "https://os.mbed.com/users/KrissyHam/"
+    },
+    "description": "Changed file extensions from .c to .cpp",
+    "examples": [
+        "https://os.mbed.com/users/KrissyHam/code/FINAL_PROJECT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "USBMIDI",
+    "name": "USBMIDI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/KrissyHam/code/USBMIDI/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Michael Shimniok",
+        "url": "https://os.mbed.com/users/shimniok/"
+    },
+    "description": "Driver for the Digole Serial universal LCD display adapter",
+    "examples": [
+        "https://os.mbed.com/users/shimniok/code/DataBus/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LCD",
+    "name": "DigoleSerialDisp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shimniok/code/DigoleSerialDisp/"
+    }
+}

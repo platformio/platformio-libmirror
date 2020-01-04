@@ -3,12 +3,6 @@
         "name": "Erik van de Coevering",
         "url": "https://os.mbed.com/users/Anaesthetix/"
     },
-    "build": {
-        "flags": [
-            "-Ibitmaps",
-            "-Ifonts"
-        ]
-    },
     "description": "A simple library for SSH1106 controlled GLCDs",
     "examples": [
         "https://os.mbed.com/users/Anaesthetix/code/SSH1106_OLED/"

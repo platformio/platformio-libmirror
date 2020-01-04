@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Riccardo Pattuglia",
+        "url": "https://os.mbed.com/users/riccardopat/"
+    },
+    "description": "forked due to errors in with my idw01m1 on f401",
+    "frameworks": "mbed",
+    "keywords": "wifi-x-nucleo-idw01m1-modified",
+    "name": "wifi-x-nucleo-idw01m1-modified",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/riccardopat/code/wifi-x-nucleo-idw01m1-modified/"
+    }
+}

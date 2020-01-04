@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "一様乱数，ガウス性乱数生成． このライブラリの登録時に使ったプログラム：Demo_GaussRand",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/Demo_GaussRand/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F746_SinWithNoiseGenerator/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F446_FunctionGenerator/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Guassian random number",
+        "seed",
+        "uniform random numbers"
+    ],
+    "name": "Random",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/Random/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "jan holcak",
+        "url": "https://os.mbed.com/users/plachta11b/"
+    },
+    "description": "Commands in form of sequence for ESPTerm",
+    "frameworks": "mbed",
+    "keywords": "ESPTermCommands",
+    "name": "ESPTermCommands",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/plachta11b/code/ESPTermCommands/"
+    }
+}

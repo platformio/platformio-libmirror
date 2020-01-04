@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Norimasa Okamoto",
+        "url": "https://os.mbed.com/users/va009039/"
+    },
+    "description": "USB device stack for NUCLEO-F042K6, NUCLEO-L152RE and NUCLEO-F103RB.",
+    "frameworks": "mbed",
+    "keywords": [
+        "F042K6",
+        "F103RB",
+        "L152RE",
+        "STM32F0",
+        "STM32F1",
+        "STM32L1",
+        "USBDevice"
+    ],
+    "name": "F042K6_USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/va009039/code/F042K6_USBDevice/"
+    }
+}

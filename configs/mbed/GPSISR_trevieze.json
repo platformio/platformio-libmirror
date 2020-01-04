@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Darren Ulrich",
+        "url": "https://os.mbed.com/users/trevieze/"
+    },
+    "description": "A GPS serial interrupt service routine that has an on the fly nmea parser. Works with a STM32F411RE and a Adafruit GPS logger.",
+    "examples": [
+        "https://os.mbed.com/users/trevieze/code/Bicycl_Computer_NUCLEO-F411RE/",
+        "https://os.mbed.com/users/trevieze/code/Bicycl_Computer_NUCLEO-L476RG/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GPS",
+        "interrupt",
+        "NMEA",
+        "Serial"
+    ],
+    "name": "GPSISR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/trevieze/code/GPSISR/"
+    }
+}

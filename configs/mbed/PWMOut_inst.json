@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "tarou yamada",
+        "url": "https://os.mbed.com/users/inst/"
+    },
+    "description": "PWMOut",
+    "examples": [
+        "https://os.mbed.com/users/inst/code/YMotor/",
+        "https://os.mbed.com/users/9acem/code/remoteContolledRobot/",
+        "https://os.mbed.com/users/mougino/code/Pokittris/",
+        "https://os.mbed.com/teams/Pokitto-Community-Team/code/Pokittris/",
+        "https://os.mbed.com/users/spinal/code/Pokittris/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PWMOut",
+    "name": "PWMOut",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/inst/code/PWMOut/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Manuel Caballero",
+        "url": "https://os.mbed.com/users/mcm/"
+    },
+    "description": "DS3231 Extremely Accurate I2C-Integrated RTC/TCXO/Crystal.",
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "I2C",
+        "library",
+        "Maxim",
+        "RTC"
+    ],
+    "name": "DS3231",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mcm/code/DS3231/"
+    }
+}

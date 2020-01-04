@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "David Rimer",
+        "url": "https://os.mbed.com/users/davidr99/"
+    },
+    "description": "Adafruit Led Matrix 64x32 Lib",
+    "examples": [
+        "https://os.mbed.com/users/davidr99/code/Adafruit-64x32-PWM-Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "led",
+        "matrix"
+    ],
+    "name": "LedMatrix-PWM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/davidr99/code/LedMatrix-PWM/"
+    }
+}

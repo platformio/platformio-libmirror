@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Patrick Bader",
+        "url": "https://os.mbed.com/users/BaderP/"
+    },
+    "description": "A simple library to access the DMA functionality.",
+    "frameworks": "mbed",
+    "keywords": "SimpleDMA",
+    "name": "SimpleDMA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BaderP/code/SimpleDMA/"
+    }
+}

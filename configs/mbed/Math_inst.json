@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "tarou yamada",
+        "url": "https://os.mbed.com/users/inst/"
+    },
+    "description": "Math",
+    "examples": [
+        "https://os.mbed.com/users/inst/code/OBROT_ALL/",
+        "https://os.mbed.com/teams/2018F3RC3/code/f3rc_3_auto_encode/",
+        "https://os.mbed.com/teams/ROBOSTEP_LIBRARY/code/f3rc_3_auto_lintrace_912/",
+        "https://os.mbed.com/users/Roooos/code/EMG_Realtime_Filter/",
+        "https://os.mbed.com/users/Roooos/code/EMG_Calibration/",
+        "https://os.mbed.com/teams/cansat-d_2018/code/MPU6050_cansat/",
+        "https://os.mbed.com/users/CharlesMaxim/code/MAX32630HSP3_IMU_HelloWorld/",
+        "https://os.mbed.com/teams/TSDA-Robotics/code/MAX32630HSP3_IMU_HelloWorld/",
+        "https://os.mbed.com/teams/TSDA-Robotics/code/MAX32630HSP3_Pitch_Charles/",
+        "https://os.mbed.com/teams/TSDA-Robotics/code/Maxim_Squeeks/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Math",
+    "name": "Math",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/inst/code/Math/"
+    }
+}

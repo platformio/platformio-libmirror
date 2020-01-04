@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Es YIL",
+        "url": "https://os.mbed.com/users/darkghost/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed unsupported",
+            "frameworks": "mbed",
+            "name": "FatFileSystem"
+        }
+    ],
+    "description": "mbed file downloader",
+    "examples": [
+        "https://os.mbed.com/users/darkghost/code/Yariyol/",
+        "https://os.mbed.com/users/darkghost/code/FileDownloader/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/darkghost/code/SDFileSystem/"
+    }
+}

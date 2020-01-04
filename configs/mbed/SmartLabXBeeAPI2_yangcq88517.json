@@ -3,26 +3,12 @@
         "name": "CHENGQI YANG",
         "url": "https://os.mbed.com/users/yangcq88517/"
     },
-    "build": {
-        "flags": [
-            "-ISmartLabXBeeCore",
-            "-ISmartLabXBeeCore/Options",
-            "-ISmartLabXBeeCore/BufferedArray",
-            "-ISmartLabXBeeCore/Helper",
-            "-ISmartLabXBeeCore/Core",
-            "-ISmartLabXBeeCore/Indicator",
-            "-ISmartLabXBeeCore/Request",
-            "-ISmartLabXBeeCore/Type",
-            "-ISmartLabXBeeCore/Device"
-        ]
-    },
     "description": "XBee API operation library for mbed",
     "frameworks": "mbed",
     "keywords": [
         "api",
         "Digi",
-        "xbee",
-        "zigbee"
+        "xbee"
     ],
     "name": "SmartLabXBeeAPI2",
     "platforms": "*",

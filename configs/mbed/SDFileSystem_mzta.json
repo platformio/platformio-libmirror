@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "sabme ua",
+        "url": "https://os.mbed.com/users/mzta/"
+    },
+    "dependencies": [
+        {
+            "authors": "sabme ua",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "support new rev of FatFileSystem.",
+    "examples": [
+        "https://os.mbed.com/users/mzta/code/MemFilesystem_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mzta/code/SDFileSystem/"
+    }
+}

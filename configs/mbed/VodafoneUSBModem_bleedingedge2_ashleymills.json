@@ -1,0 +1,40 @@
+{
+    "authors": {
+        "name": "Ashley Mills",
+        "url": "https://os.mbed.com/users/ashleymills/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "Socket"
+        },
+        {
+            "authors": "Ashley Mills",
+            "frameworks": "mbed",
+            "name": "USBHostWANDongle_bleedingedge"
+        },
+        {
+            "authors": "Ashley Mills",
+            "frameworks": "mbed",
+            "name": "lwip-sys"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "lwip"
+        }
+    ],
+    "description": "local fork",
+    "examples": [
+        "https://os.mbed.com/users/ashleymills/code/Encrypted/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "VodafoneUSBModem_bleedingedge2",
+    "name": "VodafoneUSBModem_bleedingedge2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ashleymills/code/VodafoneUSBModem_bleedingedge2/"
+    }
+}

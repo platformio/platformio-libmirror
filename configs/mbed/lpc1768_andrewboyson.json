@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Andrew Boyson",
+        "url": "https://os.mbed.com/users/andrewboyson/"
+    },
+    "description": "Things that remain constant whichever Mbed LPC1768 is used: peripheral definitions; leds; memory layout; main processor clock. Note that watchdog, default and hard fault handlers; peripheral power and clocks; and ...",
+    "examples": [
+        "https://os.mbed.com/users/andrewboyson/code/test-lpc1768/",
+        "https://os.mbed.com/users/andrewboyson/code/gps/",
+        "https://os.mbed.com/users/andrewboyson/code/heating/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "lpc1768",
+    "name": "lpc1768",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/andrewboyson/code/lpc1768/"
+    }
+}

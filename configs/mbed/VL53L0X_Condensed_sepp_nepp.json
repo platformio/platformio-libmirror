@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Tarek Lule",
+        "url": "https://os.mbed.com/users/sepp_nepp/"
+    },
+    "description": "Condensed Version of Public VL53L0X",
+    "examples": [
+        "https://os.mbed.com/users/sepp_nepp/code/ToF-Only-Tryout/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "VL53L0X_Condensed",
+    "name": "VL53L0X_Condensed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sepp_nepp/code/VL53L0X_Condensed/"
+    }
+}

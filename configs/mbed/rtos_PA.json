@@ -3,14 +3,6 @@
         "name": "Pierre-Alexandre Geraert",
         "url": "https://os.mbed.com/users/PA/"
     },
-    "build": {
-        "flags": [
-            "-ILPC11U24",
-            "-ILPC11U24/uARM",
-            "-ILPC1768",
-            "-ILPC1768/ARM"
-        ]
-    },
     "description": "rtos",
     "frameworks": "mbed",
     "keywords": "rtos",

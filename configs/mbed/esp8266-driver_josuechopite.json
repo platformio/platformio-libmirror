@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Josué Chópite",
+        "url": "https://os.mbed.com/users/josuechopite/"
+    },
+    "description": "Prueba ESP y SMT32f103c8t6",
+    "examples": [
+        "https://os.mbed.com/users/josuechopite/code/ESP8266_Prueba/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "esp8266-driver",
+    "name": "esp8266-driver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/josuechopite/code/esp8266-driver/"
+    }
+}

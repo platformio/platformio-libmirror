@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "John Donnal",
+        "url": "https://os.mbed.com/users/jdonnal/"
+    },
+    "description": "Control an H-Bridge using a PwmOut (enable) and two DigitalOuts (direction select). Does not change PWM Frequency",
+    "examples": [
+        "https://os.mbed.com/teams/Confetti-Launchers/code/Confetti_Launcher/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "H-bridge",
+        "motor",
+        "PwmOut"
+    ],
+    "name": "Motor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jdonnal/code/Motor/"
+    }
+}

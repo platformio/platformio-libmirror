@@ -1,0 +1,40 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ST_INTERFACES"
+        }
+    ],
+    "description": "Library used to control ST Nucleo Evaluation board IHM12A1, based on STSPIN240 low voltage dual brush DC motor control driver.",
+    "examples": [
+        "https://os.mbed.com/teams/duckietownhsunina1/code/motori/",
+        "https://os.mbed.com/teams/duckietownhsunina1/code/prova_motore/",
+        "https://os.mbed.com/teams/Duckiebot/code/SchedamotoriIHM12A1/",
+        "https://os.mbed.com/teams/duckietownhsunina1/code/prova_motore_duck/",
+        "https://os.mbed.com/teams/Duckiebot/code/SchedamotoriIHM12A1_copy/",
+        "https://os.mbed.com/teams/duckietownhsunina1/code/giro_motore_2/",
+        "https://os.mbed.com/users/lukych92/code/turtlebot3_nucleo_board_KoNaR/",
+        "https://os.mbed.com/teams/DuckietownHS/code/Giroscopio_all_osso/",
+        "https://os.mbed.com/users/LorenzoCR/code/ovvioBug/",
+        "https://os.mbed.com/teams/Team-del-Semaforo-CADC/code/ovvioBug/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "brushDC",
+        "low power",
+        "motor",
+        "ST",
+        "STSPIN240"
+    ],
+    "name": "X_NUCLEO_IHM12A1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/X_NUCLEO_IHM12A1/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "IOT",
+        "url": "https://os.mbed.com/teams/IOT1234/"
+    },
+    "description": "Library for reading data from the RHT03 / DHT22 digital humidity",
+    "examples": [
+        "https://os.mbed.com/teams/IOT1234/code/IOT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DHT22",
+        "RHT03"
+    ],
+    "name": "DHT22",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/IOT1234/code/DHT22/"
+    }
+}

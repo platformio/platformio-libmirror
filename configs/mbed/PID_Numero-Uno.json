@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Numero Uno",
+        "url": "https://os.mbed.com/teams/Numero-Uno/"
+    },
+    "description": "library to perform velocity PID control",
+    "examples": [
+        "https://os.mbed.com/teams/Numero-Uno/code/PID_VelocityExample/",
+        "https://os.mbed.com/teams/Numero-Uno/code/TheProgram/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PID",
+    "name": "PID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Numero-Uno/code/PID/"
+    }
+}

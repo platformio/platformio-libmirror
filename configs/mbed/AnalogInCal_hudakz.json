@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "Analog input with AD converter calibration for STM32F1 and STM32F3 boards.",
+    "frameworks": "mbed",
+    "keywords": [
+        "AnalogIn",
+        "Calibrated",
+        "Convertor"
+    ],
+    "name": "AnalogInCal",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/AnalogInCal/"
+    }
+}

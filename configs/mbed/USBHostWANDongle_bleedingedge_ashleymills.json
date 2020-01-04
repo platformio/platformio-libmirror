@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Ashley Mills",
+        "url": "https://os.mbed.com/users/ashleymills/"
+    },
+    "description": "local fork (temporary)",
+    "examples": [
+        "https://os.mbed.com/users/ashleymills/code/VodafoneUSBModem_bleedingedge2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "USBHostWANDongle_bleedingedge",
+    "name": "USBHostWANDongle_bleedingedge",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ashleymills/code/USBHostWANDongle_bleedingedge/"
+    }
+}

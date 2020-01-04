@@ -6,7 +6,6 @@
     "description": "Serial library for K64F MCU to use RTS pin to control the RS-485 line driver, supports 9-bit mode",
     "frameworks": "mbed",
     "keywords": [
-        "9bit",
         "RS-485",
         "Serial"
     ],

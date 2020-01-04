@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Display Module",
+        "url": "https://os.mbed.com/users/displaymodule/"
+    },
+    "description": "Driver Library for our displays",
+    "examples": [
+        "https://os.mbed.com/users/displaymodule/code/dm_bubbles/",
+        "https://os.mbed.com/users/displaymodule/code/dm_calc/",
+        "https://os.mbed.com/users/displaymodule/code/dm_paint/",
+        "https://os.mbed.com/users/displaymodule/code/dm_sdcard_with_adapter/",
+        "https://os.mbed.com/users/embeddedartists/code/lpc4088_ebb_dm_40pin_spi/",
+        "https://os.mbed.com/users/displaymodule/code/dm_calibrate/",
+        "https://os.mbed.com/users/displaymodule/code/dm_ra8875_demo/",
+        "https://os.mbed.com/users/displaymodule/code/dm_sdcard/",
+        "https://os.mbed.com/users/displaymodule/code/dm_main/",
+        "https://os.mbed.com/users/displaymodule/code/dm_touch/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DmTftLibrary",
+    "name": "DmTftLibrary",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/displaymodule/code/DmTftLibrary/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Amit Gandhi",
+        "url": "https://os.mbed.com/users/amithy/"
+    },
+    "description": "A minimal library for the DHT11.",
+    "frameworks": "mbed",
+    "keywords": "DHT11",
+    "name": "DHT22",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/amithy/code/DHT22/"
+    }
+}

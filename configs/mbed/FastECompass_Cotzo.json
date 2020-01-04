@@ -28,7 +28,6 @@
     "description": "Library for handling electronic compass. Calculate the three angles (pitch, roll, and yaw) using Tilt-Compensated algorithm.",
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
         "eCompass",
         "fast",
         "FRDM-KL46Z",

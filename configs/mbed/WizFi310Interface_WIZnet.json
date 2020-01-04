@@ -3,12 +3,7 @@
         "name": "WIZnet",
         "url": "https://os.mbed.com/teams/WIZnet/"
     },
-    "build": {
-        "flags": [
-            "-IWizFi310"
-        ]
-    },
-    "description": "This is a WizFi310 library. It supports new mbed5 features including NetworkInterfaceAPI.",
+    "description": "This library can be used in mbed driver or mbed OS2. So If you want to use WizFi310 on mbed OS5, You have to use another WizFi310 library(wizfi310-driver). That is ...",
     "examples": [
         "https://os.mbed.com/users/jehoon/code/KT_IoTMakers_WizFi310_Example/",
         "https://os.mbed.com/teams/WIZnet/code/WizFi310_STATION_HelloWorld/",
@@ -22,8 +17,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "mbed5",
-        "NetworkInterfaceAPI",
         "wifi",
         "wifiinterface",
         "wizfi310",

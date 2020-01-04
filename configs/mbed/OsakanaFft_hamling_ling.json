@@ -3,12 +3,6 @@
         "name": "Nobuhiro Kuroiwa",
         "url": "https://os.mbed.com/users/hamling_ling/"
     },
-    "build": {
-        "flags": [
-            "-Iinclude",
-            "-Isrc"
-        ]
-    },
     "description": "Fixedpoint and floatingpoint Fft practice for mbed. original url is https://github.com/hamling-ling/OsakanaFFT",
     "examples": [
         "https://os.mbed.com/users/hamling_ling/code/OsakanaFftSample/"

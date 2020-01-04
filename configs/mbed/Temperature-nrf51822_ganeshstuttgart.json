@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Ganesh Ramakrishnan",
+        "url": "https://os.mbed.com/users/ganeshstuttgart/"
+    },
+    "description": "to measure internal chip temperature of nRF51822",
+    "frameworks": "mbed",
+    "keywords": "Temperature-nrf51822",
+    "name": "Temperature-nrf51822",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ganeshstuttgart/code/Temperature-nrf51822/"
+    }
+}

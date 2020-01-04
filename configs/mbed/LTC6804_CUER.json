@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "CUER",
+        "url": "https://os.mbed.com/teams/CUER/"
+    },
+    "description": "req",
+    "examples": [
+        "https://os.mbed.com/users/DasSidG/code/BMS_BMUCore_Max_DummyData/",
+        "https://os.mbed.com/teams/CUER/code/BMS_BMUCore_Max/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LTC6804",
+    "name": "LTC6804",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/CUER/code/LTC6804/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Mathew Swabey",
+        "url": "https://os.mbed.com/users/Swabey89/"
+    },
+    "description": "SD library files",
+    "examples": [
+        "https://os.mbed.com/users/Swabey89/code/ELEC350_Project2/",
+        "https://os.mbed.com/users/wamae/code/Level_estimation_Maesurement/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDBlockDevice",
+    "name": "SDBlockDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Swabey89/code/SDBlockDevice/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "david childs",
+        "url": "https://os.mbed.com/users/davidchilds/"
+    },
+    "description": "updated for FT810 and 800x480 display",
+    "examples": [
+        "https://os.mbed.com/users/davidchilds/code/FT810_RGB_demo/",
+        "https://os.mbed.com/users/SunRiver/code/FT81x_TripComp_test/",
+        "https://os.mbed.com/teams/The-Best/code/FT810_LoadJPG/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FT800_3",
+    "name": "FT800_3",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/davidchilds/code/FT800_3/"
+    }
+}

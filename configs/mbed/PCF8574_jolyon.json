@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Jolyon Hill",
+        "url": "https://os.mbed.com/users/jolyon/"
+    },
+    "description": "Slight changes to support specific application",
+    "examples": [
+        "https://os.mbed.com/users/jolyon/code/ColourSensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PCF8574",
+    "name": "PCF8574",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jolyon/code/PCF8574/"
+    }
+}

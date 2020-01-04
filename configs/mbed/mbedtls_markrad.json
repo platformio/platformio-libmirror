@@ -3,20 +3,12 @@
         "name": "Mark Radbourne",
         "url": "https://os.mbed.com/users/markrad/"
     },
-    "build": {
-        "flags": [
-            "-Iconfigs",
-            "-Iinclude",
-            "-Iinclude/mbedtls",
-            "-Ilibrary",
-            "-Idoxygen",
-            "-Idoxygen/input"
-        ]
-    },
     "description": "mbed TLS Build",
     "examples": [
         "https://os.mbed.com/users/ritesh2094/code/Encrypt_Decrypt1/",
-        "https://os.mbed.com/users/bentor/code/mbed_blink_tls/"
+        "https://os.mbed.com/users/bentor/code/mbed_blink_tls/",
+        "https://os.mbed.com/teams/Practice/code/encrypt/",
+        "https://os.mbed.com/teams/301N-November-2018/code/encrypt/"
     ],
     "frameworks": "mbed",
     "keywords": "mbedtls",

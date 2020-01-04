@@ -3,25 +3,6 @@
         "name": "modtronix H",
         "url": "https://os.mbed.com/users/modtronix/"
     },
-    "build": {
-        "flags": [
-            "-Icommon",
-            "-Ihal",
-            "-Itargets",
-            "-Itargets/cmsis",
-            "-Itargets/cmsis/TARGET_STM",
-            "-Itargets/cmsis/TARGET_STM/TARGET_STM32L1",
-            "-Itargets/cmsis/TARGET_STM/TARGET_STM32L1/TARGET_NZ32SC151",
-            "-Itargets/cmsis/TARGET_STM/TARGET_STM32L1/TARGET_NZ32SC151/TOOLCHAIN_GCC_ARM",
-            "-Itargets/cmsis/TARGET_STM/TARGET_STM32L1/TARGET_NZ32SC151/TOOLCHAIN_ARM_STD",
-            "-Itargets/cmsis/TARGET_STM/TARGET_STM32L1/TARGET_NZ32SC151/TOOLCHAIN_ARM_MICRO",
-            "-Itargets/hal",
-            "-Itargets/hal/TARGET_STM",
-            "-Itargets/hal/TARGET_STM/TARGET_STM32L1",
-            "-Itargets/hal/TARGET_STM/TARGET_STM32L1/TARGET_NZ32SC151",
-            "-Iapi"
-        ]
-    },
     "description": "mbed library for NZ32-SC151",
     "frameworks": "mbed",
     "keywords": "NZ32-SC151",

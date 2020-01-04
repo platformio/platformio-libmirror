@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Levi DeVries",
+        "url": "https://os.mbed.com/users/lddevrie/"
+    },
+    "description": "encoder and tachometer class for EW3XX single board computer",
+    "frameworks": "mbed",
+    "keywords": "EW305sbc",
+    "name": "EW305sbc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lddevrie/code/EW305sbc/"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Craig Evans",
+        "url": "https://os.mbed.com/users/eencae/"
+    },
+    "description": "Library for ELEC2645 Gamepad PCB. University of Leeds",
+    "examples": [
+        "https://os.mbed.com/users/hongyunAHN/code/Project_MaZe1_copy/",
+        "https://os.mbed.com/users/fy14ta/code/Labirint/",
+        "https://os.mbed.com/users/Nathanj94/code/Game_Controller_Project/",
+        "https://os.mbed.com/users/hongyunAHN/code/200943373MAZE/",
+        "https://os.mbed.com/users/musallambseiso/code/nemesis_v1/",
+        "https://os.mbed.com/users/ll14c4p/code/GameProject_Prototype/",
+        "https://os.mbed.com/users/el15ss/code/Stick_Runner/",
+        "https://os.mbed.com/teams/ELEC2645-201617/code/Stick_Runner/",
+        "https://os.mbed.com/teams/ELEC2645-201617/code/Tetris_Su/",
+        "https://os.mbed.com/teams/ELEC2645-201617/code/2645_Game_Project_2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Gamepad",
+    "name": "Gamepad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eencae/code/Gamepad/"
+    }
+}

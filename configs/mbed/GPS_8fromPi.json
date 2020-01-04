@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Boris Adryan",
+        "url": "https://os.mbed.com/users/8fromPi/"
+    },
+    "description": "Slight update to sford's GPS library. Returns more data from the NMEA sentence and allows for different serial speeds (e.g. used for the Adafruit Ultimate GPSv3 Breakout Board).",
+    "examples": [
+        "https://os.mbed.com/users/8fromPi/code/GPS_HelloWorld/",
+        "https://os.mbed.com/users/anushachowdary16/code/servo_sensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GPS",
+    "name": "GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/8fromPi/code/GPS/"
+    }
+}

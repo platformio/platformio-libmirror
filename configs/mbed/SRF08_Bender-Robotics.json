@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Bender Robotics",
+        "url": "https://os.mbed.com/teams/Bender-Robotics/"
+    },
+    "description": "srf08 library working with RTOS from BenderII",
+    "frameworks": "mbed",
+    "keywords": "SRF08",
+    "name": "SRF08",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Bender-Robotics/code/SRF08/"
+    }
+}

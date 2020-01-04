@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Ryota Yamamoto",
+        "url": "https://os.mbed.com/users/Yajirushi/"
+    },
+    "description": "I2C LCD SPLC792A",
+    "examples": [
+        "https://os.mbed.com/users/Yajirushi/code/SPLC792A_LCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SPLC792I2C",
+    "name": "SPLC792I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Yajirushi/code/SPLC792I2C/"
+    }
+}

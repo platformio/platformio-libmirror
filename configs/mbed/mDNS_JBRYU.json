@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "JB RYU",
+        "url": "https://os.mbed.com/users/JBRYU/"
+    },
+    "description": "2015 - JB RYU mDNS-SD Library",
+    "frameworks": "mbed",
+    "keywords": [
+        "bonjour",
+        "DNS-SD",
+        "mdns"
+    ],
+    "name": "mDNS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JBRYU/code/mDNS/"
+    }
+}

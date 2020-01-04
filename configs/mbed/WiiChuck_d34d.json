@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Clark Scheff",
+        "url": "https://os.mbed.com/users/d34d/"
+    },
+    "description": "Generalized adaptation of the WiiChuk_compat library.",
+    "frameworks": "mbed",
+    "keywords": [
+        "numchuck",
+        "nunchuck",
+        "Nunchuk",
+        "Wii"
+    ],
+    "name": "WiiChuck",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/d34d/code/WiiChuck/"
+    }
+}

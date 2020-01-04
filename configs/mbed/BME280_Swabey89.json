@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Mathew Swabey",
+        "url": "https://os.mbed.com/users/Swabey89/"
+    },
+    "description": "BME 280 library files",
+    "frameworks": "mbed",
+    "keywords": "BME280",
+    "name": "BME280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Swabey89/code/BME280/"
+    }
+}

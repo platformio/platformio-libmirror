@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Chau Vo",
+        "url": "https://os.mbed.com/users/olympux/"
+    },
+    "description": "Watchdog timer for stm32f10x",
+    "examples": [
+        "https://os.mbed.com/users/olympux/code/F103-Web-Server/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "stm32",
+        "watchdog",
+        "WDT"
+    ],
+    "name": "Watchdog",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/olympux/code/Watchdog/"
+    }
+}

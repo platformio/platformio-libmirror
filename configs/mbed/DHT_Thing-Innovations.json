@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Thing Innovations",
+        "url": "https://os.mbed.com/teams/Thing-Innovations/"
+    },
+    "description": "DHT library",
+    "frameworks": "mbed",
+    "keywords": "DHT",
+    "name": "DHT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Thing-Innovations/code/DHT/"
+    }
+}

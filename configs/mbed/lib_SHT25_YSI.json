@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Y SI",
+        "url": "https://os.mbed.com/users/YSI/"
+    },
+    "description": "library for SHT25 humidity and temperature sensor https://www.sensirion.com/products/humidity-sensor/",
+    "examples": [
+        "https://os.mbed.com/users/YSI/code/lib_SHT25_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Humidity",
+        "sensor",
+        "SHT25",
+        "Temperature"
+    ],
+    "name": "lib_SHT25",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/YSI/code/lib_SHT25/"
+    }
+}

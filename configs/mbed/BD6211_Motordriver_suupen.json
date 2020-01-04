@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "suu pen",
+        "url": "https://os.mbed.com/users/suupen/"
+    },
+    "description": "130901現在開発中 BD6211 motor driver Library FIN,RIN にPWM信号を入れて速度制御する",
+    "frameworks": "mbed",
+    "keywords": [
+        "BD6211",
+        "control",
+        "Input",
+        "pwm"
+    ],
+    "name": "BD6211_Motordriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/suupen/code/BD6211_Motordriver/"
+    }
+}

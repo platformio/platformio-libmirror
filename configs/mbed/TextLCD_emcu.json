@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Enrico Marinoni",
+        "url": "https://os.mbed.com/users/emcu/"
+    },
+    "description": "This library must included in: NUCLEO-L152RE and Arduino LCD 1602 that is here: https://mbed.org/users/emcu/code/NUCLEOL152RE_and_Arduino_LCD1602/",
+    "examples": [
+        "https://os.mbed.com/users/emcu/code/F334andDS18B20/",
+        "https://os.mbed.com/users/emcu/code/F334andDS18B20andLCD1602andRELAYdlyCasaV/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Nucleo",
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/emcu/code/TextLCD/"
+    }
+}

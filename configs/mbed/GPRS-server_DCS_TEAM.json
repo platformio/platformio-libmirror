@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "DCS_TEAM",
+        "url": "https://os.mbed.com/teams/DCS_TEAM/"
+    },
+    "description": "tester",
+    "frameworks": "mbed",
+    "keywords": "GPRS-server",
+    "name": "GPRS-server",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/DCS_TEAM/code/GPRS-server/"
+    }
+}

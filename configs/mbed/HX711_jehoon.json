@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "jehoon song",
+        "url": "https://os.mbed.com/users/jehoon/"
+    },
+    "description": "Librairie HX711 fonctionnel sur Nucleo L152RE",
+    "examples": [
+        "https://os.mbed.com/users/jehoon/code/WaterLogger/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "example",
+        "W7500"
+    ],
+    "name": "HX711",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jehoon/code/HX711/"
+    }
+}

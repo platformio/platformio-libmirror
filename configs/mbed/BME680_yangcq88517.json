@@ -4,6 +4,9 @@
         "url": "https://os.mbed.com/users/yangcq88517/"
     },
     "description": "BME680 is an integrated environmental sensor developed specifically for mobile applications and wearables where size and low power consumption are key requirements.",
+    "examples": [
+        "https://os.mbed.com/users/etiene32/code/Example_DS3231_test/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "BME680",

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "TESIS SATUROMETRICA",
+        "url": "https://os.mbed.com/teams/TESIS-SATUROMETRICA/"
+    },
+    "description": "DATA PROCESSING FOR SPO2 AND HR",
+    "examples": [
+        "https://os.mbed.com/users/Ferszt/code/MAX30100_FirstTry/",
+        "https://os.mbed.com/teams/TESIS-SATUROMETRICA/code/MAX30100_V04/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PROCESAMIENTO_DATOS_SP02",
+    "name": "PROCESAMIENTO_DATOS_SP02",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/TESIS-SATUROMETRICA/code/PROCESAMIENTO_DATOS_SP02/"
+    }
+}

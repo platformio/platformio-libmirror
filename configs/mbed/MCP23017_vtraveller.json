@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Justin Howard",
+        "url": "https://os.mbed.com/users/vtraveller/"
+    },
+    "description": "Basic library of routines to interface to a Microchip MCP23017 16-bit I/O expander using an I2C interface.",
+    "examples": [
+        "https://os.mbed.com/users/vtraveller/code/AdaFruit_RGBLCD/",
+        "https://os.mbed.com/teams/CaryCoders/code/SX1276_GPS/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "MCP23017",
+        "wattbob"
+    ],
+    "name": "MCP23017",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vtraveller/code/MCP23017/"
+    }
+}

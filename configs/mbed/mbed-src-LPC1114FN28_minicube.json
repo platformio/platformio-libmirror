@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "minicube.net .",
+        "url": "https://os.mbed.com/users/minicube/"
+    },
+    "description": "Fork of mbed-src file paths change. LPC1114FN28 use only.",
+    "frameworks": "mbed",
+    "keywords": [
+        "LPC1114",
+        "LPC1114FN28",
+        "mbed-sdk"
+    ],
+    "name": "mbed-src-LPC1114FN28",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/minicube/code/mbed-src-LPC1114FN28/"
+    }
+}

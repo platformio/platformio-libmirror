@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Michael Steel",
+        "url": "https://os.mbed.com/users/Demonthorn/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Modified DHT11 Library with floated variable to allow readings in Centigrade",
+    "examples": [
+        "https://os.mbed.com/users/Demonthorn/code/mbed_plant_rig/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DHT11",
+    "name": "DHT11",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Demonthorn/code/DHT11/"
+    }
+}

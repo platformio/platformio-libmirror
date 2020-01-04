@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Daisuke Nakayama",
+        "url": "https://os.mbed.com/users/j_rocket_boy/"
+    },
+    "description": "Receive GPS by interrupt processing",
+    "examples": [
+        "https://os.mbed.com/users/j_rocket_boy/code/Sample_GPS_INT_lib/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GPS",
+        "interrupt"
+    ],
+    "name": "GPS_INT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/j_rocket_boy/code/GPS_INT/"
+    }
+}

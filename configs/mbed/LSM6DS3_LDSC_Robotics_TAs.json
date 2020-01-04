@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "LDSC_Robotics_TAs",
+        "url": "https://os.mbed.com/teams/LDSC_Robotics_TAs/"
+    },
+    "description": "compiled unsuccessful but not sure if it works",
+    "frameworks": "mbed",
+    "keywords": "LSM6DS3",
+    "name": "LSM6DS3",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/LDSC_Robotics_TAs/code/LSM6DS3/"
+    }
+}

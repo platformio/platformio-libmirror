@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Mark Randall",
+        "url": "https://os.mbed.com/users/mr63/"
+    },
+    "description": "This Library allows you to use any pin on the mbed micro as PWM out. It also allows the user to update the Period and Pulse width in realtime.",
+    "frameworks": "mbed",
+    "keywords": [
+        "pwm",
+        "PwmOut"
+    ],
+    "name": "PwmOutAny",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mr63/code/PwmOutAny/"
+    }
+}

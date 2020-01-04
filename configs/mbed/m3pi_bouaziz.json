@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Samir Bouaziz",
+        "url": "https://os.mbed.com/users/bouaziz/"
+    },
+    "description": "function correction on motor control adding get individual sensor function",
+    "examples": [
+        "https://os.mbed.com/users/bouaziz/code/m3PI_TP_POPS_II2015v0/",
+        "https://os.mbed.com/teams/Polytech_TP_EES_M3PI/code/m3PI_TP_POPS_II2015v0/",
+        "https://os.mbed.com/teams/Polytech_TP_EES_M3PI/code/m3PI_TP1_SETI2018/",
+        "https://os.mbed.com/users/Dalaldeh/code/ourproject/",
+        "https://os.mbed.com/users/diogohideki/code/m3PI_TP_SETI/",
+        "https://os.mbed.com/teams/Polytech_TP_EES_M3PI/code/m3PI_TP1_SETI2019/",
+        "https://os.mbed.com/teams/Polytech_TP_EES_M3PI/code/m3PI_SETI2019_TP3/",
+        "https://os.mbed.com/teams/Polytech_TP_EES_M3PI/code/m3PI_SETI2019_TP4/",
+        "https://os.mbed.com/users/sylia/code/revision/",
+        "https://os.mbed.com/teams/Polytech_TP_EES_M3PI/code/m3PI_SETI2019_TP5/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "M2PI",
+        "paris",
+        "polytech",
+        "pour",
+        "sud"
+    ],
+    "name": "m3pi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bouaziz/code/m3pi/"
+    }
+}

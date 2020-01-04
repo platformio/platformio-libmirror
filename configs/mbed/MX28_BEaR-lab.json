@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "BE@R lab",
+        "url": "https://os.mbed.com/teams/BEaR-lab/"
+    },
+    "description": "modify to nucleo STM32F411",
+    "examples": [
+        "https://os.mbed.com/teams/BEaR-lab/code/MX_control/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MX28",
+    "name": "MX28",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/BEaR-lab/code/MX28/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "UAVRO",
+        "url": "https://os.mbed.com/teams/UAVRO/"
+    },
+    "description": "High resolution barometer and altimeter using i2c mode",
+    "examples": [
+        "https://os.mbed.com/teams/UAVRO/code/Q2_Stabi/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Altimeter",
+        "barometer",
+        "I2C",
+        "ms5611"
+    ],
+    "name": "ms5611",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/UAVRO/code/ms5611/"
+    }
+}

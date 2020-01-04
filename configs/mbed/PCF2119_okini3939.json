@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "PCF2119x based I2C LCD Library. SUNLIKE DISPLAY SCG002B (PCF2119SU/2)",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/barometer-m0/",
+        "https://os.mbed.com/users/okini3939/code/PCF2119_hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LCD",
+        "PCF2119",
+        "PCF2119x",
+        "SCG002B",
+        "TextLCD"
+    ],
+    "name": "PCF2119",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/PCF2119/"
+    }
+}

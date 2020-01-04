@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "Implementation of CRC16-CCITT using polynomial 0x1021 = x^16 + x^12 + x^5 + 1",
+    "frameworks": "mbed",
+    "keywords": [
+        "CRC",
+        "CRC16-CCITT",
+        "CRC16;CCITT"
+    ],
+    "name": "CRC16_CCITT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/CRC16_CCITT/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "ILI9341 display driver (with SPI DMA) for STM32F4 targets. Fork of https://os.mbed.com/users/beaglescout007/code/Nucleo_Ex06_EMU/file/3dac1f1bc9e0/TFT/. Added support for STM32F407 (Seeed Arch Max).",
+    "examples": [
+        "https://os.mbed.com/users/hudakz/code/STM32F407VET6_Pong/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DMA",
+        "ILI9341",
+        "SPI",
+        "STM32F4"
+    ],
+    "name": "ILI9341_STM32F4",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/ILI9341_STM32F4/"
+    }
+}

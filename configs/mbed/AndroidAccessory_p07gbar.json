@@ -3,11 +3,6 @@
         "name": "Giles Barton-Owen",
         "url": "https://os.mbed.com/users/p07gbar/"
     },
-    "build": {
-        "flags": [
-            "-IUSBHost"
-        ]
-    },
     "description": "The modified AndroidAccessory Library",
     "examples": [
         "https://os.mbed.com/users/p07gbar/code/ADKTerm/",
@@ -17,7 +12,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "ADK",
         "android",
         "USB"
     ],

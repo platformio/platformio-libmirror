@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "WizziLab",
+        "url": "https://os.mbed.com/teams/WizziLab/"
+    },
+    "description": "CRC basic library",
+    "examples": [
+        "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_big_file/",
+        "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_CodeUpgradeProtocol/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "CRC",
+    "name": "CRC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/WizziLab/code/CRC/"
+    }
+}

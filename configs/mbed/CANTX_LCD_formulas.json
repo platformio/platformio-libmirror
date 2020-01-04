@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Nenad Djalovic",
+        "url": "https://os.mbed.com/users/formulas/"
+    },
+    "description": "CAN Transceive with STM32F469NI Discovery LCD Display board",
+    "frameworks": "mbed",
+    "keywords": "CANTX_LCD",
+    "name": "CANTX_LCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/formulas/code/CANTX_LCD/"
+    }
+}

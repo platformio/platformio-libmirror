@@ -4,6 +4,9 @@
         "url": "https://os.mbed.com/users/rajit/"
     },
     "description": "Port of the FreeModbus Libary for mbed, copied from https://developer.mbed.org/users/cam/code/Modbus/ and upgraded to mbed 5",
+    "examples": [
+        "https://os.mbed.com/users/mbedhe/code/NUCLEO-F401-printf/"
+    ],
     "frameworks": "mbed",
     "keywords": "Modbus",
     "name": "Modbus",

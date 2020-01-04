@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Justin Montgomery",
+        "url": "https://os.mbed.com/users/montgojj/"
+    },
+    "description": "FTDI FT810 Library",
+    "frameworks": "mbed",
+    "keywords": "FT810_SMC",
+    "name": "FT810_SMC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/montgojj/code/FT810_SMC/"
+    }
+}

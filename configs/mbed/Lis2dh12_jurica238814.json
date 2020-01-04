@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Jurica Resetar",
+        "url": "https://os.mbed.com/users/jurica238814/"
+    },
+    "description": "Library for LIS2DH12 acc.",
+    "examples": [
+        "https://os.mbed.com/users/jurica238814/code/acnSensa_LIS/",
+        "https://os.mbed.com/users/jurica238814/code/aconnoCellularGnss/",
+        "https://os.mbed.com/users/jurica238814/code/Lizzy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Lis2dh12",
+    "name": "Lis2dh12",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jurica238814/code/Lis2dh12/"
+    }
+}

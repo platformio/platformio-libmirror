@@ -3,15 +3,6 @@
         "name": "John Bailey",
         "url": "https://os.mbed.com/users/johnb/"
     },
-    "build": {
-        "flags": [
-            "-IRemote",
-            "-IRXTX",
-            "-IBase",
-            "-IConfig",
-            "-IUtility"
-        ]
-    },
     "dependencies": [
         {
             "authors": "John Bailey",
@@ -39,7 +30,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "802.15.4",
         "wireless",
         "xbee"
     ],

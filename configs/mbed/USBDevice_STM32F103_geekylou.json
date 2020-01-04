@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Louise Newberry",
+        "url": "https://os.mbed.com/users/geekylou/"
+    },
+    "description": "Update for new version of mbed.",
+    "examples": [
+        "https://os.mbed.com/users/geekylou/code/DHT11_USBSerial/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Maple_Mini",
+    "name": "USBDevice_STM32F103",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/geekylou/code/USBDevice_STM32F103/"
+    }
+}

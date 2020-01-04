@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Paul Grant",
+        "url": "https://os.mbed.com/users/readysteadygo2006/"
+    },
+    "description": "mq lib",
+    "examples": [
+        "https://os.mbed.com/users/readysteadygo2006/code/gather_sensor_data/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MQ135",
+    "name": "MQ135",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/readysteadygo2006/code/MQ135/"
+    }
+}

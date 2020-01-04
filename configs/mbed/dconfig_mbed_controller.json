@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "mbed_controller",
+        "url": "https://os.mbed.com/teams/mbed_controller/"
+    },
+    "description": "The key and value pairs config wrapper class for managing app setting.",
+    "examples": [
+        "https://os.mbed.com/teams/mbed_controller/code/dconfig_demo/",
+        "https://os.mbed.com/teams/mbed_controller/code/mbed_controller_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Config",
+        "setting"
+    ],
+    "name": "dconfig",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/mbed_controller/code/dconfig/"
+    }
+}

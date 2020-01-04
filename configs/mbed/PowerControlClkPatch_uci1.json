@@ -4,6 +4,10 @@
         "url": "https://os.mbed.com/users/uci1/"
     },
     "description": "Patched version of the PowerControl library that handles (re)starting clocks such that (ETH) power can be brought up and down repeatedly without stalling the mbed.",
+    "examples": [
+        "https://os.mbed.com/users/uci1/code/AutonomousDAQ/",
+        "https://os.mbed.com/users/jhanson2/code/AutonomousDAQ/"
+    ],
     "frameworks": "mbed",
     "keywords": "PowerControlClkPatch",
     "name": "PowerControlClkPatch",

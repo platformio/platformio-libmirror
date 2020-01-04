@@ -4,10 +4,12 @@
         "url": "https://os.mbed.com/users/luizhespanha/"
     },
     "description": "This is a library for the Adafruit LED Backpacks. This library works with the Adafruit Mini 8x8.",
+    "examples": [
+        "https://os.mbed.com/users/chessemaster5000/code/CompSci335Project/",
+        "https://os.mbed.com/teams/DUEM1/code/TritiumSim/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "8x8",
-        "Adafruit",
         "backpack",
         "led"
     ],

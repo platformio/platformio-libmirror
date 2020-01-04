@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "WIZnet",
+        "url": "https://os.mbed.com/teams/WIZnet/"
+    },
+    "description": "Update FTPClient",
+    "examples": [
+        "https://os.mbed.com/users/MidnightCow/code/Digital_Photo_Frame_with_FTP_SD_WIZwiki-/",
+        "https://os.mbed.com/users/justinkim/code/FTP_Streaming_Music_Player_WIZwiki-W7500/",
+        "https://os.mbed.com/users/Ricky_Kwon/code/GIF2015/",
+        "https://os.mbed.com/teams/WIZnet/code/MP3Decoding_VS1002_WIZwiki-W7500/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DPF",
+        "FTP",
+        "photo",
+        "W7500",
+        "WIZwiki_W7500"
+    ],
+    "name": "FTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/WIZnet/code/FTPClient/"
+    }
+}

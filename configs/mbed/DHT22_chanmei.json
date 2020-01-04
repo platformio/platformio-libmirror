@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "je ch",
+        "url": "https://os.mbed.com/users/chanmei/"
+    },
+    "description": "dht22 libraray for f411",
+    "frameworks": "mbed",
+    "keywords": "DHT22",
+    "name": "DHT22",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chanmei/code/DHT22/"
+    }
+}

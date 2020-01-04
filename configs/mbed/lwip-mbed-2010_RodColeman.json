@@ -3,24 +3,6 @@
         "name": "Rod Coleman",
         "url": "https://os.mbed.com/users/RodColeman/"
     },
-    "build": {
-        "flags": [
-            "-IHTTPClient",
-            "-ICore",
-            "-ICore/arch",
-            "-ICore/lwIP",
-            "-ICore/lwIP/core",
-            "-ICore/lwIP/core/ipv4",
-            "-ICore/lwIP/core/snmp",
-            "-ICore/lwIP/include",
-            "-ICore/lwIP/include/lwip",
-            "-ICore/lwIP/include/ipv4",
-            "-ICore/lwIP/include/ipv4/lwip",
-            "-ICore/lwIP/include/netif",
-            "-ICore/lwIP/netif",
-            "-IHTTPServer"
-        ]
-    },
     "description": "Port of LwIP performed by Ralf in 2010. Not recommended for use with recent mbed libraries, but good demos of raw LwIP possible",
     "examples": [
         "https://os.mbed.com/users/RodColeman/code/LwIP_raw_API_serverExample/",

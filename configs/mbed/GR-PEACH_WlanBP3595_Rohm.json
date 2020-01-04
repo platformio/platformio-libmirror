@@ -3,12 +3,6 @@
         "name": "Rohm",
         "url": "https://os.mbed.com/teams/Rohm/"
     },
-    "build": {
-        "flags": [
-            "-Ilwip-wifi",
-            "-Ilwip-wifi/arch"
-        ]
-    },
     "description": "This is GR_PEACH_WlanBP3595 class library. The base library is EthernetInterface.",
     "examples": [
         "https://os.mbed.com/teams/ROHM-Developers/code/GR-PEACH_WlanBP3595AP/",

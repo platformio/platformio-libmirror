@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Analog Devices",
+        "url": "https://os.mbed.com/teams/AnalogDevices/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "CN0397"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "CN0397 Smart Visible Light detection shield",
+    "frameworks": "mbed",
+    "keywords": [
+        "Analog",
+        "CN0397",
+        "devices",
+        "light",
+        "sensor",
+        "visible"
+    ],
+    "name": "cn0397-helloworld",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/AnalogDevices/code/cn0397-helloworld/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Karl Zweimüller",
+        "url": "https://os.mbed.com/users/charly/"
+    },
+    "description": "Fork of 24LCxx_I2C. Works for Renesas EEPROMs. Fixes problems with PageWrites over page boundaries.",
+    "frameworks": "mbed",
+    "keywords": "EEPROM",
+    "name": "24LCxx_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/charly/code/24LCxx_I2C/"
+    }
+}

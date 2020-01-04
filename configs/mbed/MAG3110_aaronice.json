@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Aaron Huang",
+        "url": "https://os.mbed.com/users/aaronice/"
+    },
+    "description": "Simple library for MAG3110 magenetometer as built into FRDM-KL46Z module;",
+    "examples": [
+        "https://os.mbed.com/users/aaronice/code/serialSENS/",
+        "https://os.mbed.com/users/scohennm/code/magsensor_46_v2/",
+        "https://os.mbed.com/users/scohennm/code/fibbo_test_v1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "kl46z",
+        "MAG3110"
+    ],
+    "name": "MAG3110",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aaronice/code/MAG3110/"
+    }
+}

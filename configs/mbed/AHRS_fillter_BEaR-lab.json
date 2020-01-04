@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "BE@R lab",
+        "url": "https://os.mbed.com/teams/BEaR-lab/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "MPU9250_Interface"
+        }
+    ],
+    "description": "filter for imu",
+    "examples": [
+        "https://os.mbed.com/teams/BEaR-lab/code/MPU9250AHRS_OOP/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "AHRS_fillter",
+    "name": "AHRS_fillter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/BEaR-lab/code/AHRS_fillter/"
+    }
+}

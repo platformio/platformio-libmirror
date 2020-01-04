@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Mitek ...",
+        "url": "https://os.mbed.com/users/x893/"
+    },
+    "description": "Lib for the new LCD Display with ILI9341 controller",
+    "examples": [
+        "https://os.mbed.com/users/x893/code/RM3100/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SPI_TFT_ILI9341",
+    "name": "SPI_TFT_ILI9341",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/x893/code/SPI_TFT_ILI9341/"
+    }
+}

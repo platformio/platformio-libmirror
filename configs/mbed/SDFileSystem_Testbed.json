@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Testbed",
+        "url": "https://os.mbed.com/teams/Testbed/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "SDFileSystem",
+    "examples": [
+        "https://os.mbed.com/teams/Threaded-Codes/code/1kbftp_final/",
+        "https://os.mbed.com/teams/Testbed/code/trial/",
+        "https://os.mbed.com/users/jaspreetsingh/code/fft_merge_main_codev1_FTPGTET/",
+        "https://os.mbed.com/teams/Testbed/code/delete_file/",
+        "https://os.mbed.com/teams/Testbed/code/delete_file_Working/",
+        "https://os.mbed.com/teams/Testbed/code/FTPGET_Merged_pm/",
+        "https://os.mbed.com/teams/Testbed/code/FTPGET_Merged/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FAT",
+        "file",
+        "SD",
+        "System"
+    ],
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Testbed/code/SDFileSystem/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Toyomasa Watarai",
+        "url": "https://os.mbed.com/users/MACRUM/"
+    },
+    "description": "Fujitsu MB85RSxx SPI FRAM access library",
+    "examples": [
+        "https://os.mbed.com/users/MACRUM/code/MB85RSxx_Hello/",
+        "https://os.mbed.com/users/kenjiArai/code/TYBLE16_simple_data_logger/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FRAM",
+        "fujitsu",
+        "MB85RS"
+    ],
+    "name": "MB85RSxx_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MACRUM/code/MB85RSxx_SPI/"
+    }
+}

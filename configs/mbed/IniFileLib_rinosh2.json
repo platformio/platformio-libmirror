@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "rinosh 2",
+        "url": "https://os.mbed.com/users/rinosh2/"
+    },
+    "description": "Simple library of INI file parser.",
+    "examples": [
+        "https://os.mbed.com/users/rinosh2/code/TrainInfoSample/",
+        "https://os.mbed.com/users/jksoft/code/WatchSensorMail/",
+        "https://os.mbed.com/teams/seiki-ce/code/mbed_X069/",
+        "https://os.mbed.com/teams/seiki-ce/code/mbed_X069_BusIn/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "file",
+        "ini"
+    ],
+    "name": "IniFileLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rinosh2/code/IniFileLib/"
+    }
+}

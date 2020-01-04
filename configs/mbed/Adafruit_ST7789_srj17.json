@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Sreeteja Jonnada",
+        "url": "https://os.mbed.com/users/srj17/"
+    },
+    "description": "A modification of the ported Adafruit_ST7735 library by SomeRandomBloke to work with the ST7789 and 240x240 displays",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "ST7789",
+        "TFT"
+    ],
+    "name": "Adafruit_ST7789",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/srj17/code/Adafruit_ST7789/"
+    }
+}

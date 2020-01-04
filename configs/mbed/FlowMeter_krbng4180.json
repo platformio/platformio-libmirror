@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Kyle Rabago-Banjo",
+        "url": "https://os.mbed.com/users/krbng4180/"
+    },
+    "description": "An API for interacting with the Adafruit flow meter.",
+    "frameworks": "mbed",
+    "keywords": "FlowMeter",
+    "name": "FlowMeter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/krbng4180/code/FlowMeter/"
+    }
+}

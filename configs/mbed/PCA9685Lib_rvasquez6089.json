@@ -5,10 +5,7 @@
     },
     "description": "This is a library for the PCA9685 ported from the Adafruit Ardiuno library.",
     "frameworks": "mbed",
-    "keywords": [
-        "Adafruit",
-        "PCA9685"
-    ],
+    "keywords": "PCA9685",
     "name": "PCA9685Lib",
     "platforms": "*",
     "repository": {

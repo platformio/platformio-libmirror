@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Texas State IEEE",
+        "url": "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Basic library for Pololu's Sharp GP2Y0A51SK0F",
+    "examples": [
+        "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/code/GrabTest/",
+        "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/code/R5-2016-Robotics-Team-1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DistanceSensor",
+    "name": "DistanceSensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Texas-State-IEEE-Robotics/code/DistanceSensor/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "YongChing Tee",
+        "url": "https://os.mbed.com/users/YongChingTee/"
+    },
+    "description": "forked",
+    "examples": [
+        "https://os.mbed.com/users/YongChingTee/code/Lab3/",
+        "https://os.mbed.com/users/lenhardt/code/4180_FDP_Test2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "wave_player",
+    "name": "wave_player",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/YongChingTee/code/wave_player/"
+    }
+}

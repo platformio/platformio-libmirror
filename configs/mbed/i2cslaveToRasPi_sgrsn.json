@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "hidaka sato",
+        "url": "https://os.mbed.com/users/sgrsn/"
+    },
+    "description": "i2c slave class to RaspberryPi with interrupt",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "interrupt",
+        "RaspberryPi",
+        "slave"
+    ],
+    "name": "i2cslaveToRasPi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sgrsn/code/i2cslaveToRasPi/"
+    }
+}

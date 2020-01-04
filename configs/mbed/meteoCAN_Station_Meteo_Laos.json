@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Station Meteo Laos",
+        "url": "https://os.mbed.com/users/Station_Meteo_Laos/"
+    },
+    "description": "Permet de créer, envoyer, filtrer et décrypter la trame meteo.",
+    "examples": [
+        "https://os.mbed.com/users/Station_Meteo_Laos/code/Simulation_carte_maitresse/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "meteoCAN",
+    "name": "meteoCAN",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Station_Meteo_Laos/code/meteoCAN/"
+    }
+}

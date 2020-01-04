@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "JianYangs jian",
+        "url": "https://os.mbed.com/users/feilang/"
+    },
+    "description": "new pms1003 lib is not complish",
+    "examples": [
+        "https://os.mbed.com/users/feilang/code/FTHR_OLED/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "pms1003",
+    "name": "pms1003",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/feilang/code/pms1003/"
+    }
+}

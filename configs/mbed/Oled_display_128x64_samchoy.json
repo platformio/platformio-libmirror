@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Sam Choy",
+        "url": "https://os.mbed.com/users/samchoy/"
+    },
+    "description": "This is the OLED library for 128x64 display",
+    "frameworks": "mbed",
+    "keywords": "OLED 128x64",
+    "name": "Oled_display_128x64",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/samchoy/code/Oled_display_128x64/"
+    }
+}

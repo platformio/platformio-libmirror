@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Rodolphe Michel",
+        "url": "https://os.mbed.com/users/rodolphemichel/"
+    },
+    "dependencies": [
+        {
+            "authors": "schneider françois",
+            "frameworks": "mbed",
+            "name": "OneWire"
+        }
+    ],
+    "description": "bah oui",
+    "frameworks": "mbed",
+    "keywords": "DS18B20",
+    "name": "DS18B20",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rodolphemichel/code/DS18B20/"
+    }
+}

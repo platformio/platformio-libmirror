@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "mbed_example",
+        "url": "https://os.mbed.com/teams/mbed_example/"
+    },
+    "description": "UserAllocatedEvent class example to manually instantiate, configure and post events onto the static EventQueue.",
+    "frameworks": "mbed",
+    "keywords": "mbed-os-example-static-events",
+    "name": "mbed-os-example-static-events",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/mbed_example/code/mbed-os-example-static-events/"
+    }
+}

@@ -12,11 +12,11 @@
     ],
     "description": "Simple cpp wrapper of a ds18b20, onewire 'c' library. Supports multiple sensors.",
     "examples": [
-        "https://os.mbed.com/users/umairaftab/code/DS18B20Sensor/"
+        "https://os.mbed.com/users/umairaftab/code/DS18B20Sensor/",
+        "https://os.mbed.com/users/SereinTT/code/DS18B201/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "1wire",
         "DS18B20",
         "OneWire"
     ],

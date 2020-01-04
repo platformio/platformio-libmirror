@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Lukas Bielesch",
+        "url": "https://os.mbed.com/users/bieleluk/"
+    },
+    "description": "universal debugging tool for mbed enable microcontrollers",
+    "frameworks": "mbed",
+    "keywords": "DEBUG_UNIVERSAL",
+    "name": "DEBUG_UNIVERSAL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bieleluk/code/DEBUG_UNIVERSAL/"
+    }
+}

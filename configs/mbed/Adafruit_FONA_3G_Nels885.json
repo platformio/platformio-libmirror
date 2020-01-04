@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "voirin lionel",
+        "url": "https://os.mbed.com/users/Nels885/"
+    },
+    "description": "Library for the Adafruit FONA. This is a port of the original Arduino library available at: https://github.com/adafruit/Adafruit_FONA_Library . - Modified by Marc PLOUHINEC 27/06/2015 for use in mbed - Modified ...",
+    "examples": [
+        "https://os.mbed.com/users/Nels885/code/Adafruit_FONA_3G_Library_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "fona",
+    "name": "Adafruit_FONA_3G",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Nels885/code/Adafruit_FONA_3G/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Helmut Tschemernjak",
+        "url": "https://os.mbed.com/users/Helmut64/"
+    },
+    "description": "NVProperty generic key value store using the MCU flash area.",
+    "examples": [
+        "https://os.mbed.com/users/Helmut64/code/Turtle_RadioShuttle/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "NVProperty",
+    "name": "NVProperty",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Helmut64/code/NVProperty/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "takashi tanaka",
+        "url": "https://os.mbed.com/users/nekoneko/"
+    },
+    "description": "A library for AM2302 (DHT22) with the micro:bit. The MicroBit class is required.",
+    "frameworks": "mbed",
+    "keywords": "AM2302",
+    "name": "AM2302_Lib_for_uBit",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nekoneko/code/AM2302_Lib_for_uBit/"
+    }
+}

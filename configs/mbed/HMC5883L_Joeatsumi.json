@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Atsumi Toda",
+        "url": "https://os.mbed.com/users/Joeatsumi/"
+    },
+    "description": "データシートを参照すると、X,Y,Z方位の引数が適切では無いので一部変更した。",
+    "examples": [
+        "https://os.mbed.com/users/Joeatsumi/code/mbed_hmc5883l_test/",
+        "https://os.mbed.com/users/Tennensui/code/hmc_test/",
+        "https://os.mbed.com/users/Joeatsumi/code/allsystem_2/",
+        "https://os.mbed.com/users/Joeatsumi/code/UAV_Logger4/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HMC5883L",
+    "name": "HMC5883L",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Joeatsumi/code/HMC5883L/"
+    }
+}

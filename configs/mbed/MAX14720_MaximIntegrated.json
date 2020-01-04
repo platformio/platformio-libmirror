@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/"
+    },
+    "description": "MAX14720 Library for MAX32620HSP (MAXREFDES100#)",
+    "examples": [
+        "https://os.mbed.com/teams/MaximIntegrated/code/HSP_PMIC_Demo/",
+        "https://os.mbed.com/users/douqan93/code/HSP_SpO2/",
+        "https://os.mbed.com/users/douqan93/code/HSP_ECG/",
+        "https://os.mbed.com/users/douqan93/code/HSP_ECG_LeadOFF_Detection/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MAX14720",
+        "MAX32620HSP",
+        "MAXREFDES100#"
+    ],
+    "name": "MAX14720",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/code/MAX14720/"
+    }
+}

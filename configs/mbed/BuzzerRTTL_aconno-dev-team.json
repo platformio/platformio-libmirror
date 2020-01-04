@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "aconno dev team",
+        "url": "https://os.mbed.com/teams/aconno-dev-team/"
+    },
+    "dependencies": [
+        {
+            "authors": "Jurica Resetar",
+            "frameworks": "mbed",
+            "name": "aconno_bsp"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Basic library for aconno ACD52832 buzzer interface",
+    "examples": [
+        "https://os.mbed.com/teams/aconno-dev-team/code/ADC52832_Intro_example/",
+        "https://os.mbed.com/teams/aconno-dev-team/code/ACD52832_Master_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BuzzerRTTL",
+    "name": "BuzzerRTTL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/aconno-dev-team/code/BuzzerRTTL/"
+    }
+}

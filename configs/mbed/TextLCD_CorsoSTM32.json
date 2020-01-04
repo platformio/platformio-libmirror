@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "CorsoSTM32",
+        "url": "https://os.mbed.com/teams/CorsoSTM32/"
+    },
+    "description": "It shows by an example how to use TextLCD library",
+    "examples": [
+        "https://os.mbed.com/teams/CorsoSTM32/code/STMNucleoF401RE_ExampleCode_04_LCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TextLCD",
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/CorsoSTM32/code/TextLCD/"
+    }
+}

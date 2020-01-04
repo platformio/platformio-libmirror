@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Brenton Yiu",
+        "url": "https://os.mbed.com/users/byiu3/"
+    },
+    "dependencies": [
+        {
+            "authors": "Brenton Yiu",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "The SD File system with faster SPI bus (apparently)",
+    "examples": [
+        "https://os.mbed.com/users/byiu3/code/buffer_algorithm/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/byiu3/code/SDFileSystem/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Yoji KURODA",
+        "url": "https://os.mbed.com/users/ykuroda/"
+    },
+    "description": "General purpose ring buffer library. RTOS proof, mutex protected.",
+    "examples": [
+        "https://os.mbed.com/users/ykuroda/code/RingBuffer_RTOS_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mutex",
+        "preemptive",
+        "rtos"
+    ],
+    "name": "RingBuffer_RTOS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ykuroda/code/RingBuffer_RTOS/"
+    }
+}

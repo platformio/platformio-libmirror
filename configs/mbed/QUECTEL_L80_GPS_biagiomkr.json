@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Biagio Montaruli",
+        "url": "https://os.mbed.com/users/biagiomkr/"
+    },
+    "description": "Mbed library for Quectel L80 GPS module",
+    "frameworks": "mbed",
+    "keywords": "GPS",
+    "name": "QUECTEL_L80_GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/biagiomkr/code/QUECTEL_L80_GPS/"
+    }
+}

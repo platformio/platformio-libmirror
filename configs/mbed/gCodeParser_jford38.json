@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Jordan Ford",
+        "url": "https://os.mbed.com/users/jford38/"
+    },
+    "dependencies": [
+        {
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
+            "name": "MODSERIAL"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Read GCODE from a laptop and parse it into usable structures.",
+    "examples": [
+        "https://os.mbed.com/users/jford38/code/DrawBot/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "gCodeParser",
+    "name": "gCodeParser",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jford38/code/gCodeParser/"
+    }
+}

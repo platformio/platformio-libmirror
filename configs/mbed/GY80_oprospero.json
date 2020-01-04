@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Prosper Van",
+        "url": "https://os.mbed.com/users/oprospero/"
+    },
+    "description": "Read data from accel, gyro, and mag of gy80",
+    "frameworks": "mbed",
+    "keywords": "GY80",
+    "name": "GY80",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/oprospero/code/GY80/"
+    }
+}

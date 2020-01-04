@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Karl Zweimüller",
+        "url": "https://os.mbed.com/users/charly/"
+    },
+    "description": "Library to display menus on TextLCDs. Interaction with functions Up,Down and Select (Buttons or RPG) Based on menu-library from pyeh9",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "menu",
+        "TextLCD"
+    ],
+    "name": "Menu",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/charly/code/Menu/"
+    }
+}

@@ -4,8 +4,12 @@
         "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/"
     },
     "description": "TSL2561(照度センサ)のライブラリです",
+    "examples": [
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/HYBRYD2018_IZU_ROCKET/",
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/Hybrid_IZU2019/"
+    ],
     "frameworks": "mbed",
-    "keywords": "2018_IZU",
+    "keywords": "TSL_2561_lib",
     "name": "TSL_2561_lib",
     "platforms": "*",
     "repository": {

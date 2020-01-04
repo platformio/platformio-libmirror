@@ -4,6 +4,10 @@
         "url": "https://os.mbed.com/users/stumpi/"
     },
     "description": "Simple library for getting temperature from MCP9808",
+    "examples": [
+        "https://os.mbed.com/users/Lio93/code/Projet_MBED_TEMPERATURE/",
+        "https://os.mbed.com/users/zachs1/code/Nucleo_i2c_master/"
+    ],
     "frameworks": "mbed",
     "keywords": "MCP9808",
     "name": "MCP9808",

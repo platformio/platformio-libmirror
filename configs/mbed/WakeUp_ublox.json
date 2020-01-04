@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "u-blox",
+        "url": "https://os.mbed.com/teams/ublox/"
+    },
+    "dependencies": [
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "LPC1114_WakeInterruptIn"
+        }
+    ],
+    "description": "Fork of original library to fix mbed 5 deprecation warnings",
+    "examples": [
+        "https://os.mbed.com/teams/ublox/code/low-power-sleep/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "WakeUp",
+    "name": "WakeUp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ublox/code/WakeUp/"
+    }
+}

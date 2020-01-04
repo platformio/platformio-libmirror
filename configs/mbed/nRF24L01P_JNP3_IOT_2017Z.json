@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "JNP3_IOT_2017Z",
+        "url": "https://os.mbed.com/teams/JNP3_IOT_2017Z/"
+    },
+    "description": "library for nrf24L01 radio module",
+    "frameworks": "mbed",
+    "keywords": "nRF24L01P",
+    "name": "nRF24L01P",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/JNP3_IOT_2017Z/code/nRF24L01P/"
+    }
+}

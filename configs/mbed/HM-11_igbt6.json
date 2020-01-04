@@ -3,11 +3,6 @@
         "name": "Lukasz Uszko",
         "url": "https://os.mbed.com/users/igbt6/"
     },
-    "build": {
-        "flags": [
-            "-IBufferedSerial"
-        ]
-    },
     "description": "Library for Bluetooth Low Energy Module ble 4.0 HM-11",
     "frameworks": "mbed",
     "keywords": [

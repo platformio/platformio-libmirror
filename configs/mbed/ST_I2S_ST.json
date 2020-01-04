@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "STMicroelectronics' implementation of an I2S driver, also including DMA support.",
+    "examples": [
+        "https://os.mbed.com/users/RobMeades/code/temp/",
+        "https://os.mbed.com/teams/ST/code/X_NUCLEO_CCA01M1/",
+        "https://os.mbed.com/users/vidica94/code/X_NUCLEO_CCA01M1/",
+        "https://os.mbed.com/teams/ST/code/X_NUCLEO_CCA02M1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ST_I2S",
+    "name": "ST_I2S",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/ST_I2S/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Corso Rapid Prototyping with STM32Nucleo",
+        "url": "https://os.mbed.com/teams/20170113-Corso-Rapid-Prototyping-with-ST/"
+    },
+    "description": "Library LCD",
+    "examples": [
+        "https://os.mbed.com/teams/Duckiebot/code/STMNucleoF401RE_ExampleCode_05_LCD/",
+        "https://os.mbed.com/teams/20170113-Corso-Rapid-Prototyping-with-ST/code/STMNucleoF401RE_ExampleCode_05_LCD/",
+        "https://os.mbed.com/teams/Team-del-Semaforo-CADC/code/STMNucleoF401RE_ExampleCode_05_LCD/",
+        "https://os.mbed.com/teams/Liceo-Statale-Gandhi/code/STMNucleoF401RE_ExampleCode_05_LCDddd/",
+        "https://os.mbed.com/teams/Programmi-Esempio/code/Sd_Card/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TextLCD",
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/20170113-Corso-Rapid-Prototyping-with-ST/code/TextLCD/"
+    }
+}

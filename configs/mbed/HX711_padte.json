@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Shreyas Padte",
+        "url": "https://os.mbed.com/users/padte/"
+    },
+    "description": "library for using load cell with hx711",
+    "examples": [
+        "https://os.mbed.com/users/padte/code/Loadcellfinal_last_worked_copy/",
+        "https://os.mbed.com/users/vincentrc/code/ColdStorageSystem/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HX711",
+    "name": "HX711",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/padte/code/HX711/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Marcin Kosela",
+        "url": "https://os.mbed.com/users/kosik84/"
+    },
+    "description": "It is simple to use PCF8591 Library (ADC / DAC converter) for LPC800MAX",
+    "frameworks": "mbed",
+    "keywords": "PCF8591",
+    "name": "PCF8591",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kosik84/code/PCF8591/"
+    }
+}

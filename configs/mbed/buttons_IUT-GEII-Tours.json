@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "IUT GEII Tours",
+        "url": "https://os.mbed.com/teams/IUT-GEII-Tours/"
+    },
+    "description": "Class virtual button for lcd and ts",
+    "frameworks": "mbed",
+    "keywords": "buttons",
+    "name": "buttons",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/IUT-GEII-Tours/code/buttons/"
+    }
+}

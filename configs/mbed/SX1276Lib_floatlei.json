@@ -3,16 +3,6 @@
         "name": "li lei",
         "url": "https://os.mbed.com/users/floatlei/"
     },
-    "build": {
-        "flags": [
-            "-Itypedefs",
-            "-Idebug",
-            "-Isx1276",
-            "-Iregisters",
-            "-Iradio",
-            "-Ienums"
-        ]
-    },
     "description": "1",
     "frameworks": "mbed",
     "keywords": "SX1276Lib",

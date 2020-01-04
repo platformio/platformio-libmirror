@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Jon Fuge",
+        "url": "https://os.mbed.com/users/jf1452/"
+    },
+    "description": "このライブラリは１桁から８桁までのSeven segment Numeric LEDを制御します。 LEDはanode commonとcathode common を使用することができます。 LEDの表示は１秒で表示をスムースに切り替えるモードと、直ぐに切り替えるモードの２つのモードを選択することができます。 This library to control the Seven segment Numeric LED 8 digit of 1. You can use the LED cathode common and ...",
+    "examples": [
+        "https://os.mbed.com/users/jf1452/code/Counter/",
+        "https://os.mbed.com/users/salatron/code/RenBed_Tutorial3/",
+        "https://os.mbed.com/users/rantistic/code/USBSerial_HelloRanti/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "led",
+        "numeric",
+        "Seven-Segment"
+    ],
+    "name": "SevenSegLed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jf1452/code/SevenSegLed/"
+    }
+}

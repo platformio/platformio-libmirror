@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Piyamate Wisanuvej",
+        "url": "https://os.mbed.com/users/piyamate/"
+    },
+    "description": "modified mbed-src to overclock K64F MCU to run at 128.125MHz, for running the UART at 8Mbps, call SystemCoreClockUpdate() at the beginning of your code to re-calculate the SystemCoreClock",
+    "frameworks": "mbed",
+    "keywords": [
+        "K64F",
+        "overclock"
+    ],
+    "name": "mbed-src-overclock",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/piyamate/code/mbed-src-overclock/"
+    }
+}

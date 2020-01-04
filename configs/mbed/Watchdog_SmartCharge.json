@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "SmartCharge",
+        "url": "https://os.mbed.com/teams/SmartCharge/"
+    },
+    "description": "24112016",
+    "examples": [
+        "https://os.mbed.com/teams/SmartCharge/code/zz_Transmit/",
+        "https://os.mbed.com/teams/SmartCharge/code/2017charger_16ampONLY/",
+        "https://os.mbed.com/teams/SmartCharge/code/2017charger_16_32_Relay/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Watchdog",
+    "name": "Watchdog",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/SmartCharge/code/Watchdog/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "HEPTA-Sat Training 2019",
+        "url": "https://os.mbed.com/users/HeptaSatTraining2019/"
+    },
+    "description": "Cmera and GPS labrary",
+    "examples": [
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/HEPTA_SENSOR/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HeptaCamera_GPS",
+    "name": "HeptaCamera_GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/HeptaSatTraining2019/code/HeptaCamera_GPS/"
+    }
+}

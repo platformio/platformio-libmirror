@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Chase Farmer",
+        "url": "https://os.mbed.com/users/chasefarmer2808/"
+    },
+    "description": "BMP180 Pressure/Temperature Sensor library",
+    "examples": [
+        "https://os.mbed.com/users/chasefarmer2808/code/GliderFuncTest1/",
+        "https://os.mbed.com/users/chasefarmer2808/code/DropTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "pressure",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "BMP180",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chasefarmer2808/code/BMP180/"
+    }
+}

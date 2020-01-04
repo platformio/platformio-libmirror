@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Rune Langoy",
+        "url": "https://os.mbed.com/users/rlanghbv/"
+    },
+    "description": "4x4 Keypad easy to use library that pollis the interface width pullups",
+    "examples": [
+        "https://os.mbed.com/users/rlanghbv/code/4x4KeyBoardExample/",
+        "https://os.mbed.com/users/ANIS_RASHID/code/xoxokey/",
+        "https://os.mbed.com/users/fitri/code/4x4KeyBoardExample/",
+        "https://os.mbed.com/teams/Laboratorio-CAD/code/ProgettoCassaforte/",
+        "https://os.mbed.com/teams/Laboratorio-CAD/code/Cassaforte2/",
+        "https://os.mbed.com/teams/Laboratorio-CAD/code/Cassaforte5dic18/",
+        "https://os.mbed.com/teams/Laboratorio-CAD/code/Cassaforte5_copy/",
+        "https://os.mbed.com/teams/Laboratorio-CAD/code/Cassaforte7/",
+        "https://os.mbed.com/users/evanegasa/code/electrocuagulador_teclado/",
+        "https://os.mbed.com/users/mohamedwajdi/code/05_TP2_Ex1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "keyboard",
+        "keypad",
+        "pullup"
+    ],
+    "name": "KeypadLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rlanghbv/code/KeypadLib/"
+    }
+}

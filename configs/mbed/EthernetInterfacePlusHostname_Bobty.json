@@ -1,0 +1,46 @@
+{
+    "authors": {
+        "name": "Rob Dobson",
+        "url": "https://os.mbed.com/users/Bobty/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "Socket"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "lwip-eth"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "lwip-sys"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "lwip"
+        }
+    ],
+    "description": "Modified official MBED EthernetInterface The only changes are to allow hostname to be set and got",
+    "examples": [
+        "https://os.mbed.com/users/Bobty/code/SpideyWallWeb/",
+        "https://os.mbed.com/users/Bobty/code/RdGasUseMonitor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "hostname",
+        "ip",
+        "mbed"
+    ],
+    "name": "EthernetInterfacePlusHostname",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Bobty/code/EthernetInterfacePlusHostname/"
+    }
+}

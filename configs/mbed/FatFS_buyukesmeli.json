@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Huseyin Buyukesmeli",
+        "url": "https://os.mbed.com/users/buyukesmeli/"
+    },
+    "description": "STM32F746NG fatfs library",
+    "examples": [
+        "https://os.mbed.com/users/buyukesmeli/code/DISCO-F746NG_uSD/",
+        "https://os.mbed.com/users/emperord/code/Active-WolfMan_V2-5-All-Frank-Board-Func/",
+        "https://os.mbed.com/teams/NEXTRONIC1/code/DISCO-F746NG_uSD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "F746NG",
+        "FATFS"
+    ],
+    "name": "FatFS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/buyukesmeli/code/FatFS/"
+    }
+}

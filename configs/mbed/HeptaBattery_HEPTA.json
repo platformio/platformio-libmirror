@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "HEPTA-Sat Training 2017~2018",
+        "url": "https://os.mbed.com/users/HEPTA/"
+    },
+    "dependencies": [
+        {
+            "authors": "Hepta 2",
+            "frameworks": "mbed",
+            "name": "PowerControl"
+        }
+    ],
+    "description": "HeptaBattery Library",
+    "examples": [
+        "https://os.mbed.com/users/HEPTA/code/Lab9-01_All_transmit/",
+        "https://os.mbed.com/users/HEPTA/code/Lab9-03_Thermal_chamber/",
+        "https://os.mbed.com/users/tuba/code/3daf572bcae1/",
+        "https://os.mbed.com/users/tuba/code/Team/",
+        "https://os.mbed.com/users/tuba/code/Team01_HEPTA_Trainig/",
+        "https://os.mbed.com/users/VicZl/code/Final_Magnetism_measurement_GPS_data_sav/",
+        "https://os.mbed.com/users/stoilivanov/code/LaserCommProtocol_01/",
+        "https://os.mbed.com/users/HEPTA/code/Lab3-02_Detect_BatteryVoltage/",
+        "https://os.mbed.com/users/HEPTA/code/Lab3-03_Detect_BatteryVoltage_HEX/",
+        "https://os.mbed.com/users/HEPTA/code/Lab3-04_Q_Save_battery_voltage_to_microS/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HeptaBattery",
+    "name": "HeptaBattery",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/HEPTA/code/HeptaBattery/"
+    }
+}

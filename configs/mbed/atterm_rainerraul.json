@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Rainer Raul",
+        "url": "https://os.mbed.com/users/rainerraul/"
+    },
+    "description": "Communicate to bluetooth devices or wifi per at-commands",
+    "examples": [
+        "https://os.mbed.com/users/rainerraul/code/Nucleo_bt/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ATCommand",
+        "Serial",
+        "UART"
+    ],
+    "name": "atterm",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rainerraul/code/atterm/"
+    }
+}

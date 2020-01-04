@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "X_NUCLEO_COMMON"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ST_INTERFACES"
+        }
+    ],
+    "description": "3-axis MEMS ultra low power accelerometer",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/X_NUCLEO_IKS01A3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LIS2DW12",
+    "name": "LIS2DW12",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/LIS2DW12/"
+    }
+}

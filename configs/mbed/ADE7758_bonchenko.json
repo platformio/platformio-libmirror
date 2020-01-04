@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "bontor humala",
+        "url": "https://os.mbed.com/users/bonchenko/"
+    },
+    "description": "Calibrate and get energy readings from ADE7758 IC from Analog Devices",
+    "frameworks": "mbed",
+    "keywords": "ADE7758",
+    "name": "ADE7758",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bonchenko/code/ADE7758/"
+    }
+}

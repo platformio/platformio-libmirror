@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "chris stevens",
+        "url": "https://os.mbed.com/users/pegcjs/"
+    },
+    "description": "SPKDisplay - A mbed display class and processing imaging tools for 128x64 OLEDs using the SSD1305 driver, connected via SPI. This variant drives a Unigraphics oled on the same driver ...",
+    "examples": [
+        "https://os.mbed.com/users/pegcjs/code/univision_oled/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "OLED",
+        "ssd1305"
+    ],
+    "name": "4spi_oled_ssd1305",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pegcjs/code/4spi_oled_ssd1305/"
+    }
+}

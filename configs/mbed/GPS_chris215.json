@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "christian b",
+        "url": "https://os.mbed.com/users/chris215/"
+    },
+    "description": "Mbed library to handle GPS data reception and parsing",
+    "examples": [
+        "https://os.mbed.com/users/jelalaoui/code/GPS_U-blox_NEO-6M_Code/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GPS",
+        "mbed"
+    ],
+    "name": "GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chris215/code/GPS/"
+    }
+}

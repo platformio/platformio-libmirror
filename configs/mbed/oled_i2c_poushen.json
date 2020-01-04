@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Poushen Ou",
+        "url": "https://os.mbed.com/users/poushen/"
+    },
+    "description": "a partial porting OLED_I2C library",
+    "examples": [
+        "https://os.mbed.com/users/poushen/code/ou_mbed_oled/",
+        "https://os.mbed.com/users/poushen/code/ou_mbed_tmp102/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SSD1306",
+    "name": "oled_i2c",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/poushen/code/oled_i2c/"
+    }
+}

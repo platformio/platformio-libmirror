@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "sebastien ramos",
+        "url": "https://os.mbed.com/users/larvemouse/"
+    },
+    "description": "This class drives the touch screen module (FT5336 device) of the LCD display present on DISCO_F746NG board.",
+    "examples": [
+        "https://os.mbed.com/users/larvemouse/code/capteurmouvement/",
+        "https://os.mbed.com/users/larvemouse/code/capteur_mouvement/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "disco",
+        "FT5336",
+        "screen",
+        "touch"
+    ],
+    "name": "TS_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/larvemouse/code/TS_DISCO_F746NG/"
+    }
+}

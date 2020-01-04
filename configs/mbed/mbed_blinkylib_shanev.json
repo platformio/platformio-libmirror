@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Shane Vallely",
+        "url": "https://os.mbed.com/users/shanev/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "z",
+    "frameworks": "mbed",
+    "keywords": "mbed_blinkylib",
+    "name": "mbed_blinkylib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shanev/code/mbed_blinkylib/"
+    }
+}

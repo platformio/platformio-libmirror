@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "frederic blanc",
+        "url": "https://os.mbed.com/users/fblanc/"
+    },
+    "description": "differential input adc board K64F Compatible hal freescale K64F",
+    "frameworks": "mbed",
+    "keywords": [
+        "DIFF",
+        "K64F"
+    ],
+    "name": "AnalogIn_Diff",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fblanc/code/AnalogIn_Diff/"
+    }
+}

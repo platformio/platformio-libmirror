@@ -4,6 +4,9 @@
         "url": "https://os.mbed.com/users/kenjiArai/"
     },
     "description": "MEMS pressure sensor by STMicroelectronics. FIFO Hardware digital filter as default.",
+    "examples": [
+        "https://os.mbed.com/teams/LSE_PUCRS/code/Altimu10v4/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "barometer",

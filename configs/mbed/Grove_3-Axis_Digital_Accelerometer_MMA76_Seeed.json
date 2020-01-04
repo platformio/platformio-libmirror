@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Seeed",
+        "url": "https://os.mbed.com/teams/Seeed/"
+    },
+    "description": "3-Axis Digital Accelerometer is the key part in projects like orientation detection, gesture detection and Motion detection. This 3-Asix Digital Accelerometer(±1.5g) is based on Freescale's low power consumption module, MMA7660FC. ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "Digital",
+        "Grove",
+        "Seeed"
+    ],
+    "name": "Grove_3-Axis_Digital_Accelerometer_MMA7660FC_Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Seeed/code/Grove_3-Axis_Digital_Accelerometer_MMA76/"
+    }
+}

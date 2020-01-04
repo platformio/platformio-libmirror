@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Raghava Kumar",
+        "url": "https://os.mbed.com/users/raghavakumar8/"
+    },
+    "description": "USB device stack, forked to support the STM32 NUCLEO-F042K6",
+    "frameworks": "mbed",
+    "keywords": "USBDevice",
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/raghavakumar8/code/USBDevice/"
+    }
+}

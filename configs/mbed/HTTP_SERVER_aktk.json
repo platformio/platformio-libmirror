@@ -1,12 +1,7 @@
 {
     "authors": {
-        "name": "Ak Takahashi",
+        "name": "Akifumi Takahashi",
         "url": "https://os.mbed.com/users/aktk/"
-    },
-    "build": {
-        "flags": [
-            "-Ihandlers"
-        ]
     },
     "description": "The library with which to make your mbed a HTTP Server which just reads HTML files in the mbed and sends it to the clients.",
     "frameworks": "mbed",

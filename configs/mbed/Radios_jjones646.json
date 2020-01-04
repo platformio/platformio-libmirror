@@ -3,21 +3,6 @@
         "name": "Jonathan Jones",
         "url": "https://os.mbed.com/users/jjones646/"
     },
-    "build": {
-        "flags": [
-            "-Idrivers",
-            "-Idrivers/CC1101",
-            "-Iutils",
-            "-Iutils/Logger",
-            "-Iutils/RTOS_Management",
-            "-Iutils/FirmwareCheck",
-            "-Iutils/Watchdog",
-            "-Imodules",
-            "-Imodules/CommModule",
-            "-Imodules/CommLink",
-            "-Ihal"
-        ]
-    },
     "dependencies": [
         {
             "authors": "mbed official",

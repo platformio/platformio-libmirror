@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "PQ_Hybrid_Electrical_Equipment_Team",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/"
+    },
+    "description": "気圧・温度・湿度センサBME280を使うためのライブラリ",
+    "examples": [
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/SWAN_IZU2019_v1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "sensor",
+    "name": "BME280_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/BME280_lib/"
+    }
+}

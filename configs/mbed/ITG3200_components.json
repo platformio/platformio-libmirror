@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "Driver for ITG3200 gyro",
+    "examples": [
+        "https://os.mbed.com/teams/Seeed/code/Seeed_Grove_Digital_Gyro/",
+        "https://os.mbed.com/users/benshiue/code/Seeed_Grove_Digital_Gyro_ben/",
+        "https://os.mbed.com/users/mbedschool/code/mbed_websocket_client_for_gyro_and_3_Axi/",
+        "https://os.mbed.com/users/mbedschool/code/mbed_websocket_client_for_gyro/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "gyro",
+        "ITG3200"
+    ],
+    "name": "ITG3200",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/ITG3200/"
+    }
+}

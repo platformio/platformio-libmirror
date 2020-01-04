@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "Library for Manchester encoding using UART's hardware.",
+    "examples": [
+        "https://os.mbed.com/users/hudakz/code/ManchesterUART_Transmitter/",
+        "https://os.mbed.com/users/hudakz/code/ManchesterUART_Receiver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "encoding",
+        "manchester",
+        "Serial",
+        "UART"
+    ],
+    "name": "ManchesterUART",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/ManchesterUART/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Scott Roberts",
+        "url": "https://os.mbed.com/users/smatthew/"
+    },
+    "description": "Driver for Vishay VEML6070 UV-A Sensor",
+    "examples": [
+        "https://os.mbed.com/users/smatthew/code/FTHR_SensorHub/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "VEML6070",
+    "name": "VEML6070",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/smatthew/code/VEML6070/"
+    }
+}

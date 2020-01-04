@@ -3,16 +3,6 @@
         "name": "John Davis",
         "url": "https://os.mbed.com/users/m161440/"
     },
-    "build": {
-        "flags": [
-            "-Imavlink",
-            "-Imavlink/slugs",
-            "-Imavlink/ualberta",
-            "-Imavlink/pixhawk",
-            "-Imavlink/common",
-            "-Imavlink/minimal"
-        ]
-    },
     "dependencies": [
         {
             "authors": "mbed official",

@@ -3,27 +3,11 @@
         "name": "Maxim Integrated",
         "url": "https://os.mbed.com/teams/Maxim-Integrated/"
     },
-    "build": {
-        "flags": [
-            "-IDevices",
-            "-IPlatforms",
-            "-IPlatforms/mbed",
-            "-IPlatforms/mbed/TARGET_Maxim",
-            "-IPlatforms/mbed/TARGET_Maxim/TARGET_MAX32600",
-            "-IPlatforms/mbed/TARGET_Maxim/TARGET_MAX32600/TOOLCHAIN_GCC_ARM",
-            "-IPlatforms/mbed/TARGET_Maxim/TARGET_MAX32600/TOOLCHAIN_ARM_STD",
-            "-IPlatforms/mbed/TARGET_Maxim/TARGET_MAX32600/TOOLCHAIN_IAR",
-            "-IPlatforms/dotnet",
-            "-IPlatforms/Qt",
-            "-IPlatforms/mxc",
-            "-ILinks",
-            "-IUtilities"
-        ]
-    },
     "description": "Device interface library for multiple platforms including mbed.",
     "examples": [
-        "https://os.mbed.com/teams/Maxim-Integrated/code/MAXREFDES155/",
-        "https://os.mbed.com/teams/Maxim-Integrated/code/DeepCover-Embedded-Security-in-IoT/"
+        "https://os.mbed.com/teams/Maxim-Integrated/code/DeepCover-Embedded-Security-in-IoT/",
+        "https://os.mbed.com/users/reARMnimator/code/MaximInterface/",
+        "https://os.mbed.com/teams/Maxim-Integrated/code/MAXREFDES155/"
     ],
     "frameworks": "mbed",
     "keywords": "MaximInterface",

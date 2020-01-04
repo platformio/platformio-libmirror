@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Malith Jayawardhana",
+        "url": "https://os.mbed.com/users/malithjkd/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "file",
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/malithjkd/code/SDFileSystem/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Jack Berkhout",
+        "url": "https://os.mbed.com/users/JackB/"
+    },
+    "description": "SDB",
+    "examples": [
+        "https://os.mbed.com/users/JackB/code/20180621_FT813/",
+        "https://os.mbed.com/users/cornetlin/code/IOT_Lec7_SD_with_Acclerometer_empty/",
+        "https://os.mbed.com/users/QuangAnhLe/code/GPS-Tracking-Velo/",
+        "https://os.mbed.com/users/cornetlin/code/IOT_Lec9_SD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDBlockDevice",
+    "name": "SDBlockDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JackB/code/SDBlockDevice/"
+    }
+}

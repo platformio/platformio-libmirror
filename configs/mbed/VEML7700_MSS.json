@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "MSS",
+        "url": "https://os.mbed.com/teams/MSS/"
+    },
+    "description": "VEML7700 High Accuracy Ambient Light Sensor with I2C Interface",
+    "examples": [
+        "https://os.mbed.com/teams/MSS/code/testVEML7700/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ambient light sensor",
+        "I2C",
+        "VEML7700"
+    ],
+    "name": "VEML7700",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MSS/code/VEML7700/"
+    }
+}

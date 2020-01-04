@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Adrian Adamson",
+        "url": "https://os.mbed.com/users/adamsona/"
+    },
+    "description": "Converts the output from a Texas Instruments LMT70 temperature sensor (in mV) to degrees C",
+    "frameworks": "mbed",
+    "keywords": [
+        "LMT70",
+        "temperatur"
+    ],
+    "name": "lmt70_sensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/adamsona/code/lmt70_sensor/"
+    }
+}

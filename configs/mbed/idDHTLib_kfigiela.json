@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Kamil Figiela",
+        "url": "https://os.mbed.com/users/kfigiela/"
+    },
+    "description": "Interrupt driven DHT11/DHT22 library, port of Arduino idDHTLib (https://github.com/niesteszeck/idDHTLib)",
+    "examples": [
+        "https://os.mbed.com/users/Njbuch/code/NewDHT11Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DHT11",
+        "DHT22",
+        "Humidity",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "idDHTLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kfigiela/code/idDHTLib/"
+    }
+}

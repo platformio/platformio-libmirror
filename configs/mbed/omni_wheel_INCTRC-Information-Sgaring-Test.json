@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "INCTRC Information Sharing Test",
+        "url": "https://os.mbed.com/teams/INCTRC-Information-Sgaring-Test/"
+    },
+    "dependencies": [
+        {
+            "authors": "Aaron Berk",
+            "frameworks": "mbed",
+            "name": "PID"
+        },
+        {
+            "authors": "Aaron Berk",
+            "frameworks": "mbed",
+            "name": "QEI"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Bチーム自動ロボットの足回りプログラム(2018/07/10時点) PIDかけて一方向に進むだけのプログラムでござんす。",
+    "frameworks": "mbed",
+    "keywords": "omni_wheel",
+    "name": "omni_wheel",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/INCTRC-Information-Sgaring-Test/code/omni_wheel/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Ronald Niederhagen",
+        "url": "https://os.mbed.com/users/bomilkar/"
+    },
+    "description": "rotary encoder with push button based on work I found elswhere.",
+    "examples": [
+        "https://os.mbed.com/users/bomilkar/code/Vario_101_407mini/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "QEI",
+    "name": "QEI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bomilkar/code/QEI/"
+    }
+}

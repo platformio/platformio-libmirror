@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "USNA WSE ES456",
+        "url": "https://os.mbed.com/teams/USNA-WSE-ES456/"
+    },
+    "description": "Interface Library for Madpulse RC Car",
+    "examples": [
+        "https://os.mbed.com/teams/USNA-WSE-ES456/code/Madpulse_Speed_Control_temp/",
+        "https://os.mbed.com/teams/USNA-WSE-ES456/code/Madpulse_Speed_Control_Students/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Madpulse",
+    "name": "Madpulse",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/USNA-WSE-ES456/code/Madpulse/"
+    }
+}

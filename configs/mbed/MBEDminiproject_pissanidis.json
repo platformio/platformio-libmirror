@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "George Pissanidis",
+        "url": "https://os.mbed.com/users/pissanidis/"
+    },
+    "dependencies": [
+        {
+            "authors": "CHENGQI YANG",
+            "frameworks": "mbed",
+            "name": "SmartLabXBeeCore"
+        }
+    ],
+    "description": "XBee API operation library for mbed for miniprojects",
+    "frameworks": "mbed",
+    "keywords": [
+        "api",
+        "Digi",
+        "xbee",
+        "zigbee"
+    ],
+    "name": "MBEDminiproject",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pissanidis/code/MBEDminiproject/"
+    }
+}

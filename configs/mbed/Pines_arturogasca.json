@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Arturo Gasca",
+        "url": "https://os.mbed.com/users/arturogasca/"
+    },
+    "description": "pines",
+    "examples": [
+        "https://os.mbed.com/users/arturogasca/code/BIOMETRICOS_HUMANOS_BETA/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Pines",
+    "name": "Pines",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/arturogasca/code/Pines/"
+    }
+}

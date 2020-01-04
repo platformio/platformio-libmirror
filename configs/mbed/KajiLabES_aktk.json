@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Akifumi Takahashi",
+        "url": "https://os.mbed.com/users/aktk/"
+    },
+    "description": "Library to use the Kaji-Lab's Electrical Simulator",
+    "examples": [
+        "https://os.mbed.com/users/aktk/code/Interference_Simple/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "KajiLabES",
+    "name": "KajiLabES",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aktk/code/KajiLabES/"
+    }
+}

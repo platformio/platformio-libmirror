@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Gaku Matsumoto",
+        "url": "https://os.mbed.com/users/Gaku0606/"
+    },
+    "description": "四元数(クォータニオン)の計算やらなんやらができます．主に演算子オーバーロードの練習で作りました．温かい目で見てやってください．",
+    "examples": [
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/Hybrid_AttitudeEstimation/",
+        "https://os.mbed.com/users/tanahashi/code/PQGraphic_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Quaternion",
+    "name": "Quaternion",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Gaku0606/code/Quaternion/"
+    }
+}

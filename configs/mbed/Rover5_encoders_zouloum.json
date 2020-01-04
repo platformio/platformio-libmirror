@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Jordan Careau-Beaulieu",
+        "url": "https://os.mbed.com/users/zouloum/"
+    },
+    "description": "Reads the encoders of the Rover 5 platform. Library to use the 4 rover 5 encoders or any single input rotary encoder. Special features : - Uses both rising and ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "encoders",
+        "robot",
+        "rover"
+    ],
+    "name": "Rover5_encoders",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/zouloum/code/Rover5_encoders/"
+    }
+}

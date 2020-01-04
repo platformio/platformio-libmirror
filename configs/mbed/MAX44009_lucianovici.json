@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Lucian Corduneanu",
+        "url": "https://os.mbed.com/users/lucianovici/"
+    },
+    "description": "MAX44009 Ambient Light Sensor with ADC library",
+    "frameworks": "mbed",
+    "keywords": "MAX44009",
+    "name": "MAX44009",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lucianovici/code/MAX44009/"
+    }
+}

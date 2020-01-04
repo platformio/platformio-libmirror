@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Ale C.-",
+        "url": "https://os.mbed.com/users/Suky/"
+    },
+    "description": "TMP175 Temperature Sensor",
+    "examples": [
+        "https://os.mbed.com/users/Suky/code/TMP175_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "sensor",
+        "Temperature",
+        "TMP175"
+    ],
+    "name": "TMP175",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Suky/code/TMP175/"
+    }
+}

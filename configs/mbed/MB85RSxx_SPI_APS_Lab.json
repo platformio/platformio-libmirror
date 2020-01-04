@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "APS Lab",
+        "url": "https://os.mbed.com/users/APS_Lab/"
+    },
+    "description": "FRAM SPI Access Library",
+    "examples": [
+        "https://os.mbed.com/users/APS_Lab/code/FRAM_Dump/",
+        "https://os.mbed.com/users/APS_Lab/code/SDFile_Logger/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FRAM",
+        "SPI",
+        "stm32"
+    ],
+    "name": "MB85RSxx_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/APS_Lab/code/MB85RSxx_SPI/"
+    }
+}

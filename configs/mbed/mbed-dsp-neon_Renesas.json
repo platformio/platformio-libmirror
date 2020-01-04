@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Renesas",
+        "url": "https://os.mbed.com/teams/Renesas/"
+    },
+    "description": "Fork of mbed-dsp. CMSIS-DSP library of supporting NEON",
+    "examples": [
+        "https://os.mbed.com/teams/Renesas/code/mbed-os-example-cmsis_dsp_neon/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GR-PEACH",
+        "NEON"
+    ],
+    "name": "mbed-dsp-neon",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Renesas/code/mbed-dsp-neon/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Paul Moreno",
+        "url": "https://os.mbed.com/users/pmoreno17/"
+    },
+    "description": "Im not sure why this changed. So I am forking and saving what I have so far.",
+    "frameworks": "mbed",
+    "keywords": "libmDot-mbed5",
+    "name": "libmDot-mbed5",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pmoreno17/code/libmDot-mbed5/"
+    }
+}

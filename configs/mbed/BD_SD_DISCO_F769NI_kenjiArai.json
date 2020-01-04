@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "for DISCO-F769NI based on BD_SD_DISCO_F746NG library by Roy Krikke",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/DISCO-F769NI_several_example/",
+        "https://os.mbed.com/users/kenjiArai/code/DISCO-F769NI_BD_SD_Card_Control/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Block device",
+        "SD Card"
+    ],
+    "name": "BD_SD_DISCO_F769NI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/BD_SD_DISCO_F769NI/"
+    }
+}

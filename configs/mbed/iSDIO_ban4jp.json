@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "ban4jp -",
+        "url": "https://os.mbed.com/users/ban4jp/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "SDFileSystem"
+        }
+    ],
+    "description": "iSDIO Library for TOSHIBA FlashAir. include HTTP or HTTPS Client.",
+    "examples": [
+        "https://os.mbed.com/users/ban4jp/code/FlashAir_Twitter/",
+        "https://os.mbed.com/users/yakatano/code/Neon_F303K8_04/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "iSDIO",
+    "name": "iSDIO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ban4jp/code/iSDIO/"
+    }
+}

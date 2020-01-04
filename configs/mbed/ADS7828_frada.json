@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Francesco Adamo",
+        "url": "https://os.mbed.com/users/frada/"
+    },
+    "description": "mbed library to interface a Texas Instruments' ADS7828, 12-bits, 8-channels, I2C interfaced ADC",
+    "examples": [
+        "https://os.mbed.com/users/frada/code/ADS7828_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "I2C",
+    "name": "ADS7828",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/frada/code/ADS7828/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Ian Hua",
+        "url": "https://os.mbed.com/users/pHysiX/"
+    },
+    "description": "PID control library forked from Aaron Berk. Make sure to read articles from www.controlguru.com to properly understand how to instantiate the PID loop.",
+    "frameworks": "mbed",
+    "keywords": "PID",
+    "name": "PID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pHysiX/code/PID/"
+    }
+}

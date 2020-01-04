@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Luis Amell",
+        "url": "https://os.mbed.com/users/lamell/"
+    },
+    "description": "Temp and Humidity sensor device driver. had to fork under a new name, don't know why yet.",
+    "examples": [
+        "https://os.mbed.com/teams/Seeed/code/Wio-example-SORACOM-Harvest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DHT11",
+        "DHT22"
+    ],
+    "name": "DHT-2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lamell/code/DHT-2/"
+    }
+}

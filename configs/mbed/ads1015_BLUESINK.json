@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "BLUESINK",
+        "url": "https://os.mbed.com/teams/BLUESINK/"
+    },
+    "description": "ADS1015 library",
+    "examples": [
+        "https://os.mbed.com/teams/BLUESINK/code/s-rov-firmware/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ads1015",
+    "name": "ads1015",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/BLUESINK/code/ads1015/"
+    }
+}

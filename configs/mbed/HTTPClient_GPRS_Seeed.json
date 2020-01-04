@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Seeed",
+        "url": "https://os.mbed.com/teams/Seeed/"
+    },
+    "description": "A HTTP Client for the mbed GPRS networking libraries",
+    "frameworks": "mbed",
+    "keywords": "HTTPClient_GPRS",
+    "name": "HTTPClient_GPRS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Seeed/code/HTTPClient_GPRS/"
+    }
+}

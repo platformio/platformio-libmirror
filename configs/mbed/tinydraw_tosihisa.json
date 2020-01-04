@@ -3,11 +3,6 @@
         "name": "Toshihisa T",
         "url": "https://os.mbed.com/users/tosihisa/"
     },
-    "build": {
-        "flags": [
-            "-Ilinuxfont"
-        ]
-    },
     "description": "A tiny drawing library. include line draw and bitmap-font draw.bitmap-font is from linux-kernel-source.",
     "frameworks": "mbed",
     "keywords": "Graphics",

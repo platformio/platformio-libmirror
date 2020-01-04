@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Harsha vardan",
+        "url": "https://os.mbed.com/users/Harshavardan61/"
+    },
+    "description": "Interface Stepper motor with mbed",
+    "examples": [
+        "https://os.mbed.com/users/Harshavardan61/code/StepperMotor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "bipolar",
+        "L293D",
+        "mbed",
+        "Stepper"
+    ],
+    "name": "BipoarStepperMotor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Harshavardan61/code/BipoarStepperMotor/"
+    }
+}

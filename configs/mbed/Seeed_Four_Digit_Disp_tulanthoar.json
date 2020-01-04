@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Nathan Yonkee",
+        "url": "https://os.mbed.com/users/tulanthoar/"
+    },
+    "description": "Class to control the four digit display from Seeed Studios",
+    "examples": [
+        "https://os.mbed.com/users/tulanthoar/code/Seeed_Grove_4_Digit_Display_Clock/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Seeed_Four_Digit_Disp",
+    "name": "Seeed_Four_Digit_Disp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tulanthoar/code/Seeed_Four_Digit_Disp/"
+    }
+}

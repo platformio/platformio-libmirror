@@ -3,11 +3,6 @@
         "name": "Chris Styles",
         "url": "https://os.mbed.com/users/chris/"
     },
-    "build": {
-        "flags": [
-            "-IUSBHostLite"
-        ]
-    },
     "dependencies": [
         {
             "authors": "mbed unsupported",

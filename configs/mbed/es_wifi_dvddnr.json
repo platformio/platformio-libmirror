@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "D D",
+        "url": "https://os.mbed.com/users/dvddnr/"
+    },
+    "description": "DISCO_L475VG_IOT01 wifi library with TCP-SSL support",
+    "examples": [
+        "https://os.mbed.com/users/dvddnr/code/DISCO_L475VG_IOT01-Telegram-BOT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_L475VG_IOT01",
+        "SSL",
+        "TCP"
+    ],
+    "name": "es_wifi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dvddnr/code/es_wifi/"
+    }
+}

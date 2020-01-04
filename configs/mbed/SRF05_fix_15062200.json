@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Jamie Pierce",
+        "url": "https://os.mbed.com/users/15062200/"
+    },
+    "dependencies": [
+        {
+            "authors": "Nick Ryder",
+            "frameworks": "mbed",
+            "name": "RangeFinder"
+        }
+    ],
+    "description": "Library for the SRF05 Ultrasonic Rangefinder",
+    "frameworks": "mbed",
+    "keywords": [
+        "RangeFinder",
+        "SRF05",
+        "ultrasonic"
+    ],
+    "name": "SRF05_fix",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/15062200/code/SRF05_fix/"
+    }
+}

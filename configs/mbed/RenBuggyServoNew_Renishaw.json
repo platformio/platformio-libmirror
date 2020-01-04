@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Renishaw",
+        "url": "https://os.mbed.com/teams/Renishaw/"
+    },
+    "dependencies": [
+        {
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
+            "name": "PinDetect"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Updated version of RenBuggy Servo that can accept instructions based on time or distance.",
+    "frameworks": "mbed",
+    "keywords": "RenBuggy",
+    "name": "RenBuggyServoNew",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Renishaw/code/RenBuggyServoNew/"
+    }
+}

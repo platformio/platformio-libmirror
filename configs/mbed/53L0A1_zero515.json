@@ -3,14 +3,6 @@
         "name": "kazushiro tanimoto",
         "url": "https://os.mbed.com/users/zero515/"
     },
-    "build": {
-        "flags": [
-            "-IComponents",
-            "-IComponents/STMPE1600",
-            "-IComponents/VL53L0X",
-            "-IComponents/Display"
-        ]
-    },
     "dependencies": [
         {
             "authors": "",

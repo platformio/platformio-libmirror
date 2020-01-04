@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Nerea Gomez",
+        "url": "https://os.mbed.com/users/ngomez/"
+    },
+    "description": "Library created for MQ135 gas sensor",
+    "frameworks": "mbed",
+    "keywords": "MQ135",
+    "name": "MQ135",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ngomez/code/MQ135/"
+    }
+}

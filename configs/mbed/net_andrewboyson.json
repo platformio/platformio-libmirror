@@ -3,26 +3,10 @@
         "name": "Andrew Boyson",
         "url": "https://os.mbed.com/users/andrewboyson/"
     },
-    "build": {
-        "flags": [
-            "-Iudp",
-            "-Iudp/dns",
-            "-Iip4",
-            "-Iip4/icmp",
-            "-Iarp",
-            "-Ieth",
-            "-Itcp",
-            "-Itcp/http",
-            "-Ilink",
-            "-Iip6",
-            "-Iip6/icmp",
-            "-Iip6/icmp/ndp"
-        ]
-    },
     "description": "A stack which works with or without an Mbed os library. Provides IPv4 or IPv6 with a full 1500 byte buffer.",
     "examples": [
         "https://os.mbed.com/users/andrewboyson/code/gps/",
-        "https://os.mbed.com/users/andrewboyson/code/ch/"
+        "https://os.mbed.com/users/andrewboyson/code/heating/"
     ],
     "frameworks": "mbed",
     "keywords": "net",

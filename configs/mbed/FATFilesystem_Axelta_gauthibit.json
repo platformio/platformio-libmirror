@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "goutham dugyala",
+        "url": "https://os.mbed.com/users/gauthibit/"
+    },
+    "description": "FAT",
+    "examples": [
+        "https://os.mbed.com/users/gauthibit/code/SDFileSystem_Axelta/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FATFilesystem_Axelta",
+    "name": "FATFilesystem_Axelta",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gauthibit/code/FATFilesystem_Axelta/"
+    }
+}

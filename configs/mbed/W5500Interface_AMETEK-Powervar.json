@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "AMETEK Powervar",
+        "url": "https://os.mbed.com/teams/AMETEK-Powervar/"
+    },
+    "description": "Update of W5500 Interface for mbed-os",
+    "examples": [
+        "https://os.mbed.com/teams/AMETEK-Powervar/code/PwrCond_mbed5/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "W5500Interface",
+    "name": "W5500Interface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/AMETEK-Powervar/code/W5500Interface/"
+    }
+}

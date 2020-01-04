@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "PQ_Hybrid_Electrical_Equipment_Team",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/"
+    },
+    "description": "LPS25HをSPIで使えるようにしたライブラリです。 ・気圧 ・温度 ・高度（気圧と温度から） が取得できます。 FIFOも使えます。",
+    "frameworks": "mbed",
+    "keywords": "SPI",
+    "name": "LPS25H_spi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/LPS25H_spi/"
+    }
+}

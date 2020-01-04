@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Raffaello Bonghi",
+        "url": "https://os.mbed.com/users/Raffaello/"
+    },
+    "dependencies": [
+        {
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
+            "name": "BufferedSerial"
+        }
+    ],
+    "description": "Parser for AT commands and similar protocols",
+    "frameworks": "mbed",
+    "keywords": [
+        "AT",
+        "parser"
+    ],
+    "name": "ATParser",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Raffaello/code/ATParser/"
+    }
+}

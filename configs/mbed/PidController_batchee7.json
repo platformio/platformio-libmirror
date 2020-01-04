@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "James Batchelar",
+        "url": "https://os.mbed.com/users/batchee7/"
+    },
+    "description": "Simple PID Controller with Integral Windup Supports creating a diagnostics message to send to a GUI",
+    "frameworks": "mbed",
+    "keywords": "PidController",
+    "name": "PidController",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/batchee7/code/PidController/"
+    }
+}

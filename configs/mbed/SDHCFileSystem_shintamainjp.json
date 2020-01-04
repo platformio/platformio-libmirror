@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "Local copy of the SDHCFileSystem. But changed the I/O frequency to 20MHz.",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/SimpleWaveRecorderPlayer/",
+        "https://os.mbed.com/users/avnisha/code/Application-SimpleWaveRecorderPlayerGene/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FAT",
+        "SD"
+    ],
+    "name": "SDHCFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/SDHCFileSystem/"
+    }
+}

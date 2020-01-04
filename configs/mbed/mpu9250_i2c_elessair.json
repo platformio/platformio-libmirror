@@ -4,6 +4,9 @@
         "url": "https://os.mbed.com/users/elessair/"
     },
     "description": "first release fork of MPU9250AHRS from Kris Winer",
+    "examples": [
+        "https://os.mbed.com/users/shiyaozhanag/code/step_counter_service_ble/"
+    ],
     "frameworks": "mbed",
     "keywords": "mpu9250_i2c",
     "name": "mpu9250_i2c",

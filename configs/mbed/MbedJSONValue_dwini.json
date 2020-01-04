@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Nico De Witte",
+        "url": "https://os.mbed.com/users/dwini/"
+    },
+    "description": "Minimalist JSON parser and serializer (inspired by picojson). Used by MbedJSONRpc. (Original by Samuel Mokrani)",
+    "examples": [
+        "https://os.mbed.com/users/AlexVC97/code/City_Game_JSON/",
+        "https://os.mbed.com/users/ajeet3004/code/City_Game_JSON/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MbedJSONValue",
+    "name": "MbedJSONValue",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dwini/code/MbedJSONValue/"
+    }
+}

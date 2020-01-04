@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Christian Lerche",
+        "url": "https://os.mbed.com/users/Lerche/"
+    },
+    "description": "Library for MCP4822 SPI 12-bit DAC, both outputs supported, nLDAC connected to GND.",
+    "examples": [
+        "https://os.mbed.com/users/artembio/code/MCP4822_2aLerche/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "12-bit",
+        "dac",
+        "MCP4822",
+        "SPI"
+    ],
+    "name": "MCP4822",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Lerche/code/MCP4822/"
+    }
+}

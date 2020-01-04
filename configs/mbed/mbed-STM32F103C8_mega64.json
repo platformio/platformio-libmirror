@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Nothing Special",
+        "url": "https://os.mbed.com/users/mega64/"
+    },
+    "description": "Modification of Mbed-dev library for LQFP48 package microcontrollers: STM32F103C8 (STM32F103C8T6) and STM32F103CB (STM32F103CBT6) (Bluepill boards, Maple mini etc. )",
+    "frameworks": "mbed",
+    "keywords": [
+        "bluepill",
+        "stm32f103c8",
+        "STM32F103C8T6",
+        "STM32F103CB",
+        "STM32F103CBT6"
+    ],
+    "name": "mbed-STM32F103C8",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mega64/code/mbed-STM32F103C8/"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Robert Fischer",
+        "url": "https://os.mbed.com/users/RobertFischer/"
+    },
+    "description": "Fork of TFTLCD with new support for SSD1963 ad HX8352-A controller.",
+    "examples": [
+        "https://os.mbed.com/users/RobertFischer/code/TFTLCD_Fork_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HX8340",
+        "HX8352",
+        "ILI9325",
+        "ILI9328",
+        "LCD",
+        "RGB16",
+        "RGB18",
+        "RGB565",
+        "RGB666",
+        "SSD1289",
+        "SSD1963",
+        "ST7735",
+        "TFT",
+        "UTFT"
+    ],
+    "name": "TFTLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RobertFischer/code/TFTLCD/"
+    }
+}

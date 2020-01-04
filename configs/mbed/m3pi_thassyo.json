@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Thassyo Pinto",
+        "url": "https://os.mbed.com/users/thassyo/"
+    },
+    "description": "Modified library for the m3pi robot with individual calibrated sensor measurement functionality. This works with a Pololu 3pi robot with the Serial Slave firmware.",
+    "frameworks": "mbed",
+    "keywords": [
+        "3pi",
+        "m3pi",
+        "robot"
+    ],
+    "name": "m3pi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/thassyo/code/m3pi/"
+    }
+}

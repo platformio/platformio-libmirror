@@ -3,13 +3,6 @@
         "name": "ST",
         "url": "https://os.mbed.com/teams/ST/"
     },
-    "build": {
-        "flags": [
-            "-Ishields",
-            "-Isource",
-            "-Iimg"
-        ]
-    },
     "description": "BLE HearRate example",
     "frameworks": "mbed",
     "keywords": [

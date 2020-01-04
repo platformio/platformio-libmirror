@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Line Health",
+        "url": "https://os.mbed.com/teams/Line-Health/"
+    },
+    "description": "Driver for the IO Expander/LED Driver",
+    "frameworks": "mbed",
+    "keywords": "SX1509",
+    "name": "SX1509",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Line-Health/code/SX1509/"
+    }
+}

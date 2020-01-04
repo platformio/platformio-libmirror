@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "CRAC Team",
+        "url": "https://os.mbed.com/teams/CRAC-Team/"
+    },
+    "description": "pixy2 smart camera library www.pixycam.com",
+    "frameworks": "mbed",
+    "keywords": "Pixy2-HA",
+    "name": "Pixy2-HA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/CRAC-Team/code/Pixy2-HA/"
+    }
+}

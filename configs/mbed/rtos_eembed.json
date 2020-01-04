@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Department of Electrical Eng University of Moratuwa",
+        "url": "https://os.mbed.com/users/eembed/"
+    },
+    "description": "RTOS lib used for Eurobot 2012",
+    "examples": [
+        "https://os.mbed.com/users/eembed/code/09_BC2_encoder/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "rtos",
+    "name": "rtos",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eembed/code/rtos/"
+    }
+}

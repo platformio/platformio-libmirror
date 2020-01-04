@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "NXP",
+        "url": "https://os.mbed.com/teams/NXP/"
+    },
+    "description": "A library implementing IEEE 802.15.4 PHY functionality for the MCR20A transceiver. The PHY sublayer provides two services: the PHY data service and the PHY management service interfacing to the PHY ...",
+    "frameworks": "mbed",
+    "keywords": "fsl_phy_mcr20a",
+    "name": "fsl_phy_mcr20a",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NXP/code/fsl_phy_mcr20a/"
+    }
+}

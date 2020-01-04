@@ -3,13 +3,6 @@
         "name": "wayne roberts",
         "url": "https://os.mbed.com/users/dudmuck/"
     },
-    "build": {
-        "flags": [
-            "-Iinc",
-            "-Iinc/scpi",
-            "-Isrc"
-        ]
-    },
     "description": "https://github.com/j123b567/scpi-parser",
     "examples": [
         "https://os.mbed.com/teams/Semtech/code/scpi_sx127x/"

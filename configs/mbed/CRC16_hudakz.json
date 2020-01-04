@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "Implementation of CRC16 using polynomial 0x8005 = X^16 + X^15 + X^2 + 1",
+    "examples": [
+        "https://os.mbed.com/users/hudakz/code/Manchester_Transmitter/",
+        "https://os.mbed.com/users/hudakz/code/Manchester_Receiver/",
+        "https://os.mbed.com/users/hudakz/code/ManchesterUART_Transmitter/",
+        "https://os.mbed.com/users/hudakz/code/ManchesterUART_Receiver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CRC",
+        "CRC16",
+        "CRC16-ANSI",
+        "CRC16-IBM"
+    ],
+    "name": "CRC16",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/CRC16/"
+    }
+}

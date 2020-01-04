@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Gary Servin",
+        "url": "https://os.mbed.com/users/garyservin/"
+    },
+    "dependencies": [
+        {
+            "authors": "Gary Servin",
+            "frameworks": "mbed",
+            "name": "MODSERIAL"
+        }
+    ],
+    "description": "Personal fork",
+    "examples": [
+        "https://os.mbed.com/users/garyservin/code/rosserial_mbed/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "rosserial_mbed_lib",
+    "name": "rosserial_mbed_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/garyservin/code/rosserial_mbed_lib/"
+    }
+}

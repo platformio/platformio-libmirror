@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Xinlei Cao",
+        "url": "https://os.mbed.com/users/xinlei/"
+    },
+    "description": "Own fork of C027_Support",
+    "examples": [
+        "https://os.mbed.com/users/xinlei/code/MbedSmartRestMain/",
+        "https://os.mbed.com/users/Cumulocity/code/MbedSmartRestMain/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "C027_Support",
+    "name": "C027_Support",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/xinlei/code/C027_Support/"
+    }
+}

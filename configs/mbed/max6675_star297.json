@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Paul Staron",
+        "url": "https://os.mbed.com/users/star297/"
+    },
+    "dependencies": [
+        {
+            "authors": "Paul Staron",
+            "frameworks": "mbed",
+            "name": "max6675"
+        }
+    ],
+    "description": "Maxim MAX6675 Cold-Junction-Compensated K-Thermocoupleto-Digital Converter (0°C to +1024°C) os2 and os5",
+    "examples": [
+        "https://os.mbed.com/users/star297/code/max6675/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MAX6675",
+    "name": "max6675",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/star297/code/max6675/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "description": "fota lib for mdot",
+    "examples": [
+        "https://os.mbed.com/users/WilliamAF/code/UQ_LoraWAN/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "fota-mdot",
+    "name": "fota-mdot",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/fota-mdot/"
+    }
+}

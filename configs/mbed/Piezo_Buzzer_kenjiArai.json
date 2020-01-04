@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "Interrupt driven piezo buzzer control library",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/Check_Piezo_Buzzer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "buzzer",
+        "piezo"
+    ],
+    "name": "Piezo_Buzzer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/Piezo_Buzzer/"
+    }
+}

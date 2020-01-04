@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "stephen smitherman",
+        "url": "https://os.mbed.com/users/srsmitherman/"
+    },
+    "description": "mbed device driver for HC-SR04 ultrasonic range finder",
+    "examples": [
+        "https://os.mbed.com/users/srsmitherman/code/TJPS/",
+        "https://os.mbed.com/users/srsmitherman/code/UltraTest/",
+        "https://os.mbed.com/users/jjcarr2/code/NavigationTest/",
+        "https://os.mbed.com/users/jjcarr2/code/NavigationTest_/",
+        "https://os.mbed.com/users/Fairy_Paolina/code/NavigationTest/",
+        "https://os.mbed.com/users/Fairy_Paolina/code/theRobotNEW/",
+        "https://os.mbed.com/users/jjcarr2/code/theRobot/",
+        "https://os.mbed.com/users/tashworth/code/theRobot/",
+        "https://os.mbed.com/users/redplam/code/Good_Serial_HelloWorld_Mbed/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HCSR04",
+    "name": "HCSR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/srsmitherman/code/HCSR04/"
+    }
+}

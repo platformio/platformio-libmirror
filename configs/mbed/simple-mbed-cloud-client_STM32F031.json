@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "STM32F031",
+        "url": "https://os.mbed.com/teams/STM32F031/"
+    },
+    "description": "1",
+    "frameworks": "mbed",
+    "keywords": "simple-mbed-cloud-client",
+    "name": "simple-mbed-cloud-client",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/STM32F031/code/simple-mbed-cloud-client/"
+    }
+}

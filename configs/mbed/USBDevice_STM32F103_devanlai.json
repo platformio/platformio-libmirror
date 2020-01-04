@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Devan Lai",
+        "url": "https://os.mbed.com/users/devanlai/"
+    },
+    "description": "USB Device library for the STM32F103 with USB Device Firmware Upgrade (DFU) runtime support.",
+    "examples": [
+        "https://os.mbed.com/users/devanlai/code/STM32F103C8T6_WebUSBDFU/",
+        "https://os.mbed.com/users/devanlai/code/STM32F103C8T6_USBDFU/",
+        "https://os.mbed.com/teams/ADVES/code/STM32F103C8T6_USBDFU/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DFU",
+        "STM32F103",
+        "USB"
+    ],
+    "name": "USBDevice_STM32F103",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/devanlai/code/USBDevice_STM32F103/"
+    }
+}

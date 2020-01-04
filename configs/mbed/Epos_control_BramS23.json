@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Bram Seinhorst",
+        "url": "https://os.mbed.com/users/BramS23/"
+    },
+    "description": "Epos library for solar boat twente",
+    "examples": [
+        "https://os.mbed.com/users/BramS23/code/BIEM_Stability_System/",
+        "https://os.mbed.com/teams/Solarboat-Twente/code/BIEM_Test_Wings/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Epos_control",
+    "name": "Epos_control",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BramS23/code/Epos_control/"
+    }
+}

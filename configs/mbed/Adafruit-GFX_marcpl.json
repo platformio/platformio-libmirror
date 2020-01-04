@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Marc Plouhinec",
+        "url": "https://os.mbed.com/users/marcpl/"
+    },
+    "description": "Adafruit-GFX porting for mbed",
+    "examples": [
+        "https://os.mbed.com/users/marcpl/code/Adafruit_SHARP_Memory_Display/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GFX",
+        "LCD",
+        "OLED"
+    ],
+    "name": "Adafruit-GFX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/marcpl/code/Adafruit-GFX/"
+    }
+}

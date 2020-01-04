@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "Rohit Imandi",
+        "url": "https://os.mbed.com/users/Rohit99/"
+    },
+    "dependencies": [
+        {
+            "authors": "Simon Ford",
+            "frameworks": "mbed",
+            "name": "Motor"
+        },
+        {
+            "authors": "Rohit Imandi",
+            "frameworks": "mbed",
+            "name": "Ultrasonic_HCSR04_HelloWorld_code"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "The user controls the car via bluetooth through the Bluefruit LE app. The user can switch between a \"sem-auto\" mode and a manual mode.",
+    "frameworks": "mbed",
+    "keywords": [
+        "bluetooth",
+        "car",
+        "electronics",
+        "mini project",
+        "robot",
+        "wireless"
+    ],
+    "name": "Bluetooth-Controlled-Semi-automatic-Car",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Rohit99/code/Bluetooth-Controlled-Semi-automatic-Car/"
+    }
+}

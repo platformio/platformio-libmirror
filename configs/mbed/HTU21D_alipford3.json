@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Alex Lipford",
+        "url": "https://os.mbed.com/users/alipford3/"
+    },
+    "description": "An updated, basic library to interface with the HTU21D digital temperature and humidity sensor",
+    "examples": [
+        "https://os.mbed.com/users/alipford3/code/HTU21D_HELLOWORLD/",
+        "https://os.mbed.com/users/Guillaume31/code/HTU21D-F_Nucleo_F411RE/",
+        "https://os.mbed.com/users/trevieze/code/Bicycl_Computer_NUCLEO-F411RE/",
+        "https://os.mbed.com/users/trevieze/code/Bicycl_Computer_NUCLEO-L476RG/",
+        "https://os.mbed.com/users/lenriquez389/code/ER4Lora/",
+        "https://os.mbed.com/users/Adam06/code/HTU21D-F_Nucleo_F411RE/",
+        "https://os.mbed.com/users/Adam06/code/Emetteur/",
+        "https://os.mbed.com/users/Adam06/code/Recepteur/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HTU21D",
+    "name": "HTU21D",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/alipford3/code/HTU21D/"
+    }
+}

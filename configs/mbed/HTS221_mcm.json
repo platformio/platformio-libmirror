@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Manuel Caballero",
+        "url": "https://os.mbed.com/users/mcm/"
+    },
+    "description": "Capacitive digital sensor for relative humidity and temperature",
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "HTS221",
+        "Humidity",
+        "I2C",
+        "library",
+        "ST",
+        "Temperature"
+    ],
+    "name": "HTS221",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mcm/code/HTS221/"
+    }
+}

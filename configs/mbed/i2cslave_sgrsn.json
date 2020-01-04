@@ -11,10 +11,15 @@
         "https://os.mbed.com/users/sgrsn/code/2016_slave_MD_rorikon/",
         "https://os.mbed.com/teams/robocon_2016/code/2016_slave_MD_rorikon/",
         "https://os.mbed.com/teams/robocon_2016/code/2016_slave_servo/",
-        "https://os.mbed.com/teams/robocon_2016/code/2016_slave_touch_photo/"
+        "https://os.mbed.com/teams/robocon_2016/code/2016_slave_touch_photo/",
+        "https://os.mbed.com/users/sgrsn/code/WRS2019_SteppingDriver/"
     ],
     "frameworks": "mbed",
-    "keywords": "I2C",
+    "keywords": [
+        "I2C",
+        "interrupt",
+        "slave"
+    ],
     "name": "i2cslave",
     "platforms": "*",
     "repository": {

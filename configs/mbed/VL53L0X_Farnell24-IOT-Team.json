@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Farnell-Element14 Bologna IOT Team",
+        "url": "https://os.mbed.com/teams/Farnell24-IOT-Team/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ST_INTERFACES"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "X_NUCLEO_COMMON"
+        }
+    ],
+    "description": "commentata la ridefinizione di tipo bool_t in i2c",
+    "examples": [
+        "https://os.mbed.com/teams/Farnell24-IOT-Team/code/BSP_B-L475E-IOT01/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "VL53L0X",
+    "name": "VL53L0X",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Farnell24-IOT-Team/code/VL53L0X/"
+    }
+}

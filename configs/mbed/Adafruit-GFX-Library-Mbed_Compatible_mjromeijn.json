@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Marijn Romeijn",
+        "url": "https://os.mbed.com/users/mjromeijn/"
+    },
+    "description": "Fork of the latest Adafruit GFX Library as of 2017-12-13 to make it compatible with Mbed",
+    "frameworks": "mbed",
+    "keywords": "Adafruit-GFX-Library-Mbed_Compatible",
+    "name": "Adafruit-GFX-Library-Mbed_Compatible",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mjromeijn/code/Adafruit-GFX-Library-Mbed_Compatible/"
+    }
+}

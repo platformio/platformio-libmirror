@@ -4,6 +4,10 @@
         "url": "https://os.mbed.com/users/akashvibhute/"
     },
     "description": "TCA9548A 8 channel I2C switch with reset",
+    "examples": [
+        "https://os.mbed.com/users/Joe5181/code/4012Code/",
+        "https://os.mbed.com/users/jmiller322/code/PWM/"
+    ],
     "frameworks": "mbed",
     "keywords": "TCA9548A",
     "name": "TCA9548A",

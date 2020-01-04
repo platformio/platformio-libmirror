@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Senet",
+        "url": "https://os.mbed.com/teams/Senet/"
+    },
+    "description": "Fork of Semtech LoRaWAN stack",
+    "frameworks": "mbed",
+    "keywords": "LoRaWAN-lib",
+    "name": "LoRaWAN-lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Senet/code/LoRaWAN-lib/"
+    }
+}

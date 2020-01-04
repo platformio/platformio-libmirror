@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Joseph Bradshaw",
+        "url": "https://os.mbed.com/users/jebradshaw/"
+    },
+    "description": "Library for generating servo pulses from mbed output pins",
+    "examples": [
+        "https://os.mbed.com/users/jebradshaw/code/mbed_ES20X_Tester/",
+        "https://os.mbed.com/teams/USNA-WSE-ES456/code/MadPulseCntrl/",
+        "https://os.mbed.com/users/m176846/code/ES413Integration/",
+        "https://os.mbed.com/teams/Emaxx-Navigation-Group/code/Emaxx_Navigation/",
+        "https://os.mbed.com/users/chuckwebb/code/mbed_pc_connection/",
+        "https://os.mbed.com/teams/Emaxx-Navigation-Group/code/Emaxx_Navigation_Dynamic_HIL/",
+        "https://os.mbed.com/teams/USNA-WSE-ES456/code/Madpulse_Speed_Control_temp/",
+        "https://os.mbed.com/teams/USNA-WSE-ES456/code/Madpulse_Speed_Control_Students/",
+        "https://os.mbed.com/teams/USNA-WSE-ES456/code/Emaxx_Navigation_madpulse/",
+        "https://os.mbed.com/users/jebradshaw/code/mbed_ES20X_V21_Tester/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Servo",
+        "servo pulse",
+        "SERVOGEN",
+        "ServoOut"
+    ],
+    "name": "ServoOut",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jebradshaw/code/ServoOut/"
+    }
+}

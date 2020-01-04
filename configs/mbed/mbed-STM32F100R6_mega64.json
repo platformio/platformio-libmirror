@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Nothing Special",
+        "url": "https://os.mbed.com/users/mega64/"
+    },
+    "description": "mbed-dev library fork for STM32F100R6 microcontroller (LQFP64, 24MHz, 32kB flash, 4kB ram, 2-channel DAC, HDMI CEC, very cheap) . Use in online compiler (instead mbed library) with selected platform Nucleo ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "STM32F100R6",
+        "STM32F100R6T6",
+        "STM32F100R6T6B"
+    ],
+    "name": "mbed-STM32F100R6",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mega64/code/mbed-STM32F100R6/"
+    }
+}

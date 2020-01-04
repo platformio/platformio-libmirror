@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Alexandr Pokrovsky",
+        "url": "https://os.mbed.com/users/pokrovsci/"
+    },
+    "description": "specific usb for STM32F103",
+    "frameworks": "mbed",
+    "keywords": "USBDevice_STM32F103",
+    "name": "USBDevice_STM32F103",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pokrovsci/code/USBDevice_STM32F103/"
+    }
+}

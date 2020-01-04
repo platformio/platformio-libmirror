@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Rory Hand",
+        "url": "https://os.mbed.com/users/roryhand/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "Literally an older copy of the mbed official version",
+    "examples": [
+        "https://os.mbed.com/users/roryhand/code/Wolfson_3_wav/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem_Copy_of_mbed_version",
+    "name": "SDFileSystem_Copy_of_mbed_version",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/roryhand/code/SDFileSystem_Copy_of_mbed_version/"
+    }
+}

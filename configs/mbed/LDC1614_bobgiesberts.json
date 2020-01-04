@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Bob Giesberts",
+        "url": "https://os.mbed.com/users/bobgiesberts/"
+    },
+    "dependencies": [
+        {
+            "authors": "Bob Giesberts",
+            "frameworks": "mbed",
+            "name": "SHTx"
+        }
+    ],
+    "description": "Library to communicate with LDC1614",
+    "examples": [
+        "https://os.mbed.com/users/bobgiesberts/code/Inductive_Sensor_3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LDC1614",
+    "name": "LDC1614",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bobgiesberts/code/LDC1614/"
+    }
+}

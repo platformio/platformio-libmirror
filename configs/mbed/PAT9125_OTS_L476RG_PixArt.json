@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "PixArt",
+        "url": "https://os.mbed.com/teams/PixArt/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Initial Release of Library for PAT9125 OTS on L476RG Platform",
+    "frameworks": "mbed",
+    "keywords": "PAT9125_OTS_L476RG",
+    "name": "PAT9125_OTS_L476RG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PixArt/code/PAT9125_OTS_L476RG/"
+    }
+}

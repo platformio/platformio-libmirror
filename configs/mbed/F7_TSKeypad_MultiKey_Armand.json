@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Armand Coetzer",
+        "url": "https://os.mbed.com/users/Armand/"
+    },
+    "description": "class library for a TS Keypad and retrieving multiple keys, then press enter and the values are stored and the keypad disappears.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Armand",
+        "Coetzer"
+    ],
+    "name": "F7_TSKeypad_MultiKey",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Armand/code/F7_TSKeypad_MultiKey/"
+    }
+}

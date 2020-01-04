@@ -1,0 +1,42 @@
+{
+    "authors": {
+        "name": "Mudassar Hussain",
+        "url": "https://os.mbed.com/users/mudassar0121/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ublox-at-cellular-interface-n2xx"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ublox-at-cellular-interface"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ublox-cellular-base-n2xx"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ublox-cellular-base"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ublox-ppp-cellular-interface"
+        }
+    ],
+    "description": "Testing C030_R410M",
+    "frameworks": "mbed",
+    "keywords": "example-ublox-cellular-interface_r410M",
+    "name": "example-ublox-cellular-interface_r410M",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mudassar0121/code/example-ublox-cellular-interface_r410M/"
+    }
+}

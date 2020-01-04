@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "wayne roberts",
+        "url": "https://os.mbed.com/users/dudmuck/"
+    },
+    "dependencies": [
+        {
+            "authors": "wayne roberts",
+            "frameworks": "mbed",
+            "name": "sx12xx_hal"
+        }
+    ],
+    "description": "LoRaWAN end device MAC layer for SX1272 and SX1276. Supports LoRaWAN-1.0 and LoRaWAN-1.1",
+    "examples": [
+        "https://os.mbed.com/users/bootcamps/code/LoRaWAN-SanJose_Bootcamp/",
+        "https://os.mbed.com/users/bootcamps/code/LoRaWAN-grove-cayenne/",
+        "https://os.mbed.com/users/dudmuck/code/LoRaWAN-classC-demo/",
+        "https://os.mbed.com/users/dudmuck/code/LoRaWAN-grove-cayenne/",
+        "https://os.mbed.com/users/dudmuck/code/LoRaWAN-gps-cayenne/",
+        "https://os.mbed.com/users/bootcamps/code/LoRaWAN-grove-cayenne_Oct_11th_A/",
+        "https://os.mbed.com/users/lmg13/code/___LoRaWAN-grove-cayenne_Oct_18th_Ottowa/",
+        "https://os.mbed.com/users/bootcamps/code/LoRaWAN-grove-cayenne_spider_test/",
+        "https://os.mbed.com/users/bootcamps/code/LoRaWAN-Disco-Cayenne_Ottawa_Bootcamp/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "lorawan1v1",
+    "name": "lorawan1v1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dudmuck/code/lorawan1v1/"
+    }
+}

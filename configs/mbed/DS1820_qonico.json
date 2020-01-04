@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Fernando Caamaño",
+        "url": "https://os.mbed.com/users/qonico/"
+    },
+    "description": "Dallas / Maxim DS1820 1-Wire library. For communication with multiple DS1820 on a single 1-Wire bus. Also supports DS18S20 and DS18B20.",
+    "frameworks": "mbed",
+    "keywords": [
+        "DS1820",
+        "DS18B20",
+        "DS18S20"
+    ],
+    "name": "DS1820",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/qonico/code/DS1820/"
+    }
+}

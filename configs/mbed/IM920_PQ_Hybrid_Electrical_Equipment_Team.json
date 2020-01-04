@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "PQ_Hybrid_Electrical_Equipment_Team",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/"
+    },
+    "description": "920MHz帯無線通信モジュールIM920のライブラリ",
+    "frameworks": "mbed",
+    "keywords": "IM920",
+    "name": "IM920",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/IM920/"
+    }
+}

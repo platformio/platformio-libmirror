@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "marco valli",
+        "url": "https://os.mbed.com/users/billycorgan123/"
+    },
+    "description": "for Arduino TFT LCD Screen 160x128",
+    "examples": [
+        "https://os.mbed.com/users/billycorgan123/code/TFTLCDSCREEN/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TFT_ILI9163C",
+    "name": "TFT_ILI9163C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/billycorgan123/code/TFT_ILI9163C/"
+    }
+}

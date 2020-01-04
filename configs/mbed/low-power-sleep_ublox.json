@@ -12,7 +12,8 @@
     ],
     "description": "This class provides an API to assist with low power behaviour on an STM32F437 micro, as used on the u-blox C030 board. If you need to operate from battery for ...",
     "examples": [
-        "https://os.mbed.com/teams/ublox/code/example-low-power-sleep/"
+        "https://os.mbed.com/teams/ublox/code/example-low-power-sleep/",
+        "https://os.mbed.com/users/jurica238814/code/aconnoCellularGnss/"
     ],
     "frameworks": "mbed",
     "keywords": [

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "dependencies": [
+        {
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
+            "name": "BufferedSerial"
+        }
+    ],
+    "description": "ATParser for X-NUCLEO-IDW01M1 module",
+    "examples": [
+        "https://os.mbed.com/users/lapi/code/SPWF01SA-lapi-1/",
+        "https://os.mbed.com/teams/ST/code/SPWF01SA/",
+        "https://os.mbed.com/teams/Klika-Tech/code/Nucleo-AWS-IoT-mbed/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ATParser",
+    "name": "ATParser",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/ATParser/"
+    }
+}

@@ -3,17 +3,6 @@
         "name": "Daniele Lacamera",
         "url": "https://os.mbed.com/users/daniele/"
     },
-    "build": {
-        "flags": [
-            "-IEthernetInterface",
-            "-Iinclude",
-            "-Iinclude/arch",
-            "-Imodules",
-            "-Istack",
-            "-ISocket",
-            "-ISocket/bsd"
-        ]
-    },
     "description": "Free (GPLv2) TCP/IP stack developed by TASS Belgium",
     "examples": [
         "https://os.mbed.com/users/tass/code/lpc1768-picotcp-demo/",

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Cefn Hoile",
+        "url": "https://os.mbed.com/users/cefn/"
+    },
+    "dependencies": [
+        {
+            "authors": "Cefn Hoile",
+            "frameworks": "mbed",
+            "name": "nrf51-sdk"
+        }
+    ],
+    "description": "Attempting to publish a tree",
+    "examples": [
+        "https://os.mbed.com/users/cefn/code/microbit-dal/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "nRF51822",
+    "name": "nRF51822",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cefn/code/nRF51822/"
+    }
+}

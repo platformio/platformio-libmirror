@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Takuya Urakawa",
+        "url": "https://os.mbed.com/users/hsgw/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "My Fork of F401RE-USBHost. Add USBHostMIDI functions (originaled by Kaoru Shoji http://mbed.org/users/kshoji/code/USBHostMIDI/)",
+    "examples": [
+        "https://os.mbed.com/users/hsgw/code/F401RE-USBHostMIDI_RecieveExample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "F401RE",
+        "Nucleo",
+        "USBHOST"
+    ],
+    "name": "F401RE-USBHost",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hsgw/code/F401RE-USBHost/"
+    }
+}

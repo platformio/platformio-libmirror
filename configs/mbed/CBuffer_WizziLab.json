@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "WizziLab",
+        "url": "https://os.mbed.com/teams/WizziLab/"
+    },
+    "description": "Circular buffer library",
+    "examples": [
+        "https://os.mbed.com/teams/WizziLab/code/WizziDebug/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "CBuffer",
+    "name": "CBuffer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/WizziLab/code/CBuffer/"
+    }
+}

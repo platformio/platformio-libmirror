@@ -3,14 +3,6 @@
         "name": "Donatien Garnier",
         "url": "https://os.mbed.com/users/donatien/"
     },
-    "build": {
-        "flags": [
-            "-Imain",
-            "-Imain/core",
-            "-Imain/api",
-            "-Imain/if"
-        ]
-    },
     "dependencies": [
         {
             "authors": "Donatien Garnier",

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Michael Baker",
+        "url": "https://os.mbed.com/users/michaelVisimid/"
+    },
+    "description": "C027 updated to work with latest mBed libraries",
+    "examples": [
+        "https://os.mbed.com/users/michaelVisimid/code/Cellular_HelloMQTT/",
+        "https://os.mbed.com/users/michaelVisimid/code/UBLOXModemDriver/",
+        "https://os.mbed.com/users/michaelVisimid/code/UBLOXMQTTDriver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "C027_Support",
+    "name": "C027_Support",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/michaelVisimid/code/C027_Support/"
+    }
+}

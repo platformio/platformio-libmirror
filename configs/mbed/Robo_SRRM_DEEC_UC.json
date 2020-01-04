@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "DEEC UC",
+        "url": "https://os.mbed.com/users/DEEC_UC/"
+    },
+    "description": "Robot API for use on SRRM classes.",
+    "frameworks": "mbed",
+    "keywords": "Robo_SRRM",
+    "name": "Robo_SRRM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DEEC_UC/code/Robo_SRRM/"
+    }
+}

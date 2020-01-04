@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Aimen Al-Refai",
+        "url": "https://os.mbed.com/users/aimen/"
+    },
+    "description": "4 dof robotic arm use of AX12 code",
+    "examples": [
+        "https://os.mbed.com/users/aimen/code/4dofRoboticArmAX12/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ax12",
+        "dynamixel",
+        "motor",
+        "Servo"
+    ],
+    "name": "AX12",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aimen/code/AX12/"
+    }
+}

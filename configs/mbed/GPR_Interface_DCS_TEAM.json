@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "DCS_TEAM",
+        "url": "https://os.mbed.com/teams/DCS_TEAM/"
+    },
+    "description": "tester",
+    "frameworks": "mbed",
+    "keywords": "GPR_Interface",
+    "name": "GPR_Interface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/DCS_TEAM/code/GPR_Interface/"
+    }
+}

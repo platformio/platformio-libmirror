@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "chen ada",
+        "url": "https://os.mbed.com/users/adaphoto/"
+    },
+    "description": "a dc_motor drive lib use two PWM IO to drive the dc_motor",
+    "examples": [
+        "https://os.mbed.com/users/adaphoto/code/Nucleo_F411RE_OS_Robot_Tank/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DC motor",
+        "pwm"
+    ],
+    "name": "MOTOR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/adaphoto/code/MOTOR/"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "dependencies": [
+        {
+            "authors": "不韋 呂",
+            "frameworks": "mbed",
+            "name": "Array_Matrix"
+        }
+    ],
+    "description": "Nucleo-F446RE 内蔵の AD/DA を使うためのライブラリ．DA からの出力は，標本化周波数の４倍のレートで行う．AD の読み込みにはソフトウェア割り込みを使用． このライブラリを登録した際のプログラム： Demo_F446_AD_DA_MultirateSWI. Library for built-in ADC and DAC in Nucleo-F446RE using software interrupt for reading ADC. Sampling rate for DAC is four times of ...",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/Demo_F446_AD_DA_MultirateSWI/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F446_UpSampling_LPF_HPF_Variable/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "da",
+        "interrupt",
+        "multi-rate",
+        "Nucleo-F446",
+        "software interrupt"
+    ],
+    "name": "F446_AD_DA_MultirateSWI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/F446_AD_DA_MultirateSWI/"
+    }
+}

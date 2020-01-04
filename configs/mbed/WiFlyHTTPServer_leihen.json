@@ -3,11 +3,6 @@
         "name": "Henry Leinen",
         "url": "https://os.mbed.com/users/leihen/"
     },
-    "build": {
-        "flags": [
-            "-IHandler"
-        ]
-    },
     "description": "Single instance HTTP Server using WiFly Interface.",
     "examples": [
         "https://os.mbed.com/users/leihen/code/WiFlyHTTPServerSample/",

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "BME SmartLab",
+        "url": "https://os.mbed.com/teams/BME-SmartLab/"
+    },
+    "description": "Radio communication with NRF24",
+    "examples": [
+        "https://os.mbed.com/users/gume/code/F030/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "NRF24",
+    "name": "ssRadio",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/BME-SmartLab/code/ssRadio/"
+    }
+}

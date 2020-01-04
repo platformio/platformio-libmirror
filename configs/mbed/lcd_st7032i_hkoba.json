@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Hiroyuki Kobayashi",
+        "url": "https://os.mbed.com/users/hkoba/"
+    },
+    "description": "LCD controller ST7032i library.",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "ST7032i"
+    ],
+    "name": "lcd_st7032i",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hkoba/code/lcd_st7032i/"
+    }
+}

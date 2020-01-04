@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "modtronix H",
+        "url": "https://os.mbed.com/users/modtronix/"
+    },
+    "description": "Fork of SX1276 library, with setLowDataRateOptimize() function added to configure \"Low Datarate Optimize\" setting of chip.",
+    "examples": [
+        "https://os.mbed.com/users/modtronix/code/SX1276_terminal/",
+        "https://os.mbed.com/users/modtronix/code/SX1276_Semtech_GUI/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SX127x_modtronix",
+    "name": "SX127x_modtronix",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/modtronix/code/SX127x_modtronix/"
+    }
+}

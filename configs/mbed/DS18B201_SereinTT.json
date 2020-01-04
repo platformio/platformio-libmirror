@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Li Tao",
+        "url": "https://os.mbed.com/users/SereinTT/"
+    },
+    "dependencies": [
+        {
+            "authors": "Steve Spence",
+            "frameworks": "mbed",
+            "name": "DS18B20Sensor"
+        }
+    ],
+    "description": "DS18B20 with serial PC",
+    "frameworks": "mbed",
+    "keywords": "DS18B201",
+    "name": "DS18B201",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SereinTT/code/DS18B201/"
+    }
+}

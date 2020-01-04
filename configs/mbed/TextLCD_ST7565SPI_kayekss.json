@@ -5,7 +5,9 @@
     },
     "description": "Text console library for ST7565 graphics LCD controller over SPI interface.",
     "examples": [
-        "https://os.mbed.com/users/kayekss/code/TextLCD_ST7565SPI_Test/"
+        "https://os.mbed.com/users/kayekss/code/TextLCD_ST7565SPI_Test/",
+        "https://os.mbed.com/users/gsudario/code/OpPanel_Offline/",
+        "https://os.mbed.com/users/rempig/code/OpPanel_Offline_cmake_gcc_arm_NUCLEO_F30/"
     ],
     "frameworks": "mbed",
     "keywords": [

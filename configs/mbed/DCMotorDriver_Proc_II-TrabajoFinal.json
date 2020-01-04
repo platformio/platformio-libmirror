@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Proc_II TrabajoFinal",
+        "url": "https://os.mbed.com/teams/Proc_II-TrabajoFinal/"
+    },
+    "description": "Librería para el control del driver para motores para Arduino (AdafruitMotorShield)",
+    "frameworks": "mbed",
+    "keywords": "DCMotorDriver",
+    "name": "DCMotorDriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Proc_II-TrabajoFinal/code/DCMotorDriver/"
+    }
+}

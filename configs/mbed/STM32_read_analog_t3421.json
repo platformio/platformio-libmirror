@@ -1,0 +1,42 @@
+{
+    "authors": {
+        "name": "Theodore Sosnowski",
+        "url": "https://os.mbed.com/users/t3421/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "LCD_DISCO_F429ZI"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "BSP_DISCO_F429ZI"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "GYRO_DISCO_F429ZI"
+        }
+    ],
+    "description": "two pin input",
+    "frameworks": "mbed",
+    "keywords": [
+        "Analog",
+        "In",
+        "LDC",
+        "Out"
+    ],
+    "name": "STM32_read_analog",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/t3421/code/STM32_read_analog/"
+    }
+}

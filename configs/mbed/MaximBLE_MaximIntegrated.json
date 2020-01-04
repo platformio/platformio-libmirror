@@ -3,20 +3,6 @@
         "name": "Maxim Integrated",
         "url": "https://os.mbed.com/teams/MaximIntegrated/"
     },
-    "build": {
-        "flags": [
-            "-IexactLE",
-            "-IexactLE/hci",
-            "-IexactLE/hci/maxwsn",
-            "-IexactLE/wsf",
-            "-IexactLE/wsf/generic",
-            "-IexactLE/wsf/include",
-            "-IexactLE/stack",
-            "-IexactLE/stack/include",
-            "-IexactLE/stack/cfg",
-            "-IexactLE/util"
-        ]
-    },
     "description": "Maxim Integrated Bluetooth LE Library",
     "examples": [
         "https://os.mbed.com/teams/MaximIntegrated/code/BLE_Thermometer/",

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Steven Ortiz",
+        "url": "https://os.mbed.com/users/Stevenor1997/"
+    },
+    "description": "el programa permite ingresar la posición en el eje X,Y,Z, haciendo que el Servo MG90S con sus movimientos de 180° trabaje en mm de 0 a 50.",
+    "examples": [
+        "https://os.mbed.com/users/Stevenor1997/code/PICCOLO_CNC/",
+        "https://os.mbed.com/users/Stevenor1997/code/PICCOLO_CNC1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "servos",
+        "sistemas_embebidos"
+    ],
+    "name": "Move_Servos",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Stevenor1997/code/Move_Servos/"
+    }
+}

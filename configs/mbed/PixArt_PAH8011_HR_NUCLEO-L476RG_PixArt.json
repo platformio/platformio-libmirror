@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "PixArt",
+        "url": "https://os.mbed.com/teams/PixArt/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Bell Huang",
+            "frameworks": "mbed",
+            "name": "pixart_heart_rate_demo"
+        },
+        {
+            "authors": "Bell Huang",
+            "frameworks": "mbed",
+            "name": "pixart_heart_rate_lib_keil_m4"
+        }
+    ],
+    "description": "PAH8011 HeartRate on STM NUCLEO-L476RG",
+    "frameworks": "mbed",
+    "keywords": "PixArt_PAH8011_HR_NUCLEO-L476RG",
+    "name": "PixArt_PAH8011_HR_NUCLEO-L476RG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PixArt/code/PixArt_PAH8011_HR_NUCLEO-L476RG/"
+    }
+}

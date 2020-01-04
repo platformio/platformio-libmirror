@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "HEPTA-Sat Training 2017~2018",
+        "url": "https://os.mbed.com/users/HEPTA/"
+    },
+    "description": "Hepta9axisSensor Library",
+    "examples": [
+        "https://os.mbed.com/users/HEPTA/code/Lab9-01_All_transmit/",
+        "https://os.mbed.com/users/HEPTA/code/Lab9-03_Thermal_chamber/",
+        "https://os.mbed.com/users/tuba/code/3daf572bcae1/",
+        "https://os.mbed.com/users/tuba/code/Team/",
+        "https://os.mbed.com/users/tuba/code/Team01_HEPTA_Trainig/",
+        "https://os.mbed.com/users/VicZl/code/Final_Magnetism_measurement_GPS_data_sav/",
+        "https://os.mbed.com/users/stoilivanov/code/LaserCommProtocol_01/",
+        "https://os.mbed.com/users/HEPTA/code/Lab5-03_Q_Uplink_Downlink_Xbee_1/",
+        "https://os.mbed.com/users/ponpoko1939/code/Lab1-04_model_program_1/",
+        "https://os.mbed.com/users/ponpoko1939/code/Lab4-11_model_program_3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Hepta9axis",
+    "name": "Hepta9axis",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/HEPTA/code/Hepta9axis/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "David Lowe",
+        "url": "https://os.mbed.com/users/gregeric/"
+    },
+    "description": "Lib for the new LCD Display with ILI9341 controller Modified for huge fonts (>255 bytes/char). Needs modified font.h files with 2-byte size parameter. Window size is set on a per-character ...",
+    "examples": [
+        "https://os.mbed.com/users/gregeric/code/Mandelbrot/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SPI_TFT_ILI9341",
+    "name": "SPI_TFT_ILI9341",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gregeric/code/SPI_TFT_ILI9341/"
+    }
+}

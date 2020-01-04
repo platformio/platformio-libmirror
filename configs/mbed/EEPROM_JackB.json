@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jack Berkhout",
+        "url": "https://os.mbed.com/users/JackB/"
+    },
+    "description": "Renamed read and write functions so they speak for them selves and do no longer recursively call themselves, causing hangs. Also changed the way they return values. and added double ...",
+    "frameworks": "mbed",
+    "keywords": "EEPROM",
+    "name": "EEPROM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JackB/code/EEPROM/"
+    }
+}

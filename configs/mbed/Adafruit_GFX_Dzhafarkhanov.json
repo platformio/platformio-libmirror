@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Dmitry Dzhafarkhanov",
+        "url": "https://os.mbed.com/users/Dzhafarkhanov/"
+    },
+    "description": "A derived version of the BSD licensed Adafrut GFX library for the SSD1351 controller for an OLED 128x 96or 128x128 display using SPI",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "OLED",
+        "SPI",
+        "SSD1351"
+    ],
+    "name": "Adafruit_GFX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Dzhafarkhanov/code/Adafruit_GFX/"
+    }
+}

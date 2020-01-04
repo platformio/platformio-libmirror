@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Angel David Yaguana Hernandez",
+        "url": "https://os.mbed.com/users/sherckuith/"
+    },
+    "description": "ACTUALIZED LIBRARY 0 Open (Default) 1 WEP-128 2 WPA1 3 Mixed WPA1 & WPA2-PSK 4 WPA2-PSK 5 Not Used 6 Adhoc, Join any Adhoc network",
+    "examples": [
+        "https://os.mbed.com/users/jstockhoff3/code/mbed_Arduino_sensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "WiflyInterface",
+    "name": "WiflyInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sherckuith/code/WiflyInterface/"
+    }
+}

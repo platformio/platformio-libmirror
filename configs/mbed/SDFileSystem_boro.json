@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Nicolas Borla",
+        "url": "https://os.mbed.com/users/boro/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "SD write read",
+    "examples": [
+        "https://os.mbed.com/users/boro/code/SD_write_read/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/boro/code/SDFileSystem/"
+    }
+}

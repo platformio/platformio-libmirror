@@ -6,10 +6,11 @@
     "description": "Analog Devices AD7124-8 - 8-Channel, Low Noise, Low Power, 24-Bit, Sigma-Delta ADC with PGA and Reference",
     "examples": [
         "https://os.mbed.com/teams/AnalogDevices/code/CN0398/",
-        "https://os.mbed.com/teams/AnalogDevices/code/CN0391/"
+        "https://os.mbed.com/teams/AnalogDevices/code/CN0391/",
+        "https://os.mbed.com/teams/GreenTech/code/CN0398_arduino/"
     ],
     "frameworks": "mbed",
-    "keywords": "ad7124",
+    "keywords": "AD7124",
     "name": "AD7124",
     "platforms": "*",
     "repository": {

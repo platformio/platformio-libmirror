@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Ian Hua",
+        "url": "https://os.mbed.com/users/pHysiX/"
+    },
+    "description": "I2CRTOS Driver by Helmut Schmücker. Removed included mbed-rtos library to prevent multiple definition. Make sure to include mbed-rtos library in your program!",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "I2CRTOS",
+        "non-blocking",
+        "rtos"
+    ],
+    "name": "I2cRtosDriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pHysiX/code/I2cRtosDriver/"
+    }
+}

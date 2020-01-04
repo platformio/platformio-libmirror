@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Renesas",
+        "url": "https://os.mbed.com/teams/Renesas/"
+    },
+    "description": "A class to communicate a USB dac (send:only 48kHz,16bit,2ch , receive:only 48kHz,16bit,1ch). Need \"USBHost_AddIso\" library.",
+    "examples": [
+        "https://os.mbed.com/teams/Renesas/code/USBHostDac_Audio_in_out/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "dac",
+        "Host",
+        "Isochronous",
+        "USB"
+    ],
+    "name": "USBHostDac",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Renesas/code/USBHostDac/"
+    }
+}

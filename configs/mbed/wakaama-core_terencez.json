@@ -3,12 +3,6 @@
         "name": "terence zhang",
         "url": "https://os.mbed.com/users/terencez/"
     },
-    "build": {
-        "flags": [
-            "-Icore",
-            "-Icore/er-coap-13"
-        ]
-    },
     "description": "pick up wakaama files from https://github.com/eclipse/wakaama",
     "frameworks": "mbed",
     "keywords": "wakaama-core",

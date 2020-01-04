@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Florent Coudronniere",
+        "url": "https://os.mbed.com/users/Risord/"
+    },
+    "dependencies": [
+        {
+            "authors": "Florent Coudronniere",
+            "frameworks": "mbed",
+            "name": "ADXL345_I2C"
+        }
+    ],
+    "description": "plop",
+    "frameworks": "mbed",
+    "keywords": "Accelerometre",
+    "name": "Accelerometre",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Risord/code/Accelerometre/"
+    }
+}

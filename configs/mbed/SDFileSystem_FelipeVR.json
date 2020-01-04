@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Felipe Velazquez",
+        "url": "https://os.mbed.com/users/FelipeVR/"
+    },
+    "description": "SDFileSystem-Smartes",
+    "examples": [
+        "https://os.mbed.com/users/FelipeVR/code/Demo_NucleoF4xx_SD_Card/",
+        "https://os.mbed.com/users/rogerhippo/code/soundthing/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/FelipeVR/code/SDFileSystem/"
+    }
+}

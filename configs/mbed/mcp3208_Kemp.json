@@ -9,10 +9,7 @@
         "https://os.mbed.com/users/ryood/code/Nucleo_MCP3208_Ticker_Test/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "adc",
-        "SPI"
-    ],
+    "keywords": "SPI",
     "name": "mcp3208",
     "platforms": "*",
     "repository": {

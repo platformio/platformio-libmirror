@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Bhavin Darji",
+        "url": "https://os.mbed.com/users/brdarji/"
+    },
+    "description": "BMP280 I2C Library",
+    "frameworks": "mbed",
+    "keywords": "BMP280",
+    "name": "BMP280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/brdarji/code/BMP280/"
+    }
+}

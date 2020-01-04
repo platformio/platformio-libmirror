@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Paul Staron",
+        "url": "https://os.mbed.com/users/star297/"
+    },
+    "description": "Last know working Mbed-Dev files for ST's L476 RTC to allow low current deep sleep mode @ 6ua.",
+    "frameworks": "mbed",
+    "keywords": "mbed-dev-L476",
+    "name": "mbed-dev-L476",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/star297/code/mbed-dev-L476/"
+    }
+}

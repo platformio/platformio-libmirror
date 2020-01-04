@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Thinger.io",
+        "url": "https://os.mbed.com/teams/Thingerio/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "EthernetInterface"
+        },
+        {
+            "authors": "Alvaro Luis Bustamante",
+            "frameworks": "mbed",
+            "name": "ThingerClient"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        }
+    ],
+    "description": "Thinger.io client for boards compatible with the ARM mbed Ethernet Interface.",
+    "frameworks": "mbed",
+    "keywords": "ThingerEthernetClient",
+    "name": "ThingerEthernetClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Thingerio/code/ThingerEthernetClient/"
+    }
+}

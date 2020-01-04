@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Daiki Kato",
+        "url": "https://os.mbed.com/users/dkato/"
+    },
+    "dependencies": [
+        {
+            "authors": "Daiki Kato",
+            "frameworks": "mbed",
+            "name": "LWIPBP3595Interface_for_mbed-os"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "WlanBP3595STA"
+        }
+    ],
+    "description": "LWIPBP3595Interface_STA library for mbed-os.",
+    "examples": [
+        "https://os.mbed.com/users/HinoNaka/code/mbed-os_Watson-IoT_ZXing_sample/",
+        "https://os.mbed.com/teams/Renesas/code/mbed-os_Watson-IoT_ZXing_sample/",
+        "https://os.mbed.com/users/dkato/code/easy-connect-gr-peach/",
+        "https://os.mbed.com/users/tuthai/code/GR-PEACH-webcam/",
+        "https://os.mbed.com/users/fxanhkhoa/code/GR-PEACH_DR_STRANGE_VR_GAME/",
+        "https://os.mbed.com/users/dkato/code/GR-Boards_WebCamera/",
+        "https://os.mbed.com/users/1050186/code/easy-connect-gr-lychee/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LWIPBP3595Interface_STA_for_mbed-os",
+    "name": "LWIPBP3595Interface_STA_for_mbed-os",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dkato/code/LWIPBP3595Interface_STA_for_mbed-os/"
+    }
+}

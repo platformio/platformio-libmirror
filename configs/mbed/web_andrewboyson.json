@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Andrew Boyson",
+        "url": "https://os.mbed.com/users/andrewboyson/"
+    },
+    "description": "Common stuff for all my devices' web server pages: css, login, log, ipv4, ipv6, firmware update, clock, reset info etc.",
+    "examples": [
+        "https://os.mbed.com/users/andrewboyson/code/gps/",
+        "https://os.mbed.com/users/andrewboyson/code/heating/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "web",
+    "name": "web",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/andrewboyson/code/web/"
+    }
+}

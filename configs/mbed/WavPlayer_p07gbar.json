@@ -3,13 +3,6 @@
         "name": "Giles Barton-Owen",
         "url": "https://os.mbed.com/users/p07gbar/"
     },
-    "build": {
-        "flags": [
-            "-ITLV320",
-            "-IRingBuffer",
-            "-II2S"
-        ]
-    },
     "description": "A library which allows the playing of Wav files using the TLV320",
     "examples": [
         "https://os.mbed.com/users/p07gbar/code/RSALB_hbridge_helloworld/",

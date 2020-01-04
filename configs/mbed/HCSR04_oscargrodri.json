@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "oscar rodriguez",
+        "url": "https://os.mbed.com/users/oscargrodri/"
+    },
+    "description": "wo",
+    "examples": [
+        "https://os.mbed.com/users/oscargrodri/code/Ultrasonic/",
+        "https://os.mbed.com/users/CTxD/code/UltrasonicCasper/",
+        "https://os.mbed.com/users/Risifutti/code/UltrasonicCasper/",
+        "https://os.mbed.com/users/kasperhangard/code/frdm_tsi_slider/",
+        "https://os.mbed.com/users/Risifutti/code/frdm_tsi_slider/",
+        "https://os.mbed.com/users/iLyngklip/code/HACKATHON2015-2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FRDM",
+        "k25z",
+        "rking"
+    ],
+    "name": "HCSR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/oscargrodri/code/HCSR04/"
+    }
+}

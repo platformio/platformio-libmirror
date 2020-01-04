@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Kai Liu",
+        "url": "https://os.mbed.com/users/allankliu/"
+    },
+    "description": "micro-ECC for mbed, ported from GCC version from Github,",
+    "examples": [
+        "https://os.mbed.com/users/allankliu/code/mbed_microECC/",
+        "https://os.mbed.com/users/kelapuresarthak/code/Wallet_v1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ecc",
+    "name": "uECC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/allankliu/code/uECC/"
+    }
+}

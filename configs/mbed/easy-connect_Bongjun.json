@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Bongjun Hur",
+        "url": "https://os.mbed.com/users/Bongjun/"
+    },
+    "description": "Modified version of easy-connect for W5500 Ethernet components",
+    "examples": [
+        "https://os.mbed.com/users/Bongjun/code/http-webserver-example/",
+        "https://os.mbed.com/users/Bongjun/code/mbed-os-example-sockets/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "easy-connect",
+        "W5500",
+        "W5500Interface"
+    ],
+    "name": "easy-connect",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Bongjun/code/easy-connect/"
+    }
+}

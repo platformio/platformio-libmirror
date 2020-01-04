@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Víctor Najarro",
+        "url": "https://os.mbed.com/users/vinajarr/"
+    },
+    "description": "library of measure the sensor MPU6050 by I2C",
+    "examples": [
+        "https://os.mbed.com/users/vinajarr/code/1-K64F_with_5_acel/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MPU6050",
+    "name": "MPU6050",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vinajarr/code/MPU6050/"
+    }
+}

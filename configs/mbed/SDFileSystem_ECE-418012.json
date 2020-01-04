@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "ECE 4180",
+        "url": "https://os.mbed.com/teams/ECE-418012/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "4180Lab2Part13",
+    "examples": [
+        "https://os.mbed.com/users/RSramek/code/Y3_sound/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ECE-418012/code/SDFileSystem/"
+    }
+}

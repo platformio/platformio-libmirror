@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "David Lenihan",
+        "url": "https://os.mbed.com/users/davidlenihan/"
+    },
+    "description": "Class library for a polling-based 4x4 keypad.",
+    "frameworks": "mbed",
+    "keywords": "61006",
+    "name": "Keypad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/davidlenihan/code/Keypad/"
+    }
+}

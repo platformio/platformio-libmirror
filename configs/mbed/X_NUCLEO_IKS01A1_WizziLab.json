@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "WizziLab",
+        "url": "https://os.mbed.com/teams/WizziLab/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "X_NUCLEO_COMMON"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ST_INTERFACES"
+        }
+    ],
+    "description": "Suppressed conflicting destructor function.",
+    "examples": [
+        "https://os.mbed.com/teams/WizziLab/code/D7A_1x_TRAINING/",
+        "https://os.mbed.com/users/shawe/code/D7_MLX_AND_BAT/",
+        "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_sensors_v3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "X_NUCLEO_IKS01A1",
+    "name": "X_NUCLEO_IKS01A1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/WizziLab/code/X_NUCLEO_IKS01A1/"
+    }
+}

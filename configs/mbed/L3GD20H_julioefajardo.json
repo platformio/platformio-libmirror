@@ -5,13 +5,11 @@
     },
     "description": "Adafruit 9DOF - L3GD20H Driver",
     "examples": [
-        "https://os.mbed.com/users/julioefajardo/code/Galileo_HoverBoardRider/"
+        "https://os.mbed.com/users/julioefajardo/code/Galileo_HoverBoardRider/",
+        "https://os.mbed.com/users/SamSF/code/projetinterface/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "Adafruit 9DOF",
-        "L3GD20H"
-    ],
+    "keywords": "L3GD20H",
     "name": "L3GD20H",
     "platforms": "*",
     "repository": {

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "The Professional Perfectionists",
+        "url": "https://os.mbed.com/teams/The-A-Team/"
+    },
+    "description": "MPU6050IMU",
+    "examples": [
+        "https://os.mbed.com/teams/The-A-Team/code/Test_MPU6050/",
+        "https://os.mbed.com/teams/The-A-Team/code/Fusion_Gyro_Mag/",
+        "https://os.mbed.com/teams/The-A-Team/code/Position_Gyro/",
+        "https://os.mbed.com/teams/The-A-Team/code/Position_Mouse/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MPU6050IMU",
+    "name": "MPU6050IMU",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/The-A-Team/code/MPU6050IMU/"
+    }
+}

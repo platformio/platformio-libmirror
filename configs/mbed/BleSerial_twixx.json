@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "wenzel reichmuth",
+        "url": "https://os.mbed.com/users/twixx/"
+    },
+    "description": "Library for Using BLE as Stream Object",
+    "examples": [
+        "https://os.mbed.com/users/twixx/code/bel-example-pentabarf/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "Serial",
+        "stream"
+    ],
+    "name": "BleSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/twixx/code/BleSerial/"
+    }
+}

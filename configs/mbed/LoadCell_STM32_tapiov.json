@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Tapio Valli",
+        "url": "https://os.mbed.com/users/tapiov/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "BSP_DISCO_F746NG"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "LCD_DISCO_F746NG"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "SDRAM_DISCO_F746NG"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Data sample and LCD plot",
+    "frameworks": "mbed",
+    "keywords": "LoadCell_STM32",
+    "name": "LoadCell_STM32",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tapiov/code/LoadCell_STM32/"
+    }
+}

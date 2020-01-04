@@ -1,11 +1,12 @@
 {
     "authors": {
-        "name": "Takuma Kawamura",
+        "name": "Bit Positive",
         "url": "https://os.mbed.com/users/babylonica/"
     },
     "description": "This library provides variable length ring buffering with software FIFO(First-in, First-out). This library overwrites when the buffer is full.",
     "examples": [
-        "https://os.mbed.com/users/babylonica/code/AsyncSerial/"
+        "https://os.mbed.com/users/babylonica/code/AsyncSerial/",
+        "https://os.mbed.com/users/JonFreeman/code/AsyncSerial/"
     ],
     "frameworks": "mbed",
     "keywords": [

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Reza Mashayekhi",
+        "url": "https://os.mbed.com/users/mreda/"
+    },
+    "description": "The library is designed to connect the MBED boards to the ThingSpeak IoT cloud.",
+    "frameworks": "mbed",
+    "keywords": [
+        "cloud",
+        "IOT",
+        "Libary",
+        "LPC1768",
+        "network",
+        "thingspeak"
+    ],
+    "name": "Thingspeak",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mreda/code/Thingspeak/"
+    }
+}

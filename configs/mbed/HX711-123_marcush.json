@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Marcus Heide",
+        "url": "https://os.mbed.com/users/marcush/"
+    },
+    "description": "Library for HX711 device. 24-Bit Analog-to-Digital Converter (ADC) for Weigh Scales",
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "HX711",
+        "library",
+        "scales",
+        "weigh"
+    ],
+    "name": "HX711-123",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/marcush/code/HX711-123/"
+    }
+}

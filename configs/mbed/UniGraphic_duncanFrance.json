@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Duncan McIntyre",
+        "url": "https://os.mbed.com/users/duncanFrance/"
+    },
+    "description": "My controller identifies as an ILI9328, but only works if initialised as an ILI9325. This fork includes a fix to force 9325 initialization when a 9328 is detected.",
+    "examples": [
+        "https://os.mbed.com/users/duncanFrance/code/TouchScreenCalibrate/",
+        "https://os.mbed.com/users/duncanFrance/code/TouchScreenGUIDemo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ILI9320",
+        "ILI9325",
+        "ILI9328",
+        "ILI9341",
+        "ILI9481",
+        "ILI9486",
+        "IST3020",
+        "LCD",
+        "MIPI",
+        "parallel",
+        "SPI",
+        "SSD1306",
+        "ST7565",
+        "TFT",
+        "UC1608",
+        "UC1701"
+    ],
+    "name": "UniGraphic",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/duncanFrance/code/UniGraphic/"
+    }
+}

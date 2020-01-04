@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Justin Jordan",
+        "url": "https://os.mbed.com/users/j3/"
+    },
+    "description": "added fxs to class",
+    "examples": [
+        "https://os.mbed.com/users/j3/code/ard2pmod_demo/",
+        "https://os.mbed.com/teams/Maxim-Integrated/code/MAXREFDES130_Demo/",
+        "https://os.mbed.com/teams/Maxim-Integrated/code/OneWire_DS18B20_Demo/",
+        "https://os.mbed.com/teams/Maxim-Integrated/code/MAXREFDES132_OneWire_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Terminal",
+    "name": "Terminal",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/j3/code/Terminal/"
+    }
+}

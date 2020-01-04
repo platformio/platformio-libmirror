@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "JNP3_IOT_2016Z",
+        "url": "https://os.mbed.com/teams/JNP3_IOT_2016Z/"
+    },
+    "description": "support for auto ACK and retransmissions added",
+    "examples": [
+        "https://os.mbed.com/teams/JNP3_IOT_2016Z/code/JNP3_IOT_6_RADIO_ECHO_FIXED/",
+        "https://os.mbed.com/teams/JNP3_IOT_2016Z/code/nRF24L01P_NET_GW/",
+        "https://os.mbed.com/teams/JNP3_IOT_2016Z/code/nRF24L01P_NET_SENSOR/",
+        "https://os.mbed.com/users/starsep/code/smart_home_sensor/",
+        "https://os.mbed.com/users/starsep/code/smart_home_wifi/",
+        "https://os.mbed.com/teams/IoT-Kubus/code/Kubus/",
+        "https://os.mbed.com/teams/JNP3-SmartAlarm/code/budzik/",
+        "https://os.mbed.com/teams/IOT_GRZYBKI/code/coapRadio/",
+        "https://os.mbed.com/teams/IOT_GRZYBKI/code/coapRadioClient/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "nRF24L01P",
+    "name": "nRF24L01P",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/JNP3_IOT_2016Z/code/nRF24L01P/"
+    }
+}

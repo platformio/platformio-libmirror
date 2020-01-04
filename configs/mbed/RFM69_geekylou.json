@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Louise Newberry",
+        "url": "https://os.mbed.com/users/geekylou/"
+    },
+    "description": "Port of lowpowerlab RFM69 Packet radio library for HopeRF RFM69H",
+    "examples": [
+        "https://os.mbed.com/users/SamirIss/code/Recep_spi_lib/",
+        "https://os.mbed.com/users/marcbassecourt/code/Recep_spi_lib/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Radio",
+        "rf",
+        "rfm69"
+    ],
+    "name": "RFM69",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/geekylou/code/RFM69/"
+    }
+}

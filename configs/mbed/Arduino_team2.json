@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "team2",
+        "url": "https://os.mbed.com/teams/team2/"
+    },
+    "description": "arduino",
+    "frameworks": "mbed",
+    "keywords": "Arduino",
+    "name": "Arduino",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/team2/code/Arduino/"
+    }
+}

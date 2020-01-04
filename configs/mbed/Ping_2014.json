@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "CatPot 2015-2016",
+        "url": "https://os.mbed.com/teams/2014/"
+    },
+    "description": "Works with the parallax ping sensor. Uses a timer and interrupts to get the time and calculate the distance",
+    "examples": [
+        "https://os.mbed.com/teams/2014/code/CatPot_2v00_T_Sub/",
+        "https://os.mbed.com/teams/2014/code/CatPot_2v10_T_Sub/",
+        "https://os.mbed.com/teams/2014/code/CatPot_2v20_T_Sub/",
+        "https://os.mbed.com/teams/2014/code/CatPot_2v30_T_Sub/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Ping",
+    "name": "Ping",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/2014/code/Ping/"
+    }
+}

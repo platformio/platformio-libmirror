@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Bob Giesberts",
+        "url": "https://os.mbed.com/users/bobgiesberts/"
+    },
+    "description": "Library to communicate with LDC1101",
+    "examples": [
+        "https://os.mbed.com/teams/Inductive-Force-Sensor/code/Inductive_Sensor/",
+        "https://os.mbed.com/users/bobgiesberts/code/Inductive_Sensor_Jasper/",
+        "https://os.mbed.com/users/bobgiesberts/code/Inductive_Sensor_3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LDC1101",
+    "name": "LDC1101",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bobgiesberts/code/LDC1101/"
+    }
+}

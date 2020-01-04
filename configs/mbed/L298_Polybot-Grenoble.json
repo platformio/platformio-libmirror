@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Polybot Grenoble",
+        "url": "https://os.mbed.com/teams/Polybot-Grenoble/"
+    },
+    "description": "Librairie qui permet de controller le module Keyes L298 prennant en paramètre une valeur d'acceleration de -1 à 1",
+    "examples": [
+        "https://os.mbed.com/users/hamaint/code/asservissement_robot2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "L298",
+    "name": "L298",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Polybot-Grenoble/code/L298/"
+    }
+}

@@ -3,11 +3,6 @@
         "name": "CRAC Team",
         "url": "https://os.mbed.com/teams/CRAC-Team/"
     },
-    "build": {
-        "flags": [
-            "-IGlobals"
-        ]
-    },
     "description": "Biblio à utiliser pour communiquer avec la carte moteur",
     "examples": [
         "https://os.mbed.com/users/Brand101/code/Asserv_mot/",

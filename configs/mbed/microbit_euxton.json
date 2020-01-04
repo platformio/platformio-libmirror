@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Philip Holifield",
+        "url": "https://os.mbed.com/users/euxton/"
+    },
+    "dependencies": [
+        {
+            "authors": "Philip Holifield",
+            "frameworks": "mbed",
+            "name": "microbit-dal"
+        }
+    ],
+    "description": "microbit library",
+    "examples": [
+        "https://os.mbed.com/users/euxton/code/microbit-RTCC-MCP7941X/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "microbit",
+    "name": "microbit",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/euxton/code/microbit/"
+    }
+}

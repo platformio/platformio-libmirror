@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "description": "Stable version of the xDot library for mbed 5. This version of the library is suitable for deployment scenarios.",
+    "examples": [
+        "https://os.mbed.com/users/shaunkrnelson/code/Dot-Examples/",
+        "https://os.mbed.com/users/pferland/code/XDOT-Devicewise/",
+        "https://os.mbed.com/users/gorazdko/code/Dot-Examples-delujoc/",
+        "https://os.mbed.com/users/cakrueger2/code/Dot-Examples_receive/",
+        "https://os.mbed.com/users/bhimebau/code/xdot_reference/",
+        "https://os.mbed.com/teams/Hux-Connect/code/BWJ_Test_Program/",
+        "https://os.mbed.com/users/jreiss/code/Dot-AT-Firmware-XDOT/",
+        "https://os.mbed.com/users/mohamedachour/code/VL53L0X-mbedOS-master/",
+        "https://os.mbed.com/users/mohamedachour/code/VL53L0X-mbedOS-masterbb/",
+        "https://os.mbed.com/teams/SafeDetect/code/lora_from_scratch/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "libxDot-mbed5",
+    "name": "libxDot-mbed5",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/libxDot-mbed5/"
+    }
+}

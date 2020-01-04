@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "MSS",
+        "url": "https://os.mbed.com/teams/MSS/"
+    },
+    "description": "VCNL4100 High Sensitivity Long Distance Proximity and Ambient Light Sensor with I2C Interface",
+    "examples": [
+        "https://os.mbed.com/teams/MSS/code/test_VCNL4100/",
+        "https://os.mbed.com/teams/MSS/code/testSensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Ambient light",
+        "I2C",
+        "proximity",
+        "sensor"
+    ],
+    "name": "VCNL4100",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MSS/code/VCNL4100/"
+    }
+}

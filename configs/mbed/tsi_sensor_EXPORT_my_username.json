@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "David Fanjkutic",
+        "url": "https://os.mbed.com/users/my_username/"
+    },
+    "description": "A library for Freescale MCU which contain TSI peripheral, just for Kinetis L version. Because they use \"lighter\" version of TSI peripheral.",
+    "examples": [
+        "https://os.mbed.com/users/my_username/code/mbed_blinky/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Freescale",
+        "sensing",
+        "touch",
+        "TSI"
+    ],
+    "name": "tsi_sensor_EXPORT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/my_username/code/tsi_sensor_EXPORT/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Joseph Roberts",
+        "url": "https://os.mbed.com/users/joe4465/"
+    },
+    "description": "Make noise with a piezo buzzer. Use a digital out pin.",
+    "frameworks": "mbed",
+    "keywords": [
+        "buzzer",
+        "piezo"
+    ],
+    "name": "beep",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/joe4465/code/beep/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Danton Canut Benemann",
+        "url": "https://os.mbed.com/users/Danton/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "experimenting with the clock frequency",
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Danton/code/SDFileSystem/"
+    }
+}

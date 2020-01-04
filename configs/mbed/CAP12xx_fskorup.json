@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Filip Skorup",
+        "url": "https://os.mbed.com/users/fskorup/"
+    },
+    "description": "Capacitive touch sensor (8 probes) by Microchip",
+    "frameworks": "mbed",
+    "keywords": [
+        "capacitive touch",
+        "Microchip sensor",
+        "touch"
+    ],
+    "name": "CAP12xx",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fskorup/code/CAP12xx/"
+    }
+}

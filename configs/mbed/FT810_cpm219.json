@@ -3,12 +3,6 @@
         "name": "Curtis Mattull",
         "url": "https://os.mbed.com/users/cpm219/"
     },
-    "build": {
-        "flags": [
-            "-Iinc",
-            "-Isrc"
-        ]
-    },
     "description": "Library for FT810 EVE chip",
     "examples": [
         "https://os.mbed.com/users/cpm219/code/PANEL_GUI_hello_world/"

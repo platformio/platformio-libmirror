@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "文强 罗",
+        "url": "https://os.mbed.com/users/UlricL/"
+    },
+    "description": "The driver for the ESP8266 WiFi module(Jnu726)",
+    "examples": [
+        "https://os.mbed.com/users/UlricL/code/MQTTJnu/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "esp8266-driver",
+    "name": "esp8266-driver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/UlricL/code/esp8266-driver/"
+    }
+}

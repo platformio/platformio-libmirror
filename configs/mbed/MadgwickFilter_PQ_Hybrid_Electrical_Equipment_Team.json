@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "PQ_Hybrid_Electrical_Equipment_Team",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "Quaternion"
+        }
+    ],
+    "description": "Madgwick Filterをライブラリ化しました．内容はオープンソースになっていたやつのほぼ同じです．",
+    "examples": [
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/Hybrid_main_FirstEdtion/",
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/rocket_logger_sinkan2018_v1/",
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/HYBRYD2018_IZU_ROCKET/",
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/Hybrid_IZU2019/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MadgwickFilter",
+    "name": "MadgwickFilter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/MadgwickFilter/"
+    }
+}

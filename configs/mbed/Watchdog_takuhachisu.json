@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "taku hachisu",
+        "url": "https://os.mbed.com/users/takuhachisu/"
+    },
+    "description": "Watchdog timer for LPC1549",
+    "frameworks": "mbed",
+    "keywords": "Watchdog",
+    "name": "Watchdog",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/takuhachisu/code/Watchdog/"
+    }
+}

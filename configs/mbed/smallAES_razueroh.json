@@ -5,7 +5,11 @@
     },
     "description": "Small AES_ECB with T-box",
     "examples": [
-        "https://os.mbed.com/teams/ArmfulKST/code/BLE_LED_ADC_BBC/"
+        "https://os.mbed.com/teams/ArmfulKST/code/BLE_LED_ADC_BBC/",
+        "https://os.mbed.com/teams/ArmfulKST/code/BLE_BBC_LSM303/",
+        "https://os.mbed.com/users/f3d/code/BLE_BBC_LSM303_MAG/",
+        "https://os.mbed.com/teams/ArmfulKST/code/BLE_BBC_LSM303_MAG/",
+        "https://os.mbed.com/teams/ArmfulKST/code/BLE_BBC_MMA8653_MAG/"
     ],
     "frameworks": "mbed",
     "keywords": [

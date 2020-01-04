@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "S Classen",
+        "url": "https://os.mbed.com/users/sclassen/"
+    },
+    "description": "fork of Nordic nrf51 SDK",
+    "frameworks": "mbed",
+    "keywords": "nrf51-sdk",
+    "name": "nrf51-sdk",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sclassen/code/nrf51-sdk/"
+    }
+}

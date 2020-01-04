@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Kyle Rabago-Banjo",
+        "url": "https://os.mbed.com/users/krbng4180/"
+    },
+    "dependencies": [
+        {
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
+            "name": "BufferedSerial"
+        }
+    ],
+    "description": "now this shit works",
+    "examples": [
+        "https://os.mbed.com/users/krbng4180/code/IoTWeatherStation/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ESP8266NodeMCUInterface",
+    "name": "ESP8266NodeMCUInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/krbng4180/code/ESP8266NodeMCUInterface/"
+    }
+}

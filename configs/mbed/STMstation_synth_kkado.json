@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Kevin Kadooka",
+        "url": "https://os.mbed.com/users/kkado/"
+    },
+    "dependencies": [
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "FastPWM"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-dsp"
+        }
+    ],
+    "description": "Simple synthesizer for STM32F401RE/STMstation.",
+    "frameworks": "mbed",
+    "keywords": "STMstation_synth",
+    "name": "STMstation_synth",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kkado/code/STMstation_synth/"
+    }
+}

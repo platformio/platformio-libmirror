@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Phung Tung",
+        "url": "https://os.mbed.com/users/fundokukiri/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "spkt",
+    "examples": [
+        "https://os.mbed.com/users/fundokukiri/code/LCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SPKT",
+    "name": "BSP_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fundokukiri/code/BSP_DISCO_F746NG/"
+    }
+}

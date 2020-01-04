@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "PHung Tung",
+        "url": "https://os.mbed.com/users/phungductung/"
+    },
+    "dependencies": [
+        {
+            "authors": "不韋 呂",
+            "frameworks": "mbed",
+            "name": "Array_Matrix"
+        }
+    ],
+    "description": "sp",
+    "examples": [
+        "https://os.mbed.com/users/fundokukiri/code/WAV/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "sp",
+    "name": "F746-SAI-IO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/phungductung/code/F746-SAI-IO/"
+    }
+}

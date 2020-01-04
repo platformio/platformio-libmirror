@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Sergey Solodunov",
+        "url": "https://os.mbed.com/users/sergoserg/"
+    },
+    "dependencies": [
+        {
+            "authors": "Sergey Solodunov",
+            "frameworks": "mbed",
+            "name": "nrf51-sdk"
+        }
+    ],
+    "description": "my copy of nRF51822",
+    "frameworks": "mbed",
+    "keywords": "nRF51822",
+    "name": "nRF51822",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sergoserg/code/nRF51822/"
+    }
+}

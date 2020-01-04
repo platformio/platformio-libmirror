@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Manuel Caballero",
+        "url": "https://os.mbed.com/users/mcm/"
+    },
+    "description": "±0.5°C Maximum Accuracy Digital Temperature Sensor",
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "I2C",
+        "library",
+        "MCP9808",
+        "Microchip",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "MCP9808",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mcm/code/MCP9808/"
+    }
+}

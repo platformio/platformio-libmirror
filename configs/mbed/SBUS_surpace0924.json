@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Ryoga Sato",
+        "url": "https://os.mbed.com/users/surpace0924/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "SBUSのライブラリ",
+    "frameworks": "mbed",
+    "keywords": "SBUS",
+    "name": "SBUS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/surpace0924/code/SBUS/"
+    }
+}

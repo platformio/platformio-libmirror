@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Stefan Sliacky",
+        "url": "https://os.mbed.com/users/sliackystefan/"
+    },
+    "description": "Library for ublox neo 6m",
+    "examples": [
+        "https://os.mbed.com/users/sliackystefan/code/Program/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GPGGA",
+    "name": "GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sliackystefan/code/GPS/"
+    }
+}

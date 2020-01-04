@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Yuxiang Yang",
+        "url": "https://os.mbed.com/users/yxyang/"
+    },
+    "description": "test",
+    "examples": [
+        "https://os.mbed.com/users/yxyang/code/controller_naive/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TSL1401CLL",
+    "name": "TSL1401CLL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yxyang/code/TSL1401CLL/"
+    }
+}

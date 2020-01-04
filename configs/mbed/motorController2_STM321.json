@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "STM32",
+        "url": "https://os.mbed.com/teams/STM321/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "MTR CTRL",
+    "examples": [
+        "https://os.mbed.com/teams/STM321/code/Nucleo_read_analog_value/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "motorController2",
+    "name": "motorController2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/STM321/code/motorController2/"
+    }
+}

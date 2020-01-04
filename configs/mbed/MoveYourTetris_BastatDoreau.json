@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "BastatDoreau",
+        "url": "https://os.mbed.com/teams/BastatDoreau/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Elliot Heisenberg",
+            "frameworks": "mbed",
+            "name": "APDS_9960"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        }
+    ],
+    "description": "Mini projet LOO",
+    "examples": [
+        "https://os.mbed.com/users/Willheisen/code/MoveYourTetris_OK/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MoveYourTetris",
+    "name": "MoveYourTetris",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/BastatDoreau/code/MoveYourTetris/"
+    }
+}

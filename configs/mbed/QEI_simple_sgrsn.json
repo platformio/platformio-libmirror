@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "hidaka sato",
+        "url": "https://os.mbed.com/users/sgrsn/"
+    },
+    "description": "simple QEI library. no return speed, only return angle.",
+    "examples": [
+        "https://os.mbed.com/users/sgrsn/code/WRS_mechanamu_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "QEI",
+    "name": "QEI_simple",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sgrsn/code/QEI_simple/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Ramesh Yerraballi",
+        "url": "https://os.mbed.com/users/yramesh/"
+    },
+    "description": "ST7735 (Red Tab) working on the BBC Microbit",
+    "examples": [
+        "https://os.mbed.com/users/yramesh/code/SPI18TFT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ST7735_TFT",
+    "name": "ST7735_TFT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yramesh/code/ST7735_TFT/"
+    }
+}

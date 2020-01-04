@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "SKTelecom_ThingPlug",
+        "url": "https://os.mbed.com/teams/SKTelecom_ThingPlug/"
+    },
+    "description": "SNICInterface for ThingPlug Example",
+    "examples": [
+        "https://os.mbed.com/teams/SKTelecom_ThingPlug/code/ThingPlug_WiFi_Example/",
+        "https://os.mbed.com/teams/SKTelecom_ThingPlug/code/ThingPlug_WiFi_Example_2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SNICInterface",
+    "name": "SNICInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/SKTelecom_ThingPlug/code/SNICInterface/"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Renesas",
+        "url": "https://os.mbed.com/teams/Renesas/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        }
+    ],
+    "description": "I added the Isochronous to USBHost library. The Isochronous code based on the following. http://developer.mbed.org/users/va009039/code/USBHostC270_example/",
+    "frameworks": "mbed",
+    "keywords": [
+        "Host",
+        "hub",
+        "Isochronous",
+        "keyboard",
+        "mbed",
+        "Mouse",
+        "MSD",
+        "rtos",
+        "Serial",
+        "USB"
+    ],
+    "name": "USBHost_AddIso",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Renesas/code/USBHost_AddIso/"
+    }
+}

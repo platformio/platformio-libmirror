@@ -1,0 +1,60 @@
+{
+    "authors": {
+        "name": "Chris Womack",
+        "url": "https://os.mbed.com/users/redbird/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "DM_FATFileSystem"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "DM_HttpServer"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "DM_USBHost"
+        },
+        {
+            "authors": "Chris Womack",
+            "frameworks": "mbed",
+            "name": "EthernetInterface"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "USBDevice"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rpc"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        },
+        {
+            "authors": "Chris Womack",
+            "frameworks": "mbed",
+            "name": "mbed-src"
+        }
+    ],
+    "description": "mbed support for LPC4088 Display Module",
+    "examples": [
+        "https://os.mbed.com/users/redbird/code/emptyProgram/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DMSupport",
+    "name": "DMSupport",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/redbird/code/DMSupport/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Wojciech Sroczyński",
+        "url": "https://os.mbed.com/users/kodaws/"
+    },
+    "description": "Fixed compilation issue with KL46Z. Tested on the board and working fine.",
+    "frameworks": "mbed",
+    "keywords": "tsi_sensor",
+    "name": "tsi_sensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kodaws/code/tsi_sensor/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Hill Kim",
+        "url": "https://os.mbed.com/users/hillkim7/"
+    },
+    "description": "MQTT client test with W5200 ethernet shield",
+    "examples": [
+        "https://os.mbed.com/users/hillkim7/code/IBMIoTClientEthernetExample_W5200/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "W5200",
+    "name": "W5200Interface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hillkim7/code/W5200Interface/"
+    }
+}

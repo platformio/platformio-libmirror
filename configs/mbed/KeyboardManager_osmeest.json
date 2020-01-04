@@ -3,11 +3,6 @@
         "name": "Olivier Smeesters",
         "url": "https://os.mbed.com/users/osmeest/"
     },
-    "build": {
-        "flags": [
-            "-Ikbd_mgr"
-        ]
-    },
     "description": "KeyboardManager: a class to manage the polling of a switch-matrix keyboard",
     "examples": [
         "https://os.mbed.com/users/osmeest/code/KeyboardTest/"

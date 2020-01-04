@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ST_I2S"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "X_NUCLEO_COMMON"
+        }
+    ],
+    "description": "Library to handle the X-NUCLEO-CCA01M1 Sound Terminal Expansion Board.",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/HelloWorld_CCA01M1/",
+        "https://os.mbed.com/teams/ST/code/HelloWorld_CCA01M1_mbedOS/",
+        "https://os.mbed.com/users/carlotara/code/HelloWorld_CCA01M1_mbedOS/",
+        "https://os.mbed.com/teams/ST/code/Karaoke_CCA01M1_CCA02M1_mbedOS/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "X_NUCLEO_CCA01M1",
+    "name": "X_NUCLEO_CCA01M1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/X_NUCLEO_CCA01M1/"
+    }
+}

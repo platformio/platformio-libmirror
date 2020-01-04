@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Marine Electricals",
+        "url": "https://os.mbed.com/teams/Marine-Electricals/"
+    },
+    "description": "Library for the MAX7219 LED display driver",
+    "frameworks": "mbed",
+    "keywords": "MAX7219",
+    "name": "MAX7219",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Marine-Electricals/code/MAX7219/"
+    }
+}

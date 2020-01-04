@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "NimbeLink",
+        "url": "https://os.mbed.com/teams/Nimbelink/"
+    },
+    "description": "Changed hts221 into Class.",
+    "examples": [
+        "https://os.mbed.com/users/Jdumpleton3/code/WeatherSensor-Joe/",
+        "https://os.mbed.com/teams/Group-PAG/code/PAG-CourseWork-NicksEdits/",
+        "https://os.mbed.com/users/akovaci/code/SOFT253_Assignment/",
+        "https://os.mbed.com/users/akovaci/code/SOFT253_Assignment_V2/",
+        "https://os.mbed.com/users/Mpoumtsakalaka/code/SOFT253_Assignment_V3/",
+        "https://os.mbed.com/users/FairyMental/code/SOFT253_GroupA_AssignmentRepo/",
+        "https://os.mbed.com/users/akovaci/code/SOFT253_Assignment_V3/",
+        "https://os.mbed.com/users/akovaci/code/SOFT253_Assignment_Group_K/",
+        "https://os.mbed.com/users/J_Satchell/code/SOFT253_Weather_Sensor_JSatchell/",
+        "https://os.mbed.com/teams/University-of-Plymouth-Stage-2-and-3/code/ELEC350-extended-referral/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "hts221",
+    "name": "hts221",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nimbelink/code/hts221/"
+    }
+}

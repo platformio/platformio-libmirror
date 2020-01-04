@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "RCELE 85",
+        "url": "https://os.mbed.com/users/rcele_85/"
+    },
+    "description": "any mbed board with 1 Harware uart for SIM800 and SIM900 MQTT",
+    "examples": [
+        "https://os.mbed.com/users/rcele_85/code/Nucleo_mqtt_sim800_final/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed",
+        "MQTT",
+        "SIM800",
+        "SIM900"
+    ],
+    "name": "GSM_MQTT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rcele_85/code/GSM_MQTT/"
+    }
+}

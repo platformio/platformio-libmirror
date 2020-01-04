@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "DECS_2018",
+        "url": "https://os.mbed.com/teams/DECS_2018/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "Usb read",
+    "frameworks": "mbed",
+    "keywords": "F401RE-USBHost",
+    "name": "F401RE-USBHost",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/DECS_2018/code/F401RE-USBHost/"
+    }
+}

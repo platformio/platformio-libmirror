@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "NM500",
+        "url": "https://os.mbed.com/teams/NM500/"
+    },
+    "description": "NM500 NeuroShield library",
+    "examples": [
+        "https://os.mbed.com/teams/NM500/code/NeuroShield_SimpleScript/",
+        "https://os.mbed.com/teams/NM500/code/NeuroShield_andIMU/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "nepes",
+        "NeuroShield",
+        "NM500"
+    ],
+    "name": "NeuroShield",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NM500/code/NeuroShield/"
+    }
+}

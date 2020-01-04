@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Brian Daniels",
+        "url": "https://os.mbed.com/users/bridadan/"
+    },
+    "description": "Library for the WS2812 LED Driver. Uses bit banging and nops for precise timing. Number of nops executed are configurable at run time.",
+    "examples": [
+        "https://os.mbed.com/users/bridadan/code/WS2812_Example/",
+        "https://os.mbed.com/users/cathal66/code/WS2812_Example_fade/",
+        "https://os.mbed.com/teams/Donal/code/Lamp_03/",
+        "https://os.mbed.com/teams/Donal/code/Lamp_04/",
+        "https://os.mbed.com/users/HMFK03LST1/code/WS2812_RS/",
+        "https://os.mbed.com/users/yu10078999/code/WS2812_Test/",
+        "https://os.mbed.com/teams/Hexiwear/code/Hexi_Click_4x4RGB_Example/",
+        "https://os.mbed.com/users/hyeonchanglee/code/Nucleo_SFM/",
+        "https://os.mbed.com/teams/ASE/code/Pong_ScoreBoard/",
+        "https://os.mbed.com/users/theros/code/WS2812_Cycler/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "NeoPixel",
+        "WS2812",
+        "WS2812B"
+    ],
+    "name": "WS2812",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bridadan/code/WS2812/"
+    }
+}

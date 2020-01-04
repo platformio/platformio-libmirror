@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Rob Toulson",
+        "url": "https://os.mbed.com/users/robt/"
+    },
+    "dependencies": [
+        {
+            "authors": "Rob Toulson",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "SDFileSystem",
+    "examples": [
+        "https://os.mbed.com/users/robt/code/PE_10-04_SDCardWrite/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/robt/code/SDFileSystem/"
+    }
+}

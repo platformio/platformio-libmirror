@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "anyThing Connected Team",
+        "url": "https://os.mbed.com/teams/anyThing-Connected/"
+    },
+    "description": "RTT Debugger Library",
+    "examples": [
+        "https://os.mbed.com/teams/anyThing-Connected/code/BREAK_SENSOR_LED/",
+        "https://os.mbed.com/teams/anyThing-Connected/code/MPU9250_simple/",
+        "https://os.mbed.com/teams/anyThing-Connected/code/MPU9250_tap_better/",
+        "https://os.mbed.com/users/MarijnJ/code/Sensor_tap_BLE/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SEGGER_RTT",
+    "name": "SEGGER_RTT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/anyThing-Connected/code/SEGGER_RTT/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Leong Kum Loong (NYP)",
+        "url": "https://os.mbed.com/teams/Leong-Kum-Loong/"
+    },
+    "description": "My HCSR04 library written for HC-SR04 Ultrasonic Ranging sensor.",
+    "examples": [
+        "https://os.mbed.com/teams/Leong-Kum-Loong/code/Utrasonic_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HC-SR04",
+        "Ranging",
+        "sensor",
+        "ultrasonic"
+    ],
+    "name": "HCSR04",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Leong-Kum-Loong/code/HCSR04/"
+    }
+}

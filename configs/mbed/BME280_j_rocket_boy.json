@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Daisuke Nakayama",
+        "url": "https://os.mbed.com/users/j_rocket_boy/"
+    },
+    "description": "BME280にアクセスするためのライブラリ",
+    "frameworks": "mbed",
+    "keywords": [
+        "air pressure",
+        "BME280",
+        "Humidity",
+        "Temperature"
+    ],
+    "name": "BME280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/j_rocket_boy/code/BME280/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Matthias Prinke",
+        "url": "https://os.mbed.com/users/mprinke/"
+    },
+    "description": "Fixed compiler errors/warnings (declaration of _uidx, scope of index variables i)",
+    "examples": [
+        "https://os.mbed.com/users/mprinke/code/GPSDevice/",
+        "https://os.mbed.com/users/njewin/code/LogData_UM6-to-SDcard/",
+        "https://os.mbed.com/users/njewin/code/UM6withGPS/",
+        "https://os.mbed.com/users/ahmedsaieed/code/mbed-cansat-test-GPS/",
+        "https://os.mbed.com/users/Mohammed_Abo_Arais/code/CanSat_Alex/",
+        "https://os.mbed.com/users/aldih/code/cansat_alex_v1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MODGPS",
+    "name": "MODGPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mprinke/code/MODGPS/"
+    }
+}

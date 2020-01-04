@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Kleber Silva",
+        "url": "https://os.mbed.com/users/krebyy/"
+    },
+    "description": "IOTON boards API using mbed SDK - http://ioton.cc/plataforma-ton",
+    "examples": [
+        "https://os.mbed.com/teams/IOTON-Technology/code/ton_demo/",
+        "https://os.mbed.com/teams/IOTON-Technology/code/ton_template/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "IOT",
+        "ioton"
+    ],
+    "name": "IOTON-API",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/krebyy/code/IOTON-API/"
+    }
+}

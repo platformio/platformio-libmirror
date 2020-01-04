@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "Font to use with SPI_TFT lib",
+    "examples": [
+        "https://os.mbed.com/users/dreschpe/code/touch/",
+        "https://os.mbed.com/users/dreschpe/code/TFT/",
+        "https://os.mbed.com/users/smultron1977/code/ST7735_Pong/",
+        "https://os.mbed.com/users/Mephi/code/LCD_Grapher/",
+        "https://os.mbed.com/users/ms523/code/OV7670_Testing/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TFT_fonts_old",
+    "name": "TFT_fonts_old",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/TFT_fonts_old/"
+    }
+}

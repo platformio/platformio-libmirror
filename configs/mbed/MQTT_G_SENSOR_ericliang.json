@@ -1,0 +1,60 @@
+{
+    "authors": {
+        "name": "eric liang",
+        "url": "https://os.mbed.com/users/ericliang/"
+    },
+    "dependencies": [
+        {
+            "authors": "eric liang",
+            "frameworks": "mbed",
+            "name": "EthernetInterface"
+        },
+        {
+            "authors": "Jim Carver",
+            "frameworks": "mbed",
+            "name": "FXOS8700Q"
+        },
+        {
+            "authors": "eric liang",
+            "frameworks": "mbed",
+            "name": "HTTPClient"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "HelloMQTT"
+        },
+        {
+            "authors": "eric liang",
+            "frameworks": "mbed",
+            "name": "MQTT"
+        },
+        {
+            "authors": "eric liang",
+            "frameworks": "mbed",
+            "name": "cantcoap"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "MQTT+G SENSOR",
+    "examples": [
+        "https://os.mbed.com/users/ericliang/code/SmartTraffic/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MQTT_G_SENSOR",
+    "name": "MQTT_G_SENSOR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ericliang/code/MQTT_G_SENSOR/"
+    }
+}

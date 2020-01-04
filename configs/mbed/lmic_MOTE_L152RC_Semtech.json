@@ -3,11 +3,6 @@
         "name": "Semtech",
         "url": "https://os.mbed.com/teams/Semtech/"
     },
-    "build": {
-        "flags": [
-            "-ITARGET_MOTE_L152RC"
-        ]
-    },
     "description": "LMIC for MOTE_L152RC",
     "examples": [
         "https://os.mbed.com/teams/Semtech/code/lmic_transmit/"

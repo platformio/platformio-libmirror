@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Edutech IoT Team",
+        "url": "https://os.mbed.com/teams/Edutech/"
+    },
+    "description": "Pulse library",
+    "frameworks": "mbed",
+    "keywords": "Pulse",
+    "name": "Pulse",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Edutech/code/Pulse/"
+    }
+}

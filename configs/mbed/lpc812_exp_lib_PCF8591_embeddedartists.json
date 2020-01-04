@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "EmbeddedArtists AB",
+        "url": "https://os.mbed.com/users/embeddedartists/"
+    },
+    "description": "Library with PCF8591 support for the experiments for LPC812 MAX",
+    "examples": [
+        "https://os.mbed.com/users/embeddedartists/code/lpc812_exp_solution_analog-in/",
+        "https://os.mbed.com/users/embeddedartists/code/lpc812_exp_solution_7-segment/",
+        "https://os.mbed.com/users/embeddedartists/code/lpc812_exp_solution_7-segment-shift/",
+        "https://os.mbed.com/users/embeddedartists/code/lpc812_exp_solution_pwm/",
+        "https://os.mbed.com/users/embeddedartists/code/lpc812_exp_solution_stepper-motor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "lpc812_exp_lib_PCF8591",
+    "name": "lpc812_exp_lib_PCF8591",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/embeddedartists/code/lpc812_exp_lib_PCF8591/"
+    }
+}

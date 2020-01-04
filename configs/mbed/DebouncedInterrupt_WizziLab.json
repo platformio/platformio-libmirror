@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "WizziLab",
+        "url": "https://os.mbed.com/teams/WizziLab/"
+    },
+    "description": "A replacement for InterruptIn that debounces the interrupt.",
+    "examples": [
+        "https://os.mbed.com/users/Jeej/code/D7A_Demo-Get-started/",
+        "https://os.mbed.com/users/casiotone401/code/CVtoOSCConverter/",
+        "https://os.mbed.com/users/erroras/code/EE3501keypad/",
+        "https://os.mbed.com/teams/WizziLab/code/D7A_WM_Updater/",
+        "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_ActiveRFIDReader/",
+        "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_big_file/",
+        "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_D7-LoRa/",
+        "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_LoRaWAN/",
+        "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_ping_pong/",
+        "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_send_file_data/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "debounce",
+        "interrupt",
+        "InterruptIn"
+    ],
+    "name": "DebouncedInterrupt",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/WizziLab/code/DebouncedInterrupt/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Mac Lobdell",
+        "url": "https://os.mbed.com/users/maclobdell/"
+    },
+    "description": "This is a library for the Adafruit LED Backpacks. This library works with the Adafruit Mini 8x8 and 16x8.",
+    "examples": [
+        "https://os.mbed.com/users/maclobdell/code/Adafruit_LEDBackpack_16x8_App/",
+        "https://os.mbed.com/users/maclobdell/code/Adafruit_32x8matrix/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Adafruit_LEDBackpack",
+    "name": "Adafruit_LEDBackpack",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/maclobdell/code/Adafruit_LEDBackpack/"
+    }
+}

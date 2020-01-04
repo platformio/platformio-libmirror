@@ -3,11 +3,6 @@
         "name": "u-blox",
         "url": "https://os.mbed.com/teams/ublox/"
     },
-    "build": {
-        "flags": [
-            "-Idoc"
-        ]
-    },
     "description": "This class provides APIs to all of the registers of the TI BQ27441 battery gauge, as used on the u-blox C030 board. The caller should instantiate an I2C interface and ...",
     "examples": [
         "https://os.mbed.com/teams/ublox/code/example-battery-gauge-bq27441/"

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Manuel Caballero",
+        "url": "https://os.mbed.com/users/mcm/"
+    },
+    "description": "3-Axis Digital Compass IC",
+    "frameworks": "mbed",
+    "keywords": [
+        "compass",
+        "driver",
+        "HMC5883L",
+        "I2C",
+        "library",
+        "magnetometer"
+    ],
+    "name": "HMC5883L",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mcm/code/HMC5883L/"
+    }
+}

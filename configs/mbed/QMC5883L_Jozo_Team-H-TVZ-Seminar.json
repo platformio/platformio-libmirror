@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Team H - TVZ Seminar",
+        "url": "https://os.mbed.com/teams/Team-H-TVZ-Seminar/"
+    },
+    "description": "Nez ni sam",
+    "examples": [
+        "https://os.mbed.com/teams/Team-H-TVZ-Seminar/code/Seminar_MotorDriver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "QMC5883L_Jozo",
+    "name": "QMC5883L_Jozo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Team-H-TVZ-Seminar/code/QMC5883L_Jozo/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "z jx",
+        "url": "https://os.mbed.com/users/sarahbest/"
+    },
+    "dependencies": [
+        {
+            "authors": "Baser Kandehir",
+            "frameworks": "mbed",
+            "name": "HMC5883L"
+        }
+    ],
+    "description": "QMC5883L(stm32f767zi)",
+    "examples": [
+        "https://os.mbed.com/users/sarahbest/code/IMU_fusion_9DOF/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "QMC5883L",
+    "name": "QMC5883L",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sarahbest/code/QMC5883L/"
+    }
+}

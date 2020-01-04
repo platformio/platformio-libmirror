@@ -3,12 +3,6 @@
         "name": "Ahmad Fauzy Mohd Aris",
         "url": "https://os.mbed.com/users/el14afma/"
     },
-    "build": {
-        "flags": [
-            "-IFATFileSystem",
-            "-IFATFileSystem/ChaN"
-        ]
-    },
     "description": "SD library",
     "frameworks": "mbed",
     "keywords": "SDFileSystem",

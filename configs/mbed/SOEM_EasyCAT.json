@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "AB&T",
+        "url": "https://os.mbed.com/users/EasyCAT/"
+    },
+    "description": "SOEM EtherCAT Master library for STM Nucleo F767ZI",
+    "examples": [
+        "https://os.mbed.com/users/EasyCAT/code/EasyCAT_LAB/",
+        "https://os.mbed.com/users/EasyCAT/code/EasyCAT_LAB_simple/",
+        "https://os.mbed.com/users/EasyCAT/code/EasyCAT_LAB_very_simple/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SOEM",
+    "name": "SOEM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/EasyCAT/code/SOEM/"
+    }
+}

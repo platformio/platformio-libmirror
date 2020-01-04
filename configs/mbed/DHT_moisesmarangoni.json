@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Moises Marangoni",
+        "url": "https://os.mbed.com/users/moisesmarangoni/"
+    },
+    "description": "realease DHT lib working with Nucleo Board Thanks Somlak Mangnimit",
+    "frameworks": "mbed",
+    "keywords": [
+        "DHT11",
+        "DHT22",
+        "Nucleo"
+    ],
+    "name": "DHT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/moisesmarangoni/code/DHT/"
+    }
+}

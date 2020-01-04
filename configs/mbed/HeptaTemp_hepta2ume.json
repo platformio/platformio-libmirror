@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Hepta 2",
+        "url": "https://os.mbed.com/users/hepta2ume/"
+    },
+    "description": "Hepta温度センサー",
+    "examples": [
+        "https://os.mbed.com/users/hepta2ume/code/HEPTA_Temp/",
+        "https://os.mbed.com/users/hepta2ume/code/HEPTA2_assembly_0720/",
+        "https://os.mbed.com/users/hepta2ume/code/HEPTA2_ALL/",
+        "https://os.mbed.com/users/hepta2ume/code/HEPTA2_ALL_ver0803_02/",
+        "https://os.mbed.com/users/umeume/code/HEPTA/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HeptaTemp",
+    "name": "HeptaTemp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hepta2ume/code/HeptaTemp/"
+    }
+}

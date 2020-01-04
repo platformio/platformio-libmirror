@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "309EN project",
+        "url": "https://os.mbed.com/teams/309EN-project/"
+    },
+    "description": "improved library (Mojeed)",
+    "examples": [
+        "https://os.mbed.com/teams/309EN-project/code/Accelerometer_Pawel/",
+        "https://os.mbed.com/teams/309EN-project/code/Accelerometer_simple/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "USBDevice",
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/309EN-project/code/USBDevice/"
+    }
+}

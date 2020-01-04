@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Andrew Fagg",
+        "url": "https://os.mbed.com/users/symbiotic/"
+    },
+    "description": "Class that makes for easy scheduling of regular tasks in a soft real-time context.",
+    "frameworks": "mbed",
+    "keywords": "BooleanTicker",
+    "name": "BooleanTicker",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/symbiotic/code/BooleanTicker/"
+    }
+}

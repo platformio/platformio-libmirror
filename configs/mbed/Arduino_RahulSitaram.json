@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Sai Rahul Sitaram",
+        "url": "https://os.mbed.com/users/RahulSitaram/"
+    },
+    "description": "Library to allow the use of Arduino specific language with the mbed",
+    "examples": [
+        "https://os.mbed.com/users/RahulSitaram/code/mbed_shiftreg/",
+        "https://os.mbed.com/teams/GR_Peach_Abhinav_Rahul/code/mbed_shiftreg/",
+        "https://os.mbed.com/teams/GR_Peach_Abhinav_Rahul/code/mbed_shiftreg_4/",
+        "https://os.mbed.com/teams/GR_Peach_Abhinav_Rahul/code/mbed_shiftreg_3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "mbeduino"
+    ],
+    "name": "Arduino",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RahulSitaram/code/Arduino/"
+    }
+}

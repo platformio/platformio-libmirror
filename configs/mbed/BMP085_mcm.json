@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Manuel Caballero",
+        "url": "https://os.mbed.com/users/mcm/"
+    },
+    "description": "Library for BMP085 digital pressure sensor.",
+    "frameworks": "mbed",
+    "keywords": [
+        "barometric",
+        "bmp085",
+        "I2C",
+        "library",
+        "pressure",
+        "sensor"
+    ],
+    "name": "BMP085",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mcm/code/BMP085/"
+    }
+}

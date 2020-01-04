@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Geremia G",
+        "url": "https://os.mbed.com/users/Geremia/"
+    },
+    "description": "Forked from Peter Drescher lib, using always 16bit spi, init values for chinese red pcb, added read cmds and some mess here and there",
+    "frameworks": "mbed",
+    "keywords": "ILI9341",
+    "name": "SPI_TFT_ILI9341_fork",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Geremia/code/SPI_TFT_ILI9341_fork/"
+    }
+}

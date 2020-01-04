@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Ibiltari Nora",
+        "url": "https://os.mbed.com/users/ibiltari/"
+    },
+    "description": "mbed os 5 & accept pointer interface for ethernet and wifi",
+    "frameworks": "mbed",
+    "keywords": "NTPClient",
+    "name": "NTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ibiltari/code/NTPClient/"
+    }
+}

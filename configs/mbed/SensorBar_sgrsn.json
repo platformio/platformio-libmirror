@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "hidaka sato",
+        "url": "https://os.mbed.com/users/sgrsn/"
+    },
+    "description": "SparkFun Line Follower Array Library. based on https://github.com/sparkfun/SparkFun_Line_Follower_Array_Arduino_Library",
+    "examples": [
+        "https://os.mbed.com/users/sgrsn/code/WRS_mechanamu_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LineFollowerArray",
+        "SensorBar",
+        "sparkfun"
+    ],
+    "name": "SensorBar",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sgrsn/code/SensorBar/"
+    }
+}

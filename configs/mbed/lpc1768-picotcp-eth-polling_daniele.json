@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Daniele Lacamera",
+        "url": "https://os.mbed.com/users/daniele/"
+    },
+    "description": "A PicoTCP driver for the lpc1768 mbed board in polling mode, to allow usage with the legacy PicoTCP API",
+    "examples": [
+        "https://os.mbed.com/users/daniele/code/ZeroMQ_PicoTCP_Publisher_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "lpc1768-picotcp-eth-polling",
+    "name": "lpc1768-picotcp-eth-polling",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/daniele/code/lpc1768-picotcp-eth-polling/"
+    }
+}

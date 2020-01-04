@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "matignon martin",
+        "url": "https://os.mbed.com/users/martin13/"
+    },
+    "description": "Serial library for Diablo4D. Tested with uLCD220RD",
+    "frameworks": "mbed",
+    "keywords": "Diablo",
+    "name": "Diablo_Serial_4DLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/martin13/code/Diablo_Serial_4DLib/"
+    }
+}

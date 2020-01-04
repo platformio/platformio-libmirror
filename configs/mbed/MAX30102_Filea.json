@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Linnéa Edström",
+        "url": "https://os.mbed.com/users/Filea/"
+    },
+    "description": "MAX30102 pulse oximeter library. Get raw data from IR and Red lights through I2C and the actual temperature in degrees Celcius.",
+    "frameworks": "mbed",
+    "keywords": "MAX30102",
+    "name": "MAX30102",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Filea/code/MAX30102/"
+    }
+}

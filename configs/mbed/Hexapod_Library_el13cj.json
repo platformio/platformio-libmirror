@@ -3,11 +3,6 @@
         "name": "Calum Johnston",
         "url": "https://os.mbed.com/users/el13cj/"
     },
-    "build": {
-        "flags": [
-            "-IAngles"
-        ]
-    },
     "dependencies": [
         {
             "authors": "Calum Johnston",

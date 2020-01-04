@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/"
+    },
+    "description": "Library for interfacing with the MAX4822 relay driver.",
+    "examples": [
+        "https://os.mbed.com/users/j3/code/MAXREFDES130_131_Demo/",
+        "https://os.mbed.com/teams/Maxim-Integrated/code/MAXREFDES130_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MAX4822",
+    "name": "MAX4822",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Maxim-Integrated/code/MAX4822/"
+    }
+}

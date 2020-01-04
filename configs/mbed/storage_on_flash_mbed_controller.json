@@ -6,7 +6,8 @@
     "description": "Tiny storage(file) system on MCU internal flash memory for Nucleo F4xx. The purpose of SOFBlock class is to provide a way to write data on flash memory in the same ...",
     "examples": [
         "https://os.mbed.com/teams/mbed_controller/code/storage_on_flash_demo/",
-        "https://os.mbed.com/teams/mbed_controller/code/mbed_controller_demo/"
+        "https://os.mbed.com/teams/mbed_controller/code/mbed_controller_demo/",
+        "https://os.mbed.com/users/talhakkas/code/mbed-os-example-blinky-2/"
     ],
     "frameworks": "mbed",
     "keywords": [

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Manuel Caballero",
+        "url": "https://os.mbed.com/users/mcm/"
+    },
+    "description": "16-channel, 12-bit PWM Fm+ I2C-bus LED controller",
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "I2C",
+        "library",
+        "PCA9685",
+        "pwm"
+    ],
+    "name": "PCA9685",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mcm/code/PCA9685/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Jose Ruiz",
+        "url": "https://os.mbed.com/users/jaruiz/"
+    },
+    "description": "Librería HCSR04 con algunas modificaciones",
+    "examples": [
+        "https://os.mbed.com/users/jaruiz/code/ZMOTO42/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HCSR044",
+    "name": "HCSR044",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jaruiz/code/HCSR044/"
+    }
+}

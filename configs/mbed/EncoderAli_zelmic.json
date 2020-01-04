@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Andrey Zheleznyakov",
+        "url": "https://os.mbed.com/users/zelmic/"
+    },
+    "description": "Эта библиотека позволяет подключить энкодер KY-040. Дополнительную информацию можно найти в моём блоге itworkclub.ru",
+    "examples": [
+        "https://os.mbed.com/users/zelmic/code/STM32_Encoder/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "KY-040",
+        "Valcoder"
+    ],
+    "name": "EncoderAli",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/zelmic/code/EncoderAli/"
+    }
+}

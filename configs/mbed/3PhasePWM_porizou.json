@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Hiroki Mori",
+        "url": "https://os.mbed.com/users/porizou/"
+    },
+    "description": "３相インバータで３相PWMを生成するためのライブラリです。ブラシレスDCモータの制御に利用できます。",
+    "frameworks": "mbed",
+    "keywords": "3PhasePWM",
+    "name": "3PhasePWM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/porizou/code/3PhasePWM/"
+    }
+}

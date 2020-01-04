@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "John Donnal",
+        "url": "https://os.mbed.com/users/jdonnal/"
+    },
+    "description": "Interface with Parallax's high speed continuous rotation servo (Activity Bot)",
+    "examples": [
+        "https://os.mbed.com/teams/USNA-ES202/code/ES202_FinalProject_workingExample/",
+        "https://os.mbed.com/teams/Final-Project-ES202-KANG-TRUONG-ADAMS/code/DREAMTEAM/",
+        "https://os.mbed.com/teams/ES202_Final/code/ES202_straight1/",
+        "https://os.mbed.com/teams/Zolovick_Larrea_Mouaffek/code/ES202_Final_Turn/",
+        "https://os.mbed.com/teams/ES202_Final/code/ES202_Turn/",
+        "https://os.mbed.com/teams/Zolovick_Larrea_Mouaffek/code/ES202_Final_WallStop/",
+        "https://os.mbed.com/users/PlayaLarrea/code/ES202_Final_ColorSensor/",
+        "https://os.mbed.com/teams/Zolovick_Larrea_Mouaffek/code/ES202_Final_ColorSensor/",
+        "https://os.mbed.com/teams/Zolovick_Larrea_Mouaffek/code/ES202_Final_Project/",
+        "https://os.mbed.com/teams/ES202_Final/code/ES202_Stop/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ContinuousServo",
+    "name": "ContinuousServo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jdonnal/code/ContinuousServo/"
+    }
+}

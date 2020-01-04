@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Haakon Sporsheim",
+        "url": "https://os.mbed.com/users/haaspors/"
+    },
+    "description": "Library for using HC SR04 module sensor.",
+    "examples": [
+        "https://os.mbed.com/users/haaspors/code/LoRa/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HCSR04Lib",
+    "name": "HCSR04Lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/haaspors/code/HCSR04Lib/"
+    }
+}

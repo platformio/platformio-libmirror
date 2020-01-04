@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "liang brain",
+        "url": "https://os.mbed.com/users/brainliang/"
+    },
+    "description": "Quadrature encoder interface library.",
+    "examples": [
+        "https://os.mbed.com/users/brainliang/code/Ex_econdercar_ROS/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "QEI",
+        "quadrature"
+    ],
+    "name": "QEI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/brainliang/code/QEI/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Yuxiang Yang",
+        "url": "https://os.mbed.com/users/yxyang/"
+    },
+    "description": "MPU6050IMU_1",
+    "examples": [
+        "https://os.mbed.com/users/yxyang/code/controller_with_backup/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MPU6050IMU_1",
+    "name": "MPU6050IMU_1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yxyang/code/MPU6050IMU_1/"
+    }
+}

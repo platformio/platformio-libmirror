@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Telesensorics",
+        "url": "https://os.mbed.com/teams/Telesensorics/"
+    },
+    "description": "dynamixel protocol engine",
+    "examples": [
+        "https://os.mbed.com/teams/robot-arm-demo-team/code/RobotArmDemo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "dynamixel",
+        "IOT"
+    ],
+    "name": "Dynamixel",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Telesensorics/code/Dynamixel/"
+    }
+}

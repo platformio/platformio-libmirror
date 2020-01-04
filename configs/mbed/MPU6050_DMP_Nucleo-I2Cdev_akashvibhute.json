@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Akash Vibhute",
+        "url": "https://os.mbed.com/users/akashvibhute/"
+    },
+    "description": "MPU DMP code modified for use with ST Nucelo boards. This Library makes use of I2Cdev.",
+    "examples": [
+        "https://os.mbed.com/users/akashvibhute/code/MPU9150_nucleo_i2cdev/",
+        "https://os.mbed.com/teams/Team-Virgo-v3/code/Orion_newPCB_test_LV/",
+        "https://os.mbed.com/users/ahmed_lv/code/Orion_PCB_test_Faulhaber_gr41_wptcmd_V1/",
+        "https://os.mbed.com/users/WeberYang/code/MPU9150_nucleo_i2cdev/",
+        "https://os.mbed.com/users/WeberYang/code/MPU9150_nucleo_i2cdev__/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DMP",
+        "I2Cdev",
+        "MPU6050",
+        "MPU9150",
+        "Nucelo"
+    ],
+    "name": "MPU6050_DMP_Nucleo-I2Cdev",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/akashvibhute/code/MPU6050_DMP_Nucleo-I2Cdev/"
+    }
+}

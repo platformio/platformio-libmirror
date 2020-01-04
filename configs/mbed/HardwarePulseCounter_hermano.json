@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Hermano de Castro Pinheiro",
+        "url": "https://os.mbed.com/users/hermano/"
+    },
+    "description": "Library that to count pulses by hardware",
+    "frameworks": "mbed",
+    "keywords": [
+        "frequency measure",
+        "hardware counter",
+        "PULSE COUNTER"
+    ],
+    "name": "HardwarePulseCounter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hermano/code/HardwarePulseCounter/"
+    }
+}

@@ -5,11 +5,7 @@
     },
     "description": "This library can be used to control a low-cost Adafruit 358 TFT display. It has basic functionality but is a starting point for others trying to control this type of ...",
     "frameworks": "mbed",
-    "keywords": [
-        "358",
-        "Adafruit",
-        "TFT"
-    ],
+    "keywords": "TFT",
     "name": "Adafruit_358",
     "platforms": "*",
     "repository": {

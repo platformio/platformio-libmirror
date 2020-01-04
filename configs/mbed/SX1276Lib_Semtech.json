@@ -3,19 +3,8 @@
         "name": "Semtech",
         "url": "https://os.mbed.com/teams/Semtech/"
     },
-    "build": {
-        "flags": [
-            "-Itypedefs",
-            "-Idebug",
-            "-Isx1276",
-            "-Iregisters",
-            "-Iradio",
-            "-Ienums"
-        ]
-    },
     "description": "Driver for the SX1276 RF Transceiver",
     "examples": [
-        "https://os.mbed.com/users/dudmuck/code/SX1276PingPong/",
         "https://os.mbed.com/users/janjongboom/code/LoRa_PIR/",
         "https://os.mbed.com/users/pnysten/code/LoRaWAN-lmic-app/",
         "https://os.mbed.com/users/allencai/code/SX1276PingPong/",
@@ -24,7 +13,8 @@
         "https://os.mbed.com/teams/Alcatel-Lucent-IoT-Development/code/LoRaWAN-test-10secs/",
         "https://os.mbed.com/users/Maarten_BE/code/LoRaTempHumIoT/",
         "https://os.mbed.com/users/janjongboom/code/loriot-mbed-shield/",
-        "https://os.mbed.com/users/KarlNL/code/LoRaWAN-lmic-app_HS/"
+        "https://os.mbed.com/users/KarlNL/code/LoRaWAN-lmic-app_HS/",
+        "https://os.mbed.com/users/olav/code/LoRa/"
     ],
     "frameworks": "mbed",
     "keywords": [

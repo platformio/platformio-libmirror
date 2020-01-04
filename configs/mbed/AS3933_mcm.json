@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Manuel Caballero",
+        "url": "https://os.mbed.com/users/mcm/"
+    },
+    "description": "3D Low Frequency Wakeup Receiver",
+    "frameworks": "mbed",
+    "keywords": [
+        "3D LF wake-up receiver",
+        "AMS",
+        "AS3933",
+        "driver",
+        "library",
+        "SPI"
+    ],
+    "name": "AS3933",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mcm/code/AS3933/"
+    }
+}

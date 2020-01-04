@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "PHung Tung",
+        "url": "https://os.mbed.com/users/phungductung/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "sp",
+    "examples": [
+        "https://os.mbed.com/users/fundokukiri/code/SD_UART/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "kt",
+    "name": "BSP_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/phungductung/code/BSP_DISCO_F746NG/"
+    }
+}

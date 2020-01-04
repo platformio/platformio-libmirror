@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Antonio Gonzalez",
+        "url": "https://os.mbed.com/users/antoniogonzalez/"
+    },
+    "description": "Library for Atmel's AT42QT1070 7-channel touch sensor",
+    "frameworks": "mbed",
+    "keywords": "QT1070",
+    "name": "QT1070",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/antoniogonzalez/code/QT1070/"
+    }
+}

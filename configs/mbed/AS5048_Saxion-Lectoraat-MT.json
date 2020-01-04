@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Saxion Lectoraat MT",
+        "url": "https://os.mbed.com/teams/Saxion-Lectoraat-MT/"
+    },
+    "description": "AS5048A SPI - Magnetic rotary encoder library",
+    "examples": [
+        "https://os.mbed.com/users/Xiorax/code/EncodeurAS5047/",
+        "https://os.mbed.com/users/Xiorax/code/Test_Encodeur/",
+        "https://os.mbed.com/users/Xiorax/code/Test_Asservissement_Vitesse/",
+        "https://os.mbed.com/users/Xiorax/code/Test_Positionnement/",
+        "https://os.mbed.com/users/Xiorax/code/HelicoBot_Cachan2K18/",
+        "https://os.mbed.com/users/Xiorax/code/EncodeurAS5047_copy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AS5048",
+        "Encoder",
+        "magnetic sensors",
+        "sensor"
+    ],
+    "name": "AS5048",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Saxion-Lectoraat-MT/code/AS5048/"
+    }
+}

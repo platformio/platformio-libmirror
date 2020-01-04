@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Shivanand Gowda",
+        "url": "https://os.mbed.com/users/shivanandgowdakr/"
+    },
+    "description": "HDC1080 Digital Humidity | Sensor From Texas Instruments I2C Based",
+    "examples": [
+        "https://os.mbed.com/users/shivanandgowdakr/code/hdc1080_Hellow_world/",
+        "https://os.mbed.com/users/Viswanath/code/Temp_Humid/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Digital",
+        "HDC1080",
+        "Humidity",
+        "I2C",
+        "Temperature"
+    ],
+    "name": "HDC1080",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shivanandgowdakr/code/HDC1080/"
+    }
+}

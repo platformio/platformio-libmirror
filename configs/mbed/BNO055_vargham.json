@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Mark Peter Vargha",
+        "url": "https://os.mbed.com/users/vargham/"
+    },
+    "description": "I2C library for Bosch BNO055 sensor",
+    "examples": [
+        "https://os.mbed.com/users/elisham11/code/Project/",
+        "https://os.mbed.com/users/elisham11/code/Campus_Safety_Bot/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BNO055",
+    "name": "BNO055",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vargham/code/BNO055/"
+    }
+}

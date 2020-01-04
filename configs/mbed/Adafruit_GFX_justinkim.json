@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "justin kim",
+        "url": "https://os.mbed.com/users/justinkim/"
+    },
+    "description": "Adafruit GFX Library",
+    "examples": [
+        "https://os.mbed.com/users/justinkim/code/Adafruit_TFT_Shieldv1_graphicstest/",
+        "https://os.mbed.com/users/justinkim/code/Adafruit_TFT_Shieldv1_rotationtest/",
+        "https://os.mbed.com/users/justinkim/code/Adafruit_TFT_Shieldv1_shieldtest/",
+        "https://os.mbed.com/users/OHstin/code/Solar_Powered_Smart_Camera/",
+        "https://os.mbed.com/users/GabrielGoichman/code/IHM_Grafico_PetFinder/",
+        "https://os.mbed.com/teams/fra221-pb11/code/TFT35/",
+        "https://os.mbed.com/users/BETZtechnik/code/accuBlast_display/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GFX",
+        "LCD",
+        "TFT"
+    ],
+    "name": "Adafruit_GFX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/justinkim/code/Adafruit_GFX/"
+    }
+}

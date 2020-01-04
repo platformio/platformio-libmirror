@@ -1,6 +1,6 @@
 {
     "authors": {
-        "name": "Emmanuel Chio",
+        "name": "Vizic Technologies",
         "url": "https://os.mbed.com/users/emmanuelchio/"
     },
     "description": "SMARTWAV mbed Library for use with the SMARTWAV audio processor, http://vizictechnologies.com/#/smart-wav/4559021187 www.vizictechnologies.com",
@@ -14,7 +14,6 @@
     ],
     "frameworks": "mbed",
     "keywords": [
-        "44100",
         "audio",
         "FAT",
         "khz",

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Lukas Bielesch",
+        "url": "https://os.mbed.com/users/bieleluk/"
+    },
+    "description": "USB debug tool for STM32F042F6P6",
+    "frameworks": "mbed",
+    "keywords": "DEBUG_USB_F042F6P6",
+    "name": "DEBUG_USB_F042F6P6",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bieleluk/code/DEBUG_USB_F042F6P6/"
+    }
+}

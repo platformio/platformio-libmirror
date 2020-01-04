@@ -3,12 +3,6 @@
         "name": "Juergen M",
         "url": "https://os.mbed.com/users/messi1/"
     },
-    "build": {
-        "flags": [
-            "-Iinclude",
-            "-Isrc"
-        ]
-    },
     "description": "Drivber for Ti's TMP007 Infrared Thermopile Sensor with Integrated Math Engine",
     "frameworks": "mbed",
     "keywords": "TMP007",

@@ -4,6 +4,10 @@
         "url": "https://os.mbed.com/users/dextorslabs/"
     },
     "description": "CPU_Usage is a very lightweight library that can be easily incorporated into your application for testing performance. The reading is given as a percentage of CPU time which can be ...",
+    "examples": [
+        "https://os.mbed.com/users/turumputum/code/nucleo_encoder_stepper/",
+        "https://os.mbed.com/users/asaewing/code/mbed-os-rest-api-V1-1/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "CPU",

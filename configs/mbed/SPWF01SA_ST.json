@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ATParser"
+        }
+    ],
+    "description": "AT Parser and bufferedSerial based SPWF library",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/X_NUCLEO_IDW01M1v2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SPWF01SA",
+    "name": "SPWF01SA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/SPWF01SA/"
+    }
+}

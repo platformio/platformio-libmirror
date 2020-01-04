@@ -56,7 +56,7 @@ class MbedTerrierSpider(scrapy.Spider):
                            '../../../../div[2]/div[1]/span[2]/span[1]/text()')
             item.add_xpath(
                 'imports',
-                '../../../../div[2]/div[1]//i[@class="imports fa fa-download"]/following-sibling::span[1]/text()'
+                '../../../../div[2]/div[1]//i[@class="imports fas fa-download"]/following-sibling::span[1]/text()'
             )
             item.add_xpath('name', 'a/text()')
             item.add_xpath('repo_url', 'a/@href')

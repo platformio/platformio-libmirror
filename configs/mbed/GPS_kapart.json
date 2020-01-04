@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jorge Dominguez",
+        "url": "https://os.mbed.com/users/kapart/"
+    },
+    "description": "Library for ublox neo 6m",
+    "frameworks": "mbed",
+    "keywords": "GPGGA",
+    "name": "GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kapart/code/GPS/"
+    }
+}

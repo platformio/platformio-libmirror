@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "EIC",
+        "url": "https://os.mbed.com/teams/EIC_mbed/"
+    },
+    "description": "Library for AE-KXSD9(3 axis accelerometer Module KXSD9-2050)",
+    "examples": [
+        "https://os.mbed.com/users/mbed_tw_hoehoe/code/BLE_Acceleration_HRM1017/",
+        "https://os.mbed.com/users/MonroeLee/code/BLE_Acceleration_Statejudging/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "AE_KXSD9",
+    "name": "AE_KXSD9",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/EIC_mbed/code/AE_KXSD9/"
+    }
+}

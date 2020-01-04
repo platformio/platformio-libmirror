@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Labi Shrestha",
+        "url": "https://os.mbed.com/users/labishrestha/"
+    },
+    "dependencies": [
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "LPC1114_WakeInterruptIn"
+        }
+    ],
+    "description": "Wake-up timer library to wake from deepsleep/power-down",
+    "frameworks": "mbed",
+    "keywords": [
+        "KL25z",
+        "LPC800-MAX",
+        "LPC812",
+        "powerdown",
+        "Sleep",
+        "wake-up"
+    ],
+    "name": "WakeUp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/labishrestha/code/WakeUp/"
+    }
+}

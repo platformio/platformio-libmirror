@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "YOSHITERU KITA",
+        "url": "https://os.mbed.com/users/ykita/"
+    },
+    "description": "mbed library for Microchip MCP9600 Thermocouple EMF to temperature converter.",
+    "frameworks": "mbed",
+    "keywords": "MCP9600",
+    "name": "MCP9600",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ykita/code/MCP9600/"
+    }
+}

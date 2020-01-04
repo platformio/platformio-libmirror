@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "TTDC",
+        "url": "https://os.mbed.com/teams/TTDC/"
+    },
+    "description": "Library for the MMA7660 triple axis accelerometer",
+    "examples": [
+        "https://os.mbed.com/teams/TTDC/code/switches/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "I2C",
+        "MMA7660"
+    ],
+    "name": "MMA7660",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/TTDC/code/MMA7660/"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Kiraly Stefan Istvan",
+        "url": "https://os.mbed.com/users/yo2lts/"
+    },
+    "dependencies": [
+        {
+            "authors": "Kiraly Stefan Istvan",
+            "frameworks": "mbed",
+            "name": "HX711"
+        },
+        {
+            "authors": "Simon Ford",
+            "frameworks": "mbed",
+            "name": "TextLCD"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "https://os.mbed.com/users/yo2lts/code/HX711/",
+    "frameworks": "mbed",
+    "keywords": "HX711b_not_tar_test",
+    "name": "HX711b_not_tar_test",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yo2lts/code/HX711b_not_tar_test/"
+    }
+}

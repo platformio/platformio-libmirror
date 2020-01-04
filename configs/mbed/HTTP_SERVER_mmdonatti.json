@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Mauricio Donatti",
+        "url": "https://os.mbed.com/users/mmdonatti/"
+    },
+    "description": "Simple HTTP Server with one page index.html stored inside MBED as char vector and javascript to update a table content",
+    "frameworks": "mbed",
+    "keywords": "HTTP_SERVER",
+    "name": "HTTP_SERVER",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mmdonatti/code/HTTP_SERVER/"
+    }
+}

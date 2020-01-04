@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Manon Roussey",
+        "url": "https://os.mbed.com/users/Manon_rsy/"
+    },
+    "dependencies": [
+        {
+            "authors": "Christopher Haster",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "Library for SD card",
+    "examples": [
+        "https://os.mbed.com/users/Manon_rsy/code/JARVIS_Ticker_final/",
+        "https://os.mbed.com/teams/HABTeam/code/frdm_gpio/",
+        "https://os.mbed.com/teams/HABTeam/code/frdm_gpio_2_2/",
+        "https://os.mbed.com/teams/HABTeam/code/HABSensor_2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "card",
+        "SD"
+    ],
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Manon_rsy/code/SDFileSystem/"
+    }
+}

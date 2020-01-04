@@ -3,16 +3,6 @@
         "name": "Jonathon Fletcher",
         "url": "https://os.mbed.com/users/jonathonfletcher/"
     },
-    "build": {
-        "flags": [
-            "-ILPC11U24",
-            "-ILPC11U24/GCC_ARM",
-            "-ILPC11U24/uARM",
-            "-ILPC1768",
-            "-ILPC1768/GCC_ARM",
-            "-ILPC1768/ARM"
-        ]
-    },
     "description": "in OS_TSK, rename run as tsk_run and new as tsk_new.",
     "frameworks": "mbed",
     "keywords": "RTX",

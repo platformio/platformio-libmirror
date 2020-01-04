@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Christian Agerer",
+        "url": "https://os.mbed.com/users/Picard22/"
+    },
+    "description": "Library SX1276 Pinout for DISCO_B_L072CZ-LRWAN1 Board",
+    "frameworks": "mbed",
+    "keywords": "B-L072Z-LRWAN1",
+    "name": "SX1276_L072CZ-LRWAN1lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Picard22/code/SX1276_L072CZ-LRWAN1lib/"
+    }
+}

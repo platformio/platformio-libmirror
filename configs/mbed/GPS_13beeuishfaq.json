@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Umair Ishfaq",
+        "url": "https://os.mbed.com/users/13beeuishfaq/"
+    },
+    "description": "Library for ublox neo 6m FIXED",
+    "examples": [
+        "https://os.mbed.com/users/13beeuishfaq/code/Geofence_sender/",
+        "https://os.mbed.com/users/afahadshujah/code/Geofence_sender/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GPGGA",
+    "name": "GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/13beeuishfaq/code/GPS/"
+    }
+}

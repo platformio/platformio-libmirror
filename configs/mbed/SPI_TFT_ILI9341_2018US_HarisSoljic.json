@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Haris Šoljić",
+        "url": "https://os.mbed.com/users/2018US_HarisSoljic/"
+    },
+    "description": "Library for TFT via SPI",
+    "examples": [
+        "https://os.mbed.com/users/2018US_HarisSoljic/code/mbed_projekt_tetris/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SPI_TFT_ILI9341",
+    "name": "SPI_TFT_ILI9341",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/2018US_HarisSoljic/code/SPI_TFT_ILI9341/"
+    }
+}

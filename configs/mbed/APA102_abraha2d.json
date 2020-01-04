@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Kevin Abraham",
+        "url": "https://os.mbed.com/users/abraha2d/"
+    },
+    "description": "Minimal library to work with APA102-based LED strips. Uses code from FastLED library.",
+    "examples": [
+        "https://os.mbed.com/users/abraha2d/code/MobileArcade/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "APA102",
+    "name": "APA102",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/abraha2d/code/APA102/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Fabio Bobrow",
+        "url": "https://os.mbed.com/users/fbob/"
+    },
+    "description": "Library containing Crazyflie 2.0 sensors drivers: - LPS25H (barometer) - MPU9250 (IMU) - PMW3901 (optical flow) - VL53L0X (range)",
+    "examples": [
+        "https://os.mbed.com/users/yvesyuzo/code/Drones-Controlador/",
+        "https://os.mbed.com/users/yurindes/code/controladoatitude_cteste/",
+        "https://os.mbed.com/users/IgneousGuikas/code/Drone_Controlador_Atitude/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Crazyflie",
+        "lps25h",
+        "MPU9250",
+        "PMW3901",
+        "VL53L0X"
+    ],
+    "name": "CrazyflieSensors",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fbob/code/CrazyflieSensors/"
+    }
+}

@@ -3,11 +3,6 @@
         "name": "MyoWare Sensor",
         "url": "https://os.mbed.com/teams/MyoWare-Sensor/"
     },
-    "build": {
-        "flags": [
-            "-IMyoWare"
-        ]
-    },
     "description": "A simple API library for the MyoWare muscle sensor. Performs logic and analog in functions.",
     "frameworks": "mbed",
     "keywords": [

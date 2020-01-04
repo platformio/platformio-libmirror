@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Fernando Cosentino",
+        "url": "https://os.mbed.com/users/fbcosentino/"
+    },
+    "description": "Library to control 4 phase stepper motors using ULN2003. Default values for motor 28BYJ-48.",
+    "frameworks": "mbed",
+    "keywords": [
+        "28BYJ-48",
+        "driver",
+        "motor",
+        "Stepper",
+        "ULN2003"
+    ],
+    "name": "ULN2003_StepperDriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fbcosentino/code/ULN2003_StepperDriver/"
+    }
+}

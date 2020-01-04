@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Manaf dawud",
+        "url": "https://os.mbed.com/users/man125/"
+    },
+    "description": "A simple Led Blinking Library.",
+    "examples": [
+        "https://os.mbed.com/users/gakenn88/code/labb2Blink/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "blink",
+        "Flash."
+    ],
+    "name": "Blink",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/man125/code/Blink/"
+    }
+}

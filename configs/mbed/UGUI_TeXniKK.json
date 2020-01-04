@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Serhii Kulyk",
+        "url": "https://os.mbed.com/users/TeXniKK/"
+    },
+    "description": "Port of UGUI (https://github.com/achimdoebler/UGUI) library to mbed.",
+    "frameworks": "mbed",
+    "keywords": "UGUI",
+    "name": "UGUI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/TeXniKK/code/UGUI/"
+    }
+}

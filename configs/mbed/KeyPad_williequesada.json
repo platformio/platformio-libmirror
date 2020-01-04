@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Willie Solano",
+        "url": "https://os.mbed.com/users/williequesada/"
+    },
+    "description": "KeyPad",
+    "examples": [
+        "https://os.mbed.com/users/williequesada/code/Keypad_Funcional/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "KeyPad",
+    "name": "KeyPad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/williequesada/code/KeyPad/"
+    }
+}

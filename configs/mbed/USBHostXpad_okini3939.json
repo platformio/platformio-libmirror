@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "Xbox 360 Wireless Controller for Windows library. sample: http://mbed.org/users/okini3939/code/USBHostXpad_HelloWorld/",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/USBHostXpad_HelloWorld/",
+        "https://os.mbed.com/users/JakBlackburn/code/USBHostXpad_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "game pad",
+        "gamepad",
+        "USB Host",
+        "USBHOST",
+        "Xbox",
+        "xbox360"
+    ],
+    "name": "USBHostXpad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/USBHostXpad/"
+    }
+}

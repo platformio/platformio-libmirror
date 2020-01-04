@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "TShark TShark",
+        "url": "https://os.mbed.com/users/RomanRoman/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "The example program for mbed pin-compatible platforms",
+    "frameworks": "mbed",
+    "keywords": [
+        "Blinky",
+        "mbed",
+        "mbed_blinky",
+        "mbedblinky"
+    ],
+    "name": "mbed_blinky",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/RomanRoman/code/mbed_blinky/"
+    }
+}

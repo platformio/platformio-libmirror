@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Azure IoT",
+        "url": "https://os.mbed.com/users/AzureIoTClient/"
+    },
+    "description": "iothub_ll_telemetry_sample",
+    "frameworks": "mbed",
+    "keywords": "iothub_ll_telemetry_sample",
+    "name": "iothub_ll_telemetry_sample",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AzureIoTClient/code/iothub_ll_telemetry_sample/"
+    }
+}

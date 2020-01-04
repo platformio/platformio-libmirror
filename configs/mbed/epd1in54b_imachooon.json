@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "jun imamura",
+        "url": "https://os.mbed.com/users/imachooon/"
+    },
+    "description": "Library for Waveshare epd1in54b (1.54 inch ePaper black/red)",
+    "frameworks": "mbed",
+    "keywords": [
+        "e-ink",
+        "E-Paper",
+        "eINK",
+        "ePaper",
+        "epd1in54b",
+        "waveshare"
+    ],
+    "name": "epd1in54b",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/imachooon/code/epd1in54b/"
+    }
+}

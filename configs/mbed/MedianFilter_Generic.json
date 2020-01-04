@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Cornelius Bezuidenhout",
+        "url": "https://os.mbed.com/users/Generic/"
+    },
+    "description": "A median filter for floating point values",
+    "examples": [
+        "https://os.mbed.com/users/Generic/code/Heiko/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "filter",
+        "median"
+    ],
+    "name": "MedianFilter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Generic/code/MedianFilter/"
+    }
+}

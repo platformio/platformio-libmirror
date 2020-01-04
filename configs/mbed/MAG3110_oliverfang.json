@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Oliver Fang",
+        "url": "https://os.mbed.com/users/oliverfang/"
+    },
+    "description": "Modified MAG3110 with individual X, Y, and Z sampling",
+    "examples": [
+        "https://os.mbed.com/users/oliverfang/code/test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MAG3110",
+    "name": "MAG3110",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/oliverfang/code/MAG3110/"
+    }
+}

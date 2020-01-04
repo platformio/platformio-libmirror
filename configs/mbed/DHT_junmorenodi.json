@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Juan Moreno",
+        "url": "https://os.mbed.com/users/junmorenodi/"
+    },
+    "description": "Library For DHT",
+    "examples": [
+        "https://os.mbed.com/users/junmorenodi/code/CharlieProject/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DHT",
+    "name": "DHT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/junmorenodi/code/DHT/"
+    }
+}

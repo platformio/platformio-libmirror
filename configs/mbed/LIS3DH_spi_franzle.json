@@ -4,6 +4,11 @@
         "url": "https://os.mbed.com/users/franzle/"
     },
     "description": "LIS3DH through spi",
+    "examples": [
+        "https://os.mbed.com/teams/ENSMM/code/SimpleBLE-ObCP_ENSMM_V2019_Test_BLE/",
+        "https://os.mbed.com/teams/ENSMM/code/SimpleBLE-ObCP_ENSMM_V2019_Test_BLE_S/",
+        "https://os.mbed.com/users/MaxenceGalopin/code/Roller_catcher_tests_fonctionnel/"
+    ],
     "frameworks": "mbed",
     "keywords": "LIS3DH_spi",
     "name": "LIS3DH_spi",

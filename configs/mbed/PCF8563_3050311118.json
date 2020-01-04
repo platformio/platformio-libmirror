@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "zz zz",
+        "url": "https://os.mbed.com/users/3050311118/"
+    },
+    "description": "my prototype PCF8563's library",
+    "examples": [
+        "https://os.mbed.com/users/3050311118/code/Nucleo_rtos_basic/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "8563",
+        "LPC1768",
+        "PCF",
+        "PCF8563"
+    ],
+    "name": "PCF8563",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/3050311118/code/PCF8563/"
+    }
+}

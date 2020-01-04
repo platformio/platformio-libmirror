@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Bogdan Lazarescu",
+        "url": "https://os.mbed.com/users/BogdanL/"
+    },
+    "dependencies": [
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "FreescaleIAP"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "This library allows any user to use their Mbed project with a transient energy source( e.g. windturbine, solar power). You can do this by simply import the \"hibernus.h\" header file, ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "computing",
+        "hibernus",
+        "KL05Z",
+        "mbed",
+        "Transinet"
+    ],
+    "name": "Hibernus-KL05Z",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BogdanL/code/Hibernus-KL05Z/"
+    }
+}

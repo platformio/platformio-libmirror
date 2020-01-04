@@ -3,12 +3,6 @@
         "name": "NerfUS",
         "url": "https://os.mbed.com/teams/NerfUS/"
     },
-    "build": {
-        "flags": [
-            "-Iinclude",
-            "-Isource"
-        ]
-    },
     "description": "Wrapper of the mbed hardware",
     "examples": [
         "https://os.mbed.com/users/dupm2216/code/NerfUS_cmake_add_library_from_mbed/",

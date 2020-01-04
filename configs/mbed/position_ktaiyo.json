@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "taiyo kimura",
+        "url": "https://os.mbed.com/users/ktaiyo/"
+    },
+    "description": "ロボコン レーザーセンサーとタッチセンサーで位置検出",
+    "frameworks": "mbed",
+    "keywords": "sensor",
+    "name": "position",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ktaiyo/code/position/"
+    }
+}

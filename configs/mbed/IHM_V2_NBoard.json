@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "NBoard",
+        "url": "https://os.mbed.com/teams/NBoard/"
+    },
+    "description": "IHM carte NBOARD Mai 2018",
+    "examples": [
+        "https://os.mbed.com/teams/NBoard/code/NBoard_IHM_V2/",
+        "https://os.mbed.com/users/Quent1nl/code/ex20_fonction/",
+        "https://os.mbed.com/users/Quent1nl/code/ex21_PWM1/",
+        "https://os.mbed.com/users/Quent1nl/code/ex26/",
+        "https://os.mbed.com/users/Quent1nl/code/ex28_chenillard_continu/",
+        "https://os.mbed.com/users/Quent1nl/code/ex30_chronologie/",
+        "https://os.mbed.com/users/Quent1nl/code/ex31_attnonbloquante/",
+        "https://os.mbed.com/teams/Projet-ultra-secret-de-la-mort-qui-tue/code/partieP/",
+        "https://os.mbed.com/teams/NBoard/code/mbed-os-eventflags/",
+        "https://os.mbed.com/users/jacquesolivierklein/code/mbed-os-isr-semaphore/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "IHM_V2",
+    "name": "IHM_V2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NBoard/code/IHM_V2/"
+    }
+}

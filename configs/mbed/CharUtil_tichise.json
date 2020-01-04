@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "takuya ichise",
+        "url": "https://os.mbed.com/users/tichise/"
+    },
+    "description": "char string library. There is a character string splitting function.",
+    "frameworks": "mbed",
+    "keywords": "split",
+    "name": "CharUtil",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tichise/code/CharUtil/"
+    }
+}

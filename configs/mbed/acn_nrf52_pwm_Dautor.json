@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Karlo Milicevic",
+        "url": "https://os.mbed.com/users/Dautor/"
+    },
+    "description": "Aconno nrf52 pwm library.",
+    "examples": [
+        "https://os.mbed.com/users/jurica238814/code/acd52832_BLE_VF_GeoBeacon/",
+        "https://os.mbed.com/users/jurica238814/code/Lizzy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "nrf52",
+        "pwm"
+    ],
+    "name": "acn_nrf52_pwm",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Dautor/code/acn_nrf52_pwm/"
+    }
+}

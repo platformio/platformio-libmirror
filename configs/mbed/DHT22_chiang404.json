@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "YuLin Jiang",
+        "url": "https://os.mbed.com/users/chiang404/"
+    },
+    "description": "DHT22 --- Temperature & Humidity Sensor",
+    "frameworks": "mbed",
+    "keywords": "DHT22",
+    "name": "DHT22",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chiang404/code/DHT22/"
+    }
+}

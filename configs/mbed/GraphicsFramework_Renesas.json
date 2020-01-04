@@ -3,36 +3,6 @@
         "name": "Renesas",
         "url": "https://os.mbed.com/teams/Renesas/"
     },
-    "build": {
-        "flags": [
-            "-Iospl",
-            "-Iospl/inc",
-            "-Iospl/porting",
-            "-Iospl/porting/TOOLCHAIN_GCC",
-            "-Iospl/porting/TOOLCHAIN_ARM",
-            "-Iospl/src",
-            "-IRGA",
-            "-IRGA/TOOLCHAIN_GCC_ARM",
-            "-IRGA/inc",
-            "-IRGA/porting",
-            "-IRGA/TOOLCHAIN_ARM_STD",
-            "-IRGA/TOOLCHAIN_IAR",
-            "-IRGA/RGPNCG",
-            "-IRGA/RGPNCG/inc",
-            "-IRGA/RGPNCG/src",
-            "-IRGA/src",
-            "-Icommon",
-            "-Icommon/inc",
-            "-Icommon/src",
-            "-Ijcu",
-            "-Ijcu/inc",
-            "-Ijcu/porting",
-            "-Ijcu/userdef",
-            "-Ijcu/jcu_driver",
-            "-Iconfig",
-            "-Iiobitmasks"
-        ]
-    },
     "description": "Graphics framework for GR-PEACH. When you use this program, we judge you have agreed to the following contents. https://developer.mbed.org/teams/Renesas/wiki/About-LICENSE",
     "examples": [
         "https://os.mbed.com/users/1050186/code/ImageZoomInout_Sample/",
@@ -41,10 +11,10 @@
         "https://os.mbed.com/users/1050186/code/GR-PEACH_LCD_4_3inch_Save_to_USB/",
         "https://os.mbed.com/users/RyoheiHagimoto/code/GR-PEACH_WebCamera_OV5642_fixedIP/",
         "https://os.mbed.com/users/dkato/code/GR-PEACH_WebCamera_AP/",
-        "https://os.mbed.com/teams/Renesas/code/GR-PEACH_WebCamera_mbed-classic/",
         "https://os.mbed.com/users/dkato/code/GR-PEACH_SprintGame/",
         "https://os.mbed.com/users/vipinranka/code/MGAS_GR_Peach/",
-        "https://os.mbed.com/users/mtkrtk/code/MovPlayer/"
+        "https://os.mbed.com/users/mtkrtk/code/MovPlayer/",
+        "https://os.mbed.com/users/dkato/code/GR-PEACH_HVC-P2_sample_client/"
     ],
     "frameworks": "mbed",
     "keywords": "GR-PEACH",

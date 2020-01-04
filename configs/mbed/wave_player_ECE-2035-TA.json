@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "ECE 2035 TA",
+        "url": "https://os.mbed.com/teams/ECE-2035-TA/"
+    },
+    "description": "wave_player library",
+    "examples": [
+        "https://os.mbed.com/teams/ECE-2035-TA/code/ECE2035_SUM17_Project/",
+        "https://os.mbed.com/users/berzin11295/code/wav_player/",
+        "https://os.mbed.com/users/vsolonar/code/USBHostMSD_WavePlayer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "wave_player",
+    "name": "wave_player",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ECE-2035-TA/code/wave_player/"
+    }
+}

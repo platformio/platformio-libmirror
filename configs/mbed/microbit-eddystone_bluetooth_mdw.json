@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Martin Woolley",
+        "url": "https://os.mbed.com/users/bluetooth_mdw/"
+    },
+    "dependencies": [
+        {
+            "authors": "Martin Woolley",
+            "frameworks": "mbed",
+            "name": "microbit-dal-eddystone"
+        }
+    ],
+    "description": "Eddystone with modified DAL",
+    "examples": [
+        "https://os.mbed.com/users/bluetooth_mdw/code/eddystone_test/",
+        "https://os.mbed.com/users/kenogami/code/BluetoothAsiaBeacon/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "microbit-eddystone",
+    "name": "microbit-eddystone",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bluetooth_mdw/code/microbit-eddystone/"
+    }
+}

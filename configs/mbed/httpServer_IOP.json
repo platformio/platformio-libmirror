@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "IOP",
+        "url": "https://os.mbed.com/teams/IOP/"
+    },
+    "description": "httpserver for Internet piano",
+    "examples": [
+        "https://os.mbed.com/teams/IOP/code/Internet-Piano_WIZwiki-W7500/",
+        "https://os.mbed.com/users/joon874/code/Internet-Piano_India_Academy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "music",
+        "piano",
+        "pwm",
+        "server",
+        "W7500",
+        "Web",
+        "Wiznet",
+        "WIZwiki-W7500"
+    ],
+    "name": "httpServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/IOP/code/httpServer/"
+    }
+}

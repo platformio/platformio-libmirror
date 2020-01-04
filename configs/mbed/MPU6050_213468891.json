@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Crispin Mukalay",
+        "url": "https://os.mbed.com/users/213468891/"
+    },
+    "description": "Read MPU6050 gyroscope, accelerometer and temperature measurements. I2C protocol.",
+    "examples": [
+        "https://os.mbed.com/users/213468891/code/MPU_6050_Hello_World/",
+        "https://os.mbed.com/teams/FRA221-2018/code/PJ12_glove/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "gyroscope",
+        "I2C",
+        "MPU6050",
+        "Temperature"
+    ],
+    "name": "MPU6050",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/213468891/code/MPU6050/"
+    }
+}

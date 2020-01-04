@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "USB Device for NUCLEO-F103RB, STM32F103C8T6 and Maple Mini boards",
+    "examples": [
+        "https://os.mbed.com/users/hudakz/code/MapleMini_USBSerial/",
+        "https://os.mbed.com/users/danman/code/STM32F103C8T6_USBKeyboard/",
+        "https://os.mbed.com/users/yuliyasm/code/firstDelta/",
+        "https://os.mbed.com/users/hudakz/code/STM32F103C8T6_USBSerial/",
+        "https://os.mbed.com/users/fabdu117/code/Retro_Controller_Adaptor/",
+        "https://os.mbed.com/teams/Que-elegancia-la-de-Francia/code/STM32-103C8_Plantilla_USB/",
+        "https://os.mbed.com/users/hexxter/code/STM32F103C8T6_USBSerial/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Maple Mini",
+        "NUCLEO-F103RB",
+        "STM32F103C8C6",
+        "USB device",
+        "USBDevice"
+    ],
+    "name": "USBDevice_STM32F103",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/USBDevice_STM32F103/"
+    }
+}

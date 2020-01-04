@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Hiroshi Yamaguchi",
+        "url": "https://os.mbed.com/users/yamaguch/"
+    },
+    "description": "SCP1000 Library",
+    "examples": [
+        "https://os.mbed.com/users/yamaguch/code/SCP1000Example/",
+        "https://os.mbed.com/users/hosei2/code/0sample_SCP1000_USB/",
+        "https://os.mbed.com/teams/Fastsensing/code/SCP1000_Fastsensing/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "scp1000",
+    "name": "SCP1000",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yamaguch/code/SCP1000/"
+    }
+}

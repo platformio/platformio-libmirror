@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Sylvester Demmel",
+        "url": "https://os.mbed.com/users/Sly_fox/"
+    },
+    "description": "Library for DHT11 DHT22 AM2302 and similar sensors. Now with value after decimal point for DHT22.",
+    "examples": [
+        "https://os.mbed.com/users/Sly_fox/code/Seeed_Grove_Temp_Humidity_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Humidity",
+        "RH",
+        "RT",
+        "Temperature"
+    ],
+    "name": "DHT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sly_fox/code/DHT/"
+    }
+}

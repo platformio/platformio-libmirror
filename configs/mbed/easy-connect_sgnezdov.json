@@ -5,7 +5,8 @@
     },
     "description": "A quick effort to get W5500 working with easy connect. I removed other dependencies to reduce confusion. It is generally not a fork you want to look at.",
     "examples": [
-        "https://os.mbed.com/users/sgnezdov/code/coap-example/"
+        "https://os.mbed.com/users/sgnezdov/code/coap-example/",
+        "https://os.mbed.com/users/Bongjun/code/coap-example/"
     ],
     "frameworks": "mbed",
     "keywords": "easy-connect",

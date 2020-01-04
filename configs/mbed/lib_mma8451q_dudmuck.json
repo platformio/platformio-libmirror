@@ -5,12 +5,12 @@
     },
     "description": "mma8451q driver",
     "examples": [
-        "https://os.mbed.com/teams/Semtech/code/NAMote72_Utility/",
         "https://os.mbed.com/users/tanasaro10/code/nRF51822_DataLogger_PowerImpulseCounter/",
-        "https://os.mbed.com/teams/Semtech/code/scpi_sx127x/"
+        "https://os.mbed.com/teams/Semtech/code/scpi_sx127x/",
+        "https://os.mbed.com/teams/Semtech/code/NAMote72_Utility/"
     ],
     "frameworks": "mbed",
-    "keywords": "accelerometer",
+    "keywords": "lib_mma8451q",
     "name": "lib_mma8451q",
     "platforms": "*",
     "repository": {

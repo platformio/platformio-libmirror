@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Abdelhak Bougouffa",
+        "url": "https://os.mbed.com/users/abougouffa/"
+    },
+    "description": "Add USB HID Gamepad hosting support to mbed board (depends on USBHost library)",
+    "examples": [
+        "https://os.mbed.com/users/abougouffa/code/mbed_gamepad_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "USBHostGamepad",
+    "name": "USBHostGamepad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/abougouffa/code/USBHostGamepad/"
+    }
+}

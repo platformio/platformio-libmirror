@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Renato Grottesi",
+        "url": "https://os.mbed.com/users/rengro01/"
+    },
+    "dependencies": [
+        {
+            "authors": "Renato Grottesi",
+            "frameworks": "mbed",
+            "name": "microbit-dal"
+        }
+    ],
+    "description": "MicroBit as BLE gamepad",
+    "examples": [
+        "https://os.mbed.com/users/rengro01/code/microbit-bboard/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "microbit",
+    "name": "microbit",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rengro01/code/microbit/"
+    }
+}

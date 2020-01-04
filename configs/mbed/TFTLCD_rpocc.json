@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Dmitry Shtatnov",
+        "url": "https://os.mbed.com/users/rpocc/"
+    },
+    "description": "A modifiedversion of TFTLCD by Todor Todorov with ultra-fast operation for SSD1289 controller. TODO: speed-up fonts, add my own fonts Can work out-of-the-box with ST Nucleo F401RE",
+    "examples": [
+        "https://os.mbed.com/users/rpocc/code/TFT_320QVT_Window_Drag_Demo/",
+        "https://os.mbed.com/users/rpocc/code/TFT_320QVT_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "SSD1289",
+        "TFT",
+        "TFT320_QVT"
+    ],
+    "name": "TFTLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rpocc/code/TFTLCD/"
+    }
+}

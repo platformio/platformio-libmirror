@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Peter Knoben",
+        "url": "https://os.mbed.com/users/peterknoben/"
+    },
+    "description": "PID",
+    "examples": [
+        "https://os.mbed.com/users/peterknoben/code/kinematics_control/",
+        "https://os.mbed.com/users/peterknoben/code/kinematics_controlv2/",
+        "https://os.mbed.com/users/peterknoben/code/kinematics_controlv4/",
+        "https://os.mbed.com/users/peterknoben/code/kinematics_control_copyfds/",
+        "https://os.mbed.com/users/peterknoben/code/Robot_control/",
+        "https://os.mbed.com/users/DBerendsen/code/ShowIt/",
+        "https://os.mbed.com/users/peterknoben/code/ShowItv2/",
+        "https://os.mbed.com/users/peterknoben/code/ShowIt_robot_control/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PIDController",
+    "name": "PIDController",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/peterknoben/code/PIDController/"
+    }
+}

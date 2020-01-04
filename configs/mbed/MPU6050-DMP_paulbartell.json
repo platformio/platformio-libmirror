@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Paul Bartell",
+        "url": "https://os.mbed.com/users/paulbartell/"
+    },
+    "description": "ported from https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050 Modified to disable the debugSerial parts",
+    "examples": [
+        "https://os.mbed.com/teams/CSE477/code/swimate_v2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MPU6050-DMP",
+    "name": "MPU6050-DMP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/paulbartell/code/MPU6050-DMP/"
+    }
+}

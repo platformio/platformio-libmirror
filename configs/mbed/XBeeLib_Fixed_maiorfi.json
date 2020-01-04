@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Lorenzo Maiorfi",
+        "url": "https://os.mbed.com/users/maiorfi/"
+    },
+    "description": "Digi XBeeLib fixed for NonCopyable issue",
+    "frameworks": "mbed",
+    "keywords": "xbee",
+    "name": "XBeeLib_Fixed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/maiorfi/code/XBeeLib_Fixed/"
+    }
+}

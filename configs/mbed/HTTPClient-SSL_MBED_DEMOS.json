@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "MBED_DEMOS",
+        "url": "https://os.mbed.com/teams/MBED_DEMOS/"
+    },
+    "dependencies": [
+        {
+            "authors": "wolf SSL",
+            "frameworks": "mbed",
+            "name": "CyaSSL"
+        }
+    ],
+    "description": "Fork of the working HTTPClient adaptation using CyaSSL. This version adds a derivation of HTTPText called HTTPJson to emit JSON text properly. Additionally, the URL parser has defines that permit ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "CyaSSL",
+        "https",
+        "SSL"
+    ],
+    "name": "HTTPClient-SSL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MBED_DEMOS/code/HTTPClient-SSL/"
+    }
+}

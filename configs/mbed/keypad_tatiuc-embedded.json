@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "tatiuc embedded",
+        "url": "https://os.mbed.com/teams/tatiuc-embedded/"
+    },
+    "description": "library keypad",
+    "frameworks": "mbed",
+    "keywords": "keypad",
+    "name": "keypad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/tatiuc-embedded/code/keypad/"
+    }
+}

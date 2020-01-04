@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "suu pen",
+        "url": "https://os.mbed.com/users/suupen/"
+    },
+    "description": "以前のLibraryでは、スピーカ出力にPWM,DigitalOutを使いましたが、これは、両方ともPWMにしたものです。LPC1114FN28ではDigitalOutにノイズが乗ることがありその対応です。",
+    "examples": [
+        "https://os.mbed.com/users/suupen/code/kitchenTimer/",
+        "https://os.mbed.com/users/suupen/code/LPC1114FN28_kitchenTimer_Clock/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LPC1114FN28",
+        "sound"
+    ],
+    "name": "Sound_pwmToDig",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/suupen/code/Sound_pwmToDig/"
+    }
+}

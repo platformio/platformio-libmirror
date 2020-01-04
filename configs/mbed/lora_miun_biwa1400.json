@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "BIN WANG",
+        "url": "https://os.mbed.com/users/biwa1400/"
+    },
+    "description": "Handle LoRa Basic Function",
+    "examples": [
+        "https://os.mbed.com/users/biwa1400/code/lora_example_miun/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "lora_miun",
+    "name": "lora_miun",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/biwa1400/code/lora_miun/"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Keystone Developer",
+        "url": "https://os.mbed.com/users/KeystoneElectronic/"
+    },
+    "dependencies": [
+        {
+            "authors": "Ian Craggs",
+            "frameworks": "mbed",
+            "name": "MQTTSNPacket"
+        },
+        {
+            "authors": "Keystone Developer",
+            "frameworks": "mbed",
+            "name": "X-NUCLEO-SARA-N200"
+        }
+    ],
+    "description": "Example project to publish messages to a MQTT-SN broker using the u-blox SARA-N200 NB-IoT modem",
+    "frameworks": "mbed",
+    "keywords": "sara-n200-hello-mqtt-sn",
+    "name": "sara-n200-hello-mqtt-sn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/KeystoneElectronic/code/sara-n200-hello-mqtt-sn/"
+    }
+}

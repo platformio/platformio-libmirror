@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "A library allowing basic functions of the XBEE pro to be used. Currently supported are: Enter/exit config mode, reading device serial number, setting encryption key, writing settings to non volatile ...",
+    "examples": [
+        "https://os.mbed.com/teams/shields/code/Seeed_XBee_Shield/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "xbee",
+    "name": "XBee",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/XBee/"
+    }
+}

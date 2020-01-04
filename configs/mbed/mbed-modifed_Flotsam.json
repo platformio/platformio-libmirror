@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Flotsam",
+        "url": "https://os.mbed.com/teams/Flotsam/"
+    },
+    "description": "Modified version of the mbed library for use with the Nucleo boards.",
+    "examples": [
+        "https://os.mbed.com/teams/Flotsam/code/EEPROMWrite/",
+        "https://os.mbed.com/teams/Flotsam/code/Full-Project/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "mbed-modifed",
+    "name": "mbed-modifed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Flotsam/code/mbed-modifed/"
+    }
+}

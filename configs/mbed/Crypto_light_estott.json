@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Edward Stott",
+        "url": "https://os.mbed.com/users/estott/"
+    },
+    "description": "This library implements some hash and cryptographic algorithms.",
+    "examples": [
+        "https://os.mbed.com/users/JINYEENG/code/ES_CW2_Starter_JIN/",
+        "https://os.mbed.com/users/GPadley/code/EMBEDDED_CW2/",
+        "https://os.mbed.com/users/JacobKay97/code/EMBEDDED_CW2_Final/",
+        "https://os.mbed.com/teams/SpinnyBoi/code/Spinnybois/",
+        "https://os.mbed.com/users/ylx15/code/ES_CW2/",
+        "https://os.mbed.com/users/GPadley/code/EMBEDDED_CW2_Final/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AES",
+        "MD2",
+        "md5",
+        "RC4",
+        "SHA"
+    ],
+    "name": "Crypto_light",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/estott/code/Crypto_light/"
+    }
+}

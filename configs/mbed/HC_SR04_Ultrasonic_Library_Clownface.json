@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Clownface",
+        "url": "https://os.mbed.com/teams/Clownface/"
+    },
+    "description": "Library for using HC-SR04 with some API Documentation added",
+    "frameworks": "mbed",
+    "keywords": [
+        "HC-SR04",
+        "ultrasonic"
+    ],
+    "name": "HC_SR04_Ultrasonic_Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Clownface/code/HC_SR04_Ultrasonic_Library/"
+    }
+}

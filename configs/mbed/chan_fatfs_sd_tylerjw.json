@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Tyler Weaver",
+        "url": "https://os.mbed.com/users/tylerjw/"
+    },
+    "description": "updated chan_fatfs",
+    "examples": [
+        "https://os.mbed.com/users/tylerjw/code/HARP2/",
+        "https://os.mbed.com/users/tylerjw/code/HARP3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FAT",
+        "file system",
+        "SD"
+    ],
+    "name": "chan_fatfs_sd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tylerjw/code/chan_fatfs_sd/"
+    }
+}

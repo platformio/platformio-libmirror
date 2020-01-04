@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "HTTP/HTTPS Client Library for the X-NUCLEO-IDW01M1v2 wifi board.",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/HTTPClient_HelloWorld_IDW01M1/",
+        "https://os.mbed.com/users/gianluigiprimavera/code/wifigianluigi/",
+        "https://os.mbed.com/users/carlotara/code/HTTPClient_HelloWorld_IDW01M1_Fabio_Rice/",
+        "https://os.mbed.com/users/giacar/code/fitBox/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HTTPClient",
+    "name": "HTTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/HTTPClient/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "CSE477",
+        "url": "https://os.mbed.com/teams/CSE477/"
+    },
+    "description": "DS3231 driver with timestamp string function",
+    "examples": [
+        "https://os.mbed.com/teams/CSE477/code/swimate_v2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DS3231",
+        "RTC"
+    ],
+    "name": "DS3231",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/CSE477/code/DS3231/"
+    }
+}

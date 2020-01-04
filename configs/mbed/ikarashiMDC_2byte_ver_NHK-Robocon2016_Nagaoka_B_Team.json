@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "NagaokaRoboticsClub_mbedTeam",
+        "url": "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/"
+    },
+    "description": "ikarashiMDCの2byteバージョン",
+    "examples": [
+        "https://os.mbed.com/users/skouki/code/NHK2019_mae_v6/",
+        "https://os.mbed.com/users/skouki/code/NHK2019_main_v6/",
+        "https://os.mbed.com/users/skouki/code/NHK2019_usiro_v6/",
+        "https://os.mbed.com/users/THtakahiro702286/code/2019BSyudo/",
+        "https://os.mbed.com/users/THtakahiro702286/code/Bsyudo/",
+        "https://os.mbed.com/users/ec30109b/code/2019NHK_A_manual_red/",
+        "https://os.mbed.com/users/piroro4560/code/2019NHK_A_manual_red/",
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/NHK2019_mae_v6/",
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/NHK2019_usiro_v6/",
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/NHK2019_main_v6/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ikarashiMDC_2byte_ver",
+    "name": "ikarashiMDC_2byte_ver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/ikarashiMDC_2byte_ver/"
+    }
+}

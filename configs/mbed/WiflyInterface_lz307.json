@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Liyou Zhou",
+        "url": "https://os.mbed.com/users/lz307/"
+    },
+    "description": "This is a fork specifically for seeed wifi shield",
+    "examples": [
+        "https://os.mbed.com/users/lz307/code/seeed_Wifi_HelloWorld/",
+        "https://os.mbed.com/users/lz307/code/Wifly_Xively_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "WiflyInterface",
+    "name": "WiflyInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lz307/code/WiflyInterface/"
+    }
+}

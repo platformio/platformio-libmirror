@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "ROHM-Open-Developers",
+        "url": "https://os.mbed.com/teams/ROHM-Developers/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "GR-PEACH_WlanBP3595"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "WlanBP3595STA"
+        }
+    ],
+    "description": "This is a library to use the socket using BP3595(for STA mode). This library only works with GR-PEACH. It is necessary to import EthernetInterface library to use this library.",
+    "frameworks": "mbed",
+    "keywords": [
+        "BP3595",
+        "network",
+        "ROHM",
+        "WLAN"
+    ],
+    "name": "GR-PEACH_WlanBP3595STA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ROHM-Developers/code/GR-PEACH_WlanBP3595STA/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Tyler Weaver",
+        "url": "https://os.mbed.com/users/tylerjw/"
+    },
+    "description": "nmea gps library - without any serial",
+    "examples": [
+        "https://os.mbed.com/users/tylerjw/code/HARP2/",
+        "https://os.mbed.com/users/tylerjw/code/HARP3/",
+        "https://os.mbed.com/users/JackB/code/20180621_FT813/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GPS",
+        "NMEA",
+        "parse"
+    ],
+    "name": "nmea_parser",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tylerjw/code/nmea_parser/"
+    }
+}

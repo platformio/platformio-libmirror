@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Ayrton Leyssens",
+        "url": "https://os.mbed.com/users/Ayrton_L/"
+    },
+    "description": "Enbedeed f7 ethernet for project",
+    "frameworks": "mbed",
+    "keywords": "F7_Ethernet",
+    "name": "F7_Ethernet",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Ayrton_L/code/F7_Ethernet/"
+    }
+}

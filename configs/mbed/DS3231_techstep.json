@@ -4,6 +4,9 @@
         "url": "https://os.mbed.com/users/techstep/"
     },
     "description": "DS3231 External RTC I2C",
+    "examples": [
+        "https://os.mbed.com/users/TheoR/code/HumidityController/"
+    ],
     "frameworks": "mbed",
     "keywords": "DS3231",
     "name": "DS3231",

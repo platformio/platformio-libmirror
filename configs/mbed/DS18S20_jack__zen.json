@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "jack zen",
+        "url": "https://os.mbed.com/users/jack__zen/"
+    },
+    "description": "DS18B20",
+    "examples": [
+        "https://os.mbed.com/users/jack__zen/code/DS1820_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DS18S20",
+    "name": "DS18S20",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jack__zen/code/DS18S20/"
+    }
+}

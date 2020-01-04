@@ -5,7 +5,9 @@
     },
     "description": "BME280をI2CとSPIで使用するためのライブラリ。",
     "examples": [
-        "https://os.mbed.com/users/Yajirushi/code/BNO055_BME280_/"
+        "https://os.mbed.com/users/Yajirushi/code/BNO055_BME280_/",
+        "https://os.mbed.com/users/Yamanobe/code/Yabusame2_gyro/",
+        "https://os.mbed.com/users/Yamanobe/code/GRhanawaizman/"
     ],
     "frameworks": "mbed",
     "keywords": "BME280",

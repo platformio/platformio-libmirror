@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Michael Ohayon",
+        "url": "https://os.mbed.com/users/mohayonor/"
+    },
+    "dependencies": [
+        {
+            "authors": "Simon Ford",
+            "frameworks": "mbed",
+            "name": "TextLCD"
+        }
+    ],
+    "description": "gps",
+    "examples": [
+        "https://os.mbed.com/users/mohayonor/code/RUCHE2-CODES/",
+        "https://os.mbed.com/users/Sidibe/code/RUCHE2-CODES_correctiondepoids/",
+        "https://os.mbed.com/users/Sidibe/code/RUCHE2-CODES_correction_de_poids/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GPS",
+    "name": "GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mohayonor/code/GPS/"
+    }
+}

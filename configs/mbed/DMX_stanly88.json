@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Stanly Chen",
+        "url": "https://os.mbed.com/users/stanly88/"
+    },
+    "description": "Add support new target MCU: LPC1114FN28 or LPC11XX",
+    "frameworks": "mbed",
+    "keywords": "DMX-512",
+    "name": "DMX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/stanly88/code/DMX/"
+    }
+}

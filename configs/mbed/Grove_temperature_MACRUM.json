@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Toyomasa Watarai",
+        "url": "https://os.mbed.com/users/MACRUM/"
+    },
+    "description": "Seeed Grove Temperature sensor component library",
+    "examples": [
+        "https://os.mbed.com/users/MACRUM/code/Hello-grove-temperature-sensor/",
+        "https://os.mbed.com/users/atomichan/code/Wio_3G_HTTP-POST-example/",
+        "https://os.mbed.com/teams/Seeed/code/Wio_3G_example/",
+        "https://os.mbed.com/users/AndersonIctus/code/sgam-lib/",
+        "https://os.mbed.com/users/AndersonIctus/code/sgam_mdw_NUCLEOF429ZI_impl/",
+        "https://os.mbed.com/teams/SmartCampus/code/Smartcampus_thermistance/",
+        "https://os.mbed.com/teams/SmartCampus/code/OLED_NTC_graph/",
+        "https://os.mbed.com/teams/SmartCampus/code/OLED_texts/",
+        "https://os.mbed.com/teams/SmartCampus/code/OLED_graph_Hongli/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Grove",
+        "Seeed",
+        "Temperature"
+    ],
+    "name": "Grove_temperature",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MACRUM/code/Grove_temperature/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "mehmet gok",
+        "url": "https://os.mbed.com/users/gmehmet/"
+    },
+    "description": "Source code for Maxim Sensor Hub Communications. Mostly C library for MAX32664 sensor hub communications.",
+    "frameworks": "mbed",
+    "keywords": "Maxim_Sensor_Hub_Communications_Library",
+    "name": "Maxim_Sensor_Hub_Communications_Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gmehmet/code/Maxim_Sensor_Hub_Communications_Library/"
+    }
+}

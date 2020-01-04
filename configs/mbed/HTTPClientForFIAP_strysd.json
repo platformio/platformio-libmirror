@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Satoru Yoshida",
+        "url": "https://os.mbed.com/users/strysd/"
+    },
+    "description": "HTTPClient for IEEE1888 (FIAP) Gateway",
+    "examples": [
+        "https://os.mbed.com/users/strysd/code/Fetch_IEEE1888_Storage/",
+        "https://os.mbed.com/users/strysd/code/IEEE1888_MULTI_SENSOR_GW/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FIAP",
+        "IEEE1888"
+    ],
+    "name": "HTTPClientForFIAP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/strysd/code/HTTPClientForFIAP/"
+    }
+}

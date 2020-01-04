@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "David Wahl",
+        "url": "https://os.mbed.com/users/dmwahl/"
+    },
+    "description": "Drive a coil (valve, solenoid, contactor, etc)",
+    "examples": [
+        "https://os.mbed.com/users/iwolf32/code/TestBenchSerenity-proto_F429ZI/",
+        "https://os.mbed.com/users/iwolf32/code/TestBenchFlow/",
+        "https://os.mbed.com/users/iwolf32/code/HSPFLOW1/",
+        "https://os.mbed.com/users/iwolf32/code/TestBenchFlow1/",
+        "https://os.mbed.com/users/iwolf32/code/HSPFLOW/",
+        "https://os.mbed.com/users/212600191/code/HSPFLOW/",
+        "https://os.mbed.com/users/212600191/code/TestBenchSerenity-proto_F429ZI/",
+        "https://os.mbed.com/users/212600191/code/HSPFLOW1/",
+        "https://os.mbed.com/users/212600191/code/TestBenchSerenity-proto_F429ZI1/",
+        "https://os.mbed.com/users/212600191/code/HSPFLOWFINAL/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PWM-Coil-driver",
+    "name": "PWM-Coil-driver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dmwahl/code/PWM-Coil-driver/"
+    }
+}

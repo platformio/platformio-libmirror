@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jeroen van 't Hul",
+        "url": "https://os.mbed.com/users/JeroenAero/"
+    },
+    "description": "PT100 RTD TEMPERATURE SENSOR AMPLIFIER - MAX31865",
+    "frameworks": "mbed",
+    "keywords": "max31865",
+    "name": "MAX31865",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JeroenAero/code/MAX31865/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Rihards Balass",
+        "url": "https://os.mbed.com/users/CaptainR/"
+    },
+    "description": "4D systems Picaso uLCD 32PTU touch display library",
+    "frameworks": "mbed",
+    "keywords": [
+        "Picaso",
+        "touch",
+        "uLCD"
+    ],
+    "name": "4DGL-mbed-32PTU",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/CaptainR/code/4DGL-mbed-32PTU/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Nicolas Duchoud",
+        "url": "https://os.mbed.com/users/duchonic/"
+    },
+    "description": "CR95F X-Nucleo NFC03A1 Shield STM",
+    "examples": [
+        "https://os.mbed.com/users/duchonic/code/Nucleo_NFC03A1_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "NFC",
+        "Nucleo",
+        "reader"
+    ],
+    "name": "CR95HF",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/duchonic/code/CR95HF/"
+    }
+}

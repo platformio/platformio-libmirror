@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Manuel Caballero",
+        "url": "https://os.mbed.com/users/mcm/"
+    },
+    "description": "Pulse Oximeter and Heart-Rate Sensor IC for Wearable Health",
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "Health",
+        "Heart-Rate",
+        "library",
+        "MAX30100",
+        "Maxim",
+        "pulse oximeter"
+    ],
+    "name": "MAX30100",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mcm/code/MAX30100/"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Sarah Marsh",
+        "url": "https://os.mbed.com/users/sarahmarshy/"
+    },
+    "dependencies": [
+        {
+            "authors": "wolf SSL",
+            "frameworks": "mbed",
+            "name": "CyaSSL"
+        }
+    ],
+    "description": "Eliminated unessecary logic when defining chunk size",
+    "examples": [
+        "https://os.mbed.com/users/anewton8/code/ECE_4180_Lab_4/",
+        "https://os.mbed.com/users/jsmith352/code/IoT_Security_WIFI/",
+        "https://os.mbed.com/users/janjongboom/code/ESP8266_HTTP_HelloWorld/",
+        "https://os.mbed.com/users/readysteadygo2006/code/ESP8266_ws_hw/",
+        "https://os.mbed.com/users/fwndz/code/ESP-PN-V01/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HTTPClient-SSL",
+    "name": "HTTPClient-SSL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sarahmarshy/code/HTTPClient-SSL/"
+    }
+}

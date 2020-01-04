@@ -3,30 +3,18 @@
         "name": "Yoji KURODA",
         "url": "https://os.mbed.com/users/ykuroda/"
     },
-    "build": {
-        "flags": [
-            "-Isrc",
-            "-Isrc/plugins",
-            "-Isrc/Geometry",
-            "-Isrc/Jacobi",
-            "-Isrc/Eigenvalues",
-            "-Isrc/Cholesky",
-            "-Isrc/misc",
-            "-Isrc/SVD",
-            "-Isrc/Householder",
-            "-Isrc/Core",
-            "-Isrc/Core/products",
-            "-Isrc/Core/arch",
-            "-Isrc/Core/arch/Default",
-            "-Isrc/Core/util",
-            "-Isrc/LU",
-            "-Isrc/QR"
-        ]
-    },
     "description": "Eigne Matrix Class Library",
     "examples": [
         "https://os.mbed.com/users/ykuroda/code/Eigen_test/",
-        "https://os.mbed.com/users/ykuroda/code/Odometry_test/"
+        "https://os.mbed.com/users/ykuroda/code/Odometry_test/",
+        "https://os.mbed.com/teams/CIA/code/AttitudeEstimation_usingTicker/",
+        "https://os.mbed.com/teams/CIA/code/MPU9250_Quaternion_Binary_Serial/",
+        "https://os.mbed.com/users/je310/code/DeltaRobotFirmware/",
+        "https://os.mbed.com/users/RCMISbed/code/LPC1768-GPS-FUSION-17102018-1/",
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/measuringWheel_v3/",
+        "https://os.mbed.com/users/skouki/code/NHK2019_mae_v6/",
+        "https://os.mbed.com/users/skouki/code/NHK2019_usiro_v6/",
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/NHK2019_mae_v6/"
     ],
     "frameworks": "mbed",
     "keywords": "Eigen",

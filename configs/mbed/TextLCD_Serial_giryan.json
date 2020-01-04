@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Matthew Waddilove",
+        "url": "https://os.mbed.com/users/giryan/"
+    },
+    "dependencies": [
+        {
+            "authors": "Matthew Waddilove",
+            "frameworks": "mbed",
+            "name": "TextDisplays"
+        }
+    ],
+    "description": "Library implementing the TextDisplay interface for the Serial LCDs as sold by Sparkfun etc...",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "Serial",
+        "TextDisplay",
+        "TextDisplays",
+        "TextLCD"
+    ],
+    "name": "TextLCD_Serial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/giryan/code/TextLCD_Serial/"
+    }
+}

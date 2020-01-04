@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Gong Chen",
+        "url": "https://os.mbed.com/users/ppr2013G2/"
+    },
+    "description": "Fork from Dynamixel AX12 Servo for MX64 use and not-finishi now",
+    "examples": [
+        "https://os.mbed.com/users/ppr2013G2/code/2014-Mx64/",
+        "https://os.mbed.com/users/ppr2013G2/code/2014-mx64-test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MX64",
+    "name": "MX64",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ppr2013G2/code/MX64/"
+    }
+}

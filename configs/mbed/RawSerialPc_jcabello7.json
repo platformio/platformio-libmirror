@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Jose Gutierrez Cabello",
+        "url": "https://os.mbed.com/users/jcabello7/"
+    },
+    "description": "Llibreria per connectar via sèrie amb un PC, que permet enviar i rebre strings sense fer servir les funcions scanf i printf que no són compatibles amb la llibreria RTOS.",
+    "examples": [
+        "https://os.mbed.com/users/jcabello7/code/projecte_v4_rtos/",
+        "https://os.mbed.com/users/jcabello7/code/ProjecteRobotFinal/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "RawSerialPc",
+    "name": "RawSerialPc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jcabello7/code/RawSerialPc/"
+    }
+}

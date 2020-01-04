@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "David Salmon",
+        "url": "https://os.mbed.com/users/david_s95/"
+    },
+    "description": "Proportional, integral, derivative controller library. Ported from the Arduino PID library by Brett Beauregard.",
+    "examples": [
+        "https://os.mbed.com/users/david_s95/code/ES_CW2_Starter_MDMA/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "control",
+        "PID"
+    ],
+    "name": "PID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/david_s95/code/PID/"
+    }
+}

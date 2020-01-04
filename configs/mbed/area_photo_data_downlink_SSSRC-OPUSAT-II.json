@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "SSSRC OPUSAT-II",
+        "url": "https://os.mbed.com/teams/SSSRC-OPUSAT-II/"
+    },
+    "description": "範囲指定画像ダウンリンク",
+    "frameworks": "mbed",
+    "keywords": "area_photo_data_downlink",
+    "name": "area_photo_data_downlink",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/SSSRC-OPUSAT-II/code/area_photo_data_downlink/"
+    }
+}

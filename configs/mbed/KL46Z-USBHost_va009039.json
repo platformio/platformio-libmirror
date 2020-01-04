@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Norimasa Okamoto",
+        "url": "https://os.mbed.com/users/va009039/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "Simple USBHost library for FRDM-KL46Z(FRDM-KL25Z). Backward compatibility of official-USBHost.",
+    "examples": [
+        "https://os.mbed.com/users/wue/code/kL46Z-Lab3-lodz/",
+        "https://os.mbed.com/users/rs27/code/kl25z_USB_4/",
+        "https://os.mbed.com/users/AxedaCorp/code/AxedaGo-Freescal_FRDM-KL46Z-revert/",
+        "https://os.mbed.com/users/AxedaCorp/code/AxedaGo-Freescal_FRDM-KL46Z/",
+        "https://os.mbed.com/teams/TEAMUSB/code/USBHostKeyboard_HelloWorld/",
+        "https://os.mbed.com/users/Zuni/code/test_PLIK/",
+        "https://os.mbed.com/users/pawelk3k/code/test_PLIK_work/",
+        "https://os.mbed.com/users/Lokkus/code/KL46Z-Lab3_full/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FRDM-KL25Z",
+        "FRDM-KL46Z",
+        "USBHOST"
+    ],
+    "name": "KL46Z-USBHost",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/va009039/code/KL46Z-USBHost/"
+    }
+}

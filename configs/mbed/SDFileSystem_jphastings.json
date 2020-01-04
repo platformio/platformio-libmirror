@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "JP Hastings-Spital",
+        "url": "https://os.mbed.com/users/jphastings/"
+    },
+    "dependencies": [
+        {
+            "authors": "Adam Green",
+            "frameworks": "mbed",
+            "name": "FatFileSystem"
+        }
+    ],
+    "description": "Fork of SDFileSystem",
+    "examples": [
+        "https://os.mbed.com/users/jphastings/code/SuperScanner/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jphastings/code/SDFileSystem/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "wayne roberts",
+        "url": "https://os.mbed.com/users/dudmuck/"
+    },
+    "description": "driver for sx1280",
+    "frameworks": "mbed",
+    "keywords": "sx128x",
+    "name": "sx128x",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dudmuck/code/sx128x/"
+    }
+}

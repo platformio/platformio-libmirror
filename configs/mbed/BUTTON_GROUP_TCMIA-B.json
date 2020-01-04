@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "TCMIA B",
+        "url": "https://os.mbed.com/teams/TCMIA-B/"
+    },
+    "description": "button",
+    "examples": [
+        "https://os.mbed.com/users/Mario0799/code/Temperature_Sensor_to_LCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BUTTON_GROUP",
+    "name": "BUTTON_GROUP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/TCMIA-B/code/BUTTON_GROUP/"
+    }
+}

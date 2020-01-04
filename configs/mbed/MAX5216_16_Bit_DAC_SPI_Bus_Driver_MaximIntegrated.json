@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/"
+    },
+    "description": "Driver C++ source code for MAX5216/MAX5214 16-bit/14-bit DAC SPI (50MHz) bus ICs. Low power Digital-to_Analog Converter chips which accept supply voltages of 2.7V to 5.5V. Features Rail-to-Rail Buffered Output Operation ...",
+    "examples": [
+        "https://os.mbed.com/teams/MaximIntegrated/code/MAX5216_16_Bit_DAC_Hello_Code/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DAC SPI",
+        "Digital-to-Analog Converter",
+        "low power DAC",
+        "MAX5214",
+        "MAX5216"
+    ],
+    "name": "MAX5216_16_Bit_DAC_SPI_Bus_Driver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/code/MAX5216_16_Bit_DAC_SPI_Bus_Driver/"
+    }
+}

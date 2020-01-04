@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "avnish aggarwal",
+        "url": "https://os.mbed.com/users/avnisha/"
+    },
+    "dependencies": [
+        {
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
+            "name": "MODSERIAL"
+        }
+    ],
+    "description": "ok",
+    "examples": [
+        "https://os.mbed.com/users/avnisha/code/Bootcamp-dma-serial/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MODDMA",
+    "name": "MODDMA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/avnisha/code/MODDMA/"
+    }
+}

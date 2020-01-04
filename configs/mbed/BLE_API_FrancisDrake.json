@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jörg Küfen",
+        "url": "https://os.mbed.com/users/FrancisDrake/"
+    },
+    "description": "fka mod",
+    "frameworks": "mbed",
+    "keywords": "BLE_API",
+    "name": "BLE_API",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/FrancisDrake/code/BLE_API/"
+    }
+}

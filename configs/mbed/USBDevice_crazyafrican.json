@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Christiaan A",
+        "url": "https://os.mbed.com/users/crazyafrican/"
+    },
+    "description": "Fork of official USBDevice with support for STM32F446 Nucleo-64 added.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Nucleo",
+        "STM32F446",
+        "USBDevice"
+    ],
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/crazyafrican/code/USBDevice/"
+    }
+}

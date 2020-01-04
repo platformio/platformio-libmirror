@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Arve Seljebu",
+        "url": "https://os.mbed.com/users/arve0/"
+    },
+    "description": "A library for ADS1015 and ADS1115 from Texas Instruments.",
+    "examples": [
+        "https://os.mbed.com/users/jamesdem1123/code/IGGE_Power/",
+        "https://os.mbed.com/users/arve0/code/ADS1015-hello_world/",
+        "https://os.mbed.com/users/arve0/code/ADS1115-hello_world/",
+        "https://os.mbed.com/users/ramirobmar/code/frdm_rtos_Eth/",
+        "https://os.mbed.com/users/NunchukPiledrivers/code/ADC_Converter/",
+        "https://os.mbed.com/users/vargham/code/MapleMiniPeripherals/",
+        "https://os.mbed.com/users/potless/code/ARNSRS_SERVOS_USB_TFT/",
+        "https://os.mbed.com/users/potless/code/ARNSRS_testDFU/",
+        "https://os.mbed.com/teams/Momo-Medical/code/BCT_automated/",
+        "https://os.mbed.com/users/LoloF/code/ADS1115gnd/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ADS1015",
+    "name": "ADS1015",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/arve0/code/ADS1015/"
+    }
+}

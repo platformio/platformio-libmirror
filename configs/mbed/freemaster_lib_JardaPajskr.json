@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Jarda Pajskr",
+        "url": "https://os.mbed.com/users/JardaPajskr/"
+    },
+    "description": "FreeMASTER library, Realtime monitor - debugger, data visualisaton",
+    "examples": [
+        "https://os.mbed.com/users/JardaPajskr/code/FreeMASTER_HelloWorld/",
+        "https://os.mbed.com/users/JardaPajskr/code/FreeMASTER_HelloWorld2/",
+        "https://os.mbed.com/users/JardaPajskr/code/FreeMASTER_HelloWorld3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Data visualisation",
+        "Realtime debugger",
+        "Realtime monitor"
+    ],
+    "name": "freemaster_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JardaPajskr/code/freemaster_lib/"
+    }
+}

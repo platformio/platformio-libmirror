@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Darren Ulrich",
+        "url": "https://os.mbed.com/users/trevieze/"
+    },
+    "description": "Found this library on Github and so far it is as complete as the Arduino Adafruit library.",
+    "frameworks": "mbed",
+    "keywords": "BNO055",
+    "name": "BNO055_Adafruit",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/trevieze/code/BNO055_Adafruit/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "u-blox",
+        "url": "https://os.mbed.com/teams/ublox/"
+    },
+    "description": "Example using the UBLOX_C030_U201 board to communicate over a cellular link with Mbed Cloud.",
+    "frameworks": "mbed",
+    "keywords": [
+        "C030",
+        "Cellular",
+        "u-blox"
+    ],
+    "name": "mbed-cloud-example-c030",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ublox/code/mbed-cloud-example-c030/"
+    }
+}

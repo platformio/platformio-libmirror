@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Ivano Calabrese",
+        "url": "https://os.mbed.com/users/alphaemmeo/"
+    },
+    "description": "LoRaWAN-lib-st-murata",
+    "examples": [
+        "https://os.mbed.com/users/alphaemmeo/code/DISCO-L072CZ-LRWAN1-base/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LoRaWAN-lib-st-murata",
+    "name": "LoRaWAN-lib-st-murata",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/alphaemmeo/code/LoRaWAN-lib-st-murata/"
+    }
+}

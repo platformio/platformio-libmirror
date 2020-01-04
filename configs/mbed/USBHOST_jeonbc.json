@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Jeon byungchul",
+        "url": "https://os.mbed.com/users/jeonbc/"
+    },
+    "description": "forked for unsupported target",
+    "examples": [
+        "https://os.mbed.com/users/jeonbc/code/stm32-disco-example/",
+        "https://os.mbed.com/teams/DIGITEO/code/DISCO-F469NI_BD_SD_Card_Control/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "USBHOST",
+    "name": "USBHOST",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jeonbc/code/USBHOST/"
+    }
+}

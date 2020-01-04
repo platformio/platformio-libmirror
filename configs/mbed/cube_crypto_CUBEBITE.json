@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "CUBEBITE",
+        "url": "https://os.mbed.com/teams/CUBEBITE/"
+    },
+    "description": "cube bite crypto lib",
+    "examples": [
+        "https://os.mbed.com/teams/CUBEBITE/code/CEBF746_Slave_withTPM/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "cube_crypto",
+    "name": "cube_crypto",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/CUBEBITE/code/cube_crypto/"
+    }
+}

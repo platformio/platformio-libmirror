@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jeff Haller",
+        "url": "https://os.mbed.com/users/jeffmajeff/"
+    },
+    "description": "Version of USBDevice that works for KL25Z on Mbed OS2.",
+    "frameworks": "mbed",
+    "keywords": "USBDevice_KL25Z",
+    "name": "USBDevice_KL25Z",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jeffmajeff/code/USBDevice_KL25Z/"
+    }
+}

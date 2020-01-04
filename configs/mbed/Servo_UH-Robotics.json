@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "UH Robotics",
+        "url": "https://os.mbed.com/teams/UH-Robotics/"
+    },
+    "description": "Library for servos.",
+    "frameworks": "mbed",
+    "keywords": "Servo",
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/UH-Robotics/code/Servo/"
+    }
+}

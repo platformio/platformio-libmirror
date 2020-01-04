@@ -3,33 +3,6 @@
         "name": "doku newon",
         "url": "https://os.mbed.com/users/dokunewon/"
     },
-    "build": {
-        "flags": [
-            "-IUSBHost",
-            "-IUSBHost/TARGET_RENESAS",
-            "-IUSBHost/TARGET_RENESAS/TARGET_RZ_A1H",
-            "-IUSBHost/TARGET_RENESAS/TARGET_RZ_A1H/inc",
-            "-IUSBHost/TARGET_RENESAS/TARGET_RZ_A1H/usb1",
-            "-IUSBHost/TARGET_RENESAS/TARGET_RZ_A1H/usb1/inc",
-            "-IUSBHost/TARGET_RENESAS/TARGET_RZ_A1H/usb1/src",
-            "-IUSBHost/TARGET_RENESAS/TARGET_RZ_A1H/usb1/src/userdef",
-            "-IUSBHost/TARGET_RENESAS/TARGET_RZ_A1H/usb1/src/host",
-            "-IUSBHost/TARGET_RENESAS/TARGET_RZ_A1H/usb1/src/common",
-            "-IUSBHost/TARGET_RENESAS/TARGET_RZ_A1H/usb0",
-            "-IUSBHost/TARGET_RENESAS/TARGET_RZ_A1H/usb0/inc",
-            "-IUSBHost/TARGET_RENESAS/TARGET_RZ_A1H/usb0/src",
-            "-IUSBHost/TARGET_RENESAS/TARGET_RZ_A1H/usb0/src/userdef",
-            "-IUSBHost/TARGET_RENESAS/TARGET_RZ_A1H/usb0/src/host",
-            "-IUSBHost/TARGET_RENESAS/TARGET_RZ_A1H/usb0/src/common",
-            "-IUSBHost3GModule",
-            "-IUSBHostHub",
-            "-IUSBHostMSD",
-            "-IUSBHostHID",
-            "-IUSBHostSerial",
-            "-IDoku_USBisochronous",
-            "-IUSBHostMIDI"
-        ]
-    },
     "dependencies": [
         {
             "authors": "mbed official",

@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "WIZnet",
+        "url": "https://os.mbed.com/teams/WIZnet/"
+    },
+    "description": "This is Library using WIZnet Hardware TCP/IP chip, W5500 and WIZnet TCP/IP Offload Engine, W7500.",
+    "examples": [
+        "https://os.mbed.com/users/justinkim/code/HTTP_SDcard_file_server_WIZwiki-W7500/",
+        "https://os.mbed.com/users/eunkyoungkim/code/SSD1306_smart_watch/",
+        "https://os.mbed.com/teams/WIZnet/code/TCPEchoServer-WIZwiki-W7500/",
+        "https://os.mbed.com/teams/WIZnet/code/httpServer-WIZwiki-W7500/",
+        "https://os.mbed.com/users/embeddist/code/DHCPAddressPrinter/",
+        "https://os.mbed.com/users/embeddist/code/DHCPChatServer/",
+        "https://os.mbed.com/users/embeddist/code/DNSWebClient/",
+        "https://os.mbed.com/users/embeddist/code/UdpNtpClient/",
+        "https://os.mbed.com/users/kzl108/code/TCP_LED_Control-WIZwiki-W7500/",
+        "https://os.mbed.com/users/jehoon/code/IFTTT_WIZwiki-W7500/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "tcp/ip",
+        "W5500",
+        "W5500 Ethernet shield",
+        "W7500",
+        "W7500P",
+        "Wiznet",
+        "WIZnetInterface",
+        "WIZwiki_W7500",
+        "WIZwiki_W7500ECO",
+        "WIZwiki_W7500P"
+    ],
+    "name": "WIZnetInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/WIZnet/code/WIZnetInterface/"
+    }
+}

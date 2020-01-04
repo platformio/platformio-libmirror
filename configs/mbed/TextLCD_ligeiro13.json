@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Gabriel Ligeiro",
+        "url": "https://os.mbed.com/users/ligeiro13/"
+    },
+    "description": "aula 25",
+    "examples": [
+        "https://os.mbed.com/users/ligeiro13/code/Aula25/",
+        "https://os.mbed.com/users/Gabiuas/code/Onda_lcd/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TextLCD",
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ligeiro13/code/TextLCD/"
+    }
+}

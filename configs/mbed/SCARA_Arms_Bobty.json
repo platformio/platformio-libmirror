@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Rob Dobson",
+        "url": "https://os.mbed.com/users/Bobty/"
+    },
+    "description": "Calculations for a Dual-Arm SCARA robot Computes the shoulder angles to make the robot move to an XY position Also the reverse calculation - mainly useful as a cross-check",
+    "frameworks": "mbed",
+    "keywords": [
+        "ARM",
+        "bot",
+        "Pancake",
+        "robot",
+        "SCARA",
+        "Servo"
+    ],
+    "name": "SCARA_Arms",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Bobty/code/SCARA_Arms/"
+    }
+}

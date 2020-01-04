@@ -3,11 +3,6 @@
         "name": "Wim De Roeve",
         "url": "https://os.mbed.com/users/Wimpie/"
     },
-    "build": {
-        "flags": [
-            "-Ifonts"
-        ]
-    },
     "description": "PCD8544LCD",
     "frameworks": "mbed",
     "keywords": "PCD8544LCD",

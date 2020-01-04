@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Marvas",
+        "url": "https://os.mbed.com/teams/Marvas/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "sd karta yazma ve okuma",
+    "examples": [
+        "https://os.mbed.com/teams/Marvas/code/sd_kart_yazma_ve_okuma/",
+        "https://os.mbed.com/teams/Marvas/code/sd_kart/",
+        "https://os.mbed.com/teams/Marvas/code/sd_kart_dht11_ldr_lcd/",
+        "https://os.mbed.com/teams/Marvas/code/sd_kart_okuma_yazma_son/",
+        "https://os.mbed.com/teams/Marvas/code/wav_player/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "card read",
+        "card writer",
+        "kart",
+        "SD"
+    ],
+    "name": "sd_kart_yazma_okma",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Marvas/code/sd_kart_yazma_okma/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Xin Zhang",
+        "url": "https://os.mbed.com/users/XinZhangMS/"
+    },
+    "description": "azure-iot-c-sdk for nucleo_f767zi on mbed os",
+    "examples": [
+        "https://os.mbed.com/users/XinZhangMS/code/samplemqtt/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "azure-iot-c-sdk-f767zi",
+    "name": "azure-iot-c-sdk-f767zi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/XinZhangMS/code/azure-iot-c-sdk-f767zi/"
+    }
+}

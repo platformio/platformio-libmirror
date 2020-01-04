@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "T Nara",
+        "url": "https://os.mbed.com/users/tknara/"
+    },
+    "description": "R1370 library only get gyro",
+    "examples": [
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/quadOmni_yanagi/",
+        "https://os.mbed.com/users/piroro4560/code/R1370-gyro_test/",
+        "https://os.mbed.com/users/piroro4560/code/wheel_test3/",
+        "https://os.mbed.com/users/skouki/code/wheel_test3/",
+        "https://os.mbed.com/users/piroro4560/code/wheel_test4/",
+        "https://os.mbed.com/users/piroro4560/code/wheel_test5/",
+        "https://os.mbed.com/users/THtakahiro702286/code/moveTest/",
+        "https://os.mbed.com/users/talsl/code/kobayashi_rei/",
+        "https://os.mbed.com/users/THtakahiro702286/code/kobayashi_rei/",
+        "https://os.mbed.com/users/piroro4560/code/wheel_test6/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "R1370",
+    "name": "R1370",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tknara/code/R1370/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Alix Germany",
+        "url": "https://os.mbed.com/users/Alix955/"
+    },
+    "description": "NTP networking client stuff",
+    "examples": [
+        "https://os.mbed.com/users/Alix955/code/Coursework_Version_6/",
+        "https://os.mbed.com/users/Alix955/code/Coursework_Version_8/",
+        "https://os.mbed.com/users/O_Thom/code/ELEC351-Coursework/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ntp-client",
+    "name": "ntp-client",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Alix955/code/ntp-client/"
+    }
+}

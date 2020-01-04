@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Semtech",
+        "url": "https://os.mbed.com/teams/Semtech/"
+    },
+    "description": "SX1261 and sx1262 common library",
+    "examples": [
+        "https://os.mbed.com/teams/Semtech/code/SX126xDevKit/",
+        "https://os.mbed.com/users/nimita23/code/SX1262PingPong/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "v1.0",
+    "name": "SX126xLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Semtech/code/SX126xLib/"
+    }
+}

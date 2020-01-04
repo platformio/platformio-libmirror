@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "David Smart",
+        "url": "https://os.mbed.com/users/WiredHome/"
+    },
+    "description": "Revised to support both SD and USB file system",
+    "examples": [
+        "https://os.mbed.com/users/WiredHome/code/Multi-FileSystem/",
+        "https://os.mbed.com/users/prseeber/code/Multi-FileSystem/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MSCFileSystem",
+    "name": "MSCFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WiredHome/code/MSCFileSystem/"
+    }
+}

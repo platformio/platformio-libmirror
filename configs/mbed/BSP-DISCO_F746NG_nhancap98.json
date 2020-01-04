@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "nguyen nam",
+        "url": "https://os.mbed.com/users/nhancap98/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Nam",
+    "examples": [
+        "https://os.mbed.com/users/nhancap98/code/uSD/",
+        "https://os.mbed.com/users/nhancap98/code/LCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BSP-DISCO_F746NG",
+    "name": "BSP-DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nhancap98/code/BSP-DISCO_F746NG/"
+    }
+}

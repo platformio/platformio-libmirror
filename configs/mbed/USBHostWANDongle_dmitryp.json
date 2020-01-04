@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Dmitry Pakhomenko",
+        "url": "https://os.mbed.com/users/dmitryp/"
+    },
+    "description": "Changes to support Vodafone K4606",
+    "examples": [
+        "https://os.mbed.com/users/dmitryp/code/VodafoneUSBModem/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "USBHostWANDongle",
+    "name": "USBHostWANDongle",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dmitryp/code/USBHostWANDongle/"
+    }
+}

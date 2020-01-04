@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Qing Xia",
+        "url": "https://os.mbed.com/users/blueden/"
+    },
+    "description": "my SPI_TFT_ILI9341 lib",
+    "frameworks": "mbed",
+    "keywords": "SPI_TFT_ILI9341",
+    "name": "SPI_TFT_ILI9341",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/blueden/code/SPI_TFT_ILI9341/"
+    }
+}

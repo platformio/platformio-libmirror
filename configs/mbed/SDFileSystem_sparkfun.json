@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "SparkFun Electronics",
+        "url": "https://os.mbed.com/users/sparkfun/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "Fork of the SDFileSystem library by mbed.",
+    "examples": [
+        "https://os.mbed.com/users/ShawnHymel/code/current_logomatic/",
+        "https://os.mbed.com/teams/Projekt-LCD/code/mbed_blinky/",
+        "https://os.mbed.com/users/wye11/code/temp_logging/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sparkfun/code/SDFileSystem/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Toyomasa Watarai",
+        "url": "https://os.mbed.com/users/MACRUM/"
+    },
+    "description": "BMP280 pressure sensor library with SPI interface",
+    "examples": [
+        "https://os.mbed.com/users/MACRUM/code/BMP280_SPI_Hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "bmp280",
+    "name": "BMP280_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MACRUM/code/BMP280_SPI/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Elizabeth Robelo",
+        "url": "https://os.mbed.com/users/elirobelo/"
+    },
+    "description": "joystick",
+    "examples": [
+        "https://os.mbed.com/users/hayden/code/4180Lab4SimonSays/",
+        "https://os.mbed.com/users/elirobelo/code/4180Lab4SimonSays/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Joystick",
+    "name": "Joystick",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/elirobelo/code/Joystick/"
+    }
+}

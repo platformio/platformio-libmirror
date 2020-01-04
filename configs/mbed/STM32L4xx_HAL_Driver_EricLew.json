@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Eric Lewiston",
+        "url": "https://os.mbed.com/users/EricLew/"
+    },
+    "description": "Hal Drivers for L4",
+    "examples": [
+        "https://os.mbed.com/teams/Senior-Design-Sound-Monitor/code/BSP/",
+        "https://os.mbed.com/teams/Senior-Design-Sound-Monitor/code/OneHopeOnePrayer/",
+        "https://os.mbed.com/teams/Senior-Design-Sound-Monitor/code/FINAL_AUDIO_RECORD/",
+        "https://os.mbed.com/teams/Senior-Design-Sound-Monitor/code/AudioDemo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "STM32L4xx_HAL_Driver",
+    "name": "STM32L4xx_HAL_Driver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/EricLew/code/STM32L4xx_HAL_Driver/"
+    }
+}

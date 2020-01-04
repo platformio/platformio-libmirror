@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Martyn Gilbertson",
+        "url": "https://os.mbed.com/users/dsMartyn/"
+    },
+    "description": "M24SR NFC Tag Driver. The main purpose of this library is to make memory reading and writing in applications agnostic to NFC and NDEF protocol headers.",
+    "frameworks": "mbed",
+    "keywords": [
+        "library",
+        "M24SR",
+        "mbed os",
+        "OS-5"
+    ],
+    "name": "M24SR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dsMartyn/code/M24SR/"
+    }
+}

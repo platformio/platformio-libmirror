@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Prometheus",
+        "url": "https://os.mbed.com/teams/Prometheus/"
+    },
+    "description": "Klasse für Buttons",
+    "frameworks": "mbed",
+    "keywords": "Button",
+    "name": "Button",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Prometheus/code/Button/"
+    }
+}

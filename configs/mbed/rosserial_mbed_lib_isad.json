@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "liu isad",
+        "url": "https://os.mbed.com/users/isad/"
+    },
+    "dependencies": [
+        {
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
+            "name": "MODSERIAL"
+        }
+    ],
+    "description": "rosserial for Hydro",
+    "frameworks": "mbed",
+    "keywords": "rosserial_mbed_lib",
+    "name": "rosserial_mbed_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/isad/code/rosserial_mbed_lib/"
+    }
+}

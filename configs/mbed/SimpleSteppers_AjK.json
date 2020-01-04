@@ -3,13 +3,10 @@
         "name": "Andy Kirkham",
         "url": "https://os.mbed.com/users/AjK/"
     },
-    "build": {
-        "flags": [
-            "-Iinc",
-            "-Isrc"
-        ]
-    },
     "description": "Provides an API software interface to TIMER2 to control upto four stepper motors.",
+    "examples": [
+        "https://os.mbed.com/users/cathal66/code/Steppermotor/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "motor",

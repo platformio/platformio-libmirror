@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Aaron Klapatch",
+        "url": "https://os.mbed.com/users/aklapatch/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "someone else's sdfilesystem library",
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/aklapatch/code/SDFileSystem/"
+    }
+}

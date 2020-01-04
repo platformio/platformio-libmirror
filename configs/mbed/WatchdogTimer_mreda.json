@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Reza Mashayekhi",
+        "url": "https://os.mbed.com/users/mreda/"
+    },
+    "description": "https://os.mbed.com/cookbook/WatchDog-Timer This link has demonstrated a way to implement Watchdog Timer on Mbed. This library is the library version of that code.",
+    "frameworks": "mbed",
+    "keywords": "https://os.mbed.com/cookbook/WatchDog-Timer",
+    "name": "WatchdogTimer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mreda/code/WatchdogTimer/"
+    }
+}

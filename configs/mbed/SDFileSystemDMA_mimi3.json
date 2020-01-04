@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "mi mi",
+        "url": "https://os.mbed.com/users/mimi3/"
+    },
+    "description": "first 2016/02 SDFileSystemDMA inherited from Official SDFileSystem.",
+    "examples": [
+        "https://os.mbed.com/users/mimi3/code/SDFileSystemDMA-test/",
+        "https://os.mbed.com/users/IroCorp/code/DmdFullRGB_0_1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "discovery",
+        "DMA",
+        "Nucleo",
+        "SD",
+        "SD Card",
+        "SDFileSystem",
+        "SDFileSystemDMA",
+        "SPI",
+        "stm32"
+    ],
+    "name": "SDFileSystemDMA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mimi3/code/SDFileSystemDMA/"
+    }
+}

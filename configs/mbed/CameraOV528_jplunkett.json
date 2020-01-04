@@ -8,7 +8,11 @@
         "https://os.mbed.com/users/jplunkett/code/CameraOV528-Example/"
     ],
     "frameworks": "mbed",
-    "keywords": "CameraOV528",
+    "keywords": [
+        "camera",
+        "OV528",
+        "Serial"
+    ],
     "name": "CameraOV528",
     "platforms": "*",
     "repository": {

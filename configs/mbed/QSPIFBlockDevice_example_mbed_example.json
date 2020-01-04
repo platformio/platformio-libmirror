@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "mbed_example",
+        "url": "https://os.mbed.com/teams/mbed_example/"
+    },
+    "description": "QSPIFBlockDevice example",
+    "frameworks": "mbed",
+    "keywords": "QSPIFBlockDevice_example",
+    "name": "QSPIFBlockDevice_example",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/mbed_example/code/QSPIFBlockDevice_example/"
+    }
+}

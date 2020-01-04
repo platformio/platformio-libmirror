@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "mehmet akif arvas",
+        "url": "https://os.mbed.com/users/marvas/"
+    },
+    "description": "Servo Motor Kutuphanesi(Library)",
+    "examples": [
+        "https://os.mbed.com/teams/Marvas/code/RTOS_servo_motor/",
+        "https://os.mbed.com/teams/Marvas/code/step_servo_potile_motor/",
+        "https://os.mbed.com/teams/Marvas/code/thread_servo_led/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "motor",
+        "Servo",
+        "servo motor"
+    ],
+    "name": "servo_motor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/marvas/code/servo_motor/"
+    }
+}

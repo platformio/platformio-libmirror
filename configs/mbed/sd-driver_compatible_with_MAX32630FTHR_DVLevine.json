@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Daniel Levine",
+        "url": "https://os.mbed.com/users/DVLevine/"
+    },
+    "description": "Fork of https://github.com/ARMmbed/sd-driver. Added pin config for MAX32630FTHR",
+    "examples": [
+        "https://os.mbed.com/users/DVLevine/code/CircularBufferSDCardLib/",
+        "https://os.mbed.com/users/muigaijosphat/code/time_between_inerupt/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "sd-driver_compatible_with_MAX32630FTHR",
+    "name": "sd-driver_compatible_with_MAX32630FTHR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DVLevine/code/sd-driver_compatible_with_MAX32630FTHR/"
+    }
+}

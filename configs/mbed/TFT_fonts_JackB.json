@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Jack Berkhout",
+        "url": "https://os.mbed.com/users/JackB/"
+    },
+    "description": "I created extra fonts., Regular and Bold, up to size 16. Arial, Calilbri, Consolas, Verdana. New self-Made font inspired on HD44780, but twice as big and smoother, for 2.8\" 320x240 ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "Arial",
+        "Calilbri",
+        "Consolas",
+        "TFT Fonts",
+        "Verdana"
+    ],
+    "name": "TFT_fonts",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JackB/code/TFT_fonts/"
+    }
+}

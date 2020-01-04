@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Liyang HU",
+        "url": "https://os.mbed.com/users/huliyang/"
+    },
+    "description": "Debounce a mechanical switch by periodic sampling.",
+    "examples": [
+        "https://os.mbed.com/users/huliyang/code/RedButton/",
+        "https://os.mbed.com/teams/Ladner-Schmied/code/WS_7_Seg_mit_LM1635/",
+        "https://os.mbed.com/users/sophia/code/WS_7_Seg_mit_LM1635/",
+        "https://os.mbed.com/users/kevinfellegi/code/Lichtschalter_M0/",
+        "https://os.mbed.com/users/quasty/code/3chel_FSST_Blinky_PWM/",
+        "https://os.mbed.com/teams/Ladner-Schmied/code/PROJEKT_Hauptprogramm/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BUTTON",
+        "debounce",
+        "DigitalIn",
+        "Ticker",
+        "trigger"
+    ],
+    "name": "Debouncer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/huliyang/code/Debouncer/"
+    }
+}

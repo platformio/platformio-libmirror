@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Kazuki Yamamoto",
+        "url": "https://os.mbed.com/users/k4zuki/"
+    },
+    "description": "The official mbed C/C SDK provides the software platform and libraries to build your applications.",
+    "examples": [
+        "https://os.mbed.com/users/k4zuki/code/SeeedTouchLCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "mbeDshield",
+    "name": "mbeDshield",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/k4zuki/code/mbeDshield/"
+    }
+}

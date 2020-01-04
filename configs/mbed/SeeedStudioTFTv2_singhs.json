@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Shailendra singh",
+        "url": "https://os.mbed.com/users/singhs/"
+    },
+    "dependencies": [
+        {
+            "authors": "Shailendra singh",
+            "frameworks": "mbed",
+            "name": "SPI_TFT_ILI9341"
+        }
+    ],
+    "description": "TFT working with Nucleo L476",
+    "frameworks": "mbed",
+    "keywords": "SeeedStudioTFTv2",
+    "name": "SeeedStudioTFTv2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/singhs/code/SeeedStudioTFTv2/"
+    }
+}

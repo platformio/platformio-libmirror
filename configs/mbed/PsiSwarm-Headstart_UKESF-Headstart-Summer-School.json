@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "UKESF Headstart Summer School",
+        "url": "https://os.mbed.com/teams/UKESF-Headstart-Summer-School/"
+    },
+    "description": "Library for the PsiSwarm Robot for Headstart Lab - Version 0.5",
+    "examples": [
+        "https://os.mbed.com/teams/UKESF-Headstart-Summer-School/code/UKESF_Lab/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PsiSwarm",
+    "name": "PsiSwarm-Headstart",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/UKESF-Headstart-Summer-School/code/PsiSwarm-Headstart/"
+    }
+}

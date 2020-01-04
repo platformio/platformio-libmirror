@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Dan Fay",
+        "url": "https://os.mbed.com/users/faydrus/"
+    },
+    "description": "mbed support for STM32F103C8T6 (Blue Pill) boards",
+    "frameworks": "mbed",
+    "keywords": "STM32F103C8T6",
+    "name": "mbed-STM32F103C8T6",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/faydrus/code/mbed-STM32F103C8T6/"
+    }
+}

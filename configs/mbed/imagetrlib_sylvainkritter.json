@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "sylvain kritter",
+        "url": "https://os.mbed.com/users/sylvainkritter/"
+    },
+    "description": "image transformation and pattern matching (very basic)",
+    "examples": [
+        "https://os.mbed.com/users/sylvainkritter/code/mycame/",
+        "https://os.mbed.com/users/rickqw/code/Practica4_Camara/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "imagetrlib",
+    "name": "imagetrlib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sylvainkritter/code/imagetrlib/"
+    }
+}

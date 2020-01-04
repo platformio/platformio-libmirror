@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Edutech IoT Team",
+        "url": "https://os.mbed.com/teams/Edutech/"
+    },
+    "description": "MPU9250",
+    "examples": [
+        "https://os.mbed.com/users/vladb/code/pdiot-ble-notify-array/",
+        "https://os.mbed.com/users/EdsonAlcala/code/StepTracking/",
+        "https://os.mbed.com/users/jvfausto/code/IMU_MPU925X_YAW/",
+        "https://os.mbed.com/users/ryanlin97/code/chair_MPU9250/",
+        "https://os.mbed.com/teams/Group-A1/code/bucification/",
+        "https://os.mbed.com/users/tubemerc/code/mpu9250_momo/",
+        "https://os.mbed.com/users/fasand/code/pdiot-f-mbed/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MPU9250",
+    "name": "MPU9250",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Edutech/code/MPU9250/"
+    }
+}

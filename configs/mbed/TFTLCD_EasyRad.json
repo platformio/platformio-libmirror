@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "EasyRad",
+        "url": "https://os.mbed.com/teams/EasyRad/"
+    },
+    "description": "Programme de test pour lcd ITDB02",
+    "frameworks": "mbed",
+    "keywords": [
+        "HX8340",
+        "ILI9325",
+        "ILI9328",
+        "ITDB02",
+        "LCD",
+        "SSD1289",
+        "ST7735",
+        "TFT",
+        "UTFT"
+    ],
+    "name": "TFTLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/EasyRad/code/TFTLCD/"
+    }
+}

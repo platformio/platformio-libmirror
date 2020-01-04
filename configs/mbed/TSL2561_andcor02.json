@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Andrea Corrado",
+        "url": "https://os.mbed.com/users/andcor02/"
+    },
+    "description": "for EVK odin mbed os 5.5",
+    "examples": [
+        "https://os.mbed.com/teams/Cloud-Hackathon/code/Mbed-Connect-Cloud-Demo/",
+        "https://os.mbed.com/users/lwc24/code/Mbed-Connect-Cloud-Demo/",
+        "https://os.mbed.com/users/lwc24/code/HTTP-all-sensors/",
+        "https://os.mbed.com/users/andcor02/code/mbed-cloud-connect-sensor-light/",
+        "https://os.mbed.com/users/Ottomanslap/code/ISA/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TSL2561",
+    "name": "TSL2561",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/andcor02/code/TSL2561/"
+    }
+}

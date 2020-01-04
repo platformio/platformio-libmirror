@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Kevin Braun",
+        "url": "https://os.mbed.com/users/loopsva/"
+    },
+    "description": "Modified NTP library",
+    "examples": [
+        "https://os.mbed.com/users/markrad/code/NTPTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "NTP"
+    ],
+    "name": "NTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/loopsva/code/NTPClient/"
+    }
+}

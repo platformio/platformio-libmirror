@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "1st version for FatFs monitor",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/DISCO-F469NI_USB_Disk/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CHaN",
+        "FATFS",
+        "filesystem"
+    ],
+    "name": "FatFs_Mon",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/FatFs_Mon/"
+    }
+}
