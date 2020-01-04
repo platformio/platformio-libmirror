@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Yung-Chieh Lo",
+        "url": "https://os.mbed.com/users/yjlou/"
+    },
+    "description": "To access the internal flash of STM32F042K6.",
+    "frameworks": "mbed",
+    "keywords": "F042K6_Flash",
+    "name": "F042K6_Flash",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yjlou/code/F042K6_Flash/"
+    }
+}

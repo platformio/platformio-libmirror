@@ -3,15 +3,6 @@
         "name": "IoT - Kubus",
         "url": "https://os.mbed.com/teams/IoT-Kubus/"
     },
-    "build": {
-        "flags": [
-            "-Icantcoap",
-            "-Iserver",
-            "-Ifrontend",
-            "-Ifrontend/webfontkit-20170105-162056",
-            "-Ifrontend/webfontkit-20170105-162056/specimen_files"
-        ]
-    },
     "dependencies": [
         {
             "authors": "mbed official",

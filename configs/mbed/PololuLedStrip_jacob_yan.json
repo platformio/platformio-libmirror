@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "yan xu",
+        "url": "https://os.mbed.com/users/jacob_yan/"
+    },
+    "description": "WS2812B",
+    "examples": [
+        "https://os.mbed.com/users/jacob_yan/code/high-speed-light-Bracelet/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PololuLedStrip",
+    "name": "PololuLedStrip",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jacob_yan/code/PololuLedStrip/"
+    }
+}

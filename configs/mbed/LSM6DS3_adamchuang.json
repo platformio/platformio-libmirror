@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "adam&chuang",
+        "url": "https://os.mbed.com/teams/adamchuang/"
+    },
+    "description": "compiled unsuccessful",
+    "examples": [
+        "https://os.mbed.com/teams/adamchuang/code/IMU_Aq/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LSM6DS3",
+    "name": "LSM6DS3",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/adamchuang/code/LSM6DS3/"
+    }
+}

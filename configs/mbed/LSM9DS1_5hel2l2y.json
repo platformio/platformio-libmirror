@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Sherry Yang",
+        "url": "https://os.mbed.com/users/5hel2l2y/"
+    },
+    "description": "Modified LSM9DS1 Library",
+    "examples": [
+        "https://os.mbed.com/users/5hel2l2y/code/LSM9DS1_Demo/",
+        "https://os.mbed.com/users/5hel2l2y/code/BLE_LoopbackUART_with_LSM9DS1/",
+        "https://os.mbed.com/users/5hel2l2y/code/BLE_LoopbackUART_with_LSM9DS1-2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LSM9DS1",
+    "name": "LSM9DS1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/5hel2l2y/code/LSM9DS1/"
+    }
+}

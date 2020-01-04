@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Psi Swarm Robot",
+        "url": "https://os.mbed.com/teams/Psi-Swarm-Robot/"
+    },
+    "description": "C++ Library for the PsiSwarm Robot - Version 0.8",
+    "examples": [
+        "https://os.mbed.com/teams/Psi-Swarm-Robot/code/PsiSwarm_V8_Blank_CPP/",
+        "https://os.mbed.com/users/alixander/code/Autonomia_RndmWlk/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PsiSwarm",
+    "name": "PsiSwarmV8_CPP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Psi-Swarm-Robot/code/PsiSwarmV8_CPP/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "AutonomouStuff",
+        "url": "https://os.mbed.com/teams/AutonomouStuff/"
+    },
+    "description": "MCP2515 CAN library",
+    "frameworks": "mbed",
+    "keywords": "mcp2515",
+    "name": "mcp2515",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/AutonomouStuff/code/mcp2515/"
+    }
+}

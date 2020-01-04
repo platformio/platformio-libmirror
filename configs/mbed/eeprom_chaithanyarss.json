@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "chaithanya rss",
+        "url": "https://os.mbed.com/users/chaithanyarss/"
+    },
+    "description": "shortened",
+    "examples": [
+        "https://os.mbed.com/users/ee12b079/code/CDMS_CODE/",
+        "https://os.mbed.com/users/chaithanyarss/code/CDMS_CODE_FM_28JAN2017/",
+        "https://os.mbed.com/users/samp1234/code/CDMS_CODE_FM_28JAN2017/",
+        "https://os.mbed.com/teams/iitmsat/code/CDMS_QM_03MAR2017_Flash_with_obsrs/",
+        "https://os.mbed.com/users/samp1234/code/CDMS_FM_21JUL2017_EEPROM_JOEL/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "eeprom",
+    "name": "eeprom",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chaithanyarss/code/eeprom/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "ST Expansion SW Team",
+        "url": "https://os.mbed.com/teams/ST-Expansion-SW-Team/"
+    },
+    "description": "Javascript wrapper for SPI in Mbed OS.",
+    "examples": [
+        "https://os.mbed.com/teams/ST-Expansion-SW-Team/code/ST_SENSOR_JS/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SPI_JS",
+    "name": "SPI_JS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST-Expansion-SW-Team/code/SPI_JS/"
+    }
+}

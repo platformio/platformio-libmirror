@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Projet_Long_EI2I4",
+        "url": "https://os.mbed.com/teams/Projet_Long_EI2I4/"
+    },
+    "description": "Lib",
+    "examples": [
+        "https://os.mbed.com/teams/Projet_Long_EI2I4/code/ProjetLong_Serre_V3/",
+        "https://os.mbed.com/teams/Projet_Long_EI2I4/code/ProjetLong_Serre_V3_1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TCS34725",
+    "name": "TCS34725",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Projet_Long_EI2I4/code/TCS34725/"
+    }
+}

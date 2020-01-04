@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "anyThing Connected Team",
+        "url": "https://os.mbed.com/teams/anyThing-Connected/"
+    },
+    "description": "mbed library sources. Supersedes mbed-src.",
+    "examples": [
+        "https://os.mbed.com/teams/anyThing-Connected/code/BREAK_SENSOR_LED/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "mbed-dev",
+    "name": "mbed-dev",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/anyThing-Connected/code/mbed-dev/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Shingo FUKUYA",
+        "url": "https://os.mbed.com/users/mbed_crane_elec/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "for airio-base using mbed os 5.",
+    "examples": [
+        "https://os.mbed.com/users/mbed_crane_elec/code/FlashAir_iSDIO_sample_OS5_/",
+        "https://os.mbed.com/users/mbed_crane_elec/code/Airio-Base_Grove_6Axis_OS5/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbed_crane_elec/code/SDFileSystem/"
+    }
+}

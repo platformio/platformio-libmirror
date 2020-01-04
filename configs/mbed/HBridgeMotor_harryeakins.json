@@ -4,6 +4,9 @@
         "url": "https://os.mbed.com/users/harryeakins/"
     },
     "description": "A simple class which can be used to control a motor through a HBridge (such as the L293).",
+    "examples": [
+        "https://os.mbed.com/users/gabi22top/code/SimplePIDBot/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "hbridge",

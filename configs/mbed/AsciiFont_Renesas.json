@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Renesas",
+        "url": "https://os.mbed.com/teams/Renesas/"
+    },
+    "description": "Draw the character of the ASCII code.",
+    "examples": [
+        "https://os.mbed.com/users/HinoNaka/code/mbed-os_Watson-IoT_ZXing_sample/",
+        "https://os.mbed.com/teams/Renesas/code/mbed-os_Watson-IoT_ZXing_sample/",
+        "https://os.mbed.com/users/mtkrtk/code/MovPlayer/",
+        "https://os.mbed.com/users/dkato/code/GR-PEACH_HVC-P2_sample_client/",
+        "https://os.mbed.com/teams/Renesas/code/GR-PEACH_HVC-P2_IoTPlatform_http/",
+        "https://os.mbed.com/teams/Renesas/code/GR-PEACH_IoT_Platform_HTTP_sample/",
+        "https://os.mbed.com/users/zkimike/code/GR-PEACH_Video_Display/",
+        "https://os.mbed.com/teams/Renesas/code/GR-PEACH_HVC-P2_sample/",
+        "https://os.mbed.com/teams/Renesas/code/GR-PEACH_mbed-os-client-ZXingSample/",
+        "https://os.mbed.com/users/1050186/code/GR-LYCHEE_mbed-os-client-ZXingSample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "AsciiFont",
+    "name": "AsciiFont",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Renesas/code/AsciiFont/"
+    }
+}

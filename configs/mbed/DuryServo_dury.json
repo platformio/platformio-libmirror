@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Fabio Durigon",
+        "url": "https://os.mbed.com/users/dury/"
+    },
+    "description": "Complete library that let you control and read your servo's in all ways: position, degrees, step.You can define also min and max position. It is also compatibile with Simon Ford's ...",
+    "examples": [
+        "https://os.mbed.com/users/dury/code/ServoTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "motor",
+        "Servo"
+    ],
+    "name": "DuryServo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dury/code/DuryServo/"
+    }
+}

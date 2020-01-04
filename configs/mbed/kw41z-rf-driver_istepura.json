@@ -3,14 +3,6 @@
         "name": "Igor Stepura",
         "url": "https://os.mbed.com/users/istepura/"
     },
-    "build": {
-        "flags": [
-            "-Ikw41-rf-driver",
-            "-Isource",
-            "-Isource/xcvr",
-            "-Isource/cfgs_kw4x_3x_2x"
-        ]
-    },
     "description": "ARM mbed Nanostack RF driver for NXP KW41Z 802.15.4 wireless MCU",
     "frameworks": "mbed",
     "keywords": "kw41z-rf-driver",

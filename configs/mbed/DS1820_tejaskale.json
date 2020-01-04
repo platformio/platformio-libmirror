@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Tejas K",
+        "url": "https://os.mbed.com/users/tejaskale/"
+    },
+    "dependencies": [
+        {
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
+            "name": "LinkedList"
+        }
+    ],
+    "description": "Fork to fix compiler warnings.",
+    "frameworks": "mbed",
+    "keywords": "DS1820",
+    "name": "DS1820",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tejaskale/code/DS1820/"
+    }
+}

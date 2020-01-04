@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Kazushi Mukaiyama",
+        "url": "https://os.mbed.com/users/kazushi2008/"
+    },
+    "description": "Fork with basicauth enabled.",
+    "examples": [
+        "https://os.mbed.com/users/kazushi2008/code/TwitterMbed/",
+        "https://os.mbed.com/users/kanpapa/code/HTTPClient_SuperTweet/",
+        "https://os.mbed.com/users/kanpapa/code/HTTPClient_SuperTweet_MPL115A2/",
+        "https://os.mbed.com/users/Kojto/code/cc3000_twitter_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "basicauth",
+    "name": "HTTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kazushi2008/code/HTTPClient/"
+    }
+}

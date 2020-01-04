@@ -4,6 +4,12 @@
         "url": "https://os.mbed.com/teams/MaximIntegrated/"
     },
     "description": "Human body temp sensor library",
+    "examples": [
+        "https://os.mbed.com/users/phonemacro/code/MAX30205_Human_Body_Temperature_Example_/",
+        "https://os.mbed.com/teams/MaximIntegrated/code/MAX32630HSP3_IMU_Hello_World/",
+        "https://os.mbed.com/users/phonemacro/code/MAX30205_Human_Body_Temperature_Sensor/",
+        "https://os.mbed.com/users/barthezqq/code/MAX30205_Human_Body_Temperature_IoT/"
+    ],
     "frameworks": "mbed",
     "keywords": "MAX30205",
     "name": "MAX30205",

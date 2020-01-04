@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Mac Lobdell",
+        "url": "https://os.mbed.com/users/maclobdell/"
+    },
+    "description": "Extended driver to be able to configure the accelerometer for tap detection, orientation detection, and data ready interrupts.",
+    "examples": [
+        "https://os.mbed.com/users/maclobdell/code/FRDM-KL25Z_secret_knock/",
+        "https://os.mbed.com/users/marcosvtt/code/bluetooth_robo01/",
+        "https://os.mbed.com/users/marcosvtt/code/robo_01/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MMA8451Q_ext",
+    "name": "MMA8451Q_ext",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/maclobdell/code/MMA8451Q_ext/"
+    }
+}

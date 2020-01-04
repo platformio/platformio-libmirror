@@ -5,10 +5,7 @@
     },
     "description": "ZumoにFRDM KL-25Zを搭載した時のモーターコントロールライブラリです。 PWM用の端子が互換していないので、割り込みでパルスを作っています。 デフォルトは100Hzの10段階になっています。",
     "frameworks": "mbed",
-    "keywords": [
-        "KL-25Z",
-        "Zumo"
-    ],
+    "keywords": "KL-25Z",
     "name": "ZumoControl",
     "platforms": "*",
     "repository": {

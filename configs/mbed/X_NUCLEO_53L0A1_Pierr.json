@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Pm Mke",
+        "url": "https://os.mbed.com/users/Pierr/"
+    },
+    "dependencies": [
+        {
+            "authors": "Pm Mke",
+            "frameworks": "mbed",
+            "name": "VL53L0Xforrobotix"
+        }
+    ],
+    "description": "a",
+    "frameworks": "mbed",
+    "keywords": "X_NUCLEO_53L0A1",
+    "name": "X_NUCLEO_53L0A1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Pierr/code/X_NUCLEO_53L0A1/"
+    }
+}

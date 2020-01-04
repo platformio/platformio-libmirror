@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Internet of Tings",
+        "url": "https://os.mbed.com/teams/Internet-of-Tings/"
+    },
+    "dependencies": [
+        {
+            "authors": "F B",
+            "frameworks": "mbed",
+            "name": "Crypto"
+        }
+    ],
+    "description": "An embedded device",
+    "frameworks": "mbed",
+    "keywords": "motor-mining",
+    "name": "motor-mining",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Internet-of-Tings/code/motor-mining/"
+    }
+}

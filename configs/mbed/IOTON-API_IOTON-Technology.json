@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "IOTON Technology",
+        "url": "https://os.mbed.com/teams/IOTON-Technology/"
+    },
+    "description": "IOTON boards API using mbed SDK - http://ioton.cc/plataforma-ton",
+    "examples": [
+        "https://os.mbed.com/teams/IOTON-Technology/code/ton-bot_teste/",
+        "https://os.mbed.com/teams/IOTON-Technology/code/ton-bot_seguidor_linha/",
+        "https://os.mbed.com/teams/IOTON-Technology/code/ton-bot_seguidor_parede/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ioton",
+    "name": "IOTON-API",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/IOTON-Technology/code/IOTON-API/"
+    }
+}

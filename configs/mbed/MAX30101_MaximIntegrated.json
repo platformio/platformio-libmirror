@@ -4,6 +4,14 @@
         "url": "https://os.mbed.com/teams/MaximIntegrated/"
     },
     "description": "Library for MAX30101 SpO2 and heart rate sensor",
+    "examples": [
+        "https://os.mbed.com/users/xihan94/code/HeartRate/",
+        "https://os.mbed.com/users/catchvibes95/code/HeartRate/",
+        "https://os.mbed.com/users/haoshiz/code/proj/",
+        "https://os.mbed.com/users/angelasnail/code/final_project_ee119/",
+        "https://os.mbed.com/users/aadithyavenkat/code/final_project_ee119/",
+        "https://os.mbed.com/users/jeannie9809/code/Working_HRV/"
+    ],
     "frameworks": "mbed",
     "keywords": "MAX30101",
     "name": "MAX30101",

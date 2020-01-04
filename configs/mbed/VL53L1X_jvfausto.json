@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Jesus Fausto",
+        "url": "https://os.mbed.com/users/jvfausto/"
+    },
+    "description": "This is the SparkFun_VL53L1X_Arduino_Library translated into mbed, with some elements of Ian Kilburn's VL6180x mbed library.",
+    "examples": [
+        "https://os.mbed.com/users/byeongjinkim/code/Hug2Go_ver_2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "VL53L1X",
+    "name": "VL53L1X",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jvfausto/code/VL53L1X/"
+    }
+}

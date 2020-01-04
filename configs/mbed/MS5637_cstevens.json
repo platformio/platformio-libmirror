@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "chris stevens",
+        "url": "https://os.mbed.com/users/cstevens/"
+    },
+    "description": "High resolution barometer and altimeter using i2c mode",
+    "examples": [
+        "https://os.mbed.com/users/cstevens/code/mbed_5637_test/",
+        "https://os.mbed.com/teams/Kenya_CWM2015/code/Weather_Station_Ofiicial/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Altimeter",
+        "barometer",
+        "I2C",
+        "ms5637"
+    ],
+    "name": "MS5637",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cstevens/code/MS5637/"
+    }
+}

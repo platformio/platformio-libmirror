@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Karl Zweimüller",
+        "url": "https://os.mbed.com/users/charly/"
+    },
+    "description": "Fork of LCD-Window which works with Enhanced TextLCD from Wim",
+    "frameworks": "mbed",
+    "keywords": [
+        "LcdWindow",
+        "TextLCD"
+    ],
+    "name": "LcdWindow",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/charly/code/LcdWindow/"
+    }
+}

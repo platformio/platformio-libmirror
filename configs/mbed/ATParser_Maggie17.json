@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Maggie Mei",
+        "url": "https://os.mbed.com/users/Maggie17/"
+    },
+    "description": "ATParser for EMW3162 wifi module",
+    "examples": [
+        "https://os.mbed.com/users/Maggie17/code/EMWConfig/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ATParser",
+    "name": "ATParser",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Maggie17/code/ATParser/"
+    }
+}

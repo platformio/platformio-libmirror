@@ -3,47 +3,6 @@
         "name": "Gary Servin",
         "url": "https://os.mbed.com/users/garyservin/"
     },
-    "build": {
-        "flags": [
-            "-Irospy_tutorials",
-            "-Istd_srvs",
-            "-Ipolled_camera",
-            "-Iactionlib_tutorials",
-            "-Idynamic_reconfigure",
-            "-Ivisualization_msgs",
-            "-Ibond",
-            "-Itf",
-            "-Irosgraph_msgs",
-            "-Iturtle_actionlib",
-            "-Igeometry_msgs",
-            "-Inodelet",
-            "-Istereo_msgs",
-            "-Ipcl_msgs",
-            "-Ishape_msgs",
-            "-Itrajectory_msgs",
-            "-Ilaser_assembler",
-            "-Irosserial_msgs",
-            "-Iroscpp_tutorials",
-            "-Idiagnostic_msgs",
-            "-Itopic_tools",
-            "-Iros",
-            "-Iactionlib",
-            "-Igazebo_msgs",
-            "-Iturtlesim",
-            "-Inav_msgs",
-            "-Ismach_msgs",
-            "-Itheora_image_transport",
-            "-Irosserial_arduino",
-            "-Itf2_msgs",
-            "-Iactionlib_msgs",
-            "-Icontrol_msgs",
-            "-Istd_msgs",
-            "-Irosserial_mbed",
-            "-Isensor_msgs",
-            "-Iroscpp",
-            "-Imap_msgs"
-        ]
-    },
     "dependencies": [
         {
             "authors": "Sam Grove",
@@ -61,7 +20,8 @@
         "https://os.mbed.com/users/Jaimelt/code/rosserial_mbed_blink_led_subscriber/",
         "https://os.mbed.com/teams/Robocon_IPS/code/RosSerial_Encoder_final/",
         "https://os.mbed.com/users/TuxLeon/code/DISCO-F746NG_rtos_test/",
-        "https://os.mbed.com/teams/UVic-Assistive-Technology-Lab/code/DSLR_Camera_Gimbal/"
+        "https://os.mbed.com/users/yuto17320508/code/Nucleo_ROS_hello/",
+        "https://os.mbed.com/users/jkoba0512/code/dcmotor_control_syren_rosserial/"
     ],
     "frameworks": "mbed",
     "keywords": "ROS",

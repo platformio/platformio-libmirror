@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "Lib for FTDI FT800 graphic controller \"EVE\" The API is changed from the FTDI original names. It use smaller names now. DL() will add something to the display list instead ...",
+    "examples": [
+        "https://os.mbed.com/users/dreschpe/code/FT800_RGB_demo/",
+        "https://os.mbed.com/users/dreschpe/code/FT800_RGB_demo2/",
+        "https://os.mbed.com/users/Ksenia/code/FT800_demo_for_habr/",
+        "https://os.mbed.com/users/Ksenia/code/Temp__RH_at_TFT-demo/",
+        "https://os.mbed.com/users/Ksenia/code/FT800_Touch_Demo_for_habr/",
+        "https://os.mbed.com/users/Ksenia/code/Temp__RH_at_TFT_with_touchscreen/",
+        "https://os.mbed.com/users/Ksenia/code/Temp__RH_at_TFT_with_touchscreen-ENG/",
+        "https://os.mbed.com/users/Ksenia/code/Temp__RH_at_TFT_with_touchscreen-RUS/",
+        "https://os.mbed.com/users/Ksenia/code/AirFlow_rH_and_Temp_at_TFT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "eve",
+        "FT800",
+        "graphic",
+        "LCD",
+        "TFT",
+        "touch"
+    ],
+    "name": "FT800_2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/FT800_2/"
+    }
+}

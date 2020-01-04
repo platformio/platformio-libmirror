@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Karlo Milicevic",
+        "url": "https://os.mbed.com/users/Dautor/"
+    },
+    "description": "nrf52 AES256 library wrapper.",
+    "frameworks": "mbed",
+    "keywords": [
+        "AES256",
+        "nrf52"
+    ],
+    "name": "aconno_nrf52_AES",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Dautor/code/aconno_nrf52_AES/"
+    }
+}

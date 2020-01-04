@@ -1,19 +1,7 @@
 {
     "authors": {
-        "name": "Soundharrajan S",
+        "name": "Sertel_Srinath Gopalan",
         "url": "https://os.mbed.com/users/mrsoundhar/"
-    },
-    "build": {
-        "flags": [
-            "-ITOOLCHAIN_GCC_ARM",
-            "-ITOOLCHAIN_ARM_STD",
-            "-ITOOLCHAIN_IAR",
-            "-ITOOLCHAIN_GCC_CR",
-            "-ITOOLCHAIN_GCC_CS",
-            "-ITARGET_NXP",
-            "-ITARGET_NXP/TARGET_LPC176X",
-            "-ITARGET_NXP/TARGET_LPC176X/TARGET_MBED_LPC1768"
-        ]
     },
     "description": "myi2c test",
     "frameworks": "mbed",

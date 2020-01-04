@@ -1,0 +1,49 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "X_NUCLEO_COMMON"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ST_INTERFACES"
+        }
+    ],
+    "description": "Firmware Library for X-NUCLEO-IKS01A1 (MEMS Inertial & Environmental Sensors) Expansion Board",
+    "examples": [
+        "https://os.mbed.com/teams/Multi-Hackers/code/MultiTech_Dragonfly_2015_ATT_Gov_Solutio/",
+        "https://os.mbed.com/users/n0tform3/code/HelloWorld_IKS01A1/",
+        "https://os.mbed.com/teams/Alcatel-Lucent-IoT-Development/code/LoRaWAN-test-10secs/",
+        "https://os.mbed.com/users/daz/code/ServoMotorDemo/",
+        "https://os.mbed.com/users/daz/code/AccelerometerDemo/",
+        "https://os.mbed.com/teams/Kalman-GPS/code/UART_Nucleo/",
+        "https://os.mbed.com/teams/Kalman-GPS/code/Precise_Altimeter/",
+        "https://os.mbed.com/users/nlsantos/code/Coursework_copy/",
+        "https://os.mbed.com/teams/Dream-team1/code/soft253v3/",
+        "https://os.mbed.com/teams/ST/code/SunTracker_BLE_Remote/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "ExpansionBoard",
+        "HTS221",
+        "LIS3MDL",
+        "lps25h",
+        "LSM6DS0",
+        "LSM6DS3",
+        "Nucleo",
+        "X-NUCLEO-IKS01A1"
+    ],
+    "name": "X_NUCLEO_IKS01A1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/X_NUCLEO_IKS01A1/"
+    }
+}

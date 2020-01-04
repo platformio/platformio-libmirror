@@ -17,26 +17,26 @@
         {
             "authors": "",
             "frameworks": "mbed",
-            "name": "modem_ref"
+            "name": "ram_fs"
         },
         {
             "authors": "",
             "frameworks": "mbed",
-            "name": "ram_fs"
+            "name": "modem_ref"
         }
     ],
     "description": "Helper library to use modem_ref driver.",
     "examples": [
+        "https://os.mbed.com/teams/WizziLab/code/D7A_WM_Updater/",
         "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_ActiveRFIDReader/",
         "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_big_file/",
-        "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_receive_file_data/",
-        "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_send_file_data_and_forget/",
-        "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_sensors_v3/",
-        "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_send_file_data/",
         "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_CodeUpgradeProtocol/",
+        "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_D7-LoRa/",
+        "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_LoRaWAN/",
         "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_ping_pong/",
-        "https://os.mbed.com/teams/WizziLab/code/D7A_WM_Updater/",
-        "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_LoRaWAN/"
+        "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_receive_file_data/",
+        "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_send_file_data/",
+        "https://os.mbed.com/teams/WizziLab/code/D7A_1x_demo_send_file_data_and_forget/"
     ],
     "frameworks": "mbed",
     "keywords": "modem_ref_helper",

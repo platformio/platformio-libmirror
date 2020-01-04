@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "NIT Fukui",
+        "url": "https://os.mbed.com/teams/NIT-Fukui/"
+    },
+    "description": "use PS4",
+    "frameworks": "mbed",
+    "keywords": "PS4Serial",
+    "name": "PS4Serial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NIT-Fukui/code/PS4Serial/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Donal Morrissey",
+        "url": "https://os.mbed.com/users/donalm/"
+    },
+    "description": "Library for interfacing with a 'Pulse Sensor Amped', from http://pulsesensor.myshopify.com",
+    "examples": [
+        "https://os.mbed.com/users/mbed_tw_hoehoe/code/BLE_Wearable/",
+        "https://os.mbed.com/users/mbed_tw_hoehoe/code/BLE_Pulse_HeartRate/",
+        "https://os.mbed.com/users/vganti6/code/finalProject/",
+        "https://os.mbed.com/users/nprobably/code/PulseSense/",
+        "https://os.mbed.com/users/DuyLionTran/code/HealthCare_Graduation/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PulseSensor",
+    "name": "PulseSensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/donalm/code/PulseSensor/"
+    }
+}

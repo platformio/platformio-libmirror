@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "John Larkin",
+        "url": "https://os.mbed.com/users/JLarkin/"
+    },
+    "description": "mbed version of the Adafruit Si4713 library (FM transmitter)",
+    "examples": [
+        "https://os.mbed.com/users/JLarkin/code/Adafruit_Si4173_Demo/",
+        "https://os.mbed.com/users/gjones20/code/Radio_Transmitter_Working/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Adafruit_Si4713",
+    "name": "Adafruit_Si4713",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JLarkin/code/Adafruit_Si4713/"
+    }
+}

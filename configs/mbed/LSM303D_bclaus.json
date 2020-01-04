@@ -4,6 +4,9 @@
         "url": "https://os.mbed.com/users/bclaus/"
     },
     "description": "Port of LSM303DLHC with modified registers to work with LSM303D",
+    "examples": [
+        "https://os.mbed.com/teams/LSE_PUCRS/code/Altimu10v4/"
+    ],
     "frameworks": "mbed",
     "keywords": "LSM303D",
     "name": "LSM303D",

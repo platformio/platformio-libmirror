@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Mederic Melard",
+        "url": "https://os.mbed.com/users/mederic/"
+    },
+    "description": "For driving stepper motor driver with traditional (step/dir) control pins Based on \"Generate stepper-motor speed profiles in real time\" from \"David AUSTIN - December 30, 2004\"",
+    "examples": [
+        "https://os.mbed.com/teams/GE-Attenuator/code/VAM_reliability/",
+        "https://os.mbed.com/teams/GE-Attenuator/code/VAM_REV2/",
+        "https://os.mbed.com/teams/GE-Attenuator/code/VAM_DAX/",
+        "https://os.mbed.com/teams/GE-Attenuator/code/VAM_DAX_RELIABILITY/",
+        "https://os.mbed.com/teams/GE-Attenuator/code/VAM_CYCLE/",
+        "https://os.mbed.com/teams/GE-Attenuator/code/VAM_MANUAL_DONT_EDIT/",
+        "https://os.mbed.com/users/boro/code/PES2_Board_Servo/",
+        "https://os.mbed.com/teams/GE-Attenuator/code/TopDevice_nooptic/",
+        "https://os.mbed.com/teams/GE-Attenuator/code/Topdevice_optics/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Stepper",
+    "name": "Stepper",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mederic/code/Stepper/"
+    }
+}

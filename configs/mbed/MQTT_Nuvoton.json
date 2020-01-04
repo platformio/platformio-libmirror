@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Nuvoton",
+        "url": "https://os.mbed.com/teams/Nuvoton/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "MQTTPacket"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "FP"
+        }
+    ],
+    "description": "MQTT library (clone of https://os.mbed.com/teams/mqtt/code/MQTT/)",
+    "examples": [
+        "https://os.mbed.com/teams/Nuvoton/code/NuMaker-mbed-AWS-IoT-example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MQTT",
+    "name": "MQTT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nuvoton/code/MQTT/"
+    }
+}

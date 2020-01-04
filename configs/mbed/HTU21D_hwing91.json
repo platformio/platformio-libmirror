@@ -3,11 +3,6 @@
         "name": "Alan Lai",
         "url": "https://os.mbed.com/users/hwing91/"
     },
-    "build": {
-        "flags": [
-            "-IHTU21D"
-        ]
-    },
     "description": "BASIC LIBRARY TO INTERFACE WITH HTU21D TEMPERATURE AND HUMIDITY SENSOR",
     "examples": [
         "https://os.mbed.com/users/sunilaluri6/code/Natural_Calamities_Monitoring_System/",
@@ -15,7 +10,11 @@
         "https://os.mbed.com/users/johnylafleur/code/Nucleo_motors/",
         "https://os.mbed.com/users/vpcola/code/lpc1768_blinky/",
         "https://os.mbed.com/users/hippi345/code/IoT_Weather_Station/",
-        "https://os.mbed.com/users/Mariya/code/Hexiwear-FinalProject_v2/"
+        "https://os.mbed.com/users/Mariya/code/Hexiwear-FinalProject_v2/",
+        "https://os.mbed.com/users/Jashebes/code/Hexiwear/",
+        "https://os.mbed.com/users/Jashebes/code/HexiwearFinal/",
+        "https://os.mbed.com/users/Jashebes/code/HexiwearFinal1/",
+        "https://os.mbed.com/teams/Hexiwear_zeta/code/HexiHeart_Main/"
     ],
     "frameworks": "mbed",
     "keywords": "HTU21D",

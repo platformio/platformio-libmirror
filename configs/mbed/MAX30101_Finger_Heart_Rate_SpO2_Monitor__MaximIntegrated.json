@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/"
+    },
+    "description": "Driver, C++ source code, and library for the MAX30101 heart rate sensor chip. The MAX30101 IC includes integrated LEDs and photodetectors for the collection of raw data for Heart Rate/Pulse ...",
+    "examples": [
+        "https://os.mbed.com/users/phonemacro/code/MAX30101_Heart_Rate_Sp02_Sensor_Chip/",
+        "https://os.mbed.com/teams/MaximIntegrated/code/MAX30101_Heart_Rate_Sp02_SENSOR_Hello_Wo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "blood oxygen saturation level",
+        "heart rate monitor",
+        "heart rate monitor chip",
+        "heart rate sensor",
+        "MAX30101",
+        "pulse rate",
+        "spo2"
+    ],
+    "name": "MAX30101_Finger_Heart_Rate_SpO2_Monitor_Driver_Source_Code",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/code/MAX30101_Finger_Heart_Rate_SpO2_Monitor_/"
+    }
+}

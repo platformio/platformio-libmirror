@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "oludotun ode",
+        "url": "https://os.mbed.com/users/dotunhunter/"
+    },
+    "description": "Code for Interfacing with Texas Instruments' AFE4404 IC for photoplethysmography applications",
+    "examples": [
+        "https://os.mbed.com/users/dotunhunter/code/ece4180_project/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AFE4404",
+        "PPG"
+    ],
+    "name": "AFE4404",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dotunhunter/code/AFE4404/"
+    }
+}

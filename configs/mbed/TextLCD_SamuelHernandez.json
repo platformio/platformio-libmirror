@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Samuel Hernandez",
+        "url": "https://os.mbed.com/users/SamuelHernandez/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Programa que desplega un mensaje en una LCD 16x2 utilizando la librería TextLCD en un NUCLEO-F302R8",
+    "frameworks": "mbed",
+    "keywords": [
+        "HD44780",
+        "TextLCD"
+    ],
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SamuelHernandez/code/TextLCD/"
+    }
+}

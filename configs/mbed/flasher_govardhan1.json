@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Govardhan Anantapur",
+        "url": "https://os.mbed.com/users/govardhan1/"
+    },
+    "description": "how to flash LED in mbed",
+    "frameworks": "mbed",
+    "keywords": "flasher",
+    "name": "flasher",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/govardhan1/code/flasher/"
+    }
+}

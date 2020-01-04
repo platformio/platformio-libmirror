@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Avnet",
+        "url": "https://os.mbed.com/teams/Avnet/"
+    },
+    "dependencies": [
+        {
+            "authors": "Fred Kellerman",
+            "frameworks": "mbed",
+            "name": "WncControllerLibrary"
+        }
+    ],
+    "description": "Library for controlling the WNC 14A2A from the K64F Freedom Board. It fulfills platform specific pure virtual methods from the WncControllerLibrary.",
+    "examples": [
+        "https://os.mbed.com/users/gie_design/code/WNC14A2AInterface/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Celllular",
+        "lte",
+        "M14A2A",
+        "WNC",
+        "WNC M14A2A"
+    ],
+    "name": "WncControllerK64F",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Avnet/code/WncControllerK64F/"
+    }
+}

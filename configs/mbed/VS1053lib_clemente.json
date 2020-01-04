@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "clemente di caprio",
+        "url": "https://os.mbed.com/users/clemente/"
+    },
+    "description": "Library for VS1053 chip",
+    "frameworks": "mbed",
+    "keywords": "VS1053lib",
+    "name": "VS1053lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/clemente/code/VS1053lib/"
+    }
+}

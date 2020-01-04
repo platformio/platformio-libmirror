@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Vincent Wochnik",
+        "url": "https://os.mbed.com/users/vwochnik/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "CellularUSBModem"
+        }
+    ],
+    "description": "modified u-blox modem driver",
+    "frameworks": "mbed",
+    "keywords": "UbloxUSBModem",
+    "name": "UbloxUSBModem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vwochnik/code/UbloxUSBModem/"
+    }
+}

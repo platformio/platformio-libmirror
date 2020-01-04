@@ -3,17 +3,12 @@
         "name": "AB&T",
         "url": "https://os.mbed.com/users/EasyCAT/"
     },
-    "build": {
-        "flags": [
-            "-IESI"
-        ]
-    },
-    "description": "EasyCAT shield library",
+    "description": "EasyCAT shield library - It allows you to make an EtherCAT slave",
     "examples": [
-        "https://os.mbed.com/users/EasyCAT/code/TestEasyCAT/",
-        "https://os.mbed.com/users/EasyCAT/code/TestEasyCAT_DC_sync/",
         "https://os.mbed.com/users/EasyCAT/code/TestEasyCAT_SM_sync/",
-        "https://os.mbed.com/users/EasyCAT/code/TestEasyCAT_LoopBack/"
+        "https://os.mbed.com/users/EasyCAT/code/TestEasyCAT_LoopBack/",
+        "https://os.mbed.com/users/EasyCAT/code/TestEasyCAT_DC_sync/",
+        "https://os.mbed.com/users/EasyCAT/code/TestEasyCAT/"
     ],
     "frameworks": "mbed",
     "keywords": [

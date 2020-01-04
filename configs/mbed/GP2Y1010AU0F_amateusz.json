@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Mateusz Grzywacz",
+        "url": "https://os.mbed.com/users/amateusz/"
+    },
+    "description": "Oh my god this is a crusty piece of air quality sensor. I barely works. It is good only for some major smoke detection, not really pariculte matter. Don't buy ...",
+    "examples": [
+        "https://os.mbed.com/users/amateusz/code/Nucleo_praktyki/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AIR",
+        "dust",
+        "PM",
+        "smoke"
+    ],
+    "name": "GP2Y1010AU0F",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/amateusz/code/GP2Y1010AU0F/"
+    }
+}

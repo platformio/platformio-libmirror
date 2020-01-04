@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jack Berkhout",
+        "url": "https://os.mbed.com/users/JackB/"
+    },
+    "description": "Lib for the new LCD Display with ILI9341 controller with rounded (outlined and filled) rectangles added",
+    "frameworks": "mbed",
+    "keywords": "SPI_TFT_ILI9341_V2",
+    "name": "SPI_TFT_ILI9341_V2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JackB/code/SPI_TFT_ILI9341_V2/"
+    }
+}

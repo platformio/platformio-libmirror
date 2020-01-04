@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "sharif omar",
+        "url": "https://os.mbed.com/users/sharifdeens/"
+    },
+    "description": "pir sensor from digital pin",
+    "examples": [
+        "https://os.mbed.com/users/sharifdeens/code/Mytemperature_Motion/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Pir_sensor",
+    "name": "Pir_sensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sharifdeens/code/Pir_sensor/"
+    }
+}

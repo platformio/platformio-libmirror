@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Cornelius Bezuidenhout",
+        "url": "https://os.mbed.com/users/Generic/"
+    },
+    "description": "Library to control servos",
+    "frameworks": "mbed",
+    "keywords": "Servo",
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Generic/code/Servo/"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "Updated for more display types. Fixed memoryaddress confusion in address() method. Added new getAddress() method. Added support for UDCs, Backlight control and other features such as control through I2C and ...",
+    "examples": [
+        "https://os.mbed.com/users/mprinke/code/GPSDevice/",
+        "https://os.mbed.com/users/hgomez/code/TestTextLCD/",
+        "https://os.mbed.com/users/vinit/code/SD-to-Flash-Data-Transfer/",
+        "https://os.mbed.com/users/gcme93/code/DrumMachine/",
+        "https://os.mbed.com/users/bouvdberg/code/HuidigePositieV2/",
+        "https://os.mbed.com/users/bouvdberg/code/HuidigePositieV3/",
+        "https://os.mbed.com/users/bouvdberg/code/HuidigePositieV5/",
+        "https://os.mbed.com/users/bouvdberg/code/RobotControlVfinal/",
+        "https://os.mbed.com/users/embeddedartists/code/lpc812_exp_solution_character-lcd/",
+        "https://os.mbed.com/users/umairaftab/code/LCD20x2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HD44780",
+        "LCD",
+        "PCF2116",
+        "ST7032",
+        "ST7036",
+        "text",
+        "TextLCD",
+        "WS0010"
+    ],
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/TextLCD/"
+    }
+}

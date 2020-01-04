@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Manuel Caballero",
+        "url": "https://os.mbed.com/users/mcm/"
+    },
+    "description": "Remote 8-bit I/O expander for I2C-bus with interrupt",
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "I/O expander",
+        "I2C",
+        "library",
+        "PCF8574",
+        "PCF8574a"
+    ],
+    "name": "PCF8574",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mcm/code/PCF8574/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "mehmet akif arvas",
+        "url": "https://os.mbed.com/users/marvas/"
+    },
+    "description": "Ultrasonic sensor kullanimi Hcsr04 Mehmet Akif ARVAS",
+    "frameworks": "mbed",
+    "keywords": [
+        "HCSR04",
+        "mesafe",
+        "ultrasonic",
+        "ultrasonik"
+    ],
+    "name": "hcsr04_TR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/marvas/code/hcsr04_TR/"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Jordan Earls",
+        "url": "https://os.mbed.com/users/earlz/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "Slight modification to SDFileSystem so that if the first initialization doesn't do the trick it tries doing it again (which so far has fixed every issue for me)",
+    "frameworks": "mbed",
+    "keywords": [
+        "FAT",
+        "file",
+        "SD",
+        "System"
+    ],
+    "name": "SDFileSystem_tryagain",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/earlz/code/SDFileSystem_tryagain/"
+    }
+}

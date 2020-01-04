@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Flotsam",
+        "url": "https://os.mbed.com/teams/Flotsam/"
+    },
+    "description": "Temperature library for the full project.",
+    "examples": [
+        "https://os.mbed.com/teams/Flotsam/code/Full-Project/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Temp_Library",
+    "name": "Temp_Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Flotsam/code/Temp_Library/"
+    }
+}

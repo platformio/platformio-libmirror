@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Leong Kum Loong (NYP)",
+        "url": "https://os.mbed.com/teams/Leong-Kum-Loong/"
+    },
+    "description": "tone.h Written by Leong Kum Loong. 19 Nov 2017, REV. 1 All routines and functions in this library are written by me solely with the purpose of implementing an identical ...",
+    "examples": [
+        "https://os.mbed.com/teams/Leong-Kum-Loong/code/Tone_Example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mario",
+        "mario brothers",
+        "mario theme",
+        "music",
+        "sound",
+        "star wars",
+        "starwars",
+        "tone"
+    ],
+    "name": "tone_h",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Leong-Kum-Loong/code/tone_h/"
+    }
+}

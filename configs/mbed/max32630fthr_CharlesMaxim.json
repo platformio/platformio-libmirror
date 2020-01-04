@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Charles Kim Kabiling",
+        "url": "https://os.mbed.com/users/CharlesMaxim/"
+    },
+    "description": "Max32630fthr",
+    "examples": [
+        "https://os.mbed.com/users/CharlesMaxim/code/MAX32630HSP3_IMU_HelloWorld/",
+        "https://os.mbed.com/teams/TSDA-Robotics/code/MAX32630HSP3_IMU_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "max32630fthr",
+    "name": "max32630fthr",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/CharlesMaxim/code/max32630fthr/"
+    }
+}

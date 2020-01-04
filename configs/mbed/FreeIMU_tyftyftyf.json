@@ -12,7 +12,7 @@
         {
             "authors": "Yifei Teng",
             "frameworks": "mbed",
-            "name": "MPU6050"
+            "name": "AK8963"
         },
         {
             "authors": "Yifei Teng",
@@ -23,13 +23,18 @@
             "authors": "Yifei Teng",
             "frameworks": "mbed",
             "name": "MODI2C"
+        },
+        {
+            "authors": "Yifei Teng",
+            "frameworks": "mbed",
+            "name": "MPU9250"
         }
     ],
     "description": "10DOF FreeIMU port for FreeIMU v4 board and GY-86. This library was modified extensively to specifically suit the Mbed platform. Used threads and interrupts to achieve async mode.",
     "examples": [
+        "https://os.mbed.com/users/MatteoT/code/MTQuadControl/",
         "https://os.mbed.com/users/tyftyftyf/code/FreeIMU_serial/",
-        "https://os.mbed.com/users/tyftyftyf/code/FreeIMU_demo/",
-        "https://os.mbed.com/users/MatteoT/code/MTQuadControl/"
+        "https://os.mbed.com/users/tyftyftyf/code/FreeIMU_demo/"
     ],
     "frameworks": "mbed",
     "keywords": "FreeIMU",

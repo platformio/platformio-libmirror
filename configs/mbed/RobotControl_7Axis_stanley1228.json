@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "hsu han-lin",
+        "url": "https://os.mbed.com/users/stanley1228/"
+    },
+    "description": "RobotControl_7Axis",
+    "examples": [
+        "https://os.mbed.com/users/stanley1228/code/RoboticArm/",
+        "https://os.mbed.com/users/stanley1228/code/DXL_SDK_Porting_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "RobotControl_7Axis",
+    "name": "RobotControl_7Axis",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/stanley1228/code/RobotControl_7Axis/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "ban4jp -",
+        "url": "https://os.mbed.com/users/ban4jp/"
+    },
+    "description": "WIZnet WIZ550io (w5500) support",
+    "examples": [
+        "https://os.mbed.com/users/ban4jp/code/HTTPClient_HelloWorld_WIZ550io/",
+        "https://os.mbed.com/users/ban4jp/code/NTPClient_HelloWorld_WIZ550io/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "WIZ550ioInterface",
+    "name": "WIZ550ioInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ban4jp/code/WIZ550ioInterface/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Vyacheslav Azarov",
+        "url": "https://os.mbed.com/users/Viacheslav/"
+    },
+    "description": "This is tiny display terminal for ssd1306 chip through I2C simulation and carriage return function.",
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "OLED",
+        "SSD1306",
+        "stm32"
+    ],
+    "name": "ssd1306",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Viacheslav/code/ssd1306/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Gottfried Spitaler",
+        "url": "https://os.mbed.com/users/Gottfried/"
+    },
+    "description": "DMX Library for STM devices",
+    "examples": [
+        "https://os.mbed.com/users/Gottfried/code/DISCO-F746NG_DMX-Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DMX-ST",
+    "name": "DMX-ST",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Gottfried/code/DMX-ST/"
+    }
+}

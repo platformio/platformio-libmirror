@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Microbug",
+        "url": "https://os.mbed.com/teams/Microbug/"
+    },
+    "description": "Patched version of nrf51822 FOTA compatible driver, with GPTIO disabled, as it clashed with the mbed definitions...",
+    "frameworks": "mbed",
+    "keywords": "nRF51822_FOTA",
+    "name": "nRF51822_FOTA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Microbug/code/nRF51822_FOTA/"
+    }
+}

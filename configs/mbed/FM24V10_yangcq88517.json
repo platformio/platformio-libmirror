@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "CHENGQI YANG",
+        "url": "https://os.mbed.com/users/yangcq88517/"
+    },
+    "description": "A ferroelectric random access memory or F-RAM is nonvolatile and performs reads and writes similar to a RAM.",
+    "examples": [
+        "https://os.mbed.com/teams/TrackerTPMS/code/Memoria/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FM24V10",
+    "name": "FM24V10",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yangcq88517/code/FM24V10/"
+    }
+}

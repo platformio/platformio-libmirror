@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Daichi Arai",
+        "url": "https://os.mbed.com/users/DaichiArai/"
+    },
+    "description": "MDC2018のデータ量を削減したプログラムのマスタ側(メインマイコン)のプログラム",
+    "examples": [
+        "https://os.mbed.com/teams/NITKK-Robocon-Team/code/mdc_read_simple2019/",
+        "https://os.mbed.com/users/Akinosuke/code/sample_omni2019/",
+        "https://os.mbed.com/users/Akinosuke/code/NITKK2019_WinterS-Manual/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mdc",
+        "robocon"
+    ],
+    "name": "mdc_simple",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DaichiArai/code/mdc_simple/"
+    }
+}

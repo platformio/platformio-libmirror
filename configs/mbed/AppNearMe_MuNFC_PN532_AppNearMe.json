@@ -3,22 +3,6 @@
         "name": "AppNearMe Official",
         "url": "https://os.mbed.com/users/AppNearMe/"
     },
-    "build": {
-        "flags": [
-            "-IPN532",
-            "-IPN532/munfc",
-            "-IPN532/munfc/drv",
-            "-IPN532/munfc/drv/pn512",
-            "-IPN532/munfc/drv/pn532",
-            "-IPN532/munfc/ndef",
-            "-IPN532/munfc/target",
-            "-IPN532/munfc/core",
-            "-IPN532/munfc/LPC11U24",
-            "-IPN532/munfc/platform",
-            "-IPN532/munfc/event",
-            "-IPN532/munfc/LPC1768"
-        ]
-    },
     "description": "AppNearMe µNFC stack for the NXP PN532 chip License: You can use the stack free of charge to prototype with mbed; if you want to use the stack with your ...",
     "examples": [
         "https://os.mbed.com/users/tristanjph/code/IOT_sensor_nfc/",

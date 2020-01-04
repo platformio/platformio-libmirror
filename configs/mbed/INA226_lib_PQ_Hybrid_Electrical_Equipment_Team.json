@@ -4,8 +4,13 @@
         "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/"
     },
     "description": "INA226 Library",
+    "examples": [
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/HYBRYD2018_IZU_ROCKET/",
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/Hybrid_IZU2019/",
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/SWAN_IZU2019_v1/"
+    ],
     "frameworks": "mbed",
-    "keywords": "2017NOSHIRO",
+    "keywords": "INA226_lib",
     "name": "INA226_lib",
     "platforms": "*",
     "repository": {

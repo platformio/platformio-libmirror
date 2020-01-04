@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Lucas Moraes",
+        "url": "https://os.mbed.com/users/lucasmoraeseng/"
+    },
+    "description": "Library to use on memories 24Cxx",
+    "frameworks": "mbed",
+    "keywords": "24cXX",
+    "name": "24cXX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lucasmoraeseng/code/24cXX/"
+    }
+}

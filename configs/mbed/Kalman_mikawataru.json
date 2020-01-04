@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Wataru Mikawa",
+        "url": "https://os.mbed.com/users/mikawataru/"
+    },
+    "description": "加速度・ジャイロによるカルマンフィルタ―用ライブラリ",
+    "examples": [
+        "https://os.mbed.com/users/mikawataru/code/Kalman_test/",
+        "https://os.mbed.com/users/sashida_h/code/201903_pf_lower_judgment_sashida/",
+        "https://os.mbed.com/teams/CORE/code/201903_pf_lower_judgment/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Kalman",
+    "name": "Kalman",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mikawataru/code/Kalman/"
+    }
+}

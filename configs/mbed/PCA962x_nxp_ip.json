@@ -3,14 +3,6 @@
         "name": "InetrfaceProducts NXP",
         "url": "https://os.mbed.com/users/nxp_ip/"
     },
-    "build": {
-        "flags": [
-            "-Ibase_class",
-            "-IPCA9624",
-            "-IPCA9626",
-            "-IPCA9622"
-        ]
-    },
     "dependencies": [
         {
             "authors": "InetrfaceProducts NXP",

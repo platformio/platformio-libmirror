@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Wayne Lin",
+        "url": "https://os.mbed.com/users/wclin/"
+    },
+    "description": "modified for nuc472",
+    "examples": [
+        "https://os.mbed.com/users/wclin/code/modbus-over-rs485-sample/",
+        "https://os.mbed.com/users/rkuo2000/code/NTOUEE-mbed-modbus-RTU/",
+        "https://os.mbed.com/users/wclin/code/NuMaker_NuWicam_Lite/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Modbus",
+    "name": "Modbus",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wclin/code/Modbus/"
+    }
+}

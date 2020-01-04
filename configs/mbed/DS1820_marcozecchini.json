@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Marco Zecchini",
+        "url": "https://os.mbed.com/users/marcozecchini/"
+    },
+    "dependencies": [
+        {
+            "authors": "Marco Zecchini",
+            "frameworks": "mbed",
+            "name": "OneWire"
+        }
+    ],
+    "description": "Working version for L-tek FF1705",
+    "examples": [
+        "https://os.mbed.com/users/zbr2006/code/FROST/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DS1820",
+    "name": "DS1820",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/marcozecchini/code/DS1820/"
+    }
+}

@@ -1,13 +1,7 @@
 {
     "authors": {
-        "name": "François Berder",
+        "name": "F B",
         "url": "https://os.mbed.com/users/feb11/"
-    },
-    "build": {
-        "flags": [
-            "-Ihash",
-            "-Icipher"
-        ]
     },
     "description": "This library implements some hash and cryptographic algorithms.",
     "examples": [
@@ -15,7 +9,12 @@
         "https://os.mbed.com/users/bonchenko/code/PB_Emma_Ethernet/",
         "https://os.mbed.com/teams/Garbage-Collectors/code/SLOTrashHTTP/",
         "https://os.mbed.com/users/Gnegon/code/PseudoRandomGenerator/",
-        "https://os.mbed.com/users/dgomes/code/Garagem/"
+        "https://os.mbed.com/users/dgomes/code/Garagem/",
+        "https://os.mbed.com/teams/Internet-of-Tings/code/motor-mining/",
+        "https://os.mbed.com/users/OmarMuttawa/code/SMARTASSES_FINAL_CW2/",
+        "https://os.mbed.com/users/Olaffo/code/motor-mining/",
+        "https://os.mbed.com/users/eavennnn/code/ES_CW2_Final/",
+        "https://os.mbed.com/teams/Skad00sh/code/ES_CW2_Dev/"
     ],
     "frameworks": "mbed",
     "keywords": [

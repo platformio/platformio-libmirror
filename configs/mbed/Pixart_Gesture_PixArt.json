@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "PixArt",
+        "url": "https://os.mbed.com/teams/PixArt/"
+    },
+    "description": "PixArt Gesture Library for nRF051",
+    "frameworks": "mbed",
+    "keywords": "Pixart_Gesture",
+    "name": "Pixart_Gesture",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PixArt/code/Pixart_Gesture/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Eugene Gonzalez",
+        "url": "https://os.mbed.com/users/beanmachine44/"
+    },
+    "description": "Same library as tosihisa, but with extensions for SetTemplate, DeleteAllIDs, and SendData.",
+    "examples": [
+        "https://os.mbed.com/users/beanmachine44/code/GT511C3_demo/",
+        "https://os.mbed.com/users/austinterrell/code/GT511C3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GT511C3",
+    "name": "GT511C3",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/beanmachine44/code/GT511C3/"
+    }
+}

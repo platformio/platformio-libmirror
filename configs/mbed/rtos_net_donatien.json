@@ -3,14 +3,6 @@
         "name": "Donatien Garnier",
         "url": "https://os.mbed.com/users/donatien/"
     },
-    "build": {
-        "flags": [
-            "-ILPC11U24",
-            "-ILPC11U24/uARM",
-            "-ILPC1768",
-            "-ILPC1768/ARM"
-        ]
-    },
     "description": "RTOS configured for use with Networking libraries",
     "examples": [
         "https://os.mbed.com/users/donatien/code/EthernetHTTPClientTest/"

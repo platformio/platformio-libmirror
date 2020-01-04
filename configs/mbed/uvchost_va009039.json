@@ -3,12 +3,6 @@
         "name": "Norimasa Okamoto",
         "url": "https://os.mbed.com/users/va009039/"
     },
-    "build": {
-        "flags": [
-            "-Iuvc",
-            "-Iusb"
-        ]
-    },
     "description": "UVC host library",
     "examples": [
         "https://os.mbed.com/users/va009039/code/LifeCam/",

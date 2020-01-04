@@ -1,18 +1,22 @@
 {
     "authors": {
-        "name": "Takuma Kawamura",
+        "name": "Bit Positive",
         "url": "https://os.mbed.com/users/babylonica/"
     },
     "dependencies": [
         {
-            "authors": "Takuma Kawamura",
+            "authors": "Bit Positive",
             "frameworks": "mbed",
             "name": "FIFO"
         }
     ],
-    "description": "Asynchronous (Non-blocking) Serial Communication library with variable length software ring buffer (FIFO). You can use RawSerial Library's primary method. Operability confirmed on mbed 2.0.",
+    "description": "Asynchronous (Non-blocking) Serial Communication library with variable length software ring buffer (FIFO). You can use primary method of the RawSerial Library. Operability confirmed on mbed 2.0. (Rev.146)",
     "examples": [
-        "https://os.mbed.com/users/bluefish/code/InvertedPendulum2017/"
+        "https://os.mbed.com/users/bluefish/code/InvertedPendulum2017/",
+        "https://os.mbed.com/users/babylonica/code/SerialConnect/",
+        "https://os.mbed.com/users/Minato/code/mbed_2018/",
+        "https://os.mbed.com/users/Minato/code/mbed_2019_rx3/",
+        "https://os.mbed.com/users/Minato/code/mbed_2019/"
     ],
     "frameworks": "mbed",
     "keywords": [

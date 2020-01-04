@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Hiroshi Yamaguchi",
+        "url": "https://os.mbed.com/users/yamaguch/"
+    },
+    "description": "MMA7361L interface",
+    "examples": [
+        "https://os.mbed.com/users/yamaguch/code/MMA7361L_Example/",
+        "https://os.mbed.com/users/AkiraK/code/ARLISS2012_Hidaka/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MMA7361L",
+    "name": "MMA7361L",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yamaguch/code/MMA7361L/"
+    }
+}

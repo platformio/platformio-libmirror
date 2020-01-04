@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "4.2inch e-Paper HAT (C) made by WAVESHARE",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/ePD_4R2inch_test_program_on_nRF52/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "4.2inch",
+        "display",
+        "E-Paper"
+    ],
+    "name": "EPD_4R2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/EPD_4R2/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Kang mingyo",
+        "url": "https://os.mbed.com/users/kangmingyo/"
+    },
+    "description": "OV7670 Library",
+    "examples": [
+        "https://os.mbed.com/teams/Pipe-Inpection-Robot/code/OV7670_make/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "camera",
+        "OV7670"
+    ],
+    "name": "ov7670",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kangmingyo/code/ov7670/"
+    }
+}

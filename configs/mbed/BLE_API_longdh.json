@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "long dao",
+        "url": "https://os.mbed.com/users/longdh/"
+    },
+    "description": "VNG board",
+    "frameworks": "mbed",
+    "keywords": "BLE_API",
+    "name": "BLE_API",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/longdh/code/BLE_API/"
+    }
+}

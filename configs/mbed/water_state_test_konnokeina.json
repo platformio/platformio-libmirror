@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "keina konno",
+        "url": "https://os.mbed.com/users/konnokeina/"
+    },
+    "description": "Fork of the official mbed C/C SDK provides the software platform and libraries to build your applications. The fork has the documentation converted to Doxygen format",
+    "frameworks": "mbed",
+    "keywords": "water_state_test",
+    "name": "water_state_test",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/konnokeina/code/water_state_test/"
+    }
+}

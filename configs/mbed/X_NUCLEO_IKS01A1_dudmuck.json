@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "wayne roberts",
+        "url": "https://os.mbed.com/users/dudmuck/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "X_NUCLEO_COMMON"
+        }
+    ],
+    "description": "pin assignments for mDot",
+    "examples": [
+        "https://os.mbed.com/users/dudmuck/code/iks01a1_acc/",
+        "https://os.mbed.com/users/dudmuck/code/LoRaWAN-demo-72_mdotIKS01A1/",
+        "https://os.mbed.com/users/shaunkrnelson/code/MTDOT-UDKDemo_Senet/",
+        "https://os.mbed.com/teams/Senet/code/MTDOT-UDKDemo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "X_NUCLEO_IKS01A1",
+    "name": "X_NUCLEO_IKS01A1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dudmuck/code/X_NUCLEO_IKS01A1/"
+    }
+}

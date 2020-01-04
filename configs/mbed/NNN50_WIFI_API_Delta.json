@@ -3,31 +3,6 @@
         "name": "Delta",
         "url": "https://os.mbed.com/teams/Delta/"
     },
-    "build": {
-        "flags": [
-            "-IEthernetInterface",
-            "-IEthernetInterface/Socket",
-            "-Iwifi_host_driver",
-            "-Iwifi_host_driver/common",
-            "-Iwifi_host_driver/common/include",
-            "-Iwifi_host_driver/common/source",
-            "-Iwifi_host_driver/driver",
-            "-Iwifi_host_driver/driver/include",
-            "-Iwifi_host_driver/driver/source",
-            "-Iwifi_host_driver/socket",
-            "-Iwifi_host_driver/socket/include",
-            "-Iwifi_host_driver/socket/source",
-            "-Iwifi_host_driver/bus_wrapper",
-            "-Iwifi_host_driver/bus_wrapper/include",
-            "-Iwifi_host_driver/bus_wrapper/source",
-            "-Iwifi_host_driver/bsp",
-            "-Iwifi_host_driver/bsp/include",
-            "-Iwifi_host_driver/bsp/source",
-            "-Iwifi_host_driver/spi_flash",
-            "-Iwifi_host_driver/spi_flash/include",
-            "-Iwifi_host_driver/spi_flash/source"
-        ]
-    },
     "description": "NNN50 WIFI_API library",
     "examples": [
         "https://os.mbed.com/users/janshiue/code/NNN50_CE_Test_UDP/",

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Mathew Swabey",
+        "url": "https://os.mbed.com/users/Swabey89/"
+    },
+    "description": "BMP 280 library files",
+    "examples": [
+        "https://os.mbed.com/users/Swabey89/code/ELEC350_Project2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BMP280",
+    "name": "BMP280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Swabey89/code/BMP280/"
+    }
+}

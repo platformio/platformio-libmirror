@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Michael Koster",
+        "url": "https://os.mbed.com/users/michaeljkoster/"
+    },
+    "description": "nucleo version",
+    "frameworks": "mbed",
+    "keywords": "PololuLedStripNucleo",
+    "name": "PololuLedStripNucleo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/michaeljkoster/code/PololuLedStripNucleo/"
+    }
+}

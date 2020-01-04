@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Phung Tung",
+        "url": "https://os.mbed.com/users/fundokukiri/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "a",
+    "examples": [
+        "https://os.mbed.com/users/fundokukiri/code/GUI-746/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LbBSP746NG",
+    "name": "LbBSP746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fundokukiri/code/LbBSP746NG/"
+    }
+}

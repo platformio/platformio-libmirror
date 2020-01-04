@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Michael Ohayon",
+        "url": "https://os.mbed.com/users/mohayonor/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Jauge de contraintes en parallèles",
+    "frameworks": "mbed",
+    "keywords": "HX711",
+    "name": "HX711",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mohayonor/code/HX711/"
+    }
+}

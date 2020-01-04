@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "MAX14690"
+        }
+    ],
+    "description": "Board library for MAX32630FTHR platform",
+    "examples": [
+        "https://os.mbed.com/users/switches/code/FTHR_OLED/",
+        "https://os.mbed.com/users/j3/code/MAX32630FTHR_ADC_Example/",
+        "https://os.mbed.com/users/j3/code/Test_TFT_RT/",
+        "https://os.mbed.com/users/j3/code/MAX32630FTHR_RGB/",
+        "https://os.mbed.com/users/danjulio/code/Rocket/",
+        "https://os.mbed.com/users/bowenfeng/code/MAX32630FTHR_JOYSTICK/",
+        "https://os.mbed.com/users/smatthew/code/FTHR_SensorHub/",
+        "https://os.mbed.com/users/koziniec/code/serial_interrupt_max32630_testing/",
+        "https://os.mbed.com/users/leftofcenter/code/FTHR_USB_serial/",
+        "https://os.mbed.com/users/j3/code/MAX32630FTHR_SqwvGen/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "max32630fthr",
+    "name": "max32630fthr",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/code/max32630fthr/"
+    }
+}

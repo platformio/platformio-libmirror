@@ -5,7 +5,8 @@
     },
     "description": "TM1638 LED controller. Max 80 LEDs, Max 24 Key scan. Supports LED&KEY, QYF-TM1638 and JY-LKM1638 module.",
     "examples": [
-        "https://os.mbed.com/users/wim/code/mbed_TM1638/"
+        "https://os.mbed.com/users/wim/code/mbed_TM1638/",
+        "https://os.mbed.com/users/lucem1n/code/Otjimaniya/"
     ],
     "frameworks": "mbed",
     "keywords": [

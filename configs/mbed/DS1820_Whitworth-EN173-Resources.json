@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Whitworth-EN173-Resources",
+        "url": "https://os.mbed.com/teams/Whitworth-EN173-Resources/"
+    },
+    "dependencies": [
+        {
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
+            "name": "LinkedList"
+        }
+    ],
+    "description": "DS1820 library for multiple devices",
+    "examples": [
+        "https://os.mbed.com/teams/Whitworth-EN173-Resources/code/DS1820_HelloWorld/",
+        "https://os.mbed.com/users/htompkins20/code/FindingTemp/",
+        "https://os.mbed.com/users/croberts21/code/ThermalWake/",
+        "https://os.mbed.com/users/hzelayasolano22/code/ThermalWake2019Code/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DS1820",
+    "name": "DS1820",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Whitworth-EN173-Resources/code/DS1820/"
+    }
+}

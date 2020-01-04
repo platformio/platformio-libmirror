@@ -4,6 +4,9 @@
         "url": "https://os.mbed.com/users/Tobias/"
     },
     "description": "Serial terminal, mainly for debugging purposes",
+    "examples": [
+        "https://os.mbed.com/users/villetiukuvaara/code/RobotArmControl/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "debug",

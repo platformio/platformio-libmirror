@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Shimon AJISAKA",
+        "url": "https://os.mbed.com/users/bluefish/"
+    },
+    "description": "mbed library for DFPlayer mini",
+    "examples": [
+        "https://os.mbed.com/users/bluefish/code/InvertedPendulum2017/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Lib_DFPlayerMini",
+    "name": "Lib_DFPlayerMini",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bluefish/code/Lib_DFPlayerMini/"
+    }
+}

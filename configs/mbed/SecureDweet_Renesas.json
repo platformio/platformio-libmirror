@@ -3,21 +3,7 @@
         "name": "Renesas",
         "url": "https://os.mbed.com/teams/Renesas/"
     },
-    "build": {
-        "flags": [
-            "-IwolfSSL",
-            "-IwolfSSL/wolfssl",
-            "-IwolfSSL/wolfssl/openssl",
-            "-IwolfSSL/wolfssl/wolfcrypt",
-            "-IwolfSSL/src",
-            "-IwolfSSL/wolfcrypt",
-            "-IwolfSSL/wolfcrypt/src"
-        ]
-    },
     "description": "SecureDweet is a dweet.io library that works on HTTPS protocol using SecureHttpClient library. It'll be able to fetch or listen to Dweet APIs and JSON messages.",
-    "examples": [
-        "https://os.mbed.com/teams/Renesas/code/GR-PEACH_Happy_Dweeting/"
-    ],
     "frameworks": "mbed",
     "keywords": [
         "Dweet",

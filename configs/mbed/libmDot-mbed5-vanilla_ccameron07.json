@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Che Cameron",
+        "url": "https://os.mbed.com/users/ccameron07/"
+    },
+    "description": "Unchanged libmDot-mbed5 with a tag so that it can be downloaded from within MBED Studio",
+    "frameworks": "mbed",
+    "keywords": "LATT",
+    "name": "libmDot-mbed5-vanilla",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ccameron07/code/libmDot-mbed5-vanilla/"
+    }
+}

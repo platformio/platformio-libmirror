@@ -5,7 +5,8 @@
     },
     "description": "A simple stepper motor driver library, supporting micro-stepping drivers such as the Pololu A4988 stepper driver carrier or the Sparkfun EasyDriver.",
     "examples": [
-        "https://os.mbed.com/teams/Vockens-Group-Sensors/code/CEAMS_Sun_Tracker/"
+        "https://os.mbed.com/users/hisyamfs/code/tes_stepper/",
+        "https://os.mbed.com/users/hisyamfs/code/Test_all/"
     ],
     "frameworks": "mbed",
     "keywords": "StepperMotor",

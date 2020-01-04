@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Mitch Carlson",
+        "url": "https://os.mbed.com/users/MitchJCarlson/"
+    },
+    "description": "Simplified pwm pinout to ESC control library for the KL25Z",
+    "frameworks": "mbed",
+    "keywords": [
+        "esc",
+        "KL25z",
+        "pwm"
+    ],
+    "name": "ESC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MitchJCarlson/code/ESC/"
+    }
+}

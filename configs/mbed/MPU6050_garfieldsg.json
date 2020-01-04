@@ -12,11 +12,12 @@
         "https://os.mbed.com/users/oakx/code/j_mpu6050/",
         "https://os.mbed.com/teams/Wallbot-BLE-Developer/code/mpu6050_test/",
         "https://os.mbed.com/users/shuhei2306/code/NeoPixels/",
-        "https://os.mbed.com/users/godai0505/code/mpu6050/"
+        "https://os.mbed.com/users/godai0505/code/mpu6050/",
+        "https://os.mbed.com/users/tichise/code/TI_MPU6050/",
+        "https://os.mbed.com/teams/SARD/code/1114_mpu_sd_s/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
         "gyroscope",
         "I2C",
         "MPU-6050",

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Honza T.",
+        "url": "https://os.mbed.com/users/dzoni/"
+    },
+    "description": "Optimization (wait(float) changed to wait_us(int)) of original library TextLCD.",
+    "examples": [
+        "https://os.mbed.com/users/dzoni/code/EXAMPLE_Nucleo_InternalTempSensor/",
+        "https://os.mbed.com/users/dzoni/code/EXAMPLE_Nucleo_mbed_RTOS_test_code/",
+        "https://os.mbed.com/users/dzoni/code/TEST_Dist_lib/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TextLCD",
+    "name": "TextLCD_improved",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dzoni/code/TextLCD_improved/"
+    }
+}

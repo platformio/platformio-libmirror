@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Toyomasa Watarai",
+        "url": "https://os.mbed.com/users/MACRUM/"
+    },
+    "description": "NXP PCF8576 Universal LCD driver for low multiplex rates + GH08172 LCD library",
+    "examples": [
+        "https://os.mbed.com/users/MACRUM/code/PCF8576_GH08172_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PCF8576",
+    "name": "PCF8576",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MACRUM/code/PCF8576/"
+    }
+}

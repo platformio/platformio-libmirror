@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Ryan Vasquez",
+        "url": "https://os.mbed.com/users/rvasquez6089/"
+    },
+    "description": "This is a library for the Texas Instruments PGA112",
+    "frameworks": "mbed",
+    "keywords": [
+        "drivers",
+        "Instruments",
+        "PGA",
+        "PGA112",
+        "Texas"
+    ],
+    "name": "PGA112_Driver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rvasquez6089/code/PGA112_Driver/"
+    }
+}

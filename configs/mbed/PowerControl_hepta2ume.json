@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Hepta 2",
+        "url": "https://os.mbed.com/users/hepta2ume/"
+    },
+    "description": "HeptaBattery",
+    "examples": [
+        "https://os.mbed.com/users/hepta2ume/code/HeptaBattery/",
+        "https://os.mbed.com/users/umeume/code/HeptaBattery/",
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/HeptaBattery/",
+        "https://os.mbed.com/users/HEPTA/code/HeptaBattery/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PowerControl",
+    "name": "PowerControl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hepta2ume/code/PowerControl/"
+    }
+}

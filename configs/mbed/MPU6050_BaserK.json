@@ -9,11 +9,15 @@
         "https://os.mbed.com/users/BaserK/code/i2c_MPU6050/",
         "https://os.mbed.com/users/BaserK/code/IMU_fusion/",
         "https://os.mbed.com/users/shreyashpalande/code/kpitmpu6050dht11/",
-        "https://os.mbed.com/teams/Coreonetech/code/CORE-1000_MPU6050/"
+        "https://os.mbed.com/teams/Coreonetech/code/CORE-1000_MPU6050/",
+        "https://os.mbed.com/users/tktats_892476/code/16_6_10_mpu6050/",
+        "https://os.mbed.com/teams/ST-YM-Development/code/IMU_fusion/",
+        "https://os.mbed.com/teams/Project-Football/code/IMU_fusion/",
+        "https://os.mbed.com/users/danusorn/code/IMU_fusion/",
+        "https://os.mbed.com/teams/ST-YM-Development/code/IMU/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "accelerometer",
         "ANGLE",
         "complementary",
         "filter",

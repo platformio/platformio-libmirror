@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "dependencies": [
+        {
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
+            "name": "BufferedSerial"
+        }
+    ],
+    "description": "Parser for AT commands and similar protocols",
+    "examples": [
+        "https://os.mbed.com/teams/components/code/ESP8266/",
+        "https://os.mbed.com/users/bhimebau/code/xdot-passthru/",
+        "https://os.mbed.com/teams/CPS-Lab11/code/Lab_10/",
+        "https://os.mbed.com/teams/CPS_Lab/code/Lab9/",
+        "https://os.mbed.com/teams/CPS-Lab11/code/Lab10/",
+        "https://os.mbed.com/teams/CPS-Lab12345678910/code/Lab9/",
+        "https://os.mbed.com/teams/CPS_Lab/code/Lab10/",
+        "https://os.mbed.com/teams/CPS-Lab12345678/code/Lab9-1/",
+        "https://os.mbed.com/users/fanbsun/code/Lab91/",
+        "https://os.mbed.com/teams/CPS-Lab12345678/code/Lab92/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "AT",
+    "name": "ATParser",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/ATParser/"
+    }
+}

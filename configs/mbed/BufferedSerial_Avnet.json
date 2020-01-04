@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Avnet",
+        "url": "https://os.mbed.com/teams/Avnet/"
+    },
+    "dependencies": [
+        {
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
+            "name": "Buffer"
+        }
+    ],
+    "description": "modified puts to not add '\\n' in puts",
+    "frameworks": "mbed",
+    "keywords": "BufferedSerial",
+    "name": "BufferedSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Avnet/code/BufferedSerial/"
+    }
+}

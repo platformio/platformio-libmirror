@@ -3,14 +3,6 @@
         "name": "CHENGQI YANG",
         "url": "https://os.mbed.com/users/yangcq88517/"
     },
-    "build": {
-        "flags": [
-            "-IGestILibrarMessage",
-            "-IRuntimeParameter",
-            "-ITouchInfo",
-            "-IGesture"
-        ]
-    },
     "dependencies": [
         {
             "authors": "CHENGQI YANG",
@@ -20,7 +12,8 @@
     ],
     "description": "The MGC3130 is the world’s first electrical-field (E-field) based three-dimensional (3D) tracking and gesture controller",
     "examples": [
-        "https://os.mbed.com/users/ovicin/code/NucleoMGC3130/"
+        "https://os.mbed.com/users/ovicin/code/NucleoMGC3130/",
+        "https://os.mbed.com/users/antimo8/code/i2c_master/"
     ],
     "frameworks": "mbed",
     "keywords": [

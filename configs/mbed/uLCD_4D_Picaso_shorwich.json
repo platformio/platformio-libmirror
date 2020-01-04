@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Sam Horwich",
+        "url": "https://os.mbed.com/users/shorwich/"
+    },
+    "dependencies": [
+        {
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
+            "name": "MODSERIAL"
+        }
+    ],
+    "description": "Driver for 4D Systems LCD screen with Picaso processor. Ported from 4D Systems Picaso Serial Linux Library",
+    "examples": [
+        "https://os.mbed.com/users/csteinmetz/code/Lab4_Demo_Game/",
+        "https://os.mbed.com/users/NotAnExpert/code/4180_Final_Project/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "uLCD_4D_Picaso",
+    "name": "uLCD_4D_Picaso",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shorwich/code/uLCD_4D_Picaso/"
+    }
+}

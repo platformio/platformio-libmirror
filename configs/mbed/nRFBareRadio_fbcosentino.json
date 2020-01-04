@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Fernando Cosentino",
+        "url": "https://os.mbed.com/users/fbcosentino/"
+    },
+    "description": "nRFBareRadio is a library to use the Radio peripheral in a nRF51 or nRF52 Nordic microcontroller in \"bare\" mode transmitting raw packets, instead of the usual BLE protocols.",
+    "frameworks": "mbed",
+    "keywords": [
+        "2.4GHz",
+        "Nordic",
+        "nRF",
+        "NRF24",
+        "nRF24L01",
+        "nrf51",
+        "nRF51822",
+        "nrf52",
+        "nrf52832",
+        "proprietary",
+        "Radio"
+    ],
+    "name": "nRFBareRadio",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fbcosentino/code/nRFBareRadio/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jorge Hernandez",
+        "url": "https://os.mbed.com/users/jhestolano/"
+    },
+    "description": "Modified to also return int16_t values.",
+    "frameworks": "mbed",
+    "keywords": "MMA8451Q",
+    "name": "MMA8451Q",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jhestolano/code/MMA8451Q/"
+    }
+}

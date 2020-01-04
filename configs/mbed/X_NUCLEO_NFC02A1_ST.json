@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ST_INTERFACES"
+        }
+    ],
+    "description": "X_NUCLEO_NFC02A1 library for M24LR",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/HelloWorld_NFC02A1_mbedOS/",
+        "https://os.mbed.com/users/ThijsBuuron/code/HelloWorld_NFC02A1laatste/",
+        "https://os.mbed.com/teams/ST/code/HelloWorld_NFC02A1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "M24LR",
+        "NDEF",
+        "NFC",
+        "NFC2",
+        "ST",
+        "URI",
+        "X-NUCLEO-NFC02A1"
+    ],
+    "name": "X_NUCLEO_NFC02A1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/X_NUCLEO_NFC02A1/"
+    }
+}

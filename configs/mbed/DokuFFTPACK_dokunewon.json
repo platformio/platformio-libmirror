@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "doku newon",
+        "url": "https://os.mbed.com/users/dokunewon/"
+    },
+    "description": "widely known free FFT library.",
+    "examples": [
+        "https://os.mbed.com/users/dokunewon/code/Peach_AudioChannelDividerAndCompensator/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FFT",
+        "RFFT"
+    ],
+    "name": "DokuFFTPACK",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dokunewon/code/DokuFFTPACK/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Joep Dumont",
+        "url": "https://os.mbed.com/users/xorjoep/"
+    },
+    "description": "The CMSIS DSP 5 library",
+    "examples": [
+        "https://os.mbed.com/users/MockyBirdTwo/code/Nucleo-Heart-Rate/",
+        "https://os.mbed.com/teams/Carmen_y_Miguel/code/ejercicioVrms2/",
+        "https://os.mbed.com/teams/Carmen_y_Miguel/code/PROYECTOFINAL/",
+        "https://os.mbed.com/users/javiervicente/code/ejercicioVrms/",
+        "https://os.mbed.com/teams/Equipo/code/ejercicioVrms/",
+        "https://os.mbed.com/teams/JHJ/code/ejercicioVrms2/",
+        "https://os.mbed.com/users/jvicente/code/PruebaFiltro/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "CMSIS_DSP_5",
+    "name": "CMSIS_DSP_5",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/xorjoep/code/CMSIS_DSP_5/"
+    }
+}

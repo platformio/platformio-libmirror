@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "W5500-Ethernet-Interface Makers",
+        "url": "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/"
+    },
+    "dependencies": [
+        {
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
+            "name": "FP"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "MQTTPacket"
+        }
+    ],
+    "description": "An API for using MQTT over multiple transports",
+    "examples": [
+        "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/code/IBMIoTClientEthernetExample_W5500/",
+        "https://os.mbed.com/users/hillkim7/code/IBMIoTClientEthernetExample_W5200/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MQTT",
+        "MQTTClient"
+    ],
+    "name": "MQTT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/code/MQTT/"
+    }
+}

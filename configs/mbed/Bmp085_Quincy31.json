@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Quincy Wang",
+        "url": "https://os.mbed.com/users/Quincy31/"
+    },
+    "description": "BMP085 Digital, barometric pressure sensor. Manufacturer: Bosch Sensortec.",
+    "frameworks": "mbed",
+    "keywords": "Bmp085",
+    "name": "Bmp085",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Quincy31/code/Bmp085/"
+    }
+}

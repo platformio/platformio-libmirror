@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "EmbeddedArtists AB",
+        "url": "https://os.mbed.com/users/embeddedartists/"
+    },
+    "description": "Wrapper classes for the emwin library",
+    "examples": [
+        "https://os.mbed.com/users/embeddedartists/code/app_emwin1/",
+        "https://os.mbed.com/users/embeddedartists/code/app_emwin2_pos/",
+        "https://os.mbed.com/users/embeddedartists/code/lpc4088_ebb_gui_emwin/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "emwin",
+        "GUI",
+        "LPC4088"
+    ],
+    "name": "ewgui",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/embeddedartists/code/ewgui/"
+    }
+}

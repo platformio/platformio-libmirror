@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Toyomasa Watarai",
+        "url": "https://os.mbed.com/users/MACRUM/"
+    },
+    "description": "A HTTP Client library - increase receive buffer size",
+    "examples": [
+        "https://os.mbed.com/users/hirobe0913/code/Fx0Hackson_b/",
+        "https://os.mbed.com/users/daisukekmr/code/Fx0Hackson/",
+        "https://os.mbed.com/users/bridadan/code/HTTPClient_HelloWorld/",
+        "https://os.mbed.com/users/terrence/code/HTTPClient_POST/",
+        "https://os.mbed.com/teams/KDDI-Fx0-hackathon/code/HTTPClient_WiFi_HelloWorld/",
+        "https://os.mbed.com/users/sunsmile2015/code/HTTPClient_WiFi_HelloWorld_src/",
+        "https://os.mbed.com/users/MACRUM/code/HTTPClient_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HTTPClient",
+    "name": "HTTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MACRUM/code/HTTPClient/"
+    }
+}

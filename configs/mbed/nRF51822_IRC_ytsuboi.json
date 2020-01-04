@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Yoshihiro TSUBOI",
+        "url": "https://os.mbed.com/users/ytsuboi/"
+    },
+    "description": "changed low freq. clock source to IRC",
+    "examples": [
+        "https://os.mbed.com/users/ytsuboi/code/BLE_ANCS_SDAPI_IRC/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "nRF51822_IRC",
+    "name": "nRF51822_IRC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ytsuboi/code/nRF51822_IRC/"
+    }
+}

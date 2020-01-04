@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Azure IoT",
+        "url": "https://os.mbed.com/users/AzureIoTClient/"
+    },
+    "description": "Microsoft Azure IoTHub client MQTT transport",
+    "examples": [
+        "https://os.mbed.com/users/DieterGraef/code/STM32F746_iothub_client_sample_mqtt/",
+        "https://os.mbed.com/users/julianhigginson/code/FXOS8700CQ_To_Azure_IoT/",
+        "https://os.mbed.com/users/lrh/code/f767zi_mqtt/",
+        "https://os.mbed.com/users/markrad/code/FXOS8700CQ_To_Azure_IoT/",
+        "https://os.mbed.com/users/AzureIoTClient/code/iothub_client_sample_mqtt/",
+        "https://os.mbed.com/users/AzureIoTClient/code/simplesample_mqtt/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "iothub_mqtt_transport",
+    "name": "iothub_mqtt_transport",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AzureIoTClient/code/iothub_mqtt_transport/"
+    }
+}

@@ -3,16 +3,6 @@
         "name": "Espotel",
         "url": "https://os.mbed.com/teams/Espotel/"
     },
-    "build": {
-        "flags": [
-            "-Itypedefs",
-            "-Idebug",
-            "-Iregisters",
-            "-Isx1272",
-            "-Iradio",
-            "-Ienums"
-        ]
-    },
     "description": "Semtech SX1272 radio chipset driver - ported based on Semtech SX1276 driver.",
     "examples": [
         "https://os.mbed.com/users/mleksio/code/Elmo-Terminal/",

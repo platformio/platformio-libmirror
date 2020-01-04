@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Tatsuki Fukuda",
+        "url": "https://os.mbed.com/users/lelect/"
+    },
+    "description": "秋月販売のL3GD20使用8pinDIPジャイロセンサーモジュールのライブラリです。 FIFOを使って等間隔データの読み込みができます。 構造体のポインタをreadメソッドに渡すと値が入ります。 <今後の予定> ・レジスタへのアクセスの整理整頓 ・データレート/HighLowのフィルター/分解能の設定メソッド ・mbedピン変化割り込みによるデータ取得(おそらく関数ポインタを割り込み処理のメソッドに渡してもらう) ・読み取りデータにフィルターをかける。 ・データ取得の高速化",
+    "frameworks": "mbed",
+    "keywords": "L3GD20",
+    "name": "L3GD20",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lelect/code/L3GD20/"
+    }
+}

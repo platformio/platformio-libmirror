@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "andy mosi",
+        "url": "https://os.mbed.com/users/mosi/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "SDFileSystem fork without the Debugging messages of mbed_debug.h",
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mosi/code/SDFileSystem/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Bas Vuyk",
+        "url": "https://os.mbed.com/users/basvuyk/"
+    },
+    "description": "buzzer",
+    "examples": [
+        "https://os.mbed.com/users/basvuyk/code/Handheld_Node/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "buzzer",
+    "name": "buzzer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/basvuyk/code/buzzer/"
+    }
+}

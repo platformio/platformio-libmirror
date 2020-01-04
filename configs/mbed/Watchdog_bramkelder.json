@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Bram Kelder",
+        "url": "https://os.mbed.com/users/bramkelder/"
+    },
+    "description": "Watchdog lib for LPC1768",
+    "frameworks": "mbed",
+    "keywords": "Watchdog",
+    "name": "Watchdog",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bramkelder/code/Watchdog/"
+    }
+}

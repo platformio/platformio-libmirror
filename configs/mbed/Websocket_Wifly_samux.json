@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Samuel Mokrani",
+        "url": "https://os.mbed.com/users/samux/"
+    },
+    "description": "Websocket client. You can only use this class with a Wifly module. If you want to use websockets over ethernet, take a look at the Websocket class.",
+    "frameworks": "mbed",
+    "keywords": "Websocket_Wifly",
+    "name": "Websocket_Wifly",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/samux/code/Websocket_Wifly/"
+    }
+}

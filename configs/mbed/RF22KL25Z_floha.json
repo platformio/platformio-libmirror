@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Flo rian",
+        "url": "https://os.mbed.com/users/floha/"
+    },
+    "description": "Library for HopeRF RFM22 transceiver module ported to mbed. Original Software from Mike McCauley (mikem@open.com.au) . See http://www.open.com.au/mikem/arduino/RF22/",
+    "frameworks": "mbed",
+    "keywords": [
+        "HOPERF",
+        "RF22",
+        "RFM22"
+    ],
+    "name": "RF22KL25Z",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/floha/code/RF22KL25Z/"
+    }
+}

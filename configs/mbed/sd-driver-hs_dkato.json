@@ -3,17 +3,6 @@
         "name": "Daiki Kato",
         "url": "https://os.mbed.com/users/dkato/"
     },
-    "build": {
-        "flags": [
-            "-Ifeatures",
-            "-Ifeatures/filesystem",
-            "-Ifeatures/filesystem/sd",
-            "-Ifeatures/filesystem/spif",
-            "-Idocs",
-            "-Idocs/pics",
-            "-Iconfig"
-        ]
-    },
     "description": "High-speed access version sd-driver.",
     "examples": [
         "https://os.mbed.com/users/dkato/code/SDBlockDevice_GR_PEACH/",

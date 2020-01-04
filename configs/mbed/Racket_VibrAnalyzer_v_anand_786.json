@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Anand vaidyanathan",
+        "url": "https://os.mbed.com/users/v_anand_786/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "Hexi_KW40Z"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "Hexi_OLED_SSD1351"
+        }
+    ],
+    "description": "Tennis Racket Vibration Analyzer",
+    "frameworks": "mbed",
+    "keywords": [
+        "fxos8700cq",
+        "HEXIWEAR"
+    ],
+    "name": "Racket_VibrAnalyzer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/v_anand_786/code/Racket_VibrAnalyzer/"
+    }
+}

@@ -4,6 +4,10 @@
         "url": "https://os.mbed.com/users/megrootens/"
     },
     "description": "Library for SPI communication with the AMS AS5048 rotary sensor",
+    "examples": [
+        "https://os.mbed.com/users/Technical_Muffin/code/heros_leg_readout_torque_addition/",
+        "https://os.mbed.com/users/cnckiwi31/code/heros_leg_readout_torque_addition/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "AS5048",

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Thinger.io",
+        "url": "https://os.mbed.com/teams/Thingerio/"
+    },
+    "description": "Thinger.io Client Library for ARM mbed platform. This is a generic library that provides a base class that can be used to other develop hardware specific libraries.",
+    "frameworks": "mbed",
+    "keywords": [
+        "IOT",
+        "thinger"
+    ],
+    "name": "ThingerClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Thingerio/code/ThingerClient/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "NEHSROBOT",
+        "url": "https://os.mbed.com/teams/NEHSROBOT/"
+    },
+    "description": "bluetooth control motor",
+    "examples": [
+        "https://os.mbed.com/teams/NEHSROBOT/code/BLE_LED_IDB0XA1_demo/",
+        "https://os.mbed.com/teams/NEHSROBOT/code/MOTOR_BLE_V2/",
+        "https://os.mbed.com/teams/NEHSROBOT/code/Motor_Ble_v1/",
+        "https://os.mbed.com/teams/NEHSROBOT/code/Motor_Ble_v10223/",
+        "https://os.mbed.com/teams/NEHSROBOT/code/Motor_Ble_v1201820223FINAL/",
+        "https://os.mbed.com/teams/NEHSROBOT/code/Motor_Ble_Ultimate_Final/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "X_NUCLEO_IDB0XA1",
+    "name": "X_NUCLEO_IDB0XA1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NEHSROBOT/code/X_NUCLEO_IDB0XA1/"
+    }
+}

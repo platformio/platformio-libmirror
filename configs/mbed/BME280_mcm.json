@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Manuel Caballero",
+        "url": "https://os.mbed.com/users/mcm/"
+    },
+    "description": "Combined humidity and pressure sensor.",
+    "frameworks": "mbed",
+    "keywords": [
+        "BME280",
+        "Bosch",
+        "driver",
+        "Humidity",
+        "I2C",
+        "library",
+        "pressure",
+        "Temperature"
+    ],
+    "name": "BME280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mcm/code/BME280/"
+    }
+}

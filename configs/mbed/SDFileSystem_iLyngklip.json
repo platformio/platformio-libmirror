@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Mathias Lyngklip",
+        "url": "https://os.mbed.com/users/iLyngklip/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "SDFileSystem_HelloWorld"
+        }
+    ],
+    "description": "j",
+    "examples": [
+        "https://os.mbed.com/users/iLyngklip/code/SPACEmk2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/iLyngklip/code/SDFileSystem/"
+    }
+}

@@ -3,12 +3,6 @@
         "name": "MultiTech",
         "url": "https://os.mbed.com/teams/MultiTech/"
     },
-    "build": {
-        "flags": [
-            "-IMTS-Utils",
-            "-ILoRaMac"
-        ]
-    },
     "description": "Library for LoRa communication using MultiTech MDOT.",
     "examples": [
         "https://os.mbed.com/users/mfiore/code/mDot_test_rx/",

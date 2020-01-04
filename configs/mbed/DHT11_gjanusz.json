@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Grzegorz Janusz",
+        "url": "https://os.mbed.com/users/gjanusz/"
+    },
+    "description": "A library for the use of DHT11, a temperature and humidity sensor",
+    "examples": [
+        "https://os.mbed.com/users/gjanusz/code/HTTP_SERVER2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DHT11",
+        "Humidity",
+        "Temperature"
+    ],
+    "name": "DHT11",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gjanusz/code/DHT11/"
+    }
+}

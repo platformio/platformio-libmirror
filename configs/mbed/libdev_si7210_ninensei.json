@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Steve Martin",
+        "url": "https://os.mbed.com/users/ninensei/"
+    },
+    "description": "Silicon Labs Si7210 device driver: I2C Hall Effect Magnetic Position and Temperature Sensor",
+    "frameworks": "mbed",
+    "keywords": "libdev_si7210",
+    "name": "libdev_si7210",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ninensei/code/libdev_si7210/"
+    }
+}

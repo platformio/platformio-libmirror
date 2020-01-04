@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Kyu Park",
+        "url": "https://os.mbed.com/users/pksuf07/"
+    },
+    "description": "This is the copy of THE \"minimal-printf\" (Not my development). I copied but I couldn't find the library from the mbed community. I will fix it later",
+    "examples": [
+        "https://os.mbed.com/users/pksuf07/code/mbed2-cjmcu75/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "minimal-printf",
+    "name": "minimal-printf",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pksuf07/code/minimal-printf/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Manuel Caballero",
+        "url": "https://os.mbed.com/users/mcm/"
+    },
+    "description": "Current transducer. For the electronic measurement of currents: DC, AC, pulsed..., with galvanic separation between the primary circuit and the secondary circuit.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Current Transducer",
+        "LEM HAIS",
+        "library",
+        "sensor"
+    ],
+    "name": "LEM-HAIS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mcm/code/LEM-HAIS/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "NagaokaRoboticsClub_mbedTeam",
+        "url": "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/"
+    },
+    "description": "MPU6050 DMP Library",
+    "frameworks": "mbed",
+    "keywords": "MPU6050-DMP",
+    "name": "MPU6050-DMP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/MPU6050-DMP/"
+    }
+}

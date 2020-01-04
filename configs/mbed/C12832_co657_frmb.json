@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Fred Barnes",
+        "url": "https://os.mbed.com/users/co657_frmb/"
+    },
+    "description": "Fork of Chris Styles' C12832 LCD driver",
+    "examples": [
+        "https://os.mbed.com/users/co657_frmb/code/co657_lcdplay/",
+        "https://os.mbed.com/users/co657_frmb/code/co657_nrf52_beacons/",
+        "https://os.mbed.com/users/co657_kn241/code/door_lock/",
+        "https://os.mbed.com/users/co657_es445/code/co657_IoT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "C12832",
+        "LCD"
+    ],
+    "name": "C12832",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/co657_frmb/code/C12832/"
+    }
+}

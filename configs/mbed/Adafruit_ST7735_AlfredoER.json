@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Alfredo Espinoza Rhoton",
+        "url": "https://os.mbed.com/users/AlfredoER/"
+    },
+    "description": "Fork of the Adafruit ST7735R library targeted to the 1.44\" TFT with custom high speed monochrome and color drawing routines. Note that this library includes modifications to use a shared ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "SPI",
+        "ST7735R",
+        "TFT"
+    ],
+    "name": "Adafruit_ST7735",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AlfredoER/code/Adafruit_ST7735/"
+    }
+}

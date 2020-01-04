@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Bartek Wereszczyński",
+        "url": "https://os.mbed.com/users/foreste/"
+    },
+    "description": "Add module fc113 (PCF8574t)",
+    "examples": [
+        "https://os.mbed.com/teams/Laboratorio-CAD/code/Cassaforte/",
+        "https://os.mbed.com/teams/Laboratorio-CAD/code/Cassaforte2/",
+        "https://os.mbed.com/teams/Laboratorio-CAD/code/Cassaforte5dic18/",
+        "https://os.mbed.com/teams/Laboratorio-CAD/code/Cassaforte5_copy/",
+        "https://os.mbed.com/teams/Laboratorio-CAD/code/Cassaforte7/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Fc113",
+        "HD44780",
+        "I2C",
+        "LCD",
+        "PCF8574t"
+    ],
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/foreste/code/TextLCD/"
+    }
+}

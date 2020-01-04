@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Naresh Krish",
+        "url": "https://os.mbed.com/users/knaresh89/"
+    },
+    "description": "Mbed driver for the Stmicroelectronics LIS2MDL sensor",
+    "examples": [
+        "https://os.mbed.com/users/knaresh89/code/itracker-mbed-os-example-lis2mdl/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LIS2MDL",
+        "magnetometer"
+    ],
+    "name": "LIS2MDL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/knaresh89/code/LIS2MDL/"
+    }
+}

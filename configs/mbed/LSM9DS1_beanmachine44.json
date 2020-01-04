@@ -5,7 +5,9 @@
     },
     "description": "LSM9DS1 IMU sensor driver",
     "examples": [
-        "https://os.mbed.com/users/beanmachine44/code/LSM9DS1_Demo/"
+        "https://os.mbed.com/users/beanmachine44/code/LSM9DS1_Demo/",
+        "https://os.mbed.com/users/cdove/code/LSM9DS1_Demo/",
+        "https://os.mbed.com/users/zachs1/code/Nucleo_i2c_master/"
     ],
     "frameworks": "mbed",
     "keywords": "LSM9DS1",

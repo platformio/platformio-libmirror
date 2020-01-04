@@ -4,6 +4,9 @@
         "url": "https://os.mbed.com/users/bloodline/"
     },
     "description": "A Servo control library that works on any output pin, not just the PWM pins",
+    "examples": [
+        "https://os.mbed.com/users/boro/code/PES2_Board_Servo/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "output",

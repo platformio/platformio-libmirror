@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "NagaokaRoboticsClub_mbedTeam",
+        "url": "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/"
+    },
+    "description": "FEPとdualshock3",
+    "examples": [
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/PS3_sample/",
+        "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/Nucleo_NHK_2018_syudo_wheel/",
+        "https://os.mbed.com/users/THtakahiro702286/code/kourobo/",
+        "https://os.mbed.com/users/THtakahiro702286/code/kourobo5/",
+        "https://os.mbed.com/users/aiueo700A/code/kourobo/",
+        "https://os.mbed.com/users/ec30109b/code/2019OpenCampus/",
+        "https://os.mbed.com/users/piroro4560/code/adachi_test/",
+        "https://os.mbed.com/users/THtakahiro702286/code/2019BSyudo/",
+        "https://os.mbed.com/users/THtakahiro702286/code/Bsyudo/",
+        "https://os.mbed.com/users/ec30109b/code/2019NHK_A_manual_red/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FEP",
+        "PS3"
+    ],
+    "name": "PS3",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NHK-Robocon2016_Nagaoka_B_Team/code/PS3/"
+    }
+}

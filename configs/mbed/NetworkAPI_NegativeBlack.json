@@ -3,13 +3,6 @@
         "name": "Roy van Dam",
         "url": "https://os.mbed.com/users/NegativeBlack/"
     },
-    "build": {
-        "flags": [
-            "-Iudp",
-            "-Iip",
-            "-Itcp"
-        ]
-    },
     "description": "A new object oriented network api that can be used to replace the one provided by the EthernetInterface library.",
     "examples": [
         "https://os.mbed.com/users/NegativeBlack/code/NetRelais/",

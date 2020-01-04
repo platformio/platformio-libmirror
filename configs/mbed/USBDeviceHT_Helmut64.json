@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Helmut Tschemernjak",
+        "url": "https://os.mbed.com/users/Helmut64/"
+    },
+    "description": "A copy of the mbed USBDevice with USBSerial library",
+    "examples": [
+        "https://os.mbed.com/users/Helmut64/code/STM32L0_LoRa/",
+        "https://os.mbed.com/users/marcozecchini/code/Smartage/",
+        "https://os.mbed.com/users/steve918/code/STM32L0_LoRa/",
+        "https://os.mbed.com/users/Helmut64/code/Turtle_RadioShuttle/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "USBDeviceHT",
+    "name": "USBDeviceHT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Helmut64/code/USBDeviceHT/"
+    }
+}

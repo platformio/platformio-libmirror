@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Manuel Caballero",
+        "url": "https://os.mbed.com/users/mcm/"
+    },
+    "description": "I2C HUMIDITY AND TEMPERATURE SENSOR",
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "Humidity",
+        "I2C",
+        "library",
+        "Si7021",
+        "SiLabs",
+        "Temperature"
+    ],
+    "name": "SI7021",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mcm/code/SI7021/"
+    }
+}

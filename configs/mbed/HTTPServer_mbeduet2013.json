@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Nguyễn Thắng",
+        "url": "https://os.mbed.com/users/mbeduet2013/"
+    },
+    "description": "Single instance HTTP server using new Ethernet Interface",
+    "examples": [
+        "https://os.mbed.com/users/geekymartian/code/websocketandnode/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HTTPServer",
+    "name": "HTTPServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbeduet2013/code/HTTPServer/"
+    }
+}

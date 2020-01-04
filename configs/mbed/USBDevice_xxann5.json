@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Chris Majoros",
+        "url": "https://os.mbed.com/users/xxann5/"
+    },
+    "description": "USB/HID stack for the loststone project",
+    "examples": [
+        "https://os.mbed.com/users/xxann5/code/loststone/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "loststone",
+        "Mouse",
+        "trackball"
+    ],
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/xxann5/code/USBDevice/"
+    }
+}

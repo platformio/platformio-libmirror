@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "IOP",
+        "url": "https://os.mbed.com/teams/IOP/"
+    },
+    "description": "fork WIZnetInterface",
+    "examples": [
+        "https://os.mbed.com/users/vvvf/code/Weather_Forecast_Helloworld_WIZwiki-W750/",
+        "https://os.mbed.com/users/lovetang72/code/Weather_Forecast_Helloworld_WIZwiki-W750/",
+        "https://os.mbed.com/users/bestyj91/code/Weather_Forecast_Helloworld_WIZwiki-W750/",
+        "https://os.mbed.com/users/joon874/code/DHCPAddressAssignment/",
+        "https://os.mbed.com/users/joon874/code/DNSWebClient/",
+        "https://os.mbed.com/users/joon874/code/MY_Weateher_Station/",
+        "https://os.mbed.com/teams/IOP/code/Tweeting_Machine_HelloWorld_WIZwiki-W750/",
+        "https://os.mbed.com/users/IOP/code/Tweeting_Machine_HelloWorld_WIZwiki-W750/",
+        "https://os.mbed.com/users/Nasungil/code/test/",
+        "https://os.mbed.com/users/Gallua/code/test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "WIZnetInterface",
+    "name": "WIZnetInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/IOP/code/WIZnetInterface/"
+    }
+}

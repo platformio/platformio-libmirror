@@ -3,11 +3,6 @@
         "name": "Shuto Naruse",
         "url": "https://os.mbed.com/users/narshu/"
     },
-    "build": {
-        "flags": [
-            "-IRF12B"
-        ]
-    },
     "description": "Sonar",
     "frameworks": "mbed",
     "keywords": "Sonar",

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jins Joseph",
+        "url": "https://os.mbed.com/users/josephjins11/"
+    },
+    "description": "OV7670 without FIFO, SCCB protocol rewritten.",
+    "frameworks": "mbed",
+    "keywords": "cam",
+    "name": "ov7670s",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/josephjins11/code/ov7670s/"
+    }
+}

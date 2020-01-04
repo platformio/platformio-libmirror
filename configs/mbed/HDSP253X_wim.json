@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "HDSP253X Smart Alphanumeric LED matrix display",
+    "examples": [
+        "https://os.mbed.com/users/wim/code/mbed_bus/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "alphanumeric",
+        "HDSP2530",
+        "HDSP2531",
+        "HDSP2532",
+        "HDSP2533",
+        "HDSP2534",
+        "led",
+        "matrix"
+    ],
+    "name": "HDSP253X",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/HDSP253X/"
+    }
+}

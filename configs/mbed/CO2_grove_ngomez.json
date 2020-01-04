@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Nerea Gomez",
+        "url": "https://os.mbed.com/users/ngomez/"
+    },
+    "description": "Library for co2 grove sensor",
+    "frameworks": "mbed",
+    "keywords": "CO2_grove",
+    "name": "CO2_grove",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ngomez/code/CO2_grove/"
+    }
+}

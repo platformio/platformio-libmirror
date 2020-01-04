@@ -1,39 +1,7 @@
 {
     "authors": {
-        "name": "takuya matsuzaki",
+        "name": "sabme ua",
         "url": "https://os.mbed.com/users/mzta/"
-    },
-    "build": {
-        "flags": [
-            "-Imrbgems",
-            "-Imrbgems/mruby-math",
-            "-Imrbgems/mruby-proc-ext",
-            "-Imrbgems/mruby-mbed",
-            "-Imrbgems/mruby-mbed/mbedif",
-            "-Imrbgems/mruby-toplevel-ext",
-            "-Imrbgems/mruby-print",
-            "-Imrbgems/mruby-hash-ext",
-            "-Imrbgems/mruby-random",
-            "-Imrbgems/mruby-sprintf",
-            "-Imrbgems/mruby-string-ext",
-            "-Imrbgems/mruby-enum-ext",
-            "-Imrbgems/mruby-enumerator",
-            "-Imrbgems/mruby-range-ext",
-            "-Imrbgems/mruby-kernel-ext",
-            "-Imrbgems/mruby-enum-lazy",
-            "-Imrbgems/mruby-numeric-ext",
-            "-Imrbgems/mruby-eval",
-            "-Imrbgems/mruby-struct",
-            "-Imrbgems/mruby-symbol-ext",
-            "-Imrbgems/mruby-objectspace",
-            "-Imrbgems/mruby-object-ext",
-            "-Imrbgems/mruby-fiber",
-            "-Imrbgems/mruby-array-ext",
-            "-Iinclude",
-            "-Iinclude/mruby",
-            "-Imrblib",
-            "-Isrc"
-        ]
     },
     "description": "mbed I/F binding for mruby",
     "examples": [

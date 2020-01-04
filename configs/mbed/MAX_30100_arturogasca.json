@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Arturo Gasca",
+        "url": "https://os.mbed.com/users/arturogasca/"
+    },
+    "description": "max30100",
+    "examples": [
+        "https://os.mbed.com/users/arturogasca/code/BIOMETRICOS_HUMANOS_BETA/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MAX_30100",
+    "name": "MAX_30100",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/arturogasca/code/MAX_30100/"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "authors": {
+        "name": "Borja Tarazona",
+        "url": "https://os.mbed.com/users/BorjaTarazona/"
+    },
+    "dependencies": [
+        {
+            "authors": "Borja Tarazona",
+            "frameworks": "mbed",
+            "name": "ATCommand"
+        },
+        {
+            "authors": "Borja Tarazona",
+            "frameworks": "mbed",
+            "name": "Azure_HTTPS_SIMCOM"
+        }
+    ],
+    "description": "An Interface for SIMCOM modules.",
+    "examples": [
+        "https://os.mbed.com/users/BorjaTarazona/code/Azure_SIM800_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AT",
+        "Azure",
+        "GPRS",
+        "GSM",
+        "IOT",
+        "Serial",
+        "SIM",
+        "SIM800",
+        "SIM900",
+        "SIMCOM"
+    ],
+    "name": "SIMInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BorjaTarazona/code/SIMInterface/"
+    }
+}

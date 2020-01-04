@@ -3,16 +3,19 @@
         "name": "David Smart",
         "url": "https://os.mbed.com/users/WiredHome/"
     },
-    "build": {
-        "flags": [
-            "-INTPClient"
-        ]
-    },
+    "dependencies": [
+        {
+            "authors": "David Smart",
+            "frameworks": "mbed",
+            "name": "CalendarPage"
+        }
+    ],
     "description": "A time interface class. This class replicates the normal time functions, but goes a couple of steps further. mbed library 82 and prior has a defective gmtime function. Also, this ...",
     "examples": [
+        "https://os.mbed.com/users/thedude35/code/CI-data-logger-server/",
+        "https://os.mbed.com/users/WiredHome/code/SSDP_Server/",
         "https://os.mbed.com/users/WiredHome/code/WattEye/",
-        "https://os.mbed.com/users/WiredHome/code/X10-Server/",
-        "https://os.mbed.com/users/thedude35/code/CI-data-logger-server/"
+        "https://os.mbed.com/users/WiredHome/code/X10Svr/"
     ],
     "frameworks": "mbed",
     "keywords": "TimeInterface",

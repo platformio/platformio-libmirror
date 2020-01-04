@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "ex ELLA",
+        "url": "https://os.mbed.com/teams/ELLA-Robotics-Inc/"
+    },
+    "description": "A derived version of the BSD licensed Adafrut GFX library for the SSD1351 controller for an OLED 128x128 display using SPI.",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "I2C",
+        "OLED",
+        "SPI",
+        "SSD1351"
+    ],
+    "name": "Adafruit_GFX_1351",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ELLA-Robotics-Inc/code/Adafruit_GFX_1351/"
+    }
+}

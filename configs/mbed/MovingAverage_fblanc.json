@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "frederic blanc",
+        "url": "https://os.mbed.com/users/fblanc/"
+    },
+    "description": "Moving Average",
+    "examples": [
+        "https://os.mbed.com/users/fblanc/code/MovingAverage_HelloWorld/",
+        "https://os.mbed.com/users/Generic/code/Levitator/",
+        "https://os.mbed.com/users/Roooos/code/EMG_Realtime_Filter/",
+        "https://os.mbed.com/users/Roooos/code/EMG_Calibration/",
+        "https://os.mbed.com/users/rubenlucas/code/StateMachinePTR/",
+        "https://os.mbed.com/users/aschut/code/EMG_myo/",
+        "https://os.mbed.com/users/aschut/code/EMGreader/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "average",
+        "math",
+        "Moving"
+    ],
+    "name": "MovingAverage",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fblanc/code/MovingAverage/"
+    }
+}

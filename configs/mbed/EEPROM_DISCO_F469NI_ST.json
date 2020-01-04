@@ -5,7 +5,15 @@
     },
     "description": "Class to drive a M24LR64 EEPROM with the STM32769I_DISCOVERY board. This EEPROM can be found on the additional ANT7-M24LR-A daughter board.",
     "examples": [
-        "https://os.mbed.com/teams/ST/code/DISCO-F469NI_EEPROM_demo/"
+        "https://os.mbed.com/teams/ST/code/DISCO-F469NI_EEPROM_demo/",
+        "https://os.mbed.com/users/formulas/code/IntegrationCAN_28jun/",
+        "https://os.mbed.com/users/nemanja1994/code/IntegrationCAN_7jul/",
+        "https://os.mbed.com/users/formulas/code/IntegrationCAN_7julnovo/",
+        "https://os.mbed.com/users/formulas/code/IntegrationCAN_7jul/",
+        "https://os.mbed.com/users/Stefan_Sofijanic/code/IntegrationCAN_15feb/",
+        "https://os.mbed.com/users/Stefan_Sofijanic/code/IntegrationCAN_27mar/",
+        "https://os.mbed.com/users/Stefan_Sofijanic/code/IntegrationCAN_03apr_FSRA2019/",
+        "https://os.mbed.com/users/stefan996/code/Ekran/"
     ],
     "frameworks": "mbed",
     "keywords": [

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/"
+    },
+    "description": "Maxim Integrated 7-bit Sink/Source Current DAC. DS4424, DS4422 input/output current Digital-to-Analog Converter Driver/library code.",
+    "examples": [
+        "https://os.mbed.com/teams/MaximIntegrated/code/DS4424_Hello_Current_DAC_on_MAX32630FTHR/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "current margining",
+        "current sink dac",
+        "current source dac",
+        "digital to analog converter",
+        "DS4422",
+        "DS4424",
+        "input dac",
+        "output dac"
+    ],
+    "name": "DS4424_SINK_SOURCE_CURRENT_DAC_INPUT_OUTPUT_DAC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/code/DS4424_SINK_SOURCE_CURRENT_DAC_INPUT_OUT/"
+    }
+}

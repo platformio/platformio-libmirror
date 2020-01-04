@@ -3,12 +3,6 @@
         "name": "Andy Kirkham",
         "url": "https://os.mbed.com/users/AjK/"
     },
-    "build": {
-        "flags": [
-            "-Iinc",
-            "-Isrc"
-        ]
-    },
     "description": "A simple API/Software interface to the LPC17xx PWM peripheral to provide control to up to six RC type servo controllers.",
     "frameworks": "mbed",
     "keywords": [

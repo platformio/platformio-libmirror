@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "VILLEMEJANE Julien",
+        "url": "https://os.mbed.com/users/villemejane/"
+    },
+    "description": "Driver for Discovery Board F429ZI",
+    "examples": [
+        "https://os.mbed.com/users/villemejane/code/F429_GUI/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BSP_DISCO_F429ZI",
+    "name": "BSP_DISCO_F429ZI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/villemejane/code/BSP_DISCO_F429ZI/"
+    }
+}

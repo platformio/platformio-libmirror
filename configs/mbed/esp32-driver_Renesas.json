@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Renesas",
+        "url": "https://os.mbed.com/teams/Renesas/"
+    },
+    "description": "The driver for the ESP32 WiFi module",
+    "frameworks": "mbed",
+    "keywords": [
+        "ESP32",
+        "wifi"
+    ],
+    "name": "esp32-driver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Renesas/code/esp32-driver/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Ichiro Maruta",
+        "url": "https://os.mbed.com/users/maruta/"
+    },
+    "description": "library for implementing continuous-time linear time invariant systems. for PID controller, filters etc.",
+    "examples": [
+        "https://os.mbed.com/users/maruta/code/ltisys_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ltisys",
+    "name": "ltisys",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/maruta/code/ltisys/"
+    }
+}

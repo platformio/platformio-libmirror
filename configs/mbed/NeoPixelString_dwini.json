@@ -3,11 +3,6 @@
         "name": "Nico De Witte",
         "url": "https://os.mbed.com/users/dwini/"
     },
-    "build": {
-        "flags": [
-            "-IEffects"
-        ]
-    },
     "dependencies": [
         {
             "authors": "Jacob Bramley",

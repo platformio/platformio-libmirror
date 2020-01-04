@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Shun Katsube",
+        "url": "https://os.mbed.com/users/tubemerc/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "Neil Thiessen / SDFileSystem. FATFileSystem updated.",
+    "examples": [
+        "https://os.mbed.com/users/tubemerc/code/sdcard_momo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tubemerc/code/SDFileSystem/"
+    }
+}

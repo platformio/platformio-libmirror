@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "suu pen",
+        "url": "https://os.mbed.com/users/suupen/"
+    },
+    "description": "This library has been tested with LPC1768. I can use the analog port of six of p20 from p15 of the LPC1768.",
+    "examples": [
+        "https://os.mbed.com/users/suupen/code/SwAnalogInputLibraryExampleProgram/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SW",
+    "name": "SwAnalog_LPC1768",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/suupen/code/SwAnalog_LPC1768/"
+    }
+}

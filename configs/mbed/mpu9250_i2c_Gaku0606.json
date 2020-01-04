@@ -4,6 +4,9 @@
         "url": "https://os.mbed.com/users/Gaku0606/"
     },
     "description": "mpu9250のライブラリ、I2Cを利用。開発段階のため微妙",
+    "examples": [
+        "https://os.mbed.com/users/tanahashi/code/PQGraphic_test/"
+    ],
     "frameworks": "mbed",
     "keywords": "mpu9250_i2c",
     "name": "mpu9250_i2c",

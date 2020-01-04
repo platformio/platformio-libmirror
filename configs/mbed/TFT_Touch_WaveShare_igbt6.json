@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Lukasz Uszko",
+        "url": "https://os.mbed.com/users/igbt6/"
+    },
+    "description": "MBED library for LCD-TFT display: https://www.waveshare.com/wiki/2.8inch_TFT_Touch_Shield",
+    "examples": [
+        "https://os.mbed.com/users/igbt6/code/DiffPressureMeter/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TFT_Touch_WaveShare",
+    "name": "TFT_Touch_WaveShare",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/igbt6/code/TFT_Touch_WaveShare/"
+    }
+}

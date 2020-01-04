@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Denver Hayward",
+        "url": "https://os.mbed.com/users/williampeers/"
+    },
+    "description": "Simple PID",
+    "frameworks": "mbed",
+    "keywords": "PID",
+    "name": "PID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/williampeers/code/PID/"
+    }
+}

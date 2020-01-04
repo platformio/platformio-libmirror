@@ -3,11 +3,6 @@
         "name": "WIZnet",
         "url": "https://os.mbed.com/teams/WIZnet/"
     },
-    "build": {
-        "flags": [
-            "-IHandler"
-        ]
-    },
     "description": "httpServer example program for WIZwiki-W7500 Only LED control",
     "examples": [
         "https://os.mbed.com/teams/WIZnet/code/httpServer-WIZwiki-W7500/"

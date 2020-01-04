@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "BSP files for STM32H747I-Discovery Copy from ST Cube delivery",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/DISCO_H747I_LCD_demo/",
+        "https://os.mbed.com/teams/ST/code/DISCO_H747I_AUDIO_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BSP_DISCO_H747I",
+    "name": "BSP_DISCO_H747I",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/BSP_DISCO_H747I/"
+    }
+}

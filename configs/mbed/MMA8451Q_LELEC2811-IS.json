@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "LELEC2811 - I&S",
+        "url": "https://os.mbed.com/teams/LELEC2811-IS/"
+    },
+    "description": "Library to interface MMA8451Q sensor",
+    "examples": [
+        "https://os.mbed.com/teams/LELEC2811-IS/code/LELEC_2811_Accelerometer_2/",
+        "https://os.mbed.com/teams/LELEC2811-IS/code/LELEC_2811_Multiple_Sensors/",
+        "https://os.mbed.com/teams/LELEC2811-groupe-X/code/LELEC_2811_acquiring_data/",
+        "https://os.mbed.com/users/tuscasp/code/LELEC_2811_acquiring_data_working/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MMA8451Q",
+    "name": "MMA8451Q",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/LELEC2811-IS/code/MMA8451Q/"
+    }
+}

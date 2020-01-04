@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Steven Ortiz",
+        "url": "https://os.mbed.com/users/Stevenor1997/"
+    },
+    "description": "esta librería sirve para el control del motor paso a paso.",
+    "examples": [
+        "https://os.mbed.com/users/Stevenor1997/code/PICCOLO_CNC1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "PICCOLO_CNC",
+        "sistemas_embebidos",
+        "step_motor"
+    ],
+    "name": "Step_Motor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Stevenor1997/code/Step_Motor/"
+    }
+}

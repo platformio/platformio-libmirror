@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Borja Tarazona",
+        "url": "https://os.mbed.com/users/BorjaTarazona/"
+    },
+    "description": "Library for HTTPS Communication with Azure using SIMCOM Modules, such as SIM800, SIM900. SSL is required, update your module to the latest firmware.",
+    "examples": [
+        "https://os.mbed.com/users/BorjaTarazona/code/SIMInterface/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AT",
+        "Azure",
+        "http",
+        "https",
+        "IOT",
+        "SIM",
+        "SIM800",
+        "SIM900",
+        "SIMCOM"
+    ],
+    "name": "Azure_HTTPS_SIMCOM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BorjaTarazona/code/Azure_HTTPS_SIMCOM/"
+    }
+}

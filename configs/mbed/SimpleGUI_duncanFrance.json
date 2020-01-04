@@ -3,18 +3,6 @@
         "name": "Duncan McIntyre",
         "url": "https://os.mbed.com/users/duncanFrance/"
     },
-    "build": {
-        "flags": [
-            "-Iresources",
-            "-IEvents",
-            "-IFont",
-            "-IFont/UGFont",
-            "-IFont/FastFont",
-            "-ICore",
-            "-IWidgets",
-            "-IDialogs"
-        ]
-    },
     "description": "Foundation classes for a basic GUI implementing simple widgets and events",
     "examples": [
         "https://os.mbed.com/users/duncanFrance/code/TouchScreenGUIDemo/"

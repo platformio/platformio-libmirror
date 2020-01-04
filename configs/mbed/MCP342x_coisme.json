@@ -5,10 +5,7 @@
     },
     "description": "Device driver for AD converters MCP3426, MCP3427, and MCP3428.",
     "frameworks": "mbed",
-    "keywords": [
-        "adc",
-        "Microchip"
-    ],
+    "keywords": "Microchip",
     "name": "MCP342x",
     "platforms": "*",
     "repository": {

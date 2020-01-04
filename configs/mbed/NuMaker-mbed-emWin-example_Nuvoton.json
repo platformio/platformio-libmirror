@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Nuvoton",
+        "url": "https://os.mbed.com/teams/Nuvoton/"
+    },
+    "description": "NuMaker emWin HMI",
+    "frameworks": "mbed",
+    "keywords": "NuMaker-mbed-emWin-example",
+    "name": "NuMaker-mbed-emWin-example",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nuvoton/code/NuMaker-mbed-emWin-example/"
+    }
+}

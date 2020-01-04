@@ -5,7 +5,8 @@
     },
     "description": "Ultra fast and direct SPI library for some STM32 micros.",
     "examples": [
-        "https://os.mbed.com/users/mimi3/code/DirectSPI-test/"
+        "https://os.mbed.com/users/mimi3/code/DirectSPI-test/",
+        "https://os.mbed.com/users/mimi3/code/wave_player_super_lite/"
     ],
     "frameworks": "mbed",
     "keywords": "DirectSPI",

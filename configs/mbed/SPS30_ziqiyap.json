@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Zi Qi Yap",
+        "url": "https://os.mbed.com/users/ziqiyap/"
+    },
+    "description": "Mbed library for SPS30 i2c communication",
+    "frameworks": "mbed",
+    "keywords": "SPS30",
+    "name": "SPS30",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ziqiyap/code/SPS30/"
+    }
+}

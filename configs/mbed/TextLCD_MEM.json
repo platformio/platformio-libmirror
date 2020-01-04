@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "MEM",
+        "url": "https://os.mbed.com/teams/MEM/"
+    },
+    "description": "Libreria LCD",
+    "examples": [
+        "https://os.mbed.com/users/Mattinico/code/Progetto_finale/",
+        "https://os.mbed.com/teams/MEM/code/Cassa_bluetooth_finale/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TextLCD",
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MEM/code/TextLCD/"
+    }
+}

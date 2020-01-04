@@ -5,7 +5,8 @@
     },
     "description": "Given LED PinName and blink interval, spawns a thread that blinks that LED at the specified interval",
     "examples": [
-        "https://os.mbed.com/users/sarahmarshy/code/Blinky_Tests/"
+        "https://os.mbed.com/users/sarahmarshy/code/Blinky_Tests/",
+        "https://os.mbed.com/users/lazarocamargo/code/Blinky_Tests_GreenTea1/"
     ],
     "frameworks": "mbed",
     "keywords": "Blinky",

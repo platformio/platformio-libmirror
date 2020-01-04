@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Stepan Snigirev",
+        "url": "https://os.mbed.com/users/stepansnigirev/"
+    },
+    "description": "BSP hacked to work with lvgl",
+    "frameworks": "mbed",
+    "keywords": "BSP_DISCO_F469NI",
+    "name": "BSP_DISCO_F469NI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/stepansnigirev/code/BSP_DISCO_F469NI/"
+    }
+}

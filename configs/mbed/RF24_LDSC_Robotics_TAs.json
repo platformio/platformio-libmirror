@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "LDSC_Robotics_TAs",
+        "url": "https://os.mbed.com/teams/LDSC_Robotics_TAs/"
+    },
+    "description": "RF24 library for STM32F446RE",
+    "examples": [
+        "https://os.mbed.com/teams/LDSC_Robotics_TAs/code/rf24_main/",
+        "https://os.mbed.com/teams/Developers-of-anti-slip-compensator/code/WIPV/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "RF24",
+    "name": "RF24",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/LDSC_Robotics_TAs/code/RF24/"
+    }
+}

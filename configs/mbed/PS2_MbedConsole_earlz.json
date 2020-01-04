@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Jordan Earls",
+        "url": "https://os.mbed.com/users/earlz/"
+    },
+    "description": "A version of the PS/2 library customized for MbedConsole. Also includes a few things that make it's behavior easier to control and a few bug fixes.",
+    "examples": [
+        "https://os.mbed.com/users/earlz/code/MbedConsole/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Input",
+        "keyboard",
+        "PS/2"
+    ],
+    "name": "PS2_MbedConsole",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/earlz/code/PS2_MbedConsole/"
+    }
+}

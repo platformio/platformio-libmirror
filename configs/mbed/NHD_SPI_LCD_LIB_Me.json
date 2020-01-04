@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Me Here",
+        "url": "https://os.mbed.com/users/Me/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "NHD SPI LCD Library Code Rev 0.0",
+    "frameworks": "mbed",
+    "keywords": "NHD_SPI_LCD_LIB",
+    "name": "NHD_SPI_LCD_LIB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Me/code/NHD_SPI_LCD_LIB/"
+    }
+}

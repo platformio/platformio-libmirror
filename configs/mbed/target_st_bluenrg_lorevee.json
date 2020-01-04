@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Lorenzo Invidia",
+        "url": "https://os.mbed.com/users/lorevee/"
+    },
+    "description": "Fork of ble-x-nucleo-idb0xa1 with changes required by BleStarMbed",
+    "examples": [
+        "https://os.mbed.com/users/lorevee/code/ble-star-mbed/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "target_st_bluenrg",
+    "name": "target_st_bluenrg",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lorevee/code/target_st_bluenrg/"
+    }
+}

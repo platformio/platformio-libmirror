@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Ruprecht Altenburger",
+        "url": "https://os.mbed.com/users/altb/"
+    },
+    "description": "AHRS Library",
+    "frameworks": "mbed",
+    "keywords": "AHRS",
+    "name": "AHRS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/altb/code/AHRS/"
+    }
+}

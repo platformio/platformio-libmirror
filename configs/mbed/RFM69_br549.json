@@ -4,6 +4,11 @@
         "url": "https://os.mbed.com/users/br549/"
     },
     "description": "Port of lowpowerlab RFM69 Packet radio library for HopeRF RFM69H & HW (SX1231) modules",
+    "examples": [
+        "https://os.mbed.com/users/pedroneto1209/code/testepedro/",
+        "https://os.mbed.com/users/pedroneto1209/code/testepedro1/",
+        "https://os.mbed.com/users/pedroneto1209/code/testepedro2/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "Radio",

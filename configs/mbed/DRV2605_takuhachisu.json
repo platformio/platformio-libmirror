@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "taku hachisu",
+        "url": "https://os.mbed.com/users/takuhachisu/"
+    },
+    "description": "Library for TI's DRV 2605",
+    "frameworks": "mbed",
+    "keywords": "DRV2605",
+    "name": "DRV2605",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/takuhachisu/code/DRV2605/"
+    }
+}

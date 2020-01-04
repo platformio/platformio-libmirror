@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Kenta Matsumoto",
+        "url": "https://os.mbed.com/users/mbed_tw_hoehoe/"
+    },
+    "description": "add set_accele_fsr / set_gyro_fsr method",
+    "examples": [
+        "https://os.mbed.com/users/mbed_tw_hoehoe/code/BLE_MPU6050_Nano/",
+        "https://os.mbed.com/users/mbed_tw_hoehoe/code/BLE_MPU6050_HRM1017/",
+        "https://os.mbed.com/users/mbed_tw_hoehoe/code/BLE_Wearable/",
+        "https://os.mbed.com/users/mbed_tw_hoehoe/code/BLE_NEGI/",
+        "https://os.mbed.com/users/Dyotty/code/BLE_MPU6050_Nano/",
+        "https://os.mbed.com/users/Dyotty/code/BLE_WallbotBLE_Challenge/",
+        "https://os.mbed.com/users/mmmmmmmmma/code/BLE_WallbotBLE_Challenge2_2/",
+        "https://os.mbed.com/users/Keisuke_Yoshida/code/BLE_WallbotBLE_Challenge_byYUTAKA/",
+        "https://os.mbed.com/users/Dyotty/code/BLE_WallbotBLE_Challenge_byYUTAKA/",
+        "https://os.mbed.com/users/mmmmmmmmma/code/BLE_WallbotBLE_Challenge_byYUTAKA3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MPU6050_Mod",
+    "name": "MPU6050_Mod",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbed_tw_hoehoe/code/MPU6050_Mod/"
+    }
+}

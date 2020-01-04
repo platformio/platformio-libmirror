@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "jim hamblen",
+        "url": "https://os.mbed.com/users/4180_1/"
+    },
+    "dependencies": [
+        {
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
+            "name": "PinDetect"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "library for IMU demo with mag calibration code",
+    "examples": [
+        "https://os.mbed.com/users/4180_1/code/LSM9DS1_Demo_wCal/",
+        "https://os.mbed.com/users/mikeb/code/4180_Lab2_Mike_SD_IMU_I2C_RS232/",
+        "https://os.mbed.com/users/wschon/code/ECE4180Lab2_bubble/",
+        "https://os.mbed.com/teams/Dream-Team-ECE-4180/code/Lab2_EverythingIO/",
+        "https://os.mbed.com/users/nsloth/code/4180_lab4/",
+        "https://os.mbed.com/users/ihl396/code/4180_lab4_project/",
+        "https://os.mbed.com/users/abui7/code/uDoodleJump/",
+        "https://os.mbed.com/users/dylanslack/code/Automotive_Instruments/",
+        "https://os.mbed.com/users/clively6/code/Auto/",
+        "https://os.mbed.com/teams/ECE-4180-Labs/code/4180_Lab2_Bubble/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LSM9DS1_Library_cal",
+    "name": "LSM9DS1_Library_cal",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/4180_1/code/LSM9DS1_Library_cal/"
+    }
+}

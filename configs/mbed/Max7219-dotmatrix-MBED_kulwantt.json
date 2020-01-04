@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "kulwant singh",
+        "url": "https://os.mbed.com/users/kulwantt/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "This library helps to interface Max7912 with Wiznet w7500 and display different character/digit/string on Dot Matrix LED.",
+    "frameworks": "mbed",
+    "keywords": [
+        "dot_matrix",
+        "MAX7219",
+        "mbed",
+        "W7500"
+    ],
+    "name": "Max7219-dotmatrix |MBED",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kulwantt/code/Max7219-dotmatrix-MBED/"
+    }
+}

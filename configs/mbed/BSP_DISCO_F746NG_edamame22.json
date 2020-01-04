@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "boting ren",
+        "url": "https://os.mbed.com/users/edamame22/"
+    },
+    "description": "STM32746G-Discovery board drivers V1.0.0",
+    "examples": [
+        "https://os.mbed.com/users/edamame22/code/F746_SD_GraphicEqualizer_ren0620/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BSP_DISCO_F746NG",
+    "name": "BSP_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/edamame22/code/BSP_DISCO_F746NG/"
+    }
+}

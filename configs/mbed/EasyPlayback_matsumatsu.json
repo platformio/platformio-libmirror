@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "yoshi matsu",
+        "url": "https://os.mbed.com/users/matsumatsu/"
+    },
+    "description": "音声出力ライブラリ",
+    "frameworks": "mbed",
+    "keywords": "EasyPlayback",
+    "name": "EasyPlayback",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/matsumatsu/code/EasyPlayback/"
+    }
+}

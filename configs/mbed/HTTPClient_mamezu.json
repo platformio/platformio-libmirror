@@ -3,24 +3,6 @@
         "name": "masa haru",
         "url": "https://os.mbed.com/users/mamezu/"
     },
-    "build": {
-        "flags": [
-            "-ILPC2368",
-            "-ILPC2368/dbg",
-            "-ILPC2368/services",
-            "-ILPC2368/services/http",
-            "-ILPC2368/services/http/client",
-            "-ILPC2368/services/http/client/data",
-            "-ILPC2368/services/http/util",
-            "-ILPC1768",
-            "-ILPC1768/dbg",
-            "-ILPC1768/services",
-            "-ILPC1768/services/http",
-            "-ILPC1768/services/http/client",
-            "-ILPC1768/services/http/client/data",
-            "-ILPC1768/services/http/util"
-        ]
-    },
     "description": "HTTPClient",
     "examples": [
         "https://os.mbed.com/users/benglish6/code/Lab3Translator/",

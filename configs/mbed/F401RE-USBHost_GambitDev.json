@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "GambitDev",
+        "url": "https://os.mbed.com/teams/GambitDev/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "USB Host Driver with Socket Modem support. Works with revision 323 of mbed-src but broken with any later version.",
+    "frameworks": "mbed",
+    "keywords": "F401RE-USBHost",
+    "name": "F401RE-USBHost",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/GambitDev/code/F401RE-USBHost/"
+    }
+}

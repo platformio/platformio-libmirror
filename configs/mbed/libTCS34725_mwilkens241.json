@@ -4,6 +4,10 @@
         "url": "https://os.mbed.com/users/mwilkens241/"
     },
     "description": "Basic library for the TCS34725, based off of several example programs and the Adafruit Arduino library",
+    "examples": [
+        "https://os.mbed.com/users/dsubotic/code/STEM_2019/",
+        "https://os.mbed.com/users/shinyamatsuyama/code/MF_FUJIKO_BASE/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "library",

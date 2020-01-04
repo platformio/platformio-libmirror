@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Yifei Teng",
+        "url": "https://os.mbed.com/users/tyftyftyf/"
+    },
+    "description": "High resolution barometer and altimeter using i2c mode. Adapted to FreeIMU interface",
+    "examples": [
+        "https://os.mbed.com/users/joe4465/code/FreeIMU/",
+        "https://os.mbed.com/users/joe4465/code/FreeIMU_external_magnetometer/",
+        "https://os.mbed.com/users/tyftyftyf/code/FreeIMU/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MS561101BA",
+    "name": "MS561101BA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tyftyftyf/code/MS561101BA/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "Enables fast realtime communication over Ethernet by using plain Ethernet frames (overhead of TCP/IP network layers is stripped away).",
+    "examples": [
+        "https://os.mbed.com/users/hudakz/code/RawEthernet_Hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "raw"
+    ],
+    "name": "RawEthernet",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/RawEthernet/"
+    }
+}

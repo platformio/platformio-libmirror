@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Martin Woolley",
+        "url": "https://os.mbed.com/users/bluetooth_mdw/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "BLE_API"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "mbed-dev-bin"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "nRF51822"
+        }
+    ],
+    "description": "Eddystone test using modified DAL",
+    "examples": [
+        "https://os.mbed.com/users/bluetooth_mdw/code/microbit-eddystone/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "microbit-dal-eddystone",
+    "name": "microbit-dal-eddystone",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bluetooth_mdw/code/microbit-dal-eddystone/"
+    }
+}

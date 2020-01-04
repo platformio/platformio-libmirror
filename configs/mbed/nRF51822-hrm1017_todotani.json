@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Ken Todotani",
+        "url": "https://os.mbed.com/users/todotani/"
+    },
+    "description": "Nordic stack and drivers for the mbed BLE API Modified for HRM1017 for library 0.1.0",
+    "frameworks": "mbed",
+    "keywords": "nRF51822-hrm1017",
+    "name": "nRF51822-hrm1017",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/todotani/code/nRF51822-hrm1017/"
+    }
+}

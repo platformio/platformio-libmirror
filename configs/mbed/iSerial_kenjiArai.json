@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "dependencies": [
+        {
+            "authors": "Yoji KURODA",
+            "frameworks": "mbed",
+            "name": "RingBuffer"
+        }
+    ],
+    "description": "Extend STM mbed board. Thanks Y.Kuroda-san for creating good function.",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/Frequency_Counter_w_GPS_1PPS/",
+        "https://os.mbed.com/users/kenjiArai/code/FreqCntr_GPS1PPS_F746F4xx_w_recipro/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "buffered serial",
+        "ring buffer",
+        "Serial"
+    ],
+    "name": "iSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/iSerial/"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Dai Yokota",
+        "url": "https://os.mbed.com/users/jk1lot/"
+    },
+    "dependencies": [
+        {
+            "authors": "Takuo WATANABE",
+            "frameworks": "mbed",
+            "name": "ACM1602NI"
+        },
+        {
+            "authors": "Wim Huiskamp",
+            "frameworks": "mbed",
+            "name": "TextLCD"
+        }
+    ],
+    "description": "Using std::ostream with TextLCD",
+    "examples": [
+        "https://os.mbed.com/users/jk1lot/code/TextLCD_ostream_sample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "stream"
+    ],
+    "name": "TextLCD_ostream",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jk1lot/code/TextLCD_ostream/"
+    }
+}

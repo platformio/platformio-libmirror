@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Aloïs Wolff",
+        "url": "https://os.mbed.com/users/pommzorz/"
+    },
+    "description": "Minor modifications to adapt syntax to FreeIMU",
+    "frameworks": "mbed",
+    "keywords": "L3G4200D",
+    "name": "L3G4200D",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pommzorz/code/L3G4200D/"
+    }
+}

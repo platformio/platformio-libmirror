@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "ze chen",
+        "url": "https://os.mbed.com/users/zchen311/"
+    },
+    "description": "hw",
+    "examples": [
+        "https://os.mbed.com/users/zchen311/code/wave_player_mp3/",
+        "https://os.mbed.com/teams/ECE4180123/code/4180_lab2_part9/",
+        "https://os.mbed.com/teams/ECE4180123/code/4180_Lab3_rtos_basic/",
+        "https://os.mbed.com/users/clu67/code/PianoTiles/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "wave_player",
+    "name": "wave_player",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/zchen311/code/wave_player/"
+    }
+}

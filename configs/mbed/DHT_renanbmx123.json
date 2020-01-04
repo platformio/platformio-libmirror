@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Renan Alves",
+        "url": "https://os.mbed.com/users/renanbmx123/"
+    },
+    "description": "DHT library modify for DHT11 - DHT22 - AM2302",
+    "frameworks": "mbed",
+    "keywords": "DHT",
+    "name": "DHT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/renanbmx123/code/DHT/"
+    }
+}

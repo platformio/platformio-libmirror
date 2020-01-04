@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/"
+    },
+    "description": "Library for Bosch Sensortec BMI160 IMU",
+    "examples": [
+        "https://os.mbed.com/users/danjulio/code/Rocket/",
+        "https://os.mbed.com/users/bowenfeng/code/MAX32630FTHR_JOYSTICK/",
+        "https://os.mbed.com/teams/MaximIntegrated/code/MAX32630FTHR_IMU_Hello_World/",
+        "https://os.mbed.com/teams/Pike-Flippers/code/Pike_the_Flipper_Main_Branch/",
+        "https://os.mbed.com/users/dev_alexander/code/MAX326xxFTHR_LoRa_RFM95/",
+        "https://os.mbed.com/teams/MaximIntegrated/code/MAX32630HSP3_IMU_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BMI160",
+    "name": "BMI160",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/code/BMI160/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "ban4jp -",
+        "url": "https://os.mbed.com/users/ban4jp/"
+    },
+    "description": "Xbee API library with support SPI connection. (use only SPI supported model. see also http://www.digi.com/support/kbase/kbaseresultdetl?id=3362 )",
+    "examples": [
+        "https://os.mbed.com/users/ban4jp/code/XBeeWiFi_SPI_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "SPI",
+        "xbee"
+    ],
+    "name": "XBee_with_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ban4jp/code/XBee_with_SPI/"
+    }
+}

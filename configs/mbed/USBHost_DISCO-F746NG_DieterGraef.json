@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Dieter Graef",
+        "url": "https://os.mbed.com/users/DieterGraef/"
+    },
+    "description": "Simple USBHost library for STM32F746NG Discovery board. Only either the Fastspeed or the Highspeed port can be used( not both together)",
+    "examples": [
+        "https://os.mbed.com/users/DieterGraef/code/DISCO-F746NG_USB_Host/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "stm32",
+        "STM32F746",
+        "STM32F746NG-DISCO",
+        "USBHOST"
+    ],
+    "name": "USBHost_DISCO-F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DieterGraef/code/USBHost_DISCO-F746NG/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Kiko Ishimoto",
+        "url": "https://os.mbed.com/users/kikoaac/"
+    },
+    "description": "ロータリーエンコーダーのライブラリです。 角速度 、 角度 、 RPMなどがだせます。",
+    "examples": [
+        "https://os.mbed.com/users/ekyykysn/code/scan2/",
+        "https://os.mbed.com/users/st17099ng/code/Test_moter/",
+        "https://os.mbed.com/teams/Digitales_II/code/electrocoagulador_teclado/",
+        "https://os.mbed.com/users/daikinect/code/17pwmencoder/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "QEI ロータリーエンコーダ 角度 angle",
+    "name": "QEI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kikoaac/code/QEI/"
+    }
+}

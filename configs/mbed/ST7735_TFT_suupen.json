@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "suu pen",
+        "url": "https://os.mbed.com/users/suupen/"
+    },
+    "description": "This library is for Arduino TFT LCD Screen module.(for new LCD driver IC)",
+    "examples": [
+        "https://os.mbed.com/users/suupen/code/ArduinoTFTLCDScreenSample_SPI18TFT/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "LCD",
+        "module",
+        "screen",
+        "TFT"
+    ],
+    "name": "ST7735_TFT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/suupen/code/ST7735_TFT/"
+    }
+}

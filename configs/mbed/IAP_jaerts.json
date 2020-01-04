@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Joris Aerts",
+        "url": "https://os.mbed.com/users/jaerts/"
+    },
+    "description": "IAP class library for LPC1768 and LPC11U24",
+    "frameworks": "mbed",
+    "keywords": "IAP",
+    "name": "IAP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jaerts/code/IAP/"
+    }
+}

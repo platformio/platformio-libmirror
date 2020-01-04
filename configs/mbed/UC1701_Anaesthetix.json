@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Erik van de Coevering",
+        "url": "https://os.mbed.com/users/Anaesthetix/"
+    },
+    "description": "Simple library for UC1701 based GLCD's",
+    "examples": [
+        "https://os.mbed.com/users/Anaesthetix/code/Opensmart_LCD_UC1701/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "UC1701",
+    "name": "UC1701",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Anaesthetix/code/UC1701/"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ST_INTERFACES"
+        }
+    ],
+    "description": "Library used to control ST Nucleo Evaluation board IHM04A1, based on L6206 motor control driver.",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/HelloWorld_IHM04A1/",
+        "https://os.mbed.com/users/carlotara/code/RoboCane_Motore/",
+        "https://os.mbed.com/teams/Team-DIANA/code/arm_dcmotor_can/",
+        "https://os.mbed.com/teams/Team-DIANA/code/arm_linear_can_2/",
+        "https://os.mbed.com/teams/Team-DIANA/code/speed_arm_controller/",
+        "https://os.mbed.com/teams/Team-DIANA/code/Basic_DC_Control/",
+        "https://os.mbed.com/teams/Team-DIANA/code/Basic_DC_Control1/",
+        "https://os.mbed.com/teams/Team-DIANA/code/DC_Serial/",
+        "https://os.mbed.com/users/gabi22top/code/SimplePIDBot/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "brushDC",
+        "driver",
+        "L6206",
+        "motor",
+        "ST"
+    ],
+    "name": "X_NUCLEO_IHM04A1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/X_NUCLEO_IHM04A1/"
+    }
+}

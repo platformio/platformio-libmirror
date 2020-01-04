@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "mbed_controller",
+        "url": "https://os.mbed.com/teams/mbed_controller/"
+    },
+    "description": "Fix compile error of CMDB which occurred by mbed-src modification.",
+    "examples": [
+        "https://os.mbed.com/teams/mbed_controller/code/mbed_controller_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "CMDB",
+    "name": "CMDB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/mbed_controller/code/CMDB/"
+    }
+}

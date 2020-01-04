@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "Fork of X-NUCLEO-53L0A1 Library and deleted the board related files. Just use a VL53L0X chip as a ToF sensor.",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/Check_VL53L0X_simple_with_three_ToF/",
+        "https://os.mbed.com/users/kenjiArai/code/Check_VL53L0X_simple_ToF_Sensor/",
+        "https://os.mbed.com/users/nanofranca/code/Check_VL53L0X_simple_ToF_Sensor/",
+        "https://os.mbed.com/users/oldmon/code/lidarproj/",
+        "https://os.mbed.com/users/kenken0721/code/Check_VL53L0X_simple_with_three_ToF/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "distance",
+        "sensor",
+        "TOF",
+        "VL53L0X"
+    ],
+    "name": "VL53L0X_simple",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/VL53L0X_simple/"
+    }
+}

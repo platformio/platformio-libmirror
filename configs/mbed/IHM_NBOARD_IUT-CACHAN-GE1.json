@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "IUT CACHAN GE1",
+        "url": "https://os.mbed.com/teams/IUT-CACHAN-GE1/"
+    },
+    "description": "IHM carte NBOARD IUT CACHAN. V2 Mai 2018.",
+    "examples": [
+        "https://os.mbed.com/teams/IUT-CACHAN-GE1/code/demo_IHM_NBOARD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "IHM_NBOARD",
+    "name": "IHM_NBOARD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/IUT-CACHAN-GE1/code/IHM_NBOARD/"
+    }
+}

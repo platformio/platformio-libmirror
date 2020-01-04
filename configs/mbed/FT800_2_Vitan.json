@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Vitaly Badeev",
+        "url": "https://os.mbed.com/users/Vitan/"
+    },
+    "description": "My FT800 lib",
+    "examples": [
+        "https://os.mbed.com/users/Vitan/code/Radar1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FT800_2",
+    "name": "FT800_2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Vitan/code/FT800_2/"
+    }
+}

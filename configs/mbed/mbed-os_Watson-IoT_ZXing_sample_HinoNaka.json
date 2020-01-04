@@ -3,22 +3,6 @@
         "name": "Osamu Nakamura",
         "url": "https://os.mbed.com/users/HinoNaka/"
     },
-    "build": {
-        "flags": [
-            "-Izxing_lib",
-            "-Izxing_lib/zxing",
-            "-Izxing_lib/zxing/common",
-            "-Izxing_lib/zxing/common/reedsolomon",
-            "-Izxing_lib/zxing/multi",
-            "-Izxing_lib/zxing/multi/qrcode",
-            "-Izxing_lib/zxing/qrcode",
-            "-Izxing_lib/zxing/qrcode/decoder",
-            "-ImbedConnectorInterface",
-            "-ImbedConnectorInterface/mbed-connector-interface",
-            "-ImbedConnectorInterface/source",
-            "-Imbed-endpoint-resources"
-        ]
-    },
     "dependencies": [
         {
             "authors": "",

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Thundersoft",
+        "url": "https://os.mbed.com/teams/Thundersoft/"
+    },
+    "description": "Creating a project for TT_Mxx",
+    "frameworks": "mbed",
+    "keywords": "LCD_for_TT_Mxx",
+    "name": "LCD_for_TT_Mxx",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Thundersoft/code/LCD_for_TT_Mxx/"
+    }
+}

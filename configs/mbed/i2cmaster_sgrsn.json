@@ -5,10 +5,15 @@
     },
     "description": "Plese use this class with my \"i2cslave\" class.",
     "examples": [
-        "https://os.mbed.com/teams/robocon_2016/code/2016_mother_3/"
+        "https://os.mbed.com/teams/robocon_2016/code/2016_mother_3/",
+        "https://os.mbed.com/users/sgrsn/code/WRS2019_master/"
     ],
     "frameworks": "mbed",
-    "keywords": "I2C",
+    "keywords": [
+        "I2C",
+        "interrupt",
+        "slave"
+    ],
     "name": "i2cmaster",
     "platforms": "*",
     "repository": {

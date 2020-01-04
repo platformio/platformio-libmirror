@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Armand Coetzer",
+        "url": "https://os.mbed.com/users/Armand/"
+    },
+    "description": "Comms Library for communicating via bluetooth",
+    "frameworks": "mbed",
+    "keywords": [
+        "Armand",
+        "bluetooth",
+        "Coetzer",
+        "comms"
+    ],
+    "name": "Comms",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Armand/code/Comms/"
+    }
+}

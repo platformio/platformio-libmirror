@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Rohm",
+        "url": "https://os.mbed.com/teams/Rohm/"
+    },
+    "description": "Optical pulse wave sensor BH1790GLC driver. The original code contributed by Hideki Tanaka.",
+    "examples": [
+        "https://os.mbed.com/teams/Rohm/code/rohm-bh1790glc-hello/",
+        "https://os.mbed.com/teams/Rohm/code/rohm-SensorShield-example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "optical pulse",
+        "ROHM",
+        "sensor"
+    ],
+    "name": "rohm-bh1790glc-driver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Rohm/code/rohm-bh1790glc-driver/"
+    }
+}

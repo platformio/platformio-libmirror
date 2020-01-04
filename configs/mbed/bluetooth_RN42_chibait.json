@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "yuya koyama",
+        "url": "https://os.mbed.com/users/chibait/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "BTwithRN42",
+    "frameworks": "mbed",
+    "keywords": "bluetooth_RN42",
+    "name": "bluetooth_RN42",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chibait/code/bluetooth_RN42/"
+    }
+}

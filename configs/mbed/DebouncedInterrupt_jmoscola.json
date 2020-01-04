@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "James M",
+        "url": "https://os.mbed.com/users/jmoscola/"
+    },
+    "description": "A replacement for InterruptIn that debounces the interrupt.",
+    "frameworks": "mbed",
+    "keywords": "DebouncedInterrupt",
+    "name": "DebouncedInterrupt",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jmoscola/code/DebouncedInterrupt/"
+    }
+}

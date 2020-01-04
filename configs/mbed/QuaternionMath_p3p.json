@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Chris Pepper",
+        "url": "https://os.mbed.com/users/p3p/"
+    },
+    "description": "A quick implementation of Quaternion and Vector classes for use with my MPU9150 library",
+    "examples": [
+        "https://os.mbed.com/users/p3p/code/MPU9150_Example/",
+        "https://os.mbed.com/users/akashvibhute/code/MPU9150_nucleo_noni2cdev/",
+        "https://os.mbed.com/users/Hagrass/code/CANSAT_COMBINED/",
+        "https://os.mbed.com/teams/HAN-Solarboat-Blackbox/code/SolarOnFoils_MainModule_20150518/",
+        "https://os.mbed.com/teams/BEaR-lab/code/MPU9150_Example/",
+        "https://os.mbed.com/users/yakatano/code/Neon_F303K8_04/",
+        "https://os.mbed.com/users/wspytu/code/MPU9150_nucleo_noni2cdev_F401/",
+        "https://os.mbed.com/users/tgw/code/JPEGCamera_SIM808_MPU9150_STM32F401RE/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MPU9150",
+        "Quaternion",
+        "vector"
+    ],
+    "name": "QuaternionMath",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/p3p/code/QuaternionMath/"
+    }
+}

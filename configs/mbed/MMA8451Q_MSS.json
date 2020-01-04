@@ -7,14 +7,12 @@
     "examples": [
         "https://os.mbed.com/teams/MSS/code/test_MMA8451Q/",
         "https://os.mbed.com/teams/Orefatoi/code/afero_node_suntory_171018/",
-        "https://os.mbed.com/teams/MSS/code/testSensor/"
+        "https://os.mbed.com/teams/MSS/code/testSensor/",
+        "https://os.mbed.com/users/hodgins/code/Vytah/",
+        "https://os.mbed.com/users/jgaltier98/code/main/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "14bit",
-        "3-axis",
-        "8bit",
-        "accelerometer",
         "I2C",
         "MMA8451Q"
     ],

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Martin Johnson",
+        "url": "https://os.mbed.com/users/MartinJohnson/"
+    },
+    "description": "Very Simple Library for the STM32F3-Discovery.",
+    "examples": [
+        "https://os.mbed.com/users/MartinJohnson/code/accelerometer_test/",
+        "https://os.mbed.com/users/MartinJohnson/code/neopixel_square/",
+        "https://os.mbed.com/users/MartinJohnson/code/accelerometer_test_minimal/",
+        "https://os.mbed.com/users/MartinJohnson/code/Colour_Video_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "STM32F3-Discovery-minimal",
+    "name": "STM32F3-Discovery-minimal",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MartinJohnson/code/STM32F3-Discovery-minimal/"
+    }
+}

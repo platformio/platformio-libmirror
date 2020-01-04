@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "terence zhang",
+        "url": "https://os.mbed.com/users/terencez/"
+    },
+    "description": "LCD C12832 on mbed application board. Original repo: https://developer.mbed.org/users/dreschpe/code/C12832_lcd/",
+    "frameworks": "mbed",
+    "keywords": "C12832",
+    "name": "C12832",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/terencez/code/C12832/"
+    }
+}

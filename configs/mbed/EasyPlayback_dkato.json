@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Daiki Kato",
+        "url": "https://os.mbed.com/users/dkato/"
+    },
+    "description": "Easy playback library for AUDIO_GRBoard.",
+    "examples": [
+        "https://os.mbed.com/users/dkato/code/GR-PEACH_Audio_WAV_PwmOut/",
+        "https://os.mbed.com/users/dkato/code/GR-Boards_Audio_WAV/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "EasyPlayback",
+    "name": "EasyPlayback",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dkato/code/EasyPlayback/"
+    }
+}

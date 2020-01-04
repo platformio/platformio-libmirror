@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Kevin Kadooka",
+        "url": "https://os.mbed.com/users/kkado/"
+    },
+    "description": "Fork of mbed-dev build 137, last build before FAT file system appears to be broken. Also reduced HSE timeout time in STM4XX HAL",
+    "frameworks": "mbed",
+    "keywords": "mbed-dev",
+    "name": "mbed-dev",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kkado/code/mbed-dev/"
+    }
+}

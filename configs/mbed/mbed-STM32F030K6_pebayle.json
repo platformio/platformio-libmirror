@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Thierry Pébayle",
+        "url": "https://os.mbed.com/users/pebayle/"
+    },
+    "description": "Modified mbed library sources only for STM32F030K6, LQFP32 (0.8mm pitch) package, 32K Flash, 4K SRAM. Compiler target: Nucleo 32F030R8",
+    "frameworks": "mbed",
+    "keywords": "mbed",
+    "name": "mbed-STM32F030K6",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pebayle/code/mbed-STM32F030K6/"
+    }
+}

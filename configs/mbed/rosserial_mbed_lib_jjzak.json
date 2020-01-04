@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "jjzak",
+        "url": "https://os.mbed.com/users/jjzak/"
+    },
+    "dependencies": [
+        {
+            "authors": "jjzak",
+            "frameworks": "mbed",
+            "name": "MODSERIAL"
+        }
+    ],
+    "description": "modify for Hydro version",
+    "frameworks": "mbed",
+    "keywords": "rosserial_mbed_lib",
+    "name": "rosserial_mbed_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jjzak/code/rosserial_mbed_lib/"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Wynand Steenberg",
+        "url": "https://os.mbed.com/users/wsteenberg/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "BSP_DISCO_F469NI"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "LCD_DISCO_F469NI"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "TS_DISCO_F469NI"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "DISCO-F469NI_Button_and_Slider_Library v1.0",
+    "frameworks": "mbed",
+    "keywords": "DISCO-F469NI_Button_and_Slider_Library",
+    "name": "DISCO-F469NI_Button_and_Slider_Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wsteenberg/code/DISCO-F469NI_Button_and_Slider_Library/"
+    }
+}

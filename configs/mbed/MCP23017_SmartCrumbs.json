@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "SmartCrumbs",
+        "url": "https://os.mbed.com/teams/SmartCrumbs/"
+    },
+    "description": "Added function for changing input polarity.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Expander",
+        "I2C",
+        "MCP23017"
+    ],
+    "name": "MCP23017",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/SmartCrumbs/code/MCP23017/"
+    }
+}

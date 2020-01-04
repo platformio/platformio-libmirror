@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "wayne roberts",
+        "url": "https://os.mbed.com/users/dudmuck/"
+    },
+    "description": "Hardware Abstraction Layer, permitting any LoRa application to use any LoRa radio chip",
+    "examples": [
+        "https://os.mbed.com/users/dudmuck/code/alarm_slave/",
+        "https://os.mbed.com/users/dudmuck/code/alarm_master/",
+        "https://os.mbed.com/users/dudmuck/code/lora_p2p/",
+        "https://os.mbed.com/users/dudmuck/code/lorawan1v1/",
+        "https://os.mbed.com/users/dudmuck/code/simple_rx/",
+        "https://os.mbed.com/users/dudmuck/code/alarm_analog_master/",
+        "https://os.mbed.com/users/dudmuck/code/alarm_analog_slave/",
+        "https://os.mbed.com/users/dudmuck/code/LoRaWAN_singlechannel_gateway/",
+        "https://os.mbed.com/users/dudmuck/code/LoRaWAN_singlechannel_endnode/",
+        "https://os.mbed.com/users/dudmuck/code/i2c_lora_slave/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "sx12xx_hal",
+    "name": "sx12xx_hal",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dudmuck/code/sx12xx_hal/"
+    }
+}

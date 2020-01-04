@@ -3,11 +3,6 @@
         "name": "xianlin zheng",
         "url": "https://os.mbed.com/users/monkeyxep/"
     },
-    "build": {
-        "flags": [
-            "-ICommandTerminal"
-        ]
-    },
     "description": "at_command_terminal",
     "frameworks": "mbed",
     "keywords": "AT_command_terminal",

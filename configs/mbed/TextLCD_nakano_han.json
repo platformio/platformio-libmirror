@@ -5,10 +5,7 @@
     },
     "description": "LCD動作設定 TexLCD",
     "frameworks": "mbed",
-    "keywords": [
-        "16x2 LCD",
-        "TextLCD"
-    ],
+    "keywords": "TextLCD",
     "name": "TextLCD",
     "platforms": "*",
     "repository": {

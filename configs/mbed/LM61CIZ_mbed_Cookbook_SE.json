@@ -4,6 +4,9 @@
         "url": "https://os.mbed.com/users/mbed_Cookbook_SE/"
     },
     "description": "温度センサLM61CIZから入力した電圧値を温度として出力します。",
+    "examples": [
+        "https://os.mbed.com/users/Ryosei/code/UltraSound_sensor/"
+    ],
     "frameworks": "mbed",
     "keywords": "LM61CIZ",
     "name": "LM61CIZ",

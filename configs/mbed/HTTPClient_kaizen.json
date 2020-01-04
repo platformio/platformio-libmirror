@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "DongEun Koak",
+        "url": "https://os.mbed.com/users/kaizen/"
+    },
+    "description": "Change the CHUNK_SIZE, KEY_SIZE and VALUE_SIZE",
+    "examples": [
+        "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/code/CurrentWeatherData_W5500/",
+        "https://os.mbed.com/users/bangbh/code/EmailButton/",
+        "https://os.mbed.com/users/Bongjun/code/EmailButton/",
+        "https://os.mbed.com/teams/EthernetInterfaceW5500-makers/code/HTTPClient_Weather/",
+        "https://os.mbed.com/teams/IOP/code/dweetIo_CloudService_Helloworld_WIZwiki-/",
+        "https://os.mbed.com/users/cliff1/code/dweetIoExample/",
+        "https://os.mbed.com/teams/WIZnet/code/dweetIoExample/",
+        "https://os.mbed.com/users/ajeet3004/code/dweetIo_CloudService_Helloworld_WIZwiki-/",
+        "https://os.mbed.com/users/ajeet3004/code/DweetIOTCP/",
+        "https://os.mbed.com/users/wiznetw7500/code/dweetIo_CloudService_WizFi310/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HTTPClient",
+    "name": "HTTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kaizen/code/HTTPClient/"
+    }
+}

@@ -3,22 +3,16 @@
         "name": "Ivan Kravets",
         "url": "https://os.mbed.com/users/ivank/"
     },
-    "build": {
-        "flags": [
-            "-Idevices",
-            "-I_headers"
-        ]
-    },
     "description": "OneWire Library lets you access 1-wire devices made by Maxim/Dallas, such as temperature sensors",
     "examples": [
         "https://os.mbed.com/users/ivank/code/OneWireTest/",
         "https://os.mbed.com/users/kausdev/code/mbed_blinky/",
         "https://os.mbed.com/teams/OULOUTECH/code/Affich_Lum_Moist/",
-        "https://os.mbed.com/users/Pipou/code/Projetv0/"
+        "https://os.mbed.com/users/Pipou/code/Projetv0/",
+        "https://os.mbed.com/users/lucem1n/code/MT-20S2M_TextLCD_HelloWorld/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "1-wire",
         "DS18B20",
         "one",
         "One Wire",

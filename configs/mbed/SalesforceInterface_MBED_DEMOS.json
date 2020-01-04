@@ -1,0 +1,36 @@
+{
+    "authors": {
+        "name": "MBED_DEMOS",
+        "url": "https://os.mbed.com/teams/MBED_DEMOS/"
+    },
+    "dependencies": [
+        {
+            "authors": "Doug Anson",
+            "frameworks": "mbed",
+            "name": "HTTPClient-SSL"
+        },
+        {
+            "authors": "Samuel Mokrani",
+            "frameworks": "mbed",
+            "name": "MbedJSONValue"
+        }
+    ],
+    "description": "Salesforce.com interface to directly access Salesforce.com",
+    "examples": [
+        "https://os.mbed.com/teams/MBED_DEMOS/code/df-2014-salesforce-hrm-k64f/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "api",
+        "https",
+        "OAuth",
+        "salesforce.com",
+        "token"
+    ],
+    "name": "SalesforceInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MBED_DEMOS/code/SalesforceInterface/"
+    }
+}

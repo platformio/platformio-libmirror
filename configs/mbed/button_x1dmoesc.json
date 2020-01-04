@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "David Möschwitzer",
+        "url": "https://os.mbed.com/users/x1dmoesc/"
+    },
+    "description": "class of Buttons -isPressed -wasPressed -notPressed -LongPress (Timer)",
+    "frameworks": "mbed",
+    "keywords": "button",
+    "name": "button",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/x1dmoesc/code/button/"
+    }
+}

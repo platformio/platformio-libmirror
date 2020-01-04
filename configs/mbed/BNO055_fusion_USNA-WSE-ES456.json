@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "USNA WSE ES456",
+        "url": "https://os.mbed.com/teams/USNA-WSE-ES456/"
+    },
+    "description": "BNO library commit with fork",
+    "examples": [
+        "https://os.mbed.com/teams/USNA-WSE-ES456/code/ES456_Labs/",
+        "https://os.mbed.com/teams/USNA-WSE-ES456/code/MadPulseCntrl/",
+        "https://os.mbed.com/teams/USNA-WSE-ES456/code/MadPulseIMU/",
+        "https://os.mbed.com/teams/USNA-ES456-Autonomous-Vehicles/code/MadPulse_Controller_ros/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BNO055_fusion",
+    "name": "BNO055_fusion",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/USNA-WSE-ES456/code/BNO055_fusion/"
+    }
+}

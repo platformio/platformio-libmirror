@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Theo Bestenlehner",
+        "url": "https://os.mbed.com/users/glx/"
+    },
+    "description": "Small bitmap-library to use with monocrome displays.",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "image",
+        "Monochrome LCD"
+    ],
+    "name": "TinyBitmap",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/glx/code/TinyBitmap/"
+    }
+}

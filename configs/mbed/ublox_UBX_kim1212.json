@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "yuki kimura",
+        "url": "https://os.mbed.com/users/kim1212/"
+    },
+    "description": "ublox社製GPSモジュール NEO-7Mから、SPI経由でGPSデータをUBXプロトコルで読み出すライブラリです SPI経由ではGPSの出力設定が出来ないので、予めUART接続でPCから出力データを変更する必要があります。ここら辺の詳細については https://ameblo.jp/tsukuba-step/entry-12282936077.html を参考にして下さい。 出力設定は、 NAV-POSLLH,NAV-TIMEUTC,NAV-VELNED のみを出力して下さい",
+    "examples": [
+        "https://os.mbed.com/users/kim1212/code/SensorManager/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ublox_UBX",
+    "name": "ublox_UBX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kim1212/code/ublox_UBX/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "WIZnet",
+        "url": "https://os.mbed.com/teams/WIZnet/"
+    },
+    "description": "W5500 Driver",
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "socket",
+        "W5500"
+    ],
+    "name": "W5500",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/WIZnet/code/W5500/"
+    }
+}

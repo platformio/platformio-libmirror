@@ -3,11 +3,6 @@
         "name": "Yasushi TAUCHI",
         "url": "https://os.mbed.com/users/yueee_yt/"
     },
-    "build": {
-        "flags": [
-            "-IHandler"
-        ]
-    },
     "description": "New EthernetInterface Version HTTPServer Library only SimpleHandler Test",
     "examples": [
         "https://os.mbed.com/users/yueee_yt/code/HttpServerSample/",

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Motoo Tanaka",
+        "url": "https://os.mbed.com/users/Rhyme/"
+    },
+    "description": "Vishay VCNL4010 Fully Integrated Proximity and Ambient Light Sensor with Infrared Emitter, I2C Interface, and Interrupt Function",
+    "examples": [
+        "https://os.mbed.com/users/Rhyme/code/test_VCNL4010/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Ambient light",
+        "I2C",
+        "proximity",
+        "VCNL4010",
+        "Vishay"
+    ],
+    "name": "VCNL4010",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Rhyme/code/VCNL4010/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Renesas",
+        "url": "https://os.mbed.com/teams/Renesas/"
+    },
+    "description": "HttpServer Library for \"mbed-os\" which added a snapshot handler.",
+    "examples": [
+        "https://os.mbed.com/users/tuthai/code/GR-PEACH-webcam/",
+        "https://os.mbed.com/users/dkato/code/GR-Boards_WebCamera/",
+        "https://os.mbed.com/users/anhtran/code/GR-Boards_WebCamera/",
+        "https://os.mbed.com/teams/Renesas/code/GR-Boards_WebCamera/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HTTPServer",
+    "name": "HttpServer_snapshot_mbed-os",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Renesas/code/HttpServer_snapshot_mbed-os/"
+    }
+}

@@ -5,7 +5,16 @@
     },
     "description": "CAN message container. Defines \"<<\" and \">>\" operators to simplify adding/getting data to/from a CAN message.",
     "examples": [
-        "https://os.mbed.com/users/hudakz/code/CAN_Hello/"
+        "https://os.mbed.com/users/szqt/code/CAN_Hello/",
+        "https://os.mbed.com/users/Florian1993/code/EinlesenSensorabstand_digital_2/",
+        "https://os.mbed.com/users/sid26/code/CAN_STABLE_EINSTEIN/",
+        "https://os.mbed.com/users/lscordovar/code/CAN_ex_STM32F103C8T6/",
+        "https://os.mbed.com/users/francescopistone/code/FORIGO_Modula_V4_R2_DE_BOX_ARGENTO_LAVOR/",
+        "https://os.mbed.com/users/francescopistone/code/FORIGO_Modula_V4_R5_DoubleEnc_2019/",
+        "https://os.mbed.com/users/francescopistone/code/FORIGO_Modula_V6_R2_DE_2019/",
+        "https://os.mbed.com/users/francescopistone/code/FORIGO_Modula_V6_R2C_DE_HwV5_10gen2019_2/",
+        "https://os.mbed.com/users/francescopistone/code/FORIGO_Modula_V6_R2C_DE_HwV5_31gen2019_2/",
+        "https://os.mbed.com/users/francescopistone/code/FORIGO_Modula_V6_R2C_DE_HwV5/"
     ],
     "frameworks": "mbed",
     "keywords": [

@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "dependencies": [
+        {
+            "authors": "不韋 呂",
+            "frameworks": "mbed",
+            "name": "Array_Matrix"
+        }
+    ],
+    "description": "Nucleo-F446RE 内蔵の AD/DA を使うためのライブラリ．DA からの出力は，標本化周波数の４倍のレートで行う．出力の補間フィルタには直線位相の FIR フィルタを使用． このライブラリを登録した際のプログラム： Demo_F446_AD_DA_MultirateLinearPhase. Library for built-in ADC and DAC in Nucleo-F446RE. Sampling rate for DAC is four times of that for ADC. Interpolation filter ...",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/Demo_F446_AD_DA_MultirateLinearPhase/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "da",
+        "FIR filter",
+        "interrupt",
+        "linear-phase",
+        "multi-rate",
+        "Nucleo-F446"
+    ],
+    "name": "F446_AD_DA_LinearPhase",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/F446_AD_DA_LinearPhase/"
+    }
+}

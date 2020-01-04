@@ -3,13 +3,6 @@
         "name": "NerfUS",
         "url": "https://os.mbed.com/teams/NerfUS/"
     },
-    "build": {
-        "flags": [
-            "-Imbed_source",
-            "-Iinclude",
-            "-Isource"
-        ]
-    },
     "description": "Servomotor",
     "examples": [
         "https://os.mbed.com/teams/NerfUS/code/ServomotorTests/",

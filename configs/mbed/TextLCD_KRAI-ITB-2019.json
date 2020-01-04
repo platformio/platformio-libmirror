@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "KRAI ITB GARUDAGO",
+        "url": "https://os.mbed.com/teams/KRAI-ITB-2019/"
+    },
+    "description": "LCD I2C",
+    "examples": [
+        "https://os.mbed.com/teams/KRAI-ITB-2019/code/I2C_Regional/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TextLCD",
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/KRAI-ITB-2019/code/TextLCD/"
+    }
+}

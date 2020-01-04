@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "ze chen",
+        "url": "https://os.mbed.com/users/zchen311/"
+    },
+    "description": "Tempareture sensor driver",
+    "examples": [
+        "https://os.mbed.com/users/mabenim/code/TMP36_Anlog_temperature_read/",
+        "https://os.mbed.com/teams/myDevicesIoT/code/Cayenne-X-NUCLEO-IDW01M1-TMP36/",
+        "https://os.mbed.com/users/Jeffdhyan/code/Cayenne-X-NUCLEO-IDW01M1-TMP36/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TMP36",
+    "name": "TMP36",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/zchen311/code/TMP36/"
+    }
+}

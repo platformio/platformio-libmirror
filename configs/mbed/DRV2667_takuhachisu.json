@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "taku hachisu",
+        "url": "https://os.mbed.com/users/takuhachisu/"
+    },
+    "description": "Library for TI's DRV2667",
+    "frameworks": "mbed",
+    "keywords": "DRV2667",
+    "name": "DRV2667",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/takuhachisu/code/DRV2667/"
+    }
+}

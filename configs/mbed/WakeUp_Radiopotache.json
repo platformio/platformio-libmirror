@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Plantsigfox",
+        "url": "https://os.mbed.com/teams/Radiopotache/"
+    },
+    "dependencies": [
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "LPC1114_WakeInterruptIn"
+        }
+    ],
+    "description": "Use on STM32L432KC",
+    "frameworks": "mbed",
+    "keywords": "WakeUp",
+    "name": "WakeUp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Radiopotache/code/WakeUp/"
+    }
+}

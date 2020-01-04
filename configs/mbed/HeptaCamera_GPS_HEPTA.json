@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "HEPTA-Sat Training 2017~2018",
+        "url": "https://os.mbed.com/users/HEPTA/"
+    },
+    "description": "HeptaCamera&GPS Library",
+    "examples": [
+        "https://os.mbed.com/users/HEPTA/code/Lab9-01_All_transmit/",
+        "https://os.mbed.com/users/HEPTA/code/Lab9-03_Thermal_chamber/",
+        "https://os.mbed.com/users/VicZl/code/Final_Magnetism_measurement_GPS_data_sav/",
+        "https://os.mbed.com/users/stoilivanov/code/LaserCommProtocol_01/",
+        "https://os.mbed.com/users/ponpoko1939/code/Lab1-04_model_program_1/",
+        "https://os.mbed.com/users/ponpoko1939/code/Lab4-11_model_program_3/",
+        "https://os.mbed.com/users/HEPTA/code/Lab9-02_Camera_Transmitting-program_samp/",
+        "https://os.mbed.com/teams/hepta_nimes/code/Lab9-01_All_transmit/",
+        "https://os.mbed.com/users/HEPTA/code/Lab7-01_template/",
+        "https://os.mbed.com/users/HEPTA/code/Lab4-08_Detect_GPS_Rawdata/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HeptaCamera_GPS",
+    "name": "HeptaCamera_GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/HEPTA/code/HeptaCamera_GPS/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Nicolas Duchoud",
+        "url": "https://os.mbed.com/users/duchonic/"
+    },
+    "description": "RFID-RC522 Shield",
+    "examples": [
+        "https://os.mbed.com/users/duchonic/code/RFID-RC522/",
+        "https://os.mbed.com/users/poom10490/code/RFID-RC522/",
+        "https://os.mbed.com/users/poom10490/code/main/",
+        "https://os.mbed.com/users/poom10490/code/job/",
+        "https://os.mbed.com/teams/Digital_Project/code/main/",
+        "https://os.mbed.com/users/poom10490/code/map/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "RC522",
+        "RFID"
+    ],
+    "name": "RC522",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/duchonic/code/RC522/"
+    }
+}

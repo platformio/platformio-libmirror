@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Roger Zuber",
+        "url": "https://os.mbed.com/users/rogerzuber/"
+    },
+    "description": "Demo Clock with Nucleo-F303RE and Starter Shield",
+    "examples": [
+        "https://os.mbed.com/users/rogerzuber/code/Nucleo_StarterShileld_Clock/",
+        "https://os.mbed.com/users/jobtanadol/code/mojo/",
+        "https://os.mbed.com/users/poom10490/code/main/",
+        "https://os.mbed.com/users/poom10490/code/job/",
+        "https://os.mbed.com/teams/Digital_Project/code/main/",
+        "https://os.mbed.com/users/jobtanadol/code/lastjob/",
+        "https://os.mbed.com/users/poom10490/code/map/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TM1636",
+    "name": "TM1636",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rogerzuber/code/TM1636/"
+    }
+}

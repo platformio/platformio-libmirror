@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "David Grayson",
+        "url": "https://os.mbed.com/users/DavidEGrayson/"
+    },
+    "description": "Library for decoding quadrature encoders. Uses a ring buffer so you can be sure to process every tick in the order that it happened. This library is not really intended ...",
+    "examples": [
+        "https://os.mbed.com/users/DavidEGrayson/code/LineFollowing/",
+        "https://os.mbed.com/users/DavidEGrayson/code/DeadReckoning/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PololuEncoder",
+    "name": "PololuEncoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DavidEGrayson/code/PololuEncoder/"
+    }
+}

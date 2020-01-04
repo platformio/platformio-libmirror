@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Andy A",
+        "url": "https://os.mbed.com/users/AndyA/"
+    },
+    "description": "Very simple class to give slow speed PWM using timers and digital out.",
+    "frameworks": "mbed",
+    "keywords": "SlowPWM",
+    "name": "SlowPWM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AndyA/code/SlowPWM/"
+    }
+}

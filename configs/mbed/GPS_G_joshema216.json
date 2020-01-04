@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "joshema 216",
+        "url": "https://os.mbed.com/users/joshema216/"
+    },
+    "description": "Calcula bien la latitud y la longitud teniendo en cuenta los conversión de grados, minutos y segundos a grados decimales.",
+    "examples": [
+        "https://os.mbed.com/users/joshema216/code/TAREA_4_GPS_GSM/",
+        "https://os.mbed.com/users/seccastanova/code/Tarea6_GSM/",
+        "https://os.mbed.com/users/jufzapataov/code/Tarea6_GPSGSM/",
+        "https://os.mbed.com/users/Alex_Arenas/code/TareaGSM/",
+        "https://os.mbed.com/users/vitigo/code/Tarea_6/",
+        "https://os.mbed.com/users/AndresTovar96/code/LocalizadorSatelital_BotonPanico/",
+        "https://os.mbed.com/users/tony63/code/rastreador_satelital/",
+        "https://os.mbed.com/users/tony63/code/RASTREADOR_SATELITAL_GSM/",
+        "https://os.mbed.com/users/tony63/code/RASTREADOR_GPS_STM23F103/",
+        "https://os.mbed.com/users/bescobarr/code/Tarea_GSM/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GPS_G",
+    "name": "GPS_G",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/joshema216/code/GPS_G/"
+    }
+}

@@ -4,6 +4,9 @@
         "url": "https://os.mbed.com/users/rosienej/"
     },
     "description": "Routines to drive a chain of APA102 Leds.",
+    "examples": [
+        "https://os.mbed.com/users/hkiela/code/blink_led_threading/"
+    ],
     "frameworks": "mbed",
     "keywords": "APA102",
     "name": "APA102",

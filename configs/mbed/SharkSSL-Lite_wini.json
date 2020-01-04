@@ -3,13 +3,6 @@
         "name": "Real Time Logic LLC",
         "url": "https://os.mbed.com/users/wini/"
     },
-    "build": {
-        "flags": [
-            "-Iinc",
-            "-Ilib",
-            "-Isrc"
-        ]
-    },
     "description": "This package includes the SharkSSL lite library and header files.",
     "examples": [
         "https://os.mbed.com/users/wini/code/WebSocket-Client-Example/",

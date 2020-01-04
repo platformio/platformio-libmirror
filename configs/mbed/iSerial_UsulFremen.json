@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Matias Bevilacqua",
+        "url": "https://os.mbed.com/users/UsulFremen/"
+    },
+    "dependencies": [
+        {
+            "authors": "Yoji KURODA",
+            "frameworks": "mbed",
+            "name": "RingBuffer"
+        }
+    ],
+    "description": "Minor fork of Yoji KURODA's work to test a fix on a small error.",
+    "frameworks": "mbed",
+    "keywords": "iSerial",
+    "name": "iSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/UsulFremen/code/iSerial/"
+    }
+}

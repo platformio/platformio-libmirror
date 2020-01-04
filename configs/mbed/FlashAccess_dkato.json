@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Daiki Kato",
+        "url": "https://os.mbed.com/users/dkato/"
+    },
+    "description": "Flash access library for GR-Boards.",
+    "frameworks": "mbed",
+    "keywords": "FlashAccess",
+    "name": "FlashAccess",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dkato/code/FlashAccess/"
+    }
+}

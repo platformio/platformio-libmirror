@@ -11,11 +11,12 @@
         "https://os.mbed.com/users/squirelo/code/balanceboard/",
         "https://os.mbed.com/users/vbahl2/code/Encryptulator2/",
         "https://os.mbed.com/users/bowenfeng/code/Seeed_Tiny_BLE_FTHR_Peripheral/",
-        "https://os.mbed.com/users/IoTer/code/Seeed_Tiny_BLE_Blinky/"
+        "https://os.mbed.com/users/IoTer/code/Seeed_Tiny_BLE_Blinky/",
+        "https://os.mbed.com/users/valecapaldi/code/Accel_and_Gyro_BLE_eMD5/",
+        "https://os.mbed.com/users/avk01/code/SKQP/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "acc",
         "gyro",
         "MPU6050"
     ],

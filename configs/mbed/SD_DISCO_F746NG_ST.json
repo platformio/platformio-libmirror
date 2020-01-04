@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "SD class for DISCO_F746NG platform",
+    "examples": [
+        "https://os.mbed.com/users/schmalzl/code/Joerg_turbo_ede/",
+        "https://os.mbed.com/teams/GNSS_DataLogger/code/DISCO-F746NG_master_wifi/",
+        "https://os.mbed.com/users/DouglasK/code/DISCO-F746NG_Monttory_Base/",
+        "https://os.mbed.com/teams/Monttori/code/DISCO-F746NG_Monttory_Base/",
+        "https://os.mbed.com/users/JonFreeman/code/Loco_10_17_SD/",
+        "https://os.mbed.com/users/phungductung/code/SD_UART1/",
+        "https://os.mbed.com/users/nam3886/code/uSDCard_Uart/",
+        "https://os.mbed.com/users/nam3886/code/uSDCard_Uart1/",
+        "https://os.mbed.com/users/nam3886/code/uSDCard_Uart2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F746NG",
+        "SD"
+    ],
+    "name": "SD_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/SD_DISCO_F746NG/"
+    }
+}

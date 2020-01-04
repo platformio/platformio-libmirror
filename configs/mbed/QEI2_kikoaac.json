@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Kiko Ishimoto",
+        "url": "https://os.mbed.com/users/kikoaac/"
+    },
+    "description": "ＱＥＩその２",
+    "examples": [
+        "https://os.mbed.com/teams/2015-robotic-contest-arakawa-A/code/Nucleo_Motor/",
+        "https://os.mbed.com/teams/GR-PEACH_producer_meeting/code/Nucleo_Motor/",
+        "https://os.mbed.com/users/sink/code/mbed_test_enc/",
+        "https://os.mbed.com/teams/project-R/code/mbed_touteki_MR1/",
+        "https://os.mbed.com/teams/project-R/code/mbed_Enc_Mt/",
+        "https://os.mbed.com/teams/project-R/code/TOUTEKI_all_mbed/",
+        "https://os.mbed.com/users/daikinect/code/170213/",
+        "https://os.mbed.com/users/kenboh/code/SRC2018Auto/",
+        "https://os.mbed.com/users/sink/code/mbed_test_program/",
+        "https://os.mbed.com/users/sink/code/2019_tourobo_upper/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "QEI2",
+    "name": "QEI2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kikoaac/code/QEI2/"
+    }
+}

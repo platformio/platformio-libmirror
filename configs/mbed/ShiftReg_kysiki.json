@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "yuto kamo",
+        "url": "https://os.mbed.com/users/kysiki/"
+    },
+    "description": "ShiftReg library (74HC595, NUJ3711)",
+    "frameworks": "mbed",
+    "keywords": "ShiftReg",
+    "name": "ShiftReg",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kysiki/code/ShiftReg/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "takashi kadono",
+        "url": "https://os.mbed.com/users/kadonotakashi/"
+    },
+    "description": "NucleoF446 re + SSD1331 simple Library",
+    "examples": [
+        "https://os.mbed.com/users/kadonotakashi/code/Nucleo_446/",
+        "https://os.mbed.com/users/kadonotakashi/code/Nucleo446_SSD1331/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Nucleo",
+        "SSD1331"
+    ],
+    "name": "ssd1331",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kadonotakashi/code/ssd1331/"
+    }
+}

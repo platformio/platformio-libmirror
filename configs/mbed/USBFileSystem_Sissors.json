@@ -3,12 +3,6 @@
         "name": "Erik Olieman",
         "url": "https://os.mbed.com/users/Sissors/"
     },
-    "build": {
-        "flags": [
-            "-IFATFileSystem",
-            "-IFATFileSystem/ChaN"
-        ]
-    },
     "dependencies": [
         {
             "authors": "mbed official",

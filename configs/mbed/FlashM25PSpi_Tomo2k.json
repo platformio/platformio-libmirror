@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Richard Thompson",
+        "url": "https://os.mbed.com/users/Tomo2k/"
+    },
+    "dependencies": [
+        {
+            "authors": "Richard Thompson",
+            "frameworks": "mbed",
+            "name": "RTOS_SPI_Clean"
+        }
+    ],
+    "description": "Flash handler for M25P* chips with no Device ID.",
+    "frameworks": "mbed",
+    "keywords": [
+        "flash",
+        "M25P10",
+        "M25P40",
+        "MP25P20"
+    ],
+    "name": "FlashM25PSpi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Tomo2k/code/FlashM25PSpi/"
+    }
+}

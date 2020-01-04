@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Skovbrynet",
+        "url": "https://os.mbed.com/teams/Skovbrynet/"
+    },
+    "description": "DHT sensor LIB",
+    "examples": [
+        "https://os.mbed.com/teams/Skovbrynet/code/DHT22tester/",
+        "https://os.mbed.com/users/royedfa5229/code/LASS_LoRa_mbed/",
+        "https://os.mbed.com/teams/E2I4-PL1-DDVT/code/TestingDHT22sensor_fork1/",
+        "https://os.mbed.com/teams/E2I4-PL1-DDVT/code/Test_sensor_DHT22/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DHT22",
+    "name": "DHT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Skovbrynet/code/DHT/"
+    }
+}

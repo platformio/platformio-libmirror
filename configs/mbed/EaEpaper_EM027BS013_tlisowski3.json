@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Tyler Lisowski",
+        "url": "https://os.mbed.com/users/tlisowski3/"
+    },
+    "dependencies": [
+        {
+            "authors": "EmbeddedArtists AB",
+            "frameworks": "mbed",
+            "name": "EM027BS013"
+        },
+        {
+            "authors": "Peter Drescher",
+            "frameworks": "mbed",
+            "name": "TFT_fonts"
+        }
+    ],
+    "description": "EaPaper Library for EM027BS013",
+    "frameworks": "mbed",
+    "keywords": [
+        "EaPaper",
+        "EM027BS013"
+    ],
+    "name": "EaEpaper_EM027BS013",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tlisowski3/code/EaEpaper_EM027BS013/"
+    }
+}

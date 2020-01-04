@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Matthias Reichstam",
+        "url": "https://os.mbed.com/users/Reichi19/"
+    },
+    "description": "abc",
+    "examples": [
+        "https://os.mbed.com/users/Reichi19/code/STMSchalter_TINF_25102018/",
+        "https://os.mbed.com/users/Reichi19/code/STMSchalterUebenKraft_TINF_29102018/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "C12832",
+    "name": "C12832",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Reichi19/code/C12832/"
+    }
+}

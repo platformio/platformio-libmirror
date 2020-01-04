@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Andrew Oliver",
+        "url": "https://os.mbed.com/users/ajoliver/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed unsupported",
+            "frameworks": "mbed",
+            "name": "FatFileSystem"
+        }
+    ],
+    "description": "Tweaked version",
+    "examples": [
+        "https://os.mbed.com/users/ajoliver/code/webserver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ajoliver/code/SDFileSystem/"
+    }
+}

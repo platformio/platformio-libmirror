@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Steve Martin",
+        "url": "https://os.mbed.com/users/ninensei/"
+    },
+    "description": "Silicon Labs Si7021-A20 device driver: I2C Humidity and Temperature Sensor",
+    "frameworks": "mbed",
+    "keywords": "libdev_si7021",
+    "name": "libdev_si7021",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ninensei/code/libdev_si7021/"
+    }
+}

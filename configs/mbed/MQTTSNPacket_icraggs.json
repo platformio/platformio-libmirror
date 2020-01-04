@@ -5,7 +5,9 @@
     },
     "description": "Low level MQTTSN packet library, part of the Eclipse Paho project: http://eclipse.org/paho",
     "examples": [
-        "https://os.mbed.com/users/icraggs/code/MQTTSN/"
+        "https://os.mbed.com/users/icraggs/code/MQTTSN/",
+        "https://os.mbed.com/users/KeystoneElectronic/code/sara-n200-hello-mqtt-sn/",
+        "https://os.mbed.com/teams/OneM2M/code/MQTTSN_2/"
     ],
     "frameworks": "mbed",
     "keywords": "MQTTSNPacket",

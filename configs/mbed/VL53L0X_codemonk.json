@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jugesh Sundram",
+        "url": "https://os.mbed.com/users/codemonk/"
+    },
+    "description": "ToF based ranging sensor library",
+    "frameworks": "mbed",
+    "keywords": "VL53L0X",
+    "name": "VL53L0X",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/codemonk/code/VL53L0X/"
+    }
+}

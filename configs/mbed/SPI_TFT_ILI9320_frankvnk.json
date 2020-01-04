@@ -3,11 +3,6 @@
         "name": "Frank Vannieuwkerke",
         "url": "https://os.mbed.com/users/frankvnk/"
     },
-    "build": {
-        "flags": [
-            "-IIAP"
-        ]
-    },
     "dependencies": [
         {
             "authors": "Erik Olieman",

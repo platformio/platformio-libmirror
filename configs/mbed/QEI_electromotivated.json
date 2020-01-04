@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Bryce Williams",
+        "url": "https://os.mbed.com/users/electromotivated/"
+    },
+    "description": "basic Quadrature Encoder Library",
+    "examples": [
+        "https://os.mbed.com/users/electromotivated/code/ESP8266_pid_mtrPos_webserver_SDcard_v2/",
+        "https://os.mbed.com/users/electromotivated/code/ESP8266_pid_mtrSpeed_Webserver_SDcard/",
+        "https://os.mbed.com/users/electromotivated/code/ESP8266_pid_spd_and_pos_webserver_SDcard/",
+        "https://os.mbed.com/users/electromotivated/code/pid_encoder_speed_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Encoder",
+    "name": "QEI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/electromotivated/code/QEI/"
+    }
+}

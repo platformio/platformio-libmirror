@@ -3,23 +3,6 @@
         "name": "Jinu Andrews",
         "url": "https://os.mbed.com/users/jinu/"
     },
-    "build": {
-        "flags": [
-            "-Iinterface",
-            "-Iinterface/inc",
-            "-Iinterface/src",
-            "-Iservices",
-            "-Iservices/inc",
-            "-Iservices/src",
-            "-Ilib",
-            "-Ilib/ble",
-            "-Ilib/ble/inc",
-            "-Ilib/ble/src",
-            "-Ilib/codecs",
-            "-Ilib/codecs/inc",
-            "-Ilib/codecs/src"
-        ]
-    },
     "description": "NRF51 serialization libraries for mDot",
     "frameworks": "mbed",
     "keywords": "nRF51",

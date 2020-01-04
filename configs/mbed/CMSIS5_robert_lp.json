@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Robert Lopez",
+        "url": "https://os.mbed.com/users/robert_lp/"
+    },
+    "description": "Aded CMSIS5 DSP and NN folder. Needs some work",
+    "frameworks": "mbed",
+    "keywords": "CMSIS5",
+    "name": "CMSIS5",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/robert_lp/code/CMSIS5/"
+    }
+}

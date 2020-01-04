@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jan Jongboom",
+        "url": "https://os.mbed.com/users/janjongboom/"
+    },
+    "description": "Serial#Find method for Arduino, implemented in Mbed",
+    "frameworks": "mbed",
+    "keywords": "arduino-serial-find",
+    "name": "arduino-serial-find",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/janjongboom/code/arduino-serial-find/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Stefano Fasciani",
+        "url": "https://os.mbed.com/users/stefanofasciani/"
+    },
+    "description": "Minor Modification from Original Library",
+    "examples": [
+        "https://os.mbed.com/users/stefanofasciani/code/ARMmbedFMsinth/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "AUDIO_DISCO_F746NG",
+    "name": "AUDIO_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/stefanofasciani/code/AUDIO_DISCO_F746NG/"
+    }
+}

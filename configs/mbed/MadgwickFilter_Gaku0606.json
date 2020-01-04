@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Gaku Matsumoto",
+        "url": "https://os.mbed.com/users/Gaku0606/"
+    },
+    "description": "Madgwick Filterをライブラリ化しました．内容はオープンソースになっていたやつのほぼ同じです．",
+    "examples": [
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/Hybrid_AttitudeEstimation/",
+        "https://os.mbed.com/users/tanahashi/code/PQGraphic_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MadgwickFilter",
+    "name": "MadgwickFilter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Gaku0606/code/MadgwickFilter/"
+    }
+}

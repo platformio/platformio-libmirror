@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Renosi Momoh",
+        "url": "https://os.mbed.com/users/Reniboy/"
+    },
+    "description": "beep library",
+    "examples": [
+        "https://os.mbed.com/users/Reniboy/code/ParkingSENSOR/",
+        "https://os.mbed.com/teams/ELEC2645-201516/code/ParkingSENSOR/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "buzzer",
+    "name": "buzzer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Reniboy/code/buzzer/"
+    }
+}

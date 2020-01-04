@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Ramana R",
+        "url": "https://os.mbed.com/users/NXP_Rr/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "This is a library for the MQ9 gas sensor module.",
+    "frameworks": "mbed",
+    "keywords": [
+        "gas sensor",
+        "library",
+        "MQ9"
+    ],
+    "name": "MQ9",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/NXP_Rr/code/MQ9/"
+    }
+}

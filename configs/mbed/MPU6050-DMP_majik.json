@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Mark Vandermeulen",
+        "url": "https://os.mbed.com/users/majik/"
+    },
+    "description": "MPU6050 library modified so I can use 2 IMUs",
+    "examples": [
+        "https://os.mbed.com/users/majik/code/MPU6050-DMP_sample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MPU6050-DMP",
+    "name": "MPU6050-DMP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/majik/code/MPU6050-DMP/"
+    }
+}

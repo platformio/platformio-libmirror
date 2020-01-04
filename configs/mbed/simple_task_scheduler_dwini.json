@@ -3,11 +3,6 @@
         "name": "Nico De Witte",
         "url": "https://os.mbed.com/users/dwini/"
     },
-    "build": {
-        "flags": [
-            "-Itasks"
-        ]
-    },
     "description": "Simple Task Scheduler. For the moment only implements continuous running tasks and periodic tasks.",
     "frameworks": "mbed",
     "keywords": [

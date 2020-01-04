@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "P R",
+        "url": "https://os.mbed.com/users/ruevs/"
+    },
+    "description": "Library for the MPU9250 9DOF IMU chip.",
+    "examples": [
+        "https://os.mbed.com/users/ruevs/code/Xadow-M0_Xadow-OLED_Accelerometer/",
+        "https://os.mbed.com/users/Rogercl/code/MARe_VT_ble_PeakSearch_Kalman_Inativ/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MPU9250",
+    "name": "MPU9250",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ruevs/code/MPU9250/"
+    }
+}

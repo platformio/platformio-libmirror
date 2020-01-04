@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Steve Kim",
+        "url": "https://os.mbed.com/users/SteveKim/"
+    },
+    "description": "Added monitoring feature of ESP8266's UART",
+    "examples": [
+        "https://os.mbed.com/teams/WIZnet/code/ESP8266_W7500_Example/",
+        "https://os.mbed.com/teams/WIZnet/code/DualNetworkInterface-Basic/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ESP8266Interface",
+    "name": "ESP8266Interface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SteveKim/code/ESP8266Interface/"
+    }
+}

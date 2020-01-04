@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "Contains the BSP driver for the DISCO_F413ZH board.",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/DISCO_F413ZH-LCD-demo/",
+        "https://os.mbed.com/teams/ST/code/DISCO_F413ZH-touch-screen-demo/",
+        "https://os.mbed.com/teams/ST/code/DISCO_F413ZH-SD-demo/",
+        "https://os.mbed.com/teams/ST/code/DISCO_F413ZH-PSRAM-demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BSP_DISCO_F413ZH",
+    "name": "BSP_DISCO_F413ZH",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/BSP_DISCO_F413ZH/"
+    }
+}

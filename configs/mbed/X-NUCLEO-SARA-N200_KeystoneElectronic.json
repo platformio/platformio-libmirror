@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Keystone Developer",
+        "url": "https://os.mbed.com/users/KeystoneElectronic/"
+    },
+    "description": "Library driver for the u-blox SARA-N200 NB-IoT modem",
+    "examples": [
+        "https://os.mbed.com/users/KeystoneElectronic/code/sara-n200-hello-mqtt-sn/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "X-NUCLEO-SARA-N200",
+    "name": "X-NUCLEO-SARA-N200",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/KeystoneElectronic/code/X-NUCLEO-SARA-N200/"
+    }
+}

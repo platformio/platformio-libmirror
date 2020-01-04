@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Phung Tung",
+        "url": "https://os.mbed.com/users/fundokukiri/"
+    },
+    "description": "spkt",
+    "examples": [
+        "https://os.mbed.com/users/fundokukiri/code/LCD/",
+        "https://os.mbed.com/users/nam3886/code/a123/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SPKT",
+    "name": "LCD_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fundokukiri/code/LCD_DISCO_F746NG/"
+    }
+}

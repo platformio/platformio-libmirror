@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "wan zhouquan",
+        "url": "https://os.mbed.com/users/wanzq/"
+    },
+    "description": "softpwm only a little change",
+    "examples": [
+        "https://os.mbed.com/users/wanzq/code/fly_v1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SoftPWM",
+    "name": "SoftPWM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wanzq/code/SoftPWM/"
+    }
+}

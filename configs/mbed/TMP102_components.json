@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "Library for TMP102 temperature I2C sensor",
+    "examples": [
+        "https://os.mbed.com/teams/shields/code/mbed_Shield_LCD_Temperature/",
+        "https://os.mbed.com/teams/shields/code/mbed_Shield_Temperature/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Temp",
+        "Temperature",
+        "TMP102"
+    ],
+    "name": "TMP102",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/TMP102/"
+    }
+}

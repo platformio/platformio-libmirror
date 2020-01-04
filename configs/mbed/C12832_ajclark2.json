@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "A Clark",
+        "url": "https://os.mbed.com/users/ajclark2/"
+    },
+    "dependencies": [
+        {
+            "authors": "Simon Ford",
+            "frameworks": "mbed",
+            "name": "Servo"
+        }
+    ],
+    "description": "Test",
+    "examples": [
+        "https://os.mbed.com/users/ajclark2/code/RF_ID_Final/",
+        "https://os.mbed.com/users/ajclark2/code/RF_ID_REV/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "C12832",
+    "name": "C12832",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ajclark2/code/C12832/"
+    }
+}

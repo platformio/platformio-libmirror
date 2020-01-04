@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "LSE_PUCRS",
+        "url": "https://os.mbed.com/teams/LSE_PUCRS/"
+    },
+    "description": "This lib was build for reading the 3 IMU unit sensors of Altimu10v4 board (https://www.pololu.com/product/2470).",
+    "frameworks": "mbed",
+    "keywords": "Altimu",
+    "name": "ALTIMU",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/LSE_PUCRS/code/ALTIMU/"
+    }
+}

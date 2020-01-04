@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "ST Expansion SW Team",
+        "url": "https://os.mbed.com/teams/ST-Expansion-SW-Team/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "X_NUCLEO_COMMON"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ST_INTERFACES"
+        }
+    ],
+    "description": "VL53L1X sensor class, for ARM Mbed platform. Based on Ultra-lite, Mass-market C Driver.",
+    "examples": [
+        "https://os.mbed.com/teams/ST-Expansion-SW-Team/code/X_NUCLEO_53L1A1_mbed/",
+        "https://os.mbed.com/teams/ST/code/X_NUCLEO_53L1A1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "VL53L1X_mbed",
+    "name": "VL53L1X_mbed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST-Expansion-SW-Team/code/VL53L1X_mbed/"
+    }
+}

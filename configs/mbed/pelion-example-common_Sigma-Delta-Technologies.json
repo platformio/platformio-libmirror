@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Sigma Delta Technologies Inc.",
+        "url": "https://os.mbed.com/teams/Sigma-Delta-Technologies/"
+    },
+    "description": "The Arm Pelion Device Management code to be used for https://cloud.mbed.com/quick-start",
+    "frameworks": "mbed",
+    "keywords": "pelion-example-common",
+    "name": "pelion-example-common",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Sigma-Delta-Technologies/code/pelion-example-common/"
+    }
+}

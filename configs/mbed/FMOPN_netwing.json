@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "R K",
+        "url": "https://os.mbed.com/users/netwing/"
+    },
+    "description": "OPN系FM音源チップを制御します",
+    "frameworks": "mbed",
+    "keywords": [
+        "ym2203",
+        "ym2608",
+        "ymf288"
+    ],
+    "name": "FMOPN",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/netwing/code/FMOPN/"
+    }
+}

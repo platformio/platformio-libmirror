@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Chengwei Zhang",
+        "url": "https://os.mbed.com/users/zcw607/"
+    },
+    "description": "Reduced FIFO packet size (18 bytes Optimized DMP initialization (less memory)",
+    "examples": [
+        "https://os.mbed.com/users/zcw607/code/MPU6050-DMP_test_JJ/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MPU6050-DMP",
+    "name": "MPU6050-DMP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/zcw607/code/MPU6050-DMP/"
+    }
+}

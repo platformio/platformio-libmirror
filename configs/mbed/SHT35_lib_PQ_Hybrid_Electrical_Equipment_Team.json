@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "PQ_Hybrid_Electrical_Equipment_Team",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/"
+    },
+    "description": "SHT35を使うためのライブラリ",
+    "examples": [
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/Hybrid_IZU2019/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "sensor",
+    "name": "SHT35_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/SHT35_lib/"
+    }
+}

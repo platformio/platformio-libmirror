@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "Container for sending and receiving messages using the Manchester and ManchesterUART libararies.",
+    "examples": [
+        "https://os.mbed.com/users/hudakz/code/Manchester_Transmitter/",
+        "https://os.mbed.com/users/hudakz/code/Manchester_Receiver/",
+        "https://os.mbed.com/users/hudakz/code/ManchesterUART_Transmitter/",
+        "https://os.mbed.com/users/hudakz/code/ManchesterUART_Receiver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Container",
+        "manchester",
+        "message"
+    ],
+    "name": "ManchesterMsg",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/ManchesterMsg/"
+    }
+}

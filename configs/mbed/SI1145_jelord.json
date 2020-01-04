@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Jake L",
+        "url": "https://os.mbed.com/users/jelord/"
+    },
+    "description": "Line 48 commented out",
+    "examples": [
+        "https://os.mbed.com/teams/Vockens-Group-Sensors/code/UPAS_MicroBLE/",
+        "https://os.mbed.com/teams/Arrow-Intern-IoT/code/ENV_NODE_REQUEST_POC/",
+        "https://os.mbed.com/teams/Arrow-Intern-IoT/code/ENV_F303K8/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SI1145",
+    "name": "SI1145",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jelord/code/SI1145/"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Jon Freeman",
+        "url": "https://os.mbed.com/users/JonFreeman/"
+    },
+    "dependencies": [
+        {
+            "authors": "Bit Positive",
+            "frameworks": "mbed",
+            "name": "FIFO"
+        }
+    ],
+    "description": "Asynchronous (Non-blocking) Serial Communication library with variable length software ring buffer (FIFO). You can use RawSerial Library's primary method. Operability confirmed on mbed 2.0.",
+    "examples": [
+        "https://os.mbed.com/users/JonFreeman/code/Brute_TS_Controller_2018_11/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "asynchronous",
+        "blocking",
+        "buffer",
+        "Buffered",
+        "FIFO",
+        "Non",
+        "ring",
+        "Serial",
+        "UART"
+    ],
+    "name": "AsyncSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JonFreeman/code/AsyncSerial/"
+    }
+}

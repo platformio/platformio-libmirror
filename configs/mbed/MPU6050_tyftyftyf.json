@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Yifei Teng",
+        "url": "https://os.mbed.com/users/tyftyftyf/"
+    },
+    "description": "MPU6050 FreeIMU library",
+    "examples": [
+        "https://os.mbed.com/users/joe4465/code/FreeIMU/",
+        "https://os.mbed.com/users/joe4465/code/FreeIMU_external_magnetometer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MPU6050",
+    "name": "MPU6050",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tyftyftyf/code/MPU6050/"
+    }
+}

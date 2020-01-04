@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Satoshi Togawa",
+        "url": "https://os.mbed.com/users/togayan/"
+    },
+    "description": "Change HOSTBASEADDR ｆor use with the RTOS.",
+    "examples": [
+        "https://os.mbed.com/users/togayan/code/mpod_nhk_english/",
+        "https://os.mbed.com/users/togayan/code/mpod_picasa_photoframe/",
+        "https://os.mbed.com/users/togayan/code/mpod_nhk_english_spxml/",
+        "https://os.mbed.com/teams/virtualmech/code/vmConfort_v6/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MSCFileSystem",
+    "name": "MSCFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/togayan/code/MSCFileSystem/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Elmar Peters",
+        "url": "https://os.mbed.com/users/elmoow/"
+    },
+    "description": "for led jacket",
+    "examples": [
+        "https://os.mbed.com/users/elmoow/code/ws2812test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "WS2812",
+    "name": "WS2812",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/elmoow/code/WS2812/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "7-segment LED driver [OSL10564-74HC595-x]",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/Check_7segLED_driver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Akizuki",
+        "driver",
+        "led"
+    ],
+    "name": "OSL10564_74HC595",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/OSL10564_74HC595/"
+    }
+}

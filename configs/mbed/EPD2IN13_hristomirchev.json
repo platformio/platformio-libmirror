@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Hristo Mirchev",
+        "url": "https://os.mbed.com/users/hristomirchev/"
+    },
+    "description": "Waveshare's 2.13inch e-Paper HAT display",
+    "frameworks": "mbed",
+    "keywords": [
+        "e-ink",
+        "E-Paper",
+        "epd2in13"
+    ],
+    "name": "EPD2IN13",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hristomirchev/code/EPD2IN13/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/"
+    },
+    "description": "MAX17055 driver",
+    "examples": [
+        "https://os.mbed.com/teams/MaximIntegrated/code/MAX32620FTHR_FuelGauge/",
+        "https://os.mbed.com/users/DimiterK/code/MAX32620FTHR_GPS_Tracker/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MAX17055",
+        "MAX32620FTHR"
+    ],
+    "name": "MAX17055",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/code/MAX17055/"
+    }
+}

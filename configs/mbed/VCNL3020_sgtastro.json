@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Andrew Marchment",
+        "url": "https://os.mbed.com/users/sgtastro/"
+    },
+    "description": "Copied from the VCNL3020 website at Vishay",
+    "frameworks": "mbed",
+    "keywords": [
+        "VCNL3020;",
+        "VCNL4020"
+    ],
+    "name": "VCNL3020",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sgtastro/code/VCNL3020/"
+    }
+}

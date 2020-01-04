@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Vincent Wochnik",
+        "url": "https://os.mbed.com/users/vwochnik/"
+    },
+    "description": "Fork with custom headers and basic auth.",
+    "examples": [
+        "https://os.mbed.com/users/vwochnik/code/MbedSmartRest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "authorization",
+        "client",
+        "custom",
+        "headers",
+        "http"
+    ],
+    "name": "HTTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vwochnik/code/HTTPClient/"
+    }
+}

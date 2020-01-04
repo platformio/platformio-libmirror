@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Gonzalo Matarrubia",
+        "url": "https://os.mbed.com/users/Gmatarrubia/"
+    },
+    "description": "This repo contains the libraries of Mbed for LPC1549 with following changes: - IAP commands. - EEPROM write and read. - UART write and read (public) - CAN can_s -> ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "CAN",
+        "EEPROM",
+        "IAP",
+        "LPC1549",
+        "read",
+        "write"
+    ],
+    "name": "Mbed LPC1549 mod",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Gmatarrubia/code/Mbed-LPC1549-mod/"
+    }
+}

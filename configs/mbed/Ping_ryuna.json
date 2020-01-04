@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Fumiya Fujisawa",
+        "url": "https://os.mbed.com/users/ryuna/"
+    },
+    "description": "4ピン用ピング",
+    "examples": [
+        "https://os.mbed.com/teams/2014/code/CatPot_SensorRight/",
+        "https://os.mbed.com/users/ryuna/code/CatPotI2CSlavetest/",
+        "https://os.mbed.com/teams/2014/code/CatPotI2CSlavetest/",
+        "https://os.mbed.com/teams/2014/code/CatPot_SensorRight_F/",
+        "https://os.mbed.com/teams/2014/code/CatPot_SensorRight_T/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Ping",
+    "name": "Ping",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ryuna/code/Ping/"
+    }
+}

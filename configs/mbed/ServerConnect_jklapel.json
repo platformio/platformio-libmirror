@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jonathan Klapel",
+        "url": "https://os.mbed.com/users/jklapel/"
+    },
+    "description": "ServerConnect for RFID Project",
+    "frameworks": "mbed",
+    "keywords": "ServerConnect",
+    "name": "ServerConnect",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jklapel/code/ServerConnect/"
+    }
+}

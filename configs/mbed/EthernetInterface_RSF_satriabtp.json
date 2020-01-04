@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "rosya satria",
+        "url": "https://os.mbed.com/users/satriabtp/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "Socket"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "lwip-eth"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "lwip-sys"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "lwip"
+        }
+    ],
+    "description": "adds getMACAddress() like getIPAddress(). Initializes in constructor.",
+    "frameworks": "mbed",
+    "keywords": "EthernetInterface_RSF",
+    "name": "EthernetInterface_RSF",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/satriabtp/code/EthernetInterface_RSF/"
+    }
+}

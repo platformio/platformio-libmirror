@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Hideki Kozima",
+        "url": "https://os.mbed.com/users/xkozima/"
+    },
+    "description": "This library provides an OLED (SSD1332, 96x64xRGB) interface that best utilizes SSD1332's graphic accelerator (especially for drawing lines and rectangles). Though it still has some limitations --- it does not ...",
+    "examples": [
+        "https://os.mbed.com/users/xkozima/code/OLEDexample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "OLED",
+        "SSD1332"
+    ],
+    "name": "OLEDaccel",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/xkozima/code/OLEDaccel/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "cansat-d_2018",
+        "url": "https://os.mbed.com/teams/cansat-d_2018/"
+    },
+    "description": "加速度センサのライブラリです。",
+    "examples": [
+        "https://os.mbed.com/teams/cansat-d_2018/code/MPU6050_get_offset/",
+        "https://os.mbed.com/teams/cansat-d_2018/code/MPU6050_cansat/",
+        "https://os.mbed.com/teams/CanSat-D-2019/code/MPU6050_cansat/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MPU6050",
+    "name": "MPU6050",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/cansat-d_2018/code/MPU6050/"
+    }
+}

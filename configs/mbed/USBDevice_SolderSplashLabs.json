@@ -3,16 +3,6 @@
         "name": "Carl - SolderSplash Labs",
         "url": "https://os.mbed.com/users/SolderSplashLabs/"
     },
-    "build": {
-        "flags": [
-            "-IUSBAudio",
-            "-IUSBMIDI",
-            "-IUSBMSD",
-            "-IUSBSerial",
-            "-IUSBDevice",
-            "-IUSBHID"
-        ]
-    },
     "description": "USB Device Library",
     "examples": [
         "https://os.mbed.com/teams/Solder-Splash/code/DipCortex-ADC-USB/",

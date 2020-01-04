@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "HEPTA-Sat Training 2019",
+        "url": "https://os.mbed.com/users/HeptaSatTraining2019/"
+    },
+    "dependencies": [
+        {
+            "authors": "HEPTA-Sat Training 2019",
+            "frameworks": "mbed",
+            "name": "SDFileSystem"
+        }
+    ],
+    "description": "C&DH library",
+    "examples": [
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/Lab3-04_Q_Save_battery_voltage_to_microS/",
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/Lab3-05_model_program_2/",
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/Appendix-01_Camera_Data_Transmit_to_GS/",
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/Lab3-01_Save_the_letters/",
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/Lab1-04_model_program_1/",
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/Lab3-04_Answer_Save_battery_voltage_toSD/",
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/Lab4-08_Detect_GPS_Rawdata/",
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/Lab4-09_Detect_GPGGA/",
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/Lab4-10_Camera_snapshot/",
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/Lab4-11_model_program_3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HEPTA_CDH",
+    "name": "HEPTA_CDH",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/HeptaSatTraining2019/code/HEPTA_CDH/"
+    }
+}

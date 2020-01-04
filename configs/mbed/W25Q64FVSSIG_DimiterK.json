@@ -4,6 +4,9 @@
         "url": "https://os.mbed.com/users/DimiterK/"
     },
     "description": "Hexiwear 8MB NOR flash memory library.",
+    "examples": [
+        "https://os.mbed.com/teams/Hexiwear_zeta/code/HexiHeart_Main/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "Flash memory",

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Benoit Agache",
+        "url": "https://os.mbed.com/users/MbedPowa/"
+    },
+    "dependencies": [
+        {
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
+            "name": "LinkedList"
+        }
+    ],
+    "description": "c",
+    "frameworks": "mbed",
+    "keywords": "DS1820",
+    "name": "DS1820",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MbedPowa/code/DS1820/"
+    }
+}

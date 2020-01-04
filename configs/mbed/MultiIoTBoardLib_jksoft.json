@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Junichi Katsu",
+        "url": "https://os.mbed.com/users/jksoft/"
+    },
+    "dependencies": [
+        {
+            "authors": "Toyomasa Watarai",
+            "frameworks": "mbed",
+            "name": "BME280"
+        },
+        {
+            "authors": "Tedd OKANO",
+            "frameworks": "mbed",
+            "name": "SB1602E"
+        }
+    ],
+    "description": "MultiIoTBoard library",
+    "examples": [
+        "https://os.mbed.com/users/jksoft/code/MITB_Sample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MultiIoTBoardLib",
+    "name": "MultiIoTBoardLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jksoft/code/MultiIoTBoardLib/"
+    }
+}

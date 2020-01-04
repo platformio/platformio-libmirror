@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Justin Jordan",
+        "url": "https://os.mbed.com/users/j3/"
+    },
+    "dependencies": [
+        {
+            "authors": "Justin Jordan",
+            "frameworks": "mbed",
+            "name": "ds3231"
+        },
+        {
+            "authors": "Justin Jordan",
+            "frameworks": "mbed",
+            "name": "max14661"
+        }
+    ],
+    "description": "Fork of Library for MAXREFDES72# that supports configuration of shield for different PMOD types and the DS3231 RTC",
+    "examples": [
+        "https://os.mbed.com/users/j3/code/ard2pmod_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ard2pmod",
+    "name": "ard2pmod",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/j3/code/ard2pmod/"
+    }
+}

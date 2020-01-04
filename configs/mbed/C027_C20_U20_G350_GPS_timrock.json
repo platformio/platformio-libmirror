@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Jianliang Gao",
+        "url": "https://os.mbed.com/users/timrock/"
+    },
+    "dependencies": [
+        {
+            "authors": "Jianliang Gao",
+            "frameworks": "mbed",
+            "name": "GPS_C027_C20_U20_G35_revB_SARA_G350"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "C027_C20_U20_G35 revB with SARA-G350 GPS library.",
+    "frameworks": "mbed",
+    "keywords": [
+        "C027;",
+        "G350;",
+        "GPS;",
+        "SARA"
+    ],
+    "name": "C027_C20_U20_G350_GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/timrock/code/C027_C20_U20_G350_GPS/"
+    }
+}

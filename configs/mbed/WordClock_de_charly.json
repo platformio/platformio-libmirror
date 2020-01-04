@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Karl Zweimüller",
+        "url": "https://os.mbed.com/users/charly/"
+    },
+    "description": "Class to display Time in words on WS2812B-LED-Stripe. * Drive LEDs with PixelArray * with 11x10 LED-Matrix and 4 minute-LEDS * GERMAN LAYOUT !!!!!!",
+    "examples": [
+        "https://os.mbed.com/users/charly/code/WordClock/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "wordclock",
+        "WS2812",
+        "WS2812B"
+    ],
+    "name": "WordClock_de",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/charly/code/WordClock_de/"
+    }
+}

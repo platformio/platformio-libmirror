@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Kevin Braun",
+        "url": "https://os.mbed.com/users/loopsva/"
+    },
+    "description": "Driver for Sensirion SCD30, CO2 sensor module using I2C. The device also senses Temperature and Humidity.",
+    "examples": [
+        "https://os.mbed.com/users/loopsva/code/scd30_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CO2",
+        "Humidity",
+        "I2C",
+        "Temperature"
+    ],
+    "name": "scd30",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/loopsva/code/scd30/"
+    }
+}

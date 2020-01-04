@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Dimiter K",
+        "url": "https://os.mbed.com/users/DimiterK/"
+    },
+    "description": "Hexiwear Heart rate sensor driver",
+    "examples": [
+        "https://os.mbed.com/users/DimiterK/code/Hexi_MAX30101/",
+        "https://os.mbed.com/users/Jashebes/code/Hexiwear/",
+        "https://os.mbed.com/users/Jashebes/code/HexiwearFinal/",
+        "https://os.mbed.com/users/Jashebes/code/HexiwearFinal1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MAX30101",
+    "name": "MAX30101",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DimiterK/code/MAX30101/"
+    }
+}

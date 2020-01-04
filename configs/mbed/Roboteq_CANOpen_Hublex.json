@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Hublex",
+        "url": "https://os.mbed.com/teams/Hublex/"
+    },
+    "dependencies": [
+        {
+            "authors": "Zéphyr Caré",
+            "frameworks": "mbed",
+            "name": "CAN_FIFO_Triporteur"
+        }
+    ],
+    "description": "A Roboteq controller c++ interface to allow a Brushless motor control on a CAN bus. Used for a FBL2360 reference.",
+    "frameworks": "mbed",
+    "keywords": [
+        "brushless motor",
+        "CAN",
+        "CAN_FIFO",
+        "CANopen",
+        "Roboteq"
+    ],
+    "name": "Roboteq_CANOpen",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Hublex/code/Roboteq_CANOpen/"
+    }
+}

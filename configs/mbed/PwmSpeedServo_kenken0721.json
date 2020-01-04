@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "ケンタ ミヤザキ",
+        "url": "https://os.mbed.com/users/kenken0721/"
+    },
+    "description": "pwm speed servo",
+    "frameworks": "mbed",
+    "keywords": "PwmSpeedServo",
+    "name": "PwmSpeedServo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenken0721/code/PwmSpeedServo/"
+    }
+}

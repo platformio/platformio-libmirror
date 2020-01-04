@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "wimbeaumont Project",
+        "url": "https://os.mbed.com/users/wbeaumont/"
+    },
+    "description": "interface for the temperature sensor chip adt7320, with sw SPI interface",
+    "examples": [
+        "https://os.mbed.com/users/wbeaumont/code/SPItest/",
+        "https://os.mbed.com/users/wbeaumont/code/sscm/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "T_adt7320",
+    "name": "T_adt7320",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wbeaumont/code/T_adt7320/"
+    }
+}

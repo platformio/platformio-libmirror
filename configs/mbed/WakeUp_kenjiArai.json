@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "dependencies": [
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "LPC1114_WakeInterruptIn"
+        }
+    ],
+    "description": "Added Restart(by RESET) function from Standby mode only for some Nucleo boards (STM32 series)",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/Check_StandBy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "KL25z",
+        "LPC800-MAX",
+        "LPC812",
+        "powerdown",
+        "Sleep",
+        "standby",
+        "stm32",
+        "wake-up"
+    ],
+    "name": "WakeUp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/WakeUp/"
+    }
+}

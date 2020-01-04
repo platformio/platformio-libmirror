@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Theo Bestenlehner",
+        "url": "https://os.mbed.com/users/glx/"
+    },
+    "description": "A library for the RFD77402 ToF distance-sensor. It's a port form the sparkfun-arduino-library.",
+    "frameworks": "mbed",
+    "keywords": "RFD77402",
+    "name": "RFD77402",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/glx/code/RFD77402/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Christian Gulde",
+        "url": "https://os.mbed.com/users/gulchi/"
+    },
+    "description": "ModBus TCP Implementation",
+    "frameworks": "mbed",
+    "keywords": "ModBusTCP",
+    "name": "ModBusTCP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gulchi/code/ModBusTCP/"
+    }
+}

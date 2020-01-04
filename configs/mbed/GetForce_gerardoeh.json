@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Gerardo Espinoza",
+        "url": "https://os.mbed.com/users/gerardoeh/"
+    },
+    "description": "Library to calculate the force and mass in Newton, grams and Kilograms applied to a Force Sensor SEN-09673",
+    "frameworks": "mbed",
+    "keywords": [
+        "calculate",
+        "force",
+        "grams",
+        "kilograms",
+        "mas",
+        "newton",
+        "SEN-09673",
+        "sensors"
+    ],
+    "name": "GetForce",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gerardoeh/code/GetForce/"
+    }
+}

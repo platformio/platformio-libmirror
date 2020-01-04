@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Marcus Parker",
+        "url": "https://os.mbed.com/users/MarcoAmerena/"
+    },
+    "description": "NVIC_set_all_priorities with Nucleo Interrupts",
+    "examples": [
+        "https://os.mbed.com/users/MarcoAmerena/code/Nucleo_Wifi/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "interrupts",
+        "NVIC"
+    ],
+    "name": "NVIC_set_all_priorities",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MarcoAmerena/code/NVIC_set_all_priorities/"
+    }
+}

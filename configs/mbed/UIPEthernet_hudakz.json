@@ -3,11 +3,6 @@
         "name": "Zoltan Hudak",
         "url": "https://os.mbed.com/users/hudakz/"
     },
-    "build": {
-        "flags": [
-            "-Iutility"
-        ]
-    },
     "description": "mbed library for ENC28J60 Ethernet modules. Full support for TCP/IP and UDP Server, Client and HTTP server (webserver). DHCP and DNS is included.",
     "examples": [
         "https://os.mbed.com/users/skeller/code/mBuino_ENC28_MQTT/",
@@ -16,10 +11,10 @@
         "https://os.mbed.com/users/hudakz/code/Serial_over_Ethernet/",
         "https://os.mbed.com/users/neutron_striker/code/TELNET_TEST/",
         "https://os.mbed.com/users/dmitry_pavlov/code/TcpServer_ENC28J60/",
-        "https://os.mbed.com/users/hudakz/code/HTTPServer_Echo_ENC28J60/",
+        "https://os.mbed.com/users/hudakz/code/MQTT_DHT11_ENC28J60/",
+        "https://os.mbed.com/users/tusharbhanarkar/code/MQTT_DHT11_ENC28J60_tushar/",
         "https://os.mbed.com/users/hudakz/code/WebSwitch_ENC28J60/",
-        "https://os.mbed.com/users/hudakz/code/TcpServer_ENC28J60/",
-        "https://os.mbed.com/users/hudakz/code/TcpClient_ENC28J60/"
+        "https://os.mbed.com/users/hudakz/code/HTTPServer_Echo_ENC28J60/"
     ],
     "frameworks": "mbed",
     "keywords": [

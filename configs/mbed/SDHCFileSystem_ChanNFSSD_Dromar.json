@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Takao Aratani",
+        "url": "https://os.mbed.com/users/Dromar/"
+    },
+    "dependencies": [
+        {
+            "authors": "Stefan Mueller",
+            "frameworks": "mbed",
+            "name": "ChaNFS"
+        }
+    ],
+    "description": "mbed Revision 38 SDHC 4GB",
+    "examples": [
+        "https://os.mbed.com/users/Dromar/code/WebCamera_SD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDHCFileSystem_ChanNFSSD",
+    "name": "SDHCFileSystem_ChanNFSSD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Dromar/code/SDHCFileSystem_ChanNFSSD/"
+    }
+}

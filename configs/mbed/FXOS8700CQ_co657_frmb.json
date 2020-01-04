@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Fred Barnes",
+        "url": "https://os.mbed.com/users/co657_frmb/"
+    },
+    "description": "Fork of trm's FXOS8700CQ library",
+    "examples": [
+        "https://os.mbed.com/users/co657_frmb/code/co657_lcdplay/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FXOS8700CQ",
+    "name": "FXOS8700CQ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/co657_frmb/code/FXOS8700CQ/"
+    }
+}

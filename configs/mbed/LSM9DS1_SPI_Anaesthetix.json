@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Erik van de Coevering",
+        "url": "https://os.mbed.com/users/Anaesthetix/"
+    },
+    "description": "A library to interface with the LSM9DS1 IMU using SPI",
+    "examples": [
+        "https://os.mbed.com/users/Anaesthetix/code/LSM9DS1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LSM9DS1",
+        "SPI"
+    ],
+    "name": "LSM9DS1_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Anaesthetix/code/LSM9DS1_SPI/"
+    }
+}

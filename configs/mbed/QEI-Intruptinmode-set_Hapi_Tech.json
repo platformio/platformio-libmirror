@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "HAPI- Tech",
+        "url": "https://os.mbed.com/users/Hapi_Tech/"
+    },
+    "description": "Quadrature encoder interface library.",
+    "examples": [
+        "https://os.mbed.com/users/Hapi_Tech/code/PreHeater-Rev2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "QEI",
+        "quadrature"
+    ],
+    "name": "QEI-Intruptinmode-set",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Hapi_Tech/code/QEI-Intruptinmode-set/"
+    }
+}

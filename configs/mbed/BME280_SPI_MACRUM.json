@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Toyomasa Watarai",
+        "url": "https://os.mbed.com/users/MACRUM/"
+    },
+    "description": "BME280 Combined humidity and pressure sensor library with SPI interface",
+    "examples": [
+        "https://os.mbed.com/users/MACRUM/code/BME280_SPI_Hello/",
+        "https://os.mbed.com/users/kenjiArai/code/TYBLE16_simple_data_logger/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BME280",
+    "name": "BME280_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MACRUM/code/BME280_SPI/"
+    }
+}

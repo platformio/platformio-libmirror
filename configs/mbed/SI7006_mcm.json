@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Manuel Caballero",
+        "url": "https://os.mbed.com/users/mcm/"
+    },
+    "description": "I2C Humidity and Temperature sensor",
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "Humidity",
+        "I2C",
+        "library",
+        "Si7006",
+        "SiLabs",
+        "Temperature"
+    ],
+    "name": "SI7006",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mcm/code/SI7006/"
+    }
+}

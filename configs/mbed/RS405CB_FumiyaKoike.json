@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Fumiya KOIKE",
+        "url": "https://os.mbed.com/users/FumiyaKoike/"
+    },
+    "description": "This library is for RS405CB that is controlled by RS-485",
+    "frameworks": "mbed",
+    "keywords": "RS405CB",
+    "name": "RS405CB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/FumiyaKoike/code/RS405CB/"
+    }
+}

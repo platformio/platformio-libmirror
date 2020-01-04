@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Juan Riveros",
+        "url": "https://os.mbed.com/users/jrive262/"
+    },
+    "description": "for use with LCM1602",
+    "examples": [
+        "https://os.mbed.com/users/jrive262/code/HCSR04andMPU6050/",
+        "https://os.mbed.com/users/mlosa010/code/HCSR04andMPU6050/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LCM1602"
+    ],
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jrive262/code/TextLCD/"
+    }
+}

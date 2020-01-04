@@ -6,10 +6,12 @@
     "description": "(MBED) implementation of the I2C interface",
     "examples": [
         "https://os.mbed.com/users/wbeaumont/code/MCP23009tst/",
-        "https://os.mbed.com/users/wbeaumont/code/MCP4728test/",
-        "https://os.mbed.com/users/wbeaumont/code/AT30TSE752TST2/",
         "https://os.mbed.com/users/wbeaumont/code/AT30TSE752TST/",
-        "https://os.mbed.com/users/wbeaumont/code/MCP4728setaddrProg/"
+        "https://os.mbed.com/users/wbeaumont/code/MCP4728setaddrProg/",
+        "https://os.mbed.com/users/kstokely/code/mbedSerialInterface_talkback2/",
+        "https://os.mbed.com/users/wbeaumont/code/AT30TSE752TST2/",
+        "https://os.mbed.com/users/wbeaumont/code/MCP4728test/",
+        "https://os.mbed.com/users/wbeaumont/code/veml7700_tst/"
     ],
     "frameworks": "mbed",
     "keywords": "I2Cinterfaces",

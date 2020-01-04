@@ -1,0 +1,40 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "BLE_API"
+        },
+        {
+            "authors": "Kenji Arai",
+            "frameworks": "mbed",
+            "name": "mbed-dev4BLE"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "nRF51822"
+        }
+    ],
+    "description": "Library for TYBLE16 Module",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/TYBLE16_mbedlized_EddystoneBeacon/",
+        "https://os.mbed.com/users/kenjiArai/code/TYBLE16_mbedlized_Thermometer/",
+        "https://os.mbed.com/users/kenjiArai/code/TYBLE16_mbedlized_HeartRate/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "nRF51822",
+        "TYBLE16"
+    ],
+    "name": "TYBLE16_BASE",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/TYBLE16_BASE/"
+    }
+}

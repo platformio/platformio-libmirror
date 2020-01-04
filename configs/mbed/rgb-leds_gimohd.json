@@ -3,11 +3,6 @@
         "name": "Kristof T'Jonck",
         "url": "https://os.mbed.com/users/gimohd/"
     },
-    "build": {
-        "flags": [
-            "-Ilib"
-        ]
-    },
     "description": "Library for led",
     "frameworks": "mbed",
     "keywords": [

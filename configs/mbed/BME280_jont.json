@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Jon Trinder",
+        "url": "https://os.mbed.com/users/jont/"
+    },
+    "description": "Replaced original getTemperature Routine as it was returned strange values",
+    "examples": [
+        "https://os.mbed.com/users/RCMISbed/code/LPC1768-GPS-FUSION-17102018-1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BME280",
+    "name": "BME280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jont/code/BME280/"
+    }
+}

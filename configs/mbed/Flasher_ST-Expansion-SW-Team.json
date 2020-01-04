@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "ST Expansion SW Team",
+        "url": "https://os.mbed.com/teams/ST-Expansion-SW-Team/"
+    },
+    "description": "Library for writing and erasing flash storage in Mbed OS 5.",
+    "frameworks": "mbed",
+    "keywords": "Flasher",
+    "name": "Flasher",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST-Expansion-SW-Team/code/Flasher/"
+    }
+}

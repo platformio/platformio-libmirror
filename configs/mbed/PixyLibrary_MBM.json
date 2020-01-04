@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Mathieu Malone",
+        "url": "https://os.mbed.com/users/MBM/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Library used to initialize and to communicate with the CMUcam5 Pixy",
+    "examples": [
+        "https://os.mbed.com/users/MBM/code/PixyStereoCam/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PixyLibrary",
+    "name": "PixyLibrary",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MBM/code/PixyLibrary/"
+    }
+}

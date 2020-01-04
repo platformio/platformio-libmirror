@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Liews Wuttipat",
+        "url": "https://os.mbed.com/users/sweilz/"
+    },
+    "description": "dynamixel protocal by Liews Wuttipat.",
+    "frameworks": "mbed",
+    "keywords": "libz_dynamixel",
+    "name": "libz_dynamixel",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sweilz/code/libz_dynamixel/"
+    }
+}

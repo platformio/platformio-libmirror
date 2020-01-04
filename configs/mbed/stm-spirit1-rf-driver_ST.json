@@ -3,23 +3,9 @@
         "name": "ST",
         "url": "https://os.mbed.com/teams/ST/"
     },
-    "build": {
-        "flags": [
-            "-Istm-spirit1-rf-driver",
-            "-Isource",
-            "-Isource/libs",
-            "-Isource/libs/Contiki_STM32_Library",
-            "-Isource/libs/spirit1",
-            "-Isource/libs/spirit1/SPIRIT1_Library",
-            "-Isource/libs/spirit1/SPIRIT1_Library/Inc",
-            "-Isource/libs/spirit1/SPIRIT1_Library/Src",
-            "-Isource/libs/spirit1/X-NUCLEO-IDS01Ax"
-        ]
-    },
     "description": "Prototype RF driver for STM Sub-1 GHz RF expansion board based on the SPSGRF-868 module for STM32 Nucleo.",
     "frameworks": "mbed",
     "keywords": [
-        "6LowPan",
         "nanostack",
         "ST Nucleo",
         "STM",

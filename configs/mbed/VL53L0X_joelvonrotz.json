@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Joel von Rotz",
+        "url": "https://os.mbed.com/users/joelvonrotz/"
+    },
+    "description": "A mbed library for the VL53L0X proximity sensor. This is a wrapper, so beware of big file sizes.",
+    "frameworks": "mbed",
+    "keywords": [
+        "C++",
+        "I2C",
+        "mbed",
+        "proximity",
+        "sensor",
+        "STM",
+        "VL53L0X"
+    ],
+    "name": "VL53L0X",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/joelvonrotz/code/VL53L0X/"
+    }
+}

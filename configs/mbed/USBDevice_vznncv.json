@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Konstantin Kochin",
+        "url": "https://os.mbed.com/users/vznncv/"
+    },
+    "description": "USBDevice library with Blue Pill STM32F103C8T6 board support.",
+    "examples": [
+        "https://os.mbed.com/users/vznncv/code/STM32F103C8T6_USBSerial_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BLUEPILL_F103C8",
+        "STM32F103C8T6",
+        "USBDevice",
+        "usbserial"
+    ],
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vznncv/code/USBDevice/"
+    }
+}

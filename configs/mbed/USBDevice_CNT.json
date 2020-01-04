@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "CNT",
+        "url": "https://os.mbed.com/teams/CNT/"
+    },
+    "description": "modif pour je ne sais quelle raison... peut-être support K82",
+    "frameworks": "mbed",
+    "keywords": "USBDevice",
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/CNT/code/USBDevice/"
+    }
+}

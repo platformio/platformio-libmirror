@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Ben Katz",
+        "url": "https://os.mbed.com/users/benkatz/"
+    },
+    "description": "other",
+    "examples": [
+        "https://os.mbed.com/users/bwang/code/qonly_controller/",
+        "https://os.mbed.com/users/nki/code/foc-ed_in_the_bot_compact/",
+        "https://os.mbed.com/users/dicarloj/code/foc-ed_in_the_bot_compact/",
+        "https://os.mbed.com/users/benkatz/code/Hobbyking_Cheetah_V1/",
+        "https://os.mbed.com/users/austinbrown124/code/CurrentModeSine/",
+        "https://os.mbed.com/users/benkatz/code/Hobbyking_Cheetah_general/",
+        "https://os.mbed.com/users/benkatz/code/Hobbyking_Cheetah_F334/",
+        "https://os.mbed.com/users/benkatz/code/Hobbyking_Cheetah_Compact/",
+        "https://os.mbed.com/users/bwang/code/foc-ed_in_the_bot_compact/",
+        "https://os.mbed.com/users/bwang/code/dc_motor_control/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FastPWM3",
+    "name": "FastPWM3",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/benkatz/code/FastPWM3/"
+    }
+}

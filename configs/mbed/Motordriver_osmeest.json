@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Olivier Smeesters",
+        "url": "https://os.mbed.com/users/osmeest/"
+    },
+    "description": "Motor driver library. Based on Christopher Hasler\\'s Motordriver library.",
+    "examples": [
+        "https://os.mbed.com/users/dmehta39/code/project1/",
+        "https://os.mbed.com/teams/UC-EAP-IS-ROBOTICA/code/motoresMicromouse/",
+        "https://os.mbed.com/teams/UC-EAP-IS-ROBOTICA/code/micromouse/",
+        "https://os.mbed.com/teams/EL4121-Embedded-System/code/coba_lib_lcd/",
+        "https://os.mbed.com/teams/KRAI-2016/code/Ultimate_Hybrid_LF_v4/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "hbridge",
+        "motor",
+        "PwmOut"
+    ],
+    "name": "Motordriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/osmeest/code/Motordriver/"
+    }
+}

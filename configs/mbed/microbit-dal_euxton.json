@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Philip Holifield",
+        "url": "https://os.mbed.com/users/euxton/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "BLE_API"
+        },
+        {
+            "authors": "Philip Holifield",
+            "frameworks": "mbed",
+            "name": "mbed-dev-bin"
+        },
+        {
+            "authors": "Philip Holifield",
+            "frameworks": "mbed",
+            "name": "nRF51822"
+        }
+    ],
+    "description": "from bbc microbit library",
+    "examples": [
+        "https://os.mbed.com/users/euxton/code/microbit/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "microbit-dal",
+    "name": "microbit-dal",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/euxton/code/microbit-dal/"
+    }
+}

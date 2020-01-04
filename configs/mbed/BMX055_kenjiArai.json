@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "Small, versatile 9-axis sensor module by Bosch Sensortec 3D Accelerometer + 3D Gyroscope + 3D Magnetometer",
+    "examples": [
+        "https://os.mbed.com/users/ramchagar/code/Pruebas_Flex_IMU_copy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BMX055",
+        "Bosch",
+        "gyroscope",
+        "magnetometer"
+    ],
+    "name": "BMX055",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/BMX055/"
+    }
+}

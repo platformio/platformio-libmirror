@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Liviu Radoi",
+        "url": "https://os.mbed.com/users/liviur2/"
+    },
+    "description": "HTTPClient with increased vector for sites with long parameters",
+    "frameworks": "mbed",
+    "keywords": "HTTPClient-long",
+    "name": "HTTPClient-long",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/liviur2/code/HTTPClient-long/"
+    }
+}

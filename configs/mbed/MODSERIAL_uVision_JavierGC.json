@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Javier Gómez Cabello",
+        "url": "https://os.mbed.com/users/JavierGC/"
+    },
+    "description": "adapted to Keil uVision",
+    "examples": [
+        "https://os.mbed.com/users/JavierGC/code/RT_CAN/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MODSERIAL_uVision",
+    "name": "MODSERIAL_uVision",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JavierGC/code/MODSERIAL_uVision/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Hartmut J",
+        "url": "https://os.mbed.com/users/orangeway/"
+    },
+    "description": "EU 868Mhz configured version of LMiC 1.5",
+    "examples": [
+        "https://os.mbed.com/users/orangeway/code/STM32F103C8T6_LoRaWAN-lmic-app/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LMiC_CFG_eu868",
+    "name": "LMiC_CFG_eu868",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/orangeway/code/LMiC_CFG_eu868/"
+    }
+}

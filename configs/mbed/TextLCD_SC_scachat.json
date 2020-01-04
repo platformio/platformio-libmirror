@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Stéphane Cachat",
+        "url": "https://os.mbed.com/users/scachat/"
+    },
+    "description": "TextLCD library for controlling various LCD panels based on the HD44780 4-bit interface. This version handles rs and rw pins",
+    "frameworks": "mbed",
+    "keywords": [
+        "HD44780",
+        "TextLCD"
+    ],
+    "name": "TextLCD_SC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/scachat/code/TextLCD_SC/"
+    }
+}

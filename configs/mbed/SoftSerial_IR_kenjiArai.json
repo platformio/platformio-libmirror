@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "Software UART program using Infra-Red LED and IR-Detector",
+    "examples": [
+        "https://os.mbed.com/users/Sidibe/code/TestVirtualisation/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Infra Red",
+        "IR",
+        "SoftSerial",
+        "software Uart"
+    ],
+    "name": "SoftSerial_IR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/SoftSerial_IR/"
+    }
+}

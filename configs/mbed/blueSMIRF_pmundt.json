@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Pamir Mundt",
+        "url": "https://os.mbed.com/users/pmundt/"
+    },
+    "description": "blueSMIRF Library",
+    "frameworks": "mbed",
+    "keywords": "blueSMIRF",
+    "name": "blueSMIRF",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pmundt/code/blueSMIRF/"
+    }
+}

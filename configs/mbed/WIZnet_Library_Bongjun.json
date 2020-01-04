@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Bongjun Hur",
+        "url": "https://os.mbed.com/users/Bongjun/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "This is WIZnet Ethernet Interface using Hardware TCP/IP chip, W5500, W5200 and W5100. One of them can be selected by enabling it in wiznet.h.",
+    "frameworks": "mbed",
+    "keywords": [
+        "ethernet",
+        "tcp/ip",
+        "w5100",
+        "W5200",
+        "W5500",
+        "Wiznet"
+    ],
+    "name": "WIZnet_Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Bongjun/code/WIZnet_Library/"
+    }
+}

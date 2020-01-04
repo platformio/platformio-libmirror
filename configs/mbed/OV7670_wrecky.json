@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Martin Kráčala",
+        "url": "https://os.mbed.com/users/wrecky/"
+    },
+    "description": "Fork of Edoardo De Marchi's ov7670 library. Works very similar, only few modification were made to support other boards.",
+    "examples": [
+        "https://os.mbed.com/users/wrecky/code/OV7670-application-over-USB-with-KL25Z/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AL422B",
+        "camera",
+        "OV7670"
+    ],
+    "name": "OV7670",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wrecky/code/OV7670/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Ross Squires",
+        "url": "https://os.mbed.com/users/rsquires/"
+    },
+    "description": "Detach fix",
+    "frameworks": "mbed",
+    "keywords": "SoftSerial",
+    "name": "SoftSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rsquires/code/SoftSerial/"
+    }
+}

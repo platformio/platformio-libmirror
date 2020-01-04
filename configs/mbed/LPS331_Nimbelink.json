@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "NimbeLink",
+        "url": "https://os.mbed.com/teams/Nimbelink/"
+    },
+    "description": "LPS331 library forked with I2C address to 0xBA",
+    "examples": [
+        "https://os.mbed.com/users/kylerodgers/code/Skywire_Demo_3/",
+        "https://os.mbed.com/teams/Nimbelink/code/Skywire_Kinetis_K64_demo/",
+        "https://os.mbed.com/teams/Nimbelink/code/Skywire_Demo/",
+        "https://os.mbed.com/users/vasilyvs/code/Skywire_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LPS331",
+    "name": "LPS331",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nimbelink/code/LPS331/"
+    }
+}

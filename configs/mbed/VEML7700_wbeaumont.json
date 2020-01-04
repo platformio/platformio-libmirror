@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "wimbeaumont Project",
+        "url": "https://os.mbed.com/users/wbeaumont/"
+    },
+    "description": "class to readout the VEML7700 light sensor via i2c",
+    "examples": [
+        "https://os.mbed.com/users/wbeaumont/code/veml7700_tst/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "VEML7700",
+    "name": "VEML7700",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wbeaumont/code/VEML7700/"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Ben Ceron",
+        "url": "https://os.mbed.com/users/ben_ceron/"
+    },
+    "dependencies": [
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "BurstSPI"
+        }
+    ],
+    "description": "Modified library of Pixel Array showing main.cpp code implementing buffer/array of pixels method of updating pixel chain.",
+    "examples": [
+        "https://os.mbed.com/users/ben_ceron/code/NeoPixel-DemoBuffer/",
+        "https://os.mbed.com/users/jsheu3/code/Final_project/",
+        "https://os.mbed.com/users/tamechi3/code/Final_project/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PixelArrayBuffer",
+    "name": "PixelArrayBuffer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ben_ceron/code/PixelArrayBuffer/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Akash Vibhute",
+        "url": "https://os.mbed.com/users/akashvibhute/"
+    },
+    "description": "Bosch BNO055 IMU library fork",
+    "examples": [
+        "https://os.mbed.com/teams/Team-Virgo-v3/code/Orion_newPCB_test_LV/",
+        "https://os.mbed.com/users/ahmed_lv/code/Orion_PCB_test_Faulhaber_gr41_wptcmd_V1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BNO055",
+    "name": "BNO055",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/akashvibhute/code/BNO055/"
+    }
+}

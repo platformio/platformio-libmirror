@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "BMT M9 Groep01",
+        "url": "https://os.mbed.com/teams/BMT-M9-Groep01/"
+    },
+    "dependencies": [
+        {
+            "authors": "Tom Tom",
+            "frameworks": "mbed",
+            "name": "HIDScope"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "USBDevice"
+        }
+    ],
+    "description": "library",
+    "frameworks": "mbed",
+    "keywords": "HIDScope",
+    "name": "HIDScope",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/BMT-M9-Groep01/code/HIDScope/"
+    }
+}

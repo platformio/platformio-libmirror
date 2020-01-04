@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Line Health",
+        "url": "https://os.mbed.com/teams/Line-Health/"
+    },
+    "description": "library for the motor driver",
+    "examples": [
+        "https://os.mbed.com/users/avadivel3/code/4180_final_project/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "library",
+        "rgb",
+        "sensor",
+        "TCS34725"
+    ],
+    "name": "TB6612FNG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Line-Health/code/TB6612FNG/"
+    }
+}

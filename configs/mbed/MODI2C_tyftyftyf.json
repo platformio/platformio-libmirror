@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Yifei Teng",
+        "url": "https://os.mbed.com/users/tyftyftyf/"
+    },
+    "dependencies": [
+        {
+            "authors": "Andy Kirkham",
+            "frameworks": "mbed",
+            "name": "FPointer"
+        }
+    ],
+    "description": "Improvements to Olieman's MODI2C library. Supports calls from IRQ.",
+    "examples": [
+        "https://os.mbed.com/users/joe4465/code/FreeIMU/",
+        "https://os.mbed.com/users/joe4465/code/FreeIMU_external_magnetometer/",
+        "https://os.mbed.com/users/tyftyftyf/code/FreeIMU/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MODI2C",
+    "name": "MODI2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tyftyftyf/code/MODI2C/"
+    }
+}

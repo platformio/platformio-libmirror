@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Giordano Scuderi",
+        "url": "https://os.mbed.com/users/scuderig/"
+    },
+    "description": "Fork of mbed-NTP Library with small fixes",
+    "frameworks": "mbed",
+    "keywords": "STM-NTP",
+    "name": "STM-NTP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/scuderig/code/STM-NTP/"
+    }
+}

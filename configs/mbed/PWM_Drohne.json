@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Bulme Projekt",
+        "url": "https://os.mbed.com/users/Drohne/"
+    },
+    "description": "Own PWM lib",
+    "frameworks": "mbed",
+    "keywords": "PWM",
+    "name": "PWM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Drohne/code/PWM/"
+    }
+}

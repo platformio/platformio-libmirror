@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "DongEun Koak",
+        "url": "https://os.mbed.com/users/kaizen/"
+    },
+    "description": "Adafruit OLED Libary",
+    "examples": [
+        "https://os.mbed.com/users/eunkyoungkim/code/SSD1306_LCD-HelloWorld/",
+        "https://os.mbed.com/teams/WIZnet/code/WizFi250-Geolocation_NTP/",
+        "https://os.mbed.com/teams/IOP/code/Tweeting_Machine_HelloWorld_WIZwiki-W750/",
+        "https://os.mbed.com/users/number_key/code/display_irita/",
+        "https://os.mbed.com/users/IOP/code/Tweeting_Machine_HelloWorld_WIZwiki-W750/",
+        "https://os.mbed.com/users/Nasungil/code/test/",
+        "https://os.mbed.com/users/Gallua/code/test/",
+        "https://os.mbed.com/users/Nasungil/code/Tweeting_Machine_HelloWorld_WIZwiki-W750/",
+        "https://os.mbed.com/teams/WIZnet/code/SSD1306_LCD-HelloWorld/",
+        "https://os.mbed.com/users/WIzMatthew/code/I2C_SSD1306_Helloworld_WIZwiki-W7500/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "OLED",
+        "SSD1306"
+    ],
+    "name": "Adafruit_GFX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kaizen/code/Adafruit_GFX/"
+    }
+}

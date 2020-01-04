@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "hisyam fs",
+        "url": "https://os.mbed.com/users/hisyamfs/"
+    },
+    "description": "Library for Adafruit AMG8833. Forked from arduino version",
+    "frameworks": "mbed",
+    "keywords": "AMG8833lib",
+    "name": "AMG8833lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hisyamfs/code/AMG8833lib/"
+    }
+}

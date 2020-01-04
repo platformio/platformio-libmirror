@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Veikko Kero",
+        "url": "https://os.mbed.com/users/Vekotin/"
+    },
+    "description": "jepjaee",
+    "examples": [
+        "https://os.mbed.com/users/Vekotin/code/MIDI_Interface_ver_1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Touch_tft",
+    "name": "Touch_tft",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Vekotin/code/Touch_tft/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "mbed library with additional peripherals for ST F401 board",
+    "frameworks": "mbed",
+    "keywords": [
+        "f401",
+        "mbed"
+    ],
+    "name": "mbed-F401",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/mbed-F401/"
+    }
+}

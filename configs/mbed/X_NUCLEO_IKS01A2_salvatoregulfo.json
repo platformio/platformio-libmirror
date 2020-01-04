@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Salvatore Gulfo",
+        "url": "https://os.mbed.com/users/salvatoregulfo/"
+    },
+    "description": "Mario",
+    "examples": [
+        "https://os.mbed.com/users/salvatoregulfo/code/LoRaWANdemoUnina/",
+        "https://os.mbed.com/teams/FabLab-LoRa/code/LoRaWANdemo72/",
+        "https://os.mbed.com/teams/Lora4MakerFaire/code/LoRaWANRadiation/",
+        "https://os.mbed.com/users/whz861025/code/Sensor_shield/",
+        "https://os.mbed.com/users/whz861025/code/Weather_Station/",
+        "https://os.mbed.com/users/spadala/code/ForestSafe/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "X_NUCLEO_IKS01A2",
+    "name": "X_NUCLEO_IKS01A2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/salvatoregulfo/code/X_NUCLEO_IKS01A2/"
+    }
+}

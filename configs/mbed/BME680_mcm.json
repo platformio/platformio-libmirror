@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Manuel Caballero",
+        "url": "https://os.mbed.com/users/mcm/"
+    },
+    "description": "Low power gas, pressure, temperature and humidity sensor",
+    "examples": [
+        "https://os.mbed.com/users/etiene32/code/MERGE/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BME680",
+        "Bosch",
+        "driver",
+        "gas sensor",
+        "Humidity",
+        "I2C",
+        "library",
+        "pressure",
+        "sensor",
+        "Temperature",
+        "TVOC"
+    ],
+    "name": "BME680",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mcm/code/BME680/"
+    }
+}

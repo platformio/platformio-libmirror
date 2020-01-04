@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "LDSC_Robotics_TAs",
+        "url": "https://os.mbed.com/teams/LDSC_Robotics_TAs/"
+    },
+    "description": "Pin usage: MOSI(D4), MISO(D5), SCK(D3), CS(D6), format(8, 3) Test OK.",
+    "frameworks": "mbed",
+    "keywords": "LSM6DS3_20160225",
+    "name": "LSM6DS3_20160225",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/LDSC_Robotics_TAs/code/LSM6DS3_20160225/"
+    }
+}

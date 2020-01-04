@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Steve Martin",
+        "url": "https://os.mbed.com/users/ninensei/"
+    },
+    "description": "Fork of SoftI2C. Added clock stretching support.",
+    "frameworks": "mbed",
+    "keywords": "libdrv_SoftI2C",
+    "name": "libdrv_SoftI2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ninensei/code/libdrv_SoftI2C/"
+    }
+}

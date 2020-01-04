@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "David Shoneye",
+        "url": "https://os.mbed.com/users/dshoneye/"
+    },
+    "description": "fork",
+    "frameworks": "mbed",
+    "keywords": "HTTPClient",
+    "name": "HTTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dshoneye/code/HTTPClient/"
+    }
+}

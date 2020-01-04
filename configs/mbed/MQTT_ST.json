@@ -1,0 +1,39 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "dependencies": [
+        {
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
+            "name": "FP"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "MQTTPacket"
+        }
+    ],
+    "description": "Added support to NetworkSocket API with Wifi.",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/IDW01M1_Cloud_IBM/",
+        "https://os.mbed.com/users/rozendhyan/code/IDW01M1-MQTT/",
+        "https://os.mbed.com/users/e58136782000/code/IDW01M1-MQTT-1/",
+        "https://os.mbed.com/users/e58136782000/code/IDW01M1-MQTT3/",
+        "https://os.mbed.com/users/rozendhyan/code/DS1820_IDW01M1/",
+        "https://os.mbed.com/users/e58136782000/code/DS1820_IDW01M1_finish/",
+        "https://os.mbed.com/users/e58136782000/code/Dissolved_oxygen_sensor_online/",
+        "https://os.mbed.com/users/e58136782000/code/Turbidity_sensor_online/",
+        "https://os.mbed.com/users/e58136782000/code/turbid_sensor_sensor_online/",
+        "https://os.mbed.com/users/Hamdi/code/Light_sensors/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MQTT",
+    "name": "MQTT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/MQTT/"
+    }
+}

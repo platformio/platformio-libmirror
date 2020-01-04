@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "tatiuc embedded",
+        "url": "https://os.mbed.com/teams/tatiuc-embedded/"
+    },
+    "description": "Class library for a polling-based 4x4 keypad.",
+    "examples": [
+        "https://os.mbed.com/teams/tatiuc-embedded/code/lock_system/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "add layout example",
+        "pullup"
+    ],
+    "name": "Keypadlatest",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/tatiuc-embedded/code/Keypadlatest/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Jörg Weber",
+        "url": "https://os.mbed.com/users/Cirrus01/"
+    },
+    "description": "Library for the barometric pressure sensor BMP183",
+    "examples": [
+        "https://os.mbed.com/users/Cirrus01/code/BMP183Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "baro",
+        "BMP183"
+    ],
+    "name": "BMP183",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Cirrus01/code/BMP183/"
+    }
+}

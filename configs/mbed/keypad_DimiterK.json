@@ -6,11 +6,11 @@
     "description": "scan a 4x4 keypad by polling it continuously.",
     "examples": [
         "https://os.mbed.com/users/daryl2110/code/Keyboard_LCD/",
-        "https://os.mbed.com/users/salvarear/code/tarea6_teclado/"
+        "https://os.mbed.com/users/salvarear/code/tarea6_teclado/",
+        "https://os.mbed.com/teams/VR-FabLab-RoboVal/code/keypad/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "4x4",
         "keypad",
         "polling"
     ],

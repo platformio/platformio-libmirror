@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "IKTR",
+        "url": "https://os.mbed.com/teams/IKTR/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "API for driving Adafruit's NeoPixels using RedBear's BLE Nano or BLE nRF51822",
+    "frameworks": "mbed",
+    "keywords": [
+        "NeoPixel",
+        "nRF51822",
+        "RedBear",
+        "WS2812"
+    ],
+    "name": "RedBearNano_NeoPixels",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/IKTR/code/RedBearNano_NeoPixels/"
+    }
+}

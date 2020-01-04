@@ -3,12 +3,6 @@
         "name": "Jon Trinder",
         "url": "https://os.mbed.com/users/jont/"
     },
-    "build": {
-        "flags": [
-            "-Inine_ring",
-            "-Inine_record_ring"
-        ]
-    },
     "description": "Simple ring buffer",
     "frameworks": "mbed",
     "keywords": [

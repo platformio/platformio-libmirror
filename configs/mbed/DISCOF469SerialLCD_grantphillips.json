@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Grant Phillips",
+        "url": "https://os.mbed.com/users/grantphillips/"
+    },
+    "dependencies": [
+        {
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
+            "name": "BufferedSerial"
+        }
+    ],
+    "description": "Class library for a serial lcd implemented on a DISCO-F469NI Development board running specific firmware for this purpose.",
+    "frameworks": "mbed",
+    "keywords": "DISCOF469SerialLCD",
+    "name": "DISCOF469SerialLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/grantphillips/code/DISCOF469SerialLCD/"
+    }
+}

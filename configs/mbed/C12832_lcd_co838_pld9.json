@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Pierre DELVOYE",
+        "url": "https://os.mbed.com/users/co838_pld9/"
+    },
+    "description": "Lib for the LCD display on mbed lab Board",
+    "frameworks": "mbed",
+    "keywords": [
+        "application",
+        "Board",
+        "C12832",
+        "LCD"
+    ],
+    "name": "C12832_lcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/co838_pld9/code/C12832_lcd/"
+    }
+}

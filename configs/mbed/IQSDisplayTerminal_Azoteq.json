@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Azoteq",
+        "url": "https://os.mbed.com/teams/Azoteq/"
+    },
+    "description": "Azoteq IQS624 Serial Terminal Display Class",
+    "examples": [
+        "https://os.mbed.com/teams/Azoteq/code/IQS624_HelloWorld/",
+        "https://os.mbed.com/teams/Thinkbed/code/Nucleo_ACM1602_I2C_DC_Angle/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Azoteq",
+        "capacitive touch",
+        "I2C",
+        "IQS624",
+        "LPC1768",
+        "mbed",
+        "Nucleo",
+        "ProxFusion",
+        "proximity",
+        "Serial",
+        "stm32"
+    ],
+    "name": "IQSDisplayTerminal",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Azoteq/code/IQSDisplayTerminal/"
+    }
+}

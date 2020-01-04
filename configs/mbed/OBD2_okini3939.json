@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Suga koubou",
+        "url": "https://os.mbed.com/users/okini3939/"
+    },
+    "description": "OBD II library",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/Car_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "OBD2",
+    "name": "OBD2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/okini3939/code/OBD2/"
+    }
+}

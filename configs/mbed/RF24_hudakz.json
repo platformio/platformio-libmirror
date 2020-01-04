@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "Port of Maniacbug's Arduino RF24 library to mbed.",
+    "examples": [
+        "https://os.mbed.com/users/hudakz/code/STM32F407VET6_nRF24L01_Master/",
+        "https://os.mbed.com/users/hudakz/code/STM32F407VET6_nRF24L01_Slave/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "nRF24L01",
+    "name": "RF24",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/RF24/"
+    }
+}

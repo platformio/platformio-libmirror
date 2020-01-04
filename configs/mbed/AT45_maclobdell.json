@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Mac Lobdell",
+        "url": "https://os.mbed.com/users/maclobdell/"
+    },
+    "description": "SPI Flash Library for AT45",
+    "examples": [
+        "https://os.mbed.com/users/maclobdell/code/AT45_spi_flash_example/",
+        "https://os.mbed.com/users/gorazdko/code/AT45_spi_flash_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "AT45",
+    "name": "AT45",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/maclobdell/code/AT45/"
+    }
+}

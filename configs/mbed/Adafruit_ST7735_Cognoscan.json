@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Scott Teal",
+        "url": "https://os.mbed.com/users/Cognoscan/"
+    },
+    "description": "Clone of the Adafruit ST7735 library, updated for the ST7735S (teal-colored tab)",
+    "frameworks": "mbed",
+    "keywords": "Adafruit_ST7735",
+    "name": "Adafruit_ST7735",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Cognoscan/code/Adafruit_ST7735/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "zeu tel",
+        "url": "https://os.mbed.com/users/zeutel/"
+    },
+    "description": "LSM9DS1 IMU sensor driver",
+    "examples": [
+        "https://os.mbed.com/teams/FTE-denshi/code/Izu_2019/",
+        "https://os.mbed.com/teams/NFG/code/LSM_imu/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LSM9DS1",
+    "name": "LSM9DS1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/zeutel/code/LSM9DS1/"
+    }
+}

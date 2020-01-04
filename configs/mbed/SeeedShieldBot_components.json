@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "Library for the Shield Bot by SeeedStudio",
+    "examples": [
+        "https://os.mbed.com/teams/shields/code/Seeed_Bot_Shield/",
+        "https://os.mbed.com/teams/ST/code/Seeed_BlueBot_demo/",
+        "https://os.mbed.com/teams/ARSLab/code/Seeed_BlueBot_demo_test1/",
+        "https://os.mbed.com/teams/Mbed-master/code/LAB03_Oppgav1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "bot",
+        "motor",
+        "sensors",
+        "shield"
+    ],
+    "name": "SeeedShieldBot",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/SeeedShieldBot/"
+    }
+}

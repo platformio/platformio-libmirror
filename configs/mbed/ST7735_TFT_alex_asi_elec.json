@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Alexandre Brehmer",
+        "url": "https://os.mbed.com/users/alex_asi_elec/"
+    },
+    "dependencies": [
+        {
+            "authors": "Jonne Valola",
+            "frameworks": "mbed",
+            "name": "ST7735_TFT"
+        }
+    ],
+    "description": "Modifié pour fonctionner avec les écran arduino. Ecran surplaque blanche, dos bleu, au dimensions de l'arduino esplora",
+    "examples": [
+        "https://os.mbed.com/users/alex_asi_elec/code/Arduino_screen/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ST7735_TFT",
+    "name": "ST7735_TFT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/alex_asi_elec/code/ST7735_TFT/"
+    }
+}

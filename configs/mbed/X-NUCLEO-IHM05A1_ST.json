@@ -1,0 +1,41 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ST_INTERFACES"
+        }
+    ],
+    "description": "Expansion SW library to control a bipolar stepper motor using X-NUCLEO-IHM05A1 expansion board based on L6208.",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/HelloWorld_IHM05A1/",
+        "https://os.mbed.com/teams/Yossi_Students/code/TAU_ROTATING_PLATFORM_IHM05A1/",
+        "https://os.mbed.com/teams/Amaldi/code/Amaldi_13_Exercise_IHM05A1/",
+        "https://os.mbed.com/teams/Amaldi/code/Amaldi_13_Exercise_IHM05A1motore/",
+        "https://os.mbed.com/teams/Amaldi/code/Amaldi_13_Exercise_IHM05A1finalerobot/",
+        "https://os.mbed.com/teams/Amaldi/code/Amaldi_Exercise_IHM05A1_new/",
+        "https://os.mbed.com/teams/Amaldi/code/Amaldi_RobotFinale_Rev1/",
+        "https://os.mbed.com/teams/Amaldi/code/Amaldi_RobotFinale_Rev2/",
+        "https://os.mbed.com/teams/Amaldi/code/Amaldi_RobotFinale_Rev1_FUNZIONA/",
+        "https://os.mbed.com/teams/Team-DIANA/code/Arm_Stepper_nucleo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "L6208",
+        "microstep",
+        "motor",
+        "ST",
+        "Stepper"
+    ],
+    "name": "X-NUCLEO-IHM05A1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/X-NUCLEO-IHM05A1/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Jeremy Paradie",
+        "url": "https://os.mbed.com/users/jparadie/"
+    },
+    "description": "Library for reading from RC receiver channels. Made for m5 at UMass Amherst.",
+    "examples": [
+        "https://os.mbed.com/users/jparadie/code/zzM5_ExampleRobot/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "amherst",
+        "M5",
+        "Radio",
+        "RC",
+        "Receiver",
+        "Servo",
+        "umass"
+    ],
+    "name": "zzM5_RadioChannel",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jparadie/code/zzM5_RadioChannel/"
+    }
+}

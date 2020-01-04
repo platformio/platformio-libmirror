@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "WIZnet",
+        "url": "https://os.mbed.com/teams/WIZnet/"
+    },
+    "description": "exeption of receive(TCPSocketconnection)",
+    "examples": [
+        "https://os.mbed.com/users/Ricky_Kwon/code/FTP_SDCard_File_Client_WIZwiki-W7500/",
+        "https://os.mbed.com/users/Ricky_Kwon/code/FTPClient_example/",
+        "https://os.mbed.com/users/Ricky_Kwon/code/Freedman/",
+        "https://os.mbed.com/users/justinkim/code/DigitalCamera_OV5642_WIZwiki-W7500/",
+        "https://os.mbed.com/users/Ricky_Kwon/code/Camera_WebStreaming_WIZwiki-W7500/",
+        "https://os.mbed.com/users/Ricky_Kwon/code/Camera_PCStreaming_WIZwiki-W7500/",
+        "https://os.mbed.com/teams/IOP/code/Camera_FTP_WIZwiki-W7500/",
+        "https://os.mbed.com/users/Ricky_Kwon/code/WIZKon_Telescope/",
+        "https://os.mbed.com/users/wiznetw7500/code/FTP_TESTClient/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "WIZnetInterface_Ricky",
+    "name": "WIZnetInterface_Ricky",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/WIZnet/code/WIZnetInterface_Ricky/"
+    }
+}

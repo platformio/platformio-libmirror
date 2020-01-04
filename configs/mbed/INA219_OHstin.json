@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Augustine Kizito",
+        "url": "https://os.mbed.com/users/OHstin/"
+    },
+    "description": "INA219 (Texas Instruments) High-Side Measurement,Bi-Directional CURRENT/POWER MONITOR with I2C Interface",
+    "examples": [
+        "https://os.mbed.com/users/OHstin/code/Solar_Powered_Smart_Camera/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "current",
+        "I2C",
+        "INA219",
+        "T.I."
+    ],
+    "name": "INA219",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/OHstin/code/INA219/"
+    }
+}

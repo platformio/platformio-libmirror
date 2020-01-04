@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Dan Searle",
+        "url": "https://os.mbed.com/users/Searle95/"
+    },
+    "description": "Library for Nuelectronics Nokia 3310/5110 LCD Display and joystick.",
+    "examples": [
+        "https://os.mbed.com/users/Searle95/code/LEDFun/",
+        "https://os.mbed.com/users/Searle95/code/NetTester/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "N3310LCD",
+    "name": "N3310LCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Searle95/code/N3310LCD/"
+    }
+}

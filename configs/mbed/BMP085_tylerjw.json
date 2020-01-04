@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Tyler Weaver",
+        "url": "https://os.mbed.com/users/tylerjw/"
+    },
+    "description": "Pressure, Temperature, Altitude Sensor on breakout from sparkfun (I2C)",
+    "frameworks": "mbed",
+    "keywords": [
+        "Altitude",
+        "bmp085",
+        "pressure",
+        "Temperature"
+    ],
+    "name": "BMP085",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tylerjw/code/BMP085/"
+    }
+}

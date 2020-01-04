@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "neil hancock",
+        "url": "https://os.mbed.com/users/neilh20/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "Added target compiler selections for FRDM-K20D50 which works.",
+    "examples": [
+        "https://os.mbed.com/users/neilh20/code/kl25z_Usb_Logger/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FRDM-K20D50",
+    "name": "F401RE-USBHost",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/neilh20/code/F401RE-USBHost/"
+    }
+}

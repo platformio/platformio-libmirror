@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "2019NHK_teamA",
+        "url": "https://os.mbed.com/teams/2019NHK_teamA/"
+    },
+    "description": "library of Rotary Encoder",
+    "examples": [
+        "https://os.mbed.com/teams/2019NHK_teamA/code/Test_Encoder/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "rotary_encoder",
+    "name": "rotary_encoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/2019NHK_teamA/code/rotary_encoder/"
+    }
+}

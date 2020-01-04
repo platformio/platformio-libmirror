@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Hari Charan",
+        "url": "https://os.mbed.com/users/hcharan/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "Updated only FATFileSystem under this library to make it compile for MbedOs 2",
+    "examples": [
+        "https://os.mbed.com/users/hcharan/code/ved_wav_error_fix/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "card",
+        "fatfilesystem",
+        "MMC",
+        "SD",
+        "SDHC",
+        "SDXC"
+    ],
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hcharan/code/SDFileSystem/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Gert Lauritsen",
+        "url": "https://os.mbed.com/users/gert_lauritsen/"
+    },
+    "description": "A libery to connect to telegesis zigbee module. Bassed on implemtation of XBEE",
+    "frameworks": "mbed",
+    "keywords": "telegesis_lib",
+    "name": "telegesis_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gert_lauritsen/code/telegesis_lib/"
+    }
+}

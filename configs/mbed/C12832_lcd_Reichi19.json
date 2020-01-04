@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Matthias Reichstam",
+        "url": "https://os.mbed.com/users/Reichi19/"
+    },
+    "description": "C12832_lcd",
+    "examples": [
+        "https://os.mbed.com/users/Reichi19/code/Stopwatch_TINF/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "C12832_LCD",
+    "name": "C12832_lcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Reichi19/code/C12832_lcd/"
+    }
+}

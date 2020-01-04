@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "CRAC Team",
+        "url": "https://os.mbed.com/teams/CRAC-Team/"
+    },
+    "description": "ident leo",
+    "examples": [
+        "https://os.mbed.com/teams/CRAC-Team/code/carte_straegie_2019/",
+        "https://os.mbed.com/teams/CRAC-Team/code/Carte_Pompe_V2/",
+        "https://os.mbed.com/teams/CRAC-Team/code/carte_esclave201_petit_rob/",
+        "https://os.mbed.com/teams/CRAC-Team/code/CRAC-Strat_2019/",
+        "https://os.mbed.com/teams/CRAC-Team/code/carte_esclave2019/",
+        "https://os.mbed.com/teams/CRAC-Team/code/carte_esclave_PETIT_ROBOT_2019/",
+        "https://os.mbed.com/teams/CRAC-Team/code/ACRAC_carte_esclave_GROS_ROBOT_2019/",
+        "https://os.mbed.com/teams/CRAC-Team/code/carte_strategie_2019/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ident_crac",
+    "name": "ident_crac",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/CRAC-Team/code/ident_crac/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Laboratório Controle Aplicado",
+        "url": "https://os.mbed.com/users/lcaepusp/"
+    },
+    "description": "Biblioteca PTC3471 - Algoritmo de Trava - V1.0",
+    "examples": [
+        "https://os.mbed.com/users/lcaepusp/code/Template_PTC3471_Geral/",
+        "https://os.mbed.com/users/GustavoGran/code/LQR_With_Integrator_Implicito/",
+        "https://os.mbed.com/users/GustavoGran/code/LQR_No_Integrator_Implicito/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PTC3471",
+    "name": "PTC3471",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lcaepusp/code/PTC3471/"
+    }
+}

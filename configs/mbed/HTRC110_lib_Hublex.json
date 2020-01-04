@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Hublex",
+        "url": "https://os.mbed.com/teams/Hublex/"
+    },
+    "description": "Classe de gestion du HTRC110",
+    "examples": [
+        "https://os.mbed.com/teams/Hublex/code/RFID_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HTRC110",
+    "name": "HTRC110_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Hublex/code/HTRC110_lib/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Flotsam",
+        "url": "https://os.mbed.com/teams/Flotsam/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "Adafruit_GSM"
+        }
+    ],
+    "description": "GSM library for nucleo L152RE",
+    "examples": [
+        "https://os.mbed.com/teams/Flotsam/code/Full-Project/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GSM",
+    "name": "GSM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Flotsam/code/GSM/"
+    }
+}

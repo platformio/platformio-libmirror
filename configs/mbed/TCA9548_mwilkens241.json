@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Michael Wilkens",
+        "url": "https://os.mbed.com/users/mwilkens241/"
+    },
+    "description": "mbed library for the TCA9548 mux",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "mux",
+        "TCA9548"
+    ],
+    "name": "TCA9548",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mwilkens241/code/TCA9548/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "David Rimer",
+        "url": "https://os.mbed.com/users/davidr99/"
+    },
+    "description": "Basic library to interface to a Microchip MCP23016 I/O expander using I2C",
+    "frameworks": "mbed",
+    "keywords": "MCP23016",
+    "name": "MCP23016",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/davidr99/code/MCP23016/"
+    }
+}

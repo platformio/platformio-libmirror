@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "test",
+        "url": "https://os.mbed.com/teams/test/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "A library with drivers for different peripherals on the LPC4088 QuickStart Board or related add-on boards.",
+    "examples": [
+        "https://os.mbed.com/teams/test/code/bare/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LPC4088",
+    "name": "EALib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/test/code/EALib/"
+    }
+}

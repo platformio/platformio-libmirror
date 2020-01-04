@@ -4,9 +4,12 @@
         "url": "https://os.mbed.com/users/mcm/"
     },
     "description": "Library for HX711 device. 24-Bit Analog-to-Digital Converter (ADC) for Weigh Scales",
+    "examples": [
+        "https://os.mbed.com/users/Santi1990/code/EXPO_ANDA/",
+        "https://os.mbed.com/users/patricioalba/code/EXPO_ANDA_Copilotoco/"
+    ],
     "frameworks": "mbed",
     "keywords": [
-        "adc",
         "driver",
         "HX711",
         "library",

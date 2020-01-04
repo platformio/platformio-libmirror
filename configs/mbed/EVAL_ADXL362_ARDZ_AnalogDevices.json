@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Analog Devices",
+        "url": "https://os.mbed.com/teams/AnalogDevices/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ADXL362"
+        }
+    ],
+    "description": "EVAL-ADXL362-ARDZ accelerometer shield",
+    "examples": [
+        "https://os.mbed.com/teams/AnalogDevices/code/EVAL_ADXL362_ARDZ-helloworld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "EVAL-ADXL362-ARDZ",
+        "shield"
+    ],
+    "name": "EVAL_ADXL362_ARDZ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/AnalogDevices/code/EVAL_ADXL362_ARDZ/"
+    }
+}

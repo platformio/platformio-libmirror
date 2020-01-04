@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jordan Careau-Beaulieu",
+        "url": "https://os.mbed.com/users/zouloum/"
+    },
+    "description": "WiFly library using a 115200 baudrate",
+    "frameworks": "mbed",
+    "keywords": "WiflyInterface",
+    "name": "WiflyInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/zouloum/code/WiflyInterface/"
+    }
+}

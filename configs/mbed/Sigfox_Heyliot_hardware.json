@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Heyliot_hardware",
+        "url": "https://os.mbed.com/teams/Heyliot_hardware/"
+    },
+    "description": "sigfox",
+    "frameworks": "mbed",
+    "keywords": "Sigfox",
+    "name": "Sigfox",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Heyliot_hardware/code/Sigfox/"
+    }
+}

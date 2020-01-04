@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "BERTL_CHEL18",
+        "url": "https://os.mbed.com/teams/BERTL_CHEL_18/"
+    },
+    "description": "ultra sonic sensor",
+    "examples": [
+        "https://os.mbed.com/teams/BERTL_CHEL_18/code/Func_Bertl_Ultra/",
+        "https://os.mbed.com/teams/BULME_BERTL/code/func_Bertl/",
+        "https://os.mbed.com/users/Alexander400/code/Bertl_Test/",
+        "https://os.mbed.com/users/Prettner67/code/ur_Bertl/",
+        "https://os.mbed.com/users/bulmecisco/code/ur_Bertl/",
+        "https://os.mbed.com/teams/BULME_BERTL_2CHEL/code/ur_Bertl/",
+        "https://os.mbed.com/teams/BERTL_CHEL_18/code/ur_Bertl/",
+        "https://os.mbed.com/teams/Bertl_Team_PE/code/Bertl/",
+        "https://os.mbed.com/users/Michi_Jocham/code/Bertl/",
+        "https://os.mbed.com/users/Rechar/code/Bertl/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HCSR",
+    "name": "HCSR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/BERTL_CHEL_18/code/HCSR/"
+    }
+}

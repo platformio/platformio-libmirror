@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/"
+    },
+    "description": "This is a library for the MAX17055 Li+ Battery Fuel Gauge.",
+    "examples": [
+        "https://os.mbed.com/users/dev_alexander/code/Low_Power_Long_Distance_IR_Vision_Robot/",
+        "https://os.mbed.com/teams/Maxim-Integrated/code/MAX17055_EZconfig/",
+        "https://os.mbed.com/teams/MaximIntegrated/code/MAX17055_EZconfig_Sample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MAX32620FTHR",
+    "name": "MAX17055_EZconfig",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/code/MAX17055_EZconfig/"
+    }
+}

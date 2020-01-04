@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "GreenTech",
+        "url": "https://os.mbed.com/teams/GreenTech/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "AD7124"
+        }
+    ],
+    "description": "first publish without code changes",
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "CN0398"
+    ],
+    "name": "CN0398_arduino",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/GreenTech/code/CN0398_arduino/"
+    }
+}

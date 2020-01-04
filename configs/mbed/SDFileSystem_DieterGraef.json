@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Dieter Graef",
+        "url": "https://os.mbed.com/users/DieterGraef/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "SDFileSystem for STM32F746NG DISCOVERY with 4bit SDMMC interface on fixed pins",
+    "examples": [
+        "https://os.mbed.com/users/DieterGraef/code/DISCO-F746NG_SDFileSystem/",
+        "https://os.mbed.com/users/shoaib_ahmed/code/uzairkhan/",
+        "https://os.mbed.com/users/1536082/code/DISCO-F746NG_Scope_copy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "SDFileSystem",
+        "STM32F746"
+    ],
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DieterGraef/code/SDFileSystem/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Glimworm Beacons",
+        "url": "https://os.mbed.com/users/GlimwormBeacons/"
+    },
+    "description": "Seger Real time terminal, use RTT viewer to view messages through the segger debugger instead of art",
+    "frameworks": "mbed",
+    "keywords": "SEGGER_RTT2",
+    "name": "SEGGER_RTT2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/GlimwormBeacons/code/SEGGER_RTT2/"
+    }
+}

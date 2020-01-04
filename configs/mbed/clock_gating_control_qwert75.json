@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "jake smith",
+        "url": "https://os.mbed.com/users/qwert75/"
+    },
+    "description": "A basic library which utilises FRDM K64f driver library's to clock gate the peripherals on the FRDM K64f development board",
+    "frameworks": "mbed",
+    "keywords": "clock_gating_control",
+    "name": "clock_gating_control",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/qwert75/code/clock_gating_control/"
+    }
+}

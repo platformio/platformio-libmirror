@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Shivanand Gowda",
+        "url": "https://os.mbed.com/users/shivanandgowdakr/"
+    },
+    "description": "RC522 Read Write Blocks CARD",
+    "examples": [
+        "https://os.mbed.com/users/shivanandgowdakr/code/RC522_Read_Write_CARD_MIFARE_1K_CARDS/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "card",
+        "MIFARE",
+        "RC522",
+        "read",
+        "write"
+    ],
+    "name": "MFRC522_Updated",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shivanandgowdakr/code/MFRC522_Updated/"
+    }
+}

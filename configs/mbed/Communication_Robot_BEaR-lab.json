@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "BE@R lab",
+        "url": "https://os.mbed.com/teams/BEaR-lab/"
+    },
+    "description": "similar robotis communication v1.0 in this lib use for protocol to control and diagnotic robot",
+    "frameworks": "mbed",
+    "keywords": "Communication_Robot",
+    "name": "Communication_Robot",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/BEaR-lab/code/Communication_Robot/"
+    }
+}

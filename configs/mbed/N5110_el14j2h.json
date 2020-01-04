@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Julian H",
+        "url": "https://os.mbed.com/users/el14j2h/"
+    },
+    "description": "Modified N5110 library with the ability to the print strings at exact pxiel locations, not just at each bank",
+    "frameworks": "mbed",
+    "keywords": [
+        "5110",
+        "LCD",
+        "N5110",
+        "Nokia",
+        "pcd8544"
+    ],
+    "name": "N5110",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/el14j2h/code/N5110/"
+    }
+}

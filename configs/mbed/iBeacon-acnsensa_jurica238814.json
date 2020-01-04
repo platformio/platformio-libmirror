@@ -1,0 +1,52 @@
+{
+    "authors": {
+        "name": "Jurica Resetar",
+        "url": "https://os.mbed.com/users/jurica238814/"
+    },
+    "dependencies": [
+        {
+            "authors": "Jurica Resetar",
+            "frameworks": "mbed",
+            "name": "LSM9DS1"
+        },
+        {
+            "authors": "Jurica Resetar",
+            "frameworks": "mbed",
+            "name": "Si7006A20"
+        },
+        {
+            "authors": "Karlo Milicevic",
+            "frameworks": "mbed",
+            "name": "acn_nrf52_saadc"
+        },
+        {
+            "authors": "Jurica Resetar",
+            "frameworks": "mbed",
+            "name": "aconno_SEGGER_RTT"
+        },
+        {
+            "authors": "Jurica Resetar",
+            "frameworks": "mbed",
+            "name": "aconno_bsp"
+        },
+        {
+            "authors": "Karlo Milicevic",
+            "frameworks": "mbed",
+            "name": "aconno_nrf52_uart"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "adc52832_common"
+        }
+    ],
+    "description": "aconno acnsensa project for iOS devices with iBeacon packets support.",
+    "frameworks": "mbed",
+    "keywords": "iBeacon acnsensa",
+    "name": "iBeacon acnsensa",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jurica238814/code/iBeacon-acnsensa/"
+    }
+}

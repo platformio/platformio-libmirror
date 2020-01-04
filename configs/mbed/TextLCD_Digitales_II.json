@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Digitales_II",
+        "url": "https://os.mbed.com/teams/Digitales_II/"
+    },
+    "description": "Prueba de LCD 16x2 y keypad 4x4",
+    "frameworks": "mbed",
+    "keywords": "TextLCD",
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Digitales_II/code/TextLCD/"
+    }
+}

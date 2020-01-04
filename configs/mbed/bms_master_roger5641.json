@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Roger Weng",
+        "url": "https://os.mbed.com/users/roger5641/"
+    },
+    "description": "combine lib to one",
+    "examples": [
+        "https://os.mbed.com/users/roger5641/code/BMS/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "bms_master",
+    "name": "bms_master",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/roger5641/code/bms_master/"
+    }
+}

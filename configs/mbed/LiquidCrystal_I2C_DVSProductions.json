@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Valentino Saitz",
+        "url": "https://os.mbed.com/users/DVSProductions/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Valentino Saitz",
+            "frameworks": "mbed",
+            "name": "Print"
+        }
+    ],
+    "description": "Port of the Arduino library with the same library. Includes a instance of the Print library from arduino",
+    "frameworks": "mbed",
+    "keywords": "I2C",
+    "name": "LiquidCrystal_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DVSProductions/code/LiquidCrystal_I2C/"
+    }
+}

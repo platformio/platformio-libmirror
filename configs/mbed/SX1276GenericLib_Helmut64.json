@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Helmut Tschemernjak",
+        "url": "https://os.mbed.com/users/Helmut64/"
+    },
+    "description": "SX1276GenericLib to support sx1276 bassed LoRa modules, including HopeRF RFM95, Murata CMWX1ZZABZ and Semtech SX1276MB1MAS/SX1276MB1LAS modules",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/DISCO-L072CZ-LRWAN1_LoRa_PingPong/",
+        "https://os.mbed.com/users/rtavk3/code/DISCO-L072CZ-LRWAN1_LoRa_PingPong/",
+        "https://os.mbed.com/users/chauvet/code/DISCO-L072CZ-LRWAN1_LoRa_PingPong/",
+        "https://os.mbed.com/users/akashvibhute/code/DISCO-L072CZ-LRWAN1_LoRa_USB_Rx/",
+        "https://os.mbed.com/users/akashvibhute/code/DISCO-L072CZ-LRWAN1_LoRa_USB_Tx/",
+        "https://os.mbed.com/users/gabrio/code/TRANSMITTER/",
+        "https://os.mbed.com/users/gabrio/code/RECEIVER/",
+        "https://os.mbed.com/users/Helmut64/code/STM32L0_LoRa/",
+        "https://os.mbed.com/teams/LoRa-Intern-Team/code/DISCO-L072CZ-LRWAN1_LoRa_PingPong/",
+        "https://os.mbed.com/users/marcozecchini/code/Smartage/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Lora",
+        "muRata",
+        "RFM95",
+        "SX1276",
+        "SX1276Generic"
+    ],
+    "name": "SX1276GenericLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Helmut64/code/SX1276GenericLib/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Seeed",
+        "url": "https://os.mbed.com/teams/Seeed/"
+    },
+    "description": "3 axis gyroscope & 3 axis accelerometer",
+    "examples": [
+        "https://os.mbed.com/users/AndersonIctus/code/sgam-lib/",
+        "https://os.mbed.com/users/AndersonIctus/code/sgam_mdw_NUCLEOF429ZI_impl/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MPU6050",
+    "name": "MPU6050",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Seeed/code/MPU6050/"
+    }
+}

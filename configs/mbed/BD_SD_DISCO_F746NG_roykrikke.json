@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "Roy Krikke",
+        "url": "https://os.mbed.com/users/roykrikke/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "BSP_DISCO_F746NG"
+        }
+    ],
+    "description": "Block device class for creating a block device to access a SD/MMC card via SD/MMC interface on DISCO_F746NG",
+    "examples": [
+        "https://os.mbed.com/users/roykrikke/code/DISCO-F746NG_BLOCK_DEVICE_SDCARD/",
+        "https://os.mbed.com/users/roykrikke/code/DISCO-F746NG_BLOCK_DEVICE_WITH_FAT_FILES/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Block device",
+        "DISCO_F746NG",
+        "DISCO-F746NG",
+        "file system",
+        "SD",
+        "SD-BlockDevice",
+        "sd/mmc card",
+        "SDCard"
+    ],
+    "name": "BD_SD_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/roykrikke/code/BD_SD_DISCO_F746NG/"
+    }
+}

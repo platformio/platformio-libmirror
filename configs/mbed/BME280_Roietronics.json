@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Steve Mylroie",
+        "url": "https://os.mbed.com/users/Roietronics/"
+    },
+    "description": "version of the BME280 library which uses mbed-os 5.4.3 instead of mbed 2.X",
+    "examples": [
+        "https://os.mbed.com/users/Roietronics/code/BME280_Hello_5/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BME280",
+    "name": "BME280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Roietronics/code/BME280/"
+    }
+}

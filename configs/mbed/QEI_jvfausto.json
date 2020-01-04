@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Jesus Fausto",
+        "url": "https://os.mbed.com/users/jvfausto/"
+    },
+    "description": "Quadrature encoder interface library with distance function",
+    "examples": [
+        "https://os.mbed.com/users/jvfausto/code/QEI_with_distance/",
+        "https://os.mbed.com/users/ryanlin97/code/wheelchaircontrol/",
+        "https://os.mbed.com/users/ryanlin97/code/wheelchaircontrolRos/",
+        "https://os.mbed.com/users/jvfausto/code/wheelchaircontrol/",
+        "https://os.mbed.com/users/jvfausto/code/wheelchaircontrolRosCom/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "QEI",
+        "quadrature"
+    ],
+    "name": "QEI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jvfausto/code/QEI/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "ASEE-2014",
+        "url": "https://os.mbed.com/teams/ASEE-2014/"
+    },
+    "description": "Motor",
+    "examples": [
+        "https://os.mbed.com/teams/ASEE-2014/code/ASEE-2014/",
+        "https://os.mbed.com/teams/ASEE-2014/code/frdm_Wall/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Motor",
+    "name": "Motor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ASEE-2014/code/Motor/"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "Bongjun Hur",
+        "url": "https://os.mbed.com/users/Bongjun/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Simple cpp wrapper of a ds18b20, onewire 'c' library. Supports multiple sensors.",
+    "examples": [
+        "https://os.mbed.com/users/Bongjun/code/LPC11U68_DS18B20Sensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "1wire",
+        "DS18B20",
+        "OneWire"
+    ],
+    "name": "DS18B20Sensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Bongjun/code/DS18B20Sensor/"
+    }
+}

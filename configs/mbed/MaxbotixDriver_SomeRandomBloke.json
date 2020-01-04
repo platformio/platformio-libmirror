@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Andrew Lindsay",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/"
+    },
+    "description": "Maxbotix ultrasonic distance sensor library",
+    "frameworks": "mbed",
+    "keywords": "MaxbotixDriver",
+    "name": "MaxbotixDriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SomeRandomBloke/code/MaxbotixDriver/"
+    }
+}

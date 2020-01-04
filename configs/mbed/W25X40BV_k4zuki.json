@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Kazuki Yamamoto",
+        "url": "https://os.mbed.com/users/k4zuki/"
+    },
+    "description": "[ FORK ] SPI flash memory control library forked from jyam/W25X40BV",
+    "examples": [
+        "https://os.mbed.com/users/k4zuki/code/11u35_usbLocalFilesystem/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AT25XE011",
+        "flash",
+        "memory",
+        "SPI",
+        "W25X40BV"
+    ],
+    "name": "W25X40BV",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/k4zuki/code/W25X40BV/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Johan Wikman",
+        "url": "https://os.mbed.com/users/jhnwkmn/"
+    },
+    "description": "The Squirrel interpreter. See http://www.squirrel-lang.org/",
+    "examples": [
+        "https://os.mbed.com/users/jhnwkmn/code/Squirrel/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SQUIRREL3",
+    "name": "SQUIRREL3",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jhnwkmn/code/SQUIRREL3/"
+    }
+}

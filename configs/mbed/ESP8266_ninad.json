@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Ninad Chitnis",
+        "url": "https://os.mbed.com/users/ninad/"
+    },
+    "dependencies": [
+        {
+            "authors": "Ninad Chitnis",
+            "frameworks": "mbed",
+            "name": "BufferedSerial"
+        }
+    ],
+    "description": "ESP8266 uart wifi module via AT command",
+    "examples": [
+        "https://os.mbed.com/users/ninad/code/esb_gcc/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ESP-01",
+        "ESP8266"
+    ],
+    "name": "ESP8266",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ninad/code/ESP8266/"
+    }
+}

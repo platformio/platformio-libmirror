@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "KDDI Fx0 hackathon",
+        "url": "https://os.mbed.com/teams/KDDI-Fx0-hackathon/"
+    },
+    "description": "SNIC UART Interface library for Murata Type-YD module",
+    "examples": [
+        "https://os.mbed.com/users/flatbird/code/WebSocketServerTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SNICInterface_mod",
+    "name": "SNICInterface_mod",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/KDDI-Fx0-hackathon/code/SNICInterface_mod/"
+    }
+}

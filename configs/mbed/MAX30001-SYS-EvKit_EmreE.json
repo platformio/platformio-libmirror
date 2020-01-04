@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Emre Eken",
+        "url": "https://os.mbed.com/users/EmreE/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "USBDevice"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "max32630fthr"
+        }
+    ],
+    "description": "MAX30001-MAX32630FTHR SYS EvKit",
+    "frameworks": "mbed",
+    "keywords": "MAX30001 SYS EvKit",
+    "name": "MAX30001 SYS EvKit",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/EmreE/code/MAX30001-SYS-EvKit/"
+    }
+}

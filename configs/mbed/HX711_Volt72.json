@@ -3,14 +3,16 @@
         "name": "Adrien CORVASIER",
         "url": "https://os.mbed.com/users/Volt72/"
     },
-    "description": "Librairie pouvant tre utilisée avec le module HX711. Library which can be used with the HX711 component.",
+    "description": "Librairie pouvant être utilisée avec le module HX711. Library which can be used with the HX711 component.",
     "examples": [
         "https://os.mbed.com/teams/FRA221_2015/code/11B_DOGFEEDER/",
         "https://os.mbed.com/teams/FRA221_2015/code/10B_Project_strian_guage_final/",
         "https://os.mbed.com/users/sixkes/code/Project_strian_guage_final/",
         "https://os.mbed.com/teams/FRA221_2015/code/11A_ForcePlate_by_LoadCell/",
         "https://os.mbed.com/users/josespaul/code/Weight-machine-App/",
-        "https://os.mbed.com/users/3050311118/code/Nucleo_rtos_basic/"
+        "https://os.mbed.com/users/3050311118/code/Nucleo_rtos_basic/",
+        "https://os.mbed.com/users/rajas1812/code/GDAD_UART_Thread/",
+        "https://os.mbed.com/teams/Team-DIANA/code/ScientificGara/"
     ],
     "frameworks": "mbed",
     "keywords": "HX711",

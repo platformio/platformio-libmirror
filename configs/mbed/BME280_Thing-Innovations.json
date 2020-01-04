@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Thing Innovations",
+        "url": "https://os.mbed.com/teams/Thing-Innovations/"
+    },
+    "description": "BME280 Combined humidity and pressure sensor library",
+    "examples": [
+        "https://os.mbed.com/teams/Thing-Innovations/code/mDot_TTN_OTAA_Node/",
+        "https://os.mbed.com/users/1994timmeh/code/LoraGPSLogger/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BME280",
+    "name": "BME280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Thing-Innovations/code/BME280/"
+    }
+}

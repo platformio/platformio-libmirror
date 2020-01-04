@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "CaryCoders",
+        "url": "https://os.mbed.com/teams/CaryCoders/"
+    },
+    "description": "GPS code for Adafruit ultimate GPS",
+    "examples": [
+        "https://os.mbed.com/teams/CaryCoders/code/demo_gps_sdcard/",
+        "https://os.mbed.com/teams/CaryCoders/code/zeus/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "AdafruitGPS",
+    "name": "AdafruitGPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/CaryCoders/code/AdafruitGPS/"
+    }
+}

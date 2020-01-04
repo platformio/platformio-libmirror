@@ -1,0 +1,44 @@
+{
+    "authors": {
+        "name": "HEPTA-Sat Training 2019",
+        "url": "https://os.mbed.com/users/HeptaSatTraining2019/"
+    },
+    "dependencies": [
+        {
+            "authors": "HEPTA-Sat Training 2019",
+            "frameworks": "mbed",
+            "name": "HeptaCamera_GPS"
+        },
+        {
+            "authors": "HEPTA-Sat Training 2019",
+            "frameworks": "mbed",
+            "name": "Hepta9axis"
+        },
+        {
+            "authors": "HEPTA-Sat Training 2019",
+            "frameworks": "mbed",
+            "name": "HeptaTemp"
+        }
+    ],
+    "description": "Sensor library",
+    "examples": [
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/Lab3-05_model_program_2/",
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/Appendix-01_Camera_Data_Transmit_to_GS/",
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/Lab1-04_model_program_1/",
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/Lab4-01_Detect_Temperature/",
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/Lab4-03_Detect_Acceleration/",
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/Lab4-05_Detect_Angular_velocity/",
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/Lab4-07_Detect_Magnetism/",
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/Lab4-08_Detect_GPS_Rawdata/",
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/Lab4-09_Detect_GPGGA/",
+        "https://os.mbed.com/users/HeptaSatTraining2019/code/Lab4-10_Camera_snapshot/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HEPTA_SENSOR",
+    "name": "HEPTA_SENSOR",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/HeptaSatTraining2019/code/HEPTA_SENSOR/"
+    }
+}

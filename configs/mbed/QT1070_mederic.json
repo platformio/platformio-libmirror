@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Mederic Melard",
+        "url": "https://os.mbed.com/users/mederic/"
+    },
+    "description": "Atmel AT42QT1070 Seven-channel QTouch® Touch Sensor IC",
+    "frameworks": "mbed",
+    "keywords": [
+        "AT42QT1070",
+        "Capacitive",
+        "QT1070",
+        "QTouch",
+        "Sensitive"
+    ],
+    "name": "QT1070",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mederic/code/QT1070/"
+    }
+}

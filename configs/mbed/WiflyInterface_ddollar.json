@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "David Dollar",
+        "url": "https://os.mbed.com/users/ddollar/"
+    },
+    "description": "update wifly interface with some factory resets",
+    "examples": [
+        "https://os.mbed.com/users/ddollar/code/Wifly_UpdateFirmware/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "WiflyInterface",
+    "name": "WiflyInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ddollar/code/WiflyInterface/"
+    }
+}

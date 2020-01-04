@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "Fork of [[https://os.mbed.com/users/va009039/code/F401RE-USBHost/]]. Added support for Seeed Arch Max and STM32F407.",
+    "examples": [
+        "https://os.mbed.com/users/hudakz/code/STM32F407VET6_USBHostMSD/",
+        "https://os.mbed.com/users/hudakz/code/STM32F407VET6_USBHostMouse/",
+        "https://os.mbed.com/users/hudakz/code/STM32F407VET6_USBHostKeyboard/",
+        "https://os.mbed.com/users/mladen278/code/STM32F407VET6_USBHostMSD_1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "STM32F4xx",
+        "USB Host",
+        "USB OTG",
+        "USBHOST"
+    ],
+    "name": "USBHost-STM32F4",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/USBHost-STM32F4/"
+    }
+}

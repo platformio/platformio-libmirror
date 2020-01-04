@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "takuya ichise",
+        "url": "https://os.mbed.com/users/tichise/"
+    },
+    "description": "String manipulation library",
+    "frameworks": "mbed",
+    "keywords": [
+        "slice",
+        "string",
+        "strings"
+    ],
+    "name": "StringUtil",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tichise/code/StringUtil/"
+    }
+}

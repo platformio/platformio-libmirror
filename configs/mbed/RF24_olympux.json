@@ -4,6 +4,10 @@
         "url": "https://os.mbed.com/users/olympux/"
     },
     "description": "Maniacbug RF24 on Nucleo STM32",
+    "examples": [
+        "https://os.mbed.com/teams/Polybot-Grenoble/code/NRF24_master_slave/",
+        "https://os.mbed.com/users/kadir44/code/NRF24_master_slave/"
+    ],
     "frameworks": "mbed",
     "keywords": [
         "nRF24L01P",

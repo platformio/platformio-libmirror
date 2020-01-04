@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Duy tran",
+        "url": "https://os.mbed.com/users/DuyLionTran/"
+    },
+    "dependencies": [
+        {
+            "authors": "Duy tran",
+            "frameworks": "mbed",
+            "name": "RecordType-v-16"
+        }
+    ],
+    "description": "v-16",
+    "frameworks": "mbed",
+    "keywords": "NDefLib-v-16",
+    "name": "NDefLib-v-16",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DuyLionTran/code/NDefLib-v-16/"
+    }
+}

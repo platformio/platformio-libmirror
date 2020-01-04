@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Takuo WATANABE",
+        "url": "https://os.mbed.com/users/takuo/"
+    },
+    "description": "A digital input with switch debouncing",
+    "examples": [
+        "https://os.mbed.com/users/takuo/code/DebounceIn_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DebounceIn",
+    "name": "DebounceIn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/takuo/code/DebounceIn/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Nick Liu",
+        "url": "https://os.mbed.com/users/nliu96/"
+    },
+    "description": "GPS driver",
+    "examples": [
+        "https://os.mbed.com/teams/Geo-Electronics-Show2Me/code/GEO_CONTROL_REPO_F411RE/",
+        "https://os.mbed.com/users/SusanaBM/code/GPS_GSM/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GPS Library",
+    "name": "GPS Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nliu96/code/GPS-Library/"
+    }
+}

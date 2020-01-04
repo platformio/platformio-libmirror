@@ -12,13 +12,11 @@
         "https://os.mbed.com/teams/ELEC2645-201516/code/SensorMatic_Project/",
         "https://os.mbed.com/teams/ELEC2645-201516/code/sensor_test/",
         "https://os.mbed.com/users/bonnyngangu/code/Extras_I2C_TMP102/",
-        "https://os.mbed.com/users/bonnyngangu/code/2645_I2C_TMP102/"
+        "https://os.mbed.com/users/bonnyngangu/code/2645_I2C_TMP102/",
+        "https://os.mbed.com/users/labviewdxp/code/STM32_I2C_TMP102/"
     ],
     "frameworks": "mbed",
-    "keywords": [
-        "2645",
-        "TMP102"
-    ],
+    "keywords": "TMP102",
     "name": "TMP102",
     "platforms": "*",
     "repository": {

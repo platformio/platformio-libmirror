@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Steven Kay",
+        "url": "https://os.mbed.com/users/sk398/"
+    },
+    "description": "A simple motor driver for the MC33926 chip, commonly found on the Polulu md11a breakout https://www.pololu.com/product/1213.",
+    "frameworks": "mbed",
+    "keywords": [
+        "md11a",
+        "polulu",
+        "STM32. MC33926"
+    ],
+    "name": "MC33926",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sk398/code/MC33926/"
+    }
+}

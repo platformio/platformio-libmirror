@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "MATSU-bed",
+        "url": "https://os.mbed.com/teams/MATSU-bed/"
+    },
+    "description": "MATSU-bed PIN definition",
+    "examples": [
+        "https://os.mbed.com/teams/MATSU-bed/code/MASTU-bed_I2CLCD/",
+        "https://os.mbed.com/teams/MATSU-bed/code/MATSU-bed_blinky/",
+        "https://os.mbed.com/users/Tiryoh/code/MATSU-bed_softwareserial/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LPC1549",
+        "MATSU-bed"
+    ],
+    "name": "MATSUbed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MATSU-bed/code/MATSUbed/"
+    }
+}

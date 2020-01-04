@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Micromouse",
+        "url": "https://os.mbed.com/teams/Micromouse1/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "test code",
+    "frameworks": "mbed",
+    "keywords": "Main-codetest",
+    "name": "Main-codetest",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Micromouse1/code/Main-codetest/"
+    }
+}

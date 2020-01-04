@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Geert Huisman",
+        "url": "https://os.mbed.com/users/mrvalon/"
+    },
+    "description": "GP20A41SK IR sensor",
+    "frameworks": "mbed",
+    "keywords": "IR_Distance",
+    "name": "IR_Distance",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mrvalon/code/IR_Distance/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Aerodyne",
+        "url": "https://os.mbed.com/teams/Aerodyne/"
+    },
+    "description": "Library to work with the MS5611 pressure sensors. Forked from the MS5607 library",
+    "examples": [
+        "https://os.mbed.com/teams/Aerodyne/code/MS5611Example/",
+        "https://os.mbed.com/teams/Aerodyne/code/Atlas/",
+        "https://os.mbed.com/users/ma123r/code/HC-06_MPU9250_F303K_Stream/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ms5611",
+    "name": "MS5611",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Aerodyne/code/MS5611/"
+    }
+}

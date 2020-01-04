@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Karlo Milicevic",
+        "url": "https://os.mbed.com/users/Dautor/"
+    },
+    "description": "NRF52 battery voltage read.",
+    "examples": [
+        "https://os.mbed.com/users/Dautor/code/acn52832_Battery_Beacon/",
+        "https://os.mbed.com/users/jurica238814/code/acn52832_Battery_Beacon/",
+        "https://os.mbed.com/users/Dautor/code/acd52832_bmc150_test/",
+        "https://os.mbed.com/teams/aconno-dev-team/code/acd52832_battery_service_example/",
+        "https://os.mbed.com/teams/aconno-dev-team/code/acn52832_sensor_board/",
+        "https://os.mbed.com/users/jurica238814/code/iBeacon-acnsensa/",
+        "https://os.mbed.com/users/Srishti12/code/acnSENSA/",
+        "https://os.mbed.com/teams/aconno-dev-team/code/acnSENSA/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Battery",
+        "nrf52"
+    ],
+    "name": "acn_nrf52_saadc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Dautor/code/acn_nrf52_saadc/"
+    }
+}

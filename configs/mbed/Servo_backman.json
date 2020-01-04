@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "kao yi",
+        "url": "https://os.mbed.com/users/backman/"
+    },
+    "description": "servo",
+    "examples": [
+        "https://os.mbed.com/users/backman/code/followCar/",
+        "https://os.mbed.com/users/Rosalie/code/script_voor_project/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Servo",
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/backman/code/Servo/"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "cure hikasaP",
+        "url": "https://os.mbed.com/users/1821319/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Neil Thiessen",
+            "frameworks": "mbed",
+            "name": "SDFileSystem"
+        }
+    ],
+    "description": "NUCLEO F446REでSDｶｰﾄﾞへの書き込み、読み込み、削除",
+    "frameworks": "mbed",
+    "keywords": [
+        "delete",
+        "F446RE",
+        "Nucleo",
+        "read",
+        "SD",
+        "write"
+    ],
+    "name": "SDFileSystem_Test_complete",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/1821319/code/SDFileSystem_Test_complete/"
+    }
+}

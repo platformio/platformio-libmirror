@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "tessecraft",
+        "url": "https://os.mbed.com/teams/rcj2015tessecraft/"
+    },
+    "description": "WS2822S",
+    "frameworks": "mbed",
+    "keywords": [
+        "NeoPixel",
+        "WS2822S"
+    ],
+    "name": "WS2822S",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/rcj2015tessecraft/code/WS2822S/"
+    }
+}

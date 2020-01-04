@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Weimen Li",
+        "url": "https://os.mbed.com/users/Electrotiger/"
+    },
+    "description": "Class which provides a handy interface to refresh a loop with microsecond precision within an RTOS.",
+    "frameworks": "mbed",
+    "keywords": "rtos",
+    "name": "FixedRefresh",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Electrotiger/code/FixedRefresh/"
+    }
+}

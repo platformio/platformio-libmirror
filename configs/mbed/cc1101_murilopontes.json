@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Murilo Pontes",
+        "url": "https://os.mbed.com/users/murilopontes/"
+    },
+    "description": "cc1101 driver library",
+    "examples": [
+        "https://os.mbed.com/users/murilopontes/code/kl25z-tinyshell-demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "cc1101",
+        "driver",
+        "library"
+    ],
+    "name": "cc1101",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/murilopontes/code/cc1101/"
+    }
+}

@@ -6,7 +6,7 @@
     "description": "Uses Timer 0 and the RTC to keep accurate time. It can accept a PPS from an external source like a GPS or a regular time stamp from an external ...",
     "examples": [
         "https://os.mbed.com/users/andrewboyson/code/gps/",
-        "https://os.mbed.com/users/andrewboyson/code/ch/"
+        "https://os.mbed.com/users/andrewboyson/code/heating/"
     ],
     "frameworks": "mbed",
     "keywords": "clock",

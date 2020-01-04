@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Grant Phillips",
+        "url": "https://os.mbed.com/users/grantphillips/"
+    },
+    "description": "Class library for using the ESP8266 wifi module.",
+    "frameworks": "mbed",
+    "keywords": "ESP8266",
+    "name": "ESP8266",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/grantphillips/code/ESP8266/"
+    }
+}

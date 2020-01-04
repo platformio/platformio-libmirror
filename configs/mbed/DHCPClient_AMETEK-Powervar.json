@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "AMETEK Powervar",
+        "url": "https://os.mbed.com/teams/AMETEK-Powervar/"
+    },
+    "description": "DHCP Client",
+    "frameworks": "mbed",
+    "keywords": "DHCPClient",
+    "name": "DHCPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/AMETEK-Powervar/code/DHCPClient/"
+    }
+}

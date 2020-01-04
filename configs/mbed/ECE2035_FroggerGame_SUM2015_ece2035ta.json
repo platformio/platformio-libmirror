@@ -1,0 +1,45 @@
+{
+    "authors": {
+        "name": "ECE 2035",
+        "url": "https://os.mbed.com/users/ece2035ta/"
+    },
+    "dependencies": [
+        {
+            "authors": "jim hamblen",
+            "frameworks": "mbed",
+            "name": "4DGL-uLCD-SE"
+        },
+        {
+            "authors": "ECE 2035",
+            "frameworks": "mbed",
+            "name": "MMA8452"
+        },
+        {
+            "authors": "Neil Thiessen",
+            "frameworks": "mbed",
+            "name": "SDFileSystem"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Steve Ravet",
+            "frameworks": "mbed",
+            "name": "wave_player"
+        }
+    ],
+    "description": "ECE 2035 Summer 2015",
+    "examples": [
+        "https://os.mbed.com/users/ece2035ta/code/RoboFrogTemplate/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Gatech",
+    "name": "ECE2035_FroggerGame_SUM2015",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ece2035ta/code/ECE2035_FroggerGame_SUM2015/"
+    }
+}

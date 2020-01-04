@@ -3,11 +3,6 @@
         "name": "Azure IoT",
         "url": "https://os.mbed.com/users/AzureIoTClient/"
     },
-    "build": {
-        "flags": [
-            "-Iazure_c_shared_utility"
-        ]
-    },
     "description": "Azure IoT common library",
     "examples": [
         "https://os.mbed.com/users/DieterGraef/code/STM32F746_iothub_client_sample_mqtt/",

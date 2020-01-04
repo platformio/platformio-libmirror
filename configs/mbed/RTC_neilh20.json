@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "neil hancock",
+        "url": "https://os.mbed.com/users/neilh20/"
+    },
+    "description": "Support KL25z requirements",
+    "examples": [
+        "https://os.mbed.com/users/neilh20/code/kl25z_Usb_Logger/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "RTC",
+    "name": "RTC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/neilh20/code/RTC/"
+    }
+}

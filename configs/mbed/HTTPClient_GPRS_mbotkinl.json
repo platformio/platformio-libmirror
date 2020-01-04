@@ -3,11 +3,6 @@
         "name": "Micah B",
         "url": "https://os.mbed.com/users/mbotkinl/"
     },
-    "build": {
-        "flags": [
-            "-Idata"
-        ]
-    },
     "description": "http",
     "examples": [
         "https://os.mbed.com/users/mbotkinl/code/finalV1/",

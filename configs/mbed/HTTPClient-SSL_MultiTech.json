@@ -3,11 +3,6 @@
         "name": "MultiTech",
         "url": "https://os.mbed.com/teams/MultiTech/"
     },
-    "build": {
-        "flags": [
-            "-Idata"
-        ]
-    },
     "dependencies": [
         {
             "authors": "",

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Paul Paterson",
+        "url": "https://os.mbed.com/users/ptpaterson/"
+    },
+    "description": "mbed library sources, include can_api for nucleo-f091rc",
+    "examples": [
+        "https://os.mbed.com/users/ptpaterson/code/CanNucleoF0_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed",
+        "Nucleo",
+        "stm32",
+        "stm32f091rc"
+    ],
+    "name": "mbed-src-CanNucleoF0",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ptpaterson/code/mbed-src-CanNucleoF0/"
+    }
+}

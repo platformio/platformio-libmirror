@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Eric Finnerty",
+        "url": "https://os.mbed.com/users/egfinnerty/"
+    },
+    "description": "Updated HEXIWEAR flash library with the following added features. 1. It compiles with mbed-os 5.10.x 2. Writes can now be addressed byte-wise instead of page-wise 3. Writes that cross page ...",
+    "frameworks": "mbed",
+    "keywords": "W25Q64FVSSIG",
+    "name": "W25Q64FVSSIG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/egfinnerty/code/W25Q64FVSSIG/"
+    }
+}

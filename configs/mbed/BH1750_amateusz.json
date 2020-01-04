@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Mateusz Grzywacz",
+        "url": "https://os.mbed.com/users/amateusz/"
+    },
+    "description": "Library for BH1750 I2C light sensor. Supports autoranging! True to datasheet. (beware: calls are blocking at the moment)",
+    "frameworks": "mbed",
+    "keywords": [
+        "BH1750",
+        "I2C",
+        "light",
+        "Lux",
+        "lx",
+        "measure"
+    ],
+    "name": "BH1750",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/amateusz/code/BH1750/"
+    }
+}

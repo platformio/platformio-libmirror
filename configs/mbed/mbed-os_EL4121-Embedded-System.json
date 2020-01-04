@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "EL4121 Embedded System",
+        "url": "https://os.mbed.com/teams/EL4121-Embedded-System/"
+    },
+    "description": "mbed-os",
+    "examples": [
+        "https://os.mbed.com/teams/EL4121-Embedded-System/code/cobaLCDJoyMotor_Thread/",
+        "https://os.mbed.com/teams/EL4121-Embedded-System/code/odometry_omni_3roda_v3/",
+        "https://os.mbed.com/teams/EL4121-Embedded-System/code/odometry_omni_3roda_v1/",
+        "https://os.mbed.com/teams/EL4121-Embedded-System/code/odometry_omni_3roda_v2/",
+        "https://os.mbed.com/teams/EL4121-Embedded-System/code/odometry_omni_3roda_v5/",
+        "https://os.mbed.com/users/muigaijosphat/code/time_between_inerupt/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "mbed-os",
+    "name": "mbed-os",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/EL4121-Embedded-System/code/mbed-os/"
+    }
+}

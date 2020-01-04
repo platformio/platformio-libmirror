@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Nespresso RGB Sensor",
+        "url": "https://os.mbed.com/teams/Nespresso-RGB-Sensor/"
+    },
+    "description": "This fork adds bulk reading for faster transactions. It also removes the I2C construction from the constructor.",
+    "examples": [
+        "https://os.mbed.com/teams/Nespresso-RGB-Sensor/code/ColorDetector/",
+        "https://os.mbed.com/teams/Nespresso-RGB-Sensor/code/ColorDetectorV2/",
+        "https://os.mbed.com/users/janjongboom/code/offline_sync_k64f/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GroveColourSensor",
+    "name": "GroveColourSensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nespresso-RGB-Sensor/code/GroveColourSensor/"
+    }
+}

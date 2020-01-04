@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "ban4jp -",
+        "url": "https://os.mbed.com/users/ban4jp/"
+    },
+    "description": "Custom and bugfix",
+    "examples": [
+        "https://os.mbed.com/users/ban4jp/code/HTTPClient_HelloWorld_WIZ820io/",
+        "https://os.mbed.com/users/ban4jp/code/NTPClient_HelloWorld_WIZ820io/",
+        "https://os.mbed.com/users/ban4jp/code/TinyHTTPServer_WIZ820io/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "WIZ820ioInterface",
+    "name": "WIZ820ioInterface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ban4jp/code/WIZ820ioInterface/"
+    }
+}

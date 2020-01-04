@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Srdjan Veljkovic",
+        "url": "https://os.mbed.com/users/sveljko/"
+    },
+    "dependencies": [
+        {
+            "authors": "Srdjan Veljkovic",
+            "frameworks": "mbed",
+            "name": "Pubnub_c_core"
+        }
+    ],
+    "description": "This is the PAL (Platform Adaptation Layer) for the Pubnub C-core library.",
+    "examples": [
+        "https://os.mbed.com/users/sveljko/code/Pubnub_mbed2_sync/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Pubnub_c_core_mbed2_pal",
+    "name": "Pubnub_c_core_mbed2_pal",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sveljko/code/Pubnub_c_core_mbed2_pal/"
+    }
+}

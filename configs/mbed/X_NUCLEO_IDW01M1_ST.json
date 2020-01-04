@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "X-NUCLEO-IDW01M1 Wi-Fi expansion board mbed library",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/SpwfInterface_NSAPI_Tests/",
+        "https://os.mbed.com/teams/ST/code/HelloWorld_IDW01M1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Nucleo",
+        "stm32",
+        "Wi-Fi",
+        "X-NUCLEO-IDW01M1"
+    ],
+    "name": "X_NUCLEO_IDW01M1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/X_NUCLEO_IDW01M1/"
+    }
+}

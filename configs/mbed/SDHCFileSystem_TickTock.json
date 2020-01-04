@@ -3,13 +3,6 @@
         "name": "Tick Tock",
         "url": "https://os.mbed.com/users/TickTock/"
     },
-    "build": {
-        "flags": [
-            "-IFatFileSystem",
-            "-IFatFileSystem/LPC2368",
-            "-IFatFileSystem/LPC1768"
-        ]
-    },
     "description": ".",
     "examples": [
         "https://os.mbed.com/users/TickTock/code/CANcan/"

@@ -3,7 +3,7 @@
         "name": "不韋 呂",
         "url": "https://os.mbed.com/users/MikamiUitOpen/"
     },
-    "description": "出力ポートを，オープンドレインまたはプッシュプルに設定するグローバル関数. Global functions for setting the output port bit open-drain or push-pull.",
+    "description": "出力ポートを，オープンドレインまたはプッシュプルに設定するグローバル関数. このライブラリを登録した際のプログラム： Demo_SetOutputPortType. Global functions for setting the output port bit open-drain or push-pull.",
     "examples": [
         "https://os.mbed.com/users/MikamiUitOpen/code/Demo_SetOutputPortType/"
     ],

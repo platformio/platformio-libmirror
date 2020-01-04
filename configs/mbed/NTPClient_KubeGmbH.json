@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Borja Tarazona",
+        "url": "https://os.mbed.com/users/KubeGmbH/"
+    },
+    "description": "NTPCliente for SIM800",
+    "frameworks": "mbed",
+    "keywords": "NTPClient",
+    "name": "NTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/KubeGmbH/code/NTPClient/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Patrick Thomas",
+        "url": "https://os.mbed.com/users/Padman/"
+    },
+    "description": "A parametric EQ that uses a fixed point, direct form 2 transposed, implementation of a Butterworth filter. The following parameters can be adjusted: Gain (dB), Bandwidth Gain (dB), Centre frequency ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "eq",
+        "filter",
+        "Parametric"
+    ],
+    "name": "ParametricEQ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Padman/code/ParametricEQ/"
+    }
+}

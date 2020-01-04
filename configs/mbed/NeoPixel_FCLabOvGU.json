@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "FCLab@OvGU",
+        "url": "https://os.mbed.com/teams/FCLabOvGU/"
+    },
+    "description": "Simple neopixel (WS2812) library, tuned for stm32 (L432) at 80 MHz Should be compatible with any stm32, different clock speed may require timing adjustments in neopixel.c",
+    "examples": [
+        "https://os.mbed.com/teams/FCLabOvGU/code/Nucleo_neopixel_ovgu/",
+        "https://os.mbed.com/users/RitaF/code/Nucleo_neopixel_ovgu1/",
+        "https://os.mbed.com/users/RitaF/code/Nucleo_neopixel_ovgu3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "OvGU",
+    "name": "NeoPixel",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/FCLabOvGU/code/NeoPixel/"
+    }
+}

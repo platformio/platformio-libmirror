@@ -3,11 +3,6 @@
         "name": "Mark Turner",
         "url": "https://os.mbed.com/users/mturner5/"
     },
-    "build": {
-        "flags": [
-            "-ISLCD"
-        ]
-    },
     "dependencies": [
         {
             "authors": "mbed official",

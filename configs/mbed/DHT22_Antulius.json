@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Antulio Morgado",
+        "url": "https://os.mbed.com/users/Antulius/"
+    },
+    "description": "Plantilla para crear la libreria DHT para la plataforma FRDM",
+    "frameworks": "mbed",
+    "keywords": [
+        "Humidity",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "DHT22",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Antulius/code/DHT22/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Kenta Matsumoto",
+        "url": "https://os.mbed.com/users/mbed_tw_hoehoe/"
+    },
+    "description": "change default address ( High -> Low )",
+    "examples": [
+        "https://os.mbed.com/users/mbed_tw_hoehoe/code/BLE_MPU6050_DMP/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MPU6050-DMP-Ian",
+    "name": "MPU6050-DMP-Ian",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbed_tw_hoehoe/code/MPU6050-DMP-Ian/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "robot arm demo team",
+        "url": "https://os.mbed.com/teams/robot-arm-demo-team/"
+    },
+    "description": "Provides an interface to an AX-12A servo. Requires the Dynamixel bus protocol library/",
+    "frameworks": "mbed",
+    "keywords": [
+        "AX-12A",
+        "dynamixel",
+        "robotis"
+    ],
+    "name": "AX-12A",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/robot-arm-demo-team/code/AX-12A/"
+    }
+}

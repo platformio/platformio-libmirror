@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Hexley Ball",
+        "url": "https://os.mbed.com/users/hexley/"
+    },
+    "description": "Fork of David Smart's RA8875 library for the purpose of adding touch screen support",
+    "frameworks": "mbed",
+    "keywords": "RA8875_TP",
+    "name": "RA8875_TP",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hexley/code/RA8875_TP/"
+    }
+}

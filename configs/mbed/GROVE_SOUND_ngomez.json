@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Nerea Gomez",
+        "url": "https://os.mbed.com/users/ngomez/"
+    },
+    "description": "Library for grove sound sensor",
+    "frameworks": "mbed",
+    "keywords": "GROVE_SOUND",
+    "name": "GROVE_SOUND",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ngomez/code/GROVE_SOUND/"
+    }
+}

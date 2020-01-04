@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Chronos .",
+        "url": "https://os.mbed.com/users/lmussier/"
+    },
+    "description": "Forked to make it work with mbed-os 5.3",
+    "examples": [
+        "https://os.mbed.com/users/lmussier/code/NTPClient_example/",
+        "https://os.mbed.com/users/kojie/code/mbed_vfd_ntp/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "NTPClient",
+    "name": "NTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lmussier/code/NTPClient/"
+    }
+}

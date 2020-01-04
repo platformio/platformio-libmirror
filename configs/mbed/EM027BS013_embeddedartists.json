@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "EmbeddedArtists AB",
+        "url": "https://os.mbed.com/users/embeddedartists/"
+    },
+    "dependencies": [
+        {
+            "authors": "Neil Thiessen",
+            "frameworks": "mbed",
+            "name": "LM75B"
+        }
+    ],
+    "description": "Library to control the EM027BS013 ePaper display from Pervasive Display.",
+    "examples": [
+        "https://os.mbed.com/users/embeddedartists/code/app_epaper_EM027BS013_LPC1549/",
+        "https://os.mbed.com/users/embeddedartists/code/lpc4088_ebb_epaper/",
+        "https://os.mbed.com/users/tlisowski3/code/EaEpaper_EM027BS013/",
+        "https://os.mbed.com/users/embeddedartists/code/app_epaper_EM027BS013/",
+        "https://os.mbed.com/users/Leigh_LbR/code/EaEpaper_EM027BS013/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "EM027BS013",
+        "ePaper"
+    ],
+    "name": "EM027BS013",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/embeddedartists/code/EM027BS013/"
+    }
+}

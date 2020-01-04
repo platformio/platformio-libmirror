@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Lowe Dantzler",
+        "url": "https://os.mbed.com/users/lndv3/"
+    },
+    "description": "Description.",
+    "examples": [
+        "https://os.mbed.com/users/lndv3/code/RoboPanorama/",
+        "https://os.mbed.com/users/kpatel70/code/4180_Project/",
+        "https://os.mbed.com/users/projetmacintel/code/ProjetMacIntel/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Camera_LS_Y201",
+    "name": "Camera_LS_Y201",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lndv3/code/Camera_LS_Y201/"
+    }
+}

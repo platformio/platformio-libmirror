@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "David Lowe",
+        "url": "https://os.mbed.com/users/gregeric/"
+    },
+    "description": "Font to use with the SPI_TFT lib Modified font format to allow for huge fonts (>255 bytes per character). Added Arial94x94.h & modified others. Must be used with my fork ...",
+    "examples": [
+        "https://os.mbed.com/users/gregeric/code/Mandelbrot/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "fonts",
+        "TFT"
+    ],
+    "name": "TFT_fonts",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gregeric/code/TFT_fonts/"
+    }
+}

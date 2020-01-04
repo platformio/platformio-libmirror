@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Vladimir Akopyan",
+        "url": "https://os.mbed.com/users/Vlad/"
+    },
+    "description": "A library to read BME280 sensor with error detection",
+    "frameworks": "mbed",
+    "keywords": [
+        "BME280",
+        "Humidity",
+        "I2C",
+        "pressure",
+        "sensor",
+        "Temperature"
+    ],
+    "name": "BME280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Vlad/code/BME280/"
+    }
+}

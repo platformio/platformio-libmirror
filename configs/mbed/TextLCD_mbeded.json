@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "The Electronics Nuke",
+        "url": "https://os.mbed.com/users/mbeded/"
+    },
+    "description": "Added new createChar() method. Added new clear() method. Added new scrollDisplayLeft() method. Added new scrollDisplayRight() method. Added support for Arduino alike Custom Character, scroll and clear command interfaces.",
+    "examples": [
+        "https://os.mbed.com/users/mderrant/code/mbed_lcd_custom/",
+        "https://os.mbed.com/users/mderrant/code/MMA8451_ACELEROMETRO_copy/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Arduino mbed commands",
+        "HD44780 LCD text custom char 16X2"
+    ],
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mbeded/code/TextLCD/"
+    }
+}

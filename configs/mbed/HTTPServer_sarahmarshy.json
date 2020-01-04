@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Sarah Marsh",
+        "url": "https://os.mbed.com/users/sarahmarshy/"
+    },
+    "description": "Changed RPC sucessful execution code from 1 to 200. Included RpcHandler.h in main header file. Effectively allows RPC through HTTP.",
+    "examples": [
+        "https://os.mbed.com/users/sarahmarshy/code/RPC_HTTP/",
+        "https://os.mbed.com/users/kaizen/code/RPC_HTTP_WIZnetInterface/",
+        "https://os.mbed.com/users/MohamadNazrin/code/RPC_HTTP/",
+        "https://os.mbed.com/users/daklowprofile/code/rpc_over_http_TL_interrupter_gatePJ/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HTTPServer",
+    "name": "HTTPServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sarahmarshy/code/HTTPServer/"
+    }
+}

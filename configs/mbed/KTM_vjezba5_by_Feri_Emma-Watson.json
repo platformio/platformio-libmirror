@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Emma Watson",
+        "url": "https://os.mbed.com/teams/Emma-Watson/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Vježba 5. Trebala bi imati sve.",
+    "frameworks": "mbed",
+    "keywords": "KTM_vjezba5_by_Feri",
+    "name": "KTM_vjezba5_by_Feri",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Emma-Watson/code/KTM_vjezba5_by_Feri/"
+    }
+}

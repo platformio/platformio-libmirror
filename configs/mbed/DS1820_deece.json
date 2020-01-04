@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Alastair D'Silva",
+        "url": "https://os.mbed.com/users/deece/"
+    },
+    "dependencies": [
+        {
+            "authors": "Sam Grove",
+            "frameworks": "mbed",
+            "name": "LinkedList"
+        }
+    ],
+    "description": "A cut-down version of https://os.mbed.com/users/Sissors/code/DS1820/ tweaked for use with the STM32F103. It is all generic Mbed operations though, so should be usable anywhere. Non-essential functions have been removed, as this ...",
+    "examples": [
+        "https://os.mbed.com/users/deece/code/STM32F103C8T6_DS18B20/",
+        "https://os.mbed.com/users/deece/code/stm32f103c8t6-ds18b20/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DS1820",
+    "name": "DS1820",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/deece/code/DS1820/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Ksenia Kondrashova",
+        "url": "https://os.mbed.com/users/Ksenia/"
+    },
+    "description": "Lib for HYT temp & humidity sensor",
+    "examples": [
+        "https://os.mbed.com/users/Ksenia/code/HYT_example/",
+        "https://os.mbed.com/users/Ksenia/code/Temp__RH_at_TFT-demo/",
+        "https://os.mbed.com/users/Ksenia/code/Temp__RH_at_TFT_with_touchscreen/",
+        "https://os.mbed.com/users/Ksenia/code/Temp__RH_at_TFT_with_touchscreen-ENG/",
+        "https://os.mbed.com/users/Ksenia/code/Temp__RH_at_TFT_with_touchscreen-RUS/",
+        "https://os.mbed.com/users/Ksenia/code/AirFlow_rH_and_Temp_at_TFT/",
+        "https://os.mbed.com/users/jw17594/code/HYT-271Reading/",
+        "https://os.mbed.com/users/jw17594/code/HYTsensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HYT",
+    "name": "HYT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Ksenia/code/HYT/"
+    }
+}

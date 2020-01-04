@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Charles Oroko",
+        "url": "https://os.mbed.com/users/Chiq/"
+    },
+    "description": "This is a library that was created to control the NDIR CO2 Sensor over I2C. The board that was used is the LPC11U24. https://developer.mbed.org/handbook/mbed-NXP-LPC11U24",
+    "frameworks": "mbed",
+    "keywords": [
+        "CO2",
+        "I2C",
+        "NDIR"
+    ],
+    "name": "NDIR_CO2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Chiq/code/NDIR_CO2/"
+    }
+}

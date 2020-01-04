@@ -5,14 +5,19 @@
     },
     "description": "Dallas' 1-Wire bus protocol library",
     "examples": [
-        "https://os.mbed.com/users/hudakz/code/DS1820/",
         "https://os.mbed.com/users/bobgiesberts/code/DS1825/",
         "https://os.mbed.com/users/jmambroi/code/DISCO-F746-Dessiccateur-V1/",
-        "https://os.mbed.com/users/e58136782000/code/watersenor_and_temp_code/"
+        "https://os.mbed.com/users/e58136782000/code/watersenor_and_temp_code/",
+        "https://os.mbed.com/users/lucianovici/code/DS1820/",
+        "https://os.mbed.com/users/polfg/code/DS1820/",
+        "https://os.mbed.com/users/mbriggs_vortex/code/xDotBridge_update_dev_latest/",
+        "https://os.mbed.com/users/andrewklmn/code/DS1820/",
+        "https://os.mbed.com/users/tohatsp/code/DS1820/",
+        "https://os.mbed.com/users/hudakz/code/DS1820/",
+        "https://os.mbed.com/users/Alessio_Zaino/code/DS1820/"
     ],
     "frameworks": "mbed",
     "keywords": [
-        "1-wire",
         "One Wire",
         "one-wire"
     ],

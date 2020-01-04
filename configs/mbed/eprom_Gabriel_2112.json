@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Gabriel Silva",
+        "url": "https://os.mbed.com/users/Gabriel_2112/"
+    },
+    "description": "EEPROM EMULATION STM32F429 - MBED",
+    "examples": [
+        "https://os.mbed.com/users/Gabriel_2112/code/DISCO-F429ZI_LCDTS_RET15-01/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "eprom",
+    "name": "eprom",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Gabriel_2112/code/eprom/"
+    }
+}

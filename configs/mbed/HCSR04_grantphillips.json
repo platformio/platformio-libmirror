@@ -5,7 +5,9 @@
     },
     "description": "Class library for a HC-SR04 Distance Sensor based on PwmOut (Trig) and InterruptIn (Echo).",
     "examples": [
-        "https://os.mbed.com/users/SolManB/code/ultra/"
+        "https://os.mbed.com/users/SolManB/code/ultra/",
+        "https://os.mbed.com/users/Charlie_He/code/TDPS-COM1/",
+        "https://os.mbed.com/users/mlosa010/code/HCSR04/"
     ],
     "frameworks": "mbed",
     "keywords": "HCSR04",

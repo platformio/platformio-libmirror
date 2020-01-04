@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "chong wang",
+        "url": "https://os.mbed.com/users/cwang365/"
+    },
+    "dependencies": [
+        {
+            "authors": "chong wang",
+            "frameworks": "mbed",
+            "name": "FATFileSystem_old"
+        }
+    ],
+    "description": "old sdfile system",
+    "examples": [
+        "https://os.mbed.com/users/cwang365/code/lab3-News_Reader1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cwang365/code/SDFileSystem/"
+    }
+}

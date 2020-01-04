@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Alejandro Rodriguez",
+        "url": "https://os.mbed.com/users/alejandroRL/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Updated TFC library to be compatible with the recent hardware changes. Currently only CCD1, Servo1, Motor1, and Motor2 are interfaced.",
+    "examples": [
+        "https://os.mbed.com/users/alejandroRL/code/TFC-TEST_UPDATED_HW/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FRDM-TFC",
+    "name": "FRDM-TFC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/alejandroRL/code/FRDM-TFC/"
+    }
+}

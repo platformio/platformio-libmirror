@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/"
+    },
+    "description": "Maxim Integrated MAX30205 C, C++ source code driver software: MAX30205 is accurate to +-0.1°C over the range of 37.0°C to 39.0°C. One-shot, shutdown modes are available for reduced power usage. ...",
+    "examples": [
+        "https://os.mbed.com/teams/MaximIntegrated/code/MAX30205_Human_Body_Temperature_Sensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accurate temperature",
+        "clinical thermometer",
+        "high precision thermometer",
+        "MAX30205",
+        "temperature ic",
+        "temperature sensor"
+    ],
+    "name": "MAX30205_Clinical_Temperature_Sensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/code/MAX30205_Clinical_Temperature_Sensor/"
+    }
+}

@@ -3,31 +3,6 @@
         "name": "Dieter Graef",
         "url": "https://os.mbed.com/users/DieterGraef/"
     },
-    "build": {
-        "flags": [
-            "-Ilwip",
-            "-Ilwip/core",
-            "-Ilwip/core/ipv4",
-            "-Ilwip/core/snmp",
-            "-Ilwip/include",
-            "-Ilwip/include/lwip",
-            "-Ilwip/include/posix",
-            "-Ilwip/include/posix/sys",
-            "-Ilwip/include/ipv4",
-            "-Ilwip/include/ipv4/lwip",
-            "-Ilwip/include/netif",
-            "-Ilwip/net",
-            "-Ilwip/api",
-            "-Ilwip/netif",
-            "-Ilwip/netif/ppp",
-            "-Ilwip-eth",
-            "-Ilwip-eth/arch",
-            "-Ilwip-eth/arch/TARGET_STM",
-            "-Ilwip-sys",
-            "-Ilwip-sys/arch",
-            "-ISocket"
-        ]
-    },
     "description": "Ethernet for Nucleo and Disco board STM32F746 works with gcc and arm. IAC is untested",
     "examples": [
         "https://os.mbed.com/users/DieterGraef/code/STM32F746_iothub_client_sample_mqtt/",

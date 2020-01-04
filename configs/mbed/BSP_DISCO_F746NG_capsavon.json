@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Sylvain Savon",
+        "url": "https://os.mbed.com/users/capsavon/"
+    },
+    "description": "BSP library for DISCO-STM32F746NG board. Added support for on-board QSPI Flash memory MICRO N25Q128A. Ported from library BSP_DISCO_L476VG.",
+    "examples": [
+        "https://os.mbed.com/users/capsavon/code/DISCO-F746NG_QSPI/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO-STM32F746NG",
+        "flash",
+        "QSPI",
+        "ST"
+    ],
+    "name": "BSP_DISCO_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/capsavon/code/BSP_DISCO_F746NG/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Gaku Matsumoto",
+        "url": "https://os.mbed.com/users/Gaku0606/"
+    },
+    "description": "モーターを回す程度のライブラリ",
+    "frameworks": "mbed",
+    "keywords": "MotorDriver",
+    "name": "MotorDriver",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Gaku0606/code/MotorDriver/"
+    }
+}

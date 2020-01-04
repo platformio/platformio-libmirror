@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Gesotec Gesotec",
+        "url": "https://os.mbed.com/users/gesotec/"
+    },
+    "description": "This provides a basic Watchdog service, and includes a startup detection to determine if the reset was caused by the WD. Added Target LPC4088.",
+    "frameworks": "mbed",
+    "keywords": "watchdog",
+    "name": "Watchdog",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gesotec/code/Watchdog/"
+    }
+}

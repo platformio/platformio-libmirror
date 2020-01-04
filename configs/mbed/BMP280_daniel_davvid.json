@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Daniel David",
+        "url": "https://os.mbed.com/users/daniel_davvid/"
+    },
+    "description": "Pressure and temperature sensor based on BMP280",
+    "examples": [
+        "https://os.mbed.com/users/daniel_davvid/code/weather_station_proj/",
+        "https://os.mbed.com/users/daniel_davvid/code/weather_station_project/",
+        "https://os.mbed.com/users/daniel_davvid/code/weather_station_proj_v1_2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "etti.tuiasi",
+    "name": "BMP280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/daniel_davvid/code/BMP280/"
+    }
+}

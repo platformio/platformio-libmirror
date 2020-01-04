@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Stefan Mueller",
+        "url": "https://os.mbed.com/users/NeoBelerophon/"
+    },
+    "description": "First working version of a FATFileSystem compatible Chan FAT v0.8 implementation. This is intended to use with long file names and RTOS support. For now long file names work but ...",
+    "examples": [
+        "https://os.mbed.com/users/okini3939/code/USB_MSC/",
+        "https://os.mbed.com/users/okini3939/code/USB_CDC_MSD_Hello/",
+        "https://os.mbed.com/users/tuxic/code/TFTPServerTest/",
+        "https://os.mbed.com/users/okini3939/code/DMXStation/",
+        "https://os.mbed.com/users/okini3939/code/WeatherStation/",
+        "https://os.mbed.com/users/loopsva/code/DDS60-105/",
+        "https://os.mbed.com/users/Dromar/code/SDHCFileSystem_ChanNFSSD/",
+        "https://os.mbed.com/users/sherckuith/code/USB_CDC_MSD_Hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CHaN",
+        "FAT",
+        "Fat16",
+        "Fat32",
+        "fatfilesystem",
+        "Filenames",
+        "Long",
+        "rtos"
+    ],
+    "name": "ChaNFS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/NeoBelerophon/code/ChaNFS/"
+    }
+}

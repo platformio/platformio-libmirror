@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "BME280 Combined humidity and pressure sensor library with I2C interface",
+    "frameworks": "mbed",
+    "keywords": [
+        "BME280",
+        "Bosch",
+        "Humidity",
+        "pressure",
+        "Temperature"
+    ],
+    "name": "BME280",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/BME280/"
+    }
+}

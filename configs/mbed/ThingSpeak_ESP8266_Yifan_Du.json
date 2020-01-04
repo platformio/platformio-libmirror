@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Yifan DU",
+        "url": "https://os.mbed.com/users/Yifan_Du/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "Use ESP8266 to connect ThingSpeak.com",
+    "frameworks": "mbed",
+    "keywords": [
+        "ESP8266",
+        "Thing Speak"
+    ],
+    "name": "ThingSpeak_ESP8266",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Yifan_Du/code/ThingSpeak_ESP8266/"
+    }
+}

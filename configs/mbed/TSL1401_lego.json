@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Geun Tae Kim",
+        "url": "https://os.mbed.com/users/lego/"
+    },
+    "description": "Line scan camera TSL1401",
+    "frameworks": "mbed",
+    "keywords": "TSL1401",
+    "name": "TSL1401",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lego/code/TSL1401/"
+    }
+}

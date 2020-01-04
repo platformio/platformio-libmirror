@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Mihail Stoyanov",
+        "url": "https://os.mbed.com/users/screamer/"
+    },
+    "description": "Fork of the official USBDevice library",
+    "frameworks": "mbed",
+    "keywords": "USBDevice",
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/screamer/code/USBDevice/"
+    }
+}

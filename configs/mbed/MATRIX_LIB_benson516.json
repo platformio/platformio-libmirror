@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Chun Feng Huang",
+        "url": "https://os.mbed.com/users/benson516/"
+    },
+    "description": "A lite library for operations in linear algebra",
+    "frameworks": "mbed",
+    "keywords": "MATRIX_LIB",
+    "name": "MATRIX_LIB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/benson516/code/MATRIX_LIB/"
+    }
+}

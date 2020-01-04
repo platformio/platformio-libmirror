@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Jurica Resetar",
+        "url": "https://os.mbed.com/users/jurica238814/"
+    },
+    "description": "Dummy commit.",
+    "examples": [
+        "https://os.mbed.com/teams/aconno-dev-team/code/acn52832_sensor_board/",
+        "https://os.mbed.com/users/jurica238814/code/iBeacon-acnsensa/",
+        "https://os.mbed.com/users/Srishti12/code/acnSENSA/",
+        "https://os.mbed.com/teams/aconno-dev-team/code/acnSENSA/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LSM9DS1",
+    "name": "LSM9DS1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jurica238814/code/LSM9DS1/"
+    }
+}

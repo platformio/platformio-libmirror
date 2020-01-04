@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Stefan Staub",
+        "url": "https://os.mbed.com/users/sstaub/"
+    },
+    "dependencies": [
+        {
+            "authors": "Stefan Staub",
+            "frameworks": "mbed",
+            "name": "Fonts"
+        }
+    ],
+    "description": "new library for the EADOG LCD display from electronic assembly",
+    "frameworks": "mbed",
+    "keywords": [
+        "EADOGL128",
+        "EADOGM128",
+        "EADOGM132"
+    ],
+    "name": "EADOG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sstaub/code/EADOG/"
+    }
+}

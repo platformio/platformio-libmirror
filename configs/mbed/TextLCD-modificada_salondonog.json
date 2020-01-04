@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Sergio Londono",
+        "url": "https://os.mbed.com/users/salondonog/"
+    },
+    "description": "A driver code library for Text LCD panels using the 4-bit HD44780 lcd display driver.",
+    "examples": [
+        "https://os.mbed.com/users/salondonog/code/Tarea4/",
+        "https://os.mbed.com/users/salondonog/code/Tarea6/",
+        "https://os.mbed.com/users/salondonog/code/Tarea8/",
+        "https://os.mbed.com/users/salondonog/code/Tarea7/",
+        "https://os.mbed.com/teams/Walter-y-Gregorio/code/Pid_encoder_con_sonido/",
+        "https://os.mbed.com/users/Susanaranjo/code/LCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TextLCD-modificada",
+    "name": "TextLCD-modificada",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/salondonog/code/TextLCD-modificada/"
+    }
+}

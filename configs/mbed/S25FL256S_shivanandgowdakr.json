@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Shivanand Gowda",
+        "url": "https://os.mbed.com/users/shivanandgowdakr/"
+    },
+    "description": "SPI Single IO NOR Flash Library for Nucleo F767ZI Interfacing",
+    "examples": [
+        "https://os.mbed.com/users/shivanandgowdakr/code/SPI_FLASH_MEM/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "nucleo f767zi",
+        "Serial NOR Flash",
+        "SPI"
+    ],
+    "name": "S25FL256S",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shivanandgowdakr/code/S25FL256S/"
+    }
+}

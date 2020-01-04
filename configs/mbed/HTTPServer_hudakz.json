@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Zoltan Hudak",
+        "url": "https://os.mbed.com/users/hudakz/"
+    },
+    "description": "HTTP Server library for Mbed OS-5. A fork of Henry Leinen's [[https://os.mbed.com/users/leihen/code/HTTPServer/]] library.",
+    "examples": [
+        "https://os.mbed.com/users/hudakz/code/STM32F407VET6_HTTPServer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HTTP server",
+        "HTTPServer"
+    ],
+    "name": "HTTPServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hudakz/code/HTTPServer/"
+    }
+}

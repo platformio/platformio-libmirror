@@ -3,11 +3,6 @@
         "name": "Donatien Garnier",
         "url": "https://os.mbed.com/users/MiniTLS/"
     },
-    "build": {
-        "flags": [
-            "-Idata"
-        ]
-    },
     "description": "HTTPS Client for MiniTLS-GPL",
     "examples": [
         "https://os.mbed.com/users/MiniTLS/code/MiniTLS-HTTPS-Example/"

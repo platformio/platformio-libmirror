@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "jun imamura",
+        "url": "https://os.mbed.com/users/imachooon/"
+    },
+    "description": "WaveShare e-paper module (epd1in54). Monochrome version",
+    "frameworks": "mbed",
+    "keywords": [
+        "E-Paper",
+        "epd1in54",
+        "waveshare"
+    ],
+    "name": "epd1in54",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/imachooon/code/epd1in54/"
+    }
+}

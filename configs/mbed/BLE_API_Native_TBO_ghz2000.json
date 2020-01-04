@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "ghz 2000",
+        "url": "https://os.mbed.com/users/ghz2000/"
+    },
+    "description": "Changed the device name.",
+    "examples": [
+        "https://os.mbed.com/users/ghz2000/code/BLE_Health_Thermometer_HeartRateMonitor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BLE_API_Native_TBO",
+    "name": "BLE_API_Native_TBO",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ghz2000/code/BLE_API_Native_TBO/"
+    }
+}

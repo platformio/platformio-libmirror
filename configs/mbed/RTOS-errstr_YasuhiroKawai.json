@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Yasuhiro Kawai",
+        "url": "https://os.mbed.com/users/YasuhiroKawai/"
+    },
+    "description": "Convert osStatus to string",
+    "examples": [
+        "https://os.mbed.com/users/YasuhiroKawai/code/signal_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "osStatus",
+        "rtos"
+    ],
+    "name": "RTOS-errstr",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/YasuhiroKawai/code/RTOS-errstr/"
+    }
+}

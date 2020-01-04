@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "s t",
+        "url": "https://os.mbed.com/users/tshl/"
+    },
+    "description": "1602 キャラクタディスプレイ データ4bit接続用ライブラリ STM32F103RB CUCLEOボードを想定",
+    "examples": [
+        "https://os.mbed.com/users/tshl/code/CharacterLCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "CharLcd4bit",
+    "name": "CharLcd4bit",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tshl/code/CharLcd4bit/"
+    }
+}

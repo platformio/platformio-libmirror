@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Reinhold Schaefer",
+        "url": "https://os.mbed.com/users/rs27/"
+    },
+    "description": "monitor",
+    "examples": [
+        "https://os.mbed.com/users/rs27/code/09_PT1000/",
+        "https://os.mbed.com/users/Sven3010/code/10_PT1000/",
+        "https://os.mbed.com/teams/Temp/code/11_PT1000/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "monitor",
+    "name": "monitor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rs27/code/monitor/"
+    }
+}

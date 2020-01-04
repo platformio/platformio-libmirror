@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "jun takahashi",
+        "url": "https://os.mbed.com/users/j8813/"
+    },
+    "description": "ACM txt out",
+    "examples": [
+        "https://os.mbed.com/users/j8813/code/loadcell_outF/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HX711_3",
+    "name": "HX711_3",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/j8813/code/HX711_3/"
+    }
+}

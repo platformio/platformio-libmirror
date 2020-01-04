@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Milan Kkharel",
+        "url": "https://os.mbed.com/users/mkkharel/"
+    },
+    "dependencies": [
+        {
+            "authors": "Wim De Roeve",
+            "frameworks": "mbed",
+            "name": "PulseCounter"
+        }
+    ],
+    "description": "Library for an Ampled Pulse Sensor",
+    "examples": [
+        "https://os.mbed.com/users/mkkharel/code/WMG/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PulseSensor",
+    "name": "PulseSensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mkkharel/code/PulseSensor/"
+    }
+}

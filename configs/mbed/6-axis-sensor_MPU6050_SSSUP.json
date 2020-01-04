@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "SSSUP",
+        "url": "https://os.mbed.com/teams/SSSUP/"
+    },
+    "description": "加速度・ジャイロセンサ―",
+    "frameworks": "mbed",
+    "keywords": "6-axis-sensor_MPU6050",
+    "name": "6-axis-sensor_MPU6050",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/SSSUP/code/6-axis-sensor_MPU6050/"
+    }
+}

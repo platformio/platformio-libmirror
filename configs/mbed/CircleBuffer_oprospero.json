@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Prosper Van",
+        "url": "https://os.mbed.com/users/oprospero/"
+    },
+    "description": "An array 3 sized circle buffer",
+    "frameworks": "mbed",
+    "keywords": "CircleBuffer",
+    "name": "CircleBuffer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/oprospero/code/CircleBuffer/"
+    }
+}

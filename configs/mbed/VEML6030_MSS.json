@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "MSS",
+        "url": "https://os.mbed.com/teams/MSS/"
+    },
+    "description": "VEML6030, High Accuracy Ambient Light Sensor with I2C Interface",
+    "examples": [
+        "https://os.mbed.com/teams/MSS/code/testVEML6030/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ambient light sensor",
+        "I2C",
+        "VEML6030"
+    ],
+    "name": "VEML6030",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MSS/code/VEML6030/"
+    }
+}

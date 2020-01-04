@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Dave Van Wagner",
+        "url": "https://os.mbed.com/users/davervw/"
+    },
+    "dependencies": [
+        {
+            "authors": "Krissi Yan",
+            "frameworks": "mbed",
+            "name": "NOKIA_5110"
+        }
+    ],
+    "description": "TextLCD compatible wrapper for NOKIA_5110 library",
+    "frameworks": "mbed",
+    "keywords": [
+        "5110",
+        "Nokia",
+        "TextLCD"
+    ],
+    "name": "TextLCD_NOKIA_5110",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/davervw/code/TextLCD_NOKIA_5110/"
+    }
+}

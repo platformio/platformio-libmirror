@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Freeman Oldman",
+        "url": "https://os.mbed.com/users/sinrab/"
+    },
+    "description": "Lib for the new LCD Display with ILI9341 controller",
+    "examples": [
+        "https://os.mbed.com/users/sinrab/code/PSTFT_DC_Power_Supply/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SPI_TFT_ILI9341",
+    "name": "SPI_TFT_ILI9341",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sinrab/code/SPI_TFT_ILI9341/"
+    }
+}

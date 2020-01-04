@@ -5,9 +5,9 @@
     },
     "description": "sx9500 driver",
     "examples": [
-        "https://os.mbed.com/teams/Semtech/code/NAMote72_Utility/",
         "https://os.mbed.com/teams/Senet/code/Senet-NAMote/",
-        "https://os.mbed.com/teams/Semtech/code/scpi_sx127x/"
+        "https://os.mbed.com/teams/Semtech/code/scpi_sx127x/",
+        "https://os.mbed.com/teams/Semtech/code/NAMote72_Utility/"
     ],
     "frameworks": "mbed",
     "keywords": "lib_sx9500",

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Yuuichi Akagawa",
+        "url": "https://os.mbed.com/users/YuuichiAkagawa/"
+    },
+    "description": "DisplayAppEsp32 library for GR-LYCHEE",
+    "frameworks": "mbed",
+    "keywords": "DisplayAppEsp32",
+    "name": "DisplayAppEsp32",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/YuuichiAkagawa/code/DisplayAppEsp32/"
+    }
+}

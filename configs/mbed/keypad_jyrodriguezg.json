@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Jairo Rodriguez",
+        "url": "https://os.mbed.com/users/jyrodriguezg/"
+    },
+    "description": "Librería Teclado 4x4",
+    "examples": [
+        "https://os.mbed.com/users/jyrodriguezg/code/teclado/",
+        "https://os.mbed.com/users/serbm/code/teclado/",
+        "https://os.mbed.com/users/omerbguclu/code/discovery_17_keypad_buzzer/",
+        "https://os.mbed.com/teams/Marvas/code/kasim_rfid_kart_okuyucu/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "keypad",
+    "name": "keypad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jyrodriguezg/code/keypad/"
+    }
+}

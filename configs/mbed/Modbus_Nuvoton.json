@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Nuvoton",
+        "url": "https://os.mbed.com/teams/Nuvoton/"
+    },
+    "description": "modified for NuMaker_PFM series",
+    "examples": [
+        "https://os.mbed.com/users/wclin/code/NuMaker-mbed-modbus-sample/",
+        "https://os.mbed.com/teams/Nuvoton/code/NuMaker_NuWicam_Lite/",
+        "https://os.mbed.com/teams/Nuvoton/code/NuMaker-mbed-modbus-sample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Modbus",
+    "name": "Modbus",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nuvoton/code/Modbus/"
+    }
+}

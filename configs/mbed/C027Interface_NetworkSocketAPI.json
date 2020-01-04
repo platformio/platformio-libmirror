@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "NetworkSocketAPI",
+        "url": "https://os.mbed.com/teams/NetworkSocketAPI/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "C027_Support"
+        }
+    ],
+    "description": "Socket interface for C027Interface. Implements the NetworkSocketAPI",
+    "examples": [
+        "https://os.mbed.com/teams/NetworkSocketAPI/code/HelloC027Interface/",
+        "https://os.mbed.com/users/sarahmarshy/code/U_Blox_DeviceConnector/",
+        "https://os.mbed.com/teams/Suraj-Pal/code/U_Blox_DeviceConnector/",
+        "https://os.mbed.com/users/surajdagar/code/U-Blox_Client/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "C027",
+    "name": "C027Interface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NetworkSocketAPI/code/C027Interface/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Chau Vo",
+        "url": "https://os.mbed.com/users/olympux/"
+    },
+    "description": "Used with eeprom_flash to write network configuration to STM32F103 flash",
+    "examples": [
+        "https://os.mbed.com/users/olympux/code/F103-Web-Server/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "EEPROM",
+        "flash",
+        "stm32"
+    ],
+    "name": "device_configuration",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/olympux/code/device_configuration/"
+    }
+}

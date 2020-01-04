@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Soft robot team",
+        "url": "https://os.mbed.com/teams/Soft-robot-team/"
+    },
+    "description": "ros melodic library with custom message",
+    "examples": [
+        "https://os.mbed.com/users/florine_van/code/Robot_team1_QEI_Douglas/",
+        "https://os.mbed.com/teams/Soft-robot-team/code/Robot_team1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ros_lib_melodic",
+    "name": "ros_lib_melodic",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Soft-robot-team/code/ros_lib_melodic/"
+    }
+}

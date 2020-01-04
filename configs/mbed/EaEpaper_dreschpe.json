@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "description": "A lib to handle a E-Paper display from Pervasive Displays. There is a interface board from Embedded Artists. The lib can handle graphic and text drawing and is using external ...",
+    "examples": [
+        "https://os.mbed.com/users/dreschpe/code/epaper_mbed_130411_KL25Z/",
+        "https://os.mbed.com/users/dreschpe/code/epaper_mbed_test/",
+        "https://os.mbed.com/users/jendo1969/code/epaper_KL25Z_2/",
+        "https://os.mbed.com/users/Starz/code/test_he10/",
+        "https://os.mbed.com/teams/ASE/code/Stick_It_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "EaEpaper",
+    "name": "EaEpaper",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/EaEpaper/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Andrew Reed",
+        "url": "https://os.mbed.com/users/reedas/"
+    },
+    "description": "InterruptIn style DigitalIn debounced with callbacks for pin state change and pin state hold. Updated callback procedures for mbed 5.xx by spotlightkid",
+    "examples": [
+        "https://os.mbed.com/users/reedas/code/city1082-capsense-sw2-tft-leds/",
+        "https://os.mbed.com/users/reedas/code/CITY1082-TFT-basic_sw2_ctr/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "debounce",
+        "DigitalIn",
+        "InterruptIn"
+    ],
+    "name": "PinDetect",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/reedas/code/PinDetect/"
+    }
+}

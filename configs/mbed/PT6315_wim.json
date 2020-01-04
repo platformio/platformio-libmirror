@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "PT6315 VFD driver. Supports DVDR3510.",
+    "examples": [
+        "https://os.mbed.com/users/wim/code/mbed_PT6315/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "PT6315",
+        "VFD"
+    ],
+    "name": "PT6315",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/PT6315/"
+    }
+}

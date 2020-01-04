@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Raminou & Co",
+        "url": "https://os.mbed.com/users/raminou/"
+    },
+    "description": "Library for the HMC5883L with 5 pins",
+    "examples": [
+        "https://os.mbed.com/users/raminou/code/projet_st_connect/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "compass",
+        "HMC5883L",
+        "QMC5883L"
+    ],
+    "name": "QMC5883L",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/raminou/code/QMC5883L/"
+    }
+}

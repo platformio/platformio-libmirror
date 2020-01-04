@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Jurica Resetar",
+        "url": "https://os.mbed.com/users/jurica238814/"
+    },
+    "description": "Max30101 pulse oximeter library",
+    "frameworks": "mbed",
+    "keywords": [
+        "Integrated",
+        "MAX30101",
+        "Maxim",
+        "oximeter",
+        "pulse"
+    ],
+    "name": "MAX30101_pulse_oximeter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jurica238814/code/MAX30101_pulse_oximeter/"
+    }
+}

@@ -13,9 +13,12 @@
     "description": "This class adds HTTP, FTP and CellLocate client support for u-blox modules for the C027 and C030 boards (excepting the C030 N2xx flavour) from mbed 5.5 onwards. The HTTP, FTP ...",
     "examples": [
         "https://os.mbed.com/teams/vdb-IOT-team/code/example-ublox-at-cellular-interface-ext/",
-        "https://os.mbed.com/teams/ublox/code/example-ublox-at-cellular-interface-ext/",
         "https://os.mbed.com/teams/ublox/code/HelloMQTT/",
-        "https://os.mbed.com/users/michaelVisimid/code/ublox_new_driver_test/"
+        "https://os.mbed.com/users/michaelVisimid/code/ublox_new_driver_test/",
+        "https://os.mbed.com/users/sanaerathore/code/example-ublox-at-cellular-interface-ext/",
+        "https://os.mbed.com/users/sanaerathore/code/example-ublox-at-cellular-interface-ext7/",
+        "https://os.mbed.com/users/fahimalavi/code/example-ublox-at-cellular-interface-ext/",
+        "https://os.mbed.com/teams/ublox/code/example-ublox-at-cellular-interface-ext/"
     ],
     "frameworks": "mbed",
     "keywords": [

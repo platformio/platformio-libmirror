@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Riaan Cillie",
+        "url": "https://os.mbed.com/users/riaancillie/"
+    },
+    "description": "MODSERIAL with support for more devices - Added target NUCLEO_F103RB",
+    "frameworks": "mbed",
+    "keywords": [
+        "Buffered",
+        "MODSERIAL",
+        "Serial"
+    ],
+    "name": "MODSERIAL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/riaancillie/code/MODSERIAL/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Osamu Koizumi",
+        "url": "https://os.mbed.com/users/coisme/"
+    },
+    "description": "This is workaround to use I2C/SPI and serial together on BLE Nano.",
+    "examples": [
+        "https://os.mbed.com/users/coisme/code/SimpleSample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE Nano",
+        "BLE_Nano",
+        "BLEnano"
+    ],
+    "name": "SerialNano",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/coisme/code/SerialNano/"
+    }
+}

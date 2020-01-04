@@ -3,28 +3,18 @@
         "name": "wolf SSL",
         "url": "https://os.mbed.com/users/wolfSSL/"
     },
-    "build": {
-        "flags": [
-            "-Iwolfssl",
-            "-Iwolfssl/openssl",
-            "-Iwolfssl/wolfcrypt",
-            "-Isrc",
-            "-Iwolfcrypt",
-            "-Iwolfcrypt/src"
-        ]
-    },
     "description": "wolfSSL SSL/TLS library, support up to TLS1.3",
     "examples": [
         "https://os.mbed.com/users/ban4jp/code/CyaSSL-Twitter-OAuth4Tw/",
-        "https://os.mbed.com/users/wolfSSL/code/Example-Dropbox/",
-        "https://os.mbed.com/users/wolfSSL/code/Example-Xively/",
         "https://os.mbed.com/users/wolfSSL/code/Example-client-tls-cert/",
         "https://os.mbed.com/users/lgarabo/code/TwitterReader/",
         "https://os.mbed.com/users/zeus3110/code/TweetTest/",
         "https://os.mbed.com/users/zeus3110/code/NetworkThermometer/",
         "https://os.mbed.com/teams/Yodiwo/code/YoPlegma/",
         "https://os.mbed.com/users/ppatierno/code/sht15_remote_monitoring/",
-        "https://os.mbed.com/users/tatulea/code/DeviceHub_K64F/"
+        "https://os.mbed.com/users/tatulea/code/DeviceHub_K64F/",
+        "https://os.mbed.com/users/takashikojo/code/IF-SmartClock/",
+        "https://os.mbed.com/users/mbed2015/code/CyaSSL-Twitter-OAuth4Tw_arrange/"
     ],
     "frameworks": "mbed",
     "keywords": [

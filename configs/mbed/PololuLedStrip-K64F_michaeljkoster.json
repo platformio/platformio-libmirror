@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Michael Koster",
+        "url": "https://os.mbed.com/users/michaeljkoster/"
+    },
+    "description": "K64F version",
+    "frameworks": "mbed",
+    "keywords": "PololuLedStrip-K64F",
+    "name": "PololuLedStrip-K64F",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/michaeljkoster/code/PololuLedStrip-K64F/"
+    }
+}

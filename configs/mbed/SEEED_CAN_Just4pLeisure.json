@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Sophie Dexter",
+        "url": "https://os.mbed.com/users/Just4pLeisure/"
+    },
+    "description": "This library for Seeed Studio's CAN-BUS Shield has a similar API to mbed's LPC1768 CAN library making it easy to add CAN functionality to mbed systems that support Arduino type ...",
+    "examples": [
+        "https://os.mbed.com/users/Just4pLeisure/code/Seeed_CAN_Hello_World/",
+        "https://os.mbed.com/teams/IoT-Empire/code/ws-canrecv-1/",
+        "https://os.mbed.com/users/lscordovar/code/CAN_SPI_modulo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CAN",
+        "FRDM-KL25Z",
+        "Seeed Studios"
+    ],
+    "name": "SEEED_CAN",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Just4pLeisure/code/SEEED_CAN/"
+    }
+}

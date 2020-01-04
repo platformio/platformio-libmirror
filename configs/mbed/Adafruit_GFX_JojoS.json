@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Johannes Stratmann",
+        "url": "https://os.mbed.com/users/JojoS/"
+    },
+    "description": "i2c version has an offset due to wrong copy of temp buffer to display buffer, fixed in Adafruit_SSD1306.h",
+    "examples": [
+        "https://os.mbed.com/users/JojoS/code/ezSBC_MPU9250/",
+        "https://os.mbed.com/users/JojoS/code/Test_OLED_Display/",
+        "https://os.mbed.com/users/juankafil1/code/untodoenuno/",
+        "https://os.mbed.com/users/franni/code/OledI2CDisplay/",
+        "https://os.mbed.com/users/juankafil1/code/finaltrans/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Adafruit_GFX",
+    "name": "Adafruit_GFX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JojoS/code/Adafruit_GFX/"
+    }
+}

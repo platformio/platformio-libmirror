@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "The SZ",
+        "url": "https://os.mbed.com/users/the_sz/"
+    },
+    "description": "working together with FATFileSystem",
+    "examples": [
+        "https://os.mbed.com/users/the_sz/code/WakeupLight/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TinyJpgDec_interwork",
+    "name": "TinyJpgDec_interwork",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/the_sz/code/TinyJpgDec_interwork/"
+    }
+}

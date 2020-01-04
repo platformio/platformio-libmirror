@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "name": "tarou yamada",
+        "url": "https://os.mbed.com/users/inst/"
+    },
+    "description": "nucleo_rotary_encoder",
+    "examples": [
+        "https://os.mbed.com/users/kachikyun/code/serial_connected_mcu_nucleo/",
+        "https://os.mbed.com/users/inst/code/rotary_encoder_mbed/",
+        "https://os.mbed.com/users/inst/code/serial_connected_mcu_nucleo/",
+        "https://os.mbed.com/users/sawai/code/omuni_speed_pid/",
+        "https://os.mbed.com/users/Akito914/code/speed_mesurement/",
+        "https://os.mbed.com/users/Akito914/code/ROBOCON2017_archan/",
+        "https://os.mbed.com/users/sawai/code/omuni/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "C++",
+        "Encoder",
+        "hardware",
+        "QEI"
+    ],
+    "name": "nucleo_rotary_encoder",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/inst/code/nucleo_rotary_encoder/"
+    }
+}

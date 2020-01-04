@@ -5,7 +5,8 @@
     },
     "description": "Matrix driver for HDSP-200x four character 5x7 alphanumeric displays. These are 12 pin DIL package ICs full of LEDs arranged in 4 characters of 5 columns & 7 rows each. ...",
     "examples": [
-        "https://os.mbed.com/users/tonymudd/code/alpha_message/"
+        "https://os.mbed.com/users/tonymudd/code/alpha_message/",
+        "https://os.mbed.com/teams/Sistemas-Embebidos/code/TP1_matriz/"
     ],
     "frameworks": "mbed",
     "keywords": "matrix_HDSP",

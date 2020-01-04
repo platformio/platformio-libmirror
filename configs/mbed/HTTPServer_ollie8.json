@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Ollie Milton",
+        "url": "https://os.mbed.com/users/ollie8/"
+    },
+    "description": "Single instance HTTP Server using new Ethernet Interface with bug fix for URL arguments",
+    "frameworks": "mbed",
+    "keywords": "HTTPServer",
+    "name": "HTTPServer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ollie8/code/HTTPServer/"
+    }
+}

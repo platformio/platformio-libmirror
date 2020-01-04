@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Nora Vazbyte",
+        "url": "https://os.mbed.com/users/vazbyte/"
+    },
+    "description": "working tof sensor",
+    "frameworks": "mbed",
+    "keywords": "vl53l0x_demo",
+    "name": "vl53l0x_demo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vazbyte/code/vl53l0x_demo/"
+    }
+}

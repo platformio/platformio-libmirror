@@ -3,14 +3,6 @@
         "name": "ST",
         "url": "https://os.mbed.com/teams/ST/"
     },
-    "build": {
-        "flags": [
-            "-Iconfigs",
-            "-IGW_Binary",
-            "-Idocs",
-            "-Idocs/img"
-        ]
-    },
     "description": "Fork of https://developer.mbed.org/teams/mbed-os-examples/code/mbed-os-example-client/",
     "frameworks": "mbed",
     "keywords": "mbed-os-example-client",

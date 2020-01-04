@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Renesas",
+        "url": "https://os.mbed.com/teams/Renesas/"
+    },
+    "description": "Bug fix I2C driver",
+    "frameworks": "mbed",
+    "keywords": "mbed-src_GR-PEACH_rev_c_I2C",
+    "name": "mbed-src_GR-PEACH_rev_c_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Renesas/code/mbed-src_GR-PEACH_rev_c_I2C/"
+    }
+}

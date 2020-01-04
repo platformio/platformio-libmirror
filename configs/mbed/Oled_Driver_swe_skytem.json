@@ -6,9 +6,6 @@
     "description": "Oled Display Driver, tested to work with EA W082-XLG SPI (HD44780) and WEH001602CRPP5N00001-WSR (WS0010). It can work with other SPI Oled Displays. It should work with 20x4 aswell but has ...",
     "frameworks": "mbed",
     "keywords": [
-        "16x2",
-        "20X4",
-        "8x2",
         "display",
         "EA",
         "HD44780",

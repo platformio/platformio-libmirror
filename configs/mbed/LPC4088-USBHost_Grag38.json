@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Raph Francois",
+        "url": "https://os.mbed.com/users/Grag38/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        }
+    ],
+    "description": "Added to LPC4088-USBHost the USBHostMidi class. Plugin an usb midi interface to the usb host of lpc4088 allows to send midi event to the midi interface. For the moment I ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "LPC4088QSB",
+        "MIDI",
+        "USB"
+    ],
+    "name": "LPC4088-USBHost",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Grag38/code/LPC4088-USBHost/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Greg Steiert",
+        "url": "https://os.mbed.com/users/switches/"
+    },
+    "description": "Library for Adafruit OLED FeatherWing",
+    "examples": [
+        "https://os.mbed.com/users/switches/code/FTHR_OLED/",
+        "https://os.mbed.com/users/smatthew/code/FTHR_SensorHub/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Adafruit_FeatherOLED",
+    "name": "Adafruit_FeatherOLED",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/switches/code/Adafruit_FeatherOLED/"
+    }
+}

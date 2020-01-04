@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Silicon Labs",
+        "url": "https://os.mbed.com/teams/SiliconLabs/"
+    },
+    "description": "Driver for the Silicon Labs Si1133 Visible Light/UV sensor",
+    "examples": [
+        "https://os.mbed.com/teams/SiliconLabs/code/TBSense2_Sensor_Demo/",
+        "https://os.mbed.com/users/pancotinho/code/mbed-BLE-coragem-teste/",
+        "https://os.mbed.com/users/brunnobbco/code/mbed-BLE-coragem-teste/",
+        "https://os.mbed.com/users/pancotinho/code/mbed-lorawan-coragem/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Si1133",
+    "name": "Si1133",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/SiliconLabs/code/Si1133/"
+    }
+}

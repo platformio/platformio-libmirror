@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "PQ_Hybrid_Electrical_Equipment_Team",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/"
+    },
+    "dependencies": [
+        {
+            "authors": "Gaku Matsumoto",
+            "frameworks": "mbed",
+            "name": "Vector3"
+        }
+    ],
+    "description": "四元数(クォータニオン)の計算やらなんやらができます．主に演算子オーバーロードの練習で作りました．温かい目で見てやってください．",
+    "examples": [
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/Hybrid_main_FirstEdtion/",
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/MadgwickFilter/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Quaternion",
+    "name": "Quaternion",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/Quaternion/"
+    }
+}

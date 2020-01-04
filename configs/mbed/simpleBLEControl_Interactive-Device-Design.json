@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Interactive Device Design",
+        "url": "https://os.mbed.com/teams/Interactive-Device-Design/"
+    },
+    "description": "mediCAL's first BLE project",
+    "examples": [
+        "https://os.mbed.com/teams/Interactive-Device-Design/code/BLE_mediCAL/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "simpleBLEControl",
+    "name": "simpleBLEControl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Interactive-Device-Design/code/simpleBLEControl/"
+    }
+}

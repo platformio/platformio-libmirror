@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "BTSSN Projet Drone Imagerie Télémétrie",
+        "url": "https://os.mbed.com/teams/BTSSN-Projet-Drone-Imagerie-et-Telemetri/"
+    },
+    "description": "Library SX1272, initially created by C.Pham, University of Pau, France for Arduino. Suitable for MBED / NUCLEO / STM32",
+    "examples": [
+        "https://os.mbed.com/teams/BTSSN-Projet-Drone-Imagerie-et-Telemetri/code/LOW_COAST_LORA_NODE/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Lora",
+        "SX1272",
+        "SX1276"
+    ],
+    "name": "SX1272",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/BTSSN-Projet-Drone-Imagerie-et-Telemetri/code/SX1272/"
+    }
+}

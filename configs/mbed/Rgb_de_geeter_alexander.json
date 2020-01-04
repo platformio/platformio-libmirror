@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Alexander De Geeter",
+        "url": "https://os.mbed.com/users/de_geeter_alexander/"
+    },
+    "description": "With this RGB class you can control a RGB-LED. You can also control a RGB-LED with a Color object.",
+    "examples": [
+        "https://os.mbed.com/users/de_geeter_alexander/code/coap/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "color",
+        "rgb"
+    ],
+    "name": "Rgb",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/de_geeter_alexander/code/Rgb/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Tick Tock",
+        "url": "https://os.mbed.com/users/TickTock/"
+    },
+    "description": "Fork with support for ILI9341 controller",
+    "examples": [
+        "https://os.mbed.com/users/TickTock/code/CANary_9341/",
+        "https://os.mbed.com/users/TickTock/code/CANary/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "TOUCH_TFTx2_ILI9341",
+    "name": "TOUCH_TFTx2_ILI9341",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/TickTock/code/TOUCH_TFTx2_ILI9341/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "OptoLab",
+        "url": "https://os.mbed.com/teams/OptoLab1/"
+    },
+    "description": "Display",
+    "examples": [
+        "https://os.mbed.com/teams/Termocamera/code/Termocamera_ironblack/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "UniGraphic",
+    "name": "UniGraphic",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/OptoLab1/code/UniGraphic/"
+    }
+}

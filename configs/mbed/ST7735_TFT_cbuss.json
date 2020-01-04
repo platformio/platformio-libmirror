@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Christian B.",
+        "url": "https://os.mbed.com/users/cbuss/"
+    },
+    "description": "ST7735 library, e.g. for Adafruit 1.8\" TFT",
+    "frameworks": "mbed",
+    "keywords": "ST7735_TFT",
+    "name": "ST7735_TFT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/cbuss/code/ST7735_TFT/"
+    }
+}

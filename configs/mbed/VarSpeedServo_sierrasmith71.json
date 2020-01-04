@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "David Garrsion",
+        "url": "https://os.mbed.com/users/sierrasmith71/"
+    },
+    "description": "Made changes to individually control servo speeds",
+    "examples": [
+        "https://os.mbed.com/users/sierrasmith71/code/VariableSpeedServo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "servos",
+        "slow",
+        "Speed"
+    ],
+    "name": "VarSpeedServo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sierrasmith71/code/VarSpeedServo/"
+    }
+}

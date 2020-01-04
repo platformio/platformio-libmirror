@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "francesco fantoni",
+        "url": "https://os.mbed.com/users/hvfrancesco/"
+    },
+    "description": "a modified version of N5110 library to be used with freescale boards",
+    "frameworks": "mbed",
+    "keywords": "N5110",
+    "name": "N5110",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hvfrancesco/code/N5110/"
+    }
+}

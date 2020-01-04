@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Martin Woolley",
+        "url": "https://os.mbed.com/users/bluetooth_mdw/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "BLE_API"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "mbed-dev-bin"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "nRF51822"
+        }
+    ],
+    "description": "Forked to avoid changing the publioc repo",
+    "frameworks": "mbed",
+    "keywords": "bluetooth",
+    "name": "microbit-dal-ble-accelerometer-example",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bluetooth_mdw/code/microbit-dal-ble-accelerometer-example/"
+    }
+}

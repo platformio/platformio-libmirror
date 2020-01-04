@@ -5,11 +5,7 @@
     },
     "description": "Analog Devices 16 channels, 1MSPS, 12bit ADC with SPI interface",
     "frameworks": "mbed",
-    "keywords": [
-        "A/D",
-        "adc",
-        "SPI"
-    ],
+    "keywords": "SPI",
     "name": "AD7490",
     "platforms": "*",
     "repository": {

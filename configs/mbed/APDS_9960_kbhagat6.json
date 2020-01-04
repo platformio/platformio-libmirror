@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Krishan Bhagat",
+        "url": "https://os.mbed.com/users/kbhagat6/"
+    },
+    "description": "APDS-9960 Light, RGB, Proximity, and Gesture Sensor https://www.sparkfun.com/products/12787 This library interfaces the APDS-9960 to Mbed over I2C. The library relies on the I2C library. To use the library, instantiate a ...",
+    "examples": [
+        "https://os.mbed.com/users/kbhagat6/code/Gesture_User_Interface/",
+        "https://os.mbed.com/users/tgw/code/car_test_v1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "APDS_9960",
+    "name": "APDS_9960",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kbhagat6/code/APDS_9960/"
+    }
+}

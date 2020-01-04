@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "IZU2020",
+        "url": "https://os.mbed.com/teams/IZU2020/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "Mbed Official SDFileSystem Library",
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/IZU2020/code/SDFileSystem/"
+    }
+}

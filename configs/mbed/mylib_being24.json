@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "TDAK SONE",
+        "url": "https://os.mbed.com/users/being24/"
+    },
+    "description": "libs for me",
+    "examples": [
+        "https://os.mbed.com/users/being24/code/LineTrace/",
+        "https://os.mbed.com/users/being24/code/motor-test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "mylib",
+    "name": "mylib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/being24/code/mylib/"
+    }
+}

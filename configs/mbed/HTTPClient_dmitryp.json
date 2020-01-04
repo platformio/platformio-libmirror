@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Dmitry Pakhomenko",
+        "url": "https://os.mbed.com/users/dmitryp/"
+    },
+    "description": "Added support for Vodafone K4606, for more details refer to http://atmega.magictale.com/2215/hacking-vodafone-k4606-3g-hsdpa-usb-modem/",
+    "frameworks": "mbed",
+    "keywords": "HTTPClient",
+    "name": "HTTPClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dmitryp/code/HTTPClient/"
+    }
+}

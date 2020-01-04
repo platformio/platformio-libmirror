@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Norimasa Okamoto",
+        "url": "https://os.mbed.com/users/va009039/"
+    },
+    "dependencies": [
+        {
+            "authors": "Norimasa Okamoto",
+            "frameworks": "mbed",
+            "name": "USBDevice"
+        }
+    ],
+    "description": "Emulation of LocalFileSystem with virtual COM.",
+    "examples": [
+        "https://os.mbed.com/users/va009039/code/KL46Z-lpc81isp/",
+        "https://os.mbed.com/users/va009039/code/lpcterm2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "USBLocalFileSystem",
+    "name": "USBLocalFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/va009039/code/USBLocalFileSystem/"
+    }
+}

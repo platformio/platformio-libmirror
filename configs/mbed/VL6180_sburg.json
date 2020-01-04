@@ -6,7 +6,9 @@
     "description": "Library for the VL6180 time of flight range finder.",
     "examples": [
         "https://os.mbed.com/users/sburg/code/VL6180_Hello_World/",
-        "https://os.mbed.com/users/Zeran/code/STM32F103C8T6_VL6180/"
+        "https://os.mbed.com/users/Zeran/code/STM32F103C8T6_VL6180/",
+        "https://os.mbed.com/users/electronichamsters/code/BLE_Sensor_VL6180/",
+        "https://os.mbed.com/users/electronichamsters/code/BLE_Sensor_VL6180_window/"
     ],
     "frameworks": "mbed",
     "keywords": "VL6180",
