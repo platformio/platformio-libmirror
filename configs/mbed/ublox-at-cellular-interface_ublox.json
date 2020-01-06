@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "u-blox",
+        "url": "https://os.mbed.com/teams/ublox/"
+    },
+    "description": "Implementation of the CellularInterface for u-blox C027 and C030 (non-N2xx flavour) modems that uses the IP stack on-board the cellular modem, hence not requiring LWIP (and so less RAM) and ...",
+    "examples": [
+        "https://os.mbed.com/users/fahimalavi/code/example-ublox-cellular-interface/",
+        "https://os.mbed.com/users/mudassar0121/code/example-ublox-cellular-interface_r410M/",
+        "https://os.mbed.com/teams/ublox/code/example-ublox-mbed-client/",
+        "https://os.mbed.com/users/jurica238814/code/example-ublox-cellular-interface/",
+        "https://os.mbed.com/users/amq/code/ublox-at-cellular-interface-ext-add-prio/",
+        "https://os.mbed.com/users/rlanders73/code/ublox-at-cellular-interface-ext/",
+        "https://os.mbed.com/users/jurica238814/code/aconnoCellularGnss/",
+        "https://os.mbed.com/users/andreas_hbrs/code/ublox-NB-IoT/",
+        "https://os.mbed.com/users/sanaerathore/code/ublox-at-cellular-interface-ext/",
+        "https://os.mbed.com/users/Wajahat/code/example-ublox-cellular-interface_rat_mno/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AT",
+        "C027",
+        "C030",
+        "CellularInterface",
+        "u-blox"
+    ],
+    "name": "ublox-at-cellular-interface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ublox/code/ublox-at-cellular-interface/"
+    }
+}

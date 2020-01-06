@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Eric Hospel",
+        "url": "https://os.mbed.com/users/ehospel/"
+    },
+    "description": "Library for reading a Nunchuk controller",
+    "frameworks": "mbed",
+    "keywords": "Nunchuk",
+    "name": "Nunchuk",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ehospel/code/Nunchuk/"
+    }
+}

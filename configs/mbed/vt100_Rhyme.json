@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Motoo Tanaka",
+        "url": "https://os.mbed.com/users/Rhyme/"
+    },
+    "description": "My implementation of VT100 ESC-sequence utility",
+    "examples": [
+        "https://os.mbed.com/users/Rhyme/code/test_vt100/",
+        "https://os.mbed.com/users/Rhyme/code/maze_vt100_MMA8451Q/",
+        "https://os.mbed.com/users/Rhyme/code/funcgen/",
+        "https://os.mbed.com/teams/MSS/code/test_MAG3110/",
+        "https://os.mbed.com/teams/MSS/code/testI2C/",
+        "https://os.mbed.com/users/Rhyme/code/testSPI_IS25LQ032B/",
+        "https://os.mbed.com/users/Rhyme/code/Dentaku/",
+        "https://os.mbed.com/teams/MSS/code/testDS1683/",
+        "https://os.mbed.com/teams/MSS/code/test_FXOS8700CQ/",
+        "https://os.mbed.com/teams/MSS/code/testVCNL4020/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "vt100",
+    "name": "vt100",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Rhyme/code/vt100/"
+    }
+}

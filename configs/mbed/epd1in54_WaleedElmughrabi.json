@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Waleed Elmughrabi",
+        "url": "https://os.mbed.com/users/WaleedElmughrabi/"
+    },
+    "description": "WaveShare e-paper module (epd1in54). Monochrome version",
+    "examples": [
+        "https://os.mbed.com/users/WaleedElmughrabi/code/Sample_program_Font72/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "E-Paper",
+        "epd1in54",
+        "waveshare"
+    ],
+    "name": "epd1in54",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WaleedElmughrabi/code/epd1in54/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Xinlei Cao",
+        "url": "https://os.mbed.com/users/xinlei/"
+    },
+    "description": "Own fork of MbedSmartRest",
+    "examples": [
+        "https://os.mbed.com/users/xinlei/code/MbedSmartRestMain/",
+        "https://os.mbed.com/users/Cumulocity/code/MbedSmartRestMain/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MbedSmartRest",
+    "name": "MbedSmartRest",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/xinlei/code/MbedSmartRest/"
+    }
+}

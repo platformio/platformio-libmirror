@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Manuel Caballero",
+        "url": "https://os.mbed.com/users/mcm/"
+    },
+    "description": "MCP41XXX/42XXX. Single/Dual Digital Potentiometer with SPI™ Interface",
+    "frameworks": "mbed",
+    "keywords": [
+        "digital potentiometer",
+        "driver",
+        "library",
+        "MCP41XXX/42XXX",
+        "Microchip",
+        "SPI"
+    ],
+    "name": "MCP41XXX_42XXX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mcm/code/MCP41XXX_42XXX/"
+    }
+}

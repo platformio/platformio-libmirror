@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "James Watanabe",
+        "url": "https://os.mbed.com/users/gltest26/"
+    },
+    "description": "Forked from Aaron Berk's ITG3200 driver class library, customized for my specific application using 9DoF-Stick by Sparkfun.",
+    "examples": [
+        "https://os.mbed.com/users/tylerjw/code/HARP/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "9Dof-Stick",
+        "gyro",
+        "ITG3200",
+        "sensor"
+    ],
+    "name": "ITG3200",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gltest26/code/ITG3200/"
+    }
+}

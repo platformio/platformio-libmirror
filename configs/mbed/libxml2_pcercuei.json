@@ -3,6 +3,11 @@
         "name": "Paul Cercueil",
         "url": "https://os.mbed.com/users/pcercuei/"
     },
+    "build": {
+        "flags": [
+            "-Ilibxml"
+        ]
+    },
     "description": "XML C parser available under the MIT license. http://xmlsoft.org/",
     "examples": [
         "https://os.mbed.com/users/pcercuei/code/libiio/"

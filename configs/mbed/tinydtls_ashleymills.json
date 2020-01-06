@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Ashley Mills",
+        "url": "https://os.mbed.com/users/ashleymills/"
+    },
+    "description": "Version 0.5.0 of tinydtls",
+    "examples": [
+        "https://os.mbed.com/users/ashleymills/code/tinydtls_test_cellular/",
+        "https://os.mbed.com/users/ashleymills/code/tinydtls_test_ethernet/",
+        "https://os.mbed.com/users/saranieves92/code/tiny-dtls/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "tinydtls",
+    "name": "tinydtls",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ashleymills/code/tinydtls/"
+    }
+}

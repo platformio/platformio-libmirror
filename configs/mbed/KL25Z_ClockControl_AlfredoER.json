@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Alfredo Espinoza Rhoton",
+        "url": "https://os.mbed.com/users/AlfredoER/"
+    },
+    "description": "Library to control the KL25z Clock Module.",
+    "frameworks": "mbed",
+    "keywords": [
+        "clock",
+        "KL25z",
+        "PLL"
+    ],
+    "name": "KL25Z_ClockControl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AlfredoER/code/KL25Z_ClockControl/"
+    }
+}

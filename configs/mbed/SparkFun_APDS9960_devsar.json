@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "devsar devsar",
+        "url": "https://os.mbed.com/users/devsar/"
+    },
+    "description": "Library for SparkFun APDS9960 Only gesture sensor checked for now.",
+    "examples": [
+        "https://os.mbed.com/users/devsar/code/SparkFun_APDS9960_Sample/",
+        "https://os.mbed.com/users/ALounes/code/IoT-Polytech-Upmc/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "APDS9960",
+        "Gesture",
+        "sensor",
+        "sparkfun"
+    ],
+    "name": "SparkFun_APDS9960",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/devsar/code/SparkFun_APDS9960/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Yuu Kobayashi",
+        "url": "https://os.mbed.com/users/kb10uy/"
+    },
+    "description": "大体24fc1025用",
+    "examples": [
+        "https://os.mbed.com/users/kb10uy/code/NuMidi401/",
+        "https://os.mbed.com/users/kb10uy/code/NuFM401/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "I2CEEPROM",
+    "name": "I2CEEPROM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kb10uy/code/I2CEEPROM/"
+    }
+}

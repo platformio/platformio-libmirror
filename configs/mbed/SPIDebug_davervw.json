@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Dave Van Wagner",
+        "url": "https://os.mbed.com/users/davervw/"
+    },
+    "description": "Shows SPI activity. Replace SPI with SPIDebug, and replace chip select's DigitalOutput with CSDebug. Outputs debug info on stdout. Currently only outputs 8-bit debug info. Easy enough to change that ...",
+    "examples": [
+        "https://os.mbed.com/users/davervw/code/SST25VF064C/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "debug",
+        "SPI"
+    ],
+    "name": "SPIDebug",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/davervw/code/SPIDebug/"
+    }
+}

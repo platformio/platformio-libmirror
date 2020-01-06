@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Trombetta Michele",
+        "url": "https://os.mbed.com/users/trombettamichele/"
+    },
+    "description": "Simple library for controll a matrix of 7 segment displays. It also support the Hexadecimal and the Decimal visualisation.",
+    "examples": [
+        "https://os.mbed.com/users/trombettamichele/code/Demo_Led7seg/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "7",
+        "display",
+        "segment"
+    ],
+    "name": "Multi7Seg",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/trombettamichele/code/Multi7Seg/"
+    }
+}

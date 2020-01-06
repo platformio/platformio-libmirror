@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Yuu Kobayashi",
+        "url": "https://os.mbed.com/users/kb10uy/"
+    },
+    "description": "General purpose FM oscillator library. 汎用FM音源ライブラリ",
+    "examples": [
+        "https://os.mbed.com/users/kb10uy/code/NuFM402/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "fm",
+    "name": "FMOscillator",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kb10uy/code/FMOscillator/"
+    }
+}

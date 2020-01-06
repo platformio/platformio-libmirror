@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Hugo Rodrigues",
+        "url": "https://os.mbed.com/users/hajesusrodrigues/"
+    },
+    "description": "mBed RFM12B module library",
+    "examples": [
+        "https://os.mbed.com/users/hajesusrodrigues/code/_EXAMPLE_RFM12B/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "RFM12B",
+    "name": "RFM12B",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hajesusrodrigues/code/RFM12B/"
+    }
+}

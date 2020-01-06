@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Cumulocity Official",
+        "url": "https://os.mbed.com/users/Cumulocity/"
+    },
+    "description": "mbed.org implementation of the abstract SmartREST library for the Cumulocity Platform SmartREST protocol.",
+    "examples": [
+        "https://os.mbed.com/users/vwochnik/code/MbedSmartRestMain/",
+        "https://os.mbed.com/teams/ublox/code/MbedSmartRestMain/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MbedSmartRest",
+    "name": "MbedSmartRest",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Cumulocity/code/MbedSmartRest/"
+    }
+}

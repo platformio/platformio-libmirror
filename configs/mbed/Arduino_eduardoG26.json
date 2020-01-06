@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Eduardo de Mier",
+        "url": "https://os.mbed.com/users/eduardoG26/"
+    },
+    "description": "Arduino functions millis, micros and eventually some more to come",
+    "examples": [
+        "https://os.mbed.com/users/justinkim/code/DigitalCamera_OV5642_WIZwiki-W7500/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "micros",
+        "millis"
+    ],
+    "name": "Arduino",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eduardoG26/code/Arduino/"
+    }
+}

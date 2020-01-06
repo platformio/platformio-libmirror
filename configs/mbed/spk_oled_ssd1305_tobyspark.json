@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Toby Harris",
+        "url": "https://os.mbed.com/users/tobyspark/"
+    },
+    "description": "SPKDisplay - A mbed display class and processing imaging tools for 128x64 OLEDs using the SSD1305 driver, connected via SPI.",
+    "examples": [
+        "https://os.mbed.com/users/tobyspark/code/SPK-DVIMXR/",
+        "https://os.mbed.com/users/tobyspark/code/SPK-DMXer/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "OLED",
+        "ssd1305"
+    ],
+    "name": "spk_oled_ssd1305",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tobyspark/code/spk_oled_ssd1305/"
+    }
+}

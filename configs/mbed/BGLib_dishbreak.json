@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Vishal Kotcherlakota",
+        "url": "https://os.mbed.com/users/dishbreak/"
+    },
+    "description": "Partial implementation of BlueGiga's BGAPI for use with the BLE112/3 modules over UART.",
+    "frameworks": "mbed",
+    "keywords": [
+        "bglib",
+        "BLE",
+        "ble112",
+        "bluegiga",
+        "bluetooth-low-energy",
+        "UART"
+    ],
+    "name": "BGLib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dishbreak/code/BGLib/"
+    }
+}

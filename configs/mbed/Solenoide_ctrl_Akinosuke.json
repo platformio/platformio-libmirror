@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Akinosuke Tsutsumi",
+        "url": "https://os.mbed.com/users/Akinosuke/"
+    },
+    "description": "NITK.K 電磁弁ドライバー用のライブラリです。使い方はreadme.txtを読んでください。",
+    "examples": [
+        "https://os.mbed.com/users/Akinosuke/code/Solenoide_Library/",
+        "https://os.mbed.com/users/Akinosuke/code/NITKK2019_WinterS-Manual/",
+        "https://os.mbed.com/users/takedayuya/code/NITKK2019WinterA/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Solenoide_ctrl",
+    "name": "Solenoide_ctrl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Akinosuke/code/Solenoide_ctrl/"
+    }
+}

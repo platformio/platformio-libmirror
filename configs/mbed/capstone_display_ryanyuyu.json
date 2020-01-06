@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Ryan Yuyuenyongwatana",
+        "url": "https://os.mbed.com/users/ryanyuyu/"
+    },
+    "dependencies": [
+        {
+            "authors": "Todor Todorov",
+            "frameworks": "mbed",
+            "name": "TFTLCD"
+        }
+    ],
+    "description": "Latest revision",
+    "frameworks": "mbed",
+    "keywords": "capstone_display",
+    "name": "capstone_display",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ryanyuyu/code/capstone_display/"
+    }
+}

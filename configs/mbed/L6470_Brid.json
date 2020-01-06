@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Brid .",
+        "url": "https://os.mbed.com/users/Brid/"
+    },
+    "description": "test upload STMicroelectronics L6470",
+    "examples": [
+        "https://os.mbed.com/users/e00nagog/code/test/",
+        "https://os.mbed.com/users/Brid/code/L6470exaple/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "L6470",
+    "name": "L6470",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Brid/code/L6470/"
+    }
+}

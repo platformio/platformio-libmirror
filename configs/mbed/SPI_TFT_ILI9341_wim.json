@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "Added methods and features",
+    "frameworks": "mbed",
+    "keywords": [
+        "ILI9341",
+        "SPI"
+    ],
+    "name": "SPI_TFT_ILI9341",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/SPI_TFT_ILI9341/"
+    }
+}

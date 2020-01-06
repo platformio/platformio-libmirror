@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "ADITYA RAJ",
+        "url": "https://os.mbed.com/users/ECESAT/"
+    },
+    "description": "Xbee testing for cansat",
+    "frameworks": "mbed",
+    "keywords": "xbee",
+    "name": "xbee",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ECESAT/code/xbee/"
+    }
+}

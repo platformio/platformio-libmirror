@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "k jm",
+        "url": "https://os.mbed.com/users/master_k1/"
+    },
+    "dependencies": [
+        {
+            "authors": "Samuel Mokrani",
+            "frameworks": "mbed",
+            "name": "MbedJSONValue"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "mbed-http"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "HTS221"
+        }
+    ],
+    "description": "thingspark example",
+    "frameworks": "mbed",
+    "keywords": "thingspark example",
+    "name": "thingspark example",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/master_k1/code/thingspark-example/"
+    }
+}

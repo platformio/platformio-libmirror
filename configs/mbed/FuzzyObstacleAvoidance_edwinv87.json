@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Edwin Vans",
+        "url": "https://os.mbed.com/users/edwinv87/"
+    },
+    "description": "Implementation of the fuzzy control algorithm for obstacle avoidance. This algorithm is for a two-wheel differential drive robot. It uses distance information from 3 analogue IR range sensors and controls ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "fuzzy logic",
+        "mobile robot",
+        "obstacle avoidance"
+    ],
+    "name": "FuzzyObstacleAvoidance",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/edwinv87/code/FuzzyObstacleAvoidance/"
+    }
+}

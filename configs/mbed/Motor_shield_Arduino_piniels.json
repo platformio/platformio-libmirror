@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Ilsoe Peter",
+        "url": "https://os.mbed.com/users/piniels/"
+    },
+    "description": "Library for arduino step motor shield",
+    "examples": [
+        "https://os.mbed.com/users/piniels/code/HIDTympDeviceWithPIDController/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Motor_shield_Arduino",
+    "name": "Motor_shield_Arduino",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/piniels/code/Motor_shield_Arduino/"
+    }
+}

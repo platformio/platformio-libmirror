@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Karlo Siladi",
+        "url": "https://os.mbed.com/users/spoofer/"
+    },
+    "description": "Test publishing",
+    "frameworks": "mbed",
+    "keywords": "blinky",
+    "name": "blinky",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/spoofer/code/blinky/"
+    }
+}

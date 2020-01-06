@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Nurbol Nurdaulet",
+        "url": "https://os.mbed.com/users/Nurbol/"
+    },
+    "description": "WattBob_TextLCD",
+    "examples": [
+        "https://os.mbed.com/users/Nurbol/code/2sensors_2servo_18_11_11/",
+        "https://os.mbed.com/users/Nurbol/code/2sensors_servo/",
+        "https://os.mbed.com/users/Nurbol/code/2sensors_1servo/",
+        "https://os.mbed.com/users/Nurbol/code/2sensors_2servo/",
+        "https://os.mbed.com/users/Nurbol/code/2sensors_2servo_16_11_11/",
+        "https://os.mbed.com/users/Nurbol/code/2sensors_2servo_17_11_11/",
+        "https://os.mbed.com/users/Nurbol/code/2sensors_2servo_21_11_11/",
+        "https://os.mbed.com/users/Nurbol/code/2sensors_2servo_22_11_11/",
+        "https://os.mbed.com/users/Nurbol/code/2sensors_2servo_23_11_11/",
+        "https://os.mbed.com/users/Nurbol/code/state_machine_24_11_11/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "WattBob_TextLCD",
+    "name": "WattBob_TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Nurbol/code/WattBob_TextLCD/"
+    }
+}

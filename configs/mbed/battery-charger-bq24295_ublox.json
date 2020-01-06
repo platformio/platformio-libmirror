@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "u-blox",
+        "url": "https://os.mbed.com/teams/ublox/"
+    },
+    "description": "This class provides APIs to all of the registers of the TI BQ24295 battery charger chip, as used on the u-blox C030 board. This class is not required to charge ...",
+    "examples": [
+        "https://os.mbed.com/teams/ublox/code/example-battery-charger-bq24295/",
+        "https://os.mbed.com/users/mudassar0121/code/example-C030-out-of-box-demo/",
+        "https://os.mbed.com/teams/ublox/code/example-C030-out-of-box-demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "battery charger",
+        "BQ24295",
+        "C030",
+        "u-blox"
+    ],
+    "name": "battery-charger-bq24295",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ublox/code/battery-charger-bq24295/"
+    }
+}

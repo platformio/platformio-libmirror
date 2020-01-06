@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Wim van der Vegt",
+        "url": "https://os.mbed.com/users/wvd_vegt/"
+    },
+    "description": "A Command Interpreter with support for used defined commands, subsystems, macros, help and parameter parsing.",
+    "examples": [
+        "https://os.mbed.com/users/wvd_vegt/code/Cmdb_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "interpreter",
+        "Serial"
+    ],
+    "name": "CMDB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wvd_vegt/code/CMDB/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "Interrupt based I2C functionality for the LPC1768. (If you want the other one, send a PM and I might make it). Also adds buffer functionality to the I2C bus.",
+    "examples": [
+        "https://os.mbed.com/users/arturocontreras/code/Algoritmo_Fuzzy/",
+        "https://os.mbed.com/users/maetugr/code/FlyBed1/",
+        "https://os.mbed.com/users/maetugr/code/FlyBedLight/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "buffer",
+        "I2C",
+        "interrupt"
+    ],
+    "name": "MODI2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/MODI2C/"
+    }
+}

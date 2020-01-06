@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "EdgeBotix",
+        "url": "https://os.mbed.com/teams/EdgeBotix/"
+    },
+    "dependencies": [
+        {
+            "authors": "Emilie Laverge",
+            "frameworks": "mbed",
+            "name": "CRC16"
+        }
+    ],
+    "description": "Initial Fork",
+    "examples": [
+        "https://os.mbed.com/teams/EdgeBotix/code/eBot_Firmware_V1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HC05",
+    "name": "HC05",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/EdgeBotix/code/HC05/"
+    }
+}

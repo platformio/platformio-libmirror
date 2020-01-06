@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Digi International Inc.",
+        "url": "https://os.mbed.com/teams/Digi-International-Inc/"
+    },
+    "description": "A common library used by Digi International Inc. mbed libraries to output debug information.",
+    "examples": [
+        "https://os.mbed.com/teams/Digi-International-Inc/code/XBeeLib/",
+        "https://os.mbed.com/users/Javier117/code/XBeeLib_Test/",
+        "https://os.mbed.com/users/kingkingyyk/code/Chi-XBee-Actuator/",
+        "https://os.mbed.com/users/kingkingyyk/code/Chi-XBee-Sensor/",
+        "https://os.mbed.com/users/thiago_henrique/code/XBeeLib_vs/",
+        "https://os.mbed.com/users/kkalsi/code/XBeeLib2/",
+        "https://os.mbed.com/users/mikaelbro/code/XBeeLib/",
+        "https://os.mbed.com/teams/Pequi-Mecanico-Robotic-Soccer-Team/code/XBeeLib/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DigiLogger",
+    "name": "DigiLogger",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Digi-International-Inc/code/DigiLogger/"
+    }
+}

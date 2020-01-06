@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Abe Takumi",
+        "url": "https://os.mbed.com/users/YSB/"
+    },
+    "description": "for CAN communication between two mbeds",
+    "frameworks": "mbed",
+    "keywords": "myCAN",
+    "name": "myCAN",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/YSB/code/myCAN/"
+    }
+}

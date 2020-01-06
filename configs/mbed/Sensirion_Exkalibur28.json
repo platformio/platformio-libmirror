@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Michael Gulsch",
+        "url": "https://os.mbed.com/users/Exkalibur28/"
+    },
+    "description": "Library to make an easy connection of mbed and a Sensirion SHT7x Temperature/Humidity Sensor.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Humidity",
+        "Sensirion",
+        "sensor",
+        "SHT71",
+        "SHT75",
+        "SHT7x",
+        "Temperature"
+    ],
+    "name": "Sensirion",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Exkalibur28/code/Sensirion/"
+    }
+}

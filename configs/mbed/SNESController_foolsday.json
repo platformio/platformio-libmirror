@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "daniel veilleux",
+        "url": "https://os.mbed.com/users/foolsday/"
+    },
+    "description": "A simple class for reading button presses from a Super Nintendo (SNES) controller. Requires access to the controller's latch, clock, and data pins.",
+    "frameworks": "mbed",
+    "keywords": "SNES",
+    "name": "SNESController",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/foolsday/code/SNESController/"
+    }
+}

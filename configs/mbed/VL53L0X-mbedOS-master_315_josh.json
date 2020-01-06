@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Joshua Adi",
+        "url": "https://os.mbed.com/users/315_josh/"
+    },
+    "description": "baca lidar aja",
+    "examples": [
+        "https://os.mbed.com/teams/KRAI-ITB-2019/code/VL53L0X-mbedOS-master/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "VL53L0X-mbedOS-master",
+    "name": "VL53L0X-mbedOS-master",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/315_josh/code/VL53L0X-mbedOS-master/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Jamie Smith",
+        "url": "https://os.mbed.com/users/MultipleMonomials/"
+    },
+    "description": "Fully featured I2C driver for Hilcrest's BNO080 and FSM300 Inertial Measurement Units.",
+    "examples": [
+        "https://os.mbed.com/users/MultipleMonomials/code/BNO080-Examples/",
+        "https://os.mbed.com/users/Edrum_x/code/BNO080-Examples/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BNO080",
+        "FSM300",
+        "IMU"
+    ],
+    "name": "BNO080",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MultipleMonomials/code/BNO080/"
+    }
+}

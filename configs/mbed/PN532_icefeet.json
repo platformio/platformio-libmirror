@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Nicky Heuperman",
+        "url": "https://os.mbed.com/users/icefeet/"
+    },
+    "description": "PN532 library with added ultralight write support",
+    "frameworks": "mbed",
+    "keywords": [
+        "PN532",
+        "ULTRALIGHT"
+    ],
+    "name": "PN532",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/icefeet/code/PN532/"
+    }
+}

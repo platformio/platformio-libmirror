@@ -3,6 +3,11 @@
         "name": "Azure IoT",
         "url": "https://os.mbed.com/users/AzureIoTClient/"
     },
+    "build": {
+        "flags": [
+            "-Iazure_umqtt_c"
+        ]
+    },
     "description": "A small footprint MQTT library",
     "examples": [
         "https://os.mbed.com/users/DieterGraef/code/STM32F746_iothub_client_sample_mqtt/",

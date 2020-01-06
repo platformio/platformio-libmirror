@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Simon Hilsenbeck",
+        "url": "https://os.mbed.com/users/simon_stm/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "BSP_DISCO_F746NG"
+        }
+    ],
+    "description": "Stream text on the LCD_DISCO_F746NG TFT screeen.",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "LCD",
+        "print",
+        "screen",
+        "stream",
+        "text",
+        "TFT"
+    ],
+    "name": "TftStream",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/simon_stm/code/TftStream/"
+    }
+}

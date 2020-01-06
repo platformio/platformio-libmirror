@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "USBJoystick updated for 32 buttons and added wait-for-connect.",
+    "examples": [
+        "https://os.mbed.com/users/wim/code/USBJoystick_HelloWorld2/",
+        "https://os.mbed.com/users/cblackstone7/code/GamePortAdapter/",
+        "https://os.mbed.com/users/Letme/code/USBJoyFromRC/",
+        "https://os.mbed.com/users/fabdu117/code/Retro_Controller_Adaptor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "joystick",
+        "USB"
+    ],
+    "name": "USBJoystick",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/USBJoystick/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Oscar de Jesus Vasquez",
+        "url": "https://os.mbed.com/users/oscarvzfz/"
+    },
+    "description": "libreria para manejo de easy driver",
+    "examples": [
+        "https://os.mbed.com/users/oscarvzfz/code/CordinateMachine/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "stepper",
+    "name": "stepper",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/oscarvzfz/code/stepper/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "philippe s.",
+        "url": "https://os.mbed.com/users/neurofun/"
+    },
+    "description": "mbed library sources. Supersedes mbed-src. Fixes analogIn and analogOut problems for TARGET_STM32F3. Tested on NUCLEO-F303K8, using 3 analogout and 7 analogin channels simultaneously. Added ability for STM32F334R8 and STM32F303K8 to ...",
+    "frameworks": "mbed",
+    "keywords": "mbed-dev",
+    "name": "mbed-dev",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/neurofun/code/mbed-dev/"
+    }
+}

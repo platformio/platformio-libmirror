@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "Class library for internal ADC and DAC connected by SPI. ADC is triggered by TIM2. This library support clock generator using TIM3 for switched-capacitor filter to smooth output signal of ...",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_MovingAverage/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_AllpassReverb/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_CombReverb/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_FIR_LPF_Symmetry/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_FIR_LPF_Transposed/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_IIR_1stOrder/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_ReverbAllpassClass/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_ReverbCombClass/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_SinGenerator_IirFilter/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_SinGenerator_SinFunction/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AD",
+        "da",
+        "Nucleo",
+        "SPI"
+    ],
+    "name": "UIT_ADDA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/UIT_ADDA/"
+    }
+}

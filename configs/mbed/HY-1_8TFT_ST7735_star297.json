@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Paul Staron",
+        "url": "https://os.mbed.com/users/star297/"
+    },
+    "dependencies": [
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "BurstSPI"
+        }
+    ],
+    "description": "Chinese module HY-1.8 SPI TFT lcd Display library.",
+    "examples": [
+        "https://os.mbed.com/users/star297/code/KL25Z_DCF77_HY-1_8LCD/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "HY-1.8",
+        "ST7735"
+    ],
+    "name": "HY-1_8TFT_ST7735",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/star297/code/HY-1_8TFT_ST7735/"
+    }
+}

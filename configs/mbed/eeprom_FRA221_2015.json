@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "FRA221_2015",
+        "url": "https://os.mbed.com/teams/FRA221_2015/"
+    },
+    "description": "lib eeprom",
+    "examples": [
+        "https://os.mbed.com/teams/FRA221_2015/code/Nucleo_eeprom/",
+        "https://os.mbed.com/teams/PuG/code/eepromlab/",
+        "https://os.mbed.com/teams/TOMB/code/0508Lab_eeprom/",
+        "https://os.mbed.com/teams/TOMB/code/0720_Lab5/",
+        "https://os.mbed.com/teams/TOMB/code/0508_Lab5/",
+        "https://os.mbed.com/teams/SweiLz/code/SweiLz_Eeprom_24LC64/",
+        "https://os.mbed.com/teams/ORDY_Vector/code/Nucleo_Lab5_Finish/",
+        "https://os.mbed.com/teams/FRA221_7B/code/Nucleo_eeprom/",
+        "https://os.mbed.com/teams/Digital-B14/code/ee/",
+        "https://os.mbed.com/teams/Digital-B14/code/DogPID/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "eeprom",
+    "name": "eeprom",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/FRA221_2015/code/eeprom/"
+    }
+}

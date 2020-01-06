@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "USNA ES202",
+        "url": "https://os.mbed.com/teams/USNA-ES202/"
+    },
+    "description": "Tachometer library",
+    "examples": [
+        "https://os.mbed.com/teams/USNA-ES202/code/ES202_FinalProject_workingExample/",
+        "https://os.mbed.com/teams/Final-Project-ES202-KANG-TRUONG-ADAMS/code/DREAMTEAM/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Tach",
+    "name": "Tach",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/USNA-ES202/code/Tach/"
+    }
+}

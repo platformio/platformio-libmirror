@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Evo Bot",
+        "url": "https://os.mbed.com/users/Throwbot/"
+    },
+    "dependencies": [
+        {
+            "authors": "Dave Van Wagner",
+            "frameworks": "mbed",
+            "name": "SWSPI"
+        }
+    ],
+    "description": "Software SPI allows non-standard SPI pins to be used for interfacing with SPI devices",
+    "frameworks": "mbed",
+    "keywords": "SPI",
+    "name": "ADNS5090",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Throwbot/code/ADNS5090/"
+    }
+}

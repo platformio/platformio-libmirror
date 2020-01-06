@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "lzbp li",
+        "url": "https://os.mbed.com/users/lzbpli/"
+    },
+    "description": "stm32l053 eeprom",
+    "frameworks": "mbed",
+    "keywords": [
+        "EEPROM",
+        "read",
+        "stm32"
+    ],
+    "name": "eeprom",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lzbpli/code/eeprom/"
+    }
+}

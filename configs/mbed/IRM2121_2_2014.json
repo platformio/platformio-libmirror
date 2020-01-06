@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "CatPot 2015-2016",
+        "url": "https://os.mbed.com/teams/2014/"
+    },
+    "description": "DigitalIn，Timer を使用した ボール検知用ライブラリ",
+    "examples": [
+        "https://os.mbed.com/teams/2014/code/CatPot_SensorRight_F/",
+        "https://os.mbed.com/teams/2014/code/CatPot_SensorRight_T/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "IRM2121_2",
+    "name": "IRM2121_2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/2014/code/IRM2121_2/"
+    }
+}

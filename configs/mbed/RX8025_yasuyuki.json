@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "yasuyuki onodera",
+        "url": "https://os.mbed.com/users/yasuyuki/"
+    },
+    "description": "RX8025 library",
+    "examples": [
+        "https://os.mbed.com/users/yasuyuki/code/mbed_RX8025/",
+        "https://os.mbed.com/users/jk1lot/code/MAPLEminiA/",
+        "https://os.mbed.com/users/mshimo/code/MAPLEminiA/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "RX8025",
+    "name": "RX8025",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yasuyuki/code/RX8025/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "雄介 太田",
+        "url": "https://os.mbed.com/users/yusuke_kyo/"
+    },
+    "description": "ｵﾑﾛﾝのMEMS熱センサー",
+    "examples": [
+        "https://os.mbed.com/users/yusuke_kyo/code/YOZAKURA_ARM/",
+        "https://os.mbed.com/users/yusuke_kyo/code/YOZAKURA_ARM_USB/",
+        "https://os.mbed.com/users/yusuke_kyo/code/YOZAKURA_ARM_USB_Keyboard/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MEMS_Thermal_Sensor",
+    "name": "MEMS_Thermal_Sensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yusuke_kyo/code/MEMS_Thermal_Sensor/"
+    }
+}

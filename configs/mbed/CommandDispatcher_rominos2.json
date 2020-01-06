@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Romain Berrada",
+        "url": "https://os.mbed.com/users/rominos2/"
+    },
+    "description": "A light Command Dispatcher Library with commands linked to your functions.",
+    "examples": [
+        "https://os.mbed.com/users/danjulio/code/Rocket/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "command",
+    "name": "CommandDispatcher",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rominos2/code/CommandDispatcher/"
+    }
+}

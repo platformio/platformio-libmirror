@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "michael hollegha",
+        "url": "https://os.mbed.com/users/hollegha2/"
+    },
+    "description": "Serial Lib for Process-Visualisation with SvVis3",
+    "examples": [
+        "https://os.mbed.com/teams/5ABELI/code/ProcVisDemo1/",
+        "https://os.mbed.com/teams/5ABELI/code/bluetooth_0110/",
+        "https://os.mbed.com/teams/Diplomarbeit_blimp/code/Ansteuerung_motor_2509/",
+        "https://os.mbed.com/teams/Diplomarbeit_blimp/code/bluetooth_0110/",
+        "https://os.mbed.com/teams/Diplomarbeit_blimp/code/Matura_Bluethooth_Ansterung_Motoren/",
+        "https://os.mbed.com/teams/Diplomarbeit_blimp/code/Bluethootwithrightleftandticker/",
+        "https://os.mbed.com/users/hollegha2/code/ProcVisDemo/",
+        "https://os.mbed.com/teams/DA_SteiraSchieder/code/DA_MotorTest/",
+        "https://os.mbed.com/users/hollegha2/code/ScanfNonBlocking/",
+        "https://os.mbed.com/teams/5ABELI1/code/ProcVisDemo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ProcVis",
+    "name": "Serial_HL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hollegha2/code/Serial_HL/"
+    }
+}

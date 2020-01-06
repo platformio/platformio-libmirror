@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Goncalo Costa",
+        "url": "https://os.mbed.com/users/goncaloc/"
+    },
+    "description": "Control the Pololu SMC02B",
+    "frameworks": "mbed",
+    "keywords": [
+        "controller",
+        "motor",
+        "Serial"
+    ],
+    "name": "SMC02B",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/goncaloc/code/SMC02B/"
+    }
+}

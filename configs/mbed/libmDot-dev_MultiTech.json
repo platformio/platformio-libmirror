@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "MultiTech",
+        "url": "https://os.mbed.com/teams/MultiTech/"
+    },
+    "description": "Bleeding edge development version of the mDot library. This version of the library is not guaranteed to be stable or well tested and should not be used in production or ...",
+    "examples": [
+        "https://os.mbed.com/teams/MultiTech/code/mDot_LoRa_CLASS_C_P2P/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Lora",
+        "mdot",
+        "multitech"
+    ],
+    "name": "libmDot-dev",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MultiTech/code/libmDot-dev/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Manuel Caballero",
+        "url": "https://os.mbed.com/users/mcm/"
+    },
+    "description": "Indoor Air Quality Sensor Module",
+    "frameworks": "mbed",
+    "keywords": [
+        "AMS",
+        "CO2",
+        "driver",
+        "I2C",
+        "iAQ-Core",
+        "library",
+        "TVOC",
+        "VOC"
+    ],
+    "name": "iAQ_Core",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mcm/code/iAQ_Core/"
+    }
+}

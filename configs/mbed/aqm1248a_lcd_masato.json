@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Masato YAMANISHI",
+        "url": "https://os.mbed.com/users/masato/"
+    },
+    "description": "LCD library for Akizuki AQM1248A graphic LCD module",
+    "examples": [
+        "https://os.mbed.com/users/TareObjects/code/FRDM_MAG3110/",
+        "https://os.mbed.com/users/masato/code/Nucleo_AQM1248A/",
+        "https://os.mbed.com/users/masato/code/Nucleo_AQM1248A_GT20L16J1Y/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "NUCLEO_L152RE"
+    ],
+    "name": "aqm1248a_lcd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/masato/code/aqm1248a_lcd/"
+    }
+}

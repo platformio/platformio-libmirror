@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Lucas Ezequiel Blanco",
+        "url": "https://os.mbed.com/users/Lucas_eb/"
+    },
+    "description": "Xbee Bluetooth, una librería modificada para la configuracion y protocolo de comunicación",
+    "frameworks": "mbed",
+    "keywords": "BluetoothBee",
+    "name": "BluetoothBee",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Lucas_eb/code/BluetoothBee/"
+    }
+}

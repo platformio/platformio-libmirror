@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Shivanand Gowda",
+        "url": "https://os.mbed.com/users/shivanandgowdakr/"
+    },
+    "description": "128K Serial EEPROM read write erase chip erase functions SPI EEPROM Nucleo F767ZI",
+    "examples": [
+        "https://os.mbed.com/users/shivanandgowdakr/code/SPI_EEPROM/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "EEPROM",
+        "F767ZI",
+        "Nucleo",
+        "Serial",
+        "SPI"
+    ],
+    "name": "EE25LC1024",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shivanandgowdakr/code/EE25LC1024/"
+    }
+}

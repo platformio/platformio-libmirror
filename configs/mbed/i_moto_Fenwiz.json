@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Pete Isley",
+        "url": "https://os.mbed.com/users/Fenwiz/"
+    },
+    "description": "Interrupt driven PWM motor controller. Let the interrupt update the PWM leaving your main program free for other tasks. The acceleration (ramp up) and deceleration (ramp down) between zero power ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "control",
+        "interrupt",
+        "motor",
+        "pwm",
+        "ramps"
+    ],
+    "name": "i_moto",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Fenwiz/code/i_moto/"
+    }
+}

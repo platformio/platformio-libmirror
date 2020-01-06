@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "DISCO_F413ZH_WIFI"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "WIFI http server example based on ST BSP WIFI driver.",
+    "frameworks": "mbed",
+    "keywords": "DISCO_F413ZH-WIFI-http-server",
+    "name": "DISCO_F413ZH-WIFI-http-server",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/DISCO_F413ZH-WIFI-http-server/"
+    }
+}

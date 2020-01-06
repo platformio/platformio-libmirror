@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Junichi Katsu",
+        "url": "https://os.mbed.com/users/jksoft/"
+    },
+    "dependencies": [
+        {
+            "authors": "Junichi Katsu",
+            "frameworks": "mbed",
+            "name": "MQTT"
+        }
+    ],
+    "description": "データの保存、更新、取得ができるWebサービス「milkcocoa」に接続し、データのプッシュ、送信、取得ができるライブラリです。 https://mlkcca.com/",
+    "examples": [
+        "https://os.mbed.com/users/jksoft/code/MilkcocoaSample/",
+        "https://os.mbed.com/users/jksoft/code/MilkcocoaSampleESP8266_LED/",
+        "https://os.mbed.com/users/jksoft/code/MilkcocoaSampleESP8266/",
+        "https://os.mbed.com/users/jksoft/code/MilkcocoaSample_3G/",
+        "https://os.mbed.com/users/jksoft/code/MilkcocoaSampleESP8266_Temp/",
+        "https://os.mbed.com/users/xianon/code/M3GIM2MilkcocoaSample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ESP8266",
+        "milkcocoa"
+    ],
+    "name": "Milkcocoa",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jksoft/code/Milkcocoa/"
+    }
+}

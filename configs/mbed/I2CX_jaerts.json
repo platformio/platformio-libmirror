@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Joris Aerts",
+        "url": "https://os.mbed.com/users/jaerts/"
+    },
+    "description": "Modified I2C api to work with NRF's dynamic pin asignment.",
+    "examples": [
+        "https://os.mbed.com/users/grassel/code/Seed_Barometer_Sensor_custom_I2C_lib/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "BLE",
+        "I2C",
+        "nordig"
+    ],
+    "name": "I2CX",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jaerts/code/I2CX/"
+    }
+}

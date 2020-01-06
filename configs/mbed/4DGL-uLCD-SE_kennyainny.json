@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Kehinde Aina",
+        "url": "https://os.mbed.com/users/kennyainny/"
+    },
+    "description": "4DGL-uLCD-SE",
+    "examples": [
+        "https://os.mbed.com/teams/ECE-2035-TA/code/ECE2035_SUM17_Project/",
+        "https://os.mbed.com/users/CharlesXu/code/Air_Rendezvous_transmitter/",
+        "https://os.mbed.com/users/CharlesXu/code/Transmitter/",
+        "https://os.mbed.com/teams/4180-yoloswag/code/app-board-RTOS-Threads/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "4DGL-uLCD-SE",
+    "name": "4DGL-uLCD-SE",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kennyainny/code/4DGL-uLCD-SE/"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Whitworth-EN173-Resources",
+        "url": "https://os.mbed.com/teams/Whitworth-EN173-Resources/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "Uses a more recent version of official mbed libraries than that of Neil Thiessen",
+    "examples": [
+        "https://os.mbed.com/users/croberts21/code/ThermalWake/",
+        "https://os.mbed.com/users/hudakz/code/STM32F407VET6_SDCard/",
+        "https://os.mbed.com/users/hudakz/code/STM32F407VET6_SD_HTTP_Server/",
+        "https://os.mbed.com/teams/SilentSensors/code/ZZ_SSL_Main_L476/",
+        "https://os.mbed.com/users/hudakz/code/STM32F103C8T6_SDCard/",
+        "https://os.mbed.com/users/WaleedElmughrabi/code/Sample_program_Font72/",
+        "https://os.mbed.com/users/jschilling22/code/logTemp/",
+        "https://os.mbed.com/users/mlochridge22/code/nearSpace_actual/",
+        "https://os.mbed.com/users/ccalderon22/code/cosmicRaySheilding/",
+        "https://os.mbed.com/users/hzelayasolano22/code/ThermalWake2019Code/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Whitworth-EN173-Resources/code/SDFileSystem/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Seeed",
+        "url": "https://os.mbed.com/teams/Seeed/"
+    },
+    "description": "Grove Air Quality Sensor library. Simple interrupt driven library that polls the sensor every 2 seconds and reports on the air quality.",
+    "frameworks": "mbed",
+    "keywords": [
+        "AirQuality",
+        "Grove",
+        "Seeed",
+        "sensor"
+    ],
+    "name": "Grove_Air_Quality_Sensor_Library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Seeed/code/Grove_Air_Quality_Sensor_Library/"
+    }
+}

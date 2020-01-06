@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Takashi Matsuoka",
+        "url": "https://os.mbed.com/users/matsujirushi/"
+    },
+    "description": "Command line interface for UART.",
+    "frameworks": "mbed",
+    "keywords": "MjLineSerial",
+    "name": "MjLineSerial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/matsujirushi/code/MjLineSerial/"
+    }
+}

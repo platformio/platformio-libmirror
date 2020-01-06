@@ -1,0 +1,40 @@
+{
+    "authors": {
+        "name": "Mihail Stoyanov",
+        "url": "https://os.mbed.com/users/screamer/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "Socket"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "USBHost"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "lwip-sys"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "lwip"
+        }
+    ],
+    "description": "fork of VodafoneUSBModem with updated USBHost library",
+    "examples": [
+        "https://os.mbed.com/users/screamer/code/VodafoneUSBModemSMSTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "VodafoneUSBModem",
+    "name": "VodafoneUSBModem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/screamer/code/VodafoneUSBModem/"
+    }
+}

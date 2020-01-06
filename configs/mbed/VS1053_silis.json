@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Vassilis Serasidis",
+        "url": "https://os.mbed.com/users/silis/"
+    },
+    "description": "A simple library for decoding MP3 files with the VS1053 CoDec chip. The initial library was written by Kaoru Onoe. The library is patched to work with some \"LC Technology\" ...",
+    "examples": [
+        "https://os.mbed.com/users/silis/code/W7500_and_VS1053_MP3_decoder/",
+        "https://os.mbed.com/teams/WIZnet/code/VS1053_MP3_decoder_WIZwiki-W7500/",
+        "https://os.mbed.com/users/jackcom/code/VS1053Player/",
+        "https://os.mbed.com/users/few2net/code/Scat/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mp3",
+        "VS1053",
+        "W7500",
+        "WIZwiki"
+    ],
+    "name": "VS1053",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/silis/code/VS1053/"
+    }
+}

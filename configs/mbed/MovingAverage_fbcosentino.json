@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Fernando Cosentino",
+        "url": "https://os.mbed.com/users/fbcosentino/"
+    },
+    "description": "Class for automatic handling of moving averages.",
+    "frameworks": "mbed",
+    "keywords": "MovingAverage",
+    "name": "MovingAverage",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fbcosentino/code/MovingAverage/"
+    }
+}

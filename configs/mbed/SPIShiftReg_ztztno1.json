@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "ぐり (tessecraft)",
+        "url": "https://os.mbed.com/users/ztztno1/"
+    },
+    "description": "The library for Shift Register (ex. 74595).",
+    "examples": [
+        "https://os.mbed.com/teams/rcj2015tessecraft/code/888LEDCUBE_RGB/",
+        "https://os.mbed.com/teams/1472953294/code/888LEDCUBE_RGB/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SPIShiftReg",
+    "name": "SPIShiftReg",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ztztno1/code/SPIShiftReg/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Keiji Muro",
+        "url": "https://os.mbed.com/users/66keg/"
+    },
+    "description": "Library for accelerometer KXR94-2050",
+    "frameworks": "mbed",
+    "keywords": "KXR94_2050",
+    "name": "KXR94_2050",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/66keg/code/KXR94_2050/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Seo-young Yoon",
+        "url": "https://os.mbed.com/users/ysy00700/"
+    },
+    "description": "Air_Quality Sensor Library",
+    "examples": [
+        "https://os.mbed.com/users/ysy00700/code/mbed_Wiznet_W7500/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Air_Quality",
+    "name": "Air_Quality",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ysy00700/code/Air_Quality/"
+    }
+}

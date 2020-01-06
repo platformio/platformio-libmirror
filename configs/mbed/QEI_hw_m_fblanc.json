@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "frederic blanc",
+        "url": "https://os.mbed.com/users/fblanc/"
+    },
+    "description": "control speed motor PID QEIHW MOTOR",
+    "frameworks": "mbed",
+    "keywords": "QEI_hw_m",
+    "name": "QEI_hw_m",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/fblanc/code/QEI_hw_m/"
+    }
+}

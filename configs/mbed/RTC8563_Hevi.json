@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Dani Hevi",
+        "url": "https://os.mbed.com/users/Hevi/"
+    },
+    "description": "RTC Library",
+    "examples": [
+        "https://os.mbed.com/users/Hevi/code/rtc_class2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "RTC",
+    "name": "RTC8563",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Hevi/code/RTC8563/"
+    }
+}

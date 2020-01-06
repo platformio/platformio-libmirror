@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "X_NUCLEO_COMMON"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "ST_INTERFACES"
+        }
+    ],
+    "description": "Library to handle the X_NUCLEO_IHM02A1 Motor Control Expansion Board based on the L6470 component.",
+    "examples": [
+        "https://os.mbed.com/teams/ST/code/HelloWorld_IHM02A1/",
+        "https://os.mbed.com/teams/TESTTESTEST-TEST/code/ConcorsoFinal/",
+        "https://os.mbed.com/teams/ST/code/HelloWorld_IHM02A1_mbedOS/",
+        "https://os.mbed.com/users/Robby/code/HelloWorld_IHM02A1-Serialinterpreter/",
+        "https://os.mbed.com/users/emperord/code/Active-WolfMan_V2-5-All-Frank-Board-Func/",
+        "https://os.mbed.com/users/JimmyAREM/code/odometrieDecembre/",
+        "https://os.mbed.com/users/Coconara/code/Asserve/",
+        "https://os.mbed.com/teams/CreaLab/code/MJBot2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "X_NUCLEO_IHM02A1",
+    "name": "X_NUCLEO_IHM02A1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/X_NUCLEO_IHM02A1/"
+    }
+}

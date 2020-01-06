@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "V09",
+        "url": "https://os.mbed.com/teams/V09/"
+    },
+    "description": "menu für die LCD Anzeige",
+    "frameworks": "mbed",
+    "keywords": "menu",
+    "name": "menu",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/V09/code/menu/"
+    }
+}

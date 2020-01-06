@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Simon Ford",
+        "url": "https://os.mbed.com/users/simon/"
+    },
+    "description": "Interface for an LIS302 accelerometer, using the SPI interface",
+    "examples": [
+        "https://os.mbed.com/users/simon/code/LIS302_HelloWorld/",
+        "https://os.mbed.com/users/havri/code/mbed_line_camera/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "LIS302",
+        "SPI"
+    ],
+    "name": "LIS302",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/simon/code/LIS302/"
+    }
+}

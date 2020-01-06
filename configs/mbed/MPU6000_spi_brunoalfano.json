@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Bruno Alfano",
+        "url": "https://os.mbed.com/users/brunoalfano/"
+    },
+    "description": "MPU6000 library to get accelerometer, gyroscope and temperature readings via SPI.",
+    "frameworks": "mbed",
+    "keywords": [
+        "gyro",
+        "gyroscope",
+        "IMU",
+        "invensense",
+        "MPU",
+        "MPU6000"
+    ],
+    "name": "MPU6000_spi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/brunoalfano/code/MPU6000_spi/"
+    }
+}

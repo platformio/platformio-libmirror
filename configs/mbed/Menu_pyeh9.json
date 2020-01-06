@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Peihsun Yeh",
+        "url": "https://os.mbed.com/users/pyeh9/"
+    },
+    "description": "Library of menu structure",
+    "examples": [
+        "https://os.mbed.com/users/pyeh9/code/lcd_menu/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Menu",
+    "name": "Menu",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pyeh9/code/Menu/"
+    }
+}

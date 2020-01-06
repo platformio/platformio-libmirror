@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "AST_Day_Contest",
+        "url": "https://os.mbed.com/teams/AST_Day_Contest/"
+    },
+    "description": "This example project explains the following: * Reading and writing NFC tag * Use Flash storage to store Javascript source code which can be executed when the board is turned ...",
+    "frameworks": "mbed",
+    "keywords": "mbed-js-st-fw-nfc02a1-example",
+    "name": "mbed-js-st-fw-nfc02a1-example",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/AST_Day_Contest/code/mbed-js-st-fw-nfc02a1-example/"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Labi Shrestha",
+        "url": "https://os.mbed.com/users/labishrestha/"
+    },
+    "description": "Arch GPRS V2 HW Library Created from the Arch GPRS HW DEMO",
+    "examples": [
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/roam_v2/",
+        "https://os.mbed.com/users/mbotkinl/code/finalV1/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalV1/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalv2/",
+        "https://os.mbed.com/teams/Cellular-building-monitoring/code/finalv3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ARCH",
+        "GPRS",
+        "Seeed",
+        "v2"
+    ],
+    "name": "ARCH_GPRS_V2_HW",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/labishrestha/code/ARCH_GPRS_V2_HW/"
+    }
+}

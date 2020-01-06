@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "napoleon leoni",
+        "url": "https://os.mbed.com/users/nleoni/"
+    },
+    "description": "supports interrup handling within mbed rtos, using rtos compatible threads and timer threads",
+    "frameworks": "mbed",
+    "keywords": "DebounceIntRTOS",
+    "name": "DebounceIntRTOS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nleoni/code/DebounceIntRTOS/"
+    }
+}

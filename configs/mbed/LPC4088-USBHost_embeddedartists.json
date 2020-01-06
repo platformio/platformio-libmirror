@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "EmbeddedArtists AB",
+        "url": "https://os.mbed.com/users/embeddedartists/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        }
+    ],
+    "description": "Fork to update libraries and fix disk_read/disk_write functions",
+    "examples": [
+        "https://os.mbed.com/users/embeddedartists/code/lpc4088_qsb_usbhost/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LPC4088QSB",
+        "MSD",
+        "USBHOST"
+    ],
+    "name": "LPC4088-USBHost",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/embeddedartists/code/LPC4088-USBHost/"
+    }
+}

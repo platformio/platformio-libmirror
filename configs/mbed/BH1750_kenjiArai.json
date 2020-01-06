@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "Digital 16bit Serial Output Type Ambient Light Sensor IC by ROHM, Ambient light sensor (Illuminance to digital converter)",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "illuminance",
+        "ROHM"
+    ],
+    "name": "BH1750",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/BH1750/"
+    }
+}

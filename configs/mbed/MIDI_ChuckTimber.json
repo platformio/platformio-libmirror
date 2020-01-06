@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Chuck Timber",
+        "url": "https://os.mbed.com/users/ChuckTimber/"
+    },
+    "description": "MIDI lib for Gemphet8 localized",
+    "examples": [
+        "https://os.mbed.com/users/ChuckTimber/code/Gemphet8/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MIDI",
+    "name": "MIDI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ChuckTimber/code/MIDI/"
+    }
+}

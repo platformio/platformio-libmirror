@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Sakai Ritaro",
+        "url": "https://os.mbed.com/users/ritarosakai/"
+    },
+    "description": "Library for KT0915, DSP radio IC",
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "KT0915",
+        "KTMicro"
+    ],
+    "name": "KT0915",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ritarosakai/code/KT0915/"
+    }
+}

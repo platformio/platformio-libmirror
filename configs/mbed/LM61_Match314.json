@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Match Lab",
+        "url": "https://os.mbed.com/users/Match314/"
+    },
+    "description": "library for using LM61.",
+    "examples": [
+        "https://os.mbed.com/users/Match314/code/Thermometer/",
+        "https://os.mbed.com/users/mabenim/code/TMP36_Anlog_temperature_read/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LM61",
+    "name": "LM61",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Match314/code/LM61/"
+    }
+}

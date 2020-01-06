@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Robert Linn-Moran",
+        "url": "https://os.mbed.com/users/rlinnmoran/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "Fork for GSP_6Axis_DataLogger_SD_UDP_K64F",
+    "examples": [
+        "https://os.mbed.com/users/rlinnmoran/code/GPS_6Axis_DataLogger_SD_UDP/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rlinnmoran/code/SDFileSystem/"
+    }
+}

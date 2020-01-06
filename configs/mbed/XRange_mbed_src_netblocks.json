@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Milen Pavlov",
+        "url": "https://os.mbed.com/users/netblocks/"
+    },
+    "description": "Mbed SDK for XRange SX1272 LoRa module",
+    "examples": [
+        "https://os.mbed.com/users/netblocks/code/XRangePingPong/",
+        "https://os.mbed.com/users/netblocks/code/XRange-LoRaWAN-lmic-app/",
+        "https://os.mbed.com/users/trusch/code/lora-transceiver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "XRange_mbed_src",
+    "name": "XRange_mbed_src",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/netblocks/code/XRange_mbed_src/"
+    }
+}

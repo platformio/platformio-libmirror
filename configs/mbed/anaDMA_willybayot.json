@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "WILLY BAYOT",
+        "url": "https://os.mbed.com/users/willybayot/"
+    },
+    "description": "analogIn with DMA",
+    "examples": [
+        "https://os.mbed.com/users/willybayot/code/TDEMNucleo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AnalogIn",
+        "DMA"
+    ],
+    "name": "anaDMA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/willybayot/code/anaDMA/"
+    }
+}

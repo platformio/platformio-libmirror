@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Juan Carlos Gonzales",
+        "url": "https://os.mbed.com/users/metabi814/"
+    },
+    "description": "esp8266 websocket and socket",
+    "frameworks": "mbed",
+    "keywords": "ESP8266",
+    "name": "ESP8266",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/metabi814/code/ESP8266/"
+    }
+}

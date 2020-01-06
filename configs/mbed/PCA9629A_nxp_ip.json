@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "InetrfaceProducts NXP",
+        "url": "https://os.mbed.com/users/nxp_ip/"
+    },
+    "description": "PCA9629A component library",
+    "examples": [
+        "https://os.mbed.com/users/nxp_ip/code/PCA9629A_Hello/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "PCA9629A",
+        "stepper motor",
+        "stepping motor"
+    ],
+    "name": "PCA9629A",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nxp_ip/code/PCA9629A/"
+    }
+}
