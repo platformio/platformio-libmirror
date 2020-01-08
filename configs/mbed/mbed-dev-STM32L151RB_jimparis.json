@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jim Paris",
+        "url": "https://os.mbed.com/users/jimparis/"
+    },
+    "description": "Fork of mbed-dev with the NUCLEO-L152RE target modified for use with the STM32L151RB (128 kB flash, 16 kB RAM).",
+    "frameworks": "mbed",
+    "keywords": "mbed-dev-STM32L151RB",
+    "name": "mbed-dev-STM32L151RB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jimparis/code/mbed-dev-STM32L151RB/"
+    }
+}

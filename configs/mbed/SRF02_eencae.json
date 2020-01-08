@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Craig Evans",
+        "url": "https://os.mbed.com/users/eencae/"
+    },
+    "description": "Simple library for reading distance from SRF02 Ultrasonic Sensor in I2C mode.",
+    "examples": [
+        "https://os.mbed.com/users/ZHAOYIHUI/code/Project_A/",
+        "https://os.mbed.com/users/el13jar/code/el13jarDistanceSensorProject/",
+        "https://os.mbed.com/users/JakBlackburn/code/UltrasonicDistanceSensor-el13jb/",
+        "https://os.mbed.com/users/el13sr/code/Distance_Sensor_SRF02/",
+        "https://os.mbed.com/users/el13a2w/code/UltrasonicSensor/",
+        "https://os.mbed.com/users/200809780/code/ParkingSensor/",
+        "https://os.mbed.com/users/el13eag/code/Car_Parker/",
+        "https://os.mbed.com/users/probrania7/code/Ultrasonic/",
+        "https://os.mbed.com/users/probrania7/code/Ultrasonicdistancesensor/",
+        "https://os.mbed.com/users/probrania7/code/Ultrasonic-timeheae/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SRF02",
+    "name": "SRF02",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/eencae/code/SRF02/"
+    }
+}

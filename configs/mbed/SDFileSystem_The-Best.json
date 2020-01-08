@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "The Best",
+        "url": "https://os.mbed.com/teams/The-Best/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "Publishing an updated SDFileSystem library",
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/The-Best/code/SDFileSystem/"
+    }
+}

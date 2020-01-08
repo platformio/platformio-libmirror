@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Ménagerie Technologique",
+        "url": "https://os.mbed.com/teams/Menagerie-Technologique/"
+    },
+    "description": "CANopen library",
+    "examples": [
+        "https://os.mbed.com/teams/Menagerie-Technologique/code/SDC21XX_Motor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "CANopen",
+    "name": "CANopen_Node",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Menagerie-Technologique/code/CANopen_Node/"
+    }
+}

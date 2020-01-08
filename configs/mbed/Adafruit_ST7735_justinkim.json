@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "justin kim",
+        "url": "https://os.mbed.com/users/justinkim/"
+    },
+    "description": "Adafruit ST7735 Library",
+    "examples": [
+        "https://os.mbed.com/users/justinkim/code/Adafruit_TFT_Shieldv1_graphicstest/",
+        "https://os.mbed.com/users/justinkim/code/Adafruit_TFT_Shieldv1_rotationtest/",
+        "https://os.mbed.com/users/justinkim/code/Adafruit_TFT_Shieldv1_shieldtest/",
+        "https://os.mbed.com/users/OHstin/code/Solar_Powered_Smart_Camera/",
+        "https://os.mbed.com/users/GabrielGoichman/code/IHM_Grafico_PetFinder/",
+        "https://os.mbed.com/users/BETZtechnik/code/accuBlast_display/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "ST7735",
+        "TFT"
+    ],
+    "name": "Adafruit_ST7735",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/justinkim/code/Adafruit_ST7735/"
+    }
+}

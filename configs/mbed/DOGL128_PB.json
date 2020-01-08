@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "PB",
+        "url": "https://os.mbed.com/teams/PB/"
+    },
+    "description": "C12832 by dreschpe modified to work with the DOGL128-6 LCD Display (ST7565R based)",
+    "examples": [
+        "https://os.mbed.com/teams/PB/code/DOGL128Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DOGL",
+        "DOGL128",
+        "LCD",
+        "LCD 128x64",
+        "ST7565",
+        "ST7565R"
+    ],
+    "name": "DOGL128",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PB/code/DOGL128/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Anton Boyt",
+        "url": "https://os.mbed.com/users/margadon/"
+    },
+    "description": "Fork of Freetronics_16x2_LCD class for HD4478 based LCDs with Cyrillic symbols like WH1602 etc. Use puts() for latin and cyrillic texts, symbols. ( ° included)",
+    "frameworks": "mbed",
+    "keywords": [
+        "Cyrillic",
+        "HD4478",
+        "LCD",
+        "Russian",
+        "WH1602"
+    ],
+    "name": "Freetronics_16x2_LCD_Rus",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/margadon/code/Freetronics_16x2_LCD_Rus/"
+    }
+}

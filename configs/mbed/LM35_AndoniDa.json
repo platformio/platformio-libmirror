@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Andoni Davila",
+        "url": "https://os.mbed.com/users/AndoniDa/"
+    },
+    "description": "LM35 sensor",
+    "examples": [
+        "https://os.mbed.com/users/AndoniDa/code/LM35Temperaturesensor/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LM35",
+    "name": "LM35",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AndoniDa/code/LM35/"
+    }
+}

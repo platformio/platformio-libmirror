@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "John Donnal",
+        "url": "https://os.mbed.com/users/jdonnal/"
+    },
+    "description": "Control Hitec HS-475HB or similar servo",
+    "examples": [
+        "https://os.mbed.com/teams/Confetti-Launchers/code/Confetti_Launcher/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Servo",
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jdonnal/code/Servo/"
+    }
+}

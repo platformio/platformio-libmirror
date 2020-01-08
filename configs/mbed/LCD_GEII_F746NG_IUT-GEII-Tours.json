@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "IUT GEII Tours",
+        "url": "https://os.mbed.com/teams/IUT-GEII-Tours/"
+    },
+    "description": "Version de l'IUT GEII de TOURS de la alsse LCD_DISCO_F746G",
+    "examples": [
+        "https://os.mbed.com/teams/IUT-GEII-Tours/code/RadioFM/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LCD_GEII_F746NG",
+    "name": "LCD_GEII_F746NG",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/IUT-GEII-Tours/code/LCD_GEII_F746NG/"
+    }
+}

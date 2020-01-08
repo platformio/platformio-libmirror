@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "psion prime",
+        "url": "https://os.mbed.com/users/psionprime/"
+    },
+    "description": "Change USBSerial.h constructor to allow to label the stream for, eg., redirecting stdin/out/err to a USBSerial object. Will not break existing default use as tested with mbed-os 5.11.5",
+    "examples": [
+        "https://os.mbed.com/users/psionprime/code/max32630fthr_stdout2usb_mbed_v5-11-5/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "5.11.5",
+        "max32630fthr",
+        "Maxim",
+        "redirect",
+        "stdio",
+        "stdout",
+        "usbserial"
+    ],
+    "name": "USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/psionprime/code/USBDevice/"
+    }
+}

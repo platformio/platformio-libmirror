@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Penn Electric",
+        "url": "https://os.mbed.com/users/PennElectric/"
+    },
+    "description": "This library is designed to work with devices like the LM335 temperature sensor. There are only two requirements for compatibility: 1) The device must be a sensor device that has ...",
+    "examples": [
+        "https://os.mbed.com/users/mariosimaremare/code/mbed_measuring_temperature/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Analog",
+        "calculate",
+        "convert",
+        "filter",
+        "Linear",
+        "LM335",
+        "median",
+        "multiplier",
+        "offset",
+        "sensor",
+        "Temperature",
+        "voltage"
+    ],
+    "name": "LinearAnalogSensors",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/PennElectric/code/LinearAnalogSensors/"
+    }
+}

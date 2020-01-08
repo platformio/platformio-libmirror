@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "sandbox",
+        "url": "https://os.mbed.com/teams/sandbox/"
+    },
+    "description": "A simple interface to mbed Device Connector, where you just declare variables to push them to the cloud.",
+    "examples": [
+        "https://os.mbed.com/users/johnlynam2014/code/Wifi_Get_Test_V1/",
+        "https://os.mbed.com/teams/sandbox/code/simple-mbed-client-example/",
+        "https://os.mbed.com/users/MACRUM/code/simple-client-app-shield/",
+        "https://os.mbed.com/users/MACRUM/code/simple-sensor-client/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "simple-mbed-client",
+    "name": "simple-mbed-client",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/sandbox/code/simple-mbed-client/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Bongjun Hur",
+        "url": "https://os.mbed.com/users/Bongjun/"
+    },
+    "description": "W5500 driver for mbed OS 5",
+    "examples": [
+        "https://os.mbed.com/users/Bongjun/code/http-webserver-example/",
+        "https://os.mbed.com/users/Bongjun/code/mbed-os-example-sockets/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "W5500",
+        "W5500Interface"
+    ],
+    "name": "W5500Interface",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Bongjun/code/W5500Interface/"
+    }
+}

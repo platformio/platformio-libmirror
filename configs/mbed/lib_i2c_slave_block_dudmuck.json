@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "wayne roberts",
+        "url": "https://os.mbed.com/users/dudmuck/"
+    },
+    "description": "i2c slave block transfer driver library",
+    "examples": [
+        "https://os.mbed.com/users/dudmuck/code/i2c_slave_block_example/",
+        "https://os.mbed.com/users/dudmuck/code/i2c_lora_slave/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "lib_i2c_slave_block",
+    "name": "lib_i2c_slave_block",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dudmuck/code/lib_i2c_slave_block/"
+    }
+}

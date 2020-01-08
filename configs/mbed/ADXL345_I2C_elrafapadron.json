@@ -5,11 +5,7 @@
     },
     "description": "Remove Chip Select transitions. It affects other devices in the same bus.",
     "frameworks": "mbed",
-    "keywords": [
-        "accelererometer",
-        "ADXL345",
-        "I2C"
-    ],
+    "keywords": "I2C",
     "name": "ADXL345_I2C",
     "platforms": "*",
     "repository": {

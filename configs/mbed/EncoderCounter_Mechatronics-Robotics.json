@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Mechatronics Robotics",
+        "url": "https://os.mbed.com/teams/Mechatronics-Robotics/"
+    },
+    "description": "with speed control, to be merged with pixy stuff",
+    "frameworks": "mbed",
+    "keywords": "EncoderCounter",
+    "name": "EncoderCounter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Mechatronics-Robotics/code/EncoderCounter/"
+    }
+}

@@ -3,28 +3,6 @@
         "name": "Analog Devices",
         "url": "https://os.mbed.com/teams/AnalogDevices/"
     },
-    "build": {
-        "flags": [
-            "-Ilibraries",
-            "-Ilibraries/CN0396",
-            "-Ilibraries/AD7790",
-            "-Ilibraries/Thermocouple",
-            "-Ilibraries/CN0391",
-            "-Ilibraries/ADXL362",
-            "-Ilibraries/AD7791",
-            "-Ilibraries/libserialport",
-            "-Ilibraries/CN0397",
-            "-Ilibraries/AD7798",
-            "-Ilibraries/CN0357",
-            "-Ilibraries/CN0216",
-            "-Ilibraries/ADT7310",
-            "-Ilibraries/CN0398",
-            "-Ilibraries/EVAL_ADXL362_ARDZ",
-            "-Ilibraries/AD5270",
-            "-Ilibraries/AD7124",
-            "-Imbed"
-        ]
-    },
     "description": "A collection of Analog Devices drivers for the mbed platform",
     "frameworks": "mbed",
     "keywords": [

@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Jackson Lv",
+        "url": "https://os.mbed.com/users/Jackson_lv/"
+    },
+    "dependencies": [
+        {
+            "authors": "Jackson Lv",
+            "frameworks": "mbed",
+            "name": "nrf51-sdk"
+        }
+    ],
+    "description": "Nano RGB LED mesh",
+    "examples": [
+        "https://os.mbed.com/users/Jackson_lv/code/BLENano_Mesh/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "nRF51822",
+    "name": "nRF51822",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Jackson_lv/code/nRF51822/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Mac Lobdell",
+        "url": "https://os.mbed.com/users/maclobdell/"
+    },
+    "description": "An in-development library to provide effective access to all features of the FXOS8700CQ on the FRDM-K64F mbed-enabled development board. As of 28 May 2014 1325EDT, the code should be generally ...",
+    "examples": [
+        "https://os.mbed.com/users/maclobdell/code/FXOS8700CQ_Int_example/",
+        "https://os.mbed.com/users/maclobski/code/4_accelerometer/",
+        "https://os.mbed.com/teams/MakingMusicWorkshop/code/4_accelerometer/",
+        "https://os.mbed.com/users/maclobdell/code/shake_to_wake/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "FRDM-K64F",
+        "fxos8700cq"
+    ],
+    "name": "FXOS8700CQ",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/maclobdell/code/FXOS8700CQ/"
+    }
+}

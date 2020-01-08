@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Juan Pablo Viana Villa",
+        "url": "https://os.mbed.com/users/PabloViana/"
+    },
+    "description": "Usada bajo permiso del autor tony63",
+    "examples": [
+        "https://os.mbed.com/users/PabloViana/code/IR-NEC/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "IR",
+        "NEC"
+    ],
+    "name": "Pulse1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/PabloViana/code/Pulse1/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "K IDE",
+        "url": "https://os.mbed.com/users/kelloo/"
+    },
+    "description": "This library can parse CAN data sent by MITSUBA Inverter.",
+    "examples": [
+        "https://os.mbed.com/users/kelloo/code/CANLogger_MITSUBA/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CAN Logger",
+        "MITSUBA"
+    ],
+    "name": "MITSUBA_CAN",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kelloo/code/MITSUBA_CAN/"
+    }
+}

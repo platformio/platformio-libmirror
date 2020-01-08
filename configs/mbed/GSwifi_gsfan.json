@@ -1,0 +1,35 @@
+{
+    "authors": {
+        "name": "gs fan",
+        "url": "https://os.mbed.com/users/gsfan/"
+    },
+    "description": "GainSpan Wi-Fi library see: http://mbed.org/users/gsfan/notebook/gainspan_wifi/",
+    "examples": [
+        "https://os.mbed.com/users/gsfan/code/GSwifi_httpd/",
+        "https://os.mbed.com/users/gsfan/code/GSwifi_websocket/",
+        "https://os.mbed.com/users/gsfan/code/GSwifi_tcpclient/",
+        "https://os.mbed.com/users/gsfan/code/GSwifi_tcpserver/",
+        "https://os.mbed.com/users/gsfan/code/GSwifi_udpserver/",
+        "https://os.mbed.com/users/gsfan/code/GSwifi_https_get/",
+        "https://os.mbed.com/users/gsfan/code/GSwifi_smtp/",
+        "https://os.mbed.com/users/gsfan/code/GSwifi_accesspoint/",
+        "https://os.mbed.com/users/gsfan/code/GSwifi_cosm_pachube/",
+        "https://os.mbed.com/users/gsfan/code/GSwifi_http/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "breakout",
+        "gainspan",
+        "GS1011MIC",
+        "GS1011MIP",
+        "sparkfun",
+        "Wi-Fi",
+        "wifi"
+    ],
+    "name": "GSwifi",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gsfan/code/GSwifi/"
+    }
+}

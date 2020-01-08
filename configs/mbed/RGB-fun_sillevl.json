@@ -3,11 +3,6 @@
         "name": "Sille Van Landschoot",
         "url": "https://os.mbed.com/users/sillevl/"
     },
-    "build": {
-        "flags": [
-            "-Ieffects"
-        ]
-    },
     "description": "simple RGB led library",
     "examples": [
         "https://os.mbed.com/users/sillevl/code/m3Dpi/",

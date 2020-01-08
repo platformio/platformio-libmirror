@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Wim Huiskamp",
+        "url": "https://os.mbed.com/users/wim/"
+    },
+    "description": "Library for TM1637 LEDcontroller",
+    "examples": [
+        "https://os.mbed.com/users/wim/code/mbed_TM1637/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LEDcontroller",
+        "TM1637"
+    ],
+    "name": "TM1637",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/wim/code/TM1637/"
+    }
+}

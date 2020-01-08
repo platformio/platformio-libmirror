@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Jovan Ivković",
+        "url": "https://os.mbed.com/users/JovanEps/"
+    },
+    "description": "\"DHRYSTONE\" Benchmark Program * ----------------------------- * * Version: C, Version 2.1 * * File: dhry.h (part 1 of 3) * * Date: May 25, 1988 * * Author: Reinhold P. ...",
+    "examples": [
+        "https://os.mbed.com/users/JovanEps/code/Benchmark_Dhrystone/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "benchmark",
+        "DHRYSTONE",
+        "Libraray",
+        "program"
+    ],
+    "name": "dhry",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JovanEps/code/dhry/"
+    }
+}

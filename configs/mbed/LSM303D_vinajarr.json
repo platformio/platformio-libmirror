@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Víctor Najarro",
+        "url": "https://os.mbed.com/users/vinajarr/"
+    },
+    "description": "Library for read the sensor LSM303D by I2C and configure the sensor for measure with frecuency 100Hz and range +-2g",
+    "examples": [
+        "https://os.mbed.com/users/vinajarr/code/1-K64F_with_5_acel/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LSM303D",
+    "name": "LSM303D",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vinajarr/code/LSM303D/"
+    }
+}

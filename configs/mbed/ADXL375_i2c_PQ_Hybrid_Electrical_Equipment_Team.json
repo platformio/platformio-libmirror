@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "PQ_Hybrid_Electrical_Equipment_Team",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/"
+    },
+    "description": "3軸加速度センサADXL375のI2Cライブラリ MPU9250では取れないような大きな加速度が取得できます データは粗目です",
+    "examples": [
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/Hybrid_IZU2019/",
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/SWAN_IZU2019_v1/",
+        "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/Shock_Alt_Logger_v2_1/",
+        "https://os.mbed.com/users/sashida_h/code/ADXL375_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ADXL375_i2c",
+    "name": "ADXL375_i2c",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/PQ_Hybrid_Electrical_Equipment_Team/code/ADXL375_i2c/"
+    }
+}

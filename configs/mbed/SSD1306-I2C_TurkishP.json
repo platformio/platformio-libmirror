@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Joseph Kim",
+        "url": "https://os.mbed.com/users/TurkishP/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "trying to publish",
+    "frameworks": "mbed",
+    "keywords": "SSD1306-I2C",
+    "name": "SSD1306-I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/TurkishP/code/SSD1306-I2C/"
+    }
+}

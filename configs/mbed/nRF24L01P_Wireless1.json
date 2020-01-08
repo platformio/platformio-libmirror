@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Wireless",
+        "url": "https://os.mbed.com/teams/Wireless1/"
+    },
+    "description": "implemented enableAutoRetransmit",
+    "examples": [
+        "https://os.mbed.com/teams/Wireless1/code/nRF24L01P_Hello_World/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "nRF24L01P",
+    "name": "nRF24L01P",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Wireless1/code/nRF24L01P/"
+    }
+}

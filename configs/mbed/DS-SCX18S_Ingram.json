@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Indrek Ardel",
+        "url": "https://os.mbed.com/users/Ingram/"
+    },
+    "description": "Wrapper library for controlling servos using Designer Systems DS-SCX18.Shield servo driver. See http://www.designersystems.co.uk/SCX18.S_info.htm",
+    "frameworks": "mbed",
+    "keywords": [
+        "Designer Systems",
+        "DS-SCX18",
+        "DS-SCX18.S",
+        "DS-SCX18.Shield",
+        "I2C",
+        "SCX18",
+        "SCX18.S",
+        "SCX18S",
+        "Servo"
+    ],
+    "name": "DS-SCX18S",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Ingram/code/DS-SCX18S/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Vince Xu",
+        "url": "https://os.mbed.com/users/chenxuleidos/"
+    },
+    "description": "Library for ublox neo 6m",
+    "examples": [
+        "https://os.mbed.com/users/chenxuleidos/code/GPS_Test/",
+        "https://os.mbed.com/users/chenxuleidos/code/GPS1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "GPGGA",
+    "name": "GPS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chenxuleidos/code/GPS/"
+    }
+}

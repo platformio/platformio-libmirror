@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "H29Ateam",
+        "url": "https://os.mbed.com/teams/H29Ateam/"
+    },
+    "description": "PS4 controller Program",
+    "frameworks": "mbed",
+    "keywords": "PS4",
+    "name": "PS4",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/H29Ateam/code/PS4/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Chun Feng Huang",
+        "url": "https://os.mbed.com/users/benson516/"
+    },
+    "description": "A controller that is immune to measurement errors and keep the true states at the desired value, also known as \"Zero-Torque Control\"",
+    "frameworks": "mbed",
+    "keywords": "MEASUREMENT_ERROR_ADAPTATION_CONTROL",
+    "name": "MEASUREMENT_ERROR_ADAPTATION_CONTROL",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/benson516/code/MEASUREMENT_ERROR_ADAPTATION_CONTROL/"
+    }
+}

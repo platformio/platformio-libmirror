@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Marty Laverick",
+        "url": "https://os.mbed.com/users/Martyrtle/"
+    },
+    "description": "A simple library for playing notes",
+    "examples": [
+        "https://os.mbed.com/users/Martyrtle/code/DCGame/",
+        "https://os.mbed.com/teams/ELEC2645-201516/code/el14m2l_Dungeon_Crawler_Game/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "music",
+    "name": "music",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Martyrtle/code/music/"
+    }
+}

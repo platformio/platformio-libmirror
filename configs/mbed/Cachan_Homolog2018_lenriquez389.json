@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Luis Enriquez",
+        "url": "https://os.mbed.com/users/lenriquez389/"
+    },
+    "dependencies": [
+        {
+            "authors": "Luis Enriquez",
+            "frameworks": "mbed",
+            "name": "Moteur"
+        },
+        {
+            "authors": "Luis Enriquez",
+            "frameworks": "mbed",
+            "name": "CACHAN_HOMOG"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "HomologationCachan",
+    "frameworks": "mbed",
+    "keywords": "Cachan_Homolog2018",
+    "name": "Cachan_Homolog2018",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lenriquez389/code/Cachan_Homolog2018/"
+    }
+}

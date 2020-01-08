@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Rodrigo Almeida",
+        "url": "https://os.mbed.com/users/rmaalmeida/"
+    },
+    "description": "Pão de Queijo Development Board. This repo has all libraries from pqdb shield.",
+    "examples": [
+        "https://os.mbed.com/users/rmaalmeida/code/pqdb_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "pqdb",
+    "name": "pqdb",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rmaalmeida/code/pqdb/"
+    }
+}

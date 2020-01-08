@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "ケンタ ミヤザキ",
+        "url": "https://os.mbed.com/users/kenken0721/"
+    },
+    "description": "Serialservo",
+    "examples": [
+        "https://os.mbed.com/users/kenken0721/code/Serialservo_01/",
+        "https://os.mbed.com/users/kenken0721/code/nhk_2018_undercarry_test08/",
+        "https://os.mbed.com/users/kenken0721/code/nhk_2018_undercarry_test09/",
+        "https://os.mbed.com/users/kenken0721/code/nhk_2018_undercarry_test10/",
+        "https://os.mbed.com/users/kenken0721/code/nhk_2018_undercarry_test11/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Serialservo",
+    "name": "Serialservo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenken0721/code/Serialservo/"
+    }
+}

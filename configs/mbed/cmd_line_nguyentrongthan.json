@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Than Nguyen Trong",
+        "url": "https://os.mbed.com/users/nguyentrongthan/"
+    },
+    "description": "parser command line",
+    "examples": [
+        "https://os.mbed.com/users/nguyentrongthan/code/first_pro/",
+        "https://os.mbed.com/users/hoanglv10/code/first_pro/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "cmd_line",
+    "name": "cmd_line",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nguyentrongthan/code/cmd_line/"
+    }
+}

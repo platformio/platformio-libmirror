@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Steven Ventura",
+        "url": "https://os.mbed.com/users/sventura3/"
+    },
+    "description": "Fully functional driver for the DRV88255 stepper motor driver. Includes microstepping, speed, disable and enable.",
+    "examples": [
+        "https://os.mbed.com/users/sventura3/code/Lidar_2D_Mapping/",
+        "https://os.mbed.com/teams/SWTp/code/Water-Play/",
+        "https://os.mbed.com/teams/Water-control/code/Water_pump/",
+        "https://os.mbed.com/teams/TAG-unity/code/Lidar_2D_Mapping/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "motor",
+        "Stepper"
+    ],
+    "name": "DRV88255",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sventura3/code/DRV88255/"
+    }
+}

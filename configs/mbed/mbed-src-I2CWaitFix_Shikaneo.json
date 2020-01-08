@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "rau cha",
+        "url": "https://os.mbed.com/users/Shikaneo/"
+    },
+    "description": "fix for mbed lib issue 3 (i2c problem) see also https://mbed.org/users/mbed_official/code/mbed/issues/3 affected implementations: LPC812, LPC11U24, LPC1768, LPC2368, LPC4088",
+    "frameworks": "mbed",
+    "keywords": "mbed-src-I2CWaitFix",
+    "name": "mbed-src-I2CWaitFix",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Shikaneo/code/mbed-src-I2CWaitFix/"
+    }
+}

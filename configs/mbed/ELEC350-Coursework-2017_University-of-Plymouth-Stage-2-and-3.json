@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "University of Plymouth - Stages 1, 2 and 3",
+        "url": "https://os.mbed.com/teams/University-of-Plymouth-Stage-2-and-3/"
+    },
+    "description": "Library of hardware declarations and utility functions for the ELEC350/1 Practicals and Coursework",
+    "examples": [
+        "https://os.mbed.com/users/thomasmorris/code/ELEC351_v1/",
+        "https://os.mbed.com/teams/ELEC350-CW-TEAM/code/ELEC350-CWTEMPLATE-2017/",
+        "https://os.mbed.com/teams/CMST/code/ELEC350-CWTEMPLATE-2017/",
+        "https://os.mbed.com/teams/University-of-Plymouth-Stage-2-and-3/code/ELEC350-CWTEMPLATE-2018/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ELEC350-Coursework-2017",
+    "name": "ELEC350-Coursework-2017",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/University-of-Plymouth-Stage-2-and-3/code/ELEC350-Coursework-2017/"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "authors": {
+        "name": "Yes We Can",
+        "url": "https://os.mbed.com/teams/Yes-We-Can/"
+    },
+    "dependencies": [
+        {
+            "authors": "Donatien Garnier",
+            "frameworks": "mbed",
+            "name": "DebugLib"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "EthernetInterface"
+        },
+        {
+            "authors": "Ashley Mills",
+            "frameworks": "mbed",
+            "name": "cantcoap"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed-rtos"
+        }
+    ],
+    "description": "Coap Client and Server",
+    "examples": [
+        "https://os.mbed.com/users/arnedesmet/code/COAP/",
+        "https://os.mbed.com/users/de_geeter_alexander/code/coap/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "client",
+        "CoAP",
+        "IOT",
+        "protocol",
+        "server"
+    ],
+    "name": "yeswecancoap",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Yes-We-Can/code/yeswecancoap/"
+    }
+}

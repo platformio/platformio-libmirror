@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Sam Walsh",
+        "url": "https://os.mbed.com/users/EmbeddedSam/"
+    },
+    "description": "Forked from STM32F7 internet for nucleo F746ZG",
+    "examples": [
+        "https://os.mbed.com/users/EmbeddedSam/code/Nucleo_F746ZG_Ethernet_MQTT_Ultrasound/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "F7_Ethernet",
+    "name": "F7_Ethernet",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/EmbeddedSam/code/F7_Ethernet/"
+    }
+}

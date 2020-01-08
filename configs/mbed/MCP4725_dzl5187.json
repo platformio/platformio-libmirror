@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "dengfeng li",
+        "url": "https://os.mbed.com/users/dzl5187/"
+    },
+    "description": "DAC controller interface",
+    "examples": [
+        "https://os.mbed.com/users/dzl5187/code/dac_subsystem/",
+        "https://os.mbed.com/teams/Johnny-Bravo/code/dac_controller/",
+        "https://os.mbed.com/users/erichill44/code/dac_controller2/",
+        "https://os.mbed.com/teams/Johnny-Bravo/code/dac_controller2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "MCP4725"
+    ],
+    "name": "MCP4725",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dzl5187/code/MCP4725/"
+    }
+}
