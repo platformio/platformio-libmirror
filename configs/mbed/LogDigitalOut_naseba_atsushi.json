@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Atsushi Yamamoto",
+        "url": "https://os.mbed.com/users/naseba_atsushi/"
+    },
+    "description": "This library is derived library of DigitalOut. Cumulative counter that detected the Hi edge and I have the operation cumulative time function .",
+    "frameworks": "mbed",
+    "keywords": [
+        "digitalOut",
+        "logging"
+    ],
+    "name": "LogDigitalOut",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/naseba_atsushi/code/LogDigitalOut/"
+    }
+}

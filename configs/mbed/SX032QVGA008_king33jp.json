@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Imayan chan",
+        "url": "https://os.mbed.com/users/king33jp/"
+    },
+    "dependencies": [
+        {
+            "authors": "Imayan chan",
+            "frameworks": "mbed",
+            "name": "SPI_TFT_ILI9341ext"
+        }
+    ],
+    "description": "aitendo SX032QVGA008",
+    "frameworks": "mbed",
+    "keywords": [
+        "AITENDO",
+        "ILI9341",
+        "SPI",
+        "TFT"
+    ],
+    "name": "SX032QVGA008",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/king33jp/code/SX032QVGA008/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "MtM+",
+        "url": "https://os.mbed.com/teams/MtM/"
+    },
+    "description": "Utilities for Pixart gesture recognition sensor PAJ7620U2 with interrupt",
+    "examples": [
+        "https://os.mbed.com/teams/MtM/code/MtConnect04S_Gesture_HID/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Gesture",
+        "mtconnnect04s",
+        "mtm",
+        "mtmtech",
+        "paj7620",
+        "paj7620u2",
+        "pixart"
+    ],
+    "name": "PAJ7620U2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MtM/code/PAJ7620U2/"
+    }
+}

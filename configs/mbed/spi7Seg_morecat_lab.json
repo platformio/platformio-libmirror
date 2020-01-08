@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Yoshitaka Kuwata",
+        "url": "https://os.mbed.com/users/morecat_lab/"
+    },
+    "description": "7segment SPI LED module from DF Robot.com",
+    "examples": [
+        "https://os.mbed.com/users/morecat_lab/code/spi7seg_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "spi7Seg",
+    "name": "spi7Seg",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/morecat_lab/code/spi7Seg/"
+    }
+}

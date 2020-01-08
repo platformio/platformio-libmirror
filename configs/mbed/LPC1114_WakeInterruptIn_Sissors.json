@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Erik Olieman",
+        "url": "https://os.mbed.com/users/Sissors/"
+    },
+    "description": "Class similar to InterruptIn which allows the LPC1114 to wake from deepsleep. (For other targets you can use InterruptIn).",
+    "examples": [
+        "https://os.mbed.com/users/steniu01/code/WakeUp/",
+        "https://os.mbed.com/users/labishrestha/code/WakeUp/",
+        "https://os.mbed.com/users/floatlei/code/WakeUp/",
+        "https://os.mbed.com/teams/Purebase-Networks/code/WakeUp/",
+        "https://os.mbed.com/users/YKuntavalli/code/WakeUpLib/",
+        "https://os.mbed.com/users/sivasuren/code/WakeUp/",
+        "https://os.mbed.com/teams/ublox/code/WakeUp/",
+        "https://os.mbed.com/users/Sissors/code/WakeUp/",
+        "https://os.mbed.com/users/kenjiArai/code/WakeUp/",
+        "https://os.mbed.com/users/mx300/code/RTC_Alarm/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DeepSleep",
+        "InterruptIn",
+        "LPC1114"
+    ],
+    "name": "LPC1114_WakeInterruptIn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Sissors/code/LPC1114_WakeInterruptIn/"
+    }
+}

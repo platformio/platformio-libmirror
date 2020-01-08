@@ -3,6 +3,11 @@
         "name": "Mario Bambagini",
         "url": "https://os.mbed.com/users/mariob/"
     },
+    "build": {
+        "flags": [
+            "-Ixbee"
+        ]
+    },
     "dependencies": [
         {
             "authors": "Andy Kirkham",

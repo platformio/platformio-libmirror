@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "kentaro okuda",
+        "url": "https://os.mbed.com/users/lonesometraveler/"
+    },
+    "description": "MAX6955 LED driver",
+    "examples": [
+        "https://os.mbed.com/users/lonesometraveler/code/alphanumeric_led_display/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MAX6955",
+    "name": "MAX6955",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lonesometraveler/code/MAX6955/"
+    }
+}

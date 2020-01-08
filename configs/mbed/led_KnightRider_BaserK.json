@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Baser Kandehir",
+        "url": "https://os.mbed.com/users/BaserK/"
+    },
+    "description": "A moving led pattern is implemented with the 4 onboard LEDs on the LPC1768. Inspired from famous KITT car in the TV series \"Knight Rider\".",
+    "examples": [
+        "https://os.mbed.com/users/BaserK/code/modular_blinky/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "example",
+        "kitt",
+        "knightrider",
+        "led",
+        "LPC1768",
+        "mbed"
+    ],
+    "name": "led_KnightRider",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/BaserK/code/led_KnightRider/"
+    }
+}

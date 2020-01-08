@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Hiroshi Yamaguchi",
+        "url": "https://os.mbed.com/users/yamaguch/"
+    },
+    "description": "Interface for LinkSprite JPEG camera module LS-Y201",
+    "examples": [
+        "https://os.mbed.com/users/yamaguch/code/JPEGCameraExample/",
+        "https://os.mbed.com/users/pm21gt/code/InfraredCameraExample/",
+        "https://os.mbed.com/users/Mohammed_Abo_Arais/code/CanSat_Alex/",
+        "https://os.mbed.com/users/aldih/code/cansat_alex_v1/",
+        "https://os.mbed.com/users/kyattonippu/code/kamera-tesuto2/",
+        "https://os.mbed.com/users/TakashiSasaki/code/SaibiCansat2014/",
+        "https://os.mbed.com/users/John5049/code/JPEGCamera/",
+        "https://os.mbed.com/users/kyattonippu/code/SaibiCansat2014_5/",
+        "https://os.mbed.com/users/SolManB/code/fotorapida/",
+        "https://os.mbed.com/users/bfoley13/code/Camera/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "JPEG",
+        "LS-Y201"
+    ],
+    "name": "JPEGCamera",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yamaguch/code/JPEGCamera/"
+    }
+}

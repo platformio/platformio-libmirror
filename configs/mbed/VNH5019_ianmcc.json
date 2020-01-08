@@ -4,10 +4,6 @@
         "url": "https://os.mbed.com/users/ianmcc/"
     },
     "description": "Library for the VNH5019 Motor Driver, with a helper class for the Pololu Dual VNH5019 Dual Motor Driver Shield http://www.pololu.com/product/2502",
-    "examples": [
-        "https://os.mbed.com/users/coldplay/code/VNH5019_second/",
-        "https://os.mbed.com/users/coldplay/code/VNH5019_second1/"
-    ],
     "frameworks": "mbed",
     "keywords": "VNH5019",
     "name": "VNH5019",

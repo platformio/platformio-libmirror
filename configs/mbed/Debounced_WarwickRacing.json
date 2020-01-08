@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Warwick Racing",
+        "url": "https://os.mbed.com/users/WarwickRacing/"
+    },
+    "description": "Debouncing library (not mine)",
+    "examples": [
+        "https://os.mbed.com/users/WarwickRacing/code/ElecPneuShifter_4/",
+        "https://os.mbed.com/users/lcorralesc1/code/tarea1/",
+        "https://os.mbed.com/users/javiernegrette/code/tarea_miercoles/",
+        "https://os.mbed.com/users/fvelasquezv/code/Rampa/",
+        "https://os.mbed.com/users/mandres7/code/Exercise_one_Display/",
+        "https://os.mbed.com/users/lcorralesc1/code/Tarea1_con_incremental/",
+        "https://os.mbed.com/users/jmcallef/code/PrimeraTarea3ed/",
+        "https://os.mbed.com/users/jmcallef/code/1raTareaconIncremental1ed/",
+        "https://os.mbed.com/users/lcorralesc1/code/tarea2/",
+        "https://os.mbed.com/users/fvelasquezv/code/SalidaA/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Debounced",
+    "name": "Debounced",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WarwickRacing/code/Debounced/"
+    }
+}

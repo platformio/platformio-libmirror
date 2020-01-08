@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Jordan Earls",
+        "url": "https://os.mbed.com/users/earlz/"
+    },
+    "description": "A lightweight VM which allows for easy custom programs to be made on the device without having to worry about linking and PIC code and all of that. BSD licensed. ...",
+    "examples": [
+        "https://os.mbed.com/users/earlz/code/MbedConsole/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Machine",
+        "virtual",
+        "vm"
+    ],
+    "name": "lightvm",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/earlz/code/lightvm/"
+    }
+}

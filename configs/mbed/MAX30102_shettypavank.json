@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Pavan Shetty",
+        "url": "https://os.mbed.com/users/shettypavank/"
+    },
+    "description": "Read data from MAX30102 sensor",
+    "examples": [
+        "https://os.mbed.com/users/shettypavank/code/sensomed/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MAX30102",
+    "name": "MAX30102",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shettypavank/code/MAX30102/"
+    }
+}

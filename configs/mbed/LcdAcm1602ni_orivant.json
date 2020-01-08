@@ -4,12 +4,9 @@
         "url": "https://os.mbed.com/users/orivant/"
     },
     "description": "LCDモジュール ACM1602NI（I2C接続） を制御するライブラリ",
-    "examples": [
-        "https://os.mbed.com/users/ekyykysn/code/scan2/",
-        "https://os.mbed.com/users/acura55/code/BoxController/"
-    ],
     "frameworks": "mbed",
     "keywords": [
+        "ACM1602NI",
         "I2C",
         "LCD"
     ],

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Yann Garcia",
+        "url": "https://os.mbed.com/users/Yann/"
+    },
+    "description": "This library provides simplified I2C access to a Microchip MCP23x17 GPIO expender device, including a general interface for any GPIO expender",
+    "examples": [
+        "https://os.mbed.com/users/Yann/code/MCP23017App/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GPIO Exoender",
+        "MCP23017"
+    ],
+    "name": "MCP23017_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Yann/code/MCP23017_I2C/"
+    }
+}

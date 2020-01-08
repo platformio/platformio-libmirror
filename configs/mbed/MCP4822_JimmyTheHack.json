@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Jimmy Hack",
+        "url": "https://os.mbed.com/users/JimmyTheHack/"
+    },
+    "dependencies": [
+        {
+            "authors": "Jimmy Hack",
+            "frameworks": "mbed",
+            "name": "DAC"
+        }
+    ],
+    "description": "Basic libraries for functionality of the MCP4822 DAC, an easy to use DAC outputting up to 4.096V.",
+    "frameworks": "mbed",
+    "keywords": [
+        "dac",
+        "MCP4822"
+    ],
+    "name": "MCP4822",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JimmyTheHack/code/MCP4822/"
+    }
+}

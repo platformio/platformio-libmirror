@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Dmitry Shtatnov",
+        "url": "https://os.mbed.com/users/rpocc/"
+    },
+    "description": "mbed library for XPT2046 SPI Touchscreen Controller (TFT_320QVT module)",
+    "examples": [
+        "https://os.mbed.com/users/rpocc/code/TFT_320QVT_Window_Drag_Demo/",
+        "https://os.mbed.com/users/rpocc/code/TFT_320QVT_HelloWorld/",
+        "https://os.mbed.com/users/Irfan/code/UTFT_SSD1289/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "ITDB_02",
+        "TFTCLD",
+        "Touch Screen",
+        "Touchscreen",
+        "XPT2046"
+    ],
+    "name": "UTouch",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rpocc/code/UTouch/"
+    }
+}

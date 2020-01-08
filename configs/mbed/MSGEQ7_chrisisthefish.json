@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Chris Wilson",
+        "url": "https://os.mbed.com/users/chrisisthefish/"
+    },
+    "description": "Library used to interface to the 7-band Graphic Equalizer Chip MSGEQ7, made by company Mixed Signal Integration",
+    "examples": [
+        "https://os.mbed.com/users/chrisisthefish/code/MSGEQ7_Hello_World/",
+        "https://os.mbed.com/users/chrisisthefish/code/LCD_Spectrum_Analyzer/",
+        "https://os.mbed.com/users/amussa/code/4180_Lab4/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MSGEQ7",
+    "name": "MSGEQ7",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/chrisisthefish/code/MSGEQ7/"
+    }
+}

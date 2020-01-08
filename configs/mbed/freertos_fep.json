@@ -3,6 +3,16 @@
         "name": "Francisco Paez",
         "url": "https://os.mbed.com/users/fep/"
     },
+    "build": {
+        "flags": [
+            "-Isrc",
+            "-Isrc/portable",
+            "-Isrc/portable/RVDS",
+            "-Isrc/portable/RVDS/ARM_CM4F",
+            "-Isrc/portable/MemMang",
+            "-Isrc/include"
+        ]
+    },
     "description": "FreeRTOS v9.0.0 for Cortex-M4F based boards. Use head_1.c as memory profile.",
     "examples": [
         "https://os.mbed.com/users/fep/code/frdm_k64f_freertos_lib/"

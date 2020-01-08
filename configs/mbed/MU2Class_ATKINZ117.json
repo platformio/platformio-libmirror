@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Daiki Uehara",
+        "url": "https://os.mbed.com/users/ATKINZ117/"
+    },
+    "description": "A class for using MU2.",
+    "examples": [
+        "https://os.mbed.com/users/YSB/code/EM_Mission/",
+        "https://os.mbed.com/users/pyonta2017/code/FM_integration_copy/",
+        "https://os.mbed.com/users/pyonta2017/code/FM_integration_off/",
+        "https://os.mbed.com/users/pyonta2017/code/FM_integration/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MU2Class",
+    "name": "MU2Class",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ATKINZ117/code/MU2Class/"
+    }
+}

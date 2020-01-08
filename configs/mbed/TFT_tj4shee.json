@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "TJ Forshee",
+        "url": "https://os.mbed.com/users/tj4shee/"
+    },
+    "description": "Library to support using the 2.8\" TFT Touch Shield v1.0 - made by Seeed Studio - for Arduino This shield uses either the SPFD5408A or ST7781R display chip.",
+    "frameworks": "mbed",
+    "keywords": [
+        "FRDM",
+        "KL25z",
+        "MLK25Z128FRDM"
+    ],
+    "name": "TFT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tj4shee/code/TFT/"
+    }
+}

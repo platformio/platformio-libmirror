@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Joshua Waters",
+        "url": "https://os.mbed.com/users/jwaters9/"
+    },
+    "description": "ShiftBrite control class using SPI",
+    "examples": [
+        "https://os.mbed.com/users/jwaters9/code/ShiftBrite_HelloWorld/",
+        "https://os.mbed.com/teams/4180/code/4180Lab3_2/",
+        "https://os.mbed.com/users/kkizirian/code/bluefruit_LED/",
+        "https://os.mbed.com/users/Colmustard/code/4180Lab4_p1/",
+        "https://os.mbed.com/users/RohanIyengar/code/Stock_Exchange_Game/",
+        "https://os.mbed.com/users/jplager3/code/RTOS_threading/",
+        "https://os.mbed.com/users/jplager3/code/RTOS_threading1/",
+        "https://os.mbed.com/users/jplager3/code/Roomba_Project/",
+        "https://os.mbed.com/users/CRaslawski/code/RTOS_threadingWorking/",
+        "https://os.mbed.com/users/CRaslawski/code/IMURoomba3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ShiftBrite",
+    "name": "ShiftBrite",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jwaters9/code/ShiftBrite/"
+    }
+}

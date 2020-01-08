@@ -7,12 +7,12 @@
         {
             "authors": "",
             "frameworks": "mbed",
-            "name": "X_NUCLEO_COMMON"
+            "name": "ST_INTERFACES"
         },
         {
             "authors": "",
             "frameworks": "mbed",
-            "name": "ST_INTERFACES"
+            "name": "X_NUCLEO_COMMON"
         }
     ],
     "description": "MEMS nano pressure sensor: 260-1260 hPa absolute digital output barometer.",
@@ -23,10 +23,7 @@
         "https://os.mbed.com/teams/Avnet-Silica/code/mbed-os-mqtt-client/",
         "https://os.mbed.com/teams/ST-Expansion-SW-Team/code/LPS22HB_JS/",
         "https://os.mbed.com/users/pferland/code/MTS_X_NUCLEO_IKS01A2/",
-        "https://os.mbed.com/users/jaafaryn/code/DISCO-IOT01_HomeEnv/",
-        "https://os.mbed.com/users/kaoriw/code/Project/",
-        "https://os.mbed.com/teams/Farnell24-IOT-Team/code/HelloWorld_ST_Sensors/",
-        "https://os.mbed.com/users/natas/code/X_NUCLEO_IKS01A2/"
+        "https://os.mbed.com/users/jaafaryn/code/DISCO-IOT01_HomeEnv/"
     ],
     "frameworks": "mbed",
     "keywords": "LPS22HB",

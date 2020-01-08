@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Andrew Miller",
+        "url": "https://os.mbed.com/users/awmiller/"
+    },
+    "description": "counts digital frequency based on interrupt and timer, triggers on rising edge",
+    "frameworks": "mbed",
+    "keywords": "FrequencyCounter",
+    "name": "FrequencyCounter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/awmiller/code/FrequencyCounter/"
+    }
+}

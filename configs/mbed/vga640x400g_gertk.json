@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Gert van der Knokke",
+        "url": "https://os.mbed.com/users/gertk/"
+    },
+    "description": "Full graphic 640x400 monochrome VGA driver library",
+    "examples": [
+        "https://os.mbed.com/users/gertk/code/vga640x400graphic/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "graphic",
+        "monochrome",
+        "VGA"
+    ],
+    "name": "vga640x400g",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gertk/code/vga640x400g/"
+    }
+}

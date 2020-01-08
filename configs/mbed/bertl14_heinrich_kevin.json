@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Kevin Heinrich",
+        "url": "https://os.mbed.com/users/heinrich_kevin/"
+    },
+    "description": "BERTL library, Kevin Heinrich",
+    "examples": [
+        "https://os.mbed.com/users/heinrich_kevin/code/BertlPingPong_UEbung3_EB/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "bertl14",
+    "name": "bertl14",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/heinrich_kevin/code/bertl14/"
+    }
+}

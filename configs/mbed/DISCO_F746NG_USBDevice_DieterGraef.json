@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Dieter Graef",
+        "url": "https://os.mbed.com/users/DieterGraef/"
+    },
+    "description": "partly working USB Device lib for STM32F746NG Discovery both Interface are working",
+    "examples": [
+        "https://os.mbed.com/users/DieterGraef/code/DISCO-F746NG-USB_Device/",
+        "https://os.mbed.com/users/Natthaphan/code/McLighTT/",
+        "https://os.mbed.com/users/60010049/code/project_Keyboard_to_the_Keyboard/",
+        "https://os.mbed.com/users/60010649/code/MIDIInstrumentPADProject/",
+        "https://os.mbed.com/users/noonsiee2/code/DISCO-F746NG_blink_led/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F746NG",
+        "STM32F746"
+    ],
+    "name": "DISCO_F746NG_USBDevice",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/DieterGraef/code/DISCO_F746NG_USBDevice/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Leo Veenstra",
+        "url": "https://os.mbed.com/users/SED9008/"
+    },
+    "description": "http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/",
+    "frameworks": "mbed",
+    "keywords": "kalman",
+    "name": "kalman",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SED9008/code/kalman/"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "Sang Vu Van",
+        "url": "https://os.mbed.com/users/SangSTBK/"
+    },
+    "dependencies": [
+        {
+            "authors": "Sang Vu Van",
+            "frameworks": "mbed",
+            "name": "RF22"
+        },
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "mesh phone",
+    "frameworks": "mbed",
+    "keywords": [
+        "Mesh",
+        "phone"
+    ],
+    "name": "New",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/SangSTBK/code/New/"
+    }
+}

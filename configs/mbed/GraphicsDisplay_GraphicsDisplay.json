@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "GraphicsDisplay",
+        "url": "https://os.mbed.com/teams/GraphicsDisplay/"
+    },
+    "description": "Library release of Simon Ford's GraphicsDisplay Display Library Base Class.",
+    "examples": [
+        "https://os.mbed.com/users/istheworldreal/code/ese_project_copy/",
+        "https://os.mbed.com/teams/ESEteam/code/ese_project_share/",
+        "https://os.mbed.com/users/KURETA90/code/Test_ColorMemLCD/",
+        "https://os.mbed.com/users/batman52/code/rIoTwear_LCD/",
+        "https://os.mbed.com/users/batman52/code/rIoTwear-snake/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GraphicsDisplay",
+        "GUI",
+        "TextDisplay"
+    ],
+    "name": "GraphicsDisplay",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/GraphicsDisplay/code/GraphicsDisplay/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "Frequency counter library only for NucleoF411RE",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/Frequency_Counter_w_GPS_1PPS/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "F411",
+        "Frequency Counter"
+    ],
+    "name": "Frq_cuntr_full",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/Frq_cuntr_full/"
+    }
+}

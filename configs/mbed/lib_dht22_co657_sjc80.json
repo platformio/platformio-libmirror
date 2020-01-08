@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Simon Cooksey",
+        "url": "https://os.mbed.com/users/co657_sjc80/"
+    },
+    "description": "A simple library for reading data from a DHT22 sensor",
+    "examples": [
+        "https://os.mbed.com/users/co657_sjc80/code/frdm_dht22_example/",
+        "https://os.mbed.com/users/lamyaezerrouki/code/DISCO-L053C8_ePD_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DHT22",
+    "name": "lib_dht22",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/co657_sjc80/code/lib_dht22/"
+    }
+}

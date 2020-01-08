@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Hideki Kozima",
+        "url": "https://os.mbed.com/users/xkozima/"
+    },
+    "dependencies": [
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "BurstSPI"
+        }
+    ],
+    "description": "Drives a strip of serial RGB LEDs (WS2812) through SPI port (mosi: p5).",
+    "examples": [
+        "https://os.mbed.com/users/xkozima/code/colorsExample/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "WS2812",
+    "name": "colors",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/xkozima/code/colors/"
+    }
+}

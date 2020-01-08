@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "suu pen",
+        "url": "https://os.mbed.com/users/suupen/"
+    },
+    "description": "このライブラリは8*8dotmatrixLedの輝度を階調制御します。 8*8dotmatrixLed以外でも8個のＬＥＤを１組にしたものを１組から８組まで制御できます。 LEDの階調制御は、ON,OFFの指示で輝度を0から100％まで１秒かけて変化させることができます。 それ以外にも、輝度を直接指示することもできます。 This library is the brightness of the tone controls 8 * 8dotmatrixLed. You can control up to eight pairs of those in one set of eight ...",
+    "examples": [
+        "https://os.mbed.com/users/suupen/code/eightDotMatrixLedLibraryExample/",
+        "https://os.mbed.com/teams/ChristmassOrnamentWS/code/test10_rev2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "control",
+        "dot",
+        "Dynamic",
+        "gray",
+        "led",
+        "lighting",
+        "matrix",
+        "scale"
+    ],
+    "name": "EightDotMatrixLed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/suupen/code/EightDotMatrixLed/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Yasuhisa KAWAMOTO",
+        "url": "https://os.mbed.com/users/nanashino/"
+    },
+    "description": "EnOcean USB400 Serial Library",
+    "examples": [
+        "https://os.mbed.com/users/nanashino/code/USB400Serial_Hello/",
+        "https://os.mbed.com/teams/Switch-Science/code/MFT_IoT_demo_USB400/",
+        "https://os.mbed.com/users/ytsuboi/code/USB400J_app_board_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "USB400Serial",
+    "name": "USB400Serial",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nanashino/code/USB400Serial/"
+    }
+}

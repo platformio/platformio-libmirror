@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Volodymyr Shymanskyy",
+        "url": "https://os.mbed.com/users/vshymanskyy/"
+    },
+    "description": "Blynk library for embedded hardware. Works with Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, Energia, ARM mbed, etc. http://www.blynk.cc/",
+    "examples": [
+        "https://os.mbed.com/users/tulanthoar/code/Blynk_RBL_BLE_Nano/",
+        "https://os.mbed.com/users/vshymanskyy/code/Blynk_MicroBit/",
+        "https://os.mbed.com/users/vshymanskyy/code/Blynk_Serial/",
+        "https://os.mbed.com/users/vshymanskyy/code/Blynk_RBL_BLE_Nano/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "cloud",
+        "dashboard",
+        "IOT",
+        "iot platform",
+        "smartphone"
+    ],
+    "name": "Blynk",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vshymanskyy/code/Blynk/"
+    }
+}

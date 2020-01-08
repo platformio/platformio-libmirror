@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Edoardo De Marchi",
+        "url": "https://os.mbed.com/users/edodm85/"
+    },
+    "description": "Library for the LM75A Temperature Sensor",
+    "examples": [
+        "https://os.mbed.com/users/edodm85/code/LM75A_Test_Code/",
+        "https://os.mbed.com/users/edodm85/code/MQTT_and_Temperature_Sensore_LM75/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "I2C",
+        "LM75A"
+    ],
+    "name": "LM75A",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/edodm85/code/LM75A/"
+    }
+}

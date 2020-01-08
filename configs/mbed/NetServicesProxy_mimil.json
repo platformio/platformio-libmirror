@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "mimil owns",
+        "url": "https://os.mbed.com/users/mimil/"
+    },
+    "description": "A modified version of http://mbed.org/users/segundo/libraries/NetServices/ljhqix to add HTTP proxy feature (based on http://mbed.org/users/igorsk/programs/NetServicesSource/ltjpag)",
+    "examples": [
+        "https://os.mbed.com/users/mimil/code/SenseClient/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "http",
+        "proxy"
+    ],
+    "name": "NetServicesProxy",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mimil/code/NetServicesProxy/"
+    }
+}

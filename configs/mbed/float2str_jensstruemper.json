@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Jens Strümper",
+        "url": "https://os.mbed.com/users/jensstruemper/"
+    },
+    "description": "float2str converts floating point numbers to a character array. Its purpose is to have a character representation of floating point numbers when printf floating point support is not enabled by ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "conversion",
+        "float",
+        "string"
+    ],
+    "name": "float2str",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jensstruemper/code/float2str/"
+    }
+}

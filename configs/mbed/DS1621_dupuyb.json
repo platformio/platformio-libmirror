@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Dupuy Bruno",
+        "url": "https://os.mbed.com/users/dupuyb/"
+    },
+    "description": "Simple DS1621 temperature acquisition.",
+    "frameworks": "mbed",
+    "keywords": "DS1621",
+    "name": "DS1621",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dupuyb/code/DS1621/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Kris Reynolds",
+        "url": "https://os.mbed.com/users/krmreynolds/"
+    },
+    "description": "AHRS library for the Polulu minIMU-9 Ability to interface with the Polulu Python minIMU-9 monitor",
+    "frameworks": "mbed",
+    "keywords": [
+        "AHRS",
+        "minimu-9",
+        "polulu"
+    ],
+    "name": "DCM_AHRS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/krmreynolds/code/DCM_AHRS/"
+    }
+}

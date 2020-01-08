@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Martin Smith",
+        "url": "https://os.mbed.com/users/ms523/"
+    },
+    "description": "A Simple library to capture pictures from the uCam by 4D Systems",
+    "frameworks": "mbed",
+    "keywords": "ucam",
+    "name": "uCam",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ms523/code/uCam/"
+    }
+}

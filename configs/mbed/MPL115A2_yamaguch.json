@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Hiroshi Yamaguchi",
+        "url": "https://os.mbed.com/users/yamaguch/"
+    },
+    "description": "MPL115A2 (I2C) Pressure sensor interface",
+    "examples": [
+        "https://os.mbed.com/users/yamaguch/code/MPL115A2Sample/",
+        "https://os.mbed.com/users/Nasupl/code/dataloger_for_modelrocket/",
+        "https://os.mbed.com/users/AkiraK/code/ARLISS2012_Hidaka/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MPL115A2",
+    "name": "MPL115A2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/yamaguch/code/MPL115A2/"
+    }
+}

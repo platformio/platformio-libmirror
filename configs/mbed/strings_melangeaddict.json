@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Steven Swenson",
+        "url": "https://os.mbed.com/users/melangeaddict/"
+    },
+    "description": "List of frequencies and strings for a guitar",
+    "examples": [
+        "https://os.mbed.com/users/melangeaddict/code/tuner/",
+        "https://os.mbed.com/teams/ORDY_Vector/code/LabTest_No2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "frequencies",
+        "guitar",
+        "tuner"
+    ],
+    "name": "strings",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/melangeaddict/code/strings/"
+    }
+}

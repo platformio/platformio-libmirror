@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Vincent Donnefort",
+        "url": "https://os.mbed.com/users/garfunkheul/"
+    },
+    "description": "MC33926 is a H-Bridge from freescale. This driver allow to use it to drive a DC-Motor using 3 different driving methods: - Lock Antiphase - Sign-Magnitude braking - Sign-Magnitude coasting ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "dc-motor",
+        "Freescale",
+        "hbridge",
+        "MC33926",
+        "motor"
+    ],
+    "name": "mc33926",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/garfunkheul/code/mc33926/"
+    }
+}

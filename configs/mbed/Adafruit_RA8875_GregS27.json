@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Greg S",
+        "url": "https://os.mbed.com/users/GregS27/"
+    },
+    "description": "Draft of Adafruit RA8875 library with touch screen calibration. From https://github.com/adafruit/Adafruit_RA8875",
+    "frameworks": "mbed",
+    "keywords": "Adafruit_RA8875",
+    "name": "Adafruit_RA8875",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/GregS27/code/Adafruit_RA8875/"
+    }
+}

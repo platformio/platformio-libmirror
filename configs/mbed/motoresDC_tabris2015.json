@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Jose Eduardo Laruta Espejo",
+        "url": "https://os.mbed.com/users/tabris2015/"
+    },
+    "description": "Library for controll DC motors using dual H-bridges like l298n, l293d and others. Based on Sparkfun RedBot arduino library.",
+    "examples": [
+        "https://os.mbed.com/users/tabris2015/code/maple_motores/",
+        "https://os.mbed.com/users/tabris2015/code/maple_heading_pid/",
+        "https://os.mbed.com/users/tabris2015/code/maple_chotobot_rf_motores/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DC motor",
+        "h bridge",
+        "L293D",
+        "l298n",
+        "pwm"
+    ],
+    "name": "motoresDC",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tabris2015/code/motoresDC/"
+    }
+}
