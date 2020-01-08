@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Joseph Roberts",
+        "url": "https://os.mbed.com/users/joe4465/"
+    },
+    "description": "a floating median filter to filter floating point data such as analog inputs",
+    "examples": [
+        "https://os.mbed.com/users/joe4465/code/Quadcopter_mk2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AnalogIn",
+        "filter",
+        "median",
+        "outlier",
+        "spikes"
+    ],
+    "name": "filter",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/joe4465/code/filter/"
+    }
+}

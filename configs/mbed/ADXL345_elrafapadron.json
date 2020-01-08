@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Jose R Padron",
+        "url": "https://os.mbed.com/users/elrafapadron/"
+    },
+    "description": "Add functions to read Ax, Ay and Az individually",
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "ADXL345",
+        "senor"
+    ],
+    "name": "ADXL345",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/elrafapadron/code/ADXL345/"
+    }
+}

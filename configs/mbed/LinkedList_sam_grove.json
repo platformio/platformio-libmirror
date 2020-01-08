@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Sam Grove",
+        "url": "https://os.mbed.com/users/sam_grove/"
+    },
+    "description": "Class to manage a linked list. Utility that can be built on or used alone",
+    "examples": [
+        "https://os.mbed.com/users/jekain314/code/Waldo_Embed_V2/",
+        "https://os.mbed.com/users/sahabi/code/elevator_with_queue/",
+        "https://os.mbed.com/teams/ESE-519123/code/RaheeNew/",
+        "https://os.mbed.com/users/SomeRandomBloke/code/DS1820/",
+        "https://os.mbed.com/teams/Thing-Innovations/code/DS1820/",
+        "https://os.mbed.com/users/yo2lts/code/DS1820/",
+        "https://os.mbed.com/teams/Whitworth-EN173-Resources/code/DS1820/",
+        "https://os.mbed.com/users/Sissors/code/DS1820/",
+        "https://os.mbed.com/users/YROY2004/code/MyDS1820/",
+        "https://os.mbed.com/users/Yo_Robot/code/DS1820/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Linked",
+        "Linked List",
+        "List"
+    ],
+    "name": "LinkedList",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/sam_grove/code/LinkedList/"
+    }
+}

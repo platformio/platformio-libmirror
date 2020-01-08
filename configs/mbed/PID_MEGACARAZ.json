@@ -3,6 +3,11 @@
         "name": "MEGACARAZ",
         "url": "https://os.mbed.com/teams/MEGACARAZ/"
     },
+    "build": {
+        "flags": [
+            "-IUSBHostLite"
+        ]
+    },
     "dependencies": [
         {
             "authors": "Nikolas Goldin",

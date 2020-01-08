@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Taro Watanabe",
+        "url": "https://os.mbed.com/users/feunoir/"
+    },
+    "description": "STMicroelectronics barometric pressure sensor library. This library modified from KenjiArai's LPS25H library.",
+    "frameworks": "mbed",
+    "keywords": [
+        "LPS22HB",
+        "pressure"
+    ],
+    "name": "LPS22HB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/feunoir/code/LPS22HB/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Robin Hourahane",
+        "url": "https://os.mbed.com/users/rhourahane/"
+    },
+    "description": "Class to provide simple access to I2C EEPROM chiles like Microchip's 24LC range or AMTELS AT24C range. Chips up to 64Kb in size are directly supported.",
+    "examples": [
+        "https://os.mbed.com/users/rhourahane/code/Test_I2CEeprom/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "I2CEeprom",
+    "name": "I2CEeprom",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rhourahane/code/I2CEeprom/"
+    }
+}

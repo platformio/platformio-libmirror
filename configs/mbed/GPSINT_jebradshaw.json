@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Joseph Bradshaw",
+        "url": "https://os.mbed.com/users/jebradshaw/"
+    },
+    "description": "library for parsing GPS NMEA strings using serial receive interrupt",
+    "frameworks": "mbed",
+    "keywords": [
+        "GPS",
+        "interrupt",
+        "NMEA"
+    ],
+    "name": "GPSINT",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jebradshaw/code/GPSINT/"
+    }
+}

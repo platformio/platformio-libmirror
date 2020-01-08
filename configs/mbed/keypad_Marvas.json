@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Marvas",
+        "url": "https://os.mbed.com/teams/Marvas/"
+    },
+    "description": "keypad kutuphanesi, Interruptsiz",
+    "examples": [
+        "https://os.mbed.com/teams/Marvas/code/rtos_uygulamasi/",
+        "https://os.mbed.com/teams/Marvas/code/guvenlik_sistemi/",
+        "https://os.mbed.com/teams/Marvas/code/keypad_kullanimi/",
+        "https://os.mbed.com/teams/Marvas/code/lcd_kullanimi_keypad/",
+        "https://os.mbed.com/teams/Marvas/code/KapiGuvenlikSistemi_PDKS/",
+        "https://os.mbed.com/teams/Marvas/code/Kapi_Ornekgi/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "4*4",
+        "keypad",
+        "tus takimi"
+    ],
+    "name": "keypad",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Marvas/code/keypad/"
+    }
+}

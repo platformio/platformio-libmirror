@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "sebastien videau",
+        "url": "https://os.mbed.com/users/Alamalione/"
+    },
+    "description": "Lib BurstSPI give access to fastWrite function and clearRX function, this lib is now compatible with Nucleo L152RE board",
+    "frameworks": "mbed",
+    "keywords": "BurstSPI",
+    "name": "BurstSPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Alamalione/code/BurstSPI/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Mathias Rasmussen",
+        "url": "https://os.mbed.com/users/math991e/"
+    },
+    "dependencies": [
+        {
+            "authors": "Nuno Sarmento",
+            "frameworks": "mbed",
+            "name": "sMotor"
+        }
+    ],
+    "description": "Stepper motor for grove",
+    "frameworks": "mbed",
+    "keywords": [
+        "Grove",
+        "motor",
+        "Stepper"
+    ],
+    "name": "StepperMotor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/math991e/code/StepperMotor/"
+    }
+}

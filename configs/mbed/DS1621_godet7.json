@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Bertrand Godet",
+        "url": "https://os.mbed.com/users/godet7/"
+    },
+    "description": "Library for the Maxim Integrated DS1621 Digital Thermometer and Thermostat",
+    "frameworks": "mbed",
+    "keywords": "ds1621",
+    "name": "DS1621",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/godet7/code/DS1621/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "ban4jp -",
+        "url": "https://os.mbed.com/users/ban4jp/"
+    },
+    "description": "This Library for DOGS-102 Graphic LCD module. Based on Igor Skochinsky's \"DOGLCDDemo\" program.",
+    "examples": [
+        "https://os.mbed.com/users/ban4jp/code/DOGS102_Example1/",
+        "https://os.mbed.com/users/ban4jp/code/DOGS102_Example2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "mono-lcd"
+    ],
+    "name": "DOG-S_GraphicLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ban4jp/code/DOG-S_GraphicLCD/"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Nordic Pucks",
+        "url": "https://os.mbed.com/teams/Nordic-Pucks/"
+    },
+    "description": "Ported from Arduino Library : https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050",
+    "examples": [
+        "https://os.mbed.com/users/aleksanb/code/IMU/",
+        "https://os.mbed.com/teams/Nordic-Pucks/code/cube-puck/",
+        "https://os.mbed.com/users/stiaje/code/button-puck/",
+        "https://os.mbed.com/teams/Bitsm/code/test_program_3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "gyroscope",
+        "I2C",
+        "MPU-6050",
+        "MPU6050",
+        "MPU60x0"
+    ],
+    "name": "MPU6050",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Nordic-Pucks/code/MPU6050/"
+    }
+}

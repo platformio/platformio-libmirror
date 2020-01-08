@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Marco - Giancarlo Tesi",
+        "url": "https://os.mbed.com/teams/Marco-Giancarlo-Tesi/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "MX64"
+        }
+    ],
+    "description": "testlib",
+    "frameworks": "mbed",
+    "keywords": "Dynamixel_MX_Motors_Series_TOSCA",
+    "name": "Dynamixel_MX_Motors_Series_TOSCA",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Marco-Giancarlo-Tesi/code/Dynamixel_MX_Motors_Series_TOSCA/"
+    }
+}

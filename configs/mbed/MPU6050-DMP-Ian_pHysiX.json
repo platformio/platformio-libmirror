@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Ian Hua",
+        "url": "https://os.mbed.com/users/pHysiX/"
+    },
+    "description": "Rearranged original code port/fork to: * Make library compatible with TiltyQuad IMU; * Prevent multiple definition, and added inclusion guard; * Cleaner access to library functions and file structure; and ...",
+    "examples": [
+        "https://os.mbed.com/users/Match314/code/MPU6050-DMP_test/",
+        "https://os.mbed.com/users/mbed_tw_hoehoe/code/LPC1114_MPU6050_DMP/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DMP",
+        "IMU",
+        "invensense",
+        "MPU605-DMP",
+        "MPU6050",
+        "Quaternion",
+        "Tilty",
+        "TiltyIMU"
+    ],
+    "name": "MPU6050-DMP-Ian",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pHysiX/code/MPU6050-DMP-Ian/"
+    }
+}

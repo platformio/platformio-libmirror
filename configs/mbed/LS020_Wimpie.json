@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Wim De Roeve",
+        "url": "https://os.mbed.com/users/Wimpie/"
+    },
+    "description": "LS020.h is a MobileLCD library for the LS020 display (used in GSM Siemens S65 family). Resolution 176x132",
+    "frameworks": "mbed",
+    "keywords": [
+        "display",
+        "grafical",
+        "LCD",
+        "LS020",
+        "S65"
+    ],
+    "name": "LS020",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Wimpie/code/LS020/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Hexley Ball",
+        "url": "https://os.mbed.com/users/hexley/"
+    },
+    "description": "Fork of David Smart's RA8875 library",
+    "frameworks": "mbed",
+    "keywords": "RA8875_fork",
+    "name": "RA8875_fork",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/hexley/code/RA8875_fork/"
+    }
+}

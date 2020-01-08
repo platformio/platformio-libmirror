@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "Iulian Radu",
+        "url": "https://os.mbed.com/users/iulian_radu/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        },
+        {
+            "authors": "Martin Kojtal",
+            "frameworks": "mbed",
+            "name": "tsi_sensor"
+        }
+    ],
+    "description": "AC dimmer",
+    "frameworks": "mbed",
+    "keywords": "AC_dimmer",
+    "name": "AC_dimmer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/iulian_radu/code/AC_dimmer/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Jack Berkhout",
+        "url": "https://os.mbed.com/users/JackB/"
+    },
+    "description": "FT5206 capacitive Touch Panel driver for 7 inch BuyDisplay LCD, with 5-point touch.",
+    "frameworks": "mbed",
+    "keywords": "FT5206",
+    "name": "FT5206",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JackB/code/FT5206/"
+    }
+}

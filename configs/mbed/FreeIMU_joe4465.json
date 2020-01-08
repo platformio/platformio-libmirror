@@ -1,0 +1,37 @@
+{
+    "authors": {
+        "name": "Joseph Roberts",
+        "url": "https://os.mbed.com/users/joe4465/"
+    },
+    "dependencies": [
+        {
+            "authors": "Yifei Teng",
+            "frameworks": "mbed",
+            "name": "HMC58X3"
+        },
+        {
+            "authors": "Yifei Teng",
+            "frameworks": "mbed",
+            "name": "MODI2C"
+        },
+        {
+            "authors": "Yifei Teng",
+            "frameworks": "mbed",
+            "name": "MPU6050"
+        },
+        {
+            "authors": "Yifei Teng",
+            "frameworks": "mbed",
+            "name": "MS561101BA"
+        }
+    ],
+    "description": "10DOF FreeIMU port for FreeIMU v4 board and GY-86. This library was modified extensively to specifically suit the Mbed platform. Used threads and interrupts to achieve async mode.",
+    "frameworks": "mbed",
+    "keywords": "FreeIMU",
+    "name": "FreeIMU",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/joe4465/code/FreeIMU/"
+    }
+}

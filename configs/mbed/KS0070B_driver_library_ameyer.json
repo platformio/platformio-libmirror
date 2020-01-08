@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Alexandre Meyer",
+        "url": "https://os.mbed.com/users/ameyer/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "A simple interface library for KS0070B lcd driver. Special characters included. 4-bit data bus.",
+    "frameworks": "mbed",
+    "keywords": "KS0070B_driver_library",
+    "name": "KS0070B_driver_library",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ameyer/code/KS0070B_driver_library/"
+    }
+}

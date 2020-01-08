@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Yoshito Onishi",
+        "url": "https://os.mbed.com/users/FalconOnishi/"
+    },
+    "description": "Transplantation from Arduino MCP2515 Library which is made by Kyle Crockett. http://code.google.com/p/canduino/source/browse/trunk/Library/CAN/CAN.h?r=24",
+    "examples": [
+        "https://os.mbed.com/users/TuxLeon/code/DISCO-F746NG_rtos_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "CAN",
+        "MCP2515"
+    ],
+    "name": "MCP2515",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/FalconOnishi/code/MCP2515/"
+    }
+}

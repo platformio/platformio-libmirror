@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "jun imamura",
+        "url": "https://os.mbed.com/users/imachooon/"
+    },
+    "description": "This is test library which translated from code for arduino. Original code, and their product can be found in the link below. http://www.adafruit.com/products/250",
+    "examples": [
+        "https://os.mbed.com/users/ryood/code/CH12864F-SPI2_Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "ST7565"
+    ],
+    "name": "st7565LCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/imachooon/code/st7565LCD/"
+    }
+}

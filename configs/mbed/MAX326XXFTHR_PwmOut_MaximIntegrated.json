@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Maxim Integrated",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/"
+    },
+    "description": "Timer based PWM output for MAX326XXFTHR platforms",
+    "examples": [
+        "https://os.mbed.com/teams/MaximIntegrated/code/MAX32620FTHR_PwmBlinky/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "MAX32620",
+        "MAX32620FTHR",
+        "MAX32630",
+        "max32630fthr"
+    ],
+    "name": "MAX326XXFTHR_PwmOut",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/MaximIntegrated/code/MAX326XXFTHR_PwmOut/"
+    }
+}

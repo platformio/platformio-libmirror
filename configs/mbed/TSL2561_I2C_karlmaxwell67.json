@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Karl Maxwell",
+        "url": "https://os.mbed.com/users/karlmaxwell67/"
+    },
+    "description": "Library which provides functions to control a TAOS TSL2561 Light-To-Digital Converter via I2C.",
+    "examples": [
+        "https://os.mbed.com/users/zeus3110/code/TweetTest/",
+        "https://os.mbed.com/users/zeus3110/code/NetworkThermometer/",
+        "https://os.mbed.com/users/tukumotann/code/GR-PEACH_TAMORI/",
+        "https://os.mbed.com/users/kellybs1/code/mDot_LoRa_Connect_ABPA_Lux/",
+        "https://os.mbed.com/teams/Green-Team/code/greenhouse_proj/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "TSL2560",
+        "TSL2561"
+    ],
+    "name": "TSL2561_I2C",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/karlmaxwell67/code/TSL2561_I2C/"
+    }
+}

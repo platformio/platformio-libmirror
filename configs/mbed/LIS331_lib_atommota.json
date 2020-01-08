@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Tim Marvin",
+        "url": "https://os.mbed.com/users/atommota/"
+    },
+    "description": "Library to communicate with a ST LIS331DLH",
+    "frameworks": "mbed",
+    "keywords": "LIS331_lib",
+    "name": "LIS331_lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/atommota/code/LIS331_lib/"
+    }
+}

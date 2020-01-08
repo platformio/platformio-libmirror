@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Peter Drescher",
+        "url": "https://os.mbed.com/users/dreschpe/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "The wait in mci_WaitForEvent will delay all card transactions.",
+    "frameworks": "mbed",
+    "keywords": "EALib",
+    "name": "EALib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dreschpe/code/EALib/"
+    }
+}

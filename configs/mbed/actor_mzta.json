@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "sabme ua",
+        "url": "https://os.mbed.com/users/mzta/"
+    },
+    "description": "a implementation of template class that is used for create event-driven task thread.",
+    "frameworks": "mbed",
+    "keywords": "thread",
+    "name": "actor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mzta/code/actor/"
+    }
+}

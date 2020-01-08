@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Nico De Witte",
+        "url": "https://os.mbed.com/users/dwini/"
+    },
+    "dependencies": [
+        {
+            "authors": "Samuel Mokrani",
+            "frameworks": "mbed",
+            "name": "MbedJSONValue"
+        },
+        {
+            "authors": "Chris Styles",
+            "frameworks": "mbed",
+            "name": "m3pi"
+        }
+    ],
+    "description": "Racing Robots Session",
+    "frameworks": "mbed",
+    "keywords": [
+        "kuleuven",
+        "m3pi",
+        "pololu",
+        "racing",
+        "robots",
+        "vives"
+    ],
+    "name": "racing_robots",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dwini/code/racing_robots/"
+    }
+}

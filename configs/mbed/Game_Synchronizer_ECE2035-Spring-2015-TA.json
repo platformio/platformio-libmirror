@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "ECE2035 Spring 2015 TA",
+        "url": "https://os.mbed.com/teams/ECE2035-Spring-2015-TA/"
+    },
+    "description": "Synchronize a two player mbed game over Ethernet. ECE 2035 Fall '15",
+    "examples": [
+        "https://os.mbed.com/users/matthewriley294/code/Dualing_Tanks/",
+        "https://os.mbed.com/teams/ECE2035-Spring-2015-TA/code/ECE2035_Agar_Shell/",
+        "https://os.mbed.com/users/eriklomas/code/4180lab4/",
+        "https://os.mbed.com/users/macenzofan/code/DuelingTanks/",
+        "https://os.mbed.com/users/ychen644/code/4180_lab4_tank_war_game/",
+        "https://os.mbed.com/users/pkoirala3/code/ECE2035_Agar_Shell_ECE2035_Prana/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Game_Synchronizer",
+    "name": "Game_Synchronizer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ECE2035-Spring-2015-TA/code/Game_Synchronizer/"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "mille feuille",
+        "url": "https://os.mbed.com/users/Info/"
+    },
+    "description": "Home Page : http://www.mcugear.com/en/ MCU Gear manual mode (circuit quick changer!) You can save 8 schematic(bank 0-7) manually and change it quickly.",
+    "examples": [
+        "https://os.mbed.com/users/Info/code/MCUGear_Ver2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "mbed",
+        "mcugear"
+    ],
+    "name": "MCUGearM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Info/code/MCUGearM/"
+    }
+}

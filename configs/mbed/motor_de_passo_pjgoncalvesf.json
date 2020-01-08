@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Paulo Gonçalves",
+        "url": "https://os.mbed.com/users/pjgoncalvesf/"
+    },
+    "description": "comando para motores de passo usando meio passo",
+    "frameworks": "mbed",
+    "keywords": [
+        "motor",
+        "passo",
+        "ptbr"
+    ],
+    "name": "motor_de_passo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pjgoncalvesf/code/motor_de_passo/"
+    }
+}

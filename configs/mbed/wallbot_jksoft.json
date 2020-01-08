@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Junichi Katsu",
+        "url": "https://os.mbed.com/users/jksoft/"
+    },
+    "description": "It is a library for controlling Wallbot",
+    "examples": [
+        "https://os.mbed.com/users/jksoft/code/wallbot_test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "wallbot",
+    "name": "wallbot",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/jksoft/code/wallbot/"
+    }
+}

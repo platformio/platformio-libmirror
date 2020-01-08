@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Francesco Bianchi",
+        "url": "https://os.mbed.com/users/biank88/"
+    },
+    "description": "Flasher class is useful to flash a pin for a given #n of times",
+    "frameworks": "mbed",
+    "keywords": [
+        "Flasher",
+        "flashing leds"
+    ],
+    "name": "Flasher",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/biank88/code/Flasher/"
+    }
+}

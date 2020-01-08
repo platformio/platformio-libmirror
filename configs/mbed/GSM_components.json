@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Components",
+        "url": "https://os.mbed.com/teams/components/"
+    },
+    "description": "A library for the SIM900 module to enable calling, answering, sending and receiving SMS messages",
+    "examples": [
+        "https://os.mbed.com/teams/shields/code/Seeed_GPRS_Shield_GSM/",
+        "https://os.mbed.com/users/samialshorman/code/BluetoothNONIN/",
+        "https://os.mbed.com/users/DuyLionTran/code/HealthCare_Graduation/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "GSM",
+        "SMS"
+    ],
+    "name": "GSM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/components/code/GSM/"
+    }
+}

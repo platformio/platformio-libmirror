@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "David Smart",
+        "url": "https://os.mbed.com/users/WiredHome/"
+    },
+    "description": "A primitive menu system for touchscreen on the RA8875. This menu is not \"finger friendly\" and reminds one of the 90's using a Palm.",
+    "examples": [
+        "https://os.mbed.com/users/unix_guru/code/FRDM_RA8875_mPaint/",
+        "https://os.mbed.com/users/WiredHome/code/PUB_RA8875_mPaint/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "menu",
+        "Touchscreen"
+    ],
+    "name": "menu",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WiredHome/code/menu/"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Shinichiro Nakamura",
+        "url": "https://os.mbed.com/users/shintamainjp/"
+    },
+    "description": "LinkSprite LS-Y201 JPEG Color Camera.",
+    "examples": [
+        "https://os.mbed.com/users/shintamainjp/code/Camera_LS_Y201_TestProgram/",
+        "https://os.mbed.com/users/Shruti/code/Camera_LS_Y201_TestProgram/",
+        "https://os.mbed.com/users/tbaumg/code/ServoCamV1/",
+        "https://os.mbed.com/users/dburnham6/code/RFIDdoor/",
+        "https://os.mbed.com/users/Jgreub/code/mbed1v2/",
+        "https://os.mbed.com/users/Luna/code/camera/",
+        "https://os.mbed.com/teams/VOC/code/Dumb_box_rev2/",
+        "https://os.mbed.com/users/shintamainjp/code/Camera_LS_Y201_TestProgram_2014/",
+        "https://os.mbed.com/users/jsobchuk3/code/RFrec_full/",
+        "https://os.mbed.com/users/tdouglas6/code/Security_Proof/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "camera",
+        "color",
+        "JPEG",
+        "LinkSprite",
+        "LS-Y201"
+    ],
+    "name": "Camera_LS_Y201",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/shintamainjp/code/Camera_LS_Y201/"
+    }
+}

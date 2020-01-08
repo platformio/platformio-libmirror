@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "David Rimer",
+        "url": "https://os.mbed.com/users/davidr99/"
+    },
+    "dependencies": [
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "MODSERIAL"
+        }
+    ],
+    "description": "VC0706 driver for radio shack camera shield",
+    "frameworks": "mbed",
+    "keywords": [
+        "camera",
+        "radioshack",
+        "shield",
+        "VC0706"
+    ],
+    "name": "VC0706CameraShield",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/davidr99/code/VC0706CameraShield/"
+    }
+}

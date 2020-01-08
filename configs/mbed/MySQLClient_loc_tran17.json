@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Loc Tran",
+        "url": "https://os.mbed.com/users/loc_tran17/"
+    },
+    "description": "change to VodafoneUSB Modem interface",
+    "frameworks": "mbed",
+    "keywords": "MySQLClient",
+    "name": "MySQLClient",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/loc_tran17/code/MySQLClient/"
+    }
+}

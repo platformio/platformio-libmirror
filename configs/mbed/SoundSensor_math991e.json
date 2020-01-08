@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Mathias Rasmussen",
+        "url": "https://os.mbed.com/users/math991e/"
+    },
+    "description": "Grove soundsensor lib",
+    "frameworks": "mbed",
+    "keywords": [
+        "Grove",
+        "sensor",
+        "sound"
+    ],
+    "name": "SoundSensor",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/math991e/code/SoundSensor/"
+    }
+}

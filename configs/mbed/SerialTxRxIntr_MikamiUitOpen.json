@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "Nucleo ボードの USB コネクタに対応するシリアルポート受送信割込みで，複数のキャラクタ受送信をサポ－トするクラス． このライブラリを登録した際のプログラム： Demo_F446_AD_DA_Ctrl．",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/F446_FunctionGenerator/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F446_UpSampling_GraphicEqualizer/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F446_UpSampling_ReverbSystem/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F446_UpSampling_FrqShifter_Weaver/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F446_UpSampling_LPF_HPF_Variable/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/Demo_F446_AD_DA_Ctrl/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F446_Spectrogram/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "interrupt",
+        "Nucleo",
+        "rx",
+        "Serial",
+        "Tx",
+        "USB"
+    ],
+    "name": "SerialTxRxIntr",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/SerialTxRxIntr/"
+    }
+}

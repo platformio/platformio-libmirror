@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "不韋 呂",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/"
+    },
+    "description": "I2C 接続の LCD AQM1602XA-RN-GBW 用のライブラリ． Library for LCD 1602XA-RN-GBW connected using I2C interface.",
+    "examples": [
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_MovingAv_Intr/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VariableFIR/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VowelSynthesizer/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_ALE_LeakyLMS/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VariableIIR_LPF/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/UIT2_VariableIIR_LPFHPF/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F446_MySoundMachine/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/F446_ADF_Nlms/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/Demo_AQM1602/",
+        "https://os.mbed.com/users/MikamiUitOpen/code/Demo_ADT7410/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "AQM1602",
+        "I2C",
+        "Nucleo",
+        "UIT"
+    ],
+    "name": "UIT_AQM1602",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/MikamiUitOpen/code/UIT_AQM1602/"
+    }
+}

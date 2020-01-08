@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "napoleon leoni",
+        "url": "https://os.mbed.com/users/nleoni/"
+    },
+    "description": "/joystickAppBoard class //Written by Napoleon Leoni; February 2014 //Simple class object to handle joystick state for the mbed application board //5 way Joystick ALPS SKRHADE010 //Down:p12; Left:p13 Centre:p14 Up:p15 Right:p16 ...",
+    "frameworks": "mbed",
+    "keywords": "joystickAppBoard",
+    "name": "joystickAppBoard",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nleoni/code/joystickAppBoard/"
+    }
+}

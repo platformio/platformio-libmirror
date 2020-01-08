@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Bhakti Kulkarni",
+        "url": "https://os.mbed.com/users/bhakti08/"
+    },
+    "description": "abc",
+    "examples": [
+        "https://os.mbed.com/users/bhakti08/code/Microwave_MBED/",
+        "https://os.mbed.com/users/joinamruta/code/MicrowaveSimulation_LPC1768/",
+        "https://os.mbed.com/users/bhakti08/code/RTOS_Alarm_Clock/",
+        "https://os.mbed.com/users/bhakti08/code/USB_Project_Host/",
+        "https://os.mbed.com/users/bhakti08/code/USB_Project_Device/",
+        "https://os.mbed.com/users/bhakti08/code/Happy_Birthday/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DebounceInterrupts",
+    "name": "DebounceInterrupts",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bhakti08/code/DebounceInterrupts/"
+    }
+}

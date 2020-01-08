@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Jim Carver",
+        "url": "https://os.mbed.com/users/JimCarver/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "MotionSensor"
+        }
+    ],
+    "description": "Added function to retrieve raw data from sensor",
+    "examples": [
+        "https://os.mbed.com/users/JimCarver/code/KL46_eCompass/",
+        "https://os.mbed.com/users/JimCarver/code/Multi-Sensor/",
+        "https://os.mbed.com/teams/shields/code/Freescale_Multi-Sensor_Shield/",
+        "https://os.mbed.com/users/julioefajardo/code/Freescale_Multi-Sensor_Quadcopter/",
+        "https://os.mbed.com/users/IrvingHdez/code/KL46_eCompass_TiltCompensed_Acel-Mag/",
+        "https://os.mbed.com/users/IrvingHdez/code/Ragnarok_2ejes/",
+        "https://os.mbed.com/users/Kosinkadink/code/compass_acc/",
+        "https://os.mbed.com/users/impeccabletanu/code/RC_QuadCopter/",
+        "https://os.mbed.com/users/jun1x/code/KL46_eCompass/",
+        "https://os.mbed.com/users/marcospostemsky/code/LCD-Ecompass-Postemsky/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MAG3110",
+    "name": "MAG3110",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/JimCarver/code/MAG3110/"
+    }
+}

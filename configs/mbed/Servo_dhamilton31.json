@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Daniel Hamilton",
+        "url": "https://os.mbed.com/users/dhamilton31/"
+    },
+    "description": "Servo pt. 2",
+    "examples": [
+        "https://os.mbed.com/users/dhamilton31/code/FollowMeBot/",
+        "https://os.mbed.com/users/rchoy3/code/FollowMeBot/",
+        "https://os.mbed.com/users/rshetty6/code/FollowMeBot3/",
+        "https://os.mbed.com/users/rshetty6/code/FollowMeBot/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Servo",
+    "name": "Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dhamilton31/code/Servo/"
+    }
+}

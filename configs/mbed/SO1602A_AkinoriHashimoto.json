@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Akinori Hashimoto",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/"
+    },
+    "description": "SO1602A Lib. SO1602A is Organic LED, has 16 chars and 2 lines. This lib supports printf() of C-Language. http://akizukidenshi.com/catalog/g/gP-08276/",
+    "frameworks": "mbed",
+    "keywords": [
+        "OLED",
+        "Organic-LED",
+        "SO1602A"
+    ],
+    "name": "SO1602A",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/AkinoriHashimoto/code/SO1602A/"
+    }
+}

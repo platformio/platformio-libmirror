@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Imayan chan",
+        "url": "https://os.mbed.com/users/king33jp/"
+    },
+    "description": "4-GPIO controlled EEPROM AT93C46",
+    "frameworks": "mbed",
+    "keywords": [
+        "AT93C46",
+        "EEPROM"
+    ],
+    "name": "EEPROM_AT93C46",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/king33jp/code/EEPROM_AT93C46/"
+    }
+}

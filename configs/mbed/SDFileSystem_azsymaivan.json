@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "Ivan Georgiev",
+        "url": "https://os.mbed.com/users/azsymaivan/"
+    },
+    "dependencies": [
+        {
+            "authors": "Ivan Georgiev",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "fix warning \"statement is unreachable\" in file ff.cpp in FATFileSystem/ChaN",
+    "examples": [
+        "https://os.mbed.com/users/azsymaivan/code/HTTP_SDcard_file_server/",
+        "https://os.mbed.com/users/justinkim/code/HTTP_SDcard_file_server_WIZwiki-W7500/",
+        "https://os.mbed.com/teams/WIZnet/code/httpServer-WIZwiki-W7500/",
+        "https://os.mbed.com/teams/WIZnet/code/GT511C3_TimeStamp_WIZwiki-W7500/",
+        "https://os.mbed.com/users/justinkim/code/Adafruit_TFT_Shieldv1_shieldtest/",
+        "https://os.mbed.com/teams/IOP/code/Camera_C328_HTTP_SDcard_file_server_WIZw/",
+        "https://os.mbed.com/users/ysy00700/code/Internet-Piano_WIZwiki-W7500/",
+        "https://os.mbed.com/teams/IOP/code/ThingPlug_Ethernet_Example_temp_V2/",
+        "https://os.mbed.com/users/M_J/code/httpServer-WIZwiki-W7500/",
+        "https://os.mbed.com/users/schenk/code/smart_window_server/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/azsymaivan/code/SDFileSystem/"
+    }
+}

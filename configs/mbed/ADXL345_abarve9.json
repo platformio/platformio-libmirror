@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Aditya Barve",
+        "url": "https://os.mbed.com/users/abarve9/"
+    },
+    "description": "This consists of code to receive the transmitted characters and display them on red LEDs.",
+    "examples": [
+        "https://os.mbed.com/users/abarve9/code/Receiver_red_led/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ADXL345",
+    "name": "ADXL345",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/abarve9/code/ADXL345/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Milen Pavlov",
+        "url": "https://os.mbed.com/users/netblocks/"
+    },
+    "description": "XRange SX1272Lib",
+    "examples": [
+        "https://os.mbed.com/users/netblocks/code/XRangePingPong/",
+        "https://os.mbed.com/users/netblocks/code/XRange-LoRaWAN-lmic-app/",
+        "https://os.mbed.com/users/trusch/code/lora-transceiver/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SX1272Lib",
+    "name": "SX1272Lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/netblocks/code/SX1272Lib/"
+    }
+}

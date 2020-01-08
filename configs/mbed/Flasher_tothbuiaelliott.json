@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Eric Elliott",
+        "url": "https://os.mbed.com/users/tothbuiaelliott/"
+    },
+    "description": "1st mbed library built - mbed Flasher",
+    "frameworks": "mbed",
+    "keywords": "Flasher",
+    "name": "Flasher",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tothbuiaelliott/code/Flasher/"
+    }
+}

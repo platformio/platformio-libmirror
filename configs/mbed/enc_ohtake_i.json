@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Kei Ohta",
+        "url": "https://os.mbed.com/users/ohtake_i/"
+    },
+    "description": "enc",
+    "examples": [
+        "https://os.mbed.com/users/ohtake_i/code/ToyBox/",
+        "https://os.mbed.com/users/yizumi1012xxx/code/ohta/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "QEI",
+        "quadrature"
+    ],
+    "name": "enc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/ohtake_i/code/enc/"
+    }
+}

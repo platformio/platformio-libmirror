@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Abdessamad El Abbassi",
+        "url": "https://os.mbed.com/users/abdess/"
+    },
+    "description": "Official mbed Real Time Operating System based on the RTX implementation of the CMSIS-RTOS API open standard. Support for nucleo F401RE",
+    "examples": [
+        "https://os.mbed.com/users/abdess/code/rtos_basic_stm32_F401/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "cmsis",
+        "rtos",
+        "RTX"
+    ],
+    "name": "mbed-rtos_F401",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/abdess/code/mbed-rtos_F401/"
+    }
+}

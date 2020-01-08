@@ -1,0 +1,59 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "STTS751"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "LPS22HH"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "LIS2MDL"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "HTS221"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "LIS2DW12"
+        },
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "LSM6DSO"
+        }
+    ],
+    "description": "Firmware Library for X-NUCLEO-IKS01A3 (MEMS Inertial & Environmental Sensors) Expansion Board",
+    "examples": [
+        "https://os.mbed.com/teams/University-of-Plymouth-Stage-2-and-3/code/ELEC35XR-2019/",
+        "https://os.mbed.com/teams/ST/code/HelloWorld_IKS01A3/",
+        "https://os.mbed.com/teams/ST/code/6DOrientation_LIS2DW12_IKS01A3/",
+        "https://os.mbed.com/teams/ST/code/6DOrientation_LSM6DSO_IKS01A3/",
+        "https://os.mbed.com/teams/ST/code/FreeFall_LSM6DSO_IKS01A3/",
+        "https://os.mbed.com/teams/ST/code/Pedometer_LSM6DSO_IKS01A3/",
+        "https://os.mbed.com/teams/ST/code/SingleDoubleTap_LSM6DSO_IKS01A3/",
+        "https://os.mbed.com/teams/ST/code/TemperatureLimit_STTS751_IKS01A3/",
+        "https://os.mbed.com/teams/ST/code/Tilt_LSM6DSO_IKS01A3/",
+        "https://os.mbed.com/teams/ST/code/WakeUp_LIS2DW12_IKS01A3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "X_NUCLEO_IKS01A3",
+    "name": "X_NUCLEO_IKS01A3",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/X_NUCLEO_IKS01A3/"
+    }
+}

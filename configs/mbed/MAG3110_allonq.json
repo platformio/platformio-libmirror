@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Yujing Qian",
+        "url": "https://os.mbed.com/users/allonq/"
+    },
+    "description": "modified version of MAG3110, include getX();getY();and getZ()",
+    "examples": [
+        "https://os.mbed.com/users/allonq/code/202Ahm1/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "MAG3110",
+    "name": "MAG3110",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/allonq/code/MAG3110/"
+    }
+}

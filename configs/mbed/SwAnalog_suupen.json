@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "suu pen",
+        "url": "https://os.mbed.com/users/suupen/"
+    },
+    "description": "アナログポート から スイッチを３つ認識するライブラリです。 ６つのアナログポートを同時に認識して、１８個のＳＷまで認識できます。",
+    "examples": [
+        "https://os.mbed.com/users/suupen/code/kitchenTimer/",
+        "https://os.mbed.com/users/suupen/code/LPC1114FN28_kitchenTimer_Clock/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Analog",
+        "dipsw",
+        "Input",
+        "SW",
+        "tactsw"
+    ],
+    "name": "SwAnalog",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/suupen/code/SwAnalog/"
+    }
+}

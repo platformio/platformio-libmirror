@@ -1,19 +1,26 @@
 # -*- coding: utf-8 -*-
 import logging
+import json
+import hashlib
+import codecs
+import os
 import scrapy
 from mbedtop.items import MbedParserItem, MbedParserLoader
 
-logging.basicConfig()
-logger = logging.getLogger('mbed-terrier')
-logger.setLevel(20)
-
+# logging.basicConfig()
+# logger = logging.getLogger('mbedtop.spiders')
+# logger.setLevel("WARNING")
+#
 
 class MbedTerrierSpider(scrapy.Spider):
     name = 'mbed_terrier'
     allowed_domains = ['os.mbed.com']
     start_urls = ['https://os.mbed.com/code/all/?sort=imports']
-    lib_page_max = 100000
-    lib_page_cnt = 0
+    # lib_page_max = 1000000
+    # lib_page_cnt = 0
+    stop = False
+    current_page = 1
+    total_libs = 0
 
     def make_mbed_url(self, url):
         if isinstance(url, str):
@@ -44,12 +51,14 @@ class MbedTerrierSpider(scrapy.Spider):
             name = url[4]
 
         if name in blacklist:
-            logger.info("is core library")
+            # logger.info("is core library")
             return True
         return False
 
     def parse(self, response):
+        # self.logger.warning(response.meta)
         libraries = response.xpath('.//*[@class="inline Library"]')
+        self.logger.warning("Lib counts: "+str(self.total_libs))
         for library in libraries:
             item = MbedParserLoader(item=MbedParserItem(), selector=library)
             item.add_xpath('commits',
@@ -67,14 +76,16 @@ class MbedTerrierSpider(scrapy.Spider):
             library = item.load_item()
             # print(library)
             if int(library['commits']) < 1:
-                logger.info("Low commits rate")
+                self.logger.warning("Low commits rate")
                 continue
             if int(library['imports']) < 5:
-                self.lib_page_cnt = self.lib_page_max
-                logger.info("Stop")
+                self.stop = True
+                self.logger.warning("Stop")
             if self.has_non_ascii_char(library['repo_url']):
+                self.logger.warning("ascii error")
                 continue
             if self.is_mbed_core_library(name=library['name']):
+                self.logger.warning("is core lib")
                 continue
             request = scrapy.Request(
                 self.make_mbed_url(library['repo_url']),
@@ -82,21 +93,23 @@ class MbedTerrierSpider(scrapy.Spider):
                 dont_filter=True)
             request.meta['library'] = library
             yield request
-        if self.lib_page_cnt < self.lib_page_max:
+        # if self.lib_page_cnt < self.lib_page_max:
             # Request next page of results
+        next_page = response.css('li.paginate-next').get()
+        self.logger.warning("Page: "+str(self.current_page))
+        self.logger.warning("##################################")
+        if next_page is not None and not self.stop:
             baseurl = response.url
             if 'baseurl' in response.meta:
                 baseurl = response.meta['baseurl']
-            pagenum = 1
-            if 'pagenum' in response.meta:
-                pagenum = response.meta['pagenum']
-            # self.lib_page_cnt = self.lib_page_cnt + 1
-            nextpage = pagenum + 1
+
+            self.current_page += 1
             request = scrapy.Request(
-                baseurl + ('&page=%d' % nextpage), dont_filter=True)
-            request.meta['pagenum'] = nextpage
+                baseurl + ('&page=%d' % self.current_page), dont_filter=True)
+            # request.meta['pagenum'] = self.current_page
             request.meta['baseurl'] = baseurl
             yield request
+
 
     def is_fork(self, response):
         return response.xpath(
@@ -116,10 +129,11 @@ class MbedTerrierSpider(scrapy.Spider):
     def parse_repository(self, response):
         library = response.meta['library']
         if self.is_fork(response):
-            logger.info(library['repo_url'] + ' is fork')
+            self.logger.warning(library['repo_url'] + ' is fork')
             return
         if not self.has_folders(response) and not (
                 self.get_file_extensions(response) - set(['bld', 'lib'])):
+            self.logger.warning(library['repo_url'] + ' folders and format error')
             return
         request = scrapy.Request(
             self.make_mbed_url(library['repo_url'] + "dependents"),
@@ -154,4 +168,5 @@ class MbedTerrierSpider(scrapy.Spider):
                 "frameworks":
                 "mbed"
             })
+        self.total_libs += 1
         yield library

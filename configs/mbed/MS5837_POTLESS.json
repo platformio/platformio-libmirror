@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "POTLESS",
+        "url": "https://os.mbed.com/teams/POTLESS/"
+    },
+    "description": "nouveau capteur pression ARNSRS ALFA",
+    "frameworks": "mbed",
+    "keywords": "MS5837",
+    "name": "MS5837",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/POTLESS/code/MS5837/"
+    }
+}

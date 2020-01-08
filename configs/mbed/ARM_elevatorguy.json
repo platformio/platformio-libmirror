@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Jason Garner",
+        "url": "https://os.mbed.com/users/elevatorguy/"
+    },
+    "description": "same stuff from mbed trunk (LPC17xx.h, etc.) but nothing else",
+    "examples": [
+        "https://os.mbed.com/users/elevatorguy/code/registers-example/",
+        "https://os.mbed.com/users/Nasungil/code/test/",
+        "https://os.mbed.com/users/Gallua/code/test/",
+        "https://os.mbed.com/users/Nasungil/code/Tweeting_Machine_HelloWorld_WIZwiki-W750/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ARM",
+    "name": "ARM",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/elevatorguy/code/ARM/"
+    }
+}

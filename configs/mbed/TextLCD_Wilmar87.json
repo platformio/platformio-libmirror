@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Wilmar Cr",
+        "url": "https://os.mbed.com/users/Wilmar87/"
+    },
+    "description": "A driver code library for Text LCD panels using the 4-bit HD44780 lcd display driver.",
+    "examples": [
+        "https://os.mbed.com/users/Wilmar87/code/pid-TAREA3/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "16x2",
+        "20x2",
+        "20X4",
+        "40x2",
+        "HD4478",
+        "TextLCD"
+    ],
+    "name": "TextLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Wilmar87/code/TextLCD/"
+    }
+}

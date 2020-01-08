@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Hideharu Tsunemoto",
+        "url": "https://os.mbed.com/users/H_Tsunemoto/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "mbed"
+        }
+    ],
+    "description": "LPC11U35 ADC Tick & USBSerial",
+    "examples": [
+        "https://os.mbed.com/users/H_Tsunemoto/code/SmallDoseMeter_SingleCH_AE_lpc11u35_V1_0/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SmallDoseMeter_Single_AE_LPC11U35",
+    "name": "SmallDoseMeter_Single_AE_LPC11U35",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/H_Tsunemoto/code/SmallDoseMeter_Single_AE_LPC11U35/"
+    }
+}

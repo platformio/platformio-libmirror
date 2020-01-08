@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Abdul Haseeb Khalid",
+        "url": "https://os.mbed.com/users/haseeb63/"
+    },
+    "description": "Library for Sensirion Environmental Sensor Shield for SGP30 & SHTC1",
+    "examples": [
+        "https://os.mbed.com/users/haseeb63/code/example-sensirion-ublox-c030/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Sensirion ESS",
+    "name": "Sensirion ESS",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/haseeb63/code/Sensirion-ESS/"
+    }
+}

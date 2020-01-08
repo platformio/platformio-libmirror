@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Manuel Caballero",
+        "url": "https://os.mbed.com/users/mcm/"
+    },
+    "description": "Single and Dual Zone Infra Red Thermometer",
+    "frameworks": "mbed",
+    "keywords": [
+        "driver",
+        "Infra Red",
+        "IR",
+        "library",
+        "Melexis",
+        "MLX90614",
+        "Temperature",
+        "thermometer"
+    ],
+    "name": "MLX90614",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mcm/code/MLX90614/"
+    }
+}

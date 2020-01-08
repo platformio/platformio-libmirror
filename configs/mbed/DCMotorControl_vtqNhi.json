@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Nhi vtq",
+        "url": "https://os.mbed.com/users/vtqNhi/"
+    },
+    "description": "To control motors of Arduino motor shield L293D v1",
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "Freescale",
+        "KL25z",
+        "L293D",
+        "motor",
+        "shield",
+        "Shift Register"
+    ],
+    "name": "DCMotorControl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/vtqNhi/code/DCMotorControl/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "ケンタ ミヤザキ",
+        "url": "https://os.mbed.com/users/kenken0721/"
+    },
+    "description": "kondoSerialservo krs6003rhv",
+    "examples": [
+        "https://os.mbed.com/users/kenken0721/code/quad_spider_nhk2019_04/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "kondoSerialServo",
+    "name": "kondoSerialServo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenken0721/code/kondoSerialServo/"
+    }
+}

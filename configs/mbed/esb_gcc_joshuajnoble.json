@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Joshua Noble",
+        "url": "https://os.mbed.com/users/joshuajnoble/"
+    },
+    "description": "esb gcc program",
+    "frameworks": "mbed",
+    "keywords": "esb_gcc",
+    "name": "esb_gcc",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/joshuajnoble/code/esb_gcc/"
+    }
+}

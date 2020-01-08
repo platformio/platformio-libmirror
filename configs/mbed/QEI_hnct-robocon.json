@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "hnct-robocon",
+        "url": "https://os.mbed.com/teams/hnct-robocon/"
+    },
+    "description": "Quadrature encoder interface library.",
+    "frameworks": "mbed",
+    "keywords": [
+        "Encoder",
+        "QEI",
+        "quadrature"
+    ],
+    "name": "QEI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/hnct-robocon/code/QEI/"
+    }
+}

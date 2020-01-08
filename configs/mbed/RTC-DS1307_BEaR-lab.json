@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "BE@R lab",
+        "url": "https://os.mbed.com/teams/BEaR-lab/"
+    },
+    "description": "RTC-DS1307",
+    "examples": [
+        "https://os.mbed.com/teams/BEaR-lab/code/Andante_v000/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "RTC-DS1307",
+    "name": "RTC-DS1307",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/BEaR-lab/code/RTC-DS1307/"
+    }
+}

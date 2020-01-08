@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "mi mi",
+        "url": "https://os.mbed.com/users/mimi3/"
+    },
+    "description": "For Cortex-M3,Cortex-M0, Multitask scheduler library. Arduino due compatible",
+    "examples": [
+        "https://os.mbed.com/users/mimi3/code/scheduler-demo-cq-lpc11u35/",
+        "https://os.mbed.com/users/mimi3/code/scheduler-demo/",
+        "https://os.mbed.com/users/jr1wfh/code/scheduler-demo-cq-lpc11u35/",
+        "https://os.mbed.com/users/mimi3/code/mbed-scli-test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "compatible",
+        "due",
+        "multitasking",
+        "Scheduler"
+    ],
+    "name": "Scheduler",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mimi3/code/Scheduler/"
+    }
+}

@@ -3,6 +3,23 @@
         "name": "Donatien Garnier",
         "url": "https://os.mbed.com/users/donatien/"
     },
+    "build": {
+        "flags": [
+            "-Iarch",
+            "-Isrc",
+            "-Isrc/core",
+            "-Isrc/core/ipv4",
+            "-Isrc/core/snmp",
+            "-Isrc/include",
+            "-Isrc/include/lwip",
+            "-Isrc/include/ipv4",
+            "-Isrc/include/ipv4/lwip",
+            "-Isrc/include/netif",
+            "-Isrc/api",
+            "-Isrc/netif",
+            "-Isrc/netif/ppp"
+        ]
+    },
     "description": "LwIP with PPP & Ethernet integration",
     "examples": [
         "https://os.mbed.com/users/donatien/code/NetworkingCoreLib/"

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "name": "Display Module",
+        "url": "https://os.mbed.com/users/displaymodule/"
+    },
+    "dependencies": [
+        {
+            "authors": "mbed official",
+            "frameworks": "mbed",
+            "name": "FATFileSystem"
+        }
+    ],
+    "description": "Made the initialize function try up to three times to get the card in IDLE state before giving up. This fixes the issue with f_open failing the first time after ...",
+    "examples": [
+        "https://os.mbed.com/users/displaymodule/code/dm_sdcard_with_adapter/",
+        "https://os.mbed.com/users/displaymodule/code/dm_sdcard/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SDFileSystem",
+    "name": "SDFileSystem",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/displaymodule/code/SDFileSystem/"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Jérôme DELAIRE",
+        "url": "https://os.mbed.com/users/delairejerome/"
+    },
+    "description": "Thanks to simon For his LCD Driver program",
+    "frameworks": "mbed",
+    "keywords": [
+        "DOGM162E-A",
+        "LCD"
+    ],
+    "name": "DOGM162E-A",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/delairejerome/code/DOGM162E-A/"
+    }
+}

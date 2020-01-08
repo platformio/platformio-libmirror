@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "ST Expansion SW Team",
+        "url": "https://os.mbed.com/teams/ST-Expansion-SW-Team/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "VL53L1X_mbed"
+        }
+    ],
+    "description": "X_Nucleo_53L1A1 Expansion Board Class for VL53L1X Sensor.",
+    "examples": [
+        "https://os.mbed.com/teams/ST-Expansion-SW-Team/code/HelloWorld_53L1A1_Interrupts/",
+        "https://os.mbed.com/teams/ST-Expansion-SW-Team/code/53L1A1_Satellites_MbedOS/",
+        "https://os.mbed.com/teams/ST-Expansion-SW-Team/code/53L1A1_Interrupts_MbedOS/",
+        "https://os.mbed.com/teams/ST-Expansion-SW-Team/code/53L1A1_Polling_All_MbedOS/",
+        "https://os.mbed.com/teams/ST-Expansion-SW-Team/code/53L1A1_Satellite_Interrupt_MbedOS/",
+        "https://os.mbed.com/teams/ST-Expansion-SW-Team/code/HelloWorld_53L1A1_Satellites_Interrupt/",
+        "https://os.mbed.com/teams/ST-Expansion-SW-Team/code/HelloWorld_53L1A1_Satellites/",
+        "https://os.mbed.com/teams/ST-Expansion-SW-Team/code/HelloWorld_53L1A1_Polling_All/",
+        "https://os.mbed.com/teams/ST-Expansion-SW-Team/code/HelloWorld_VL53L1X_Simple_Ranging/",
+        "https://os.mbed.com/teams/ST-Expansion-SW-Team/code/HelloWorld_VL53L1X_StandAlone_Satellite/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "X_NUCLEO_53L1A1_mbed",
+    "name": "X_NUCLEO_53L1A1_mbed",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST-Expansion-SW-Team/code/X_NUCLEO_53L1A1_mbed/"
+    }
+}

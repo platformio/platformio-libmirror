@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Oxford CWM Team",
+        "url": "https://os.mbed.com/teams/Oxford-CWM-Team/"
+    },
+    "description": "A library to operate the ESP8266",
+    "examples": [
+        "https://os.mbed.com/users/epgmdm/code/ESP8266_MDM_LIB/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ESP8266",
+    "name": "ESP8266_MDM_LIB",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Oxford-CWM-Team/code/ESP8266_MDM_LIB/"
+    }
+}

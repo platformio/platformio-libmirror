@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Yifei Teng",
+        "url": "https://os.mbed.com/users/tyftyftyf/"
+    },
+    "description": "A quick adaptation of a library made for Arduino by Fabio Varesano Interface a Honeywell HMC58X3 magnetometer to a mbed via i2c.",
+    "examples": [
+        "https://os.mbed.com/users/joe4465/code/FreeIMU/",
+        "https://os.mbed.com/users/tyftyftyf/code/FreeIMU/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "HMC58X3",
+    "name": "HMC58X3",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tyftyftyf/code/HMC58X3/"
+    }
+}

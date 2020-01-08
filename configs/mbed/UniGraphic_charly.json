@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Karl Zweimüller",
+        "url": "https://os.mbed.com/users/charly/"
+    },
+    "description": "UniGraphic-Fork for ST7920-LCD-controller and SH1106. Tested with 128x64 LCD with SPI and 128x64-OLED with IIC",
+    "examples": [
+        "https://os.mbed.com/users/charly/code/UniGraphic-St7920-Test/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "SH1106",
+        "ST7920",
+        "UniGraphic"
+    ],
+    "name": "UniGraphic",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/charly/code/UniGraphic/"
+    }
+}

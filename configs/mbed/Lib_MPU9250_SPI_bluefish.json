@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Shimon AJISAKA",
+        "url": "https://os.mbed.com/users/bluefish/"
+    },
+    "description": "mbed library for MPU9250 (SPI interface)",
+    "examples": [
+        "https://os.mbed.com/users/bluefish/code/InvertedPendulum2017/",
+        "https://os.mbed.com/users/Olympus64/code/mpu9250serialcommunicationVer2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "Lib_MPU9250_SPI",
+    "name": "Lib_MPU9250_SPI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bluefish/code/Lib_MPU9250_SPI/"
+    }
+}

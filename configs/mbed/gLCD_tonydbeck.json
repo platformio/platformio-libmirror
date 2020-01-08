@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Tony Beck",
+        "url": "https://os.mbed.com/users/tonydbeck/"
+    },
+    "dependencies": [
+        {
+            "authors": "Peter Drescher",
+            "frameworks": "mbed",
+            "name": "LCD_fonts"
+        }
+    ],
+    "description": "64x128 Graphic LCD Library",
+    "frameworks": "mbed",
+    "keywords": "gLCD",
+    "name": "gLCD",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/tonydbeck/code/gLCD/"
+    }
+}

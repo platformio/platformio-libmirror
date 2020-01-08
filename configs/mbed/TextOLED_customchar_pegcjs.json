@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "chris stevens",
+        "url": "https://os.mbed.com/users/pegcjs/"
+    },
+    "description": "mbed TextOLED Library, for a 4-bit LCD based on Winstar WEH000000 series Originl: http://mbed.org/users/simon/libraries/TextLCD/latest 共立電子 デジット の OLEDモジュール 4bitモード用 adapted 12/3/2013 by CJS to make custom character defintions possible",
+    "frameworks": "mbed",
+    "keywords": [
+        "OLED",
+        "TextLCD",
+        "WEH000802",
+        "WEH001602",
+        "Winstar"
+    ],
+    "name": "TextOLED_customchar",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/pegcjs/code/TextOLED_customchar/"
+    }
+}

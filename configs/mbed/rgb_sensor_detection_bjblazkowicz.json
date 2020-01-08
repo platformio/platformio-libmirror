@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "name": "Chris Paola",
+        "url": "https://os.mbed.com/users/bjblazkowicz/"
+    },
+    "dependencies": [
+        {
+            "authors": "Milosch Meriac",
+            "frameworks": "mbed",
+            "name": "rgb_sensor_buffer"
+        }
+    ],
+    "description": "Colour binning for Nespresso capsules using rgb_sensor (RGB LED & Photo Diode) - to detect flavour based on colour",
+    "examples": [
+        "https://os.mbed.com/users/bjblazkowicz/code/coffee_capsule_detection/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "rgb_sensor_detection",
+    "name": "rgb_sensor_detection",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/bjblazkowicz/code/rgb_sensor_detection/"
+    }
+}

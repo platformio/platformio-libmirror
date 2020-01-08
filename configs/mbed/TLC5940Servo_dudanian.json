@@ -1,0 +1,28 @@
+{
+    "authors": {
+        "name": "Andrew Duda",
+        "url": "https://os.mbed.com/users/dudanian/"
+    },
+    "dependencies": [
+        {
+            "authors": "Erik Olieman",
+            "frameworks": "mbed",
+            "name": "FastPWM"
+        }
+    ],
+    "description": "Library for using the TLC5940 as a servo controller.",
+    "examples": [
+        "https://os.mbed.com/users/dudanian/code/TLC5940ServoTest/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "Servo",
+        "tlc5940"
+    ],
+    "name": "TLC5940Servo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dudanian/code/TLC5940Servo/"
+    }
+}

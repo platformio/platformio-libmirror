@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Christian Weiß",
+        "url": "https://os.mbed.com/users/Wizo/"
+    },
+    "description": "LaufLicht",
+    "examples": [
+        "https://os.mbed.com/users/Wizo/code/TINF_LaufLicht/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "LaufLicht",
+    "name": "LaufLicht",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Wizo/code/LaufLicht/"
+    }
+}

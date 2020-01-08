@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Alexander Medvedev",
+        "url": "https://os.mbed.com/users/medvdv/"
+    },
+    "description": "Lightweight proportional text library for C12832 LCD. Easy to modify, fast, robust and compact. Nice font, good for text driven menus, messages, etc. Fell free to use and modify in ...",
+    "examples": [
+        "https://os.mbed.com/users/medvdv/code/app-board-lcd128/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "application board",
+        "C12832",
+        "LCD"
+    ],
+    "name": "lcd128lib",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/medvdv/code/lcd128lib/"
+    }
+}

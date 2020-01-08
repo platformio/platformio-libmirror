@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "BERTL_CHEL18",
+        "url": "https://os.mbed.com/teams/BERTL_CHEL_18/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "HCSR"
+        }
+    ],
+    "description": "Class Bertl added",
+    "examples": [
+        "https://os.mbed.com/users/vhaas/code/BERTL_ButtonLeds/",
+        "https://os.mbed.com/users/Pouter123/code/Bertl_Arbeit/",
+        "https://os.mbed.com/users/matthiasdorudi/code/FollowLine/",
+        "https://os.mbed.com/users/Markus_Watko/code/SerialPC/",
+        "https://os.mbed.com/users/Jannis/code/WasZumReinschreiben/",
+        "https://os.mbed.com/users/vhaas/code/BERTL_BackToStart/",
+        "https://os.mbed.com/users/mpickl/code/Bertl_uebungen/",
+        "https://os.mbed.com/users/fritzhausmann/code/Bertl_ZurueckAnDenStart/",
+        "https://os.mbed.com/users/Markus_Watko/code/CntWayHome/",
+        "https://os.mbed.com/users/feldgrill1/code/BeeperCounter/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "ur_Bertl",
+    "name": "ur_Bertl",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/BERTL_CHEL_18/code/ur_Bertl/"
+    }
+}

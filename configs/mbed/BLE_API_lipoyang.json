@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Bizan Nishimura",
+        "url": "https://os.mbed.com/users/lipoyang/"
+    },
+    "description": "最新revisionだとなんかerrorになるので、暫定的に rev 111にrevert。ごめんなさい。こういうときどういうふうにcommitすればいいのか分からなかったので。",
+    "examples": [
+        "https://os.mbed.com/users/lipoyang/code/MiniSteer_BLE/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "BLE_API",
+    "name": "BLE_API",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/lipoyang/code/BLE_API/"
+    }
+}

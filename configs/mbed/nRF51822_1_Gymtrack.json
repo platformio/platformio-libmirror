@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Gymtrack",
+        "url": "https://os.mbed.com/teams/Gymtrack/"
+    },
+    "description": "SG RFID nRF51822 fork",
+    "frameworks": "mbed",
+    "keywords": "nRF51822_1",
+    "name": "nRF51822_1",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Gymtrack/code/nRF51822_1/"
+    }
+}

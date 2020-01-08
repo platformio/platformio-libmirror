@@ -13,8 +13,9 @@ BOT_NAME = 'mbedtop'
 
 SPIDER_MODULES = ['mbedtop.spiders']
 NEWSPIDER_MODULE = 'mbedtop.spiders'
-
-
+LOG_LEVEL = "WARNING"
+LOG_STDOUT = True
+LOG_FILE = 'scrapy_output.txt'
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'mbedtop (+http://www.yourdomain.com)'
 
@@ -22,8 +23,8 @@ NEWSPIDER_MODULE = 'mbedtop.spiders'
 ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
-#CONCURRENT_REQUESTS = 32
-
+# CONCURRENT_REQUESTS = 8
+# CONCURRENT_ITEMS = 1
 # Configure a delay for requests for the same website (default: 0)
 # See https://doc.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs

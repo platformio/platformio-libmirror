@@ -1,0 +1,31 @@
+{
+    "authors": {
+        "name": "Kenji Arai",
+        "url": "https://os.mbed.com/users/kenjiArai/"
+    },
+    "description": "LIS3DH / STMicroelectronics / MEMS motion sensor, 3-axis accelerometer library",
+    "examples": [
+        "https://os.mbed.com/users/kenjiArai/code/GR-PEACH_test_wo_rtos/",
+        "https://os.mbed.com/users/kenjiArai/code/GR-PEACH_test_on_rtos_works_well/",
+        "https://os.mbed.com/users/kylerodgers/code/Skywire_Demo_3/",
+        "https://os.mbed.com/teams/Nimbelink/code/Skywire_Kinetis_K64_demo/",
+        "https://os.mbed.com/users/kenjiArai/code/Check_new_LIS3DH_lib/",
+        "https://os.mbed.com/users/longdh/code/VNG_BLE_Basic/",
+        "https://os.mbed.com/teams/Nimbelink/code/Skywire_Demo/",
+        "https://os.mbed.com/users/kenjiArai/code/BLE_EddystoneBeacon_w_ACC_TY51822/",
+        "https://os.mbed.com/teams/IDD-Summer-2017/code/test/",
+        "https://os.mbed.com/users/vasilyvs/code/Skywire_Demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "accelerometer",
+        "I2C",
+        "LIS3DH"
+    ],
+    "name": "LIS3DH",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/kenjiArai/code/LIS3DH/"
+    }
+}

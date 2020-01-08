@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "name": "Pete Skeggs",
+        "url": "https://os.mbed.com/users/plskeggs/"
+    },
+    "description": "This includes all known improvements from other people's spins on the Nokia library, including Alistair Popple's fix to the very poor contrast on newer LCD 6100 displays.",
+    "frameworks": "mbed",
+    "keywords": [
+        "6100",
+        "6610",
+        "mobileLCD",
+        "NokiaLCD",
+        "Olimex",
+        "PCF8833",
+        "sparkfun"
+    ],
+    "name": "NokiaLCDex",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/plskeggs/code/NokiaLCDex/"
+    }
+}

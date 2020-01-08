@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Mark Randall",
+        "url": "https://os.mbed.com/users/mr63/"
+    },
+    "description": "4-Line LCD Text Display. This is a simple library that can be used to print a formatted string on a 2 or 4 line Hitachi parallel display. By calling a ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "LCD",
+        "LCD 16x2",
+        "Parallel LCD"
+    ],
+    "name": "LCD TextDisplay",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mr63/code/LCD-TextDisplay/"
+    }
+}

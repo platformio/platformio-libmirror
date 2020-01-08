@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Masato YAMANISHI",
+        "url": "https://os.mbed.com/users/masato/"
+    },
+    "description": "derived from Aidafruit SSD1306 library",
+    "examples": [
+        "https://os.mbed.com/users/masato/code/Test_SSD1306/",
+        "https://os.mbed.com/users/charlesfhda/code/L152RE_OLED_SSD1306/",
+        "https://os.mbed.com/teams/Polytech_TP_EES_M3PI/code/Test_SSD1306_v2/",
+        "https://os.mbed.com/teams/ZumoPolytech/code/EcranZumo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "SSD1306",
+    "name": "SSD1306",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/masato/code/SSD1306/"
+    }
+}

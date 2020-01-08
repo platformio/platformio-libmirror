@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "name": "Rainer Krugmann",
+        "url": "https://os.mbed.com/users/Krugmann/"
+    },
+    "description": "VT52 is an enhancement of class Serial and offers some Methods for Printing in VT52 Terminal Style: clearScreen() - to clear the whole Terminal Screen clearLine() - to clear the ...",
+    "frameworks": "mbed",
+    "keywords": [
+        "Serial",
+        "Terminal",
+        "VT100",
+        "VT200",
+        "VT52"
+    ],
+    "name": "VT52",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Krugmann/code/VT52/"
+    }
+}

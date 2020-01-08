@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Michael Ammann",
+        "url": "https://os.mbed.com/users/mazgch/"
+    },
+    "dependencies": [
+        {
+            "authors": "Michael Ammann",
+            "frameworks": "mbed",
+            "name": "SPI_TFT_ILI9341"
+        }
+    ],
+    "description": "Library for SeeedStudioTFTv2 2.8 Zoll 240x360 pixel touch SD card",
+    "examples": [
+        "https://os.mbed.com/users/neilt6/code/SeeedStudioTFTv2_HelloWorld/",
+        "https://os.mbed.com/users/k4zuki/code/SeeedTouchLCD/",
+        "https://os.mbed.com/teams/Seeed/code/Seeed_TFT_Touch_Shield_v2_HelloWorld/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "arduino",
+        "SDCard",
+        "Seeedstudio",
+        "TFT",
+        "touch"
+    ],
+    "name": "SeeedStudioTFTv2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/mazgch/code/SeeedStudioTFTv2/"
+    }
+}

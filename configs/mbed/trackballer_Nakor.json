@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "name": "Aaron Goselin",
+        "url": "https://os.mbed.com/users/Nakor/"
+    },
+    "description": "Control library for the Sparkfun Entertainment Trackballer breakout board.",
+    "frameworks": "mbed",
+    "keywords": [
+        "BUTTON",
+        "effect",
+        "hall",
+        "led",
+        "sensor",
+        "SFE",
+        "sparkfun",
+        "trackball"
+    ],
+    "name": "trackballer",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Nakor/code/trackballer/"
+    }
+}

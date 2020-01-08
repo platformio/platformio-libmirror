@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Carlos Gomez",
+        "url": "https://os.mbed.com/users/Carlos_Gomez/"
+    },
+    "description": "Librería LCD Nokia 1100,1108",
+    "frameworks": "mbed",
+    "keywords": "lcd1100",
+    "name": "lcd1100",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Carlos_Gomez/code/lcd1100/"
+    }
+}

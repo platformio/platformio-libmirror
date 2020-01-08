@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Kevin Braun",
+        "url": "https://os.mbed.com/users/loopsva/"
+    },
+    "description": "Watchdog timer for the LPC4088",
+    "frameworks": "mbed",
+    "keywords": [
+        "LPC4088",
+        "watchdog",
+        "WDT"
+    ],
+    "name": "WDT4088",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/loopsva/code/WDT4088/"
+    }
+}

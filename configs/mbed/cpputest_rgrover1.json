@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Rohit Grover",
+        "url": "https://os.mbed.com/users/rgrover1/"
+    },
+    "description": "Unit Testing framework based on http://cpputest.github.io/",
+    "frameworks": "mbed",
+    "keywords": "cpputest",
+    "name": "cpputest",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rgrover1/code/cpputest/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "authors": {
+        "name": "Satoshi Togawa",
+        "url": "https://os.mbed.com/users/togayan/"
+    },
+    "description": "Debaunced Input like InterruptIn.",
+    "examples": [
+        "https://os.mbed.com/users/togayan/code/LcdClock/",
+        "https://os.mbed.com/teams/Interactive-Device-Design/code/idd_hw2_martincowell_bicyclehid/",
+        "https://os.mbed.com/teams/IDD-Fall-2015/code/IDD_FALL15_HW2_JMARQUIS_Keypadentry/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "DebouncedEdgeIn",
+    "name": "DebouncedEdgeIn",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/togayan/code/DebouncedEdgeIn/"
+    }
+}

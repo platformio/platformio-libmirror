@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Daiki Kato",
+        "url": "https://os.mbed.com/users/dkato/"
+    },
+    "description": "FTP client library for mbed-os",
+    "frameworks": "mbed",
+    "keywords": "FTP",
+    "name": "ftp-client",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/dkato/code/ftp-client/"
+    }
+}

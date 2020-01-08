@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "name": "Bernard Remond",
+        "url": "https://os.mbed.com/users/nbremond/"
+    },
+    "description": "This provides a basic Watchdog service, and includes a startup detection to determine if the reset was caused by the WD. Add support for Nucleo board",
+    "examples": [
+        "https://os.mbed.com/teams/Affordable-Smart-Wheelchair/code/wheelchaircontrolrealtime2/",
+        "https://os.mbed.com/teams/Affordable-Smart-Wheelchair/code/wheelchaircontrolrealRosCom/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "watchdog",
+    "name": "Watchdog",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/nbremond/code/Watchdog/"
+    }
+}

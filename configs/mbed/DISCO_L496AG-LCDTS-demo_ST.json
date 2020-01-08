@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "LCD Touch Screen demo using ST BSP driver.",
+    "frameworks": "mbed",
+    "keywords": "DISCO_L496AG-LCDTS-demo",
+    "name": "DISCO_L496AG-LCDTS-demo",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/DISCO_L496AG-LCDTS-demo/"
+    }
+}

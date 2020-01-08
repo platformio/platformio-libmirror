@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "name": "Ant Robinson",
+        "url": "https://os.mbed.com/users/antseggs/"
+    },
+    "build": {
+        "flags": [
+            "-IX_NUCLEO_IKS01A1-f255a2c75ecb",
+            "-IX_NUCLEO_IKS01A1-f255a2c75ecb/Components",
+            "-IX_NUCLEO_IKS01A1-f255a2c75ecb/Components/lsm6ds3",
+            "-IX_NUCLEO_IKS01A1-f255a2c75ecb/Components/lis3mdl",
+            "-IX_NUCLEO_IKS01A1-f255a2c75ecb/Components/Common",
+            "-IX_NUCLEO_IKS01A1-f255a2c75ecb/Components/lps25h",
+            "-IX_NUCLEO_IKS01A1-f255a2c75ecb/Components/Interfaces",
+            "-IX_NUCLEO_IKS01A1-f255a2c75ecb/Components/hts221",
+            "-IX_NUCLEO_IKS01A1-f255a2c75ecb/Components/lsm6ds0"
+        ]
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "X_NUCLEO_COMMON"
+        }
+    ],
+    "description": "Board lib",
+    "examples": [
+        "https://os.mbed.com/users/nlsantos/code/trabalho/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "X_NUCLEO_IKS01A1-f255a2c75ecb",
+    "name": "X_NUCLEO_IKS01A1-f255a2c75ecb",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/antseggs/code/X_NUCLEO_IKS01A1-f255a2c75ecb/"
+    }
+}

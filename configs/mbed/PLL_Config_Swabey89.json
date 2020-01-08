@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "Mathew Swabey",
+        "url": "https://os.mbed.com/users/Swabey89/"
+    },
+    "description": "Setup for higher clock frequency",
+    "examples": [
+        "https://os.mbed.com/users/Swabey89/code/ELEC350_Project2/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "PLL_Config",
+    "name": "PLL_Config",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/Swabey89/code/PLL_Config/"
+    }
+}

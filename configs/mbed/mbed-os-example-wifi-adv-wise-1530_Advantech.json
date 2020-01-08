@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Advantech",
+        "url": "https://os.mbed.com/teams/Advantech/"
+    },
+    "description": "simple wifi test program. Will connect to an HTTP server for testing.",
+    "frameworks": "mbed",
+    "keywords": "mbed-os-example-wifi-adv-wise-1530",
+    "name": "mbed-os-example-wifi-adv-wise-1530",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/Advantech/code/mbed-os-example-wifi-adv-wise-1530/"
+    }
+}

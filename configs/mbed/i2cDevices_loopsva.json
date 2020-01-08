@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "Kevin Braun",
+        "url": "https://os.mbed.com/users/loopsva/"
+    },
+    "description": "I2C discovery routine",
+    "frameworks": "mbed",
+    "keywords": "I2C",
+    "name": "i2cDevices",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/loopsva/code/i2cDevices/"
+    }
+}

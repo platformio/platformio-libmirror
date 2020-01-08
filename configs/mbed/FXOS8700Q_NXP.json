@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "name": "NXP",
+        "url": "https://os.mbed.com/teams/NXP/"
+    },
+    "dependencies": [
+        {
+            "authors": "",
+            "frameworks": "mbed",
+            "name": "MotionSensor"
+        }
+    ],
+    "description": "Driver library for the Freescale FXOS8700Q sensor",
+    "examples": [
+        "https://os.mbed.com/teams/ELEC2645-201516/code/el14dg_Project/",
+        "https://os.mbed.com/users/azazeal88/code/frdm_serial_peopleAndComputing/",
+        "https://os.mbed.com/users/MACRUM/code/simple-client-app-shield/",
+        "https://os.mbed.com/teams/NXP/code/pelion-example-frdm/",
+        "https://os.mbed.com/users/hkjung/code/BG96_K6xF_pelion-example-frdm/",
+        "https://os.mbed.com/users/taminhhien/code/pelion-example-frdm/",
+        "https://os.mbed.com/users/MACRUM/code/k64f-mag-example/",
+        "https://os.mbed.com/users/maygup01/code/pelion-example-frdm/",
+        "https://os.mbed.com/teams/Pfp-Cybersecurity-Aka-Power-Fingerprinti/code/pfp-emon-nxp/",
+        "https://os.mbed.com/users/MACRUM/code/k64f-acc-example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "FXOS8700Q",
+    "name": "FXOS8700Q",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/NXP/code/FXOS8700Q/"
+    }
+}

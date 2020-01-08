@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "name": "ST",
+        "url": "https://os.mbed.com/teams/ST/"
+    },
+    "description": "This class drives the LCD display present on the DISCO_F429ZI board.",
+    "examples": [
+        "https://os.mbed.com/users/icis4/code/DISCO-F429ZI_ExportTemplate1/",
+        "https://os.mbed.com/users/auditlog/code/DISCO-F429ZI_LCDTS_and_GYRO_test/",
+        "https://os.mbed.com/users/Dom952/code/2a/",
+        "https://os.mbed.com/users/Dom952/code/2b/",
+        "https://os.mbed.com/users/Dom952/code/2c/",
+        "https://os.mbed.com/users/Dom952/code/2d1/",
+        "https://os.mbed.com/users/Dom952/code/2d2/",
+        "https://os.mbed.com/users/crystal/code/DISCO-F429ZI_LCD_demo/",
+        "https://os.mbed.com/users/Happy111/code/MPOA_GPS/",
+        "https://os.mbed.com/users/stefanXY/code/DISCO-F429ZI_LCD_demo/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "DISCO_F429ZI",
+        "LCD"
+    ],
+    "name": "LCD_DISCO_F429ZI",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/teams/ST/code/LCD_DISCO_F429ZI/"
+    }
+}

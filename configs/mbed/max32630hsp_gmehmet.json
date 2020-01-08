@@ -1,0 +1,15 @@
+{
+    "authors": {
+        "name": "mehmet gok",
+        "url": "https://os.mbed.com/users/gmehmet/"
+    },
+    "description": "max32630 icarus board support library",
+    "frameworks": "mbed",
+    "keywords": "max32630hsp",
+    "name": "max32630hsp",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gmehmet/code/max32630hsp/"
+    }
+}

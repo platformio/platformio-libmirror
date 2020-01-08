@@ -1,0 +1,18 @@
+{
+    "authors": {
+        "name": "David Smart",
+        "url": "https://os.mbed.com/users/WiredHome/"
+    },
+    "description": "CAN Queue mechanism permitting creation and management of CAN messages through a queueing",
+    "frameworks": "mbed",
+    "keywords": [
+        "CAN",
+        "Queue"
+    ],
+    "name": "CANQueue",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/WiredHome/code/CANQueue/"
+    }
+}

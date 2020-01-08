@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "name": "jim hamblen",
+        "url": "https://os.mbed.com/users/4180_1/"
+    },
+    "description": "A version of the mbed waveplayer, but setup for the mbed application board PWM speaker and audio out jack",
+    "examples": [
+        "https://os.mbed.com/users/4180_1/code/AppBoard_Waveplayer/",
+        "https://os.mbed.com/users/riteway66/code/mbed_blinky/",
+        "https://os.mbed.com/users/4180_1/code/LED_effects_w_sound/",
+        "https://os.mbed.com/users/wschon/code/ECE4180Lab3_RTOS/",
+        "https://os.mbed.com/users/laxman7117/code/Pokemon_Battl_Game/",
+        "https://os.mbed.com/users/taylornichols/code/StrikerShootout/",
+        "https://os.mbed.com/users/deathernater/code/ECE4180Lab4/",
+        "https://os.mbed.com/users/pkoirala3/code/ECE4180Lab3_rtos_Bluetooth/",
+        "https://os.mbed.com/users/abraha2d/code/4180Lab3-3/",
+        "https://os.mbed.com/users/abraha2d/code/4180Lab3-4/"
+    ],
+    "frameworks": "mbed",
+    "keywords": "wave_player_appbd",
+    "name": "wave_player_appbd",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/4180_1/code/wave_player_appbd/"
+    }
+}
