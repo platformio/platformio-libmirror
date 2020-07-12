@@ -15,10 +15,10 @@
     "include": "RadioHead",
     "exclude":
     [
-      "RadioHead/doc",
-      "RadioHead/project.cfg",
-      "RadioHead/STM32ArduinoCompat",
-      "RadioHead/tools"
+      "doc",
+      "project.cfg",
+      "STM32ArduinoCompat",
+      "tools"
     ]
   },
   "frameworks": "arduino",
